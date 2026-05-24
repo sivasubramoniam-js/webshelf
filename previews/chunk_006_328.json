@@ -1,0 +1,332 @@
+[
+    {
+        "link": "https://realnetmg.com.br",
+        "Heading": "Central do Assinante",
+        "Abstract": null,
+        "Official Site": "https://realnetmg.com.br",
+        "Icon": "data:image/png;base64,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",
+        "Redirect": "https://realnetmg.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://realnetmg.com.br"
+    },
+    {
+        "link": "https://hostivon.com",
+        "Heading": "Hostivon | T\u00fcrkiye'nin Y\u00fckselen Servis Sa\u011flay\u0131c\u0131s\u0131",
+        "Abstract": "G\u00fcvenilir web hosting ve VDS sunucu hizmetlerimizle dijital projelerinizi h\u0131zl\u0131, g\u00fcvenli ve kesintisiz \u015fekilde y\u00f6netin. Kolay sipari\u015f, 7/24 teknik destek ve uygun fiyat avantajlar\u0131yla ihtiya\u00e7lar\u0131n\u0131za \u00f6zel \u00e7\u00f6z\u00fcmler sunuyoruz.",
+        "Official Site": "https://www.hostivon.com",
+        "Icon": "https://www.hostivon.com/resources/uploads/logo/favicon.png",
+        "Redirect": "https://www.hostivon.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hostivon.com"
+    },
+    {
+        "link": "https://healthyeating.org",
+        "Heading": "\n\tDairy Council of California's Homepage\n",
+        "Abstract": "Dairy Council of California is a leading nutrition organization working in collaboration to elevate the health of children and communities through fostering lifelong healthy eating patterns. Focusing on education and advocacy, dairy ag literacy and partnerships, we advance the health benefits of milk and dairy foods in achieving nutrition security and sustainable food systems.",
+        "Official Site": "https://healthyeating.org",
+        "Icon": "https://dairycouncilofca.org/Content/images/dcc-og-image.png",
+        "Redirect": "https://healthyeating.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://healthyeating.org"
+    },
+    {
+        "link": "https://b2ctelecom.nl",
+        "Heading": "\n      B2C Telecom: Design Telefoonhoesjes met Eigen Foto of Tekst\n \u2013 B2ctelecom",
+        "Abstract": "Cre\u00eber unieke telefoon-/tablethoezen met hoogwaardige bedrukking. Personaliseer nu met eigen foto of tekst en bestel eenvoudig bij B2C Telecom.",
+        "Official Site": "https://b2ctelecom.nl/",
+        "Icon": "//b2ctelecom.nl/cdn/shop/files/logo-b2c-inner-shadow.png?crop=center&height=32&v=1732982521&width=32",
+        "Redirect": "https://b2ctelecom.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://b2ctelecom.nl/"
+    },
+    {
+        "link": "https://contactatonce.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://contactatonce.com",
+        "Icon": "N/A",
+        "Redirect": "https://contactatonce.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://contactatonce.com"
+    },
+    {
+        "link": "https://raxik.com",
+        "Heading": "\u0418\u0433\u0440\u044b 2025 \u0442\u043e\u0440\u0440\u0435\u043d\u0442 \u0438 \u0441\u043e\u0444\u0442",
+        "Abstract": "\u0418\u0433\u0440\u044b 2025 \u0442\u043e\u0440\u0440\u0435\u043d\u0442 \u0438 \u0441\u043e\u0444\u0442",
+        "Official Site": "https://raxik.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://raxik.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://raxik.com"
+    },
+    {
+        "link": "https://g7empresarial.com.br",
+        "Heading": "Suporte - Seven",
+        "Abstract": null,
+        "Official Site": "https://g7empresarial.com.br",
+        "Icon": "N/A",
+        "Redirect": "https://g7empresarial.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://g7empresarial.com.br"
+    },
+    {
+        "link": "https://otpip.hu",
+        "Heading": "OTP Ingatlanpont - F\u0151oldal",
+        "Abstract": null,
+        "Official Site": "https://www.otpip.hu/fooldal",
+        "Icon": "https://www.otpip.hu/static/sw/pic/g/l/hero_fooldal_V4/hero_767x600.jpg",
+        "Redirect": "https://www.otpip.hu/fooldal",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.otpip.hu/fooldal"
+    },
+    {
+        "link": "https://qawggwk.com",
+        "Heading": "qawggwk.com",
+        "Abstract": null,
+        "Official Site": "https://qawggwk.com",
+        "Icon": "N/A",
+        "Redirect": "https://qawggwk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://qawggwk.com"
+    },
+    {
+        "link": "https://qofs.gr",
+        "Heading": "\u039a\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae & \u03a5\u03c0\u03bf\u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7\u03c2 WordPress & WooCommerce Websites",
+        "Abstract": "\u039a\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae website, \u039a\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae e-shop, \u03a5\u03c0\u03bf\u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7 WordPress & WooCommerce, \u03a5\u03c0\u03bf\u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7 \u0399\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03c9\u03bd, Cloud Computing, Hosting \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1",
+        "Official Site": "https://www.qofs.gr/",
+        "Icon": "https://www.qofs.gr/wp-content/uploads/2023/12/facebook-cover.jpg",
+        "Redirect": "https://www.qofs.gr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.qofs.gr/"
+    },
+    {
+        "link": "https://gardnerswisconsincheese.com",
+        "Heading": "\n      Gardner's Wisconsin Cheese and Sausage Artisan Cheeses and Meats\n\n        \u2013 Gardners Wisconsin Cheese and Sausage",
+        "Abstract": "Our small, family-owned cheese and sausage factory has been in operation for over 40 years, while the dairy side of the family business has been in our family for over 100 years. For four years in a row now, our dairy has been ranked #1 in the country for \u201cBest-Tasting Cheese.\u201d",
+        "Official Site": "https://www.gardnerswisconsincheese.com/",
+        "Icon": "http://www.gardnerswisconsincheese.com/cdn/shop/files/JalapenoSlate1.jpg?v=1704837609",
+        "Redirect": "https://www.gardnerswisconsincheese.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gardnerswisconsincheese.com/"
+    },
+    {
+        "link": "https://bitlordsearch.com",
+        "Heading": "Top List - BitLord Power Search",
+        "Abstract": "BitLord Search Project",
+        "Official Site": "https://bitlordsearch.com",
+        "Icon": "favicon-32x32.png",
+        "Redirect": "https://bitlordsearch.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bitlordsearch.com"
+    },
+    {
+        "link": "https://umhoops.com",
+        "Heading": "UM Hoops.com | Michigan Basketball News, Recruiting and Analysis",
+        "Abstract": "Michigan Wolverines Basketball Recruiting, News & Video",
+        "Official Site": "https://umhoops.com/",
+        "Icon": "http://www.umhoops.com/wp-content/themes/thesis_18/custom/images/umhoops_logo.png",
+        "Redirect": "https://umhoops.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://umhoops.com/"
+    },
+    {
+        "link": "https://novaspinhouse.com",
+        "Heading": "Nova Spin House: Latest Tech Innovations and Gadget Reviews",
+        "Abstract": "Explore cutting-edge technology, gadget reviews, and tech innovations at Nova Spin House. Stay updated with the latest trends in electronics and digital lifestyle.",
+        "Official Site": "https://novaspinhouse.com",
+        "Icon": "https://usc1.contabostorage.com/83226f3934d449eb8c821d388b39f7b1:nextbacklinks/favicon/favicons/KEITHSTON_34_h7ivsl6_mvAB3lI_TASt9eD.png",
+        "Redirect": "https://novaspinhouse.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://novaspinhouse.com"
+    },
+    {
+        "link": "https://hakobus.co.jp",
+        "Heading": "\u51fd\u9928\u30d0\u30b9\u682a\u5f0f\u4f1a\u793e",
+        "Abstract": "\u51fd\u9928\u30d0\u30b9\u682a\u5f0f\u4f1a\u793e\u306eTOP\u30da\u30fc\u30b8\u3002\u6642\u523b\u8868\u30fb\u30d0\u30b9\u505c\u306e\u4f4d\u7f6e\u30fb\u8def\u7dda\u56f3\uff08\u7cfb\u7d71\u56f3\uff09\u3001\u6599\u91d1\u8868\u306e\u60c5\u5831\u3002\u8def\u7dda\u30d0\u30b9\u3084\u5b9a\u671f\u51fd\u9928\u89b3\u5149\u30d0\u30b9\u306a\u3069\u69d8\u3005\u306a\u60c5\u5831\u3092\u3054\u89a7\u3044\u305f\u3060\u3051\u307e\u3059\u3002",
+        "Official Site": "https://hakobus.co.jp/",
+        "Icon": "https://hakobus.co.jp/wp-content/themes/hakobus/assets/images/og-image.jpg",
+        "Redirect": "https://hakobus.co.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hakobus.co.jp/"
+    },
+    {
+        "link": "https://viperamax.co.uk",
+        "Heading": "Viperamax UK Blog: Tech Insights, Reviews & Industry Analysis",
+        "Abstract": "Explore expert tech insights, product reviews, and industry analysis on the Viperamax UK blog. Stay updated with the latest trends and innovations in technology.",
+        "Official Site": "https://viperamax.co.uk",
+        "Icon": "https://usc1.contabostorage.com/83226f3934d449eb8c821d388b39f7b1:nextbacklinks/favicon/favicons/KEITHSTON_-_2025-04-28T175435.198_9gzimqr_T3aRzbt.png",
+        "Redirect": "https://viperamax.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://viperamax.co.uk"
+    },
+    {
+        "link": "https://securecy.com.au",
+        "Heading": "    Securecy\n",
+        "Abstract": null,
+        "Official Site": "https://securecy.com.au",
+        "Icon": "N/A",
+        "Redirect": "https://securecy.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://securecy.com.au"
+    },
+    {
+        "link": "https://udaljenosti.com",
+        "Heading": "Udaljenosti me\u0111u gradovima i planer putovanja | Udaljenosti.com",
+        "Abstract": "Izra\u010dunaj udaljenost izme\u0111u gradova na karti.\n\n  Provjeri to\u010dnu kilometra\u017eu i udaljenosti me\u0111u mjestima.",
+        "Official Site": "https://udaljenosti.com",
+        "Icon": "/images/favicon-udaljenosti.jpg",
+        "Redirect": "https://udaljenosti.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://udaljenosti.com"
+    },
+    {
+        "link": "https://berlin-hilft.com",
+        "Heading": "Berlin hilft! - informieren. vernetzen. helfen.",
+        "Abstract": "informieren. vernetzen. helfen.",
+        "Official Site": "https://berlin-hilft.com/",
+        "Icon": "https://berlin-hilft.com/wp-content/uploads/2018/08/Logo-klein-500breit.png",
+        "Redirect": "https://berlin-hilft.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://berlin-hilft.com/"
+    },
+    {
+        "link": "https://projectnova.gg",
+        "Heading": "Project Nova \u2013 Rust Mars Server",
+        "Abstract": null,
+        "Official Site": "https://projectnova.gg",
+        "Icon": "https://www.projectnova.gg//wp-content/uploads/2020/07/favicon.png",
+        "Redirect": "https://projectnova.gg",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://projectnova.gg"
+    },
+    {
+        "link": "https://hostperfect.com",
+        "Heading": "Portal Home - AZC - HostPerfect",
+        "Abstract": null,
+        "Official Site": "https://hostperfect.com",
+        "Icon": "N/A",
+        "Redirect": "https://hostperfect.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hostperfect.com"
+    },
+    {
+        "link": "https://simply-seo.co.il",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://simply-seo.co.il",
+        "Icon": "N/A",
+        "Redirect": "https://simply-seo.co.il",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://simply-seo.co.il"
+    },
+    {
+        "link": "https://1001gedichten.nl",
+        "Heading": "1001 Gedichten en Gedichtjes - lezen en plaatsen!",
+        "Abstract": "Op 1001 gedichten.nl staan de meeste en leukste gedichten en gedichtjes, wordt lid en plaats ook je eigen gedichten op 1001 gedichten!",
+        "Official Site": "https://1001gedichten.nl",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://1001gedichten.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://1001gedichten.nl"
+    },
+    {
+        "link": "https://mpi-forum.org",
+        "Heading": "MPI Forum",
+        "Abstract": null,
+        "Official Site": "https://www.mpi-forum.org/",
+        "Icon": "N/A",
+        "Redirect": "https://www.mpi-forum.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mpi-forum.org/"
+    },
+    {
+        "link": "https://tcgculture.com",
+        "Heading": "TCG Culture",
+        "Abstract": "Welcome to TCG Culture! The Kapiti Coast's trading card game specialty store. Based in Paraparaumu, we stock Yu-Gi-Oh!, Pokemon, One Piece, Flesh and Blood & Riftbound. Come join our local community for games, trades, and events.",
+        "Official Site": "https://tcgculture.com/",
+        "Icon": "https://cdn.shopify.com/s/files/1/0137/1278/5454/files/social_media_kit_white_BG_insta_and_dp_f96c9519-8768-4dae-bbdc-adeddfd8801d.jpg?v=1599547167",
+        "Redirect": "https://tcgculture.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tcgculture.com/"
+    },
+    {
+        "link": "https://serverkultur.de",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://serverkultur.de",
+        "Icon": "N/A",
+        "Redirect": "https://serverkultur.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://serverkultur.de"
+    },
+    {
+        "link": "https://timeless.club",
+        "Heading": "TIMELESS Luxury Lounges | \u0441\u0435\u0442\u044c \u043b\u0430\u0443\u043d\u0436-\u0431\u0430\u0440\u043e\u0432",
+        "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0441\u0435\u0442\u0438 \u043b\u0430\u0443\u043d\u0436-\u0431\u0430\u0440\u043e\u0432 TIMELESS.",
+        "Official Site": "https://timeless.club",
+        "Icon": "https://edge1.cdn.timeless.club/img/favicon/favicon.ico",
+        "Redirect": "https://timeless.club",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://timeless.club"
+    },
+    {
+        "link": "https://cstn.org",
+        "Heading": "TUAN88 - Situs Main Game Online dengan Aman dan Nyaman",
+        "Abstract": "Tuan88 adalah aplikasi atau website pengembang game online yang aman dan nyaman. Rasakan berbagai permainan seru dan menangkan hadiah besar di situs game online terpercaya di Indonesia. ",
+        "Official Site": "https://svfalarts.org/",
+        "Icon": "https://wvevw.com/banner/tuan88/tuan88_scblack..webp",
+        "Redirect": "https://svfalarts.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://svfalarts.org/"
+    },
+    {
+        "link": "https://yosefk.com",
+        "Heading": "Yossi Kreinin",
+        "Abstract": null,
+        "Official Site": "https://yosefk.com",
+        "Icon": "N/A",
+        "Redirect": "https://yosefk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yosefk.com"
+    },
+    {
+        "link": "https://chargerlab.com",
+        "Heading": "Chargerlab - Charger, Battery, Cell, Power Bank, Gadgets News And Review",
+        "Abstract": "Charger, Battery, Cell, Power Bank, Gadgets News And Review",
+        "Official Site": "https://www.chargerlab.com",
+        "Icon": "https://www.chargerlab.com/wp-content/uploads/2021/12/2021122303435449.png",
+        "Redirect": "https://www.chargerlab.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.chargerlab.com"
+    },
+    {
+        "link": "https://elitecoreservices.co.uk",
+        "Heading": "Elite Core Services: UK Business Solutions & Tech Consulting",
+        "Abstract": "Elite Core Services provides expert business solutions and technology consulting across the UK, helping companies optimize operations and drive growth with tailored strategies.",
+        "Official Site": "https://elitecoreservices.co.uk",
+        "Icon": "https://usc1.contabostorage.com/83226f3934d449eb8c821d388b39f7b1:nextbacklinks/favicon/favicons/KEITHSTON_-_2025-04-28T152428.061_8d3AVNE_MPFqM7p.png",
+        "Redirect": "https://elitecoreservices.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elitecoreservices.co.uk"
+    },
+    {
+        "link": "https://buuba.bid",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://buuba.bid",
+        "Icon": "N/A",
+        "Redirect": "https://buuba.bid",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://buuba.bid"
+    },
+    {
+        "link": "https://remixplanet.net",
+        "Heading": "Dj Edits",
+        "Abstract": null,
+        "Official Site": "https://remixplanet.net",
+        "Icon": "https://djedits.com/wp-content/uploads/2026/03/cropped-dj-eats-32x32.png",
+        "Redirect": "https://remixplanet.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://remixplanet.net"
+    }
+]
