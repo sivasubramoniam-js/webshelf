@@ -81,10 +81,10 @@
     },
     {
         "link": "https://daivansoft.com",
-        "Heading": "Inform\u00e1tica a su medida - Daivan Soft - Soluciones Inform\u00e1ticas",
-        "Abstract": "Dise\u00f1o de p\u00e1ginas web, programaci\u00f3n web a medida, posicionamiento SEO en buscadores, creaci\u00f3n de tiendas online, programas de gesti\u00f3n y contabilidad en Elche.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://daivansoft.com",
-        "Icon": "/templates/rt_oculus/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://daivansoft.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://daivansoft.com"
@@ -108,6 +108,26 @@
         "Redirect": "https://royalbridge.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://royalbridge.de"
+    },
+    {
+        "link": "https://veralto.com",
+        "Heading": "Home | Veralto",
+        "Abstract": "Veralto is a global leader in essential technology solutions powered by purpose: Safeguarding the World\u2019s Most Vital Resources\u2122.",
+        "Official Site": "https://www.veralto.com/",
+        "Icon": "https://www.veralto.com/wp-content/uploads/2023/09/hero-home-1.jpg",
+        "Redirect": "https://www.veralto.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.veralto.com/"
+    },
+    {
+        "link": "https://feedzop.com",
+        "Heading": "Breaking News, US News, World News and Top Headlines | Feedzop",
+        "Abstract": "Get latest news from the US and around the world. Get breaking news alerts from US and follow today\u2019s live news updates of business, technology, Hollywood, NHL, NFL, NBA and more on Feedzop.",
+        "Official Site": "https://feedzop.com",
+        "Icon": "/favicon.ico?favicon.0__wma_~a8z3_.ico",
+        "Redirect": "https://feedzop.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://feedzop.com"
     },
     {
         "link": "https://carnegiefabrics.com",
@@ -220,16 +240,6 @@
         "AbstractURL": "https://www.fallimenti.it/"
     },
     {
-        "link": "https://foodandnutritionresearch.net",
-        "Heading": "\n\t\tOpen Journal Systems\n\t\t\t\t\t",
-        "Abstract": null,
-        "Official Site": "https://foodandnutritionresearch.net",
-        "Icon": "N/A",
-        "Redirect": "https://foodandnutritionresearch.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://foodandnutritionresearch.net"
-    },
-    {
         "link": "https://vacuumschmelze.com",
         "Heading": "VAC - Advanced Magnetic Solutions | VAC",
         "Abstract": "A leading manufacturer of magnetic alloys and their downstream products",
@@ -260,23 +270,13 @@
         "AbstractURL": "https://rb-mnb3.com"
     },
     {
-        "link": "https://milawyersweekly.com",
-        "Heading": "Michigan Lawyers Weekly",
-        "Abstract": "An independent newspaper dedicated to providing court opinions, verdicts, settlements, appellate decisions, and legal news to enhance the practice of law in Michigan. Print and online subscriptions are available to attorneys / legal professionals and others interested in in-depth coverage of legal news in Michigan.",
-        "Official Site": "https://milawyersweekly.com/",
-        "Icon": "https://milawyersweekly.com/files/2022/03/MILW_weblogo.png",
-        "Redirect": "https://milawyersweekly.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://milawyersweekly.com/"
-    },
-    {
         "link": "https://comunidadescolar.cl",
         "Heading": "Comunidad Escolar",
         "Abstract": "Comunidad Escolar",
-        "Official Site": "https://www.comunidadescolar.cl/",
+        "Official Site": "https://comunidadescolar.cl/",
         "Icon": "https://comunidadescolar.cl/wp-content/uploads/2019/08/favicon.ico",
-        "Redirect": "https://www.comunidadescolar.cl/",
+        "Redirect": "https://comunidadescolar.cl/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.comunidadescolar.cl/"
+        "AbstractURL": "https://comunidadescolar.cl/"
     }
 ]

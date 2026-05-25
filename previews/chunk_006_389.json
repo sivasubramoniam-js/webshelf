@@ -132,7 +132,7 @@
     {
         "link": "https://o-cross.net",
         "Heading": "\u6c96\u7e04\u306e\u4e2d\u53e4\u8eca\u306f\u6c96\u7e04\u5c02\u9580\u3010\u30af\u30ed\u30b9\u30ed\u30fc\u30c9\u3011",
-        "Abstract": "\u6c96\u7e04\u751f\u307e\u308c\u306e\u6c96\u7e04\u5c02\u9580\uff01\u65b0\u8eca\u3001\u4e2d\u53e4\u8eca\u3001\u30d1\u30fc\u30c4\u3001\u30ab\u30fc\u30e9\u30a4\u30d5\u3092\u7d39\u4ecb\u3059\u308b\u4e2d\u53e4\u8eca\u60c5\u5831\u30b5\u30a4\u30c8CROSSROAD(\u30af\u30ed\u30b9\u30ed\u30fc\u30c9)\uff01\u7dcf\u7269\u4ef6\u657017,246\u4ef6\u3002\u6c96\u7e04\u6700\u5927\u306e\u60c5\u5831\u91cf\u3067\u5b89\u5fc3\u3001\u4fe1\u983c\u306e\u65b0\u8eca\u3001\u4e2d\u53e4\u8eca\u3001\u30d1\u30fc\u30c4\u3001\u30ab\u30fc\u30e9\u30a4\u30d5\u306e\u60c5\u5831\u3092\u968f\u6642\u66f4\u65b0\u4e2d\uff01CROSSROAD(\u30af\u30ed\u30b9\u30ed\u30fc\u30c9)\u304c\u3042\u306a\u305f\u306e\u8eca\u9078\u3073\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u307e\u3059\u3002",
+        "Abstract": "\u6c96\u7e04\u751f\u307e\u308c\u306e\u6c96\u7e04\u5c02\u9580\uff01\u65b0\u8eca\u3001\u4e2d\u53e4\u8eca\u3001\u30d1\u30fc\u30c4\u3001\u30ab\u30fc\u30e9\u30a4\u30d5\u3092\u7d39\u4ecb\u3059\u308b\u4e2d\u53e4\u8eca\u60c5\u5831\u30b5\u30a4\u30c8CROSSROAD(\u30af\u30ed\u30b9\u30ed\u30fc\u30c9)\uff01\u7dcf\u7269\u4ef6\u657017,220\u4ef6\u3002\u6c96\u7e04\u6700\u5927\u306e\u60c5\u5831\u91cf\u3067\u5b89\u5fc3\u3001\u4fe1\u983c\u306e\u65b0\u8eca\u3001\u4e2d\u53e4\u8eca\u3001\u30d1\u30fc\u30c4\u3001\u30ab\u30fc\u30e9\u30a4\u30d5\u306e\u60c5\u5831\u3092\u968f\u6642\u66f4\u65b0\u4e2d\uff01CROSSROAD(\u30af\u30ed\u30b9\u30ed\u30fc\u30c9)\u304c\u3042\u306a\u305f\u306e\u8eca\u9078\u3073\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u307e\u3059\u3002",
         "Official Site": "https://www.o-cross.net/cms",
         "Icon": "https://e5s9nuwqf9v.exactdn.com/images/OGP-def-logo.png",
         "Redirect": "https://www.o-cross.net/cms",
@@ -173,11 +173,11 @@
         "link": "https://opaline.cl",
         "Heading": "Opaline: Ajuar, Ropa, Zapatos y accesorios para tu beb\u00e9",
         "Abstract": "Encuentra las mejores alternativas de zapatos, accesorios y ropa para beb\u00e9 junto a nosotros. Entra y descubre la mejor selecci\u00f3n en Opaline",
-        "Official Site": "https://www.opaline.cl/?ft=6372",
+        "Official Site": "https://www.opaline.cl/",
         "Icon": "/arquivos/opaline-icon.png",
-        "Redirect": "https://www.opaline.cl/?ft=6372",
+        "Redirect": "https://www.opaline.cl/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.opaline.cl/?ft=6372"
+        "AbstractURL": "https://www.opaline.cl/"
     },
     {
         "link": "https://option-b.shop",
@@ -304,7 +304,7 @@
         "Heading": "V\u00fdkup, servis, predaj mobilov a notebookov - PCexpres.sk",
         "Abstract": "V\u00fdkup, oprava, servis a predaj mobilov, tabletov, notebookov \u2705 Apple, Samsung, Xiaomi, Huawei \u2705 N\u00e1hradn\u00e9 diely a pr\u00edslu\u0161enstvo \u2705 17 pobo\u010diek na Slovensku",
         "Official Site": "https://www.pcexpres.sk/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.pcexpres.sk/user/logos/pcexpres_logo_(2).png?t=1779609128",
+        "Icon": "https://cdn.myshoptet.com/usr/www.pcexpres.sk/user/logos/pcexpres_logo_(2).png?t=1779698274",
         "Redirect": "https://www.pcexpres.sk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.pcexpres.sk/"

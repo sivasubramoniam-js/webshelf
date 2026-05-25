@@ -130,6 +130,16 @@
         "AbstractURL": "https://realestatemarket.com.mx"
     },
     {
+        "link": "https://narcis.nl",
+        "Heading": "NARCIS | DANS",
+        "Abstract": "NARCIS is d\u00e9 nationale portal voor wie zoekt naar wetenschappelijke informatie, onderzoeksdata, onderzoekssoftware, beschrijvingen van onderzoeksprojecten en meer.",
+        "Official Site": "https://narcis.nl",
+        "Icon": "https://dans.knaw.nl/wp-content/uploads/2026/04/cropped-favicon-32x32.png",
+        "Redirect": "https://narcis.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://narcis.nl"
+    },
+    {
         "link": "https://pivotdesignmedia.com",
         "Heading": "Pivot Design Media",
         "Abstract": null,
@@ -208,16 +218,6 @@
         "Redirect": "https://myclientdemo.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myclientdemo.com"
-    },
-    {
-        "link": "https://okrugtelecom.ru",
-        "Heading": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u041e\u043a\u0440\u0443\u0433\u0442\u0435\u043b\u0435\u043a\u043e\u043c",
-        "Abstract": null,
-        "Official Site": "https://okrugtelecom.ru",
-        "Icon": "http://okrugtelecom.ru/wp-content/uploads/2016/04/favicon.ico",
-        "Redirect": "https://okrugtelecom.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://okrugtelecom.ru"
     },
     {
         "link": "https://science-bits.com",

@@ -40,16 +40,6 @@
         "AbstractURL": "https://centralmax.co.uk"
     },
     {
-        "link": "https://polskaniezwykla.pl",
-        "Heading": "\n\tPolska niezwyk\u0142a - Ciekawe miejsca, atrakcje turystyczne, zabytki. Przewodnik turystyczny po Polsce. Miniprzewodniki do pobrania\n",
-        "Abstract": "Najwi\u0119kszy serwis o atrakcjach turystycznych w Polsce. Idealny do planowania wyjazd\u00f3w z mo\u017cliwo\u015bci\u0105 tworzenia w\u0142asnego miniprzewodnika",
-        "Official Site": "https://polskaniezwykla.pl",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://polskaniezwykla.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://polskaniezwykla.pl"
-    },
-    {
         "link": "https://maryelschool.org",
         "Heading": "Besyo Hakk\u0131nda G\u00fcncel Bilgiler | \u0e2a\u0e25\u0e47\u0e2d\u0e15\u0e40\u0e27\u0e47\u0e1a\u0e15\u0e23\u0e07 T\u00dcRK\u0130YE'N\u0130N EN \u0130Y\u0130 BESYO PLATFORMU",
         "Abstract": "T\u00dcRK\u0130YE'N\u0130N EN \u0130Y\u0130 BESYO PLATFORMU",
@@ -154,7 +144,7 @@
         "Heading": "Hardy Brothers Jewellers",
         "Abstract": "Hardy Brother\u2019s - Providing quality, craftsmanship & creativity since 1853. Find bespoke luxury jewellery & timepieces online or book an appointment in-store.",
         "Official Site": "https://www.hardybrothers.com.au/",
-        "Icon": "http://www.hardybrothers.com.au/cdn/shop/files/header-logo_c538461f-9f5a-43d5-91d7-e46587fbf2cf.svg?v=1759117752&width=592",
+        "Icon": "http://cdn.shopify.com/s/files/1/0263/3819/7590/files/header-logo_c538461f-9f5a-43d5-91d7-e46587fbf2cf.svg?v=1759117752&width=592",
         "Redirect": "https://www.hardybrothers.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hardybrothers.com.au/"
@@ -188,16 +178,6 @@
         "Redirect": "https://dynamicgamingplatform.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dynamicgamingplatform.com"
-    },
-    {
-        "link": "https://paineladm.com",
-        "Heading": "Gerenciar Site",
-        "Abstract": null,
-        "Official Site": "https://paineladm.com",
-        "Icon": "//paineladm.com/painel/img/icone-site.png",
-        "Redirect": "https://paineladm.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://paineladm.com"
     },
     {
         "link": "https://sudoku-knacker.de",

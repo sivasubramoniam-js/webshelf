@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://vaticanobservatory.org",
-        "Heading": "Home - Vatican Observatory",
-        "Abstract": "The latest news, images, content and educational resources from the Vatican Observatory, the Holy See\u2019s scientific institution for astronomical research since 1582.",
-        "Official Site": "https://www.vaticanobservatory.org/wp-content/uploads/2021/02/VO-Open-Graph-Animated.gif",
-        "Icon": "https://www.vaticanobservatory.org/wp-content/uploads/2021/02/VO-Open-Graph-Animated.gif",
-        "Redirect": "https://www.vaticanobservatory.org/wp-content/uploads/2021/02/VO-Open-Graph-Animated.gif",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.vaticanobservatory.org/wp-content/uploads/2021/02/VO-Open-Graph-Animated.gif"
-    },
-    {
         "link": "https://customer360.co",
         "Heading": "Automated Analytics - Automated Analytics",
         "Abstract": null,
@@ -41,7 +31,7 @@
     },
     {
         "link": "https://peggo.co",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://peggo.co",
         "Icon": "N/A",
@@ -70,16 +60,6 @@
         "AbstractURL": "https://nuelink.com"
     },
     {
-        "link": "https://noritakechina.com",
-        "Heading": "Noritake (Official Site) | Elegant and Casual Dinnerware, Giftware, and More | NoritakeChina.com",
-        "Abstract": "Noritake (Official Site) | Elegant and Casual Dinnerware, Giftware, and More | NoritakeChina.com",
-        "Official Site": "https://noritakechina.com",
-        "Icon": "https://noritakechina.com/media/favicon/stores/1/favicon-new.png",
-        "Redirect": "https://noritakechina.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://noritakechina.com"
-    },
-    {
         "link": "https://selfnamed.com",
         "Heading": "Selfnamed \u2014 Your Skincare Brand Accelerator",
         "Abstract": "Start your own skincare brand or expand an existing one with organic or natural certified private label cosmetics \u2014 no minimum order, no hidden costs.",
@@ -94,7 +74,7 @@
         "Heading": "\u05de\u05d2\u05d6\u05d9\u05df \u05e4\u05d5\u05e8\u05d8\u05e4\u05d5\u05dc\u05d9\u05d5 -",
         "Abstract": "\u05de\u05d2\u05d6\u05d9\u05df \u05e2\u05d9\u05e6\u05d5\u05d1, \u05d0\u05de\u05e0\u05d5\u05ea \u05d5\u05ea\u05e8\u05d1\u05d5\u05ea \u05d7\u05d6\u05d5\u05ea\u05d9\u05ea",
         "Official Site": "https://www.prtfl.co.il/",
-        "Icon": "https://www.prtfl.co.il/wp-content/uploads/2026/05/LZB_INDIA_03284.jpg",
+        "Icon": "https://www.prtfl.co.il/wp-content/uploads/2026/05/herzelia-e1779188646179.jpg",
         "Redirect": "https://www.prtfl.co.il/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.prtfl.co.il/"
@@ -114,7 +94,7 @@
         "Heading": "Portal asta24.pl - Pi\u0142a - informacje i wydarzenia",
         "Abstract": "Najnowsze widomo\u015bci z Pi\u0142y i regionu \u2013 tylko na asta24.pl \u2013 najwa\u017cniejsze wiadomo\u015bci samorz\u0105dowe, spo\u0142eczne, sportowe i kulturalne.",
         "Official Site": "https://www.asta24.pl",
-        "Icon": "https://www.asta24.pl/themes/Asta24/assets/images/og_image.jpg?_tv=220969",
+        "Icon": "https://www.asta24.pl/themes/Asta24/assets/images/og_image.jpg?_tv=220960",
         "Redirect": "https://www.asta24.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.asta24.pl"
@@ -148,6 +128,16 @@
         "Redirect": "https://68kmla.org/bb/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://68kmla.org/bb/"
+    },
+    {
+        "link": "https://computernetworkingnotes.com",
+        "Heading": "Complete Computer networking notes guides tutorials ",
+        "Abstract": "This website provides a comprehensive collection of computer networking tutorials, notes and study guides for anyone who is preparing for networking certificate or working in computer networking field. Learn complex networking concepts and topics in easy language with step by step practical examples.",
+        "Official Site": "https://www.computernetworkingnotes.com",
+        "Icon": "https://www.computernetworkingnotes.com/wp-content/uploads/site/cnn.png",
+        "Redirect": "https://www.computernetworkingnotes.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.computernetworkingnotes.com"
     },
     {
         "link": "https://buitenkampioen.nl",
@@ -278,16 +268,6 @@
         "Redirect": "https://dattamax.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dattamax.com"
-    },
-    {
-        "link": "https://magazineart.org",
-        "Heading": "MagazineArt.org Home Page",
-        "Abstract": "Vintage magazine cover and advertising art from the golden age of American illustration",
-        "Official Site": "https://magazineart.org",
-        "Icon": "N/A",
-        "Redirect": "https://magazineart.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://magazineart.org"
     },
     {
         "link": "https://journalcra.com",

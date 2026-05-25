@@ -32,9 +32,9 @@
     {
         "link": "https://wetterring.at",
         "Heading": "Wetterring Vorarlberg: Startseite",
-        "Abstract": "Der Wetterring bietet genaue Wetterprognosen, Messwerte und Webcams aus Vorarlberg und der Umgebung. Unsere Live-Wetterkarte, Wetterstationsmessnetz erstreckt sich \u00fcber folgende Regionen: Vorarlberg, Tirol, Ostschweiz, Liechtenstein,...",
+        "Abstract": "Der Wetterring bietet genaue Wetterprognosen, Messwerte und Webcams aus Vorarlberg und der Umgebung. Unsere Live-Wetterkarte, Wetterstationsmessnetz erstreckt sich \u00fcber folgende Regionen: Vorarlberg, Tirol, Ostschweiz, Liechtenstein, S\u00fcddeutschland (Bodenseeregion)",
         "Official Site": "https://wetterring.at/startseite",
-        "Icon": "https://wetterring.at/XooWebKit/bin/imagecache.php/58bf_d32414f1d0/121d3_zX23C/Webbanner_Panoramagasthof_Sommer2019-1.jpg",
+        "Icon": "https://wetterring.at/XooWebKit/bin/imagecache.php/6d6d_7637fe7b58/121d3_zX23C/wetter%20video%20werbebanner%20mobile.jpg",
         "Redirect": "https://wetterring.at/startseite",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wetterring.at/startseite"
@@ -248,6 +248,16 @@
         "Redirect": "https://inertix.pro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://inertix.pro"
+    },
+    {
+        "link": "https://trt21.jus.br",
+        "Heading": "TRT 21 - P\u00e1gina Inicial | Portal TRT21",
+        "Abstract": null,
+        "Official Site": "https://trt21.jus.br",
+        "Icon": "/sites/default/files/trt2.png",
+        "Redirect": "https://trt21.jus.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trt21.jus.br"
     },
     {
         "link": "https://rayandco.uk",

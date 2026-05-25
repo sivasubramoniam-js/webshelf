@@ -310,6 +310,16 @@
         "AbstractURL": "https://fondidoc.it"
     },
     {
+        "link": "https://fondos.gob.cl",
+        "Heading": "Portal \u00danico de Fondos Concursables",
+        "Abstract": "Encuentra todos los fondos concursables del Estado en un solo lugar. Revisa en qu\u00e9 concursos puedes postular en nuestra plataforma",
+        "Official Site": "https://fondos.gob.cl/",
+        "Icon": "https://fondos.gob.cl/Includes/css/gob/img/backgorund_portal_compressed.png",
+        "Redirect": "https://fondos.gob.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fondos.gob.cl/"
+    },
+    {
         "link": "https://foodbag.be",
         "Heading": "D\u00e9 Belgische maaltijdbox | Foodbag",
         "Abstract": "Maaltijdbox met verse, lokale ingredi\u00ebnten. Zonder abonnement!",

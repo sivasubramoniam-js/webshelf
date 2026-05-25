@@ -271,7 +271,7 @@
     },
     {
         "link": "https://hosting1ltd.com",
-        "Heading": "Account Suspended",
+        "Heading": "Hosting1Ltd",
         "Abstract": null,
         "Official Site": "https://hosting1ltd.com",
         "Icon": "N/A",
@@ -308,5 +308,15 @@
         "Redirect": "https://visionenterprise.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://visionenterprise.co.uk"
+    },
+    {
+        "link": "https://skystarter.com.ua",
+        "Heading": "Home demo sports - skystarter.com.ua",
+        "Abstract": "Home demo sports",
+        "Official Site": "https://skystarter.com.ua/",
+        "Icon": "N/A",
+        "Redirect": "https://skystarter.com.ua/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://skystarter.com.ua/"
     }
 ]

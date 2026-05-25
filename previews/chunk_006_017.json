@@ -101,13 +101,23 @@
     },
     {
         "link": "https://corega.com",
-        "Heading": "Denture Care Products and Denture Cleanser | Polident ",
-        "Abstract": "Explore denture care products and solutions with Polident. Find dental cleanser, adhesive, and more to help you take care of your partial or full dentures.\n\n",
-        "Official Site": "https://www.polident.com/en-us/",
-        "Icon": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/denture-appliance-care/en_US/contact-us/haleon-favicon-icon.png?auto=format",
-        "Redirect": "https://www.polident.com/en-us/",
+        "Heading": "Produits et solutions | Polident",
+        "Abstract": "Explorez les produits et solutions pour vos proth\u00e8ses dentaires et plus encore. Obtenez des produits\u00a0Polident.",
+        "Official Site": "https://www.polident.com/fr-fr/",
+        "Icon": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/denture-appliance-care/fr_FR/Util/haleon-favicon.png?auto=format",
+        "Redirect": "https://www.polident.com/fr-fr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.polident.com/en-us/"
+        "AbstractURL": "https://www.polident.com/fr-fr/"
+    },
+    {
+        "link": "https://corematter.legal",
+        "Heading": "\n\tCOREMatter - Login\n",
+        "Abstract": null,
+        "Official Site": "https://corematter.legal",
+        "Icon": "../Images/icon/icon-16x16.png",
+        "Redirect": "https://corematter.legal",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://corematter.legal"
     },
     {
         "link": "https://corncobpipe.com",

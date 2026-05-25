@@ -80,16 +80,6 @@
         "AbstractURL": "https://verspk.ru"
     },
     {
-        "link": "https://gazetaonline.com.br",
-        "Heading": "A Gazeta - As principais not\u00edcias do Esp\u00edrito Santo | A Gazeta",
-        "Abstract": "Confira as \u00faltimas not\u00edcias sobre pol\u00edtica, economia, pol\u00edcia, entretenimento e empregos no Esp\u00edrito Santo, no Brasil e no mundo e fique bem informado.",
-        "Official Site": "https://gazetaonline.com.br",
-        "Icon": "https://midias.agazeta.com.br/2021/04/17/600x315/logo-de-a-gazeta-475615.jpg",
-        "Redirect": "https://gazetaonline.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gazetaonline.com.br"
-    },
-    {
         "link": "https://aamusports.com",
         "Heading": "\n\t2026 Alabama A&M Football Schedule - Alabama A&M Athletics - Official Athletics Website\n",
         "Abstract": "2026 Alabama A&M Football Schedule",
@@ -178,6 +168,16 @@
         "Redirect": "https://www.zimmerland.co.il/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.zimmerland.co.il/"
+    },
+    {
+        "link": "https://alchemysystems.com",
+        "Heading": "Workforce Training, Technology & Consulting | Intertek Alchemy",
+        "Abstract": "Intertek Alchemy is recognized worldwide as a leader in workforce training for manufacturers, learning technology, food safety consulting.",
+        "Official Site": "https://www.alchemysystems.com/",
+        "Icon": "https://www.alchemysystems.com/wp-content/uploads/2023/10/intertek-alchemhy-logo_320x170.png",
+        "Redirect": "https://www.alchemysystems.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.alchemysystems.com/"
     },
     {
         "link": "https://bistum-hildesheim.de",

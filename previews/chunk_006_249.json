@@ -40,16 +40,6 @@
         "AbstractURL": "https://scotiaconnect.co.uk"
     },
     {
-        "link": "https://sizeswatch.com",
-        "Heading": "Size Swatch - Shopify App",
-        "Abstract": "Use the Size Swatch app to easily add sizing information your Shopify website. Display sizes underneath your product thumbnails on your collection pages and homepage.",
-        "Official Site": "https://sizeswatch.com/",
-        "Icon": "https://sizeswatch.com/wp-content/uploads/2019/11/Size-Swatch-App-Demo-Website-1024x600.png",
-        "Redirect": "https://sizeswatch.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sizeswatch.com/"
-    },
-    {
         "link": "https://czechowice-dziedzice.pl",
         "Heading": "Gmina Czechowice-Dziedzice",
         "Abstract": "Oficjalna strona Urz\u0119du Miejskiego w Czechowicach-Dziedzicach \u2013 \u017ar\u00f3d\u0142o aktualnych i sprawdzonych informacji z Gminy Czechowice-Dziedzice.",
@@ -210,16 +200,6 @@
         "AbstractURL": "https://www.projectunderstood.ca/"
     },
     {
-        "link": "https://autoplikis.lt",
-        "Heading": "Automobili\u0173 dalys, tepalai, filtrai, akumuliatoriai | Autoplikis.lt",
-        "Abstract": "Automobili\u0173 dalys, tepalai, alyva, akumuliatoriai, filtrai, dir\u017eai ir daugyb\u0117 kit\u0173 autodetali\u0173 u\u017e ypa\u010d ma\u017e\u0105 kain\u0105. Ofisas Kaune, siun\u010diame visoje Lietuvoje.",
-        "Official Site": "https://autoplikis.lt/",
-        "Icon": "https://autoplikis.lt/autoplikis_og_logo.png",
-        "Redirect": "https://autoplikis.lt/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://autoplikis.lt/"
-    },
-    {
         "link": "https://sumpalarm.com",
         "Heading": "Outdoor High Water Alarms By Sump Alarm, Inc.\n",
         "Abstract": "Protect your home from water and septic damage with alarm systems by Sump Alarm. Reliable and durable water, septic, and sewage alarms. Patented Wi-Fi alarm systems are the best on the market. Monitor your sump/septic tank when you are away from home. External notifications such as email, text, and phone calls to alert",
@@ -238,16 +218,6 @@
         "Redirect": "https://craftdiaries.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://craftdiaries.au"
-    },
-    {
-        "link": "https://porschezentrumbremen.de",
-        "Heading": "Porsche Zentrum Bremen",
-        "Abstract": "Entdecken Sie die Welt des Porsche Zentrum Bremen! Hier finden Sie unsere neuesten Modelle, Neuigkeiten rund um Porsche und mehr.",
-        "Official Site": "https://dealer.porsche.com/de/bremen/de-DE",
-        "Icon": "https://edge.sitecorecloud.io/porschedigic255-dwaasaa82-prod0237-46c0/media/Project/DealerWebsitesHeadless/Germany/Bremen/Modules/main-navigation/logo.png?h=774&iar=0&w=1280",
-        "Redirect": "https://dealer.porsche.com/de/bremen/de-DE",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dealer.porsche.com/de/bremen/de-DE"
     },
     {
         "link": "https://linklings.net",
@@ -358,6 +328,16 @@
         "Redirect": "https://magellanotech.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://magellanotech.it"
+    },
+    {
+        "link": "https://elazig.bel.tr",
+        "Heading": "Elaz\u0131\u011f Belediyesi",
+        "Abstract": "Elaz\u0131\u011f Belediyesi'ne ait kurumsal bilgilerin, g\u00fcncel haber, duyuru, galeri, video, proje, \u00e7al\u0131\u015fmalar ve etkinliklerin yer ald\u0131\u011f\u0131 kurumsal web sitesi.",
+        "Official Site": "https://www.elazig.bel.tr/",
+        "Icon": "https://www.elazig.bel.tr/dosya/logo/elazig-belediyesi-og.png",
+        "Redirect": "https://www.elazig.bel.tr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.elazig.bel.tr/"
     },
     {
         "link": "https://goldcoreroom.co.uk",

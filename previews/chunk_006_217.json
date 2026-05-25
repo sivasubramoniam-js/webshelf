@@ -10,16 +10,6 @@
         "AbstractURL": "https://www.reservationkey.com"
     },
     {
-        "link": "https://ro-tel.com",
-        "Heading": "Delicious Tomatoes and Zesty Diced Green Chilies | RO-TEL",
-        "Abstract": "RO-TEL tomatoes and diced green chilies are a zesty addition to everyday recipes! Check out all our recipes and tomato products to spice up your meals today!",
-        "Official Site": "https://ro-tel.com",
-        "Icon": "/sites/g/files/qyyrlu281/files/Rotel_96x96.png",
-        "Redirect": "https://ro-tel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ro-tel.com"
-    },
-    {
         "link": "https://gamen.net",
         "Heading": "gamen.net",
         "Abstract": null,
@@ -118,6 +108,16 @@
         "Redirect": "https://floripa-airport.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://floripa-airport.com"
+    },
+    {
+        "link": "https://romaniatravel.guide",
+        "Heading": "Discover a fairy tale Romania \u00bb romaniatravel.guide",
+        "Abstract": "In spring, Romania comes back to life: blooming landscapes, green Carpathians, and villages where traditions are ...",
+        "Official Site": "https://romaniatravel.guide/en/",
+        "Icon": "https://img0.oastatic.com/img2/59794041/max/variant.webp",
+        "Redirect": "https://romaniatravel.guide/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://romaniatravel.guide/en/"
     },
     {
         "link": "https://qsapp.com",
@@ -282,7 +282,7 @@
     {
         "link": "https://meteo-lyon.net",
         "Heading": "M\u00e9t\u00e9o Lyon 69000 \u2013 Pr\u00e9visions \u00e0 15 jours fiables",
-        "Abstract": "Ce dimanche, \u00e0 Lyon : peu de changement avec la persistance d'un temps tr\u00e8s ensoleill\u00e9 et exceptionnellement chaud pour la saison (Matin 18\u00b0C, Apr\u00e8s-midi 33\u00b0C, Soir 30\u00b0C, Nuit 23\u00b0C).",
+        "Abstract": "Ce lundi, \u00e0 Lyon : poursuite de la s\u00e9quence estivale avec du soleil et une chaleur forte (Matin 16\u00b0C, Apr\u00e8s-midi 33\u00b0C, Soir 30\u00b0C, Nuit 19\u00b0C).",
         "Official Site": "https://www.meteo-lyon.net",
         "Icon": "https://www.meteo-lyon.net/images/social/meteo-social-17.png",
         "Redirect": "https://www.meteo-lyon.net",

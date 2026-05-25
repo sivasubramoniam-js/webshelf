@@ -40,16 +40,6 @@
         "AbstractURL": "https://galafarm.com.ua"
     },
     {
-        "link": "https://colamirus.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://colamirus.com",
-        "Icon": "N/A",
-        "Redirect": "https://colamirus.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://colamirus.com"
-    },
-    {
         "link": "https://ibrowse.com",
         "Heading": "iBrowse | Home",
         "Abstract": "iBrowse | Home",
@@ -264,7 +254,7 @@
         "Heading": "Abadia de Montserrat",
         "Abstract": "Una muntanya de fe",
         "Official Site": "https://abadiamontserrat.cat/",
-        "Icon": "https://montserrat.sobrevia.net/logos/montserrat/abadiacatquadrat.gif?1779602400",
+        "Icon": "https://montserrat.sobrevia.net/logos/montserrat/abadiacatquadrat.gif?1779692400",
         "Redirect": "https://abadiamontserrat.cat/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://abadiamontserrat.cat/"
@@ -311,10 +301,10 @@
     },
     {
         "link": "https://wibank.de",
-        "Heading": "wibank.de: Wartungsarbeiten",
+        "Heading": "WIBank",
         "Abstract": null,
         "Official Site": "https://wibank.de",
-        "Icon": "N/A",
+        "Icon": "/resource/blob/wibank/297884/0c3af242526260f171c2cc30bc0639e0/wibank-favicon.ico",
         "Redirect": "https://wibank.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wibank.de"

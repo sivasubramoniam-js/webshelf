@@ -140,16 +140,6 @@
         "AbstractURL": "https://www.inriver.com/"
     },
     {
-        "link": "https://lojack.com",
-        "Heading": "LoJack : GPS Device",
-        "Abstract": "Peace of mind for drivers and auto dealers. With LoJack, your car is more connected, intelligent and secure. The LoJack\u00ae System is the only stolen vehicle recovery system directly integrated with law enforcement.",
-        "Official Site": "https://www.lojack.com/",
-        "Icon": "https://www.lojack.com/wp-content/uploads/2024/03/solera-icon-social-media.png",
-        "Redirect": "https://www.lojack.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lojack.com/"
-    },
-    {
         "link": "https://templatetrip.com",
         "Heading": "Effective Website Templates For Online Store - TemplateTrip",
         "Abstract": "Browse from 1000s of premium ecommerce website templates, including shopify, wordpress, woocommerce, prestashop, opencart, multipurpose templates.",
@@ -278,6 +268,16 @@
         "Redirect": "https://terraglobal.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://terraglobal.co.uk"
+    },
+    {
+        "link": "https://merkelistan.com",
+        "Heading": "Merkelistan WIki",
+        "Abstract": null,
+        "Official Site": "https://merkelistan.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://merkelistan.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://merkelistan.com"
     },
     {
         "link": "https://axxone.fr",

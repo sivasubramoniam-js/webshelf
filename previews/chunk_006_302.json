@@ -2,7 +2,7 @@
     {
         "link": "https://lolcat.ca",
         "Heading": "lolcat's website",
-        "Abstract": "This is the place to be",
+        "Abstract": "This is lolcat's website",
         "Official Site": "https://lolcat.ca",
         "Icon": "/favicon.ico",
         "Redirect": "https://lolcat.ca",
@@ -70,21 +70,11 @@
         "AbstractURL": "https://besogontv.ru"
     },
     {
-        "link": "https://amb-parts.ru",
-        "Heading": "Access Denied",
-        "Abstract": null,
-        "Official Site": "https://amb-parts.ru",
-        "Icon": "N/A",
-        "Redirect": "https://amb-parts.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://amb-parts.ru"
-    },
-    {
         "link": "https://yarinde.nl",
         "Heading": "\n      Borderpakketten, tuinplanten & bomen combineren en kopen\n",
         "Abstract": "Online Tuinplanten kopen & vers laten bezorgen? Ontdek Yarinde.nl. Bestel Kant en klare Borderpakketten per m2 of bestel tuinplanten los. Betrouwbaar adres, 100% eigen voorraad. Kies uit 2500+ soorten vaste planten, siergrassen, struiken enz.",
         "Official Site": "https://yarinde.nl/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0845/8613/5855/files/IMG_2161.jpg?v=1707396237",
+        "Icon": "http://yarinde.nl/cdn/shop/files/IMG_2161.jpg?v=1707396237",
         "Redirect": "https://yarinde.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yarinde.nl/"

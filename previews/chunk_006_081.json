@@ -140,16 +140,6 @@
         "AbstractURL": "https://cleargamingworld.com"
     },
     {
-        "link": "https://themeltdown.com",
-        "Heading": "The Meltdown",
-        "Abstract": null,
-        "Official Site": "https://themeltdown.com",
-        "Icon": "/wp-content/uploads/2020/11/cropped-new_FAV-32x32.png",
-        "Redirect": "https://themeltdown.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://themeltdown.com"
-    },
-    {
         "link": "https://tobychristie.com",
         "Heading": "NASCAR News, Results, Schedules, Standings | TobyChristie.com",
         "Abstract": "NASCAR, IndyCar and ARCA live race coverage, latest news, race results, standings, schedules, and driver stats for Cup, Xfinity, Camping World Truck",
@@ -188,6 +178,16 @@
         "Redirect": "https://kieback-peter.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kieback-peter.de"
+    },
+    {
+        "link": "https://ameliaisland.com",
+        "Heading": "Amelia Island, Florida",
+        "Abstract": "Located just off the northeast coast of Florida, Amelia Island is a pristine beach escape embraced by Southern charm-only 30 minutes from Jacksonville.",
+        "Official Site": "https://www.ameliaisland.com/",
+        "Icon": "https://www.ameliaisland.com/wp-content/themes/wp-theme-aic/img/favicon/favicon-32x32.png",
+        "Redirect": "https://www.ameliaisland.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ameliaisland.com/"
     },
     {
         "link": "https://hookahforum.com",
@@ -278,6 +278,16 @@
         "Redirect": "https://www.torinofilmfest.org/it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.torinofilmfest.org/it/"
+    },
+    {
+        "link": "https://comradsocks.com",
+        "Heading": "COMRAD | Everyday Compression Socks with Benefits For Men & Women",
+        "Abstract": "Premium compression socks designed to improve circulation, reduce swelling, and support vein health. Trusted by nurses, doctors, and wellness professionals. Sign up and receive 15% off your first order.",
+        "Official Site": "https://www.comradsocks.com/",
+        "Icon": "http://www.comradsocks.com/cdn/shop/files/sock-gallery-small.jpg?v=1747190676",
+        "Redirect": "https://www.comradsocks.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.comradsocks.com/"
     },
     {
         "link": "https://camdaddy.live",

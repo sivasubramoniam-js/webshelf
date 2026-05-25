@@ -40,6 +40,16 @@
         "AbstractURL": "https://eksae.fr/"
     },
     {
+        "link": "https://elektrohome.pl",
+        "Heading": "ELEKTROHOME.pl - Najlepsze AGD w mie\u015bcie Al Jerozolimskie 200",
+        "Abstract": null,
+        "Official Site": "https://elektrohome.pl",
+        "Icon": "https://elektrohome.pl/img/fb_zdjecie_w_tle.jpg",
+        "Redirect": "https://elektrohome.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elektrohome.pl"
+    },
+    {
         "link": "https://elelebaby.com",
         "Heading": "\n\tAnne Bebek \u00dcr\u00fcnleri Online Sat\u0131\u015f Adresi | Elele Baby\n",
         "Abstract": "Anne bebek \u00fcr\u00fcnleri online sat\u0131\u015f adresi elelebaby.com \u00fcr\u00fcnlerini ke\u015ffetmeye haz\u0131r m\u0131s\u0131n\u0131z? Kaliteli ve uygun fiyatl\u0131 anne bebek \u00fcr\u00fcnleri i\u00e7in hemen t\u0131kla.",
@@ -61,7 +71,7 @@
     },
     {
         "link": "https://ely-sia.net",
-        "Heading": "\uc790\uc2e0\uac10\uc744 \uc785\ub2e4 \uc5d8\ub9ac\uc2dc\uc544",
+        "Heading": "\uc5d8\ub9ac\uc2dc\uc544",
         "Abstract": null,
         "Official Site": "https://www.ely-sia.net",
         "Icon": "/shopimages/park6594/favicon.ico",
@@ -363,11 +373,11 @@
         "link": "https://fragranza.ro",
         "Heading": "Parfumuri Originale Online | Fragranza.ro",
         "Abstract": "Descoper\u0103 parfumuri originale pentru femei \u0219i b\u0103rba\u021bi la pre\u021buri avantajoase. Livrare rapid\u0103 \u00een toat\u0103 Rom\u00e2nia \u0219i garan\u021bia calit\u0103\u021bii 100% la Fragranza.ro.",
-        "Official Site": "https://fragranza.ro/",
+        "Official Site": "https://fragranza.ro/?utm_source=chatgpt.com",
         "Icon": "/themes/parfum/assets/image/favicon.ico",
-        "Redirect": "https://fragranza.ro/",
+        "Redirect": "https://fragranza.ro/?utm_source=chatgpt.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fragranza.ro/"
+        "AbstractURL": "https://fragranza.ro/?utm_source=chatgpt.com"
     },
     {
         "link": "https://france-vidcaps.org",

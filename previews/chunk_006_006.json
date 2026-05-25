@@ -351,12 +351,12 @@
     },
     {
         "link": "https://abccmm.org.br",
-        "Heading": "ABCCMM",
-        "Abstract": "-CUSTOMER VALUE-",
-        "Official Site": "-CUSTOMER VALUE-",
-        "Icon": "-CUSTOMER VALUE-",
-        "Redirect": "-CUSTOMER VALUE-",
+        "Heading": "\n\tABCCMM\n",
+        "Abstract": null,
+        "Official Site": "https://abccmm.org.br",
+        "Icon": "favicon.ico",
+        "Redirect": "https://abccmm.org.br",
         "AbstractSource": "BS4",
-        "AbstractURL": "-CUSTOMER VALUE-"
+        "AbstractURL": "https://abccmm.org.br"
     }
 ]

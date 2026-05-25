@@ -130,16 +130,6 @@
         "AbstractURL": "https://rvparky.com"
     },
     {
-        "link": "https://rundex.com",
-        "Heading": "Power Semiconductor Focused - Rundex Electronics - Rundex Electronics",
-        "Abstract": "Rundex focuses on power semiconductor (IGBT, MOSFET, SiC/GaN, etc.) technology selection, delivering cutting-edge global process solutions to quickly match the most cost-effective components, enhancing power system performance and reliability.",
-        "Official Site": "https://rundex.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://rundex.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rundex.com"
-    },
-    {
         "link": "https://andelskassen.dk",
         "Heading": "\nSkift bank til os | Relationsbank - Andelskassen",
         "Abstract": "Tillid, tryghed og gode relationer - det, synes vi, er vigtigt, n\u00e5r du skal tage beslutninger om din \u00f8konomi.",
@@ -188,6 +178,16 @@
         "Redirect": "https://comardeev.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://comardeev.ru"
+    },
+    {
+        "link": "https://generalion.es",
+        "Heading": "Generalion | Seguros para ti y tu empresa",
+        "Abstract": "Seguros personalizables para adaptarlos a tus necesidades, con el respaldo de un grupo l\u00edder. \u00a1Inf\u00f3rmate!",
+        "Official Site": "https://www.generalion.es/home-page",
+        "Icon": "/themes/custom/g_generalion/resources/assets/favicons/favicon.ico",
+        "Redirect": "https://www.generalion.es/home-page",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.generalion.es/home-page"
     },
     {
         "link": "https://refresco.com",

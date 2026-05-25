@@ -80,16 +80,6 @@
         "AbstractURL": "https://win71.buzz"
     },
     {
-        "link": "https://solo-semena.ru",
-        "Heading": " \u0421\u041e\u041b\u041e",
-        "Abstract": null,
-        "Official Site": "https://solo-semena.ru",
-        "Icon": "favicon.ico",
-        "Redirect": "https://solo-semena.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://solo-semena.ru"
-    },
-    {
         "link": "https://getcouponeer.com",
         "Heading": "GetCouponeer - Get instant coupons to your messenger",
         "Abstract": "Thousands of coupons from over 30.000 online stores worldwide.",
@@ -98,6 +88,16 @@
         "Redirect": "https://getcouponeer.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://getcouponeer.com"
+    },
+    {
+        "link": "https://orientalnotes.nl",
+        "Heading": "Oriental Notes - Jouw thuiswinkel voor Parfums van Kwalitiet",
+        "Abstract": "Oriental Notes is jouw online Thuiswinkel voor Orientale Parfums van kwaliteit. Van alle parfums kunt u een proefmonster bestellen.",
+        "Official Site": "https://orientalnotes.nl/",
+        "Icon": "https://orientalnotes.nl/wp-content/uploads/2019/11/LOGO_AppLogo.png",
+        "Redirect": "https://orientalnotes.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://orientalnotes.nl/"
     },
     {
         "link": "https://kryptonvault.co.uk",
@@ -178,16 +178,6 @@
         "Redirect": "https://fortmcmurraytoday.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fortmcmurraytoday.com"
-    },
-    {
-        "link": "https://strongholddirect.co.uk",
-        "Heading": "Stronghold Direct: Architectural Ironmongery Suppliers\n",
-        "Abstract": "Stronghold Direct is the online division of our business that specialises in security hardware and architectural ironmongery.",
-        "Official Site": "https://www.strongholddirect.co.uk/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0621/9582/6909/files/Stronghold_Icon_19a896d5-ab0e-44d3-885e-7f6c659a3311.png?v=1755091082",
-        "Redirect": "https://www.strongholddirect.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.strongholddirect.co.uk/"
     },
     {
         "link": "https://nagpuruniversity.ac.in",

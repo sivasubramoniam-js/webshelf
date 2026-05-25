@@ -70,6 +70,16 @@
         "AbstractURL": "https://flyingomelette.com"
     },
     {
+        "link": "https://die-for.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://die-for.com",
+        "Icon": "N/A",
+        "Redirect": "https://die-for.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://die-for.com"
+    },
+    {
         "link": "https://teremana.com",
         "Heading": "\n      Teremana Tequila\n    ",
         "Abstract": "Small batch tequila with rich flavor honoring the land it came from\u2014the Jalisco Highlands. Brought to you by founder Dwayne Johnson. Come have a drink.",
@@ -308,6 +318,16 @@
         "Redirect": "https://bakkerijvoncken.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bakkerijvoncken.nl"
+    },
+    {
+        "link": "https://humasana.com",
+        "Heading": "Humasana | Parapharmacie de produits clean et efficaces",
+        "Abstract": "D\u00e9couvrez notre s\u00e9lection de produits de parapharmacie clean et efficaces. Comparez et achetez parmi des milliers de produits naturels, bio et vegan.",
+        "Official Site": "https://www.humasana.com/fr/",
+        "Icon": "https://www.humasana.com/images/logo.png",
+        "Redirect": "https://www.humasana.com/fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.humasana.com/fr/"
     },
     {
         "link": "https://londonzone.co.uk",

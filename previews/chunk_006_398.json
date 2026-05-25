@@ -144,7 +144,7 @@
         "Heading": "Serviceinfos f\u00fcr ASTA Shopbesucher - Arbeitsschutz vom Profi",
         "Abstract": "",
         "Official Site": "https://asta-webshop.de",
-        "Icon": "favicon.php?SessID=ba0feeb1b4632c5ff5367eccfa33caa7",
+        "Icon": "favicon.php?SessID=c14b6de396bf4d93ef298b6ba859a4d2",
         "Redirect": "https://asta-webshop.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://asta-webshop.de"
@@ -190,13 +190,33 @@
         "AbstractURL": "https://birdnet.cn"
     },
     {
+        "link": "https://burton-racing.com",
+        "Heading": "\n  Burton-Racing\n  ",
+        "Abstract": "Burton-Racing",
+        "Official Site": "https://www.burton-racing.com/",
+        "Icon": "http://www.burton-racing.com/cdn/shop/files/BRLOGO1_1_50_1200x1200.jpg?v=1613683523",
+        "Redirect": "https://www.burton-racing.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.burton-racing.com/"
+    },
+    {
         "link": "https://chcn.co.kr",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "::\ucc44\ub110\uc528\uc5d4:: \uc911\uad6d\uc5b4\ub85c \uafc8\uafb8\ub294 \uacf3~!",
+        "Abstract": "::\ucc44\ub110\uc528\uc5d4:: \uc911\uad6d\uc5b4\ub85c \uafc8\uafb8\ub294 \uacf3~!",
         "Official Site": "https://chcn.co.kr",
         "Icon": "N/A",
         "Redirect": "https://chcn.co.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chcn.co.kr"
+    },
+    {
+        "link": "https://clownstrike.co.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://clownstrike.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://clownstrike.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://clownstrike.co.uk"
     }
 ]

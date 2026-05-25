@@ -90,16 +90,6 @@
         "AbstractURL": "index.php"
     },
     {
-        "link": "https://athworldproperties.com",
-        "Heading": "ATH World Properties",
-        "Abstract": null,
-        "Official Site": "https://athworldproperties.com",
-        "Icon": "https://athworldproperties.com/wp-content/uploads/2023/09/ATH-logo-favicon.png",
-        "Redirect": "https://athworldproperties.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://athworldproperties.com"
-    },
-    {
         "link": "https://adxstar.net",
         "Heading": "Adxstar.net",
         "Abstract": "ptp\npaid to promote\ncpm ad network",
@@ -198,6 +188,16 @@
         "Redirect": "https://hfhouse.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hfhouse.com"
+    },
+    {
+        "link": "https://cnhi.com",
+        "Heading": "Home - CNHI",
+        "Abstract": "Your Local News Anytime Anywhere Sharing compelling stories in communities across the nation. CNHI Newspapers Proudly Serving Our Communities In... Read More",
+        "Official Site": "https://www.cnhi.com/",
+        "Icon": "https://www.cnhi.com/wp-content/themes/cnhi/images/favicon.ico",
+        "Redirect": "https://www.cnhi.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cnhi.com/"
     },
     {
         "link": "https://bebrik.men",

@@ -161,7 +161,7 @@
     },
     {
         "link": "https://pieri.sc",
-        "Heading": "[\u30ec\u30a4\u30af&\u30cf\u30c3\u30d4\u30fc\u30b5\u30a4\u30c9\u30e2\u30fc\u30eb] PIERI\uff08\u30d4\u30a8\u30ea\uff09\u5b88\u5c71\uff5c\u6ecb\u8cc0\u770c\u5b88\u5c71\u3073\u308f\u3053\u5927\u6a4b\u6771\u8a70",
+        "Heading": "[\u30ec\u30a4\u30af&\u30cf\u30c3\u30d4\u30fc\u30b5\u30a4\u30c9\u30e2\u30fc\u30eb] PIERI\uff08\u30d4\u30a8\u30ea\uff09\u5b88\u5c71\uff5c\u6ecb\u8cc0\u770c\u5b88\u5c71\u7435\u7436\u6e56\u6cbf\u3044\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30e2\u30fc\u30eb",
         "Abstract": "\u6ecb\u8cc0\u770c\u3073\u308f\u3053\u5927\u6a4b\u6771\u8a70\u3001\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30e2\u30fc\u30eb\u3010\u30d4\u30a8\u30ea\u5b88\u5c71\u3011\u306e\u30db\u30fc\u30e0\u30da\u30fc\u30b8\u3067\u3059",
         "Official Site": "/",
         "Icon": "N/A",
@@ -184,7 +184,7 @@
         "Heading": "Spacetalk | Kids Smart Watch, Family App & Mobile Plans",
         "Abstract": "Australia's #1 kids smart watch brand.* The Spacetalk App connects kids smartwatches and family mobile plans in one place. GPS tracking, 4G video calls, SOS, School Mode, location alerts and trusted contacts. Family safety made simple, with no social media or internet browser. Free family app for iOS and Android.",
         "Official Site": "https://spacetalk.co/",
-        "Icon": "http://spacetalk.co/cdn/shop/files/spacetalk-square-shopify.png?v=1772362443",
+        "Icon": "http://cdn.shopify.com/s/files/1/2141/2237/files/spacetalk-square-shopify.png?v=1772362443",
         "Redirect": "https://spacetalk.co/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://spacetalk.co/"
@@ -210,6 +210,16 @@
         "AbstractURL": "https://pathiaworld.co.uk"
     },
     {
+        "link": "https://dxfactor.com",
+        "Heading": "DXFactor - Your AI Engineering Partner for Real Outcomes",
+        "Abstract": null,
+        "Official Site": "https://dxfactor.com",
+        "Icon": "N/A",
+        "Redirect": "https://dxfactor.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dxfactor.com"
+    },
+    {
         "link": "https://sanhruou.com",
         "Heading": "S\u00e0nh R\u01b0\u1ee3u - S\u00e0nh R\u01b0\u1ee3u",
         "Abstract": "Ph\u00e2n ph\u1ed1i v\u00e0 b\u00e1n l\u1ebb c\u00e1c d\u00f2ng r\u01b0\u1ee3u ngo\u1ea1i nh\u1eadp nh\u01b0: R\u01b0\u1ee3u vang, wine, R\u01b0\u1ee3u Whisky, Vodka, Cognac, Tequila, Gin, Rum, Sake, Bia, Soju, Absinthe,... v\u1edbi 10.000 s\u1ea3n ph\u1ea9m, l\u00e0 th\u01b0\u01a1ng hi\u1ec7u uy t\u00edn v\u00e0 l\u1edbn nh\u1ea5t t\u1ea1i Vi\u1ec7t Nam.",
@@ -228,16 +238,6 @@
         "Redirect": "https://pompeu.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pompeu.es"
-    },
-    {
-        "link": "https://uniforminsignia.net",
-        "Heading": "International Encyclopedia of uniforms and insignia",
-        "Abstract": "Welcome to the International Encyclopedia of Uniform\u00a0Insignia \u00a0 The\u00a0International Encyclopedia\u00a0of Uniform\u00a0Insignia\u00a0\u00a0is a ...",
-        "Official Site": "https://www.uniforminsignia.net/",
-        "Icon": "https://www.uniforminsignia.net/files/default_open_graph_image.jpg",
-        "Redirect": "https://www.uniforminsignia.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.uniforminsignia.net/"
     },
     {
         "link": "https://paulbhardware.com",

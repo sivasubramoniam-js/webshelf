@@ -180,6 +180,16 @@
         "AbstractURL": "https://ads-abc.com"
     },
     {
+        "link": "https://connectingcolorado.gov",
+        "Heading": "Title of the document",
+        "Abstract": null,
+        "Official Site": "https://connectingcolorado.gov",
+        "Icon": "N/A",
+        "Redirect": "https://connectingcolorado.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://connectingcolorado.gov"
+    },
+    {
         "link": "https://fooletfs.com",
         "Heading": "Motley Fool Asset Management",
         "Abstract": "ETFs that invest beyond the status quo.",
@@ -308,16 +318,6 @@
         "Redirect": "https://data-light.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://data-light.ru/"
-    },
-    {
-        "link": "https://hanfbar24.de",
-        "Heading": "Hanfbar24.de - Kaufen Sie Cannabissamen, feminisierte Samen, selbstbl\u00fchende Samen, Stecklinge, 10-OH-Vapes und Gummies",
-        "Abstract": "Kaufen Sie Cannabissamen, feminisierte Samen, selbstbl\u00fchende Samen, Stecklinge, 10-OH-Vapes und Gummies",
-        "Official Site": "https://hanfbar24.de/",
-        "Icon": "https://hanfbar24.de/wp-content/uploads/2024/12/cropped-logohanfbar-32x32.webp",
-        "Redirect": "https://hanfbar24.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hanfbar24.de/"
     },
     {
         "link": "https://grokiskis.lt",

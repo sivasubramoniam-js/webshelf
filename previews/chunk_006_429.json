@@ -110,16 +110,6 @@
         "AbstractURL": "https://stridecenter.co.uk"
     },
     {
-        "link": "https://onlinemarketinggurus.com.au",
-        "Heading": "Digital Marketing Agency | Australia | 50+ Awards SEO & Paid",
-        "Abstract": "Boost your digital marketing with expert SEO, Paid & Social Media strategies. Drive online traffic & grow your business with our digital solutions!",
-        "Official Site": "https://www.onlinemarketinggurus.com.au/",
-        "Icon": "https://www.onlinemarketinggurus.com.au/wp-content/uploads/2025/02/favicon-150x150.png",
-        "Redirect": "https://www.onlinemarketinggurus.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.onlinemarketinggurus.com.au/"
-    },
-    {
         "link": "https://millenniumfellows.org",
         "Heading": "Take your Social Impact Work to the Next Level| Millennium Fellowship",
         "Abstract": "The United Nations Academic Impact and MCN proudly present the Millennium Fellowship. The Fellowship is a semester-long leadership development program on your campus to take your social impact to the next level. Access to world class training, connections, and credentials is just an application away",
@@ -308,5 +298,15 @@
         "Redirect": "https://aulpa.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aulpa.com/"
+    },
+    {
+        "link": "https://thegbi.org",
+        "Heading": "Home | Green Building Initiative",
+        "Abstract": "Green Building Initiative (GBI) is an organization dedicated to improving the built environment through green building certification, training, education, and advocacy.",
+        "Official Site": "https://thegbi.org/",
+        "Icon": "http://thegbi.org/wp-content/uploads/2025/01/GBI_Website_Header-1024x683.png",
+        "Redirect": "https://thegbi.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thegbi.org/"
     }
 ]
