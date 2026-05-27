@@ -30,16 +30,6 @@
         "AbstractURL": "https://verpakgigant.nl/"
     },
     {
-        "link": "https://otgf.net",
-        "Heading": "Only Teen Girls - Index page",
-        "Abstract": null,
-        "Official Site": "https://otgf.net",
-        "Icon": "http://otgf.net/favicon.ico",
-        "Redirect": "https://otgf.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://otgf.net"
-    },
-    {
         "link": "https://madeirausa.com",
         "Heading": "\n\tMadeira USA - High Quality Machine Embroidery Thread and Supplies\n",
         "Abstract": "Madeira USA is the high quality machine embroidery thread and embroidery supplies market leader. Turn to Madeira for embroidery thread, embroidery backing, embroidery supplies and embroidery expertise. Madeira provides superior customer satisfaction through quality, color selection, availability and service.",
@@ -198,6 +188,16 @@
         "Redirect": "https://friendslookingforbenefits.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://friendslookingforbenefits.com"
+    },
+    {
+        "link": "https://gielsmilitaria.com",
+        "Heading": "Giel's Militaria",
+        "Abstract": "Giel\u2019s Militaria is a buy and sell platform which has been created out of years of experience and an appreciation for military antiques.",
+        "Official Site": "https://gielsmilitaria.com",
+        "Icon": "https://gielsmilitaria.com/image/catalog/favicon.png",
+        "Redirect": "https://gielsmilitaria.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gielsmilitaria.com"
     },
     {
         "link": "https://time2getsecure.com",

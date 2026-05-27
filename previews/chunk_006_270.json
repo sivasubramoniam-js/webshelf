@@ -51,10 +51,10 @@
     },
     {
         "link": "https://centralexchange.co.uk",
-        "Heading": "Central Exchange UK - Financial News, Market Insights & Trading Analysis",
-        "Abstract": "Central Exchange UK provides expert financial news, market insights, and trading analysis for investors and traders. Stay updated with the latest trends and strategies.",
+        "Heading": "Under Maintenance",
+        "Abstract": null,
         "Official Site": "https://centralexchange.co.uk",
-        "Icon": "https://usc1.contabostorage.com/83226f3934d449eb8c821d388b39f7b1:nextbacklinks/favicon/favicons/KEITHSTON_35_s3nsGol_mkXOFEP_jb1mwCH.png",
+        "Icon": "N/A",
         "Redirect": "https://centralexchange.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://centralexchange.co.uk"
@@ -78,16 +78,6 @@
         "Redirect": "https://www.bikestats.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bikestats.pl"
-    },
-    {
-        "link": "https://kootstra.frl",
-        "Heading": "Of changing.",
-        "Abstract": null,
-        "Official Site": "https://kootstra.frl",
-        "Icon": "N/A",
-        "Redirect": "https://kootstra.frl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kootstra.frl"
     },
     {
         "link": "https://pohkong.com.my",
@@ -294,7 +284,7 @@
         "Heading": "\nLinkedUpRadio - Tools for Radio Stations",
         "Abstract": "LinkedUpRadio is a platform with complete web solution for radio stations, owned by Envisionwise. Hundreds of stations across the United States and Canada actively use LinkedUpRadio daily. LinkedUpRadio allows individuals or groups to manage all station websites, online ads, content, and social networking in one easy-to-use system.",
         "Official Site": "https://linkedupradio.com/",
-        "Icon": "https://linkedupradio.com/images/fb_icon.jpg?1779692790",
+        "Icon": "https://linkedupradio.com/images/fb_icon.jpg?1779864866",
         "Redirect": "https://linkedupradio.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://linkedupradio.com/"
@@ -321,12 +311,12 @@
     },
     {
         "link": "https://scorpionexo.com",
-        "Heading": "ScorpionEXO Europe\u2013 Motorcycle Helmets: Safety and Design",
-        "Abstract": "ScorpionEXO motorcycle helmets \u2013 advanced protection, bold design, and cutting-edge technology for every ride.",
-        "Official Site": "https://scorpionexo.com/eu/",
-        "Icon": "https://scorpionexo.com/eu/wp-content/themes/limeo/assets/img/favicon-96x96.png",
-        "Redirect": "https://scorpionexo.com/eu/",
+        "Heading": "Homepage | ScorpionEXO USA Motorcycle Helmets and Apparel",
+        "Abstract": "Visit ScorpionEXO USA homepage today for the newest in motorcycle helmets and apparel featuring quality innovation and design",
+        "Official Site": "https://scorpionexo.com/na/",
+        "Icon": "https://scorpionexo.com/na/wp-content/uploads/sites/3/2025/10/ScorpionEXO-Site-Image-Logo.jpg",
+        "Redirect": "https://scorpionexo.com/na/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://scorpionexo.com/eu/"
+        "AbstractURL": "https://scorpionexo.com/na/"
     }
 ]

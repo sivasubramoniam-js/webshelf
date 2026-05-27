@@ -130,16 +130,6 @@
         "AbstractURL": "https://museum-gestaltung.ch"
     },
     {
-        "link": "https://shareflare.net",
-        "Heading": "Checking your browser...",
-        "Abstract": null,
-        "Official Site": "https://shareflare.net",
-        "Icon": "N/A",
-        "Redirect": "https://shareflare.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shareflare.net"
-    },
-    {
         "link": "https://gergeminfo.nl",
         "Heading": "Home | Gergeminfo",
         "Abstract": null,
@@ -148,6 +138,16 @@
         "Redirect": "https://www.gergeminfo.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.gergeminfo.nl"
+    },
+    {
+        "link": "https://coinchapter.com",
+        "Heading": "Crypto News Today, Price Analysis, Charts - CoinChapter\u2026",
+        "Abstract": "Get the latest crypto news today and stay up-to-date on major crypto price like Bitcoin, Ethereum, Ripple and more at CoinChapter.",
+        "Official Site": "https://coinchapter.com/",
+        "Icon": "https://coinchapter.com/wp-content/uploads/2025/08/Ethereum-ETH-Sees-Institutional-Interest-Growth-as-Advisors-Lead-ETFs-Ark-Invest-Backs-Bitmine-860x484.webp",
+        "Redirect": "https://coinchapter.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://coinchapter.com/"
     },
     {
         "link": "https://thishealthytable.com",

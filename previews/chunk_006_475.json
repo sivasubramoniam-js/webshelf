@@ -70,6 +70,16 @@
         "AbstractURL": "https://dpmj.cz"
     },
     {
+        "link": "https://bearberryretail.com",
+        "Heading": "Bearberry Fashion & Lifestyle",
+        "Abstract": null,
+        "Official Site": "https://bearberryretail.com",
+        "Icon": "https://www.bearberryretail.com/wp-content/uploads/2024/09/favicon-1-50x50.png",
+        "Redirect": "https://bearberryretail.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bearberryretail.com"
+    },
+    {
         "link": "https://dotsilicon.com",
         "Heading": "Dotsilicon Limited | The state of technology",
         "Abstract": "Dotsilicon is an arena of Sales Automation, Web Design, Web Based Software Development, Web Hosting, Corporate Email Hosting, Domain Registration, and Digital (SSL) Certificate Provider.",
@@ -78,16 +88,6 @@
         "Redirect": "https://www.dotsilicon.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.dotsilicon.com"
-    },
-    {
-        "link": "https://ifotovideo.cz",
-        "Heading": "iFotoVideo.cz",
-        "Abstract": "",
-        "Official Site": "https://ifotovideo.cz",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://ifotovideo.cz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ifotovideo.cz"
     },
     {
         "link": "https://embercentral.co.uk",
@@ -148,16 +148,6 @@
         "Redirect": "https://freedomvoice.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://freedomvoice.com"
-    },
-    {
-        "link": "https://jianpuku.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://jianpuku.com",
-        "Icon": "data:image/x-icon;,",
-        "Redirect": "https://jianpuku.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jianpuku.com"
     },
     {
         "link": "https://unionigaming.co.uk",

@@ -122,12 +122,12 @@
     {
         "link": "https://raddle.quest",
         "Heading": "Raddle \u2014 Word Transformation Game by Sandy Weisz",
-        "Abstract": "The daily word transformation game",
-        "Official Site": "https://raddle.quest/",
-        "Icon": "/logo.png",
-        "Redirect": "https://raddle.quest/",
+        "Abstract": "A daily word game by Sandy Weisz",
+        "Official Site": "https://raddle.quest",
+        "Icon": "https://raddle.quest/preview/2026-05-27.png",
+        "Redirect": "https://raddle.quest",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://raddle.quest/"
+        "AbstractURL": "https://raddle.quest"
     },
     {
         "link": "https://crafthearttokai.jp",
@@ -208,6 +208,16 @@
         "Redirect": "https://www.kahalaresort.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.kahalaresort.com/"
+    },
+    {
+        "link": "https://bankislami.com.pk",
+        "Heading": "BankIslami Pakistan Limited \u2013 Saving Humanity from Riba",
+        "Abstract": "BankIslami Pakistan Limited, commonly referred to as BankIslami, is one of the leading Islamic banks in Pakistan. It was established in 2006 as a full-fledged Islamic commercial bank, offering a wide range of Shariah-compliant financial products and services.",
+        "Official Site": "https://bankislami.com.pk",
+        "Icon": "https://bankislami.com.pk/favicon.ico",
+        "Redirect": "https://bankislami.com.pk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bankislami.com.pk"
     },
     {
         "link": "https://jetyorum.com",

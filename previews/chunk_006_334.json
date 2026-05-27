@@ -184,20 +184,10 @@
         "Heading": "Spacetalk | Kids Smart Watch, Family App & Mobile Plans",
         "Abstract": "Australia's #1 kids smart watch brand.* The Spacetalk App connects kids smartwatches and family mobile plans in one place. GPS tracking, 4G video calls, SOS, School Mode, location alerts and trusted contacts. Family safety made simple, with no social media or internet browser. Free family app for iOS and Android.",
         "Official Site": "https://spacetalk.co/",
-        "Icon": "http://cdn.shopify.com/s/files/1/2141/2237/files/spacetalk-square-shopify.png?v=1772362443",
+        "Icon": "http://spacetalk.co/cdn/shop/files/spacetalk-square-shopify.png?v=1772362443",
         "Redirect": "https://spacetalk.co/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://spacetalk.co/"
-    },
-    {
-        "link": "https://xentrydiagnosis.store",
-        "Heading": "xentrydiagnosis.store\u00a0-\u00a0This website is for sale!\u00a0-\u00a0xentrydiagnosis Resources and Information.",
-        "Abstract": "This website is for sale! xentrydiagnosis.store is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, xentrydiagnosis.store has it all. We hope you find what you are searching for!",
-        "Official Site": "https://xentrydiagnosis.store",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://xentrydiagnosis.store",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://xentrydiagnosis.store"
     },
     {
         "link": "https://pathiaworld.co.uk",
@@ -238,6 +228,16 @@
         "Redirect": "https://pompeu.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pompeu.es"
+    },
+    {
+        "link": "https://uniforminsignia.net",
+        "Heading": "International Encyclopedia of uniforms and insignia",
+        "Abstract": "Welcome to the International Encyclopedia of Uniform\u00a0Insignia \u00a0 The\u00a0International Encyclopedia\u00a0of Uniform\u00a0Insignia\u00a0\u00a0is a ...",
+        "Official Site": "https://www.uniforminsignia.net/",
+        "Icon": "https://www.uniforminsignia.net/files/default_open_graph_image.jpg",
+        "Redirect": "https://www.uniforminsignia.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.uniforminsignia.net/"
     },
     {
         "link": "https://paulbhardware.com",
@@ -328,16 +328,6 @@
         "Redirect": "https://hamburger-software.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hamburger-software.de"
-    },
-    {
-        "link": "https://898image.store",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://898image.store",
-        "Icon": "N/A",
-        "Redirect": "https://898image.store",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://898image.store"
     },
     {
         "link": "https://subregionof.com",

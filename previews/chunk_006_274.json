@@ -80,16 +80,6 @@
         "AbstractURL": "https://althawrah.ye/"
     },
     {
-        "link": "https://bensechem.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://bensechem.com",
-        "Icon": "N/A",
-        "Redirect": "https://bensechem.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bensechem.com"
-    },
-    {
         "link": "https://optiker-vergleich.ch",
         "Heading": "\u1405 1211 Optikergesch\u00e4fte",
         "Abstract": null,
@@ -131,7 +121,7 @@
     },
     {
         "link": "https://godtsmil.dk",
-        "Heading": "\n    Billig Tandl\u00e6ge \u2192 42 topmoderne klinikker \u2192 S\u00f8de dygtige Tandl\u00e6ger!  ",
+        "Heading": "\n    Billig Tandl\u00e6ge \u2192 43 topmoderne klinikker \u2192 S\u00f8de dygtige Tandl\u00e6ger!  ",
         "Abstract": "Godt Smil er DK's absolut f\u00f8rende tandl\u00e6ger - Spar op til 40% p\u00e5 din tandbehandling - Klinikker i hele Danmark - Fuld tilfredshed eller pengene tilbage - Book tid nu!",
         "Official Site": "https://www.godtsmil.dk/",
         "Icon": "https://www.godtsmil.dk/wp-content/uploads/2022/07/cropped-godtsmil-favicon-32x32.png",
@@ -148,16 +138,6 @@
         "Redirect": "https://purool.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://purool.com"
-    },
-    {
-        "link": "https://beautifulmetas.com",
-        "Heading": "\u30c4\u30fc\u30eb\u30ed\u30b0\u30a4\u30f3",
-        "Abstract": null,
-        "Official Site": "https://beautifulmetas.com",
-        "Icon": "N/A",
-        "Redirect": "https://beautifulmetas.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://beautifulmetas.com"
     },
     {
         "link": "https://kestrelterra.com",
@@ -300,6 +280,16 @@
         "AbstractURL": "https://www.landprime.com/en-GB"
     },
     {
+        "link": "https://magazineoutclass.com",
+        "Heading": "- The Magazine That OutClasses the Rest.",
+        "Abstract": "The Magazine That OutClasses the Rest.",
+        "Official Site": "https://magazineoutclass.com/",
+        "Icon": "N/A",
+        "Redirect": "https://magazineoutclass.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://magazineoutclass.com/"
+    },
+    {
         "link": "https://trackyourhours.com",
         "Heading": "Track hours for licensure as an LMFT, LCSW or LPCC - Track Your Hours",
         "Abstract": "Track hours for BBS licensure as an LMFT, LCSW or LPCC. Software applies BBS rules and generates forms.",
@@ -348,5 +338,15 @@
         "Redirect": "https://www.halcyondcms.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.halcyondcms.com/"
+    },
+    {
+        "link": "https://prayatlourdes.com",
+        "Heading": "Our Lady of Lourdes Catholic Church- Washington Missouri |",
+        "Abstract": null,
+        "Official Site": "https://prayatlourdes.com",
+        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
+        "Redirect": "https://prayatlourdes.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://prayatlourdes.com"
     }
 ]

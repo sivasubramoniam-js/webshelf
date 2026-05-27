@@ -241,13 +241,13 @@
     },
     {
         "link": "https://hydrotour.sk",
-        "Heading": "Cestovn\u00e1 kancel\u00e1ria Hydrotour",
-        "Abstract": null,
-        "Official Site": "https://hydrotour.sk",
-        "Icon": "/favicon.png",
-        "Redirect": "https://hydrotour.sk",
+        "Heading": "M\u00e1me radi leto po cel\u00fd rok \u2013 CK Hydrotour",
+        "Abstract": "Dovolenka 2026, last minute a first moment ponuky, leto aj exotika \u2713top dovolenkov\u00e9 destin\u00e1cie a hotely. Cestovn\u00e1 kancel\u00e1ria Hydrotour.",
+        "Official Site": "https://www.hydrotour.sk/",
+        "Icon": "https://www.hydrotour.sk/wp-content/uploads/2021/10/hydrotour_logo.png",
+        "Redirect": "https://www.hydrotour.sk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hydrotour.sk"
+        "AbstractURL": "https://www.hydrotour.sk/"
     },
     {
         "link": "https://creditsights.com",
@@ -294,7 +294,7 @@
         "Heading": "\n\t Monad Chain (MON) Blockchain Explorer\n",
         "Abstract": "MonadScan allows you to explore and search the Monad blockchain for transactions, addresses, tokens, prices and other activities taking place on Monad",
         "Official Site": "https://monadscan.com/",
-        "Icon": "https://monadscan.com/assets/monad/images/og-preview.jpg?v=26.5.2.1",
+        "Icon": "https://monadscan.com/assets/monad/images/og-preview.jpg?v=26.5.3.0",
         "Redirect": "https://monadscan.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://monadscan.com/"

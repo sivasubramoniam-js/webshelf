@@ -30,16 +30,6 @@
         "AbstractURL": "https://www1.gps-pamcary.com.br/"
     },
     {
-        "link": "https://kclj.si",
-        "Heading": null,
-        "Abstract": "UKC Ljubljana",
-        "Official Site": "https://kclj.si",
-        "Icon": "/gifki/oie_transparent.png",
-        "Redirect": "https://kclj.si",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kclj.si"
-    },
-    {
         "link": "https://exo5.com",
         "Heading": "EXO5 - Enterprise Laptop Tracking and Security",
         "Abstract": "Creators of EXO5 with RemoteKill\u00ae, protecting businesses worldwide from laptop and data theft. Official site.",
@@ -84,7 +74,7 @@
         "Heading": "IPMS/USA | IPMS/USA Home Page",
         "Abstract": "IPMS/USA is the United States Branch of the International Plastic Modelers' Society, whose roots can be traced to the startup of the first IPMS National Branch during the 1960's in Great Britain. In 1964 a US-based modeler applied for a charter to start the US Branch.",
         "Official Site": "https://ipmsusa.org",
-        "Icon": "https://ipmsusa.org/sites/default/files/favicon_0.ico",
+        "Icon": "https://ipmsusa.org:443/sites/default/files/favicon_0.ico",
         "Redirect": "https://ipmsusa.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ipmsusa.org"
@@ -112,9 +102,9 @@
     {
         "link": "https://pricehistoryapp.com",
         "Heading": "Price History - Price Tracker for Amazon, Flipkart & more",
-        "Abstract": "Price History is a free tool to check price history charts for millions of products. With our advanced Price Tracker you can track price for popular Indian stores such as Amazon, Flipkart, Myntra, Ajio, Croma & many more.",
+        "Abstract": "Track price history and get instant price drop alerts for products on Amazon, Flipkart, Myntra, and more. See historical price charts and buy at the right moment.",
         "Official Site": "https://pricehistoryapp.com",
-        "Icon": "https://cdn.pricehistory.in/media/banners/price-history.webp",
+        "Icon": "https://pricehistoryapp.com/opengraph-image?c968576a6e70a1ce",
         "Redirect": "https://pricehistoryapp.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pricehistoryapp.com"

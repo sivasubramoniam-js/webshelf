@@ -80,6 +80,16 @@
         "AbstractURL": "https://paninistore.com"
     },
     {
+        "link": "https://panuvideo.com",
+        "Heading": "panu video - panu | bangla panu | panu video | panu videos | bengali panu | desi panu |",
+        "Abstract": "panu | bangla panu | panu video | panu videos | bengali panu | desi panu |",
+        "Official Site": "https://panuvideo.com/",
+        "Icon": "https://panuvideo.com/wp-content/uploads/2022/04/cropped-Panuvideo-favicon-32x32.png",
+        "Redirect": "https://panuvideo.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://panuvideo.com/"
+    },
+    {
         "link": "https://papantoniou.gr",
         "Heading": "Papantoniou.gr",
         "Abstract": "\u039a\u03b1\u03c4\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1 \u03a6\u03c9\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u03ba\u03b1\u03b9 \u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03bf\u03cd \u03a5\u03bb\u03b9\u03ba\u03bf\u03cd",
@@ -191,13 +201,13 @@
     },
     {
         "link": "https://paulatorres.com.br",
-        "Heading": "Sapatos Femininos, sand\u00e1lias, botas e mais \u2013 Paula Torres\u00a0",
-        "Abstract": "Descubra os modelos de sapatos femininos Paula Torres. Cal\u00e7ados exclusivos, feitos \u00e0 m\u00e3o, para mulheres pr\u00e1ticas e sofisticadas. Ganhe 5% OFF em compras no PIX!",
-        "Official Site": "https://www.paulatorres.com.br/",
-        "Icon": "https://www.paulatorres.com.br/assets/preview.jpg",
-        "Redirect": "https://www.paulatorres.com.br/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://paulatorres.com.br",
+        "Icon": "N/A",
+        "Redirect": "https://paulatorres.com.br",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.paulatorres.com.br/"
+        "AbstractURL": "https://paulatorres.com.br"
     },
     {
         "link": "https://pauzza.pl",
@@ -208,6 +218,16 @@
         "Redirect": "https://pauzza.pl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pauzza.pl/"
+    },
+    {
+        "link": "https://pawo.pl",
+        "Heading": "PAWO: Moda m\u0119ska: sklep z odzie\u017c\u0105 m\u0119sk\u0105 online - sklep z garniturami",
+        "Abstract": "Stw\u00f3rz wizerunek nowoczesnego m\u0119\u017cczyzny z mark\u0105 Pawo - synonimem dobrego stylu i elegancji. Stawiamy na odzie\u017c biznesow\u0105, smart casual, jak i okazjonaln\u0105, w tym garnitury \u015blubne.",
+        "Official Site": "https://pawo.pl",
+        "Icon": "https://sklep.pawo.pl/img/favicon.ico?1644842346",
+        "Redirect": "https://pawo.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pawo.pl"
     },
     {
         "link": "https://paymentsway.co",

@@ -22,7 +22,7 @@
     {
         "link": "https://usine-online.com",
         "Heading": "\u00c9quipement Maison & Jardin Sur Mesure Direct Usine - USINE ONLINE ",
-        "Abstract": "Usine-Online.com \u00b7 Prix Direct Usine (-30% & Livraison Offerte) \u00b7 R\u00e8glement 2 \u00e0 12 mois + 20 000 clients ! +33 (0) 2 51 11 08 08 : 9h-12h30/14h-18h",
+        "Abstract": "Usine-Online.com \u00b7 Prix Direct Usine (-30% & Livraison Offerte) \u00b7 R\u00e8glement 2 \u00e0 12 mois + 20 000 clients ! +33 (0) 2 51 11 08 08 : 9h-12h30/14h-18h[i]ps_[i]1.6.1.18[i]2111[i]ps_[i]1.6.1.18[i]2111",
         "Official Site": "https://usine-online.com",
         "Icon": "/img/favicon.ico?1778573746",
         "Redirect": "https://usine-online.com",
@@ -81,10 +81,10 @@
     },
     {
         "link": "https://daivansoft.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Inform\u00e1tica a su medida - Daivan Soft - Soluciones Inform\u00e1ticas",
+        "Abstract": "Dise\u00f1o de p\u00e1ginas web, programaci\u00f3n web a medida, posicionamiento SEO en buscadores, creaci\u00f3n de tiendas online, programas de gesti\u00f3n y contabilidad en Elche.",
         "Official Site": "https://daivansoft.com",
-        "Icon": "N/A",
+        "Icon": "/templates/rt_oculus/favicon.ico",
         "Redirect": "https://daivansoft.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://daivansoft.com"
@@ -94,7 +94,7 @@
         "Heading": "Drucklufttechnik und Pneumatik online kaufen | RIEGLER",
         "Abstract": "RIEGLER - Qualit\u00e4t in Druckluft und Pneumatik \u2713 seit \u00fcber 80 Jahren am Markt \u2713 alle Produkte online erh\u00e4ltlich \u2794 Besuchen Sie uns jetzt!",
         "Official Site": "https://riegler.de",
-        "Icon": "https://www.riegler.de/static/version1777371336/frontend/riegler/default/de_DE/Magento_Theme/favicon-32x32.png",
+        "Icon": "https://www.riegler.de/static/version1779789743/frontend/riegler/default/de_DE/Magento_Theme/favicon-32x32.png",
         "Redirect": "https://riegler.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://riegler.de"
@@ -240,6 +240,16 @@
         "AbstractURL": "https://www.fallimenti.it/"
     },
     {
+        "link": "https://foodandnutritionresearch.net",
+        "Heading": "\n\t\tOpen Journal Systems\n\t\t\t\t\t",
+        "Abstract": null,
+        "Official Site": "https://foodandnutritionresearch.net",
+        "Icon": "N/A",
+        "Redirect": "https://foodandnutritionresearch.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://foodandnutritionresearch.net"
+    },
+    {
         "link": "https://vacuumschmelze.com",
         "Heading": "VAC - Advanced Magnetic Solutions | VAC",
         "Abstract": "A leading manufacturer of magnetic alloys and their downstream products",
@@ -270,13 +280,23 @@
         "AbstractURL": "https://rb-mnb3.com"
     },
     {
+        "link": "https://milawyersweekly.com",
+        "Heading": "Michigan Lawyers Weekly",
+        "Abstract": "An independent newspaper dedicated to providing court opinions, verdicts, settlements, appellate decisions, and legal news to enhance the practice of law in Michigan. Print and online subscriptions are available to attorneys / legal professionals and others interested in in-depth coverage of legal news in Michigan.",
+        "Official Site": "https://milawyersweekly.com/",
+        "Icon": "https://milawyersweekly.com/files/2022/03/MILW_weblogo.png",
+        "Redirect": "https://milawyersweekly.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://milawyersweekly.com/"
+    },
+    {
         "link": "https://comunidadescolar.cl",
         "Heading": "Comunidad Escolar",
         "Abstract": "Comunidad Escolar",
-        "Official Site": "https://comunidadescolar.cl/",
+        "Official Site": "https://www.comunidadescolar.cl/",
         "Icon": "https://comunidadescolar.cl/wp-content/uploads/2019/08/favicon.ico",
-        "Redirect": "https://comunidadescolar.cl/",
+        "Redirect": "https://www.comunidadescolar.cl/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://comunidadescolar.cl/"
+        "AbstractURL": "https://www.comunidadescolar.cl/"
     }
 ]

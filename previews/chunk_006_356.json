@@ -31,8 +31,8 @@
     },
     {
         "link": "https://petersburg1.ru",
-        "Heading": "petersburg1.ru - Daily Updates",
-        "Abstract": "Read the latest articles and updates on petersburg1.ru.",
+        "Heading": "petersburg1.ru - The Portal",
+        "Abstract": "Your daily source for news and resources at petersburg1.ru.",
         "Official Site": "https://petersburg1.ru",
         "Icon": "N/A",
         "Redirect": "https://petersburg1.ru",
@@ -318,15 +318,5 @@
         "Redirect": "https://naedro.bg",
         "AbstractSource": "BS4",
         "AbstractURL": "https://naedro.bg"
-    },
-    {
-        "link": "https://panda-eco.com",
-        "Heading": "Panda Eco System \u2013 Panda Eco System",
-        "Abstract": null,
-        "Official Site": "https://panda-eco.com",
-        "Icon": "https://panda-eco.com/wp-content/uploads/2023/04/Panda-Logo_R-115x100-01.png",
-        "Redirect": "https://panda-eco.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://panda-eco.com"
     }
 ]

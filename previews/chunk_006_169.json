@@ -94,7 +94,7 @@
         "Heading": "Fifteen - Augmented Bike Networks - Bike sharing, Long-term rental",
         "Abstract": "Fifteen enables cities to deploy complementary short and long-term rental bike services in all communities \u2013 from city centres to suburbs and even further.",
         "Official Site": "https://fifteen.eu/en",
-        "Icon": "https://fifteen.eu/images/social/social_share_main.jpg?v=1.28.0-f364b17f",
+        "Icon": "https://fifteen.eu/images/social/social_share_main.jpg?v=1.29.0",
         "Redirect": "https://fifteen.eu/en",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fifteen.eu/en"
@@ -160,16 +160,6 @@
         "AbstractURL": "https://thetrustproject.org/"
     },
     {
-        "link": "https://reelzplus.com",
-        "Heading": "\n    REELZ+",
-        "Abstract": "The home of On Patrol Live",
-        "Official Site": "https://reelzplus.com/reelz-en/home?pagerefresh",
-        "Icon": "https://cdn.katapy.io/ktdata2/7846/img/170020.JPEG",
-        "Redirect": "https://reelzplus.com/reelz-en/home?pagerefresh",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://reelzplus.com/reelz-en/home?pagerefresh"
-    },
-    {
         "link": "https://yeezyboost.com.co",
         "Heading": "XOSO66 Trang Ch\u1ee7 \u2b50\ufe0f LINK \u0110\u0102NG NH\u1eacP | \u0110\u0102NG K\u00dd XOSO66",
         "Abstract": "Ra m\u1eaft ng\u00e0y 06/06/2016 t\u1ea1i V\u01b0\u01a1ng Qu\u1ed1c Anh, XOSO66 l\u00e0 n\u1ec1n t\u1ea3ng x\u1ed5 s\u1ed1 tr\u1ef1c tuy\u1ebfn uy t\u00edn, \u0111\u01b0\u1ee3c c\u1ea5p ph\u00e9p ho\u1ea1t \u0111\u1ed9ng v\u00e0 thu h\u00fat h\u00e0ng tri\u1ec7u ng\u01b0\u1eddi",
@@ -178,6 +168,16 @@
         "Redirect": "https://coachcanadaoutlet.com.co/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://coachcanadaoutlet.com.co/"
+    },
+    {
+        "link": "https://groovyfreeads.com",
+        "Heading": "Groovy Free Ads",
+        "Abstract": "Post classified ads for free! Real estate, business opportunities, Clickbank offers, vehicles, products and services.",
+        "Official Site": "https://groovyfreeads.com",
+        "Icon": "https://groovyfreeads.com/oc-content/themes/bender/favicon/favicon-48.png",
+        "Redirect": "https://groovyfreeads.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://groovyfreeads.com"
     },
     {
         "link": "https://enerparc.com",
@@ -211,10 +211,10 @@
     },
     {
         "link": "https://rutherfordcountytn.gov",
-        "Heading": "Rutherford County, TN",
-        "Abstract": "Rutherford County, TN",
+        "Heading": "Error",
+        "Abstract": null,
         "Official Site": "https://rutherfordcountytn.gov",
-        "Icon": "/repository/designs/templates/GO_rutherfordcounty-tn_2024_resp/images/favicon.png",
+        "Icon": "N/A",
         "Redirect": "https://rutherfordcountytn.gov",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rutherfordcountytn.gov"

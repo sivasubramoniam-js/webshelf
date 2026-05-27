@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://erviplus.cz",
-        "Heading": "Ervi - bytov\u00fd textil | \u00davod",
-        "Abstract": "Nejprod\u00e1van\u011bj\u0161\u00ed produkty v e-shopu, top-produkty",
-        "Official Site": "https://www.erviplus.cz/",
-        "Icon": "https://www.erviplus.cz/img/og-image.png",
-        "Redirect": "https://www.erviplus.cz/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.erviplus.cz/"
-    },
-    {
         "link": "https://esica.online",
         "Heading": "ESICA \uff08\u30a8\u30b7\u30ab\uff09 | \u516c\u5f0f/\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u901a\u8ca9\u30b5\u30a4\u30c8\n",
         "Abstract": "MY LIFE, NEW STANDARD \u65e5\u3005\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u3055\u308c\u308b\u30d9\u30fc\u30b7\u30c3\u30af",
@@ -211,10 +201,10 @@
     },
     {
         "link": "https://expressoguanabara.com.br",
-        "Heading": "Passagem de \u00d4nibus: Compre Online | Viaje Guanabara",
-        "Abstract": "Encontre passagens de \u00f4nibus para milhares de destinos no Brasil. Viaje com a \u00datil, Sampaio, Real Expresso e Expresso Guanabara. Compre online com seguran\u00e7a!",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://expressoguanabara.com.br",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://expressoguanabara.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://expressoguanabara.com.br"
@@ -244,15 +234,15 @@
         "Heading": "\n      EZO Billing Machine for Restaurant, Clothing & Retail Businesses\n \u2013 Ezo Books",
         "Abstract": "Ezo Books",
         "Official Site": "https://store.ezobooks.in/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0663/8498/6248/files/ASHISH_-_DND_Branding.png?v=1734954082",
+        "Icon": "http://store.ezobooks.in/cdn/shop/files/ASHISH_-_DND_Branding.png?v=1734954082",
         "Redirect": "https://store.ezobooks.in/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://store.ezobooks.in/"
     },
     {
         "link": "https://fableroom.com",
-        "Heading": "Modern Home Decor Online | Fableroom \u2013 FABLEROOM",
-        "Abstract": "Shop modern home decor items and unique room decor accessories at Fableroom. Handcrafted pieces, sourced direct with no middlemen, priced honestly and delivered across UK",
+        "Heading": "Thoughtfully Made, Fairly Priced | Home & Lifestyle | FableRoom \u2013 FABLEROOM",
+        "Abstract": "Handcrafted rugs, furniture and home accessories, from skilled artisans, to your door. No unnecessary markups. No layers of middlemen. Just thoughtfully made pieces, built to last, and priced for what they\u2019re truly worth.",
         "Official Site": "https://fableroom.com/",
         "Icon": "http://fableroom.com/cdn/shop/files/fableroom_favicon.png?crop=center&height=1200&v=1768805227&width=1200",
         "Redirect": "https://fableroom.com/",

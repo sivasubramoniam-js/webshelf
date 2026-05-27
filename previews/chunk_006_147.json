@@ -60,16 +60,6 @@
         "AbstractURL": "https://prontobb.net"
     },
     {
-        "link": "https://eye-eye-isuzu.co.jp",
-        "Heading": "\n        \u30a2\u30a4\u30a2\u30a4\u30a4\u30b9\u30ba\uff5c\u9999\u5ddd\u770c\u9ad8\u677e\u5e02\u306e\u30d6\u30e9\u30f3\u30c9\u6b63\u898f\u8ca9\u58f2\u5e97\n",
-        "Abstract": "\u30a2\u30a4\u30a2\u30a4\u30a4\u30b9\u30ba\u306f\u9999\u5ddd\u770c\u9ad8\u677e\u5e02\u306b\u3042\u308b\u3001\u4e16\u754c\u3067\u3082\u6700\u9ad8\u5cf0\u3068\u8a00\u308f\u308c\u308b\u30d6\u30e9\u30f3\u30c9\u307e\u3067\u3092\u56fd\u5185\u6b63\u898f\u8ca9\u58f2\u5e97\u3068\u3057\u3066\u53d6\u308a\u6271\u3046\u3001\u56fd\u5185\u6709\u6570\u306e\u8155\u6642\u8a08\u5e97\u3067\u3059\u3002\u9ad8\u7d1a\u8155\u6642\u8a08\u3001\u30b8\u30e5\u30a8\u30ea\u30fc\u3001\u30d6\u30e9\u30a4\u30c0\u30eb\u30a2\u30a4\u30c6\u30e0\u306e\u4ed6\u3001\u30a2\u30a4\u30a6\u30a7\u30a2(\u773c\u93e1)\u3082\u5145\u5b9f\u306e\u30e9\u30a4\u30f3\u30ca\u30c3\u30d7\u3067\u304a\u53d6\u308a\u6271\u3044\u3057\u3066\u304a\u308a\u307e\u3059\u3002 \u5e97\u8217\u3067\u3082\u30aa\u30f3\u30e9\u30a4\u30f3\u3067\u3082\u3001\u304a\u5ba2\u69d8\u306e\u60f3\u3044\u306b\u5bc4\u308a\u6dfb\u3044\u3001\u7d20\u6575\u306a\u6642\u9593\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-        "Official Site": "https://www.eye-eye-isuzu.co.jp/",
-        "Icon": "http://www.eye-eye-isuzu.co.jp/cdn/shop/files/ogp_ee9966c3-c68a-437d-be1c-2b1c96f59017.png?v=1686276513",
-        "Redirect": "https://www.eye-eye-isuzu.co.jp/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.eye-eye-isuzu.co.jp/"
-    },
-    {
         "link": "https://mc-block.com",
         "Heading": "MC-Block - SADECE BAL!",
         "Abstract": "T\u00fcrkiye'nin en s\u00fcr\u00fckleyici Minecraft sunucusuna kat\u0131l! 7/24 aktif, lags\u0131z oyun keyfi ve benzersiz modlar seni bekliyor. Arkada\u015flar\u0131n\u0131 topla ve maceraya hemen ba\u015fla!",
@@ -184,7 +174,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://admithelperbusy.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://admithelperbusy.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://admithelperbusy.com"
@@ -248,6 +238,16 @@
         "Redirect": "https://www.frankenfernsehen.tv",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.frankenfernsehen.tv"
+    },
+    {
+        "link": "https://9tennet.com",
+        "Heading": "\u571f\u8c46\u770b\u4e66\u7f51\uff0c\u6700\u65b0\u70ed\u95e8\u5c0f\u8bf4\uff0c\u597d\u770b\u7684\u5c0f\u8bf4\u5728\u7ebf\u9605\u8bfb\u7f51\u7ad9",
+        "Abstract": "\u571f\u8c46\u770b\u4e66\u7f51\u63d0\u4f9b\u5168\u7f51\u6700\u65b0\u6700\u5168\u6700\u706b\u7684\u5c0f\u8bf4\u514d\u8d39\u5728\u7ebf\u9605\u8bfb\uff0c\u571f\u8c46\u770b\u4e66\u7f51\u662f\u5e7f\u5927\u4e66\u53cb\u6700\u503c\u5f97\u6536\u85cf\u7684\u7f51\u7edc\u5c0f\u8bf4\u9605\u8bfb\u7f51\uff0c\u7f51\u7ad9\u6536\u5f55\u4e86\u5f53\u524d\u6700\u706b\u70ed\u7684\u7f51\u7edc\u5c0f\u8bf4\uff0c\u514d\u8d39\u63d0\u4f9b\u9ad8\u8d28\u91cf\u7684\u5c0f\u8bf4\u6700\u65b0\u7ae0\u8282\u514d\u8d39\u5728\u7ebf\u9605\u8bfb\uff0c\u662f\u5e7f\u5927\u7f51\u7edc\u5c0f\u8bf4\u7231\u597d\u8005\u5fc5\u5907\u7684\u5c0f\u8bf4\u9605\u8bfb\u7f51\u3002",
+        "Official Site": "https://9tennet.com",
+        "Icon": "N/A",
+        "Redirect": "https://9tennet.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://9tennet.com"
     },
     {
         "link": "https://equallywed.com",

@@ -54,7 +54,7 @@
         "Heading": "\u2022 Latinamerican VC, Startup and Tech News",
         "Abstract": null,
         "Official Site": "https://contxto.com/en/",
-        "Icon": "https://contxto.com/wp-content/uploads/2024/12/logo.jpg",
+        "Icon": "http://www.contxto.com/wp-content/uploads/2024/12/logo.jpg",
         "Redirect": "https://contxto.com/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://contxto.com/en/"
@@ -170,6 +170,16 @@
         "AbstractURL": "https://westinteractive.de"
     },
     {
+        "link": "https://pejanefokus.net",
+        "Heading": "Ballina - pejanefokus.net",
+        "Abstract": null,
+        "Official Site": "https://pejanefokus.net/",
+        "Icon": "https://pejanefokus.net/wp-content/uploads/2025/12/WEb-Cover-1024x576.png",
+        "Redirect": "https://pejanefokus.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pejanefokus.net/"
+    },
+    {
         "link": "https://trcc.edu",
         "Heading": "Home - Three Rivers College",
         "Abstract": "Three Rivers College - The Community College of Southeast Missouri. Providing quality, accessible, and affordable educational opportunities.",
@@ -261,7 +271,7 @@
     },
     {
         "link": "https://f1w-50753.com",
-        "Heading": "1win: \u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 - 347525.4666072858",
+        "Heading": "1win: \u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 - 83302.8081716547",
         "Abstract": "\u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0441\u043f\u043e\u0440\u0442 \u043e\u043d\u043b\u0430\u0439\u043d \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u043e\u0449\u0435 \u0438 \u0431\u044b\u0441\u0442\u0440\u0435\u0435. \u0411\u043e\u043d\u0443\u0441 \u043f\u0440\u0438 \u043f\u0435\u0440\u0432\u043e\u043c \u0434\u0435\u043f\u043e\u0437\u0438\u0442\u0435 \u2013 500%. \u0417\u0430\u0445\u043e\u0434\u0438 \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0439 \u0441\u0435\u0439\u0447\u0430\u0441!",
         "Official Site": "https://f1w-50753.com",
         "Icon": "/resources/v1/plain/favicons/android-chrome-72x72-v3.png",
@@ -284,7 +294,7 @@
         "Heading": "\n\t HyperEVM (HYPE) Blockchain Explorer\n",
         "Abstract": "HyperEVMScan allows you to explore and search the blockchain for transactions, addresses, tokens, prices and other activities taking place on Hyperliquid EVM",
         "Official Site": "https://hyperevmscan.io/",
-        "Icon": "https://hyperevmscan.io/assets/hype/images/og-preview.jpg?v=26.5.2.1",
+        "Icon": "https://hyperevmscan.io/assets/hype/images/og-preview.jpg?v=26.5.3.0",
         "Redirect": "https://hyperevmscan.io/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hyperevmscan.io/"

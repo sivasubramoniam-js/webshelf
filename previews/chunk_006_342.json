@@ -64,7 +64,7 @@
         "Heading": "Sinocism | Bill Bishop | Substack",
         "Abstract": "Get smarter about China. Click to read Sinocism, by Bill Bishop, a Substack publication with hundreds of thousands of subscribers.",
         "Official Site": "https://sinocism.com/",
-        "Icon": "https://substackcdn.com/image/fetch/$s_!Ft4n!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsinocism.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D717752890%26version%3D9",
+        "Icon": "https://substackcdn.com/image/fetch/$s_!2k_r!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsinocism.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-357226952%26version%3D9",
         "Redirect": "https://sinocism.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sinocism.com/"
@@ -238,6 +238,16 @@
         "Redirect": "https://www.senta.co/gb/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.senta.co/gb/"
+    },
+    {
+        "link": "https://mirrorindy.org",
+        "Heading": "Indianapolis news - Mirror Indy",
+        "Abstract": "We're a nonprofit news site whose mission is to serve and reflect Indianapolis residents through community-centered reporting.",
+        "Official Site": "https://mirrorindy.org/",
+        "Icon": "https://mirrorindy.org/wp-content/uploads/2023/11/socialpreview.png",
+        "Redirect": "https://mirrorindy.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mirrorindy.org/"
     },
     {
         "link": "https://teamshirts.de",

@@ -10,16 +10,6 @@
         "AbstractURL": "https://www.101espn.com/"
     },
     {
-        "link": "https://mh-usa.com",
-        "Heading": "Material Handling USA | One-Stop Shop for Material Handling",
-        "Abstract": "Discover Material Handling USA's maximize space, efficiency, & organization with material handling & shipping supplies available online.",
-        "Official Site": "https://mh-usa.com/",
-        "Icon": "https://mh-usa.com/wp-content/uploads/2024/03/drive-in-pallet-rack-mh-usa-salt-lake-utah-1080-x-1080.jpg",
-        "Redirect": "https://mh-usa.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mh-usa.com/"
-    },
-    {
         "link": "https://gammastats.com",
         "Heading": "Gamma Entertainment - The best adult affiliate program",
         "Abstract": "Welcome to Gamma Entertainment, the best adult affiliate program in the industry with the best payout programs, earn $35 for each sale or join the 50% revshare program to earn money online!",
@@ -78,6 +68,16 @@
         "Redirect": "https://verspk.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://verspk.ru"
+    },
+    {
+        "link": "https://gazetaonline.com.br",
+        "Heading": "A Gazeta - As principais not\u00edcias do Esp\u00edrito Santo | A Gazeta",
+        "Abstract": "Confira as \u00faltimas not\u00edcias sobre pol\u00edtica, economia, pol\u00edcia, entretenimento e empregos no Esp\u00edrito Santo, no Brasil e no mundo e fique bem informado.",
+        "Official Site": "https://gazetaonline.com.br",
+        "Icon": "https://midias.agazeta.com.br/2021/04/17/600x315/logo-de-a-gazeta-475615.jpg",
+        "Redirect": "https://gazetaonline.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gazetaonline.com.br"
     },
     {
         "link": "https://aamusports.com",
@@ -174,7 +174,7 @@
         "Heading": "Workforce Training, Technology & Consulting | Intertek Alchemy",
         "Abstract": "Intertek Alchemy is recognized worldwide as a leader in workforce training for manufacturers, learning technology, food safety consulting.",
         "Official Site": "https://www.alchemysystems.com/",
-        "Icon": "https://www.alchemysystems.com/wp-content/uploads/2023/10/intertek-alchemhy-logo_320x170.png",
+        "Icon": "https://www.alchemysystems.com/wp-content/uploads/2023/03/cropped-android-chrome-512x512-1-32x32.png",
         "Redirect": "https://www.alchemysystems.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.alchemysystems.com/"

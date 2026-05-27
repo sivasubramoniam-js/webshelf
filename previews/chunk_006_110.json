@@ -130,16 +130,6 @@
         "AbstractURL": "https://siskiyous.edu"
     },
     {
-        "link": "https://25f.click",
-        "Heading": "7K Casino - loading...",
-        "Abstract": null,
-        "Official Site": "https://25f.click",
-        "Icon": "img/favicon.png",
-        "Redirect": "https://25f.click",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://25f.click"
-    },
-    {
         "link": "https://vectortechnologies.co.uk",
         "Heading": "Vector Technologies UK: IT Solutions & Digital Transformation Experts",
         "Abstract": "Vector Technologies provides comprehensive IT services, cybersecurity, and digital transformation solutions for businesses across the UK. Trust our expert team for reliable tech support.",
@@ -260,6 +250,26 @@
         "AbstractURL": "https://irmaosmalheiros.com.br"
     },
     {
+        "link": "https://humanigen.com",
+        "Heading": "UK Commission on Bereavement",
+        "Abstract": "Working in partnership across a number of UK charities, the UK Commission on Bereavement through and beyond Covid-19 will explore issues and make recommendations to better support bereaved people.",
+        "Official Site": "http://bereavementcommission.org.uk/",
+        "Icon": "https://bereavementcommission.org.uk/files/favicon-32x32.png",
+        "Redirect": "http://bereavementcommission.org.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://bereavementcommission.org.uk/"
+    },
+    {
+        "link": "https://wonderworldwaterparkandresort.com",
+        "Heading": "Wonder World Water Park | Eastern India's Largest Water Park",
+        "Abstract": "Enjoy thrilling rides, luxury stay & family fun at Wonder World Water Park & Resort, Eastern India's Largest Water Park in Odisha near Puri. Book your adventure today!",
+        "Official Site": "https://wonderworldwaterparkandresort.com",
+        "Icon": "https://wonderworldwaterparkandresort.com/public//Assets/Web/images/logo.png",
+        "Redirect": "https://wonderworldwaterparkandresort.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wonderworldwaterparkandresort.com"
+    },
+    {
         "link": "https://squarefaction.ru",
         "Heading": "Square Faction",
         "Abstract": "",
@@ -278,6 +288,16 @@
         "Redirect": "https://www.companydetails.in@Context.Request.Path",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.companydetails.in@Context.Request.Path"
+    },
+    {
+        "link": "https://sierravistaaz.gov",
+        "Heading": "404 Error",
+        "Abstract": null,
+        "Official Site": "https://sierravistaaz.gov",
+        "Icon": "N/A",
+        "Redirect": "https://sierravistaaz.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sierravistaaz.gov"
     },
     {
         "link": "https://westin-fishing.com",

@@ -122,16 +122,16 @@
     {
         "link": "https://usedomtravel.de",
         "Heading": "UsedomTravel - Ferienwohnungen auf Usedom mieten",
-        "Abstract": "Verbringen Sie Ihren Urlaub mit uns an der Ostsee. Hier finden Sie Exklusive Ferienwohnungen & Appartements mit Stil auf der Insel Usedom.",
-        "Official Site": "https://www.usedomtravel.de",
+        "Abstract": "Ihre Ferienvermietung auf Usedom mit mehr als 580 Ferienwohnungen & Ferienh\u00e4user. Schnell und einfach Ihre Ferienwohnung auf Usedom buchen!",
+        "Official Site": "https://usedomtravel.de",
         "Icon": "N/A",
-        "Redirect": "https://www.usedomtravel.de",
+        "Redirect": "https://usedomtravel.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.usedomtravel.de"
+        "AbstractURL": "https://usedomtravel.de"
     },
     {
         "link": "https://trakstarcloud.com",
-        "Heading": "TrakStar Mobile",
+        "Heading": "TrakStar\u00ae",
         "Abstract": null,
         "Official Site": "https://trakstarcloud.com",
         "Icon": "favicon.ico",
@@ -180,6 +180,16 @@
         "AbstractURL": "https://www.archined.nl/"
     },
     {
+        "link": "https://pilot18.com",
+        "Heading": "Pilot 18.com-Fly High Fly Safe \u2013 pilot training india, pilot accessories india, aviation books india, online pilot training india, dgca pilot training",
+        "Abstract": null,
+        "Official Site": "https://pilot18.com",
+        "Icon": "https://www.pilot18.com/wp-content/uploads/2018/07/cropped-2018-07-07-21_33_52-CorelDRAW-X7-E__Web-works-scripts_Pilot18_CDR-Files_logo-RGB-pilot18.cdr_-1-32x32.jpg",
+        "Redirect": "https://pilot18.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pilot18.com"
+    },
+    {
         "link": "https://unitedpenshop.co.uk",
         "Heading": "unitedpenshop.co.uk | Engrave a luxury pen or fountain pen Luxury ballpoint or fountain pen with engraving, brands Parker, Waterman, Cross, Sheaffer, Diplomat, Lamy,",
         "Abstract": "Luxury ballpoint or fountain pen with engraving, brands Parker, Waterman, Cross, Sheaffer, Diplomat, Lamy,",
@@ -208,16 +218,6 @@
         "Redirect": "https://www.shopisadora.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.shopisadora.com/"
-    },
-    {
-        "link": "https://nissolinocorsi.it",
-        "Heading": "Home",
-        "Abstract": "La Nissolino Corsi \u00e8 leader in Italia nel campo della Preparazione Concorsi, sia delle Forze Armate e di Polizia e delle PA.",
-        "Official Site": "https://www.nissolinocorsi.it/",
-        "Icon": "https://www.nissolinocorsi.it/wp-content/uploads/2022/12/cropped-FAVICON-32x32.png",
-        "Redirect": "https://www.nissolinocorsi.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.nissolinocorsi.it/"
     },
     {
         "link": "https://soib.es",

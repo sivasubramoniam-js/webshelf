@@ -110,16 +110,6 @@
         "AbstractURL": "https://floripa-airport.com"
     },
     {
-        "link": "https://romaniatravel.guide",
-        "Heading": "Discover a fairy tale Romania \u00bb romaniatravel.guide",
-        "Abstract": "In spring, Romania comes back to life: blooming landscapes, green Carpathians, and villages where traditions are ...",
-        "Official Site": "https://romaniatravel.guide/en/",
-        "Icon": "https://img0.oastatic.com/img2/59794041/max/variant.webp",
-        "Redirect": "https://romaniatravel.guide/en/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://romaniatravel.guide/en/"
-    },
-    {
         "link": "https://qsapp.com",
         "Heading": null,
         "Abstract": null,
@@ -148,6 +138,16 @@
         "Redirect": "https://heliosarena.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://heliosarena.co.uk"
+    },
+    {
+        "link": "https://aspirestudy.in",
+        "Heading": "Aspire Study : Best NIMCET Coaching in India | Top and Best NIMCET Coaching in Kanpur",
+        "Abstract": "Best NIMCET Coaching in India with NIMCET Topper AIR 1 (Best NIMCET Classes in Kanpur) | Best NIMCET Test Series & Free Mock Test | No 1 NIMCET Coaching Institute in India.",
+        "Official Site": "https://aspirestudy.in",
+        "Icon": "images/logo1.png",
+        "Redirect": "https://aspirestudy.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aspirestudy.in"
     },
     {
         "link": "https://prep-wizard.com",
@@ -282,7 +282,7 @@
     {
         "link": "https://meteo-lyon.net",
         "Heading": "M\u00e9t\u00e9o Lyon 69000 \u2013 Pr\u00e9visions \u00e0 15 jours fiables",
-        "Abstract": "Ce lundi, \u00e0 Lyon : poursuite de la s\u00e9quence estivale avec du soleil et une chaleur forte (Matin 16\u00b0C, Apr\u00e8s-midi 33\u00b0C, Soir 30\u00b0C, Nuit 19\u00b0C).",
+        "Abstract": "Ce mercredi, \u00e0 Lyon : toujours aussi estival avec du soleil et une chaleur particuli\u00e8rement marqu\u00e9e pour une fin mai (Matin 17\u00b0C, Apr\u00e8s-midi 34\u00b0C, Soir 30\u00b0C, Nuit 22\u00b0C).",
         "Official Site": "https://www.meteo-lyon.net",
         "Icon": "https://www.meteo-lyon.net/images/social/meteo-social-17.png",
         "Redirect": "https://www.meteo-lyon.net",

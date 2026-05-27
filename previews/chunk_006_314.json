@@ -20,6 +20,16 @@
         "AbstractURL": "https://www.gruppocomet.it/home"
     },
     {
+        "link": "https://gstzen.in",
+        "Heading": "GSTZen \u2013 E-Invoicing, GST Filings, GST Returns and many more",
+        "Abstract": "E-Invoicing, GST Filings, GST Returns and many more",
+        "Official Site": "https://gstzen.in/",
+        "Icon": "https://gstzen.in/wp-content/uploads/2024/04/gstzen_home-1024x595.png",
+        "Redirect": "https://gstzen.in/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gstzen.in/"
+    },
+    {
         "link": "https://gtasnp.com",
         "Heading": "Upload \u00b7 GTASnP.com",
         "Abstract": "Easy GTA Save File Sharing",
@@ -88,16 +98,6 @@
         "Redirect": "https://icecash.mobi",
         "AbstractSource": "BS4",
         "AbstractURL": "https://icecash.mobi"
-    },
-    {
-        "link": "https://iglass.net",
-        "Heading": "\n    \n    Outsourced NOC Services | iGLASS Networks | NC\n  \n  ",
-        "Abstract": "iGLASS offers 24x7 NOC services for IT monitoring & outage resolution. Let us enhance your network reliability. Contact us for a quote!",
-        "Official Site": "https://www.iglass.net/",
-        "Icon": "https://irp.cdn-website.com/cd122ed3/dms3rep/multi/iglass_logo_web_identity.gif",
-        "Redirect": "https://www.iglass.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.iglass.net/"
     },
     {
         "link": "https://ikioi.jp",
@@ -244,7 +244,7 @@
         "Heading": "\ubc97\uace0 \uc2f6\uc9c0 \uc54a\uc740 \ud3b8\uc548\ud568, \ub974\ubb34\ud1b5",
         "Abstract": "\ubc97\uace0 \uc2f6\uc9c0 \uc54a\uc740 \ud3b8\uc548\ud568, \ub974\ubb34\ud1b5",
         "Official Site": "https://lemouton.co.kr/",
-        "Icon": "https://lemouton.co.kr/web/upload/share-image-1-c031937f3a5bc5f6c296899fc26fd666.jpg",
+        "Icon": "https://lemouton.co.kr/lemouton/logo_0927.jpg",
         "Redirect": "https://lemouton.co.kr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lemouton.co.kr/"
@@ -368,5 +368,15 @@
         "Redirect": "https://manga-zegra.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://manga-zegra.com"
+    },
+    {
+        "link": "https://maturkai.com",
+        "Heading": "\u041f\u0440\u043e\u0441\u0442\u0438\u0442\u0443\u0442\u043a\u0438 \u0438 \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u043a\u0438 \u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0435 \u0427\u0435\u043b\u043d\u044b, \u0448\u043b\u044e\u0445\u0438 \u0434\u043b\u044f \u0441\u0435\u043a\u0441\u0430 \u043e\u0442 1000 \u0440\u0443\u0431\u043b\u0435\u0439",
+        "Abstract": "\u0422\u043e\u043b\u044c\u043a\u043e \u0443 \u043d\u0430\u0441 \u0430\u043d\u043a\u0435\u0442\u044b \u0441\u0430\u043c\u044b\u0445 \u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0445 \u043f\u0440\u043e\u0441\u0442\u0438\u0442\u0443\u0442\u043e\u043a \u0432 \u0427\u0435\u043b\u043d\u0430\u0445 \u0434\u043b\u044f \u0445\u043e\u0440\u043e\u0448\u0435\u0433\u043e \u0434\u043e\u0441\u0443\u0433\u0430 \u0441 \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u043a\u0430\u043c\u0438 \u043d\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0434\u0435\u043d\u044c, \u043c\u044b - \u0441\u0430\u0439\u0442 \u041c\u0430\u0442\u0443\u0440\u043a\u0430\u0439",
+        "Official Site": "https://maturkai.com",
+        "Icon": "/favicon.png",
+        "Redirect": "https://maturkai.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://maturkai.com"
     }
 ]

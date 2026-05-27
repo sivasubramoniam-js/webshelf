@@ -130,6 +130,16 @@
         "AbstractURL": "https://rbcz.nu/"
     },
     {
+        "link": "https://travelbase.eu",
+        "Heading": "Specialist in avontuurlijke reizen - Travelbase",
+        "Abstract": "Bij Travelbase vind je avontuurlijke reizen waarbij je zelfstandig je reiservaring kan bepalen. Kies tussen meer dan 30 vakantie bestemmingen, van roadtrips tot kanotochten, hikes en andere actieve vakanties.",
+        "Official Site": "https://travelbase.eu/",
+        "Icon": "https://travelbase.eu/app/uploads/2023/12/NN_Iceland22_SjoerdBracke_HR95-1-1-scaled.jpg",
+        "Redirect": "https://travelbase.eu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://travelbase.eu/"
+    },
+    {
         "link": "https://seedingup.de",
         "Heading": "Blog- und Influencer Marketing bei SeedingUp verbindet",
         "Abstract": "SeedingUp verbindet Advertiser mit Influencern und Bloggern aus s\u00e4mtlichen Themen! Steigert Reichweite, Traffic und Conversions. Nachgelagerte SEO-Effekte, mehr Inhalte!",
@@ -311,10 +321,10 @@
     },
     {
         "link": "https://wienmobil.at",
-        "Heading": "Radware Bot Manager Captcha",
+        "Heading": "WienMobil",
         "Abstract": null,
         "Official Site": "https://wienmobil.at",
-        "Icon": "N/A",
+        "Icon": "./assets/icons/logos/favicon.ico",
         "Redirect": "https://wienmobil.at",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wienmobil.at"

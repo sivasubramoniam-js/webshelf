@@ -243,11 +243,21 @@
         "link": "https://kiyoko.ca",
         "Heading": "\n      Kiyoko Beauty - Asian Skincare, Makeup, Hair & Beauty Products\n",
         "Abstract": "Shop from the largest selection of Korean, Japanese, Chinese, and other Asian beauty, wellness, and cosmetics products in Canada & US. Discover the trendiest brands in K-Beauty and J-Beauty across categories like makeup, skincare, haircare, and body care!",
-        "Official Site": "https://kiyoko.ca/",
+        "Official Site": "https://kiyoko.ca/en-ca",
         "Icon": "http://kiyoko.ca/cdn/shop/files/Kiyoko_URL_Display_Image_Banner_1_ea681ff3-45f8-4c77-a146-76b8bb94bbec.jpg?v=1772649548",
-        "Redirect": "https://kiyoko.ca/",
+        "Redirect": "https://kiyoko.ca/en-ca",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://kiyoko.ca/"
+        "AbstractURL": "https://kiyoko.ca/en-ca"
+    },
+    {
+        "link": "https://kjc11880.com",
+        "Heading": "KJC",
+        "Abstract": null,
+        "Official Site": "https://kjc11880.com",
+        "Icon": "/assets/favicon-BpP9S24R.png",
+        "Redirect": "https://kjc11880.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kjc11880.com"
     },
     {
         "link": "https://kk55.la",
@@ -288,16 +298,6 @@
         "Redirect": "https://klasfoto.com.tr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://klasfoto.com.tr"
-    },
-    {
-        "link": "https://klay.co.in",
-        "Heading": "KLAY: Best Preschool, Daycare & Nursery for Kids in India",
-        "Abstract": "Looking for the best preschool in India? KLAY offers playgroup, nursery, kindergarten & daycare programs designed to nurture early childhood development. Enroll today!\u00a0",
-        "Official Site": "https://klay.co.in/",
-        "Icon": "https://s3.ap-south-1.amazonaws.com/assets.klayschools.com/wp-content/uploads/2023/05/22034353/banner_img_children-1024x558-1.webp",
-        "Redirect": "https://klay.co.in/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://klay.co.in/"
     },
     {
         "link": "https://kleer.se",
@@ -351,7 +351,7 @@
     },
     {
         "link": "https://kmo.cz",
-        "Heading": "Knihovna m\u011bsta Ostravy \u2013 \u017dijeme knihami \u2013 \u017eijte s n\u00e1mi - Projekt Ztracen\u00e9 hlasy p\u0159ipomene p\u0159\u00edb\u011bhy, kter\u00e9 nesm\u00ed umlknout",
+        "Heading": "Knihovna m\u011bsta Ostravy \u2013 \u017dijeme knihami \u2013 \u017eijte s n\u00e1mi - Uzav\u0159en\u00ed pobo\u010dky \u010cujkovova 28.5.2026",
         "Abstract": "Nab\u00edz\u00edme e-knihy, besedy pro \u0161koly, liter\u00e1rn\u00ed proch\u00e1zky, setk\u00e1n\u00ed se spisovateli, medi\u00e1ln\u00ed gramotnost v knihovn\u00e1ch po cel\u00e9 Ostrav\u011b.",
         "Official Site": "https://www.kmo.cz/",
         "Icon": "https://www.kmo.cz/wp-content/themes/kmo/img/favicon-32x32.png",

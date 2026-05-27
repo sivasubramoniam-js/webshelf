@@ -104,7 +104,7 @@
         "Heading": "Startseite  - Schachversand Niggemann",
         "Abstract": "Seit 1985 Ihr Partner in Sachen Schach \u2713 Top-Qualit\u00e4t \u2713 Jetzt bestellen und bitzschnell liefern lassen \u2713",
         "Official Site": "https://niggemann.com",
-        "Icon": "https://www.niggemann.com/static/version1778679404/frontend/niggemann/default/de_DE/Magento_Theme/favicon.ico",
+        "Icon": "https://www.niggemann.com/static/version1779795397/frontend/niggemann/default/de_DE/Magento_Theme/favicon.ico",
         "Redirect": "https://niggemann.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://niggemann.com"
@@ -138,16 +138,6 @@
         "Redirect": "https://nationwide-intermediary.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nationwide-intermediary.co.uk"
-    },
-    {
-        "link": "https://usphl.com",
-        "Heading": "USPHL | United States Premier Hockey League \u2013 Official Site",
-        "Abstract": "Explore the United States Premier Hockey League (USPHL) \u2013 the nation\u2019s largest amateur hockey league, developing players for college and pro careers.",
-        "Official Site": "https://usphl.com/",
-        "Icon": "https://usphl.com/wp-content/uploads/2025/04/SOCIAL-CARD.png",
-        "Redirect": "https://usphl.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://usphl.com/"
     },
     {
         "link": "https://hurma.work",
@@ -298,6 +288,16 @@
         "Redirect": "https://stellarlounge.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://stellarlounge.co.uk"
+    },
+    {
+        "link": "https://outtherecolorado.com",
+        "Heading": "OutThereColorado Archives - Denver Gazette",
+        "Abstract": null,
+        "Official Site": "https://outtherecolorado.com",
+        "Icon": "/otc/favicon-96x96.png",
+        "Redirect": "https://outtherecolorado.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://outtherecolorado.com"
     },
     {
         "link": "https://inquest.net",

@@ -14,7 +14,7 @@
         "Heading": "Magasin de cigarettes \u00e9lectroniques | Boutique en ligne s\u00e9curis\u00e9e",
         "Abstract": "EliquidAndCo - Magasin en ligne d'achat de cigarette \u00e9lectronique et de tous les produits du vapotage. Livraison rapide et gratuite d\u00e8s 29.90\u20ac.",
         "Official Site": "https://eliquidandco.com",
-        "Icon": "/img/favicon.ico?1737043523",
+        "Icon": "/img/favicon.ico?1779784843",
         "Redirect": "https://eliquidandco.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eliquidandco.com"
@@ -318,6 +318,16 @@
         "Redirect": "https://rhodeschroma.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rhodeschroma.com"
+    },
+    {
+        "link": "https://devjobsscanner.com",
+        "Heading": "Developer Jobs Around the World | Devjobsscanner",
+        "Abstract": "Browse 500,000+ developer jobs worldwide. Devjobsscanner scans 15+ job boards and filters by role, stack, and location. Updated daily.",
+        "Official Site": "https://www.devjobsscanner.com/",
+        "Icon": "https://www.devjobsscanner.com//assets/images/devjobsscanner-01.jpg",
+        "Redirect": "https://www.devjobsscanner.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.devjobsscanner.com/"
     },
     {
         "link": "https://next-cloud.it",

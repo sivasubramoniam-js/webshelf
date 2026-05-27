@@ -301,10 +301,10 @@
     },
     {
         "link": "https://farmterest.com",
-        "Heading": "FarmTerest",
-        "Abstract": null,
+        "Heading": "Farmterest.com - Farm Interest and Farm Pin Board",
+        "Abstract": "Farmterest is a Farm Pin Board and is for all farming interest. \nEverything you need to know about farming. A must-use tool for farming.\n",
         "Official Site": "https://farmterest.com",
-        "Icon": "N/A",
+        "Icon": "uploads/data/images/favicon.ico",
         "Redirect": "https://farmterest.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://farmterest.com"
@@ -318,5 +318,15 @@
         "Redirect": "https://diecastdirect.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://diecastdirect.com"
+    },
+    {
+        "link": "https://footballnsw.com.au",
+        "Heading": "Home - Football NSW",
+        "Abstract": "Become a refereeRegister now The Home of FootballValentine Sports ParkFind out more Community Podcast LISTEN NOW Community Podcast LISTEN NOW Featured",
+        "Official Site": "https://footballnsw.com.au/",
+        "Icon": "https://footballnsw.com.au/wp-content/uploads/sites/33/2023/06/PF_2025_REFEREE_WEBSITE_SLIDER_920x765_V1.jpg",
+        "Redirect": "https://footballnsw.com.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://footballnsw.com.au/"
     }
 ]

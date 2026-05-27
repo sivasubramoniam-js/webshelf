@@ -24,7 +24,7 @@
         "Heading": "TeikaBoom \u2014 \u0434\u0435\u0442\u0441\u043a\u0438\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0442\u0438 \u043f\u0430\u0440\u043a\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435",
         "Abstract": "TeikaBoom - \u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0442\u0438-\u043f\u0430\u0440\u043a\u0438 \u041a\u0441\u0435\u043d\u0438\u0438 \u0411\u043e\u0440\u043e\u0434\u0438\u043d\u043e\u0439 \u0434\u043b\u044f \u043e\u0442\u0434\u044b\u0445\u0430, \u0434\u0435\u0442\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0437\u0434\u043d\u0438\u043a\u043e\u0432 \u0438 \u044f\u0440\u043a\u0438\u0445 \u0432\u044b\u0445\u043e\u0434\u043d\u044b\u0445 \u0432\u0441\u0435\u0439 \u0441\u0435\u043c\u044c\u0435\u0439",
         "Official Site": "/",
-        "Icon": "/upload/dev2fun.imagecompress/webp/local/templates/teikaboom/assets/images/og-image/cover.webp",
+        "Icon": "/local/templates/teikaboom/assets/images/og-image/cover.png",
         "Redirect": "/",
         "AbstractSource": "BS4",
         "AbstractURL": "/"
@@ -90,6 +90,16 @@
         "AbstractURL": "https://unimaju.ac.id"
     },
     {
+        "link": "https://heatpumpiq.com",
+        "Heading": "HeatPumpIQ \u2014 Every heat pump, online.",
+        "Abstract": "HeatSynk is a small box that ties any heat pump \u2014 residential or commercial \u2014 to the internet. Homeowners get comfort they can dial in from anywhere. Service techs get the truck-roll-avoiding telemetry they've been waiting for.",
+        "Official Site": "https://heatpumpiq.com",
+        "Icon": "/assets/heatpumpiq-mark.svg",
+        "Redirect": "https://heatpumpiq.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://heatpumpiq.com"
+    },
+    {
         "link": "https://vip-gx.online",
         "Heading": "VIP-GX",
         "Abstract": "Smartphone reviews 2025",
@@ -143,11 +153,11 @@
         "link": "https://lavamusic.com",
         "Heading": "LAVA MUSIC - Smart Guitars with Built-in Effects & Carbon Fiber Design",
         "Abstract": "Discover the future of guitars with LAVA MUSIC. Explore Smart Guitars, Stringless Guitars, and Carbon Fiber Guitars with Built-in Effects for an unparalleled playing experience.",
-        "Official Site": "https://www.lavamusic.com/",
+        "Official Site": "https://www.lavamusic.com/?srsltid=AfmBOoo5kt-lmyqnFe8kvmflmxKYxPKAW9XVSX9xtXPgiT3Y09dmikPP",
         "Icon": "https://w1aws.lavamusic.com/lavamusic/EN/images/tdk/lavamusic.png",
-        "Redirect": "https://www.lavamusic.com/",
+        "Redirect": "https://www.lavamusic.com/?srsltid=AfmBOoo5kt-lmyqnFe8kvmflmxKYxPKAW9XVSX9xtXPgiT3Y09dmikPP",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lavamusic.com/"
+        "AbstractURL": "https://www.lavamusic.com/?srsltid=AfmBOoo5kt-lmyqnFe8kvmflmxKYxPKAW9XVSX9xtXPgiT3Y09dmikPP"
     },
     {
         "link": "https://pueblocc.edu",
@@ -210,16 +220,6 @@
         "AbstractURL": "https://escaperoomlover.com"
     },
     {
-        "link": "https://tarptent.com",
-        "Heading": "Tarptent",
-        "Abstract": "Build an impressive website with the best-rated top-seller WordPress theme",
-        "Official Site": "https://www.tarptent.com",
-        "Icon": "https://www.tarptent.com/wp-content/uploads/2026/01/logo_big_512-150x150.png",
-        "Redirect": "https://www.tarptent.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.tarptent.com"
-    },
-    {
         "link": "https://maplevinecanada.co",
         "Heading": "Home - MapleVine Canada",
         "Abstract": null,
@@ -254,7 +254,7 @@
         "Heading": "Manboxeo.cz | Tov\u00e1rna na origin\u00e1ln\u00ed d\u00e1rky pro mu\u017ee i \u017eeny",
         "Abstract": "Vyberte si z v\u00edce ne\u017e 200 druh\u016f d\u00e1rkov\u00fdch beden s p\u00e1\u010didlem a dal\u0161\u00edch origin\u00e1ln\u00edch d\u00e1rk\u016f pro mu\u017ee. \u2705 Doprava zdarma \u2705 Rychl\u00e1 expedice \u2705 R\u00e1di porad\u00edme",
         "Official Site": "https://manboxeo.cz",
-        "Icon": "https://manboxeo.cz/media/thumbs/banner-desktop/bn-images/3d/249731.f50.png.915a2.jpg",
+        "Icon": "https://manboxeo.cz/media/thumbs/banner-desktop/bn-images/c1/250960.ce3.png.fa72e.jpg",
         "Redirect": "https://manboxeo.cz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://manboxeo.cz"

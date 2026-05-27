@@ -140,16 +140,6 @@
         "AbstractURL": "https://insuletid.com"
     },
     {
-        "link": "https://staff-b.com",
-        "Heading": "\u30a2\u30d1\u30ec\u30eb\u6d3e\u9063\u30fb\u6c42\u4eba\u30fb\u8ee2\u8077\u306a\u3089\u30b9\u30bf\u30c3\u30d5\u30d6\u30ea\u30c3\u30b8",
-        "Abstract": "\u30b9\u30bf\u30c3\u30d5\u30d6\u30ea\u30c3\u30b8\u306f\u30a2\u30d1\u30ec\u30eb/\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u696d\u754c\u306b\u7279\u5316\u3057\u305f\u65e5\u672c\u6700\u5927\u7d1a\u306e\u6d3e\u9063\u30fb\u6c42\u4eba\u30b5\u30a4\u30c8\u3067\u3059\u3002\u30a2\u30a6\u30c8\u30ec\u30c3\u30c8\u306b\u304a\u3051\u308b\u30a2\u30d1\u30ec\u30eb\u306e\u30b7\u30e7\u30c3\u30d7\u8ca9\u58f2\u54e1\u306e\u5c31\u696d\u7387\u306f\u4eba\u6750\u6d3e\u9063\u306b\u304a\u3044\u3066\u696d\u754cNo1\u306e\u5b9f\u7e3e\u304c\u3054\u3056\u3044\u307e\u3059\u3002",
-        "Official Site": "https://www.staff-b.com/",
-        "Icon": "/application/assets/images/favicons/favicon.ico?211025",
-        "Redirect": "https://www.staff-b.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.staff-b.com/"
-    },
-    {
         "link": "https://lh-sameday.com",
         "Heading": "Time-critical logistics: Global. High-performant. Reliable | time:matters",
         "Abstract": "We are y\u200bour reliable partner for time-critical, high-performance & highly supervised transports you can trust. Contact us or book your transport now \u27a4\u200b",
@@ -168,16 +158,6 @@
         "Redirect": "https://www.roots-archives.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.roots-archives.com/"
-    },
-    {
-        "link": "https://trafficschoolonline.com",
-        "Heading": "Driving Ticket | Traffic School Online",
-        "Abstract": "Traffic School Online",
-        "Official Site": "https://trafficschoolonline.com/traffic-school-home",
-        "Icon": "/sites/default/files/tr-favicon.ico",
-        "Redirect": "https://trafficschoolonline.com/traffic-school-home",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://trafficschoolonline.com/traffic-school-home"
     },
     {
         "link": "https://takedownshop.com",
@@ -213,11 +193,11 @@
         "link": "https://wjbq.com",
         "Heading": "Q97.9 \u2013 Portland's #1 Hit Music Station \u2013 Portland Pop Radio",
         "Abstract": "Q97.9 Hit Music radio, a Townsquare Media station, plays the best pop music in Portland, Maine on WJBQ-FM.",
-        "Official Site": "wjbq.com",
+        "Official Site": "https://wjbq.com/",
         "Icon": "https://townsquare.media/site/696/files/2023/05/attachment-256-1.png?w=300&q=75&format=natural",
-        "Redirect": "wjbq.com",
+        "Redirect": "https://wjbq.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "wjbq.com"
+        "AbstractURL": "https://wjbq.com/"
     },
     {
         "link": "https://veloro.be",
@@ -291,20 +271,20 @@
     },
     {
         "link": "https://thegirlcanwrite.net",
-        "Heading": "TIKUS4D # Link Alternatif & Daftar Situs Official Tikus4D",
-        "Abstract": "TIKUS4D hadir sebagai link alternatif dan daftar situs official terpercaya yang memberikan akses cepat, aman, dan stabil untuk seluruh pengguna setiap hari. Dengan tampilan website modern, sistem responsif di berbagai perangkat, serta dukungan layanan profesional 24 jam, TIKUS4D memudahkan pengguna menikmati pengalaman online yang lebih nyaman tanpa hambatan akses.",
-        "Official Site": "https://tikus4dlink.com",
-        "Icon": "https://tikus4d.us/images/2026/05/23/banner_tikus4d_linkALT.webp",
-        "Redirect": "https://tikus4dlink.com",
+        "Heading": "TIKUS4D Online #1 Situs Modern Berbasis Digital Dinamis dengan Kinerja Stabil 24 Jam",
+        "Abstract": "TIKUS4D Online #1 menjadi pilihan situs digital modern dengan konsep dinamis, akses super cepat, dan performa stabil nonstop 24 jam. Didukung sistem teknologi terkini serta interface responsif yang nyaman digunakan di semua perangkat.",
+        "Official Site": "https://www.thegirlcanwrite.net/",
+        "Icon": "https://cdn.phototourl.com/free/2026-05-26-a3006a26-36e6-4701-ac14-55c5feab54e5.webp",
+        "Redirect": "https://www.thegirlcanwrite.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tikus4dlink.com"
+        "AbstractURL": "https://www.thegirlcanwrite.net/"
     },
     {
         "link": "https://gemashop.de",
-        "Heading": "Festbrennstoffkessel, Holzvergaserkessel, Pelletkessel uvm. \u2013 GEMA Shop",
+        "Heading": "Festbrennstoffkessel, Holzvergaserkessel, Pelletkessel uvm. \u2014 GEMA Shop",
         "Abstract": "GEMA GmbH Fachhandel mit Ausstellung in G\u00fcsten, ihr Experte f\u00fcr Festbrennstoffkessel, Heizung, Warmwasserspeicher, Solarthermie, PV, Heizstab, Zubeh\u00f6r",
         "Official Site": "https://gemashop.de/",
-        "Icon": "http://gemashop.de/cdn/shop/files/IMG_0577_ae3e6c1d-7996-490c-95f3-a32d09812fa1.jpg?crop=center&height=1200&v=1742284560&width=1200",
+        "Icon": "https://gemashop.de/cdn/shop/files/IMG_0577_ae3e6c1d-7996-490c-95f3-a32d09812fa1_1200x800.jpg?v=1742284560",
         "Redirect": "https://gemashop.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gemashop.de/"

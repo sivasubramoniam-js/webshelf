@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://onestoplighting.net",
-        "Heading": "One Stop Lighting",
-        "Abstract": "Browse our selection of products and other Lighting Fixtures at www.onestoplighting.net. We are your source for Lighting and more in Agoura Hills, California and surrounding areas.",
-        "Official Site": "https://onestoplighting.net",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://onestoplighting.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://onestoplighting.net"
-    },
-    {
         "link": "https://keizaireport.com",
         "Heading": null,
         "Abstract": null,
@@ -58,6 +48,16 @@
         "Redirect": "https://empiretechnologies.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://empiretechnologies.co.uk"
+    },
+    {
+        "link": "https://vwfashions.com",
+        "Heading": "VWFashions",
+        "Abstract": null,
+        "Official Site": "https://vwfashions.com",
+        "Icon": "https://vwfashions.com/wp-content/uploads/2025/02/cropped-cropped-Logo-White-Bg-32x32.jpg",
+        "Redirect": "https://vwfashions.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vwfashions.com"
     },
     {
         "link": "https://drjudymorgan.com",

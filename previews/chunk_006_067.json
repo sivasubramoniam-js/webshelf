@@ -20,6 +20,16 @@
         "AbstractURL": "https://medality.com/"
     },
     {
+        "link": "https://feastlemagazine.com",
+        "Heading": "Feastle Magazine - Feastle Magazine",
+        "Abstract": "Feastle Magazine",
+        "Official Site": "https://feastlemagazine.com/",
+        "Icon": "N/A",
+        "Redirect": "https://feastlemagazine.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://feastlemagazine.com/"
+    },
+    {
         "link": "https://prodinger.de",
         "Heading": "PRODINGER Gruppe - Gemeinsam zum richtigen Gesamtpaket",
         "Abstract": "Verpackungsl\u00f6sungen f\u00fcr B2B & B2C von PRODINGER: Hochwertige Materialien, clevere Logistik und individuelle Konzepte. Lassen Sie uns Ihr Paket schn\u00fcren!",
@@ -128,6 +138,16 @@
         "Redirect": "<br />\n<b>Warning</b>:  Undefined variable $item in <b>/var/www/vhosts/doctorwhonews.net/display/includes/header/opengraph.inc</b> on line <b>3</b><br />\n<br />\n<b>Warning</b>:  Trying to access array offset on null in <b>/var/www/vhosts/doctorwhonews.net/display/includes/header/opengraph.inc</b> on line <b>3</b><br />\nhttps://www.doctorwhonews.net",
         "AbstractSource": "BS4",
         "AbstractURL": "<br />\n<b>Warning</b>:  Undefined variable $item in <b>/var/www/vhosts/doctorwhonews.net/display/includes/header/opengraph.inc</b> on line <b>3</b><br />\n<br />\n<b>Warning</b>:  Trying to access array offset on null in <b>/var/www/vhosts/doctorwhonews.net/display/includes/header/opengraph.inc</b> on line <b>3</b><br />\nhttps://www.doctorwhonews.net"
+    },
+    {
+        "link": "https://zuxson.com",
+        "Heading": "ZUXSON",
+        "Abstract": "",
+        "Official Site": "https://zuxson.com",
+        "Icon": "N/A",
+        "Redirect": "https://zuxson.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zuxson.com"
     },
     {
         "link": "https://planet33.com",

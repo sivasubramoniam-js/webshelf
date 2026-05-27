@@ -80,6 +80,16 @@
         "AbstractURL": "https://medandmore.ru/"
     },
     {
+        "link": "https://milsorrisosodontologia.com.br",
+        "Heading": "Mil Sorrisos Odontologia Especializada",
+        "Abstract": "Implantes dent\u00e1rios com carga Imediata, seus dentes fixos em at\u00e9 72 horas!",
+        "Official Site": "https://milsorrisosodontologia.com.br",
+        "Icon": "/dr-danilo.jpg",
+        "Redirect": "https://milsorrisosodontologia.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://milsorrisosodontologia.com.br"
+    },
+    {
         "link": "https://kryptonportal.co.uk",
         "Heading": "Krypton Portal: UK's Premier Blockchain & Crypto News Hub",
         "Abstract": "Stay updated with the latest cryptocurrency trends, blockchain innovations, and market insights from the UK's leading crypto news portal, covering Bitcoin, Ethereum, and more.",
@@ -178,16 +188,6 @@
         "Redirect": "https://bebio.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bebio.pl"
-    },
-    {
-        "link": "https://hqhtml.com",
-        "Heading": "\u98d8\u96ea\u5f71\u9662 - \u5168\u7f51\u514d\u8d39\u77ed\u5267-\u9ad8\u6e05\u7535\u5f71\u7535\u89c6\u5267\u5168\u96c6\u514d\u8d39\u5728\u7ebf\u89c2\u770b",
-        "Abstract": "\u98d8\u96ea\u5f71\u9662\u63d0\u4f9b\u624b\u673a\u5728\u7ebf\u89c2\u770b\u514d\u8d39\u9ad8\u6e05\u7535\u5f71\u7535\u89c6\u5267\uff0c\u6709\u5168\u7f51\u6700\u65b0\u6700\u597d\u770b\u7684VIP\u7535\u5f71\u3001\u7535\u89c6\u5267\u3001\u52a8\u6f2b\u3001\u7efc\u827a\u3001\u77ed\u5267\u7b49\u514d\u8d39\u8d44\u6e90\uff0c\u98d8\u96ea\u5f71\u9662\u5f71\u9662\u4e3a\u60a8\u63d0\u4f9b\u9ad8\u6e05\u514d\u8d39\u5728\u7ebf\u89c2\u770b\u670d\u52a1\uff01",
-        "Official Site": "https://hqhtml.com",
-        "Icon": "/template/pxyy/statics/img/favicon.ico",
-        "Redirect": "https://hqhtml.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hqhtml.com"
     },
     {
         "link": "https://hboeck.de",
@@ -314,7 +314,7 @@
         "Heading": "Toutlevin.com - simplifiez-vous le vin, et plus !",
         "Abstract": "Toutlevin est un site qui parle... de tout le vin ! Toutlevin.com propose de nombreux sujets qui permettent de mieux comprendre le vin, son actualit\u00e9 et ses tendances \u00e0 travers des articles, des recettes et m\u00eame des vid\u00e9os...",
         "Official Site": "https://www.toutlevin.com/",
-        "Icon": "https://api.toutlevin.com/images/0f1e022e267ea895e54c8c5490c32382003840002366.jpg?width=1200&quality=75",
+        "Icon": "https://api.toutlevin.com/images/03360d9a9ea1babb4bbde3c6473b2b62003840002366.jpg?width=1200&quality=75",
         "Redirect": "https://www.toutlevin.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.toutlevin.com/"

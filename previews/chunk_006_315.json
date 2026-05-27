@@ -230,16 +230,6 @@
         "AbstractURL": "https://www.onlyda.com/?utm_source=sns_share&utm_medium=open_graph"
     },
     {
-        "link": "https://orga-inc.jp",
-        "Heading": "ORGA AIRSOFT\u672c\u5e97 / TOP\u30da\u30fc\u30b8",
-        "Abstract": "\u96fb\u52d5\u30ac\u30f3 \u30ab\u30b9\u30bf\u30e0\u30d1\u30fc\u30c4\u3084\u30b5\u30d0\u30b2\u30fc\u88c5\u5099\u3092\u8ca9\u58f2\u3057\u3066\u3044\u307e\u3059\u3002\u30c8\u30ec\u30dd\u30f3 \u30d1\u30fc\u30c4\u3084\u30ac\u30b9\u30d6\u30ed\u7528\u306e\u5546\u54c1\u7b49\u3082\u591a\u6570\uff01",
-        "Official Site": "https://orga-inc.jp",
-        "Icon": "/html/user_data/assets/img/common/favicon.ico",
-        "Redirect": "https://orga-inc.jp",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://orga-inc.jp"
-    },
-    {
         "link": "https://paperanimator.com",
         "Heading": "PaperAnimator.com | Turn your images into paper animations",
         "Abstract": "Apply paper effect to any photo in seconds. Customize paper animation and export with green sceen background.",
@@ -378,5 +368,15 @@
         "Redirect": "https://quicklets.com.mt",
         "AbstractSource": "BS4",
         "AbstractURL": "https://quicklets.com.mt"
+    },
+    {
+        "link": "https://realjobss.xyz",
+        "Heading": "HOME 1 - Realjobss.xyz",
+        "Abstract": "Find verified jobs near you! RealJobss.xyz connects job seekers with genuine local & remote employment opportunities. Search, apply, get hired. Real job",
+        "Official Site": "https://realjobss.xyz/",
+        "Icon": "https://realjobss.xyz/wp-content/uploads/2025/01/cropped-20250114_221030-32x32.jpg",
+        "Redirect": "https://realjobss.xyz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://realjobss.xyz/"
     }
 ]

@@ -52,7 +52,7 @@
     {
         "link": "https://healthcreation.ru",
         "Heading": null,
-        "Abstract": "",
+        "Abstract": null,
         "Official Site": "https://healthcreation.ru/isg",
         "Icon": "https://fs.getcourse.ru/fileservice/file/download/a/59148/sc/325/h/fa9fa7248a055d310acf6bc21cde7b72.png",
         "Redirect": "https://healthcreation.ru/isg",
@@ -258,15 +258,5 @@
         "Redirect": "https://www.wirus-fenster.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.wirus-fenster.de/"
-    },
-    {
-        "link": "https://minigamesgroup.com",
-        "Heading": "\nminigamesgroup.com\n\n",
-        "Abstract": null,
-        "Official Site": "https://minigamesgroup.com",
-        "Icon": "N/A",
-        "Redirect": "https://minigamesgroup.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://minigamesgroup.com"
     }
 ]

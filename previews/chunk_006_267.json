@@ -31,10 +31,10 @@
     },
     {
         "link": "https://wilmar.com",
-        "Heading": "\n        HD Supply \u2013 Maintenance, Repair and Operation Supplies \u2013 Formerly Home Depot Pro Multifamily\n        \n    \n\n    ",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://wilmar.com",
-        "Icon": "/MarketingAssets/wilmar/Images/Favicons/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://wilmar.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wilmar.com"
@@ -120,16 +120,6 @@
         "AbstractURL": "https://zqykj.com"
     },
     {
-        "link": "https://directregdns.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://directregdns.com",
-        "Icon": "N/A",
-        "Redirect": "https://directregdns.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://directregdns.com"
-    },
-    {
         "link": "https://srlchem.com",
         "Heading": "Sisco Research Laboratories Pvt. Ltd.(SRL) - India ",
         "Abstract": "SRL is Research and Laboratory Chemical manufacturers based in Mumbai, India. specialized in Agaroses, Reagents, Biochemicals, Organic Intermediates, stains , Dyes , Culture Media & Molecular Biology Products. Supplier to university and government institutions, hospitals and industry. ",
@@ -168,6 +158,16 @@
         "Redirect": "https://bootlegger.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bootlegger.com"
+    },
+    {
+        "link": "https://welknotes.com",
+        "Heading": "1Win R\u0259smi Giri\u015f | Onlayn kazinolar v\u0259 \u0130dman m\u0259rcl\u0259ri",
+        "Abstract": "1Win-\u0259 daxil olun, qeydiyyatdan ke\u00e7in, Az\u0259rbaycandan oyun\u00e7ular \u00fc\u00e7\u00fcn bonuslardan faydalan\u0131n v\u0259 proqram\u0131 buradan y\u00fckl\u0259yin.",
+        "Official Site": "https://welknotes.com/",
+        "Icon": "https://welknotes.com/wp-content/uploads/2023/03/fav.png",
+        "Redirect": "https://welknotes.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://welknotes.com/"
     },
     {
         "link": "https://10gb.no",
@@ -268,6 +268,16 @@
         "Redirect": "https://gcir.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gcir.org"
+    },
+    {
+        "link": "https://lendeavor.com",
+        "Heading": "Provide | Banking to build your legacy",
+        "Abstract": "Power your entrepreneurial journey with streamlined financing, simplified banking, and unmatched support.",
+        "Official Site": "https://lendeavor.com",
+        "Icon": "https://www.getprovide.com/images/seo-logo.png",
+        "Redirect": "https://lendeavor.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lendeavor.com"
     },
     {
         "link": "https://websiteradio.co",

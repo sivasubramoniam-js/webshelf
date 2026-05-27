@@ -40,6 +40,16 @@
         "AbstractURL": "https://bannner-17.cfd"
     },
     {
+        "link": "https://saltstayz.com",
+        "Heading": "SaltStayz - Best Budget & Luxury Hotels in Gurgaon",
+        "Abstract": "Discover the best of Gurgaon stay options at SaltStayz! Whether you're seeking a hotel budget stay or indulging in luxury hotels, SaltStayz offers a curated selection of accommodations to suit all preferences and budgets in Gurgaon.",
+        "Official Site": "https://saltstayz.com/",
+        "Icon": "http://example.com/image.jpg",
+        "Redirect": "https://saltstayz.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://saltstayz.com/"
+    },
+    {
         "link": "https://limswiki.org",
         "Heading": "LIMSWiki",
         "Abstract": null,
@@ -208,6 +218,16 @@
         "Redirect": "https://martinparr.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://martinparr.com"
+    },
+    {
+        "link": "https://meta-esp.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://meta-esp.com",
+        "Icon": "N/A",
+        "Redirect": "https://meta-esp.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://meta-esp.com"
     },
     {
         "link": "https://openprime.co.uk",

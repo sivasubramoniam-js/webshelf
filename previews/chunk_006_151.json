@@ -24,7 +24,7 @@
         "Heading": "\u7ffc\u679c\u79d1\u6280: \u4ee5\u6280\u672f\u548c\u6570\u636e\u9a71\u52a8\u7684\u51fa\u6d77\u5168\u6e20\u9053\u8425\u9500\u670d\u52a1\u5546\u3002 \u2013 yiguotechweb",
         "Abstract": "\u6211\u4eec\u7684\u670d\u52a1\uff1a Google SEO\u4f18\u5316\u3001Shopify Plus\u5efa\u7ad9\u3001Facebook\u5e7f\u544a\u4ee3\u6295\u3001Google\u5e7f\u544a\u4ee3\u6295\u3001\u6570\u5b57\u8425\u9500\u3001\u7f51\u7ea2\u8425\u9500\u3001\u6d77\u5916\u793e\u5a92\u8fd0\u8425\u3002\u4ea7\u54c1\uff1a\u7b4b\u6597\u4e91SEO\u3001\u7ffc\u679c\u5efa\u7ad9\u3001\u8679\u96c0KOL\u3002\u6211\u4eec\u81f4\u529b\u4e8e\u4e3a\u54c1\u724c\u63d0\u4f9b\u72ec\u7279\u7684\u4ea7\u54c1\u548c\u670d\u52a1\u3002",
         "Official Site": "https://www.yiguotech.com/",
-        "Icon": "//cdn.shopify.com/s/files/1/0639/8256/7502/files/logo_8717ea4c-08c1-4da8-966b-e47d80ea9404.png?crop=center&height=32&v=1739238645&width=32",
+        "Icon": "//www.yiguotech.com/cdn/shop/files/logo_8717ea4c-08c1-4da8-966b-e47d80ea9404.png?crop=center&height=32&v=1739238645&width=32",
         "Redirect": "https://www.yiguotech.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.yiguotech.com/"
@@ -68,16 +68,6 @@
         "Redirect": "https://livall.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://livall.com/"
-    },
-    {
-        "link": "https://zhidaohui.com",
-        "Heading": "Cloudflare Registrar",
-        "Abstract": null,
-        "Official Site": "https://zhidaohui.com",
-        "Icon": "https://parking.registrar.cloudflare.com/favicon.ico",
-        "Redirect": "https://zhidaohui.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zhidaohui.com"
     },
     {
         "link": "https://labdisposable.com",
@@ -154,7 +144,7 @@
         "Heading": "\n        Seese Pro - The Most Powerful One-handed Blower\n \u2013 Seese Pro (KLAAST)",
         "Abstract": "Discover Seese Pro \u2014 the world\u2019s most powerful one-handed blower. Ultra-light, compact, and built to conquer leaves, dust, and snow. Boost your outdoor cleaning tasks faster and easier than ever!",
         "Official Site": "https://seesepro.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0600/8527/2619/files/im65544age_copie.jpg?v=1746636184",
+        "Icon": "http://seesepro.com/cdn/shop/files/im65544age_copie.jpg?v=1746636184",
         "Redirect": "https://seesepro.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://seesepro.com/"

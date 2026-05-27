@@ -60,14 +60,14 @@
         "AbstractURL": "https://www.kudrna.cz/"
     },
     {
-        "link": "https://chinasta.org",
-        "Heading": "\u514d\u8d39\u5c0f\u8bf4\u5728\u7ebf\u9605\u8bfb - \u5168\u672c\u5c0f\u8bf4 - \u5b8c\u7ed3\u5c0f\u8bf4 - \u70ed\u95e8\u5c0f\u8bf4\u63a8\u8350 - \u661f\u8bed\u5c0f\u8bf4",
-        "Abstract": "\u661f\u8bed\u5c0f\u8bf4\u4e3a\u60a8\u63d0\u4f9b\u5168\u672c\u514d\u8d39\u5c0f\u8bf4\u3001\u5b8c\u7ed3\u5c0f\u8bf4\u3001\u6700\u65b0\u7ae0\u8282\u5728\u7ebf\u9605\u8bfb\uff0c\u6db5\u76d6\u7384\u5e7b\u3001\u90fd\u5e02\u3001\u8a00\u60c5\u7b49\u70ed\u95e8\u7f51\u7edc\u5c0f\u8bf4\uff0c\u5c0f\u8bf4\u6392\u884c\u699c\u5b9e\u65f6\u66f4\u65b0\uff0c\u5c3d\u4eab\u6d77\u91cf\u4f18\u8d28\u5c0f\u8bf4\u9605\u8bfb\u4f53\u9a8c\u3002",
-        "Official Site": "https://chinasta.org",
-        "Icon": "N/A",
-        "Redirect": "https://chinasta.org",
+        "link": "https://dv-link.su",
+        "Heading": "DV-Link",
+        "Abstract": null,
+        "Official Site": "https://dv-link.su",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://dv-link.su",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chinasta.org"
+        "AbstractURL": "https://dv-link.su"
     },
     {
         "link": "https://stroistyle.com",
@@ -190,16 +190,6 @@
         "AbstractURL": "https://www.ikiam.edu.ec/"
     },
     {
-        "link": "https://erhvervplus.dk",
-        "Heading": "Erhverv+ \u2192 D\u00e6kker det erhvervsliv, der er mest af | erhvervplus.dk",
-        "Abstract": "Erhverv+ bringer erhvervsindhold, du kan bruge til noget, fordi du kan se dig selv i det. Fordi det handler om det n\u00e6re erhvervsliv. Det, der er mest af. ",
-        "Official Site": "https://erhvervplus.dk",
-        "Icon": "https://erhvervplus.dk/assets/1779177281/kodus/jfm-brands/brands/erhverv_plus/images/logo.png",
-        "Redirect": "https://erhvervplus.dk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://erhvervplus.dk"
-    },
-    {
         "link": "https://modelist-konstruktor.com",
         "Heading": "\u041c\u043e\u0434\u0435\u043b\u0438\u0441\u0442-\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440",
         "Abstract": "\u041c\u043e\u0434\u0435\u043b\u0438\u0441\u0442-\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440. \u0421\u0430\u0439\u0442 \u043e \u043d\u0430\u0443\u043a\u0435 \u0438 \u0442\u0435\u0445\u043d\u0438\u043a\u0435, \u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0437\u043c\u0435 \u0438 \u0441\u0430\u043c\u043e\u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u043c \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u0442\u0432\u0435.",
@@ -218,6 +208,16 @@
         "Redirect": "https://www.landkreis-waldeck-frankenberg.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.landkreis-waldeck-frankenberg.de/"
+    },
+    {
+        "link": "https://worlddigitalbllom.com",
+        "Heading": "World digital bllom - Where Ideas Go Digital & Bloom",
+        "Abstract": "Where Ideas Go Digital & Bloom",
+        "Official Site": "https://worlddigitalbllom.com/",
+        "Icon": "N/A",
+        "Redirect": "https://worlddigitalbllom.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://worlddigitalbllom.com/"
     },
     {
         "link": "https://wayukan-marutoyo.com",

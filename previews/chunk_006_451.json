@@ -4,7 +4,7 @@
         "Heading": "Honigman Business Law Firm",
         "Abstract": "Honigman is a law firm with attorneys and lawyers who practice in a variety of legal areas, including, corporate and securities, litigation, private equity, intellectual property, antitrust, immigration, bankruptcy, finance, tax, health care, real estate, data security, captive insurance, labor and employment, cyber security, mergers and acquisitions, anti-trust, patent, trademark, and venture capital. Our offices are located in Michigan: Detroit, Ann Arbor, Bloomfield Hills, Lansing, Kalamazoo, and Grand Rapids; and in Chicago and Washington, D.C.",
         "Official Site": "https://honigman.com",
-        "Icon": "https://www.honigman.com/assets/images-t1779474358/32970.jpeg",
+        "Icon": "https://www.honigman.com/assets/images-t1779828110/32970.jpeg",
         "Redirect": "https://honigman.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://honigman.com"
@@ -18,6 +18,16 @@
         "Redirect": "http://wowblogger.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://wowblogger.ru/"
+    },
+    {
+        "link": "https://microcontrollerslab.com",
+        "Heading": "Microcontrollers tutorials and projects",
+        "Abstract": "Microcontrollers tutorials and projects, PIC microcontroller, 8051, AVR, ARDUINO, ESP32, ESP8266, Respbarry Pi and embedded systems projects and tutorials",
+        "Official Site": "https://microcontrollerslab.com/",
+        "Icon": "https://microcontrollerslab.com/wp-content/uploads/2017/09/cropped-32-32x32.png",
+        "Redirect": "https://microcontrollerslab.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://microcontrollerslab.com/"
     },
     {
         "link": "https://nihiloconcepts.com",
@@ -60,16 +70,6 @@
         "AbstractURL": "https://convertstring.com"
     },
     {
-        "link": "https://jbzoo.org",
-        "Heading": "Visit John Ball Zoo | Grand Rapids, MI | Award-Winning Zoological Society",
-        "Abstract": "Home to over 2,000 animals, John Ball Zoo offers an awe-inspiring experience for visitors of all ages. Explore & discover more about John Ball Zoo today!",
-        "Official Site": "https://jbzoo.org/",
-        "Icon": "https://jbzoo.org/wp-content/uploads/2022/11/SA21_JBZ_48-1.jpg",
-        "Redirect": "https://jbzoo.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jbzoo.org/"
-    },
-    {
         "link": "https://stevenpatzer.com",
         "Heading": "Steven Patzer for New York City Council District 47",
         "Abstract": "Patzer is running because he is tired of hearing politicians say what they are going to do when they\u2019re elected. Steven knows we can create an impact now",
@@ -78,16 +78,6 @@
         "Redirect": "./",
         "AbstractSource": "BS4",
         "AbstractURL": "./"
-    },
-    {
-        "link": "https://gridexplus.co.uk",
-        "Heading": "GridEx Plus UK: Advanced Power Grid Solutions & Energy Tech",
-        "Abstract": "GridEx Plus UK provides innovative power grid solutions, energy technology insights, and sustainable infrastructure expertise for modern energy challenges.",
-        "Official Site": "https://gridexplus.co.uk",
-        "Icon": "https://usc1.contabostorage.com/83226f3934d449eb8c821d388b39f7b1:nextbacklinks/favicon/favicons/Web_Buzz_Horizon_1U1zwud_ALEycCa_smAGNpG_Saah8eo_FMuzksy.png",
-        "Redirect": "https://gridexplus.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gridexplus.co.uk"
     },
     {
         "link": "https://aquamacs.org",

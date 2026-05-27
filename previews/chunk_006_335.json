@@ -11,7 +11,7 @@
     },
     {
         "link": "https://moscowichka.ru",
-        "Heading": "moscowichka.ru - News",
+        "Heading": "moscowichka.ru - Magazine",
         "Abstract": null,
         "Official Site": "https://moscowichka.ru",
         "Icon": "N/A",
@@ -358,5 +358,15 @@
         "Redirect": "https://samarski.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://samarski.ru"
+    },
+    {
+        "link": "https://styletronic.eu",
+        "Heading": "Styletronic",
+        "Abstract": "Styletronic Telematik GmbH - Der f\u00fchrende Anbieter f\u00fcr GPS-Ortung, Telematik und Flottenmanagement.",
+        "Official Site": "https://styletronic.eu",
+        "Icon": "images/favicon.ico",
+        "Redirect": "https://styletronic.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://styletronic.eu"
     }
 ]

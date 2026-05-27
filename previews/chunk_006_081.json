@@ -140,6 +140,16 @@
         "AbstractURL": "https://cleargamingworld.com"
     },
     {
+        "link": "https://themeltdown.com",
+        "Heading": "The Meltdown",
+        "Abstract": null,
+        "Official Site": "https://themeltdown.com",
+        "Icon": "/wp-content/uploads/2020/11/cropped-new_FAV-32x32.png",
+        "Redirect": "https://themeltdown.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://themeltdown.com"
+    },
+    {
         "link": "https://tobychristie.com",
         "Heading": "NASCAR News, Results, Schedules, Standings | TobyChristie.com",
         "Abstract": "NASCAR, IndyCar and ARCA live race coverage, latest news, race results, standings, schedules, and driver stats for Cup, Xfinity, Camping World Truck",
@@ -180,16 +190,6 @@
         "AbstractURL": "https://kieback-peter.de"
     },
     {
-        "link": "https://ameliaisland.com",
-        "Heading": "Amelia Island, Florida",
-        "Abstract": "Located just off the northeast coast of Florida, Amelia Island is a pristine beach escape embraced by Southern charm-only 30 minutes from Jacksonville.",
-        "Official Site": "https://www.ameliaisland.com/",
-        "Icon": "https://www.ameliaisland.com/wp-content/themes/wp-theme-aic/img/favicon/favicon-32x32.png",
-        "Redirect": "https://www.ameliaisland.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ameliaisland.com/"
-    },
-    {
         "link": "https://hookahforum.com",
         "Heading": "Hookah Forum - Hookah Discussion, Chat and Gallery",
         "Abstract": "Hookah forum and shisha discussion group. The hookah forums are dedicated to hookahs and shisha tobacco smoking.",
@@ -198,16 +198,6 @@
         "Redirect": "http://www.hookahforum.com/forums/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://www.hookahforum.com/forums/"
-    },
-    {
-        "link": "https://avlwatchdog.org",
-        "Heading": "Asheville Watchdog",
-        "Abstract": "Informing and engaging the citizens of Asheville and surrounding communities by providing fair, factual and reliable in-depth news stories about local government, institutions, issues, and people.",
-        "Official Site": "https://avlwatchdog.org/",
-        "Icon": "https://avlwatchdog.org/wp-content/uploads/2022/10/DOG-Big-Logo-Master-Final-copy.png",
-        "Redirect": "https://avlwatchdog.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://avlwatchdog.org/"
     },
     {
         "link": "https://cu-fc.com",

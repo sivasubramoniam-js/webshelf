@@ -30,16 +30,6 @@
         "AbstractURL": "https://mir-tema.ru"
     },
     {
-        "link": "https://omegapart.shop",
-        "Heading": "OmegaPart",
-        "Abstract": null,
-        "Official Site": "https://omegapart.shop",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://omegapart.shop",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://omegapart.shop"
-    },
-    {
         "link": "https://lktzgl.com",
         "Heading": "\u6e14\u592b\u4e66\u5c4b - \u65e0\u5f39\u7a97\u65e0\u5e7f\u544a\u5c0f\u8bf4\u5728\u7ebf\u9605\u8bfb",
         "Abstract": "\u6e14\u592b\u4e66\u5c4b\u662f\u4e00\u4e2a\u514d\u8d39\u5728\u7ebf\u5c0f\u8bf4\u9605\u8bfb\u7f51\u7ad9\uff0c\u5c0f\u8bf4\u514d\u8d39\u5728\u7ebf\u9605\u8bfb\u548c\u4e0b\u8f7d\u3002\u9875\u9762\u5e72\u51c0\u7b80\u6d01\uff0c\u65e0\u5f39\u7a97\u65e0\u5e7f\u544a\u3002\u770b\u5c0f\u8bf4\u9605\u8bfb\u5c0f\u8bf4\uff0c\u5c31\u5230\u7231\u5c1a\u5c0f\u8bf4\u7f51",
@@ -64,7 +54,7 @@
         "Heading": "Sveriges st\u00f6rsta a-kassa",
         "Abstract": "Akademikernas a-kassa \u00e4r a-kassan f\u00f6r h\u00f6gskoleutbildade i alla branscher och sektorer. B\u00e5de anst\u00e4llda och f\u00f6retagare kan vara med.",
         "Official Site": "https://www.akademikernasakassa.se/hem",
-        "Icon": "https://www.akademikernasakassa.se/media/bhzebecn/20250521-img_8277.jpg?width=1200&height=630&v=1dbd476b56842e0&hmac=01cd0bd305f5b9b9c89e477685e63e47652f915fe754f5d16877c44304c9f980",
+        "Icon": "https://www.akademikernasakassa.se/media/bhzebecn/20250521-img_8277.jpg?width=1200&height=630&v=1dbd465f1df72e0&hmac=01cd0bd305f5b9b9c89e477685e63e47652f915fe754f5d16877c44304c9f980",
         "Redirect": "https://www.akademikernasakassa.se/hem",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.akademikernasakassa.se/hem"
@@ -120,6 +110,16 @@
         "AbstractURL": "https://myflr.org/"
     },
     {
+        "link": "https://whenweallvote.org",
+        "Heading": "Home - When We All Vote",
+        "Abstract": "Register to Vote Check Your Voter Registration Make a Plan At least 20,260 seats\u00a0are on the ballot in April. At least 23,990 seats\u00a0are on the ballot in May. PASS THE\u2026",
+        "Official Site": "https://whenweallvote.org/",
+        "Icon": "https://whenweallvote.org/wp-content/uploads/2025/07/20241022_WWAV_BLOCKPARTY_JOSEPH_BALESTRA_009859-1-1-1024x695.png",
+        "Redirect": "https://whenweallvote.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://whenweallvote.org/"
+    },
+    {
         "link": "https://socialmobile.com",
         "Heading": "Custom Mobility Solutions for Enterprise | NEXA",
         "Abstract": "NEXA\u00ae (formerly Social Mobile) delivers enterprise mobility solutions, designing custom IoT devices for the world\u2019s leading companies across healthcare, transportation, retail, and defense.",
@@ -143,11 +143,11 @@
         "link": "https://lazienka-rea.com.pl",
         "Heading": "Wyposa\u017cenie \u0142azienek, armatura \u0142azienkowa - Sklep Rea Bia\u0142ystok",
         "Abstract": "Armatura \u0142azienkowa i wyposa\u017cenie \u0142azienek w sklepie online Rea Bia\u0142ystok.\u2611\ufe0f W ofercie: kabiny prysznicowe, brodziki, umywalki i inne! \u015awietne ceny!",
-        "Official Site": "https://lazienka-rea.com.pl/",
+        "Official Site": "https://lazienka-rea.com.pl/?gad_source=1&gad_campaignid=1437175581&gbraid=0AAAAACz5ykSGxPfiM-wKNt8F_KC90PEQ9&gclid=EAIaIQobChMIno-CgIzZlAMVioN8Bh2S6Tf5EAAYASAAEgJ3HPD_BwE",
         "Icon": "/favicon.svg",
-        "Redirect": "https://lazienka-rea.com.pl/",
+        "Redirect": "https://lazienka-rea.com.pl/?gad_source=1&gad_campaignid=1437175581&gbraid=0AAAAACz5ykSGxPfiM-wKNt8F_KC90PEQ9&gclid=EAIaIQobChMIno-CgIzZlAMVioN8Bh2S6Tf5EAAYASAAEgJ3HPD_BwE",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lazienka-rea.com.pl/"
+        "AbstractURL": "https://lazienka-rea.com.pl/?gad_source=1&gad_campaignid=1437175581&gbraid=0AAAAACz5ykSGxPfiM-wKNt8F_KC90PEQ9&gclid=EAIaIQobChMIno-CgIzZlAMVioN8Bh2S6Tf5EAAYASAAEgJ3HPD_BwE"
     },
     {
         "link": "https://nexusland.ca",
@@ -238,6 +238,16 @@
         "Redirect": "https://saclaw.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://saclaw.org/"
+    },
+    {
+        "link": "https://aarf.asia",
+        "Heading": "Association of Academic Researchers and Faculties",
+        "Abstract": null,
+        "Official Site": "https://aarf.asia",
+        "Icon": "../assets/images/aarf_favicon.png",
+        "Redirect": "https://aarf.asia",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aarf.asia"
     },
     {
         "link": "https://hetgoed.nl",

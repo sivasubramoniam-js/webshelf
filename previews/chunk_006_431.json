@@ -30,16 +30,6 @@
         "AbstractURL": "https://upperstrata.com"
     },
     {
-        "link": "https://adbits.online",
-        "Heading": "\n          \n          ADBits.online",
-        "Abstract": "ad network for CPM  and is faucet earn dash easy and ligth",
-        "Official Site": "https://adbits.online",
-        "Icon": "https://adbits.online/static/litecoin.ico",
-        "Redirect": "https://adbits.online",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://adbits.online"
-    },
-    {
         "link": "https://zenmania.de",
         "Heading": "ZenMania: Mindfulness, Meditation & Personal Growth Insights",
         "Abstract": "Explore practical mindfulness techniques, meditation guides, and personal development strategies to cultivate inner peace and enhance your daily life.",
@@ -151,8 +141,8 @@
     },
     {
         "link": "https://iyekaterinburg.ru",
-        "Heading": "iyekaterinburg.ru - Daily Updates",
-        "Abstract": "Read the latest articles and updates on iyekaterinburg.ru.",
+        "Heading": "iyekaterinburg.ru - Latest News",
+        "Abstract": "Your daily source for news and resources at iyekaterinburg.ru.",
         "Official Site": "https://iyekaterinburg.ru",
         "Icon": "N/A",
         "Redirect": "https://iyekaterinburg.ru",
@@ -288,6 +278,16 @@
         "Redirect": "https://www.hhnk.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hhnk.nl/"
+    },
+    {
+        "link": "https://theartisticmind.com",
+        "Heading": "The Artistic Mind",
+        "Abstract": null,
+        "Official Site": "https://theartisticmind.com",
+        "Icon": "https://theartisticmind.com/wp-content/uploads/2025/01/cropped-A-32x32.png",
+        "Redirect": "https://theartisticmind.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://theartisticmind.com"
     },
     {
         "link": "https://tafelzeilonline.com",
