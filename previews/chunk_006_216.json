@@ -61,13 +61,13 @@
     },
     {
         "link": "https://agence-web.company",
-        "Heading": "Agence Web - Agence web SAS situ\u00e9 \u00e0 Marseille",
-        "Abstract": "Agence web est situ\u00e9 \u00e0 Marseille , agence web est sp\u00e9cialis\u00e9e dans le d\u00e9veloppement de site metier , site wordpress et site prestashop. D\u00e9veloppement sur mesure des modules et extensions CMS. Suivi SEO , SEA, debogage, migration serveur ...",
-        "Official Site": "https://agence-web.company/",
-        "Icon": "https://agence-web.company/wp-content/uploads/2021/12/cropped-agenceweb-75x75-1.png",
-        "Redirect": "https://agence-web.company/",
+        "Heading": "AxiFlow - D\u00e9veloppement web, applications m\u00e9tier, TMA et automatisations",
+        "Abstract": "AxiFlow accompagne les entreprises, collectivit\u00e9s et donneurs d\u2019ordre : sites internet, plateformes, applications m\u00e9tier, API, automatisations, TMA, PrestaShop, WordPress, Moodle, Odoo et acquisition digitale.",
+        "Official Site": "https://agence-web.company",
+        "Icon": "assets/img/axiflow-logo.png",
+        "Redirect": "https://agence-web.company",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://agence-web.company/"
+        "AbstractURL": "https://agence-web.company"
     },
     {
         "link": "https://roulettelogic.co.uk",
@@ -168,6 +168,16 @@
         "Redirect": "https://ediciel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ediciel.com"
+    },
+    {
+        "link": "https://ledinbouwspotsleds.nl",
+        "Heading": "Led inbouwspots, voor elke situatie de juiste inbouwspot!",
+        "Abstract": "Alle soorten en maten inbouwspots, indien gewenst met gratis persoonlijk advies, koop je bij Ledinbouwspotsleds.nl. Gratis verzending vanaf \u20ac50,-",
+        "Official Site": "https://ledinbouwspotsleds.nl",
+        "Icon": "https://www.ledinbouwspotsleds.nl/media/favicon/default/Schermafbeelding_2021-04-12_om_14.07.02.png",
+        "Redirect": "https://ledinbouwspotsleds.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ledinbouwspotsleds.nl"
     },
     {
         "link": "https://ssatpa.com",

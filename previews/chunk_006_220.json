@@ -24,7 +24,7 @@
         "Heading": "TeikaBoom \u2014 \u0434\u0435\u0442\u0441\u043a\u0438\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0442\u0438 \u043f\u0430\u0440\u043a\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435",
         "Abstract": "TeikaBoom - \u0441\u0435\u043c\u0435\u0439\u043d\u044b\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0442\u0438-\u043f\u0430\u0440\u043a\u0438 \u041a\u0441\u0435\u043d\u0438\u0438 \u0411\u043e\u0440\u043e\u0434\u0438\u043d\u043e\u0439 \u0434\u043b\u044f \u043e\u0442\u0434\u044b\u0445\u0430, \u0434\u0435\u0442\u0441\u043a\u0438\u0445 \u043f\u0440\u0430\u0437\u0434\u043d\u0438\u043a\u043e\u0432 \u0438 \u044f\u0440\u043a\u0438\u0445 \u0432\u044b\u0445\u043e\u0434\u043d\u044b\u0445 \u0432\u0441\u0435\u0439 \u0441\u0435\u043c\u044c\u0435\u0439",
         "Official Site": "/",
-        "Icon": "/local/templates/teikaboom/assets/images/og-image/cover.png",
+        "Icon": "/upload/dev2fun.imagecompress/webp/local/templates/teikaboom/assets/images/og-image/cover.webp",
         "Redirect": "/",
         "AbstractSource": "BS4",
         "AbstractURL": "/"
@@ -68,16 +68,6 @@
         "Redirect": "https://d3qxpncwm2dii8.cloudfront.net/static-images/dagensmenu-dk-200x200.jpg",
         "AbstractSource": "BS4",
         "AbstractURL": "https://d3qxpncwm2dii8.cloudfront.net/static-images/dagensmenu-dk-200x200.jpg"
-    },
-    {
-        "link": "https://of-wps.cn",
-        "Heading": "WPS Office\u4e0b\u8f7d - \u5b98\u65b9\u6b63\u7248\u529e\u516c\u8f6f\u4ef6_WPS\u5b98\u7f51\u9996\u9875",
-        "Abstract": "WPS Office\u4e0b\u8f7d\uff0c\u5b98\u65b9\u6b63\u7248\u529e\u516c\u8f6f\u4ef6\u517c\u5bb9Microsoft Office\uff0c\u652f\u6301Word/Excel/PPT/pdf\u4e00\u7ad9\u5f0f\u5904\u7406\uff0c\u65e0\u5e7f\u544a\u65e0\u6346\u7ed1\uff0c\u9002\u7528\u4e8eWindows/Mac/\u5b89\u5353/\u82f9\u679c\u7cfb\u7edf\uff0c\u529e\u516c\u5fc5\u5907\uff01",
-        "Official Site": "https://of-wps.cn",
-        "Icon": "images/icon-pdf.1c0fdd8.svg",
-        "Redirect": "https://of-wps.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://of-wps.cn"
     },
     {
         "link": "https://unimaju.ac.id",
@@ -220,6 +210,16 @@
         "AbstractURL": "https://escaperoomlover.com"
     },
     {
+        "link": "https://tarptent.com",
+        "Heading": "Tarptent",
+        "Abstract": "Build an impressive website with the best-rated top-seller WordPress theme",
+        "Official Site": "https://www.tarptent.com",
+        "Icon": "https://www.tarptent.com/wp-content/uploads/2026/01/logo_big_512-150x150.png",
+        "Redirect": "https://www.tarptent.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tarptent.com"
+    },
+    {
         "link": "https://maplevinecanada.co",
         "Heading": "Home - MapleVine Canada",
         "Abstract": null,
@@ -293,11 +293,11 @@
         "link": "https://usasportgroup.com",
         "Heading": "USA Sport Group | Year-Round Sports Camps & Classes for All",
         "Abstract": "USA Sport Group offers year-round sports camps and classes for kids and adults of all abilities. Keep active with fun, skill-building programs for all ages",
-        "Official Site": "https://usasportgroup.com/",
+        "Official Site": "https://usasportgroup.com/?rnd=1779946316559",
         "Icon": "https://usasportgroup.com/",
-        "Redirect": "https://usasportgroup.com/",
+        "Redirect": "https://usasportgroup.com/?rnd=1779946316559",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://usasportgroup.com/"
+        "AbstractURL": "https://usasportgroup.com/?rnd=1779946316559"
     },
     {
         "link": "https://bonuslounge.co.uk",

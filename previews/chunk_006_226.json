@@ -20,16 +20,6 @@
         "AbstractURL": "https://plavipixel.hr/"
     },
     {
-        "link": "https://laptopsvilla.com",
-        "Heading": "LaptopsVilla \u2013 The One Stop Shop for all of your issues",
-        "Abstract": null,
-        "Official Site": "https://laptopsvilla.com",
-        "Icon": "//laptopsvilla.com/wp-content/uploads/2022/01/cropped-onlinelogomaker-011722-2057-6099-2-32x32.png",
-        "Redirect": "https://laptopsvilla.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://laptopsvilla.com"
-    },
-    {
         "link": "https://easysolution.eu",
         "Heading": "easySolution und Magicline b\u00fcndeln ihre Kr\u00e4fte | MAGICLINE Blog",
         "Abstract": "Mit \u201cMagicline\u201d und \u201cEasy Solution\u201d b\u00fcndelt die Sport Alliance Gruppe die zwei erfolgreichsten Teams f\u00fcr Fitnessstudios und Sportanlagen im DACH-Raum.",
@@ -348,5 +338,15 @@
         "Redirect": "https://www.gottex-swimwear.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.gottex-swimwear.com/"
+    },
+    {
+        "link": "https://airtravellog.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://airtravellog.com",
+        "Icon": "N/A",
+        "Redirect": "https://airtravellog.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://airtravellog.com"
     }
 ]

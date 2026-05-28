@@ -24,7 +24,7 @@
         "Heading": "\u6bcd\u4e73\u98a8\u4fd7\u30fb\u598a\u5a66\u30fb\u5e7c\u5150\u30d7\u30ec\u30a4\u98a8\u4fd7\u3010\u6e0b\u30d1\u30e9\u3011",
         "Abstract": "\u6bcd\u4e73\u30fb\u598a\u5a66\u30fb\u5e7c\u5150\u30d7\u30ec\u30a4\u5c02\u9580\u306e\u98a8\u4fd7(\u30db\u30c6\u30eb\u30d8\u30eb\u30b9) \u6e0b\u30d1\u30e9\u3002\u6bcd\u4e73\u30fb\u598a\u5a66\u597d\u304d\u306e\u65b9\u306f\u6e0b\u8c37 \u6e0b\u30d1\u30e9\u3078\uff01\uff01",
         "Official Site": "https://chichipara.com",
-        "Icon": "https://cdn1.cdn-fu-kakumei.com/414/pc/img/favicon/favicon-32x32.png",
+        "Icon": "https://cdn1.cdn-fu-kakumei.com/414/sp/img/favicon/favicon-32x32.png",
         "Redirect": "https://chichipara.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chichipara.com"
@@ -138,6 +138,16 @@
         "Redirect": "https://www.gr8fires.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.gr8fires.co.uk/"
+    },
+    {
+        "link": "https://kbcsm.hr",
+        "Heading": "KBCSM - Klini\u010dki bolni\u010dki centar Sestre milosrdnice",
+        "Abstract": "Bolni\u010dki centar Sestre milosrdnice je sustav zdravstvenih ustanova na podru\u010dju grada Zagreba. U njemu radi preko 2500 lije\u010dnika, sestara i drugog osoblja.",
+        "Official Site": "https://www.kbcsm.hr/",
+        "Icon": "https://www.kbcsm.hr/wp-content/themes/kbcsm-wp-theme/images/favicon.png",
+        "Redirect": "https://www.kbcsm.hr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.kbcsm.hr/"
     },
     {
         "link": "https://omskgazzeta.ru",

@@ -60,16 +60,6 @@
         "AbstractURL": "https://solar-log.com"
     },
     {
-        "link": "https://matguitars.com",
-        "Heading": "Tienda de m\u00fasica especializada en Guitarras y Bajos",
-        "Abstract": "La mayor y m\u00e1s variada exposici\u00f3n de Guitarras, Bajos, Amplificadores, Pedales y todos sus accesorios. Compra segura y entrega garantizada en plazo.",
-        "Official Site": "https://www.matguitars.com/es/",
-        "Icon": "https://www.matguitars.com/img/logo-1643108735.jpg",
-        "Redirect": "https://www.matguitars.com/es/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.matguitars.com/es/"
-    },
-    {
         "link": "https://nutrition-review.com",
         "Heading": null,
         "Abstract": null,
@@ -348,15 +338,5 @@
         "Redirect": "https://www.selectedwallpapers.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.selectedwallpapers.com/"
-    },
-    {
-        "link": "https://simit.org.co",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://simit.org.co",
-        "Icon": "N/A",
-        "Redirect": "https://simit.org.co",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://simit.org.co"
     }
 ]

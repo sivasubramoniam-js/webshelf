@@ -280,16 +280,6 @@
         "AbstractURL": "https://flightseatmap.com/"
     },
     {
-        "link": "https://editionspixnlove.com",
-        "Heading": "Editions Pix'n Love - Pix'n Love Editions",
-        "Abstract": "Pix'n Love est une maison d'\u00e9dition d\u00e9di\u00e9e \u00e0 l'univers du jeu vid\u00e9o, et plus pr\u00e9cis\u00e9ment \u00e0 celui du r\u00e9trogaming.",
-        "Official Site": "https://editionspixnlove.com",
-        "Icon": "/img/favicon.ico?1762860717",
-        "Redirect": "https://editionspixnlove.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://editionspixnlove.com"
-    },
-    {
         "link": "https://startsearching.net",
         "Heading": "StartSearching",
         "Abstract": "",
@@ -340,6 +330,16 @@
         "AbstractURL": "https://electropedia.org"
     },
     {
+        "link": "https://n1auto.com.ua",
+        "Heading": "\u0410\u0432\u0442\u043e\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u21161 \u042d\u043a\u0441\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0445 \u0430\u0432\u0442\u043e\u0437\u0430\u043f\u0447\u0430\u0441\u0442\u0435\u0439 \u043d\u0430 \u0412\u0410\u0417",
+        "Abstract": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0430\u0432\u0442\u043e\u0437\u0430\u043f\u0447\u0430\u0441\u0442\u0435\u0439 \u21161 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0448\u0438\u0440\u043e\u043a\u0438\u0439 \u0430\u0441\u0441\u043e\u0440\u0442\u0438\u043c\u0435\u043d\u0442 \u042d\u043a\u0441\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0445 \u0410\u0432\u0442\u043e\u0437\u0430\u043f\u0447\u0430\u0441\u0442\u0435\u0439 \u0432 \u0434\u043b\u044f \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439 \u0412\u0410\u0417 (\u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c, \u0422\u0440\u0430\u043d\u0441\u043c\u0438\u0441\u0441\u0438\u044f, \u0425\u043e\u0434\u043e\u0432\u0430\u044f \u0447\u0430\u0441\u0442\u044c, \u041c\u0435\u0445\u0430\u043d\u0438\u0437\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f, \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435)",
+        "Official Site": "https://n1auto.com.ua/",
+        "Icon": "https://n1auto.com.ua//files/design/logo.png",
+        "Redirect": "https://n1auto.com.ua/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://n1auto.com.ua/"
+    },
+    {
         "link": "https://knomad.org",
         "Heading": "Remittances",
         "Abstract": "Movement of funds from a migrant's country of work back to a home country is known as remittances. KNOMAD, the Global Knowledge Partnership on Migration and Development, was active from 2013 until 2024.",
@@ -374,7 +374,7 @@
         "Heading": "Compagnie du Bicarbonate | Engag\u00e9e dans l'entretien naturel",
         "Abstract": "O\u00f9 acheter du bicarbonate alimentaire? La Compagnie du Bicarbonate est la boutique \u00e9cologique sp\u00e9cialis\u00e9e pour la vente de bicarbonate de soude. Vous pourrez aussi acheter des cristaux de soude, du savon noir liquide ou commander de l'acide citrique.",
         "Official Site": "https://compagnie-bicarbonate.com",
-        "Icon": "https://www.compagnie-bicarbonate.com/static/version1779355488/frontend/Ciebicar/prebaking-soda/fr_FR/Magento_Theme/favicon.ico",
+        "Icon": "https://www.compagnie-bicarbonate.com/static/version1779875791/frontend/Ciebicar/prebaking-soda/fr_FR/Magento_Theme/favicon.ico",
         "Redirect": "https://compagnie-bicarbonate.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://compagnie-bicarbonate.com"

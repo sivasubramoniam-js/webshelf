@@ -121,13 +121,13 @@
     },
     {
         "link": "https://mawershop.pl",
-        "Heading": "Sklep odzie\u017cowy, modne ubrania w butiku partnerskim Olavoga",
-        "Abstract": "OLAVOGA - odzie\u017cowa polska marka PREMIUM  z kolekcj\u0105 damsk\u0105 i m\u0119sk\u0105. Poza atrakcyjnym wygl\u0105dem cenimy sobie wysok\u0105 jako\u015b\u0107 sprzedawanych produkt\u00f3w",
-        "Official Site": "https://mawershop.pl/",
-        "Icon": "/skins/store_user/store_21ba806dabd7537265ff5357e5dfe733_24/images/favicon.png",
-        "Redirect": "https://mawershop.pl/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mawershop.pl",
+        "Icon": "N/A",
+        "Redirect": "https://mawershop.pl",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mawershop.pl/"
+        "AbstractURL": "https://mawershop.pl"
     },
     {
         "link": "https://mayohr.com",
@@ -144,7 +144,7 @@
         "Heading": "Informatica, TI, Notebooks, Acess\u00f3rios, Energia Solar, Automa\u00e7\u00e3o Comercial, Seguran\u00e7a CFTV, Gamer, Computadores | Mazer Distribuidora",
         "Abstract": "Distribu\u00edmos para todo o pa\u00eds Microcomputador, Notebook, Monitor, Processador, Placa M\u00e3e, HD SSD, Automa\u00e7\u00e3o Comercial| Porto Alegre/RS - (51) 2101.2100 | Curitiba/PR - (41) 2101.2100 | Palho\u00e7a/SC - (48) 3033.8500",
         "Official Site": "https://mazer.com.br",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://mazer.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mazer.com.br"
@@ -188,16 +188,6 @@
         "Redirect": "https://mdmed.clinic",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mdmed.clinic"
-    },
-    {
-        "link": "https://meb24.pl",
-        "Heading": "MEB24.PL - Internetowy sklep meblowy  - Nasze meble trafi\u0105 w Tw\u00f3j gust!",
-        "Abstract": "Internetowy sklep meblowy MEB24.pl, prezentuje szeroki wyb\u00f3r produkt\u00f3w online oferuj\u0105c meble dla ka\u017cdego.\nMeble m\u0142odzie\u017cowe, meble do salonu, meble na wymiar czy meble na zam\u00f3wienie - to wszystko znajdziesz w niskich cenach i dobrej jako\u015bci na MEB24.pl",
-        "Official Site": "https://meb24.pl/",
-        "Icon": "/skins/user/rwd_primary_14/images/logo.webp",
-        "Redirect": "https://meb24.pl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://meb24.pl/"
     },
     {
         "link": "https://meble-bogart.pl",
@@ -304,7 +294,7 @@
         "Heading": "\uacf5\ubb34\uc6d0 \ud569\uaca9\uc758 \uc0c8\ub85c\uc6b4 \uae30\uc900 | \ub125\uc2a4\ud2b8\uacf5\ubb34\uc6d0",
         "Abstract": "\ud30c\uaca9\uc801 \uac00\uaca9 \uc120\uc5b8, \ub125\uc2a4\ud2b8\ud328\uc2a4! \ud569\uaca9\uc744 \uc704\ud55c \uacfc\ubaa9\ubcc4 \uc804\ubb38 \uac15\uc0ac\uc9c4\uacfc \ud559\uc2b5 \ucd5c\uc801\ud654 \ucf58\ud150\uce20, 9\uae09/7\uae09 \uacf5\ubb34\uc6d0 \uc778\uac15, \ud569\uaca9 \uc2dc \uc218\uac15\ub8cc 100% \ud658\uae09",
         "Official Site": "https://megagong.net",
-        "Icon": "https://img.megagong.net/brand/nextgong_og.png?now=2026-05-27 \uc624\ud6c4 12:54:44",
+        "Icon": "https://img.megagong.net/brand/nextgong_og.png?now=2026-05-28 \uc624\ud6c4 12:15:33",
         "Redirect": "https://megagong.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://megagong.net"

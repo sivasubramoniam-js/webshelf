@@ -120,6 +120,16 @@
         "AbstractURL": "https://asthmatickitty.com/"
     },
     {
+        "link": "https://e-mac.com",
+        "Heading": "Sign In",
+        "Abstract": null,
+        "Official Site": "https://e-mac.com",
+        "Icon": "N/A",
+        "Redirect": "https://e-mac.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://e-mac.com"
+    },
+    {
         "link": "https://flash-games.io",
         "Heading": "Flash Games",
         "Abstract": "Flash Games are a genre of online gaming that emerged in the early 2000s built with Adobe Flash technology. You can play all of the Flash Games online without Flash at flash-games.io.",
@@ -178,6 +188,16 @@
         "Redirect": "https://worldchess.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://worldchess.com"
+    },
+    {
+        "link": "https://maxwellrender.com",
+        "Heading": "Maxwell Render | CPU, GPU & Cloud photorealistic render engine",
+        "Abstract": "Maxwell is a ground-truth photorealistic renderer for top-notch CGI. Now faster thanks to Cloud Rendering and a GPU version & numerous 3D integrations.",
+        "Official Site": "https://maxwellrender.com/",
+        "Icon": "https://maxwellrender.com/wp-content/uploads/2020/08/img-destacada-maxwell.jpg",
+        "Redirect": "https://maxwellrender.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://maxwellrender.com/"
     },
     {
         "link": "https://coastwriter.au",

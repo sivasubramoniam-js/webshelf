@@ -110,16 +110,6 @@
         "AbstractURL": "https://godivinity.org/event-registration/?ee="
     },
     {
-        "link": "https://hfhmw.net",
-        "Heading": "MILE\u7c73\u4e50(\u96c6\u56e2) - MILE SPORTS",
-        "Abstract": "28\u5206\u949f\u524d, mile\u7c73\u4e50\u96c6\u56e2 \u6700\u65b0\u4e92\u52a8\u5f15\u64ce\u9002\u914d\u591a\u8bbe\u5907\u63a5\u5165\u5f62\u6001\uff0c\u589e\u5f3a\u573a\u666f\u8986\u76d6\u6df1\u5ea6\uff0c\u6253\u9020\u7eff\u8272\u670d\u52a1\u573a\u666f\u4e00\u4f53\u5316\u5e03\u5c40\u3002",
-        "Official Site": "https://hfhmw.net",
-        "Icon": "/assets/img/favicon.ico",
-        "Redirect": "https://hfhmw.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hfhmw.net"
-    },
-    {
         "link": "https://hostingtinysoft.space",
         "Heading": null,
         "Abstract": null,
@@ -178,6 +168,16 @@
         "Redirect": "https://www.leafhome.com/stair-lift",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.leafhome.com/stair-lift"
+    },
+    {
+        "link": "https://libreria.fr",
+        "Heading": "La Libreria PARIS - R\u00e9servation de livres papier et num\u00e9riques",
+        "Abstract": "R\u00e9servez votre livre parmi plus d'1 million de titres : romans, jeunesse, BD, manga, scolaire, bestseller, polars beaux-arts, sciences humaines... Et n'h\u00e9sitez pas \u00e0 passer nous demander conseil.",
+        "Official Site": "https://www.libreria.fr/",
+        "Icon": "https://static.epagine.fr/mediaweb3/3366/logo_libreria.png",
+        "Redirect": "https://www.libreria.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.libreria.fr/"
     },
     {
         "link": "https://llgsj.com",

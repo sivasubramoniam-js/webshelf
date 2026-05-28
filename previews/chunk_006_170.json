@@ -190,16 +190,6 @@
         "AbstractURL": "https://bytescout.com"
     },
     {
-        "link": "https://basicspirit.com",
-        "Heading": "Basic Spirit - Fine Handcrafted Pewter Made in Canada",
-        "Abstract": "At Basic Spirit we design and create products that touch the heart and delight the spirit. All of our pewter is handcrafted in our seaside studio in Pugwash, Nova Scotia.\n",
-        "Official Site": "https://basicspirit.com",
-        "Icon": "https://basicspirit.com/media/favicon/stores/1/Fav-Icon.png",
-        "Redirect": "https://basicspirit.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://basicspirit.com"
-    },
-    {
         "link": "https://iisnet-networks.com",
         "Heading": null,
         "Abstract": null,
@@ -258,5 +248,15 @@
         "Redirect": "https://www.wirus-fenster.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.wirus-fenster.de/"
+    },
+    {
+        "link": "https://minigamesgroup.com",
+        "Heading": "\nminigamesgroup.com\n\n",
+        "Abstract": null,
+        "Official Site": "https://minigamesgroup.com",
+        "Icon": "N/A",
+        "Redirect": "https://minigamesgroup.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://minigamesgroup.com"
     }
 ]

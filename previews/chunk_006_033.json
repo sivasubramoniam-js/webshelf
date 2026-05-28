@@ -193,11 +193,11 @@
         "link": "https://kiplingmexico.com",
         "Heading": "Kipling M\u00e9xico | Tienda Oficial de Bolsas, Mochilas y Maletas",
         "Abstract": "Compra bolsas, mochilas y maletas originales en la tienda oficial Kipling M\u00e9xico. Env\u00edo gratis en compras mayores a $2,999. Descubre las novedades de la temporada.",
-        "Official Site": "https://www.kiplingmexico.com/",
+        "Official Site": "https://www.kiplingmexico.com/?srsltid=AfmBOorIhXSgYZL92QV9BEcVGtr8bwb7sVvcB8KGLlkHz5iHnTe3-svP",
         "Icon": "/arquivos/kipling-brand.png",
-        "Redirect": "https://www.kiplingmexico.com/",
+        "Redirect": "https://www.kiplingmexico.com/?srsltid=AfmBOorIhXSgYZL92QV9BEcVGtr8bwb7sVvcB8KGLlkHz5iHnTe3-svP",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kiplingmexico.com/"
+        "AbstractURL": "https://www.kiplingmexico.com/?srsltid=AfmBOorIhXSgYZL92QV9BEcVGtr8bwb7sVvcB8KGLlkHz5iHnTe3-svP"
     },
     {
         "link": "https://kireibd.com",
@@ -248,16 +248,6 @@
         "Redirect": "https://kiyoko.ca/en-ca",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kiyoko.ca/en-ca"
-    },
-    {
-        "link": "https://kjc11880.com",
-        "Heading": "KJC",
-        "Abstract": null,
-        "Official Site": "https://kjc11880.com",
-        "Icon": "/assets/favicon-BpP9S24R.png",
-        "Redirect": "https://kjc11880.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kjc11880.com"
     },
     {
         "link": "https://kk55.la",
@@ -403,10 +393,10 @@
         "link": "https://kokuyostore.com",
         "Heading": "KOKUYO | Official Global Online Store",
         "Abstract": "Shop KOKUYO Stationery, Campus notebook, Jibun Techo on the KOKUYO OFFICIAL ONLINE STORE. Free worldwide shipping is Available.",
-        "Official Site": "/on/demandware.store/Sites-kokuyo_jp-Site",
-        "Icon": "https://www.kokuyostore.com/on/demandware.static/Sites-kokuyo_jp-Site/-/default/dw2efcacfa/images/logos/brand-email.png",
-        "Redirect": "/on/demandware.store/Sites-kokuyo_jp-Site",
+        "Official Site": "/on/demandware.store/Sites-kokuyo_jp-Site/en_US/Home-Show",
+        "Icon": "https://www.kokuyostore.com/on/demandware.static/Sites-kokuyo_jp-Site/-/default/dw6ee94404/images/logos/brand-email.png",
+        "Redirect": "/on/demandware.store/Sites-kokuyo_jp-Site/en_US/Home-Show",
         "AbstractSource": "BS4",
-        "AbstractURL": "/on/demandware.store/Sites-kokuyo_jp-Site"
+        "AbstractURL": "/on/demandware.store/Sites-kokuyo_jp-Site/en_US/Home-Show"
     }
 ]

@@ -100,16 +100,6 @@
         "AbstractURL": "https://dubaijobs.ai/"
     },
     {
-        "link": "https://brothersperformance.com",
-        "Heading": "Brothers Performance \u2013 The Modern Muscle Car Source",
-        "Abstract": "Brothers Performance offers high performance auto parts for all major domestic models, including those from Ford, Chevy, Mopar and many more!",
-        "Official Site": "https://brothersperformance.com",
-        "Icon": "https://smhttp-ssl-39784.nexcesscdn.net/media/favicon/default/favicon_2.ico",
-        "Redirect": "https://brothersperformance.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://brothersperformance.com"
-    },
-    {
         "link": "https://centerforfinancialinclusion.org",
         "Heading": "Home - Center for Financial Inclusion",
         "Abstract": "Delivering Rigorous Research that Advances Inclusive Finance",
@@ -214,7 +204,7 @@
         "Heading": "Bestel Delfts blauw keramiek en cadeaus | Heinen Delfts Blauw",
         "Abstract": "Heinen Delfts Blauw heeft meer dan 1300 Delfts blauwe producten, zoals Delfts blauwe tegels, borden, vazen \u200b\u200ben handbeschilderd aardewerk. Bestel online! Snelle levering. Veilig betalen.",
         "Official Site": "https://heinendelftsblauw.nl",
-        "Icon": "https://cdn11.bigcommerce.com/s-lirw7rmzet/stencil/160b1f40-3b33-013f-993a-469161437791/e/f7d3b6b0-1492-013f-f1b5-6a9f8ef15cc3/img/logo.jpg",
+        "Icon": "https://cdn11.bigcommerce.com/s-lirw7rmzet/stencil/2d234500-3c0b-013f-acbd-6e043772fade/e/f7d3b6b0-1492-013f-f1b5-6a9f8ef15cc3/img/logo.jpg",
         "Redirect": "https://heinendelftsblauw.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://heinendelftsblauw.nl"
@@ -228,6 +218,16 @@
         "Redirect": "https://www.novumgames.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.novumgames.com/"
+    },
+    {
+        "link": "https://victorianresearch.org",
+        "Heading": "Victoria Research Web",
+        "Abstract": "Victoria Research Web provides research\nresources for the study of all aspects of Victorian Britain.",
+        "Official Site": "https://victorianresearch.org",
+        "Icon": "N/A",
+        "Redirect": "https://victorianresearch.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://victorianresearch.org"
     },
     {
         "link": "https://setagaya-pt.jp",

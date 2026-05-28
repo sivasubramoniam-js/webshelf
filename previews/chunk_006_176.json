@@ -31,10 +31,10 @@
     },
     {
         "link": "https://thesaasnews.com",
-        "Heading": "SaaS B2B Fundraising News | The SaaS News",
-        "Abstract": "The latest in private SaaS B2B fundraising news.  Subscribe to receive fundraising alerts.",
+        "Heading": "The SaaS News",
+        "Abstract": "Covering the latest tech fundraising events.",
         "Official Site": "https://www.thesaasnews.com/",
-        "Icon": "https://media.unstack.com/media/thesaasnews/image/copy_of_seed_round.png",
+        "Icon": "https://static.ghost.org/v5.0.0/images/publication-cover.jpg",
         "Redirect": "https://www.thesaasnews.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.thesaasnews.com/"
@@ -130,16 +130,6 @@
         "AbstractURL": "https://rbcz.nu/"
     },
     {
-        "link": "https://travelbase.eu",
-        "Heading": "Specialist in avontuurlijke reizen - Travelbase",
-        "Abstract": "Bij Travelbase vind je avontuurlijke reizen waarbij je zelfstandig je reiservaring kan bepalen. Kies tussen meer dan 30 vakantie bestemmingen, van roadtrips tot kanotochten, hikes en andere actieve vakanties.",
-        "Official Site": "https://travelbase.eu/",
-        "Icon": "https://travelbase.eu/app/uploads/2023/12/NN_Iceland22_SjoerdBracke_HR95-1-1-scaled.jpg",
-        "Redirect": "https://travelbase.eu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://travelbase.eu/"
-    },
-    {
         "link": "https://seedingup.de",
         "Heading": "Blog- und Influencer Marketing bei SeedingUp verbindet",
         "Abstract": "SeedingUp verbindet Advertiser mit Influencern und Bloggern aus s\u00e4mtlichen Themen! Steigert Reichweite, Traffic und Conversions. Nachgelagerte SEO-Effekte, mehr Inhalte!",
@@ -158,16 +148,6 @@
         "Redirect": "https://riveria.fi/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://riveria.fi/"
-    },
-    {
-        "link": "https://weobia.fr",
-        "Heading": "Agence Web et digtale, h\u00e9bergement web, applications web et mobile",
-        "Abstract": "Depuis 2001, Agence Web et digitale cr\u00e9eant des sites internet, application web et mobile, de l'h\u00e9bergement cloud et web",
-        "Official Site": "https://weobia.fr",
-        "Icon": "/favicon.svg",
-        "Redirect": "https://weobia.fr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://weobia.fr"
     },
     {
         "link": "https://fivesenseseducation.com.au",
@@ -321,10 +301,10 @@
     },
     {
         "link": "https://wienmobil.at",
-        "Heading": "WienMobil",
+        "Heading": "Radware Bot Manager Captcha",
         "Abstract": null,
         "Official Site": "https://wienmobil.at",
-        "Icon": "./assets/icons/logos/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://wienmobil.at",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wienmobil.at"

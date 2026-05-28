@@ -81,8 +81,8 @@
     },
     {
         "link": "https://4ktwo.com",
-        "Heading": "4k2\u793e\u533a|\u9ad8\u6e05\u8d44\u6e90 -  \u624b\u673a\u7248 - Powered by Discuz!",
-        "Abstract": "4k2\u793e\u533a|\u9ad8\u6e05\u8d44\u6e90 ,4k2\u793e\u533a",
+        "Heading": "4k2\u793e\u533a|\u9ad8\u6e05\u8d44\u6e90",
+        "Abstract": "4k2\u793e\u533a|\u9ad8\u6e05\u8d44\u6e90 ",
         "Official Site": "https://4ktwo.com",
         "Icon": "N/A",
         "Redirect": "https://4ktwo.com",
@@ -180,6 +180,16 @@
         "AbstractURL": "https://gio-abbigliamento.com/"
     },
     {
+        "link": "https://helloswanky.com",
+        "Heading": "\n      Hello Swanky: Trendy Clothing, Accessories & Gifts \u2013 Shop Your Vibe\n \u2013 Hello Swanky Online Pvt. Ltd.",
+        "Abstract": "Discover trendy clothing, premium accessories, and unique lifestyle gifts at Hello Swanky. Explore fashion for men, women, and kids - stylish, modern, and made for you.",
+        "Official Site": "https://helloswanky.com/",
+        "Icon": "http://helloswanky.com/cdn/shop/files/Color_2_638e740f-575b-4e13-b0f7-bbb6972bdc26.png?v=1765000332",
+        "Redirect": "https://helloswanky.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://helloswanky.com/"
+    },
+    {
         "link": "https://irasshai.co",
         "Heading": "\n      iRASSHAi \u00b7 \u00c9picerie Japonaise En Ligne \u00b7 Boutique & Restaurants Paris\n",
         "Abstract": "1000 ingr\u00e9dients et ustensiles japonais \u00b7 Livraison offerte \u00e0 partir de 50\u20ac en France & UE \u00b7 Recettes japonaises \u00b7 Restaurants \u00e0 Paris, 40 rue du Louvre \u00b7 iRASSHAi c'est le rendez-vous des amateurs de cuisine japonaise !",
@@ -228,6 +238,16 @@
         "Redirect": "https://makoba.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://makoba.com/"
+    },
+    {
+        "link": "https://mathilde.ro",
+        "Heading": "Magazin online oficial - Mathilde Rom\u00e2nia",
+        "Abstract": "Piese vestimentare \u00een edi\u021bie limitat\u0103 din materiale naturale personalizate cu aplica\u021bii \u0219i broderii manuale - Mathilde stilul t\u0103u natural.",
+        "Official Site": "https://www.mathilde.ro/",
+        "Icon": "https://www.mathilde.ro/wp-content/uploads/2023/07/mathilde-oficial-rochii-brodate-manual.jpg",
+        "Redirect": "https://www.mathilde.ro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mathilde.ro/"
     },
     {
         "link": "https://najcijena.hr",
@@ -328,26 +348,6 @@
         "Redirect": "https://aplug.pl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aplug.pl/"
-    },
-    {
-        "link": "https://autostyling.net",
-        "Heading": "Autostyling Klerksdorp ",
-        "Abstract": "Exclusive Importers Of Alloy Wheels, Tyres and Car Accessories",
-        "Official Site": "https://www.autostyling.net/",
-        "Icon": "http://www.autostyling.net/cdn/shop/files/AS_Social_Share_Image.jpg?v=1674215969",
-        "Redirect": "https://www.autostyling.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.autostyling.net/"
-    },
-    {
-        "link": "https://citroen-shop.eu",
-        "Heading": "Citroen-Shop.eu | Origin\u00e1ln\u00ed p\u0159\u00edslu\u0161enstv\u00ed Citro\u00ebn, DS Automobiles",
-        "Abstract": "Origin\u00e1ln\u00ed p\u0159\u00edslu\u0161enstv\u00ed a n\u00e1hradn\u00ed d\u00edly Citro\u00ebn a DS se z\u00e1rukou kvality p\u0159\u00edmo od v\u00fdrobce. \u2705 Skladem \u2705 Doprava zdarma \u2705 Rychl\u00e9 doru\u010den\u00ed dom\u016f",
-        "Official Site": "https://citroen-shop.eu",
-        "Icon": "https://citroen-shop.eu/img/favicon.ico?1734509848",
-        "Redirect": "https://citroen-shop.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://citroen-shop.eu"
     },
     {
         "link": "https://honestmed.com",

@@ -240,6 +240,16 @@
         "AbstractURL": "https://craftdiaries.au"
     },
     {
+        "link": "https://linklings.net",
+        "Heading": "Linklings",
+        "Abstract": null,
+        "Official Site": "https://linklings.net",
+        "Icon": "https://web.linklings.com/wp-content/uploads/2020/01/Linklings-Blue_NEW.png",
+        "Redirect": "https://linklings.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://linklings.net"
+    },
+    {
         "link": "https://filmscanner.info",
         "Heading": "Scan-Service M\u00fcnchen: Dias Negative Scannen Fotos APS-Filme Mittelformate digitalisieren; Dienstleistung Scanservice, Video-Digitalisierung",
         "Abstract": null,
@@ -261,8 +271,8 @@
     },
     {
         "link": "https://lakme-academy.com",
-        "Heading": "Advanced Beauty Cosmetology Courses at Lakm\u0113 Academy | Professional Beauty Parlour Course",
-        "Abstract": "Lakm\u0113 Academy offers beauty courses that not only advance your career but also connect you with top beauty brands. Join now to enhance your career prospects.",
+        "Heading": "Top Professional Beauty Course & Training | Lakm\u0113 Academy - Enroll Now!",
+        "Abstract": "Step into the beauty industry with professional beauty courses at Lakm\u0113 Academy. Join our premier beauty training center to learn from experts and kickstart your dream career. Register today!",
         "Official Site": "https://www.lakme-academy.com/",
         "Icon": "https://assets.lakme-academy.com/images/default-og-image.png",
         "Redirect": "https://www.lakme-academy.com/",

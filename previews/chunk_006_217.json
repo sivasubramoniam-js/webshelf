@@ -10,6 +10,16 @@
         "AbstractURL": "https://www.reservationkey.com"
     },
     {
+        "link": "https://ro-tel.com",
+        "Heading": "Delicious Tomatoes and Zesty Diced Green Chilies | RO-TEL",
+        "Abstract": "RO-TEL tomatoes and diced green chilies are a zesty addition to everyday recipes! Check out all our recipes and tomato products to spice up your meals today!",
+        "Official Site": "https://ro-tel.com",
+        "Icon": "/sites/g/files/qyyrlu281/files/Rotel_96x96.png",
+        "Redirect": "https://ro-tel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ro-tel.com"
+    },
+    {
         "link": "https://gamen.net",
         "Heading": "gamen.net",
         "Abstract": null,
@@ -210,16 +220,6 @@
         "AbstractURL": "https://kanagawa-fa.gr.jp"
     },
     {
-        "link": "https://go-wps.cn",
-        "Heading": "WPS Office\u4e0b\u8f7d - \u5b98\u65b9\u6b63\u7248\u529e\u516c\u8f6f\u4ef6_WPS\u5b98\u7f51\u9996\u9875",
-        "Abstract": "WPS Office\u4e0b\u8f7d\uff0c\u5b98\u65b9\u6b63\u7248\u529e\u516c\u8f6f\u4ef6\u517c\u5bb9Microsoft Office\uff0c\u652f\u6301Word/Excel/PPT/pdf\u4e00\u7ad9\u5f0f\u5904\u7406\uff0c\u65e0\u5e7f\u544a\u65e0\u6346\u7ed1\uff0c\u9002\u7528\u4e8eWindows/Mac/\u5b89\u5353/\u82f9\u679c\u7cfb\u7edf\uff0c\u529e\u516c\u5fc5\u5907\uff01",
-        "Official Site": "https://go-wps.cn",
-        "Icon": "images/icon-pdf.1c0fdd8.svg",
-        "Redirect": "https://go-wps.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://go-wps.cn"
-    },
-    {
         "link": "https://clearcardsbase.com",
         "Heading": "ClearCardsBase: Financial Tips and Credit Card Reviews",
         "Abstract": "Explore expert insights on credit cards, financial management, and money-saving strategies. Get unbiased reviews and practical advice to improve your finances.",
@@ -282,7 +282,7 @@
     {
         "link": "https://meteo-lyon.net",
         "Heading": "M\u00e9t\u00e9o Lyon 69000 \u2013 Pr\u00e9visions \u00e0 15 jours fiables",
-        "Abstract": "Ce mercredi, \u00e0 Lyon : toujours aussi estival avec du soleil et une chaleur particuli\u00e8rement marqu\u00e9e pour une fin mai (Matin 17\u00b0C, Apr\u00e8s-midi 34\u00b0C, Soir 30\u00b0C, Nuit 22\u00b0C).",
+        "Abstract": "Ce jeudi, \u00e0 Lyon : restant ensoleill\u00e9 avec de fortes chaleurs sur la r\u00e9gion - petit vent de nord (Matin 18\u00b0C, Apr\u00e8s-midi 33\u00b0C, Soir 29\u00b0C, Nuit 20\u00b0C).",
         "Official Site": "https://www.meteo-lyon.net",
         "Icon": "https://www.meteo-lyon.net/images/social/meteo-social-17.png",
         "Redirect": "https://www.meteo-lyon.net",

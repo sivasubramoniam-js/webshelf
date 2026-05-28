@@ -50,16 +50,6 @@
         "AbstractURL": "https://wmd.hr/"
     },
     {
-        "link": "https://hatnote.com",
-        "Heading": "{{Hatnote}}",
-        "Abstract": "A collection of perspectives on wiki life. listen to wikipedia | top 100 | weeklypedia | recent...",
-        "Official Site": "https://blog.hatnote.com/?og=1",
-        "Icon": "https://64.media.tumblr.com/avatar_037859653493_128.pnj",
-        "Redirect": "https://blog.hatnote.com/?og=1",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://blog.hatnote.com/?og=1"
-    },
-    {
         "link": "https://plottr.com",
         "Heading": "Plottr - Bring your story to life in a weekend",
         "Abstract": "Outline faster, organize smarter, and turbocharge your productivity today with Plottr, the #1 visual book planning and story bible software.",
@@ -210,16 +200,6 @@
         "AbstractURL": "https://vortexdigital.ca"
     },
     {
-        "link": "https://modernforms.com",
-        "Heading": "Home Page - Modern Forms",
-        "Abstract": null,
-        "Official Site": "https://modernforms.com/",
-        "Icon": "https://modernforms.com/wp-content/uploads/2025/04/MODERN_FORMS_FAVICON-1-100x100.png",
-        "Redirect": "https://modernforms.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://modernforms.com/"
-    },
-    {
         "link": "https://lamarieeencolere.com",
         "Heading": "La mari\u00e9e en col\u00e8re Blog mariage, grossesse, voyage de noces - A la Une!",
         "Abstract": "Blog mariage, et blog voyage de noces, tout pour organiser le plus beau jour de votre vie. Blog maman & b\u00e9b\u00e9, blog grossesse, t\u00e9moignages pma...",
@@ -248,6 +228,16 @@
         "Redirect": "https://saint-joseph.org/fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://saint-joseph.org/fr/"
+    },
+    {
+        "link": "https://bsufl.by",
+        "Heading": "\u0411\u0413\u0423\u0418\u042f",
+        "Abstract": null,
+        "Official Site": "https://bsufl.by",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://bsufl.by",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bsufl.by"
     },
     {
         "link": "https://isbc.ru",
@@ -328,15 +318,5 @@
         "Redirect": "https://modernglobal.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://modernglobal.co.uk"
-    },
-    {
-        "link": "https://mccourtfoundation.org",
-        "Heading": "Home - The McCourt Foundation",
-        "Abstract": "Striving to cure neurological diseases, one event at a time. Join us in empowering communities to build a healthier world.... Read More",
-        "Official Site": "https://www.mccourtfoundation.org/",
-        "Icon": "https://www.mccourtfoundation.org/wp-content/uploads/2023/05/title-border-bottom.png",
-        "Redirect": "https://www.mccourtfoundation.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mccourtfoundation.org/"
     }
 ]

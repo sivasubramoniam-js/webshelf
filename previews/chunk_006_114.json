@@ -51,8 +51,8 @@
     },
     {
         "link": "https://furama.com",
-        "Heading": "\n\t\tFurama Hotels International.\t",
-        "Abstract": "A Singapore-based hotel management company, managing an award-winning chain of mid-range hotels situated in the vibrant Asia Pacific region. Make your hotel booking via Furama websites now for the Lowest Internet Rate Guaranteed. No hidden charges and no booking fee with Instant Confirmation.",
+        "Heading": "You are being redirected...",
+        "Abstract": null,
         "Official Site": "https://furama.com",
         "Icon": "N/A",
         "Redirect": "https://furama.com",
@@ -68,6 +68,16 @@
         "Redirect": "https://flyingomelette.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://flyingomelette.com"
+    },
+    {
+        "link": "https://die-for.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://die-for.com",
+        "Icon": "N/A",
+        "Redirect": "https://die-for.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://die-for.com"
     },
     {
         "link": "https://teremana.com",

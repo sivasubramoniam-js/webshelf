@@ -111,7 +111,7 @@
     },
     {
         "link": "https://novosibirsk-trend.ru",
-        "Heading": "novosibirsk-trend.ru - Topic Index",
+        "Heading": "novosibirsk-trend.ru - Resource Library",
         "Abstract": "Explore curated articles and resources about novosibirsk-trend.ru.",
         "Official Site": "https://novosibirsk-trend.ru",
         "Icon": "N/A",
@@ -174,7 +174,7 @@
         "Heading": "L\u016f\u017ekoviny pro alergiky a \u010desk\u00e9 nano v\u00fdrobky | nanoSPACE",
         "Abstract": "\u2705 100% \u010desk\u00fd v\u00fdrobce l\u016f\u017ekovin z nanovl\u00e1ken pro alergiky \u2705 Nej\u0161ir\u0161\u00ed v\u00fdb\u011br \u010desk\u00fdch nanoprodukt\u016f v \u010cR  \u2705 Nejv\u011bt\u0161\u00ed prodejce v \u010cR",
         "Official Site": "https://www.nanospace.cz/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.nanospace.cz/user/logos/nanospace-logo-2.png?t=1779862155",
+        "Icon": "https://cdn.myshoptet.com/usr/www.nanospace.cz/user/logos/nanospace-logo-2.png?t=1779946388",
         "Redirect": "https://www.nanospace.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.nanospace.cz/"
@@ -300,13 +300,23 @@
         "AbstractURL": "https://www.refinn.com/"
     },
     {
-        "link": "https://hovo.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://hovo.com",
-        "Icon": "N/A",
-        "Redirect": "https://hovo.com",
+        "link": "https://onamatchmaking.com.au",
+        "Heading": "Professional Matchmaker - O N A Matchmaking",
+        "Abstract": "Welcome to O N A Matchmaking, dedicated, Professional Matchmaker helping singles find the relationship they seek and keep it!",
+        "Official Site": "https://onamatchmaking.com.au/",
+        "Icon": "https://onamatchmaking.com.au/wp-content/uploads/2023/02/pexels-photo-4148984.jpeg",
+        "Redirect": "https://onamatchmaking.com.au/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hovo.com"
+        "AbstractURL": "https://onamatchmaking.com.au/"
+    },
+    {
+        "link": "https://hovo.com",
+        "Heading": "Hollingsworth & Vose in Massachusetts",
+        "Abstract": "Hollingsworth and Vose is a global manufacturer of advanced materials used in filtration, battery, and industrial applications.",
+        "Official Site": "https://www.hollingsworth-vose.com/resources/",
+        "Icon": "https://www.hollingsworth-vose.com/wp-content/uploads/cropped-fav-icon-new-32x32.png",
+        "Redirect": "https://www.hollingsworth-vose.com/resources/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hollingsworth-vose.com/resources/"
     }
 ]

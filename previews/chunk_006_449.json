@@ -100,16 +100,6 @@
         "AbstractURL": "https://www.jerseycollege.edu/"
     },
     {
-        "link": "https://diffeo.com",
-        "Heading": "Salesforce Compliance Site",
-        "Abstract": "Your central dashboard for managing compliance documents and certifications.",
-        "Official Site": "https://diffeo.com",
-        "Icon": "N/A",
-        "Redirect": "https://diffeo.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://diffeo.com"
-    },
-    {
         "link": "https://acetool.com",
         "Heading": "Ace Tool - Power Tools, Safety PPE, Accessories | Quality Solutions",
         "Abstract": "Welcome to Ace Tool, your trusted source for Hand Tools, Cordless Tools, Blades and Bits are just a few to choose from. Explore our extensive range of brands like Milwaukee Tool, Dewalt, Honda, Makita and more. Enjoy competitive prices, expert advice, and fast shipping. Shop where the Professions go Acetool.com!",
@@ -180,6 +170,16 @@
         "AbstractURL": "https://purposeinvest.com"
     },
     {
+        "link": "https://ctulocal1.org",
+        "Heading": "CTU - Chicago Teachers Union",
+        "Abstract": "Caring, united, democratic: CTU is nearly 30,000 teachers, paraprofessionals and clinicians acting as one. In every school and workplace, unity in action protects our members and the students we serve. Along with parents, students and community we advocate for the schools\u2009\u2013\u2009and the city\u2009\u2013\u2009that our students deserve. Learning, working and living conditions are not separate. Together, our Union wages a comprehensive fight.",
+        "Official Site": "https://www.ctulocal1.org/",
+        "Icon": "https://www.ctulocal1.org/wp-content/uploads/2023/12/mayor-johnson-hod.jpg",
+        "Redirect": "https://www.ctulocal1.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ctulocal1.org/"
+    },
+    {
         "link": "https://moderngamingnetwork.com",
         "Heading": "Modern Gaming Network - Latest Gaming News and Reviews",
         "Abstract": "Stay updated with the latest gaming news, reviews, and insights from the Modern Gaming Network. Your go-to source for all things gaming.",
@@ -194,7 +194,7 @@
         "Heading": "MINITOTO : Pusat Data Bandar Toto & Forum Slot Gacor Terverifikasi 2026",
         "Abstract": "MINITOTO mengukuhkan posisi sebagai pusat data bandar toto terlengkap dan forum slot gacor terverifikasi 2026. Akses real-time hasil keluaran angka jitu, analisis pasar transparan, dan pusat informasi server VIP yang stabil untuk pengalaman bermain paling produktif bagi komunitas profesional di Indonesia.",
         "Official Site": "https://minitotosabi.com",
-        "Icon": "/assets/img/bpm/favicon.png?v=1779868342",
+        "Icon": "/assets/img/bpm/favicon.png?v=1779957103",
         "Redirect": "https://minitotosabi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://minitotosabi.com"

@@ -121,8 +121,8 @@
     },
     {
         "link": "https://copy20.com",
-        "Heading": "\n    \u62f7\u8c9d\u6f2b\u756b - \u6d77\u8cca\u738b \u6d77\u8d3c\u738b \u54e5\u5e03\u6797\u6bba\u624b \u54e5\u5e03\u6797\u6740\u624b \u6f2b\u756b \u6f2b\u753b FGO FGO \u6771\u65b9 \u4e1c\u65b9 \u8266\u5a18 \u8230\u5a18 \u540c\u4eba\u5fd7 \u672c\u5b50 \u66f4\u65b0 \u5168\u96c6 \u5728\u7dab\u6f2b\u756b \u5728\u7ebf\u6f2b\u753b - \u62f7\u8c9d\u6f2b\u756b \u62f7\u8d1d\u6f2b\u753b\n  ",
-        "Abstract": "\u62f7\u8c9d\u6f2b\u756b \u70ba\u5168\u7403\u83ef\u4eba\u63d0\u4f9b\u9ad8\u8cea\u91cf \u4e2d\u6587 \u5168\u672c\u6f2b\u756b\uff0c\u540c\u4eba\u5fd7\u3002\u6d77\u8cca\u738b\uff0c\u706b\u5f71\u5fcd\u8005\uff0c\u54e5\u5e03\u6797\u6bba\u624b\uff0c\u9032\u64ca\u7684\u5de8\u4eba\uff0c\u9f8d\u73e0\uff0cMagi\u9b54\u7b1b\uff0c\u5996\u7cbe\u5c3e\u5df4\u3002Fate/grand order\uff0c\u8266\u968a\u6536\u96c6 \u8266\u5a18\uff0cGranblue Fantasy \u78a7\u85cd\u5e7b\u60f3\uff0c\u6771\u65b9project\uff0c\u5076\u50cf\u5927\u5e2b\uff0cLove Live \u540c\u4eba\u5fd7 18\u7981\u672c\u5b50 \u5168\u5f69 \u61c9\u6709\u76e1\u6709\u3002",
+        "Heading": "\u62f7\u8c9d\u6f2b\u756b",
+        "Abstract": null,
         "Official Site": "https://copy20.com",
         "Icon": "https://s3.mangafunb.fun/static/free.ico",
         "Redirect": "https://copy20.com",
@@ -334,7 +334,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://latentquarrel.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://latentquarrel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://latentquarrel.com"

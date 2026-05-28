@@ -110,16 +110,6 @@
         "AbstractURL": "https://blackjackreels.nl"
     },
     {
-        "link": "https://satelitnatv.sk",
-        "Heading": "Satelitn\u00e1TV.sk | Web o TV a r\u00e1di\u00e1ch",
-        "Abstract": "Objavte novinky a aktu\u00e1lne inform\u00e1cie zo sveta satelitnej a digit\u00e1lnej telev\u00edzie, VOD a r\u00e1dia. Pokrytie Skylink, Magio TV, DIGI TV, Sweet TV, SledovanieTV, Lep\u0161ia TV, UPC, ANTIK a \u010fal\u0161\u00edch oper\u00e1torov. Ako aj VOD Voyo, Netflix, Disney+ \u010di SkyShowtime.",
-        "Official Site": "https://www.satelitnatv.sk/",
-        "Icon": "https://www.satelitnatv.sk/wp-content/uploads/2016/04/logo_satelitna_sit.png",
-        "Redirect": "https://www.satelitnatv.sk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.satelitnatv.sk/"
-    },
-    {
         "link": "https://t2mio.com",
         "Heading": "Custom URL Shortener, Branded Domain, QR Code Generator | T2M",
         "Abstract": "All-in-one link management platform, best custom link shortener, branded domain & API. Personalized vanity short links, static, dynamic & branded QR code generator & advanced analytic reports.",
@@ -268,6 +258,16 @@
         "Redirect": "https://www.tncc.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tncc.ca/"
+    },
+    {
+        "link": "https://trueadventure.de",
+        "Heading": "Honda Africa Twin CRF1000L 2016 | Honda True Adventure",
+        "Abstract": "Die True Adventure ist der legend\u00e4re Africa Twin Nachfolger, welcher 2015 / 2016 erscheinen wird. Der Name Honda CRF-1000 ist hinf\u00e4llig.",
+        "Official Site": "https://trueadventure.de/",
+        "Icon": "https://trueadventure.de/wp-content/uploads/2015/07/crf1000l-africa-twin-dct-2016-026.jpg",
+        "Redirect": "https://trueadventure.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trueadventure.de/"
     },
     {
         "link": "https://aaja.org",

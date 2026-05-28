@@ -30,16 +30,6 @@
         "AbstractURL": "https://clickmark.cloud"
     },
     {
-        "link": "https://broxap.com",
-        "Heading": "Street Furniture | Inclusive Street Furniture | Broxap",
-        "Abstract": "Broxap is a leading UK designer, manufacturer, installer and stockist of street furniture. An excellent service and a great range of product designs.",
-        "Official Site": "https://broxap.com",
-        "Icon": "https://www.broxap.com/static/version1779264124/frontend/Aware/broxap/en_GB/Magento_Theme/favicon.ico",
-        "Redirect": "https://broxap.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://broxap.com"
-    },
-    {
         "link": "https://sciprog.center",
         "Heading": "Scientific Programming Centre",
         "Abstract": null,
@@ -48,16 +38,6 @@
         "Redirect": "https://sciprog.center",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sciprog.center"
-    },
-    {
-        "link": "https://fk-soehnchen.de",
-        "Heading": "*FK S\u00f6hnchen* | Startseite | FK S\u00f6hnchen Online Shop",
-        "Abstract": "FK S\u00f6hnchen, Qualit\u00e4t nicht nur f\u00fcr die Landwirtschaft.",
-        "Official Site": "https://www.fk-soehnchen.de/",
-        "Icon": "https://www.fk-soehnchen.de/out/dd_roxive/img/basket.png",
-        "Redirect": "https://www.fk-soehnchen.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.fk-soehnchen.de/"
     },
     {
         "link": "https://napitkimira.com",
@@ -170,6 +150,16 @@
         "AbstractURL": "https://www.infrakit.com/"
     },
     {
+        "link": "https://orthogate.org",
+        "Heading": "Your Orthopedic Gateway for Orthopedic Professionals - Orthogate - Orthogate",
+        "Abstract": "Orthopaedic surgery news, reviews, forums, videos, educational resources for orthopedic surgeons, residents,  medical students, patients",
+        "Official Site": "https://orthogate.org",
+        "Icon": "/templates/ja_coach/favicon.ico",
+        "Redirect": "https://orthogate.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://orthogate.org"
+    },
+    {
         "link": "https://gamalive.com",
         "Heading": "La culture du jeu vid\u00e9o - Gamalive",
         "Abstract": "La culture du jeu vid\u00e9o. Actualit\u00e9, dossiers, news sur jeux vid\u00e9os pc, consoles microsoft xbox 360 , nintendo wii, sony playstation3...",
@@ -192,7 +182,7 @@
     {
         "link": "https://indianmakaan.com",
         "Heading": "Home - Indian Makaan",
-        "Abstract": "Projects For Sale For Rent Commercials All Cities CitiesBangaloreChengalpattuChennaiCoimbatoreDindigulHyderabadKochiMaduraiPuneSalemTirupurTrichyTrivandrum Keyword Search CasaGrand Highclere 2,3 BHK Kundrathur, Chennai PRICE STARTS AT \u20b949 L onwards Flashy Fame Spot\u00a0Light Prev Next Projects Casagrand Aquagrove(Madhavaram Market Price \u2013 \u20b98000/sft | Casagrand Launch Price \u2013 \u20b96499/sft | Early Bird Price \u2013 \u20b96299/sft) Starts from \u20b989 L Beds: 2, 3 and [\u2026]",
+        "Abstract": "Projects For Sale For Rent Commercials All Cities CitiesBangaloreChengalpattuChennaiCoimbatoreDindigulHyderabadKochiMaduraiPuneSalemTirupurTrichyTrivandrum Keyword Search Projects For Sale For Rent Commercials All Cities CitiesBangaloreChengalpattuChennaiCoimbatoreDindigulHyderabadKochiMaduraiPuneSalemTirupurTrichyTrivandrum Keyword Search CasaGrand Highclere 2,3 BHK Kundrathur, Chennai PRICE STARTS AT \u20b949 L onwards Flashy Fame Spot\u00a0Light Prev Next Projects Casagrand Aquagrove(Madhavaram Market Price \u2013 \u20b98000/sft | Casagrand Launch Price \u2013 \u20b96499/sft | Early Bird [\u2026]",
         "Official Site": "https://indianmakaan.com/",
         "Icon": "https://indianmakaan.com/wp-content/uploads/2024/04/Casagrand-Logo1-copy.webp",
         "Redirect": "https://indianmakaan.com/",

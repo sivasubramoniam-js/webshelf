@@ -13,11 +13,11 @@
         "link": "https://mebel-ekonom31.ru",
         "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u043c\u0435\u0431\u0435\u043b\u044c \u0432 \u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0435 \u041c\u0435\u0431\u0435\u043b\u044c\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u041c\u0435\u0431\u0435\u043b\u044c \u042d\u043a\u043e\u043d\u043e\u043c \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u043c\u0435\u0431\u0435\u043b\u044c \u043f\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b\u043c \u0446\u0435\u043d\u0430\u043c \u0432 \u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0435",
         "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u043d\u0435\u0434\u043e\u0440\u043e\u0433\u0443\u044e \u043c\u0435\u0431\u0435\u043b\u044c \u0432 \u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0435. \u041c\u0435\u0431\u0435\u043b\u044c \u042d\u043a\u043e\u043d\u043e\u043c - \u044d\u0442\u043e \u0431\u043e\u043b\u0435\u0435 50 \u0442\u044b\u0441. \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0439 \u0442\u043e\u0432\u0430\u0440\u043e\u0432. \u0412 \u043d\u0430\u043b\u0438\u0447\u0438\u0438 \u0438 \u043f\u043e\u0434 \u0437\u0430\u043a\u0430\u0437. \u041c\u0435\u0431\u0435\u043b\u044c \u043f\u043e \u0430\u043a\u0446\u0438\u0438. \u041e\u0433\u0440\u043e\u043c\u043d\u044b\u0435 \u0441\u043a\u0438\u0434\u043a\u0438. \u0420\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0430 \u043d\u0430 6 \u043c\u0435\u0441\u044f\u0446\u0435\u0432 \u0431\u0435\u0437 %.",
-        "Official Site": "https://mebel-ekonom31.ru/?yclid=7710547526903176844",
+        "Official Site": "https://mebel-ekonom31.ru/",
         "Icon": "https://mebel-ekonom31.ru/image/catalog/data_store/logo/favicon.png",
-        "Redirect": "https://mebel-ekonom31.ru/?yclid=7710547526903176844",
+        "Redirect": "https://mebel-ekonom31.ru/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mebel-ekonom31.ru/?yclid=7710547526903176844"
+        "AbstractURL": "https://mebel-ekonom31.ru/"
     },
     {
         "link": "https://merkabagodard.space",
@@ -28,6 +28,16 @@
         "Redirect": "https://merkabagodard.space",
         "AbstractSource": "BS4",
         "AbstractURL": "https://merkabagodard.space"
+    },
+    {
+        "link": "https://coolgigllc.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://coolgigllc.com",
+        "Icon": "N/A",
+        "Redirect": "https://coolgigllc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://coolgigllc.com"
     },
     {
         "link": "https://garagewhifbitz.co.uk",
@@ -131,7 +141,7 @@
     },
     {
         "link": "https://petersburg-trend.ru",
-        "Heading": "petersburg-trend.ru - The Portal",
+        "Heading": "petersburg-trend.ru - Latest News",
         "Abstract": "Read the latest articles and updates on petersburg-trend.ru.",
         "Official Site": "https://petersburg-trend.ru",
         "Icon": "N/A",
@@ -241,13 +251,13 @@
     },
     {
         "link": "https://drivenc.gov",
-        "Heading": "DriveNC.gov | North Carolina Traffic, Road Closures & Travel",
-        "Abstract": "Real time traffic and travel information for North Carolina. Provides information about road closures, accidents, congestion, traffic cameras, weather events, and work zones.",
-        "Official Site": "https://drivenc.gov",
-        "Icon": "https://www.drivenc.gov/Content/images/logo/full_w_background.png",
-        "Redirect": "https://drivenc.gov",
+        "Heading": "\n        DriveNC\n    ",
+        "Abstract": "Provides up to the minute traffic and transit information for DriveNC. View the real time traffic map with travel times, traffic accident details, traffic cameras and other road conditions. Plan your trip and get the fastest route taking into account current traffic conditions.",
+        "Official Site": "www.drivenc.gov",
+        "Icon": "https://www.drivenc.gov/Content/NC/images/favicon/favicon-310.png?v=26.5.27",
+        "Redirect": "www.drivenc.gov",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://drivenc.gov"
+        "AbstractURL": "www.drivenc.gov"
     },
     {
         "link": "https://vgfltiyxysoz.online",

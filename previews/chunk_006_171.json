@@ -60,6 +60,16 @@
         "AbstractURL": "https://bookmegastore.com"
     },
     {
+        "link": "https://borgerhoff-lamberigts.be",
+        "Heading": "Borgerhoff & Lamberigts | Ons vak? Verhalen vertellen",
+        "Abstract": "We zijn een uitgeverij van spraakmakende boeken, daarnaast produceren we digitale masterclasses en video met lef.",
+        "Official Site": "https://www.borgerhoff-lamberigts.be/",
+        "Icon": "https://d1bnb1xriryi32.cloudfront.net/eyJsYXN0X3VwZGF0ZWQiOiIyMDI2LTA1LTIxIDE1OjU2OjIwIiwiYnVja2V0IjoiYm9yZ2xhbWItd2Vic2hvcC1wcm9kdWN0aW9uLWJmeHI1NCIsImtleSI6ImNvdmVycy8yMDI2MDUyMS1EU0MwNjU3NS0yXzIwMjYtMDUtMjEtMTM1NjIwX3hndWQuanBnIiwiZWRpdHMiOnsianBlZyI6eyJxdWFsaXR5Ijo4MiwicHJvZ3Jlc3NpdmUiOmZhbHNlLCJ0cmVsbGlzUXVhbnRpc2F0aW9uIjp0cnVlLCJvdmVyc2hvb3REZXJpbmdpbmciOnRydWUsIm9wdGltaXplU2NhbnMiOnRydWV9LCJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=?mtime=1779371781",
+        "Redirect": "https://www.borgerhoff-lamberigts.be/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.borgerhoff-lamberigts.be/"
+    },
+    {
         "link": "https://authada.de",
         "Heading": "AUTHADA - Schnell & sicher online Signieren und Identifizieren",
         "Abstract": "AUTHADA: Schnelle, rechtssichere digitale Identifizierungs- und Signaturl\u00f6sungen. Identifizieren via eID in weniger als drei Minuten.",
@@ -220,16 +230,6 @@
         "AbstractURL": "https://selfpublishing.com/"
     },
     {
-        "link": "https://a355yhc.top",
-        "Heading": "a355yhc.top",
-        "Abstract": null,
-        "Official Site": "https://a355yhc.top",
-        "Icon": "N/A",
-        "Redirect": "https://a355yhc.top",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://a355yhc.top"
-    },
-    {
         "link": "https://ahorn-camp.de",
         "Heading": "Ahorn Camp Wohnmobile und Campervans",
         "Abstract": "Erleben Sie Ahorn Camp Wohnmobile und Campervans - hochwertig und komfortabel. Entdecken Sie Modelle, Preise & H\u00e4ndler in Ihrer N\u00e4he!",
@@ -333,11 +333,11 @@
         "link": "https://sgkyocharo.com",
         "Heading": "\uc21c\ucc9c\uad11\uc591\uad50\ucc28\ub85c",
         "Abstract": "\uc21c\ucc9c\uad11\uc591 \uc6b0\ub9ac\uc9c0\uc5ed \ucc44\uc6a9\uc54c\ubc14, \ubd80\ub3d9\uc0b0, \uc790\ub3d9\ucc28\uc5d0\uc11c \uc0dd\uc0dd\ud55c \uc9c0\uc5ed\ub274\uc2a4\uae4c\uc9c0 PC\uc640 \ubaa8\ubc14\uc77c\uc5d0\uc11c \ud3b8\ud558\uac8c \ucc3e\uc544\ubcf4\uc138\uc694!",
-        "Official Site": "https://www.sgkyocharo.com",
+        "Official Site": "https://m.sgkyocharo.com",
         "Icon": "/@/image/app/sns_skkcr.png?_cmt_=1677940672",
-        "Redirect": "https://www.sgkyocharo.com",
+        "Redirect": "https://m.sgkyocharo.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sgkyocharo.com"
+        "AbstractURL": "https://m.sgkyocharo.com"
     },
     {
         "link": "https://my-mensa.de",

@@ -1,8 +1,18 @@
 [
     {
+        "link": "https://ehoroskop.net",
+        "Heading": "HOROSKOP",
+        "Abstract": "Horoskop, dnevni horoskop, kineski horoskop, tjedni horoskop, mjese\u010dni horoskop, ljubavni horoskop, horoskopski podznaci, tarot, besplatni tarot, Prvi hrvatski horoskopski portal, horoskop 2018",
+        "Official Site": "https://ehoroskop.net/",
+        "Icon": "https://ehoroskop.net/images/img/og-img.png",
+        "Redirect": "https://ehoroskop.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ehoroskop.net/"
+    },
+    {
         "link": "https://thewealthadvisor.com",
         "Heading": "Wealth Advisor | The Voice of the Financial Advisor Community",
-        "Abstract": null,
+        "Abstract": "The Wealth Advisor is the voice of the financial advisor community - independent news, analysis, and resources for advisors, RIAs, and wealth managers.",
         "Official Site": "https://www.thewealthadvisor.com/node",
         "Icon": "https://wadv-prod-1f0120db-46d2-4038-90ab-ac2558260610.storage.googleapis.com/s3fs-public/TA_Fav.png",
         "Redirect": "https://www.thewealthadvisor.com/node",
@@ -50,14 +60,24 @@
         "AbstractURL": "https://smartblackjackhub.com"
     },
     {
-        "link": "https://zonetel.com.sg",
-        "Heading": "ZONETEL  / Cloud PBX / IP Phone / telecommuting",
-        "Abstract": "Enterprise cloud based solutions for BCP, telecommuting. Full function hosted PBX, comes with IP Phones,  desk top client and mobile app. Suitable for inbound and outbound contact centre. Other solutions include email, web hosting and cloud storage.",
-        "Official Site": "https://www.zonetel.com.sg",
-        "Icon": "http://static1.squarespace.com/static/5d8b2c12ecb050029bd5979e/t/5d8b342bf41d5351e4a0a0e0/1569403949284/ZONETEL+Logos+%285-Oct-11%29+Horizontal+.png?format=1500w",
-        "Redirect": "https://www.zonetel.com.sg",
+        "link": "https://win71.buzz",
+        "Heading": "7K Casino - loading...",
+        "Abstract": null,
+        "Official Site": "https://win71.buzz",
+        "Icon": "img/favicon.png",
+        "Redirect": "https://win71.buzz",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.zonetel.com.sg"
+        "AbstractURL": "https://win71.buzz"
+    },
+    {
+        "link": "https://solo-semena.ru",
+        "Heading": " \u0421\u041e\u041b\u041e",
+        "Abstract": null,
+        "Official Site": "https://solo-semena.ru",
+        "Icon": "favicon.ico",
+        "Redirect": "https://solo-semena.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://solo-semena.ru"
     },
     {
         "link": "https://getcouponeer.com",
@@ -154,7 +174,7 @@
         "Heading": "\n    Home | Fort Mcmurray Today\n",
         "Abstract": "\n    Read the latest Fort McMurray news. We have you covered with all the latest breaking news, stories and updates affecting Fort McMurray today.\n",
         "Official Site": "https://fortmcmurraytoday.com",
-        "Icon": "https://dcs-static.gprod.postmedia.digital/21.2.1/websites/images/ogimage.png",
+        "Icon": "https://dcs-static.gprod.postmedia.digital/21.3.0/websites/images/ogimage.png",
         "Redirect": "https://fortmcmurraytoday.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fortmcmurraytoday.com"

@@ -40,6 +40,16 @@
         "AbstractURL": "https://vcnainternet.com.br"
     },
     {
+        "link": "https://momadvice.com",
+        "Heading": "\n\tMomAdvice - Articles on crafts, recipes, frugality, and living a richer life\n",
+        "Abstract": null,
+        "Official Site": "https://momadvice.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://momadvice.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://momadvice.com"
+    },
+    {
         "link": "https://tycka.io",
         "Heading": "Tycka Reviews - Review anything",
         "Abstract": null,
@@ -100,6 +110,16 @@
         "AbstractURL": "https://webcs.biz"
     },
     {
+        "link": "https://acupuncturebentonville.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://acupuncturebentonville.com",
+        "Icon": "N/A",
+        "Redirect": "https://acupuncturebentonville.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://acupuncturebentonville.com"
+    },
+    {
         "link": "https://erilia.fr",
         "Heading": "Page d'accueil | ERILIA",
         "Abstract": null,
@@ -144,7 +164,7 @@
         "Heading": "Panier des Sens - Natural and scented cosmetics",
         "Abstract": "Discover our Liquide Marseille Soaps, natural care products for body, face and hands, and our Home Fragrances, made in France and containing a minimum of 95% ingredients of natural origin. -10% off your first purchase + free shipping from \u20ac39.",
         "Official Site": "https://panierdessens.com/en/",
-        "Icon": "//cdn.shopify.com/s/files/1/0656/0088/0875/files/favicon_32x32.jpg?v=1663061204",
+        "Icon": "//panierdessens.com/cdn/shop/files/favicon_32x32.jpg?v=1663061204",
         "Redirect": "https://panierdessens.com/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://panierdessens.com/en/"
@@ -198,16 +218,6 @@
         "Redirect": "https://www.digitalits.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.digitalits.com/"
-    },
-    {
-        "link": "https://aplana.com",
-        "Heading": "aplana.com\u00a0-\u00a0This website is for sale!\u00a0-\u00a0software testing Resources and Information.",
-        "Abstract": "This website is for sale! aplana.com is your first and best source for information about software testing. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
-        "Official Site": "https://aplana.com",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://aplana.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aplana.com"
     },
     {
         "link": "https://brwn.loan",

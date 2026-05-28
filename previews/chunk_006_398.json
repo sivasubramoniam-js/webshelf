@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://lahainayachtclub.org",
+        "Heading": "\u65e0\u9519\u5c0f\u8bf4\u7f51 - \u6700\u65b0\u5b8c\u7ed3\u5c0f\u8bf4,\u7b2c\u4e00\u65f6\u95f4\u9605\u8bfb",
+        "Abstract": "\u65e0\u9519\u5c0f\u8bf4\u7f51\u7f51\u63d0\u4f9b\u6700\u65b0\u7684\u7f51\u7edc\u5c0f\u8bf4\u6392\u884c\u699c\u548c\u70ed\u95e8\u5c0f\u8bf4\u63a8\u8350\uff0c\u8ba9\u60a8\u8f7b\u677e\u627e\u5230\u5fc3\u4eea\u7684\u5c0f\u8bf4\u3002",
+        "Official Site": "https://lahainayachtclub.org",
+        "Icon": "N/A",
+        "Redirect": "https://lahainayachtclub.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lahainayachtclub.org"
+    },
+    {
         "link": "https://megadrum.uk",
         "Heading": "Introduction | MegaDrum MIDI Drum Trigger",
         "Abstract": null,
@@ -134,7 +144,7 @@
         "Heading": "Serviceinfos f\u00fcr ASTA Shopbesucher - Arbeitsschutz vom Profi",
         "Abstract": "",
         "Official Site": "https://asta-webshop.de",
-        "Icon": "favicon.php?SessID=ce4effc8c10a29a97f39860f17683239",
+        "Icon": "favicon.php?SessID=4ed4d06374866ff2f099d9c77b595040",
         "Redirect": "https://asta-webshop.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://asta-webshop.de"
@@ -191,12 +201,22 @@
     },
     {
         "link": "https://chcn.co.kr",
-        "Heading": "::\ucc44\ub110\uc528\uc5d4:: \uc911\uad6d\uc5b4\ub85c \uafc8\uafb8\ub294 \uacf3~!",
-        "Abstract": "::\ucc44\ub110\uc528\uc5d4:: \uc911\uad6d\uc5b4\ub85c \uafc8\uafb8\ub294 \uacf3~!",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://chcn.co.kr",
         "Icon": "N/A",
         "Redirect": "https://chcn.co.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chcn.co.kr"
+    },
+    {
+        "link": "https://clownstrike.co.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://clownstrike.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://clownstrike.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://clownstrike.co.uk"
     }
 ]

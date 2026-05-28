@@ -111,7 +111,7 @@
     },
     {
         "link": "https://momoyo.ru",
-        "Heading": "52.161.82.96 27.05.2026 09:03:29",
+        "Heading": "128.24.162.1 28.05.2026 08:26:29",
         "Abstract": null,
         "Official Site": "https://momoyo.ru",
         "Icon": "data:,",
@@ -328,6 +328,16 @@
         "Redirect": "https://jsfresults.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jsfresults.com"
+    },
+    {
+        "link": "https://animafest.hr",
+        "Heading": "Animafest.hr",
+        "Abstract": null,
+        "Official Site": "https://animafest.hr",
+        "Icon": "/images/header/logo.png",
+        "Redirect": "https://animafest.hr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://animafest.hr"
     },
     {
         "link": "https://finewords.ru",

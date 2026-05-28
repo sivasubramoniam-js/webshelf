@@ -162,7 +162,7 @@
     {
         "link": "https://gameclips.io",
         "Heading": "GameClips.io - View your Xbox Clips and game DVR clips",
-        "Abstract": "View the latest Xbox Game Clips on GameClips.io",
+        "Abstract": "View the latest Xbox Game Clips on XboxClips.com",
         "Official Site": "http://gameclips.io/",
         "Icon": "/favicon.ico",
         "Redirect": "http://gameclips.io/",
@@ -318,6 +318,16 @@
         "Redirect": "https://emhd.eu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://emhd.eu"
+    },
+    {
+        "link": "https://sarawaktribune.com",
+        "Heading": "Sarawak Tribune - Home | Sarawak Tribune",
+        "Abstract": "https://www.youtube.com/embed?listType=playlist&list=UUs77EHfL8E-Oq-XgNf4XOTA&layout=gallery",
+        "Official Site": "https://www.sarawaktribune.com/",
+        "Icon": "https://www.sarawaktribune.com/wp-content/uploads/2023/01/cropped-ST-32x32.jpg",
+        "Redirect": "https://www.sarawaktribune.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sarawaktribune.com/"
     },
     {
         "link": "https://cujammu.ac.in",

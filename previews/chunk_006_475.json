@@ -10,6 +10,16 @@
         "AbstractURL": "https://adns-grossiste.fr"
     },
     {
+        "link": "https://koreadailyus.com",
+        "Heading": "The Korea Daily - The largest Korean media in English",
+        "Abstract": "The Korea Daily, the largest Korean media outlet in the U.S. since 1974, publishes news in Korean and English online and in print.",
+        "Official Site": "https://en.koreadaily.com/",
+        "Icon": "https://en.koreadaily.com/wp-content/uploads/2022/09/logo_3lines.png",
+        "Redirect": "https://en.koreadaily.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://en.koreadaily.com/"
+    },
+    {
         "link": "https://freshishastore.com",
         "Heading": "FRESHISHASTORE.COM \u2014 Vape Shop f\u00fcr E-Zigaretten & Shisha",
         "Abstract": "FRESHISHASTORE.COM \u2013 Vape Shop f\u00fcr E-Zigaretten, Liquids und Shisha. \u2713 Seit 13 Jahren \u2713 Trustpilot: 4,9 Sterne \u2713 Versandfrei ab 34,90 \u20ac.",
@@ -90,6 +100,16 @@
         "AbstractURL": "https://www.dotsilicon.com"
     },
     {
+        "link": "https://ifotovideo.cz",
+        "Heading": "iFotoVideo.cz",
+        "Abstract": "",
+        "Official Site": "https://ifotovideo.cz",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://ifotovideo.cz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ifotovideo.cz"
+    },
+    {
         "link": "https://embercentral.co.uk",
         "Heading": "Ember Central UK: Expert Guides on Ember.js Development",
         "Abstract": "Ember Central UK offers tutorials, best practices, and insights for mastering Ember.js framework. Stay updated with the latest trends and community news.",
@@ -128,16 +148,6 @@
         "Redirect": "https://worldwidehealth.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://worldwidehealth.com"
-    },
-    {
-        "link": "https://endil.net",
-        "Heading": "endil GmbH",
-        "Abstract": null,
-        "Official Site": "https://endil.net",
-        "Icon": "favicon.ico",
-        "Redirect": "https://endil.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://endil.net"
     },
     {
         "link": "https://freedomvoice.com",

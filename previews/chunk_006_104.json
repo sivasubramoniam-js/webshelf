@@ -73,11 +73,11 @@
         "link": "https://i3t2r5.com",
         "Heading": null,
         "Abstract": null,
-        "Official Site": "https://i3t2r5.com/",
+        "Official Site": "https://i3t2r5.com/home/embedded",
         "Icon": "/cocos/lg/favicon.ico",
-        "Redirect": "https://i3t2r5.com/",
+        "Redirect": "https://i3t2r5.com/home/embedded",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://i3t2r5.com/"
+        "AbstractURL": "https://i3t2r5.com/home/embedded"
     },
     {
         "link": "https://ionportal.co.uk",
@@ -252,7 +252,7 @@
     {
         "link": "https://arduinolibraries.info",
         "Heading": "Arduino Library List - Arduino Libraries",
-        "Abstract": "A catalogue of the 9134 Arduino Libraries",
+        "Abstract": "A catalogue of the 9160 Arduino Libraries",
         "Official Site": "https://www.arduinolibraries.info",
         "Icon": "/favicon.ico",
         "Redirect": "https://www.arduinolibraries.info",

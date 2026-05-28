@@ -110,6 +110,16 @@
         "AbstractURL": "https://gomolog.ru"
     },
     {
+        "link": "https://vfstasheer.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://vfstasheer.com",
+        "Icon": "N/A",
+        "Redirect": "https://vfstasheer.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vfstasheer.com"
+    },
+    {
         "link": "https://radio-hrvatska.com",
         "Heading": "Hrvatski radio u\u017eivo - Slu\u0161ajte radio stanice Hrvatska",
         "Abstract": "Slu\u0161ajte hrvatski radio u\u017eivo potpuno besplatno. Vi\u0161e od 100 radijskih postaja i radio stanica iz Hrvatske na jednom mjestu. U\u017eivajte u glazbi i vijestima!",
@@ -158,6 +168,16 @@
         "Redirect": "https://woolbox.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://woolbox.co.uk"
+    },
+    {
+        "link": "https://musicteachershelper.com",
+        "Heading": "Studio Management Tools for Music Teachers | Duet",
+        "Abstract": "With Duet Partner you can focus on teaching music online, not the management, billing, calendaring and roster management. See how Duet Partner can help you teach music online today.",
+        "Official Site": "https://musicteachershelper.com",
+        "Icon": "https://cdn.prod.website-files.com/644feaa1f42bf5289e5f5c22/645418d62c02c066ee96a157_FavIcon.png",
+        "Redirect": "https://musicteachershelper.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://musicteachershelper.com"
     },
     {
         "link": "https://izdeniz.com.tr",
@@ -272,22 +292,12 @@
     {
         "link": "https://gidroizolyacziya-podvala-iznutri-czena4.ru",
         "Heading": "\u0413\u0438\u0434\u0440\u043e\u0438\u0437\u043e\u043b\u044f\u0446\u0438\u044f \u041f\u043e\u0434\u0432\u0430\u043b\u0430 (\u041f\u043e\u0433\u0440\u0435\u0431\u0430) | \u0420\u0430\u0431\u043e\u0442\u044b \u0438 \u0426\u0435\u043d\u044b ",
-        "Abstract": "\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e \u0433\u0438\u0434\u0440\u043e\u0438\u0437\u043e\u043b\u044f\u0446\u0438\u0438 \u043f\u043e\u0434\u0432\u0430\u043b\u043e\u0432 \u0438\u0437\u043d\u0443\u0442\u0440\u0438, \u0441\u043d\u0430\u0440\u0443\u0436\u0438 \u0438 \u043e\u0442 \u0433\u0440\u0443\u043d\u0442\u043e\u0432\u044b\u0445 \u0432\u043e\u0434. \u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u043e\u043d\u0442\u0430\u0436 \u0433\u0438\u0434\u0440\u043e\u0438\u0437\u043e\u043b\u044f\u0446\u0438\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 \u0438 \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u0445 \u0420\u0424. \u0417\u0430\u0449\u0438\u0442\u0430 \u043e\u0442 \u043f\u0440\u043e\u0442\u0435\u0447\u0435\u043a \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u043c\u0438 \u043c\u0435\u0442\u043e\u0434\u0430\u043c\u0438 \u0438 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430\u043c\u0438. \u0413\u0430\u0440\u0430\u043d\u0442\u0438\u044f 5 \u043b\u0435\u0442 \u043e\u0442 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u042e\u0432\u0438\u043a\u0441 \u0413\u0440\u0443\u043f\u043f \u2705 \u0412\u044b\u0435\u0437\u0434 \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0430 - \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e!",
+        "Abstract": "\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e \u0433\u0438\u0434\u0440\u043e\u0438\u0437\u043e\u043b\u044f\u0446\u0438\u0438 \u043f\u043e\u0434\u0432\u0430\u043b\u043e\u0432 \u0438\u0437\u043d\u0443\u0442\u0440\u0438, \u0441\u043d\u0430\u0440\u0443\u0436\u0438 \u0438 \u043e\u0442 \u0433\u0440\u0443\u043d\u0442\u043e\u0432\u044b\u0445 \u0432\u043e\u0434. \u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u043e\u043d\u0442\u0430\u0436 \u0433\u0438\u0434\u0440\u043e\u0438\u0437\u043e\u043b\u044f\u0446\u0438\u0438 \u0432 . \u0417\u0430\u0449\u0438\u0442\u0430 \u043e\u0442 \u043f\u0440\u043e\u0442\u0435\u0447\u0435\u043a \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u043c\u0438 \u043c\u0435\u0442\u043e\u0434\u0430\u043c\u0438 \u0438 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430\u043c\u0438. \u0413\u0430\u0440\u0430\u043d\u0442\u0438\u044f 5 \u043b\u0435\u0442 \u043e\u0442 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u042e\u0432\u0438\u043a\u0441 \u0413\u0440\u0443\u043f\u043f \u2705 \u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u044f \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0430 - \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e!",
         "Official Site": "https://polyalpan-msk.ru/catalog/gidroizoljatsija_podvala",
         "Icon": "https://polyalpan-msk.ru/favicon.png",
         "Redirect": "https://polyalpan-msk.ru/catalog/gidroizoljatsija_podvala",
         "AbstractSource": "BS4",
         "AbstractURL": "https://polyalpan-msk.ru/catalog/gidroizoljatsija_podvala"
-    },
-    {
-        "link": "https://ahl.cz",
-        "Heading": "V\u00edtejte na AHL! | AHL.cz",
-        "Abstract": "AHL.cz - S n\u00e1mi nebude nikdo ze hry! Port\u00e1l m\u00e1 za c\u00edl poskytovat amat\u00e9rsk\u00fdm hokejov\u00fdm sout\u011b\u017e\u00edm a klub\u016fm z\u00e1zem\u00ed a nab\u00eddnout jim p\u0159ehlednou a adekv\u00e1tn\u00ed prezentaci na internetu.",
-        "Official Site": "https://ahl.cz",
-        "Icon": "https://www.ahl.cz/img/tutorial-ahl-banner.png",
-        "Redirect": "https://ahl.cz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ahl.cz"
     },
     {
         "link": "https://al-hadees.com",
@@ -308,6 +318,16 @@
         "Redirect": "https://www.alfamall.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.alfamall.com"
+    },
+    {
+        "link": "https://badshop-austria.at",
+        "Heading": "Sanit\u00e4r Onlineshop f\u00fcr Bad, Heizung & Co. | Badshop Austria",
+        "Abstract": "Entdecken Sie unseren Sanit\u00e4r Onlineshop mit gro\u00dfer Auswahl: \u2713 kostenlose Lieferung ab 150 \u20ac in \u00d6sterreich, u.v.m.! \u25ba Jetzt g\u00fcnstig online kaufen!",
+        "Official Site": "https://www.badshop-austria.at/",
+        "Icon": "https://www.badshop-austria.at/bilder/intern/shoplogo/Badshop_Logo.png",
+        "Redirect": "https://www.badshop-austria.at/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.badshop-austria.at/"
     },
     {
         "link": "https://capoint.in",

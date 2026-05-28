@@ -134,7 +134,7 @@
         "Heading": "\u30a4\u30a8\u30d7\u30e9\uff5cLINE\u3084\u30c1\u30e3\u30c3\u30c8\u3067\u7406\u60f3\u306e\u8cc3\u8cb8\u7269\u4ef6\u304c\u898b\u3064\u304b\u308b\u4e0d\u52d5\u7523\u5c4b\u30100\u6642\u307e\u3067\u55b6\u696d\u3011",
         "Abstract": "\u30a4\u30a8\u30d7\u30e9\u306f\u3001\u30c1\u30e3\u30c3\u30c8\u3084LINE\u3067\u5e0c\u671b\u3092\u4f1d\u3048\u308b\u3060\u3051\u3067\u3001\u30d7\u30ed\u306e\u4e0d\u52d5\u7523\u5c4b\u304c\u304a\u90e8\u5c4b\u3092\u63a2\u3057\u3066\u3042\u306a\u305f\u306b\u7d39\u4ecb\u3059\u308b\u30b5\u30fc\u30d3\u30b9\u3067\u3059\u3002\u5927\u624b\u30b5\u30a4\u30c8\u3067\u306f\u898b\u3064\u3051\u3089\u308c\u306a\u3044\u672a\u516c\u958b\u7269\u4ef6\u3082\u3054\u7d39\u4ecb\u3057\u307e\u3059\uff01",
         "Official Site": "https://ieagent.jp",
-        "Icon": "img/lp_202006/favicon.ico",
+        "Icon": "/img/lp_202006/favicon.ico",
         "Redirect": "https://ieagent.jp",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ieagent.jp"
@@ -221,10 +221,10 @@
     },
     {
         "link": "https://oalfa.com",
-        "Heading": "ComesfreeGames - The best casual game center which you don't need to download any app!",
-        "Abstract": "Welcome to miggame.com, where the virtual world comes alive with boundless gaming adventures! We are a passionate and innovative gaming company dedicated to providing gamers of all ages with a diverse range of captivating online and downloadable games. Our commitment to excellence, creativity, and a seamless user experience sets us apart in the gaming industry. With a talented team of developers, designers, and enthusiasts, we strive to create a haven where players can immerse themselves in thrilling gaming experiences that push the boundaries of imagination.",
+        "Heading": "\u606d\u559c\uff0c\u7ad9\u70b9\u521b\u5efa\u6210\u529f\uff01",
+        "Abstract": null,
         "Official Site": "https://oalfa.com",
-        "Icon": "comesfree/img/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://oalfa.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://oalfa.com"

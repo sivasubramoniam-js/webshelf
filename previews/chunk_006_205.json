@@ -84,7 +84,7 @@
         "Heading": "MagicLand | La capitale del divertimento",
         "Abstract": "MagicLand, il pi\u00f9 grande Parco Divertimenti del Centro-Sud Italia vi aspetta con attrazioni per grandi e per bambini. Scopri La Capitale del Divertimento.",
         "Official Site": "https://magicland.it",
-        "Icon": "/Content/Media/Layout/Icons/32x32.png?639154621198775647",
+        "Icon": "/Content/Media/Layout/Icons/32x32.png?639155013089961847",
         "Redirect": "https://magicland.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://magicland.it"
@@ -118,6 +118,16 @@
         "Redirect": "https://annk.kz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://annk.kz"
+    },
+    {
+        "link": "https://kesslercollection.com",
+        "Heading": "The Kessler Collection | Luxury Hotels | Hospitality Management",
+        "Abstract": "Extraordinary experiences from The Kessler Collection await: captivating hotels, inspired restaurants, art galleries, signature spas, cooking schools, and wine blending.",
+        "Official Site": "https://www.kesslercollection.com/",
+        "Icon": "https://www.kesslercollection.com/wp-content/uploads/2021/08/corp-exp-gallery1.jpg",
+        "Redirect": "https://www.kesslercollection.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.kesslercollection.com/"
     },
     {
         "link": "https://tikohost.com",
@@ -221,7 +231,7 @@
     },
     {
         "link": "https://rostov-name.ru",
-        "Heading": "rostov-name.ru - Local Services",
+        "Heading": "rostov-name.ru - Professional Solutions",
         "Abstract": "Looking for the best services? rostov-name.ru. Check our partner network.",
         "Official Site": "https://rostov-name.ru",
         "Icon": "N/A",

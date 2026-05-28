@@ -31,13 +31,13 @@
     },
     {
         "link": "https://earthcheck.org",
-        "Heading": "EarthCheck - Good For Business, Good For The Planet",
-        "Abstract": "EarthCheck is the world\u2019s leading certification, consulting and advisory group for sustainable destinations and tourism.",
-        "Official Site": "https://earthcheck.org/",
-        "Icon": "https://earthcheck.org/wp-content/uploads/2022/06/HongKong.jpg",
-        "Redirect": "https://earthcheck.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://earthcheck.org",
+        "Icon": "N/A",
+        "Redirect": "https://earthcheck.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://earthcheck.org/"
+        "AbstractURL": "https://earthcheck.org"
     },
     {
         "link": "https://backyardbrains.com",
@@ -88,6 +88,16 @@
         "Redirect": "https://www.best-property.ae/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.best-property.ae/"
+    },
+    {
+        "link": "https://krreritas.com",
+        "Heading": "Your Friendly Assetto Corsa Community and Race Servers \u2014 Krreritas Assetto Corsa Community",
+        "Abstract": "Join Krreritas, a vibrant Assetto Corsa community with a dozen servers hosting monthly rotating circuits and categories. Explore our unique Krreritas Rating System (KRS) and the competitive Kompetition league offering Koins for race achievements. Track your performance, compete, and have fun with us!",
+        "Official Site": "http://krreritas.com/",
+        "Icon": "http://krreritas.com/build/images/krreritas-og-image.21324444.jpg",
+        "Redirect": "http://krreritas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://krreritas.com/"
     },
     {
         "link": "https://acronum.com",
@@ -234,7 +244,7 @@
         "Heading": "\u5c0f\u9e1f\u4e91 - \u4f01\u4e1a\u7ea7\u4e91\u670d\u52a1\u5668\u3001\u865a\u62df\u4e3b\u673a\u3001\u670d\u52a1\u5668\u79df\u7528\u6258\u7ba1\u670d\u52a1\u63d0\u4f9b\u5546",
         "Abstract": "\u5c0f\u9e1f\u4e91\u662f\u56fd\u5185\u9886\u5148\u7684\u4f01\u4e1a\u7ea7\u4e91\u8ba1\u7b97\u670d\u52a1\u63d0\u4f9b\u5546\u3002\u4e13\u6ce8\u516c\u6709\u4e91\u6280\u672f\u7814\u53d1\uff0c\u4e3b\u8981\u9762\u5411\u5e7f\u5927\u5f00\u53d1\u8005\u3001\u653f\u4f01\u7528\u6237\u3001\u91d1\u878d\u673a\u6784\u7b49\uff0c\u63d0\u4f9b\u57fa\u4e8e\u667a\u80fd\u4e91\u670d\u52a1\u5668\u7684\u5168\u65b9\u4f4d\u4e91\u8ba1\u7b97\u89e3\u51b3\u65b9\u6848\uff0c\u4e3a\u7528\u6237\u63d0\u4f9b\u53ef\u4fe1\u8d56\u7684\u4f01\u4e1a\u7ea7\u516c\u6709\u4e91\u670d\u52a1\u3002",
         "Official Site": "https://niaoyun.com",
-        "Icon": "/template/Home/Niaoyun/PC/Static/css/common/common/img/seo_logo.jpg",
+        "Icon": "N/A",
         "Redirect": "https://niaoyun.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://niaoyun.com"

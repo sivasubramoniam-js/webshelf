@@ -44,7 +44,7 @@
         "Heading": "\n\t\t\t\t\t\t\tCestovn\u00e9 poriadky a pl\u00e1nova\u010d ciest - CP Ubian.sk\n\t\t\t\t\t\t\t\t",
         "Abstract": "Cestovn\u00fd poriadok, me\u0161kania vlakov, autobusov a MHD, poloha vlaku a autobusu na mape, n\u00e1kup cestovn\u00fdch l\u00edstkov, dobitie kreditu, k\u00fapa \u010dasov\u00e9ho l\u00edstka.",
         "Official Site": "https://ubian.sk/",
-        "Icon": "https://ubian.sk/assets/img/og.png?v=mpdzx6bd",
+        "Icon": "https://ubian.sk/assets/img/og.png?v=mpoa57ie",
         "Redirect": "https://ubian.sk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ubian.sk/"
@@ -78,6 +78,16 @@
         "Redirect": "https://trade-house.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trade-house.ru"
+    },
+    {
+        "link": "https://themalteseherald.com",
+        "Heading": "The Maltese Herald",
+        "Abstract": null,
+        "Official Site": "https://themalteseherald.com/",
+        "Icon": "https://themalteseherald.com/wp-content/uploads/2024/10/maltese-herald-title-with-underline-1.png",
+        "Redirect": "https://themalteseherald.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://themalteseherald.com/"
     },
     {
         "link": "https://fibrion.com.br",
@@ -191,8 +201,8 @@
     },
     {
         "link": "https://freemasons-freemasonry.com",
-        "Heading": "FREEMASONS | PS Review of Freemasonry",
-        "Abstract": "Masonic Magazine on Freemasonry and Research into Freemasonry made by Freemasons. Find educational material for Masonic lodge lectures and daily advancement in Masonic knowledge",
+        "Heading": "Freemasonry | Freemasons-Freemasonry \u2013 Research, History & Symbolism",
+        "Abstract": "Masonic Magazine on Freemasonry and Research into Freemasonry made by Freemasons. Find educational material for Masonic lodge lectures.",
         "Official Site": "http://www.freemasons-freemasonry.com/",
         "Icon": "PS_Review_Freemasonry.jpg",
         "Redirect": "http://www.freemasons-freemasonry.com/",
@@ -223,11 +233,11 @@
         "link": "https://simplyfeu.com",
         "Heading": "Bois de chauffage : b\u00fbches compress\u00e9es et granul\u00e9s de bois",
         "Abstract": "Bois de chauffage, b\u00fbches compress\u00e9es et granul\u00e9s de bois dans plus de 120 d\u00e9p\u00f4ts en France. D\u00e9couvrez nos produits en ligne pour une livraison \u00e0 domicile ou un retrait au d\u00e9p\u00f4t - Simplyfeu",
-        "Official Site": "https://www.simplyfeu.com/",
-        "Icon": "https://www.simplyfeu.com/web/image/website/1/logo?unique=2b7633d",
-        "Redirect": "https://www.simplyfeu.com/",
+        "Official Site": "http://localhost:8069/",
+        "Icon": "http://localhost:8069/web/image/website/1/logo?unique=2b7633d",
+        "Redirect": "http://localhost:8069/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.simplyfeu.com/"
+        "AbstractURL": "http://localhost:8069/"
     },
     {
         "link": "https://revolution.com",

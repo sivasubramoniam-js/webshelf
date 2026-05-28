@@ -180,16 +180,6 @@
         "AbstractURL": "https://sportsup.gr/"
     },
     {
-        "link": "https://telharbor.com",
-        "Heading": "Datacenter en Costa Rica Telefonia IP Servidores Fisicos y Virtuales",
-        "Abstract": "Datacenter en Costa Rica. Especialista en Telefon\u00eda IP, Seguridad, Alojamiento de Servidores bajo las estrictas normas de Tier 3.",
-        "Official Site": "https://telharbor.com/",
-        "Icon": "https://telharbor.com/wp-content/uploads/2017/06/TH-Favicon-2.jpg",
-        "Redirect": "https://telharbor.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://telharbor.com/"
-    },
-    {
         "link": "https://789.ru",
         "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f - \u0413\u0440\u0443\u043f\u043f\u0430 7/89",
         "Abstract": null,
@@ -198,6 +188,16 @@
         "Redirect": "https://789.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://789.ru/"
+    },
+    {
+        "link": "https://fumechocolate.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://fumechocolate.com",
+        "Icon": "N/A",
+        "Redirect": "https://fumechocolate.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fumechocolate.com"
     },
     {
         "link": "https://sarahflint.com",

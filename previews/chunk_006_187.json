@@ -152,9 +152,9 @@
     {
         "link": "https://showoffff.in",
         "Heading": "\n      Showoffff | Affordable Men's & Women's Fashion in India\n    ",
-        "Abstract": "Shop affordable men&#39;s &amp; women&#39;s fashion in India. Trendy tops, dresses, co-ord sets &amp; more. Fast delivery | Easy returns | COD available. Shop now!",
+        "Abstract": "Shop affordable men's & women's fashion in India. Trendy tops, dresses, co-ord sets & more. Fast delivery | Easy returns | COD available. Shop now!",
         "Official Site": "https://showoffff.in/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/1200x630px_PNG_WITH_BG_1.png?v=1779356230",
+        "Icon": "http://showoffff.in/cdn/shop/files/1200x630px_PNG_WITH_BG_1.png?v=1779356230",
         "Redirect": "https://showoffff.in/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://showoffff.in/"
@@ -178,16 +178,6 @@
         "Redirect": "https://sagaji.com.mx",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sagaji.com.mx"
-    },
-    {
-        "link": "https://co-wps.cn",
-        "Heading": "WPS Office\u4e0b\u8f7d - \u5b98\u65b9\u6b63\u7248\u529e\u516c\u8f6f\u4ef6_WPS\u5b98\u7f51\u9996\u9875",
-        "Abstract": "WPS Office\u4e0b\u8f7d\uff0c\u5b98\u65b9\u6b63\u7248\u529e\u516c\u8f6f\u4ef6\u517c\u5bb9Microsoft Office\uff0c\u652f\u6301Word/Excel/PPT/pdf\u4e00\u7ad9\u5f0f\u5904\u7406\uff0c\u65e0\u5e7f\u544a\u65e0\u6346\u7ed1\uff0c\u9002\u7528\u4e8eWindows/Mac/\u5b89\u5353/\u82f9\u679c\u7cfb\u7edf\uff0c\u529e\u516c\u5fc5\u5907\uff01",
-        "Official Site": "https://co-wps.cn",
-        "Icon": "images/icon-pdf.1c0fdd8.svg",
-        "Redirect": "https://co-wps.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://co-wps.cn"
     },
     {
         "link": "https://fantasticfest.com",
@@ -278,6 +268,16 @@
         "Redirect": "https://www.bostonballet.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bostonballet.org/"
+    },
+    {
+        "link": "https://homeschoolbytes.com",
+        "Heading": "homeschoolbytes",
+        "Abstract": "Temukan inspirasi, panduan, dan tips homeschooling modern di Homeschoolbytes untuk mendukung perjalanan belajar anak dari rumah.",
+        "Official Site": "https://www.homeschoolbytes.com/",
+        "Icon": "https://www.homeschoolbytes.com/assets/images/hero-bg.jpg",
+        "Redirect": "https://www.homeschoolbytes.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.homeschoolbytes.com/"
     },
     {
         "link": "https://cozycouchcleaning.com.au",

@@ -171,13 +171,13 @@
     },
     {
         "link": "https://klikfilm.com",
-        "Heading": "KlikFilm ",
-        "Abstract": "KlikFilm adalah layanan streaming movie yang memberikan pengalaman menonton ratusan film Box Office Indonesia. Nonton seribuan film: Indonesia, Hollywood, Korea, Mandarin, Thailand di HP Anda.",
-        "Official Site": "https://klikfilm.com",
-        "Icon": "N/A",
-        "Redirect": "https://klikfilm.com",
+        "Heading": "Home - KlikFilm",
+        "Abstract": "KlikFilm adalah layanan streaming movie yang memberikan pengalaman menonton ratusan film Box Office Indonesia.",
+        "Official Site": "https://klikfilm.com/v4/",
+        "Icon": "https://klikfilm.com/v4/images/logo_share.png",
+        "Redirect": "https://klikfilm.com/v4/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://klikfilm.com"
+        "AbstractURL": "https://klikfilm.com/v4/"
     },
     {
         "link": "https://neonportal.co.uk",
@@ -224,7 +224,7 @@
         "Heading": "Vorys | Law Firm in Ohio, Washington, D.C., Texas, Pennsylvania, California & London",
         "Abstract": "Vorys is a law firm with a broad practice and a national reputation. Founded in 1909, our firm has approximately 375 attorneys with nine offices in Ohio, Washington, D.C., Texas, Pennsylvania, California and London.",
         "Official Site": "https://www.vorys.com/",
-        "Icon": "https://www.vorys.com/assets/images-t1779821726/15566.jpeg",
+        "Icon": "https://www.vorys.com/assets/images-t1779914012/15566.jpeg",
         "Redirect": "https://www.vorys.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.vorys.com/"
