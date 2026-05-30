@@ -240,6 +240,16 @@
         "AbstractURL": "https://terrik-on.com"
     },
     {
+        "link": "https://virtualgalleria.net",
+        "Heading": "Welcome to the Virtual Galleria",
+        "Abstract": "cyberspace haven. welcome to virtual galleria.",
+        "Official Site": "https://virtualgalleria.net",
+        "Icon": "https://virtualgalleria.net/img/fujisaki.gif",
+        "Redirect": "https://virtualgalleria.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://virtualgalleria.net"
+    },
+    {
         "link": "https://oemarket.com",
         "Heading": "oeMarket.com",
         "Abstract": null,
@@ -248,16 +258,6 @@
         "Redirect": "https://oemarket.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://oemarket.com"
-    },
-    {
-        "link": "https://checkup01.biz",
-        "Heading": "Checking your browser...",
-        "Abstract": null,
-        "Official Site": "https://checkup01.biz",
-        "Icon": "N/A",
-        "Redirect": "https://checkup01.biz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://checkup01.biz"
     },
     {
         "link": "https://saifedean.com",

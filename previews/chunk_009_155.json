@@ -84,7 +84,7 @@
         "Heading": "KinogoFilms.biz \u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0444\u0438\u043b\u044c\u043c\u044b \u0438 \u0441\u0435\u0440\u0438\u0430\u043b\u044b \u043e\u043d\u043b\u0430\u0439\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e",
         "Abstract": "\u0421\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u0444\u0438\u043b\u044c\u043c\u044b \u0438 \u0441\u0435\u0440\u0438\u0430\u043b\u044b \u043e\u043d\u043b\u0430\u0439\u043d \u0432 \u0445\u043e\u0440\u043e\u0448\u0435\u043c \u043a\u0430\u0447\u0435\u0442\u0441\u0432\u0435 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u043d\u0430 \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u0430\u0439\u0442\u0435 KinogoFilms.biz. HD 720 / 1080 \u043f\u043b\u0435\u0435\u0440 \u0434\u043b\u044f iphone, android, smartTV",
         "Official Site": "https://kinogofilms.biz",
-        "Icon": "/templates/smartphone/images/ico/android-icon-192x192.svg",
+        "Icon": "/templates/kinogo/images/ico/android-icon-192x192.svg",
         "Redirect": "https://kinogofilms.biz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kinogofilms.biz"
@@ -208,6 +208,16 @@
         "Redirect": "https://www.pegasusseniorliving.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.pegasusseniorliving.com/"
+    },
+    {
+        "link": "https://mylendistry.com",
+        "Heading": "Login | Lendistry",
+        "Abstract": null,
+        "Official Site": "https://lendistry.com/login/",
+        "Icon": "https://lendistry.com/wp-content/uploads/2021/05/cropped-Favicon-32x32.png",
+        "Redirect": "https://lendistry.com/login/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lendistry.com/login/"
     },
     {
         "link": "https://bygsworlowedonhi.com",

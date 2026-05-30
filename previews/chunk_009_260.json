@@ -20,14 +20,24 @@
         "AbstractURL": "https://domainvalue.de"
     },
     {
-        "link": "https://daybyday.press",
-        "Heading": "4LLJT - H\u00e4 ?",
-        "Abstract": null,
-        "Official Site": "https://daybyday.press",
-        "Icon": "N/A",
-        "Redirect": "https://daybyday.press",
+        "link": "https://thefamilyvacationguide.com",
+        "Heading": "Plan Your Next Family Vacation: Reviews, Guides & Inspiration",
+        "Abstract": "All of the inspiration you need to help plan your next family vacation; from recommended resorts and hotels to attractions, beaches and more.",
+        "Official Site": "https://www.thefamilyvacationguide.com/",
+        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
+        "Redirect": "https://www.thefamilyvacationguide.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://daybyday.press"
+        "AbstractURL": "https://www.thefamilyvacationguide.com/"
+    },
+    {
+        "link": "https://daybyday.press",
+        "Heading": "DaybyDay ISSN 1860-2967",
+        "Abstract": "We are under attack, therefore our documents, pictures and design may be disabled.",
+        "Official Site": "https://www.daybyday.press/",
+        "Icon": "https://daybyday.press/local/cache-vignettes/L61xH32/f1f5fdd5f5e77b43bc2f3c813c5c00-c31da.jpg",
+        "Redirect": "https://www.daybyday.press/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.daybyday.press/"
     },
     {
         "link": "https://smartplus.inc",
@@ -38,6 +48,16 @@
         "Redirect": "https://smartplus.inc",
         "AbstractSource": "BS4",
         "AbstractURL": "https://smartplus.inc"
+    },
+    {
+        "link": "https://netbilsis.com",
+        "Heading": "Netbilsis - Hosting, Domain, Sunucu Hizmetleri",
+        "Abstract": "Netbilsis, y\u00fcksek performansl\u0131 sunucular\u0131 ile; web hosting, domain, sanal sunucu vb hizmetleri uygun fiyat garantisi ile sizlere sunmaktad\u0131r.",
+        "Official Site": "https://netbilsis.com",
+        "Icon": "https://www.netbilsis.com/resources/uploads/logo/favicon.png",
+        "Redirect": "https://netbilsis.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://netbilsis.com"
     },
     {
         "link": "https://senistyle.com",
@@ -118,16 +138,6 @@
         "Redirect": "https://cpes.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cpes.net/"
-    },
-    {
-        "link": "https://flyvps.com",
-        "Heading": "FlyVPS",
-        "Abstract": null,
-        "Official Site": "https://flyvps.com",
-        "Icon": "https://flyvps.com/wp-content/uploads/2022/06/cropped-favicon-32x32.png",
-        "Redirect": "https://flyvps.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://flyvps.com"
     },
     {
         "link": "https://tbarkelectric.net",

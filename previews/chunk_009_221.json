@@ -200,16 +200,6 @@
         "AbstractURL": "https://breiling.org"
     },
     {
-        "link": "https://jwcad.net",
-        "Heading": "Jw_cad\u306e\u30da\u30fc\u30b8",
-        "Abstract": null,
-        "Official Site": "https://jwcad.net",
-        "Icon": "N/A",
-        "Redirect": "https://jwcad.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jwcad.net"
-    },
-    {
         "link": "https://reliawiki.com",
         "Heading": "ReliaWiki",
         "Abstract": null,
@@ -271,13 +261,13 @@
     },
     {
         "link": "https://austennis.club",
-        "Heading": "\ud83c\udfbeAustralian Open 2023 \ud83d\ude4c",
-        "Abstract": "Getting to grips with the 2019 ATP Australian Open, the best melbourne tennis event with aspects like past winners, prize money, final dates and location",
-        "Official Site": "https://austennis.club/",
-        "Icon": "css/favicon.ico",
-        "Redirect": "https://austennis.club/",
+        "Heading": "Site is created successfully! ",
+        "Abstract": null,
+        "Official Site": "https://austennis.club",
+        "Icon": "N/A",
+        "Redirect": "https://austennis.club",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://austennis.club/"
+        "AbstractURL": "https://austennis.club"
     },
     {
         "link": "https://utc2.edu.vn",
@@ -288,6 +278,16 @@
         "Redirect": "https://utc2.edu.vn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://utc2.edu.vn"
+    },
+    {
+        "link": "https://soroptimistranchocordova.org",
+        "Heading": "SI of Rancho Cordova & Gold River | Soroptimist club information",
+        "Abstract": null,
+        "Official Site": "https://soroptimistranchocordova.org",
+        "Icon": "N/A",
+        "Redirect": "https://soroptimistranchocordova.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soroptimistranchocordova.org"
     },
     {
         "link": "https://anolon.com",

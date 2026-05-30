@@ -130,6 +130,16 @@
         "AbstractURL": "https://webscreen.com.br/"
     },
     {
+        "link": "https://aboutpharma.com",
+        "Heading": "Home - AboutPharma",
+        "Abstract": null,
+        "Official Site": "https://www.aboutpharma.com/",
+        "Icon": "https://www.aboutpharma.com/wp-content/uploads/2023/02/podcast.png",
+        "Redirect": "https://www.aboutpharma.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.aboutpharma.com/"
+    },
+    {
         "link": "https://perkel.com",
         "Heading": "Marc Perkel's Web Site",
         "Abstract": "The World of Marc Perkel Politics,\nSex, Pro Se Legal Issues, Software, Technology, People before Lawyers,\nDivorce, Nerd Liberation Movement, Thinking Magazine, Bartcop, Church of\nReality, and lots more interesting stuff.",
@@ -158,6 +168,16 @@
         "Redirect": "http://www.billelgin.com",
         "AbstractSource": "BS4",
         "AbstractURL": "http://www.billelgin.com"
+    },
+    {
+        "link": "https://westcare.com",
+        "Heading": "WestCare | Uplifting the Human Spirit",
+        "Abstract": "Uplifting the Human Spirit WestCare is a worldwide family of nonprofit organizations providing treatment & rehabilitation, mental health & wellness, emergency support, housing opportunities, education & prevention, criminal justice, domestic violence, and Veterans services. Find Your Location Donate Today News\u2026",
+        "Official Site": "https://westcare.com/",
+        "Icon": "https://westcare.com/wp-content/uploads/2023/02/westcare-logo.png",
+        "Redirect": "https://westcare.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://westcare.com/"
     },
     {
         "link": "https://tourisme-tarnetgaronne.fr",
@@ -201,13 +221,13 @@
     },
     {
         "link": "https://musicoomph.com",
-        "Heading": "Music Sculpt - Crafting Your Unique Sound",
-        "Abstract": "Crafting Your Unique Sound",
-        "Official Site": "https://musicsculpt.com/",
-        "Icon": "https://musicsculpt.com/wp-content/uploads/2024/07/cropped-Music-Sculpt-Icon-32x32.png",
-        "Redirect": "https://musicsculpt.com/",
+        "Heading": "Music Oomph \u2013 Find the Oomph in Your Music",
+        "Abstract": null,
+        "Official Site": "https://musicoomph.com",
+        "Icon": "https://musicoomph.com/wp-content/uploads/2019/05/cropped-MO-favicon-1-420x420.png",
+        "Redirect": "https://musicoomph.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://musicsculpt.com/"
+        "AbstractURL": "https://musicoomph.com"
     },
     {
         "link": "https://investortimes.com",

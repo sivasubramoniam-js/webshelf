@@ -10,6 +10,16 @@
         "AbstractURL": "https://www.villavillam.com.tr"
     },
     {
+        "link": "https://automanulav.pt",
+        "Heading": "Homepage",
+        "Abstract": "",
+        "Official Site": "https://automanulav.pt/",
+        "Icon": "http://cdnw1.omeuwebsite.com/users/bikes/other/logo_weasy_1.png",
+        "Redirect": "https://automanulav.pt/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://automanulav.pt/"
+    },
+    {
         "link": "https://alparistart.com",
         "Heading": null,
         "Abstract": null,
@@ -80,16 +90,6 @@
         "AbstractURL": "https://praxismedicines.com/"
     },
     {
-        "link": "https://bwdisrupt.com",
-        "Heading": "News & Updates - Indian Startups, Small Businesses, Founders - BW Disrupt",
-        "Abstract": "Latest developments in the startup ecosystem, capital raising & funding, featuring insights also from women entrepreneurs, unicorns, incubators, private equity",
-        "Official Site": "https://bwdisrupt.com",
-        "Icon": "https://static.businessworld.in/favicon.png",
-        "Redirect": "https://bwdisrupt.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bwdisrupt.com"
-    },
-    {
         "link": "https://marketing-agencies.co.uk",
         "Heading": "Integrated Marketing Agency ",
         "Abstract": "Our Integrated Marketing Agency is full of highly trained professionals who are able to create a full marketing plan to advertise your products and services; for more information please do not hesitate to get in touch!",
@@ -148,26 +148,6 @@
         "Redirect": "https://dihosting.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dihosting.net"
-    },
-    {
-        "link": "https://dzsl168.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dzsl168.com",
-        "Icon": "N/A",
-        "Redirect": "https://dzsl168.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dzsl168.com"
-    },
-    {
-        "link": "https://avendus.com",
-        "Heading": "Avendus | India's leading entrepreneur focused financial services firm ",
-        "Abstract": "Avendus offers bespoke solutions across Investment Banking, Institutional Equities, Wealth Management, Asset Management and Credit Solutions for the entrepreneurial ecosystem.",
-        "Official Site": "https://www.avendus.com",
-        "Icon": "https://www.avendus.com/uploads/Avendus-OG.jpg",
-        "Redirect": "https://www.avendus.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.avendus.com"
     },
     {
         "link": "https://mnayto.com",
@@ -298,16 +278,6 @@
         "Redirect": "https://newsquare.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://newsquare.net"
-    },
-    {
-        "link": "https://syntrus.com",
-        "Heading": "Institutioneel | Achmea",
-        "Abstract": "Op de institutionele markt weten Achmea Bank, Achmea Investment Management, Achmea Real Estate, Achmea Mortgages, Achmea Pensioenservices hun krachten te bundelen. Zo weten we samen meer waarde te realiseren. Voor onze klanten, maar ook voor de samenleving.",
-        "Official Site": "https://www.achmea.nl/organisatie/institutioneel",
-        "Icon": "/assets/static/favicons/favicon-32x32.png",
-        "Redirect": "https://www.achmea.nl/organisatie/institutioneel",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.achmea.nl/organisatie/institutioneel"
     },
     {
         "link": "https://escc.ru",

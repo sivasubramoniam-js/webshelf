@@ -1,8 +1,8 @@
 [
     {
         "link": "https://selwayarmory.com",
-        "Heading": "Home",
-        "Abstract": "Home",
+        "Heading": "Home - Selway Armory",
+        "Abstract": "Featured Products",
         "Official Site": "https://www.selwayarmory.com/",
         "Icon": "https://www.selwayarmory.com/wp-content/uploads/2023/08/icon-100x100.png",
         "Redirect": "https://www.selwayarmory.com/",
@@ -63,11 +63,11 @@
         "link": "https://labellevilloise.com",
         "Heading": "La Bellevilloise - Concert - Club - Restaurant - Rooftop",
         "Abstract": "Lieu de f\u00eate et de culture parisien. La Bellevilloise organise de nombreux \u00e9v\u00e8nements: concerts, festivals, march\u00e9s, salons, drag shows...",
-        "Official Site": "https://labellevilloise.com/",
+        "Official Site": "https://www.labellevilloise.com/",
         "Icon": "https://labellevilloise.com/uploads/2025/09/cropped-icone-web-2-32x32.png",
-        "Redirect": "https://labellevilloise.com/",
+        "Redirect": "https://www.labellevilloise.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://labellevilloise.com/"
+        "AbstractURL": "https://www.labellevilloise.com/"
     },
     {
         "link": "https://faithlogistic.net",
@@ -180,6 +180,16 @@
         "AbstractURL": "https://litjoycrate.com"
     },
     {
+        "link": "https://bloknot-zaporozhie.ru",
+        "Heading": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435 \u0441\u0435\u0433\u043e\u0434\u043d\u044f - \u0411\u043b\u043e\u043a\u043d\u043e\u0442 \u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435",
+        "Abstract": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435. \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0431\u0438\u0437\u043d\u0435\u0441\u0430, \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0438, \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0438 \u0441\u043f\u043e\u0440\u0442\u0430 \u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435. \u0414\u043e\u0441\u043a\u0430 \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u0438\u0439: \u043d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u044c, \u0430\u0432\u0442\u043e\u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442, \u0443\u0441\u043b\u0443\u0433\u0438, \u0440\u0430\u0431\u043e\u0442\u0430 \u0432 \u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435. \u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0417\u0430\u043f\u043e\u0440\u043e\u0436\u044c\u0435",
+        "Official Site": "https://bloknot-zaporozhie.ru",
+        "Icon": "https://bloknot-zaporozhie.ru/favicon.svg",
+        "Redirect": "https://bloknot-zaporozhie.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bloknot-zaporozhie.ru"
+    },
+    {
         "link": "https://ctor.com.ua",
         "Heading": "\u0413\u043e\u043b\u043e\u0432\u043d\u0430 - \u0423\u0447\u0431\u043e\u0432\u0438\u0439 \u043a\u043e\u043c\u0431\u0456\u043d\u0430\u0442 \u041a\u0440\u0438\u0432\u0438\u0439 \u0420\u0456\u0433, \u0423\u041a\u041a. \u0423 \u043d\u0430\u0448\u043e\u043c\u0443 \u043d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0426\u0435\u043d\u0442\u0440\u0456 \u0412\u0438 \u043e\u0442\u0440\u0438\u043c\u0430\u0454\u0442\u0435 \u041f\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043d\u044f, \u044f\u043a\u0435 \u0412\u0430\u043c \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e.",
         "Abstract": "\u0423 \u043d\u0430\u0448\u043e\u043c\u0443 \u043d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0426\u0435\u043d\u0442\u0440\u0456 \u0412\u0438 \u043e\u0442\u0440\u0438\u043c\u0430\u0454\u0442\u0435 \u041f\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043d\u044f, \u044f\u043a\u0435 \u0412\u0430\u043c \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e. \u0411\u0435\u043b\u0410\u0417, \u041f\u0422\u041c, \u041f\u0424\u0415, \u0433\u0440\u0443\u043f\u0430 \u0437 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u0431\u0435\u0437\u043f\u0435\u043a\u0438. \u0422\u041e\u0412 \u0426\u0422\u041e\u0420. \u0421\u043b\u044e\u0441\u0430\u0440 \u0410\u0412\u0420, \u0421\u043b\u044e\u0441\u0430\u0440 \u0440\u0435\u043c\u043e\u043d\u0442\u043d\u0438\u043a, \u041c\u0430\u0448\u0438\u043d\u0456\u0441\u0442 \u043d\u0430\u0441\u043e\u0441\u043d\u0438\u0445 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u043a",
@@ -194,10 +204,30 @@
         "Heading": "Herzlich willkommen im Portal Zentrales Sch\u00fclerfeedback - SEP NW",
         "Abstract": null,
         "Official Site": "https://schuelerfeedback-nrw.de",
-        "Icon": "/themes/custom/images/favicon/favicon.ico?1fynfnwn",
+        "Icon": "/themes/custom/images/favicon/favicon.ico?1hc9k2pz",
         "Redirect": "https://schuelerfeedback-nrw.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://schuelerfeedback-nrw.de"
+    },
+    {
+        "link": "https://nationalpark-saechsische-schweiz.de",
+        "Heading": "Startseite \u2013 Nationalpark S\u00e4chsische Schweiz \u2013 Wandern, Natur & Erholung - Nationalpark S\u00e4chsische Schweiz",
+        "Abstract": "Entdecke die beeindruckenden Felsformationen & unber\u00fchrte Natur im Nationalpark S\u00e4chsische Schweiz. Perfekt zum Wandern, Staunen & Erholen!",
+        "Official Site": "https://nationalpark-saechsische-schweiz.de/",
+        "Icon": "https://nationalpark-saechsische-schweiz.de/uploads/icons/nationalparkregion-favicon.png",
+        "Redirect": "https://nationalpark-saechsische-schweiz.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nationalpark-saechsische-schweiz.de/"
+    },
+    {
+        "link": "https://epsagroup.com",
+        "Heading": "EPSA - Global Earthmoving Company",
+        "Abstract": "EPSA is a global earthmoving contractor for mining and infrastructure projects, offering world-class services in mining and construction since 1962.",
+        "Official Site": "https://epsagroup.com/",
+        "Icon": "https://epsagroup.com/wp-content/uploads/2023/06/EPSAlogosvg-cropped.svg",
+        "Redirect": "https://epsagroup.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://epsagroup.com/"
     },
     {
         "link": "https://novgorod-tv.ru",

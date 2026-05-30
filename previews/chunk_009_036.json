@@ -61,23 +61,13 @@
     },
     {
         "link": "https://millan.net",
-        "Heading": "Free E-Cards and Animations - Millan.Net",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://millan.net",
         "Icon": "N/A",
         "Redirect": "https://millan.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://millan.net"
-    },
-    {
-        "link": "https://cdprojects.in",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://cdprojects.in",
-        "Icon": "N/A",
-        "Redirect": "https://cdprojects.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cdprojects.in"
     },
     {
         "link": "https://skinpacks.com",
@@ -122,12 +112,12 @@
     {
         "link": "https://kezj.com",
         "Heading": "95.7 KEZJ \u2013 Southern Idaho's Best Country \u2013 Twin Falls Country Radio",
-        "Abstract": "95.7 KEZJ Radio, a Townsquare Media station, plays the best country music in Twin Falls, Idaho.",
-        "Official Site": "https://kezj.com/",
+        "Abstract": "95.7 KEZJ Radio, a Townsquare Media station, plays the best country music in Twin Falls, Idaho. ",
+        "Official Site": "kezj.com",
         "Icon": "https://townsquare.media/site/94/files/2017/11/kezjfm-logo.png?w=300&q=75&format=natural",
-        "Redirect": "https://kezj.com/",
+        "Redirect": "kezj.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://kezj.com/"
+        "AbstractURL": "kezj.com"
     },
     {
         "link": "https://dizkover.com",

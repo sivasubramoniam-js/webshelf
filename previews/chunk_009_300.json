@@ -104,7 +104,7 @@
         "Heading": "Richer dit Lafl\u00e8che",
         "Abstract": null,
         "Official Site": "https://richerditlafleche.org",
-        "Icon": "img/public/android-icon-192x192.png",
+        "Icon": "img/public/favicon.ico",
         "Redirect": "https://richerditlafleche.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://richerditlafleche.org"
@@ -150,21 +150,11 @@
         "AbstractURL": "https://hosting-highway.com"
     },
     {
-        "link": "https://smakhosting.com",
-        "Heading": "Gostovanje spletnih strani - SMAKhosting",
-        "Abstract": "Enostavno spletno gostovanje na na\u0161ih stre\u017enikih. Za vse, ki potrebujete zanesljivo gostovanje va\u0161ih spletnih strani. Na voljo so trije naro\u010dni\u0161ki paketi, ki so primerni tako za manj\u0161e uporabnike in podjetja kot tudi za zahtevnej\u0161e uporabnike. Po dogovoru vam lahko ponudimo tudi paket spletnega gostovanja po meri.",
-        "Official Site": "https://www.smakhosting.com/",
-        "Icon": "https://www.smakhosting.com/wp-content/uploads/2019/09/cropped-b_smakhosting-logo.jpg",
-        "Redirect": "https://www.smakhosting.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.smakhosting.com/"
-    },
-    {
         "link": "https://pam-racing.com",
         "Heading": "PAM RACING",
         "Abstract": "Boutique propuls\u00e9e par PrestaShop",
         "Official Site": "https://pam-racing.com",
-        "Icon": "https://www.pam-racing.com/img/favicon-1.ico?1776092598",
+        "Icon": "https://www.pam-racing.com/img/favicon-1.ico?1780056486",
         "Redirect": "https://pam-racing.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pam-racing.com"
@@ -191,10 +181,10 @@
     },
     {
         "link": "https://plinkojeuenligne.fr",
-        "Heading": "Plinko pour les pays francophones : guide, r\u00e8gles et avis",
-        "Abstract": "D\u00e9couvrez comment jouer \u00e0 Plinko en toute s\u00e9curit\u00e9, les r\u00e8gles, les\n\n\nstrat\u00e9gies et l\u2019exp\u00e9rience en ligne pour les francophones, avec conseils\n\n\net avis utiles.",
+        "Heading": "Plinko Game : Guide complet, avis et astuces",
+        "Abstract": "Plinko, le jeu de casino populaire, offre une exp\u00e9rience unique. D\u00e9couvrez notre guide complet, des astuces et des avis sur le Plinko Game, Plinko Slot et",
         "Official Site": "https://plinkojeuenligne.fr/",
-        "Icon": "https://plinkojeuenligne.fr/images/doc_main/plinko-pour-les-pays-francophones-guide,-regles-et-avis-1.webp",
+        "Icon": "https://plinkojeuenligne.fr/gallery/logo.1ff3c05c1d.png",
         "Redirect": "https://plinkojeuenligne.fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://plinkojeuenligne.fr/"
@@ -338,16 +328,6 @@
         "Redirect": "https://pdinfo.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pdinfo.com"
-    },
-    {
-        "link": "https://sadfunfun.com",
-        "Heading": "sadfunfun.com",
-        "Abstract": null,
-        "Official Site": "https://sadfunfun.com",
-        "Icon": "N/A",
-        "Redirect": "https://sadfunfun.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sadfunfun.com"
     },
     {
         "link": "https://rivistanatura.com",

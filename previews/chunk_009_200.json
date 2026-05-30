@@ -40,16 +40,6 @@
         "AbstractURL": "https://primacol.com/"
     },
     {
-        "link": "https://simplus.online",
-        "Heading": "Simplus - Live Young Live Beautiful",
-        "Abstract": "SimplusClub offers member benefits, product services, and Simplus Coins rewards in one place.",
-        "Official Site": "https://simplus.online",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://simplus.online",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://simplus.online"
-    },
-    {
         "link": "https://reseau-astuce.fr",
         "Heading": "Le site R\u00e9seau Astuce devient le site My Astuce",
         "Abstract": null,
@@ -118,16 +108,6 @@
         "Redirect": "https://lelandsworld.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lelandsworld.net"
-    },
-    {
-        "link": "https://allinsider.net",
-        "Heading": "Allinsider.net- Helping You Comprehend Internet World inside-out",
-        "Abstract": "Since it\u2019s the 'Internet' that is merging the digital and physical universes to make the world around us smarter and more responsive, let\u2019s get acquainted to the Internet world inside-out with \"All Insider.\"",
-        "Official Site": "https://allinsider.net/",
-        "Icon": "https://allinsider.net/wp-content/uploads/2022/09/logo.png",
-        "Redirect": "https://allinsider.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://allinsider.net/"
     },
     {
         "link": "https://cuttingedgesys.com",
@@ -318,5 +298,15 @@
         "Redirect": "https://koper.gr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://koper.gr/"
+    },
+    {
+        "link": "https://sportshof.org",
+        "Heading": "ISHOF | International Sports Hall of Fame | United States",
+        "Abstract": null,
+        "Official Site": "https://sportshof.org",
+        "Icon": "https://i0.wp.com/sportshof.org/wp-content/uploads/2021/09/cropped-logo-international_sports_hall_of_fame_large-cutout.png?fit=32%2C32&ssl=1",
+        "Redirect": "https://sportshof.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sportshof.org"
     }
 ]

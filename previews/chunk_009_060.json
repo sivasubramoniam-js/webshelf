@@ -140,16 +140,6 @@
         "AbstractURL": "https://slidehub.io"
     },
     {
-        "link": "https://kliinanzeigen.de",
-        "Heading": "Kleinanzeigen.com - Kostenlose Kleinanzeigen auf Kleinanzeigen.com",
-        "Abstract": "196.520 Kleinanzeigen gefunden. \u2713 Kostenlos, schnell und einfach Kleinanzeigen aufgeben \u2713 sofort online! Jetzt finden oder inserieren auf de.kleinanzeigen.com",
-        "Official Site": "https://kliinanzeigen.de",
-        "Icon": "https://de.kleinanzeigen.com/images/fb.png",
-        "Redirect": "https://kliinanzeigen.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kliinanzeigen.de"
-    },
-    {
         "link": "https://pro-essay-writer.com",
         "Heading": "Essay Writer: Hire Professional Essay Writers Online",
         "Abstract": "Hire personal essay writer delivering pro writing service. \u270d\ufe0f 500+ Essay experts \u261d\ufe0fTop academic assignments \u2705100% Uniqueness \u23f0Tight deadlines",
@@ -284,7 +274,7 @@
         "Heading": "Gebrauchte B\u00fcrom\u00f6bel g\u00fcnstig | B\u00fcrom\u00f6bel gebraucht online",
         "Abstract": "Neue & gebrauchte B\u00fcrom\u00f6bel g\u00fcnstig kaufen: Gro\u00dfe Auswahl, gepr\u00fcft & nachhaltig. Jetzt B\u00fcrom\u00f6bel gebraucht + neu online bei office-4-sale entdecken!",
         "Official Site": "https://www.office-4-sale.de/",
-        "Icon": "/https://www.office-4-sale.de/bilder/intern/shoplogo/office-4-sale_Logo_gruen_300x141.png",
+        "Icon": "https://www.office-4-sale.de/bilder/intern/shoplogo/office-4-sale_Logo_gruen_300x141.png",
         "Redirect": "https://www.office-4-sale.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.office-4-sale.de/"
@@ -308,5 +298,15 @@
         "Redirect": "https://chodecoptimista.cz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chodecoptimista.cz"
+    },
+    {
+        "link": "https://hypermall.com",
+        "Heading": "Top New York Online Casinos 2025 | Real Money Play",
+        "Abstract": "Discover the best New York online casinos for 2025. Play real money games with fast payouts, big bonuses, and secure platforms.",
+        "Official Site": "https://hypermall.com/en-us/",
+        "Icon": "https://hypermall.com/wp-content/uploads/2025/08/32X32.png",
+        "Redirect": "https://hypermall.com/en-us/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hypermall.com/en-us/"
     }
 ]

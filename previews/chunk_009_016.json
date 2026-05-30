@@ -81,7 +81,7 @@
     },
     {
         "link": "https://citi-bestbuy.com",
-        "Heading": null,
+        "Heading": "Continue...",
         "Abstract": null,
         "Official Site": "https://citi-bestbuy.com",
         "Icon": "N/A",
@@ -141,8 +141,8 @@
     },
     {
         "link": "https://dacenergy.ro",
-        "Heading": "Dac Energy",
-        "Abstract": "Descoper\u0103 cele mai noi produse de calitate \u00een magazinul nostru online! Oferim o gam\u0103 variat\u0103 de articole la pre\u021buri accesibile, livrare rapid\u0103.",
+        "Heading": "DAC Energy Online - Mobilier, Electrocasnice, Gradina",
+        "Abstract": "Magazin online cu mobilier, electrocasnice, articole casa si gradina, piscine, jucarii copii si sere gradina. Peste 28.000 produse, livrare in toata Romania.",
         "Official Site": "https://dacenergy.ro/",
         "Icon": "https://dacenergy.ro/images/logos/173/tn_Logo_dac-removebg-preview.png",
         "Redirect": "https://dacenergy.ro/",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://deutscheslied.com"
     },
     {
+        "link": "https://dgdjmech.com",
+        "Heading": "\u91d1\u9e9f\u5c0f\u8bf4_\u6700\u65b0\u7ae0\u8282\u514d\u8d39\u5728\u7ebf\u9605\u8bfb",
+        "Abstract": "\u91d1\u9e9f\u5c0f\u8bf4 - \u63d0\u4f9b\u6d77\u91cf\u514d\u8d39\u5c0f\u8bf4\u5728\u7ebf\u9605\u8bfb\uff0c\u5305\u62ec\u7384\u5e7b\u3001\u90fd\u5e02\u3001\u8a00\u60c5\u3001\u5386\u53f2\u7b49\u5404\u7c7b\u5c0f\u8bf4\uff0c\u5168\u672c\u65e0\u5f39\u7a97\uff0c\u66f4\u65b0\u53ca\u65f6",
+        "Official Site": "https://dgdjmech.com",
+        "Icon": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>\ud83d\udcda</text></svg>",
+        "Redirect": "https://dgdjmech.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dgdjmech.com"
+    },
+    {
         "link": "https://digeiz.fr",
         "Heading": "Digeiz \u2014 Physical Venue Analytics Platform",
         "Abstract": "Digeiz transforms existing camera infrastructure into actionable audience data \u2014 enabling operators, retailers and media teams to measure traffic, optimize performance, and prove real-world ROI.",
@@ -228,15 +238,5 @@
         "Redirect": "https://dszb77.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dszb77.com"
-    },
-    {
-        "link": "https://dunhamrubber.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dunhamrubber.com",
-        "Icon": "N/A",
-        "Redirect": "https://dunhamrubber.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dunhamrubber.com"
     }
 ]

@@ -11,7 +11,7 @@
     },
     {
         "link": "https://nytrngsecure.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://nytrngsecure.com",
         "Icon": "N/A",
@@ -240,16 +240,6 @@
         "AbstractURL": "https://splittingedgeaxethrowing.com/contact/"
     },
     {
-        "link": "https://oddluzanie.net",
-        "Heading": "oddluzanie.net",
-        "Abstract": null,
-        "Official Site": "https://oddluzanie.net",
-        "Icon": "N/A",
-        "Redirect": "https://oddluzanie.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://oddluzanie.net"
-    },
-    {
         "link": "https://gekkoit.co.uk",
         "Heading": "Apple Mac Hosting | OS X VPS | Hosted Kerio | Apple Mac Support & More | Gekko IT",
         "Abstract": "Apple Mac Hosting, Hosted Kerio, Apple VPS, Hosting, Mac Support",
@@ -298,6 +288,16 @@
         "Redirect": "https://earthlydirectory.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://earthlydirectory.com"
+    },
+    {
+        "link": "https://sweetesbakeshop.com",
+        "Heading": "Sweet E's Bake Shop | Logo cookies and celebration cakes\n",
+        "Abstract": "Welcome to Sweet E\u2019s Bake Shop, with delicious custom cakes, treats and desserts for delivery nationwide! Ask about our bakery delivery in Los Angeles.",
+        "Official Site": "https://www.sweetesbakeshop.com/",
+        "Icon": "http://www.sweetesbakeshop.com/cdn/shop/files/SweetE-Logo-Pink3_1.png?v=1652858985",
+        "Redirect": "https://www.sweetesbakeshop.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sweetesbakeshop.com/"
     },
     {
         "link": "https://mediasportif.fr",

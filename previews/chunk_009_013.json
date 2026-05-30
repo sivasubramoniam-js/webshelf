@@ -40,6 +40,16 @@
         "AbstractURL": "https://ybspa.vn/"
     },
     {
+        "link": "https://ykthyun.com",
+        "Heading": "Verify Yourself",
+        "Abstract": null,
+        "Official Site": "https://ykthyun.com",
+        "Icon": "N/A",
+        "Redirect": "https://ykthyun.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ykthyun.com"
+    },
+    {
         "link": "https://zediet.fr",
         "Heading": "ZeDiet | Notation alimentaire objective, sans tracking",
         "Abstract": "Z\u00e9ro blabla, z\u00e9ro tracking. ZeDiet.fr scanne et d\u00e9crypte vos produits pour un avis objectif d'un seul coup d'\u0153il. Simple, rapide et transparent.",
@@ -121,10 +131,10 @@
     },
     {
         "link": "https://valutok.com",
-        "Heading": "Welcome to ValuTok",
-        "Abstract": "Network , Grow, Sell! ",
+        "Heading": "ValuTok - Coming Soon",
+        "Abstract": null,
         "Official Site": "https://valutok.com",
-        "Icon": "https://valutok.com/content/uploads/photos/2025/05/sngine_ec3850903f0362ba1fde2fb421542f9f.jpg",
+        "Icon": "N/A",
         "Redirect": "https://valutok.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://valutok.com"

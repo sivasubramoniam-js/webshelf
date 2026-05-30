@@ -20,6 +20,16 @@
         "AbstractURL": "https://herondata.io"
     },
     {
+        "link": "https://igims.org",
+        "Heading": "Indira Gandhi Institute of Medical Science | Home\n",
+        "Abstract": "Indira Gandhi Institute of Medical Science",
+        "Official Site": "https://igims.org",
+        "Icon": "https://igims.org/assets-frontend/img/favicon.png",
+        "Redirect": "https://igims.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://igims.org"
+    },
+    {
         "link": "https://alexanderskadberg.no",
         "Heading": "Alexander Skadberg | Foredragsholder | Offisielle hjemmeside",
         "Abstract": "F\u00e5 verdifull innsikt, praktiske verkt\u00f8y og motivasjon til \u00e5 ta din virksomhet eller organisasjon til nye h\u00f8yder.",
@@ -111,10 +121,10 @@
     },
     {
         "link": "https://volv.global",
-        "Heading": "Home - Volv Global",
-        "Abstract": "Shifting the paradigm Where technology meets Human Volv Global personalises healthcare by providing insights on patients and diseases powered by data-driven AI and machine learning. Our custom, proprietary, machine learning algorithms power a suite of services for pharmaceutical companies that reduces costs throughout the healthcare ecosystem and improves outcomes for those living with disease. Personalise the patient journey Stratify and triage patients for individualised and optimised treatment, saving time, cost and the emotional burden of incorrect diagnosis. Target patient populations Characterise, segment and target patient cohorts to make clinical development and commercialisation more efficient and cost-effective. Expand medical knowledge Generate novel insights and new understanding of patient biomarkers, phenotypes, clinical features and endpoints. Healthcareefficiencies Optimise resource allocation and reduce cost impact of incorrect or late diagnoses, while maximising quality of life and outcomes. Volv Global helps you work smarter Adding value through unprecedented insights Volv Global uses AI and population-scale data to generate knowledge and insights into difficult-to-diagnose diseases that others cannot match. Our clients can leverage these insights to enhance clinical development strategies, enrich disease understanding, and gain an edge over their rivals. Our insights help identify opportunities to rapidly develop diagnostic tools, reposition existing drugs that increase R&D viability, so our clients can target new markets, work smarter and drive profitability.\u00a0 Volv Global, in numbers billion medical events 0 billion person-years of health data 0 published first AI/ML papers 0 Volv Global delivers high-value solutions at speed Impact across the product lifecycle\u200b Clinical Development De-risk clinical strategy & improve robustness of trial planning. Value and Access, HEOR Generate meaningful and valuable real-world evidence. Medical Affairs Expand the boundaries of medical understanding with new RWD insights. Commercial Excellence Launch strongly and extend the product lifecycle by finding more patients. Driving Innovation in Rare Disease & Healthcare AI AI Powered Solutions for Rare Disease and Healthcare Innovation At Volv Global, we combine advanced AI in healthcare with real-world data (RWD) to deliver transformative solutions for\u00a0rare and difficult-to-diagnose disease patients. Our proprietary methodology for machine learning in healthcare technology enables: \u2013 Detecting rare diseases faster and more accurately\u2013 Generating real-world evidence (RWE) for clinical trials and regulatory submissions\u2013 Optimising the patient journey with data-driven insights\u2013 Reducing time and costs in drug development and market access By partnering with Volv Global, pharmaceutical innovators, healthcare providers, and policymakers gain the tools to make smarter, faster, and more impactful decisions across the entire healthcare ecosystem. Introducing inTrigue Advanced, proprietary machine learning technology for patient-disease insights With inTrigue, our flagship machine learning methodology, Volv Global transforms disease management and treatment at the individual patient level, along the patient journey and optimising patient outcomes. Discover inTrigue Shaping the future today for a better tomorrow Understanding patient phenomenology, across all diseases. Volv Global\u2019s suite of services We find more patients We ensure that all patients are offered the right treatment options and increase the pool of RWD on a disease. We detect diseases at an earlier stage\u200b We detect subtle patterns among biomarkers to predict disease incidence early, sometimes years ahead of time.\u200b We predict patient outcomes We model disease progression and are able to provide prognoses, instead of diagnoses. We stratify patient cohorts We detect, cluster and differentiate sub-groups within a heterogenous patient cohort, to learn more about disease pathways. The human story Improving lives with better tools and treatments Volv Global helps transform lives by giving pharmaceutical innovators powerful insights into difficult-to-diagnose diseases so they can develop effective tools and treatments. To the patient this might look like earlier diagnosis, a lifechanging drug or the opportunity to connect with a wider community for education and support as they navigate life with a rare disease. Patient resources Stay informed Insights & Events Go\u200b deeper Case studies\u200b See more",
+        "Heading": "AI-Powered Rare Disease Insights for Pharma | Volv Global",
+        "Abstract": "Volv Global helps pharmaceutical companies find undiagnosed patients, accelerate clinical development, and generate real-world evidence using proprietary AI and machine learning technology. Based in Switzerland.",
         "Official Site": "https://volv.global/",
-        "Icon": "https://volv.global/wp-content/uploads/2025/05/better-healthcare.png",
+        "Icon": "https://volv.global/wp-content/uploads/2022/12/Volv-Favicon.svg",
         "Redirect": "https://volv.global/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://volv.global/"
@@ -170,19 +180,9 @@
         "AbstractURL": "https://activetravellogger.ie"
     },
     {
-        "link": "https://airjamaica.com",
-        "Heading": "airjamaica.com",
-        "Abstract": null,
-        "Official Site": "https://airjamaica.com",
-        "Icon": "N/A",
-        "Redirect": "https://airjamaica.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://airjamaica.com"
-    },
-    {
         "link": "https://lab-retriever.net",
-        "Heading": "Labrador Retriever Chat Board ",
-        "Abstract": "Labrador retriever chat board and forums site featuring puppies, pets, rescue, pictures, dogs, health and training tips.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://lab-retriever.net",
         "Icon": "N/A",
         "Redirect": "https://lab-retriever.net",
@@ -238,16 +238,6 @@
         "Redirect": "https://mademarket.co",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mademarket.co"
-    },
-    {
-        "link": "https://vanessences.fr",
-        "Heading": "Site d'aromath\u00e9rapie et de soins aux huiles essentielles bio",
-        "Abstract": "Notre site Vanessences.fr vous propose des soins et cosm\u00e9tiques aux huiles essentielles, et des pr\u00e9parations d'aromath\u00e9rapie d\u00e9di\u00e9es \u00e0 votre bien-\u00eatre.",
-        "Official Site": "https://vanessences.fr",
-        "Icon": "https://vanessences.fr/img/favicon.ico?1670575039",
-        "Redirect": "https://vanessences.fr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vanessences.fr"
     },
     {
         "link": "https://samag-mt.com",
@@ -321,10 +311,10 @@
     },
     {
         "link": "https://robert-krasser.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Robert Krasser",
+        "Abstract": "",
         "Official Site": "https://robert-krasser.com",
-        "Icon": "N/A",
+        "Icon": "/asset-get/A0000hmWg3YHwV5o/Stempel-Robert-Krasser.jpg",
         "Redirect": "https://robert-krasser.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://robert-krasser.com"
@@ -343,11 +333,11 @@
         "link": "https://hondauchiha.com",
         "Heading": "HONDATOTO | Login Bandar Toto Togel Terbaik dan Bo Slot Paling Mudah Menang",
         "Abstract": "HONDATOTO ialah portal login masuk ke bandar toto togel online berpredikat terbaik yang juga menjadi platform bo slot yang mudah dimenangkan. Daftar di Honda Toto sekarang juga.",
-        "Official Site": "https://hondatoto.pro/",
-        "Icon": "/assets/img/adv/favicon.png?v=1780037957",
-        "Redirect": "https://hondatoto.pro/",
+        "Official Site": "https://hondatoto.pro/m/",
+        "Icon": "/assets/img/adv/favicon.png?v=1780124247",
+        "Redirect": "https://hondatoto.pro/m/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hondatoto.pro/"
+        "AbstractURL": "https://hondatoto.pro/m/"
     },
     {
         "link": "https://ipachart.com",

@@ -258,5 +258,15 @@
         "Redirect": "https://growthrocks.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://growthrocks.com/"
+    },
+    {
+        "link": "https://esuperfund.com.au",
+        "Heading": "\n\tSelf Managed Super Funds | SMSF - ESUPERFUND\n",
+        "Abstract": "ESUPERFUND is a Self Managed Super Funds (SMSF) service provider in Australia and we are here to help you take back control of your Super with low fees.",
+        "Official Site": "https://esuperfund.com.au",
+        "Icon": "/Sitefinity/WebsiteTemplates/Esuperfund-theme2/App_Themes/Esuperfund-theme2/Icons/favicon.ico",
+        "Redirect": "https://esuperfund.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://esuperfund.com.au"
     }
 ]

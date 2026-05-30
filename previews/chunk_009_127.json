@@ -91,8 +91,8 @@
     },
     {
         "link": "https://jigsawpuzzle.co.uk",
-        "Heading": "Jigsawpuzzle.co.uk - No. 1 for Jigsaw Puzzles in United Kingdom | 265 000+ puzzles",
-        "Abstract": "The largest choice of jigsaw puzzles in United Kingdom. 265 000+ puzzles in stock. 24h delivery, free from \u00a350.",
+        "Heading": "Jigsawpuzzle.co.uk - No. 1 for Jigsaw Puzzles in United Kingdom | 270 000+ puzzles",
+        "Abstract": "The largest choice of jigsaw puzzles in United Kingdom. 270 000+ puzzles in stock. 24h delivery, free from \u00a350.",
         "Official Site": "https://www.jigsawpuzzle.co.uk/",
         "Icon": "/images/favicons/favicon-32x32.png",
         "Redirect": "https://www.jigsawpuzzle.co.uk/",
@@ -118,6 +118,16 @@
         "Redirect": "https://www.canadaland.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.canadaland.com/"
+    },
+    {
+        "link": "https://wompmobile.com",
+        "Heading": "DexCare \u2013 The Patient Navigation Platform",
+        "Abstract": "DexCare is infrastructure for patient navigation and scheduling to grow patient volume without adding clinical resources. The platform connects data across EMRs, workflows, and access points so health systems route patients to available care, regardless of where they enter or what modality they need. The problem? Capacity exists but systems can't see it. Results: 40% more patients treated and 5-day reduction in wait times. DexCare serves 57M+ patients across 50 states, including Providence, Kaiser Permanente, and Piedmont.",
+        "Official Site": "https://dexcare.com/",
+        "Icon": "https://dexcare.com/wp-content/uploads/2026/02/Featured_Image_2-scaled.webp",
+        "Redirect": "https://dexcare.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dexcare.com/"
     },
     {
         "link": "https://ins-netz-gehen.de",
@@ -158,6 +168,16 @@
         "Redirect": "https://corrupt.link",
         "AbstractSource": "BS4",
         "AbstractURL": "https://corrupt.link"
+    },
+    {
+        "link": "https://dcdave.com",
+        "Heading": "DCDave's Homepage",
+        "Abstract": null,
+        "Official Site": "https://dcdave.com",
+        "Icon": "N/A",
+        "Redirect": "https://dcdave.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dcdave.com"
     },
     {
         "link": "https://employer.com.br",

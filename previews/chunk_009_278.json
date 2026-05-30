@@ -220,6 +220,16 @@
         "AbstractURL": "https://farmersgrainelevator.com"
     },
     {
+        "link": "https://sabrehospitality.com",
+        "Heading": "Aven Hospitality",
+        "Abstract": "Aven Hospitality powers 35,000+ hotels across the globe with future-ready technology that drives growth, builds loyalty, and delivers exceptional guest experiences.",
+        "Official Site": "https://www.avenhospitality.com/",
+        "Icon": "/etc.clientlibs/newco/clientlibs/clientlib-frontend/resources/favicon-light.png",
+        "Redirect": "https://www.avenhospitality.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.avenhospitality.com/"
+    },
+    {
         "link": "https://winklink.org",
         "Heading": "WINkLink - The First TRON Ecosystem Comprehensive Oracle",
         "Abstract": "WINkLink is a decentralized oracle project running on the TRON network, providing stable and reliable on-chain data to various DeFi ecosystems. WINkLink\u662f\u5728TRON\u7f51\u7edc\u4e0a\u8fd0\u884c\u7684\u53bb\u4e2d\u5fc3\u5316\u9884\u8a00\u673a\u9879\u76ee\uff0c\u53ef\u4e3a\u5404\u79cdDeFi\u751f\u6001\u63d0\u4f9b\u7a33\u5b9a\u53ef\u9760\u7684\u94fe\u4e0a\u6570\u636e\u3002",
@@ -294,7 +304,7 @@
         "Heading": "Sign in to your account",
         "Abstract": null,
         "Official Site": "https://aog-usfoods.com",
-        "Icon": "https://aadcdn.msftauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
+        "Icon": "https://aadcdn.msauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
         "Redirect": "https://aog-usfoods.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aog-usfoods.com"
@@ -308,6 +318,16 @@
         "Redirect": "https://cagetheelephant.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cagetheelephant.com"
+    },
+    {
+        "link": "https://globaliws.com",
+        "Heading": "\u0627\u0644\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 - Global for Integrated Web Services | \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0648\u064a\u0628 \u0627\u0644\u0645\u062a\u0643\u0627\u0645\u0644\u0629",
+        "Abstract": "\u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0648\u064a\u0628 \u0627\u0644\u0645\u062a\u0643\u0627\u0645\u0644\u0629  | \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u0645\u0648\u0627\u0642\u0639 | \u0631\u064a\u0633\u064a\u0644\u0631\u0627\u062a | \u0633\u064a\u0631\u0641\u0631\u0627\u062a \u0644\u064a\u0646\u0643\u0633 | \u0633\u064a\u0631\u0641\u0631\u0627\u062a \u0648\u064a\u0646\u062f\u0648\u0632 | \u062a\u0635\u0645\u064a\u0645 ",
+        "Official Site": "https://globaliws.com",
+        "Icon": "https://www.globaliws.com/favicon.ico",
+        "Redirect": "https://globaliws.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://globaliws.com"
     },
     {
         "link": "https://rivieraschools.com",
@@ -328,15 +348,5 @@
         "Redirect": "https://www.universitymagazine.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.universitymagazine.ca/"
-    },
-    {
-        "link": "https://urbantecno.com",
-        "Heading": "Urban Tecno - Noticias de tecnolog\u00eda, ciencia y motor",
-        "Abstract": "Noticias de tecnolog\u00eda, ciencia y motor: actualidad, novedades, curiosidades y mucho m\u00e1s. Si est\u00e1 en Urban Tecno es porque vas a querer leerlo.",
-        "Official Site": "https://urbantecno.com/",
-        "Icon": "https://cdn.urbantecno.com/urbantecno/logo-urbantecno-redes.png",
-        "Redirect": "https://urbantecno.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://urbantecno.com/"
     }
 ]

@@ -13,11 +13,11 @@
         "link": "https://03portal.ru",
         "Heading": "\u0423\u043a\u043b\u0430\u0434\u043a\u0438 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0435 \u0438 \u0430\u043f\u0442\u0435\u0447\u043a\u0438 \u043f\u0435\u0440\u0432\u043e\u0439 \u043f\u043e\u043c\u043e\u0449\u0438 - \u043a\u0443\u043f\u0438\u0442\u044c \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 \u043f\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0439 \u0446\u0435\u043d\u0435 \u043e\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f 03\u041f\u043e\u0440\u0442\u0430\u043b",
         "Abstract": "\u0423\u043a\u043b\u0430\u0434\u043a\u0438 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0435 \u0438 \u0430\u043f\u0442\u0435\u0447\u043a\u0438 \u043e\u0442 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 03\u041f\u043e\u0440\u0442\u0430\u043b. \u0421\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u043d\u0430\u0431\u043e\u0440\u043e\u0432 \u0430\u043f\u0442\u0435\u0447\u0435\u043a \u0438 \u0441\u0443\u043c\u043e\u043a-\u0443\u043a\u043b\u0430\u0434\u043e\u043a \u0432 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u0413\u041e\u0421\u0422. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u0430\u044f \u0446\u0435\u043d\u0430, \u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u0420\u043e\u0441\u0441\u0438\u0438. \u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u0430\u043f\u0442\u0435\u0447\u043a\u0438 \u0438 \u0443\u043a\u043b\u0430\u0434\u043a\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0438\u043b\u0438 \u043f\u043e \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443 \u260e 8-909-938-09-06.",
-        "Official Site": "https://03portal.ru/",
+        "Official Site": "https://krasnodar.03portal.ru/",
         "Icon": "https://03portal.ru/wp-content/uploads/2025/11/Frame-522410-1-1024x298.png",
-        "Redirect": "https://03portal.ru/",
+        "Redirect": "https://krasnodar.03portal.ru/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://03portal.ru/"
+        "AbstractURL": "https://krasnodar.03portal.ru/"
     },
     {
         "link": "https://malibuc.com",
@@ -68,6 +68,16 @@
         "Redirect": "https://profesorenlinea.cl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://profesorenlinea.cl"
+    },
+    {
+        "link": "https://ruixinkj.com",
+        "Heading": "VS\u5f71\u9662 - 2026\u6700\u65b0\u514d\u8d39\u9ad8\u6e05\u7535\u5f71\u70ed\u64ad\u7535\u89c6\u5267\u5927\u5168\u5728\u7ebf\u89c2\u770b",
+        "Abstract": "VS\u5f71\u9662\u63d0\u4f9b\u6700\u65b0\u9ad8\u6e05\u7535\u5f71\u3001\u70ed\u64ad\u7535\u89c6\u5267\u3001\u7efc\u827a\u8282\u76ee\u3001\u7ecf\u5178\u52a8\u6f2b\u3001\u70ed\u95e8\u77ed\u5267\u3001\u9ad8\u6e05\u8d44\u6e90\u7684\u514d\u8d39\u5728\u7ebf\u5f71\u89c6\u7f51\u7ad9,\u6781\u901f\u64ad\u653e\u89c2\u770b\u4f53\u9a8c\u6781\u4f73, \u7b2c\u4e00\u65f6\u95f4\u66f4\u65b0,\u7ed9\u60a8\u66f4\u597d\u7684\u89c6\u9891\u89c2\u770b\u4f53\u9a8c\u3002",
+        "Official Site": "https://ruixinkj.com",
+        "Icon": "/statics/img/favicon.ico",
+        "Redirect": "https://ruixinkj.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ruixinkj.com"
     },
     {
         "link": "https://shillongtoday.com",
@@ -180,16 +190,6 @@
         "AbstractURL": "https://meine-vlh.de"
     },
     {
-        "link": "https://kidneynews.org",
-        "Heading": "Home ",
-        "Abstract": "Home",
-        "Official Site": "https://www.kidneynews.org/",
-        "Icon": "https://www.kidneynews.org/fileasset/fileasset/KN/kn_logo.png",
-        "Redirect": "https://www.kidneynews.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kidneynews.org/"
-    },
-    {
         "link": "https://lffinans.se",
         "Heading": "L\u00e5n och finansiering f\u00f6r privatpersoner och f\u00f6retagare | LF Finans",
         "Abstract": "LF Finans \u00e4r l\u00e4nsf\u00f6rs\u00e4kringsgruppens finansbolag. Vi erbjuder f\u00f6rm\u00e5nliga l\u00e5n och finansieringsl\u00f6sningar f\u00f6r privatpersoner och f\u00f6retagare. ",
@@ -223,11 +223,11 @@
         "link": "https://firehorsecreative.com",
         "Heading": " NH Web Design and Graphic Design Experts - Firehorse Creative NH",
         "Abstract": "Web Design and Graphic Design experts in Concord, NH. Firehorse Creaitve provides services in website design, graphic design, logo design, content management systems, SEO and more.",
-        "Official Site": "https:/www.firehorsecreative.com",
+        "Official Site": "https://www.firehorsecreative.com",
         "Icon": "https://www.firehorsecreative.com/logo.webp",
-        "Redirect": "https:/www.firehorsecreative.com",
+        "Redirect": "https://www.firehorsecreative.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https:/www.firehorsecreative.com"
+        "AbstractURL": "https://www.firehorsecreative.com"
     },
     {
         "link": "https://food4thought-portal.eu",

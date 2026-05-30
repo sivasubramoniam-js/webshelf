@@ -80,16 +80,6 @@
         "AbstractURL": "https://blog.sqldbm.com/"
     },
     {
-        "link": "https://iamx.eu",
-        "Heading": "Iamx.eu",
-        "Abstract": "Home",
-        "Official Site": "https://iamx.eu",
-        "Icon": "N/A",
-        "Redirect": "https://iamx.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://iamx.eu"
-    },
-    {
         "link": "https://etre-belle.su",
         "Heading": "\u041e \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438",
         "Abstract": null,
@@ -110,11 +100,21 @@
         "AbstractURL": "https://admiralx-fhv.top/"
     },
     {
+        "link": "https://bilimastana.kz",
+        "Heading": "Loto Club | \u041e\u043d\u043b\u0430\u0439\u043d \u043a\u0430\u0437\u0438\u043d\u043e \u0438 \u043b\u043e\u0442\u0435\u0440\u0435\u0438 \u0432 \u041b\u043e\u0442\u043e \u041a\u043b\u0443\u0431 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+        "Abstract": "Loto Club \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u043b\u043e\u0442\u0435\u0440\u0435\u0438 \u0438 \u043a\u0430\u0437\u0438\u043d\u043e. \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0442\u0435\u0441\u044c \u043a \u041b\u043e\u0442\u043e \u041a\u043b\u0443\u0431 \u0438 \u043d\u0430\u0447\u0438\u043d\u0430\u0439\u0442\u0435 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0442\u044c",
+        "Official Site": "https://bilimastana.kz/",
+        "Icon": "https://bilimastana.kz/wp-content/uploads/2025/03/cropped-favicon-32x32.webp",
+        "Redirect": "https://bilimastana.kz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bilimastana.kz/"
+    },
+    {
         "link": "https://globeinvestor.com",
         "Heading": "Globe Investor - The Globe and Mail",
         "Abstract": "Globe Investor offers the most current and up-to-date information on stocks and markets from The Globe and Mail. Find personal finance, mortgage, investment ideas, market information, and stock pick news and analysis from Canada and the world.",
         "Official Site": "https://www.theglobeandmail.com/investing/",
-        "Icon": "https://www.theglobeandmail.com/pf/resources/assets/meta/favicon-32x32.png?d=911",
+        "Icon": "https://www.theglobeandmail.com/pf/resources/assets/meta/favicon-32x32.png?d=912",
         "Redirect": "https://www.theglobeandmail.com/investing/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.theglobeandmail.com/investing/"

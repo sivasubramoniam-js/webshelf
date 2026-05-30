@@ -30,6 +30,16 @@
         "AbstractURL": "https://rt-platform.ru/login/"
     },
     {
+        "link": "https://lzxemfc.com",
+        "Heading": "lzxemfc.com",
+        "Abstract": null,
+        "Official Site": "https://lzxemfc.com",
+        "Icon": "N/A",
+        "Redirect": "https://lzxemfc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lzxemfc.com"
+    },
+    {
         "link": "https://gamingcorps.com",
         "Heading": "Gaming Corps | Where Passion Meets Gaming",
         "Abstract": "Gaming Corps is an industry-leading iGaming and gaming developer committed to driving innovation and pushing the boundaries of what gaming can achieve.",
@@ -121,10 +131,10 @@
     },
     {
         "link": "https://leukermeer.nl",
-        "Heading": "Vakantieresort in Limburg \u26f5\ufe0f | Leukermeer",
-        "Abstract": "Bij Vakantie & Resort Leukermeer ben je bij voorbaat verzekerd van een geslaagde vakantie! Komt u ook? Ontdek onze accommodaties en kampeerplekken!",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://leukermeer.nl",
-        "Icon": "https://cdn-cms.bookingexperts.com/media/3639/68/optimized.jpg",
+        "Icon": "N/A",
         "Redirect": "https://leukermeer.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://leukermeer.nl"
@@ -142,22 +152,12 @@
     {
         "link": "https://locateventsnow.com",
         "Heading": "Search - Microsoft Bing",
-        "Abstract": "In Sagarmatha National Park, Nepal, Mount Everest ",
-        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260529_0700&mkt=en-US",
-        "Icon": "https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_tmb.jpg&rf=",
-        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260529_0700&mkt=en-US",
+        "Abstract": "Etosha National Park, Namibia, is not a place for ",
+        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260530_0700&mkt=en-US",
+        "Icon": "https://www.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_tmb.jpg&rf=",
+        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260530_0700&mkt=en-US",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260529_0700&mkt=en-US"
-    },
-    {
-        "link": "https://alliances.ru",
-        "Heading": "\u0410\u043b\u044c\u044f\u043d\u0441\u044b.\u0440\u0443 - \u0432\u0438\u0434\u044b \u0438 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430 \u0430\u043b\u044c\u044f\u043d\u0441\u043e\u0432 ",
-        "Abstract": "\u0425\u043e\u0447\u0435\u0448\u044c \u0443\u0437\u043d\u0430\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0438 \u0438 \u0440\u043e\u043b\u0438 \u0430\u043b\u044c\u044f\u043d\u0441\u043e\u0432 \u0432 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u043c \u043c\u0438\u0440\u0435? \u0422\u043e\u0433\u0434\u0430 \u0442\u0435\u0431\u0435 \u0441\u044e\u0434\u0430! \u0423\u0437\u043d\u0430\u0439 \u0432\u0441\u0435 \u043e \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0435, \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0435\u043d\u043d\u043e\u0441\u0442\u044f\u0445 \u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044f\u0445 \u0430\u043b\u044c\u044f\u043d\u0441\u043e\u0432 \u043f\u0440\u044f\u043c\u043e \u0441\u0435\u0439\u0447\u0430\u0441!",
-        "Official Site": "https://alliances.ru",
-        "Icon": "https://alliances.ru/favicon/265695-3.ico",
-        "Redirect": "https://alliances.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://alliances.ru"
+        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260530_0700&mkt=en-US"
     },
     {
         "link": "https://rafaelbarbosatec.com",

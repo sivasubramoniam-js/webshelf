@@ -280,16 +280,6 @@
         "AbstractURL": "https://new-audi.ru/"
     },
     {
-        "link": "https://catchandrelease.com",
-        "Heading": "Digital Content Licensing | UGC Creator Platform",
-        "Abstract": "Discovering the potential of Found Content to turn social media moments into high-performing ads\u2013fast, legal, and creator approved",
-        "Official Site": "https://catchandrelease.com",
-        "Icon": "https://cdn.prod.website-files.com/66e20c9d961babf20c468442/67589bda57962fb30fba8a7b_Open%20Graph%20OPT1.webp",
-        "Redirect": "https://catchandrelease.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://catchandrelease.com"
-    },
-    {
         "link": "https://eventguide.com",
         "Heading": "EventGuide",
         "Abstract": "The EventGuide(sm) service provides local event listings and lists of national and international holidays. What in the world do you want to do today?",
@@ -338,15 +328,5 @@
         "Redirect": "https://lifeblue.com/turnstyle/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lifeblue.com/turnstyle/"
-    },
-    {
-        "link": "https://merkur-medien.de",
-        "Heading": "Merkur Medien - Ihr Portal f\u00fcr digitale B\u00fccher im Unterricht",
-        "Abstract": "Mit merkur-medien lesen Sie die B\u00fccher des Merkur Verlags Rinteln digital online und offline.",
-        "Official Site": "https://merkur-medien.de",
-        "Icon": "dist/favicon.ico?v=1",
-        "Redirect": "https://merkur-medien.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://merkur-medien.de"
     }
 ]

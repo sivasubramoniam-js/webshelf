@@ -134,7 +134,7 @@
         "Heading": "Landing Page - My Legal Community",
         "Abstract": "This page is the of landing page. Legal Community Social Network, if you are in the Legal profession and use LinkedIn, you will want to use AltCourt.org",
         "Official Site": "https://altcourt.org",
-        "Icon": "https://altcourt.orgasd",
+        "Icon": "/favicon.ico?c=143",
         "Redirect": "https://altcourt.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://altcourt.org"
@@ -244,7 +244,7 @@
         "Heading": "Doctorul De Dinti SHOP",
         "Abstract": "Doctorul De Dinti SHOP - Bine ai venit pe magazinul nostru online,  unde iti propunem o gama completa de produse!",
         "Official Site": "https://www.doctoruldedinti.info",
-        "Icon": "https://s.cdnshm.com/site/1200x1200/doctoruldedinti.info.jpg?20260529",
+        "Icon": "https://s.cdnshm.com/site/1200x1200/doctoruldedinti.info.jpg?20260530",
         "Redirect": "https://www.doctoruldedinti.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.doctoruldedinti.info"
@@ -258,6 +258,16 @@
         "Redirect": "https://dipti.com.bd",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dipti.com.bd"
+    },
+    {
+        "link": "https://dylanamsterdam.com",
+        "Heading": "The Dylan Amsterdam | Luxury 5 Star Boutique Hotel in Amsterdam",
+        "Abstract": "Welcome to The Dylan, an icon of modern European design. Luxury 5 star boutique hotel in Amsterdam. Home to OCCO Bar and Vinkeles Restaurant.",
+        "Official Site": "https://www.dylanamsterdam.com/",
+        "Icon": "https://www.dylanamsterdam.com/wp-content/uploads/2022/01/Entrance_WEB_03.jpg",
+        "Redirect": "https://www.dylanamsterdam.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dylanamsterdam.com/"
     },
     {
         "link": "https://puupnewsapp.com",
