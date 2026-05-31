@@ -280,6 +280,16 @@
         "AbstractURL": "https://breamteam.com"
     },
     {
+        "link": "https://992955a.buzz",
+        "Heading": "992955a.buzz",
+        "Abstract": null,
+        "Official Site": "https://992955a.buzz",
+        "Icon": "N/A",
+        "Redirect": "https://992955a.buzz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://992955a.buzz"
+    },
+    {
         "link": "https://cashlady.com",
         "Heading": "CashLady official site | Apply online for loans from \u00a3100 - \u00a310,000",
         "Abstract": "Looking for a loan? Apply online for a short-term loan with CashLady for a quick decision. <?php echo e(globals()->get('rep_apr_clad', config('app.rep_apr_clad'))); ?>% APR Rep. If approved, cash can be sent in minutes.",

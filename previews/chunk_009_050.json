@@ -50,16 +50,6 @@
         "AbstractURL": "https://okokgoodle.com"
     },
     {
-        "link": "https://tripalink.com",
-        "Heading": "Affordable Apartments & Student Housing Rentals | Tripalink",
-        "Abstract": "Discover modern apartments, co-living spaces, and student housing in Los Angeles, Seattle, etc. Unlock exclusive deals and AI-powered rental services.",
-        "Official Site": "https://tripalink.com",
-        "Icon": "https://d8ina54cf7pew.cloudfront.net/web%2Fe00d0d2385aa7dba.png",
-        "Redirect": "https://tripalink.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tripalink.com"
-    },
-    {
         "link": "https://cliu.org",
         "Heading": "Home - Carbon Lehigh Intermediate Unit 21",
         "Abstract": "Home - Carbon Lehigh Intermediate Unit 21",
@@ -98,6 +88,16 @@
         "Redirect": "https://mott32.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mott32.com"
+    },
+    {
+        "link": "https://lotusland.org",
+        "Heading": "Ganna Walska Lotusland \u2014 One of the World's Top Ten Botanic Gardens",
+        "Abstract": "Named one of the 10 best gardens in the world, home to over 3,000 plants from the world over and the horticultural passion of an extraordinary woman.",
+        "Official Site": "https://www.lotusland.org/",
+        "Icon": "https://www.lotusland.org/wp-content/uploads/2023/09/welcome-to-lotusland.jpg",
+        "Redirect": "https://www.lotusland.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lotusland.org/"
     },
     {
         "link": "https://sandimetz.com",
@@ -148,16 +148,6 @@
         "Redirect": "https://cdaid.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cdaid.org"
-    },
-    {
-        "link": "https://authortalking.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://authortalking.com",
-        "Icon": "N/A",
-        "Redirect": "https://authortalking.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://authortalking.com"
     },
     {
         "link": "https://pbbdirekt.com",

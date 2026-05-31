@@ -83,11 +83,11 @@
         "link": "https://literarky.cz",
         "Heading": "Home - Liter\u00e1rn\u00ed noviny",
         "Abstract": "Liter\u00e1rn\u00ed noviny | m\u011bs\u00ed\u010dn\u00edk pro kritick\u00e9 my\u0161len\u00ed. Liter\u00e1rn\u00ed noviny vych\u00e1z\u00ed posledn\u00ed \u010dtvrtek v m\u011bs\u00edci.",
-        "Official Site": "https://www.literarky.cz/index.php?p=noveknihy",
+        "Official Site": "https://www.literarky.cz/",
         "Icon": "https://www.literarky.cz/images/Jiri_slitr.jpeg",
-        "Redirect": "https://www.literarky.cz/index.php?p=noveknihy",
+        "Redirect": "https://www.literarky.cz/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.literarky.cz/index.php?p=noveknihy"
+        "AbstractURL": "https://www.literarky.cz/"
     },
     {
         "link": "https://arthurgreenstein.com",
@@ -98,16 +98,6 @@
         "Redirect": "https://www.arthurgreenstein.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.arthurgreenstein.com/"
-    },
-    {
-        "link": "https://5alij.com",
-        "Heading": "BATIK77",
-        "Abstract": "Valley Center Parks is preparing something fresh for the community. New park updates, local activities, and outdoor experiences are coming soon.",
-        "Official Site": "https://5alij.com",
-        "Icon": "https://u.jimcdn.com/cms/o/sba81215499629534/img/favicon.png",
-        "Redirect": "https://5alij.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://5alij.com"
     },
     {
         "link": "https://wateck.com",

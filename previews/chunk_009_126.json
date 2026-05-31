@@ -120,6 +120,16 @@
         "AbstractURL": "https://smedk.ru"
     },
     {
+        "link": "https://ospepqa.com",
+        "Heading": "Home | Snacks.com",
+        "Abstract": "Welcome to your one-stop shop for all your Frito-Lay favs, from Lay\u2019s to Doritos to Cheetos and more!",
+        "Official Site": "https://www.snacks.com/",
+        "Icon": "https://share.snacks.com/images/v2/webp/socialMedia/SocialMediaShare.png",
+        "Redirect": "https://www.snacks.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.snacks.com/"
+    },
+    {
         "link": "https://ohfb.com",
         "Heading": "Read more and spend less with OHFB's daily Kindle book deals. - OHFB",
         "Abstract": "Discover free & bargain Kindle eBooks. OHFB is free to join, free to use and you're free to do what you want with the books - you own them!",
@@ -341,7 +351,7 @@
     },
     {
         "link": "https://bangbull.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://bangbull.com",
         "Icon": "N/A",

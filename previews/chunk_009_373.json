@@ -74,7 +74,7 @@
         "Heading": "Tempat perempuan berbagi cerita, tips dan cinta | Diadona.id",
         "Abstract": "Media tempat berbagi cerita, cinta, info diskon, beragam tips cantik dan sehat serta info parenting untuk perempuan dan mama milenial",
         "Official Site": "https://www.diadona.id/",
-        "Icon": "https://cdns.diadona.id/diadona.id/resources/assets/img/diadona-header-logo.png",
+        "Icon": "https://a.diadona.id/m-assets/img/logo/diadona.png",
         "Redirect": "https://www.diadona.id/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.diadona.id/"
@@ -144,7 +144,7 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://wptcd.com",
-        "Icon": "/favicon.ico?v=1",
+        "Icon": "N/A",
         "Redirect": "https://wptcd.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wptcd.com"
@@ -180,6 +180,16 @@
         "AbstractURL": "https://gestionide.com"
     },
     {
+        "link": "https://330357.com",
+        "Heading": "Just a moment...",
+        "Abstract": null,
+        "Official Site": "https://330357.com",
+        "Icon": "N/A",
+        "Redirect": "https://330357.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://330357.com"
+    },
+    {
         "link": "https://lumeris.com",
         "Heading": "Lumeris | AI-powered Primary Care Transformation",
         "Abstract": "Tech-enabled, value-based care solutions with a proven partner that has driven measurable improvements in patient outcomes and financial success for health systems across the country.",
@@ -198,6 +208,16 @@
         "Redirect": "https://viamon.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://viamon.com"
+    },
+    {
+        "link": "https://gmncollegeofnursing.ac.in",
+        "Heading": "GANDHI MEMORIAL NATIONAL COLLEGE OF NURSING ",
+        "Abstract": null,
+        "Official Site": "https://gmncollegeofnursing.ac.in",
+        "Icon": "/assets/favicon.ico",
+        "Redirect": "https://gmncollegeofnursing.ac.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gmncollegeofnursing.ac.in"
     },
     {
         "link": "https://punchlist.com",

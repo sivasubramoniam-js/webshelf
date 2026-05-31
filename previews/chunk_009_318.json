@@ -90,14 +90,24 @@
         "AbstractURL": "https://cocorate.com/"
     },
     {
-        "link": "https://7newz.com",
-        "Heading": "Breaking News & Global Updates You Can Trust | 7Newz",
-        "Abstract": "Stay updated with the latest news, breaking stories, and expert insights from India across politics, business, technology, sports, and global affairs.",
-        "Official Site": "https://7newz.com/",
-        "Icon": "https://7newz.com/wp-content/uploads/2023/08/7newz_icon-80x80.png",
-        "Redirect": "https://7newz.com/",
+        "link": "https://tre-ms.jus.br",
+        "Heading": "Tribunal Regional Eleitoral de Mato Grosso do Sul",
+        "Abstract": "",
+        "Official Site": "https://www.tre-ms.jus.br",
+        "Icon": "https://www.tre-ms.jus.br/@@site-logo/logo.jpg",
+        "Redirect": "https://www.tre-ms.jus.br",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://7newz.com/"
+        "AbstractURL": "https://www.tre-ms.jus.br"
+    },
+    {
+        "link": "https://7newz.com",
+        "Heading": "7newz",
+        "Abstract": null,
+        "Official Site": "https://7newz.com",
+        "Icon": "https://7newz.com/wp-content/uploads/2023/08/7newz_icon-80x80.png",
+        "Redirect": "https://7newz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://7newz.com"
     },
     {
         "link": "https://museolazarogaldiano.es",

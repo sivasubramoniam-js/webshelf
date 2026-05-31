@@ -70,16 +70,6 @@
         "AbstractURL": "https://1winsbd.com/en-bd/"
     },
     {
-        "link": "https://parcelpath.com",
-        "Heading": "ParcelPath | Discount Shipping For Businesses And Households | ParcelPath",
-        "Abstract": "Save 60-89% on UPS\u00ae and USPS\u00ae shipping with ParcelPath. Free platform, no subscription fees, no minimums. Compare rates, print labels, and ship for less.",
-        "Official Site": "https://parcelpath.com/",
-        "Icon": "https://parcelpath.com/wp-content/uploads/2026/02/parcelpath-featured-og-image.webp",
-        "Redirect": "https://parcelpath.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://parcelpath.com/"
-    },
-    {
         "link": "https://vbo.nl",
         "Heading": "Home - Vastgoed Nederland",
         "Abstract": "",
@@ -148,6 +138,16 @@
         "Redirect": "https://itech-gmbh.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://itech-gmbh.de"
+    },
+    {
+        "link": "https://elevencollective.com",
+        "Heading": "Eleven Collective - Eleven Collective",
+        "Abstract": null,
+        "Official Site": "https://elevencollective.com/",
+        "Icon": "https://elevencollective.com/wp-content/uploads/2023/09/cropped-512x512-1-32x32.png",
+        "Redirect": "https://elevencollective.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elevencollective.com/"
     },
     {
         "link": "https://startallback.com",

@@ -120,16 +120,6 @@
         "AbstractURL": "https://worldwidegamblers.com/"
     },
     {
-        "link": "https://oleyhosting.com",
-        "Heading": "Web Design and Development Company - Oley Media Group",
-        "Abstract": null,
-        "Official Site": "https://www.oleymediagroup.com.au/",
-        "Icon": "https://www.oleymediagroup.com.au/wp-content/uploads/OleyMedia_Logo_PNG.png",
-        "Redirect": "https://www.oleymediagroup.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.oleymediagroup.com.au/"
-    },
-    {
         "link": "https://flashusdtsoftwareshop.com",
         "Heading": "Home - flash usdt software shop",
         "Abstract": "Flash USDT Software with multi-chain support for TRC20, ERC20, BEP20, BTC, ETH, and more. Generate fast, confirmed, fully tradable flash USDT with 200-day validity and up to $20M daily capacity. Secure, professional, and compatible with all major wallets and exchanges.",
@@ -251,7 +241,7 @@
     },
     {
         "link": "https://top-hotels-bg.com",
-        "Heading": "Accommodations in Bulgaria \u2022 3354+ Stays Listed by Area",
+        "Heading": "Accommodations in Bulgaria \u2022 3348+ Stays Listed by Area",
         "Abstract": "Looking for a place to stay in Bulgaria? Updated options listed with area notes \u2606 From budget to mid-range.",
         "Official Site": "https://top-hotels-bg.com",
         "Icon": "N/A",
@@ -268,6 +258,16 @@
         "Redirect": "https://dr-fischer.co.il/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dr-fischer.co.il/"
+    },
+    {
+        "link": "https://fortmyersbeachfl.gov",
+        "Heading": "Town of Fort Myers Beach, FL - Official Website | Official Website",
+        "Abstract": "",
+        "Official Site": "https://fortmyersbeachfl.gov",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://fortmyersbeachfl.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fortmyersbeachfl.gov"
     },
     {
         "link": "https://allhandsandhearts.org",
@@ -302,9 +302,9 @@
     {
         "link": "https://breedsdusk.com",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://breedsdusk.com",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://breedsdusk.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://breedsdusk.com"

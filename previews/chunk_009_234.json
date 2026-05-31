@@ -130,16 +130,6 @@
         "AbstractURL": "https://kpi-tech.ca"
     },
     {
-        "link": "https://npit.co.uk",
-        "Heading": "NPIT - Cybersecurity & IT Support for SMEs | NCSC Cyber Advisor South London",
-        "Abstract": "Professional cybersecurity and IT support for South London SMEs. NCSC Cyber Advisor with 20+ years experience. Cyber Essentials, email security, endpoint protection, and managed IT services. Book your free cyber health check today.",
-        "Official Site": "https://npit.co.uk/",
-        "Icon": "https://npit.co.uk/npit-logo.png",
-        "Redirect": "https://npit.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://npit.co.uk/"
-    },
-    {
         "link": "https://todosalaweb.com",
         "Heading": "Inicio - TodosalaWeb",
         "Abstract": "Maximiza tu Visibilidad, Potencia tu Rentabilidad - Construimos y administramos Sitios Web dise\u00f1ados para ganar.",
@@ -221,8 +211,8 @@
     },
     {
         "link": "https://longpin.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "\u9647\u8058\u7f51_\u7518\u8083\u4eba\u624d\u7f51_\u897f\u5317\u4eba\u624d\u7f51_\u7518\u8083\u62db\u8058\u7f51_\u7518\u8083\u4eba\u529b\u8d44\u6e90\u5e02\u573a_https://www.longpin.com",
+        "Abstract": "\u9647\u8058\u7f51\uff08https://www.longpin.com\uff09,\u7518\u8083\u4eba\u624d\u7f51,\u7518\u8083\u62db\u8058\u7f51\u662f\u897f\u5317\u5730\u533a\u5927\u54c1\u724c\u7684\u62db\u8058\u7f51\u7ad9\uff0c\u89c4\u6a21\u5927\u4fe1\u606f\u771f\u5b9e\u7684\u4e13\u4e1a\u62db\u8058\u7f51\u7ad9\uff0c\u897f\u5317\u6700\u65b0\u62db\u8058\u4fe1\u606f\uff0c\u5728\u7518\u8083\u597d\u627e\u5de5\u4f5c\uff0c\u5c31\u4e0a\u9647\u8058\u7f51\u7518\u8083\u4eba\u624d\u7f51!",
         "Official Site": "https://longpin.com",
         "Icon": "N/A",
         "Redirect": "https://longpin.com",
@@ -268,6 +258,16 @@
         "Redirect": "https://erbe-med.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://erbe-med.com"
+    },
+    {
+        "link": "https://fazendasubmersa.com.br",
+        "Heading": "Fazenda Submersa | Aquapaisagismo, Plantas Aqu\u00e1ticas, Camar\u00f5es e Aqu\u00e1rios",
+        "Abstract": "Loja especializada em aquapaisagismo: plantas aqu\u00e1ticas in vitro, camar\u00f5es ornamentais, hardscape e equipamentos. Enviamos para todo o Brasil com qualidade premium.",
+        "Official Site": "https://www.fazendasubmersa.com.br",
+        "Icon": "https://images.tcdn.com.br/img/img_prod/648834/1690851765_fazendasubmersa-email.jpg",
+        "Redirect": "https://www.fazendasubmersa.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fazendasubmersa.com.br"
     },
     {
         "link": "https://rvwebsolutions.nl",

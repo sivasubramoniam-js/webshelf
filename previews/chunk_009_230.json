@@ -180,9 +180,19 @@
         "AbstractURL": "https://activetravellogger.ie"
     },
     {
-        "link": "https://lab-retriever.net",
-        "Heading": null,
+        "link": "https://airjamaica.com",
+        "Heading": "airjamaica.com",
         "Abstract": null,
+        "Official Site": "https://airjamaica.com",
+        "Icon": "N/A",
+        "Redirect": "https://airjamaica.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://airjamaica.com"
+    },
+    {
+        "link": "https://lab-retriever.net",
+        "Heading": "Labrador Retriever Chat Board ",
+        "Abstract": "Labrador retriever chat board and forums site featuring puppies, pets, rescue, pictures, dogs, health and training tips.",
         "Official Site": "https://lab-retriever.net",
         "Icon": "N/A",
         "Redirect": "https://lab-retriever.net",
@@ -238,6 +248,26 @@
         "Redirect": "https://mademarket.co",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mademarket.co"
+    },
+    {
+        "link": "https://vanessences.fr",
+        "Heading": "Site d'aromath\u00e9rapie et de soins aux huiles essentielles bio",
+        "Abstract": "Notre site Vanessences.fr vous propose des soins et cosm\u00e9tiques aux huiles essentielles, et des pr\u00e9parations d'aromath\u00e9rapie d\u00e9di\u00e9es \u00e0 votre bien-\u00eatre.",
+        "Official Site": "https://vanessences.fr",
+        "Icon": "https://vanessences.fr/img/favicon.ico?1670575039",
+        "Redirect": "https://vanessences.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vanessences.fr"
+    },
+    {
+        "link": "https://daochecking.com",
+        "Heading": "Just a moment...",
+        "Abstract": null,
+        "Official Site": "https://daochecking.com",
+        "Icon": "N/A",
+        "Redirect": "https://daochecking.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://daochecking.com"
     },
     {
         "link": "https://samag-mt.com",
@@ -334,7 +364,7 @@
         "Heading": "HONDATOTO | Login Bandar Toto Togel Terbaik dan Bo Slot Paling Mudah Menang",
         "Abstract": "HONDATOTO ialah portal login masuk ke bandar toto togel online berpredikat terbaik yang juga menjadi platform bo slot yang mudah dimenangkan. Daftar di Honda Toto sekarang juga.",
         "Official Site": "https://hondatoto.pro/m/",
-        "Icon": "/assets/img/adv/favicon.png?v=1780124247",
+        "Icon": "/assets/img/adv/favicon.png?v=1780205871",
         "Redirect": "https://hondatoto.pro/m/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hondatoto.pro/m/"

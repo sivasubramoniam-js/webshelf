@@ -110,6 +110,16 @@
         "AbstractURL": "https://tsukanko.jp/"
     },
     {
+        "link": "https://wrinklefreeit.com",
+        "Heading": "IT Support For Long Beach Businesses | WFIT Solutions",
+        "Abstract": "Fast, friendly IT support for Long Beach businesses. Managed services, cybersecurity, and network solutions \u2014 all backed by 24/7 monitoring.",
+        "Official Site": "https://wrinklefree.it/",
+        "Icon": "https://wrinklefree.it/files/2026/03/IMG_1480a.jpg",
+        "Redirect": "https://wrinklefree.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wrinklefree.it/"
+    },
+    {
         "link": "https://potatonewstoday.com",
         "Heading": "Potato News Today \u2013 No-nonsense, no-frills potato news stories from around the world",
         "Abstract": "No-nonsense, no-frills potato news stories from around the world",
@@ -131,13 +141,13 @@
     },
     {
         "link": "https://expleogroup.com",
-        "Heading": "Transforming Business with Expleo",
-        "Abstract": "Expleo is a trusted partner for end-to-end, integrated engineering, quality services and management consulting for digital transformation.",
-        "Official Site": "https://expleo.com/global/en/",
-        "Icon": "https://expleo.com/global/en/wp-content/uploads/2022/09/expleo-featured-pic-02.jpg",
-        "Redirect": "https://expleo.com/global/en/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://expleogroup.com",
+        "Icon": "N/A",
+        "Redirect": "https://expleogroup.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://expleo.com/global/en/"
+        "AbstractURL": "https://expleogroup.com"
     },
     {
         "link": "https://pitchforkmusicfestival.com",
@@ -238,16 +248,6 @@
         "Redirect": "https://www.cashandkerry.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cashandkerry.com/"
-    },
-    {
-        "link": "https://zahrada-cs.com",
-        "Heading": "Zahrada-cs.com - v\u0161e pro zahradu a p\u011bstov\u00e1n\u00ed rostlin",
-        "Abstract": "Zahradnick\u00fd server - encyklopedie rostlin, \u010dl\u00e1nky, diskusn\u00ed f\u00f3rum, zahradn\u00ed obchody, 150 000 fotografi\u00ed",
-        "Official Site": "https://www.zahrada-cs.com/",
-        "Icon": "https://www.zahrada-cs.com/images_forum/gallery/10667/10793-jedle-belokora-abies-alba-1.jpg",
-        "Redirect": "https://www.zahrada-cs.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.zahrada-cs.com/"
     },
     {
         "link": "https://playernc.com",

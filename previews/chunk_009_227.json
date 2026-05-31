@@ -141,13 +141,23 @@
     },
     {
         "link": "https://zerosettle.io",
-        "Heading": "ZeroSettle - Bypass Apple's 30% Fee",
-        "Abstract": "Merchant of Record for iOS. Reduce fees from 30% to 5% + 50\u00a2 while staying compliant with Apple's guidelines.",
+        "Heading": "ZeroSettle \u2014 Mobile revenue platform",
+        "Abstract": "MRR analytics, entitlements, A/B testing \u2014 free. Direct billing on iOS & Android at 0.5% (BYOS) or 5% + 50\u00a2 (Managed MoR).",
         "Official Site": "https://zerosettle.io/",
-        "Icon": "./images/favicon/favicon.ico",
+        "Icon": "/images/favicon/favicon.ico",
         "Redirect": "https://zerosettle.io/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zerosettle.io/"
+    },
+    {
+        "link": "https://cttc.es",
+        "Heading": "Centre Tecnol\u00f2gic de Telecomunicacions de Catalunya (CTTC)",
+        "Abstract": null,
+        "Official Site": "https://cttc.es",
+        "Icon": "https://www.cttc.cat/wp-content/uploads/2021/09/favicon-150x150.png",
+        "Redirect": "https://cttc.es",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cttc.es"
     },
     {
         "link": "https://foerderschule-wasserwerk.de",
@@ -251,7 +261,7 @@
     },
     {
         "link": "https://kanshu8.net",
-        "Heading": "\u770b\u4e66\u5427_\u5168\u672c\u5c0f\u8bf4\u65e0\u5f39\u7a97\u514d\u8d39\u9605\u8bfb",
+        "Heading": "\u770b\u4e66\u5427_\u4e66\u53cb\u6700\u503c\u5f97\u6536\u85cf\u7684\u7f51\u7edc\u5c0f\u8bf4\u9605\u8bfb\u7f51",
         "Abstract": "\u770b\u4e66\u5427",
         "Official Site": "https://kanshu8.net",
         "Icon": "N/A",

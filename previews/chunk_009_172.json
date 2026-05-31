@@ -70,16 +70,6 @@
         "AbstractURL": "https://www.koyax.org/"
     },
     {
-        "link": "https://stuffdigest.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://stuffdigest.com",
-        "Icon": "N/A",
-        "Redirect": "https://stuffdigest.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stuffdigest.com"
-    },
-    {
         "link": "https://carefortheculture.com",
         "Heading": "HIV PrEP in Black Communities | Care for the Culture",
         "Abstract": "Care for the Culture empowers Black communities to help end HIV stigma through   education, prevention, and care. Learn about PrEP and support your people.",
@@ -138,6 +128,16 @@
         "Redirect": "https://nofspodcast.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nofspodcast.com"
+    },
+    {
+        "link": "https://alhasahisa.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://alhasahisa.net",
+        "Icon": "N/A",
+        "Redirect": "https://alhasahisa.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alhasahisa.net"
     },
     {
         "link": "https://fenixlight.com",
@@ -220,6 +220,16 @@
         "AbstractURL": "https://www.elonx.cz/"
     },
     {
+        "link": "https://barnim-aktuell.de",
+        "Heading": "Barnim Aktuell | Aktuelle Nachrichten und Veranstaltungen im Barnim",
+        "Abstract": "Barnim Aktuell hat die neuesten Nachrichten aus dem Landkreis Barnim. Lokale Meldungen, Politik, Veranstaltungen, Pressemitteilungen, Stellenangebote im Kreis.",
+        "Official Site": "https://barnim-aktuell.de/",
+        "Icon": "https://barnim-aktuell.de/wp-content/uploads/2022/12/LogoBlack.png",
+        "Redirect": "https://barnim-aktuell.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://barnim-aktuell.de/"
+    },
+    {
         "link": "https://elarafoundation.in",
         "Heading": null,
         "Abstract": null,
@@ -238,6 +248,16 @@
         "Redirect": "https://blwan.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://blwan.net"
+    },
+    {
+        "link": "https://oneconfig.net",
+        "Heading": "\u592a\u9633\u6210tyc151cc(\u4e2d\u56fd\u533a)\u96c6\u56e2\u5b98\u65b9\u7f51\u7ad9-Prime Website",
+        "Abstract": "\u592a\u9633\u6210\u96c6\u56e2tyc151cc\u2733\ufe0f\u30100502.cc&0402.cc\u3011\u2733\ufe0f\u6c47\u96c6\u5404\u79cd\u6e38\u620f\u5e73\u53f0\uff0c\u63d0\u4f9b\u4e30\u5bcc\u591a\u6837\u7684\u5a31\u4e50\u9009\u62e9\u3002\u6211\u4eec\u81f4\u529b\u4e8e\u4e3a\u73a9\u5bb6\u63d0\u4f9b\u5b89\u5168\u3001\u516c\u5e73\u3001\u53ef\u9760\u7684\u6e38\u620f\u73af\u5883\uff0c\u4f53\u9a8c\u65e0\u4e0e\u4f26\u6bd4\u7684\u5168\u7403\u5a31\u4e50\u3002",
+        "Official Site": "https://oneconfig.net",
+        "Icon": "N/A",
+        "Redirect": "https://oneconfig.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oneconfig.net"
     },
     {
         "link": "https://hydroscand.se",
@@ -328,15 +348,5 @@
         "Redirect": "/",
         "AbstractSource": "BS4",
         "AbstractURL": "/"
-    },
-    {
-        "link": "https://concerninfotech.com",
-        "Heading": "Best Web Development Company in Chennai | Web Design Company in Chennai | Professional  Web Design Companies in Chennai | Web Design Company in Chennai | Web Services",
-        "Abstract": "Concern Infotech, best Website Design Company in Chennai for startups and corporates. We are the Best web development company in chennai & the best Website designing company in Chennai creating professional websites. We have a team of top Professional Web Developers and designers with expertize in designing responsive custom made websites, ecommerce platforms and apps. We provide end to end web solutions including brochure designs, video editing, seo and digital marketing alongside data analytics and AI solutions in Chennai, India.",
-        "Official Site": "https://concerninfotech.com",
-        "Icon": "assets/img/logo/fevi.ico",
-        "Redirect": "https://concerninfotech.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://concerninfotech.com"
     }
 ]

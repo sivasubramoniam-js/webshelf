@@ -1,7 +1,7 @@
 [
     {
         "link": "https://christianweekly.net",
-        "Heading": "\u57fa\u7763\u6559\u9031\u5831 \u7b2c3222\u671f",
+        "Heading": "\u57fa\u7763\u6559\u9031\u5831 \u7b2c3223\u671f",
         "Abstract": null,
         "Official Site": "https://christianweekly.net",
         "Icon": "https://christianweekly.net/images/share-image.jpg",
@@ -200,6 +200,16 @@
         "AbstractURL": "https://breiling.org"
     },
     {
+        "link": "https://jwcad.net",
+        "Heading": "Jw_cad\u306e\u30da\u30fc\u30b8",
+        "Abstract": null,
+        "Official Site": "https://jwcad.net",
+        "Icon": "N/A",
+        "Redirect": "https://jwcad.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jwcad.net"
+    },
+    {
         "link": "https://reliawiki.com",
         "Heading": "ReliaWiki",
         "Abstract": null,
@@ -278,16 +288,6 @@
         "Redirect": "https://utc2.edu.vn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://utc2.edu.vn"
-    },
-    {
-        "link": "https://soroptimistranchocordova.org",
-        "Heading": "SI of Rancho Cordova & Gold River | Soroptimist club information",
-        "Abstract": null,
-        "Official Site": "https://soroptimistranchocordova.org",
-        "Icon": "N/A",
-        "Redirect": "https://soroptimistranchocordova.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://soroptimistranchocordova.org"
     },
     {
         "link": "https://anolon.com",

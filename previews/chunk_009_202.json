@@ -328,5 +328,15 @@
         "Redirect": "https://lifeblue.com/turnstyle/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lifeblue.com/turnstyle/"
+    },
+    {
+        "link": "https://merkur-medien.de",
+        "Heading": "Merkur Medien - Ihr Portal f\u00fcr digitale B\u00fccher im Unterricht",
+        "Abstract": "Mit merkur-medien lesen Sie die B\u00fccher des Merkur Verlags Rinteln digital online und offline.",
+        "Official Site": "https://merkur-medien.de",
+        "Icon": "dist/favicon.ico?v=1",
+        "Redirect": "https://merkur-medien.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://merkur-medien.de"
     }
 ]

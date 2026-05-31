@@ -10,16 +10,6 @@
         "AbstractURL": "https://submissionwebdirectory.com"
     },
     {
-        "link": "https://portcommodore.com",
-        "Heading": "\n    start    [Port Commodore]\n  ",
-        "Abstract": null,
-        "Official Site": "https://portcommodore.com",
-        "Icon": "/dokuwiki/lib/tpl/portcomm/images/favicon.ico",
-        "Redirect": "https://portcommodore.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://portcommodore.com"
-    },
-    {
         "link": "https://parsejournal.com",
         "Heading": "PARSE",
         "Abstract": "PARSE is a research publishing platform committed to the movement back and forth between analysis and creation, between meaning-making and the analytics of meaning, between construction and re-construction.",
@@ -178,6 +168,16 @@
         "Redirect": "https://www.baumeister-kollegen.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.baumeister-kollegen.de/"
+    },
+    {
+        "link": "https://sdindia.com",
+        "Heading": "System Dynamics \u2013 IT Solutions and Services WordPress Theme",
+        "Abstract": null,
+        "Official Site": "https://sdindia.com",
+        "Icon": "https://sdindia.com/wp-content/uploads/2026/03/SD-Logo.png",
+        "Redirect": "https://sdindia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sdindia.com"
     },
     {
         "link": "https://educationaboveall.org",

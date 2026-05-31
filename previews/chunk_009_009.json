@@ -50,16 +50,6 @@
         "AbstractURL": "https://mombora.co/"
     },
     {
-        "link": "https://motcheck.net",
-        "Heading": "MOTCheck.net | Find the closest MOT station by entering your postcode",
-        "Abstract": "Find the closest MOT test centre near you",
-        "Official Site": "https://motcheck.net",
-        "Icon": "/static/images/android-icon-192x192.png",
-        "Redirect": "https://motcheck.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://motcheck.net"
-    },
-    {
         "link": "https://mundotelecom.com.br",
         "Heading": "Mundo Telecom \u2013 Solu\u00e7\u00f5es em telecomunica\u00e7\u00e3o corporativa",
         "Abstract": null,
@@ -118,16 +108,6 @@
         "Redirect": "https://www.namirial.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.namirial.com/"
-    },
-    {
-        "link": "https://neoxian.city",
-        "Heading": "Neoxian City",
-        "Abstract": "Neoxian City is a social media platform where everyone gets paid for creating and curating content. It leverages a robust digital points system, called NEOXAG, that supports real value for digital rewards through market price discovery and liquidity.",
-        "Official Site": "https://neoxian.city",
-        "Icon": "https://www.neoxian.city/cover.png",
-        "Redirect": "https://neoxian.city",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://neoxian.city"
     },
     {
         "link": "https://newfies-dialer.org",
@@ -248,16 +228,6 @@
         "Redirect": "https://omertabeyond.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://omertabeyond.net"
-    },
-    {
-        "link": "https://onlysearch.io",
-        "Heading": "onlysearch.io",
-        "Abstract": null,
-        "Official Site": "https://onlysearch.io",
-        "Icon": "N/A",
-        "Redirect": "https://onlysearch.io",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://onlysearch.io"
     },
     {
         "link": "https://oogle.com",

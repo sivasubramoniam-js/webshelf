@@ -70,6 +70,16 @@
         "AbstractURL": "https://www.circuitricardotormo.com/"
     },
     {
+        "link": "https://fullyfamous.com",
+        "Heading": "Fully Famous",
+        "Abstract": null,
+        "Official Site": "https://fullyfamous.com/",
+        "Icon": "https://fullyfamous.com/wp-content/uploads/2020/07/cropped-Fully-Famous-Favicon-Final-32x32.png",
+        "Redirect": "https://fullyfamous.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fullyfamous.com/"
+    },
+    {
         "link": "https://horecaclub.it",
         "Heading": null,
         "Abstract": null,
@@ -151,10 +161,10 @@
     },
     {
         "link": "https://otirol.at",
-        "Heading": "otirol.at",
+        "Heading": "Home | otirol.at",
         "Abstract": "Home",
         "Official Site": "https://otirol.at",
-        "Icon": "themes/default/icon/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://otirol.at",
         "AbstractSource": "BS4",
         "AbstractURL": "https://otirol.at"

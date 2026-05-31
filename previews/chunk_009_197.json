@@ -34,7 +34,7 @@
         "Heading": "ClanBarker",
         "Abstract": null,
         "Official Site": "https://clanbarker.com",
-        "Icon": "N/A",
+        "Icon": "img/public/android-icon-192x192.png",
         "Redirect": "https://clanbarker.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://clanbarker.com"
@@ -281,13 +281,13 @@
     },
     {
         "link": "https://moviefishers.org",
-        "Heading": "123Movies - Watch Unlimited Free Movies HD Online on 123movie",
+        "Heading": "123Movies - Watch Unlimited Free Movies HD Online on 123movie Official",
         "Abstract": "Watch Stream your favorite movies and series online for free with 123Movies. No ads, no signup \u2013 just click and enjoy.",
-        "Official Site": "https://moviein3d.net/",
-        "Icon": "https://moviein3d.net/assets/images/cover.jpg",
-        "Redirect": "https://moviein3d.net/",
+        "Official Site": "https://danimovies.com/",
+        "Icon": "https://danimovies.com/assets/images/cover.jpg",
+        "Redirect": "https://danimovies.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://moviein3d.net/"
+        "AbstractURL": "https://danimovies.com/"
     },
     {
         "link": "https://emdr-training.net",

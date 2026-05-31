@@ -80,16 +80,6 @@
         "AbstractURL": "https://www.discountexperts.com"
     },
     {
-        "link": "https://clevelandstatecc.edu",
-        "Heading": "Home - Cleveland State Community College",
-        "Abstract": null,
-        "Official Site": "https://www.clevelandstatecc.edu/",
-        "Icon": "https://www.clevelandstatecc.edu/wp-content/uploads/2024/03/cropped-Cleveland-State-Brower-Icon-32x32.png",
-        "Redirect": "https://www.clevelandstatecc.edu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.clevelandstatecc.edu/"
-    },
-    {
         "link": "https://kaislenpump.com",
         "Heading": "ZHEJIANG KAISLEN PUMP CO., LTD",
         "Abstract": "ZHEJIANG KAISLEN PUMP CO., LTD",
@@ -228,6 +218,16 @@
         "Redirect": "https://www.pukzh.ch",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.pukzh.ch"
+    },
+    {
+        "link": "https://voltsbattery.com",
+        "Heading": "VOLTS English",
+        "Abstract": "Next Generation Home Energy Storage for Your Home",
+        "Official Site": "https://voltsbattery.com",
+        "Icon": "https://static.tildacdn.com/tild6265-3331-4431-b630-623534303330/photo.svg",
+        "Redirect": "https://voltsbattery.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://voltsbattery.com"
     },
     {
         "link": "https://museudeartedorio.org.br",

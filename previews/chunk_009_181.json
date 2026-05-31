@@ -51,10 +51,10 @@
     },
     {
         "link": "https://acmetool.com",
-        "Heading": "Acme Construction Supply",
-        "Abstract": "We are a west coast commercial and industrial construction supply distributor, serving major metropolitan markets like Seattle, Portland, San Francisco, and Los Angeles.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://acmetool.com",
-        "Icon": "favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://acmetool.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://acmetool.com"
@@ -148,6 +148,16 @@
         "Redirect": "https://www.polkadog.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.polkadog.com/"
+    },
+    {
+        "link": "https://ivermectinew.monster",
+        "Heading": "ivermectinew.monster\u00a0-\u00a0ivermectinew Resources and Information.",
+        "Abstract": "ivermectinew.monster is your first and best source for information about ivermectinew. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://ivermectinew.monster",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://ivermectinew.monster",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ivermectinew.monster"
     },
     {
         "link": "https://shopetee.com",

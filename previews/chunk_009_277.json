@@ -31,10 +31,10 @@
     },
     {
         "link": "https://24hours-news.ru",
-        "Heading": "top films of 2018",
-        "Abstract": "top films of 2018",
+        "Heading": "\u7b2c\u4e00\u7248\u7f5101bz - \u6bcf\u65e5\u5927\u8d5b\u5b98\u7f51\u5165\u53e3",
+        "Abstract": "\u7b2c\u4e00\u7248\u7f5101bz",
         "Official Site": "https://24hours-news.ru",
-        "Icon": "N/A",
+        "Icon": "/template/news/blog1/img/favicon.ico",
         "Redirect": "https://24hours-news.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://24hours-news.ru"
@@ -148,6 +148,16 @@
         "Redirect": "https://simpsonspark.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://simpsonspark.com"
+    },
+    {
+        "link": "https://cityofcaldwell.org",
+        "Heading": "Home | City of Caldwell, Idaho",
+        "Abstract": "Welcome to the City of Caldwell. Caldwell is the first major city and western entrance to the magnificent and picturesque Treasure Valley, and is located on the beautiful Boise River. A community of friendly, sincere people are here to live, work and play with, so get connected, get involved, and become a great part of this wonderful community!",
+        "Official Site": "https://www.cityofcaldwell.org/Home",
+        "Icon": "https://www.cityofcaldwell.org/files/ocwebsite/City/HeroImage/city%20of%20caldwell%20white%20logo.png?w=1200",
+        "Redirect": "https://www.cityofcaldwell.org/Home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cityofcaldwell.org/Home"
     },
     {
         "link": "https://ofginc.com",
@@ -281,13 +291,13 @@
     },
     {
         "link": "https://jodafilmes.com",
-        "Heading": "Pobreflix - HD Online FREE, Assistir Filmes Online, Series Online, Animes Online",
+        "Heading": "Pobreflix - HD FREE Online, Assistir Filmes Online, Series Online, Animes Online",
         "Abstract": "Assista filmes e s\u00e9ries online gratis no Pobreflix HD. Encontre lan\u00e7amentos, cl\u00e1ssicos e seus t\u00edtulos favoritos com qualidade HD sem travamentos.",
-        "Official Site": "https://maxifilmesonline.com/",
-        "Icon": "https://maxifilmesonline.com/images/cover.jpg",
-        "Redirect": "https://maxifilmesonline.com/",
+        "Official Site": "https://zonafilmesonline.com/",
+        "Icon": "https://zonafilmesonline.com/images/cover.jpg",
+        "Redirect": "https://zonafilmesonline.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://maxifilmesonline.com/"
+        "AbstractURL": "https://zonafilmesonline.com/"
     },
     {
         "link": "https://topfx.com",
