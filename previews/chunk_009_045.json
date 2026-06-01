@@ -20,16 +20,6 @@
         "AbstractURL": "https://www.meridianbanker.com/"
     },
     {
-        "link": "https://mdsolution.at",
-        "Heading": "MDsolution Shop",
-        "Abstract": null,
-        "Official Site": "https://shop.mdsolution.at",
-        "Icon": "https://shop.mdsolution.at/wp-content/uploads/2024/04/cropped-MD-Logo-Black@2x-32x32.png",
-        "Redirect": "https://shop.mdsolution.at",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shop.mdsolution.at"
-    },
-    {
         "link": "https://swpat.org",
         "Heading": "ESP Wiki - The Software Patents Wiki",
         "Abstract": null,
@@ -121,13 +111,13 @@
     },
     {
         "link": "https://acnemedsrx.com",
-        "Heading": "Spironolacton | Acne Treatment",
-        "Abstract": "# How I Finally Tamed My Hormonal Acne With Spironolactone (And The Messy Parts) Look, before I started seeing any kind of progress, I was ready to pull my hai\u2026",
-        "Official Site": "spironolacton.html",
+        "Heading": "Retin-a gel | Acne Treatment",
+        "Abstract": "# I almost quit after Day 3 of Retin-A: The real messy truth about clearing my acne with prescription gel Okay, look at me in the mirror and admit it: your ski\u2026",
+        "Official Site": "retin-a-gel.html",
         "Icon": "assets/images/og-cover.jpg",
-        "Redirect": "spironolacton.html",
+        "Redirect": "retin-a-gel.html",
         "AbstractSource": "BS4",
-        "AbstractURL": "spironolacton.html"
+        "AbstractURL": "retin-a-gel.html"
     },
     {
         "link": "https://wannatalkaboutit.com",
@@ -208,26 +198,6 @@
         "Redirect": "https://textmine.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://textmine.com"
-    },
-    {
-        "link": "https://webofthings.org",
-        "Heading": "Web of Things \u2013 Architecting the Web of Things, for techies and thinkers!",
-        "Abstract": null,
-        "Official Site": "https://webofthings.org",
-        "Icon": "https://webofthings.org/wp-content/uploads/2015/04/cropped-1961900-150x150.jpg",
-        "Redirect": "https://webofthings.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://webofthings.org"
-    },
-    {
-        "link": "https://currieenterprises.com",
-        "Heading": "Currie Enterprises",
-        "Abstract": "Currie Enterprises is a premier manufacturer of high-performance direct replacement, and custom muscle car, and truck rearend axle assemblies.",
-        "Official Site": "https://currieenterprises.com",
-        "Icon": "/icons/icons_0/Currie-Favicon-ICO.ico",
-        "Redirect": "https://currieenterprises.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://currieenterprises.com"
     },
     {
         "link": "https://lvmserver.ca",

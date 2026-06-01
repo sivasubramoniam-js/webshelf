@@ -80,16 +80,6 @@
         "AbstractURL": "https://www.poivy.com/dashboard"
     },
     {
-        "link": "https://telepesquisa.com",
-        "Heading": "Telepesquisa - Sua Compra Come\u00e7a Aqui",
-        "Abstract": "Encontre empresas, produtos, servi\u00e7os e ofertas perto de voc\u00ea! Pensou em comprar ou em economizar? A telepesquisa vai te ajudar!",
-        "Official Site": "https://telepesquisa.com",
-        "Icon": "https://telepesquisa.com/v2/img/favicon.png",
-        "Redirect": "https://telepesquisa.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://telepesquisa.com"
-    },
-    {
         "link": "https://realestate-istra.com",
         "Heading": "Nekretnine Istra - prodaja ku\u0107a, stanova i zemlji\u0161ta | REI",
         "Abstract": "Specijalizirani portal za nekretnine u Istri \ud83c\udfe1. Ku\u0107e uz more, stanovi i zemlji\u0161ta za prodaju - ekskluzivni oglasi i sigurna kupnja uz REI",
@@ -218,16 +208,6 @@
         "Redirect": "https://neovera.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://neovera.com/"
-    },
-    {
-        "link": "https://cibaoyu.com",
-        "Heading": "Cloudflare Registrar",
-        "Abstract": null,
-        "Official Site": "https://cibaoyu.com",
-        "Icon": "https://parking.registrar.cloudflare.com/favicon.ico",
-        "Redirect": "https://cibaoyu.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cibaoyu.com"
     },
     {
         "link": "https://authentica.ru",

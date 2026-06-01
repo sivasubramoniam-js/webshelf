@@ -200,6 +200,16 @@
         "AbstractURL": "https://fibocom.com"
     },
     {
+        "link": "https://discgolfontario.com",
+        "Heading": "Disc Golf Ontario - An online community for Ontario Disc Golfers",
+        "Abstract": "A message board and web forum for Ontario disc golf enthusiasts. Information for local disc golf tournaments, techniques and tricks, classifieds and more...",
+        "Official Site": "https://discgolfontario.com",
+        "Icon": "N/A",
+        "Redirect": "https://discgolfontario.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://discgolfontario.com"
+    },
+    {
         "link": "https://auric.city",
         "Heading": "AURIC | Maharashtra",
         "Abstract": "AURIC is a planned & greenfield smart industrial city developed across 10,000 acres in Maharashtra, as part of the Delhi-Mumbai Industrial Corridor (DMIC).",
@@ -208,16 +218,6 @@
         "Redirect": "https://auric.city",
         "AbstractSource": "BS4",
         "AbstractURL": "https://auric.city"
-    },
-    {
-        "link": "https://thehomany.com",
-        "Heading": "The Homany - India\u2019s Leading Real Estate Marketplace",
-        "Abstract": "The Homany is India\u2019s leading real estate marketing and sales platform, designed to simplify the buying, selling, and renting of properties.",
-        "Official Site": "https://thehomany.com/",
-        "Icon": "https://thehomany.com/wp-content/uploads/2024/10/511b6e84-cceb-445e-bf16-3b90852ea7a3-e1729136059925.jpg",
-        "Redirect": "https://thehomany.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thehomany.com/"
     },
     {
         "link": "https://aedb.br",
@@ -261,10 +261,10 @@
     },
     {
         "link": "https://zona1.mom",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "zona1.mom\u00a0-\u00a0This website is for sale!\u00a0-\u00a0zona1 Resources and Information.",
+        "Abstract": "This website is for sale! zona1.mom is your first and best source for information about zona1. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
         "Official Site": "https://zona1.mom",
-        "Icon": "N/A",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
         "Redirect": "https://zona1.mom",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zona1.mom"

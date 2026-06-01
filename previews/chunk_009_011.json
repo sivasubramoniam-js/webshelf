@@ -144,7 +144,7 @@
         "Heading": "Taxi de Carretera | Traslados de larga distancia entre ciudades",
         "Abstract": "Taxi de carretera para traslados de larga distancia en recorridos interurbanos, realizamos presupuestos de precio y reservas, aceptamos cancelaciones sin coste.",
         "Official Site": "httpss://taxidecarretera.com/",
-        "Icon": "httpss://taxidecarretera.com/images/Dosvigo.webp",
+        "Icon": "https://taxidecarretera.com/images/vtclexus.webp",
         "Redirect": "httpss://taxidecarretera.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "httpss://taxidecarretera.com/"
@@ -158,16 +158,6 @@
         "Redirect": "https://teeducks.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://teeducks.com/"
-    },
-    {
-        "link": "https://teehex.com",
-        "Heading": "TeeHex",
-        "Abstract": "",
-        "Official Site": "#",
-        "Icon": "#",
-        "Redirect": "#",
-        "AbstractSource": "BS4",
-        "AbstractURL": "#"
     },
     {
         "link": "https://teleteeshirt.com",
@@ -218,26 +208,6 @@
         "Redirect": "https://thekav.co",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thekav.co"
-    },
-    {
-        "link": "https://theweldingforum.com",
-        "Heading": "Welding Tips and Tricks - Home",
-        "Abstract": null,
-        "Official Site": "https://theweldingforum.com",
-        "Icon": "N/A",
-        "Redirect": "https://theweldingforum.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://theweldingforum.com"
-    },
-    {
-        "link": "https://theworldhour.com",
-        "Heading": "The World Hour \u2013 To show the world to the world",
-        "Abstract": null,
-        "Official Site": "https://theworldhour.com",
-        "Icon": "https://theworldhour.com/wp-content/uploads/2026/01/WH-Logo2-150x150.jpg",
-        "Redirect": "https://theworldhour.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://theworldhour.com"
     },
     {
         "link": "https://thuocgiaotannha.vn",

@@ -13,11 +13,11 @@
         "link": "https://oobject.com",
         "Heading": null,
         "Abstract": "Typologies of Objects and Events Created by Humans",
-        "Official Site": "https://www.oobject.com/",
+        "Official Site": "http://www.oobject.com/",
         "Icon": "https://s0.wp.com/i/blank.jpg",
-        "Redirect": "https://www.oobject.com/",
+        "Redirect": "http://www.oobject.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.oobject.com/"
+        "AbstractURL": "http://www.oobject.com/"
     },
     {
         "link": "https://ihru.pt",
@@ -318,15 +318,5 @@
         "Redirect": "https://joyasha.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://joyasha.com"
-    },
-    {
-        "link": "https://offerbuild.com",
-        "Heading": "OfferBuild \u2013 Telecom & Multiple Update",
-        "Abstract": null,
-        "Official Site": "https://offerbuild.com",
-        "Icon": "N/A",
-        "Redirect": "https://offerbuild.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://offerbuild.com"
     }
 ]

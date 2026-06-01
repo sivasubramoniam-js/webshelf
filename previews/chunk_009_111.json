@@ -20,6 +20,16 @@
         "AbstractURL": "https://www.cavallomagazine.it"
     },
     {
+        "link": "https://edenstar.net",
+        "Heading": "Eden Star",
+        "Abstract": "My Store",
+        "Official Site": "https://edenstar.net/",
+        "Icon": "https://edenstar.net/image/cache/catalog/edenlogo-600x315w.png",
+        "Redirect": "https://edenstar.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://edenstar.net/"
+    },
+    {
         "link": "https://chatelet-theatre.com",
         "Heading": "Accueil - Th\u00e9\u00e2tre du Ch\u00e2telet",
         "Abstract": "Th\u00e9\u00e2tre musical de Paris",
@@ -134,20 +144,10 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://saviourcrimpycrimpyhem.com",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
         "Redirect": "https://saviourcrimpycrimpyhem.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://saviourcrimpycrimpyhem.com"
-    },
-    {
-        "link": "https://ellyanalytics.com",
-        "Heading": "Plurio AI Agent \u2014 Autonomous Optimization for Performance Marketing",
-        "Abstract": "Plurio is the AI agent that analyzes campaigns, predicts outcomes, and optimizes performance automatically. Built on Elly Analytics\u2019 data foundation, it uncovers insights, prevents wasted spend, and scales what works.",
-        "Official Site": "https://www.plurio.ai/",
-        "Icon": "https://framerusercontent.com/assets/RvZM58CWe8J2NUbuXYR68nPD8g.png",
-        "Redirect": "https://www.plurio.ai/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.plurio.ai/"
     },
     {
         "link": "https://enjoynordjylland.dk",
@@ -180,6 +180,16 @@
         "AbstractURL": "https://www.voltarengel.com/"
     },
     {
+        "link": "https://montrosefc.co.uk",
+        "Heading": "Montrose Football Club | The home of football in Montrose",
+        "Abstract": null,
+        "Official Site": "https://montrosefc.co.uk",
+        "Icon": "https://montrosefc.co.uk/wp-content/uploads/2022/06/cropped-MFC-fav-100x100.png",
+        "Redirect": "https://montrosefc.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://montrosefc.co.uk"
+    },
+    {
         "link": "https://crime-scene-investigator.net",
         "Heading": "Crime Scene Investigator Network",
         "Abstract": "Crime scene investigation and forensic science information. Documenting crime scenes, collection and preservation of evidence, articles, videos, and resources.",
@@ -194,7 +204,7 @@
         "Heading": "ATIXA - Association of Title IX Administrators: Advocacy & Support",
         "Abstract": "ATIXA is the leading Association of Title IX Administrators; providing training, certification, consulting, and resources for K-12 and higher education Title IX professionals. Become a member.",
         "Official Site": "https://www.atixa.org/",
-        "Icon": "https://cdn.atixa.org/site-media/atixa/wp-content/uploads/2020/10/16182445/cropped-atixa-favicon-32x32.png",
+        "Icon": "https://cdn.atixa.org/site-media/atixa/wp-content/uploads/2026/05/31220239/Solutions-Emerge-When-Perspectives-Converge.png",
         "Redirect": "https://www.atixa.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.atixa.org/"
@@ -230,14 +240,14 @@
         "AbstractURL": "http://www.i-doser.com"
     },
     {
-        "link": "https://pino.pl",
-        "Heading": "Portal spo\u0142eczno\u015bciowy Pino.pl \u2013 rozrywka, ludzie i zabawa \u2013 do\u0142\u0105cz do nas",
-        "Abstract": "Pino.pl to najlepszy portal spo\u0142eczno\u015bciowy w sieci. Rozrywka, ludzie i \u015bwietna zabawa. B\u0105d\u017a w kontakcie z przyjaci\u00f3\u0142mi. Poznaj nowych znajomych.Do\u0142\u0105cz do nas koniecznie.",
-        "Official Site": "https://pino.pl",
-        "Icon": "/static/favicon.ico",
-        "Redirect": "https://pino.pl",
+        "link": "https://enquirynet.in",
+        "Heading": "Under Construction",
+        "Abstract": null,
+        "Official Site": "https://enquirynet.in",
+        "Icon": "N/A",
+        "Redirect": "https://enquirynet.in",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pino.pl"
+        "AbstractURL": "https://enquirynet.in"
     },
     {
         "link": "https://whamhockey.org",
@@ -291,23 +301,13 @@
     },
     {
         "link": "https://1win45920.help",
-        "Heading": "1Win \u2014 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0430\u0437\u0438\u043d\u043e \u0438 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440\u0430",
-        "Abstract": "1Win \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043b\u0438\u0446\u0435\u043d\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440\u0430 \u0438 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0430\u0437\u0438\u043d\u043e. \u0411\u043e\u043d\u0443\u0441 \u0434\u043e 600% \u043d\u0430 \u043f\u0435\u0440\u0432\u044b\u0435 \u0434\u0435\u043f\u043e\u0437\u0438\u0442\u044b, 500 \u0444\u0440\u0438\u0441\u043f\u0438\u043d\u043e\u0432, \u043a\u044d\u0448\u0431\u044d\u043a 30%.",
-        "Official Site": "https://sam-sebe-psycholog.ru/",
-        "Icon": "https://sam-sebe-psycholog.ru/images/img9_main.png",
-        "Redirect": "https://sam-sebe-psycholog.ru/",
+        "Heading": "1Win KG \u2014 \u043e\u0431\u0437\u043e\u0440 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430 \u0432 \u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d\u0435 (2026)",
+        "Abstract": "\u041f\u0440\u043e\u0432\u0435\u0440\u0438\u043b \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044e, \u0432\u044b\u0432\u043e\u0434 \u0432 \u0441\u043e\u043c\u0430\u0445, \u043e\u0442\u044b\u0433\u0440\u044b\u0448 \u0431\u043e\u043d\u0443\u0441\u0430 \u0438 \u0440\u0430\u0431\u043e\u0442\u0443 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043f\u0440\u0438 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430\u0445. \u041f\u043e\u0434\u0440\u043e\u0431\u043d\u044b\u0439 \u0440\u0430\u0437\u0431\u043e\u0440 \u0431\u0435\u0437 \u0440\u0435\u043a\u043b\u0430\u043c\u043d\u044b\u0445 \u043e\u0431\u0435\u0449\u0430\u043d\u0438\u0439.",
+        "Official Site": "https://kg-1win.com/",
+        "Icon": "https://kg-1win.com/images/casino-ru.webp",
+        "Redirect": "https://kg-1win.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sam-sebe-psycholog.ru/"
-    },
-    {
-        "link": "https://matsushita-kk.com",
-        "Heading": "\u30cf\u30a4\u30ed\u30fc\u7d42\u4e86\u5f8c\u306e\u9078\u629e\u80a2 - Bi-Winning\u306e\u8a73\u7d30\u3068\u8a55\u5224",
-        "Abstract": "\u30cf\u30a4\u30ed\u30fc\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2 \u91d1\u878d\u5e81 \u8b66\u544a\u306b\u4f34\u3044\u3001\u4ee3\u66ff\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3068\u3057\u3066\u6ce8\u76ee\u3055\u308c\u3066\u3044\u308bBi-Winning\uff08\u30d3\u30fc\u30a6\u30a3\u30cb\u30f3\u30b0\uff09\u3092\u7d39\u4ecb\u3002\u53d6\u5f15\u30bf\u30a4\u30d7\u3084\u30da\u30a4\u30a2\u30a6\u30c8\u7387\u3001\u30c7\u30e2\u53e3\u5ea7\u306a\u3069\u3082\u5fb9\u5e95\u89e3\u8aac\u3002",
-        "Official Site": "https://matsushita-kk.org/",
-        "Icon": "https://matsushita-kk.org/wp-content/uploads/2026/03/Bi-winning-banner.jpg",
-        "Redirect": "https://matsushita-kk.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://matsushita-kk.org/"
+        "AbstractURL": "https://kg-1win.com/"
     },
     {
         "link": "https://watertaxirotterdam.nl",

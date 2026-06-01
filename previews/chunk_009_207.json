@@ -80,6 +80,16 @@
         "AbstractURL": "https://bricosite.com"
     },
     {
+        "link": "https://tanba.jp",
+        "Heading": "\u4e39\u6ce2\u65b0\u805e - \u4e95\u6238\u7aef\u4f1a\u8b70\u306e\u4e3b\u5f79\u306b\u306a\u308c\u308b",
+        "Abstract": "\u4e39\u6ce2\u65b0\u805e - \u4e95\u6238\u7aef\u4f1a\u8b70\u306e\u4e3b\u5f79\u306b\u306a\u308c\u308b",
+        "Official Site": "https://tanba.jp/",
+        "Icon": "https://tanba.jp/wp-content/uploads/2020/05/H_-LOGO.jpg",
+        "Redirect": "https://tanba.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tanba.jp/"
+    },
+    {
         "link": "https://lrhsd.org",
         "Heading": "Home - Lenape Regional High School District",
         "Abstract": "Home - Lenape Regional High School District",
@@ -88,16 +98,6 @@
         "Redirect": "https://www.lrhsd.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lrhsd.org/"
-    },
-    {
-        "link": "https://vip-live.ba",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://vip-live.ba",
-        "Icon": "/assets/images/favicon/android-icon-192x192.png",
-        "Redirect": "https://vip-live.ba",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vip-live.ba"
     },
     {
         "link": "https://memoryplugin.com",
@@ -174,7 +174,7 @@
         "Heading": "AXA \u2013 Versicherung & Vorsorge in der Schweiz ",
         "Abstract": "Bei der AXA finden Sie Ihre passende Versicherung & Vorsorge f\u00fcr die Schweiz, ob Haftpflicht, Hausrat oder Autoversicherung.",
         "Official Site": "https://www.axa.ch/de/privatkunden.html",
-        "Icon": "https://brandcenter.axa.ch/asset/2a28dffa-268f-4fb5-88a7-449b13c6dfc2/WIDE_1280_480/health_keyvisual_junge_frau_springt2_web.jpg",
+        "Icon": "https://brandcenter.axa.ch/asset/0448e2c8-7edc-4e87-85c3-0968b35565b5/WIDE_1280_480/paar_gluecklich_stadt_spaziergang_web.jpg",
         "Redirect": "https://www.axa.ch/de/privatkunden.html",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.axa.ch/de/privatkunden.html"

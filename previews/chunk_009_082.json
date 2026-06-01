@@ -10,6 +10,16 @@
         "AbstractURL": "https://mightygreattrips.com"
     },
     {
+        "link": "https://tylers.biz",
+        "Heading": "Tyler's Gold & Diamonds: Our Jewelry - Manchester, Iowa USA",
+        "Abstract": "",
+        "Official Site": "https://tylers.biz",
+        "Icon": "N/A",
+        "Redirect": "https://tylers.biz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tylers.biz"
+    },
+    {
         "link": "https://gastra.net",
         "Heading": null,
         "Abstract": null,
@@ -38,6 +48,16 @@
         "Redirect": "https://katzentempel.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://katzentempel.de/"
+    },
+    {
+        "link": "https://hovnet.cz",
+        "Heading": "HovNet -",
+        "Abstract": "Internet pro obce Janov\u00e1, Hov\u011bz\u00ed, Huslenky, Halenkov, Nov\u00fd Hrozenkov, Karolinka, Velk\u00e9 Karlovice",
+        "Official Site": "https://www.hovnet.cz/",
+        "Icon": "https://www.hovnet.cz/wp-content/themes/HovnetTheme/img/favicon.png",
+        "Redirect": "https://www.hovnet.cz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hovnet.cz/"
     },
     {
         "link": "https://packalyst.com",
@@ -268,16 +288,6 @@
         "Redirect": "https://www.aircooledshop.com/?language=de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.aircooledshop.com/?language=de"
-    },
-    {
-        "link": "https://pirmasens.de",
-        "Heading": "Stadt Pirmasens | Stadt Pirmasens",
-        "Abstract": null,
-        "Official Site": "https://www.pirmasens.de/",
-        "Icon": "https://www.pirmasens.de/bilder/logos/ps-logos/ps-logo-stadtpirmasens-kompakt-rgb-farbig.png?cid=29sv.ejvm&resize=a9f653%3a48x48c",
-        "Redirect": "https://www.pirmasens.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.pirmasens.de/"
     },
     {
         "link": "https://silverairways.com",

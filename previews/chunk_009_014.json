@@ -70,16 +70,6 @@
         "AbstractURL": "https://asoleap.org"
     },
     {
-        "link": "https://salesfuel.com",
-        "Heading": "#1 Sales Intelligence, Training, & Marketing Research Tools - SalesFuel",
-        "Abstract": "SalesFuel is a recognized leader in providing sales intelligence, marketing research, and sales training for B2B sales teams. Stand out from the crowd.",
-        "Official Site": "https://salesfuel.com/",
-        "Icon": "https://salesfuel.com/wp-content/uploads/2021/11/TeamTrait_logo_full-color-white_240px.png",
-        "Redirect": "https://salesfuel.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://salesfuel.com/"
-    },
-    {
         "link": "https://townsmith.com",
         "Heading": null,
         "Abstract": null,
@@ -98,6 +88,16 @@
         "Redirect": "https://tcallgirls.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tcallgirls.com"
+    },
+    {
+        "link": "https://ganeshoilmill.com",
+        "Heading": "Ganesh Oil MIlls, Himachal Pradesh \u2013 Ganesh Oil mills",
+        "Abstract": null,
+        "Official Site": "https://ganeshoilmill.com",
+        "Icon": "https://ganeshoilmill.com/wp-content/uploads/2024/12/cropped-musterd-oil-32x32.png",
+        "Redirect": "https://ganeshoilmill.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ganeshoilmill.com"
     },
     {
         "link": "https://nds-fluerat.org",

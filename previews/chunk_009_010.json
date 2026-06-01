@@ -50,16 +50,6 @@
         "AbstractURL": "https://phenha.vn"
     },
     {
-        "link": "https://philippineenergylawterms.com",
-        "Heading": "Philippine Energy Law Terms",
-        "Abstract": "This website is dedicated to providing an organized collection of relevant energy-related terms and their meanings, which are culled from select laws and related implementing rules and regulations (IRRs), administrative orders etc.",
-        "Official Site": "https://philippineenergylawterms.com/",
-        "Icon": "N/A",
-        "Redirect": "https://philippineenergylawterms.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://philippineenergylawterms.com/"
-    },
-    {
         "link": "https://poitou-charentes-hotels.com",
         "Heading": "Poitou-Charentes hotels & apartments, all accommodations in Poitou-Charentes",
         "Abstract": "Online booking for hotels in Poitou-Charentes, France. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
@@ -94,7 +84,7 @@
         "Heading": "\n\tGlobal Assessment Center\n",
         "Abstract": null,
         "Official Site": "https://profilesgac.com",
-        "Icon": "/apple-touch-icon-precomposed.png",
+        "Icon": "favicon.ico",
         "Redirect": "https://profilesgac.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://profilesgac.com"
@@ -244,7 +234,7 @@
         "Heading": "Our Family Genealogy Pages: Sanders McArthur Family Site",
         "Abstract": null,
         "Official Site": "https://sanders-mcarthurfamily.org",
-        "Icon": "N/A",
+        "Icon": "img/public/android-icon-192x192.png",
         "Redirect": "https://sanders-mcarthurfamily.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sanders-mcarthurfamily.org"

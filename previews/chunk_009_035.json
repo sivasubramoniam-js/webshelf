@@ -41,13 +41,13 @@
     },
     {
         "link": "https://assetworldcorp-th.com",
-        "Heading": "\n            Asset World Corporation\n    ",
-        "Abstract": "Thailand&rsquo;s leading integrated lifestyle real estate group has a pipeline of sustainable projects and developments for future growth with the potential for long-term capital appreciation",
-        "Official Site": "https://www.assetworldcorp-th.com/en/home",
-        "Icon": "https://www.assetworldcorp-th.com/glide/storage/menu/about.jpg?h=350&fit=max&fm=webp&t=1780199702",
-        "Redirect": "https://www.assetworldcorp-th.com/en/home",
+        "Heading": "\n        Asset World Corporation    ",
+        "Abstract": "Asset World Corporation",
+        "Official Site": "https://www.assetworldcorp-th.com/intro-page",
+        "Icon": "https://www.assetworldcorp-th.com/glide/assets/images/default/opengraph.jpg?h=350&fit=max&fm=jpg&t=1780287004",
+        "Redirect": "https://www.assetworldcorp-th.com/intro-page",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.assetworldcorp-th.com/en/home"
+        "AbstractURL": "https://www.assetworldcorp-th.com/intro-page"
     },
     {
         "link": "https://best-vps-rating.ru",
@@ -160,6 +160,16 @@
         "AbstractURL": "https://www.academiaknihy.cz/"
     },
     {
+        "link": "https://superclix.de",
+        "Heading": "Domain Default page",
+        "Abstract": null,
+        "Official Site": "https://superclix.de",
+        "Icon": "N/A",
+        "Redirect": "https://superclix.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://superclix.de"
+    },
+    {
         "link": "https://fisco7.it",
         "Heading": "Fisco7 - Il tuo blog fiscale con notizie approfondite e semplici da consultare",
         "Abstract": "Fisco7 \u00e8 il blog di informazione per il professionista che vuole essere sempre aggiornato sulle ultime novit\u00e0 fiscali e giuslavoristiche in modo semplice e veloce",
@@ -168,16 +178,6 @@
         "Redirect": "https://www.fisco7.it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.fisco7.it/"
-    },
-    {
-        "link": "https://kalptaruhotel.com",
-        "Heading": "Kalptaru Hotel",
-        "Abstract": null,
-        "Official Site": "https://kalptaruhotel.com",
-        "Icon": "https://kalptaruhotel.com/wp-content/uploads/2023/05/cropped-kalptaruhotel.png",
-        "Redirect": "https://kalptaruhotel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kalptaruhotel.com"
     },
     {
         "link": "https://abbacentrumalicante.com",

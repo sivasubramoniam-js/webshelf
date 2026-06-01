@@ -30,6 +30,16 @@
         "AbstractURL": "https://fcm-leasing.ru"
     },
     {
+        "link": "https://sinontechs.com",
+        "Heading": "Sinontech \u2013 Best Website Design , PHP Development, Mobile Application Development Company in India | SinonTech",
+        "Abstract": null,
+        "Official Site": "https://www.sinontechs.com",
+        "Icon": "https://sinontechs.com/wp-content/themes/twentyseventeen/assets/images/sinon-logo-mobile.png",
+        "Redirect": "https://www.sinontechs.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sinontechs.com"
+    },
+    {
         "link": "https://toholamminenergia.fi",
         "Heading": "\n    \n    Koko kyl\u00e4n l\u00e4mmitt\u00e4j\u00e4 \u2013 Toholammin Energia\n  \n  ",
         "Abstract": "Luotettava l\u00e4mm\u00f6nsaanti on mukavan arjen peruskivi ja teollisuuden elinehto. Me tuotamme kotimaisin voimin kauko-, kuuma\u00f6ljy- ja h\u00f6yryl\u00e4mp\u00f6\u00e4 Toholammin kunnan asukkaille ja yrityksille, vakaaseen ja kilpailukykyiseen hintaan.",
@@ -83,11 +93,11 @@
         "link": "https://literarky.cz",
         "Heading": "Home - Liter\u00e1rn\u00ed noviny",
         "Abstract": "Liter\u00e1rn\u00ed noviny | m\u011bs\u00ed\u010dn\u00edk pro kritick\u00e9 my\u0161len\u00ed. Liter\u00e1rn\u00ed noviny vych\u00e1z\u00ed posledn\u00ed \u010dtvrtek v m\u011bs\u00edci.",
-        "Official Site": "https://www.literarky.cz/",
+        "Official Site": "https://www.literarky.cz/index.php?p=noveknihy",
         "Icon": "https://www.literarky.cz/images/Jiri_slitr.jpeg",
-        "Redirect": "https://www.literarky.cz/",
+        "Redirect": "https://www.literarky.cz/index.php?p=noveknihy",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.literarky.cz/"
+        "AbstractURL": "https://www.literarky.cz/index.php?p=noveknihy"
     },
     {
         "link": "https://arthurgreenstein.com",
@@ -280,16 +290,6 @@
         "AbstractURL": "https://tsusports.com/"
     },
     {
-        "link": "https://granatapet.de",
-        "Heading": "Tiernahrung online kaufen | GranataPet",
-        "Abstract": "Tiernahrung online kaufen bei GranataPet \u2794 ohne Getreide & ohne Zuckerzusatz \u2705 mit Granatapfel \u2705 artgerechte Tiernahrung von GranataPet \u2705.",
-        "Official Site": "https://www.granatapet.de/",
-        "Icon": "https://media.granatapet.de/s3/media/91/fb/c2/1653476615/logo_granatapet.svg?ts=1653476616",
-        "Redirect": "https://www.granatapet.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.granatapet.de/"
-    },
-    {
         "link": "https://suomenlatu.fi",
         "Heading": "Suomen Latu: Kaikki ulkoilusta",
         "Abstract": null,
@@ -308,15 +308,5 @@
         "Redirect": "https://serenitysmart.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://serenitysmart.com/"
-    },
-    {
-        "link": "https://cpofficial.in",
-        "Heading": "Best Casino in Goa | Casino Pride Official | Top Casino Goa",
-        "Abstract": "Experience the best casino in Goa at Casino Pride. Enjoy top casino gaming, live entertainment, fine dining, and exclusive offers. Book your entry today!",
-        "Official Site": "https://www.cpofficial.in/",
-        "Icon": "https://cpofficial.in/wp-content/uploads/2025/12/buffet.svg",
-        "Redirect": "https://www.cpofficial.in/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cpofficial.in/"
     }
 ]

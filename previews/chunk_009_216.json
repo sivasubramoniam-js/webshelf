@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://digitalmarketingmagazine.co.uk",
-        "Heading": "Digital Marketing Magazine | News, advice & tips on marketing, data protection & privacy",
-        "Abstract": "An online magazine for the modern marketer & digital industries, with news, articles and commentary on digital marketing.",
-        "Official Site": "http://digitalmarketingmagazine.co.uk",
-        "Icon": "http://digitalmarketingmagazine.co.uk/img/dmm-graph.jpg",
-        "Redirect": "http://digitalmarketingmagazine.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://digitalmarketingmagazine.co.uk"
-    },
-    {
         "link": "https://trueman.us",
         "Heading": "TRUEMAN -- Members-Only Menswear | Factory-Direct Luxury",
         "Abstract": "Shop factory-direct suits, shirts, ties and accessories at TRUEMAN. Members-only pricing -- no middleman, no markup.",
@@ -18,16 +8,6 @@
         "Redirect": "https://trueman.us/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trueman.us/"
-    },
-    {
-        "link": "https://mndelgolfo.com",
-        "Heading": "MN del Golfo: compra en l\u00ednea materiales de construcci\u00f3n, ferreter\u00eda, el\u00e9ctrico, iluminaci\u00f3n. truper, accesorios para construcci\u00f3n, conexiones, cerraduras, impermeabilizantes, puertas, boilers, calentadores, mini splits, azulejos, pisos, accesorios cer\u00e1micos, todo para ba\u00f1o.",
-        "Abstract": "MN Home Center :  - Ba\u00f1os Materiales de Construcci\u00f3n Ferreter\u00eda Plomer\u00eda Material El\u00e9ctrico Cocina Piso, Azulejos, Adhesivos Y Mas L\u00ednea Blanca Iluminaci\u00f3n Herramientas Jard\u00edn Hogar Ventilaci\u00f3n y Minisplits Puertas y Cerraduras Impermeabilizantes Pinturas Prep\u00e1rate para las Lluvias \u00a1Ahorra! con la Semana Roja venta de block en l\u00ednea, venta de material para construcci\u00f3n, comprar materiales, cemento venta en l\u00ednea, construcci\u00f3n,venta sobre pedido, ferreter\u00eda, el\u00e9ctrico, iluminaci\u00f3n. material de construcci\u00f3n,  truper, accesorios para construcci\u00f3n, conexiones, cerraduras, impermeabilizantes,  puertas, cemento, varilla, venta de cemento, venta de varilla, thermoteck, cemex,  venta de material para construccion, calentadores de agua, boilers, construrama,  acero para construccion, concreto, compra cemento, materiales para construcci\u00f3n, pisos, azulejos, cer\u00e1mica, ba\u00f1os, accesorios para ba\u00f1os, material de construccion, cemento gris, cemento blanco, yeso, venta impermeabilizantes,",
-        "Official Site": "https://www.mndelgolfo.com/",
-        "Icon": "https://www.mndelgolfo.com/includes/templates/bootstrap/images/logo.png",
-        "Redirect": "https://www.mndelgolfo.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mndelgolfo.com/"
     },
     {
         "link": "https://coc-stats.net",
@@ -170,6 +150,16 @@
         "AbstractURL": "https://tenthousandcoffees.com"
     },
     {
+        "link": "https://cstarchitects.com",
+        "Heading": "CSTarchitects",
+        "Abstract": null,
+        "Official Site": "https://cstarchitects.com/",
+        "Icon": "https://cstarchitects.com/wp-content/uploads/2026/05/Gemini_Generated_Image_2oibz12oibz12oib-scaled.png",
+        "Redirect": "https://cstarchitects.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cstarchitects.com/"
+    },
+    {
         "link": "https://1-win-aviator.com",
         "Heading": "1win oinline casino araql\u0131 t\u0259cr\u00fcb\u0259y\u0259 malik unikal oyun 1 Win Aviator",
         "Abstract": "H\u0259y\u0259canverici 1win online casino oynay\u0131n v\u0259 1win Aviator h\u0259zz al\u0131n. 1 Win Casino h\u0259y\u0259candan v\u0259 b\u00f6y\u00fck qazanmaq \u015fans\u0131ndan h\u0259zz al\u0131n.\n",
@@ -194,7 +184,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://marksdespitelinear.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://marksdespitelinear.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://marksdespitelinear.com"

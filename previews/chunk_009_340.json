@@ -130,16 +130,6 @@
         "AbstractURL": "https://mebela.ru"
     },
     {
-        "link": "https://highdefinitionpainting.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://highdefinitionpainting.com",
-        "Icon": "N/A",
-        "Redirect": "https://highdefinitionpainting.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://highdefinitionpainting.com"
-    },
-    {
         "link": "https://spsajans.com",
         "Heading": "Anasayfa - Sps Ajans",
         "Abstract": "Markan\u0131z\u0131n \u00f6z\u00fcn\u00fc ve de\u011ferlerini yans\u0131tan yarat\u0131c\u0131 ve etkili reklam kampanyalar\u0131yla hedef kitlenizi etkileyerek ba\u015far\u0131ya ula\u015fman\u0131za yard\u0131mc\u0131 olmak i\u00e7in...",
@@ -148,6 +138,16 @@
         "Redirect": "https://spsajans.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://spsajans.com/"
+    },
+    {
+        "link": "https://safakmotosiklet.com",
+        "Heading": "\u015eafak Motosiklet",
+        "Abstract": null,
+        "Official Site": "https://safakmotosiklet.com",
+        "Icon": "https://safakmotosiklet.com/wp-content/uploads/2022/12/cropped-safakfav-32x32.png",
+        "Redirect": "https://safakmotosiklet.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://safakmotosiklet.com"
     },
     {
         "link": "https://extrategiamedios.com",
@@ -220,16 +220,6 @@
         "AbstractURL": "https://findnicknames.com/"
     },
     {
-        "link": "https://bekirzade.com",
-        "Heading": "D\u00f6nerci Bekirzade",
-        "Abstract": null,
-        "Official Site": "https://bekirzade.com",
-        "Icon": "https://bekirzade.com/wp-content/uploads/2024/04/cropped-donerci-bekirzade-icon-1-32x32.png",
-        "Redirect": "https://bekirzade.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bekirzade.com"
-    },
-    {
         "link": "https://froy.com",
         "Heading": "\n      FROY | Modern Furniture and Decor for the Inspired Home\n    ",
         "Abstract": "FROY offers modern furniture and home decor featuring the latest interior design trends. Explore inspirational styles and create your dream home with FROY.",
@@ -261,7 +251,7 @@
     },
     {
         "link": "https://myheartsisters.org",
-        "Heading": "Heart Sisters \u2013 For women living with heart disease",
+        "Heading": "Heart Sisters | For women living with heart disease",
         "Abstract": "For women living with heart disease",
         "Official Site": "https://myheartsisters.org/",
         "Icon": "https://myheartsisters.org/wp-content/uploads/2018/07/cropped-ct-palecolours-photomania.jpg?w=200",

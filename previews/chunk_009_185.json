@@ -170,21 +170,11 @@
         "AbstractURL": "https://riteofpassage.com/"
     },
     {
-        "link": "https://nestxpert.com",
-        "Heading": "Best Facility Management Company in Abu Dhabi | Nest Xpert UAE",
-        "Abstract": "Transform your property with Nest Xpert, the leading facility management company in Abu Dhabi. Expert solutions for seamless operations and optimal functionality.",
-        "Official Site": "https://nestxpert.com/",
-        "Icon": "https://nestxpert.com/wp-content/uploads/2018/10/cropped-fv-copy-32x32.png",
-        "Redirect": "https://nestxpert.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nestxpert.com/"
-    },
-    {
         "link": "https://cumclinic.com",
-        "Heading": "Cum Clinic | Age Verification",
-        "Abstract": "Cum Clinic | Age Verification",
+        "Heading": "Cum Clinic | Welcome to my Cum Clinic",
+        "Abstract": null,
         "Official Site": "https://cumclinic.com",
-        "Icon": "N/A",
+        "Icon": "custom_assets/images/favicon.png",
         "Redirect": "https://cumclinic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cumclinic.com"
@@ -204,7 +194,7 @@
         "Heading": "\u0418\u043c\u043f\u043b\u0430\u043d\u0442 \u0441\u0438\u0442\u0438 \u2013 \u0446\u0435\u043d\u0442\u0440 \u0438\u043c\u043f\u043b\u0430\u043d\u0442\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u0441\u0442\u043e\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 | Implant City",
         "Abstract": "\u0418\u043c\u043f\u043b\u0430\u043d\u0442 \u0421\u0438\u0442\u0438 - \u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u0438\u043c\u043f\u043b\u0430\u043d\u0442\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 - \u0417\u0432\u043e\u043d\u0438\u0442\u0435 \u260e+ 7 (495) 150-07-35 - \u0418\u043c\u043f\u043b\u0430\u043d\u0442 \u0421\u0438\u0442\u0438!",
         "Official Site": "https://implantcity.ru",
-        "Icon": "/upload/resize_cache/webp/local/templates/implantcity/favicons/favicon-32x32.webp",
+        "Icon": "/local/templates/implantcity/favicons/favicon-32x32.png",
         "Redirect": "https://implantcity.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://implantcity.ru"

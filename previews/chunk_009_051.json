@@ -20,6 +20,16 @@
         "AbstractURL": "https://www.komperdell.com/de/"
     },
     {
+        "link": "https://0009.tv",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://0009.tv",
+        "Icon": "N/A",
+        "Redirect": "https://0009.tv",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://0009.tv"
+    },
+    {
         "link": "https://cfosilvia.com",
         "Heading": "CFO Silvia - Your Free AI Personal CFO | Track $40B+ in Assets | CFO Silvia",
         "Abstract": "Track all your wealth in one place. Join 12,000+ investors managing $40 billion in assets.",
@@ -28,16 +38,6 @@
         "Redirect": "https://cfosilvia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cfosilvia.com"
-    },
-    {
-        "link": "https://rezepte-blog.eu",
-        "Heading": "rezepte-blog.eu \u2014 Latest News",
-        "Abstract": "Fresh and trending updates from rezepte-blog.eu",
-        "Official Site": "https://rezepte-blog.eu",
-        "Icon": "https://ts2.mm.bing.net/th?q=rezepte-blog.eu",
-        "Redirect": "https://rezepte-blog.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rezepte-blog.eu"
     },
     {
         "link": "https://petrocksliquors.com",
@@ -128,6 +128,16 @@
         "Redirect": "https://tyber.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tyber.net"
+    },
+    {
+        "link": "https://pipedija.com",
+        "Heading": "Pipedija Enciklopedija",
+        "Abstract": null,
+        "Official Site": "https://pipedija.com",
+        "Icon": "https://www.pipedija.com/thumb.php?f=VW-Beetle_Citroen-2CV_Fiat-500_British-Leyland-Mini_masinos.jpg&width=1200",
+        "Redirect": "https://pipedija.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pipedija.com"
     },
     {
         "link": "https://searchcove.com",

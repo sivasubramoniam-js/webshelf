@@ -270,6 +270,16 @@
         "AbstractURL": "https://www.landkreis-celle.de/"
     },
     {
+        "link": "https://harrietbeecherstowecenter.org",
+        "Heading": "Stowe Center for Literary Activism",
+        "Abstract": "Igniting change through DIALOGUE.     COMMON GROUND for COMMON GOOD  2026 stowe prize for literary activism winner: Princess Joy L. Perry   \n\nWe encourage social justice and literary activism by exploring the legacy of Harriet Beecher Stowe and all who advocate hope and freedom then and now. \u2192",
+        "Official Site": "https://stowecenter.org/",
+        "Icon": "https://stowecenter.org/wp-content/uploads/2025/04/SCLA_primary_rev_red_down_left_transparent-1-e1743529895454.png",
+        "Redirect": "https://stowecenter.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stowecenter.org/"
+    },
+    {
         "link": "https://netzarbeit.net",
         "Heading": "Digitalisierung f\u00fcr KMU mit KI - Netzarbeit.NET",
         "Abstract": "Wir helfen Ihnen als kleines Unternehmen oder Handwerksbetrieb die Herausforderung Digitalisierung auch mit KI erfolgreich zu bestehen.",
@@ -301,7 +311,7 @@
     },
     {
         "link": "https://cgbkam.ru",
-        "Heading": "20.161.69.34 31.05.2026 10:54:07",
+        "Heading": "52.159.247.193 01.06.2026 11:05:35",
         "Abstract": null,
         "Official Site": "https://cgbkam.ru",
         "Icon": "data:,",
@@ -328,15 +338,5 @@
         "Redirect": "https://steinbach.com.tw",
         "AbstractSource": "BS4",
         "AbstractURL": "https://steinbach.com.tw"
-    },
-    {
-        "link": "https://reachgroup.in",
-        "Heading": "Reach Group: Premier Real Estate Developer in Gurgaon",
-        "Abstract": "Reach Group a leading real estate developer in Gurgaon, specializing in premium properties. Trusted real estate developer in Gurgaon for top-tier projects",
-        "Official Site": "https://www.reachgroup.in",
-        "Icon": "https://reachgroup.in/images/reach-logo.svg",
-        "Redirect": "https://www.reachgroup.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.reachgroup.in"
     }
 ]

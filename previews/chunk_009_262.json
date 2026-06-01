@@ -60,21 +60,11 @@
         "AbstractURL": "https://tehranconvention.org"
     },
     {
-        "link": "https://go-lisbon-hotels.com",
-        "Heading": "Lisbon hotels & apartments, all accommodations in Lisbon",
-        "Abstract": "Online booking for hotels in Lisbon, Portugal. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://go-lisbon-hotels.com",
-        "Icon": "N/A",
-        "Redirect": "https://go-lisbon-hotels.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://go-lisbon-hotels.com"
-    },
-    {
         "link": "https://yidaigou.com.au",
         "Heading": "\u58f9\u4ee3\u8d2d-\u6fb3\u6d32\u76f4\u90ae\u4ee3\u8d2d\u5e73\u53f0\u5b98\u7f51",
         "Abstract": "\u58f9\u4ee3\u8d2d-\u58a8\u5c14\u672c\u5f53\u5730\u89c4\u6a21\u6700\u5927\u4fdd\u5065\u54c1\u516c\u53f8,\u591a\u5e74\u6765\u4e3b\u8425\u6fb3\u5927\u5229\u4e9a\u5404\u7c7b\u5065\u5eb7\u98df\u54c1\u548c\u4fdd\u5065\u54c1,\u6fb3\u6d32\u5a74\u5e7c\u513f\u53ca\u6210\u4eba\u5976\u7c89\u3001\u6bcd\u5a74\u4ea7\u54c1\u3001\u5404\u7c7b\u65e5\u5316\u54c1\u7b49\u6fb3\u5927\u5229\u4e9a\u4e00\u7ebf\u54c1\u724c\u4ea7\u54c1,\u6fb3\u6d32\u76f4\u90ae\u6b63\u54c1!",
         "Official Site": "https://yidaigou.com.au",
-        "Icon": "/template/wap/default/public/images/favicon.ico",
+        "Icon": "http://www.yidaigou.com.au/upload/logo.jpg",
         "Redirect": "https://yidaigou.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yidaigou.com.au"
@@ -108,16 +98,6 @@
         "Redirect": "https://lpdhgame.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lpdhgame.com"
-    },
-    {
-        "link": "https://casertaweb.com",
-        "Heading": "Ultime Notizie Caserta - Cronaca Caserta e Provincia | Caserta Web",
-        "Abstract": "Segui le ultime notizie relative all'attualit\u00e0, alla cultura e agli spettacoli, guarda i video rilevanti su questo argomento e trova informazioni sul sito Web di Caserta.",
-        "Official Site": "https://casertaweb.com/notizie/",
-        "Icon": "https://casertaweb.com/notizie/wp-content/uploads/2025/02/CasertaWeb2025.jpg",
-        "Redirect": "https://casertaweb.com/notizie/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://casertaweb.com/notizie/"
     },
     {
         "link": "https://chistayasloboda.ru",
@@ -194,7 +174,7 @@
         "Heading": "AXA \u2013 assicurazione e previdenza in Svizzera ",
         "Abstract": "Presso AXA trovate assicurazioni e soluzioni di previdenza per la Svizzera adatte a voi \u2013 quali responsabilit\u00e0 civile o assicurazione auto.\n",
         "Official Site": "https://www.axa.ch/it/clienti-privati.html",
-        "Icon": "https://brandcenter.axa.ch/asset/2a28dffa-268f-4fb5-88a7-449b13c6dfc2/WIDE_1280_480/health_keyvisual_junge_frau_springt2_web.jpg",
+        "Icon": "https://brandcenter.axa.ch/asset/0448e2c8-7edc-4e87-85c3-0968b35565b5/WIDE_1280_480/paar_gluecklich_stadt_spaziergang_web.jpg",
         "Redirect": "https://www.axa.ch/it/clienti-privati.html",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.axa.ch/it/clienti-privati.html"
@@ -228,6 +208,16 @@
         "Redirect": "https://smtanatomi.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://smtanatomi.com/"
+    },
+    {
+        "link": "https://oil4u.ru",
+        "Heading": "Access Denied",
+        "Abstract": null,
+        "Official Site": "https://oil4u.ru",
+        "Icon": "N/A",
+        "Redirect": "https://oil4u.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oil4u.ru"
     },
     {
         "link": "https://forward-center.ru",

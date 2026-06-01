@@ -11,7 +11,7 @@
     },
     {
         "link": "https://nytrngsecure.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://nytrngsecure.com",
         "Icon": "N/A",
@@ -58,16 +58,6 @@
         "Redirect": "https://www.1000grad-epaper.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.1000grad-epaper.de/"
-    },
-    {
-        "link": "https://interiorwork.co.kr",
-        "Heading": "\uba54\uc774\uc800 \ud1a0\ud1a0\uc0ac\uc774\ud2b8 2025\ub144 \uc21c\uc704\uc640 \uc548\uc804\ub180\uc774\ud130 \uc815\ubcf4 | \uba54\uc774\uc800\uc0ac\uc774\ud2b8 \uac80\uc99d",
-        "Abstract": "\uac80\uc99d\ub41c \uba54\uc774\uc800\uc0ac\uc774\ud2b8\uc640 \uc548\uc804\ub180\uc774\ud130 \uc815\ubcf4\ub97c \uc81c\uacf5\ud558\ub294 \ud1a0\ud1a0\uc0ac\uc774\ud2b8 \uc804\ubb38 \ud50c\ub7ab\ud3fc\uc785\ub2c8\ub2e4.",
-        "Official Site": "\ud604\uc7ac_\ud398\uc774\uc9c0_URL",
-        "Icon": "\ub300\ud45c_\uc774\ubbf8\uc9c0_URL",
-        "Redirect": "\ud604\uc7ac_\ud398\uc774\uc9c0_URL",
-        "AbstractSource": "BS4",
-        "AbstractURL": "\ud604\uc7ac_\ud398\uc774\uc9c0_URL"
     },
     {
         "link": "https://onlyseeker.io",
@@ -160,16 +150,6 @@
         "AbstractURL": "https://2468.us"
     },
     {
-        "link": "https://inyarose.com",
-        "Heading": "Inya Rose Official\u00ae Online Sales Site",
-        "Abstract": "Whether you\u2019re exploring solo or enhancing intimate moments with a partner, the Inya Rose Toy is here to deliver the ultimate in self-care and sensual enjoyment. free shipping",
-        "Official Site": "https://www.inyarose.com/",
-        "Icon": "https://www.inyarose.com/wp-content/uploads/2026/02/Spring-sale-7-PC.webp",
-        "Redirect": "https://www.inyarose.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.inyarose.com/"
-    },
-    {
         "link": "https://goalphaeon.com",
         "Heading": "Alphaeon Credit",
         "Abstract": "Need financing for your procedure? Be your best you and pay over time with ALPHAEON.",
@@ -188,6 +168,16 @@
         "Redirect": "https://please.co/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://please.co/"
+    },
+    {
+        "link": "https://real2soft.com",
+        "Heading": "real2soft - Real Estate Software",
+        "Abstract": null,
+        "Official Site": "https://real2soft.com",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://real2soft.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://real2soft.com"
     },
     {
         "link": "https://phoenixusedauto.com",

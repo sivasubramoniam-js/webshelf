@@ -40,21 +40,11 @@
         "AbstractURL": "https://www.goettler-weine.de/"
     },
     {
-        "link": "https://pressgiochi.it",
-        "Heading": "PressGiochi | The new style of gaming information",
-        "Abstract": "PressGiochi.it \u00e8 un quotidiano di informazione online dedicato al settore del gioco pubblico italiano registrato al n.1 presso il Tribunale di Viterbo...",
-        "Official Site": "https://www.pressgiochi.it/",
-        "Icon": "https://www.pressgiochi.it/wp-content/themes/pressgiochi/assets/content/img/logo_press_giochi_icona2.png",
-        "Redirect": "https://www.pressgiochi.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.pressgiochi.it/"
-    },
-    {
         "link": "https://katherinetimes.com.au",
         "Heading": "Katherine news, sport and weather | Katherine Times | Katherine, NT",
         "Abstract": "Katherine Times delivers latest news from Katherine, NT including sport, weather, entertainment and lifestyle.",
         "Official Site": "https://katherinetimes.com.au",
-        "Icon": "/static/1779954356/sites/katherine-times/ico/favicon.ico",
+        "Icon": "/static/1780280150/sites/katherine-times/ico/favicon.ico",
         "Redirect": "https://katherinetimes.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://katherinetimes.com.au"
@@ -108,6 +98,16 @@
         "Redirect": "https://profile-design.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://profile-design.com/"
+    },
+    {
+        "link": "https://zoarah.com",
+        "Heading": "Korea's Leading Online Mobile Accessories Retailer | Zoarah",
+        "Abstract": "Our main aim is to introduce most stylish and durable Korean mobile phone cases and accessories to the customers worldwide. ",
+        "Official Site": "https://zoarah.com",
+        "Icon": "",
+        "Redirect": "https://zoarah.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zoarah.com"
     },
     {
         "link": "https://blobstreaming.org",
@@ -208,16 +208,6 @@
         "Redirect": "https://donau-boote.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://donau-boote.de"
-    },
-    {
-        "link": "https://careereco.com",
-        "Heading": "Virtual Career Fairs and Admissions Events Technology - CareerEco",
-        "Abstract": "We help jobseekers and prospective students connect online with employers and college admissions teams through online virtual events.",
-        "Official Site": "https://events.careereco.com/",
-        "Icon": "https://events.careereco.com/wp-content/uploads/2021/07/home-page-hero-mobile.jpg",
-        "Redirect": "https://events.careereco.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://events.careereco.com/"
     },
     {
         "link": "https://deutschlandsim.de",

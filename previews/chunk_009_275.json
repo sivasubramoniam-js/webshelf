@@ -60,16 +60,6 @@
         "AbstractURL": "https://www.gigglesinfotech.in/"
     },
     {
-        "link": "https://matiassecurity.com",
-        "Heading": "Matias Security | Access Control & Security Specialists",
-        "Abstract": "Secure your business with Matias Security's bespoke solutions. From access control to CCTV, we ensure protection and peace of mind for all industries.",
-        "Official Site": "https://matiassecurity.com/",
-        "Icon": "https://matiassecurity.com/wp-content/uploads/2024/02/matias-security-alarm.jpg",
-        "Redirect": "https://matiassecurity.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://matiassecurity.com/"
-    },
-    {
         "link": "https://gpii.net",
         "Heading": "The Global Public Infrastructure \u2013 Raising The Floor",
         "Abstract": null,
@@ -88,6 +78,16 @@
         "Redirect": "https://862x.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://862x.com"
+    },
+    {
+        "link": "https://deepsouthmag.com",
+        "Heading": "Deep South Magazine - Southern culture & literature",
+        "Abstract": "An online magazine covering Southern culture & literature with in-depth stories, author interviews, book reviews, reading lists and new, original works.",
+        "Official Site": "https://deepsouthmag.com/",
+        "Icon": "N/A",
+        "Redirect": "https://deepsouthmag.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deepsouthmag.com/"
     },
     {
         "link": "https://matijardin.fr",
@@ -118,16 +118,6 @@
         "Redirect": "https://pathmatics.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pathmatics.com"
-    },
-    {
-        "link": "https://masterdata.in",
-        "Heading": "MasterData - Grow Your Business, Generate Leads & Hire Talent",
-        "Abstract": "India's fastest growing business profile platform. Claim your company page, showcase products, post jobs, and generate high-quality B2B leads.",
-        "Official Site": "https://www.masterdata.in/",
-        "Icon": "N/A",
-        "Redirect": "https://www.masterdata.in/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.masterdata.in/"
     },
     {
         "link": "https://podarki.ru",
@@ -180,11 +170,21 @@
         "AbstractURL": "https://hausaerztlichepraxis.digital"
     },
     {
+        "link": "https://studiomega.com.br",
+        "Heading": "Ag\u00eancia de Publicidade Studiomega | Especializada em Marketing Digital, e Publicidade e Propaganda, Ag\u00eancia de Publicidade em Sinop",
+        "Abstract": "Studiomega, Ag\u00eancia de Publicidade em Sinop Especializada em Marketing Digital, Cria\u00e7\u00e3o de Websites, Publicidade e Propaganda,\n15 anos de experi\u00eancia em desenvolvimentos de websites",
+        "Official Site": "https://studiomega.com.br/",
+        "Icon": "https://studiomega.com.br/1.jpg",
+        "Redirect": "https://studiomega.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://studiomega.com.br/"
+    },
+    {
         "link": "https://eoapps.co.kr",
         "Heading": "\n        \uc571\uac1c\ubc1c\uae30\uc5c5 \uc774\uc624\uc571\uc2a4(eoapps)    ",
         "Abstract": "\ubaa8\ubc14\uc77c \uc571(iOS\u00b7Android)\u00b7\uc6f9 \uc11c\ube44\uc2a4 \uac1c\ubc1c, \uae30\ud68d\ubd80\ud130 \uc720\uc9c0\uad00\ub9ac\uae4c\uc9c0 \uc804 \uacfc\uc815 \uc218\ud589. \uae30\uc5c5\u00b7\uae30\uad00 \ud504\ub85c\uc81d\ud2b8 \ubc0f ERP\u00b7PG\u00b7POS \uc5f0\ub3d9 \uac1c\ubc1c \uacbd\ud5d8.",
         "Official Site": "https://www.eoapps.co.kr",
-        "Icon": "https://www.eoapps.co.kr/theme/eoapps/images/img.jpg?v=1780214952",
+        "Icon": "https://www.eoapps.co.kr/theme/eoapps/images/img.jpg?v=1780302139",
         "Redirect": "https://www.eoapps.co.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.eoapps.co.kr"

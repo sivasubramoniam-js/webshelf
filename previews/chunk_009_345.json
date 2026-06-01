@@ -32,9 +32,9 @@
     {
         "link": "https://89z77.com",
         "Heading": null,
-        "Abstract": "Oferece uma variedade de maneiras de jogar, junte-se a n\u00f3s e torne-se o pr\u00f3ximo milion\u00e1rio.",
+        "Abstract": "\ud83c\udfb0 Entre no 89Z! \ud83c\udf89\n\ud83d\udcb0 Login di\u00e1rio e ganhe at\u00e9 R$899!! \ud83d\udcb8\n\ud83d\udd04 Mais pr\u00eamios amanh\u00e3! \ud83c\udf81\n\ud83d\udc47 Clique e ganhe! \ud83d\udc46",
         "Official Site": "89z77.com",
-        "Icon": "https://upload-us.f-1-g-h.com/s3/1778986370591/89Z.png",
+        "Icon": "https://upload-us.f-1-g-h.com/s3/1780282599512/89Z.png",
         "Redirect": "89z77.com",
         "AbstractSource": "BS4",
         "AbstractURL": "89z77.com"
@@ -98,6 +98,16 @@
         "Redirect": "https://mdfoodbank.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mdfoodbank.org/"
+    },
+    {
+        "link": "https://metabolismofcities.org",
+        "Heading": "\n  \n    \n  \n  \n  Metabolism of Cities\n  \n  ",
+        "Abstract": null,
+        "Official Site": "https://metabolismofcities.org",
+        "Icon": "/static/img/favicon/favicon.png",
+        "Redirect": "https://metabolismofcities.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://metabolismofcities.org"
     },
     {
         "link": "https://tinynama.com",
@@ -184,7 +194,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://azlife.kr",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
         "Redirect": "https://azlife.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://azlife.kr"

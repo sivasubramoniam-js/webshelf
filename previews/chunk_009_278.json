@@ -170,16 +170,6 @@
         "AbstractURL": "https://toun.ru/"
     },
     {
-        "link": "https://ummat-e-nabi.com",
-        "Heading": "Home \u00bb Ummate Nabi \ufdfa",
-        "Abstract": "Quran Hadees, Islamic Quiz Post Collection in Roman Urdu, Hindi, English",
-        "Official Site": "https://ummat-e-nabi.com/",
-        "Icon": "https://i0.wp.com/ummat-e-nabi.com/wp-content/uploads/2026/05/uen-feature-image.webp",
-        "Redirect": "https://ummat-e-nabi.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ummat-e-nabi.com/"
-    },
-    {
         "link": "https://therisktolerance.com",
         "Heading": "Investing and Stock News - The Risk Tolerance",
         "Abstract": "TheRiskTolerance Podcast TheRiskTolerance Podcast empowers investors with the insight, strategies, and confidence needed to navigate the challenges of today\u2019s unpredictable and rapidly evolving economic landscape. Dow Jones slips 300 points\u2026",
@@ -290,11 +280,21 @@
         "AbstractURL": "https://developerscourt.com/"
     },
     {
+        "link": "https://fiestasanantonio.org",
+        "Heading": "Fiesta\u00ae San Antonio Home",
+        "Abstract": "The Official Fiesta\u00ae San Antonio home page and website. Find the events calendar, schedule, parade tickets & your favorite Fiesta\u00ae events!",
+        "Official Site": "https://fiestasanantonio.org/",
+        "Icon": "https://fiestasanantonio.org/wp-content/uploads/2026/04/IMG_6191-1-683x1024.jpg",
+        "Redirect": "https://fiestasanantonio.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fiestasanantonio.org/"
+    },
+    {
         "link": "https://aog-usfoods.com",
         "Heading": "Sign in to your account",
         "Abstract": null,
         "Official Site": "https://aog-usfoods.com",
-        "Icon": "https://aadcdn.msauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
+        "Icon": "https://aadcdn.msftauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
         "Redirect": "https://aog-usfoods.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aog-usfoods.com"
@@ -308,16 +308,6 @@
         "Redirect": "https://cagetheelephant.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cagetheelephant.com"
-    },
-    {
-        "link": "https://globaliws.com",
-        "Heading": "\u0627\u0644\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 - Global for Integrated Web Services | \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0648\u064a\u0628 \u0627\u0644\u0645\u062a\u0643\u0627\u0645\u0644\u0629",
-        "Abstract": "\u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0648\u064a\u0628 \u0627\u0644\u0645\u062a\u0643\u0627\u0645\u0644\u0629  | \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u0645\u0648\u0627\u0642\u0639 | \u0631\u064a\u0633\u064a\u0644\u0631\u0627\u062a | \u0633\u064a\u0631\u0641\u0631\u0627\u062a \u0644\u064a\u0646\u0643\u0633 | \u0633\u064a\u0631\u0641\u0631\u0627\u062a \u0648\u064a\u0646\u062f\u0648\u0632 | \u062a\u0635\u0645\u064a\u0645 ",
-        "Official Site": "https://globaliws.com",
-        "Icon": "https://www.globaliws.com/favicon.ico",
-        "Redirect": "https://globaliws.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://globaliws.com"
     },
     {
         "link": "https://rivieraschools.com",
