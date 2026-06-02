@@ -101,7 +101,7 @@
     },
     {
         "link": "https://arghome.ru",
-        "Heading": "52.159.247.193 01.06.2026 08:51:39",
+        "Heading": "145.132.101.183 02.06.2026 08:50:15",
         "Abstract": null,
         "Official Site": "https://arghome.ru",
         "Icon": "data:,",
@@ -160,6 +160,16 @@
         "AbstractURL": "https://www.thegoldenstatecafe.com//"
     },
     {
+        "link": "https://inserrh.com",
+        "Heading": "Gestion des ressources humaines - Logiciels Inser RH",
+        "Abstract": "INSER Inser RH logiciels de gestion des ressources humaines, sp\u00e9cialis\u00e9 sur les logiciels formation, entretiens, comp\u00e9tences et recrutement.",
+        "Official Site": "https://www.inserrh.com/",
+        "Icon": "https://www.inserrh.com/wp-content/uploads/2025/09/references-clients-inser.jpg",
+        "Redirect": "https://www.inserrh.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.inserrh.com/"
+    },
+    {
         "link": "https://lvdive.com",
         "Heading": "\u0412\u0430\u0432\u0430\u0434\u0430 \u043a\u0430\u0437\u0438\u043d\u043e \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d - \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0421\u0430\u0439\u0442 Vavada",
         "Abstract": "\u0412\u0430\u0432\u0430\u0434\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043e\u043d\u043b\u0430\u0439\u043d \u043a\u0430\u0437\u0438\u043d\u043e \u0432 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0435 | \u0412\u0430\u0432\u0430\u0434\u0430 \u0437\u0435\u0440\u043a\u0430\u043b\u043e | \u042d\u043a\u0441\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u044b\u0435 \u0431\u043e\u043d\u0443\u0441\u044b \u0437\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044e \u043e\u0442 Vavada \u043a\u0430\u0437\u0438\u043d\u043e",
@@ -208,16 +218,6 @@
         "Redirect": "https://dridriss.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dridriss.com/"
-    },
-    {
-        "link": "https://pearlsofportugal.com",
-        "Heading": "Real Estate in Portugal - All you need to know",
-        "Abstract": "Buyer's Agent Service for renting and buying, attractive real estate listings, and all the services you need to invest in Portugal",
-        "Official Site": "https://www.pearlsofportugal.com/",
-        "Icon": "https://www.pearlsofportugal.com/wp-content/uploads/2024/08/Services-Banner-1.webp",
-        "Redirect": "https://www.pearlsofportugal.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.pearlsofportugal.com/"
     },
     {
         "link": "https://ygroup.ru",
@@ -320,13 +320,13 @@
         "AbstractURL": "https://apkorcb.com"
     },
     {
-        "link": "https://veloprofs.lv",
-        "Heading": "Velosip\u0113di, serviss un aksesu\u0101ri | Veloprofs.lv \u2013 Tavs velo eksperts",
-        "Abstract": "Atrodi savu perfekto velosip\u0113du Veloprofs.lv! Pla\u0161s \u0161osejas, MTB, gravel un b\u0113rnu velosip\u0113du kl\u0101sts, profesion\u0101la apkope un aksesu\u0101ri. Sa\u0146em konsult\u0101ciju pie nozares ekspertiem jau \u0161odien!",
-        "Official Site": "https://veloprofs.lv/lv/",
-        "Icon": "https://veloprofs.lv/img/veloprofslv-logo-1674040451.jpg",
-        "Redirect": "https://veloprofs.lv/lv/",
+        "link": "https://kallimachos.de",
+        "Heading": "Kallimachos",
+        "Abstract": null,
+        "Official Site": "https://kallimachos.de",
+        "Icon": "N/A",
+        "Redirect": "https://kallimachos.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://veloprofs.lv/lv/"
+        "AbstractURL": "https://kallimachos.de"
     }
 ]

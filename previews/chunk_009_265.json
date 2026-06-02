@@ -101,13 +101,13 @@
     },
     {
         "link": "https://apkhere.com",
-        "Heading": "Discovery the Best Android Apps - ApkHere Market - ApkHere.com - Mobile",
-        "Abstract": "Discovery the Best Android Apps - ApkHere Market - ApkHere.com - Mobile",
-        "Official Site": "https://m.apkbe.com/",
-        "Icon": "https://u.apkbe.com/img/logo.jpg?v=9",
-        "Redirect": "https://m.apkbe.com/",
+        "Heading": "Discovery the Best Android Apps - ApkHere Market - ApkHere.com",
+        "Abstract": "Discovery the Best Android Apps - ApkHere Market - ApkHere.com",
+        "Official Site": "https://www.apkbe.com/",
+        "Icon": "https://u.apkbe.com/images/logo.jpg?v=9",
+        "Redirect": "https://www.apkbe.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://m.apkbe.com/"
+        "AbstractURL": "https://www.apkbe.com/"
     },
     {
         "link": "https://ultrasoundtrainers.com",
@@ -238,6 +238,16 @@
         "Redirect": "https://codeforce.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://codeforce.nl"
+    },
+    {
+        "link": "https://parlakboya.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://parlakboya.net",
+        "Icon": "N/A",
+        "Redirect": "https://parlakboya.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://parlakboya.net"
     },
     {
         "link": "https://duclarion.com",

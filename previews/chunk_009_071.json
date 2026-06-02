@@ -64,7 +64,7 @@
         "Heading": "AXA \u2013 Versicherung & Vorsorge in der Schweiz ",
         "Abstract": "Bei der AXA finden Sie Ihre passende Versicherung & Vorsorge f\u00fcr die Schweiz, ob Haftpflicht, Hausrat oder Autoversicherung.",
         "Official Site": "https://www.axa.ch/de/privatkunden.html",
-        "Icon": "https://brandcenter.axa.ch/asset/2a28dffa-268f-4fb5-88a7-449b13c6dfc2/WIDE_1280_480/health_keyvisual_junge_frau_springt2_web.jpg",
+        "Icon": "https://brandcenter.axa.ch/asset/0448e2c8-7edc-4e87-85c3-0968b35565b5/WIDE_1280_480/paar_gluecklich_stadt_spaziergang_web.jpg",
         "Redirect": "https://www.axa.ch/de/privatkunden.html",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.axa.ch/de/privatkunden.html"
@@ -84,7 +84,7 @@
         "Heading": "Alpha ITS GmbH \u2013 IT-Systemhaus f\u00fcr den Mittelstand",
         "Abstract": "Managed Workplace, Mail, VoIP, Infrastruktur, Security und Backup \u2013 herstellerneutral, mit festen Ansprechpartnern. Sitz Hasselroth, Onsite-Schwerpunkte Rhein-Main und Rheinland/Niederrhein, bundesweit remote.",
         "Official Site": "https://alpha-its.de/",
-        "Icon": "/favicon.svg",
+        "Icon": "https://alpha-its.de/og.png",
         "Redirect": "https://alpha-its.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alpha-its.de/"
@@ -104,7 +104,7 @@
         "Heading": "Excelerate Energy | Leader in Integrated LNG Solutions",
         "Abstract": "Excelerate Energy's integrated LNG solutions improve the quality of life in the communities we serve by providing clean, reliable, and affordable energy.",
         "Official Site": "https://excelerateenergy.com/",
-        "Icon": "https://excelerateenergy.com/wp-content/themes/excelerate-energy/assets/imgs/favicon/favicon.ico?06/1/26-03:57:59",
+        "Icon": "https://excelerateenergy.com/wp-content/themes/excelerate-energy/assets/imgs/favicon/favicon.ico?06/2/26-04:09:55",
         "Redirect": "https://excelerateenergy.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://excelerateenergy.com/"
@@ -318,16 +318,6 @@
         "Redirect": "https://www.bonu.hu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bonu.hu/"
-    },
-    {
-        "link": "https://booksofbrilliance.com",
-        "Heading": "Books of Brilliance - The latest book reviews and book news",
-        "Abstract": "The latest book reviews and book news",
-        "Official Site": "https://booksofbrilliance.com/",
-        "Icon": "https://i0.wp.com/booksofbrilliance.com/wp-content/uploads/2020/07/wp-1594177627599.jpg?fit=32%2C32&ssl=1",
-        "Redirect": "https://booksofbrilliance.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://booksofbrilliance.com/"
     },
     {
         "link": "https://brunobertez.com",

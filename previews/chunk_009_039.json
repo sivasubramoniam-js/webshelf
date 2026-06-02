@@ -30,14 +30,24 @@
         "AbstractURL": "https://china-reducers.com/"
     },
     {
-        "link": "https://nextechar.com",
-        "Heading": "Nextech3D.ai | AI & Blockchain Event Software & Team Building",
-        "Abstract": "AI & blockchain event software for ticketing, registration, matchmaking, and team building. Secure, scalable solutions trusted by global brands.",
-        "Official Site": "https://www.nextechar.com",
-        "Icon": "https://www.nextechar.com/hubfs/Logos/1200x630mini.webp",
-        "Redirect": "https://www.nextechar.com",
+        "link": "https://zscr.cz",
+        "Heading": "Zem\u011bd\u011blsk\u00fd svaz \u010cR",
+        "Abstract": "Zem\u011bd\u011blsk\u00fd svaz je sdru\u017een\u00ed zem\u011bd\u011blsk\u00fdch spole\u010dnost\u00ed, zem\u011bd\u011blsk\u00fdch a odbytov\u00fdch dru\u017estev, zem\u011bd\u011blc\u016f a dal\u0161\u00edch podnikatel\u016f, jejich\u017e podnik\u00e1n\u00ed je zam\u011b\u0159eno na ... ",
+        "Official Site": "https://zscr.cz",
+        "Icon": "https://www.zscr.cz/media/images/loga/ctyrlistek_png.png",
+        "Redirect": "https://zscr.cz",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.nextechar.com"
+        "AbstractURL": "https://zscr.cz"
+    },
+    {
+        "link": "https://palafoxbullterriers.com",
+        "Heading": "Criadero de Bull Terrier en el Estado de M\u00e9xico - Palafox",
+        "Abstract": "Criadero de Bull Terrier en el Estado de M\u00e9xico, especializado en cr\u00eda selectiva y bienestar, con calidad y gen\u00e9tica excepcional.",
+        "Official Site": "https://www.palafoxbullterriers.com/",
+        "Icon": "https://www.palafoxbullterriers.com/wp-content/uploads/2024/12/home-1.jpg",
+        "Redirect": "https://www.palafoxbullterriers.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.palafoxbullterriers.com/"
     },
     {
         "link": "https://mt-washington.com",
@@ -200,6 +210,16 @@
         "AbstractURL": "https://bestbuychronicle.com"
     },
     {
+        "link": "https://idelneftemash.ru",
+        "Heading": "\u0418\u0434\u0435\u043b\u044c \u041d\u0435\u0444\u0442\u0435\u043c\u0430\u0448",
+        "Abstract": "\u00ab\u0418\u0434\u0435\u043b\u044c \u041d\u0435\u0444\u0442\u0435\u043c\u0430\u0448\u00bb \u2013 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0435, \u0438\u043c\u0435\u044e\u0449\u0435\u0435 \u0432 \u0441\u0432\u043e\u0435\u043c \u0430\u0440\u0441\u0435\u043d\u0430\u043b\u0435 \u0431\u043e\u0433\u0430\u0442\u044b\u0439 \u043e\u043f\u044b\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430, \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0435 \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435, \u043a\u0432\u0430\u043b\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u043a\u0430\u0434\u0440\u044b",
+        "Official Site": "https://idelneftemash.ru",
+        "Icon": "/favicons/favicon-32x32.png?v=2",
+        "Redirect": "https://idelneftemash.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://idelneftemash.ru"
+    },
+    {
         "link": "https://it-rwo.eu",
         "Heading": "IT-Solutions Robin Wolff | High-Performance Infrastructure",
         "Abstract": "Next-Gen IT-Services, KVM-Hosting und Business-Solutions von Robin Wolff.",
@@ -218,5 +238,15 @@
         "Redirect": "https://r4d.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://r4d.org/"
+    },
+    {
+        "link": "https://aalock.com",
+        "Heading": "\n    \n    Commercial & Industrial, Home Security and Locksmith Services in Menlo Park, San Jose, Oakland, San Francisco CA and the entire Bay Area - A-A Lock & Alarm Inc\n  \n  ",
+        "Abstract": "A-A Lock & Alarm Inc. provides reliable security services for homes and businesses in Menlo Park, San Jose, Oakland, San Francisco, and the entire Bay Area. Call us for top-notch locksmith and alarm solutions.",
+        "Official Site": "https://www.aalock.com/",
+        "Icon": "https://lirp.cdn-website.com/74674c81/dms3rep/multi/opt/GettyImages-1075472978-1920w.jpg",
+        "Redirect": "https://www.aalock.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.aalock.com/"
     }
 ]

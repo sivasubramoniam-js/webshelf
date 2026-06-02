@@ -130,6 +130,16 @@
         "AbstractURL": "https://www.skinsimpletrue.com/"
     },
     {
+        "link": "https://willysmjeeps.com",
+        "Heading": "willysmjeeps.com - Index page",
+        "Abstract": null,
+        "Official Site": "https://willysmjeeps.com",
+        "Icon": "N/A",
+        "Redirect": "https://willysmjeeps.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://willysmjeeps.com"
+    },
+    {
         "link": "https://tiede.fi",
         "Heading": "Tiede | HS.fi",
         "Abstract": "Lue Helsingin Sanomien tuoreimmat uutiset ja puheenaiheet tieteest\u00e4. T\u00e4\u00e4lt\u00e4 l\u00f6yd\u00e4t my\u00f6s tiedemaailman uusimmat ilmi\u00f6t ja lasten tiedekysymykset.",
@@ -298,5 +308,15 @@
         "Redirect": "https://lascolinas.properties/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lascolinas.properties/"
+    },
+    {
+        "link": "https://meark.org",
+        "Heading": "Meark - Business Solutions & Technology Consulting",
+        "Abstract": "Meark is a multi-service business solutions and technology consulting company delivering digital transformation, HR services, and custom software development.",
+        "Official Site": "https://meark.org",
+        "Icon": "https://storage.googleapis.com/gpt-engineer-file-uploads/GIZfxvzwCoYz8L38mtP1qDhm2GF3/social-images/social-1773206101022-Meark_Logo_(5).webp",
+        "Redirect": "https://meark.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://meark.org"
     }
 ]

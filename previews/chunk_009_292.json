@@ -73,11 +73,21 @@
         "link": "https://poivy.com",
         "Heading": "poivY",
         "Abstract": "Free phone calls with poivY. Call your online friends for free as well as a special selection of popular international destinations. Refer a friend and get free minutes!",
-        "Official Site": "https://www.poivy.com/dashboard",
-        "Icon": "https://www.poivy.com/public/assets/images/favicon.ico",
-        "Redirect": "https://www.poivy.com/dashboard",
+        "Official Site": "https://www.poivy.com/login",
+        "Icon": "N/A",
+        "Redirect": "https://www.poivy.com/login",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.poivy.com/dashboard"
+        "AbstractURL": "https://www.poivy.com/login"
+    },
+    {
+        "link": "https://telepesquisa.com",
+        "Heading": "Telepesquisa - Sua Compra Come\u00e7a Aqui",
+        "Abstract": "Encontre empresas, produtos, servi\u00e7os e ofertas perto de voc\u00ea! Pensou em comprar ou em economizar? A telepesquisa vai te ajudar!",
+        "Official Site": "https://telepesquisa.com",
+        "Icon": "https://telepesquisa.com/v2/img/favicon.png",
+        "Redirect": "https://telepesquisa.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://telepesquisa.com"
     },
     {
         "link": "https://realestate-istra.com",
@@ -278,6 +288,16 @@
         "Redirect": "https://peer-stream.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://peer-stream.com"
+    },
+    {
+        "link": "https://apso.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://apso.ru",
+        "Icon": "N/A",
+        "Redirect": "https://apso.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://apso.ru"
     },
     {
         "link": "https://sofarsolar.com",

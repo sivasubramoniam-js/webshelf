@@ -91,8 +91,8 @@
     },
     {
         "link": "https://assessment.com",
-        "Heading": "Assessment.com - Home of the MAPP Assessment - Assessment.com",
-        "Abstract": "Assessment.com: Home of the MAPP\u00ae Career Assessment, a marketplace of powerful assessments, and an AI-driven platform with tools and assistants to turn insights into action.",
+        "Heading": "Assessment.com, Home of the Famous MAPP\u2122 Career Assessment & AI Assessment Platform",
+        "Abstract": "Take the world-known MAPP\u2122 Career Assessment, used in 165 countries, and use AI assistants and tools to interact with your results, explore careers, education paths, and jobs.",
         "Official Site": "https://assessment.com",
         "Icon": "https://cdn.prod.website-files.com/699888b857f4fdcde26ece61/699888b857f4fdcde26ecf0e_feviconx32.png",
         "Redirect": "https://assessment.com",
@@ -148,16 +148,6 @@
         "Redirect": "https://undesigned.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://undesigned.ro"
-    },
-    {
-        "link": "https://myweekendplan.asia",
-        "Heading": "My Weekend Plan | Ultimate Guide To Where To Go, Eat, Things To Do In Asia",
-        "Abstract": "We are media platform that share ideas on food, things to do in Malaysia and help people to discover product based on their requirements.",
-        "Official Site": "https://myweekendplan.asia/",
-        "Icon": "https://myweekendplan.asia/wp-content/uploads/2023/09/mwp-favicon.png",
-        "Redirect": "https://myweekendplan.asia/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://myweekendplan.asia/"
     },
     {
         "link": "https://soli-business.com",
@@ -228,5 +218,15 @@
         "Redirect": "https://www.linde-engineering.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.linde-engineering.com/"
+    },
+    {
+        "link": "https://pcerror-fix.com",
+        "Heading": "PC Error Fix - Get Best Solutions To Your Windows Problems",
+        "Abstract": "Pcerrorfix.com helps you to resolve Windows 10 & 11 related errors, PC performance & gaming problems, security, registry & DLL issues in a simple step by step guides & tips.",
+        "Official Site": "https://www.pcerror-fix.com/",
+        "Icon": "https://www.pcerror-fix.com/wp-content/uploads/2020/02/cropped-dark-favicon-32x32.png",
+        "Redirect": "https://www.pcerror-fix.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pcerror-fix.com/"
     }
 ]

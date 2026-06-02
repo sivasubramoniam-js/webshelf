@@ -40,6 +40,16 @@
         "AbstractURL": "https://www.patikaradar.hu/"
     },
     {
+        "link": "https://patronatopormayor.cl",
+        "Heading": "\ud83d\udc4c Venta por mayor de Ropa y Accesorios. Despachamos a regiones",
+        "Abstract": "Ropa de mujer, Hombre, Ni\u00f1os, Calzado, Bisuter\u00eda, Belleza, Perfumes. Ventas: 02 2595 0896 Ejecutivos en L\u00ednea cons\u00faltenos atraves del Chat.",
+        "Official Site": "https://patronatopormayor.cl",
+        "Icon": "/templates/plantonavidad/favicon.ico",
+        "Redirect": "https://patronatopormayor.cl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://patronatopormayor.cl"
+    },
+    {
         "link": "https://persikas.com",
         "Heading": "Persikas.com mitybos planas",
         "Abstract": "Viskas apie liekn\u0117jim\u0105, sveik\u0105 mityb\u0105. K\u0105 ir kada valgyti. Mitybos psichologij\u0105 ir ne tik.",
@@ -100,14 +110,24 @@
         "AbstractURL": "ph53ll7.com"
     },
     {
+        "link": "https://ph53pp5.com",
+        "Heading": null,
+        "Abstract": "PH53.COM \u2014 Experience top-tier VIP service.\nGet \u20b1350 for every friend you invite!\nFollow our official channel for nonstop daily rewards!",
+        "Official Site": "ph53pp5.com",
+        "Icon": "upload-buckets/s1/1759650498522/ph53-2.jpg",
+        "Redirect": "ph53pp5.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "ph53pp5.com"
+    },
+    {
         "link": "https://ph53rr6.com",
         "Heading": null,
         "Abstract": "PH53.COM \u2014 Experience top-tier VIP service.\nGet \u20b1350 for every friend you invite!\nFollow our official channel for nonstop daily rewards!",
-        "Official Site": "ph53rr6.com",
+        "Official Site": "ph53rr6.com:2083",
         "Icon": "upload-buckets/s1/1759650498522/ph53-2.jpg",
-        "Redirect": "ph53rr6.com",
+        "Redirect": "ph53rr6.com:2083",
         "AbstractSource": "BS4",
-        "AbstractURL": "ph53rr6.com"
+        "AbstractURL": "ph53rr6.com:2083"
     },
     {
         "link": "https://ph53uu8.com",
@@ -123,11 +143,11 @@
         "link": "https://ph53ww3.com",
         "Heading": null,
         "Abstract": "PH53.COM \u2014 Experience top-tier VIP service.\nGet \u20b1350 for every friend you invite!\nFollow our official channel for nonstop daily rewards!",
-        "Official Site": "ph53ww3.com",
+        "Official Site": "ph53ww3.com:2083",
         "Icon": "upload-buckets/s1/1759650498522/ph53-2.jpg",
-        "Redirect": "ph53ww3.com",
+        "Redirect": "ph53ww3.com:2083",
         "AbstractSource": "BS4",
-        "AbstractURL": "ph53ww3.com"
+        "AbstractURL": "ph53ww3.com:2083"
     },
     {
         "link": "https://playbike.ro",
@@ -374,7 +394,7 @@
         "Heading": "\u0160vihadla, kter\u00e1 t\u011b dostanou do formy - \u0160vihej",
         "Abstract": "\u0160vihadla vyv\u00edj\u00edme my, brat\u0159i a profesion\u00e1ln\u00ed sportovci. Chce\u0161 na sob\u011b za\u010d\u00edt makat, ale nev\u00ed\u0161 jak na to? Nevad\u00ed. Uk\u00e1\u017eeme ti, jak na to!",
         "Official Site": "https://www.svihej.cz/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.svihej.cz/user/front_images/ogImage/hp.jpg?t=1780288847",
+        "Icon": "https://cdn.myshoptet.com/usr/www.svihej.cz/user/front_images/ogImage/hp.jpg?t=1780374781",
         "Redirect": "https://www.svihej.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.svihej.cz/"

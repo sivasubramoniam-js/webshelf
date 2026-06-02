@@ -190,6 +190,16 @@
         "AbstractURL": "https://mirrormatic.co.uk"
     },
     {
+        "link": "https://modelersforum.com",
+        "Heading": "The Modeler's Forum",
+        "Abstract": "The Modeler's Forum",
+        "Official Site": "https://modelersforum.com",
+        "Icon": "N/A",
+        "Redirect": "https://modelersforum.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://modelersforum.com"
+    },
+    {
         "link": "https://momostr.pink",
         "Heading": null,
         "Abstract": null,
@@ -228,6 +238,16 @@
         "Redirect": "https://www.moonstoystore.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.moonstoystore.com/"
+    },
+    {
+        "link": "https://motokuur.ee",
+        "Heading": "Motokuur.ee - Mootorratta ja masinaehituse foorum",
+        "Abstract": null,
+        "Official Site": "https://motokuur.ee",
+        "Icon": "N/A",
+        "Redirect": "https://motokuur.ee",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://motokuur.ee"
     },
     {
         "link": "https://mr-scandinave.fr",

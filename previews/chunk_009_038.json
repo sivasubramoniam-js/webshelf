@@ -3,11 +3,11 @@
         "link": "https://dhlestore.com",
         "Heading": "\u0412\u0410\u0412\u0410\u0414\u0410 \u041a\u0430\u0437\u0438\u043d\u043e \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0421\u0430\u0439\u0442 - VAVADA \u0432\u0445\u043e\u0434 \u043d\u0430 \u0440\u0430\u0431\u043e\u0447\u0435\u0435 \u0437\u0435\u0440\u043a\u0430\u043b\u043e",
         "Abstract": "\u0417\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0443\u0439\u0442\u0435\u0441\u044c \u0432 Vavada. \u0412\u044b\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u044b \u0438\u0437 5000+ \u0438 \u0441\u043b\u0435\u0434\u0438\u0442\u0435 \u0437\u0430 \u043d\u043e\u0432\u0438\u043d\u043a\u0430\u043c\u0438 \u043e\u0442 40+ \u043f\u0440\u043e\u0432\u0430\u0439\u0434\u0435\u0440\u043e\u0432. \u0423\u0447\u0430\u0441\u0442\u0432\u0443\u0439\u0442\u0435 \u0432 \u0442\u0443\u0440\u043d\u0438\u0440\u0430\u0445 \u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0435 \u043b\u043e\u044f\u043b\u044c\u043d\u043e\u0441\u0442\u0438. \u0421\u0442\u0430\u0432\u044c\u0442\u0435 \u043d\u0430 \u0441\u043f\u043e\u0440\u0442!",
-        "Official Site": "https://vavadacasinorussia.shop",
+        "Official Site": "https://extrablatt-online.net",
         "Icon": "logo.svg",
-        "Redirect": "https://vavadacasinorussia.shop",
+        "Redirect": "https://extrablatt-online.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vavadacasinorussia.shop"
+        "AbstractURL": "https://extrablatt-online.net"
     },
     {
         "link": "https://radwimps.jp",
@@ -54,7 +54,7 @@
         "Heading": "HiFiHut.ie | Hi-Fi & Home Cinema | Shop Online & Dublin Showroom",
         "Abstract": "Specialist hi-fi, home cinema and audio. Shop online with delivery across Ireland and the EU, or book a demo at our Dublin showroom. Stocking Sonos, Sennheiser, Klipsch, DALI, Rega, Denon, Marantz and more.",
         "Official Site": "https://www.hifihut.ie/",
-        "Icon": "https://www.hifihut.ie/cdn/shop/files/HiFiHut-Logo-Full-RGB-White-Green_1200x675.png?v=1779978686",
+        "Icon": "https://cdn.shopify.com/s/files/1/0278/4696/7399/files/HiFiHut-Logo-Full-RGB-White-Green_1200x675.png?v=1779978686",
         "Redirect": "https://www.hifihut.ie/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hifihut.ie/"
@@ -168,6 +168,16 @@
         "Redirect": "https://www.rto.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.rto.de"
+    },
+    {
+        "link": "https://malawi.gov.mw",
+        "Heading": "Malawi Government Information and Services - Home",
+        "Abstract": "Guide to Malawi Government Information and Services",
+        "Official Site": "https://malawi.gov.mw/",
+        "Icon": "/templates/shaper_educon/images/favicon.ico",
+        "Redirect": "https://malawi.gov.mw/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://malawi.gov.mw/"
     },
     {
         "link": "https://hostzy.live",
@@ -328,16 +338,6 @@
         "Redirect": "https://www.homework.ru/uslugi/kursovye-na-zakaz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.homework.ru/uslugi/kursovye-na-zakaz/"
-    },
-    {
-        "link": "https://cor-retraites.fr",
-        "Heading": "Cor Retraites",
-        "Abstract": "Cor Retraites",
-        "Official Site": "https://cor-retraites.fr",
-        "Icon": "/themes/custom/cortheme/favicon.ico",
-        "Redirect": "https://cor-retraites.fr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cor-retraites.fr"
     },
     {
         "link": "https://xpxs9.cc",

@@ -60,6 +60,16 @@
         "AbstractURL": "https://www.etixxsports.com/nl-be"
     },
     {
+        "link": "https://rndnet.net",
+        "Heading": "RnDnet | \u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u043e\u0432",
+        "Abstract": null,
+        "Official Site": "https://rndnet.net",
+        "Icon": "N/A",
+        "Redirect": "https://rndnet.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rndnet.net"
+    },
+    {
         "link": "https://flauditor.gov",
         "Heading": "Florida Auditor General",
         "Abstract": "The Florida Auditor General, Sherrill F. Norman, CPA.",
@@ -182,7 +192,7 @@
     {
         "link": "https://rw2828.com",
         "Heading": "rw2828.com\u00a0-\u00a0rw2828 Resources and Information.",
-        "Abstract": "rw2828.com is your first and best source for information about rw2828. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Abstract": "rw2828.com is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, rw2828.com has it all. We hope you find what you are searching for!",
         "Official Site": "https://rw2828.com",
         "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
         "Redirect": "https://rw2828.com",
@@ -278,6 +288,16 @@
         "Redirect": "https://maxwire.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://maxwire.net"
+    },
+    {
+        "link": "https://sebraestartups.com.br",
+        "Heading": "Sebrae Startups",
+        "Abstract": "Apoio pra startups em todos os momentos, desafios e lugares.",
+        "Official Site": "https://sebrae.com.br/subsites/sebrae-startups",
+        "Icon": "https://sebrae.scene7.com/is/image/sebrae/banner-destaque-01-17:opengraph?bfc=webp&fmt=png-alpha",
+        "Redirect": "https://sebrae.com.br/subsites/sebrae-startups",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sebrae.com.br/subsites/sebrae-startups"
     },
     {
         "link": "https://rossensor.ru",

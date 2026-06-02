@@ -80,6 +80,16 @@
         "AbstractURL": "https://blog.sqldbm.com/"
     },
     {
+        "link": "https://iamx.eu",
+        "Heading": "Iamx.eu",
+        "Abstract": "Home",
+        "Official Site": "https://iamx.eu",
+        "Icon": "N/A",
+        "Redirect": "https://iamx.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iamx.eu"
+    },
+    {
         "link": "https://etre-belle.su",
         "Heading": "\u041e \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438",
         "Abstract": null,
@@ -114,7 +124,7 @@
         "Heading": "Globe Investor - The Globe and Mail",
         "Abstract": "Globe Investor offers the most current and up-to-date information on stocks and markets from The Globe and Mail. Find personal finance, mortgage, investment ideas, market information, and stock pick news and analysis from Canada and the world.",
         "Official Site": "https://www.theglobeandmail.com/investing/",
-        "Icon": "https://www.theglobeandmail.com/pf/resources/assets/meta/favicon-32x32.png?d=912",
+        "Icon": "https://www.theglobeandmail.com/pf/resources/assets/meta/favicon-32x32.png?d=913",
         "Redirect": "https://www.theglobeandmail.com/investing/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.theglobeandmail.com/investing/"
@@ -248,6 +258,16 @@
         "Redirect": "https://gulfnews.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gulfnews.com/"
+    },
+    {
+        "link": "https://webactueel.nl",
+        "Heading": "Home | 12+ jaar ervaring | Webactueel [BEKIJK]",
+        "Abstract": "Home - Online groeien? Bewezen #1 online marketing bureau van Nederland. PLAN NU EEN GRATIS ADVIESGESPREK!",
+        "Official Site": "https://webactueel.nl/",
+        "Icon": "https://webactueel.nl/wp-content/uploads/2023/11/emerce.png",
+        "Redirect": "https://webactueel.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://webactueel.nl/"
     },
     {
         "link": "https://hjv.dk",

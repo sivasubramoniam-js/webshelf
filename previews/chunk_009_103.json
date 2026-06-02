@@ -60,16 +60,6 @@
         "AbstractURL": "https://www.crossclub.cz/"
     },
     {
-        "link": "https://rfc-nwfa.ru",
-        "Heading": "\u0427\u0430\u0441\u0442\u043e\u0442\u0430 \u0443\u0441\u043f\u0435\u0445\u0430 - \u0421\u0430\u0439\u0442 \u0434\u043b\u044f \u0442\u0435\u0445, \u043a\u0442\u043e \u0441\u0442\u0440\u0435\u043c\u0438\u0442\u0441\u044f \u043a \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u043e\u043c\u0443 \u0440\u043e\u0441\u0442\u0443 \u0438 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044e \u0441\u0432\u043e\u0435\u0433\u043e \u0434\u0435\u043b\u0430 \u0441 \u0443\u0447\u0435\u0442\u043e\u043c \u0432\u0441\u0435\u0445 \u0430\u0441\u043f\u0435\u043a\u0442\u043e\u0432 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0438\u043d\u0442\u0435\u0433\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0432 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u044b.",
-        "Abstract": "\u0421\u0430\u0439\u0442 \u0434\u043b\u044f \u0442\u0435\u0445, \u043a\u0442\u043e \u0441\u0442\u0440\u0435\u043c\u0438\u0442\u0441\u044f \u043a \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u043e\u043c\u0443 \u0440\u043e\u0441\u0442\u0443 \u0438 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044e \u0441\u0432\u043e\u0435\u0433\u043e \u0434\u0435\u043b\u0430 \u0441 \u0443\u0447\u0435\u0442\u043e\u043c \u0432\u0441\u0435\u0445 \u0430\u0441\u043f\u0435\u043a\u0442\u043e\u0432 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0438\u043d\u0442\u0435\u0433\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0432 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u044b.",
-        "Official Site": "http://rfc-nwfa.ru/",
-        "Icon": "https://rfc-nwfa.ru/wp-content/uploads/2024/05/f05d62dacd-150x150.png",
-        "Redirect": "http://rfc-nwfa.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://rfc-nwfa.ru/"
-    },
-    {
         "link": "https://vincent-immersiv.de",
         "Heading": "Vincent: Zwischen Wahn und Wunder - Van Gogh Immersiv",
         "Abstract": "Immerse yourself in the magnificent masterpieces of Dutch painter Vincent van Gogh and the beauty of his colours in this immersive experience.",
@@ -198,6 +188,16 @@
         "Redirect": "https://www.prospektde.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.prospektde.com/"
+    },
+    {
+        "link": "https://matrixx.com",
+        "Heading": "Home | MATRIXX Software",
+        "Abstract": "MATRIXX Dynamic Billing is the only monetization platform that enables CSPs to overcome the limitations of traditional billing systems, delivering increased agility and a foundation for cost-efficient and seamless digital transformation.",
+        "Official Site": "https://www.matrixx.com/",
+        "Icon": "https://www.matrixx.com/wp-content/uploads/2026/01/Feature-1200x628@2x-100-scaled.jpg",
+        "Redirect": "https://www.matrixx.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.matrixx.com/"
     },
     {
         "link": "https://myuniquestyle.nl",

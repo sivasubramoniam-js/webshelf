@@ -44,7 +44,7 @@
         "Heading": "\n        Asset World Corporation    ",
         "Abstract": "Asset World Corporation",
         "Official Site": "https://www.assetworldcorp-th.com/intro-page",
-        "Icon": "https://www.assetworldcorp-th.com/glide/assets/images/default/opengraph.jpg?h=350&fit=max&fm=jpg&t=1780287004",
+        "Icon": "https://www.assetworldcorp-th.com/glide/assets/images/default/opengraph.jpg?h=350&fit=max&fm=jpg&t=1780373041",
         "Redirect": "https://www.assetworldcorp-th.com/intro-page",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.assetworldcorp-th.com/intro-page"
@@ -178,6 +178,16 @@
         "Redirect": "https://www.fisco7.it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.fisco7.it/"
+    },
+    {
+        "link": "https://kalptaruhotel.com",
+        "Heading": "Kalptaru Hotel",
+        "Abstract": null,
+        "Official Site": "https://kalptaruhotel.com",
+        "Icon": "https://kalptaruhotel.com/wp-content/uploads/2023/05/cropped-kalptaruhotel.png",
+        "Redirect": "https://kalptaruhotel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kalptaruhotel.com"
     },
     {
         "link": "https://abbacentrumalicante.com",

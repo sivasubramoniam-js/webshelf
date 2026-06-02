@@ -50,6 +50,16 @@
         "AbstractURL": "https://leapwork.com/"
     },
     {
+        "link": "https://mellenpress.com",
+        "Heading": "Academic Publishing @ The Edwin Mellen Press",
+        "Abstract": "Welcome to academic publisher, The Edwin Mellen Press. We publish academic and scholarly works worldwide. We are accepting new authors so contact us to publish your next academic book.",
+        "Official Site": "https://mellenpress.com",
+        "Icon": "N/A",
+        "Redirect": "https://mellenpress.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mellenpress.com"
+    },
+    {
         "link": "https://ruaviation.com",
         "Heading": "Russian Aviation. Daily news, articles, photo of Russian Aviation and airline industry - RUAVIATION.COM",
         "Abstract": "Daily news, articles, photo of Russian Aviation and airline industry",
@@ -308,6 +318,16 @@
         "Redirect": "https://lawnsolutionsaustralia.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lawnsolutionsaustralia.com.au/"
+    },
+    {
+        "link": "https://camelotgroup.ca",
+        "Heading": "Camelot",
+        "Abstract": null,
+        "Official Site": "https://camelotgroup.ca",
+        "Icon": "https://camelotgroup.ca/wp-content/uploads/2021/07/favicon.png",
+        "Redirect": "https://camelotgroup.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://camelotgroup.ca"
     },
     {
         "link": "https://fontsplugin.com",

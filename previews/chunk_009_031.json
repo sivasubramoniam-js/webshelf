@@ -10,16 +10,6 @@
         "AbstractURL": "https://tischscientific.com"
     },
     {
-        "link": "https://tshirtgrill.com",
-        "Heading": "A huge range of themed and slogan t-shirts from TShirtGrill",
-        "Abstract": "A great selection of unique slogan t-shirts as well as themed hoodies for men and women here at TShirtGrill. We offer FREE returns too!",
-        "Official Site": "https://tshirtgrill.com",
-        "Icon": "/favicon-192x192.png",
-        "Redirect": "https://tshirtgrill.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tshirtgrill.com"
-    },
-    {
         "link": "https://tsig.gr",
         "Heading": "Tsig! \u039f \u03c4\u03c3\u03b9\u03b3\u03b3\u03bf\u03cd\u03bd\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5",
         "Abstract": "Tsig! O \u03a4\u03c3\u03b9\u03b3\u03b3\u03bf\u03cd\u03bd\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5. \u03a3\u03c5\u03b3\u03ba\u03c1\u03b9\u03c4\u03b9\u03ba\u03bf\u03af \u03c0\u03af\u03bd\u03b1\u03ba\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ad\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ad\u03c2, \u03b5\u03c0\u03b9\u03c4\u03cc\u03ba\u03b9\u03b1 \u03c0\u03c1\u03bf\u03b8\u03b5\u03c3\u03bc\u03b9\u03b1\u03ba\u03ce\u03bd \u03ba\u03b1\u03c4\u03b1\u03b8\u03ad\u03c3\u03b5\u03c9\u03bd, \u03c3\u03c4\u03b5\u03b3\u03b1\u03c3\u03c4\u03b9\u03ba\u03ce\u03bd \u03ba\u03b1\u03b9 \u03ba\u03b1\u03c4\u03b1\u03bd\u03b1\u03bb\u03c9\u03c4\u03b9\u03ba\u03ce\u03bd \u03b4\u03b1\u03bd\u03b5\u03af\u03c9\u03bd, \u03c4\u03b1\u03bc\u03b9\u03b5\u03c5\u03c4\u03b7\u03c1\u03af\u03bf\u03c5, \u03bc\u03b9\u03c3\u03b8\u03bf\u03b4\u03bf\u03c3\u03af\u03b1\u03c2. \u03a3\u03cd\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03c4\u03b9\u03bc\u03ce\u03bd \u03ba\u03b1\u03c1\u03c4\u03bf\u03ba\u03b9\u03bd\u03b7\u03c4\u03ce\u03bd, ADSL \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bb\u03b5\u03c6\u03c9\u03bd\u03af\u03b1\u03c2.",
@@ -53,11 +43,11 @@
         "link": "https://upffront.com",
         "Heading": "Sailing Equipment and Rigging  l Upffront",
         "Abstract": "Upffront is a leading online distributor in sail boat hardware and rigging systems. We work hard unifying manufacturer data to find the right product for you.",
-        "Official Site": "https://www.upffront.com/-1",
+        "Official Site": "https://www.upffront.com/",
         "Icon": "https://www.upffront.com/web/image/2008/greta%20darker%20.jpg",
-        "Redirect": "https://www.upffront.com/-1",
+        "Redirect": "https://www.upffront.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.upffront.com/-1"
+        "AbstractURL": "https://www.upffront.com/"
     },
     {
         "link": "https://vepub.com",
@@ -78,6 +68,16 @@
         "Redirect": "https://videowired.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://videowired.com"
+    },
+    {
+        "link": "https://vrarwiki.com",
+        "Heading": "VR & AR Wiki - Virtual Reality & Augmented Reality Wiki",
+        "Abstract": null,
+        "Official Site": "https://vrarwiki.com",
+        "Icon": "N/A",
+        "Redirect": "https://vrarwiki.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vrarwiki.com"
     },
     {
         "link": "https://vsgg.com",
@@ -122,7 +122,7 @@
     {
         "link": "https://wflowpipe.xyz",
         "Heading": "wflowpipe.xyz\u00a0-\u00a0wflowpipe Resources and Information.",
-        "Abstract": "wflowpipe.xyz is your first and best source for information about wflowpipe. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Abstract": "wflowpipe.xyz is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, wflowpipe.xyz has it all. We hope you find what you are searching for!",
         "Official Site": "https://wflowpipe.xyz",
         "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
         "Redirect": "https://wflowpipe.xyz",

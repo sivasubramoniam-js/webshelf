@@ -50,16 +50,6 @@
         "AbstractURL": "https://safekorea.go.kr"
     },
     {
-        "link": "https://expertshop.kz",
-        "Heading": "\u0411\u043e\u043a\u0441 \u0432 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0435 \u2013 \u0412\u0441\u0451 \u043e \u043b\u044e\u0431\u0438\u043c\u043e\u043c \u0432\u0438\u0434\u0435 \u0441\u043f\u043e\u0440\u0442\u0430",
-        "Abstract": "\u0418\u043d\u0442\u0435\u0440\u0435\u0441\u0443\u0435\u0442\u0435\u0441\u044c \u0431\u043e\u043a\u0441\u043e\u043c \u0432 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0435? \u0423\u0437\u043d\u0430\u0439\u0442\u0435 \u0432\u0441\u0451 \u043e \u043b\u0443\u0447\u0448\u0438\u0445 \u0431\u043e\u0439\u0446\u0430\u0445, \u0442\u0443\u0440\u043d\u0438\u0440\u0430\u0445 \u0438 \u043d\u043e\u0432\u043e\u0441\u0442\u044f\u0445 \u043c\u0438\u0440\u0430 \u0431\u043e\u043a\u0441\u0430! \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0442\u0435\u0441\u044c \u043a \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0443 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0445 \u0444\u0430\u043d\u0430\u0442\u043e\u0432!",
-        "Official Site": "https://expertshop.kz/",
-        "Icon": "https://expertshop.kz/wp-content/uploads/2025/05/cropped-zhezmedia.kz-\u0444\u0430\u0432\u0438\u043a\u043e\u043d-32x32.webp",
-        "Redirect": "https://expertshop.kz/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://expertshop.kz/"
-    },
-    {
         "link": "https://late.com.pl",
         "Heading": "Late Service",
         "Abstract": "Late Service - nag\u0142o\u015bnienie, o\u015bwietlenie, multimedia",
@@ -78,6 +68,16 @@
         "Redirect": "https://spinster.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://spinster.xyz"
+    },
+    {
+        "link": "https://mikroteatret.no",
+        "Heading": "Det Norske Mikroteatret",
+        "Abstract": "Vi inviterer deg til en helt annen intimitet enn man kan skape p\u00e5 en ordin\u00e6r teaterscene. Du trer inn i det faktiske milj\u00f8 hvor handlingen i stykket foreg\u00e5r, sitter sv\u00e6rt tett p\u00e5 akt\u00f8rene, i en form som ligger tettere p\u00e5 filmens uttrykk enn p\u00e5 teatrets, hvilket gir deg en opplevelse av at du har sneket deg inn et sted du ikke skulle v\u00e6rt og overv\u00e6rer noe du egentlig ikke skulle ha sett...",
+        "Official Site": "https://mikroteatret.no/",
+        "Icon": "https://mikroteatret.no/images/topimages/_opengraph/mikroteateret.jpg",
+        "Redirect": "https://mikroteatret.no/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mikroteatret.no/"
     },
     {
         "link": "https://kgs-rastede.eu",
@@ -118,6 +118,16 @@
         "Redirect": "https://jurnaldidaktika.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jurnaldidaktika.org"
+    },
+    {
+        "link": "https://seniorcare2share.com",
+        "Heading": "Seniorcare2share - Care about seniors? Have knowledge? Care to share?",
+        "Abstract": "Care about seniors? Have knowledge? Care to share?",
+        "Official Site": "https://www.seniorcare2share.com/",
+        "Icon": "https://www.seniorcare2share.com/wp-content/uploads/2020/06/sc-150x150.ico",
+        "Redirect": "https://www.seniorcare2share.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.seniorcare2share.com/"
     },
     {
         "link": "https://knowherecomics.com",

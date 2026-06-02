@@ -20,6 +20,16 @@
         "AbstractURL": "https://www.meridianbanker.com/"
     },
     {
+        "link": "https://mdsolution.at",
+        "Heading": "MDsolution Shop",
+        "Abstract": null,
+        "Official Site": "https://shop.mdsolution.at",
+        "Icon": "https://shop.mdsolution.at/wp-content/uploads/2024/04/cropped-MD-Logo-Black@2x-32x32.png",
+        "Redirect": "https://shop.mdsolution.at",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shop.mdsolution.at"
+    },
+    {
         "link": "https://swpat.org",
         "Heading": "ESP Wiki - The Software Patents Wiki",
         "Abstract": null,
@@ -50,14 +60,14 @@
         "AbstractURL": "https://www.territorisostenibili.it/"
     },
     {
-        "link": "https://cougar-life.net",
-        "Heading": "Luxury and High End Matchmaking Services | Professional Matchmakers Near Me",
-        "Abstract": "High-end, luxury matchmaking service by Introductions Inc. Book a free consultation with a professional matchmaker near you.",
-        "Official Site": "https://www.introductionsinc.com/",
-        "Icon": "https://www.introductionsinc.com/wp-content/uploads/2023/12/Iinc_Button-trans.png",
-        "Redirect": "https://www.introductionsinc.com/",
+        "link": "https://cljlaw.com",
+        "Heading": "HOME | CLJLaw",
+        "Abstract": "Malaysia's leading legal information provider. Follow us FB:@current.lawjournal Twitter:@CLJMalaysia",
+        "Official Site": "https://www.cljlaw.com/?page=home",
+        "Icon": "https://www.cljlaw.com/images/clj-malaysia-logo.svg",
+        "Redirect": "https://www.cljlaw.com/?page=home",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.introductionsinc.com/"
+        "AbstractURL": "https://www.cljlaw.com/?page=home"
     },
     {
         "link": "https://domain-bd.com",
@@ -111,13 +121,13 @@
     },
     {
         "link": "https://acnemedsrx.com",
-        "Heading": "Retin-a gel | Acne Treatment",
-        "Abstract": "# I almost quit after Day 3 of Retin-A: The real messy truth about clearing my acne with prescription gel Okay, look at me in the mirror and admit it: your ski\u2026",
-        "Official Site": "retin-a-gel.html",
+        "Heading": "Espironolactona | Acne Treatment",
+        "Abstract": "It\u2019s been about six months since I finally stopped picking at my jawline and started actually treating it, and honestly? I thought Spironolactone would be magi\u2026",
+        "Official Site": "espironolactona.html",
         "Icon": "assets/images/og-cover.jpg",
-        "Redirect": "retin-a-gel.html",
+        "Redirect": "espironolactona.html",
         "AbstractSource": "BS4",
-        "AbstractURL": "retin-a-gel.html"
+        "AbstractURL": "espironolactona.html"
     },
     {
         "link": "https://wannatalkaboutit.com",
@@ -198,6 +208,26 @@
         "Redirect": "https://textmine.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://textmine.com"
+    },
+    {
+        "link": "https://webofthings.org",
+        "Heading": "Web of Things \u2013 Architecting the Web of Things, for techies and thinkers!",
+        "Abstract": null,
+        "Official Site": "https://webofthings.org",
+        "Icon": "https://webofthings.org/wp-content/uploads/2015/04/cropped-1961900-150x150.jpg",
+        "Redirect": "https://webofthings.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://webofthings.org"
+    },
+    {
+        "link": "https://currieenterprises.com",
+        "Heading": "Currie Enterprises",
+        "Abstract": "Currie Enterprises is a premier manufacturer of high-performance direct replacement, and custom muscle car, and truck rearend axle assemblies.",
+        "Official Site": "https://currieenterprises.com",
+        "Icon": "/icons/icons_0/Currie-Favicon-ICO.ico",
+        "Redirect": "https://currieenterprises.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://currieenterprises.com"
     },
     {
         "link": "https://lvmserver.ca",

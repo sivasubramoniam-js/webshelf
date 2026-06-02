@@ -81,13 +81,13 @@
     },
     {
         "link": "https://bankapay.ru",
-        "Heading": "\u0412\u044b \u043d\u0435 \u0440\u043e\u0431\u043e\u0442?",
-        "Abstract": "\u041d\u0430\u0439\u0434\u0451\u0442\u0441\u044f \u0432\u0441\u0451",
-        "Official Site": "https://bankapay.ru",
-        "Icon": "https://yastatic.net/s3/home-static/_/37/37a02b5dc7a51abac55d8a5b6c865f0e.png",
-        "Redirect": "https://bankapay.ru",
+        "Heading": "\u041f\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u0438\u0433\u0440\u043e\u0432\u044b\u0445 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u043e\u0432, \u043e\u043f\u043b\u0430\u0442\u0430 \u0437\u0430\u0440\u0443\u0431\u0435\u0436\u043d\u044b\u0445 \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432 \u0438 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0435 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u044b | BANKA PAY",
+        "Abstract": "\u041f\u043e\u043f\u043e\u043b\u043d\u044f\u0439\u0442\u0435 PUBG Mobile, Steam, Valorant \u0438 20+ \u0438\u0433\u0440. \u041f\u0435\u0440\u0435\u0432\u043e\u0434\u044b \u0432 \u0422\u0443\u0440\u0446\u0438\u044e, \u041e\u0410\u042d, \u041a\u0438\u0442\u0430\u0439 \u0438 17 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u0442\u0440\u0430\u043d. \u041e\u043f\u043b\u0430\u0442\u0430 \u0447\u0435\u0440\u0435\u0437 \u0421\u0411\u041f \u0437\u0430 5-15 \u043c\u0438\u043d\u0443\u0442.",
+        "Official Site": "https://bankapay.ru/",
+        "Icon": "https://bankapay.ru/assets/og-image.jpg",
+        "Redirect": "https://bankapay.ru/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bankapay.ru"
+        "AbstractURL": "https://bankapay.ru/"
     },
     {
         "link": "https://aromajoes.com",
@@ -138,6 +138,16 @@
         "Redirect": "https://autotecfid.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://autotecfid.com"
+    },
+    {
+        "link": "https://shokan.edu.kz",
+        "Heading": "\n        \n        \u0411\u0430\u0441\u0442\u044b \u0431\u0435\u0442\n        \n        \n        \n        - Ualikhanov University\n        \n    ",
+        "Abstract": "\u041a\u043e\u043a\u0448\u0435\u0442\u0430\u0443\u0441\u043a\u0438\u0439 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u043c\u0435\u043d\u0438 \u0428\u043e\u043a\u0430\u043d\u0430 \u0423\u0430\u043b\u0438\u0445\u0430\u043d\u043e\u0432\u0430, Kokshetau Shoqan Ualikhanov University, \u0428\u043e\u049b\u0430\u043d \u0423\u0430\u043b\u0438\u0445\u0430\u043d\u043e\u0432 \u0430\u0442\u044b\u043d\u0434\u0430\u0493\u044b \u041a\u04e9\u043a\u0448\u0435\u0442\u0430\u0443 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0456",
+        "Official Site": "http://shokan.edu.kz/",
+        "Icon": "https://shokan.edu.kz/media/uploads/socialmediacontent/social-card.jpg",
+        "Redirect": "http://shokan.edu.kz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://shokan.edu.kz/"
     },
     {
         "link": "https://350z-uk.com",

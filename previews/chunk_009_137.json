@@ -50,6 +50,16 @@
         "AbstractURL": "https://www.kaetsunou.co.jp/"
     },
     {
+        "link": "https://ukpollingreport.co.uk",
+        "Heading": "UK Polling Report | UK Election Polls, Seat Projections & Political Analysis",
+        "Abstract": "Independent UK polling analysis, election projections, voting trends and political insight. Live seat models, polling data and analysis of British politics.",
+        "Official Site": "https://pollingreport.uk/",
+        "Icon": "https://images.pollingreport.uk/captures/scheduled/og/projection-png.png",
+        "Redirect": "https://pollingreport.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pollingreport.uk/"
+    },
+    {
         "link": "https://b24site.online",
         "Heading": "Bitrix24 - Free online workspace for your business: CRM, tasks, online meetings, and more.",
         "Abstract": "An all-in-one free platform to manage your team and run your sales, Bitrix24 is designed to be seamlessly integrated into all your business processes and help you manage them with the highest precision and efficiency.",
@@ -238,6 +248,16 @@
         "Redirect": "https://metgis.com/de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://metgis.com/de/"
+    },
+    {
+        "link": "https://kluzistestrizkov.cz",
+        "Heading": "Kluzi\u0161t\u011b St\u0159\u00ed\u017ekov - Kluzi\u0161t\u011b St\u0159\u00ed\u017ekov",
+        "Abstract": null,
+        "Official Site": "https://kluzistestrizkov.cz/",
+        "Icon": "https://kluzistestrizkov.cz/wp-content/uploads/2022/12/Bez-nazvu-19_Kreslici-platno-1.png",
+        "Redirect": "https://kluzistestrizkov.cz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kluzistestrizkov.cz/"
     },
     {
         "link": "https://deremilitari.org",

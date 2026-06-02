@@ -74,7 +74,7 @@
         "Heading": "Noticias y Radio Online | W Deportes",
         "Abstract": "Noticias de \u00faltima hora y en espa\u00f1ol sobre la actualidad  deportiva. Audio las 24 horas . Adem\u00e1s v\u00eddeos, fotos, audios, gr\u00e1ficos, foros, blogs, chats, entrevistas y encuestas de opini\u00f3n con wdeportes.com.",
         "Official Site": "https://wdeportes.com",
-        "Icon": "/pf/resources/wdeportes/favicon.ico?d=262&mxId=00000000",
+        "Icon": "/pf/resources/wdeportes/favicon.ico?d=263&mxId=00000000",
         "Redirect": "https://wdeportes.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wdeportes.com"
@@ -142,7 +142,7 @@
     {
         "link": "https://rock4k.co",
         "Heading": "rock4k.co\u00a0-\u00a0rock4k Resources and Information.",
-        "Abstract": "rock4k.co is your first and best source for information about rock4k. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Abstract": "rock4k.co is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, rock4k.co has it all. We hope you find what you are searching for!",
         "Official Site": "https://rock4k.co",
         "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
         "Redirect": "https://rock4k.co",
@@ -158,6 +158,16 @@
         "Redirect": "https://treasuryclassicsart.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://treasuryclassicsart.com"
+    },
+    {
+        "link": "https://vopreco.ru",
+        "Heading": "\u0412\u043e\u043f\u0440\u043e\u0441\u044b \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438",
+        "Abstract": "\u041d\u0430\u0443\u0447\u043d\u044b\u0439 \u0440\u0435\u0446\u0435\u043d\u0437\u0438\u0440\u0443\u0435\u043c\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b",
+        "Official Site": "https://www.vopreco.ru/jour",
+        "Icon": "https://www.vopreco.ru/public/journals/1/homeHeaderTitleImage_ru_RU.jpg",
+        "Redirect": "https://www.vopreco.ru/jour",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.vopreco.ru/jour"
     },
     {
         "link": "https://waterprice.ru",
@@ -178,6 +188,16 @@
         "Redirect": "https://forumbilder.se/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://forumbilder.se/"
+    },
+    {
+        "link": "https://evloop.io",
+        "Heading": "Loop Global | EV Charging Solutions for a Sustainable Future",
+        "Abstract": "Discover Loop Global's innovative EV charging infrastructure designed for homes, businesses, and cities. Future-proof your property with smart, scalable solutions.",
+        "Official Site": "https://loopglobal.com/",
+        "Icon": "https://i0.wp.com/loopglobal.com/wp-content/uploads/2025/07/cropped-Image-removebg-preview.png?fit=32%2C32&ssl=1",
+        "Redirect": "https://loopglobal.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://loopglobal.com/"
     },
     {
         "link": "https://tvrinews.com",
@@ -278,6 +298,16 @@
         "Redirect": "https://555jj77.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://555jj77.com"
+    },
+    {
+        "link": "https://abysswiki.org",
+        "Heading": "Abyss Roblox Wiki",
+        "Abstract": "The Abyss OFFICIAL Wiki for Roblox. Venture into the silent blue. Your guide to Codes, Races, Classes, Artifacts, and the Depths.",
+        "Official Site": "https://abysswiki.org/wiki/Abyss_Wiki",
+        "Icon": "https://static.wikitide.net/deepspiritwiki/2/25/Abyss_wordmark%2C_trimmed.png",
+        "Redirect": "https://abysswiki.org/wiki/Abyss_Wiki",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://abysswiki.org/wiki/Abyss_Wiki"
     },
     {
         "link": "https://ausmodshop.com",

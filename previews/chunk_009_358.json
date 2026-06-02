@@ -10,14 +10,24 @@
         "AbstractURL": "https://gettysburgconnection.org/"
     },
     {
-        "link": "https://thomasjfudges.com",
-        "Heading": "Thomas Fudge's: Crafting Remarkable Biscuits Since 1916 - FBC UK",
-        "Abstract": "Crafted with over a century of British baking expertise, Thomas Fudge's premium biscuits feature exquisite textures and moreish flavors for a truly remarkable snacking experience.",
-        "Official Site": "https://thomasjfudges.com",
-        "Icon": "/themes/fbc/favicon/favicon.svg",
-        "Redirect": "https://thomasjfudges.com",
+        "link": "https://gregegan.net",
+        "Heading": "Greg Egan\u2019s Home Page",
+        "Abstract": "Official web site of the science fiction writer Greg Egan",
+        "Official Site": "https://gregegan.net",
+        "Icon": "images/egan.ico",
+        "Redirect": "https://gregegan.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thomasjfudges.com"
+        "AbstractURL": "https://gregegan.net"
+    },
+    {
+        "link": "https://jusjumpin.com",
+        "Heading": "Discover the Best Trampoline Park at Jus Jumpin",
+        "Abstract": "Experience gravity-defying fun at jus jumpin! Trampoline parks, foam pits, dodgeball & birthday parties for kids, teens & adults. Safe, high-energy adventures await!",
+        "Official Site": "https://www.jusjumpin.com/",
+        "Icon": "https://www.jusjumpin.com/wp-content/uploads/2025/12/favicon.png",
+        "Redirect": "https://www.jusjumpin.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.jusjumpin.com/"
     },
     {
         "link": "https://canadiannewstoday.com",
@@ -80,6 +90,16 @@
         "AbstractURL": "https://mfgday.com/"
     },
     {
+        "link": "https://jeevaraksha.org",
+        "Heading": "JeevaRaksha - Saving Lives, Assuring Care | Emergency Care Training India",
+        "Abstract": "Emergency care training made in India, for India. Equipping healthcare professionals and communities with life-saving skills.",
+        "Official Site": "https://jeevaraksha.org",
+        "Icon": "/favicon.png",
+        "Redirect": "https://jeevaraksha.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jeevaraksha.org"
+    },
+    {
         "link": "https://maritimeaquarium.org",
         "Heading": "Maritime Aquarium | Norwalk, CT Aquarium",
         "Abstract": "Come experience the sea at Maritime Aquarium! Take a deep dive into science, learning about our ecosystem, the many animals within it, and the steps we take to conserve and protect it. Plan your visit today!",
@@ -92,12 +112,22 @@
     {
         "link": "https://proxyfable.cloud",
         "Heading": "proxyfable.cloud\u00a0-\u00a0proxyfable Resources and Information.",
-        "Abstract": "proxyfable.cloud is your first and best source for information about proxyfable. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Abstract": "proxyfable.cloud is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, proxyfable.cloud has it all. We hope you find what you are searching for!",
         "Official Site": "https://proxyfable.cloud",
         "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
         "Redirect": "https://proxyfable.cloud",
         "AbstractSource": "BS4",
         "AbstractURL": "https://proxyfable.cloud"
+    },
+    {
+        "link": "https://leadworld.agency",
+        "Heading": "Lead World Agency \u2013 Let us tell the world about you ",
+        "Abstract": null,
+        "Official Site": "https://leadworld.agency",
+        "Icon": "img/lead-world-agency-logo.jpg",
+        "Redirect": "https://leadworld.agency",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://leadworld.agency"
     },
     {
         "link": "https://autosein-online.fi",
@@ -148,6 +178,26 @@
         "Redirect": "https://mvl.edu.ar/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mvl.edu.ar/"
+    },
+    {
+        "link": "https://xposetv.live",
+        "Heading": "\ud83c\uddee\ud83c\udde9 XPOSE TV \ud83c\uddee\ud83c\udde9 - MEDIA NASIONAL ARAH BARU & TERPERCAYA",
+        "Abstract": "MEDIA NASIONAL ARAH BARU & TERPERCAYA",
+        "Official Site": "https://xposetv.live/",
+        "Icon": "https://xposetv.live/wp-content/uploads/2023/11/FB_IMG_1696210851608.jpg",
+        "Redirect": "https://xposetv.live/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xposetv.live/"
+    },
+    {
+        "link": "https://drmukeshbarala.com",
+        "Heading": "Dr. Mukesh Barala Physiotherapy Center | Best Physiotherapist in Jaipur",
+        "Abstract": "Expert physiotherapy care in Jaipur by Dr. Mukesh Barala (BPT, MPT Orthopaedics). Advanced rehabilitation, pain management, and orthopaedic physiotherapy.",
+        "Official Site": "https://drmukeshbarala.com/",
+        "Icon": "./assets/img/fav icon.png",
+        "Redirect": "https://drmukeshbarala.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://drmukeshbarala.com/"
     },
     {
         "link": "https://millerhub.net",

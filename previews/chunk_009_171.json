@@ -211,13 +211,23 @@
     },
     {
         "link": "https://dmarcmanager.app",
-        "Heading": "GEO statement",
-        "Abstract": "As a Dutch company, we are committed to conducting business in regions that meet our standards of integrity and protection. Currently, we have chosen not to operate in the United States and Canada\u2026",
-        "Official Site": "https://dmarcmanager.app/geo-statement/",
-        "Icon": "https://dmarcmanager.app/wp-content/uploads/2024/04/DMARC-Manager-Inline-100px.png",
-        "Redirect": "https://dmarcmanager.app/geo-statement/",
+        "Heading": "DMARC Manager - Here to help you reach your DMARC-goals",
+        "Abstract": "Stop wasting time and avoid costly DMARC implementation errors. How does the DMARC Manager do that? With the most groundbreaking features on the market! Identify email problems and implement necessary\u2026",
+        "Official Site": "https://dmarcmanager.app/",
+        "Icon": "https://dmarcmanager.app/wp-content/uploads/2024/09/dmarc-manager-reporting-featured.webp",
+        "Redirect": "https://dmarcmanager.app/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dmarcmanager.app/geo-statement/"
+        "AbstractURL": "https://dmarcmanager.app/"
+    },
+    {
+        "link": "https://balinkbayan.gov.ph",
+        "Heading": "Home | BaLinkBayan",
+        "Abstract": "BaLinkBayan: the Overseas Filipinos' One-Stop Online Portal for Diaspora Engagement",
+        "Official Site": "https://balinkbayan.gov.ph",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://balinkbayan.gov.ph",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://balinkbayan.gov.ph"
     },
     {
         "link": "https://syntara.net",
@@ -240,16 +250,6 @@
         "AbstractURL": "https://votingrightslab.org/"
     },
     {
-        "link": "https://veoride.com",
-        "Heading": "Veo | We All Ride | Veo Micromobility",
-        "Abstract": "Share the ride with Veo Something for everyone Something for everyone How it works iOS Google Search Find your nearest ride on the map in the Veo app.\u00a0 Scan Unlock your ride by scanning the QR code on the vehicle.\u00a0 Explore Beat the traffic and explore your community on two wheels. Park End your ride [\u2026]",
-        "Official Site": "https://www.veoride.com/",
-        "Icon": "https://www.veoride.com/wp-content/uploads/2025/01/veo-featured-imaged-1-scaled.jpg",
-        "Redirect": "https://www.veoride.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.veoride.com/"
-    },
-    {
         "link": "https://nwchampions.com",
         "Heading": "Champions Real Estate Everett Edmonds Federal Way Arlington Seattle Bellevue",
         "Abstract": "Champions Real Estate - Find homes for sale and commercial real estate in the Everett,  Lynnwood, Edmonds, Seattle, Bellevue, Marysville areas.",
@@ -261,8 +261,8 @@
     },
     {
         "link": "https://hkcmforum.com",
-        "Heading": "Football Manager , Championship Manager , \u8db3\u7403\u7d93\u7406 , Football Manager 2012 -  Powered by Discuz!",
-        "Abstract": "Football Manager \u8db3\u7403\u7d93\u7406\u6700\u65b0\u7248FM2012\u8a0e\u8ad6\uff0c\u4e0b\u8f09\uff0c\u6230\u8853\uff0c\u9663\u578b , FM\u6709\u95dc\u7684\u8cc7\u6e90\u4e0b\u8f09\uff0c\u5305\u62ec\u6700\u65b0\u7684 FM skins\u3001\u8cc7\u6599\u66f4\u65b0\u3001\u5de5\u5177\u3001\u53ca\u5176\u4ed6\u5404\u5f0f\u5404\u6a23\u7684\u88dc\u4e01\u4e0b\u8f09 ",
+        "Heading": "Football Manager , Championship Manager , \u8db3\u7403\u7d93\u7406 , Football Manager 2012 -  \u624b\u6a5f\u7248 - Powered by Discuz!",
+        "Abstract": "Football Manager \u8db3\u7403\u7d93\u7406\u6700\u65b0\u7248FM2012\u8a0e\u8ad6\uff0c\u4e0b\u8f09\uff0c\u6230\u8853\uff0c\u9663\u578b , FM\u6709\u95dc\u7684\u8cc7\u6e90\u4e0b\u8f09\uff0c\u5305\u62ec\u6700\u65b0\u7684 FM skins\u3001\u8cc7\u6599\u66f4\u65b0\u3001\u5de5\u5177\u3001\u53ca\u5176\u4ed6\u5404\u5f0f\u5404\u6a23\u7684\u88dc\u4e01\u4e0b\u8f09 ,Football Manager &amp;amp;amp;amp;amp; Championship Manager, HKCM Forum \u9999\u6e2fFM &amp;amp;amp;amp;amp; CM\u5b98\u65b9\u7403\u8ff7\u7db2\u8a0e\u8ad6\u5340",
         "Official Site": "https://hkcmforum.com",
         "Icon": "N/A",
         "Redirect": "https://hkcmforum.com",

@@ -93,11 +93,11 @@
         "link": "https://literarky.cz",
         "Heading": "Home - Liter\u00e1rn\u00ed noviny",
         "Abstract": "Liter\u00e1rn\u00ed noviny | m\u011bs\u00ed\u010dn\u00edk pro kritick\u00e9 my\u0161len\u00ed. Liter\u00e1rn\u00ed noviny vych\u00e1z\u00ed posledn\u00ed \u010dtvrtek v m\u011bs\u00edci.",
-        "Official Site": "https://www.literarky.cz/index.php?p=noveknihy",
-        "Icon": "https://www.literarky.cz/images/Jiri_slitr.jpeg",
-        "Redirect": "https://www.literarky.cz/index.php?p=noveknihy",
+        "Official Site": "https://literarky.cz/",
+        "Icon": "https://literarky.cz/images/Jiri_slitr.jpeg",
+        "Redirect": "https://literarky.cz/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.literarky.cz/index.php?p=noveknihy"
+        "AbstractURL": "https://literarky.cz/"
     },
     {
         "link": "https://arthurgreenstein.com",
@@ -283,11 +283,21 @@
         "link": "https://tsusports.com",
         "Heading": "\n\tTexas Southern University Athletics - Official Athletics Website\n",
         "Abstract": "The official athletics website for the Texas Southern University Tigers",
-        "Official Site": "https://tsusports.com/",
+        "Official Site": "https://tsusports.com/index.aspx",
         "Icon": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fathletics.tsu.edu%2fimages%2flogos%2fsite%2fsite.png&type=jpeg",
-        "Redirect": "https://tsusports.com/",
+        "Redirect": "https://tsusports.com/index.aspx",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tsusports.com/"
+        "AbstractURL": "https://tsusports.com/index.aspx"
+    },
+    {
+        "link": "https://granatapet.de",
+        "Heading": "Tiernahrung online kaufen | GranataPet",
+        "Abstract": "Tiernahrung online kaufen bei GranataPet \u2794 ohne Getreide & ohne Zuckerzusatz \u2705 mit Granatapfel \u2705 artgerechte Tiernahrung von GranataPet \u2705.",
+        "Official Site": "https://www.granatapet.de/",
+        "Icon": "https://media.granatapet.de/s3/media/91/fb/c2/1653476615/logo_granatapet.svg?ts=1653476616",
+        "Redirect": "https://www.granatapet.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.granatapet.de/"
     },
     {
         "link": "https://suomenlatu.fi",

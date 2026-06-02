@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://e-vafeiadis.gr",
-        "Heading": "e-Vafeiadis.gr | \u03a4\u03bf e-\u0394\u0399\u039a\u039f \u03a3\u039f\u03a5 \u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03c7\u03b1\u03c1\u03c4\u03bf\u03c0\u03c9\u03bb\u03b5\u03af\u03bf!",
-        "Abstract": "\u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u0392\u03b9\u03b2\u03bb\u03b9\u03bf\u03c7\u03b1\u03c1\u03c4\u03bf\u03c0\u03c9\u03bb\u03b5\u03af\u03bf \u2014 \u03a4\u03bf \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03ba\u03b1\u03b9 \u03c0\u03b9\u03bf \u03c3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03bf \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03c0\u03bf\u03bb\u03c5\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1, \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03c7\u03b1\u03bc\u03b7\u03bb\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03c4\u03b9\u03bc\u03ad\u03c2 online! \u0397 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c0\u03bf\u03b9\u03ba\u03b9\u03bb\u03af\u03b1 \u03c3\u03b5...",
-        "Official Site": "https://www.e-vafeiadis.gr/",
-        "Icon": "https://www.e-vafeiadis.gr/images/assets/logo.png",
-        "Redirect": "https://www.e-vafeiadis.gr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.e-vafeiadis.gr/"
-    },
-    {
         "link": "https://ganadaran.co.kr",
         "Heading": "\ud398\ubbf8\ub2cc \uc2dc\ud06c \uac00\ub098\ub2e4\ub780",
         "Abstract": "\ud398\ubbf8\ub2cc \uc2dc\ud06c \uac00\ub098\ub2e4\ub780",
@@ -28,6 +18,16 @@
         "Redirect": "https://larcolaio.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://larcolaio.com/"
+    },
+    {
+        "link": "https://mbauction.com",
+        "Heading": "Musser Bros Inc",
+        "Abstract": null,
+        "Official Site": "https://www.mbauction.com/",
+        "Icon": "https://auctioneersoftware.s3.amazonaws.com/mb/2020/5/fGzjHaoS4Mfhv3P330QnI7A-.png",
+        "Redirect": "https://www.mbauction.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mbauction.com/"
     },
     {
         "link": "https://msvracingpowersports.com",
@@ -103,11 +103,11 @@
         "link": "https://cabukmama.com",
         "Heading": "\n\tKedi ve K\u00f6pek Dostlar\u0131m\u0131z\u0131n Mamalar\u0131 \u00c7abukmama Kurye \u0130le Ayn\u0131 G\u00fcn Teslimat\n",
         "Abstract": "Kedi ve K\u00f6peklerin En Sevdi\u011fi D\u00fcnyaca \u00dcnl\u00fc Markalar\u0131n Kuru Mamalar\u0131, Ya\u015f Mamalar\u0131 ve \u00d6d\u00fcl Mamalar\u0131 Cabukmama.com'da,Ankara \u0130\u00e7in Ayn\u0131 G\u00fcn Teslimat Se\u00e7ene\u011fi ve T\u00fcm \u015eehirlere H\u0131zl\u0131 Teslimat \u0130le. \u015eimdi \u00dcye Olun, Sipari\u015f Verin F\u0131rsatlar\u0131 Ka\u00e7\u0131rmay\u0131n!",
-        "Official Site": "https://www.cabukmama.com",
+        "Official Site": "https://cabukmama.com",
         "Icon": "/Uploads/Images/favicon.ico",
-        "Redirect": "https://www.cabukmama.com",
+        "Redirect": "https://cabukmama.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cabukmama.com"
+        "AbstractURL": "https://cabukmama.com"
     },
     {
         "link": "https://dealsourcr.com",
@@ -168,6 +168,16 @@
         "Redirect": "https://www.gofive.co.th/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.gofive.co.th/"
+    },
+    {
+        "link": "https://karpfiskebutiken.se",
+        "Heading": "Karpfiskebutiken - Utrustning f\u00f6r karpfiske och mete.",
+        "Abstract": "H\u00e4r hittar ni den b\u00e4sta utrustningen f\u00f6r karp-, mete-, feederfiske och predatormete till oslagbara priser. Snabba leveranser - personlig service. \u00d6ver 6500 olika produkter f\u00f6r mete p\u00e5 lager f\u00f6r omg\u00e5ende leverans.",
+        "Official Site": "https://karpfiskebutiken.se",
+        "Icon": "https://karpfiskebutiken.se/image/catalog/cart.png",
+        "Redirect": "https://karpfiskebutiken.se",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://karpfiskebutiken.se"
     },
     {
         "link": "https://nesovetchik.com",
@@ -291,10 +301,10 @@
     },
     {
         "link": "https://keepcardapp.com",
-        "Heading": "keepcardapp.com -",
-        "Abstract": null,
+        "Heading": "Home - KeepCard",
+        "Abstract": "Digital Wallet Guides Digital Wallet Guide for Beginners: Secure Payments November 29, 2024 Digital Wallet Guides How Do Digital Wallets Work | Secure Payments Made Easy January 19, 2025 Loans The Most Effective Loan Repayment Strategies for Long-Term Financial Stability Tyler ChenMarch 28, 2026 Loans Loan Approval Factors Explained for First-Time Borrowers Tyler ChenJuly 18, [\u2026]",
         "Official Site": "https://keepcardapp.com/",
-        "Icon": "N/A",
+        "Icon": "https://keepcardapp.com/wp-content/uploads/2026/05/Screenshot-2026-05-29-122619.jpg",
         "Redirect": "https://keepcardapp.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://keepcardapp.com/"

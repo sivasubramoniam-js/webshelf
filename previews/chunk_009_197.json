@@ -44,10 +44,20 @@
         "Heading": "ClanBarker",
         "Abstract": null,
         "Official Site": "https://clanbarker.com",
-        "Icon": "N/A",
+        "Icon": "img/public/android-icon-192x192.png",
         "Redirect": "https://clanbarker.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://clanbarker.com"
+    },
+    {
+        "link": "https://samayurveda.in",
+        "Heading": "SAM Ayurveda",
+        "Abstract": null,
+        "Official Site": "https://samayurveda.in",
+        "Icon": "https://samayurveda.in/wp-content/uploads/2024/06/fevicon.png",
+        "Redirect": "https://samayurveda.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://samayurveda.in"
     },
     {
         "link": "https://oberk.com",
@@ -248,6 +258,16 @@
         "Redirect": "https://lamarina.eldiario.es/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lamarina.eldiario.es/"
+    },
+    {
+        "link": "https://highwayplayers.com",
+        "Heading": "highwayplayers.com",
+        "Abstract": null,
+        "Official Site": "https://highwayplayers.com",
+        "Icon": "N/A",
+        "Redirect": "https://highwayplayers.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://highwayplayers.com"
     },
     {
         "link": "https://pilotenshop.be",

@@ -150,16 +150,6 @@
         "AbstractURL": "https://www.toejeksperten.dk"
     },
     {
-        "link": "https://ncpssm.org",
-        "Heading": "National Committee to Preserve Social Security and Medicare - NCPSSM",
-        "Abstract": "The mission of the National Committee to Preserve Social Security and Medicare is to protect, preserve, and ensure the financial security of Americans.",
-        "Official Site": "https://www.ncpssm.org/",
-        "Icon": "https://www.ncpssm.org/wp-content/uploads/2022/07/high-cost-of-aging-final.jpg",
-        "Redirect": "https://www.ncpssm.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ncpssm.org/"
-    },
-    {
         "link": "https://rc-kt.com",
         "Heading": "Index of /",
         "Abstract": null,
@@ -213,11 +203,11 @@
         "link": "https://elitec.eu",
         "Heading": "Tasuta koduleht Elitec Group",
         "Abstract": null,
-        "Official Site": "https://www.elitec.ee/",
+        "Official Site": "https://www.elitec.ee/?keel=est",
         "Icon": "http://www.elitec.ee/upload/facebook/EasyOffice_300x230.png",
-        "Redirect": "https://www.elitec.ee/",
+        "Redirect": "https://www.elitec.ee/?keel=est",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.elitec.ee/"
+        "AbstractURL": "https://www.elitec.ee/?keel=est"
     },
     {
         "link": "https://heapro.com",

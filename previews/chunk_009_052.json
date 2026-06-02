@@ -20,6 +20,16 @@
         "AbstractURL": "https://prawy.pl/"
     },
     {
+        "link": "https://theclearhost.com",
+        "Heading": "Web Hosting from theclearhost",
+        "Abstract": "By purchasing one of our ZFS-based web hosting packages from $6.08/mo. you will be able to view live web analytics stats for all your sites.",
+        "Official Site": "https://theclearhost.com",
+        "Icon": "https://theclearhost.com/files/141887_store_logo_image.png",
+        "Redirect": "https://theclearhost.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://theclearhost.com"
+    },
+    {
         "link": "https://madadco.com",
         "Heading": "Domain Default page",
         "Abstract": null,
@@ -28,6 +38,16 @@
         "Redirect": "https://madadco.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://madadco.com"
+    },
+    {
+        "link": "https://kazmuno.kz",
+        "Heading": "KAZMUNO - \u041a\u0430\u0437\u0430\u0445\u0441\u043a\u0438\u0439 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f",
+        "Abstract": "\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430",
+        "Official Site": "https://kazmuno.kz",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://kazmuno.kz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kazmuno.kz"
     },
     {
         "link": "https://cardrona.com",
@@ -101,13 +121,13 @@
     },
     {
         "link": "https://snbchf.com",
-        "Heading": "Mobile Version snbchf.com",
-        "Abstract": null,
-        "Official Site": "https://snbchf.com/mobile-index/",
-        "Icon": "N/A",
-        "Redirect": "https://snbchf.com/mobile-index/",
+        "Heading": "SNB&CHF Central Bank Watch",
+        "Abstract": "SNBCHF.com is the leading Swiss macro-economic site. It focuses on the Swiss National Bank and the Swiss Franc.",
+        "Official Site": "https://snbchf.com/",
+        "Icon": "https://snbchf.com/favicon.ico",
+        "Redirect": "https://snbchf.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://snbchf.com/mobile-index/"
+        "AbstractURL": "https://snbchf.com/"
     },
     {
         "link": "https://lakeridge.bank",
@@ -118,16 +138,6 @@
         "Redirect": "https://www.lakeridge.bank/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lakeridge.bank/"
-    },
-    {
-        "link": "https://allcycladeshotels.com",
-        "Heading": "Cyclades hotels & apartments, all accommodations in Cyclades",
-        "Abstract": "Online booking for hotels in Cyclades, Greece. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://allcycladeshotels.com",
-        "Icon": "N/A",
-        "Redirect": "https://allcycladeshotels.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://allcycladeshotels.com"
     },
     {
         "link": "https://bluecc.edu",
@@ -220,14 +230,24 @@
         "AbstractURL": "https://langenachtderforschung.at"
     },
     {
-        "link": "https://cbarbecue.com",
-        "Heading": "Redirecting...",
-        "Abstract": null,
-        "Official Site": "https://cbarbecue.com",
-        "Icon": "N/A",
-        "Redirect": "https://cbarbecue.com",
+        "link": "https://vinayakinstitute.org",
+        "Heading": "Home - Vinayak institute",
+        "Abstract": "Vinayak Institute is The Best B.Ed. Institute in Kenderaara , Offering B.Ed., B.P.Ed., and M.Ed. programs since 2017, we prepare future educators for success",
+        "Official Site": "https://vinayakinstitute.org/",
+        "Icon": "https://vinayakinstitute.org/wp-content/uploads/2025/05/poster-vinayak-institute-copy-1024x1024.jpg",
+        "Redirect": "https://vinayakinstitute.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cbarbecue.com"
+        "AbstractURL": "https://vinayakinstitute.org/"
+    },
+    {
+        "link": "https://cbarbecue.com",
+        "Heading": "C&B Barbecue | Authentic Smoked BBQ, Ribs & Grilled Favorite",
+        "Abstract": "Savor the taste of real southern-style barbecue at C&B Barbecue! From tender smoked ribs to juicy grilled chicken & signature sauces, we serve up bold flavors made fresh every day. Dine in, take out, or cater your next event with C&B Barbecue.",
+        "Official Site": "https://cbarbecue.com/",
+        "Icon": "https://cbarbecue.com/wp-content/uploads/2024/06/FF-CB-Barbecue-logo-01-e1716498093911-1-120x120.png",
+        "Redirect": "https://cbarbecue.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cbarbecue.com/"
     },
     {
         "link": "https://alaskabar.org",

@@ -152,7 +152,7 @@
     {
         "link": "https://webdesignclip.com",
         "Heading": "Web Design Clip | Web\u30c7\u30b6\u30a4\u30f3\u30ae\u30e3\u30e9\u30ea\u30fc\u30fb\u30af\u30ea\u30c3\u30d7\u96c6",
-        "Abstract": "Web\u30c7\u30b6\u30a4\u30f3\u5236\u4f5c\u306e\u53c2\u8003\u306b\u306a\u308b\u65e5\u672c\u306eWeb\u30c7\u30b6\u30a4\u30f3\u30ae\u30e3\u30e9\u30ea\u30fc\u3002\u6700\u65b0\u30c8\u30ec\u30f3\u30c9\u306e\u304a\u3057\u3083\u308c\u306aWeb\u30b5\u30a4\u30c86213\u4ef6\u3092\u63b2\u8f09\u3002\u30a4\u30f3\u30b9\u30d4\u30ec\u30fc\u30b7\u30e7\u30f3\u30fb\u5236\u4f5c\u53c2\u8003\u306b\u3002",
+        "Abstract": "Web\u30c7\u30b6\u30a4\u30f3\u5236\u4f5c\u306e\u53c2\u8003\u306b\u306a\u308b\u65e5\u672c\u306eWeb\u30c7\u30b6\u30a4\u30f3\u30ae\u30e3\u30e9\u30ea\u30fc\u3002\u6700\u65b0\u30c8\u30ec\u30f3\u30c9\u306e\u304a\u3057\u3083\u308c\u306aWeb\u30b5\u30a4\u30c86215\u4ef6\u3092\u63b2\u8f09\u3002\u30a4\u30f3\u30b9\u30d4\u30ec\u30fc\u30b7\u30e7\u30f3\u30fb\u5236\u4f5c\u53c2\u8003\u306b\u3002",
         "Official Site": "https://webdesignclip.com/",
         "Icon": "https://webdesignclip.com/img/ogp.png",
         "Redirect": "https://webdesignclip.com/",
@@ -168,16 +168,6 @@
         "Redirect": "https://xiaobaixitong.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xiaobaixitong.com"
-    },
-    {
-        "link": "https://ironedgegroup.com",
-        "Heading": "IronEdge Group: Premier Managed IT Services & Cybersecurity - IronEdge Group",
-        "Abstract": "IronEdge delivers full-service IT and cybersecurity solutions across the Southwest and central U.S.",
-        "Official Site": "https://www.ironedgegroup.com/",
-        "Icon": "https://www.ironedgegroup.com/wp-content/uploads/2025/10/IronEdge_1200x675.jpg",
-        "Redirect": "https://www.ironedgegroup.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ironedgegroup.com/"
     },
     {
         "link": "https://yoyou.com",
@@ -202,22 +192,12 @@
     {
         "link": "https://kunstakademie-duesseldorf.de",
         "Heading": "Kunstakademie D\u00fcsseldorf - Kunstakademie D\u00fcsseldorf",
-        "Abstract": "Nachrichten und Veranstaltungen 17. April bis 14. Juni 2026 100 Jahre Klasse B\u00fchnenbild an der Kunstakademie D\u00fcsseldorf Ausstellung in der Akademie-Galerie 28.04. und 09.06.2026im FFT D\u00fcsseldorf Fremder Planet \u2013 Weltverh\u00e4ltnis im Umbruch Veranstaltungsreihe in Kooperation mit dem FFT 29.05.2025, ab 12:30 Uhrim SPARTA Trialog-Projekt \u201eWir m\u00fcssen sprechen.\u201c Vortrag und Workshop \u2013 Um Anmeldung wird gebeten [\u2026]",
+        "Abstract": "Nachrichten und Veranstaltungen 17. April bis 14. Juni 2026 100 Jahre Klasse B\u00fchnenbild an der Kunstakademie D\u00fcsseldorf Ausstellung in der Akademie-Galerie 28.04. und 09.06.2026im FFT D\u00fcsseldorf Fremder Planet \u2013 Weltverh\u00e4ltnis im Umbruch Veranstaltungsreihe in Kooperation mit dem FFT 8. bis 12. Juli 2026, 10 \u2013 20 Uhr Sommerrundgang 2026 Die diesj\u00e4hrige Absolvierendenausstellung der Kunstakademie D\u00fcsseldorf [\u2026]",
         "Official Site": "https://kunstakademie-duesseldorf.de/",
         "Icon": "https://kunstakademie-duesseldorf.de/wp-content/uploads/flur-erdgeschoss.jpg",
         "Redirect": "https://kunstakademie-duesseldorf.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kunstakademie-duesseldorf.de/"
-    },
-    {
-        "link": "https://alicartours.com",
-        "Heading": "Index of /",
-        "Abstract": null,
-        "Official Site": "https://alicartours.com",
-        "Icon": "N/A",
-        "Redirect": "https://alicartours.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://alicartours.com"
     },
     {
         "link": "https://niclatouring.it",
@@ -288,6 +268,16 @@
         "Redirect": "https://thiswayup.org.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thiswayup.org.au"
+    },
+    {
+        "link": "https://gidrokor.ru",
+        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f - \u0421\u041a \u0413\u0438\u0434\u0440\u043e\u043a\u043e\u0440",
+        "Abstract": null,
+        "Official Site": "https://gidrokor.ru",
+        "Icon": "/assets/gidrocore/images/favicon.svg",
+        "Redirect": "https://gidrokor.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gidrokor.ru"
     },
     {
         "link": "https://gracedental.in",
