@@ -34,7 +34,7 @@
         "Heading": "\u041f\u043e\u0441\u0443\u0434\u0430 \u0434\u043b\u044f \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u043e\u0432 \u0438 \u043a\u0430\u0444\u0435 \u2014 \u043a\u0443\u043f\u0438\u0442\u044c \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435 \u043f\u043e \u0446\u0435\u043d\u0435 \u043e\u0442 7 \u0440. | Restinternational.ru",
         "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u043f\u043e\u0441\u0443\u0434\u0443 \u0434\u043b\u044f \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u043e\u0432 \u0438 \u043a\u0430\u0444\u0435 \u043f\u043e \u043f\u0440\u0438\u0435\u043c\u043b\u0435\u043c\u043e\u0439 \u0446\u0435\u043d\u0435 \u2022 \u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043e\u0441\u0443\u0434\u0430 \u0434\u043b\u044f \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u043e\u0432, \u0431\u0430\u0440\u043e\u0432 \u0438 \u043a\u0430\u0444\u0435 \u2022 \u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 RestInternational \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0445 \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a\u043e\u0432 \u0441\u0435\u0433\u043c\u0435\u043d\u0442\u0430 HoReCa \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0420\u043e\u0441\u0441\u0438\u0438",
         "Official Site": "https://restinternational.ru/",
-        "Icon": "https://restinternational.ru/logo.png",
+        "Icon": "/upload/dev2fun.imagecompress/webp/logo.webp",
         "Redirect": "https://restinternational.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://restinternational.ru/"
@@ -78,16 +78,6 @@
         "Redirect": "https://biz-uspeh.biz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://biz-uspeh.biz/"
-    },
-    {
-        "link": "https://komipo.co.kr",
-        "Heading": "\ud55c\uad6d\uc911\ubd80\ubc1c\uc804",
-        "Abstract": null,
-        "Official Site": "https://komipo.co.kr",
-        "Icon": "N/A",
-        "Redirect": "https://komipo.co.kr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://komipo.co.kr"
     },
     {
         "link": "https://worldtimequery.com",
@@ -288,16 +278,6 @@
         "Redirect": "https://www.diakonie-fulda.de/startseite-diakonie-fulda/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.diakonie-fulda.de/startseite-diakonie-fulda/"
-    },
-    {
-        "link": "https://poznejsokolovsko.cz",
-        "Heading": "Zahrani\u010dn\u00ed online casino pro \u010desk\u00e9 hr\u00e1\u010de v roce 2026",
-        "Abstract": "Objevte nejlep\u0161\u00ed zahrani\u010dn\u00ed online kasina pro \u010desk\u00e9 hr\u00e1\u010de v roce 2026. Podrobn\u00e9 recenze, \u0161t\u011bdr\u00e9 bonusy bez vkladu, tis\u00edce her a automat\u016f, rychl\u00e9 v\u00fdplaty kryptom\u011bnami, tipy na v\u00fdb\u011br a zodpov\u011bdn\u00e9 hran\u00ed",
-        "Official Site": "https://www.poznejsokolovsko.cz/cs-cz/",
-        "Icon": "https://pub-30564ce97181416ba9604543ac64db8d.r2.dev/2025/10/zagran.jpg",
-        "Redirect": "https://www.poznejsokolovsko.cz/cs-cz/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.poznejsokolovsko.cz/cs-cz/"
     },
     {
         "link": "https://cestlagreve.fr",

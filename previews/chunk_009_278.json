@@ -290,11 +290,21 @@
         "AbstractURL": "https://developerscourt.com/"
     },
     {
+        "link": "https://fiestasanantonio.org",
+        "Heading": "Fiesta\u00ae San Antonio Home",
+        "Abstract": "The Official Fiesta\u00ae San Antonio home page and website. Find the events calendar, schedule, parade tickets & your favorite Fiesta\u00ae events!",
+        "Official Site": "https://fiestasanantonio.org/",
+        "Icon": "https://fiestasanantonio.org/wp-content/uploads/2026/04/IMG_6191-1-683x1024.jpg",
+        "Redirect": "https://fiestasanantonio.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fiestasanantonio.org/"
+    },
+    {
         "link": "https://aog-usfoods.com",
-        "Heading": "Sign in to your account",
+        "Heading": "Redirecting",
         "Abstract": null,
         "Official Site": "https://aog-usfoods.com",
-        "Icon": "https://aadcdn.msftauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
+        "Icon": "N/A",
         "Redirect": "https://aog-usfoods.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aog-usfoods.com"
@@ -328,5 +338,15 @@
         "Redirect": "https://www.universitymagazine.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.universitymagazine.ca/"
+    },
+    {
+        "link": "https://urbantecno.com",
+        "Heading": "Urban Tecno - Noticias de tecnolog\u00eda, ciencia y motor",
+        "Abstract": "Noticias de tecnolog\u00eda, ciencia y motor: actualidad, novedades, curiosidades y mucho m\u00e1s. Si est\u00e1 en Urban Tecno es porque vas a querer leerlo.",
+        "Official Site": "https://urbantecno.com/",
+        "Icon": "https://cdn.urbantecno.com/urbantecno/logo-urbantecno-redes.png",
+        "Redirect": "https://urbantecno.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://urbantecno.com/"
     }
 ]

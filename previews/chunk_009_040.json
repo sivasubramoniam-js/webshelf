@@ -41,13 +41,13 @@
     },
     {
         "link": "https://emergenetics.com",
-        "Heading": "EMEA - Emergenetics",
-        "Abstract": "Jij en je persoonlijkheid zijn de krachtige combinatie van je genetische gaven en je levenservaringen. Emergenetics biedt een duidelijk beeld van wat u",
-        "Official Site": "https://nl.emergenetics.com/emea/",
-        "Icon": "https://nl.emergenetics.com/wp-content/uploads/2020/09/character1.png",
-        "Redirect": "https://nl.emergenetics.com/emea/",
+        "Heading": "Homepage - Emergenetics",
+        "Abstract": "To empower leaders, teams and organizations to perform, you need to understand how people prefer to think and behave. Emergenetics delivers people insights",
+        "Official Site": "https://emergenetics.com/",
+        "Icon": "https://emergenetics.com/wp-content/uploads/2025/04/favicon.png",
+        "Redirect": "https://emergenetics.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nl.emergenetics.com/emea/"
+        "AbstractURL": "https://emergenetics.com/"
     },
     {
         "link": "https://sachtler.com",
@@ -238,6 +238,16 @@
         "Redirect": "https://mertens-groep.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mertens-groep.nl"
+    },
+    {
+        "link": "https://messengerdevelopers.com",
+        "Heading": "Messenger Developer Tools for Business | Facebook for Developers",
+        "Abstract": "Solutions to build a Messenger experience in commerce, lead generation, and customer care. Developer tools for plugins, SDK, features, tutorials, APIs, and FAQs.",
+        "Official Site": "https://developers.facebook.com/products/messenger/",
+        "Icon": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.2365-6/185277338_2959763320960206_5617483220276807085_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e280be&_nc_ohc=kJIQPMMwyFIQ7kNvwEXEWHN&_nc_oc=AdrDFbyrxs3xbgx1YlIAvO-qYy-Z-L0eoFwLYF-lCKWMFs8p-cTqYYP7-ECjNFRweSc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=EM9YwUi51eyppt8SlyXp_w&_nc_ss=7b20f&oh=00_Af_r1CGvsnrNHhxygyFSlfNwhDhYMmMFIeiAPXd-GNbovA&oe=6A39F31B",
+        "Redirect": "https://developers.facebook.com/products/messenger/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://developers.facebook.com/products/messenger/"
     },
     {
         "link": "https://capitalinstitute.org",

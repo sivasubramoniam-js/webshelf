@@ -40,16 +40,6 @@
         "AbstractURL": "https://surefeedback.com/"
     },
     {
-        "link": "https://kalorsol.com",
-        "Heading": "Kalorsol: Compra tu Calentador Solar de Tubo en CDMX y EDOMEX",
-        "Abstract": "Compra calentadores solares de tubo en Kalorsol y ahorra hasta 80% en tu recibo de gas. Tecnolog\u00eda de punta, m\u00e1xima eficiencia y agua caliente todo el a\u00f1o. \u00a1Instala energ\u00eda renovable en tu hogar! Calentador Solar Kalorsol",
-        "Official Site": "https://kalorsol.com/",
-        "Icon": "https://kalorsol.com/wp-content/uploads/2022/09/cropped-kalorsol-logo-32x32.png",
-        "Redirect": "https://kalorsol.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kalorsol.com/"
-    },
-    {
         "link": "https://newcityhk.com",
         "Heading": "newcityhk.com",
         "Abstract": null,
@@ -238,6 +228,16 @@
         "Redirect": "/",
         "AbstractSource": "BS4",
         "AbstractURL": "/"
+    },
+    {
+        "link": "https://cleartalk.us",
+        "Heading": "WorldWideWebFX",
+        "Abstract": "WorldWideWebfx.com",
+        "Official Site": "https://cleartalk.us",
+        "Icon": "N/A",
+        "Redirect": "https://cleartalk.us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cleartalk.us"
     },
     {
         "link": "https://deloks.ru",

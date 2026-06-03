@@ -10,16 +10,6 @@
         "AbstractURL": "https://calibercommunications.ca/"
     },
     {
-        "link": "https://captainwilliams.co.uk",
-        "Heading": "Captain Williams =/\\= | Home Page ",
-        "Abstract": "=/\\= Captain Williams. Attaching the electrodes of knowledge to the nipples of ignorance! Contains multiple features about SEGA, Sonic The Hedgehog, 3rd Rock From the Sun, Republica, Beavis and Butt-head, Ban This Filth, Retro PC Gaming, Random Gaming, Star Trek, Buffy, and other silly stuff. Also known as DCShooters.",
-        "Official Site": "https://captainwilliams.co.uk",
-        "Icon": "N/A",
-        "Redirect": "https://captainwilliams.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://captainwilliams.co.uk"
-    },
-    {
         "link": "https://centro-oeste-do-brasil-hoteis.com",
         "Heading": "West Central Brazil hotels & apartments, all accommodations in West Central Brazil",
         "Abstract": "Online booking for hotels in West Central Brazil, Brazil. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
@@ -134,10 +124,20 @@
         "Heading": "Corpul Uman - Informatii medicale, diete de slabit, boli si afectiuni - Articole despre corpul uman si anatomia corpului omenesc in imagini 3D. Diete de slabit rapide",
         "Abstract": "Corpul Uman - Informatii medicale, diete de slabit, boli si afectiuni - Articole despre corpul uman si anatomia corpului omenesc in imagini 3D. Diete de slabit rapide",
         "Official Site": "https://www.corpul-uman.com/",
-        "Icon": "N/A",
+        "Icon": "https://www.corpul-uman.com/wp-content/themes/redcarpet-3.0.7/favicon.ico",
         "Redirect": "https://www.corpul-uman.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.corpul-uman.com/"
+    },
+    {
+        "link": "https://cottageromance.com",
+        "Heading": "Romantic Cottages for Two with Hot Tubs and Treehouse Charm",
+        "Abstract": "Escape to a world of idyllic charm with CottageRomance.com. Discover our handpicked selection of romantic and cozy cottages nestled in serene settings.",
+        "Official Site": "https://cottageromance.com/",
+        "Icon": "https://cdn.123presto.com/prod/published/cottageromance/home.jpeg",
+        "Redirect": "https://cottageromance.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cottageromance.com/"
     },
     {
         "link": "https://creamcheese.co.kr",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://cuttingmdf.uk"
     },
     {
+        "link": "https://dassiagreece.com",
+        "Heading": "Dassia, Corfu: Stunning Greek Coastal Retreats & Villa Escapes for Unforgettable Seaside Experiences",
+        "Abstract": "Discover Dassia's charm on Corfu's coast. Book incredible villas, explore nature, and enjoy tranquility in Greece.",
+        "Official Site": "https://dassiagreece.com",
+        "Icon": "https://cdn.123presto.com/prod/published/dassiagreece/home.webp",
+        "Redirect": "https://dassiagreece.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dassiagreece.com"
+    },
+    {
         "link": "https://deadmen.co.uk",
         "Heading": "Dead Men Walking - PC gaming community",
         "Abstract": null,
@@ -202,7 +212,7 @@
     {
         "link": "https://delivery-food.jp",
         "Heading": "\u30c7\u30ea\u30d0\u30ea\u30fc \u30d0\u30a4\u30c8 NAVI\uff5c\u30d5\u30fc\u30c9\u30c7\u30ea\u30d0\u30ea\u30fc \u30c9\u30e9\u30a4\u30d0\u30fc \u306a\u3069 \u914d\u9054\u54e1 \u6c42\u4eba \u3092\u63b2\u8f09",
-        "Abstract": "\u30c7\u30ea\u30d0\u30ea\u30fc \u30d0\u30a4\u30c8 NAVI \u306f\u3001\u5168\u56fd34,733\u4ef6\u306e\u30d5\u30fc\u30c9\u30c7\u30ea\u30d0\u30ea\u30fc \u30c9\u30e9\u30a4\u30d0\u30fc \u306a\u3069\u914d\u9054\u54e1 \u30d0\u30a4\u30c8 \u6c42\u4eba\u3092\u63b2\u8f09\u4e2d\u3002\u30a6\u30fc\u30d0\u30fc\u30a4\u30fc\u30c4\u3084\u51fa\u524d\u9928\u3001AmazonFlex\u306a\u3069\u306e\u914d\u9054\u54e1 \u30d0\u30a4\u30c8\u306f\u3082\u3061\u308d\u3093\u3001\u30c6\u30a4\u30af\u30a2\u30a6\u30c8\u53ef\u80fd\u306a\u5e97\u8217\u306e\u6c42\u4eba\u60c5\u5831\u3001\u305d\u306e\u307b\u304b\u8efd\u8ca8\u7269 \u30c8\u30e9\u30c3\u30af \u30bf\u30af\u30b7\u30fc\u306b\u95a2\u308f\u308b\u6c42\u4eba\u60c5\u5831\u3092\u63b2\u8f09\u3002\u3042\u306a\u305f\u306b\u3042\u3063\u305f\u6c42\u4eba\u304c\u898b\u3064\u304b\u308a\u307e\u3059\uff01",
+        "Abstract": "\u30c7\u30ea\u30d0\u30ea\u30fc \u30d0\u30a4\u30c8 NAVI \u306f\u3001\u5168\u56fd62,836\u4ef6\u306e\u30d5\u30fc\u30c9\u30c7\u30ea\u30d0\u30ea\u30fc \u30c9\u30e9\u30a4\u30d0\u30fc \u306a\u3069\u914d\u9054\u54e1 \u30d0\u30a4\u30c8 \u6c42\u4eba\u3092\u63b2\u8f09\u4e2d\u3002\u30a6\u30fc\u30d0\u30fc\u30a4\u30fc\u30c4\u3084\u51fa\u524d\u9928\u3001AmazonFlex\u306a\u3069\u306e\u914d\u9054\u54e1 \u30d0\u30a4\u30c8\u306f\u3082\u3061\u308d\u3093\u3001\u30c6\u30a4\u30af\u30a2\u30a6\u30c8\u53ef\u80fd\u306a\u5e97\u8217\u306e\u6c42\u4eba\u60c5\u5831\u3001\u305d\u306e\u307b\u304b\u8efd\u8ca8\u7269 \u30c8\u30e9\u30c3\u30af \u30bf\u30af\u30b7\u30fc\u306b\u95a2\u308f\u308b\u6c42\u4eba\u60c5\u5831\u3092\u63b2\u8f09\u3002\u3042\u306a\u305f\u306b\u3042\u3063\u305f\u6c42\u4eba\u304c\u898b\u3064\u304b\u308a\u307e\u3059\uff01",
         "Official Site": "https://delivery-food.jp",
         "Icon": "https://delivery-food.jp/assets/img/common/ogp.png",
         "Redirect": "https://delivery-food.jp",
@@ -230,16 +240,6 @@
         "AbstractURL": "http://www.designagit.com"
     },
     {
-        "link": "https://detske-boticky.cz",
-        "Heading": "detske-boticky.cz | d\u011btsk\u00e1 obuv, d\u011btsk\u00e9 boty, \u0161koln\u00ed batohy",
-        "Abstract": "d\u011btsk\u00e1 obuv, d\u011btsk\u00e9 boty, \u0161koln\u00ed batohy",
-        "Official Site": "https://detske-boticky.cz",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://detske-boticky.cz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://detske-boticky.cz"
-    },
-    {
         "link": "https://dienmaytruongviet.vn",
         "Heading": "\u0110i\u1ec7n M\u00e1y Tr\u01b0\u1eddng Vi\u1ec7t - Kinh doanh v\u00e0 s\u1ea3n xu\u1ea5t c\u00e1c m\u1eb7t h\u00e0ng \u0111i\u1ec7n m\u00e1y",
         "Abstract": "C\u00f4ng ty Tr\u01b0\u1eddng Vi\u1ec7t l\u00e0 c\u00f4ng ty tr\u1ebb trong l\u0129nh v\u1ef1c kinh doanh v\u00e0 s\u1ea3n xu\u1ea5t c\u00e1c m\u1eb7t h\u00e0ng \u0111i\u1ec7n m\u00e1y, \u0111\u1ed3 gia d\u1ee5ng, c\u00e1c thi\u1ebft b\u1ecb ph\u00f2ng t\u1eadp th\u1ec3 h\u00ecnh...",
@@ -248,6 +248,16 @@
         "Redirect": "https://dienmaytruongviet.vn/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dienmaytruongviet.vn/"
+    },
+    {
+        "link": "https://discimadevilla.com",
+        "Heading": "\n\t\t\t\t\tDistribuciones Cimadevilla, distribuci\u00f3n de libros, papeler\u00eda\n\t\t\t",
+        "Abstract": "Distribuciones Cimadevilla, distribuidora de libros, papeler\u00eda, material escolar y regalos",
+        "Official Site": "https://discimadevilla.com",
+        "Icon": "/images/logo.ico",
+        "Redirect": "https://discimadevilla.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://discimadevilla.com"
     },
     {
         "link": "https://dk-hotel.com",

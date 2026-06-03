@@ -50,6 +50,16 @@
         "AbstractURL": "https://philipstein.com/"
     },
     {
+        "link": "https://kjuc.si",
+        "Heading": "Knji\u017enica Jo\u017eeta Udovi\u010da Cerknica",
+        "Abstract": "Knji\u017enica Jo\u017eeta Udovi\u010da Cerknica deluje na obmo\u010dju treh notranjskih ob\u010din (Cerknica, Lo\u0161ka dolina, Bloke) in je osrednja knji\u017enica tega obmo\u010dja.",
+        "Official Site": "https://www.kjuc.si/",
+        "Icon": "https://www.kjuc.si/wp-content/uploads/2025/05/Cerknica-21.jpg",
+        "Redirect": "https://www.kjuc.si/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.kjuc.si/"
+    },
+    {
         "link": "https://ricardoantunes.net",
         "Heading": "Blog do Ricardo Antunes - Pol\u00edtica, Debates, Not\u00edcias & V\u00eddeos Exclusivos",
         "Abstract": "Blog do Ricardo Antunes - Direto de Recife, pol\u00edtica, debates, not\u00edcias, pol\u00eamicas, Not\u00edcias, entrevistas & v\u00eddeos exclusivos.",
@@ -278,16 +288,6 @@
         "Redirect": "https://secg.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://secg.org"
-    },
-    {
-        "link": "https://serb.gov.in",
-        "Heading": "Home: Anusandhan National Research Foundation,\n\t\t\tDepartment of Science & Technology, Government of India",
-        "Abstract": null,
-        "Official Site": "https://serb.gov.in",
-        "Icon": "https://serb.gov.in/assets/images/favicon.ico",
-        "Redirect": "https://serb.gov.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://serb.gov.in"
     },
     {
         "link": "https://gaspofficial.com",

@@ -30,6 +30,16 @@
         "AbstractURL": "https://infoprocenter.net"
     },
     {
+        "link": "https://24hours-news.ru",
+        "Heading": "\u7b2c\u4e00\u7248\u7f5101bz - \u6bcf\u65e5\u5927\u8d5b\u5b98\u7f51\u5165\u53e3",
+        "Abstract": "\u7b2c\u4e00\u7248\u7f5101bz",
+        "Official Site": "https://24hours-news.ru",
+        "Icon": "/template/news/blog1/img/favicon.ico",
+        "Redirect": "https://24hours-news.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://24hours-news.ru"
+    },
+    {
         "link": "https://excelligence.com",
         "Heading": "Excelligence Learning Corporation | A leader in the childhood education industry",
         "Abstract": null,
@@ -240,16 +250,6 @@
         "AbstractURL": "https://ostsee-ferienwohnungen.de"
     },
     {
-        "link": "https://dhurubhaa.com",
-        "Heading": "Best Online Shopping site in Coimbatore - India: Shop Online for Furniture's, Electronics, Home Appliances, Vessels , Gifts and More - Dhurubhaa.com",
-        "Abstract": "Dhurubhaa.com: Best Online Shopping iCoimbatore - India - Buy Electronics, Furniture's , Home Appliances, Vessels ,Gift Items, and e-Gift Cards. Free",
-        "Official Site": "https://dhurubhaa.com/",
-        "Icon": "https://dhurubhaa.com/wp-content/uploads/2024/08/cropped-favicon-32x32.png",
-        "Redirect": "https://dhurubhaa.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dhurubhaa.com/"
-    },
-    {
         "link": "https://schedulebull.com",
         "Heading": "Schedulebull Business\u00a0Planning System | Schedulebull :: App for rental business",
         "Abstract": "Online software for rental businesses. Scheduling, contracts, bills, accounting, CRM and more",
@@ -288,16 +288,6 @@
         "Redirect": "https://topfx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://topfx.com"
-    },
-    {
-        "link": "https://netexsoftware.com",
-        "Heading": "Netex Software | A Leading Technology Solutions Provider",
-        "Abstract": null,
-        "Official Site": "https://netexsoftware.com",
-        "Icon": "//netexsoftware.com/wp-content/uploads/2015/01/favicon.ico",
-        "Redirect": "https://netexsoftware.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://netexsoftware.com"
     },
     {
         "link": "https://javanetsystems.com",

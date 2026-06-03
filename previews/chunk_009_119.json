@@ -41,10 +41,10 @@
     },
     {
         "link": "https://buddymedia.com",
-        "Heading": "Marketing Software by Salesforce Marketing Cloud | Salesforce",
-        "Abstract": "Unlock and action your data, deploy campaigns faster with AI, and scale 1:1 personalization.",
+        "Heading": "Marketing Software by Agentforce Marketing (formerly Salesforce Marketing Cloud) | Salesforce",
+        "Abstract": "Agentforce Marketing helps you orchestrate an agency of agents to deliver adaptive customer experiences, everywhere.",
         "Official Site": "https://www.salesforce.com/marketing/",
-        "Icon": "https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2023/06/marketing-category-og.jpg?w=1024",
+        "Icon": "https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/06/form-image-agentforce-marketing-category-768x432-1.webp?w=1024",
         "Redirect": "https://www.salesforce.com/marketing/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.salesforce.com/marketing/"
@@ -140,6 +140,16 @@
         "AbstractURL": "https://brightpathkids.com"
     },
     {
+        "link": "https://younetwork.app",
+        "Heading": "younetwork",
+        "Abstract": "younetwork",
+        "Official Site": "https://younetwork.app",
+        "Icon": "https://younetwork.app/themes/sunshine/img/og.jpg",
+        "Redirect": "https://younetwork.app",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://younetwork.app"
+    },
+    {
         "link": "https://toejeksperten.dk",
         "Heading": "Herret\u00f8j Online | 1-2 dages levering | T\u00f8jeksperten",
         "Abstract": "Gratis fragt til butik. Stort udvalg af t\u00f8j til m\u00e6nd hos T\u00f8jeksperten. Tilbud p\u00e5 t\u00f8j og herret\u00f8j p\u00e5 udsalg. Gratis retur i 365 dage. Bliv medlem - 10% rabat p\u00e5 f\u00f8rste k\u00f8b.",
@@ -148,6 +158,16 @@
         "Redirect": "https://www.toejeksperten.dk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.toejeksperten.dk"
+    },
+    {
+        "link": "https://ncpssm.org",
+        "Heading": "National Committee to Preserve Social Security and Medicare - NCPSSM",
+        "Abstract": "The mission of the National Committee to Preserve Social Security and Medicare is to protect, preserve, and ensure the financial security of Americans.",
+        "Official Site": "https://www.ncpssm.org/",
+        "Icon": "https://www.ncpssm.org/wp-content/uploads/2022/07/high-cost-of-aging-final.jpg",
+        "Redirect": "https://www.ncpssm.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ncpssm.org/"
     },
     {
         "link": "https://rc-kt.com",
@@ -203,11 +223,11 @@
         "link": "https://elitec.eu",
         "Heading": "Tasuta koduleht Elitec Group",
         "Abstract": null,
-        "Official Site": "https://www.elitec.ee/?keel=est",
+        "Official Site": "https://www.elitec.ee/",
         "Icon": "http://www.elitec.ee/upload/facebook/EasyOffice_300x230.png",
-        "Redirect": "https://www.elitec.ee/?keel=est",
+        "Redirect": "https://www.elitec.ee/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.elitec.ee/?keel=est"
+        "AbstractURL": "https://www.elitec.ee/"
     },
     {
         "link": "https://heapro.com",

@@ -41,7 +41,7 @@
     },
     {
         "link": "https://fatemine.su",
-        "Heading": "FateMine - \u041b\u0435\u0442\u043d\u0438\u0435 \u0433\u043e\u0440\u044f\u0449\u0438\u0435 \u0446\u0435\u043d\u044b! \u041f\u043e\u043a\u0443\u043f\u043a\u0430 \u0434\u043e\u043d\u0430\u0442\u0430 FateMine",
+        "Heading": "FateMine - \u041b\u0435\u0442\u043d\u0438\u0435 \u0433\u043e\u0440\u044f\u0449\u0438\u0435 \u0446\u0435\u043d\u044b! - \u041d\u0430\u0448 \u0412\u0442\u043e\u0440\u043e\u0439 \u0421\u0430\u0439\u0442: FateCloud.su",
         "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u0434\u043e\u043d\u0430\u0442 \u043d\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0435 FateMine",
         "Official Site": "https://fatemine.su",
         "Icon": "https://fatemine.su/og:image",
@@ -120,6 +120,16 @@
         "AbstractURL": "https://www.zoeliakie-austausch.de/"
     },
     {
+        "link": "https://cizginet.com",
+        "Heading": "cizginet.com",
+        "Abstract": null,
+        "Official Site": "https://cizginet.com",
+        "Icon": "N/A",
+        "Redirect": "https://cizginet.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cizginet.com"
+    },
+    {
         "link": "https://coinhills.com",
         "Heading": "Bitcoin, Cryptocurrency Markets Price Live - Coinhills",
         "Abstract": "Bitcoin, Cryptocurrency Markets Price Live - Coinhills provides real-time prices and indexes of digital currencies based on Bitcoin via user friendly access.",
@@ -178,6 +188,16 @@
         "Redirect": "https://gracemcgeehan.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gracemcgeehan.com/"
+    },
+    {
+        "link": "https://webcamlatina.es",
+        "Heading": "webcamlatina.es",
+        "Abstract": null,
+        "Official Site": "https://webcamlatina.es",
+        "Icon": "N/A",
+        "Redirect": "https://webcamlatina.es",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://webcamlatina.es"
     },
     {
         "link": "https://sloww.co",

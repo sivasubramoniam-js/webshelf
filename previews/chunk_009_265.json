@@ -90,16 +90,6 @@
         "AbstractURL": "https://simourg.com"
     },
     {
-        "link": "https://darley.com",
-        "Heading": "Darley | Equipment Supplier, Manufacturer, Military, First Responders",
-        "Abstract": "Darley is a global, family\u2011owned leader delivering innovative equipment, technology, and solutions for military, fire, and first responder missions worldwide.",
-        "Official Site": "https://www.darley.com/",
-        "Icon": "https://www.darley.com/wp-content/uploads/2022/09/Darley-OG-Image-2.jpg",
-        "Redirect": "https://www.darley.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.darley.com/"
-    },
-    {
         "link": "https://apkhere.com",
         "Heading": "Discovery the Best Android Apps - ApkHere Market - ApkHere.com",
         "Abstract": "Discovery the Best Android Apps - ApkHere Market - ApkHere.com",
@@ -250,6 +240,16 @@
         "AbstractURL": "https://parlakboya.net"
     },
     {
+        "link": "https://readingrdi.com",
+        "Heading": "\n    Reading International Inc | Corporate Site and Investor Relations for Reading International, Inc.",
+        "Abstract": null,
+        "Official Site": "https://readingrdi.com",
+        "Icon": "N/A",
+        "Redirect": "https://readingrdi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://readingrdi.com"
+    },
+    {
         "link": "https://duclarion.com",
         "Heading": "The Denver Clarion \u2013 Covering DU, Denver & Beyond",
         "Abstract": null,
@@ -280,16 +280,6 @@
         "AbstractURL": "https://www.cyrius.com/"
     },
     {
-        "link": "https://vgamehub.site",
-        "Heading": "vgamehub.site",
-        "Abstract": null,
-        "Official Site": "https://vgamehub.site",
-        "Icon": "N/A",
-        "Redirect": "https://vgamehub.site",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vgamehub.site"
-    },
-    {
         "link": "https://pro-brokers.ru",
         "Heading": "\u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0411\u0440\u043e\u043a\u0435\u0440\u0441",
         "Abstract": null,
@@ -298,5 +288,15 @@
         "Redirect": "https://pro-brokers.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pro-brokers.ru/"
+    },
+    {
+        "link": "https://vireoapp.com",
+        "Heading": "VIREO",
+        "Abstract": null,
+        "Official Site": "https://vireoapp.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://vireoapp.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vireoapp.com"
     }
 ]

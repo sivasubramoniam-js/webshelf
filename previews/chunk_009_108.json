@@ -110,16 +110,6 @@
         "AbstractURL": "https://gamehacker.io/vi-vn/"
     },
     {
-        "link": "https://carlosserrainteriorismo.com",
-        "Heading": "Carlos Serra  \u2013 Interiorismo",
-        "Abstract": null,
-        "Official Site": "https://carlosserrainteriorismo.com",
-        "Icon": "https://carlosserrainteriorismo.com/wp-content/uploads/2023/05/Favicon-Carlos-Serra.png",
-        "Redirect": "https://carlosserrainteriorismo.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://carlosserrainteriorismo.com"
-    },
-    {
         "link": "https://floof.org",
         "Heading": "Friendica Social Network | Home",
         "Abstract": null,
@@ -148,6 +138,16 @@
         "Redirect": "https://alexianer-berlin-hedwigkliniken.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alexianer-berlin-hedwigkliniken.de"
+    },
+    {
+        "link": "https://statecollegepa.us",
+        "Heading": "State College, PA - Official Website | Official Website",
+        "Abstract": "",
+        "Official Site": "https://statecollegepa.us/1/Home",
+        "Icon": "https://cpnotify.blob.core.windows.net/c4476da4-327f-41fc-9530-5b7533232569/Print Logo BW_85110446-4e86-449e-8a20-1c4aa64216f6.jpg",
+        "Redirect": "https://statecollegepa.us/1/Home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://statecollegepa.us/1/Home"
     },
     {
         "link": "https://bazorg.ru",
@@ -298,16 +298,6 @@
         "Redirect": "https://darknestfantasy.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://darknestfantasy.com"
-    },
-    {
-        "link": "https://advancedinternet.net",
-        "Heading": "Advanced Internet Applications | Royal Oak, MI Website Design, SEO & AI Agency \u2014 Serving Metro Detroit Since 2001",
-        "Abstract": "Advanced Internet Applications \u2014 Royal Oak, MI website design, SEO, AI chatbots, and AI phone systems. Serving Metro Detroit small businesses since 2001. Free strategy call: 248.795.1978.",
-        "Official Site": "https://aia-mi.com/",
-        "Icon": "https://aia-mi.com/wp-content/themes/aia-theme/assets/img/og-default.jpg",
-        "Redirect": "https://aia-mi.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aia-mi.com/"
     },
     {
         "link": "https://tvuni.online",

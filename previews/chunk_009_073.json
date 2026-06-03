@@ -284,7 +284,7 @@
         "Heading": "Motoarebarci - Piese de schimb si accesorii pentru barca",
         "Abstract": "Magazin online cu piese de schimb, consumabile si accesorii pentru barci si motoare de barca. Livrare rapida din stoc",
         "Official Site": "https://motoarebarci.ro/",
-        "Icon": " https://motoarebarci.ro/images/logos/21/mb_vbvy-jf.png",
+        "Icon": " https://motoarebarci.ro/images/ab__webp/logos/21/mb_vbvy-jf_png.webp",
         "Redirect": "https://motoarebarci.ro/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://motoarebarci.ro/"
@@ -341,13 +341,13 @@
     },
     {
         "link": "https://nissanlebanon.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://nissanlebanon.com",
-        "Icon": "N/A",
-        "Redirect": "https://nissanlebanon.com",
+        "Heading": "Nissan Lebanon Official Website",
+        "Abstract": "Official Nissan Lebanon website Find new Nissan Passenger, SUV,Sports, Commercial and 4X4 vehicles Images, specs, test drives, dealers etc\n",
+        "Official Site": "https://en.nissanlebanon.com/",
+        "Icon": "https://libs-europe.nissan-cdn.net/etc/designs/nissan_wds/26.05.30.NISSAN-12/common-assets/img/logo/logo.png",
+        "Redirect": "https://en.nissanlebanon.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nissanlebanon.com"
+        "AbstractURL": "https://en.nissanlebanon.com/"
     },
     {
         "link": "https://nitromall.com",
@@ -398,6 +398,16 @@
         "Redirect": "https://ost-moped.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ost-moped.de"
+    },
+    {
+        "link": "https://p-p88.com",
+        "Heading": "\ud31d\ub9c8\ud2b8",
+        "Abstract": null,
+        "Official Site": "https://p-p88.com",
+        "Icon": "/service/resources/images/favicon/favicon.ico",
+        "Redirect": "https://p-p88.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://p-p88.com"
     },
     {
         "link": "https://paidikarouxaonline.gr",

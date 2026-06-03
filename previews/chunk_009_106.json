@@ -40,6 +40,16 @@
         "AbstractURL": "https://stdom.com"
     },
     {
+        "link": "https://sandystowing.com",
+        "Heading": "Sandy's Towing & Recovery | Heavy Duty Tow Truck Dayton OH",
+        "Abstract": "Sandy's heavy duty truck towing company providing heavy towing for tractor trailer trucks, RVs, coaches and buses. We provide towing services 24 hours a day.",
+        "Official Site": "https://sandystowing.com/",
+        "Icon": "https://sandystowing.com/wp-content/uploads/2021/01/tow-truck-near-me.jpg",
+        "Redirect": "https://sandystowing.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sandystowing.com/"
+    },
+    {
         "link": "https://only-1-led.com",
         "Heading": "OnlyOne\uff08\u30aa\u30f3\u30ea\u30fc\u30ef\u30f3\uff09\u300c\u670d\u3092\u9078\u3076\u3088\u3046\u306b\u7167\u660e\u3092\u9078\u307c\u3046\u300d",
         "Abstract": "OnlyOne\uff08\u30aa\u30f3\u30ea\u30fc\u30ef\u30f3\uff09\u306f\u30d3\u30fc\u30c8\u30bd\u30cb\u30c3\u30af\u306e\u7167\u660e\u6a5f\u5668\u306e\u30d6\u30e9\u30f3\u30c9\u3067\u3059\u3002Siphon\uff08\u30b5\u30a4\u30d5\u30a9\u30f3\uff09\u3084\u5f71\u7f8e\u4eba\u306a\u3069\u7167\u660e\u306b\u3053\u3060\u308f\u308b\u4eba\u306e\u70ba\u306e\u7167\u660e\u6a5f\u5668\u3092\u88fd\u9020\u8ca9\u58f2\u3057\u3066\u3044\u307e\u3059\u3002",
@@ -151,13 +161,13 @@
     },
     {
         "link": "https://ccricket.com",
-        "Heading": "Cricket Wireless | Unlimited Phone Plans | Affordable Cell Phones | No Contract",
-        "Abstract": "Shop Cricket Wireless for affordable cell phones and unlimited plans with no contract. Enjoy 5G nationwide coverage, great deals, and transparent pricing.",
-        "Official Site": "https://www.cricketwireless.com/",
-        "Icon": "https://www.cricketwireless.com/uiassets/cricketwirelesslogo.jpg",
-        "Redirect": "https://www.cricketwireless.com/",
+        "Heading": "Be Back Soon | Cricket",
+        "Abstract": null,
+        "Official Site": "https://ccricket.com",
+        "Icon": "/uiassets/cricketwirelesslogo.jpg",
+        "Redirect": "https://ccricket.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cricketwireless.com/"
+        "AbstractURL": "https://ccricket.com"
     },
     {
         "link": "https://webenerji.com",

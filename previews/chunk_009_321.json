@@ -10,21 +10,11 @@
         "AbstractURL": "https://aivaroes.com"
     },
     {
-        "link": "https://popisms.com",
-        "Heading": "\n\tPOPisms.com - Pop Culture Cross-References and Connections via @POPisms - Pop Culture Cross-References and Connections via @POPisms\n",
-        "Abstract": "We are POPisms.com, a site dedicated to showing connections between pop culture. What's the song in that commercial? What book was that character reading in that movie? What movie were the characters talking about in your favorite TV show? We answer these and many other questions.",
-        "Official Site": "https://www.popisms.com/",
-        "Icon": "https://www.popisms.com/images/popisms_notext.png",
-        "Redirect": "https://www.popisms.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.popisms.com/"
-    },
-    {
         "link": "https://aekb.de",
         "Heading": "Startseite | \u00c4rztekammer Berlin",
         "Abstract": "In Berlin leben und arbeiten \u00fcber 35.000 \u00c4rztinnen und \u00c4rzte. Die \u00c4rztekammer Berlin ist ihre Berufsvertretung. #aekberlin",
         "Official Site": "https://www.aekb.de/",
-        "Icon": "/typo3conf/ext/vdtheme_aerztekammer/Resources/Public/Icons/Favicons/favicon-16x16.png",
+        "Icon": "/_assets/8214c210ce4446205f5e1a29a1c78bd2/Icons/Favicons/favicon-16x16.png",
         "Redirect": "https://www.aekb.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.aekb.de/"
@@ -82,7 +72,7 @@
     {
         "link": "https://freecenter.com",
         "Heading": "freecenter.com\u00a0-\u00a0This website is for sale!\u00a0-\u00a0freecenter Resources and Information.",
-        "Abstract": "This website is for sale! freecenter.com is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, freecenter.com has it all. We hope you find what you are searching for!",
+        "Abstract": "This website is for sale! freecenter.com is your first and best source for information about freecenter. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
         "Official Site": "https://freecenter.com",
         "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
         "Redirect": "https://freecenter.com",
@@ -178,6 +168,16 @@
         "Redirect": "https://perfect-date.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://perfect-date.org"
+    },
+    {
+        "link": "https://prositeshosting.com",
+        "Heading": "\n\tSouthWest Smiles - Welcome\n",
+        "Abstract": "Welcome to our Welcome page. Contact Dr. McToothy today at 951-555-1212 or visit our office servicing Temecula, CA",
+        "Official Site": "https://prositeshosting.com",
+        "Icon": "/images/icons/tap/0.png",
+        "Redirect": "https://prositeshosting.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://prositeshosting.com"
     },
     {
         "link": "https://mastergrannyflats.com.au",

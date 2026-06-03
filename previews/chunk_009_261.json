@@ -151,8 +151,8 @@
     },
     {
         "link": "https://datascoutpro.com",
-        "Heading": "Data. Delivered. \u00ae - DataScoutPro.com",
-        "Abstract": "DataScoutPro is your Arkansas & Oklahoma online source for county land records.",
+        "Heading": "DataScoutPro - Maintenance",
+        "Abstract": null,
         "Official Site": "https://datascoutpro.com",
         "Icon": "/Content/Images/favicon.ico",
         "Redirect": "https://datascoutpro.com",
@@ -168,6 +168,16 @@
         "Redirect": "https://veilingsplaats.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://veilingsplaats.nl"
+    },
+    {
+        "link": "https://franchiseopportunities.com",
+        "Heading": "Franchise Opportunities: Find Franchises For Sale",
+        "Abstract": "Search for franchises opportunities for sale. Browse franchises by industry, state or investment level on FranchiseOpportunities.com.",
+        "Official Site": "https://www.franchiseopportunities.com/",
+        "Icon": "https://franchise-ventures-general.s3.amazonaws.com/cdn_fo/images/og-fo-logo.png",
+        "Redirect": "https://www.franchiseopportunities.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.franchiseopportunities.com/"
     },
     {
         "link": "https://longmonthumane.org",

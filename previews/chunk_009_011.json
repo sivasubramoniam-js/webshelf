@@ -110,14 +110,14 @@
         "AbstractURL": "https://studioautomated.com/"
     },
     {
-        "link": "https://syfeed.com",
-        "Heading": "\t\t\tSyFeed around the world \u2014 local and international news\n\t",
-        "Abstract": "Read the latest news from around the world, aggregated across trusted sources. AI categories, summaries, and real-time updates.",
-        "Official Site": "https://syfeed.com/en",
-        "Icon": "https://syfeed.com/img/syfeed-og.jpg",
-        "Redirect": "https://syfeed.com/en",
+        "link": "https://sysmex-astrim.jp",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sysmex-astrim.jp",
+        "Icon": "N/A",
+        "Redirect": "https://sysmex-astrim.jp",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://syfeed.com/en"
+        "AbstractURL": "https://sysmex-astrim.jp"
     },
     {
         "link": "https://tamworthlibrary.org",
@@ -144,7 +144,7 @@
         "Heading": "Taxi de Carretera | Traslados de larga distancia entre ciudades",
         "Abstract": "Taxi de carretera para traslados de larga distancia en recorridos interurbanos, realizamos presupuestos de precio y reservas, aceptamos cancelaciones sin coste.",
         "Official Site": "httpss://taxidecarretera.com/",
-        "Icon": "https://taxidecarretera.com/images/campo.webp",
+        "Icon": "https://taxidecarretera.com/images/Eurostars.webp",
         "Redirect": "httpss://taxidecarretera.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "httpss://taxidecarretera.com/"
@@ -178,6 +178,16 @@
         "Redirect": "https://tfswheels.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tfswheels.com/"
+    },
+    {
+        "link": "https://thailandvacationrentals.com",
+        "Heading": "Luxury Beachfront Villas and Resorts Across Thailand",
+        "Abstract": "Discover Thailand\u2019s best accommodations, from luxury beachfront villas to cozy island retreats. Enjoy stunning beaches, rich culture, and vibrant markets",
+        "Official Site": "https://thailandvacationrentals.com/",
+        "Icon": "https://cdn.123presto.com/prod/published/thailandvacationrentals/home.jpeg",
+        "Redirect": "https://thailandvacationrentals.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thailandvacationrentals.com/"
     },
     {
         "link": "https://thaterrormessage.com",
@@ -218,16 +228,6 @@
         "Redirect": "https://theweldingforum.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theweldingforum.com"
-    },
-    {
-        "link": "https://theworldhour.com",
-        "Heading": "The World Hour \u2013 To show the world to the world",
-        "Abstract": null,
-        "Official Site": "https://theworldhour.com",
-        "Icon": "https://theworldhour.com/wp-content/uploads/2026/01/WH-Logo2-150x150.jpg",
-        "Redirect": "https://theworldhour.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://theworldhour.com"
     },
     {
         "link": "https://thuocgiaotannha.vn",

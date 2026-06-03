@@ -73,11 +73,11 @@
         "link": "https://poivy.com",
         "Heading": "poivY",
         "Abstract": "Free phone calls with poivY. Call your online friends for free as well as a special selection of popular international destinations. Refer a friend and get free minutes!",
-        "Official Site": "https://www.poivy.com/login",
-        "Icon": "N/A",
-        "Redirect": "https://www.poivy.com/login",
+        "Official Site": "https://www.poivy.com/dashboard",
+        "Icon": "https://www.poivy.com/public/assets/images/favicon.ico",
+        "Redirect": "https://www.poivy.com/dashboard",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.poivy.com/login"
+        "AbstractURL": "https://www.poivy.com/dashboard"
     },
     {
         "link": "https://telepesquisa.com",
@@ -288,16 +288,6 @@
         "Redirect": "https://peer-stream.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://peer-stream.com"
-    },
-    {
-        "link": "https://apso.ru",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://apso.ru",
-        "Icon": "N/A",
-        "Redirect": "https://apso.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://apso.ru"
     },
     {
         "link": "https://sofarsolar.com",

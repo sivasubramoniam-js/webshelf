@@ -100,21 +100,11 @@
         "AbstractURL": "https://dattahoster.com"
     },
     {
-        "link": "https://ticgroup.com.au",
-        "Heading": "TIC Group",
-        "Abstract": "TIC Group has been providing inventory and supply chain services to retailers and suppliers for over twenty years.",
-        "Official Site": "https://www.ticgroup.com.au/",
-        "Icon": "https://www.ticgroup.com.au/wp-content/uploads/2024/04/cropped-tic-symbol-250-32x32.webp",
-        "Redirect": "https://www.ticgroup.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ticgroup.com.au/"
-    },
-    {
         "link": "https://serblog.ru",
         "Heading": "\u0417\u0430\u0440\u0430\u0431\u043e\u0442\u043e\u043a \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0435 \u043d\u0430 \u0434\u043e\u043c\u0443 \u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u043e\u0432, \u0432\u0441\u0435 \u043e \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0441\u043a\u0438\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u0445, \u0443\u0440\u043e\u043a\u0438 \u043f\u043e \u0444\u043e\u0442\u043e\u0448\u043e\u043f\u0443, \u0443\u0440\u043e\u043a\u0438 html, \u043a\u043d\u0438\u0433\u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e, \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b",
         "Abstract": "\u0411\u043b\u043e\u0433 \u043e \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430\u0445, \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u0445, \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0438 \u0441\u0430\u0439\u0442\u043e\u0432, \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438",
         "Official Site": "https://serblog.ru",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://serblog.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://serblog.ru"
@@ -210,6 +200,16 @@
         "AbstractURL": "https://smartmenus.org"
     },
     {
+        "link": "https://burtonsbiscuitcompany.com",
+        "Heading": "Fox's & Burton's Biscuits - FBC UK - Twice as Tasty Since 1853",
+        "Abstract": "Discover FBC UK's range of beloved biscuits combining Fox's and Burton's legendary heritage. From Jammie Dodgers to Maryland Cookies, explore our iconic British treats.",
+        "Official Site": "https://burtonsbiscuitcompany.com",
+        "Icon": "/themes/fbc/favicon/favicon.svg",
+        "Redirect": "https://burtonsbiscuitcompany.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://burtonsbiscuitcompany.com"
+    },
+    {
         "link": "https://diatek.ru",
         "Heading": "\u0414\u0438\u0430\u0442\u0435\u043a",
         "Abstract": "\u041b\u0438\u0434\u0435\u0440 \u0432 \u0441\u0438\u043d\u0442\u0435\u0437\u0435 \u0438 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u044b\u0445 \u0430\u043b\u043c\u0430\u0437\u043e\u0432. \u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u043c \u0430\u043b\u043c\u0430\u0437\u043d\u044b\u0435 \u043f\u043b\u0430\u0441\u0442\u0438\u043d\u044b \u0440\u0435\u043a\u043e\u0440\u0434\u043d\u044b\u0445 \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u0432 \u0441\u00a0\u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430\u043c\u0438 \u0438\u00a0\u0437\u0430\u0434\u0430\u043d\u043d\u044b\u043c \u0443\u0440\u043e\u0432\u043d\u0435\u043c \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u0439 \u043f\u0440\u0438\u043c\u0435\u0441\u0435\u0439",
@@ -250,16 +250,6 @@
         "AbstractURL": "https://yourwesterndecorating.com/"
     },
     {
-        "link": "https://liugongla.com",
-        "Heading": "Home - LiuGong",
-        "Abstract": "Nossas solu\u00e7\u00f5es Nossas solu\u00e7\u00f5es Solu\u00e7\u00f5es em industria Aumente sua produtividade Solu\u00e7\u00f5es em Constru\u00e7\u00e3o Civil Autoridade em solu\u00e7\u00f5es em constru\u00e7\u00e3o civil Constru\u00e7\u00e3o de estradas Siga em frente com o seu projeto Solu\u00e7\u00f5es em minera\u00e7\u00e3o N\u00f3s realizamos o trabalho duro Solu\u00e7\u00f5es em Paisagismo Equipamentos que transformam Solu\u00e7\u00f5es em Agricultura Apoiamos seu Crescimento Solu\u00e7\u00f5es Florestais Efici\u00eancia e facilidade [\u2026]",
-        "Official Site": "https://liugongla.com/",
-        "Icon": "http://liugongla.com/wp-content/uploads/2023/11/maquinas_0004_Industrial.png",
-        "Redirect": "https://liugongla.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://liugongla.com/"
-    },
-    {
         "link": "https://allitservice.com",
         "Heading": "All IT Service - Global IT Solutions Provider | Remote & Managed IT Services",
         "Abstract": "All IT Service - Global IT solutions provider specializing in managed IT services, cloud solutions, cybersecurity, remote support, and IT consulting for businesses across Europe, Middle East, USA & Canada.",
@@ -272,7 +262,7 @@
     {
         "link": "https://bolsterbuilt.com",
         "Heading": "Bolster | Construction Management Software",
-        "Abstract": "Boost your construction business with Bolster's Consturction Management Software for sales and estimating, winning 15% bigger jobs and closing 20% more often. Automate your estimating process, create interactive proposals, and upsell with ease.",
+        "Abstract": "The only construction platform powered by Construction Intelligence. Estimate 5x faster, close 20% more jobs, and get paid faster. Free to start.",
         "Official Site": "https://bolsterbuilt.com",
         "Icon": "https://cdn.prod.website-files.com/671027610ae409a9588ed105/672bd484660e6273c719ab7b_opengraph_preview_home.png",
         "Redirect": "https://bolsterbuilt.com",

@@ -54,7 +54,7 @@
         "Heading": "HiFiHut.ie | Hi-Fi & Home Cinema | Shop Online & Dublin Showroom",
         "Abstract": "Specialist hi-fi, home cinema and audio. Shop online with delivery across Ireland and the EU, or book a demo at our Dublin showroom. Stocking Sonos, Sennheiser, Klipsch, DALI, Rega, Denon, Marantz and more.",
         "Official Site": "https://www.hifihut.ie/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0278/4696/7399/files/HiFiHut-Logo-Full-RGB-White-Green_1200x675.png?v=1779978686",
+        "Icon": "https://www.hifihut.ie/cdn/shop/files/HiFiHut-Logo-Full-RGB-White-Green_1200x675.png?v=1779978686",
         "Redirect": "https://www.hifihut.ie/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hifihut.ie/"
@@ -338,6 +338,16 @@
         "Redirect": "https://www.homework.ru/uslugi/kursovye-na-zakaz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.homework.ru/uslugi/kursovye-na-zakaz/"
+    },
+    {
+        "link": "https://cor-retraites.fr",
+        "Heading": "Cor Retraites",
+        "Abstract": "Cor Retraites",
+        "Official Site": "https://cor-retraites.fr",
+        "Icon": "/themes/custom/cortheme/favicon.ico",
+        "Redirect": "https://cor-retraites.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cor-retraites.fr"
     },
     {
         "link": "https://xpxs9.cc",

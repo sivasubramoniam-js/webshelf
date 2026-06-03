@@ -4,7 +4,7 @@
         "Heading": "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u044b\u0439 \u0423\u0433\u043b\u0435\u0440\u043e\u043d \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0431\u0440\u0435\u043d\u0434\u0430",
         "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u044b\u0439 \u0423\u0433\u043b\u0435\u0440\u043e\u043d. \u041d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u043f\u0440\u0435\u0439 \u0441 \u0430\u043d\u0442\u0438\u043c\u0438\u043a\u0440\u043e\u0431\u043d\u044b\u043c \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u043c. \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0438\u043c\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430. \u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438.",
         "Official Site": "https://silver-ugleron.ru",
-        "Icon": "/favicon.png",
+        "Icon": "/upload/resize_cache/webp//favicon.webp",
         "Redirect": "https://silver-ugleron.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://silver-ugleron.ru"
@@ -18,16 +18,6 @@
         "Redirect": "https://www.meridianbanker.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.meridianbanker.com/"
-    },
-    {
-        "link": "https://mdsolution.at",
-        "Heading": "MDsolution Shop",
-        "Abstract": null,
-        "Official Site": "https://shop.mdsolution.at",
-        "Icon": "https://shop.mdsolution.at/wp-content/uploads/2024/04/cropped-MD-Logo-Black@2x-32x32.png",
-        "Redirect": "https://shop.mdsolution.at",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shop.mdsolution.at"
     },
     {
         "link": "https://swpat.org",
@@ -110,24 +100,14 @@
         "AbstractURL": "https://mommymoment.ca/"
     },
     {
-        "link": "https://oaknorthbank.co.uk",
-        "Heading": "Home - OakNorth Bank - US",
-        "Abstract": null,
-        "Official Site": "https://oaknorth.com",
-        "Icon": "https://oaknorth.com/wp-content/themes/palebluedot/assets/img/logo-icon.svg",
-        "Redirect": "https://oaknorth.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://oaknorth.com"
-    },
-    {
         "link": "https://acnemedsrx.com",
-        "Heading": "Espironolactona | Acne Treatment",
-        "Abstract": "It\u2019s been about six months since I finally stopped picking at my jawline and started actually treating it, and honestly? I thought Spironolactone would be magi\u2026",
-        "Official Site": "espironolactona.html",
+        "Heading": "Spironolacton | Acne Treatment",
+        "Abstract": "# How I Finally Tamed My Hormonal Acne With Spironolactone (And The Messy Parts) Look, before I started seeing any kind of progress, I was ready to pull my hai\u2026",
+        "Official Site": "spironolacton.html",
         "Icon": "assets/images/og-cover.jpg",
-        "Redirect": "espironolactona.html",
+        "Redirect": "spironolacton.html",
         "AbstractSource": "BS4",
-        "AbstractURL": "espironolactona.html"
+        "AbstractURL": "spironolacton.html"
     },
     {
         "link": "https://wannatalkaboutit.com",
@@ -208,16 +188,6 @@
         "Redirect": "https://textmine.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://textmine.com"
-    },
-    {
-        "link": "https://webofthings.org",
-        "Heading": "Web of Things \u2013 Architecting the Web of Things, for techies and thinkers!",
-        "Abstract": null,
-        "Official Site": "https://webofthings.org",
-        "Icon": "https://webofthings.org/wp-content/uploads/2015/04/cropped-1961900-150x150.jpg",
-        "Redirect": "https://webofthings.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://webofthings.org"
     },
     {
         "link": "https://currieenterprises.com",

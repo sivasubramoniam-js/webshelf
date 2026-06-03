@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://tignesfrance.com",
+        "Heading": "Tignes France: Ski Resorts, Chalets, Luxury Accommodations",
+        "Abstract": "Explore Tignes's premier ski resorts and luxurious accommodations offering year-round adventure experiences for unforgettable alpine getaways.",
+        "Official Site": "https://tignesfrance.com/",
+        "Icon": "https://cdn.123presto.com/prod/published/tignesfrance/home.webp",
+        "Redirect": "https://tignesfrance.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tignesfrance.com/"
+    },
+    {
         "link": "https://till-weber.de",
         "Heading": "TILL WEBER | Uhren, Schmuck & Silber seit 1985 von antik bis modern",
         "Abstract": null,
@@ -180,6 +190,16 @@
         "AbstractURL": "https://www.andaluciainformacion.es/cadiz/"
     },
     {
+        "link": "https://vivajerez.es",
+        "Heading": "Noticias de Jerez \u2013 Actualidad y \u00faltima hora en Viva Jerez",
+        "Abstract": "Consulta la informaci\u00f3n de \u00faltima hora sobre Jerez",
+        "Official Site": "https://www.andaluciainformacion.es/jerez/",
+        "Icon": "/media/andaluciainformacion/images/2025/07/29/2025072910330056771.png",
+        "Redirect": "https://www.andaluciainformacion.es/jerez/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.andaluciainformacion.es/jerez/"
+    },
+    {
         "link": "https://vjth.cloud",
         "Heading": "VJLOOP",
         "Abstract": null,
@@ -238,5 +258,15 @@
         "Redirect": "https://williamsautomation.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://williamsautomation.com/"
+    },
+    {
+        "link": "https://witheldokan.com",
+        "Heading": "SuperCommerce - The Future of ecommerce",
+        "Abstract": "Join us in our mission to digitally revolutionize commerce across the Middle East and Africa",
+        "Official Site": "https://witheldokan.com",
+        "Icon": "https://cdn.prod.website-files.com/6644c579cff6e0d6b8661d70/6644d007206f2a070cd0a002_icon.png",
+        "Redirect": "https://witheldokan.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://witheldokan.com"
     }
 ]

@@ -51,10 +51,10 @@
     },
     {
         "link": "https://hillbankusa.com",
-        "Heading": "Superformance & Shelby Classic Cars Dealer - Hillbank Motor",
-        "Abstract": "Hillbank Motor Corporation is a proud dealer of the Superformance & Shelby classic American sport cars such as the Shelby Cobra models, GT40 & MKIIs.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://hillbankusa.com",
-        "Icon": "/hillbank_irvine/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://hillbankusa.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hillbankusa.com"
@@ -78,16 +78,6 @@
         "Redirect": "https://scoreatyourlocal.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://scoreatyourlocal.com.au"
-    },
-    {
-        "link": "https://ntoa.org",
-        "Heading": "NTOA | National Tactical Officers Association",
-        "Abstract": null,
-        "Official Site": "https://ntoa.org",
-        "Icon": "https://www.ntoa.org/wp-content/uploads/2018/04/cropped-NTOA-Logo-Color-e1537973585927-32x32.png",
-        "Redirect": "https://ntoa.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ntoa.org"
     },
     {
         "link": "https://phoenixdev.gr",
@@ -228,6 +218,16 @@
         "Redirect": "https://cippe.com.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cippe.com.cn"
+    },
+    {
+        "link": "https://ballstatedaily.com",
+        "Heading": "\n      Cardinal Media\n     - Cardinal Media",
+        "Abstract": "Cardinal Media is a student-run information service within the School of Journalism and Strategic Communication at Ball State University with content contributions from student organizations within the Department of Media and Ball State Public Media.",
+        "Official Site": "https://www.cardinalmediabsu.com",
+        "Icon": "https://snworksceo.imgix.net/bsd/a78939c7-3be4-4299-95da-e05920ad83fc.sized-1000x1000.png?w=800&h=600&fit=crop&crop=faces,edges",
+        "Redirect": "https://www.cardinalmediabsu.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cardinalmediabsu.com"
     },
     {
         "link": "https://tms-info.org",

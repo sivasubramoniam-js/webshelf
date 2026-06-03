@@ -30,26 +30,6 @@
         "AbstractURL": "https://theclearhost.com"
     },
     {
-        "link": "https://madadco.com",
-        "Heading": "Domain Default page",
-        "Abstract": null,
-        "Official Site": "https://madadco.com",
-        "Icon": "N/A",
-        "Redirect": "https://madadco.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://madadco.com"
-    },
-    {
-        "link": "https://kazmuno.kz",
-        "Heading": "KAZMUNO - \u041a\u0430\u0437\u0430\u0445\u0441\u043a\u0438\u0439 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f",
-        "Abstract": "\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u0430",
-        "Official Site": "https://kazmuno.kz",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://kazmuno.kz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kazmuno.kz"
-    },
-    {
         "link": "https://cardrona.com",
         "Heading": "Cardrona & Treble Cone | Official Ski Resorts Website",
         "Abstract": "Discover Cardrona and Treble Cone - New Zealand's premier alpine playground with ski fields, passes, mountain updates and year-round adverntures in Wanaka and Queenstown.",
@@ -140,9 +120,19 @@
         "AbstractURL": "https://www.lakeridge.bank/"
     },
     {
+        "link": "https://allcycladeshotels.com",
+        "Heading": "Cyclades hotels & apartments, all accommodations in Cyclades",
+        "Abstract": "Online booking for hotels in Cyclades, Greece. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://allcycladeshotels.com",
+        "Icon": "N/A",
+        "Redirect": "https://allcycladeshotels.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://allcycladeshotels.com"
+    },
+    {
         "link": "https://bluecc.edu",
         "Heading": "Home - Blue Mountain Community College",
-        "Abstract": "Apply Now Commencement Countdown! Days Hours Minutes Your Home\u2026Your Pack\u2026 Your Success Story! 1 Spend less on a quality education with BMCC 2 Develop in-demand skills with local industries 3 Elevate your career with a certificate or degree. Lower Tuition than OSU 0 % Lower Tuition than EOU 0 % Lower Tuition than WGU 0 [\u2026]",
+        "Abstract": "Apply Now Commencement Countdown! Days Hours Minutes live stream link Your Home\u2026Your Pack\u2026 Your Success Story! 1 Spend less on a quality education with BMCC 2 Develop in-demand skills with local industries 3 Elevate your career with a certificate or degree. Lower Tuition than OSU 0 % Lower Tuition than EOU 0 % Lower Tuition [\u2026]",
         "Official Site": "https://bluecc.edu/",
         "Icon": "N/A",
         "Redirect": "https://bluecc.edu/",
@@ -228,16 +218,6 @@
         "Redirect": "https://langenachtderforschung.at",
         "AbstractSource": "BS4",
         "AbstractURL": "https://langenachtderforschung.at"
-    },
-    {
-        "link": "https://vinayakinstitute.org",
-        "Heading": "Home - Vinayak institute",
-        "Abstract": "Vinayak Institute is The Best B.Ed. Institute in Kenderaara , Offering B.Ed., B.P.Ed., and M.Ed. programs since 2017, we prepare future educators for success",
-        "Official Site": "https://vinayakinstitute.org/",
-        "Icon": "https://vinayakinstitute.org/wp-content/uploads/2025/05/poster-vinayak-institute-copy-1024x1024.jpg",
-        "Redirect": "https://vinayakinstitute.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vinayakinstitute.org/"
     },
     {
         "link": "https://cbarbecue.com",

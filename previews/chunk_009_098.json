@@ -20,16 +20,6 @@
         "AbstractURL": "https://hitekgroup.ru"
     },
     {
-        "link": "https://omayaa.com",
-        "Heading": "India's Social media | Omayaa",
-        "Abstract": "Omayaa is a Social Networking Platform. With our new feature, user can wonder posts, photos,",
-        "Official Site": "https://omayaa.com",
-        "Icon": "https://omayaa.com/themes/wowonder/img/og.jpg",
-        "Redirect": "https://omayaa.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://omayaa.com"
-    },
-    {
         "link": "https://managementblueprints.com",
         "Heading": "Management BluePrints, LLC \u2013 You have the Need, We have the Plan!",
         "Abstract": null,
@@ -58,6 +48,16 @@
         "Redirect": "https://e-star.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://e-star.com"
+    },
+    {
+        "link": "https://brconecta.com.br",
+        "Heading": "BR Conecta",
+        "Abstract": null,
+        "Official Site": "https://brconecta.com.br",
+        "Icon": "https://www.zaaztelecom.com.br/img/favicon/16x16.png",
+        "Redirect": "https://brconecta.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://brconecta.com.br"
     },
     {
         "link": "https://1win-aviatorx.com",
@@ -268,6 +268,16 @@
         "Redirect": "https://laufreport.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://laufreport.de"
+    },
+    {
+        "link": "https://varaosa24.fi",
+        "Heading": "Uudet varaosat j\u00e4rkihinnoilla - Varaosa24.fi",
+        "Abstract": "Uudet varaosat j\u00e4rkihinnoilla. Ammatilainen TecDoc varaosatiedosto, nopea toimitus ymp\u00e4ri Suomea ja asiantunteva asiakaspalvelu",
+        "Official Site": "https://www.varaosa24.fi/",
+        "Icon": "https://www.varaosa24.fi/static/img/varaosa24_big.png",
+        "Redirect": "https://www.varaosa24.fi/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.varaosa24.fi/"
     },
     {
         "link": "https://squadbox.ai",

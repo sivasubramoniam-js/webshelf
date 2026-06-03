@@ -74,7 +74,7 @@
         "Heading": "\n  3sixteen\n",
         "Abstract": "3sixteen is an NYC based brand that aims to produce the highest quality clothing and accessories using premium materials and quality American manufacturing.",
         "Official Site": "https://3sixteen.com",
-        "Icon": "https://www.3sixteen.com/cdn/shop/t/12/assets/og_img_1200x630_crop_center.jpg?v=3755151715668954931735971812",
+        "Icon": "https://www.3sixteen.com/cdn/shop/t/17/assets/og_img_1200x630_crop_center.jpg?v=3755151715668954931780438591",
         "Redirect": "https://3sixteen.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://3sixteen.com"
@@ -120,16 +120,6 @@
         "AbstractURL": "https://girls-xxx.vip"
     },
     {
-        "link": "https://askgif.com",
-        "Heading": "AskGif \u2014 Discover GIFs, Movies, Blogs & Company Reviews",
-        "Abstract": "Discover GIFs by emotion, explore top movies, read company reviews, and browse bilingual blogs on AskGif.",
-        "Official Site": "https://askgif.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://askgif.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://askgif.com"
-    },
-    {
         "link": "https://vgct.nl",
         "Heading": "Homepage - VGCt",
         "Abstract": "De Vereniging voor Gedrags- en Cognitieve therapie\u00ebn is de wetenschappelijke vakvereniging\u00a0voor cognitief gedragstherapeuten en cognitief gedragstherapeutisch werkers in Nederland.",
@@ -150,11 +140,21 @@
         "AbstractURL": "https://undesigned.ro"
     },
     {
+        "link": "https://myweekendplan.asia",
+        "Heading": "My Weekend Plan | Ultimate Guide To Where To Go, Eat, Things To Do In Asia",
+        "Abstract": "We are media platform that share ideas on food, things to do in Malaysia and help people to discover product based on their requirements.",
+        "Official Site": "https://myweekendplan.asia/",
+        "Icon": "https://myweekendplan.asia/wp-content/uploads/2023/09/mwp-favicon.png",
+        "Redirect": "https://myweekendplan.asia/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://myweekendplan.asia/"
+    },
+    {
         "link": "https://soli-business.com",
         "Heading": "\u0635\u0641\u062d\u0647 \u0646\u062e\u0633\u062a - \u062f\u06a9\u062a\u0631 \u0645\u062d\u0645\u0648\u062f \u0633\u0644\u06cc\u0645\u0627\u0646\u06cc\u200c\u062e\u0648\u0627\u0647",
         "Abstract": null,
         "Official Site": "https://soli-business.com/",
-        "Icon": "https://soli-business.com/wp-content/uploads/2023/09/xcropped-coach-favicon-32x32.webp.pagespeed.ic.XKsU93R0od.webp",
+        "Icon": "https://soli-business.com/wp-content/uploads/2023/09/xcropped-coach-favicon-32x32.webp.pagespeed.ic.Mlsae8EZJa.webp",
         "Redirect": "https://soli-business.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://soli-business.com/"
@@ -218,15 +218,5 @@
         "Redirect": "https://www.linde-engineering.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.linde-engineering.com/"
-    },
-    {
-        "link": "https://pcerror-fix.com",
-        "Heading": "PC Error Fix - Get Best Solutions To Your Windows Problems",
-        "Abstract": "Pcerrorfix.com helps you to resolve Windows 10 & 11 related errors, PC performance & gaming problems, security, registry & DLL issues in a simple step by step guides & tips.",
-        "Official Site": "https://www.pcerror-fix.com/",
-        "Icon": "https://www.pcerror-fix.com/wp-content/uploads/2020/02/cropped-dark-favicon-32x32.png",
-        "Redirect": "https://www.pcerror-fix.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.pcerror-fix.com/"
     }
 ]

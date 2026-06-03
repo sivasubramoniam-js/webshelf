@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.webhostingbuzz.com/"
     },
     {
+        "link": "https://another.co",
+        "Heading": "Another - Agencia de marketing y comunicaci\u00f3n estrat\u00e9gica",
+        "Abstract": "En Another, generamos estrategias integrales de Relaciones P\u00fablicas, Marketing Digital, Branding, Eventos y Creatividad para tu marca.",
+        "Official Site": "https://another.co/",
+        "Icon": "https://another.co/wp-content/uploads/2021/10/logo-another.jpg",
+        "Redirect": "https://another.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://another.co/"
+    },
+    {
         "link": "https://grave.com",
         "Heading": "grave.com",
         "Abstract": null,
@@ -54,7 +64,7 @@
         "Heading": "Lazy Acres - Lazy Acres Natural Market | Grocery Store in California",
         "Abstract": "Discover your new favorite grocery store! Shop local, organic produce, meat, seafood, and more at our stores across California. ",
         "Official Site": "https://lazyacres.com",
-        "Icon": "https://www.lazyacres.com/getattachment/f280aeb0-0299-46ea-9b15-fd61c7616185/LAM26_NatLiving-Email_1-12_Blog.jpg?lang=en-US&ext=.jpg",
+        "Icon": "https://www.lazyacres.com/getmedia/1937b88c-eb27-43e2-896d-f67707c5f642/Join-Our-Team-2.png?width=680&height=800&ext=.png",
         "Redirect": "https://lazyacres.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lazyacres.com"
@@ -108,16 +118,6 @@
         "Redirect": "https://utahpowercu.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://utahpowercu.org"
-    },
-    {
-        "link": "https://e-madencilik.com",
-        "Heading": "Madencinin Adresi - Sahibinden Maden \u0130lanlar\u0131 - E-Madencilik",
-        "Abstract": "T\u00fcrkiye\u2019nin en b\u00fcy\u00fck Madencilik Sekt\u00f6r\u00fc ilanlar\u0131 sitesi. Hem de \u00fccretsiz. Sahibinden Maden Sahalar\u0131-Cevherler-\u0130kinci el ve S\u0131f\u0131r Maden \u00dcretim Makineleri-YTK-Proje-Ruhsat",
-        "Official Site": "https://e-madencilik.com",
-        "Icon": "favicon.ico",
-        "Redirect": "https://e-madencilik.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://e-madencilik.com"
     },
     {
         "link": "https://coincat.in",
@@ -258,16 +258,6 @@
         "Redirect": "https://jkg-portal.com.ua",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jkg-portal.com.ua"
-    },
-    {
-        "link": "https://spacewatchafrica.com",
-        "Heading": "Home - Space Watch Africa",
-        "Abstract": null,
-        "Official Site": "https://spacewatchafrica.com/",
-        "Icon": "https://spacewatchafrica.com/wp-content/uploads/2023/01/spacewatch_logo-300x129-1.jpeg",
-        "Redirect": "https://spacewatchafrica.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://spacewatchafrica.com/"
     },
     {
         "link": "https://siouxlandenergy.com",

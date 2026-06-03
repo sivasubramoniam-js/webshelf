@@ -250,6 +250,16 @@
         "AbstractURL": "https://senecalakewine.com/"
     },
     {
+        "link": "https://toyouwel.com",
+        "Heading": "\ub85c\uadf8\uc778 | \ub178\ub3d9\ubcf5\uc9c0\ub098\ub214\ud611\ub3d9\uc870\ud569",
+        "Abstract": "\ub178\ub3d9\ubcf5\uc9c0\ub098\ub214\ud611\ub3d9\uc870\ud569",
+        "Official Site": "https://webeforyou.com",
+        "Icon": "https://webeforyou.com/_img/logo/logo_webeforyou.com.png",
+        "Redirect": "https://webeforyou.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://webeforyou.com"
+    },
+    {
         "link": "https://novosti24online.com.ua",
         "Heading": "Novosti24online.com.ua - Novosti24online.com.ua. \u041f\u043e\u0440\u0442\u0430\u043b \u043d\u043e\u0432\u0438\u043d",
         "Abstract": null,
@@ -288,6 +298,16 @@
         "Redirect": "https://www.vhv-eshop.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.vhv-eshop.cz/"
+    },
+    {
+        "link": "https://marjoleintje.nl",
+        "Heading": "marjoleintje.nl - \"Marjoleintje.nl - Waar creativiteit, gezelligheid en groei samenkomen!\"",
+        "Abstract": "\"Marjoleintje.nl - Waar creativiteit, gezelligheid en groei samenkomen!\"",
+        "Official Site": "https://www.marjoleintje.nl/",
+        "Icon": "N/A",
+        "Redirect": "https://www.marjoleintje.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.marjoleintje.nl/"
     },
     {
         "link": "https://aufildelamonne.fr",
@@ -348,5 +368,15 @@
         "Redirect": "https://vidmob.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vidmob.com"
+    },
+    {
+        "link": "https://themercantilestore.com",
+        "Heading": "The Mercantile | A whole lot more than just a gift store\u2026 Find your Happy place!",
+        "Abstract": null,
+        "Official Site": "https://themercantilestore.com",
+        "Icon": "N/A",
+        "Redirect": "https://themercantilestore.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://themercantilestore.com"
     }
 ]

@@ -110,6 +110,16 @@
         "AbstractURL": "https://www.arthurgreenstein.com/"
     },
     {
+        "link": "https://5alij.com",
+        "Heading": "BATIK77",
+        "Abstract": "Valley Center Parks is preparing something fresh for the community. New park updates, local activities, and outdoor experiences are coming soon.",
+        "Official Site": "https://5alij.com",
+        "Icon": "https://u.jimcdn.com/cms/o/sba81215499629534/img/favicon.png",
+        "Redirect": "https://5alij.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://5alij.com"
+    },
+    {
         "link": "https://wateck.com",
         "Heading": "Wateck",
         "Abstract": null,
@@ -283,11 +293,11 @@
         "link": "https://tsusports.com",
         "Heading": "\n\tTexas Southern University Athletics - Official Athletics Website\n",
         "Abstract": "The official athletics website for the Texas Southern University Tigers",
-        "Official Site": "https://tsusports.com/index.aspx",
+        "Official Site": "https://tsusports.com/",
         "Icon": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fathletics.tsu.edu%2fimages%2flogos%2fsite%2fsite.png&type=jpeg",
-        "Redirect": "https://tsusports.com/index.aspx",
+        "Redirect": "https://tsusports.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tsusports.com/index.aspx"
+        "AbstractURL": "https://tsusports.com/"
     },
     {
         "link": "https://granatapet.de",
@@ -318,5 +328,15 @@
         "Redirect": "https://serenitysmart.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://serenitysmart.com/"
+    },
+    {
+        "link": "https://cpofficial.in",
+        "Heading": "Casino Pride \u2013 Best Casino in Goa",
+        "Abstract": null,
+        "Official Site": "https://cpofficial.in",
+        "Icon": "https://www.cpofficial.in/wp-content/uploads/2024/07/cropped-Untitled-design-2024-07-02T142242.113-32x32.png",
+        "Redirect": "https://cpofficial.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cpofficial.in"
     }
 ]

@@ -34,7 +34,7 @@
         "Heading": "Construction site access control  & workforce management | Biosite Systems",
         "Abstract": "Construction jobsite access control and integrated CrewSight workforce management software, with site monitoring and surveillance.",
         "Official Site": "https://www.biositesystems.com/us/en",
-        "Icon": "https://gw-assets.assaabloy.com/is/image/assaabloy/CrewSight%20Building%20site%20brochure%20ver-%20all%20solution_web%205-01",
+        "Icon": "https://gw-assets.assaabloy.com/is/image/assaabloy/construction%20workers%20walking%20greyscale",
         "Redirect": "https://www.biositesystems.com/us/en",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.biositesystems.com/us/en"
@@ -98,6 +98,16 @@
         "Redirect": "https://sangraha.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sangraha.net"
+    },
+    {
+        "link": "https://shedhub.com",
+        "Heading": "New Sheds, Used Sheds - Find Sheds for Sale at ShedHUB",
+        "Abstract": "Find new sheds and used sheds for sale at ShedHUB. ShedHUB is the premier shed classifieds site online, offering helpful information, research and shed product descriptions.",
+        "Official Site": "https://shedhub.com",
+        "Icon": "https://assets.shedhub.com/images/logo.png",
+        "Redirect": "https://shedhub.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shedhub.com"
     },
     {
         "link": "https://theblueage.com",
@@ -191,7 +201,7 @@
     },
     {
         "link": "https://mizbantech.com",
-        "Heading": "Account Suspended",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://mizbantech.com",
         "Icon": "N/A",
@@ -223,11 +233,11 @@
         "link": "https://stevensducks.com",
         "Heading": "\n\tStevens Institute of Technology Athletics - Official Athletics Website\n",
         "Abstract": "The official athletics website for the Stevens Institute of Technology Ducks",
-        "Official Site": "https://stevensducks.com/",
+        "Official Site": "https://stevensducks.com/index.aspx?path%3Dmvball=path3Dmvball",
         "Icon": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fstevens.sidearmsports.com%2fimages%2flogos%2fsite%2fsite.png&type=jpeg",
-        "Redirect": "https://stevensducks.com/",
+        "Redirect": "https://stevensducks.com/index.aspx?path%3Dmvball=path3Dmvball",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://stevensducks.com/"
+        "AbstractURL": "https://stevensducks.com/index.aspx?path%3Dmvball=path3Dmvball"
     },
     {
         "link": "https://futurehealthlife.com",

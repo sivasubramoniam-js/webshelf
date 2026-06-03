@@ -212,22 +212,12 @@
     {
         "link": "https://tohotel.com",
         "Heading": "Best hotels in United States \u2794 Top United States Destinations | ToHotel.com",
-        "Abstract": "Choose from over 158863 most popular United States hotels. \u2713Exclusive offers \u2713Trusted reviews \u2713Verified photos. Book your stay on ToHotel.com",
+        "Abstract": "Choose from over 158786 most popular United States hotels. \u2713Exclusive offers \u2713Trusted reviews \u2713Verified photos. Book your stay on ToHotel.com",
         "Official Site": "https://tohotel.com/",
         "Icon": "https://tohotel.com/frontend/img/logo_dark.svg",
         "Redirect": "https://tohotel.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tohotel.com/"
-    },
-    {
-        "link": "https://tokobungalisa.com",
-        "Heading": "Toko Bunga Lisa",
-        "Abstract": "Toko Bunga LIsa",
-        "Official Site": "https://tokobungalisa.com/",
-        "Icon": "https://tokobungalisa.com/wp-content/uploads/elementor/thumbs/bp7-1-qb9wxy63ziaj8geld7pusyqt6ce4fo712iwm634q6g.jpeg",
-        "Redirect": "https://tokobungalisa.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tokobungalisa.com/"
     },
     {
         "link": "https://myrorna.se",
@@ -248,6 +238,16 @@
         "Redirect": "https://oiat.at/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://oiat.at/"
+    },
+    {
+        "link": "https://banskonews.com",
+        "Heading": "Bansko News | \u041c\u043e\u0434\u0435\u0440\u043d\u0430\u0442\u0430 \u043c\u0435\u0434\u0438\u044f \u043d\u0430 \u0411\u0430\u043d\u0441\u043a\u043e",
+        "Abstract": "Bansko News | \u041c\u043e\u0434\u0435\u0440\u043d\u0430\u0442\u0430 \u043c\u0435\u0434\u0438\u044f \u043d\u0430 \u0411\u0430\u043d\u0441\u043a\u043e | \u0410\u043a\u0442\u0443\u0430\u043b\u043d\u0438 \u043d\u043e\u0432\u0438\u043d\u0438, \u0441\u0432\u044a\u0440\u0437\u0430\u043d\u0438 \u0441 \u0411\u0430\u043d\u0441\u043a\u043e \u0438 \u0440\u0435\u0433\u0438\u043e\u043d\u0430",
+        "Official Site": "https://banskonews.com/",
+        "Icon": "wp-content/uploads/2016/11/IMG_20210102_121329-scaled-1-600x454.jpg",
+        "Redirect": "https://banskonews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://banskonews.com/"
     },
     {
         "link": "https://dresscodeclothing.com",
