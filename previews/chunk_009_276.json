@@ -51,10 +51,10 @@
     },
     {
         "link": "https://hillbankusa.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Superformance & Shelby Classic Cars Dealer - Hillbank Motor",
+        "Abstract": "Hillbank Motor Corporation is a proud dealer of the Superformance & Shelby classic American sport cars such as the Shelby Cobra models, GT40 & MKIIs.",
         "Official Site": "https://hillbankusa.com",
-        "Icon": "N/A",
+        "Icon": "/hillbank_irvine/favicon.ico",
         "Redirect": "https://hillbankusa.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hillbankusa.com"
@@ -98,6 +98,16 @@
         "Redirect": "https://narcology.clinic/regions/yaroslavl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://narcology.clinic/regions/yaroslavl/"
+    },
+    {
+        "link": "https://agilonhlth.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://agilonhlth.com",
+        "Icon": "N/A",
+        "Redirect": "https://agilonhlth.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://agilonhlth.com"
     },
     {
         "link": "https://stoewebdesign.no",
@@ -170,6 +180,16 @@
         "AbstractURL": "https://raffamusadesigns.com/"
     },
     {
+        "link": "https://theresponsibleinvesting.com",
+        "Heading": "theresponsibleinvesting",
+        "Abstract": null,
+        "Official Site": "https://theresponsibleinvesting.com",
+        "Icon": "N/A",
+        "Redirect": "https://theresponsibleinvesting.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://theresponsibleinvesting.com"
+    },
+    {
         "link": "https://havetheknowhow.com",
         "Heading": "How to Build a Linux Media Server - A step by step guide -",
         "Abstract": "Step by step guide showing you how to build your own fully featured Ubuntu media server for much less than buying a comparable off-the-shelf one",
@@ -220,16 +240,6 @@
         "AbstractURL": "https://cippe.com.cn"
     },
     {
-        "link": "https://ballstatedaily.com",
-        "Heading": "\n      Cardinal Media\n     - Cardinal Media",
-        "Abstract": "Cardinal Media is a student-run information service within the School of Journalism and Strategic Communication at Ball State University with content contributions from student organizations within the Department of Media and Ball State Public Media.",
-        "Official Site": "https://www.cardinalmediabsu.com",
-        "Icon": "https://snworksceo.imgix.net/bsd/a78939c7-3be4-4299-95da-e05920ad83fc.sized-1000x1000.png?w=800&h=600&fit=crop&crop=faces,edges",
-        "Redirect": "https://www.cardinalmediabsu.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cardinalmediabsu.com"
-    },
-    {
         "link": "https://tms-info.org",
         "Heading": "Test f\u00fcr medizinische Studieng\u00e4nge (TMS) \u2013 Informationen und Anmeldung zum \"Mediziner-Test\"",
         "Abstract": null,
@@ -238,16 +248,6 @@
         "Redirect": "https://tms-info.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tms-info.org"
-    },
-    {
-        "link": "https://hancockclaims.com",
-        "Heading": "Hancock Claims Consultants | Property Claims Resolution",
-        "Abstract": "Resolve property claims fast with Hancock Claims Consultants' nationwide network and full claims lifecycle support for fair property claims resolution.",
-        "Official Site": "https://hancockclaims.com/",
-        "Icon": "https://hancockclaims.com/wp-content/uploads/Hancock-social-sharing.jpg",
-        "Redirect": "https://hancockclaims.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hancockclaims.com/"
     },
     {
         "link": "https://almuheettours.net",

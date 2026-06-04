@@ -161,13 +161,13 @@
     },
     {
         "link": "https://ccricket.com",
-        "Heading": "Be Back Soon | Cricket",
-        "Abstract": null,
-        "Official Site": "https://ccricket.com",
-        "Icon": "/uiassets/cricketwirelesslogo.jpg",
-        "Redirect": "https://ccricket.com",
+        "Heading": "Cricket Wireless | Unlimited Phone Plans | Affordable Cell Phones | No Contract",
+        "Abstract": "Shop Cricket Wireless for affordable cell phones and unlimited plans with no contract. Enjoy 5G nationwide coverage, great deals, and transparent pricing.",
+        "Official Site": "https://www.cricketwireless.com/",
+        "Icon": "https://www.cricketwireless.com/uiassets/cricketwirelesslogo.jpg",
+        "Redirect": "https://www.cricketwireless.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ccricket.com"
+        "AbstractURL": "https://www.cricketwireless.com/"
     },
     {
         "link": "https://webenerji.com",
@@ -211,13 +211,13 @@
     },
     {
         "link": "https://pizzaclassicany.com",
-        "Heading": "Best Italian Pizza Restaurant in Glendale Queens | Pizza Classica | Italian Cuisine | Glendale, NY",
-        "Abstract": "Pizza Classica serves brick oven pizza, pasta, seafood & Italian favorites in Glendale, Queens near Forest Hills and Middle Village.",
-        "Official Site": "https://www.pizzaclassicany.com/",
-        "Icon": "https://chowly-coo-configuration-assets.nyc3.digitaloceanspaces.com/chowly-coo-prod-configuration-assets/public/assets/Favicon-689-dd75c9d6-0b6b-4ccb-bd8f-ee34b9602de4.png",
-        "Redirect": "https://www.pizzaclassicany.com/",
+        "Heading": "Fine Italian Menus and Catering | Pizza Classica NY",
+        "Abstract": "A restaurant well-known for its home-style quality Italian menus and catering services in Glendale, NY. They also serve the best-tasting dinner, fine wines and beverages.",
+        "Official Site": "https://pizzaclassicany.com/",
+        "Icon": "https://pizzaclassicany.com/wp-content/uploads/2018/10/favicon.png",
+        "Redirect": "https://pizzaclassicany.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.pizzaclassicany.com/"
+        "AbstractURL": "https://pizzaclassicany.com/"
     },
     {
         "link": "https://m6back639.win",
@@ -318,15 +318,5 @@
         "Redirect": "https://zeecu.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zeecu.com"
-    },
-    {
-        "link": "https://techbehindit.com",
-        "Heading": "Tech Behind It - Latest Technology News & Updates",
-        "Abstract": "Tech Behind It provides the latest updates about Business, Technology, Artificial Intelligence,Gadgets etc from around the world.",
-        "Official Site": "/",
-        "Icon": "https://techbehindit.com/wp-content/uploads/2020/08/BUSINESS-e1598672208316.jpg",
-        "Redirect": "/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "/"
     }
 ]

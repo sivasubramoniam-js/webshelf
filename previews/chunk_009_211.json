@@ -160,16 +160,6 @@
         "AbstractURL": "https://cxpartner.de"
     },
     {
-        "link": "https://ahmedmaged.me",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ahmedmaged.me",
-        "Icon": "N/A",
-        "Redirect": "https://ahmedmaged.me",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ahmedmaged.me"
-    },
-    {
         "link": "https://forwardenergyreleased.click",
         "Heading": "Blog",
         "Abstract": null,
@@ -208,6 +198,16 @@
         "Redirect": "https://perthglory.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://perthglory.com.au/"
+    },
+    {
+        "link": "https://libreriagalatealeon.com",
+        "Heading": "Librer\u00eda independiente con libros en ingl\u00e9s y espa\u00f1ol",
+        "Abstract": " Nuestro algoritmo es nuestra independencia de criterio y el buen gusto a la hora de seleccionar el fondo y la forma de nuestra librer\u00eda ",
+        "Official Site": "https://libreriagalatealeon.com",
+        "Icon": "https://www.libreriagalatealeon.com/es/archivos/585/favicon.png",
+        "Redirect": "https://libreriagalatealeon.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://libreriagalatealeon.com"
     },
     {
         "link": "https://javascriptcdnlive.com",

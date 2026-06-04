@@ -30,16 +30,6 @@
         "AbstractURL": "https://portoantico.it/"
     },
     {
-        "link": "https://itc-online.de",
-        "Heading": "ITC GmbH - IT-Systemhaus f\u00fcr IT-Sicherheit u. Netzwerkbetreuung",
-        "Abstract": "Ihr Systemhaus-Partner im Norden! Wir k\u00fcmmern uns um Ihre IT: IT-Security, Managed IT Service, Telefonie, WLAN - jetzt Termin vereinbaren!",
-        "Official Site": "https://www.itc-online.de/",
-        "Icon": "https://www.itc-online.de/wp-content/uploads/2019/10/favicon-itc.png",
-        "Redirect": "https://www.itc-online.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.itc-online.de/"
-    },
-    {
         "link": "https://selflane.com",
         "Heading": "Selflane - Restaurant Technology that Serves",
         "Abstract": "Selflane is a technology company for restaurants",
@@ -221,8 +211,8 @@
     },
     {
         "link": "https://nexim.it",
-        "Heading": "Nexim Global \u2014 Operatore di Telecomunicazioni Internazionale | 12 Divisioni",
-        "Abstract": "Telecom Broadcast Cybersecurity",
+        "Heading": "Nexim Global \u2014 Operatore di Telecomunicazioni Internazionale",
+        "Abstract": "Nexim Global, operatore di telecomunicazioni internazionale: rete e fibra, broadcast contribution, datacenter, cloud, cybersecurity e connettivit\u00e0 enterprise.",
         "Official Site": "https://nexim.it/",
         "Icon": "https://nexim.it/wp-content/mu-plugins/nexim-core/assets/logo.png",
         "Redirect": "https://nexim.it/",

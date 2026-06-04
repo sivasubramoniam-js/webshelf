@@ -44,7 +44,7 @@
         "Heading": "\u0411\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u043e \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043b\u0438\u0446 \u043f\u043e\u0434 \u043a\u043b\u044e\u0447 \u0432 \u041e\u043c\u0441\u043a\u0435, \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0443\u0441\u043b\u0443\u0433 \u044e\u0440\u0438\u0441\u0442\u0430 - \u042e\u043f\u0438\u0442\u0435\u0440",
         "Abstract": "\u0423\u0441\u043b\u0443\u0433\u0438 \u0431\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0444\u0438\u0437 \u043b\u0438\u0446 \u0438 \u0418\u041f \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438. \u0417\u0430\u043a\u043e\u043d\u043d\u043e\u0435 \u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0434\u043e\u043b\u0433\u043e\u0432. \u0424\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0443\u0441\u043b\u0443\u0433 \u0441 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c\u044e \u0440\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0438 \u043e\u0442 10 \u043c\u0435\u0441\u044f\u0446\u0435\u0432.",
         "Official Site": "https://upiter.center/",
-        "Icon": "https://upiter.center/upload/resize_cache/webp/local/templates/jupiter/img/logo.webp",
+        "Icon": "https://upiter.center/local/templates/jupiter/img/logo.png",
         "Redirect": "https://upiter.center/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://upiter.center/"
@@ -250,14 +250,14 @@
         "AbstractURL": "https://hamvention.org/"
     },
     {
-        "link": "https://china-cee.eu",
-        "Heading": "China-CEE Institute \u2013 institute research nonprofit organization china europe thinktank society politics relations knowledge science workingpaper",
-        "Abstract": null,
-        "Official Site": "https://china-cee.eu",
-        "Icon": "N/A",
-        "Redirect": "https://china-cee.eu",
+        "link": "https://empreendedor.com.br",
+        "Heading": "Portal Empreendedor - Neg\u00f3cios e Gest\u00e3o",
+        "Abstract": "Portal de not\u00edcias e conte\u00fados da Editora Empreendedor. Conte\u00fados di\u00e1rios com foco no empreendedorismo. Acesse tamb\u00e9m a Revista digital Empreendedor.",
+        "Official Site": "https://empreendedor.com.br/",
+        "Icon": "https://empreendedor.com.br/wp-content/uploads/2024/05/empreendedor-329-capa-maven.jpg",
+        "Redirect": "https://empreendedor.com.br/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://china-cee.eu"
+        "AbstractURL": "https://empreendedor.com.br/"
     },
     {
         "link": "https://capitalbikepark.se",
@@ -338,5 +338,25 @@
         "Redirect": "https://ydelection.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ydelection.com/"
+    },
+    {
+        "link": "https://vim-jmk.cz",
+        "Heading": "Home | Vzd\u011bl\u00e1vac\u00ed institut pro Moravu",
+        "Abstract": null,
+        "Official Site": "https://vim-jmk.cz",
+        "Icon": "/themes/contrib/vim/favicon.ico",
+        "Redirect": "https://vim-jmk.cz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vim-jmk.cz"
+    },
+    {
+        "link": "https://kupit-plastikovoye-okno-molodechno.ru",
+        "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u043f\u043b\u0430\u0441\u0442\u0438\u043a\u043e\u0432\u044b\u0435 \u043e\u043a\u043d\u0430 \u0432 \u041c\u043e\u043b\u043e\u0434\u0435\u0447\u043d\u043e | \u041e\u043a\u043d\u0430 \u041f\u0412\u0425 \u0432 \u041c\u043e\u043b\u043e\u0434\u0435\u0447\u043d\u043e",
+        "Abstract": null,
+        "Official Site": "https://kupit-plastikovoye-okno-molodechno.ru",
+        "Icon": "N/A",
+        "Redirect": "https://kupit-plastikovoye-okno-molodechno.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kupit-plastikovoye-okno-molodechno.ru"
     }
 ]

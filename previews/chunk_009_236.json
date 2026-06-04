@@ -70,6 +70,16 @@
         "AbstractURL": "https://www.litera.com/products/foundation-marketing"
     },
     {
+        "link": "https://ourwindsor.ca",
+        "Heading": "Local News and Weather \u2014 Windsor, Ontario | Our Windsor",
+        "Abstract": "Stay informed with the latest news updates from our Our Windsor news website. Breaking news, top stories, politics, business, sports, & more.",
+        "Official Site": "https://www.ourwindsor.ca/",
+        "Icon": "https://bloximages.chicago2.vip.townnews.com/ourwindsor.ca/content/tncms/custom/image/a1ffb6f0-ac89-11ed-804d-4f46b355d95e.png?resize=600%2C315",
+        "Redirect": "https://www.ourwindsor.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ourwindsor.ca/"
+    },
+    {
         "link": "https://hpnonline.com",
         "Heading": "Home | HPN Online",
         "Abstract": "Healthcare Purchasing News provides news and analysis on medical products and systems affecting healthcare supply chain management.",
@@ -214,7 +224,7 @@
         "Heading": "Autos Nuevos \u00bb Credito Automotriz | Accesorios, Servicios, Repuestos, Neumaticos",
         "Abstract": "Portal exclusivo de Autos nuevos 2023, Cr\u00e9dito Automotriz, Accesorios para autos, neumaticos, Servicios, Repuestos de autos para todas las marcas. Las mejores imagenes y precios aqu\u00ed.",
         "Official Site": "https://autosonline.cl",
-        "Icon": "/templates/yoo_enterprise/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://autosonline.cl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://autosonline.cl"
@@ -238,6 +248,16 @@
         "Redirect": "https://ei2.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ei2.es"
+    },
+    {
+        "link": "https://purefood-bd.shop",
+        "Heading": "Account Suspended",
+        "Abstract": null,
+        "Official Site": "https://purefood-bd.shop",
+        "Icon": "N/A",
+        "Redirect": "https://purefood-bd.shop",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://purefood-bd.shop"
     },
     {
         "link": "https://mitsubishi-electric.co.nz",

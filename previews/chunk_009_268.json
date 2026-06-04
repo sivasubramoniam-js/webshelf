@@ -60,16 +60,6 @@
         "AbstractURL": "https://rdwire.com"
     },
     {
-        "link": "https://gutscheinpony.de",
-        "Heading": "Gutscheinpony - Finde die neuesten Gutscheine und Rabattcodes",
-        "Abstract": "Entdecke die neuesten Gutscheinpony Gutscheine, Gutscheincodes und Rabattcodes!",
-        "Official Site": "https://www.gutscheinpony.de/",
-        "Icon": "/gutscheinpony/img/favicon/favicon-48x48.png",
-        "Redirect": "https://www.gutscheinpony.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.gutscheinpony.de/"
-    },
-    {
         "link": "https://sitges.cat",
         "Heading": "Ajuntament de Sitges",
         "Abstract": "Web oficial Ajuntament de Sitges, informaci\u00f3 municipal, tr\u00e0mits, not\u00edcies, agenda, directori... Pl. Ajuntament, sn. 938 117 600 / Atenci\u00f3 Ciutadana Tel. 010",
@@ -308,15 +298,5 @@
         "Redirect": "https://lectuepublibre5.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lectuepublibre5.com/"
-    },
-    {
-        "link": "https://kotwicamorska.pl",
-        "Heading": "Kotwica Morska Pobierowo - O\u015brodek wypoczynkowy, domki letniskowe",
-        "Abstract": "Kotwica Morska to doskonale po\u0142o\u017cony o\u015brodek wczasowy w jednym z najpi\u0119kniejszy kurort\u00f3w polskiego wybrze\u017ca \u2013 POBIEROWO. Wspania\u0142y klimat w sosnowym lesie!",
-        "Official Site": "https://kotwicamorska.pl/",
-        "Icon": "https://kotwicamorska.pl/wp-content/uploads/2019/03/logoNowe.png",
-        "Redirect": "https://kotwicamorska.pl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kotwicamorska.pl/"
     }
 ]

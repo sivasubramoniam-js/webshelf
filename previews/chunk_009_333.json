@@ -111,7 +111,7 @@
     },
     {
         "link": "https://redlasso.com",
-        "Heading": "Home - Red Lasso",
+        "Heading": "Red Lasso \u2013 A Lifestyle, Entertainment And Sports Magazine",
         "Abstract": "A Lifestyle, Entertainment And Sports Magazine",
         "Official Site": "https://www.redlasso.com",
         "Icon": "https://www.redlasso.com/wp-content/uploads/2020/02/cropped-redlasso-favicon-32x32.jpg",
@@ -188,6 +188,16 @@
         "Redirect": "https://www.belle-co.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.belle-co.jp/"
+    },
+    {
+        "link": "https://finlandhomelesfound.life",
+        "Heading": "ConvertMaster - The Ultimate File Conversion Tool",
+        "Abstract": null,
+        "Official Site": "https://finlandhomelesfound.life",
+        "Icon": "/favicon-96x96.png",
+        "Redirect": "https://finlandhomelesfound.life",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://finlandhomelesfound.life"
     },
     {
         "link": "https://thebtsc.com",

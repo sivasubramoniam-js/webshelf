@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://free-dc.org",
-        "Heading": "Free-DC News",
-        "Abstract": null,
-        "Official Site": "https://free-dc.org",
-        "Icon": "N/A",
-        "Redirect": "https://free-dc.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://free-dc.org"
-    },
-    {
         "link": "https://simstropicalfish.co.uk",
         "Heading": "Sims Tropical Fish | Tropical Fish, Aquarium, Fish Store \u2013 Tropical, Cold Water & Marine Fish Specialists",
         "Abstract": null,
@@ -28,16 +18,6 @@
         "Redirect": "https://www.webhostingbuzz.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.webhostingbuzz.com/"
-    },
-    {
-        "link": "https://another.co",
-        "Heading": "Another - Agencia de marketing y comunicaci\u00f3n estrat\u00e9gica",
-        "Abstract": "En Another, generamos estrategias integrales de Relaciones P\u00fablicas, Marketing Digital, Branding, Eventos y Creatividad para tu marca.",
-        "Official Site": "https://another.co/",
-        "Icon": "https://another.co/wp-content/uploads/2021/10/logo-another.jpg",
-        "Redirect": "https://another.co/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://another.co/"
     },
     {
         "link": "https://grave.com",
@@ -118,6 +98,16 @@
         "Redirect": "https://utahpowercu.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://utahpowercu.org"
+    },
+    {
+        "link": "https://e-madencilik.com",
+        "Heading": "Madencinin Adresi - Sahibinden Maden \u0130lanlar\u0131 - E-Madencilik",
+        "Abstract": "T\u00fcrkiye\u2019nin en b\u00fcy\u00fck Madencilik Sekt\u00f6r\u00fc ilanlar\u0131 sitesi. Hem de \u00fccretsiz. Sahibinden Maden Sahalar\u0131-Cevherler-\u0130kinci el ve S\u0131f\u0131r Maden \u00dcretim Makineleri-YTK-Proje-Ruhsat",
+        "Official Site": "https://e-madencilik.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://e-madencilik.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://e-madencilik.com"
     },
     {
         "link": "https://coincat.in",

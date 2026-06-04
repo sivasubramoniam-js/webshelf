@@ -20,6 +20,16 @@
         "AbstractURL": "https://www.komperdell.com/de/"
     },
     {
+        "link": "https://0009.tv",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://0009.tv",
+        "Icon": "data:;base64,=",
+        "Redirect": "https://0009.tv",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://0009.tv"
+    },
+    {
         "link": "https://cfosilvia.com",
         "Heading": "CFO Silvia - Your Free AI Personal CFO | Track $40B+ in Assets | CFO Silvia",
         "Abstract": "Track all your wealth in one place. Join 12,000+ investors managing $40 billion in assets.",
@@ -28,16 +38,6 @@
         "Redirect": "https://cfosilvia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cfosilvia.com"
-    },
-    {
-        "link": "https://rezepte-blog.eu",
-        "Heading": "rezepte-blog.eu \u2014 Latest News",
-        "Abstract": "Fresh and trending updates from rezepte-blog.eu",
-        "Official Site": "https://rezepte-blog.eu",
-        "Icon": "https://ts2.mm.bing.net/th?q=rezepte-blog.eu",
-        "Redirect": "https://rezepte-blog.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rezepte-blog.eu"
     },
     {
         "link": "https://petrocksliquors.com",
@@ -130,16 +130,6 @@
         "AbstractURL": "https://tyber.net"
     },
     {
-        "link": "https://pipedija.com",
-        "Heading": "Pipedija Enciklopedija",
-        "Abstract": null,
-        "Official Site": "https://pipedija.com",
-        "Icon": "https://www.pipedija.com/thumb.php?f=VW-Beetle_Citroen-2CV_Fiat-500_British-Leyland-Mini_masinos.jpg&width=1200",
-        "Redirect": "https://pipedija.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pipedija.com"
-    },
-    {
         "link": "https://searchcove.com",
         "Heading": null,
         "Abstract": null,
@@ -212,12 +202,22 @@
     {
         "link": "https://itegroup.ru",
         "Heading": "\u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0438 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u043e\u0432 \u043e\u0442 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 IT Expert Group",
-        "Abstract": "ITEgroup",
-        "Official Site": "http://itegroup.ru/",
-        "Icon": "http://itegroup.ru/images/template/logo.png",
-        "Redirect": "http://itegroup.ru/",
+        "Abstract": "\u041f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u043b\u044e\u0431\u043e\u0439 \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438. \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u043e\u043f\u044b\u0442 \u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438 \u0438 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0438 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432.",
+        "Official Site": "https://itegroup.ru",
+        "Icon": "N/A",
+        "Redirect": "https://itegroup.ru",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://itegroup.ru/"
+        "AbstractURL": "https://itegroup.ru"
+    },
+    {
+        "link": "https://asiangranny.net",
+        "Heading": "asiangranny.net",
+        "Abstract": null,
+        "Official Site": "https://asiangranny.net",
+        "Icon": "N/A",
+        "Redirect": "https://asiangranny.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://asiangranny.net"
     },
     {
         "link": "https://iocos.it",

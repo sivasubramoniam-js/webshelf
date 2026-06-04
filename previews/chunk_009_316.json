@@ -1,10 +1,10 @@
 [
     {
         "link": "https://nascentindustrial.com",
-        "Heading": "Buy Industrial Automation Equipment Online | Nascent Industrial",
-        "Abstract": "Discover a wide range of high-quality industrial automation parts and equipment at Nascent Industrial. Explore our comprehensive catalog and source components, machinery, and systems for seamless automation integration.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://nascentindustrial.com",
-        "Icon": "https://cdn.asapsemi.com/nascentindustrial/web/images/favicon/android-icon-192x192.png",
+        "Icon": "N/A",
         "Redirect": "https://nascentindustrial.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nascentindustrial.com"
@@ -24,7 +24,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://bayswaterkitchenette.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://bayswaterkitchenette.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bayswaterkitchenette.com"
@@ -48,6 +48,16 @@
         "Redirect": "https://ivolta.pl//",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ivolta.pl//"
+    },
+    {
+        "link": "https://ta-services.com",
+        "Heading": "DropCatch.com",
+        "Abstract": "DropCatch.com helps you secure expiring domain names.",
+        "Official Site": "https://ta-services.com",
+        "Icon": "assets/fav/share.png",
+        "Redirect": "https://ta-services.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ta-services.com"
     },
     {
         "link": "https://museumangewandtekunst.de",
@@ -94,7 +104,7 @@
         "Heading": "Music Events | On Location",
         "Abstract": null,
         "Official Site": "https://cidentertainment.com",
-        "Icon": "/icon?10c951f9dc96794a",
+        "Icon": "/icon?1cada74306f2a095",
         "Redirect": "https://cidentertainment.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cidentertainment.com"

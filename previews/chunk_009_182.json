@@ -4,7 +4,7 @@
         "Heading": "MULTITIMER: MULTIPLE TIMERS",
         "Abstract": "Getting started is easy\n",
         "Official Site": "https://www.multitimer.net/",
-        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUDG1cIvQTNioWFdTs_d-2CFmYl-X7jEv6lG1kBARoc5CLIJZqgsPX5ogw3AixecbOQ_DUs-OzdVzUw56JINU58l_4Q1LoKXWPGP_dUdf3N4tPP5Irnc01W8zbXphlLQruK7j1l2-3RJTid4klrbj9yuC9r57wdFAeEKAJfmNtVGLD5oxuO_0nxVWwQ=w16383",
+        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUAOMgoMjM3ZHjcWPLK-q2ZxlPtuyHydbdh94gSrqyDJG_SvG-MW_2S17PJsopRCjk3kqM4aQ47JYhEqSxdBVC3su9L0FvEkxgT8mhTk4SfpqqtFK7zEf7k9bPhAKt70WhOqetGLcbfLZ5bErbyyBk4ZrMl1Z4Ofbh6m3EL4-oa06qfSm2zou1zOtY8=w16383",
         "Redirect": "https://www.multitimer.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.multitimer.net/"
@@ -74,7 +74,7 @@
         "Heading": "Brighter Brain Brilliant Life | Jim Kwik",
         "Abstract": "Having the skills to recall, read, think and learn faster are superpowers that will give you a true advantage in your career, profession, scholastic pursuits, relationships and life.",
         "Official Site": "https://jimkwik.com",
-        "Icon": "/favicon.ico?favicon.11zft7kwvrq_q.ico?dpl=dpl_6H4TsQLpEtEvqyQnFPHCLrry3GRt",
+        "Icon": "/favicon.ico?favicon.11zft7kwvrq_q.ico?dpl=dpl_6CeSMqN7B1HTvwcJ6UHfLgWTCL4V",
         "Redirect": "https://jimkwik.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jimkwik.com"
@@ -88,6 +88,16 @@
         "Redirect": "https://artunlimitedshop.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://artunlimitedshop.co.uk"
+    },
+    {
+        "link": "https://dyslexiefont.com",
+        "Heading": "Dyslexie Font: The Accessible Reading for Dyslexia",
+        "Abstract": "Experience Dyslexie Font directly: Enhance readability and accessibility with our innovative legibility typeface designed specifically for readers with dyslexia. Dive into the world of Dyslexie Font today!",
+        "Official Site": "https://dyslexiefont.com/en/",
+        "Icon": "https://dyslexiefont.com/wp-content/uploads/2024/05/Dyslexie-Font-Site.png",
+        "Redirect": "https://dyslexiefont.com/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dyslexiefont.com/en/"
     },
     {
         "link": "https://lvlighting.ca",
@@ -234,7 +244,7 @@
         "Heading": "Auto Shipping HUB | Customer Reviews & Auto Carrier Information",
         "Abstract": "Auto Shipping HUB is a carrier-friendly place for customers to find or review auto transport services. Nationwide car shipping HUB.",
         "Official Site": "https://www.autoshippinghub.com/",
-        "Icon": "http://www.autoshippinghub.com/wp-content/uploads/2025/07/ASH-Logo-Black.png",
+        "Icon": "https://www.autoshippinghub.com/wp-content/uploads/2025/07/ASH-Logo-Black.png",
         "Redirect": "https://www.autoshippinghub.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.autoshippinghub.com/"
@@ -288,15 +298,5 @@
         "Redirect": "https://teteinredningar.se",
         "AbstractSource": "BS4",
         "AbstractURL": "https://teteinredningar.se"
-    },
-    {
-        "link": "https://campuslegends.com",
-        "Heading": "Campus Legends | Hotels Near Universities & Colleges",
-        "Abstract": "Discover hotels and accommodations near universities and colleges. Perfect for parents, alumni, and sports fans visiting campus.",
-        "Official Site": "https://campuslegends.com",
-        "Icon": "https://cdn.123presto.com/prod/published/campuslegends/home.jpg",
-        "Redirect": "https://campuslegends.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://campuslegends.com"
     }
 ]

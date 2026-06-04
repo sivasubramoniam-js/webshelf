@@ -74,7 +74,7 @@
         "Heading": "Noticias y Radio Online | W Deportes",
         "Abstract": "Noticias de \u00faltima hora y en espa\u00f1ol sobre la actualidad  deportiva. Audio las 24 horas . Adem\u00e1s v\u00eddeos, fotos, audios, gr\u00e1ficos, foros, blogs, chats, entrevistas y encuestas de opini\u00f3n con wdeportes.com.",
         "Official Site": "https://wdeportes.com",
-        "Icon": "/pf/resources/wdeportes/favicon.ico?d=264&mxId=00000000",
+        "Icon": "/pf/resources/wdeportes/favicon.ico?d=265&mxId=00000000",
         "Redirect": "https://wdeportes.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wdeportes.com"
@@ -168,6 +168,16 @@
         "Redirect": "https://forumbilder.se/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://forumbilder.se/"
+    },
+    {
+        "link": "https://evloop.io",
+        "Heading": "Loop Global | EV Charging Solutions for a Sustainable Future",
+        "Abstract": "Discover Loop's innovative EV charging infrastructure designed for homes, businesses, and cities. Future-proof your property with smart, scalable solutions.",
+        "Official Site": "https://loopglobal.com/",
+        "Icon": "https://i0.wp.com/loopglobal.com/wp-content/uploads/2025/07/cropped-Image-removebg-preview.png?fit=32%2C32&ssl=1",
+        "Redirect": "https://loopglobal.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://loopglobal.com/"
     },
     {
         "link": "https://tvrinews.com",
@@ -268,6 +278,16 @@
         "Redirect": "https://555jj77.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://555jj77.com"
+    },
+    {
+        "link": "https://abysswiki.org",
+        "Heading": "Abyss Roblox Wiki",
+        "Abstract": "The Abyss OFFICIAL Wiki for Roblox. Venture into the silent blue. Your guide to Codes, Races, Classes, Artifacts, and the Depths.",
+        "Official Site": "https://abysswiki.org/wiki/Abyss_Wiki",
+        "Icon": "https://static.wikitide.net/deepspiritwiki/2/25/Abyss_wordmark%2C_trimmed.png",
+        "Redirect": "https://abysswiki.org/wiki/Abyss_Wiki",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://abysswiki.org/wiki/Abyss_Wiki"
     },
     {
         "link": "https://ausmodshop.com",

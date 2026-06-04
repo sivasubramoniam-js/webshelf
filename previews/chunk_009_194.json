@@ -60,16 +60,6 @@
         "AbstractURL": "https://foes.de"
     },
     {
-        "link": "https://horizongold.com.au",
-        "Heading": null,
-        "Abstract": "Horizon Gold Limited is an ASX-listed gold explorer based in Perth, Western Australia.",
-        "Official Site": "https://horizongold.com.au/",
-        "Icon": "https://horizongold.com.au/wp-content/themes/horizongold/favicon.png",
-        "Redirect": "https://horizongold.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://horizongold.com.au/"
-    },
-    {
         "link": "https://loveisking.org",
         "Heading": "Love Is King \u2013 Let Freedom Roam",
         "Abstract": null,
@@ -268,6 +258,16 @@
         "Redirect": "https://www.al-san.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.al-san.com/"
+    },
+    {
+        "link": "https://pwaapp.cc",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pwaapp.cc",
+        "Icon": "N/A",
+        "Redirect": "https://pwaapp.cc",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pwaapp.cc"
     },
     {
         "link": "https://radiusfm.by",

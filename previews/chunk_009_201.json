@@ -190,16 +190,6 @@
         "AbstractURL": "https://groupe-e.ch"
     },
     {
-        "link": "https://saarserver.de",
-        "Heading": "SaarServer.de - Pers\u00f6nliches Webhosting Internethosting Saarland",
-        "Abstract": "Seit \u00fcber 15 Jahren Webhosting Saarland f\u00fcr Server, Domain, Hosting, Webdesign, SSL-Zertifikate u.nm. mit pers\u00f6nlicher Beratung, Loyalit\u00e4t und Verantwortung",
-        "Official Site": "https://www.saarserver.de/",
-        "Icon": "http://wp.saarserver.de/wp-content/uploads/2016/07/cropped-saarserver.jpg",
-        "Redirect": "https://www.saarserver.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.saarserver.de/"
-    },
-    {
         "link": "https://actioncore.com",
         "Heading": "ActionCore, Inc. \u2013 ActionCore",
         "Abstract": null,
@@ -331,10 +321,10 @@
     },
     {
         "link": "https://automatizeindustrials.com",
-        "Heading": "Top Industrial Automation Parts and Components Supplier",
-        "Abstract": "Discover top-tier industrial automation parts and Components with our extensive inventory. Trusted provider offering competitive prices. Explore Now! ",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://automatizeindustrials.com",
-        "Icon": "https://cdn.asapsemi.com/automatizeindustrials/web/images/favicon/android-icon-192x192.png",
+        "Icon": "N/A",
         "Redirect": "https://automatizeindustrials.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://automatizeindustrials.com"

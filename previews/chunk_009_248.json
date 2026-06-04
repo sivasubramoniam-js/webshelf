@@ -4,7 +4,7 @@
         "Heading": "\n      Sospeso Roasters\n \u2013 Cafesospeso",
         "Abstract": "Somos Caf\u00e9 Sospeso, tostadora artesanal en Tijuana. Seleccionamos caf\u00e9s de origen con transparencia y frescura para una taza honesta y memorable.",
         "Official Site": "https://sospesoroasters.com/",
-        "Icon": "http://sospesoroasters.com/cdn/shop/files/Favicon_f4da0383-8e5e-495b-81e5-ab3a0d4073c9.png?v=1762795173",
+        "Icon": "http://cdn.shopify.com/s/files/1/0784/6074/8020/files/Favicon_f4da0383-8e5e-495b-81e5-ab3a0d4073c9.png?v=1762795173",
         "Redirect": "https://sospesoroasters.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sospesoroasters.com/"
@@ -268,6 +268,16 @@
         "Redirect": "https://www.ajans344.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ajans344.com"
+    },
+    {
+        "link": "https://fckamaz.ru",
+        "Heading": "\u0424\u0443\u0442\u0431\u043e\u043b\u044c\u043d\u044b\u0439 \u043a\u043b\u0443\u0431 \u00ab\u041a\u0410\u041c\u0410\u0417\u00bb",
+        "Abstract": null,
+        "Official Site": "https://fckamaz.ru",
+        "Icon": "/local/templates/fckamaz/img/favicon.png",
+        "Redirect": "https://fckamaz.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fckamaz.ru"
     },
     {
         "link": "https://westryn.net",

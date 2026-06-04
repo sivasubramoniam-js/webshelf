@@ -50,16 +50,6 @@
         "AbstractURL": "https://lern.link/"
     },
     {
-        "link": "https://nmls.ru",
-        "Heading": "\u041d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u044c - \u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434 \u0438 \u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c - \u0411\u0430\u0437\u0430 \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u0438\u0439 NMLS",
-        "Abstract": "NMLS.RU - \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u043c\u0443\u043b\u044c\u0442\u0438\u043b\u0438\u0441\u0442\u0438\u043d\u0433\u043e\u0432\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430, \u0432\u0441\u044f \u043d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0421\u041d\u0413: \u043a\u0443\u043f\u0438\u0442\u044c \u0438 \u043f\u0440\u043e\u0434\u0430\u0442\u044c \u0437\u0435\u043c\u043b\u044e , \u0434\u043e\u043c\u0430, \u043a\u043e\u0442\u0442\u0435\u0434\u0436\u0438, \u043e\u0444\u0438\u0441\u044b, \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u044b. \u0415\u0434\u0438\u043d\u0430\u044f \u0431\u0430\u0437\u0430 \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432 \u043d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u0438. \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0434\u043b\u044f \u0440\u0438\u044d\u043b\u0442\u043e\u0440\u043e\u0432",
-        "Official Site": "https://nmls.ru",
-        "Icon": "/images/favicon.ico",
-        "Redirect": "https://nmls.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nmls.ru"
-    },
-    {
         "link": "https://webqua.jp",
         "Heading": "\u6b6f\u79d1\u885b\u751f\u58eb\u6c42\u4eba\u3001\u6b6f\u79d1\u533b\u5e2b\u6c42\u4eba\u30fb\u8ee2\u8077\u30fb\u5c02\u9580\u30b5\u30a4\u30c8\uff5c\u30af\u30aa\u30ad\u30e3\u30ea\u30a2",
         "Abstract": "\u6b6f\u79d1\u885b\u751f\u58eb\u3001\u6b6f\u79d1\u533b\u5e2b\u306e\u6c42\u4eba\u3001\u8ee2\u8077\u60c5\u5831\u306a\u3089\u30af\u30aa\u30ad\u30e3\u30ea\u30a2\u3002\u6b6f\u79d1\u885b\u751f\u58eb\u306e\u65b0\u5352\u6c42\u4eba\u304b\u3089\u8ee2\u8077\u3001\u5fa9\u8077\u306e\u6c42\u4eba\u3002\u6b6f\u79d1\u533b\u5e2b\u306e\u81e8\u5e8a\u7814\u4fee\u533b\u306e\u5c31\u8077\u304b\u3089\u52e4\u52d9\u533b\u306e\u8ee2\u8077\u60c5\u5831\u3092\u63b2\u8f09\u4e2d\u3067\u3059\u3002\u6b6f\u79d1\u5c02\u9580\u3060\u304b\u3089\u3053\u305d\u306e\u6a5f\u80fd\u3067\u69d8\u3005\u306a\u6761\u4ef6\u3067\u63a2\u3059\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
@@ -78,16 +68,6 @@
         "Redirect": "https://sqldbm.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sqldbm.com/"
-    },
-    {
-        "link": "https://iamx.eu",
-        "Heading": "Iamx.eu",
-        "Abstract": "Home",
-        "Official Site": "https://iamx.eu",
-        "Icon": "N/A",
-        "Redirect": "https://iamx.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://iamx.eu"
     },
     {
         "link": "https://etre-belle.su",
@@ -240,6 +220,16 @@
         "AbstractURL": "https://hypnosismic.com/"
     },
     {
+        "link": "https://librairieclareton.fr",
+        "Heading": "Librairie Clareton",
+        "Abstract": "Cr\u00e9\u00e9e en 1985, la librairie Clareton des Sources est l'une des plus grandes et plus anciennes librairies de B\u00e9ziers,. Librairie g\u00e9n\u00e9raliste, elle propose plus de 30 0000 titres en rayons dans un espace de 240m\u00b2 r\u00e9partis sur 3 niveaux.",
+        "Official Site": "https://librairieclareton.fr",
+        "Icon": "http://static.leslibraires.fr//logos/website/22/big.png",
+        "Redirect": "https://librairieclareton.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://librairieclareton.fr"
+    },
+    {
         "link": "https://gulf-news.com",
         "Heading": "Gulf News: Latest UAE news, Dubai news, Business, travel news, Dubai Gold rate, prayer time, cinema",
         "Abstract": "Get the latest update on UAE, business, life style, UAE jobs, gold rate, Exchange rate, UAE holidays, Dubai police, RTA and prayer times from UAE\u2019s largest news portal.",
@@ -308,6 +298,16 @@
         "Redirect": "https://appos.io",
         "AbstractSource": "BS4",
         "AbstractURL": "https://appos.io"
+    },
+    {
+        "link": "https://livresennord.fr",
+        "Heading": "Librairie Livres en Nord ",
+        "Abstract": "Librairie Papeterie ind\u00e9pendante \u00e0 Tourcoinq. G\u00e9n\u00e9raliste, elle poss\u00e8de un rayon jeunesse d\u00e9velopp\u00e9. Outre les livres, on y trouve des fournitures scolaires et de bureau.",
+        "Official Site": "https://livresennord.fr",
+        "Icon": "http://static.leslibraires.fr//logos/website/389/big.png",
+        "Redirect": "https://livresennord.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://livresennord.fr"
     },
     {
         "link": "https://pipers.ie",

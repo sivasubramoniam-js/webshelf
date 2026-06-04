@@ -13,11 +13,11 @@
         "link": "https://oobject.com",
         "Heading": null,
         "Abstract": "Typologies of Objects and Events Created by Humans",
-        "Official Site": "http://www.oobject.com/",
+        "Official Site": "https://www.oobject.com/",
         "Icon": "https://s0.wp.com/i/blank.jpg",
-        "Redirect": "http://www.oobject.com/",
+        "Redirect": "https://www.oobject.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://www.oobject.com/"
+        "AbstractURL": "https://www.oobject.com/"
     },
     {
         "link": "https://ihru.pt",
@@ -140,16 +140,6 @@
         "AbstractURL": "https://amit.org.il/"
     },
     {
-        "link": "https://di1dm.pro",
-        "Heading": "\u7b2c\u4e00\u52a8\u6f2b\u7f51_\u514d\u8d39\u52a8\u6f2b\u5728\u7ebf\u89c2\u770b_\u597d\u770b\u7684\u52a8\u6f2b\u756a\u5267\u63a8\u8350",
-        "Abstract": "\u7b2c\u4e00\u52a8\u6f2b\u7f51(www.di1dm.pro)\u5b98\u65b9\u7f51\u7ad9\u62e5\u6709\u4e0a\u4e07\u96c6\u9ad8\u6e05\u6670\u753b\u8d28\u7684\u5728\u7ebf\u52a8\u6f2b,\u89c2\u770b\u5b8c\u5168\u514d\u8d39\u3001\u65e0\u987b\u6ce8\u518c\u3001\u9ad8\u901f\u64ad\u653e\u3001\u66f4\u65b0\u53ca\u65f6\u7684\u52a8\u6f2b\u7f51\u7ad9,\u6211\u4eec\u81f4\u529b\u4e3a\u6240\u6709\u52a8\u6f2b\u8ff7\u4eec\u63d0\u4f9b\u6700\u597d\u770b\u7684\u52a8\u6f2b\u3002",
-        "Official Site": "https://di1dm.pro",
-        "Icon": "N/A",
-        "Redirect": "https://di1dm.pro",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://di1dm.pro"
-    },
-    {
         "link": "https://asosupro.gov.co",
         "Heading": "Inicio",
         "Abstract": "Asociaci\u00f3n Supradepartamental de Municipios para el Progreso",
@@ -198,16 +188,6 @@
         "Redirect": "https://pulchritudion.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pulchritudion.com"
-    },
-    {
-        "link": "https://segucetogo.tg",
-        "Heading": "Accueil | SEGUCE TOGO",
-        "Abstract": null,
-        "Official Site": "https://segucetogo.tg",
-        "Icon": "/sites/default/files/Seguce_Togo-Transparent%20%281%29_0.png",
-        "Redirect": "https://segucetogo.tg",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://segucetogo.tg"
     },
     {
         "link": "https://kyleads.com",
@@ -318,5 +298,15 @@
         "Redirect": "https://joyasha.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://joyasha.com"
+    },
+    {
+        "link": "https://offerbuild.com",
+        "Heading": "OfferBuild \u2013 Telecom & Multiple Update",
+        "Abstract": null,
+        "Official Site": "https://offerbuild.com",
+        "Icon": "N/A",
+        "Redirect": "https://offerbuild.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://offerbuild.com"
     }
 ]

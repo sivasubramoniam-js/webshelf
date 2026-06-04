@@ -30,16 +30,6 @@
         "AbstractURL": "https://shocklogic.com/"
     },
     {
-        "link": "https://gunsla.com",
-        "Heading": "GunsLA.com - Burbank's Largest and Premier Gun Store",
-        "Abstract": null,
-        "Official Site": "https://gunsla.com",
-        "Icon": "https://www.gunsla.com/static/version1736156396/frontend/Smartwave/porto/en_US/Magento_Theme/favicon.ico",
-        "Redirect": "https://gunsla.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gunsla.com"
-    },
-    {
         "link": "https://textureking.com",
         "Heading": "Free  Textures from TextureKing",
         "Abstract": "Free high resolution, high quality textures for personal and commercial use from TextureKing.",
@@ -378,5 +368,15 @@
         "Redirect": "https://www.wuestpartner.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.wuestpartner.com/"
+    },
+    {
+        "link": "https://waytoomany.games",
+        "Heading": "Home - WayTooManyGames",
+        "Abstract": "Welcome to Way Too Many Games where we play the good, the bad, and the so bad it's good for your enjoyment.",
+        "Official Site": "https://waytoomany.games/",
+        "Icon": "https://i0.wp.com/waytoomany.games/wp-content/uploads/2019/08/cropped-Website-Image-1-1.png?fit=32%2C32&ssl=1",
+        "Redirect": "https://waytoomany.games/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://waytoomany.games/"
     }
 ]

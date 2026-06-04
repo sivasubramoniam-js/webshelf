@@ -44,7 +44,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://selflessdumbestexpectations.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://selflessdumbestexpectations.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://selflessdumbestexpectations.com"
@@ -110,6 +110,16 @@
         "AbstractURL": "https://mauricioc.com"
     },
     {
+        "link": "https://tilganga.org",
+        "Heading": "Tilganga",
+        "Abstract": null,
+        "Official Site": "https://tilganga.org",
+        "Icon": "/storage/fav_icon/9sY9oJsJDqY4Nqth2RNPT4FNDXakElTI4IwvLYZ2.png",
+        "Redirect": "https://tilganga.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tilganga.org"
+    },
+    {
         "link": "https://arqspin.com",
         "Heading": null,
         "Abstract": "360 photo software from Arqspin makes creating professional 360 product photography with your DSLR camera or smartphone simple.",
@@ -148,16 +158,6 @@
         "Redirect": "https://www.enviroportal.sk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.enviroportal.sk/"
-    },
-    {
-        "link": "https://icstepup.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://icstepup.com",
-        "Icon": "N/A",
-        "Redirect": "https://icstepup.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://icstepup.com"
     },
     {
         "link": "https://marketplacelive.co.uk",
@@ -270,6 +270,16 @@
         "AbstractURL": "https://www.colibrirealestate.com/"
     },
     {
+        "link": "https://theamericanreader.com",
+        "Heading": "The American Reader",
+        "Abstract": "A monthly journal of literature and criticism.",
+        "Official Site": "http://theamericanreader.com/to-our-readers/",
+        "Icon": "https://theamericanreader.com/wp-content/uploads/2015/09/ar_final.jpg",
+        "Redirect": "http://theamericanreader.com/to-our-readers/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://theamericanreader.com/to-our-readers/"
+    },
+    {
         "link": "https://zml3onikjft.info",
         "Heading": null,
         "Abstract": null,
@@ -278,16 +288,6 @@
         "Redirect": "https://zml3onikjft.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zml3onikjft.info"
-    },
-    {
-        "link": "https://jobhub.jp",
-        "Heading": "\u4eba\u6750\u4f1a\u793e\u306e\u30c0\u30a4\u30ec\u30af\u30c8\u30de\u30c3\u30c1\u30f3\u30b0\u3010\u30b8\u30e7\u30d6\u30cf\u30d6\u3011",
-        "Abstract": "\u30d1\u30bd\u30ca\u30b0\u30eb\u30fc\u30d7\u306e\u30b5\u30dd\u30fc\u30c8\u91cd\u8996\u306e\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u578b\u30c0\u30a4\u30ec\u30af\u30c8\u30de\u30c3\u30c1\u30f3\u30b0JOB HUB(\u30b8\u30e7\u30d6\u30cf\u30d6)\u3002\u30a8\u30f3\u30b8\u30cb\u30a2\u304b\u3089\u30c7\u30b6\u30a4\u30ca\u30fc\u3001\u30e9\u30a4\u30bf\u30fc\u307e\u3067\u69d8\u3005\u306a\u8077\u7a2e\u306e\u65b9\u306b\u3001\u30ed\u30b4\u3084\u3001\u30db\u30fc\u30e0\u30da\u30fc\u30b8\u4f5c\u6210\u3001\u30b7\u30b9\u30c6\u30e0\u958b\u767a\u3001\u7ffb\u8a33\u306a\u3069\u5e45\u5e83\u3044\u304a\u4ed5\u4e8b\u3092\u4f9d\u983c\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
-        "Official Site": "https://jobhub.jp/",
-        "Icon": "/assets/jobhub_logo_200x200-2508813a0b72c545f6e3a4205bcc8df6.png",
-        "Redirect": "https://jobhub.jp/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jobhub.jp/"
     },
     {
         "link": "https://playzula.com",

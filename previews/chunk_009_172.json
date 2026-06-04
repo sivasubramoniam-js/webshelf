@@ -220,16 +220,6 @@
         "AbstractURL": "https://www.elonx.cz/"
     },
     {
-        "link": "https://barnim-aktuell.de",
-        "Heading": "Barnim Aktuell | Aktuelle Nachrichten und Veranstaltungen im Barnim",
-        "Abstract": "Barnim Aktuell hat die neuesten Nachrichten aus dem Landkreis Barnim. Lokale Meldungen, Politik, Veranstaltungen, Pressemitteilungen, Stellenangebote im Kreis.",
-        "Official Site": "https://barnim-aktuell.de/",
-        "Icon": "https://barnim-aktuell.de/wp-content/uploads/2022/12/LogoBlack.png",
-        "Redirect": "https://barnim-aktuell.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://barnim-aktuell.de/"
-    },
-    {
         "link": "https://blwan.net",
         "Heading": null,
         "Abstract": null,
@@ -303,11 +293,11 @@
         "link": "https://testsistemaje.com",
         "Heading": " Home | JESI ",
         "Abstract": null,
-        "Official Site": "http://135.148.65.238/",
-        "Icon": "http://135.148.65.238/web/image/website/1/logo?unique=3b02b72",
-        "Redirect": "http://135.148.65.238/",
+        "Official Site": "http://testsistemaje.com/",
+        "Icon": "http://testsistemaje.com/web/image/website/1/logo?unique=3b02b72",
+        "Redirect": "http://testsistemaje.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://135.148.65.238/"
+        "AbstractURL": "http://testsistemaje.com/"
     },
     {
         "link": "https://ickamaz.ru",

@@ -10,6 +10,16 @@
         "AbstractURL": "https://zanagar.de"
     },
     {
+        "link": "https://onfoil.com",
+        "Heading": "OnFoil.com is for sale | HugeDomains",
+        "Abstract": "Add more credibility to your site - get a premium domain today. Straight-forward shopping experience.",
+        "Official Site": "https://www.hugeDomains.com/domain_profile.cfm?d=OnFoil.com",
+        "Icon": "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png",
+        "Redirect": "https://www.hugeDomains.com/domain_profile.cfm?d=OnFoil.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=OnFoil.com"
+    },
+    {
         "link": "https://pipelinetesting.com",
         "Heading": "DOT Drug Programs and Compliance Made Simple - Pipeline Testing Consortium, Inc.",
         "Abstract": "Family-owned with decades of industry-leading experience, PTC is the partner for all your drug and alcohol compliance needs.",
@@ -118,16 +128,6 @@
         "Redirect": "https://letz.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://letz.kr"
-    },
-    {
-        "link": "https://love2say.de",
-        "Heading": "\n          Love2say\n          ",
-        "Abstract": "Mit Deiner Meinung Produkte von morgen mitgestalten und Punkte sammeln",
-        "Official Site": "https://love2say.de",
-        "Icon": "customer/i_p4/love2say/img/lx_logo.png",
-        "Redirect": "https://love2say.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://love2say.de"
     },
     {
         "link": "https://janvaneyck.nl",
@@ -290,18 +290,8 @@
         "AbstractURL": "https://justicejeffboyd.org/"
     },
     {
-        "link": "https://rainbowhealthontario.ca",
-        "Heading": "Rainbow Health Ontario | Advancing 2SLGBTQ+ Health Equity",
-        "Abstract": "Rainbow Health Ontario works to ensure 2SLGBTQ+ communities receive equitable health care in Ontario through provider training, resources and advocacy.",
-        "Official Site": "https://www.rainbowhealthontario.ca/",
-        "Icon": "https://www.rainbowhealthontario.ca/wp-content/uploads/2025/04/RHO-Upcoming-Courses.jpg",
-        "Redirect": "https://www.rainbowhealthontario.ca/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.rainbowhealthontario.ca/"
-    },
-    {
         "link": "https://cgbkam.ru",
-        "Heading": "172.184.220.154 03.06.2026 11:06:50",
+        "Heading": "52.225.29.101 04.06.2026 11:20:12",
         "Abstract": null,
         "Official Site": "https://cgbkam.ru",
         "Icon": "data:,",
@@ -338,15 +328,5 @@
         "Redirect": "https://steinbach.com.tw",
         "AbstractSource": "BS4",
         "AbstractURL": "https://steinbach.com.tw"
-    },
-    {
-        "link": "https://reachgroup.in",
-        "Heading": "Reach Group: Premier Real Estate Developer in Gurgaon",
-        "Abstract": "Reach Group a leading real estate developer in Gurgaon, specializing in premium properties. Trusted real estate developer in Gurgaon for top-tier projects",
-        "Official Site": "https://www.reachgroup.in",
-        "Icon": "https://reachgroup.in/images/reach-logo.svg",
-        "Redirect": "https://www.reachgroup.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.reachgroup.in"
     }
 ]
