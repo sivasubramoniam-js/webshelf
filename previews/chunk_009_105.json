@@ -101,13 +101,13 @@
     },
     {
         "link": "https://verduurzamendeurne.nl",
-        "Heading": "Verduurzamen Deurne, Warmtepompen, Airconditioning, Kozijnen",
-        "Abstract": "Wij installeren Zonnepanelen, airconditioning, kozijnen en warmtepompen! Duurzame oplossingen voor uw bedrijf, kantoor en/of woning bij Verduurzamen Deurne.",
-        "Official Site": "https://verduurzamendeurne.nl/",
-        "Icon": "https://verduurzamendeurne.nl/wp-content/uploads/2023/01/Logo-witte-achtergrond.jpg",
-        "Redirect": "https://verduurzamendeurne.nl/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://verduurzamendeurne.nl",
+        "Icon": "data:;",
+        "Redirect": "https://verduurzamendeurne.nl",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://verduurzamendeurne.nl/"
+        "AbstractURL": "https://verduurzamendeurne.nl"
     },
     {
         "link": "https://neryda.com",
@@ -178,16 +178,6 @@
         "Redirect": "https://shoppaya.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shoppaya.com/"
-    },
-    {
-        "link": "https://xmvnmarket.com",
-        "Heading": "Access Global Financial Markets and Start Trading | XM",
-        "Abstract": "Trade with confidence at XM. Open an account and enjoy the benefits including bonuses, promotions, competitions, copy trading, live education and much more.",
-        "Official Site": "https://xmvnmarket.com",
-        "Icon": "https://cloud.xm-cdn.com/static/xm/common/logos/revamp/XM-logo.jpg",
-        "Redirect": "https://xmvnmarket.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://xmvnmarket.com"
     },
     {
         "link": "https://fcdsolucionesindustriales.co",
@@ -318,15 +308,5 @@
         "Redirect": "https://blueteam.asia",
         "AbstractSource": "BS4",
         "AbstractURL": "https://blueteam.asia"
-    },
-    {
-        "link": "https://americanspecialties.com",
-        "Heading": "American Specialties - Commercial Washroom Accessories",
-        "Abstract": "We are the world\u2019s leading manufacturer of commercial partitions, washroom accessories, lockers, and visual display products.",
-        "Official Site": "https://americanspecialties.com/",
-        "Icon": "https://americanspecialties.com/wp-content/uploads/2015/06/ASI_American-Specialties_logo-WEB.png",
-        "Redirect": "https://americanspecialties.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://americanspecialties.com/"
     }
 ]

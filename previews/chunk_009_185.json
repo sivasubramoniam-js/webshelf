@@ -171,10 +171,10 @@
     },
     {
         "link": "https://cumclinic.com",
-        "Heading": "Cum Clinic | Welcome to my Cum Clinic",
-        "Abstract": null,
+        "Heading": "Cum Clinic | Age Verification",
+        "Abstract": "Cum Clinic | Age Verification",
         "Official Site": "https://cumclinic.com",
-        "Icon": "custom_assets/images/favicon.png",
+        "Icon": "N/A",
         "Redirect": "https://cumclinic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cumclinic.com"
@@ -194,7 +194,7 @@
         "Heading": "\u0418\u043c\u043f\u043b\u0430\u043d\u0442 \u0441\u0438\u0442\u0438 \u2013 \u0446\u0435\u043d\u0442\u0440 \u0438\u043c\u043f\u043b\u0430\u043d\u0442\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u0441\u0442\u043e\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 | Implant City",
         "Abstract": "\u0418\u043c\u043f\u043b\u0430\u043d\u0442 \u0421\u0438\u0442\u0438 - \u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u0438\u043c\u043f\u043b\u0430\u043d\u0442\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 - \u0417\u0432\u043e\u043d\u0438\u0442\u0435 \u260e+ 7 (495) 150-07-35 - \u0418\u043c\u043f\u043b\u0430\u043d\u0442 \u0421\u0438\u0442\u0438!",
         "Official Site": "https://implantcity.ru",
-        "Icon": "/upload/resize_cache/webp/local/templates/implantcity/favicons/favicon-32x32.webp",
+        "Icon": "/local/templates/implantcity/favicons/favicon-32x32.png",
         "Redirect": "https://implantcity.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://implantcity.ru"
@@ -218,6 +218,16 @@
         "Redirect": "https://www.alabamashakes.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.alabamashakes.com"
+    },
+    {
+        "link": "https://londonfestivalofarchitecture.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://londonfestivalofarchitecture.org",
+        "Icon": "data:;",
+        "Redirect": "https://londonfestivalofarchitecture.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://londonfestivalofarchitecture.org"
     },
     {
         "link": "https://gm4il.com",
@@ -248,16 +258,6 @@
         "Redirect": "https://joberty.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://joberty.com"
-    },
-    {
-        "link": "https://bicpens.com",
-        "Heading": "Home - Custom Printed Promotional Products - BICpens.com | Product Catalog | BICpens.com",
-        "Abstract": "Specializing in items we imprint with your logo or content, and more than 45 years of promotional experience, BICpens.com offers advertising quality and value that can\u2019t be matched.",
-        "Official Site": "https://www.bicpens.com/",
-        "Icon": "https://www.bicpens.com/wp-content/uploads/2021/09/favicon.ico",
-        "Redirect": "https://www.bicpens.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bicpens.com/"
     },
     {
         "link": "https://alliedmedia.org",

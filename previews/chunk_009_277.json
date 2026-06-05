@@ -30,16 +30,6 @@
         "AbstractURL": "https://infoprocenter.net"
     },
     {
-        "link": "https://24hours-news.ru",
-        "Heading": "\u7b2c\u4e00\u7248\u7f5101bz - \u6bcf\u65e5\u5927\u8d5b\u5b98\u7f51\u5165\u53e3",
-        "Abstract": "\u7b2c\u4e00\u7248\u7f5101bz",
-        "Official Site": "https://24hours-news.ru",
-        "Icon": "/template/news/blog1/img/favicon.ico",
-        "Redirect": "https://24hours-news.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://24hours-news.ru"
-    },
-    {
         "link": "https://excelligence.com",
         "Heading": "Excelligence Learning Corporation | A leader in the childhood education industry",
         "Abstract": null,
@@ -150,16 +140,6 @@
         "AbstractURL": "https://simpsonspark.com"
     },
     {
-        "link": "https://cityofcaldwell.org",
-        "Heading": "Home | City of Caldwell, Idaho",
-        "Abstract": "Welcome to the City of Caldwell. Caldwell is the first major city and western entrance to the magnificent and picturesque Treasure Valley, and is located on the beautiful Boise River. A community of friendly, sincere people are here to live, work and play with, so get connected, get involved, and become a great part of this wonderful community!",
-        "Official Site": "https://www.cityofcaldwell.org/Home",
-        "Icon": "https://www.cityofcaldwell.org/files/ocwebsite/City/HeroImage/city%20of%20caldwell%20white%20logo.png?w=1200",
-        "Redirect": "https://www.cityofcaldwell.org/Home",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cityofcaldwell.org/Home"
-    },
-    {
         "link": "https://ofginc.com",
         "Heading": "Customize the look and feel of your Workplace",
         "Abstract": null,
@@ -181,10 +161,10 @@
     },
     {
         "link": "https://praguest.com",
-        "Heading": "The best of Prague",
-        "Abstract": "Discover Prague's best events calendar with live concerts, festivals, and cultural shows. Plan your visit and never miss a thing happening in Prague.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://praguest.com",
-        "Icon": "/images/favicon.ico",
+        "Icon": "data:;",
         "Redirect": "https://praguest.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://praguest.com"
@@ -208,16 +188,6 @@
         "Redirect": "https://dolphinplacements.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dolphinplacements.com/"
-    },
-    {
-        "link": "https://mentalcoaching.at",
-        "Heading": "Home - Rock me 1x1 - wer nicht rechnen will, soll singen!",
-        "Abstract": "die innovative 1x1-cd ab sofort erh\u00e4ltlich - von fachleuten empfohlen! p\u00e4dagogisch wertvoll und vor allem gro\u00dfer spa\u00df-faktor!",
-        "Official Site": "http://rockme1x1.at/",
-        "Icon": "https://rockme1x1.at/cms/o/s0f4c2211cbe1d1ce/img/favicon.png?t=1297359549",
-        "Redirect": "http://rockme1x1.at/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://rockme1x1.at/"
     },
     {
         "link": "https://bknet.dk",

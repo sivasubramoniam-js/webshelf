@@ -114,7 +114,7 @@
         "Heading": "Hoptimist",
         "Abstract": "Hoptimist",
         "Official Site": "https://hoptimist.com",
-        "Icon": "/on/demandware.static/Sites-hoptimist-Site/-/default/dwd5c44604/images/favicon-196x196.png",
+        "Icon": "/on/demandware.static/Sites-hoptimist-Site/-/default/dw43e0e4b4/images/favicon-196x196.png",
         "Redirect": "https://hoptimist.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hoptimist.com"
@@ -301,12 +301,12 @@
     },
     {
         "link": "https://adcompsystems.com",
-        "Heading": "Smart Payment & Software Solutions for Governments | AdComp Systems",
-        "Abstract": "Simplify payments with AdComp Systems \u2014 integrated kiosks, online, and mobile platforms built for courts, utilities, and public works agencies.",
-        "Official Site": "https://adcompsystems.com/",
-        "Icon": "http://adcompsystems.com/wp-content/uploads/2025/04/AdCompSystemIcon_1_25-e1744169374380.png",
-        "Redirect": "https://adcompsystems.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://adcompsystems.com",
+        "Icon": "data:;",
+        "Redirect": "https://adcompsystems.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://adcompsystems.com/"
+        "AbstractURL": "https://adcompsystems.com"
     }
 ]

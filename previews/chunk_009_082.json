@@ -10,6 +10,16 @@
         "AbstractURL": "https://www.suanlamai.com/"
     },
     {
+        "link": "https://tylers.biz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://tylers.biz",
+        "Icon": "data:;",
+        "Redirect": "https://tylers.biz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tylers.biz"
+    },
+    {
         "link": "https://gastra.net",
         "Heading": null,
         "Abstract": null,
@@ -38,16 +48,6 @@
         "Redirect": "https://katzentempel.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://katzentempel.de/"
-    },
-    {
-        "link": "https://hovnet.cz",
-        "Heading": "HovNet -",
-        "Abstract": "Internet pro obce Janov\u00e1, Hov\u011bz\u00ed, Huslenky, Halenkov, Nov\u00fd Hrozenkov, Karolinka, Velk\u00e9 Karlovice",
-        "Official Site": "https://www.hovnet.cz/",
-        "Icon": "https://www.hovnet.cz/wp-content/themes/HovnetTheme/img/favicon.png",
-        "Redirect": "https://www.hovnet.cz/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hovnet.cz/"
     },
     {
         "link": "https://packalyst.com",
@@ -98,6 +98,16 @@
         "Redirect": "https://image-renew-pro.top",
         "AbstractSource": "BS4",
         "AbstractURL": "https://image-renew-pro.top"
+    },
+    {
+        "link": "https://brcttuc.com",
+        "Heading": "brcttuc.com",
+        "Abstract": null,
+        "Official Site": "https://brcttuc.com",
+        "Icon": "N/A",
+        "Redirect": "https://brcttuc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://brcttuc.com"
     },
     {
         "link": "https://desimartini.com",
@@ -228,16 +238,6 @@
         "Redirect": "https://hashoembroidery.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hashoembroidery.com/"
-    },
-    {
-        "link": "https://nlx-international.com",
-        "Heading": "Home | NLX International",
-        "Abstract": "NLX International biedt een ruim assortiment A-merk airconditioners tegen zeer scherpen prijzen aan. U bent van harte welkom op ons verkoopadres om een kijkje in onze showroom te nemen!",
-        "Official Site": "https://www.nlx-international.com/nl/",
-        "Icon": "https://www.nlx-international.com/userdata/instellingen/logo_nlx68.png",
-        "Redirect": "https://www.nlx-international.com/nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.nlx-international.com/nl/"
     },
     {
         "link": "https://soundee.com",

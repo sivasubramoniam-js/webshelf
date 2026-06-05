@@ -10,16 +10,6 @@
         "AbstractURL": "https://www.startupguys.net/"
     },
     {
-        "link": "https://chitsime.org",
-        "Heading": "Chitsime",
-        "Abstract": null,
-        "Official Site": "https://chitsime.org",
-        "Icon": "https://chitsime.org/wp-content/uploads/2024/02/fav-100x100.jpg",
-        "Redirect": "https://chitsime.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chitsime.org"
-    },
-    {
         "link": "https://wave-hawaii.com",
         "Heading": "WAVE HAWAII | Online Shop",
         "Abstract": "Nachhaltige Badeponchos aus zertifizierter Bio-Baumwolle \u2713 Kuschelig weich & stylisch \u2013 dein Surfponcho f\u00fcr Strand, Sauna & Zuhause. in 1\u20133 Tagen bei dir \u25ba Jetzt entdecken!",
@@ -104,7 +94,7 @@
         "Heading": "\u0417\u0430\u0440\u0430\u0431\u043e\u0442\u043e\u043a \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0435 \u043d\u0430 \u0434\u043e\u043c\u0443 \u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u043e\u0432, \u0432\u0441\u0435 \u043e \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u0441\u043a\u0438\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u0445, \u0443\u0440\u043e\u043a\u0438 \u043f\u043e \u0444\u043e\u0442\u043e\u0448\u043e\u043f\u0443, \u0443\u0440\u043e\u043a\u0438 html, \u043a\u043d\u0438\u0433\u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e, \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b",
         "Abstract": "\u0411\u043b\u043e\u0433 \u043e \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430\u0445, \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u0445, \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0438 \u0441\u0430\u0439\u0442\u043e\u0432, \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438",
         "Official Site": "https://serblog.ru",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://serblog.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://serblog.ru"
@@ -161,13 +151,13 @@
     },
     {
         "link": "https://mdtheatreguide.com",
-        "Heading": "Maryland Theatre Guide | Your Ticket to the Performing Arts!",
-        "Abstract": "Your Ticket to the Performing Arts!",
-        "Official Site": "https://mdtheatreguide.com/",
-        "Icon": "https://mdtheatreguide.com/wp-content/uploads/2015/07/MDTheatreguide-412x78.png",
-        "Redirect": "https://mdtheatreguide.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mdtheatreguide.com",
+        "Icon": "data:;",
+        "Redirect": "https://mdtheatreguide.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mdtheatreguide.com/"
+        "AbstractURL": "https://mdtheatreguide.com"
     },
     {
         "link": "https://beliy-lekar.ru",

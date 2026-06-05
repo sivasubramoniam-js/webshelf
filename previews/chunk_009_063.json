@@ -50,16 +50,6 @@
         "AbstractURL": "https://auticon.com/"
     },
     {
-        "link": "https://hfe-hfe.ru",
-        "Heading": "\u041f\u0435\u0440\u0435\u0441\u0430\u0434\u043a\u0430 \u0432\u043e\u043b\u043e\u0441 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 \u043c\u0435\u0442\u043e\u0434\u043e\u043c HFE  \u2014 \u0426\u0435\u043d\u044b \u043e\u0442 80 000\u20bd ",
-        "Abstract": "\u0422\u0440\u0430\u043d\u0441\u043f\u043b\u0430\u043d\u0442\u0430\u0446\u0438\u044f \u0432\u043e\u043b\u043e\u0441 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 \u0411\u0435\u0437\u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u043f\u0435\u0440\u0435\u0441\u0430\u0434\u043a\u0430 \u0432\u043e\u043b\u043e\u0441 \u043c\u0435\u0442\u043e\u0434\u043e\u043c HFE. \u0411\u0435\u0437 \u0448\u0440\u0430\u043c\u043e\u0432 \u0438 \u0431\u043e\u043b\u0438. \u041f\u0440\u0438\u0436\u0438\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c 98%. \u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u044f \u0442\u0440\u0438\u0445\u043e\u043b\u043e\u0433\u0430 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e. \u0417\u0430\u043f\u0438\u0441\u044c \u043e\u043d\u043b\u0430\u0439\u043d 24/7.",
-        "Official Site": "https://hfe-hfe.ru/",
-        "Icon": "/local/templates/hfe-hfe/images/prev.jpg",
-        "Redirect": "https://hfe-hfe.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hfe-hfe.ru/"
-    },
-    {
         "link": "https://gruporedes.net",
         "Heading": "Inicio - Redes.net - Tu operador de telecomunicaciones",
         "Abstract": null,
@@ -82,7 +72,7 @@
     {
         "link": "https://keytravel.com",
         "Heading": "Travel Management Company | Key Travel",
-        "Abstract": "Key Travel By Trip.Biz is the world\u2019s leading travel management company exclusively focused on the unique travel needs of mission-driven organisations. ",
+        "Abstract": "Key Travel is the world\u2019s largest travel management company specializing in the humanitarian, faith and academic sectors.",
         "Official Site": "https://www.keytravel.com/",
         "Icon": "/icons/favicon-32x32.png",
         "Redirect": "https://www.keytravel.com/",
@@ -111,13 +101,13 @@
     },
     {
         "link": "https://classicalguitarshed.com",
-        "Heading": "Classical Guitar Shed - Learn to Play Beautifully, Comfortably, and Fluidly",
-        "Abstract": "Become the guitarist you want to be: learn classical guitar online, play expressively, and play beautifully! Free tutorials, training videos, and more.",
-        "Official Site": "https://classicalguitarshed.com/",
-        "Icon": "https://classicalguitarshed.com/wp-content/uploads/2015/11/cgs-featured-image.jpg",
-        "Redirect": "https://classicalguitarshed.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://classicalguitarshed.com",
+        "Icon": "data:;",
+        "Redirect": "https://classicalguitarshed.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://classicalguitarshed.com/"
+        "AbstractURL": "https://classicalguitarshed.com"
     },
     {
         "link": "https://lghomecomfort.ca",
@@ -300,13 +290,13 @@
         "AbstractURL": "https://www.onturk.tv"
     },
     {
-        "link": "https://wilan.pl",
-        "Heading": "Wilan.pl Andrzej Kastelik - Gilowice - Radiowy internet, Support system\u010f\u017c\u02ddw unix ...",
-        "Abstract": "F.U.H. WILAN - 34-322 Gilowice, Weso\u0142a 7, firma zajmuje si\u0119 dostarczaniem internetu na terenie zywiecczyzny a w szczeg\u00f3lnosci obejmuje Gilowice i miejscowosci pobliskie. Hostujemy r\u00f3wnie\u017c serwery w tym serwery gier. Piszemy aplikacje, projektujemy i wdra\u017camy rozwi\u0105zania sieci, zajmujemy sie wsparciem technicznym.",
-        "Official Site": "https://wilan.pl",
-        "Icon": "N/A",
-        "Redirect": "https://wilan.pl",
+        "link": "https://bouldermedicalcenter.com",
+        "Heading": "Boulder Medical Center - Find a Doctor",
+        "Abstract": "Primary care and specialty care doctors. Over 85 providers serve patients in Boulder, Louisville, Longmont, and Erie.",
+        "Official Site": "https://www.bouldermedicalcenter.com/",
+        "Icon": "/wp-content/uploads/2026/06/cropped-logo-icon.png",
+        "Redirect": "https://www.bouldermedicalcenter.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://wilan.pl"
+        "AbstractURL": "https://www.bouldermedicalcenter.com/"
     }
 ]

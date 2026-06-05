@@ -70,16 +70,6 @@
         "AbstractURL": "http://www.2L.no"
     },
     {
-        "link": "https://arthurelliott.com",
-        "Heading": "Arthur Elliott",
-        "Abstract": "We're a specialized agency designed to build brands and businesses locally, and at scale\u2014with precision, measurable performance and community relevance.",
-        "Official Site": "https://arthurelliott.com",
-        "Icon": "https://arthurelliott.com/wp-content/uploads/2025/07/og-image.jpg",
-        "Redirect": "https://arthurelliott.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://arthurelliott.com"
-    },
-    {
         "link": "https://weissensee.com",
         "Heading": "Weissensee ",
         "Abstract": "Welcome to the Weissensee Nature Park! Relax in a healthy climate at the foot of the Gailtal Valley Alps, actively explore the habitat around the lake and enjoy the invigorating nature at your own pace: secluded and always surrounded by intact, extensive flora and fauna.",
@@ -231,10 +221,10 @@
     },
     {
         "link": "https://mertens-groep.nl",
-        "Heading": "Groeikracht voor ondernemers | Mertens Groep",
-        "Abstract": "Uw toeleverancier voor agro, tuin, groen en workwear. Compleet assortiment, deskundig advies en snelle levering. Biologie, gewasbescherming, meststoffen, substraten, folie, ...",
+        "Heading": "Human verification",
+        "Abstract": null,
         "Official Site": "https://mertens-groep.nl",
-        "Icon": "https://www.mertens-groep.nl/static/version1779966066/frontend/Mertens/default/nl_NL/Magento_Theme/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://mertens-groep.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mertens-groep.nl"

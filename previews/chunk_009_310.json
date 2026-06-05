@@ -24,7 +24,7 @@
         "Heading": "Dimehouse - Voordelig Thuis!",
         "Abstract": "Dimehouse is d\u00e9 plek voor jouw nieuwe meubels! Verschillende stijlen, kleuren en smaken, en alles uit voorraad leverbaar! Ruim 250.000 klanten gingen je voor!",
         "Official Site": "https://dimehouse.nl/",
-        "Icon": "http://dimehouse.nl/cdn/shop/files/logo-dimehouse_1200x628px.png?crop=center&height=1200&v=1730723920&width=1200",
+        "Icon": "http://cdn.shopify.com/s/files/1/0648/5825/9650/files/logo-dimehouse_1200x628px.png?crop=center&height=1200&v=1730723920&width=1200",
         "Redirect": "https://dimehouse.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dimehouse.nl/"
@@ -288,15 +288,5 @@
         "Redirect": "https://www.taokids.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.taokids.com/"
-    },
-    {
-        "link": "https://net-burg.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://net-burg.net",
-        "Icon": "N/A",
-        "Redirect": "https://net-burg.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://net-burg.net"
     }
 ]

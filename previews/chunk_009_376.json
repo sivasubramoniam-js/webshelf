@@ -11,13 +11,23 @@
     },
     {
         "link": "https://peterturchin.com",
-        "Heading": "Peter Turchin",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://peterturchin.com/",
-        "Icon": "https://s0.wp.com/i/blank.jpg",
-        "Redirect": "https://peterturchin.com/",
+        "Official Site": "https://peterturchin.com",
+        "Icon": "data:;",
+        "Redirect": "https://peterturchin.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://peterturchin.com/"
+        "AbstractURL": "https://peterturchin.com"
+    },
+    {
+        "link": "https://assortedscans.com",
+        "Heading": "Home \u00b7 Assorted Scans",
+        "Abstract": "Helvetica and other Assorted Scans",
+        "Official Site": "https://assortedscans.com/",
+        "Icon": "https://assortedscans.com/media/logo.png",
+        "Redirect": "https://assortedscans.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://assortedscans.com/"
     },
     {
         "link": "https://melrosefarmservice.com",
@@ -90,16 +100,6 @@
         "AbstractURL": "https://shopvida.com/"
     },
     {
-        "link": "https://stephane-schevaque.fr",
-        "Heading": "Accueil - stephane-schevaque.fr",
-        "Abstract": "St\u00e9phane Schevaque Usinage Num\u00e9riqueVotre solution de sous-traitance industrielle Nous contacter A Propos de Nous Un savoir-faire local, 100 % rod\u00e9 au d\u00e9colletage de pr\u00e9cision Bas\u00e9 en Haute-Savoie, au c\u0153ur de la vall\u00e9e de l\u2019Arve, notre atelier b\u00e9n\u00e9ficie d\u2019un environnement industriel sp\u00e9cialement tourn\u00e9 vers le d\u00e9colletage de pr\u00e9cision. Une expertise num\u00e9rique avanc\u00e9e Notre capacit\u00e9 \u00e0 coupler",
-        "Official Site": "https://stephane-schevaque.fr/",
-        "Icon": "https://stephane-schevaque.fr/wp-content/uploads/2026/01/cropped-cropped-logo280-1.png",
-        "Redirect": "https://stephane-schevaque.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stephane-schevaque.fr/"
-    },
-    {
         "link": "https://schnalstal.com",
         "Heading": "Das Schnalstal in S\u00fcdtirol: Hol dir dein Abenteuer",
         "Abstract": "Wandern, Skifahren und mehr: Das Schnalstal in S\u00fcdtirol steckt voller Adrenalin und Natur, im Sommer wie im Winter. Arena frei f\u00fcr dein alpines Abenteuer!",
@@ -128,16 +128,6 @@
         "Redirect": "https://mssrf.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mssrf.org"
-    },
-    {
-        "link": "https://gh-egypt.com",
-        "Heading": "Home - gh-egypt.com",
-        "Abstract": "20 years of academic excellence read more GHE SHOOL FOUNDER welcome message ENG. MOSTAFA GAMAL Dear Parents, On behalf of myself and the entire school staff, I warmly welcome you to GHE, Green Heights Egypt Schools. Due to the rapid and successive technical and information developments that the world is witnessing, big changes have occurred",
-        "Official Site": "https://gh-egypt.com/",
-        "Icon": "https://gh-egypt.com/wp-content/uploads/2024/03/New-GHE-Temp-1.png",
-        "Redirect": "https://gh-egypt.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gh-egypt.com/"
     },
     {
         "link": "https://barrakav.co.uk",
@@ -218,16 +208,6 @@
         "Redirect": "https://focusgroup.co.uk/highnet/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://focusgroup.co.uk/highnet/"
-    },
-    {
-        "link": "https://shambhavicraft.com",
-        "Heading": "Shambhavi Craft",
-        "Abstract": null,
-        "Official Site": "https://shambhavicraft.com",
-        "Icon": "N/A",
-        "Redirect": "https://shambhavicraft.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shambhavicraft.com"
     },
     {
         "link": "https://energymagazine.com.au",

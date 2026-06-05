@@ -81,10 +81,10 @@
     },
     {
         "link": "https://viewpure.com",
-        "Heading": "Under construction - Awesome site in the making!",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://viewpure.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://viewpure.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://viewpure.com"
@@ -138,6 +138,16 @@
         "Redirect": "https://europisrael.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://europisrael.com"
+    },
+    {
+        "link": "https://kupite-diplom0024.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://kupite-diplom0024.ru",
+        "Icon": "N/A",
+        "Redirect": "https://kupite-diplom0024.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kupite-diplom0024.ru"
     },
     {
         "link": "https://xtnhost.ro",

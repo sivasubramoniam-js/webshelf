@@ -210,6 +210,16 @@
         "AbstractURL": "https://nopsecurity.net"
     },
     {
+        "link": "https://reservevaparks.com",
+        "Heading": "\n\tVirginia State Parks - Virginia State Parks Reservation System\n",
+        "Abstract": null,
+        "Official Site": "https://reservevaparks.com",
+        "Icon": "#",
+        "Redirect": "https://reservevaparks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://reservevaparks.com"
+    },
+    {
         "link": "https://sumurdigital.com",
         "Heading": "Agencia de Marketing Digital | Sumur Digital",
         "Abstract": "\u00bfPerdido en el Universo DIGITAL? hacemos volar tu empresa en internet Agencia de Marketing DigitalSumur Digital Qu\u00e9 puedes Conseguir con Marketing Digital.",
@@ -231,13 +241,13 @@
     },
     {
         "link": "https://gluta-c.com",
-        "Heading": "Get Glowing with our Skin Whitening Products with Gluta-C",
-        "Abstract": "Transform your skin with our skin whitening solutions, powered by glutathione and vitamin C. Enhance your beauty and love the skin you're in.",
-        "Official Site": "http://gluta-c.com/",
-        "Icon": "http://gluta-c.com/wp-content/uploads/2023/07/gluta-c-body-care.webp",
-        "Redirect": "http://gluta-c.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://gluta-c.com",
+        "Icon": "data:;",
+        "Redirect": "https://gluta-c.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://gluta-c.com/"
+        "AbstractURL": "https://gluta-c.com"
     },
     {
         "link": "https://absolut-trust.ru",

@@ -30,16 +30,6 @@
         "AbstractURL": "https://facebookswagemea.com"
     },
     {
-        "link": "https://cm-figfoz.pt",
-        "Heading": "CM Figueira da Foz",
-        "Abstract": "S\u00edtio oficial da C\u00e2mara Municipal da Figueira da Foz. Informa\u00e7\u00e3o sobre o munic\u00edpio, composi\u00e7\u00e3o e atividades. Inclui uma agenda de eventos no concelho.",
-        "Official Site": "https://www.cm-figfoz.pt/",
-        "Icon": "https://www.cm-figfoz.pt/cmfigueiradafoz/uploads/site_zone/logo/1/logo_fb.png",
-        "Redirect": "https://www.cm-figfoz.pt/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cm-figfoz.pt/"
-    },
-    {
         "link": "https://uspainfoundation.org",
         "Heading": "U.S. Pain Foundation - serving patients with chronic pain",
         "Abstract": "U.S. Pain Foundation is a 501 (c)3 non-profit organization dedicated to serving those who live with pain conditions and their care providers. We are here to help individuals find resources and inspiration.",
@@ -191,7 +181,7 @@
     },
     {
         "link": "https://sepoltech.com.br",
-        "Heading": "sepolTECH \u2013 Consultoria e Solu\u00e7\u00f5es em TI",
+        "Heading": "Index of /",
         "Abstract": null,
         "Official Site": "https://sepoltech.com.br",
         "Icon": "N/A",
@@ -208,6 +198,16 @@
         "Redirect": "https://xloohost.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xloohost.com"
+    },
+    {
+        "link": "https://nutritionjungle.com",
+        "Heading": "\n\tNutrition Jungle by Stimpson's House Of Nutrition - Nutrition & Health\n",
+        "Abstract": null,
+        "Official Site": "http://nutritionjungle.com/",
+        "Icon": "http://nutritionjungle.com/themes/default-1/images/layout/site_logo.gif",
+        "Redirect": "http://nutritionjungle.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://nutritionjungle.com/"
     },
     {
         "link": "https://route179.net",

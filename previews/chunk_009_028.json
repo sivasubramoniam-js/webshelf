@@ -80,16 +80,6 @@
         "AbstractURL": "https://macedoniantruth.org"
     },
     {
-        "link": "https://madeira-islandshotels.com",
-        "Heading": "Madeira Islands hotels & apartments, all accommodations in Madeira Islands",
-        "Abstract": "Online booking for hotels in Madeira Islands, Portugal. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://madeira-islandshotels.com",
-        "Icon": "N/A",
-        "Redirect": "https://madeira-islandshotels.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://madeira-islandshotels.com"
-    },
-    {
         "link": "https://magicball.net",
         "Heading": "Magicball Network - the Little Big Adventure / Twinsen's Odyssey community",
         "Abstract": "The Magicball Network is an online fan community around the Little Big Adventure video games. It has been around for over 20 year. Join the discussions on our forums, post your ideas, share your creations. Relentless: Twinsen's Adventure; Twinsen's Odyssey.",
@@ -111,13 +101,13 @@
     },
     {
         "link": "https://marshalllyonlibrary.org",
-        "Heading": "Home - Marshall-Lyon County Library",
-        "Abstract": "The Marshall-Lyon County Library is comprised of three public libraries in Marshall, Balaton, and Cottonwood in Southwestern Minnesota. We are also part of the Plum Creek Regional Library System, a federated regional public library system spanning 9 SWMN counties, which participates in the Minnesota Reciprocal Borrowing Compact.",
-        "Official Site": "https://marshalllyonlibrary.org/",
-        "Icon": "https://marshalllyonlibrary.org/wp-content/uploads/2022/01/MLCL-facebook-instagram.jpg",
-        "Redirect": "https://marshalllyonlibrary.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://marshalllyonlibrary.org",
+        "Icon": "data:;",
+        "Redirect": "https://marshalllyonlibrary.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://marshalllyonlibrary.org/"
+        "AbstractURL": "https://marshalllyonlibrary.org"
     },
     {
         "link": "https://mathost.eu",
@@ -240,6 +230,16 @@
         "AbstractURL": "https://mr-scandinave.fr/"
     },
     {
+        "link": "https://msccn.org",
+        "Heading": "Military Spouse Jobs \u2013 119,000+ Verified Placements With VetJobs and Military Spouse Jobs Since 2010!",
+        "Abstract": null,
+        "Official Site": "https://msccn.org",
+        "Icon": "https://militaryspousejobs.org/wp-content/uploads/2024/12/MSJ-May-2022-sm-1-90x90.png",
+        "Redirect": "https://msccn.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://msccn.org"
+    },
+    {
         "link": "https://mudmotortalk.com",
         "Heading": "MudMotorTalk.com  ---  The Premier Spot for Mudmotor Enthusiasts! ------  The place to discuss all brands such as Pro Drive, Gator-Tail, GatorTail, Go Devil, Mud Buddy, mudmotors, mudboats, mudmotor forum, mudmotor videos, mudmotor photos, shallowwateroutboard.com, shallowwateroutboards.com, mudmotor central, mud motor central, mudmotor mafia, mudmotorchat, mudmotorchat.com mud motor chat, mudmotorchat",
         "Abstract": null,
@@ -258,16 +258,6 @@
         "Redirect": "https://www.multi-uslugi.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.multi-uslugi.pl"
-    },
-    {
-        "link": "https://multistore24.pl",
-        "Heading": "Multistore24.pl  - Suplementy, Ksi\u0105\u017cki, Chemia, Male AGD",
-        "Abstract": "Ksi\u0105\u017cki, suplementy, Tiens Suplementy, medycyny Chi\u0144skiej,  BioBran, PM International, Ksi\u0105\u017cki, albumy fotograficzne, Taschen, Meble i Meble Ogrodowe, Akcesoria, prezenty, gadzety,  Riviera Maison, Mi",
-        "Official Site": "https://www.multistore24.pl/",
-        "Icon": "https://www.multistore24.pl/images/frontend/theme/giallo8/_editor/prod/079ff7c9da211f58d3980164385d772b.png",
-        "Redirect": "https://www.multistore24.pl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.multistore24.pl/"
     },
     {
         "link": "https://mytorotempus.com",

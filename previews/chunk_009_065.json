@@ -40,16 +40,6 @@
         "AbstractURL": "https://bankirro.ru/"
     },
     {
-        "link": "https://urbana.edu",
-        "Heading": "Online College & Nonprofit Accredited University | Franklin University",
-        "Abstract": "Your degree is possible at Franklin. Explore an accredited nonprofit university that's served the education needs of busy working adults since 1902.",
-        "Official Site": "https://urbana.edu",
-        "Icon": "/themes/fu/favicon.ico",
-        "Redirect": "https://urbana.edu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://urbana.edu"
-    },
-    {
         "link": "https://binamico.com",
         "Heading": "Binamico",
         "Abstract": "IT SOLUTIONS DEVELOPMENT & INTEGRATION",
@@ -98,16 +88,6 @@
         "Redirect": "https://appraiser1004.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://appraiser1004.com"
-    },
-    {
-        "link": "https://kultursanat.istanbul",
-        "Heading": "Anasayfa | \u0130BB K\u00fclt\u00fcr Sanat",
-        "Abstract": "K\u00fclt\u00fcr Merkezlerimizdeki ayl\u0131k b\u00fclten ve etkinliklerden haberdar olun",
-        "Official Site": "https://kultursanat.istanbul",
-        "Icon": "N/A",
-        "Redirect": "https://kultursanat.istanbul",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kultursanat.istanbul"
     },
     {
         "link": "https://mixcord.co",
@@ -221,13 +201,13 @@
     },
     {
         "link": "https://angelsonparade.com",
-        "Heading": "Home - Angels on Parade",
-        "Abstract": "Orange County SC Orange County SC part ways with Richard ChaplowTrebor TracyMay 1, 2023 Angel City FC Mixed feelings: Portland Thorns 3, Angel City FC 3Trebor TracyApril 30, 2023 Angel City FC Match Preview: Angel City FC must overcome sluggish start to seasonTrebor TracyApril 29, 2023 LAFC Match Preview: LAFC face Philadelphia in Finals rematch,",
-        "Official Site": "https://angelsonparade.com/",
-        "Icon": "https://angelsonparade.com/wp-content/uploads/2023/04/cropped-android-icon-96x96-1-32x32.png",
-        "Redirect": "https://angelsonparade.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://angelsonparade.com",
+        "Icon": "data:;",
+        "Redirect": "https://angelsonparade.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://angelsonparade.com/"
+        "AbstractURL": "https://angelsonparade.com"
     },
     {
         "link": "https://caglarakman.com",

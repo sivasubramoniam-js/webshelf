@@ -34,7 +34,7 @@
         "Heading": "The Fabric Store | Buy Quality Fashion Fabrics Online",
         "Abstract": "Buy Fabric Online // The Fabric Store Online stocks a huge range of merino wool, Liberty Fabrics, silks, linen, cotton and more! Free international express shipping on all orders over $300 AUD.",
         "Official Site": "https://wearethefabricstore.com/",
-        "Icon": "http://wearethefabricstore.com/cdn/shop/files/The_Fabric_Store_Logo_rectangle_google.png?v=1766955964",
+        "Icon": "http://cdn.shopify.com/s/files/1/0504/0986/5414/files/The_Fabric_Store_Logo_rectangle_google.png?v=1766955964",
         "Redirect": "https://wearethefabricstore.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wearethefabricstore.com/"
@@ -114,20 +114,10 @@
         "Heading": "\n      D\u00e9guisements & Articles de F\u00eate | Location & Vente | 2 Magasins Paris\n \u2013 Au Monde de la fete",
         "Abstract": "Sp\u00e9cialiste de la f\u00eate \u00e0 Paris depuis 50 ans ! Prix r\u00e9duits : +4000 d\u00e9guisements location & vente, d\u00e9co anniversaire Halloween et feux d'artifice. Visitez nos 2 magasins",
         "Official Site": "https://aumondedelafete.fr/",
-        "Icon": "http://aumondedelafete.fr/cdn/shop/files/logo-radio-cine-rire-removebg-preview_1a063b05-e3cf-43d8-a70f-17868a5c1752.png?v=1685441046",
+        "Icon": "http://cdn.shopify.com/s/files/1/0728/6675/8997/files/logo-radio-cine-rire-removebg-preview_1a063b05-e3cf-43d8-a70f-17868a5c1752.png?v=1685441046",
         "Redirect": "https://aumondedelafete.fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aumondedelafete.fr/"
-    },
-    {
-        "link": "https://baritoselatankab.go.id",
-        "Heading": "Redirecting...",
-        "Abstract": null,
-        "Official Site": "https://baritoselatankab.go.id",
-        "Icon": "N/A",
-        "Redirect": "https://baritoselatankab.go.id",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://baritoselatankab.go.id"
     },
     {
         "link": "https://ittesting.biz",
@@ -170,16 +160,6 @@
         "AbstractURL": "https://topboden.de"
     },
     {
-        "link": "https://aaroncake.net",
-        "Heading": "Aaron's Homepage",
-        "Abstract": null,
-        "Official Site": "https://aaroncake.net",
-        "Icon": "N/A",
-        "Redirect": "https://aaroncake.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aaroncake.net"
-    },
-    {
         "link": "https://brainson.org",
         "Heading": "BRAINS ON!",
         "Abstract": "",
@@ -198,6 +178,16 @@
         "Redirect": "https://teen-tube-20.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://teen-tube-20.com"
+    },
+    {
+        "link": "https://gilchrist.scot",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://gilchrist.scot",
+        "Icon": "N/A",
+        "Redirect": "https://gilchrist.scot",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gilchrist.scot"
     },
     {
         "link": "https://windsorsmith.com.au",
@@ -258,15 +248,5 @@
         "Redirect": "https://webmynehost.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://webmynehost.com"
-    },
-    {
-        "link": "https://standaloneinstaller.com",
-        "Heading": "Standalone Installer",
-        "Abstract": "Fast, lightweight software downloads and standalone installers for Windows, Mac, Linux, Android, and more.",
-        "Official Site": "https://standaloneinstaller.com",
-        "Icon": "https://standaloneinstaller.com/assets/icon.png",
-        "Redirect": "https://standaloneinstaller.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://standaloneinstaller.com"
     }
 ]

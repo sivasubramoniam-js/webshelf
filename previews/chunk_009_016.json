@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.ccvl.fr/"
     },
     {
-        "link": "https://ceara-hotels.com",
-        "Heading": "Ceara hotels & apartments, all accommodations in Ceara",
-        "Abstract": "Online booking for hotels in Ceara, Brazil. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://ceara-hotels.com",
-        "Icon": "N/A",
-        "Redirect": "https://ceara-hotels.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ceara-hotels.com"
-    },
-    {
         "link": "https://cheapman.ru",
         "Heading": "CheapMan \u2014 \u0441\u0435\u0440\u0432\u0438\u0441 \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430 \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430\u0445",
         "Abstract": "CheapMan \u2014 \u043f\u043e\u043c\u043e\u0436\u0435\u043c \u043d\u0430\u0439\u0442\u0438 \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0438\u0439 \u0442\u043e\u0432\u0430\u0440 \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430\u0445 \u0438 \u043f\u043e\u0434\u0441\u043a\u0430\u0436\u0435\u043c \u0433\u0434\u0435 \u043f\u043e\u043a\u0443\u043f\u0430\u0442\u044c \u0432\u044b\u0433\u043e\u0434\u043d\u0435\u0435.",
@@ -150,16 +140,6 @@
         "AbstractURL": "https://www.dailyroxette.com"
     },
     {
-        "link": "https://defibstore.co.uk",
-        "Heading": "Defibrillator Cabinets & AEDs | UK Manufacturer | Defib Store",
-        "Abstract": "UK's leading AED cabinet manufacturer, trusted by the NHS, supplying ambulance services. ZOLL, Philips, Cardiac Science and Stryker. Free UK delivery. ",
-        "Official Site": "https://defibstore.co.uk",
-        "Icon": "https://www.defibstore.co.uk/media/favicon/default/favico.png",
-        "Redirect": "https://defibstore.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://defibstore.co.uk"
-    },
-    {
         "link": "https://deluxehomeartshop.com",
         "Heading": "Deluxe Homeart LED Candles | Official Brand Shop \u2013 DeluxeHomeartShop",
         "Abstract": "Official webshop for Deluxe Homeart LED candles. Buy the most realistic artificial candles \u2013 perfect for your home. Fast delivery and the widest selection.",
@@ -228,5 +208,15 @@
         "Redirect": "https://dszb77.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dszb77.com"
+    },
+    {
+        "link": "https://dunhamrubber.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://dunhamrubber.com",
+        "Icon": "N/A",
+        "Redirect": "https://dunhamrubber.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dunhamrubber.com"
     }
 ]

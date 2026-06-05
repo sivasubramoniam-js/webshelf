@@ -100,16 +100,6 @@
         "AbstractURL": "https://dotbig-obzor.com/"
     },
     {
-        "link": "https://uasweekly.com",
-        "Heading": "Home Page - UASweekly.com",
-        "Abstract": "Covering news, and technological innovations across the UAS, and EVTOL sectors.",
-        "Official Site": "https://uasweekly.com/",
-        "Icon": "https://uasweekly.com/wp-content/uploads/2016/02/ChickysCoop90x90.png",
-        "Redirect": "https://uasweekly.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://uasweekly.com/"
-    },
-    {
         "link": "https://queensparkview.com",
         "Heading": "Queen's Park View",
         "Abstract": null,
@@ -148,6 +138,16 @@
         "Redirect": "https://kumazawa.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kumazawa.jp/"
+    },
+    {
+        "link": "https://feversocial.com",
+        "Heading": "AI \u9a45\u52d5\u7684\u904a\u6232\u5316\u884c\u92b7\u5e73\u53f0\uff0c\u89e3\u8b80\u9867\u5ba2\u610f\u5716\uff0c\u6df1\u5316\u6703\u54e1\u5fe0\u8aa0 - Feversocial \u767c\u71d2\u4e92\u52d5",
+        "Abstract": "\u7121\u9700\u7a0b\u5f0f\u80cc\u666f\uff0c\u7acb\u5373\u904b\u7528 30+ \u6b3e\u884c\u92b7\u6a21\u7d44\uff0c\u5275\u9020\u9ad8\u5ea6\u500b\u4eba\u5316\u7684\u4e92\u52d5\u9ad4\u9a57\u3002\u5c07\u6bcf\u4e00\u6b21\u63a5\u89f8\uff0c\u540c\u6b65\u8f49\u5316\u70ba\u9ad8\u50f9\u503c\u54c1\u724c\u8cc7\u7522\uff0c\u6301\u7e8c\u5275\u9020\u71df\u6536\u6a5f\u6703\u3002",
+        "Official Site": "https://info.feversocial.com/tw",
+        "Icon": "https://image.fevercdn.com?bucket=picture-original.fevercdn.com&filepath=info%2F2%2F1228%2F5480faea02d8cb648b167839.png",
+        "Redirect": "https://info.feversocial.com/tw",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://info.feversocial.com/tw"
     },
     {
         "link": "https://lndhosting.com",
@@ -280,6 +280,16 @@
         "AbstractURL": "https://www.anchin.com/"
     },
     {
+        "link": "https://clique-vpn.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://clique-vpn.ru",
+        "Icon": "N/A",
+        "Redirect": "https://clique-vpn.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://clique-vpn.ru"
+    },
+    {
         "link": "https://aladia.io",
         "Heading": "Aladia - E-learning Revolution",
         "Abstract": "Aladia empowers teachers to share knowledge and students to grow. Live lessons, AI course creation, calendars, payments, and chat \u2014 all in a unified digital platform.",
@@ -358,15 +368,5 @@
         "Redirect": "https://portal-clienti.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://portal-clienti.ro"
-    },
-    {
-        "link": "https://imgj.pl",
-        "Heading": "Home  - Outsourcing IT i backup danych \u2013 Katowice | MED-IT",
-        "Abstract": "Bezpieczny Backup i Us\u0142ugi IT Zaufany Backup i Obs\u0142uga IT dla Twojej Firmy. Tw\u00f3j partner w ochronie danych i sprawnym dzia\u0142aniu IT. Poznaj ofert\u0119 Backup'y - Obs\u0142uga IT - Hosting poczta xxl i www - Sieci LAN - VPN - 100%odporny backup Bezpieczny Backup i\u2026",
-        "Official Site": "https://med-it.co/",
-        "Icon": "https://med-it.co/wp-content/uploads/2025/12/med-it-czarne-1.png",
-        "Redirect": "https://med-it.co/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://med-it.co/"
     }
 ]

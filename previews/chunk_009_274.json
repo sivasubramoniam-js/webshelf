@@ -131,10 +131,10 @@
     },
     {
         "link": "https://leukermeer.nl",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Vakantieresort in Limburg \u26f5\ufe0f | Leukermeer",
+        "Abstract": "Bij Vakantie & Resort Leukermeer ben je bij voorbaat verzekerd van een geslaagde vakantie! Komt u ook? Ontdek onze accommodaties en kampeerplekken!",
         "Official Site": "https://leukermeer.nl",
-        "Icon": "N/A",
+        "Icon": "https://cdn-cms.bookingexperts.com/media/3639/68/optimized.jpg",
         "Redirect": "https://leukermeer.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://leukermeer.nl"
@@ -152,12 +152,12 @@
     {
         "link": "https://locateventsnow.com",
         "Heading": "Search - Microsoft Bing",
-        "Abstract": "Poetic name, poetic appearance. Meet the snowy egr",
-        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260604_0700&mkt=en-US",
-        "Icon": "https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_tmb.jpg&rf=",
-        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260604_0700&mkt=en-US",
+        "Abstract": "If nature had a 'do not disturb' sign, it would ha",
+        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260605_0700&mkt=en-US",
+        "Icon": "https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_tmb.jpg&rf=",
+        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260605_0700&mkt=en-US",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260604_0700&mkt=en-US"
+        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260605_0700&mkt=en-US"
     },
     {
         "link": "https://alliances.ru",
@@ -238,6 +238,16 @@
         "Redirect": "https://wrap-london.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wrap-london.de"
+    },
+    {
+        "link": "https://lorempixel.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lorempixel.com",
+        "Icon": "data:;",
+        "Redirect": "https://lorempixel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lorempixel.com"
     },
     {
         "link": "https://enamelcopenhagen.dk",

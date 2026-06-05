@@ -21,10 +21,10 @@
     },
     {
         "link": "https://harvardsquarelibrary.org",
-        "Heading": "Harvard Square Library | a digital library of Unitarian Universalism and religious liberalismHarvard Square Library",
-        "Abstract": "Harvard Square Library is a digital library that features biographies, books, historical documents, and other materials about Unitarian Universalism and religious liberalism. We provide these materials free of charge to an audience of Unitarian Universalist congregations, ministers, members, and friends, as well as theological students, scholarly researchers, and other site visitors from around the world.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://harvardsquarelibrary.org",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://harvardsquarelibrary.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://harvardsquarelibrary.org"
@@ -71,8 +71,8 @@
     },
     {
         "link": "https://climategate.nl",
-        "Heading": "Klimaat Climategate Wetenschapsjournalisten Energie CO2",
-        "Abstract": "Climategate Klimaat Wetenschapsjournalisten Milieudeskundige Meteoroloog Klimaatonderzoeker Natuur Milieu Energie CO2 Duurzaamheid Ecologie Wetenschap.",
+        "Heading": "Climategate Klimaat \u2013 Onthullend over natuur milieu wetenschap energie en economie",
+        "Abstract": null,
         "Official Site": "https://www.climategate.nl/",
         "Icon": "https://www.climategate.nl/wp-content/uploads/2020/03/Climategate-Klimaat.png",
         "Redirect": "https://www.climategate.nl/",
@@ -120,24 +120,14 @@
         "AbstractURL": "https://nvspost.ru"
     },
     {
-        "link": "https://orlandowebwizard.com",
-        "Heading": "Orlando Web Wizard a web development company in Orlando, Fla",
-        "Abstract": "Specializing in building WordPress websites built for conversion, sales, and leads. With experts, who build professional websites custom-fit for businesses.",
-        "Official Site": "https://orlandowebwizard.com/",
-        "Icon": "https://orlandowebwizard.com/wp-content/uploads/2016/01/cropped-OrlandoWebWizard-left.jpg",
-        "Redirect": "https://orlandowebwizard.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://orlandowebwizard.com/"
-    },
-    {
         "link": "https://apkmedya.com.tr",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://apkmedya.com.tr",
-        "Icon": "N/A",
-        "Redirect": "https://apkmedya.com.tr",
+        "Heading": "Apk Medya | Reklam Ajans\u0131",
+        "Abstract": "Etkili G\u00f6r\u00fcn\u00fcrl\u00fck ve Dikkat \u00c7ekici \u0130\u015fler \u0130\u00e7in",
+        "Official Site": "https://apkmedya.tr/",
+        "Icon": "https://apkmedya.tr/tema/genel/uploads/logo/apklogo-beyaz.svg",
+        "Redirect": "https://apkmedya.tr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://apkmedya.com.tr"
+        "AbstractURL": "https://apkmedya.tr/"
     },
     {
         "link": "https://godoiceland.com",

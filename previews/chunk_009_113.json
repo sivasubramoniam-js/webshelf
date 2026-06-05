@@ -41,13 +41,13 @@
     },
     {
         "link": "https://expertshop.kz",
-        "Heading": "Welcome to nginx!",
-        "Abstract": null,
-        "Official Site": "https://expertshop.kz",
-        "Icon": "N/A",
-        "Redirect": "https://expertshop.kz",
+        "Heading": "\u0411\u043e\u043a\u0441 \u0432 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0435 \u2013 \u0412\u0441\u0451 \u043e \u043b\u044e\u0431\u0438\u043c\u043e\u043c \u0432\u0438\u0434\u0435 \u0441\u043f\u043e\u0440\u0442\u0430",
+        "Abstract": "\u0418\u043d\u0442\u0435\u0440\u0435\u0441\u0443\u0435\u0442\u0435\u0441\u044c \u0431\u043e\u043a\u0441\u043e\u043c \u0432 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0435? \u0423\u0437\u043d\u0430\u0439\u0442\u0435 \u0432\u0441\u0451 \u043e \u043b\u0443\u0447\u0448\u0438\u0445 \u0431\u043e\u0439\u0446\u0430\u0445, \u0442\u0443\u0440\u043d\u0438\u0440\u0430\u0445 \u0438 \u043d\u043e\u0432\u043e\u0441\u0442\u044f\u0445 \u043c\u0438\u0440\u0430 \u0431\u043e\u043a\u0441\u0430! \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0442\u0435\u0441\u044c \u043a \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0443 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0445 \u0444\u0430\u043d\u0430\u0442\u043e\u0432!",
+        "Official Site": "https://expertshop.kz/",
+        "Icon": "https://expertshop.kz/wp-content/uploads/2025/05/cropped-zhezmedia.kz-\u0444\u0430\u0432\u0438\u043a\u043e\u043d-32x32.webp",
+        "Redirect": "https://expertshop.kz/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://expertshop.kz"
+        "AbstractURL": "https://expertshop.kz/"
     },
     {
         "link": "https://late.com.pl",
@@ -150,6 +150,16 @@
         "AbstractURL": "https://shiftcomm.com"
     },
     {
+        "link": "https://motorsactu.com",
+        "Heading": "Actualit\u00e9 Automobile, Essais et Nouveaut\u00e9s - MotorsActu",
+        "Abstract": "Toute l'actualit\u00e9 automobile : nouveaut\u00e9s, essais, prix, march\u00e9 et sport m\u00e9canique. MotorsActu, votre source d'information auto depuis 2010.",
+        "Official Site": "https://motorsactu.com/",
+        "Icon": "https://motorsactu.com/wp-content/uploads/2026/04/Mercedes-Benz-Classe-C-electrique-2026-1.webp",
+        "Redirect": "https://motorsactu.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://motorsactu.com/"
+    },
+    {
         "link": "https://garnizon13.ru",
         "Heading": "\u0412\u043e\u0435\u043d\u043d\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 - \u0412\u043e\u0435\u043d\u043d\u044b\u0439 \u0432\u0435\u0441\u0442\u043d\u0438\u043a",
         "Abstract": null,
@@ -174,7 +184,7 @@
         "Heading": "Energi og Klima \u2013 Norsk klimastiftelses nettavis",
         "Abstract": "Nyheter, analyser og debatt om energi, klima og klimapolitikk.",
         "Official Site": "https://www.energiogklima.no",
-        "Icon": "/favicon.ico?favicon.0a3c9xyu.les3.ico",
+        "Icon": "/favicon.ico?favicon.0wulkdtn28t7p.ico",
         "Redirect": "https://www.energiogklima.no",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.energiogklima.no"

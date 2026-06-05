@@ -111,10 +111,10 @@
     },
     {
         "link": "https://cgiamestre.com",
-        "Heading": "CGIA MESTRE | Associazione Artigiani e Piccole Imprese MESTRE",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://cgiamestre.com",
-        "Icon": "https://www.cgiamestre.com/wp-content/uploads/2018/01/favicon.ico",
+        "Icon": "data:;",
         "Redirect": "https://cgiamestre.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cgiamestre.com"
@@ -204,7 +204,7 @@
         "Heading": "Lifespan Kids Official Store | Trampolines, Cubby Houses, Outdoor Play\n",
         "Abstract": "Lifespan Kids",
         "Official Site": "https://www.lifespankids.com.au/",
-        "Icon": "http://www.lifespankids.com.au/cdn/shop/t/44/assets/home-page.png?v=45830",
+        "Icon": "http://www.lifespankids.com.au/cdn/shop/t/44/assets/home-page.png?v=45833",
         "Redirect": "https://www.lifespankids.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lifespankids.com.au/"

@@ -4,7 +4,7 @@
         "Heading": "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u044b\u0439 \u0423\u0433\u043b\u0435\u0440\u043e\u043d \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0431\u0440\u0435\u043d\u0434\u0430",
         "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u044b\u0439 \u0423\u0433\u043b\u0435\u0440\u043e\u043d. \u041d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u043f\u0440\u0435\u0439 \u0441 \u0430\u043d\u0442\u0438\u043c\u0438\u043a\u0440\u043e\u0431\u043d\u044b\u043c \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u043c. \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0438\u043c\u043c\u0443\u043d\u0438\u0442\u0435\u0442\u0430. \u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438.",
         "Official Site": "https://silver-ugleron.ru",
-        "Icon": "/upload/resize_cache/webp//favicon.webp",
+        "Icon": "/favicon.png",
         "Redirect": "https://silver-ugleron.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://silver-ugleron.ru"
@@ -18,6 +18,16 @@
         "Redirect": "https://www.meridianbanker.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.meridianbanker.com/"
+    },
+    {
+        "link": "https://swpat.org",
+        "Heading": "ESP Wiki - The Software Patents Wiki",
+        "Abstract": null,
+        "Official Site": "https://swpat.org",
+        "Icon": "/w/favicon.ico",
+        "Redirect": "https://swpat.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://swpat.org"
     },
     {
         "link": "https://autolikedd.com",
@@ -101,13 +111,13 @@
     },
     {
         "link": "https://acnemedsrx.com",
-        "Heading": "Spiron | Acne Treatment",
-        "Abstract": "So, honestly? If you're looking for \"The Cure,\" this post isn't it. I can't promise your skin is going to look like mine in three months. But if you are drowni\u2026",
-        "Official Site": "spiron.html",
+        "Heading": "Espironolactona | Acne Treatment",
+        "Abstract": "It\u2019s been about six months since I finally stopped picking at my jawline and started actually treating it, and honestly? I thought Spironolactone would be magi\u2026",
+        "Official Site": "espironolactona.html",
         "Icon": "assets/images/og-cover.jpg",
-        "Redirect": "spiron.html",
+        "Redirect": "espironolactona.html",
         "AbstractSource": "BS4",
-        "AbstractURL": "spiron.html"
+        "AbstractURL": "espironolactona.html"
     },
     {
         "link": "https://wannatalkaboutit.com",

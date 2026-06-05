@@ -14,20 +14,20 @@
         "Heading": "Online Footwear For Men and Women - Buy Trending Footwear @ Tresmode",
         "Abstract": "Premium footwear for men and women only at Tresmode. Find the perfect pair of sneakers, sandals, flats and more at our online or retail stores, across India.",
         "Official Site": "https://www.tresmode.com/",
-        "Icon": "http://www.tresmode.com/cdn/shop/files/Tresmode_Logo_140x_be971cec-c249-4f88-8846-e06a8a584046.png?v=1693308843",
+        "Icon": "http://cdn.shopify.com/s/files/1/0254/9592/8868/files/Tresmode_Logo_140x_be971cec-c249-4f88-8846-e06a8a584046.png?v=1693308843",
         "Redirect": "https://www.tresmode.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tresmode.com/"
     },
     {
         "link": "https://kuzhilevr.com",
-        "Heading": "Home-VR Arcade Equipment Factory|Commercial VR Machine Manufacturer",
-        "Abstract": "",
-        "Official Site": "https://kuzhilevr.com/",
-        "Icon": "https://kuzhilevr.com/wp-content/uploads/2026/04/\u7f51\u7ad9LOGO-1-150x150.jpg",
-        "Redirect": "https://kuzhilevr.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://kuzhilevr.com",
+        "Icon": "data:;",
+        "Redirect": "https://kuzhilevr.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://kuzhilevr.com/"
+        "AbstractURL": "https://kuzhilevr.com"
     },
     {
         "link": "https://bringitproject.com",
@@ -73,11 +73,11 @@
         "link": "https://destek34.com",
         "Heading": "Mac Servisi, Bilgisayar Servisi 0212 599 39 49 - Mac Servisi - MacosX Destek - Macintosh Kurulumu",
         "Abstract": "Mac Servisi - MacosX Destek - Macintosh Kurulumu",
-        "Official Site": "https://www.destek34.com/",
+        "Official Site": "http://www.destek34.com/",
         "Icon": "N/A",
-        "Redirect": "https://www.destek34.com/",
+        "Redirect": "http://www.destek34.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.destek34.com/"
+        "AbstractURL": "http://www.destek34.com/"
     },
     {
         "link": "https://qcell.gm",
@@ -100,16 +100,6 @@
         "AbstractURL": "https://www.manncorp.com/"
     },
     {
-        "link": "https://archivosdemedicinadeldeporte.com",
-        "Heading": "Archivos de Medicina del Deporte",
-        "Abstract": "Publicaci\u00f3n oficial de la Federaci\u00f3n Espa\u00f1ola de Med...",
-        "Official Site": "http://archivosdemedicinadeldeporte.com/",
-        "Icon": "http://archivosdemedicinadeldeporte.com/images/logobig1...",
-        "Redirect": "http://archivosdemedicinadeldeporte.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://archivosdemedicinadeldeporte.com/"
-    },
-    {
         "link": "https://slidehub.io",
         "Heading": "AI-Powered Presentation Management Platform | SlideHub",
         "Abstract": "Find your best slides in seconds, or create new ones with AI - always up-to-date, always on-brand. Trusted by 500+ forward thinking organizations.",
@@ -118,6 +108,16 @@
         "Redirect": "https://slidehub.io",
         "AbstractSource": "BS4",
         "AbstractURL": "https://slidehub.io"
+    },
+    {
+        "link": "https://acetamiprid.com",
+        "Heading": "Plant Growth Regulator, Agrochemicals Insecticide - Awiner Biotech",
+        "Abstract": "Awiner Biotech is committed to research, produce and distribute agrochemicals, such as pesticides, herbicides, fungicides, plant growth regulator and public health pesticides.",
+        "Official Site": "https://www.acetamiprid.com/index.html",
+        "Icon": "https://ecdn6.globalso.com/upload/p/2078/image_other/2024-07/logo-transparent.png",
+        "Redirect": "https://www.acetamiprid.com/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.acetamiprid.com/index.html"
     },
     {
         "link": "https://pro-essay-writer.com",
@@ -281,12 +281,12 @@
     },
     {
         "link": "https://hypermall.com",
-        "Heading": "Top New York Online Casinos 2025 | Real Money Play",
-        "Abstract": "Discover the best New York online casinos for 2025. Play real money games with fast payouts, big bonuses, and secure platforms.",
-        "Official Site": "https://hypermall.com/en-us/",
-        "Icon": "https://hypermall.com/wp-content/uploads/2025/08/32X32.png",
-        "Redirect": "https://hypermall.com/en-us/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://hypermall.com",
+        "Icon": "data:;",
+        "Redirect": "https://hypermall.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hypermall.com/en-us/"
+        "AbstractURL": "https://hypermall.com"
     }
 ]

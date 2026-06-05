@@ -60,6 +60,16 @@
         "AbstractURL": "https://vitorinos.pt/"
     },
     {
+        "link": "https://eventbuizz.com",
+        "Heading": "Think - EventBuizz",
+        "Abstract": null,
+        "Official Site": "https://www.eventbuizz.com/",
+        "Icon": "https://www.eventbuizz.com/wp-content/uploads/2023/08/ico-think-2.png",
+        "Redirect": "https://www.eventbuizz.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.eventbuizz.com/"
+    },
+    {
         "link": "https://oncasey.com",
         "Heading": "Onca \u015eey \u2013 Sosyal Medya Kayna\u011f\u0131",
         "Abstract": "Sosyal Medya Kayna\u011f\u0131",
@@ -90,16 +100,6 @@
         "AbstractURL": "https://vashemnenie.online/"
     },
     {
-        "link": "https://lnmo.ru",
-        "Heading": "\u041d\u0430\u0443\u0447\u043d\u043e-\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u041b\u041d\u041c\u041e: 7 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0439 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f",
-        "Abstract": "\u0423\u0437\u043d\u0430\u0439\u0442\u0435 \u043e \u0447\u0430\u0441\u0442\u043d\u043e\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u0432 \u043d\u0430\u0443\u0447\u043d\u043e-\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u043c \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435 \u041b\u041d\u041c\u041e \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435. \u0421 1 \u043f\u043e 11 \u043a\u043b\u0430\u0441\u0441. \u0417\u0430\u043f\u0438\u0441\u044c \u043f\u043e \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443 \ud83d\udcde +7 (812) 716-68-36.",
-        "Official Site": "https://lnmo.ru/",
-        "Icon": "http://lnmo.ru/wp-content/uploads/2025/08/favicon-1.png",
-        "Redirect": "https://lnmo.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lnmo.ru/"
-    },
-    {
         "link": "https://max-il-tasso.ch",
         "Heading": "Sicuri nel traffico stradale con Max",
         "Abstract": "Max il tasso aiuta i genitori a preparare i bambini ad affrontare il traffico stradale. Con consigli pratici e regole basilari.",
@@ -118,6 +118,16 @@
         "Redirect": "https://mikhmon.app",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mikhmon.app"
+    },
+    {
+        "link": "https://orto-orel.ru",
+        "Heading": "ORTO-OREL.RU | IT \u2014 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0441\u0435\u0433\u043e\u0434\u043d\u044f",
+        "Abstract": "\u0410\u044d\u0440\u043e\u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f Lockheed Martin \u043d\u0435\u0434\u0430\u0432\u043d\u043e \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0430 \u0438\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u0435 \u043d\u0430 \u0440\u0430\u0437\u0440\u044b\u0432 \u043d\u0430\u0434\u0443\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u043e\u0434\u0443\u043b\u044f. \u041f\u0440\u043e\u0442\u043e\u0442\u0438\u043f \u043f\u043d\u0435\u0432\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e",
+        "Official Site": "https://orto-orel.ru",
+        "Icon": "https://orto-orel.ru/wp-content/uploads/2025/05/cropped-istockphoto-1215953761-170667a-32x32.jpg",
+        "Redirect": "https://orto-orel.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://orto-orel.ru"
     },
     {
         "link": "https://electroclub.ma",
@@ -178,6 +188,16 @@
         "Redirect": "https://www.swif.ai",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.swif.ai"
+    },
+    {
+        "link": "https://20ecs.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://20ecs.com",
+        "Icon": "data:;",
+        "Redirect": "https://20ecs.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://20ecs.com"
     },
     {
         "link": "https://vapecraftinc.com",
@@ -248,16 +268,6 @@
         "Redirect": "https://www.allbuyone.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.allbuyone.com/"
-    },
-    {
-        "link": "https://in-concept.com",
-        "Heading": "In Concept - Total IT Solutions Company in Hong Kong",
-        "Abstract": "We provide network consultation, email hosting, web hosting, web design, iphone app development, it outsourcing, Microsoft software rental, product catalogue and trading, accounting and manufacturing application. ",
-        "Official Site": "https://in-concept.com",
-        "Icon": "https://in-concept.com/static/images/logo-og.png",
-        "Redirect": "https://in-concept.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://in-concept.com"
     },
     {
         "link": "https://edition-aurum.de",

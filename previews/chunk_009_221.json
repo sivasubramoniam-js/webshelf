@@ -111,13 +111,13 @@
     },
     {
         "link": "https://elmens.com",
-        "Heading": "Website for Men - ELMENS",
-        "Abstract": "A Website for Men. Read online articles for Men's interests, about grooming tips, tech, entertainment, business, trends, women and health",
-        "Official Site": "https://www.elmens.com/",
-        "Icon": "https://www.elmens.com/wp-content/uploads/2017/08/transelmenssq.png",
-        "Redirect": "https://www.elmens.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://elmens.com",
+        "Icon": "data:;",
+        "Redirect": "https://elmens.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.elmens.com/"
+        "AbstractURL": "https://elmens.com"
     },
     {
         "link": "https://lonestarneurology.net",
@@ -288,6 +288,16 @@
         "Redirect": "https://utc2.edu.vn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://utc2.edu.vn"
+    },
+    {
+        "link": "https://soroptimistranchocordova.org",
+        "Heading": "SI of Rancho Cordova & Gold River | Soroptimist club information",
+        "Abstract": null,
+        "Official Site": "https://soroptimistranchocordova.org",
+        "Icon": "N/A",
+        "Redirect": "https://soroptimistranchocordova.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soroptimistranchocordova.org"
     },
     {
         "link": "https://anolon.com",

@@ -60,16 +60,6 @@
         "AbstractURL": "https://www.superlist.com/"
     },
     {
-        "link": "https://novezamky.sk",
-        "Heading": "Nov\u00e9 Z\u00e1mky: Titulka",
-        "Abstract": null,
-        "Official Site": "https://novezamky.sk",
-        "Icon": "/html/images/icons/favicon-32x32.png",
-        "Redirect": "https://novezamky.sk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://novezamky.sk"
-    },
-    {
         "link": "https://watchenglish.tv",
         "Heading": "WatchEnglish - \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u043f\u043e \u0444\u0438\u043b\u044c\u043c\u0430\u043c",
         "Abstract": null,
@@ -378,15 +368,5 @@
         "Redirect": "https://gruppenreisen.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gruppenreisen.com"
-    },
-    {
-        "link": "https://bcg-mirrors.com",
-        "Heading": "BC Game Mirror \u2013 BC Game Mirror List 2026",
-        "Abstract": "BC Game mirror sites provide secure access to the platform when blocked. View the BC Game mirror list in 2026 for trusted links to keep playing safely.",
-        "Official Site": "https://bcg-mirrors.com/",
-        "Icon": "https://bcg-mirrors.com/wp-content/uploads/2025/07/bc-game-bc-app-mirrors.png",
-        "Redirect": "https://bcg-mirrors.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bcg-mirrors.com/"
     }
 ]

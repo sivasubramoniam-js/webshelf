@@ -60,6 +60,16 @@
         "AbstractURL": "https://rdwire.com"
     },
     {
+        "link": "https://gutscheinpony.de",
+        "Heading": "Gutscheinpony - Finde die neuesten Gutscheine und Rabattcodes",
+        "Abstract": "Entdecke die neuesten Gutscheinpony Gutscheine, Gutscheincodes und Rabattcodes!",
+        "Official Site": "https://www.gutscheinpony.de/",
+        "Icon": "/gutscheinpony/img/favicon/favicon-48x48.png",
+        "Redirect": "https://www.gutscheinpony.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gutscheinpony.de/"
+    },
+    {
         "link": "https://sitges.cat",
         "Heading": "Ajuntament de Sitges",
         "Abstract": "Web oficial Ajuntament de Sitges, informaci\u00f3 municipal, tr\u00e0mits, not\u00edcies, agenda, directori... Pl. Ajuntament, sn. 938 117 600 / Atenci\u00f3 Ciutadana Tel. 010",
@@ -100,14 +110,14 @@
         "AbstractURL": "https://smkxs.org"
     },
     {
-        "link": "https://arihantcapital.com",
-        "Heading": "\n\tArihant Capital - Wealth Creation & Financial Services\n",
-        "Abstract": "Do you want to grow your wealth? Get the power of investing in your hand with Arihant Capital. Trade with advanced funding options and meet your financial goals",
-        "Official Site": "https://www.arihantcapital.com/",
-        "Icon": "https://www.arihantcapital.com/images/menu-logo.png",
-        "Redirect": "https://www.arihantcapital.com/",
+        "link": "https://simontagna.it",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://simontagna.it",
+        "Icon": "data:;",
+        "Redirect": "https://simontagna.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.arihantcapital.com/"
+        "AbstractURL": "https://simontagna.it"
     },
     {
         "link": "https://goseattleu.com",

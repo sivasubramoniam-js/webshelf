@@ -111,13 +111,13 @@
     },
     {
         "link": "https://potatonewstoday.com",
-        "Heading": "Potato News Today \u2013 No-nonsense, no-frills potato news stories from around the world",
-        "Abstract": "No-nonsense, no-frills potato news stories from around the world",
-        "Official Site": "https://www.potatonewstoday.com/",
-        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC93d3cucG90YXRvbmV3c3RvZGF5LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMFwvMDZcL2Nyb3BwZWQtUE5ULWxvZ28tZmluYWw1LTEuanBnP2ZpdD0xNTAwJTJDNjk4JnNzbD0xIiwidHh0IjoiUG90YXRvIE5ld3MgVG9kYXkiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTgyMzgzNzI4fQ._b6UW1MxGLwlueH4afltNWgspSiR-fsttQ_5jf3OlJ8MQ",
-        "Redirect": "https://www.potatonewstoday.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://potatonewstoday.com",
+        "Icon": "data:;",
+        "Redirect": "https://potatonewstoday.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.potatonewstoday.com/"
+        "AbstractURL": "https://potatonewstoday.com"
     },
     {
         "link": "https://schneeberger.com",
@@ -240,16 +240,6 @@
         "AbstractURL": "https://www.cashandkerry.com/"
     },
     {
-        "link": "https://zahrada-cs.com",
-        "Heading": "Zahrada-cs.com - v\u0161e pro zahradu a p\u011bstov\u00e1n\u00ed rostlin",
-        "Abstract": "Zahradnick\u00fd server - encyklopedie rostlin, \u010dl\u00e1nky, diskusn\u00ed f\u00f3rum, zahradn\u00ed obchody, 150 000 fotografi\u00ed",
-        "Official Site": "https://www.zahrada-cs.com/",
-        "Icon": "https://www.zahrada-cs.com/images_forum/gallery/12147/14819-abelie-velkokveta-abelia-x-grandiflora-a.jpg",
-        "Redirect": "https://www.zahrada-cs.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.zahrada-cs.com/"
-    },
-    {
         "link": "https://playernc.com",
         "Heading": null,
         "Abstract": null,
@@ -288,15 +278,5 @@
         "Redirect": "https://mindgems.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mindgems.com"
-    },
-    {
-        "link": "https://s-sl.ru",
-        "Heading": "\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u0446\u0432\u0435\u0442\u043e\u0432 \u043e\u0442 SFLowers: \u0437\u0430\u043a\u0430\u0437 \u0438 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u0431\u0443\u043a\u0435\u0442\u043e\u0432 \u043f\u043e \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u043c\u0438\u0440\u0443",
-        "Abstract": "\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u0446\u0432\u0435\u0442\u043e\u0432 \u043f\u043e \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u043c\u0438\u0440\u0443. \u041b\u0443\u0447\u0448\u0438\u0435 \u0446\u0435\u043d\u044b, \u043b\u0443\u0447\u0448\u0438\u0435 \u0446\u0432\u0435\u0442\u044b!",
-        "Official Site": "https://www.s-fl.ru/",
-        "Icon": "https://www.s-fl.ru/img/logo_new_big.png",
-        "Redirect": "https://www.s-fl.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.s-fl.ru/"
     }
 ]

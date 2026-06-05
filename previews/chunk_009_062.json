@@ -61,13 +61,13 @@
     },
     {
         "link": "https://sojoee.com",
-        "Heading": "SOJOEE | Shop Online for the Latest in cloths, shoes, bags & more",
-        "Abstract": "Discover the latest fashion trends with SOJOEE. Shop our collection of cloths footwear, bags, accessories & more for men and women. Shop NOW",
-        "Official Site": "https://www.sojoee.com/",
-        "Icon": "https://www.sojoee.com/wp-content/uploads/2021/09/preview_32x32.png",
-        "Redirect": "https://www.sojoee.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sojoee.com",
+        "Icon": "data:;",
+        "Redirect": "https://sojoee.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sojoee.com/"
+        "AbstractURL": "https://sojoee.com"
     },
     {
         "link": "https://ppsict.net",
@@ -104,7 +104,7 @@
         "Heading": "\n      Tools4 - Shop Power Tools, Hand Tools and Workshop Equipment Online\n",
         "Abstract": "Quality tools and accessories delivered across South Africa, from premium power tools to hand tools and woodworking gear, backed by expert support and delivery options",
         "Official Site": "https://tools4.co.za/",
-        "Icon": "http://tools4.co.za/cdn/shop/files/circular-saw-cuts-beam.webp?v=1767962971",
+        "Icon": "http://cdn.shopify.com/s/files/1/0765/2828/7984/files/circular-saw-cuts-beam.webp?v=1767962971",
         "Redirect": "https://tools4.co.za/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tools4.co.za/"

@@ -174,7 +174,7 @@
         "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
         "Abstract": "\n\u041b\u041e\u041d\u0414\u041e\u041d \u0414\u041b\u042f \u0421\u0410\u041c\u041e\u0421\u0422\u041e\u042f\u0422\u0415\u041b\u042c\u041d\u042b\u0425",
         "Official Site": "https://www.london-abc.ru/",
-        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUB7LWGyMTjFNPHWW6KDq5SOTs8vvPPUi3fyAEM1MRnfwKMafVXEem-xu3kC1OxbD3sBnAa1a_WMxHm_RrxrPv9k4ZBfeBafVuK4SgYjehB1dORRpdYt2csM9mrxEZw9YlgVlqFuVJAIjMB_qY9Bc8tuSCHnn-ExyiZ7FsNmb3iRunM42DqF5S4q9yw=w16383",
+        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUBcjXLU7DXBj84KKgHSaZyXOF0H5JubOuoWOQ1dExlKNoK8RQuxxMHYw-KJjVQYvrrDmTy6ZRMapFiFP3C8KitTui9HonVZJY8rXebqTFzc_41KN2VTf-vdNNaLjQxI_nDxqqLaQWER-ffrzRfJXr3oRqfg3-H7-QVVQmnn9ic736RvYRnXoYb-NsoEwPA=w16383",
         "Redirect": "https://www.london-abc.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.london-abc.ru/"
@@ -321,13 +321,13 @@
     },
     {
         "link": "https://categorynet.com",
-        "Heading": "Categorynet.com - Portail de la presse et du journalisme",
-        "Abstract": "D\u00e9couvrez Categorynet.com : offres d'emploi pour journalistes, annuaire presse et communiqu\u00e9s. Le portail incontournable des m\u00e9dias et du journalisme.",
-        "Official Site": "https://categorynet.com/",
-        "Icon": "https://categorynet.com/wp-content/uploads/2024/12/cropped-cropped-CN-1-32x32.png",
-        "Redirect": "https://categorynet.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://categorynet.com",
+        "Icon": "data:;",
+        "Redirect": "https://categorynet.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://categorynet.com/"
+        "AbstractURL": "https://categorynet.com"
     },
     {
         "link": "https://impactassets.org",

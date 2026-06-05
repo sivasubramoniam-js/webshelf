@@ -11,13 +11,13 @@
     },
     {
         "link": "https://getsafeandsound.com",
-        "Heading": "Business Security System Installation Company | Service Provider",
-        "Abstract": "We're a Business Security System Installation Company. We Design & Install Security Camera, Access Control & Alarm Systems. Get a Free Quote!",
-        "Official Site": "https://getsafeandsound.com/",
-        "Icon": "https://getsafeandsound.com/wp-content/uploads/2017/10/favicon.png",
-        "Redirect": "https://getsafeandsound.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://getsafeandsound.com",
+        "Icon": "data:;",
+        "Redirect": "https://getsafeandsound.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://getsafeandsound.com/"
+        "AbstractURL": "https://getsafeandsound.com"
     },
     {
         "link": "https://server-1.com",
@@ -111,13 +111,13 @@
     },
     {
         "link": "https://mississippiencyclopedia.org",
-        "Heading": "Mississippi Encyclopedia Online",
-        "Abstract": "The online version of the Mississippi Encyclopedia.",
-        "Official Site": "https://mississippiencyclopedia.org/",
-        "Icon": "https://mississippiencyclopedia.org/wp-content/uploads/2020/08/meo-favicon-32.jpg",
-        "Redirect": "https://mississippiencyclopedia.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mississippiencyclopedia.org",
+        "Icon": "data:;",
+        "Redirect": "https://mississippiencyclopedia.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mississippiencyclopedia.org/"
+        "AbstractURL": "https://mississippiencyclopedia.org"
     },
     {
         "link": "https://electricityrates.com",
@@ -128,6 +128,16 @@
         "Redirect": "https://electricityrates.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://electricityrates.com/"
+    },
+    {
+        "link": "https://agpa.org",
+        "Heading": "Home - AGPA",
+        "Abstract": "Welcome to AGPA A community of mental health professionals dedicated to accessible, effective, compassionate group psychotherapy as a mental health treatment option. Learn More Be Part of The Group! Join [\u2026]",
+        "Official Site": "https://agpa.org/",
+        "Icon": "https://agpa.org/wp-content/uploads/2025/01/314821983-Optimized.jpg",
+        "Redirect": "https://agpa.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://agpa.org/"
     },
     {
         "link": "https://vyvod-iz-zapoya-sergiev-posad8.ru",
@@ -171,8 +181,8 @@
     },
     {
         "link": "https://geniuscentral.com",
-        "Heading": "Genius Central - SPS Commerce",
-        "Abstract": "As of November 3, 2021, Genius Central is now apart of the SPS Commerce solution. Making us the experts in natural and organic foods industry.",
+        "Heading": "Genius Central is now SPS Commerce",
+        "Abstract": "Access Genius Central for EDI tools, supply chain insights, and resources to streamline your retail operations.",
         "Official Site": "https://www.spscommerce.com/geniuscentral/",
         "Icon": "N/A",
         "Redirect": "https://www.spscommerce.com/geniuscentral/",
@@ -198,16 +208,6 @@
         "Redirect": "https://kkzo.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kkzo.com"
-    },
-    {
-        "link": "https://plclink.co.uk",
-        "Heading": "plclink.co.uk",
-        "Abstract": null,
-        "Official Site": "https://plclink.co.uk",
-        "Icon": "N/A",
-        "Redirect": "https://plclink.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://plclink.co.uk"
     },
     {
         "link": "https://t-invariant.org",

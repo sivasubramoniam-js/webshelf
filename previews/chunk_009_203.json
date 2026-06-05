@@ -114,7 +114,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://securyurl.com",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
         "Redirect": "https://securyurl.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://securyurl.com"
@@ -131,10 +131,10 @@
     },
     {
         "link": "https://crazyguysmedia.com",
-        "Heading": "Under construction - Awesome site in the making!",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://crazyguysmedia.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://crazyguysmedia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://crazyguysmedia.com"
@@ -191,13 +191,13 @@
     },
     {
         "link": "https://ridgefieldplayhouse.org",
-        "Heading": "Ridgefield Playhouse",
-        "Abstract": "Enjoy movies, theatre, and other entertaining performances at The Ridgefield Playhouse in Connecticut! Check out our upcoming shows here!",
-        "Official Site": "https://ridgefieldplayhouse.org/",
-        "Icon": "https://ridgefieldplayhouse.org/wp-content/uploads/2018/10/playhouse-featured-e1554747856744.jpg",
-        "Redirect": "https://ridgefieldplayhouse.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ridgefieldplayhouse.org",
+        "Icon": "data:;",
+        "Redirect": "https://ridgefieldplayhouse.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ridgefieldplayhouse.org/"
+        "AbstractURL": "https://ridgefieldplayhouse.org"
     },
     {
         "link": "https://gulfshoresal.gov",

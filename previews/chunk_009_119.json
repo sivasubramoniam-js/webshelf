@@ -54,7 +54,7 @@
         "Heading": "\n          \n            Scarlet Sage - Shop Pleated Designer Wear For Women\n          \n         ",
         "Abstract": "Buy pleated clothes for women at Scarlet Sage online at the best prices. Shop for pleated dresses, pleated pants, pleated shirts and other exclusive pleated wear for women.",
         "Official Site": "https://shopscarletsage.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/1135/2838/files/website_-_sosical_sharing_image.jpg?v=1614650387",
+        "Icon": "http://shopscarletsage.com/cdn/shop/files/website_-_sosical_sharing_image.jpg?v=1614650387",
         "Redirect": "https://shopscarletsage.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shopscarletsage.com/"
@@ -181,33 +181,13 @@
     },
     {
         "link": "https://capacenter.hu",
-        "Heading": "Nyit\u00f3oldal | Robert Capa Kort\u00e1rs Fotogr\u00e1fiai K\u00f6zpont",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://capacenter.hu",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://capacenter.hu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://capacenter.hu"
-    },
-    {
-        "link": "https://diablotine-coiffure-mode-solomiac.fr",
-        "Heading": "Diablotine coiffure | Salon de coiffure \u00e0 Solomiac",
-        "Abstract": "Salon de coiffure, sp\u00e9cialis\u00e9 dans la coiffure, le maquillage et l\u2019onglerie, coiffeuse visagiste pour hommes, femmes et enfants, \u00e0 Solomiac",
-        "Official Site": "https://diablotine-coiffure-mode-solomiac.fr/",
-        "Icon": "https://diablotine-coiffure-mode-solomiac.fr/wp-content/uploads/2021/09/cropped-favicon1-32x32.png",
-        "Redirect": "https://diablotine-coiffure-mode-solomiac.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://diablotine-coiffure-mode-solomiac.fr/"
-    },
-    {
-        "link": "https://mooninfo.org",
-        "Heading": "Today's Moon Phase - Moonrise, Moonset, Moon Age, Moon Distance",
-        "Abstract": "Today's moon phase. Get today's moonrise, moonset, moon age, moon distance with current viewing information.",
-        "Official Site": "https://www.mooninfo.org",
-        "Icon": "https://www.mooninfo.org/images/social_like.jpg",
-        "Redirect": "https://www.mooninfo.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mooninfo.org"
     },
     {
         "link": "https://sleepphones.com",
@@ -218,6 +198,16 @@
         "Redirect": "https://www.sleepphones.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sleepphones.com/"
+    },
+    {
+        "link": "https://elitec.eu",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "http://www.1koigieest.eu/",
+        "Icon": "http://www.1koigieest.eu/upload/favicon/favicon.ico",
+        "Redirect": "http://www.1koigieest.eu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.1koigieest.eu/"
     },
     {
         "link": "https://heapro.com",

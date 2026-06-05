@@ -71,10 +71,10 @@
     },
     {
         "link": "https://justartscrapbooking.com",
-        "Heading": "Just Art \u2013 Digital Art and Scrapbooking",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://justartscrapbooking.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://justartscrapbooking.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://justartscrapbooking.com"
@@ -118,16 +118,6 @@
         "Redirect": "https://www.bncollege.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bncollege.com/"
-    },
-    {
-        "link": "https://mbs-service.de",
-        "Heading": "\n                    MBS Schadenmanagement GmbH, MBS Renovierung GmbH\n    ",
-        "Abstract": "    Marktf\u00fchrer im Bereich Leckortung, Brand- und Wasserschadensanierung, Komplettrenovierung - wir sind bundesweit mit eigenen Mitarbeitern f\u00fcr Sie vor Ort\n",
-        "Official Site": "https://mbs-service.de",
-        "Icon": "/bundles/mbshpneu/favicon/favicon.ico",
-        "Redirect": "https://mbs-service.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mbs-service.de"
     },
     {
         "link": "https://woluwe1200.be",

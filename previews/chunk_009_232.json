@@ -143,11 +143,11 @@
         "link": "https://keanradio.com",
         "Heading": "105.1 KEAN Radio \u2013 Today's Best Country \u2013 Abilene Country Radio",
         "Abstract": "105.1 KEAN radio, a Townsquare Media station, plays the best country music in Abilene, Texas.",
-        "Official Site": "keanradio.com",
+        "Official Site": "https://keanradio.com/",
         "Icon": "https://townsquare.media/site/114/files/2017/12/keanfm-logo.png?w=300&q=75&format=natural",
-        "Redirect": "keanradio.com",
+        "Redirect": "https://keanradio.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "keanradio.com"
+        "AbstractURL": "https://keanradio.com/"
     },
     {
         "link": "https://grow4fun.com",
@@ -208,6 +208,16 @@
         "Redirect": "https://labadr.com.ua",
         "AbstractSource": "BS4",
         "AbstractURL": "https://labadr.com.ua"
+    },
+    {
+        "link": "https://snhobbies.com",
+        "Heading": "SN Hobbies - RC Multirotors, Airplanes, Helicopters, Cars & Trucks, Boats, Quadcopters",
+        "Abstract": null,
+        "Official Site": "https://snhobbies.com",
+        "Icon": "images/sn-icon.png",
+        "Redirect": "https://snhobbies.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://snhobbies.com"
     },
     {
         "link": "https://savoteur.com",

@@ -20,16 +20,6 @@
         "AbstractURL": "https://shilpaahuja.com/"
     },
     {
-        "link": "https://seniorhumor.org",
-        "Heading": " S e n i o r h u m o r",
-        "Abstract": null,
-        "Official Site": "https://seniorhumor.org",
-        "Icon": "wp-content/uploads/2011/03/Icon-150x150.jpg",
-        "Redirect": "https://seniorhumor.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://seniorhumor.org"
-    },
-    {
         "link": "https://tnetworkisp.com",
         "Heading": "T Network ISP \u2013 Internet Service Provider",
         "Abstract": null,
@@ -94,7 +84,7 @@
         "Heading": "Weldready l Buy Welding Supplies Online",
         "Abstract": "Visit Weldready for all your welding needs. We offer welders, welding helmets, plasma cutters, MIG guns, TIG torches, consumables, and everything else your metal heart desires.",
         "Official Site": "https://weld-ready.ca/",
-        "Icon": "https://weld-ready.ca/cdn/shop/files/Weldready_A4-01_5f5fbf4e-1f27-4604-be4a-eec36a8ba9da_1200x1200.jpg?v=1628775594",
+        "Icon": "https://cdn.shopify.com/s/files/1/0489/9858/0382/files/Weldready_A4-01_5f5fbf4e-1f27-4604-be4a-eec36a8ba9da_1200x1200.jpg?v=1628775594",
         "Redirect": "https://weld-ready.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://weld-ready.ca/"
@@ -171,13 +161,13 @@
     },
     {
         "link": "https://nortonlilly.com",
-        "Heading": "Norton Lilly International",
-        "Abstract": "About Norton Lilly In the rapidly evolving shipping industry, it is more important than ever for owners and operators to partner with a robust and versatile agent that will deliver reliability, quality, and piece-of-mind. At Norton Lilly, we have positioned ourselves to provide the highest level of service to our customers",
-        "Official Site": "https://nortonlilly.com/",
-        "Icon": "/favicon-32x32.png",
-        "Redirect": "https://nortonlilly.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://nortonlilly.com",
+        "Icon": "data:;",
+        "Redirect": "https://nortonlilly.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nortonlilly.com/"
+        "AbstractURL": "https://nortonlilly.com"
     },
     {
         "link": "https://relaxx.center",

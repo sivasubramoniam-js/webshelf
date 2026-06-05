@@ -161,10 +161,10 @@
     },
     {
         "link": "https://mygardenlife.com",
-        "Heading": "Home - MyGardenLife",
-        "Abstract": "Spruce up your garden with some of these seasonal selections from the Plant Library",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://mygardenlife.com",
-        "Icon": "https://mygardenlife.com/wp-content/uploads/2023/05/cropped-mgl-favicon-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://mygardenlife.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mygardenlife.com"

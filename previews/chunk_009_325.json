@@ -30,14 +30,14 @@
         "AbstractURL": "https://www.sentinel-echo.com/"
     },
     {
-        "link": "https://kingkullen.com",
-        "Heading": "King Kullen | Grocery Shopping & Food Delivery in Suffolk & Nassau County NY",
-        "Abstract": "King Kullen Grocery has been offering Long Island families quality & affordable groceries for over 92 years! We invite you to visit us today.",
-        "Official Site": "https://kingkullen.com/",
-        "Icon": "https://kingkullen.com/wp-content/uploads/2021/06/KKIcon.jpeg",
-        "Redirect": "https://kingkullen.com/",
+        "link": "https://b-o.ro",
+        "Heading": "B\u00e2rlad Online",
+        "Abstract": null,
+        "Official Site": "https://b-o.ro",
+        "Icon": "N/A",
+        "Redirect": "https://b-o.ro",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://kingkullen.com/"
+        "AbstractURL": "https://b-o.ro"
     },
     {
         "link": "https://factobyte.com",
@@ -171,13 +171,13 @@
     },
     {
         "link": "https://intercityweb.com",
-        "Heading": "Dallas Web Design Company serving Dallas, Fort Worth and the DFW Metroplex. We design websites and provide internet marketing. 972-618-1236",
-        "Abstract": "Intercity Services builds Websites with a Purpose. Social Media, eCommerce Digital Marketing - Integration Brand Identity - 972-618-1236. We are web design professionals who create beautiful and effective online properties. Located in the Dallas Ft. Worth area, we work with companies all around the world!",
-        "Official Site": "https://intercityweb.com/",
-        "Icon": "",
-        "Redirect": "https://intercityweb.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://intercityweb.com",
+        "Icon": "data:;",
+        "Redirect": "https://intercityweb.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://intercityweb.com/"
+        "AbstractURL": "https://intercityweb.com"
     },
     {
         "link": "https://radia-auto.fr",
@@ -318,16 +318,6 @@
         "Redirect": "https://morgenstern.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://morgenstern.de"
-    },
-    {
-        "link": "https://bergetar.shop",
-        "Heading": "Bot Verification",
-        "Abstract": null,
-        "Official Site": "https://bergetar.shop",
-        "Icon": "N/A",
-        "Redirect": "https://bergetar.shop",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bergetar.shop"
     },
     {
         "link": "https://publicspaces.net",

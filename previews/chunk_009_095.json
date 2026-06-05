@@ -11,23 +11,13 @@
     },
     {
         "link": "https://ipm-essen.de",
-        "Heading": "The world\u2019s leading trade fair for horticulture | IPM ESSEN",
-        "Abstract": "The international trade fair for plants (IPM ESSEN) is the world\u2019s leading trade fair for horticulture. It is the only specialist trade fair of its kind to cover the entire value chain of plants, including production, technology, floristry, garden features, and the point of sale. No other plant fair offers trade visitors such a comprehensive market overview and so many multifaceted novelties. ",
+        "Heading": "Die Weltleitmesse des Gartenbaus | IPM ESSEN",
+        "Abstract": "Die Internationale Pflanzenmesse (IPM ESSEN) ist die Weltleitmesse des Gartenbaus. Als einzige Fachmesse ihrer Art bildet sie die gesamte Wertsch\u00f6pfungskette von der Pflanzen-Produktion, \u00fcber die Technik, Floristik, Ausstattung bis hin zum Point of Sale ab. Auf keiner anderen Pflanzenmesse findet das Fachpublikum eine derart umfassende Markt\u00fcbersicht und vielf\u00e4ltige Neuheiten. ",
         "Official Site": "https://ipm-essen.de",
         "Icon": "/media/neue-medien/favicon/ipm_favicon.ico",
         "Redirect": "https://ipm-essen.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ipm-essen.de"
-    },
-    {
-        "link": "https://yolkfolk.com",
-        "Heading": "Yolkfolk.com \u2013 The Dizzy Fansite",
-        "Abstract": null,
-        "Official Site": "https://yolkfolk.com",
-        "Icon": "https://yolkfolk.com/wp-content/uploads/2020/12/cropped-DizzySwingHiRes-1-32x32.png",
-        "Redirect": "https://yolkfolk.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://yolkfolk.com"
     },
     {
         "link": "https://veloconnect.io",
@@ -158,6 +148,16 @@
         "Redirect": "https://www.freetv-app.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.freetv-app.com/"
+    },
+    {
+        "link": "https://etfacademy.it",
+        "Heading": "BlackRock ETF Academy",
+        "Abstract": "ETF Academy \u00e8 un percorso formativo per una maggiore conoscenza degli ETF, strumenti finanziari che hanno registrato una crescita esponenziale negli ultimi 10 anni",
+        "Official Site": "https://etfacademy.it",
+        "Icon": "/favicon.png",
+        "Redirect": "https://etfacademy.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://etfacademy.it"
     },
     {
         "link": "https://talonmarks.com",

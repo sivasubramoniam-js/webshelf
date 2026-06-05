@@ -20,16 +20,6 @@
         "AbstractURL": "https://audaxindia.in"
     },
     {
-        "link": "https://arvidsjaur.se",
-        "Heading": "Arvidsjaurs Kommun",
-        "Abstract": "V\u00e4lkommen till Arvidsjaurs kommuns officiella hemsida. H\u00e4r hittar du information f\u00f6r dig som \u00e4r inv\u00e5nare i kommunen.",
-        "Official Site": "https://arvidsjaur.se",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://arvidsjaur.se",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://arvidsjaur.se"
-    },
-    {
         "link": "https://taxidrivermovie.com",
         "Heading": "Free Nude Celebs & Pornstars - Sex Photos, XXX, Images, Categories - Taxi Driver Movie",
         "Abstract": "Hottest Nude Celebs, Photos, Pictures, Videos and more at Taxidrivermovie.com. Celeb porn pictures like you have never seen before. Photos added daily!",
@@ -121,13 +111,13 @@
     },
     {
         "link": "https://4everyoungantiaging.com",
-        "Heading": "Anti-Aging & Wellness Solutions | 4Ever Young",
-        "Abstract": "Embrace healthy aging with 4Ever Young. Restore your vitality and enhance your confidence with our wellness and aesthetic services. Explore your options today.",
-        "Official Site": "https://4everyoungantiaging.com/",
-        "Icon": "https://4everyoungantiaging.com/wp-content/uploads/2024/05/cropped-4EverYoung-32x32.png",
-        "Redirect": "https://4everyoungantiaging.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://4everyoungantiaging.com",
+        "Icon": "data:;",
+        "Redirect": "https://4everyoungantiaging.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://4everyoungantiaging.com/"
+        "AbstractURL": "https://4everyoungantiaging.com"
     },
     {
         "link": "https://bluetree.digital",
@@ -158,6 +148,16 @@
         "Redirect": "https://whatnow.com/atlanta/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://whatnow.com/atlanta/"
+    },
+    {
+        "link": "https://airixarmor.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://airixarmor.com",
+        "Icon": "data:;",
+        "Redirect": "https://airixarmor.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://airixarmor.com"
     },
     {
         "link": "https://tatraportal.sk",

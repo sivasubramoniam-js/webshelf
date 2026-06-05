@@ -91,13 +91,13 @@
     },
     {
         "link": "https://dataprivacymanager.net",
-        "Heading": "Home - Legit.eu",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://legit.eu/",
-        "Icon": "https://legit.eu/wp-content/uploads/2026/04/legit-logo-pos-1se.png",
-        "Redirect": "https://legit.eu/",
+        "Official Site": "https://dataprivacymanager.net",
+        "Icon": "data:;",
+        "Redirect": "https://dataprivacymanager.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://legit.eu/"
+        "AbstractURL": "https://dataprivacymanager.net"
     },
     {
         "link": "https://uaestories.com",
@@ -118,6 +118,16 @@
         "Redirect": "https://big-palette.jp",
         "AbstractSource": "BS4",
         "AbstractURL": "https://big-palette.jp"
+    },
+    {
+        "link": "https://xgcfonyp.com",
+        "Heading": "\n      Xgcfonyp\n",
+        "Abstract": "Xgcfonyp",
+        "Official Site": "https://xgcfonyp.com/",
+        "Icon": "N/A",
+        "Redirect": "https://xgcfonyp.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xgcfonyp.com/"
     },
     {
         "link": "https://aagon.com",
@@ -190,6 +200,16 @@
         "AbstractURL": "https://chivi.app/"
     },
     {
+        "link": "https://legendarywallart.com",
+        "Heading": "Legendary Wall Art | Canvas Art Prints Online",
+        "Abstract": "Legendary Wall Art was founded in 2012 by two brothers and is truly a family business. It all started as a need for unique, quality canvas prints & custom wall art.",
+        "Official Site": "https://legendarywallart.com/",
+        "Icon": "http://legendarywallart.com/cdn/shop/files/legendary-seo-share.jpg?v=1779403682&width=1024",
+        "Redirect": "https://legendarywallart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://legendarywallart.com/"
+    },
+    {
         "link": "https://ctwchile.cl",
         "Heading": "construyetuweb | dise\u00f1o web, hosting, posicionamiento, dominios, correos electr\u00f3nicos",
         "Abstract": null,
@@ -211,8 +231,8 @@
     },
     {
         "link": "https://textero.io",
-        "Heading": "AI Essay Writer With Real Citations | AI Essay Generator",
-        "Abstract": "Complete your academic papers faster with Textero AI Essay Writer. Unique content, citation support, and an anti-plagiarism focus. Ideal for time-consuming essays and research papers.",
+        "Heading": "AI Essay Generator with Real Citations \u2014 Textero",
+        "Abstract": "Struggling with essays? Textero AI essay generator writes structured papers with real citations, plagiarism check, and PDF upload. Try free today.",
         "Official Site": "https://textero.io/",
         "Icon": "https://textero.io/wp-content/uploads/2025/12/wp-fallback.png",
         "Redirect": "https://textero.io/",

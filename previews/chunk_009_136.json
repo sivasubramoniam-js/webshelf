@@ -101,7 +101,7 @@
     },
     {
         "link": "https://arghome.ru",
-        "Heading": "52.225.29.101 04.06.2026 09:09:23",
+        "Heading": "172.182.225.6 05.06.2026 08:45:35",
         "Abstract": null,
         "Official Site": "https://arghome.ru",
         "Icon": "data:,",
@@ -201,13 +201,13 @@
     },
     {
         "link": "https://pearlsofportugal.com",
-        "Heading": "Real Estate in Portugal - All you need to know",
-        "Abstract": "Buyer's Agent Service for renting and buying, attractive real estate listings, and all the services you need to invest in Portugal",
-        "Official Site": "https://www.pearlsofportugal.com/",
-        "Icon": "https://www.pearlsofportugal.com/wp-content/uploads/2024/08/Services-Banner-1.webp",
-        "Redirect": "https://www.pearlsofportugal.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pearlsofportugal.com",
+        "Icon": "data:;",
+        "Redirect": "https://pearlsofportugal.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.pearlsofportugal.com/"
+        "AbstractURL": "https://pearlsofportugal.com"
     },
     {
         "link": "https://ygroup.ru",
@@ -308,5 +308,15 @@
         "Redirect": "https://apkorcb.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://apkorcb.com"
+    },
+    {
+        "link": "https://kallimachos.de",
+        "Heading": "Kallimachos",
+        "Abstract": null,
+        "Official Site": "https://kallimachos.de",
+        "Icon": "N/A",
+        "Redirect": "https://kallimachos.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kallimachos.de"
     }
 ]

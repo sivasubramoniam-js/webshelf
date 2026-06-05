@@ -41,7 +41,7 @@
     },
     {
         "link": "https://standardautopart.com",
-        "Heading": "Auto Parts Canada & USA \u2014 No Duties, Up to 70% Off | Standard Auto Par",
+        "Heading": "\n      Auto Parts Canada & USA \u2014 No Duties, Up to 70% Off | Standard Auto Par\n \u2013 Standard Auto Part",
         "Abstract": "Canadian-stocked auto parts with zero import duties. US orders ship from Tukwila, WA. Brakes, suspension, filters, key fobs & more. Up to 70% off. 1\u20133 day delivery or free Edmonton pickup.",
         "Official Site": "https://www.standardautopart.com/",
         "Icon": "http://www.standardautopart.com/cdn/shop/files/social_image.jpg?v=1780012907",
@@ -68,6 +68,16 @@
         "Redirect": "https://systems-analysis.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://systems-analysis.ru/"
+    },
+    {
+        "link": "https://t-developers.com",
+        "Heading": "T-Developers",
+        "Abstract": "You Can Get All New Contents Regularly...Hacking..Web Site Learning And Custom Roms",
+        "Official Site": "https://www.t-developers.com/",
+        "Icon": "https://www.t-developers.com/wp-content/uploads/2023/12/cropped-t-developers-32x32.png",
+        "Redirect": "https://www.t-developers.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.t-developers.com/"
     },
     {
         "link": "https://tdmnetwork.com.br",
@@ -131,13 +141,13 @@
     },
     {
         "link": "https://thepensionsportal.uk",
-        "Heading": "Watch Anime Online in HD | AniHQ",
-        "Abstract": "Stream the latest anime episodes and series in HD. Watch anime online fast and free on AniHQ.",
-        "Official Site": "https://thepensionsportal.uk/",
-        "Icon": "https://thepensionsportal.uk/wp-content/uploads/cropped-Icon-32x32.webp",
-        "Redirect": "https://thepensionsportal.uk/",
+        "Heading": "Just a moment...",
+        "Abstract": null,
+        "Official Site": "https://thepensionsportal.uk",
+        "Icon": "N/A",
+        "Redirect": "https://thepensionsportal.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thepensionsportal.uk/"
+        "AbstractURL": "https://thepensionsportal.uk"
     },
     {
         "link": "https://thrifttale.com",

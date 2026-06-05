@@ -101,10 +101,10 @@
     },
     {
         "link": "https://rfegimnasia.es",
-        "Heading": "RFEG \u2013 Real Federaci\u00f3n Espa\u00f1ola Gimnasia",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://rfegimnasia.es",
-        "Icon": "https://rfegimnasia.es/wp-content/themes/rfeg-theme/assets/images/favicon.png",
+        "Icon": "data:;",
         "Redirect": "https://rfegimnasia.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rfegimnasia.es"
@@ -158,6 +158,16 @@
         "Redirect": "https://ivermectinew.monster",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ivermectinew.monster"
+    },
+    {
+        "link": "https://shopetee.com",
+        "Heading": "\n      \n\n    Say Goodbye to Plastic | Zero Waste, Plastic Free Living | ETEE\n\n    ",
+        "Abstract": "We\u2019re on a mission to make plastic-free living accessible to everyone. From plastic-free dish soap, to shampoo, cleaners, deodorant, sponges, toothpaste, beeswax wraps and more... we have plastic-free products all in one place.",
+        "Official Site": "https://www.shopetee.com/",
+        "Icon": "//www.shopetee.com/cdn/shop/files/etee_logo_-_blue_-_swirl_32x32.png?v=1746653595",
+        "Redirect": "https://www.shopetee.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.shopetee.com/"
     },
     {
         "link": "https://agfp.net",

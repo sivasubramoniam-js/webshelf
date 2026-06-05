@@ -40,16 +40,6 @@
         "AbstractURL": "https://singhui.com"
     },
     {
-        "link": "https://playjonny-jeux.fr",
-        "Heading": "PlayJonny : avis et guide officiel pour joueurs francophones",
-        "Abstract": "Avis complet sur PlayJonny : s\u00e9curit\u00e9, jeux, paiements en Euro (EUR)\net support francophone pour la France, la Belgique, la Suisse et le\nQu\u00e9bec.",
-        "Official Site": "https://playjonny-jeux.fr/",
-        "Icon": "https://playjonny-jeux.fr/images/doc_main/playjonny-avis-et-guide-officiel-pour-joueurs-francophones-1.webp",
-        "Redirect": "https://playjonny-jeux.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://playjonny-jeux.fr/"
-    },
-    {
         "link": "https://virax.com",
         "Heading": "Virax",
         "Abstract": "Fabricant fran\u00e7ais de solutions d\u2019outillage et d\u2019\u00e9quipement \u00e0 destination des professionnels du Sanitaire, du Chauffage, de la Couverture et de la Maintenance.",
@@ -81,13 +71,13 @@
     },
     {
         "link": "https://clevelandstatecc.edu",
-        "Heading": "Home - Cleveland State Community College",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.clevelandstatecc.edu/",
-        "Icon": "https://www.clevelandstatecc.edu/wp-content/uploads/2024/03/cropped-Cleveland-State-Brower-Icon-32x32.png",
-        "Redirect": "https://www.clevelandstatecc.edu/",
+        "Official Site": "https://clevelandstatecc.edu",
+        "Icon": "data:;",
+        "Redirect": "https://clevelandstatecc.edu",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.clevelandstatecc.edu/"
+        "AbstractURL": "https://clevelandstatecc.edu"
     },
     {
         "link": "https://kaislenpump.com",

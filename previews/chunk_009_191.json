@@ -3,11 +3,11 @@
         "link": "https://modoolar.com",
         "Heading": " Home | modoolar ",
         "Abstract": null,
-        "Official Site": "https://www.modoolar.com/",
+        "Official Site": "http://www.modoolar.com/",
         "Icon": "https://www.modoolar.com/web/image/website/1/logo?unique=c6c7e14",
-        "Redirect": "https://www.modoolar.com/",
+        "Redirect": "http://www.modoolar.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.modoolar.com/"
+        "AbstractURL": "http://www.modoolar.com/"
     },
     {
         "link": "https://afrezza.com",
@@ -78,16 +78,6 @@
         "Redirect": "https://techiegamers.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://techiegamers.com/"
-    },
-    {
-        "link": "https://telkimsk.com",
-        "Heading": "\u041f\u0440\u043e\u0441\u0442\u0438\u0442\u0443\u0442\u043a\u0438 \u041c\u043e\u0441\u043a\u0432\u044b: \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u043a\u0438, \u0448\u043b\u044e\u0445\u0438 \u0438 \u043f\u0443\u0442\u0430\u043d\u044b",
-        "Abstract": "\u041f\u0440\u043e\u0441\u0442\u0438\u0442\u0443\u0442\u043a\u0438, \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u043a\u0438 \u0438 \u0448\u043b\u044e\u0445\u0438 \u041c\u043e\u0441\u043a\u0432\u044b. \u0422\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u043e\u0432\u0435\u0440\u0435\u043d\u043d\u044b\u0435 \u0430\u043d\u043a\u0435\u0442\u044b \u0434\u0435\u0432\u043e\u0447\u0435\u043a \u0438 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u043e\u0441\u0442\u0438\u0442\u0443\u0442\u043a\u0438. \u0414\u0435\u0448\u0435\u0432\u044b\u0435 \u043f\u0443\u0442\u0430\u043d\u044b \u043f\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0439 \u0446\u0435\u043d\u0435 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435.",
-        "Official Site": "https://telkimsk.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://telkimsk.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://telkimsk.com"
     },
     {
         "link": "https://citcuit.id",
@@ -168,6 +158,16 @@
         "Redirect": "https://ltacv.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ltacv.com"
+    },
+    {
+        "link": "https://landeeseelandeedo.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://landeeseelandeedo.com",
+        "Icon": "data:;",
+        "Redirect": "https://landeeseelandeedo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://landeeseelandeedo.com"
     },
     {
         "link": "https://arml.io",
@@ -260,18 +260,8 @@
         "AbstractURL": "https://graintrade.com.ua"
     },
     {
-        "link": "https://cominmag.ch",
-        "Heading": "Cominmag Home - Cominmag.ch",
-        "Abstract": null,
-        "Official Site": "https://cominmag.ch/",
-        "Icon": "N/A",
-        "Redirect": "https://cominmag.ch/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cominmag.ch/"
-    },
-    {
         "link": "https://aurastel.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://aurastel.com",
         "Icon": "N/A",

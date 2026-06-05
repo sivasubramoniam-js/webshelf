@@ -70,16 +70,6 @@
         "AbstractURL": "https://nossaclinicaam.com.br"
     },
     {
-        "link": "https://raywebarts.com",
-        "Heading": "Web Designers Colombo, Ray Web Arts, For a Futuristic Website",
-        "Abstract": "Web Designers Colombo, Ray Web Arts, For all your website designing needs, information, business, company and e commerce websites",
-        "Official Site": "https://www.raywebarts.com/",
-        "Icon": "https://www.raywebarts.com/wp-content/uploads/2018/12/web-design.png",
-        "Redirect": "https://www.raywebarts.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.raywebarts.com/"
-    },
-    {
         "link": "https://sunstrongmanagement.com",
         "Heading": "SunStrong Management \u2013 Empowering Sustainable Living",
         "Abstract": "Empowering Sustainable Living",
@@ -110,6 +100,16 @@
         "AbstractURL": "https://sydneyreviewofbooks.com"
     },
     {
+        "link": "https://utf.tennis",
+        "Heading": "\u0413\u043e\u043b\u043e\u0432\u043d\u0430",
+        "Abstract": null,
+        "Official Site": "https://utf.tennis",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://utf.tennis",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://utf.tennis"
+    },
+    {
         "link": "https://ganbei.lv",
         "Heading": "\u0112dienu pieg\u0101de R\u012bg\u0101",
         "Abstract": "\u0112dienu pieg\u0101de no Gan bei, Dearte un Lage Gastronomija",
@@ -131,23 +131,13 @@
     },
     {
         "link": "https://traffickinginstitute.org",
-        "Heading": "Human Trafficking Institute | International Human Trafficking and Research",
-        "Abstract": "The Human Trafficking Institute (HTI) combats trafficking through legal reform, enforcement training, and survivor support worldwide.",
-        "Official Site": "https://traffickinginstitute.org/",
-        "Icon": "https://traffickinginstitute.org/wp-content/uploads/2021/10/fav-hti.png",
-        "Redirect": "https://traffickinginstitute.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://traffickinginstitute.org/"
-    },
-    {
-        "link": "https://cydes.my",
-        "Heading": "CYDES 2026",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://cydes.my",
-        "Icon": "https://cydes.my/assets/favicon/favicon-32x32.png",
-        "Redirect": "https://cydes.my",
+        "Official Site": "https://traffickinginstitute.org",
+        "Icon": "data:;",
+        "Redirect": "https://traffickinginstitute.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cydes.my"
+        "AbstractURL": "https://traffickinginstitute.org"
     },
     {
         "link": "https://hostguardian.com",
@@ -194,7 +184,7 @@
         "Heading": "\n      St-Viateur Bagel\n",
         "Abstract": "Hand-rolled, wood-fired, world-famous! Home of the Montreal bagel. Order online and get fresh bagels shipped right to your door, or visit our iconic bakeries and cafes in Montreal.",
         "Official Site": "https://stviateurbagel.com/",
-        "Icon": "http://stviateurbagel.com/cdn/shop/files/st-viateur-bagel-social-share.png?v=1737128349",
+        "Icon": "http://cdn.shopify.com/s/files/1/0671/7285/9956/files/st-viateur-bagel-social-share.png?v=1737128349",
         "Redirect": "https://stviateurbagel.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://stviateurbagel.com/"

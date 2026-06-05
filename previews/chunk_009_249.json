@@ -60,16 +60,6 @@
         "AbstractURL": "https://powertool.ru"
     },
     {
-        "link": "https://indocanadianbusinesspages.com",
-        "Heading": "Find local Businesses in Surrey, Local Business Directory in Vancouver, Canada",
-        "Abstract": "Search the most complete indo-canadian business & construction pages database. Find Indo-Canadian Business & Construction Pages",
-        "Official Site": "https://www.indocanadianbusinesspages.com",
-        "Icon": "https://www.indocanadianbusinesspages.com/images/Default Social Media Image.jpg",
-        "Redirect": "https://www.indocanadianbusinesspages.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.indocanadianbusinesspages.com"
-    },
-    {
         "link": "https://komnet.hu",
         "Heading": "R\u00f3lunk",
         "Abstract": "k\u00e1belt\u00e9v\u00e9 internet szolg\u00e1ltat\u00e1s Kom\u00e1rom",
@@ -271,13 +261,13 @@
     },
     {
         "link": "https://teamaligned.com",
-        "Heading": "Home - Aligned",
-        "Abstract": "Stop losing deals between meetings with Aligned AI deal workspace Run deals in a single shared space where buyers decide faster, and AI agents surface risk, map stakeholders, create content, and guide the next step. Watch video Start free #1 Digital Sales Room \u00a0#1 Client Portal 4.7 (1,171) 50,000+ Sales & CS Teams Run Their [\u2026]",
-        "Official Site": "https://alignedup.com/",
-        "Icon": "https://alignedup.com/wp-content/uploads/2026/02/Supporting-text.svg",
-        "Redirect": "https://alignedup.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://teamaligned.com",
+        "Icon": "data:;",
+        "Redirect": "https://teamaligned.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://alignedup.com/"
+        "AbstractURL": "https://teamaligned.com"
     },
     {
         "link": "https://lorepodcast.com",
@@ -311,10 +301,10 @@
     },
     {
         "link": "https://tsw83702952.com",
-        "Heading": "\u9752\u5e74\u56fe\u4e66\u7f51-\u4e70\u9752\u5e74\u56fe\u4e66\uff0c\u5c31\u4e0a\u9752\u5e74\u56fe\u4e66\u7f51",
+        "Heading": "\u9752\u5e74\u56fe\u4e66\u7f51",
         "Abstract": null,
         "Official Site": "https://tsw83702952.com",
-        "Icon": "favicon.ico",
+        "Icon": "themes/shengxian/images/favicon.ico",
         "Redirect": "https://tsw83702952.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tsw83702952.com"

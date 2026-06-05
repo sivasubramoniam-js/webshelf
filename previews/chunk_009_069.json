@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://citylinkcenter.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://citylinkcenter.org",
+        "Icon": "data:;",
+        "Redirect": "https://citylinkcenter.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://citylinkcenter.org"
+    },
+    {
         "link": "https://nsbikes.com",
         "Heading": "NS Bikes - Stay True!",
         "Abstract": "Official NS Bikes website featuring products, news and world class riders like Natalia Niedzwiedz, Micha\u0142 Top\u00f3r, Przemek Abramowicz and others. STAY TRUE!",
@@ -48,16 +58,6 @@
         "Redirect": "https://www.etixxsports.com/nl-be",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.etixxsports.com/nl-be"
-    },
-    {
-        "link": "https://rndnet.net",
-        "Heading": "RnDnet | \u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430 \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u043e\u0432",
-        "Abstract": null,
-        "Official Site": "https://rndnet.net",
-        "Icon": "N/A",
-        "Redirect": "https://rndnet.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rndnet.net"
     },
     {
         "link": "https://flauditor.gov",
@@ -121,10 +121,10 @@
     },
     {
         "link": "https://takipavm.com",
-        "Heading": "Ucuz Takip\u00e7i Sat\u0131n Al - TakipZE",
-        "Abstract": "Ucuz takip\u00e7i sat\u0131n al i\u015flemlerinde en ucuz, ger\u00e7ek, garantili ve telafili hizmet Takipze\u2019de! G\u00fcvenilir takip\u00e7i sat\u0131n al ve sosyal medyada fark yarat!",
+        "Heading": "Takip\u00e7i Sat\u0131n Al - TakipZE",
+        "Abstract": "Takip\u00e7i sat\u0131n al hizmetlerinde g\u00fcvenilir adres Takipze! Ger\u00e7ek, aktif ve telafili takip\u00e7i paketleriyle hesab\u0131n\u0131z\u0131 g\u00fcvenle b\u00fcy\u00fct\u00fcn.",
         "Official Site": "https://takipze.com/",
-        "Icon": "https://takipze.com/themes/zetema/image/intro-guys.webp",
+        "Icon": "https://takipze.com/upload/screenshot-2022-08-14t205413-766272.png",
         "Redirect": "https://takipze.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://takipze.com/"
@@ -178,6 +178,16 @@
         "Redirect": "https://wickbot.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wickbot.com"
+    },
+    {
+        "link": "https://rw2828.com",
+        "Heading": "rw2828.com\u00a0-\u00a0rw2828 Resources and Information.",
+        "Abstract": "rw2828.com is your first and best source for information about rw2828. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://rw2828.com",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://rw2828.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rw2828.com"
     },
     {
         "link": "https://servernetservices.com",

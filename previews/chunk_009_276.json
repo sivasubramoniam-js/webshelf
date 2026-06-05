@@ -22,7 +22,7 @@
     {
         "link": "https://scp-ks.org",
         "Heading": "Kosovo Specialist Chambers | Specialist Chambers",
-        "Abstract": "The Kosovo Specialist Chambers and Specialist Prosecutor\u2019s Office are temporary institutions in The Hague with a mandate over crimes against humanity, war crimes and other crimes from 1998\u20132000.",
+        "Abstract": "The Kosovo Specialist Chambers and Specialist Prosecutor's Office are judicial organs established pursuant to an international agreement ratified by the Kosovo Assembly, a Constitutional Amendment and Law.",
         "Official Site": "https://scp-ks.org",
         "Icon": "/themes/custom/ksc_spo/images/favicons/favicon-96x96.png",
         "Redirect": "https://scp-ks.org",
@@ -78,6 +78,16 @@
         "Redirect": "https://scoreatyourlocal.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://scoreatyourlocal.com.au"
+    },
+    {
+        "link": "https://ntoa.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ntoa.org",
+        "Icon": "data:;",
+        "Redirect": "https://ntoa.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ntoa.org"
     },
     {
         "link": "https://phoenixdev.gr",
@@ -240,6 +250,16 @@
         "AbstractURL": "https://cippe.com.cn"
     },
     {
+        "link": "https://ballstatedaily.com",
+        "Heading": "\n      Cardinal Media\n     - Cardinal Media",
+        "Abstract": "Cardinal Media is a student-run information service within the School of Journalism and Strategic Communication at Ball State University with content contributions from student organizations within the Department of Media and Ball State Public Media.",
+        "Official Site": "https://www.cardinalmediabsu.com",
+        "Icon": "https://snworksceo.imgix.net/bsd/a78939c7-3be4-4299-95da-e05920ad83fc.sized-1000x1000.png?w=800&h=600&fit=crop&crop=faces,edges",
+        "Redirect": "https://www.cardinalmediabsu.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cardinalmediabsu.com"
+    },
+    {
         "link": "https://tms-info.org",
         "Heading": "Test f\u00fcr medizinische Studieng\u00e4nge (TMS) \u2013 Informationen und Anmeldung zum \"Mediziner-Test\"",
         "Abstract": null,
@@ -250,6 +270,16 @@
         "AbstractURL": "https://tms-info.org"
     },
     {
+        "link": "https://hancockclaims.com",
+        "Heading": "Hancock Claims Consultants | Property Claims Resolution",
+        "Abstract": "Resolve property claims fast with Hancock Claims Consultants' nationwide network and full claims lifecycle support for fair property claims resolution.",
+        "Official Site": "https://hancockclaims.com/",
+        "Icon": "https://hancockclaims.com/wp-content/uploads/Hancock-social-sharing.jpg",
+        "Redirect": "https://hancockclaims.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hancockclaims.com/"
+    },
+    {
         "link": "https://almuheettours.net",
         "Heading": null,
         "Abstract": null,
@@ -258,6 +288,16 @@
         "Redirect": "https://almuheettours.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://almuheettours.net"
+    },
+    {
+        "link": "https://explosionnetwork.com",
+        "Heading": "Explosion Network | Video Games, Entertainment & Pop Culture",
+        "Abstract": "Independent Australian reviews, news & podcasts on video games, entertainment and pop culture \u2013 Australia\u2019s trusted source",
+        "Official Site": "https://explosionnetwork.com/",
+        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvZXhwbG9zaW9ubmV0d29yay5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzEwXC9FTi1Mb2dvLUZvci1XZWJzaXRlLTIwMjMtNDE4MTY1MTYzLWUxNjk2MzczOTMyMTA3LmpwZyIsInR4dCI6IkV4cGxvc2lvbiBOZXR3b3JrIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjIyMzY5Njk3NH0.jzI7x04ZahM4qDKPJNA5tKHCUv_CjUA_baymdg8Eac4MQ",
+        "Redirect": "https://explosionnetwork.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://explosionnetwork.com/"
     },
     {
         "link": "https://plum-dent.com",

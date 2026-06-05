@@ -180,24 +180,14 @@
         "AbstractURL": "https://schuelerfeedback-nrw.de"
     },
     {
-        "link": "https://nationalpark-saechsische-schweiz.de",
-        "Heading": "Startseite \u2013 Nationalpark S\u00e4chsische Schweiz \u2013 Wandern, Natur & Erholung - Nationalpark S\u00e4chsische Schweiz",
-        "Abstract": "Entdecke die beeindruckenden Felsformationen & unber\u00fchrte Natur im Nationalpark S\u00e4chsische Schweiz. Perfekt zum Wandern, Staunen & Erholen!",
-        "Official Site": "https://nationalpark-saechsische-schweiz.de/",
-        "Icon": "https://nationalpark-saechsische-schweiz.de/uploads/icons/nationalparkregion-favicon.png",
-        "Redirect": "https://nationalpark-saechsische-schweiz.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nationalpark-saechsische-schweiz.de/"
-    },
-    {
         "link": "https://epsagroup.com",
-        "Heading": "EPSA - Global Earthmoving Company",
-        "Abstract": "EPSA is a global earthmoving contractor for mining and infrastructure projects, offering world-class services in mining and construction since 1962.",
-        "Official Site": "https://epsagroup.com/",
-        "Icon": "https://epsagroup.com/wp-content/uploads/2023/06/EPSAlogosvg-cropped.svg",
-        "Redirect": "https://epsagroup.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://epsagroup.com",
+        "Icon": "data:;",
+        "Redirect": "https://epsagroup.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://epsagroup.com/"
+        "AbstractURL": "https://epsagroup.com"
     },
     {
         "link": "https://novgorod-tv.ru",

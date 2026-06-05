@@ -11,13 +11,13 @@
     },
     {
         "link": "https://alignrx.org",
-        "Heading": "AlignRx | Strategic Partner To Community Pharmacy",
-        "Abstract": "The nation\u2019s largest independently owned pharmacy services administrative organization, AlignRx provides best-in-class solutions for community pharmacists.",
-        "Official Site": "https://alignrx.org/",
-        "Icon": "https://alignrx.org/wp-content/uploads/2022/11/favicon.png",
-        "Redirect": "https://alignrx.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://alignrx.org",
+        "Icon": "data:;",
+        "Redirect": "https://alignrx.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://alignrx.org/"
+        "AbstractURL": "https://alignrx.org"
     },
     {
         "link": "https://vyvod-iz-zapoya-v-krasnodare-1.ru",
@@ -130,16 +130,6 @@
         "AbstractURL": "https://www.magellan-solutions.com/"
     },
     {
-        "link": "https://vamdodoma.ru",
-        "Heading": "\u0418\u041a\u0415\u0410 \u2014 \u043a\u0443\u043f\u0438\u0442\u044c \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u0443\u044e \u043c\u0435\u0431\u0435\u043b\u044c IKEA \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0432 \u0433. \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c - \u0412\u0410\u041c\u0414\u041e\u0414\u041e\u041c\u0410",
-        "Abstract": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0418\u041a\u0415\u0410 \u0432 \u0420\u0424 \u0441 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u043e\u043c. \u041f\u0440\u0438\u0432\u0435\u0437\u0435\u043c \u0431\u0435\u0437 \u043f\u0440\u0435\u0434\u043e\u043f\u043b\u0430\u0442 \u0437\u0430 \u0442\u043e\u0432\u0430\u0440 \u0432 \u0433. \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c",
-        "Official Site": "http://vamdodoma.ru",
-        "Icon": "https://vamdodoma.ru/img/public/images/open-graph-logo.png",
-        "Redirect": "http://vamdodoma.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://vamdodoma.ru"
-    },
-    {
         "link": "https://industrialsource.com.au",
         "Heading": "Industrial Source: Reliable Industrial Supplies, Tools and Equipment",
         "Abstract": "Industrial Source is a leading supplier of both USA and AU Sourced Industrial Products, MRO Suppliers, Parts and Machinery.",
@@ -168,16 +158,6 @@
         "Redirect": "https://www.lifeandscience.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lifeandscience.org/"
-    },
-    {
-        "link": "https://maximumvolumemusic.com",
-        "Heading": "Home Page New - Maximum Volume Music",
-        "Abstract": null,
-        "Official Site": "https://maximumvolumemusic.com/",
-        "Icon": "https://maximumvolumemusic.com/wp-content/uploads/ChatGPT-Image-Dec-24-2025-09_42_28-AM.png",
-        "Redirect": "https://maximumvolumemusic.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://maximumvolumemusic.com/"
     },
     {
         "link": "https://silver-paradise.ru",
@@ -254,7 +234,7 @@
         "Heading": "FA\u6a5f\u5668\u30c9\u30c3\u30c8\u30b3\u30e0",
         "Abstract": "FA\u6a5f\u5668\u5c02\u9580\u306e\u30ea\u30e6\u30fc\u30b9\u901a\u8ca9\u30b5\u30a4\u30c8\u3067\u3059\u3002\u5236\u5fa1\u6a5f\u5668PLC\u304b\u3089\u30ed\u30dc\u30c3\u30c8\u30fb3D\u30d7\u30ea\u30f3\u30bf\u307e\u3067\u3001\u5e45\u5e83\u3044\u7523\u696d\u7528\u90e8\u54c1\u306e\u30ea\u30e6\u30fc\u30b9\u54c1\u3092\u53d6\u308a\u6271\u3063\u3066\u3044\u307e\u3059\u3002\u3010\u751f\u7523\u7d42\u4e86\u54c1\u3042\u308a\uff0f\u65b0\u54c1\u3042\u308a\uff0f\u5e73\u65e516\u6642\u534a\u307e\u3067\u306e\u6ce8\u6587\u306f\u5f53\u65e5\u51fa\u8377\u3011",
         "Official Site": "https://fakiki.com/",
-        "Icon": "/client_info/FAKIKI/view/userweb/favicon.ico?timestamp=1780535369119",
+        "Icon": "/client_info/FAKIKI/view/userweb/favicon.ico?timestamp=1780622647935",
         "Redirect": "https://fakiki.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fakiki.com/"

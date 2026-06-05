@@ -20,6 +20,16 @@
         "AbstractURL": "https://busycreatingmemories.com/"
     },
     {
+        "link": "https://poeprices.info",
+        "Heading": "Poe Price Info - Path of Exile Item Price Check",
+        "Abstract": "A simple tool to price check your items in path of exile by copy and paste",
+        "Official Site": "https://poeprices.info",
+        "Icon": "/css/icon2.png",
+        "Redirect": "https://poeprices.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://poeprices.info"
+    },
+    {
         "link": "https://suzukiclub.cz",
         "Heading": null,
         "Abstract": null,
@@ -121,10 +131,10 @@
     },
     {
         "link": "https://talbotspy.org",
-        "Heading": "Welcome - Talbot Spy",
-        "Abstract": "The Chestertown Spy is the e-newspaper for Chestertown and Kent County, MD",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://talbotspy.org",
-        "Icon": "https://talbotspy.org/wp-content/uploads/sites/3/2026/05/FF-Hot-Dog-Season-May-29-2026-copy.jpg",
+        "Icon": "data:;",
         "Redirect": "https://talbotspy.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://talbotspy.org"
@@ -230,16 +240,6 @@
         "AbstractURL": "https://analytics-info.com/"
     },
     {
-        "link": "https://dread.ru",
-        "Heading": "\u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u0434\u0440\u0435\u0434\u044b",
-        "Abstract": null,
-        "Official Site": "https://dread.ru",
-        "Icon": "/favicon.ICO",
-        "Redirect": "https://dread.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dread.ru"
-    },
-    {
         "link": "https://axa-lm.ch",
         "Heading": "AXA's Corporate Website | AXA",
         "Abstract": "Present in 52 countries, AXA's 156,000 employees and distributors are committed to serving our +92 million clients. Our areas of expertise are applied to a range of products and services that are adapted to the needs of each and every client across three major business lines: property-casualty insurance, life, savings & health and asset management.",
@@ -258,16 +258,6 @@
         "Redirect": "https://honeydewsleep.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://honeydewsleep.com/"
-    },
-    {
-        "link": "https://uludaghosting.com",
-        "Heading": "Index of /",
-        "Abstract": null,
-        "Official Site": "https://uludaghosting.com",
-        "Icon": "N/A",
-        "Redirect": "https://uludaghosting.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://uludaghosting.com"
     },
     {
         "link": "https://ozdoc.com",

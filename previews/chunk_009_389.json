@@ -80,16 +80,6 @@
         "AbstractURL": "https://moheet.com"
     },
     {
-        "link": "https://apson.co.in",
-        "Heading": "Home - Apson",
-        "Abstract": "Home - Apson",
-        "Official Site": "https://apson.co.in/",
-        "Icon": "https://apson.co.in/wp-content/uploads/2025/12/image-6-1.png",
-        "Redirect": "https://apson.co.in/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://apson.co.in/"
-    },
-    {
         "link": "https://centralcoalfields.in",
         "Heading": null,
         "Abstract": null,
@@ -108,6 +98,16 @@
         "Redirect": "https://meng.horse",
         "AbstractSource": "BS4",
         "AbstractURL": "https://meng.horse"
+    },
+    {
+        "link": "https://wallmurals-usa.com",
+        "Heading": "Custom made Wallpaper Murals, Wall Murals, door murals. US",
+        "Abstract": "Custom made Wallpaper Murals and door murals. Amazing wall decorations. Self-adhesive or heavy duty wallpapers.",
+        "Official Site": "https://wallmurals-usa.com",
+        "Icon": "/img/favicon.png",
+        "Redirect": "https://wallmurals-usa.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wallmurals-usa.com"
     },
     {
         "link": "https://robuchon.jp",
@@ -261,13 +261,13 @@
     },
     {
         "link": "https://comunicati-stampa.net",
-        "Heading": "Comunicati stampa e notizie - L'informazione in autoedizione",
-        "Abstract": "Dal 2004 sito d\u2019informazione in modalit\u00e0 autoedizione, con pubblicazione di opere senza l\u2019intermediazione e la selezione di un editore",
-        "Official Site": "https://www.comunicati-stampa.net/",
-        "Icon": "https://www.comunicati-stampa.net/wp-content/uploads/475138911_1116196217184561_8593728161660443202_n.jpg",
-        "Redirect": "https://www.comunicati-stampa.net/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://comunicati-stampa.net",
+        "Icon": "data:;",
+        "Redirect": "https://comunicati-stampa.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.comunicati-stampa.net/"
+        "AbstractURL": "https://comunicati-stampa.net"
     },
     {
         "link": "https://512kb.club",

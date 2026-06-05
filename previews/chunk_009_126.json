@@ -60,16 +60,6 @@
         "AbstractURL": "https://worldwidedreamvillas.com"
     },
     {
-        "link": "https://imjnetwork.com",
-        "Heading": "SDScloud",
-        "Abstract": null,
-        "Official Site": "https://imjnetwork.com",
-        "Icon": "N/A",
-        "Redirect": "https://imjnetwork.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://imjnetwork.com"
-    },
-    {
         "link": "https://shankergroup.com",
         "Heading": "Shanker Group",
         "Abstract": "Shanker Group",
@@ -341,7 +331,7 @@
     },
     {
         "link": "https://bangbull.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://bangbull.com",
         "Icon": "N/A",

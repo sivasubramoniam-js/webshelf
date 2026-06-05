@@ -51,13 +51,13 @@
     },
     {
         "link": "https://horecacomeback.be",
-        "Heading": "Beste Casino Belgi\u00eb: Grootste Welkomstbonussen & Gratis Spins",
-        "Abstract": "Beste online casino Belgi\u00eb %%currentyear%% - Alle goedgekeurde casino's in \u00e9\u00e9n overzicht. Grote bonussen, veilige betalingen en premium spelervaring voor Belgische gokkers.",
-        "Official Site": "https://horecacomeback.be/",
-        "Icon": "https://horecacomeback.be/wp-content/uploads/2026/02/Beste-online-casino-Belgie.webp",
-        "Redirect": "https://horecacomeback.be/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://horecacomeback.be",
+        "Icon": "data:;",
+        "Redirect": "https://horecacomeback.be",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://horecacomeback.be/"
+        "AbstractURL": "https://horecacomeback.be"
     },
     {
         "link": "https://102apps.com",
@@ -278,6 +278,16 @@
         "Redirect": "https://acwm.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://acwm.org/"
+    },
+    {
+        "link": "https://followmi.in",
+        "Heading": "followmi.in",
+        "Abstract": null,
+        "Official Site": "https://followmi.in",
+        "Icon": "https://www.followmi.in/wp-content/uploads/2025/05/cropped-Followmi-Logo-32x32.png",
+        "Redirect": "https://followmi.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://followmi.in"
     },
     {
         "link": "https://sorrentoinsider.com",

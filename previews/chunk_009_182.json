@@ -4,7 +4,7 @@
         "Heading": "MULTITIMER: MULTIPLE TIMERS",
         "Abstract": "Getting started is easy\n",
         "Official Site": "https://www.multitimer.net/",
-        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUAOMgoMjM3ZHjcWPLK-q2ZxlPtuyHydbdh94gSrqyDJG_SvG-MW_2S17PJsopRCjk3kqM4aQ47JYhEqSxdBVC3su9L0FvEkxgT8mhTk4SfpqqtFK7zEf7k9bPhAKt70WhOqetGLcbfLZ5bErbyyBk4ZrMl1Z4Ofbh6m3EL4-oa06qfSm2zou1zOtY8=w16383",
+        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUD0zoUwopF9YPKgnifpZ0MZ336QXL_IS-1qmAB1sql6-VlrXpxX-4a4zNUQl6-uwDA1xW4Jvw71mR7TJpvVfEbbJmhHuC8NmpcBt-Y0Tk4tSo3SAIj4N8UGuHm2iJ3YKwve2j891-np70AtJTjKF2_xriJi_4RF7FJRMEjJK5OFf0z9iOajmAKvH0u4ACg=w16383",
         "Redirect": "https://www.multitimer.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.multitimer.net/"
@@ -74,7 +74,7 @@
         "Heading": "Brighter Brain Brilliant Life | Jim Kwik",
         "Abstract": "Having the skills to recall, read, think and learn faster are superpowers that will give you a true advantage in your career, profession, scholastic pursuits, relationships and life.",
         "Official Site": "https://jimkwik.com",
-        "Icon": "/favicon.ico?favicon.11zft7kwvrq_q.ico?dpl=dpl_6CeSMqN7B1HTvwcJ6UHfLgWTCL4V",
+        "Icon": "/favicon.ico?favicon.11zft7kwvrq_q.ico?dpl=dpl_FvqWnhcc7bAnfmz6UGdwCQupuGhb",
         "Redirect": "https://jimkwik.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jimkwik.com"
@@ -211,13 +211,13 @@
     },
     {
         "link": "https://monsieurpeinture.com",
-        "Heading": "Entreprise de peinture & r\u00e9novation - Devis 24h - Monsieur Peinture",
-        "Abstract": "12 000 chantiers r\u00e9alis\u00e9s depuis 2016. Devis peinture et r\u00e9novation sous 24h, artisans s\u00e9lectionn\u00e9s, note 4,7/5. Estimez vos travaux en 3 minutes.",
-        "Official Site": "https://www.monsieurpeinture.com/",
-        "Icon": "https://www.monsieurpeinture.com/wp-content/uploads/2023/11/Monsieur-Peinture-Pose-de-papier-peint-et-peinture-bleue-a-Boulogne.jpg",
-        "Redirect": "https://www.monsieurpeinture.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://monsieurpeinture.com",
+        "Icon": "N/A",
+        "Redirect": "https://monsieurpeinture.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.monsieurpeinture.com/"
+        "AbstractURL": "https://monsieurpeinture.com"
     },
     {
         "link": "https://lovelybride.com",
@@ -298,5 +298,15 @@
         "Redirect": "https://teteinredningar.se",
         "AbstractSource": "BS4",
         "AbstractURL": "https://teteinredningar.se"
+    },
+    {
+        "link": "https://campuslegends.com",
+        "Heading": "Campus Legends | Hotels Near Universities & Colleges",
+        "Abstract": "Discover hotels and accommodations near universities and colleges. Perfect for parents, alumni, and sports fans visiting campus.",
+        "Official Site": "https://campuslegends.com",
+        "Icon": "https://cdn.123presto.com/prod/published/campuslegends/home.jpg",
+        "Redirect": "https://campuslegends.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://campuslegends.com"
     }
 ]

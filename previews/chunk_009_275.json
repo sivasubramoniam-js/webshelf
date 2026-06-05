@@ -81,13 +81,13 @@
     },
     {
         "link": "https://deepsouthmag.com",
-        "Heading": "Deep South Magazine - Southern culture & literature",
-        "Abstract": "An online magazine covering Southern culture & literature with in-depth stories, author interviews, book reviews, reading lists and new, original works.",
-        "Official Site": "https://deepsouthmag.com/",
-        "Icon": "N/A",
-        "Redirect": "https://deepsouthmag.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://deepsouthmag.com",
+        "Icon": "data:;",
+        "Redirect": "https://deepsouthmag.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://deepsouthmag.com/"
+        "AbstractURL": "https://deepsouthmag.com"
     },
     {
         "link": "https://matijardin.fr",
@@ -184,7 +184,7 @@
         "Heading": "\n        \uc571\uac1c\ubc1c\uae30\uc5c5 \uc774\uc624\uc571\uc2a4(eoapps)    ",
         "Abstract": "\ubaa8\ubc14\uc77c \uc571(iOS\u00b7Android)\u00b7\uc6f9 \uc11c\ube44\uc2a4 \uac1c\ubc1c, \uae30\ud68d\ubd80\ud130 \uc720\uc9c0\uad00\ub9ac\uae4c\uc9c0 \uc804 \uacfc\uc815 \uc218\ud589. \uae30\uc5c5\u00b7\uae30\uad00 \ud504\ub85c\uc81d\ud2b8 \ubc0f ERP\u00b7PG\u00b7POS \uc5f0\ub3d9 \uac1c\ubc1c \uacbd\ud5d8.",
         "Official Site": "https://www.eoapps.co.kr",
-        "Icon": "https://www.eoapps.co.kr/theme/eoapps/images/img.jpg?v=1780562108",
+        "Icon": "https://www.eoapps.co.kr/theme/eoapps/images/img.jpg?v=1780646090",
         "Redirect": "https://www.eoapps.co.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.eoapps.co.kr"
@@ -221,13 +221,13 @@
     },
     {
         "link": "https://toplinenewstoday.com",
-        "Heading": "Top Line News Today \u2013 Bringing you the latest headlines from around the nation",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://toplinenewstoday.com/",
-        "Icon": "N/A",
-        "Redirect": "https://toplinenewstoday.com/",
+        "Official Site": "https://toplinenewstoday.com",
+        "Icon": "data:;",
+        "Redirect": "https://toplinenewstoday.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://toplinenewstoday.com/"
+        "AbstractURL": "https://toplinenewstoday.com"
     },
     {
         "link": "https://serviomatic.com",

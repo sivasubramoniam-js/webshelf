@@ -20,16 +20,6 @@
         "AbstractURL": "https://www.mk-herson.ru/"
     },
     {
-        "link": "https://nawebhost.com.br",
-        "Heading": "NAWeb Brasil - Cria\u00e7\u00e3o de Sites, Lojas Virtuais, Divulga\u00e7\u00e3o Digital",
-        "Abstract": "Desde 2010 a NAWeb Brasil oferece solu\u00e7\u00f5es de sucesso em cria\u00e7\u00e3o e hospedagem de sites, lojas virtuais e divulga\u00e7\u00e3o digital. Acesse e confira",
-        "Official Site": "https://nawebbrasil.com.br/",
-        "Icon": "https://nawebbrasil.com.br/wp-content/uploads/2024/07/naweb-home.png",
-        "Redirect": "https://nawebbrasil.com.br/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nawebbrasil.com.br/"
-    },
-    {
         "link": "https://new-heating.com",
         "Heading": "\n\tHoogwaardige Verwarmingsoplossingen \u2013 New Heating\n\t",
         "Abstract": "Bij New Heating vindt u complete verwarmingsoplossingen: warmtepompen, boilers, airco en fittingen. Wij combineren comfort, duurzaamheid en energie-effici\u00ebntie zodat uw woning of bedrijf altijd optimaal verwarmd is",
@@ -68,6 +58,16 @@
         "Redirect": "https://forward-motion-zone.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://forward-motion-zone.org"
+    },
+    {
+        "link": "https://511virginia.org",
+        "Heading": "511 Virginia",
+        "Abstract": "Virginia 511 Travel Information",
+        "Official Site": "https://511virginia.org",
+        "Icon": "/assets/favicon.ico",
+        "Redirect": "https://511virginia.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://511virginia.org"
     },
     {
         "link": "https://ngkub.ru",
@@ -228,16 +228,6 @@
         "Redirect": "https://www.surflare.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.surflare.com"
-    },
-    {
-        "link": "https://charnwoodwebdesign.co.uk",
-        "Heading": "Charnwood Web Design | Loughborough and Leicestershire",
-        "Abstract": "Charnwood Web Design are based in Loughborough, Leicestershire and specialise in creating and maintaining WordPress websites.",
-        "Official Site": "https://charnwoodwebdesign.co.uk/",
-        "Icon": "https://charnwoodwebdesign.co.uk/wp-content/uploads/2022/01/cwd_social_share.png",
-        "Redirect": "https://charnwoodwebdesign.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://charnwoodwebdesign.co.uk/"
     },
     {
         "link": "https://shop-mania.sk",

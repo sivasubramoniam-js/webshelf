@@ -30,16 +30,6 @@
         "AbstractURL": "https://regystra.com"
     },
     {
-        "link": "https://lagosppa.gov.ng",
-        "Heading": "Welcome to Lagos State Public Procurement Agency",
-        "Abstract": null,
-        "Official Site": "https://lagosppa.gov.ng",
-        "Icon": "https://www.lagosppa.gov.ng/wp-content/uploads/2021/03/cropped-cropped-ppa-icon-32x32.png",
-        "Redirect": "https://lagosppa.gov.ng",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lagosppa.gov.ng"
-    },
-    {
         "link": "https://audiencetalking.com",
         "Heading": "Audience Talking",
         "Abstract": null,
@@ -171,10 +161,10 @@
     },
     {
         "link": "https://riversidetransit.com",
-        "Heading": "Riverside Transit Agency - Home",
-        "Abstract": "Riverside Transit Agency (RTA) provides both local and regional services throughout the region with 36 fixed-routes, eight CommuterLink routes, and Dial-A-Ride ",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://riversidetransit.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://riversidetransit.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://riversidetransit.com"

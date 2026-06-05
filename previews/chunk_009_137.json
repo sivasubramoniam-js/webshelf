@@ -21,10 +21,10 @@
     },
     {
         "link": "https://dopracenakole.cz",
-        "Heading": "\n            Kv\u011btnov\u00e1 v\u00fdzva - Do pr\u00e1ce na kole\n        ",
-        "Abstract": "P\u0159ijm\u011bte Kv\u011btnovou v\u00fdzvu a zkuste to m\u011bs\u00edc na vlastn\u00ed pohon.Cel\u00fd kv\u011bten (od 1. do 31. 5.) se dopravujte do pr\u00e1ce, na n\u00e1kup, na n\u00e1v\u0161t\u011bvu, s d\u011btmi do \u0161koly na kole, na kolob\u011b\u017ece, na skejtu, inlajnech, p\u011b\u0161ky nebo poklusem.",
+        "Heading": "\n            Do pr\u00e1ce na kole Homepage - Do pr\u00e1ce na kole\n        ",
+        "Abstract": "Cel\u00fd kv\u011bten na kole, kolob\u011b\u017ece, p\u011b\u0161ky nebo poklusem - tedy udr\u017eiteln\u011b a aktivn\u011b. P\u0159ihlaste se s kolegy a kolegyn\u011bmi, celou firmou nebo na vlastn\u00ed p\u011bst do v\u00fdzvy Do pr\u00e1ce na kole, kterou u\u017e 15 let po\u0159\u00e1d\u00e1 spolek AutoMat, a podpo\u0159te spolu s 26 000 \u00fa\u010dastn\u00edky a \u00fa\u010dastnicemi vlastn\u00ed kondici i rozvoj infrastruktury pro cyklo i p\u011b\u0161\u00ed. \u010c\u00edm d\u0159\u00edve se registrujete, t\u00edm d\u0159\u00edve se t\u011b\u0161te na startovn\u00ed bal\u00ed\u010dek s tri\u010dkem. V\u00fdsledky firem a m\u011bst m\u016f\u017eete porovnat v na\u0161em datareportu.",
         "Official Site": "https://dopracenakole.cz/",
-        "Icon": "https://dopracenakole.cz/app/uploads/2025/11/matheus-frade-0btpam8tjyc-unsplash.jpg",
+        "Icon": "https://dopracenakole.cz/app/uploads/foto-do-prace-na-kole-1.jpg",
         "Redirect": "https://dopracenakole.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dopracenakole.cz/"
@@ -50,14 +50,24 @@
         "AbstractURL": "https://www.kaetsunou.co.jp/"
     },
     {
-        "link": "https://b24site.online",
-        "Heading": "Bitrix24 - Free online workspace for your business: CRM, tasks, online meetings, and more.",
-        "Abstract": "An all-in-one free platform to manage your team and run your sales, Bitrix24 is designed to be seamlessly integrated into all your business processes and help you manage them with the highest precision and efficiency.",
-        "Official Site": "https://www.bitrix24.com/",
-        "Icon": "https://www.bitrix24.com/images/content_en/images/head/b24rich_new.png",
-        "Redirect": "https://www.bitrix24.com/",
+        "link": "https://ukpollingreport.co.uk",
+        "Heading": "UK Polling Report | UK Election Polls, Seat Projections & Political Analysis",
+        "Abstract": "Independent UK polling analysis, election projections, voting trends and political insight. Live seat models, polling data and analysis of British politics.",
+        "Official Site": "https://pollingreport.uk/",
+        "Icon": "https://images.pollingreport.uk/captures/scheduled/og/projection-png.png",
+        "Redirect": "https://pollingreport.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bitrix24.com/"
+        "AbstractURL": "https://pollingreport.uk/"
+    },
+    {
+        "link": "https://b24site.online",
+        "Heading": "Bitrix24 ist ein kostenfreier Online-Arbeitsplatz f\u00fcr Ihr Unternehmen: CRM, Aufgaben, Online-Termine und vieles mehr.",
+        "Abstract": "Die All-in-One L\u00f6sung von Bitrix24 hilft Ihnen dabei, Ihre Teams zu verwalten und den Vertrieb voranzutreiben. Bitrix24 l\u00e4sst sich hervorragend in Ihre Gesch\u00e4ftsprozesse integrieren und sorgt f\u00fcr deren hochgenaue und effiziente Verwaltung.",
+        "Official Site": "https://www.bitrix24.de/",
+        "Icon": "https://www.bitrix24.de/images/content_de/images/head/b24rich_new.png",
+        "Redirect": "https://www.bitrix24.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bitrix24.de/"
     },
     {
         "link": "https://top2servers.tv",

@@ -40,16 +40,6 @@
         "AbstractURL": "https://capitalinvestment.dk/"
     },
     {
-        "link": "https://wsta.co.uk",
-        "Heading": "Homepage - The Wine and Spirit Trade Association",
-        "Abstract": "The Wine and Spirit Trade Association (WSTA) campaign's for a vibrant and sustainable wine and spirit industry.",
-        "Official Site": "https://wsta.co.uk/",
-        "Icon": "https://wsta.co.uk/wp-content/uploads/2025/08/Homepage.png",
-        "Redirect": "https://wsta.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wsta.co.uk/"
-    },
-    {
         "link": "https://perudirectorio.com",
         "Heading": "\n\t\t\tPagina en Mantenimiento\n\t\t",
         "Abstract": null,
@@ -114,7 +104,7 @@
         "Heading": "\u6771\u4eac\u306e\u8cc3\u8cb8\u4e8b\u52d9\u6240\u30fb\u8cc3\u8cb8\u30aa\u30d5\u30a3\u30b9\u30fbSOHO\u8cc3\u8cb8\u7269\u4ef6\u306f\u30d9\u30f3\u30c1\u30e3\u30fc\u30aa\u30d5\u30a3\u30b9\u30ca\u30d3",
         "Abstract": "\u30d9\u30f3\u30c1\u30e3\u30fc\u30aa\u30d5\u30a3\u30b9\u30ca\u30d3\u306f\u6771\u4eac\u306e\u8cc3\u8cb8\u4e8b\u52d9\u6240\u30fb\u8cc3\u8cb8\u30aa\u30d5\u30a3\u30b9\u30fbSOHO\u8cc3\u8cb8\u7269\u4ef6\u5c02\u9580\u306e\u691c\u7d22\u30b5\u30a4\u30c8\u3067\u3059\u3002\u7d0444000\u4ef6\u306e\u7269\u4ef6\u304c\u3054\u3056\u3044\u307e\u3059\u3002\u63b2\u8f09\u6570No.1\u306e\u8c4a\u5bcc\u306a\u7269\u4ef6\u60c5\u5831\u304b\u3089\u3001\u4ef2\u4ecb\u624b\u6570\u6599\u7121\u6599\u3084\u683c\u5b89\u306e\u30ec\u30f3\u30bf\u30eb\u30aa\u30d5\u30a3\u30b9\u30fb\u8cb8\u4e8b\u52d9\u6240\u30fb\u30d0\u30fc\u30c1\u30e3\u30eb\u30aa\u30d5\u30a3\u30b9\u306b\u6700\u9069\u306aSOHO\u7269\u4ef6\u304c\u5fc5\u305a\u898b\u3064\u304b\u308a\u307e\u3059\uff01",
         "Official Site": "https://v-officenavi.com",
-        "Icon": "N/A",
+        "Icon": "/img/favicon.ico",
         "Redirect": "https://v-officenavi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://v-officenavi.com"
@@ -270,24 +260,14 @@
         "AbstractURL": "https://www.dedispace.net/"
     },
     {
-        "link": "https://siriushost.com.br",
-        "Heading": "Sirius Host - Hospedagem de Sites e Servidores VPS",
-        "Abstract": "A Sirius Host tem a melhor e mais completa hospedagem de site com servidores equipados com discos SSD e LiteSpeed - perfeito para WordPress.",
-        "Official Site": "https://www.siriushost.com.br/",
-        "Icon": "https://www.siriushost.com.br/wp-content/uploads/2022/06/banner-vectorimg.png",
-        "Redirect": "https://www.siriushost.com.br/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.siriushost.com.br/"
-    },
-    {
         "link": "https://seoconsultants.com",
-        "Heading": "Hire SEO Consultants - Vetted List | SEO Consultants",
-        "Abstract": "We can help you find trusted SEO consultants to deliver data-driven strategies for your business. Get matched up today, request a consultation!",
-        "Official Site": "https://seoconsultants.com/",
-        "Icon": "https://seoconsultants.com/wp-content/uploads/2020/05/og-image-seoconsult-home.png",
-        "Redirect": "https://seoconsultants.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://seoconsultants.com",
+        "Icon": "data:;",
+        "Redirect": "https://seoconsultants.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://seoconsultants.com/"
+        "AbstractURL": "https://seoconsultants.com"
     },
     {
         "link": "https://loteriesport.lu",

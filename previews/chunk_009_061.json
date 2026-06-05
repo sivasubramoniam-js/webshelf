@@ -10,16 +10,6 @@
         "AbstractURL": "https://tuberel.com"
     },
     {
-        "link": "https://indianlabourarchives.org",
-        "Heading": "Archives of Indian Labour: Home",
-        "Abstract": null,
-        "Official Site": "https://indianlabourarchives.org",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://indianlabourarchives.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://indianlabourarchives.org"
-    },
-    {
         "link": "https://intellectplanet.ru",
         "Heading": "\u0422\u043e\u043f 10 \u0447\u0435\u0441\u0442\u043d\u044b\u0445 \u043e\u043d\u043b\u0430\u0439\u043d \u043a\u0430\u0437\u0438\u043d\u043e - \u0440\u0435\u0439\u0442\u0438\u043d\u0433 \u043a\u0430\u0437\u0438\u043d\u043e \u0420\u043e\u0441\u0441\u0438\u0438 2026 \u0441 \u0431\u044b\u0441\u0442\u0440\u044b\u043c\u0438 \u0432\u044b\u043f\u043b\u0430\u0442\u0430\u043c\u0438",
         "Abstract": "\u0414\u043b\u044f \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u043e\u0439 \u0438\u0433\u0440\u044b \u0442\u043e\u043f 10 \u0447\u0435\u0441\u0442\u043d\u044b\u0445 \u043e\u043d\u043b\u0430\u0439\u043d \u043a\u0430\u0437\u0438\u043d\u043e \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u044e\u0442 \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u0435 \u043f\u043b\u0430\u0442\u0435\u0436\u0438, \u043f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u044b\u0435 \u0431\u043e\u043d\u0443\u0441\u044b, \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439, \u043f\u0440\u043e\u0432\u0435\u0440\u0435\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0437\u0430\u0449\u0438\u0442\u044b \u0438 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u0443\u044e \u0440\u0430\u0431\u043e\u0442\u0443 \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0438\u0445 \u0440\u0438\u0441\u043a\u043e\u0432.",
@@ -281,13 +271,13 @@
     },
     {
         "link": "https://gmws.org",
-        "Heading": "Homepage - Green Meadow Waldorf School",
-        "Abstract": "Green Meadow Waldorf School in Chestnut Ridge, NY. A private school for ages 2 through grade 12 on a 140-acre campus, 20 minutes from NYC. Schedule a tour today.",
-        "Official Site": "https://www.gmws.org/",
-        "Icon": "https://www.gmws.org/wp-content/uploads/2026/03/IMG_0120-1-homepage.jpg",
-        "Redirect": "https://www.gmws.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://gmws.org",
+        "Icon": "data:;",
+        "Redirect": "https://gmws.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.gmws.org/"
+        "AbstractURL": "https://gmws.org"
     },
     {
         "link": "https://wantalkpet.com",

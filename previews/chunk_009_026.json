@@ -30,6 +30,16 @@
         "AbstractURL": "https://dsbrown.com/"
     },
     {
+        "link": "https://duosshop.co.uk",
+        "Heading": "DUOS - Slne\u010dn\u00e9 a dioptrick\u00e9 okuliare prest\u00ed\u017enych zna\u010diek",
+        "Abstract": null,
+        "Official Site": "https://duosshop.co.uk/",
+        "Icon": "image/cache/catalog/logo-600x315.webp",
+        "Redirect": "https://duosshop.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://duosshop.co.uk/"
+    },
+    {
         "link": "https://duskpine.top",
         "Heading": "DZMM - \u4e0e AI \u89d2\u8272\u7545\u804a\uff0c\u521b\u9020\u65e0\u9650\u53ef\u80fd",
         "Abstract": "DZMM \u662f\u4e00\u4e2a AI \u89d2\u8272\u626e\u6f14\u4e0e\u521b\u4f5c\u5e73\u53f0\uff0c\u63d0\u4f9b\u4e30\u5bcc\u7684 AI \u89d2\u8272\u5361\u3001\u5c0f\u8bf4\u521b\u4f5c\u548c AI \u7ed8\u753b\u529f\u80fd\uff0c\u8ba9\u4f60\u4e0e\u865a\u62df\u89d2\u8272\u5c55\u5f00\u7cbe\u5f69\u5bf9\u8bdd\u3002",
@@ -48,16 +58,6 @@
         "Redirect": "https://www.easy-equipment.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.easy-equipment.com/"
-    },
-    {
-        "link": "https://edinburghhotelsuk.org",
-        "Heading": "Edinburgh hotels & apartments, all accommodations in Edinburgh",
-        "Abstract": "Online booking for hotels in Edinburgh, United Kingdom. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://edinburghhotelsuk.org",
-        "Icon": "N/A",
-        "Redirect": "https://edinburghhotelsuk.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://edinburghhotelsuk.org"
     },
     {
         "link": "https://eloro.gob.ec",
@@ -98,16 +98,6 @@
         "Redirect": "https://eomsg.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eomsg.com"
-    },
-    {
-        "link": "https://ffccowll.com",
-        "Heading": "ffccowll.com",
-        "Abstract": null,
-        "Official Site": "https://ffccowll.com",
-        "Icon": "N/A",
-        "Redirect": "https://ffccowll.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ffccowll.com"
     },
     {
         "link": "https://filertionline.in",
@@ -258,15 +248,5 @@
         "Redirect": "https://www.grandibottiglie.com/it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.grandibottiglie.com/it/"
-    },
-    {
-        "link": "https://hanoi-hotels.org",
-        "Heading": "All accommodations in Hanoi",
-        "Abstract": "Online booking for hotels in Hanoi, Vietnam. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://hanoi-hotels.org",
-        "Icon": "N/A",
-        "Redirect": "https://hanoi-hotels.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hanoi-hotels.org"
     }
 ]

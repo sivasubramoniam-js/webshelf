@@ -1,13 +1,13 @@
 [
     {
         "link": "https://arkcase.com",
-        "Heading": "Home - ArkCase",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.arkcase.com/",
-        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
-        "Redirect": "https://www.arkcase.com/",
+        "Official Site": "https://arkcase.com",
+        "Icon": "data:;",
+        "Redirect": "https://arkcase.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.arkcase.com/"
+        "AbstractURL": "https://arkcase.com"
     },
     {
         "link": "https://aptekagarant.ru",
@@ -200,6 +200,16 @@
         "AbstractURL": "https://videohardgratuiti.top"
     },
     {
+        "link": "https://crenews.com",
+        "Heading": "Commercial Real Estate Direct \u2013 CMBS & CRE News, Data, and Charts",
+        "Abstract": "Commercial Real Estate Direct provides the most up-to-date market intelligence on the mortgage business, equity raising, investment sales, and CMBS.",
+        "Official Site": "https://crenews.com/",
+        "Icon": "https://crenews.com/wp-content/uploads/2022/11/social_logo_ex.jpg",
+        "Redirect": "https://crenews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://crenews.com/"
+    },
+    {
         "link": "https://baznica.info",
         "Heading": "Home - \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u044d\u043a\u0443\u043c\u0435\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043e\u0440\u0442\u0430\u043b",
         "Abstract": null,
@@ -208,6 +218,16 @@
         "Redirect": "https://baznica.info/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://baznica.info/"
+    },
+    {
+        "link": "https://oncasiworld.com",
+        "Heading": "oncasiworld.com",
+        "Abstract": "",
+        "Official Site": "https://oncasiworld.com/",
+        "Icon": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+        "Redirect": "https://oncasiworld.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oncasiworld.com/"
     },
     {
         "link": "https://rodomenii.ro",
@@ -233,11 +253,11 @@
         "link": "https://norwichathletics.com",
         "Heading": "\n\tNorwich University - Official Athletics Website\n",
         "Abstract": "The official athletics website for the Norwich University",
-        "Official Site": "https://norwichathletics.com/",
+        "Official Site": "https://norwichathletics.com/index.aspx",
         "Icon": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fnorwichathletics.com%2fimages%2flogos%2fsite%2fsite.png&type=jpeg",
-        "Redirect": "https://norwichathletics.com/",
+        "Redirect": "https://norwichathletics.com/index.aspx",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://norwichathletics.com/"
+        "AbstractURL": "https://norwichathletics.com/index.aspx"
     },
     {
         "link": "https://jadlogentregas.com.br",
@@ -248,5 +268,15 @@
         "Redirect": "https://jadlogentregas.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jadlogentregas.com.br"
+    },
+    {
+        "link": "https://organo.co.jp",
+        "Heading": " \u30aa\u30eb\u30ac\u30ce\u682a\u5f0f\u4f1a\u793e",
+        "Abstract": "\u30aa\u30eb\u30ac\u30ce\u682a\u5f0f\u4f1a\u793e\u3002\u4e3b\u8981\u55b6\u696d\u54c1\u76ee\uff0d\u6c34\u51e6\u7406\u88c5\u7f6e\u3001\u8d85\u7d14\u6c34\u88fd\u9020\u88c5\u7f6e\u3001\u7d14\u6c34\u88fd\u9020\u88c5\u7f6e\u3001\u6392\u6c34\u51e6\u7406\u88c5\u7f6e\u3001\u767a\u96fb\u6240\u5411\u3051\u6c34\u51e6\u7406\u88c5\u7f6e\u3001\u4e0a\u6c34\u9053\u8a2d\u5099\u3001\u4e0b\u6c34\u9053\u8a2d\u5099\u3001\u6a19\u6e96\u88c5\u7f6e\u3001\u6a5f\u80fd\u6c34\u88fd\u9020\u88c5\u7f6e\u3001\u30a4\u30aa\u30f3\u4ea4\u63db\u6a39\u8102\u3001\u6c34\u51e6\u7406\u85ac\u54c1\u3001\u98df\u54c1\u6dfb\u52a0\u7269\u3002",
+        "Official Site": "http://www.organo.co.jp/",
+        "Icon": "https://www.organo.co.jp/wp/wp-content/themes/organo/assets/img/ogp/og_image.png",
+        "Redirect": "http://www.organo.co.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.organo.co.jp/"
     }
 ]

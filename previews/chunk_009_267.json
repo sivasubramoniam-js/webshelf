@@ -171,13 +171,13 @@
     },
     {
         "link": "https://watertaxi.com",
-        "Heading": "Water Taxi | Hop-On Hop-Off Boat Tours & Transportation",
-        "Abstract": "Explore Fort Lauderdale, Pompano Beach, and Hollywood by water. Enjoy narrated sightseeing, waterfront dining stops, and unlimited hop-on hop-off rides. Plan your trip today.",
-        "Official Site": "https://watertaxi.com/",
-        "Icon": "https://watertaxi.com/wp-content/uploads/2023/11/cropped-favicon3-32x32.png",
-        "Redirect": "https://watertaxi.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://watertaxi.com",
+        "Icon": "data:;",
+        "Redirect": "https://watertaxi.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://watertaxi.com/"
+        "AbstractURL": "https://watertaxi.com"
     },
     {
         "link": "https://standalone.com",

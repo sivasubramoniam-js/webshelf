@@ -1,13 +1,13 @@
 [
     {
-        "link": "https://till-weber.de",
-        "Heading": "TILL WEBER | Uhren, Schmuck & Silber seit 1985 von antik bis modern",
-        "Abstract": null,
-        "Official Site": "https://till-weber.de",
-        "Icon": "https://till-weber.de/static/frontend/Luum/till-weber/de_DE/Magento_Theme/favicon.ico",
-        "Redirect": "https://till-weber.de",
+        "link": "https://tignesfrance.com",
+        "Heading": "Tignes France: Ski Resorts, Chalets, Luxury Accommodations",
+        "Abstract": "Explore Tignes's premier ski resorts and luxurious accommodations offering year-round adventure experiences for unforgettable alpine getaways.",
+        "Official Site": "https://tignesfrance.com/",
+        "Icon": "https://cdn.123presto.com/prod/published/tignesfrance/home.webp",
+        "Redirect": "https://tignesfrance.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://till-weber.de"
+        "AbstractURL": "https://tignesfrance.com/"
     },
     {
         "link": "https://tiqnea.com",
@@ -48,16 +48,6 @@
         "Redirect": "https://trek-expert.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trek-expert.de/"
-    },
-    {
-        "link": "https://ua-hotel.com",
-        "Heading": "Ukraine hotels & apartments, all accommodations in Ukraine",
-        "Abstract": "Online booking for hotels in Ukraine, Ukraine. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://ua-hotel.com",
-        "Icon": "N/A",
-        "Redirect": "https://ua-hotel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ua-hotel.com"
     },
     {
         "link": "https://uabpay.com.mm",
@@ -248,15 +238,5 @@
         "Redirect": "https://williamsautomation.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://williamsautomation.com/"
-    },
-    {
-        "link": "https://witheldokan.com",
-        "Heading": "SuperCommerce - The Future of ecommerce",
-        "Abstract": "Join us in our mission to digitally revolutionize commerce across the Middle East and Africa",
-        "Official Site": "https://witheldokan.com",
-        "Icon": "https://cdn.prod.website-files.com/6644c579cff6e0d6b8661d70/6644d007206f2a070cd0a002_icon.png",
-        "Redirect": "https://witheldokan.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://witheldokan.com"
     }
 ]

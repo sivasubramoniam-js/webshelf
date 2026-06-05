@@ -101,10 +101,10 @@
     },
     {
         "link": "https://ars-pharma.com",
-        "Heading": "ARS Pharma \u2013 Developing Biotechnology",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://ars-pharma.com",
-        "Icon": "https://ars-pharma.com/wp-content/uploads/2018/10/cropped-ARS-Mark-512px-1-32x32.jpg",
+        "Icon": "data:;",
         "Redirect": "https://ars-pharma.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ars-pharma.com"
@@ -192,9 +192,9 @@
     {
         "link": "https://marksdespitelinear.com",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://marksdespitelinear.com",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://marksdespitelinear.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://marksdespitelinear.com"
@@ -203,11 +203,11 @@
         "link": "https://missio-hilft.de",
         "Heading": "missio \u2013 Internationales Katholisches Hilfswerk | missio",
         "Abstract": "P\u00e4pstliches Missionswerk missio in Aachen \u2713 F\u00f6rderung der katholischen Kirche in Afrika, Asien & Ozeanien \u27a1 mit DZI-Spendensiegel!",
-        "Official Site": "https://www.missio-hilft.de/?e=190",
+        "Official Site": "https://www.missio-hilft.de/",
         "Icon": "https://www.missio-hilft.de/missio/_processed_/a/6/csm_missio-hilft-logo-whitespace_b4f4a50df6.png",
-        "Redirect": "https://www.missio-hilft.de/?e=190",
+        "Redirect": "https://www.missio-hilft.de/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.missio-hilft.de/?e=190"
+        "AbstractURL": "https://www.missio-hilft.de/"
     },
     {
         "link": "https://htbridge.com",
@@ -274,7 +274,7 @@
         "Heading": null,
         "Abstract": "",
         "Official Site": "https://ticketnation.it",
-        "Icon": "https://web194.cdn-ximplia.it/ticketnation/website/img/favicon.png?b=347-467",
+        "Icon": "https://web194.cdn-ximplia.it/ticketnation/website/img/favicon.png?b=351-471",
         "Redirect": "https://ticketnation.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ticketnation.it"
@@ -311,8 +311,8 @@
     },
     {
         "link": "https://lianaiyx.com",
-        "Heading": "layx\u8f6f\u4ef6\u56ed-\u8f6f\u4ef6\u6e38\u620f\u4e13\u4e1a\u95e8\u6237\u7f51",
-        "Abstract": "layx\u8f6f\u4ef6\u56ed\u662f\u4e00\u4e2a\u5f00\u653e\u5e73\u53f0\uff0c\u6536\u5f55\u5404\u79cd\u8f6f\u4ef6\u548c\u6e38\u620f\u8d44\u6e90\uff0c\u5206\u4eab\u5404\u79cd\u4f18\u8d28\u5185\u5bb9\uff0c\u8fd8\u4e3a\u73a9\u5bb6\u63d0\u4f9b\u6e38\u620f\u53c2\u8003\uff0c\u6e38\u620f\u3001\u8f6f\u4ef6\u54ea\u4e2a\u597d\uff1f\u4e0alayx\u8f6f\u4ef6\u56ed\u5c31\u77e5\u9053\u4e86\uff01",
+        "Heading": "\u4e0a\u6d77\u4e91\u6167\u822a\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "Abstract": null,
         "Official Site": "https://lianaiyx.com",
         "Icon": "N/A",
         "Redirect": "https://lianaiyx.com",
@@ -358,6 +358,16 @@
         "Redirect": "https://www.tpimagazine.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tpimagazine.com/"
+    },
+    {
+        "link": "https://biasmandirigroup.id",
+        "Heading": "Home - Bias Mandiri Group",
+        "Abstract": "ONE-STOP OFFSHORE MARINE BUSINESS SOLUTION https://biasmandirigroup.id/wp-content/uploads/2024/03/Biasmandirigroup24.mp4 ONE STOP OFFSHORE MARINE\u2026  Read more",
+        "Official Site": "https://biasmandirigroup.id/",
+        "Icon": "https://biasmandirigroup.id/wp-content/uploads/2024/02/cropped-BMG-LOGO-32x32.png",
+        "Redirect": "https://biasmandirigroup.id/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://biasmandirigroup.id/"
     },
     {
         "link": "https://yakun.com",

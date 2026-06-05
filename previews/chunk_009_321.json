@@ -150,6 +150,16 @@
         "AbstractURL": "https://cdn-videy.co"
     },
     {
+        "link": "https://wrsauto.it",
+        "Heading": "Vendita accessori auto e ricambi auto sportive",
+        "Abstract": "Vendita accessori auto e ricambi auto sportive delle migliori marche: Ohlins, Brembo, Akrapovic, Samco, SprintFilter",
+        "Official Site": "https://www.wrsauto.it/it/",
+        "Icon": "https://www.wrsauto.it/img/wrs-cars-logo-1616846049.jpg",
+        "Redirect": "https://www.wrsauto.it/it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wrsauto.it/it/"
+    },
+    {
         "link": "https://perfect-date.org",
         "Heading": "Perfect Date \u2013 Official Game Site",
         "Abstract": "Discover Perfect Date \u2013 a romantic visual novel full of charm and choices. Download now for PC, Mac, and Android.",
@@ -158,16 +168,6 @@
         "Redirect": "https://perfect-date.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://perfect-date.org"
-    },
-    {
-        "link": "https://prositeshosting.com",
-        "Heading": "\n\tSouthWest Smiles - Welcome\n",
-        "Abstract": "Welcome to our Welcome page. Contact Dr. McToothy today at 951-555-1212 or visit our office servicing Temecula, CA",
-        "Official Site": "https://prositeshosting.com",
-        "Icon": "/images/icons/tap/0.png",
-        "Redirect": "https://prositeshosting.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://prositeshosting.com"
     },
     {
         "link": "https://mastergrannyflats.com.au",
@@ -188,15 +188,5 @@
         "Redirect": "https://www.lehighvalley.org/home/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lehighvalley.org/home/"
-    },
-    {
-        "link": "https://mjolby.se",
-        "Heading": "Mj\u00f6lby kommun",
-        "Abstract": "V\u00e4lkommen till Mj\u00f6lby kommuns webbplats. H\u00e4r hittar du information om kommunens service och verksamheter och kan utf\u00f6ra \u00e4renden i v\u00e5ra e-tj\u00e4nster.",
-        "Official Site": "https://www.mjolby.se/",
-        "Icon": "https://www.mjolby.se/images/200.49ceac8219d24cbb0a621/1774439758021/april%202026.webp",
-        "Redirect": "https://www.mjolby.se/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mjolby.se/"
     }
 ]

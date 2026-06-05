@@ -180,6 +180,16 @@
         "AbstractURL": "https://ilerleyenteknoloji.com"
     },
     {
+        "link": "https://luminaire-lucciano.com",
+        "Heading": "Luminaire Lucciano | Lustres, Plafonniers & Applique Murales ",
+        "Abstract": "Luminaire Lucciano est la boutique r\u00e9f\u00e9rence des luminaires | Retrouvez toutes nos meilleures collections de lustres, plafonniers & applique murales !",
+        "Official Site": "https://luminaire-lucciano.com/",
+        "Icon": "https://cdn.shopify.com/s/files/1/0615/0396/3373/files/image_ef6b67d5-bb54-427d-a591-cb298615efb3.png?v=1649601488",
+        "Redirect": "https://luminaire-lucciano.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://luminaire-lucciano.com/"
+    },
+    {
         "link": "https://portmobility.it",
         "Heading": "Porto di Civitavecchia: informazioni, viaggi e consigli - Port Mobility",
         "Abstract": "Porto di Civitavecchia: come arrivare, cosa vedere, itinerari e consigli di viaggio per visitare Roma e non solo, prenota parcheggio, arrivi e partenze crociere",
@@ -188,6 +198,16 @@
         "Redirect": "https://civitavecchia.portmobility.it/it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://civitavecchia.portmobility.it/it"
+    },
+    {
+        "link": "https://mimeridian.com",
+        "Heading": "\n        Michigan Meridian\n    ",
+        "Abstract": "Meridian in Michigan provides government-sponsored managed care services to families, children, seniors, and individuals with complex medical needs primarily through Medicaid (Meridian), Medicare Advantage and Medicare Prescription Drug Plans (Wellcare), Medicare-Medicaid Plans (MeridianComplete), and the Health Insurance Marketplace (Ambetter from Meridian). Meridian is a wholly-owned subsidiary of Centene Corporation, a leading healthcare enterprise committed to helping people live healthier lives. ",
+        "Official Site": "https://mimeridian.com",
+        "Icon": "/content/dam/centene/meridian/mi/Images/MI-Meridian-Favicon.ico",
+        "Redirect": "https://mimeridian.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mimeridian.com"
     },
     {
         "link": "https://competera.net",
@@ -201,10 +221,10 @@
     },
     {
         "link": "https://holysmoke.org",
-        "Heading": "HolySmoke",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://holysmoke.org",
-        "Icon": "https://holysmoke.org/wp-content/uploads/2025/10/HolySmoke-Emblem.jpg",
+        "Icon": "data:;",
         "Redirect": "https://holysmoke.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://holysmoke.org"
@@ -250,6 +270,16 @@
         "AbstractURL": "https://wearevr.io"
     },
     {
+        "link": "https://5ipv.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://5ipv.com",
+        "Icon": "data:image/x-icon;,",
+        "Redirect": "https://5ipv.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://5ipv.com"
+    },
+    {
         "link": "https://stpegs.net",
         "Heading": null,
         "Abstract": null,
@@ -258,16 +288,6 @@
         "Redirect": "https://stpegs.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://stpegs.net"
-    },
-    {
-        "link": "https://herodqa.com",
-        "Heading": "herodqa.com",
-        "Abstract": null,
-        "Official Site": "https://herodqa.com",
-        "Icon": "N/A",
-        "Redirect": "https://herodqa.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://herodqa.com"
     },
     {
         "link": "https://muscatineiowa.gov",
@@ -281,12 +301,22 @@
     },
     {
         "link": "https://789b.win",
-        "Heading": "789BET yojigen - Link \u0110\u0103ng Nh\u1eadp Mobile & PC M\u1edbi Nh\u1ea5t T\u1ea1i 789BET.COM",
+        "Heading": "789BET tiempodebalas - Link \u0110\u0103ng Nh\u1eadp Mobile & PC M\u1edbi Nh\u1ea5t C\u1ee7a 789BET.COM",
         "Abstract": "789BET l\u00e0 nh\u00e0 c\u00e1i c\u00e1 c\u01b0\u1ee3c tr\u1ef1c tuy\u1ebfn uy t\u00edn t\u1ea1i Vi\u1ec7t Nam, cung c\u1ea5p \u0111a d\u1ea1ng tr\u00f2 ch\u01a1i h\u1ea5p d\u1eabn, t\u1ef7 l\u1ec7 k\u00e8o c\u1ea1nh tranh, c\u00f9ng khuy\u1ebfn m\u00e3i gi\u00e1 tr\u1ecb, n\u1ea1p r\u00fat nhanh ch\u00f3ng v\u00e0 d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 24/7 chuy\u00ean nghi\u1ec7p.",
-        "Official Site": "https://yojigen.me/vi-vn/",
-        "Icon": "https://yojigen.me/wp-content/uploads/2026/03/anh-dai-dien-789bet.jpg",
-        "Redirect": "https://yojigen.me/vi-vn/",
+        "Official Site": "https://tiempodebalas.cl/vi-vn/",
+        "Icon": "https://tiempodebalas.cl/wp-content/uploads/2026/03/anh-dai-dien-789bet.jpg",
+        "Redirect": "https://tiempodebalas.cl/vi-vn/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://yojigen.me/vi-vn/"
+        "AbstractURL": "https://tiempodebalas.cl/vi-vn/"
+    },
+    {
+        "link": "https://virtualprofessional.ca",
+        "Heading": "Job Placement Services in Canada | Virtual Professional",
+        "Abstract": "Virtual Professional offers job placement services in Canada, connecting job seekers with top North American corporations for remote & onsite opportunities.",
+        "Official Site": "https://www.virtualprofessional.ca/",
+        "Icon": "https://www.virtualprofessional.ca/wp-content/uploads/2023/06/cropped-virtual-logo-2.png",
+        "Redirect": "https://www.virtualprofessional.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.virtualprofessional.ca/"
     }
 ]

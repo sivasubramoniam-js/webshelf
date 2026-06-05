@@ -14,7 +14,7 @@
         "Heading": "Payments - Login",
         "Abstract": null,
         "Official Site": "https://mylendmark.com",
-        "Icon": "https://cdn.goldpointsystems.com/storage/lendmark/branding/favicons/favicon-32x32.png?v=2.1",
+        "Icon": "assets/themes/lendmark/favicon-48x48.png",
         "Redirect": "https://mylendmark.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mylendmark.com"
@@ -32,7 +32,7 @@
     {
         "link": "https://tubedata.jp",
         "Heading": "\u771f\u7a7a\u7ba1(Electron tube) \u898f\u683c\u8868\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9 | \u30c8\u30c3\u30d7\u30da\u30fc\u30b8",
-        "Abstract": "\u5404\u771f\u7a7a\u7ba1\u30e1\u30fc\u30ab\u30fc\u304c\u88fd\u9020\u5f53\u6642\u767a\u884c\u3057\u305f\u30aa\u30ea\u30b8\u30ca\u30eb\u898f\u683c\u8868\u3092\u3001\u305d\u306e\u307e\u307e\u30c7\u30fc\u30bf\u5316\uff01\u9ad8\u6027\u80fd\u306a\u691c\u7d22\u30b7\u30b9\u30c6\u30e0\u306b\u3088\u308a\u3001\u5168\u3066\u306e\u771f\u7a7a\u7ba1\u30c7\u30fc\u30bf\u3092PDF\u30d5\u30a1\u30a4\u30eb\u3067\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3067\u304d\u307e\u3059\u300222,163\u4ef6\u306e\u30c7\u30fc\u30bf\u3092\u63b2\u8f09\u30012026/6/1(\u6708) 22:23\u66f4\u65b0",
+        "Abstract": "\u5404\u771f\u7a7a\u7ba1\u30e1\u30fc\u30ab\u30fc\u304c\u88fd\u9020\u5f53\u6642\u767a\u884c\u3057\u305f\u30aa\u30ea\u30b8\u30ca\u30eb\u898f\u683c\u8868\u3092\u3001\u305d\u306e\u307e\u307e\u30c7\u30fc\u30bf\u5316\uff01\u9ad8\u6027\u80fd\u306a\u691c\u7d22\u30b7\u30b9\u30c6\u30e0\u306b\u3088\u308a\u3001\u5168\u3066\u306e\u771f\u7a7a\u7ba1\u30c7\u30fc\u30bf\u3092PDF\u30d5\u30a1\u30a4\u30eb\u3067\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3067\u304d\u307e\u3059\u300222,163\u4ef6\u306e\u30c7\u30fc\u30bf\u3092\u63b2\u8f09\u30012026/6/4(\u6728) 22:30\u66f4\u65b0",
         "Official Site": "https://tubedata.jp",
         "Icon": "img/favicon.ico",
         "Redirect": "https://tubedata.jp",
@@ -48,6 +48,16 @@
         "Redirect": "https://www.mosaico-cem.it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mosaico-cem.it/"
+    },
+    {
+        "link": "https://thegreenmanatinglewhite.co.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://thegreenmanatinglewhite.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://thegreenmanatinglewhite.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thegreenmanatinglewhite.co.uk"
     },
     {
         "link": "https://long-living.ru",
@@ -91,10 +101,10 @@
     },
     {
         "link": "https://scvincent.com",
-        "Heading": "\nSue Vincent's Daily Echo | Echoes of Life, Love and Laughter",
+        "Heading": "Sue Vincent's Daily Echo | Echoes of Life, Love and Laughter",
         "Abstract": "Echoes of Life, Love and Laughter",
         "Official Site": "https://scvincent.com/",
-        "Icon": "https://secure.gravatar.com/blavatar/18264a7f116159f6432912611c51be46c4f5b7e7b40ded56429f19366607308b?s=200&ts=1780382370",
+        "Icon": "https://secure.gravatar.com/blavatar/18264a7f116159f6432912611c51be46c4f5b7e7b40ded56429f19366607308b?s=200&ts=1780651056",
         "Redirect": "https://scvincent.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://scvincent.com/"
@@ -201,13 +211,13 @@
     },
     {
         "link": "https://igolf.com",
-        "Heading": "iGolf: Unlock Endless Potential with us",
-        "Abstract": "iGolf is helping your company develop the most cutting-edge, technologically-advanced golf products possible",
-        "Official Site": "https://igolf.com/",
-        "Icon": "https://igolf.com/wp-content/uploads/2022/11/cropped-favicon-32x32.png",
-        "Redirect": "https://igolf.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://igolf.com",
+        "Icon": "data:;",
+        "Redirect": "https://igolf.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://igolf.com/"
+        "AbstractURL": "https://igolf.com"
     },
     {
         "link": "https://gaianets.com",
