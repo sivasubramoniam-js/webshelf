@@ -4,7 +4,7 @@
         "Heading": "\n  Zorenza \u2013 Innovatieve Producten, Tolle Angebote\n",
         "Abstract": "Entdecken Sie tolle Angebote auf innovative Produkte bei Zorenza. Genie\u00dfen Sie sichere Zahlungen und eine Zufriedenheitsgarantie auf eine Vielzahl von Artikeln, von warmem Winterfu\u00dfbett bis hin zu Haushaltswaren. Jetzt einkaufen und tausende zufriedene Kunden betreten!",
         "Official Site": "https://zorenza-store.com/de-de",
-        "Icon": "http://cdn.shopify.com/s/files/1/0695/6069/7097/files/Ontwerp_zonder_titel_6.jpg?v=1769443805",
+        "Icon": "http://zorenza-store.com/cdn/shop/files/Ontwerp_zonder_titel_6.jpg?v=1769443805",
         "Redirect": "https://zorenza-store.com/de-de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zorenza-store.com/de-de"
@@ -81,7 +81,7 @@
     },
     {
         "link": "https://7idgaming.de",
-        "Heading": "7ID Gaming",
+        "Heading": "7ID Gaming - CMS-Startseite",
         "Abstract": "vBulletin 4.0 Publishing Suite inkl. CMS",
         "Official Site": "https://7idgaming.de",
         "Icon": "N/A",
@@ -208,6 +208,16 @@
         "Redirect": "https://thaimaxproperty.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thaimaxproperty.com"
+    },
+    {
+        "link": "https://suhayla.co.za",
+        "Heading": "\n      SUHAYLA - South Africa's favourite store for Muslims!\n",
+        "Abstract": "South African's favourite online store for Muslims - offering a wide variety of Islamic books, prayer mats, toys, games and homeware for the Muslim home. The perfect place to find Islamic-inspired gifts for Muslims!",
+        "Official Site": "https://www.suhayla.co.za/",
+        "Icon": "http://www.suhayla.co.za/cdn/shop/files/Logo_1200x628_384ac7e2-609f-4731-912a-5bf483333e8e.png?v=1616709837",
+        "Redirect": "https://www.suhayla.co.za/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.suhayla.co.za/"
     },
     {
         "link": "https://webhostech.com",

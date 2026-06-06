@@ -80,16 +80,6 @@
         "AbstractURL": "https://terminalsca.com"
     },
     {
-        "link": "https://crossculturalsolutions.org",
-        "Heading": "\u1405 Blog immobilier & habitat CCS : toute l'info de A \u00e0 Z",
-        "Abstract": "Besoin de conseils sur l'immobilier, le BTP ou la maison ? Le blog CCS vous informe et vous accompagne avec une expertise pointue \u2705.",
-        "Official Site": "https://www.crossculturalsolutions.org/",
-        "Icon": "https://www.crossculturalsolutions.org/wp-content/uploads/2021/04/favicon-ccs.png",
-        "Redirect": "https://www.crossculturalsolutions.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.crossculturalsolutions.org/"
-    },
-    {
         "link": "https://tumexam.de",
         "Heading": "\n      TUMexam - Startseite\n    ",
         "Abstract": null,
@@ -258,5 +248,15 @@
         "Redirect": "https://cherrymx.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cherrymx.de"
+    },
+    {
+        "link": "https://hotels-aquitaine.com",
+        "Heading": "Aquitaine hotels & apartments, all accommodations in Aquitaine",
+        "Abstract": "Online booking for hotels in Aquitaine, France. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://hotels-aquitaine.com",
+        "Icon": "N/A",
+        "Redirect": "https://hotels-aquitaine.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotels-aquitaine.com"
     }
 ]

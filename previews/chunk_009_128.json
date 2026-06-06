@@ -80,24 +80,14 @@
         "AbstractURL": "https://cryptopals.com"
     },
     {
-        "link": "https://veznwang.com",
-        "Heading": "\u9ed4\u897f\u5206\u7c7b\u4fe1\u606f\u7f51_\u9ed4\u897f\u540c\u57ce\u4fbf\u6c11\u7f51_\u9ed4\u897f\u672c\u5730\u751f\u6d3b\u7f51_\u9ed4\u897f\u4fe1\u606f\u53d1\u5e03_\u9ed4\u897f\u57ce\u5e02\u5206\u7c7b\u7f51",
-        "Abstract": "\u9ed4\u897f\u5206\u7c7b\u4fe1\u606f\u7f51-www.veznwang.com\u5728\u7ebf\u53d1\u5e03\u9ed4\u897f\u540c\u57ce\u4eba\u624d\u3001\u62db\u8058\u3001\u623f\u4ea7\u3001\u8f66\u8f86\u3001\u4e8c\u624b\u3001\u4fbf\u6c11\u3001\u5bb6\u653f\u3001\u5546\u52a1\u3001\u62db\u5546\u4fe1\u606f\uff0c\u81f4\u529b\u6253\u9020\u9ed4\u897f\u514d\u8d39\u53d1\u5e03\u4fe1\u606f\u7684\u672c\u5730\u540c\u57ce\u751f\u6d3b\u4fbf\u6c11\u5e73\u53f0\uff01",
-        "Official Site": "https://veznwang.com",
-        "Icon": "N/A",
-        "Redirect": "https://veznwang.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://veznwang.com"
-    },
-    {
         "link": "https://literarky.cz",
         "Heading": "Home - Liter\u00e1rn\u00ed noviny",
         "Abstract": "Liter\u00e1rn\u00ed noviny | m\u011bs\u00ed\u010dn\u00edk pro kritick\u00e9 my\u0161len\u00ed. Liter\u00e1rn\u00ed noviny vych\u00e1z\u00ed posledn\u00ed \u010dtvrtek v m\u011bs\u00edci.",
-        "Official Site": "https://literarky.cz/",
-        "Icon": "https://literarky.cz/images/Jiri_slitr.jpeg",
-        "Redirect": "https://literarky.cz/",
+        "Official Site": "https://www.literarky.cz/",
+        "Icon": "https://www.literarky.cz/images/Jiri_slitr.jpeg",
+        "Redirect": "https://www.literarky.cz/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://literarky.cz/"
+        "AbstractURL": "https://www.literarky.cz/"
     },
     {
         "link": "https://arthurgreenstein.com",
@@ -108,16 +98,6 @@
         "Redirect": "https://www.arthurgreenstein.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.arthurgreenstein.com/"
-    },
-    {
-        "link": "https://5alij.com",
-        "Heading": "BATIK77",
-        "Abstract": "Valley Center Parks is preparing something fresh for the community. New park updates, local activities, and outdoor experiences are coming soon.",
-        "Official Site": "https://5alij.com",
-        "Icon": "https://u.jimcdn.com/cms/o/sba81215499629534/img/favicon.png",
-        "Redirect": "https://5alij.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://5alij.com"
     },
     {
         "link": "https://eclipsesource.com",
@@ -283,11 +263,21 @@
         "link": "https://tsusports.com",
         "Heading": "\n\tTexas Southern University Athletics - Official Athletics Website\n",
         "Abstract": "The official athletics website for the Texas Southern University Tigers",
-        "Official Site": "https://tsusports.com/",
+        "Official Site": "https://tsusports.com/?width=300&height=168&mode=crop&anchor=topcenter&quality=80",
         "Icon": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fathletics.tsu.edu%2fimages%2flogos%2fsite%2fsite.png&type=jpeg",
-        "Redirect": "https://tsusports.com/",
+        "Redirect": "https://tsusports.com/?width=300&height=168&mode=crop&anchor=topcenter&quality=80",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tsusports.com/"
+        "AbstractURL": "https://tsusports.com/?width=300&height=168&mode=crop&anchor=topcenter&quality=80"
+    },
+    {
+        "link": "https://granatapet.de",
+        "Heading": "Tiernahrung online kaufen | GranataPet",
+        "Abstract": "Tiernahrung online kaufen bei GranataPet \u2794 ohne Getreide & ohne Zuckerzusatz \u2705 mit Granatapfel \u2705 artgerechte Tiernahrung von GranataPet \u2705.",
+        "Official Site": "https://www.granatapet.de/",
+        "Icon": "https://media.granatapet.de/s3/media/91/fb/c2/1653476615/logo_granatapet.svg?ts=1653476616",
+        "Redirect": "https://www.granatapet.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.granatapet.de/"
     },
     {
         "link": "https://suomenlatu.fi",

@@ -10,16 +10,6 @@
         "AbstractURL": "https://pit.at/"
     },
     {
-        "link": "https://bealestreet.com",
-        "Heading": "Beale Street Memphis",
-        "Abstract": "Beale Street Memphis",
-        "Official Site": "https://bealestreet.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://bealestreet.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bealestreet.com"
-    },
-    {
         "link": "https://mahoganymillworks.com",
         "Heading": "Mahogany Millworks- Custom Mahogany Furniture Since 1998 ",
         "Abstract": "Mahogany Millworks offers quality handcrafted furniture & pub bars- Customizable by size, finish & design",
@@ -108,6 +98,16 @@
         "Redirect": "https://www.wiener-neustadt.at/de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.wiener-neustadt.at/de/"
+    },
+    {
+        "link": "https://gabalafc.az",
+        "Heading": " Q\u0259b\u0259l\u0259 \u0130K ",
+        "Abstract": "Q\u0259b\u0259l\u0259 \u0130K \u2014 Az\u0259rbaycan\u0131n eyni adl\u0131 \u015f\u0259h\u0259rini t\u0259msil ed\u0259n idman klubu",
+        "Official Site": "https://gabalafc.az/az/",
+        "Icon": "https://gabalafc.az/az/images/logo.png",
+        "Redirect": "https://gabalafc.az/az/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gabalafc.az/az/"
     },
     {
         "link": "https://autotecfid.com",
@@ -230,6 +230,16 @@
         "AbstractURL": "https://secureretailpos.net"
     },
     {
+        "link": "https://marinebiodiversity.ca",
+        "Heading": "Marine Biodiversity Science Center",
+        "Abstract": "Exploring and Protecting Canada\u2019s Marine Biodiversity Center for sustainable ocean knowledge, research, and community action. Explore Topics Featured Topics Our Focus Areas Alternative Energy and the Marine Environment Learn More Climate Change and Ocean Chemistry Learn More Marine Ecosystems and Biodiversity Learn More Conservation Management Strategies Learn More Pollution and Contamination Learn More About Us [\u2026]",
+        "Official Site": "http://www.marinebiodiversity.ca/",
+        "Icon": "http://www.marinebiodiversity.ca/wp-content/uploads/2025/04/revolutionary-marine-tech.jpeg",
+        "Redirect": "http://www.marinebiodiversity.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.marinebiodiversity.ca/"
+    },
+    {
         "link": "https://pixel-vault.com",
         "Heading": null,
         "Abstract": null,
@@ -252,7 +262,7 @@
     {
         "link": "https://binfen.biz",
         "Heading": "\u7f24\u7eb7\u670d\u88c5\u7f51\uff0d\u5b66\u505a\u8863\u670d|\u73a9\u7f1d\u827a|\u88c1\u7f1d\u57f9\u8bad",
-        "Abstract": "\u88c1\u7f1d\u5e08/\u8bbe\u8ba1\u5e08/\u7f1d\u7eab\u7231\u597d\u8005\u7f51\u7edc\u57f9\u8bad\u6559\u5b66,\u4e00\u5bf9\u4e00\u8f85\u5bfc,\u63d0\u5347\u5b66\u4e60\u548c\u5de5\u4f5c\u80fd\u529b ,\u7f24\u7eb7\u670d\u88c5\u7f51",
+        "Abstract": "\u88c1\u7f1d\u5e08/\u8bbe\u8ba1\u5e08/\u7f1d\u7eab\u7231\u597d\u8005\u7f51\u7edc\u57f9\u8bad\u6559\u5b66,\u4e00\u5bf9\u4e00\u8f85\u5bfc,\u63d0\u5347\u5b66\u4e60\u548c\u5de5\u4f5c\u80fd\u529b ",
         "Official Site": "https://binfen.biz",
         "Icon": "N/A",
         "Redirect": "https://binfen.biz",
@@ -278,5 +288,15 @@
         "Redirect": "https://soukleblede.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://soukleblede.com"
+    },
+    {
+        "link": "https://candcgroupplc.com",
+        "Heading": "CC \u2013 C and C Group",
+        "Abstract": null,
+        "Official Site": "https://candcgroupplc.com",
+        "Icon": "https://candcgroupplc.com/wp-content/uploads/2022/04/cropped-favicon-32x32.png",
+        "Redirect": "https://candcgroupplc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://candcgroupplc.com"
     }
 ]

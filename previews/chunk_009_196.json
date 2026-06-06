@@ -111,13 +111,13 @@
     },
     {
         "link": "https://divine.video",
-        "Heading": "Divine Web - Short-form Looping Videos on Nostr",
-        "Abstract": "Watch and share 6-second looping videos on the decentralized Nostr network.",
-        "Official Site": "https://divine.video/",
-        "Icon": "https://divine.video/og.png",
-        "Redirect": "https://divine.video/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://divine.video",
+        "Icon": "N/A",
+        "Redirect": "https://divine.video",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://divine.video/"
+        "AbstractURL": "https://divine.video"
     },
     {
         "link": "https://eschamp.com",
@@ -148,6 +148,16 @@
         "Redirect": "https://vadecom.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vadecom.net"
+    },
+    {
+        "link": "https://hdtvpromotion.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://hdtvpromotion.net",
+        "Icon": "N/A",
+        "Redirect": "https://hdtvpromotion.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hdtvpromotion.net"
     },
     {
         "link": "https://shviro.net",

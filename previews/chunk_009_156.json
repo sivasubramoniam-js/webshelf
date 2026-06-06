@@ -10,6 +10,16 @@
         "AbstractURL": "https://www.villavillam.com.tr"
     },
     {
+        "link": "https://automanulav.pt",
+        "Heading": "Homepage",
+        "Abstract": "",
+        "Official Site": "https://automanulav.pt/",
+        "Icon": "http://cdnw1.omeuwebsite.com/users/bikes/other/logo_weasy_1.png",
+        "Redirect": "https://automanulav.pt/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://automanulav.pt/"
+    },
+    {
         "link": "https://alparistart.com",
         "Heading": null,
         "Abstract": null,
@@ -78,16 +88,6 @@
         "Redirect": "https://praxismedicines.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://praxismedicines.com/"
-    },
-    {
-        "link": "https://bwdisrupt.com",
-        "Heading": "News & Updates - Indian Startups, Small Businesses, Founders - BW Disrupt",
-        "Abstract": "Latest developments in the startup ecosystem, capital raising & funding, featuring insights also from women entrepreneurs, unicorns, incubators, private equity",
-        "Official Site": "https://bwdisrupt.com",
-        "Icon": "https://static.businessworld.in/favicon.png",
-        "Redirect": "https://bwdisrupt.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bwdisrupt.com"
     },
     {
         "link": "https://marketing-agencies.co.uk",
@@ -191,13 +191,13 @@
     },
     {
         "link": "https://persefona.cz",
-        "Heading": "Pomoc ob\u011btem dom\u00e1c\u00edho n\u00e1sil\u00ed a zn\u00e1siln\u011bn\u00ed v Brn\u011b | Persefona",
-        "Abstract": "Poradna Persefona Brno pom\u00e1h\u00e1 ob\u011btem dom\u00e1c\u00edho a sexu\u00e1ln\u00edho n\u00e1sil\u00ed. Nab\u00edz\u00edme diksr\u00e9tn\u00ed podporu, poradenstv\u00ed i kritovou linku.",
-        "Official Site": "https://www.persefona.cz/",
-        "Icon": "https://www.persefona.cz/img/sliderPoradenstviFB.jpg",
-        "Redirect": "https://www.persefona.cz/",
+        "Heading": "Prob\u00edh\u00e1 \u00fadr\u017eba | Persefona",
+        "Abstract": null,
+        "Official Site": "https://persefona.cz",
+        "Icon": "N/A",
+        "Redirect": "https://persefona.cz",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.persefona.cz/"
+        "AbstractURL": "https://persefona.cz"
     },
     {
         "link": "https://muledesign.com",

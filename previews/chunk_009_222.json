@@ -80,16 +80,6 @@
         "AbstractURL": "https://expemag.com"
     },
     {
-        "link": "https://hallcountyne.gov",
-        "Heading": "Home | Hall County, NE - Official Website",
-        "Abstract": null,
-        "Official Site": "https://hallcountyne.gov",
-        "Icon": "//cms3.revize.com/revize/sealofhallcounty/_assets_/images/logo.png",
-        "Redirect": "https://hallcountyne.gov",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hallcountyne.gov"
-    },
-    {
         "link": "https://songofamerica.net",
         "Heading": "Home - Song of America Song of America",
         "Abstract": "A database of American composers, poets and concert songs, and a resource developed by baritone Thomas Hampson's Hampsong Foundation",
@@ -118,6 +108,16 @@
         "Redirect": "https://anecole.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://anecole.com"
+    },
+    {
+        "link": "https://hotelparis.net",
+        "Heading": "Paris hotels & apartments, all accommodations in Paris",
+        "Abstract": "Online booking for hotels in Paris, France. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://hotelparis.net",
+        "Icon": "N/A",
+        "Redirect": "https://hotelparis.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotelparis.net"
     },
     {
         "link": "https://10naga-game.site",
@@ -268,16 +268,6 @@
         "Redirect": "https://domprirody.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://domprirody.com"
-    },
-    {
-        "link": "https://sakshieducation.com",
-        "Heading": "College Predictors | EAPCET Result | Education News in Telugu -AP & TG | Current Affairs| Exams, Results, Tests, Careers & More |Sakshi Education",
-        "Abstract": "Get Latest Education News in Telugu, AP & TS 10th, Inter, Competitive, Government Entrance Exams ,  Latest Current Affairs, Career Guidance, Online Tests,  Latest Job Notifications and Videos",
-        "Official Site": "https://education.sakshi.com/",
-        "Icon": "https://education.sakshi.com/sites/default/files/new-logo_0.png",
-        "Redirect": "https://education.sakshi.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://education.sakshi.com/"
     },
     {
         "link": "https://greggbraden.com",

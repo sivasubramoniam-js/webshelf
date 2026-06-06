@@ -40,16 +40,6 @@
         "AbstractURL": "https://www.ccsj.edu/"
     },
     {
-        "link": "https://tenemosplan.com",
-        "Heading": "TenemosPlan - Entradas y actividades en toda Espa\u00f1a.",
-        "Abstract": "Venta de entradas para actividades, espect\u00e1culos, museos, monumentos, conciertos... en toda Espa\u00f1a. Los mejores precios. Elige tu plan y disfruta al m\u00e1ximo. ",
-        "Official Site": "www.tenemosplan.com/",
-        "Icon": "https://cdn.tenemosplan.com/tiendas/../tenemosplan/logo.png",
-        "Redirect": "www.tenemosplan.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "www.tenemosplan.com/"
-    },
-    {
         "link": "https://lunarweb.io",
         "Heading": "Site is undergoing maintenance",
         "Abstract": "Site will be available soon. Thank you for your patience!",
@@ -230,6 +220,16 @@
         "AbstractURL": "https://allergycontrol.com"
     },
     {
+        "link": "https://laps.pl",
+        "Heading": "laps.pl - Portal o biznesie, finansach, marketingu i ekologii",
+        "Abstract": "Portal o biznesie, finansach, marketingu i ekologii",
+        "Official Site": "https://laps.pl/",
+        "Icon": "https://laps.pl/wp-content/uploads/2025/05/laps-logo.webp",
+        "Redirect": "https://laps.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://laps.pl/"
+    },
+    {
         "link": "https://dieboerse.de",
         "Heading": "www.dieboerse.de - Die kostenlose Kontaktb\u00f6rse f\u00fcr heisse Sexkontakte",
         "Abstract": "Kostenloser Kontaktmarkt f\u00fcr erotische Kontakte, Bordellf\u00fchrer & Forum, Vollerotikfilme zum Download und mehr.",
@@ -261,7 +261,7 @@
     },
     {
         "link": "https://aurastel.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://aurastel.com",
         "Icon": "N/A",

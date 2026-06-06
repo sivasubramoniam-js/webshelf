@@ -34,7 +34,7 @@
         "Heading": "MUSAC",
         "Abstract": "P\u00e1gina oficial del MUSAC, Museo de Arte Contempor\u00e1neo de Castilla y Le\u00f3n ubicado en la ciudad de Le\u00f3n / Official website of MUSAC, Museo de Arte Contempor\u00e1neo de Castilla y Le\u00f3n, in the city of Le\u00f3n, Spain",
         "Official Site": "http://musac.es",
-        "Icon": "https://musac.es/FOTOS/OBRAS/Montse_Soto_paisaje_secreto_19.jpg",
+        "Icon": "https://musac.es/FOTOS/OBRAS/34__%20Carlos%20Leon_.jpg",
         "Redirect": "http://musac.es",
         "AbstractSource": "BS4",
         "AbstractURL": "http://musac.es"
@@ -280,16 +280,6 @@
         "AbstractURL": "https://sovrin.org/"
     },
     {
-        "link": "https://chemosvit.sk",
-        "Heading": "Chemosvit Group - Skupina spolo\u010dnost\u00ed s r\u00f4znym zameran\u00edm",
-        "Abstract": "Chemosvit Group predstavuje skupinu spolo\u010dnost\u00ed orientovan\u00fdch na v\u00fdrobu, zu\u0161\u013each\u0165ovanie a predaj flexibiln\u00fdch f\u00f3li\u00ed pre obalov\u00e9 \u00fa\u010dely a mnoho \u010fal\u0161\u00edch.",
-        "Official Site": "https://www.chemosvitgroup.com/",
-        "Icon": "https://www.chemosvitgroup.com/wp-content/uploads/2020/04/icon-logo2.svg",
-        "Redirect": "https://www.chemosvitgroup.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.chemosvitgroup.com/"
-    },
-    {
         "link": "https://vsegda.love",
         "Heading": "\u0421\u0430\u0439\u0442 \u0437\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432 vsegda.love",
         "Abstract": null,
@@ -308,5 +298,15 @@
         "Redirect": "https://blueteam.asia",
         "AbstractSource": "BS4",
         "AbstractURL": "https://blueteam.asia"
+    },
+    {
+        "link": "https://americanspecialties.com",
+        "Heading": "American Specialties - Commercial Washroom Accessories",
+        "Abstract": "We are the world\u2019s leading manufacturer of commercial partitions, washroom accessories, lockers, and visual display products.",
+        "Official Site": "https://americanspecialties.com/",
+        "Icon": "https://americanspecialties.com/wp-content/uploads/2015/06/ASI_American-Specialties_logo-WEB.png",
+        "Redirect": "https://americanspecialties.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://americanspecialties.com/"
     }
 ]

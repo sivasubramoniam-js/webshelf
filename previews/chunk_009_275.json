@@ -184,7 +184,7 @@
         "Heading": "\n        \uc571\uac1c\ubc1c\uae30\uc5c5 \uc774\uc624\uc571\uc2a4(eoapps)    ",
         "Abstract": "\ubaa8\ubc14\uc77c \uc571(iOS\u00b7Android)\u00b7\uc6f9 \uc11c\ube44\uc2a4 \uac1c\ubc1c, \uae30\ud68d\ubd80\ud130 \uc720\uc9c0\uad00\ub9ac\uae4c\uc9c0 \uc804 \uacfc\uc815 \uc218\ud589. \uae30\uc5c5\u00b7\uae30\uad00 \ud504\ub85c\uc81d\ud2b8 \ubc0f ERP\u00b7PG\u00b7POS \uc5f0\ub3d9 \uac1c\ubc1c \uacbd\ud5d8.",
         "Official Site": "https://www.eoapps.co.kr",
-        "Icon": "https://www.eoapps.co.kr/theme/eoapps/images/img.jpg?v=1780646090",
+        "Icon": "https://www.eoapps.co.kr/theme/eoapps/images/img.jpg?v=1780730388",
         "Redirect": "https://www.eoapps.co.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.eoapps.co.kr"
@@ -240,16 +240,6 @@
         "AbstractURL": "https://serviomatic.com"
     },
     {
-        "link": "https://herentals.be",
-        "Heading": "Home | Herentals",
-        "Abstract": null,
-        "Official Site": "https://www.herentals.be/home",
-        "Icon": "/themes/custom/subtheme/favicon.ico",
-        "Redirect": "https://www.herentals.be/home",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.herentals.be/home"
-    },
-    {
         "link": "https://wolffer.com",
         "Heading": "\n      W\u00f6lffer Estate Vineyard\n    ",
         "Abstract": "A family owned, sustainably farmed vineyard in the heart of the Hamptons since 1988, committed to producing premium, distinctive wines, ciders and spirits.",
@@ -268,15 +258,5 @@
         "Redirect": "https://nineteeneightyeight.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nineteeneightyeight.com/"
-    },
-    {
-        "link": "https://topdonaters.ru",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://topdonaters.ru",
-        "Icon": "N/A",
-        "Redirect": "https://topdonaters.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://topdonaters.ru"
     }
 ]

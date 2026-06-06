@@ -11,10 +11,10 @@
     },
     {
         "link": "https://langfarms.com",
-        "Heading": "Lang Farms, Ltd. - Homepage",
-        "Abstract": "",
+        "Heading": "Home - Lang Farms, Ltd. - Mobile",
+        "Abstract": null,
         "Official Site": "https://langfarms.com",
-        "Icon": "//s3.amazonaws.com/media.agricharts.com/sites/2349/Pictures/Logo.png",
+        "Icon": "http://s3.amazonaws.com/media.agricharts.com/sites/2349/Pictures/Logo.png",
         "Redirect": "https://langfarms.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://langfarms.com"
@@ -44,7 +44,7 @@
         "Heading": "\n      Elf Decor\n",
         "Abstract": "Elf Decor",
         "Official Site": "https://elfdecor.uk/",
-        "Icon": "//cdn.shopify.com/s/files/1/0814/3641/0182/files/favicon-32x32.png?crop=center&height=32&v=1742204893&width=32",
+        "Icon": "//elfdecor.uk/cdn/shop/files/favicon-32x32.png?crop=center&height=32&v=1742204893&width=32",
         "Redirect": "https://elfdecor.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://elfdecor.uk/"
@@ -128,16 +128,6 @@
         "Redirect": "https://foxandweeks.com_gimp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://foxandweeks.com_gimp/"
-    },
-    {
-        "link": "https://aircomf.com",
-        "Heading": "\u4e9a\u6d32\u7efc\u5408AV\u4e00\u533a\u4e8c\u533a\u4e09\u533a\u5728\u7ebf\u64ad\u653e_\u4e24\u4e2a\u4eba\u65e5\u672c\u7684\u89c6\u9891\u5168\u514d\u8d39_\u65e5\u672c\u5f3a\u4f26\u7247\u4e2d\u6587\u5b57\u5e55\u514d\u8d39\u770b_99\u4e45\u4e45\u56fd\u4ea7\u7cbe\u54c1\u65e0\u7801\u514d\u8d39_\u56fd\u4ea7AAAA\u65e0\u7801\u89c6\u9891_\u65e0\u7801\u4e2d\u6587\u5b57\u5e55\u4e71\u7801\u4e00\u533a\u4e8c\u533a\u4e09\u533a",
-        "Abstract": "\u7cbe\u54c1\u6df1\u591c\u798f\u5229\u89c6\u9891\u65e0\u7801\u7cbe\u54c1\u793e\u533a_\u8272\u7231Av\u65e0\u7801\u4e13\u533a_\u56fd\u4ea7\u7cbe\u54c1\u4eba\u59bb\u65e0\u7801\u514d\u8d39_\u65e5\u65e5\u6478\u591c\u591c\u6dfb\u591c\u591c\u6dfb\u6bdb\u7247\u6027\u8272av_\u4e9a\u6d32\u6b27\u7f8e\u65e5\u97e9\u4e2d\u6587\u5b57\u5e55\u5728\u7ebf\u4e0d\u5361_\u5566\u5566\u5566\u514d\u8d39\u9ad8\u6e05\u5728\u7ebf\u89c2\u770b\u89c6\u9891",
-        "Official Site": "https://aircomf.com",
-        "Icon": "N/A",
-        "Redirect": "https://aircomf.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aircomf.com"
     },
     {
         "link": "https://insight-centre.org",

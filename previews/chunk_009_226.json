@@ -161,10 +161,10 @@
     },
     {
         "link": "https://otirol.at",
-        "Heading": "otirol.at",
+        "Heading": "Home | otirol.at",
         "Abstract": "Home",
         "Official Site": "https://otirol.at",
-        "Icon": "themes/default/icon/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://otirol.at",
         "AbstractSource": "BS4",
         "AbstractURL": "https://otirol.at"
@@ -248,26 +248,6 @@
         "Redirect": "https://www.thunderbirdvapes.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.thunderbirdvapes.com/"
-    },
-    {
-        "link": "https://taikapalvelin.fi",
-        "Heading": "Dstny - Solutions for smart companies",
-        "Abstract": null,
-        "Official Site": "https://taikapalvelin.fi",
-        "Icon": "login/favicon.ico",
-        "Redirect": "https://taikapalvelin.fi",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://taikapalvelin.fi"
-    },
-    {
-        "link": "https://ai4business.it",
-        "Heading": "AI4Business - Intelligenza Artificiale al servizio del business",
-        "Abstract": "Intelligenza Artificiale al servizio del business",
-        "Official Site": "https://www.ai4business.it/",
-        "Icon": "https://www.ai4business.it/wp-content/uploads/2022/07/cropped-AI4Business_FAVICON-32x32.png",
-        "Redirect": "https://www.ai4business.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ai4business.it/"
     },
     {
         "link": "https://beachflags-page.com",

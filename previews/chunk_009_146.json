@@ -11,7 +11,7 @@
     },
     {
         "link": "https://nytrngsecure.com",
-        "Heading": "Continue...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://nytrngsecure.com",
         "Icon": "N/A",
@@ -298,15 +298,5 @@
         "Redirect": "https://www.sweetesbakeshop.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sweetesbakeshop.com/"
-    },
-    {
-        "link": "https://mediasportif.fr",
-        "Heading": "Accueil",
-        "Abstract": "L'actualit\u00e9 m\u00e9dia du sport : droits TV, programme TV,",
-        "Official Site": "https://www.mediasportif.fr/",
-        "Icon": "https://www.mediasportif.fr/wp-content/uploads/2023/09/accueil_33016.jpg",
-        "Redirect": "https://www.mediasportif.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mediasportif.fr/"
     }
 ]

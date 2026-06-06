@@ -30,16 +30,6 @@
         "AbstractURL": "https://canadiannewstoday.com"
     },
     {
-        "link": "https://schoten.be",
-        "Heading": "Home | Gemeente Schoten",
-        "Abstract": null,
-        "Official Site": "https://www.schoten.be/home",
-        "Icon": "/themes/custom/subtheme/favicon.ico",
-        "Redirect": "https://www.schoten.be/home",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.schoten.be/home"
-    },
-    {
         "link": "https://sagakingdom.com",
         "Heading": "Saga Kingdom - The Worlds No.1 Online Gambling Site",
         "Abstract": null,
@@ -53,11 +43,11 @@
         "link": "https://skovbo-ren.dk",
         "Heading": "Forside - Skovbo-Ren",
         "Abstract": "VELKOMMEN TIL SKOVBO-REN 4,9 ud af 5Trustpilot 4,9 ud af 5Trustpilot 1-2 dage leveringbestil inden kl. 12 Gratis levering til pakkeshopved k\u00f8b over 500,- Nem betaling Hvad leder du efter? PAPIR POSER BORDD\u00c6KNING REKVISITTER RENG\u00d8RINGSMIDLER ST\u00d8VSUGER/MASKINER VINDUESPOLERING TILBUD SHOP POPUL\u00c6RE PRODUKTER Udvalgt til dig 4292 OPVASKEB\u00d8RSTE BL\u00d8D 240 MM BL\u00c5 10 STK/PK kr.\u00a0306,25 L\u00e6s mere [\u2026]",
-        "Official Site": "http://skovbo-ren.dk/",
+        "Official Site": "https://skovbo-ren.dk/",
         "Icon": "http://skovbo-ren.dk/wp-content/uploads/2025/06/person-carry-box-thin.svg",
-        "Redirect": "http://skovbo-ren.dk/",
+        "Redirect": "https://skovbo-ren.dk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://skovbo-ren.dk/"
+        "AbstractURL": "https://skovbo-ren.dk/"
     },
     {
         "link": "https://greatamericanrv.com",
@@ -68,16 +58,6 @@
         "Redirect": "https://greatamericanrv.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://greatamericanrv.com/"
-    },
-    {
-        "link": "https://mfgday.com",
-        "Heading": "\n        Manufacturing Day    ",
-        "Abstract": "Join manufacturers across the U.S. in celebration of Manufacturing Day\u2014working together to inspire the future manufacturing workforce.",
-        "Official Site": "https://mfgday.com/",
-        "Icon": "https://mfgday.com/wp-content/uploads/2022/06/BASFmsg-36-scaled-1.jpg",
-        "Redirect": "https://mfgday.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mfgday.com/"
     },
     {
         "link": "https://maritimeaquarium.org",
@@ -158,16 +138,6 @@
         "Redirect": "https://unipress.dk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://unipress.dk/"
-    },
-    {
-        "link": "https://cvmkr.com",
-        "Heading": "CVwizard",
-        "Abstract": null,
-        "Official Site": "https://www.cvwizard.com",
-        "Icon": "https://www.cvwizard.com/opengraph/image.png",
-        "Redirect": "https://www.cvwizard.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cvwizard.com"
     },
     {
         "link": "https://giacomlb.com",

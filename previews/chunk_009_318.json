@@ -10,16 +10,6 @@
         "AbstractURL": "https://eternit.com.cn"
     },
     {
-        "link": "https://hockeysfuture.com",
-        "Heading": "HFBoards - NHL Message Board and Forum for National Hockey League",
-        "Abstract": "HFboards is the largest ice hockey discussion forum, covering the NHL, College, Europe, and any other area of major hockey around the world. Over 36 million posts and growing.",
-        "Official Site": "https://forums.hfboards.com/",
-        "Icon": "https://hfboards-data.community.forum/assets/logo/favicon-32x32.png",
-        "Redirect": "https://forums.hfboards.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://forums.hfboards.com/"
-    },
-    {
         "link": "https://microdrones.com",
         "Heading": "Aerial LiDAR & photogrammetry UAV drone survey equipment and software | Microdrones",
         "Abstract": "Complete UAV solutions for drone surveying, mapping, construction, mining, inspection, precision agriculture, and other commercial drone applications.",
@@ -218,15 +208,5 @@
         "Redirect": "https://stoffolino.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://stoffolino.de"
-    },
-    {
-        "link": "https://dpcor.com",
-        "Heading": "Data Protection Corporation \u2013 Providing professional software development and IT services.",
-        "Abstract": null,
-        "Official Site": "https://dpcor.com",
-        "Icon": "https://dpcor.com/wp-content/uploads/2022/07/dp-favicon-100x100.png",
-        "Redirect": "https://dpcor.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dpcor.com"
     }
 ]

@@ -70,6 +70,16 @@
         "AbstractURL": "https://mariet.gr"
     },
     {
+        "link": "https://maltahotel24.com",
+        "Heading": "Malta hotels & apartments, all accommodations in Malta",
+        "Abstract": "Online booking for hotels in Malta, Malta. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://maltahotel24.com",
+        "Icon": "/images/favicons/2/favicon.ico",
+        "Redirect": "https://maltahotel24.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://maltahotel24.com"
+    },
+    {
         "link": "https://iceers.org",
         "Heading": "ICEERS | Ethnobotanical Education, Research, and Services",
         "Abstract": "ICEERS addresses the Impacts of the globalization of Ayahuasca and other traditional indigenous medicines through education, science, community engagement and public policies based on risk reduction and human rights.",
@@ -78,16 +88,6 @@
         "Redirect": "https://www.iceers.org/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.iceers.org/en/"
-    },
-    {
-        "link": "https://asuene.com",
-        "Heading": "\u3010\u516c\u5f0f\u3011\u30a2\u30b9\u30a8\u30cd - CO2\u6392\u51fa\u91cf\u898b\u3048\u308b\u5316\u30fb\u524a\u6e1b\u30fb\u5831\u544a\u30af\u30e9\u30a6\u30c9\u30b5\u30fc\u30d3\u30b9\uff08\u6e29\u5ba4\u52b9\u679c\u30ac\u30b9\u6392\u51fa\u91cf\u81ea\u52d5\u8a08\u7b97\u30fb\u7b97\u5b9a\u30fb\u7b97\u51fa\uff09\u2502\u30a2\u30b9\u30a8\u30cd\u682a\u5f0f\u4f1a\u793e",
-        "Abstract": "CO2\u6392\u51fa\u91cf\u898b\u3048\u308b\u5316\u30fb\u524a\u6e1b\u30fb\u5831\u544a\u30af\u30e9\u30a6\u30c9\u30b5\u30fc\u30d3\u30b9\uff08\u6e29\u5ba4\u52b9\u679c\u30ac\u30b9\u6392\u51fa\u91cf\u81ea\u52d5\u8a08\u7b97\u30fb\u7b97\u5b9a\u30fb\u7b97\u51fa\uff09\u2502\u30a2\u30b9\u30a8\u30cd\u682a\u5f0f\u4f1a\u793e",
-        "Official Site": "https://asuene.com/",
-        "Icon": "https://asuene.com/wp-content/uploads/2025/11/ogp-4.png",
-        "Redirect": "https://asuene.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://asuene.com/"
     },
     {
         "link": "https://sonatgames.com",
@@ -140,16 +140,6 @@
         "AbstractURL": "https://draventhyl.space"
     },
     {
-        "link": "https://festivaloffavignon.com",
-        "Heading": "Page d'accueil",
-        "Abstract": "festival off avignon - Description de la page d'accueil",
-        "Official Site": "https://www.festivaloffavignon.com/",
-        "Icon": "https://www.festivaloffavignon.com/img/theme/logo_reseaux.jpg",
-        "Redirect": "https://www.festivaloffavignon.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.festivaloffavignon.com/"
-    },
-    {
         "link": "https://silvercreekcomputer.com",
         "Heading": "IT Support, Web Hosting, Point of Sale Systems | Final Communications",
         "Abstract": "Computer Sales, Services and Repair, Point of Sale Systems, Web Hosting & Design, and Satellite TV. Serving Silver Creek, Dunkirk, Fredonia NY since 2000.",
@@ -163,11 +153,11 @@
         "link": "https://caliparifoundation.org",
         "Heading": "SUMO777 : Link Situs Slot Gacor Online Hari Ini Indonesia Gampang Menang",
         "Abstract": "SUMO777 adalah situs slot gacor hari ini di Indonesia sebab sering memberikan scatter hitam kepada member baru gampang menang dengan deposit 10k via qris pada situs slot777 online terbaru.",
-        "Official Site": "https://thinkdev.org/",
+        "Official Site": "https://slotonlineindonesia.co/",
         "Icon": "slotgacor.webp",
-        "Redirect": "https://thinkdev.org/",
+        "Redirect": "https://slotonlineindonesia.co/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thinkdev.org/"
+        "AbstractURL": "https://slotonlineindonesia.co/"
     },
     {
         "link": "https://3tserver.net",
@@ -198,6 +188,16 @@
         "Redirect": "https://www.accommodationyamba.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.accommodationyamba.com/"
+    },
+    {
+        "link": "https://adserverus.info",
+        "Heading": "AdserverUS.info",
+        "Abstract": null,
+        "Official Site": "https://adserverus.info",
+        "Icon": "N/A",
+        "Redirect": "https://adserverus.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://adserverus.info"
     },
     {
         "link": "https://adventurerv.net",
@@ -238,6 +238,16 @@
         "Redirect": "https://amd-osx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://amd-osx.com"
+    },
+    {
+        "link": "https://angeleshotels.net",
+        "Heading": "Angeles hotels & apartments, all accommodations in Angeles",
+        "Abstract": "Online booking for hotels in Angeles, Philippines. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://angeleshotels.net",
+        "Icon": "N/A",
+        "Redirect": "https://angeleshotels.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://angeleshotels.net"
     },
     {
         "link": "https://anglia-live.com",

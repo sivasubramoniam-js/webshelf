@@ -130,6 +130,16 @@
         "AbstractURL": "https://www.woluwe1200.be/"
     },
     {
+        "link": "https://hnshangtian.com",
+        "Heading": "hnshangtian.com",
+        "Abstract": null,
+        "Official Site": "https://hnshangtian.com",
+        "Icon": "N/A",
+        "Redirect": "https://hnshangtian.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hnshangtian.com"
+    },
+    {
         "link": "https://energytrend.com",
         "Heading": "Energytrend - solar PV, energy storage and others related to green energy",
         "Abstract": "Energytrend is a professional platform of green energy, offering extensive news and research reports of solar PV, energy storage, lithium battery, etc.",
@@ -168,16 +178,6 @@
         "Redirect": "https://www.welda.be/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.welda.be/"
-    },
-    {
-        "link": "https://haute-savoie-tourisme.org",
-        "Heading": "Haute-Savoie : Guide voyage, vacances et tourisme du d\u00e9partement (74)",
-        "Abstract": "  La Haute-Savoie vous accueille \u00e9t\u00e9 comme hiver  avec ses lacs (lac d'Annecy et lac L\u00e9man), ses montagnes comme le massif du Mont-Blanc, ses stations de ski et ses \u00e9v\u00e9nements internationaux tout au long de l'ann\u00e9e. ",
-        "Official Site": "https://www.haute-savoie-tourisme.org/",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://www.haute-savoie-tourisme.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.haute-savoie-tourisme.org/"
     },
     {
         "link": "https://sacred-wind.net",

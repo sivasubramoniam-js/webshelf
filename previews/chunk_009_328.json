@@ -50,6 +50,16 @@
         "AbstractURL": "https://virax.com"
     },
     {
+        "link": "https://uslawexplained.com",
+        "Heading": "Welcome to US Law Explained [US Law Explained]",
+        "Abstract": null,
+        "Official Site": "https://uslawexplained.com",
+        "Icon": "/lib/tpl/bootstrap3/images/favicon.ico",
+        "Redirect": "https://uslawexplained.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uslawexplained.com"
+    },
+    {
         "link": "https://otd132.ru",
         "Heading": "\u0410\u0431\u043e\u043d\u0435\u043d\u0442\u0441\u043a\u043e\u0435 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043e\u0432 \u0432 \u041e\u043c\u0441\u043a\u0435. IT-\u0430\u0443\u0442\u0441\u043e\u0440\u0441\u0438\u043d\u0433",
         "Abstract": "\u0418\u0422-\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043e\u0444\u0438\u0441\u043e\u0432 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u041e\u043c\u0441\u043a\u0435. \u041c\u044b \u0434\u0435\u0448\u0435\u0432\u043b\u0435, \u0447\u0435\u043c \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0418\u0422-\u043e\u0442\u0434\u0435\u043b!",
@@ -170,16 +180,6 @@
         "AbstractURL": "https://arenda-ekskavatora-pogruzchika-6.ru"
     },
     {
-        "link": "https://insky.be",
-        "Heading": "Welcome to DIGI - the fair telecom operator",
-        "Abstract": "Welcome to DIGI, your reliable telecom operator. Discover our extensive range of internet, television, telephony, and mobile services. With DIGI, you're always connected, wherever you are. Explore our packages and find the perfect solution for your needs.",
-        "Official Site": "https://insky.be",
-        "Icon": "/favicon-48x48.png",
-        "Redirect": "https://insky.be",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://insky.be"
-    },
-    {
         "link": "https://conciliacionlaley.pe",
         "Heading": "Inicio - La Ley | Centro de Conciliaci\u00f3n",
         "Abstract": "Es la disoluci\u00f3n del v\u00ednculo matrimonial, se realiza mediante el acuerdo de ambas c\u00f3nyuges, que puede llevarse a cabo mediante una solicitud dirigida a la Municipalidad el ultimo domicilio conyugal o mediante Notario Publico",
@@ -228,16 +228,6 @@
         "Redirect": "https://museudeartedorio.org.br/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://museudeartedorio.org.br/"
-    },
-    {
-        "link": "https://cousins.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://cousins.com",
-        "Icon": "/favicon.png",
-        "Redirect": "https://cousins.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cousins.com"
     },
     {
         "link": "https://omniaad.com",

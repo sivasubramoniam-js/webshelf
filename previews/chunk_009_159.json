@@ -121,8 +121,8 @@
     },
     {
         "link": "https://reasonable.shop",
-        "Heading": "\n\tOnline Einkaufen | Bekleidung, Kopfh\u00f6rer, Autozubeh\u00f6r - Reasonable Shop Germany\n",
-        "Abstract": "Online Einkaufen Reasonable Shop ist ein Onlineshop mit den \u00f6rtlichen Warenh\u00e4usern. Wir verkaufen Bekleidung, Kopfh\u00f6rer, Autozubeh\u00f6r, Elektronik, und andere.",
+        "Heading": "\n\tOnline Shopping for Electronics, Fashion, Computers & more - Reasonable Shop\n",
+        "Abstract": "Reasonable Shop is an online shop with the local warehouses. We sales Sports and Outdoor, Electronics, Fashion, Health and Beauty, Home and Garden, Test Equipment and Tools, and others.",
         "Official Site": "https://reasonable.shop/index.aspx",
         "Icon": "N/A",
         "Redirect": "https://reasonable.shop/index.aspx",
@@ -140,16 +140,6 @@
         "AbstractURL": "https://emiinspirations.com"
     },
     {
-        "link": "https://telfs.com",
-        "Heading": "Start | GemeindeWerke Telfs",
-        "Abstract": null,
-        "Official Site": "https://gwtelfs.at/",
-        "Icon": "https://gwtelfs.at/site/assets/files/1/start-20260228090646_0001.1200x630.jpg",
-        "Redirect": "https://gwtelfs.at/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gwtelfs.at/"
-    },
-    {
         "link": "https://lanagirls.com",
         "Heading": "Home \u2013 LanaGirls \u6642\u5c1a\u5973\u751f",
         "Abstract": null,
@@ -158,16 +148,6 @@
         "Redirect": "https://www.lanagirls.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lanagirls.com/"
-    },
-    {
-        "link": "https://bjrxkf.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://bjrxkf.com",
-        "Icon": "N/A",
-        "Redirect": "https://bjrxkf.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bjrxkf.com"
     },
     {
         "link": "https://immobilien-wertermittlung.de",
@@ -220,6 +200,16 @@
         "AbstractURL": "https://www.igretec.com/"
     },
     {
+        "link": "https://hotel-in-denmark.com",
+        "Heading": "Denmark hotels & apartments, all accommodations in Denmark",
+        "Abstract": "Online booking for hotels in Denmark, Denmark. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://hotel-in-denmark.com",
+        "Icon": "N/A",
+        "Redirect": "https://hotel-in-denmark.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotel-in-denmark.com"
+    },
+    {
         "link": "https://vialtopartners.com",
         "Heading": "Global Mobility Solutions | Vialto Partners",
         "Abstract": "Learn how our global mobility solutions can help you with immigration, tax, business travel, remote work, risk management, and compliance needs.",
@@ -231,10 +221,10 @@
     },
     {
         "link": "https://sayalohasummersweeps.com",
-        "Heading": "King's Hawaiian Promotion",
-        "Abstract": "King's Hawaiian Promotion",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://sayalohasummersweeps.com",
-        "Icon": "/favicon.ico",
+        "Icon": "data:;",
         "Redirect": "https://sayalohasummersweeps.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sayalohasummersweeps.com"
@@ -243,11 +233,11 @@
         "link": "https://middleburycampus.com",
         "Heading": "The Middlebury Campus",
         "Abstract": "The Middlebury Campus",
-        "Official Site": "https://www.middleburycampus.com/",
+        "Official Site": "https://www.middleburycampus.com/?feed=rss2",
         "Icon": "https://d32081hfx7ir9x.cloudfront.net/3531560dfe7dd3e3fae70fde186d9211/dist/img/favicons/android-icon-192x192.png",
-        "Redirect": "https://www.middleburycampus.com/",
+        "Redirect": "https://www.middleburycampus.com/?feed=rss2",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.middleburycampus.com/"
+        "AbstractURL": "https://www.middleburycampus.com/?feed=rss2"
     },
     {
         "link": "https://roentgenmuseum.de",

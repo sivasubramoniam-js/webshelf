@@ -70,26 +70,6 @@
         "AbstractURL": "https://afm-invest.com"
     },
     {
-        "link": "https://fmtoq.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://fmtoq.com",
-        "Icon": "N/A",
-        "Redirect": "https://fmtoq.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fmtoq.com"
-    },
-    {
-        "link": "https://cycloneshockey.com",
-        "Heading": "Cincinnati Cyclones | Cincinnati, OH Professional Hockey | Schedule",
-        "Abstract": "Official website for the Cincinnati Cyclones, Cincinnati's professional hockey team & proud affiliate of the New York Rangers. Check out our schedule & Family Friendly promotions.",
-        "Official Site": "https://cycloneshockey.com",
-        "Icon": "https://cycloneshockey.com/images/share.jpg",
-        "Redirect": "https://cycloneshockey.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cycloneshockey.com"
-    },
-    {
         "link": "https://enclustra.com",
         "Heading": "Enclustra FPGA Solutions | Home | FPGA Design Services | FPGA & System-on-Chip (SoC) Modules | System-on-Modules (SoM) | IP Cores",
         "Abstract": null,
@@ -114,7 +94,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://securyurl.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://securyurl.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://securyurl.com"
@@ -131,10 +111,10 @@
     },
     {
         "link": "https://crazyguysmedia.com",
-        "Heading": null,
+        "Heading": "Under construction - Awesome site in the making!",
         "Abstract": null,
         "Official Site": "https://crazyguysmedia.com",
-        "Icon": "data:;",
+        "Icon": "N/A",
         "Redirect": "https://crazyguysmedia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://crazyguysmedia.com"

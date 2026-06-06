@@ -123,11 +123,11 @@
         "link": "https://delvetool.com",
         "Heading": "Qualitative Data Analysis Software | Delve",
         "Abstract": "Delve is qualitative data analysis software to code, categorize, and organize insights. Code qualitative data with the help of qualitative analysis software.",
-        "Official Site": "https://delvetool.com",
-        "Icon": "http://static1.squarespace.com/static/59934311ff7c50540c53f047/t/5ddc45737c4d537bbe988ba6/1574716801105/Delve_190809.png?format=1500w",
-        "Redirect": "https://delvetool.com",
+        "Official Site": "https://delvetool.com/",
+        "Icon": "/favicon.svg",
+        "Redirect": "https://delvetool.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://delvetool.com"
+        "AbstractURL": "https://delvetool.com/"
     },
     {
         "link": "https://sandiegohardware.com",
@@ -228,16 +228,6 @@
         "Redirect": "https://www.cajoy.com/de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cajoy.com/de/"
-    },
-    {
-        "link": "https://emssecurity.co.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://emssecurity.co.uk",
-        "Icon": "N/A",
-        "Redirect": "https://emssecurity.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://emssecurity.co.uk"
     },
     {
         "link": "https://montecitobc.org",

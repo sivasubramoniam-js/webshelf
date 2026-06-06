@@ -170,16 +170,6 @@
         "AbstractURL": "https://silenthill24.biz"
     },
     {
-        "link": "https://gototags.com",
-        "Heading": "GoToTags - NFC, UHF RFID and Barcode Software, Hardware and Tags",
-        "Abstract": "GoToTags are experts in NFC, UHF RFID and barcode technologies; offering tags, software, hardware and encoding systems to companies worldwide.",
-        "Official Site": "https://gototags.com/home",
-        "Icon": "https://gototags.com/wp-content/uploads/sites/12/2024/01/favicon.ico",
-        "Redirect": "https://gototags.com/home",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gototags.com/home"
-    },
-    {
         "link": "https://ruac.eu",
         "Heading": "RUAC | Online Jelenl\u00e9ti \u00edv gener\u00e1tor \u00e9s munkaid\u0151 nyilv\u00e1ntart\u00e1s",
         "Abstract": "Automatiz\u00e1lt munkaid\u0151 nyilv\u00e1ntart\u00e1s \u00e9s jelenl\u00e9ti \u00edv gener\u00e1l\u00e1s egyszer\u0171en! Mobil app + bel\u00e9ptet\u0151 eszk\u00f6z\u00f6k. Pr\u00f3b\u00e1lja ki ingyen! \u2713 Gyors bevezet\u00e9s \u2713 24/7 t\u00e1mogat\u00e1s",
@@ -188,6 +178,16 @@
         "Redirect": "https://ruac.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ruac.eu/"
+    },
+    {
+        "link": "https://dentistsnewcastle.com",
+        "Heading": "Dentists Newcastle - NSW Dentistry Providers",
+        "Abstract": "Dentists Newcastle NSW, connect with dental providers for dentistry mouth health issues in Newcastle, we list phone and web address for an easy access.",
+        "Official Site": "https://dentistsnewcastle.com/",
+        "Icon": "https://dirdata.b-cdn.net/img/sites/og/ogmd_desktop_264_ejof0429_2009035512.jpg?crop_gravity=center&crop=1200,627",
+        "Redirect": "https://dentistsnewcastle.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dentistsnewcastle.com/"
     },
     {
         "link": "https://sbnewsroom.com",
@@ -238,5 +238,15 @@
         "Redirect": "https://chisholmbb.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chisholmbb.com/"
+    },
+    {
+        "link": "https://amateurfilm-forum.de",
+        "Heading": "Startseite - Amateurfilm-Forum",
+        "Abstract": "Das Amateurfilm-Forum: Nachwuchs-Filmemacher tauschen sich \u00fcber alles rund um das Thema Amateurfilm aus. Von den Vorbereitungen \u00fcber den Dreh bis zur digitalen Postproduktion. Die fertigen Produktionen k\u00f6nnen vorgestellt und diskutiert werden. Tutorials runden das Angebot ab.",
+        "Official Site": "https://amateurfilm-forum.de",
+        "Icon": "/wcf/images/favicons/favicon-32x32.png?v=2",
+        "Redirect": "https://amateurfilm-forum.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amateurfilm-forum.de"
     }
 ]

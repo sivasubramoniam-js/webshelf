@@ -300,16 +300,6 @@
         "AbstractURL": "https://tayasui.com"
     },
     {
-        "link": "https://nvtel.ru",
-        "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u0430\u0432\u0438\u0430\u0431\u0438\u043b\u0435\u0442\u044b \u0434\u0451\u0448\u0435\u0432\u043e \u043e\u043d\u043b\u0430\u0439\u043d | \u0410\u0432\u0438\u0430\u0441\u0435\u0439\u043b\u0441 \u2014 \u043f\u043e\u0438\u0441\u043a \u0441\u0430\u043c\u044b\u0445 \u0434\u0435\u0448\u0435\u0432\u044b\u0445 \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u043d\u0430 \u0441\u0430\u043c\u043e\u043b\u0435\u0442",
-        "Abstract": "\u0410\u0432\u0438\u0430\u0441\u0435\u0439\u043b\u0441 \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u043d\u0430\u0439\u0442\u0438 \u0438 \u043a\u0443\u043f\u0438\u0442\u044c \u0441\u0430\u043c\u044b\u0435 \u0434\u0435\u0448\u0451\u0432\u044b\u0435 \u0430\u0432\u0438\u0430\u0431\u0438\u043b\u0435\u0442\u044b. \u041f\u043e\u0438\u0441\u043a \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u043d\u0430 \u0441\u0430\u043c\u043e\u043b\u0451\u0442 \u043f\u043e 2000+ \u0430\u0432\u0438\u0430\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u043c, \u0432\u0435\u0434\u0443\u0449\u0438\u043c \u0430\u0432\u0438\u0430\u043a\u0430\u0441\u0441\u0430\u043c \u0438 \u043b\u0443\u0447\u0448\u0438\u0435 \u0446\u0435\u043d\u044b \u043d\u0430 \u0430\u0432\u0438\u0430\u0431\u0438\u043b\u0435\u0442\u044b.",
-        "Official Site": "https://nvtel.ru",
-        "Icon": "https://static.aviasales.com/selene-static/spa/meta/og_summer_2026.png",
-        "Redirect": "https://nvtel.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nvtel.ru"
-    },
-    {
         "link": "https://tabletopgaming.co.uk",
         "Heading": "Tabletop Gaming | Board Game Features, News, Reviews, RPGs",
         "Abstract": "Tabletop Gaming is the UK's no.1 magazine for tabletop gaming news, features, reviews, and interviews on board games, RPGs, TCGs and more.",
@@ -318,6 +308,16 @@
         "Redirect": "https://www.tabletopgaming.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tabletopgaming.co.uk/"
+    },
+    {
+        "link": "https://myvelofit.com",
+        "Heading": "MyVeloFit: The World's #1 Online Bike Fit",
+        "Abstract": "MyVeloFit delivers a quick and accurate dynamic bike fit experience from anywhere. No appointments, no special hardware, just you, your bike, and your phone.",
+        "Official Site": "https://www.myvelofit.com/",
+        "Icon": "https://www.myvelofit.com/wp-content/uploads/2024/02/MyVeloFit-1200-x-630-px.png",
+        "Redirect": "https://www.myvelofit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.myvelofit.com/"
     },
     {
         "link": "https://evazmart.com",
@@ -338,16 +338,6 @@
         "Redirect": "https://www.neeyamo.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.neeyamo.com/"
-    },
-    {
-        "link": "https://zeus-software.com",
-        "Heading": "Making sure you're not a bot!",
-        "Abstract": null,
-        "Official Site": "https://zeus-software.com",
-        "Icon": "N/A",
-        "Redirect": "https://zeus-software.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zeus-software.com"
     },
     {
         "link": "https://pokemagic.nl",

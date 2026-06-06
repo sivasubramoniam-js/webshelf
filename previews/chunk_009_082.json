@@ -50,6 +50,16 @@
         "AbstractURL": "https://katzentempel.de/"
     },
     {
+        "link": "https://hovnet.cz",
+        "Heading": "HovNet -",
+        "Abstract": "Internet pro obce Janov\u00e1, Hov\u011bz\u00ed, Huslenky, Halenkov, Nov\u00fd Hrozenkov, Karolinka, Velk\u00e9 Karlovice",
+        "Official Site": "https://www.hovnet.cz/",
+        "Icon": "https://www.hovnet.cz/wp-content/themes/HovnetTheme/img/favicon.png",
+        "Redirect": "https://www.hovnet.cz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hovnet.cz/"
+    },
+    {
         "link": "https://packalyst.com",
         "Heading": "Packalyst :: Packages for Laravel",
         "Abstract": " Simple and social packages registry for Laravel a PHP Framework. Discover packages, ask for packages and learn how to create your own packages for Laravel ",

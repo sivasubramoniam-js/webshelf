@@ -20,16 +20,6 @@
         "AbstractURL": "https://furesoebad-strand.dk"
     },
     {
-        "link": "https://yourmortgage.com.au",
-        "Heading": "Your Mortgage - Top Financial Comparison Tool for Mortgages",
-        "Abstract": "Finding the right home loan can be difficult. Your Mortgage are here to help with rate comparison, calculators, home loan rates, brokers, news & guides.",
-        "Official Site": "https://www.yourmortgage.com.au",
-        "Icon": "https://www.yourmortgage.com.au/media/assets/default.png",
-        "Redirect": "https://www.yourmortgage.com.au",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.yourmortgage.com.au"
-    },
-    {
         "link": "https://secretbakery.io",
         "Heading": "Secretbakery.io - Apps for Jira & Shopify",
         "Abstract": "Apps for JIRA (Duplicate Issues, Merge Issues), Atlassian and Shopify.",
@@ -108,16 +98,6 @@
         "Redirect": "https://antitraffickingreview.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://antitraffickingreview.org"
-    },
-    {
-        "link": "https://fbnbanksierraleone.com",
-        "Heading": "Home - FirstBank SierraLeone",
-        "Abstract": null,
-        "Official Site": "https://www.fbnbanksierraleone.com/",
-        "Icon": "https://www.fbnbanksierraleone.com/wp-content/uploads/2016/05/w-logo-blue.png",
-        "Redirect": "https://www.fbnbanksierraleone.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.fbnbanksierraleone.com/"
     },
     {
         "link": "https://vagisan.com",
@@ -218,5 +198,15 @@
         "Redirect": "https://zaalwatersport.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zaalwatersport.nl"
+    },
+    {
+        "link": "https://bamtoo.de",
+        "Heading": "\n      bamtoo\u00ae Schallzahnb\u00fcrsten | Nachhaltiges Design, moderne Technologie\n",
+        "Abstract": "Effektive Technik trifft auf nachhaltige Materialien mit den elektrischen Schallzahnb\u00fcrsten von bamtoo! \"Sehr gut\" im Test | 100 Tage Probeputzen | Gratis Versand.",
+        "Official Site": "https://bamtoo.de/",
+        "Icon": "http://bamtoo.de/cdn/shop/files/logo.png?v=1703174527",
+        "Redirect": "https://bamtoo.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bamtoo.de/"
     }
 ]

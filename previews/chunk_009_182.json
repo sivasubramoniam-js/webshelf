@@ -4,7 +4,7 @@
         "Heading": "MULTITIMER: MULTIPLE TIMERS",
         "Abstract": "Getting started is easy\n",
         "Official Site": "https://www.multitimer.net/",
-        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUD0zoUwopF9YPKgnifpZ0MZ336QXL_IS-1qmAB1sql6-VlrXpxX-4a4zNUQl6-uwDA1xW4Jvw71mR7TJpvVfEbbJmhHuC8NmpcBt-Y0Tk4tSo3SAIj4N8UGuHm2iJ3YKwve2j891-np70AtJTjKF2_xriJi_4RF7FJRMEjJK5OFf0z9iOajmAKvH0u4ACg=w16383",
+        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUDvT3PBL6IanzutRRcT2MA2sSl64QHEPp8D1R0KFtuI9sSFaRBAykzOpXlivfyB0o_JeXRB7bbMpbd7nmDdw4rtd36jXmCkShrj0Pp67sxYOzEEp0fcZtYd-C4eZ6B_5Jg7G2XH7tK8hdXOAw76RBbCwSPBgzN4wegcXbSpQkWS6eKY4rDXZspi_eK9E9w=w16383",
         "Redirect": "https://www.multitimer.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.multitimer.net/"
@@ -40,16 +40,6 @@
         "AbstractURL": "https://globalprotectioncluster.org"
     },
     {
-        "link": "https://prosochi.ru",
-        "Heading": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u0441 \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u043c",
-        "Abstract": null,
-        "Official Site": "https://prosochi.ru",
-        "Icon": "N/A",
-        "Redirect": "https://prosochi.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://prosochi.ru"
-    },
-    {
         "link": "https://tpaction.com",
         "Heading": "Turning Point Action",
         "Abstract": "Accelerating Freedom Through Conservative Action",
@@ -74,7 +64,7 @@
         "Heading": "Brighter Brain Brilliant Life | Jim Kwik",
         "Abstract": "Having the skills to recall, read, think and learn faster are superpowers that will give you a true advantage in your career, profession, scholastic pursuits, relationships and life.",
         "Official Site": "https://jimkwik.com",
-        "Icon": "/favicon.ico?favicon.11zft7kwvrq_q.ico?dpl=dpl_FvqWnhcc7bAnfmz6UGdwCQupuGhb",
+        "Icon": "/favicon.ico?favicon.11zft7kwvrq_q.ico?dpl=dpl_311HuDS68sZvRwfcKoTDi54TEtvs",
         "Redirect": "https://jimkwik.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jimkwik.com"
@@ -211,13 +201,13 @@
     },
     {
         "link": "https://monsieurpeinture.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://monsieurpeinture.com",
-        "Icon": "N/A",
-        "Redirect": "https://monsieurpeinture.com",
+        "Heading": "Entreprise de peinture & r\u00e9novation - Devis 24h - Monsieur Peinture",
+        "Abstract": "12 000 chantiers r\u00e9alis\u00e9s depuis 2016. Devis peinture et r\u00e9novation sous 24h, artisans s\u00e9lectionn\u00e9s, note 4,7/5. Estimez vos travaux en 3 minutes.",
+        "Official Site": "https://www.monsieurpeinture.com/",
+        "Icon": "https://www.monsieurpeinture.com/wp-content/uploads/2023/11/Monsieur-Peinture-Pose-de-papier-peint-et-peinture-bleue-a-Boulogne.jpg",
+        "Redirect": "https://www.monsieurpeinture.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://monsieurpeinture.com"
+        "AbstractURL": "https://www.monsieurpeinture.com/"
     },
     {
         "link": "https://lovelybride.com",
@@ -298,15 +288,5 @@
         "Redirect": "https://teteinredningar.se",
         "AbstractSource": "BS4",
         "AbstractURL": "https://teteinredningar.se"
-    },
-    {
-        "link": "https://campuslegends.com",
-        "Heading": "Campus Legends | Hotels Near Universities & Colleges",
-        "Abstract": "Discover hotels and accommodations near universities and colleges. Perfect for parents, alumni, and sports fans visiting campus.",
-        "Official Site": "https://campuslegends.com",
-        "Icon": "https://cdn.123presto.com/prod/published/campuslegends/home.jpg",
-        "Redirect": "https://campuslegends.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://campuslegends.com"
     }
 ]

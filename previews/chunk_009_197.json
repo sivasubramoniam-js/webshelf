@@ -140,16 +140,6 @@
         "AbstractURL": "https://dapoxe.com"
     },
     {
-        "link": "https://spitalfields.co.uk",
-        "Heading": "Spitalfields Market E1 | East London's Number One Market Destination",
-        "Abstract": "Spitalfields Market is the 1-stop destination for food, fashion, art, music, events in East London. Discover Spitalfields today and join our community!",
-        "Official Site": "https://www.spitalfields.co.uk/",
-        "Icon": "https://spitalfields.s3.amazonaws.com/uploads/2020/12/spitalfields-sheldrick-trust-elephants-public-art-scaled.jpg",
-        "Redirect": "https://www.spitalfields.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.spitalfields.co.uk/"
-    },
-    {
         "link": "https://knarcraft.net",
         "Heading": "KnarCraft",
         "Abstract": "A website with an undefined purpose",
@@ -238,6 +228,16 @@
         "Redirect": "https://lamarina.eldiario.es/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lamarina.eldiario.es/"
+    },
+    {
+        "link": "https://pilotenshop.be",
+        "Heading": "Pilotenshop.be | Pilot Supplies & Aviation Equipment \u2013 The best place for your pilot stuff",
+        "Abstract": null,
+        "Official Site": "https://pilotenshop.be",
+        "Icon": "https://pilotenshop.be/wp-content/uploads/2026/05/cropped-Pilotenshop-Logo-New-2026-200dpi-300x260-1-100x100.jpg",
+        "Redirect": "https://pilotenshop.be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pilotenshop.be"
     },
     {
         "link": "https://profitplatform.com",

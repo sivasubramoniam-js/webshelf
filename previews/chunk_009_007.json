@@ -50,26 +50,6 @@
         "AbstractURL": "https://hk8.tv"
     },
     {
-        "link": "https://holidaybenefits.com",
-        "Heading": "Luxury Wellness Retreats for Women, Couples, and Mind",
-        "Abstract": "Discover global wellness retreats and cultural immersion experiences. Rejuvenate with unique journeys blending relaxation and rich traditions worldwide.",
-        "Official Site": "https://holidaybenefits.com/",
-        "Icon": "https://cdn.123presto.com/prod/published/holidaybenefits/home.jpeg",
-        "Redirect": "https://holidaybenefits.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://holidaybenefits.com/"
-    },
-    {
-        "link": "https://holidayclubspahotels.com",
-        "Heading": "Crystal Sunset Luxury Resort & Spa Hotel | Unwind in Style",
-        "Abstract": "A holistic reset awaits you at Holiday Club Spa Hotels. Experience luxury amenities, rejuvenating treatments, and breathtaking locations in Finland &amp; Sweden.",
-        "Official Site": "https://holidayclubspahotels.com/",
-        "Icon": "https://cdn.123presto.com/prod/published/holidayclubspahotels/home.jpeg",
-        "Redirect": "https://holidayclubspahotels.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://holidayclubspahotels.com/"
-    },
-    {
         "link": "https://hometowndemolitioncontractors.com",
         "Heading": "Demolition Contractors | Hometown Demolition",
         "Abstract": "Get demolition and removal projects done, simply. Compare contractor reviews, see services offered, and get quotes the fast way.",
@@ -88,6 +68,26 @@
         "Redirect": "https://hondapcx.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hondapcx.org"
+    },
+    {
+        "link": "https://hotels-in-kuala-lumpur.com",
+        "Heading": "Kuala Lumpur hotels & apartments, all accommodations in Kuala Lumpur",
+        "Abstract": "Online booking for hotels in Kuala Lumpur, Malaysia. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://hotels-in-kuala-lumpur.com",
+        "Icon": "N/A",
+        "Redirect": "https://hotels-in-kuala-lumpur.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotels-in-kuala-lumpur.com"
+    },
+    {
+        "link": "https://hotelsshenzhen.net",
+        "Heading": "Shenzhen hotels & apartments, all accommodations in Shenzhen",
+        "Abstract": "Online booking for hotels in Shenzhen, China. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://hotelsshenzhen.net",
+        "Icon": "N/A",
+        "Redirect": "https://hotelsshenzhen.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotelsshenzhen.net"
     },
     {
         "link": "https://htskys.com",
@@ -171,10 +171,10 @@
     },
     {
         "link": "https://jamesanderson.uk",
-        "Heading": "Just a moment...",
-        "Abstract": null,
+        "Heading": "MoviezWap Bollywood Hollywood South Hindi Dubbed Movies Filmyzilla MoviesFlix 2026",
+        "Abstract": "MoviezWap Bollywood Movies Hollywood Hindi Dubbed Movies South Indian Hindi Dubbed Movies Filmyzilla Filmy4wap Filmyfly MoviesFlix Mp4Moviez HDHub4u Vegamovies Bollyflix 300MB 480p 720p 1080p HD Download.",
         "Official Site": "https://jamesanderson.uk",
-        "Icon": "N/A",
+        "Icon": "/templates/moviezwap/images/favicon.ico",
         "Redirect": "https://jamesanderson.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jamesanderson.uk"
@@ -223,11 +223,11 @@
         "link": "https://jsmagazine.net",
         "Heading": "\uc81c\uc774\uc5d0\uc2a4\ub9e4\uac70\uc9c4",
         "Abstract": "\uc815\uce58/\uacbd\uc81c,\ubb38\ud654/\uc0ac\ud68c,\uad6d\uc81c/\uc774\uc288,sns\ub274\uc2a4,\uce7c\ub7fc, \ubb38\ud559,\ud3ec\ud1a0\uc5d0\uc138\uc774, \uc778\ubb3c,\uc624\uceec\ud2b8\ub274\uc2a4,\ub274 \ud1a0\ud06c, ",
-        "Official Site": "http://www.jsmagazine.net",
+        "Official Site": "https://m.jsmagazine.net",
         "Icon": "https://f.xza.co.kr/http://www.jsmagazine.net/data/sudanews_co_kr/upload/sns_thumbnail.jpg?wd=1662209732",
-        "Redirect": "http://www.jsmagazine.net",
+        "Redirect": "https://m.jsmagazine.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://www.jsmagazine.net"
+        "AbstractURL": "https://m.jsmagazine.net"
     },
     {
         "link": "https://jsrsn.com",

@@ -90,16 +90,6 @@
         "AbstractURL": "https://www.lolaroseglobal.com/"
     },
     {
-        "link": "https://meinadonia.de",
-        "Heading": "MeinAdonia - Portal f\u00fcr Adonia-Campteilnehmer und Campmitarbeiter",
-        "Abstract": "Portal f\u00fcr Adonia-Campteilnehmer und Campmitarbeiter von Adonia Deutschland. \u00dcbungsmaterial. Bildergalerien. Morning Power. Campinfos. Basis-Blog. Wer ist dabei.",
-        "Official Site": "https://meinadonia.de",
-        "Icon": "/assets/img/base/favicon/favicon-16x16-vQPQNIA.png",
-        "Redirect": "https://meinadonia.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://meinadonia.de"
-    },
-    {
         "link": "https://ghefoot.com",
         "Heading": "Porkbun Marketplace: The domain ghefoot.com is for sale.",
         "Abstract": "",
@@ -188,6 +178,16 @@
         "Redirect": "https://groupe-e.ch",
         "AbstractSource": "BS4",
         "AbstractURL": "https://groupe-e.ch"
+    },
+    {
+        "link": "https://saarserver.de",
+        "Heading": "SaarServer.de - Pers\u00f6nliches Webhosting Internethosting Saarland",
+        "Abstract": "Seit \u00fcber 15 Jahren Webhosting Saarland f\u00fcr Server, Domain, Hosting, Webdesign, SSL-Zertifikate u.nm. mit pers\u00f6nlicher Beratung, Loyalit\u00e4t und Verantwortung",
+        "Official Site": "https://www.saarserver.de/",
+        "Icon": "http://wp.saarserver.de/wp-content/uploads/2016/07/cropped-saarserver.jpg",
+        "Redirect": "https://www.saarserver.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.saarserver.de/"
     },
     {
         "link": "https://actioncore.com",

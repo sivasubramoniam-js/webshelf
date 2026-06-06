@@ -110,6 +110,16 @@
         "AbstractURL": "https://gk-nx.ru"
     },
     {
+        "link": "https://cotedazur-hotels.com",
+        "Heading": "French Riviera hotels & apartments, all accommodations in French Riviera",
+        "Abstract": "Online booking for hotels in French Riviera, France. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://cotedazur-hotels.com",
+        "Icon": "N/A",
+        "Redirect": "https://cotedazur-hotels.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cotedazur-hotels.com"
+    },
+    {
         "link": "https://itausaude.com.br",
         "Heading": "Ita\u00fa Sa\u00fade",
         "Abstract": "Descri\u00e7\u00e3o sobre o portal Ita\u00fa Sa\u00fade",
@@ -328,16 +338,6 @@
         "Redirect": "https://its-printer.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://its-printer.com"
-    },
-    {
-        "link": "https://unihockey.ch",
-        "Heading": "Home - Unihockey.ch",
-        "Abstract": "Das Schweizer Unihockey-Magazin",
-        "Official Site": "https://unihockey.ch",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://unihockey.ch",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://unihockey.ch"
     },
     {
         "link": "https://greate.com.hk",

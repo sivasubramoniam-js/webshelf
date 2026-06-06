@@ -40,8 +40,18 @@
         "AbstractURL": "https://evwest.com"
     },
     {
+        "link": "https://rucsh.org",
+        "Heading": "www.rucsh.org-\u5b98\u7f51\u9996\u9875",
+        "Abstract": "rucsh.org",
+        "Official Site": "https://rucsh.org",
+        "Icon": "data:;base64,iVBORw0KGgo=",
+        "Redirect": "https://rucsh.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rucsh.org"
+    },
+    {
         "link": "https://abbeyarchery.com.au",
-        "Heading": "Archery Equipment, Information & Supplies - 2026 Bows, Arrows, Accessories: Abbey Archery Australia Mobile",
+        "Heading": "Archery Equipment, Information & Supplies - 2026 Hunting Bows, Arrows, Accessories: Abbey Archery Australia",
         "Abstract": null,
         "Official Site": "https://abbeyarchery.com.au",
         "Icon": "N/A",
@@ -78,16 +88,6 @@
         "Redirect": "https://sturgillsimpson.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sturgillsimpson.com"
-    },
-    {
-        "link": "https://provedorconnecta.com.br",
-        "Heading": "CONNECTA provedor internet",
-        "Abstract": "Internet Fibra \u00d3ptica, TV. A melhor conex\u00e3o com voc\u00ea, venha para a Connecta. Assine agora a melhor.",
-        "Official Site": "https://provedorconnecta.com.br",
-        "Icon": "assets/img/favicon.png",
-        "Redirect": "https://provedorconnecta.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://provedorconnecta.com.br"
     },
     {
         "link": "https://master-333.com",

@@ -110,16 +110,6 @@
         "AbstractURL": "https://tvujweb.cz"
     },
     {
-        "link": "https://hibiki-radio.jp",
-        "Heading": "\u97ff - HiBiKi Radio Station",
-        "Abstract": "{{$root.metatags.ogp.description}}",
-        "Official Site": "{{$root.metatags.ogp.url}}",
-        "Icon": "{{$root.metatags.ogp.image}}",
-        "Redirect": "{{$root.metatags.ogp.url}}",
-        "AbstractSource": "BS4",
-        "AbstractURL": "{{$root.metatags.ogp.url}}"
-    },
-    {
         "link": "https://hamburgsud-line.com",
         "Heading": "Maersk | Integrated Container Logistics & Supply Chain Services",
         "Abstract": "Integrated logistics company and global leader in container shipping.",

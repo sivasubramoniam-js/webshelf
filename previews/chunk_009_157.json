@@ -70,16 +70,6 @@
         "AbstractURL": "https://tanjasteinbach.de"
     },
     {
-        "link": "https://climategate.nl",
-        "Heading": "Climategate Klimaat \u2013 Onthullend over natuur milieu wetenschap energie en economie",
-        "Abstract": null,
-        "Official Site": "https://www.climategate.nl/",
-        "Icon": "https://www.climategate.nl/wp-content/uploads/2020/03/Climategate-Klimaat.png",
-        "Redirect": "https://www.climategate.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.climategate.nl/"
-    },
-    {
         "link": "https://adsdms.mk",
         "Heading": "Revive Adserver",
         "Abstract": null,
@@ -118,6 +108,16 @@
         "Redirect": "https://nvspost.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nvspost.ru"
+    },
+    {
+        "link": "https://orlandowebwizard.com",
+        "Heading": "Orlando Web Wizard a web development company in Orlando, Fla",
+        "Abstract": "Specializing in building WordPress websites built for conversion, sales, and leads. With experts, who build professional websites custom-fit for businesses.",
+        "Official Site": "https://orlandowebwizard.com/",
+        "Icon": "https://orlandowebwizard.com/wp-content/uploads/2016/01/cropped-OrlandoWebWizard-left.jpg",
+        "Redirect": "https://orlandowebwizard.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://orlandowebwizard.com/"
     },
     {
         "link": "https://apkmedya.com.tr",
@@ -208,16 +208,6 @@
         "Redirect": "https://musicxray.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://musicxray.com/"
-    },
-    {
-        "link": "https://kftv.com",
-        "Heading": "Film, TV & Commercials Production Companies and Services Directory | Screen Global Production",
-        "Abstract": "The global guide to the most innovative and professional film, television and commercial production services companies, latest production news and in-depth features. Formerly KFTV",
-        "Official Site": "https://kftv.com",
-        "Icon": "/ScreenGP_Favicon.jpg",
-        "Redirect": "https://kftv.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kftv.com"
     },
     {
         "link": "https://tuxexpert.com",

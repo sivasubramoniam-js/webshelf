@@ -200,16 +200,6 @@
         "AbstractURL": "https://civitavecchia.portmobility.it/it"
     },
     {
-        "link": "https://mimeridian.com",
-        "Heading": "\n        Michigan Meridian\n    ",
-        "Abstract": "Meridian in Michigan provides government-sponsored managed care services to families, children, seniors, and individuals with complex medical needs primarily through Medicaid (Meridian), Medicare Advantage and Medicare Prescription Drug Plans (Wellcare), Medicare-Medicaid Plans (MeridianComplete), and the Health Insurance Marketplace (Ambetter from Meridian). Meridian is a wholly-owned subsidiary of Centene Corporation, a leading healthcare enterprise committed to helping people live healthier lives. ",
-        "Official Site": "https://mimeridian.com",
-        "Icon": "/content/dam/centene/meridian/mi/Images/MI-Meridian-Favicon.ico",
-        "Redirect": "https://mimeridian.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mimeridian.com"
-    },
-    {
         "link": "https://competera.net",
         "Heading": "AI-Driven Retail Price Optimization Software",
         "Abstract": "AI-driven retail price optimization software that helps enterprises predict demand, optimize prices, and increase margins with confidence.",
@@ -221,10 +211,10 @@
     },
     {
         "link": "https://holysmoke.org",
-        "Heading": null,
+        "Heading": "HolySmoke",
         "Abstract": null,
         "Official Site": "https://holysmoke.org",
-        "Icon": "data:;",
+        "Icon": "https://holysmoke.org/wp-content/uploads/2025/10/HolySmoke-Emblem.jpg",
         "Redirect": "https://holysmoke.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://holysmoke.org"
@@ -270,16 +260,6 @@
         "AbstractURL": "https://wearevr.io"
     },
     {
-        "link": "https://5ipv.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://5ipv.com",
-        "Icon": "data:image/x-icon;,",
-        "Redirect": "https://5ipv.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://5ipv.com"
-    },
-    {
         "link": "https://stpegs.net",
         "Heading": null,
         "Abstract": null,
@@ -288,6 +268,16 @@
         "Redirect": "https://stpegs.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://stpegs.net"
+    },
+    {
+        "link": "https://herodqa.com",
+        "Heading": "herodqa.com",
+        "Abstract": null,
+        "Official Site": "https://herodqa.com",
+        "Icon": "N/A",
+        "Redirect": "https://herodqa.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://herodqa.com"
     },
     {
         "link": "https://muscatineiowa.gov",
@@ -301,22 +291,12 @@
     },
     {
         "link": "https://789b.win",
-        "Heading": "789BET tiempodebalas - Link \u0110\u0103ng Nh\u1eadp Mobile & PC M\u1edbi Nh\u1ea5t C\u1ee7a 789BET.COM",
+        "Heading": "789BET restaurantcalipso - Link \u0110\u0103ng Nh\u1eadp Mobile & PC M\u1edbi Nh\u1ea5t C\u1ee7a 789BET.COM",
         "Abstract": "789BET l\u00e0 nh\u00e0 c\u00e1i c\u00e1 c\u01b0\u1ee3c tr\u1ef1c tuy\u1ebfn uy t\u00edn t\u1ea1i Vi\u1ec7t Nam, cung c\u1ea5p \u0111a d\u1ea1ng tr\u00f2 ch\u01a1i h\u1ea5p d\u1eabn, t\u1ef7 l\u1ec7 k\u00e8o c\u1ea1nh tranh, c\u00f9ng khuy\u1ebfn m\u00e3i gi\u00e1 tr\u1ecb, n\u1ea1p r\u00fat nhanh ch\u00f3ng v\u00e0 d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 24/7 chuy\u00ean nghi\u1ec7p.",
-        "Official Site": "https://tiempodebalas.cl/vi-vn/",
-        "Icon": "https://tiempodebalas.cl/wp-content/uploads/2026/03/anh-dai-dien-789bet.jpg",
-        "Redirect": "https://tiempodebalas.cl/vi-vn/",
+        "Official Site": "https://restaurantcalipso.cl/vi-vn/",
+        "Icon": "https://restaurantcalipso.cl/wp-content/uploads/2026/03/anh-dai-dien-789bet.jpg",
+        "Redirect": "https://restaurantcalipso.cl/vi-vn/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tiempodebalas.cl/vi-vn/"
-    },
-    {
-        "link": "https://virtualprofessional.ca",
-        "Heading": "Job Placement Services in Canada | Virtual Professional",
-        "Abstract": "Virtual Professional offers job placement services in Canada, connecting job seekers with top North American corporations for remote & onsite opportunities.",
-        "Official Site": "https://www.virtualprofessional.ca/",
-        "Icon": "https://www.virtualprofessional.ca/wp-content/uploads/2023/06/cropped-virtual-logo-2.png",
-        "Redirect": "https://www.virtualprofessional.ca/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.virtualprofessional.ca/"
+        "AbstractURL": "https://restaurantcalipso.cl/vi-vn/"
     }
 ]

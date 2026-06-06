@@ -24,7 +24,7 @@
         "Heading": "Dimehouse - Voordelig Thuis!",
         "Abstract": "Dimehouse is d\u00e9 plek voor jouw nieuwe meubels! Verschillende stijlen, kleuren en smaken, en alles uit voorraad leverbaar! Ruim 250.000 klanten gingen je voor!",
         "Official Site": "https://dimehouse.nl/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0648/5825/9650/files/logo-dimehouse_1200x628px.png?crop=center&height=1200&v=1730723920&width=1200",
+        "Icon": "http://dimehouse.nl/cdn/shop/files/logo-dimehouse_1200x628px.png?crop=center&height=1200&v=1730723920&width=1200",
         "Redirect": "https://dimehouse.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dimehouse.nl/"
@@ -90,16 +90,6 @@
         "AbstractURL": "https://rocketcourier.pk"
     },
     {
-        "link": "https://tansa.com",
-        "Heading": "Tansa Systems | Clear, concise and error-free content",
-        "Abstract": "Tansa deliver enterprise text proofing and hyphenation tools to media companies, large corporations, non-profit organizations and government agencies.",
-        "Official Site": "https://www.tansa.com/",
-        "Icon": "https://www.tansa.com/wp-content/uploads/2018/05/Barcode_page_cropped-min.png",
-        "Redirect": "https://www.tansa.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.tansa.com/"
-    },
-    {
         "link": "https://designerscripte.net",
         "Heading": "Designerscripte.net ",
         "Abstract": "Diest ist das ofizielle Supportforum des Loginscriptes VMS1 Virtual-Monetary-System",
@@ -108,16 +98,6 @@
         "Redirect": "https://designerscripte.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://designerscripte.net"
-    },
-    {
-        "link": "https://xinyaya.cn",
-        "Heading": "\u676d\u5dde\u4fe1\u4e2b\u4e2b\u79d1\u6280\u6709\u9650\u516c\u53f8",
-        "Abstract": null,
-        "Official Site": "https://xinyaya.cn",
-        "Icon": "N/A",
-        "Redirect": "https://xinyaya.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://xinyaya.cn"
     },
     {
         "link": "https://nbcuni-asia.com",
@@ -288,5 +268,15 @@
         "Redirect": "https://www.taokids.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.taokids.com/"
+    },
+    {
+        "link": "https://net-burg.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://net-burg.net",
+        "Icon": "N/A",
+        "Redirect": "https://net-burg.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://net-burg.net"
     }
 ]

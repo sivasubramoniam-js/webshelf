@@ -240,16 +240,6 @@
         "AbstractURL": "https://a1apps.co/"
     },
     {
-        "link": "https://renovolive.com",
-        "Heading": "Sign in",
-        "Abstract": "",
-        "Official Site": "https://renovolive.com",
-        "Icon": "/rl2/favicon.ico",
-        "Redirect": "https://renovolive.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://renovolive.com"
-    },
-    {
         "link": "https://law-democracy.org",
         "Heading": "Home - Centre for Law and Democracy",
         "Abstract": "The Centre for Law and Democracy (CLD) is a non-profit organisation working globally to promote foundational rights for democracies.",
@@ -258,16 +248,6 @@
         "Redirect": "https://www.law-democracy.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.law-democracy.org/"
-    },
-    {
-        "link": "https://habibtechno.com",
-        "Heading": "Manufacturer & Fabricators",
-        "Abstract": "MANUFACTURER & FABRICATORS Plant & Machinery Equipment For Sugar,cement, Fertilizer, Chemical & Power Generation Sectors About Us \"Our Journey Through Time\" \"Founded in 1996, Habib Techno Industries, formerly Basheer Engineering, is a leader in Pakistan's heavy industries. Rebranded twice and led by Mr. Naseer Ahmad, it has expanded services and earned key certifications like ISO-9001\u2026",
-        "Official Site": "https://habibtechno.com",
-        "Icon": "https://habibtechno.com/wp-content/uploads/2024/09/cropped-Site-Icon-32x32.png",
-        "Redirect": "https://habibtechno.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://habibtechno.com"
     },
     {
         "link": "https://redlineautoparts.com",
@@ -318,6 +298,16 @@
         "Redirect": "https://mixvip.ir",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mixvip.ir"
+    },
+    {
+        "link": "https://proan.com",
+        "Heading": "PROAN \u2013 Alimentemos al mundo juntos",
+        "Abstract": null,
+        "Official Site": "https://proan.com",
+        "Icon": "https://proan.com/wp-content/uploads/2023/02/logo-proan-color-150x138.png",
+        "Redirect": "https://proan.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://proan.com"
     },
     {
         "link": "https://amunra-cz.com",

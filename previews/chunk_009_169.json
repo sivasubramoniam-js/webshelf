@@ -170,14 +170,14 @@
         "AbstractURL": "https://uuskasutus.ee/"
     },
     {
-        "link": "https://elcapitantheatre.com",
-        "Heading": "El Capitan Theatre | Official Site",
-        "Abstract": "Experience new and classic Disney films and special events at the El Capitan Theatre, a beautifully restored 1920s movie palace on Hollywood Blvd. ",
-        "Official Site": "https://elcapitantheatre.com",
-        "Icon": "https://lumiere-a.akamaihd.net/v1/images/theater_info_banner_dd46e06e.jpeg?region=0%2C0%2C1920%2C640",
-        "Redirect": "https://elcapitantheatre.com",
+        "link": "https://docaviv.co.il",
+        "Heading": "\u05d3\u05d5\u05e7\u05d0\u05d1\u05d9\u05d1",
+        "Abstract": "\u05d3\u05d5\u05e7\u05d0\u05d1\u05d9\u05d1 \u05d4\u05d5\u05d0 \u05d4\u05e4\u05e1\u05d8\u05d9\u05d1\u05dc \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9 \u05d4\u05d2\u05d3\u05d5\u05dc \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05dc\u05e7\u05d5\u05dc\u05e0\u05d5\u05e2 \u05d3\u05d5\u05e7\u05d5\u05de\u05e0\u05d8\u05e8\u05d9 \u2014 \u05d5\u05d4\u05d9\u05d7\u05d9\u05d3 \u05d4\u05de\u05d5\u05e7\u05d3\u05e9 \u05db\u05d5\u05dc\u05d5 \u05dc\u05d9\u05e6\u05d9\u05e8\u05d4 \u05d3\u05d5\u05e7\u05d5\u05de\u05e0\u05d8\u05e8\u05d9\u05ea. \u05dc\u05d0\u05d5\u05e8\u05da \u05d4\u05e9\u05e0\u05d9\u05dd \u05d1\u05d9\u05e1\u05e1 \u05d4\u05e4\u05e1\u05d8\u05d9\u05d1\u05dc \u05d0\u05ea \u05de\u05e2\u05de\u05d3\u05d5 \u05db\u05d0\u05d9\u05e8\u05d5\u05e2 \u05d4\u05ea\u05e8\u05d1\u05d5\u05ea \u05d4\u05de\u05e8\u05db\u05d6\u05d9 \u05d1\u05ea\u05d7\u05d5\u05dd, \u05d4\u05de\u05d5\u05e9\u05da \u05d0\u05dc\u05d9\u05d5 \u05e2\u05e9\u05e8\u05d5\u05ea \u05d0\u05dc\u05e4\u05d9 \u05e6\u05d5\u05e4\u05d9\u05dd, \u05d9\u05d5\u05e6\u05e8\u05d9\u05dd \u05d5\u05d0\u05e0\u05e9\u05d9 \u05ea\u05e2\u05e9\u05d9\u05d9\u05d4 \u05de\u05d4\u05d0\u05e8\u05e5 \u05d5\u05de\u05d4\u05e2\u05d5\u05dc\u05dd.",
+        "Official Site": "https://www.docaviv.co.il/",
+        "Icon": "https://www.docaviv.co.il/wp-content/uploads/2026/05/DOCAVIV-Main-Slide-1-scaled.png",
+        "Redirect": "https://www.docaviv.co.il/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://elcapitantheatre.com"
+        "AbstractURL": "https://www.docaviv.co.il/"
     },
     {
         "link": "https://auto-czesci-lipiec.pl",
@@ -198,16 +198,6 @@
         "Redirect": "https://www.icgiyimozel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.icgiyimozel.com"
-    },
-    {
-        "link": "https://mistertimbri.it",
-        "Heading": "Timbri personalizzati online: ordina subito il tuo timbro",
-        "Abstract": "Crea il tuo Timbro Personalizzato \u2713 Prodotto in Italia \u2713 Miglior Prezzo Online \u2713 Spedizioni Immediate e gratuite per ordini superiori a 75\u20ac \u2713 Su Mistertimbri.it",
-        "Official Site": "https://mistertimbri.it",
-        "Icon": "https://www.mistertimbri.it/media/favicon/stores/1/magento-iconB1.png",
-        "Redirect": "https://mistertimbri.it",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mistertimbri.it"
     },
     {
         "link": "https://talaku.es",
@@ -260,6 +250,16 @@
         "AbstractURL": "https://therootedword.com"
     },
     {
+        "link": "https://lederniereheure.com",
+        "Heading": "Le derniere heure \u2013 lederniereheure.com",
+        "Abstract": null,
+        "Official Site": "https://lederniereheure.com",
+        "Icon": "N/A",
+        "Redirect": "https://lederniereheure.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lederniereheure.com"
+    },
+    {
         "link": "https://bernards.com",
         "Heading": "Bernards",
         "Abstract": "Bernards is an employee-owned multidisciplinary commercial builder and construction management company delivering technical expertise and outstanding construction services to developers, corporations, educational institutions, and public agencies.",
@@ -268,16 +268,6 @@
         "Redirect": "https://www.bernards.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bernards.com/"
-    },
-    {
-        "link": "https://chemindigest.com",
-        "Heading": "Chemical Industry Digest - Leading chemical magazine in India",
-        "Abstract": "Chemical Industry Digest, published by Blockdale Media LLP, is a technical journal oriented towards engineers and decision makers in all chemical & process.",
-        "Official Site": "https://chemindigest.com/",
-        "Icon": "https://chemindigest.com/wp-content/uploads/2026/02/main-image.jpg",
-        "Redirect": "https://chemindigest.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chemindigest.com/"
     },
     {
         "link": "https://via-la.com",

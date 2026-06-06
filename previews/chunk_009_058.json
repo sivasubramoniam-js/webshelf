@@ -10,16 +10,6 @@
         "AbstractURL": "https://dankogames.com"
     },
     {
-        "link": "https://smakprov.se",
-        "Heading": "Smakprov.se",
-        "Abstract": "Smakprov - L\u00e4s gratis smakprov fr\u00e5n tusentals b\u00f6cker",
-        "Official Site": "https://www.smakprov.se/",
-        "Icon": "/favicon-32x32.png",
-        "Redirect": "https://www.smakprov.se/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.smakprov.se/"
-    },
-    {
         "link": "https://ecoprocura.eu",
         "Heading": "Online casino uden om ROFUS \ud83d\udcb0 Bedste danske online casinoer uden registrering ",
         "Abstract": "Spil p\u00e5 de bedste online casinoer uden om Rofus og nyd grenseoverskridende underholdning \ud83c\udfb0 Brug sikre platforme og gode bonuser for maksimal forn\u00f8jelse.",
@@ -43,11 +33,11 @@
         "link": "https://769audio.vn",
         "Heading": "769 Audio - \u0110i\u1ec7n m\u00e1y 769 - Thi\u1ebft b\u1ecb \u00e2m thanh loa karaoke ch\u00ednh h\u00e3ng",
         "Abstract": "769 Audio (T\u1eeb 1992) - Ph\u00e2n ph\u1ed1i thi\u1ebft b\u1ecb \u00e2m thanh chuy\u00ean nghi\u1ec7p, High-end ch\u00ednh h\u00e3ng: JBL, Bose, Denon, Accuphase. Ti\u00ean phong gi\u1ea3i ph\u00e1p 769 AI Digital.",
-        "Official Site": "https://769audio.vn",
-        "Icon": "favicon.ico",
-        "Redirect": "https://769audio.vn",
+        "Official Site": "https://769audio.vn/",
+        "Icon": "https://769audio.vn/images/logo.png",
+        "Redirect": "https://769audio.vn/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://769audio.vn"
+        "AbstractURL": "https://769audio.vn/"
     },
     {
         "link": "https://lykfencingworks.com",

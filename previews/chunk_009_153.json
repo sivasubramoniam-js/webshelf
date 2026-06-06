@@ -40,16 +40,6 @@
         "AbstractURL": "https://businessua.com"
     },
     {
-        "link": "https://vendlive.com",
-        "Heading": "Vendlive - Home of Automated Retail",
-        "Abstract": null,
-        "Official Site": "https://vendlive.com",
-        "Icon": "https://static.vendlive.com/static/img/ico/favicon.ico",
-        "Redirect": "https://vendlive.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vendlive.com"
-    },
-    {
         "link": "https://trailswa.com.au",
         "Heading": "Trails WA: Explore the best trails in Western Australia for Hiking, Mountain Bike, Trail Running and more - Trails WA",
         "Abstract": "Trails WA",
@@ -143,11 +133,11 @@
         "link": "https://gomustangsports.com",
         "Heading": "\n\tStevenson University - Official Athletics Website\n",
         "Abstract": "The official athletics website for the Stevenson University",
-        "Official Site": "https://gomustangsports.com/",
+        "Official Site": "https://gomustangsports.com/index.aspx",
         "Icon": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fgomustangsports.com%2fimages%2flogos%2fsite%2fsite.png&type=jpeg",
-        "Redirect": "https://gomustangsports.com/",
+        "Redirect": "https://gomustangsports.com/index.aspx",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gomustangsports.com/"
+        "AbstractURL": "https://gomustangsports.com/index.aspx"
     },
     {
         "link": "https://aceticket.com",

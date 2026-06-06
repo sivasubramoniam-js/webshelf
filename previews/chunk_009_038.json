@@ -110,6 +110,16 @@
         "AbstractURL": "https://europeum.org"
     },
     {
+        "link": "https://sehiyye.gov.az",
+        "Heading": "Ana s\u0259hif\u0259",
+        "Abstract": "",
+        "Official Site": "https://sehiyye.gov.az/",
+        "Icon": "https://sehiyye.gov.az/site/templates/img/500x500.jpg",
+        "Redirect": "https://sehiyye.gov.az/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sehiyye.gov.az/"
+    },
+    {
         "link": "https://tripbucket.com",
         "Heading": "TripBucket - What's on your Bucket List?",
         "Abstract": "{{ vm.pageDescription }}",
@@ -148,6 +158,26 @@
         "Redirect": "https://www.rto.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.rto.de"
+    },
+    {
+        "link": "https://malawi.gov.mw",
+        "Heading": "Malawi Government Information and Services - Home",
+        "Abstract": "Guide to Malawi Government Information and Services",
+        "Official Site": "https://malawi.gov.mw/",
+        "Icon": "/templates/shaper_educon/images/favicon.ico",
+        "Redirect": "https://malawi.gov.mw/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://malawi.gov.mw/"
+    },
+    {
+        "link": "https://hostzy.live",
+        "Heading": "Hostzy - Instantly Host Unlimited Websites & Domains\nOn cPanel Hosting",
+        "Abstract": "Hostzy - Instantly Host Unlimited Websites & Domains\nOn cPanel Hosting",
+        "Official Site": "https://hostzy.live",
+        "Icon": "images/icon.png",
+        "Redirect": "https://hostzy.live",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hostzy.live"
     },
     {
         "link": "https://ixandarel.space",

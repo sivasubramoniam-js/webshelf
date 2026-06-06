@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://ilmattinoquotidiano.it",
-        "Heading": "Il Mattino Quotidiano - Notizie di Puglia, Molise, Campania e Basilicata",
-        "Abstract": "Leggi le ultime notizie e aggiornamenti su cronaca, politica, economia e cultura dalle regioni di Puglia, Molise, Campania e Basilicata. Rimani sempre informato con Il Mattino Quotidiano.",
-        "Official Site": "https://www.ilmattinoquotidiano.it/",
-        "Icon": "https://www.ilmattinoquotidiano.it/favicon_1.ico?v=1430747340000",
-        "Redirect": "https://www.ilmattinoquotidiano.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ilmattinoquotidiano.it/"
-    },
-    {
         "link": "https://everydaydishes.com",
         "Heading": "Everyday Dishes \u2013 We make it easy to find delicious recipes.",
         "Abstract": "We make it easy to find delicious recipes.",
@@ -50,6 +40,16 @@
         "AbstractURL": "https://shwoodshop.com/"
     },
     {
+        "link": "https://vermontdailychronicle.com",
+        "Heading": "Vermont Daily Chronicle - News & Commentary for Vermont",
+        "Abstract": "News & Commentary for Vermont",
+        "Official Site": "https://vermontdailychronicle.com/",
+        "Icon": "https://i0.wp.com/vermontdailychronicle.com/wp-content/uploads/2021/03/cropped-VDaily-logo-REV-001-dark-.jpg?fit=32%2C32&ssl=1",
+        "Redirect": "https://vermontdailychronicle.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vermontdailychronicle.com/"
+    },
+    {
         "link": "https://spreadsheetpoint.com",
         "Heading": "Spreadsheet Point - Google Sheets Tips & Tutorials",
         "Abstract": "Spreadsheet Point is dedicated to helping you master Google Sheets and Excel. We have hundreds of expert-written guides and templates.",
@@ -73,11 +73,11 @@
         "link": "https://newhavenchargers.com",
         "Heading": "\n\tUniversity of New Haven Athletics - Official Athletics Website\n",
         "Abstract": "The official athletics website for the University of New Haven Chargers",
-        "Official Site": "https://newhavenchargers.com/",
+        "Official Site": "https://newhavenchargers.com/index.aspx",
         "Icon": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fnewhaven.internetconsult.com%2fimages%2flogos%2fsite%2fsite.png&type=jpeg",
-        "Redirect": "https://newhavenchargers.com/",
+        "Redirect": "https://newhavenchargers.com/index.aspx",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://newhavenchargers.com/"
+        "AbstractURL": "https://newhavenchargers.com/index.aspx"
     },
     {
         "link": "https://s-gpw.de",
@@ -140,16 +140,6 @@
         "AbstractURL": "https://searchfor.org"
     },
     {
-        "link": "https://gaydesertguide.com",
-        "Heading": "Gay Palm Springs, Gay Resorts, Pride, Gay Bars, LGBTQ, Queer Events",
-        "Abstract": "KGay Desert Guide Palm Springs Gay Desert Guide is the website to plan and find FUN in the Palm Springs Oasis. Top Events calendar. Bookmark us, follow us and stay updated.",
-        "Official Site": "https://gaydesertguide.com/",
-        "Icon": "https://gaydesertguide.com/wp-content/uploads/logo-2-e1719664631915.png",
-        "Redirect": "https://gaydesertguide.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gaydesertguide.com/"
-    },
-    {
         "link": "https://westermanngruppe.de",
         "Heading": "Startseite",
         "Abstract": "Die Westermann Gruppe geh\u00f6rt mit ihren Verlagen, Druckereien und Services zu den f\u00fchrenden deutschen Anbietern von Bildungsmedien.",
@@ -188,16 +178,6 @@
         "Redirect": "https://it-rwo.eu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://it-rwo.eu"
-    },
-    {
-        "link": "https://r4d.org",
-        "Heading": "Home | Results for Development",
-        "Abstract": "Results for Development is working with change agents around the globe to strengthen locally led health and education systems for all.",
-        "Official Site": "https://r4d.org/",
-        "Icon": "https://r4d.org/wp-content/themes/results-4-development/favicon.ico",
-        "Redirect": "https://r4d.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://r4d.org/"
     },
     {
         "link": "https://aalock.com",

@@ -131,13 +131,13 @@
     },
     {
         "link": "https://aviation-sphere.com",
-        "Heading": "Leading Aviation Component Supplier, NSN Parts Distributor",
-        "Abstract": "We gives you premium aircraft, aviation tools and parts along with NSN parts. Get the detail quotation for aviation, electronic and NSN parts for maintenance and repair of your aircraft before purchase.",
-        "Official Site": "https://www.aviation-sphere.com/",
-        "Icon": "https://www.aviation-sphere.com/images/logo.webp",
-        "Redirect": "https://www.aviation-sphere.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://aviation-sphere.com",
+        "Icon": "N/A",
+        "Redirect": "https://aviation-sphere.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.aviation-sphere.com/"
+        "AbstractURL": "https://aviation-sphere.com"
     },
     {
         "link": "https://sameroom.io",
@@ -171,13 +171,23 @@
     },
     {
         "link": "https://fstconnect.com",
-        "Heading": null,
+        "Heading": "ConnectingOffers",
         "Abstract": null,
         "Official Site": "https://fstconnect.com",
         "Icon": "N/A",
         "Redirect": "https://fstconnect.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fstconnect.com"
+    },
+    {
+        "link": "https://britanniainngower.co.uk",
+        "Heading": "Top Casinos Not on GamStop for UK Players \u2014 2026 Edition",
+        "Abstract": "Discover the 2026 edition of top casinos not on GamStop available to UK players. Solid payouts, strong bonuses, and safe payment methods reviewed.",
+        "Official Site": "https://www.britanniainngower.co.uk",
+        "Icon": "/casino-sites-not-on-gamstop-uk.webp",
+        "Redirect": "https://www.britanniainngower.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.britanniainngower.co.uk"
     },
     {
         "link": "https://andelsboligweb.dk",
@@ -230,16 +240,6 @@
         "AbstractURL": "https://planetanim.fr/"
     },
     {
-        "link": "https://covivio.eu",
-        "Heading": "Covivio - Living real estate",
-        "Abstract": "In Milan, Covivio is transforming Symbiosis into a sustainable, mixed-use urban hub, combining offices, hotels and housing as part of a responsible real estate strategy.",
-        "Official Site": "https://www.covivio.eu/en/",
-        "Icon": "https://www.covivio.eu/app/uploads/sites/6/2023/10/Stream-Building-1024x555.jpg",
-        "Redirect": "https://www.covivio.eu/en/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.covivio.eu/en/"
-    },
-    {
         "link": "https://qcymall.com",
         "Heading": "\n      QCY Oficial | Fones de ouvido sem fio e fones de ouvido Bluetooth\n \u2013 qcymall",
         "Abstract": "Descubra os fones de ouvido sem fio e fones de ouvido Bluetooth premium da QCY para um som imersivo. Perfeitos para iOS e Android. Compre agora para a melhor experi\u00eancia de \u00e1udio!",
@@ -268,6 +268,16 @@
         "Redirect": "https://1000awesomethings.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://1000awesomethings.com/"
+    },
+    {
+        "link": "https://galerioptik.com",
+        "Heading": "GALER\u0130 OPT\u0130K | Trend G\u00fcne\u015f G\u00f6zl\u00fc\u011f\u00fc Markalar\u0131",
+        "Abstract": "Hermossa'dan Blancia Milano'ya, Despada\u2019dan Ray-Ban\u2019a trendlere y\u00f6n veren marka g\u00fcne\u015f g\u00f6zl\u00fckleri ile tarz\u0131n\u0131za yepyeni bir hava kat\u0131n.",
+        "Official Site": "https://galerioptik.com",
+        "Icon": "/favicon.ico?revision=8.4.2.0-0",
+        "Redirect": "https://galerioptik.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://galerioptik.com"
     },
     {
         "link": "https://albatronic.es",
