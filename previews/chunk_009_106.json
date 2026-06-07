@@ -90,16 +90,6 @@
         "AbstractURL": "https://projectatomic.io"
     },
     {
-        "link": "https://digimaxhost.co.uk",
-        "Heading": "Domain Default page",
-        "Abstract": null,
-        "Official Site": "https://digimaxhost.co.uk",
-        "Icon": "N/A",
-        "Redirect": "https://digimaxhost.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://digimaxhost.co.uk"
-    },
-    {
         "link": "https://gelpro.com",
         "Heading": "Kitchen Comfort Mat | Ultimate Anti Fatigue Floor Mats | GelPro",
         "Abstract": "The ultimate anti-fatigue floor mat, GelPro is engineered for comfort. Buy this designer gel mat for your kitchen, workspace, or anywhere that requires standing.",
@@ -188,16 +178,6 @@
         "Redirect": "https://webenerji.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://webenerji.com"
-    },
-    {
-        "link": "https://a-tech.com",
-        "Heading": "Action Industries \u2013 Delivered by A-TECH",
-        "Abstract": "Get top-quality garage door parts with reliable, damage-free delivery from Action Industries \u2013 Delivered by A-TECH. Trusted by dealers & contractors.",
-        "Official Site": "https://trust-atech.com/",
-        "Icon": "https://trust-atech.com/wp-content/uploads/2025/04/cropped-action-truck-careers.jpg",
-        "Redirect": "https://trust-atech.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://trust-atech.com/"
     },
     {
         "link": "https://closedpubs.co.uk",
@@ -328,5 +308,15 @@
         "Redirect": "https://zeecu.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zeecu.com"
+    },
+    {
+        "link": "https://techbehindit.com",
+        "Heading": "Tech Behind It - Latest Technology News & Updates",
+        "Abstract": "Tech Behind It provides the latest updates about Business, Technology, Artificial Intelligence,Gadgets etc from around the world.",
+        "Official Site": "/",
+        "Icon": "https://techbehindit.com/wp-content/uploads/2020/08/BUSINESS-e1598672208316.jpg",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
     }
 ]

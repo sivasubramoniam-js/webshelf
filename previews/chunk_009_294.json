@@ -20,16 +20,6 @@
         "AbstractURL": "https://vertahosting.com"
     },
     {
-        "link": "https://monitorulneamt.ro",
-        "Heading": "Monitorul de Neam\u021b \u2013 \u0218tiri de ultim\u0103 or\u0103 din jude\u021bul Neam\u021b",
-        "Abstract": "Ziarul care st\u0103 de vorb\u0103 cu oamenii",
-        "Official Site": "https://monitorulneamt.ro/",
-        "Icon": "https://i0.wp.com/monitorulneamt.ro/wp-content/uploads/logo-monitorul1.png?fit=272%2C90&ssl=1",
-        "Redirect": "https://monitorulneamt.ro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://monitorulneamt.ro/"
-    },
-    {
         "link": "https://taif.ru",
         "Heading": "\u0422\u0430\u0438\u0444 \u0433\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439",
         "Abstract": null,
@@ -108,6 +98,16 @@
         "Redirect": "https://smartunitconverter.app",
         "AbstractSource": "BS4",
         "AbstractURL": "https://smartunitconverter.app"
+    },
+    {
+        "link": "https://lifewithoutlimbs.org",
+        "Heading": "Home 2026 - NickV Ministries",
+        "Abstract": "No matter who you are or what you\u2019ve done, Jesus loves you and has made a way for you to have a relationship with Him forever.",
+        "Official Site": "https://nickvministries.org/",
+        "Icon": "https://nickvministries.org/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=1229&type=logo&hash=a662148e28ad183e3c2033d6ef28c008",
+        "Redirect": "https://nickvministries.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nickvministries.org/"
     },
     {
         "link": "https://dna-technology.ru",

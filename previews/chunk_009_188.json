@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://alu-cab.com",
+        "Heading": "Alu-Cab Global | Make It Better",
+        "Abstract": "Enjoy the thrill of adventure with our premium overland gear. Enhance your 4x4 with our range of canopies, rooftop tents, awnings & more.",
+        "Official Site": "https://www.alu-cab.com/",
+        "Icon": "https://acmedia.s3.amazonaws.com/wp-content/uploads/2024/11/08155437/ModCapCamper_March202424-scaled.jpg",
+        "Redirect": "https://www.alu-cab.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.alu-cab.com/"
+    },
+    {
         "link": "https://acridpgapp.com",
         "Heading": "Hello World",
         "Abstract": null,
@@ -18,6 +28,16 @@
         "Redirect": "https://fotarft999.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fotarft999.net"
+    },
+    {
+        "link": "https://evrensurucukursu.net",
+        "Heading": null,
+        "Abstract": "",
+        "Official Site": "https://evrensurucukursu.net",
+        "Icon": "/templates/mm6w3sug/tr-pinco-re2/favicon.ico",
+        "Redirect": "https://evrensurucukursu.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://evrensurucukursu.net"
     },
     {
         "link": "https://swarminteractive.com",
@@ -54,7 +74,7 @@
         "Heading": "\ud83c\udfc6 Premium WordPress Themes | Gutenberg & Elementor Compatible Themes",
         "Abstract": "Amazing Premium and Free WordPress themes. Download Gutenberg and Elementor Compatible Free WordPress Themes. Buy Premium WordPress Elementor themes & Templates",
         "Official Site": "https://wpcharms.com/",
-        "Icon": "https://cdn-aflcd.nitrocdn.com/pbHyNZgifiLfvIqQEJXpyMDjwbtbwEOc/assets/images/optimized/rev-d4e06a1/wpcharms.com/wp-content/uploads/2019/04/wpcharms-2-150x150.png",
+        "Icon": "https://wpcharms.com/wp-content/uploads/2019/04/wpcharms-2-150x150.png",
         "Redirect": "https://wpcharms.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wpcharms.com/"
@@ -78,16 +98,6 @@
         "Redirect": "https://cloudan.ir",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cloudan.ir"
-    },
-    {
-        "link": "https://thibautcourtoiscz.biz",
-        "Heading": "thibautcourtoiscz.biz",
-        "Abstract": null,
-        "Official Site": "https://thibautcourtoiscz.biz",
-        "Icon": "N/A",
-        "Redirect": "https://thibautcourtoiscz.biz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thibautcourtoiscz.biz"
     },
     {
         "link": "https://sathiharu.com",
@@ -148,26 +158,6 @@
         "Redirect": "https://kktpakistan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kktpakistan.com"
-    },
-    {
-        "link": "https://law-firm-rechtsanwalt-sattler-schanda-vienna-wien-austria.at",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://law-firm-rechtsanwalt-sattler-schanda-vienna-wien-austria.at",
-        "Icon": "N/A",
-        "Redirect": "https://law-firm-rechtsanwalt-sattler-schanda-vienna-wien-austria.at",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://law-firm-rechtsanwalt-sattler-schanda-vienna-wien-austria.at"
-    },
-    {
-        "link": "https://seasoft.com",
-        "Heading": "IBM Z & IBM i | Mainframe Software | AS400 Software | IT Service Management | IBM Z & IBM i | Mainframe Software | AS400 Software | IT Service Management  \n  ",
-        "Abstract": "Software Engineering of America has built a reputation as a leading provider of IT management, enterprise, mainframe (IBM software Z), and as400 (IBM i) software solutions.",
-        "Official Site": "https://seasoft.com/",
-        "Icon": "https://seasoft.com/wp-content/uploads/2025/10/seasoft-social-media.jpg",
-        "Redirect": "https://seasoft.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://seasoft.com/"
     },
     {
         "link": "https://homemediamagazine.com",
@@ -268,16 +258,6 @@
         "Redirect": "https://www.bucaimsef.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bucaimsef.org/"
-    },
-    {
-        "link": "https://orient-explorer.net",
-        "Heading": "About Us \u2013 Orient Explorer",
-        "Abstract": null,
-        "Official Site": "https://orient-explorer.net",
-        "Icon": "N/A",
-        "Redirect": "https://orient-explorer.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://orient-explorer.net"
     },
     {
         "link": "https://ozerova.school",

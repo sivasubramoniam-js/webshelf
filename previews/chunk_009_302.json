@@ -60,6 +60,16 @@
         "AbstractURL": "https://nmls.ru"
     },
     {
+        "link": "https://webqua.jp",
+        "Heading": "\u6b6f\u79d1\u885b\u751f\u58eb\u6c42\u4eba\u3001\u6b6f\u79d1\u533b\u5e2b\u6c42\u4eba\u30fb\u8ee2\u8077\u30fb\u5c02\u9580\u30b5\u30a4\u30c8\uff5c\u30af\u30aa\u30ad\u30e3\u30ea\u30a2",
+        "Abstract": "\u6b6f\u79d1\u885b\u751f\u58eb\u3001\u6b6f\u79d1\u533b\u5e2b\u306e\u6c42\u4eba\u3001\u8ee2\u8077\u60c5\u5831\u306a\u3089\u30af\u30aa\u30ad\u30e3\u30ea\u30a2\u3002\u6b6f\u79d1\u885b\u751f\u58eb\u306e\u65b0\u5352\u6c42\u4eba\u304b\u3089\u8ee2\u8077\u3001\u5fa9\u8077\u306e\u6c42\u4eba\u3002\u6b6f\u79d1\u533b\u5e2b\u306e\u81e8\u5e8a\u7814\u4fee\u533b\u306e\u5c31\u8077\u304b\u3089\u52e4\u52d9\u533b\u306e\u8ee2\u8077\u60c5\u5831\u3092\u63b2\u8f09\u4e2d\u3067\u3059\u3002\u6b6f\u79d1\u5c02\u9580\u3060\u304b\u3089\u3053\u305d\u306e\u6a5f\u80fd\u3067\u69d8\u3005\u306a\u6761\u4ef6\u3067\u63a2\u3059\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+        "Official Site": "https://www.webqua.jp",
+        "Icon": "https://www.webqua.jp/img/common/ogimg.jpg",
+        "Redirect": "https://www.webqua.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.webqua.jp"
+    },
+    {
         "link": "https://sqldbm.com",
         "Heading": "Data Architecture Platform for Enterprise Teams | SqlDBM",
         "Abstract": "SqlDBM is the context layer for AI-ready data architecture. Design, govern, and connect every layer of your data, from conceptual to semantic, in one collaborative platform",
@@ -68,6 +78,16 @@
         "Redirect": "https://sqldbm.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sqldbm.com/"
+    },
+    {
+        "link": "https://iamx.eu",
+        "Heading": "Iamx.eu",
+        "Abstract": "Home",
+        "Official Site": "https://iamx.eu",
+        "Icon": "N/A",
+        "Redirect": "https://iamx.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iamx.eu"
     },
     {
         "link": "https://etre-belle.su",
@@ -100,6 +120,16 @@
         "AbstractURL": "https://bilimastana.kz/"
     },
     {
+        "link": "https://globeinvestor.com",
+        "Heading": "Globe Investor - The Globe and Mail",
+        "Abstract": "Globe Investor offers the most current and up-to-date information on stocks and markets from The Globe and Mail. Find personal finance, mortgage, investment ideas, market information, and stock pick news and analysis from Canada and the world.",
+        "Official Site": "https://www.theglobeandmail.com/investing/",
+        "Icon": "https://www.theglobeandmail.com/pf/resources/assets/meta/favicon-32x32.png?d=913",
+        "Redirect": "https://www.theglobeandmail.com/investing/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.theglobeandmail.com/investing/"
+    },
+    {
         "link": "https://yidff.jp",
         "Heading": "YIDFF Official Site",
         "Abstract": "Yamagata International Documentary Film Festival Official Site",
@@ -128,16 +158,6 @@
         "Redirect": "https://zyreotv.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zyreotv.com"
-    },
-    {
-        "link": "https://writingservice.ae",
-        "Heading": "Writing Service Dubai: UAE's #1 Cheap Essay Writing Services",
-        "Abstract": "Are you a Middle East's student need cheap essay writing service in Dubai, Abu Dhabi, Sharjah, Gulf and UAE? We offer best essay writers help fast online.",
-        "Official Site": "https://writingservice.ae/",
-        "Icon": "/assets/images/brandlogo.png",
-        "Redirect": "https://writingservice.ae/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://writingservice.ae/"
     },
     {
         "link": "https://nofxofficialwebsite.com",
@@ -268,16 +288,6 @@
         "Redirect": "https://blueos.com.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://blueos.com.cn"
-    },
-    {
-        "link": "https://scrapbookpages.com",
-        "Heading": "Welcome to Official Homepage of Scrap Book Pages!",
-        "Abstract": "Welcome to Scrap Book Pages! We have stories behind the past and we would love to share our knowledge with you!",
-        "Official Site": "https://www.scrapbookpages.com/",
-        "Icon": "https://www.scrapbookpages.com/wp-content/uploads/2021/01/cropped-transparent-logo-32x32.png",
-        "Redirect": "https://www.scrapbookpages.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.scrapbookpages.com/"
     },
     {
         "link": "https://appos.io",

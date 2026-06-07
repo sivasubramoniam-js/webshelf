@@ -20,16 +20,6 @@
         "AbstractURL": "https://www.schmitt-feuerwehrtechnik.de/fwt-bss/"
     },
     {
-        "link": "https://yaftomict.com",
-        "Heading": "Website Development and Design, Graphic, Motion, YAFTOM Graphic & ICT Solutions \u2013 Design, Domain, hosting, design, animation, .af .com .co .gov.af",
-        "Abstract": null,
-        "Official Site": "https://yaftomgraphic.com/",
-        "Icon": "https://i0.wp.com/yaftomgraphic.com/wp-content/uploads/2023/07/cropped-Yaftom_GRaphic.png?fit=32%2C32&ssl=1",
-        "Redirect": "https://yaftomgraphic.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://yaftomgraphic.com/"
-    },
-    {
         "link": "https://hamel.dev",
         "Heading": "Hamel Husain\u2019s Blog \u2013 Hamel's Blog - Hamel Husain",
         "Abstract": "Notes on applied AI engineering, machine learning, and data science.",
@@ -110,24 +100,14 @@
         "AbstractURL": "https://expye.com"
     },
     {
-        "link": "https://norwayhotel.net",
-        "Heading": "Norway hotels & apartments, all accommodations in Norway",
-        "Abstract": "Online booking for hotels in Norway, Norway. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://norwayhotel.net",
-        "Icon": "/images/favicons/2/favicon.ico",
-        "Redirect": "https://norwayhotel.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://norwayhotel.net"
-    },
-    {
         "link": "https://redgreenandblue.org",
-        "Heading": "Red, Green, and Blue | Red State Voices and Blue State Voices coming together for GREEN",
-        "Abstract": "Red State Voices and Blue State Voices coming together for GREEN",
-        "Official Site": "https://redgreenandblue.org/",
-        "Icon": "http://redgreenandblue.org/wp-content/uploads/2018/10/rgb-image.jpg",
-        "Redirect": "https://redgreenandblue.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://redgreenandblue.org",
+        "Icon": "data:;",
+        "Redirect": "https://redgreenandblue.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://redgreenandblue.org/"
+        "AbstractURL": "https://redgreenandblue.org"
     },
     {
         "link": "https://veshok.com",
@@ -190,16 +170,6 @@
         "AbstractURL": "https://krab3.com"
     },
     {
-        "link": "https://connexum.ru",
-        "Heading": "Connexum - \u0446\u0438\u0444\u0440\u043e\u0432\u0430\u044f \u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0434\u043b\u044f \u0432\u0440\u0430\u0447\u0435\u0439",
-        "Abstract": "\u0425\u0440\u0430\u043d\u0435\u043d\u0438\u0435, \u043e\u0431\u043c\u0435\u043d \u0438 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0445 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439",
-        "Official Site": "http://site.connexum.ru",
-        "Icon": "/images/tild6431-6237-4234-a235-653133316664__-__resize__504x__main_top_bg.jpg",
-        "Redirect": "http://site.connexum.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://site.connexum.ru"
-    },
-    {
         "link": "https://ganz-hamburg.de",
         "Heading": "ganz-hamburg - Lifestyle Stadtportal und Cityblog f\u00fcr Hamburg",
         "Abstract": null,
@@ -228,6 +198,16 @@
         "Redirect": "https://www.sbktelecom.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sbktelecom.com/"
+    },
+    {
+        "link": "https://cityofdreamsmed.com.cy",
+        "Heading": "City of Dreams Mediterranean | Resort, Casino & Entertainment",
+        "Abstract": "Experience luxury thrills at Europe\u2019s first integrated resort, casino and entertainment, City of Dreams Mediterranean, in Limassol, Cyprus. Stay, play and dine!",
+        "Official Site": "https://www.cityofdreamsmed.com.cy/en",
+        "Icon": "https://www.cityofdreamsmed.com.cy/favicon_med.ico",
+        "Redirect": "https://www.cityofdreamsmed.com.cy/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cityofdreamsmed.com.cy/en"
     },
     {
         "link": "https://ritconcept.com",

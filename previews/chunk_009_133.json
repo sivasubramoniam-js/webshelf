@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://dlmelectriccorp.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dlmelectriccorp.com",
-        "Icon": "N/A",
-        "Redirect": "https://dlmelectriccorp.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dlmelectriccorp.com"
-    },
-    {
         "link": "https://guvenlikfilecim.com",
         "Heading": "G\u00fcvenlik Filecim \u2013 File ve G\u00fcvenlik A\u011flar\u0131!",
         "Abstract": null,
@@ -28,16 +18,6 @@
         "Redirect": "https://www.digitalmarketingcommunity.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.digitalmarketingcommunity.com/"
-    },
-    {
-        "link": "https://leaguetv.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://leaguetv.com",
-        "Icon": "N/A",
-        "Redirect": "https://leaguetv.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://leaguetv.com"
     },
     {
         "link": "https://101beat.com",
@@ -148,6 +128,16 @@
         "Redirect": "https://caucasusbarometer.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://caucasusbarometer.org"
+    },
+    {
+        "link": "https://saint-medard-en-jalles.fr",
+        "Heading": "Saint-M\u00e9dard-en-Jalles",
+        "Abstract": "Bienvenue sur le site de Saint-M\u00e9dard-en-Jalles en Gironde",
+        "Official Site": "https://www.saint-medard-en-jalles.fr/",
+        "Icon": "https://www.saint-medard-en-jalles.fr/wp-content/uploads/2024/08/espace-naturel-Pole-Simone-Veil.jpg",
+        "Redirect": "https://www.saint-medard-en-jalles.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.saint-medard-en-jalles.fr/"
     },
     {
         "link": "https://manyconvert.com",

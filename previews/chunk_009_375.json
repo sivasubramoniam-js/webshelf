@@ -114,7 +114,7 @@
         "Heading": "\n      \u4f4f\u5b85\u8a2d\u5099\u306e\u53d6\u66ff\u30fb\u4ea4\u63db\u5de5\u4e8b\u306a\u3089\u4f4f\u8a2d\u30c9\u30c3\u30c8\u30b3\u30e0\u3078\n",
         "Abstract": "\u7d66\u6e6f\u5668\u30fb\u30c8\u30a4\u30ec\u306a\u3069\u306e\u4ea4\u63db\u5de5\u4e8b\u3092\u5168\u56fd\u5bfe\u5fdc\u3067\u5b9f\u65bd\uff01\u4f4f\u8a2d\u30c9\u30c3\u30c8\u30b3\u30e0\u306a\u3089\u7121\u6599\u898b\u7a4d\u308a\u30fb\u88dc\u52a9\u91d1\u5bfe\u5fdc\u30fb\u6700\u77ed\u7fcc\u65e5\u5de5\u4e8b\u3082\u53ef\u80fd\u3002\u4fe1\u983c\u306e\u5b9f\u7e3e\u591a\u6570\u3001\u307e\u305a\u306f\u4f9d\u983c\u3078\u3002",
         "Official Site": "https://jyusetu.com/",
-        "Icon": "http://jyusetu.com/cdn/shop/files/ogp.jpg?v=1764236781",
+        "Icon": "http://cdn.shopify.com/s/files/1/0696/7604/0328/files/ogp.jpg?v=1764236781",
         "Redirect": "https://jyusetu.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jyusetu.com/"
@@ -164,7 +164,7 @@
         "Heading": "\n      TBhai.com | Customize Everything\n \u2013 T Bhai",
         "Abstract": "Pregnancy Photo Shoot T-Shirts | Bride T-Shirts | T-Shirts for Vacations and Group Outings | Kids Birthday T-Shirts | Custom Aprons | Custom Posters | Custom Tapestries | Custom Mugs | Matching Family T-Shirts | Custom T-Shirts | Custom Jacket | Custom Sweatshirts | Ideal Gifts",
         "Official Site": "https://www.tbhai.com/",
-        "Icon": "http://www.tbhai.com/cdn/shop/files/TBhai_Logo_1200x628_3568ebc7-cbef-40cc-ba7d-e81c24b63470.jpg?v=1632154305",
+        "Icon": "http://cdn.shopify.com/s/files/1/1029/1193/files/TBhai_Logo_1200x628_3568ebc7-cbef-40cc-ba7d-e81c24b63470.jpg?v=1632154305",
         "Redirect": "https://www.tbhai.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tbhai.com/"
@@ -188,6 +188,16 @@
         "Redirect": "https://uniquecafes.com.br/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://uniquecafes.com.br/"
+    },
+    {
+        "link": "https://vzduchotechnika-shop.sk",
+        "Heading": "Vzduchotechnika - ventil\u00e1tory do k\u00fapelne, priemyseln\u00e9 ventil\u00e1tory",
+        "Abstract": "Vzduchotechnika a odbo\u010dky na vzduchotechniku ventil\u00e1tory do k\u00fapelne,spiro na vzduchotechniku krbov\u00e9 ventil\u00e1tory priemyseln\u00e9 ventil\u00e1tory rev\u00edzne dvierka",
+        "Official Site": "https://vzduchotechnika-shop.sk/",
+        "Icon": "https://vzduchotechnika-shop.sk/image/catalog/_design/shop-logo-v2.png",
+        "Redirect": "https://vzduchotechnika-shop.sk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vzduchotechnika-shop.sk/"
     },
     {
         "link": "https://waixo.com",
@@ -248,6 +258,16 @@
         "Redirect": "https://www.sunbasedata.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sunbasedata.com/"
+    },
+    {
+        "link": "https://sportshakers.com.ng",
+        "Heading": "Homepage - Sportshakers",
+        "Abstract": "Lee Cummard\u2019s Bold Mission: Reviving BYU\u2019s Winning Legacy with Passion, Precision, and Unbreakable Bonds From Rival to Redemption: Carsen Ryan Joins BYU to Chase NFL Dream and Rewrite His Legacy Hodge places his emphasis on people to build program\u2026.Ross Hodge had some experience inside the Coliseum prior to being hired to lead the basketball program.",
+        "Official Site": "https://sportshakers.com.ng/",
+        "Icon": "https://sportshakers.com.ng/wp-content/uploads/2025/04/W2_0799-1200x800-1-300x200.jpg",
+        "Redirect": "https://sportshakers.com.ng/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sportshakers.com.ng/"
     },
     {
         "link": "https://winebazaar.com",

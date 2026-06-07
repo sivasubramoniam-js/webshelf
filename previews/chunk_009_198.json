@@ -1,10 +1,10 @@
 [
     {
         "link": "https://gemtel.com.mx",
-        "Heading": "Webmail Login",
+        "Heading": "Welcome To Gemtel",
         "Abstract": null,
         "Official Site": "https://gemtel.com.mx",
-        "Icon": "data:image/x-icon;base64,AAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC+8MW+3z+9/l6l2383xH+iSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1+w/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2+1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou+f6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m+RncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL+mZE18e36IWiHLkFocqzW9QXcNz1+wUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD+/p6dJDknzX+05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX+DPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC",
+        "Icon": "N/A",
         "Redirect": "https://gemtel.com.mx",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gemtel.com.mx"
@@ -40,16 +40,6 @@
         "AbstractURL": "https://gunsla.com"
     },
     {
-        "link": "https://textureking.com",
-        "Heading": "Free  Textures from TextureKing",
-        "Abstract": "Free high resolution, high quality textures for personal and commercial use from TextureKing.",
-        "Official Site": "https://textureking.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://textureking.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://textureking.com"
-    },
-    {
         "link": "https://mainkey.net",
         "Heading": "Home | Main Key Realty",
         "Abstract": null,
@@ -70,16 +60,6 @@
         "AbstractURL": "https://www.ourpcb.com"
     },
     {
-        "link": "https://ikippgribojonegoro.ac.id",
-        "Heading": "IKIP PGRI Bojonegoro \u2013 Harmony in Education",
-        "Abstract": null,
-        "Official Site": "https://ikippgribojonegoro.ac.id",
-        "Icon": "https://ikippgribojonegoro.ac.id/wp-content/uploads/2025/02/xcropped-Logo-Baru-IKIP-PGR-Bojonegoro--32x32.png.pagespeed.ic.DXuZN28tct.png",
-        "Redirect": "https://ikippgribojonegoro.ac.id",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ikippgribojonegoro.ac.id"
-    },
-    {
         "link": "https://commercialexchange.com",
         "Heading": "Moody's CRE",
         "Abstract": null,
@@ -98,6 +78,16 @@
         "Redirect": "https://www.allcopyproducts.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.allcopyproducts.com"
+    },
+    {
+        "link": "https://definition6.com",
+        "Heading": "Bridgenext: Go beyond transformation to digital realization",
+        "Abstract": "We are a digital consultancy that blends engineering, data, infrastructure, and creative to create delightful digital experiences with measurable results.",
+        "Official Site": "https://www.bridgenext.com/",
+        "Icon": "https://resources.bridgenext.com/wp-content/uploads/2024/01/cropped-android-chrome-512x512-1-32x32.png",
+        "Redirect": "https://www.bridgenext.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bridgenext.com/"
     },
     {
         "link": "https://vualto.com",
@@ -260,14 +250,14 @@
         "AbstractURL": "https://9610.com"
     },
     {
-        "link": "https://akp.gov.kh",
-        "Heading": "Agence Kampuchea Presse - AKP",
-        "Abstract": "Official news agency of Cambodia providing accurate and reliable information.",
-        "Official Site": "https://akp.gov.kh",
-        "Icon": "https://akp.gov.kh/fronts/img/logo.png",
-        "Redirect": "https://akp.gov.kh",
+        "link": "https://persinfo.org",
+        "Heading": "Home | Persinfo    ",
+        "Abstract": "",
+        "Official Site": "https://persinfo.org",
+        "Icon": "/android-icon-192x192.png",
+        "Redirect": "https://persinfo.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://akp.gov.kh"
+        "AbstractURL": "https://persinfo.org"
     },
     {
         "link": "https://chilemat.cl",
@@ -278,6 +268,16 @@
         "Redirect": "https://www.chilemat.cl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.chilemat.cl/"
+    },
+    {
+        "link": "https://osomatsusan.com",
+        "Heading": "TV\u30a2\u30cb\u30e1\u300c\u304a\u305d\u677e\u3055\u3093\u300d\u516c\u5f0f\u30b5\u30a4\u30c8",
+        "Abstract": "TV\u30a2\u30cb\u30e1\u300c\u304a\u305d\u677e\u3055\u3093\u300d\u516c\u5f0f\u30b5\u30a4\u30c8\u30022025\u5e747\u67088\u65e5\u304b\u3089\u3001\u6bce\u9031\u706b\u66dc\u6df1\u591c24\u6642\uff5e\u30c6\u30ec\u6771\u7cfb\u52176\u5c40\u30cd\u30c3\u30c8\u306b\u3066\u653e\u9001\u958b\u59cb\uff01\u3010\u30ad\u30e3\u30b9\u30c8\u3011\u6afb\u4e95\u5b5d\u5b8f\u3001\u4e2d\u6751\u60a0\u4e00\u3001\u795e\u8c37\u6d69\u53f2\u3001\u798f\u5c71 \u6f64\u3001\u5c0f\u91ce\u5927\u8f14\u3001\u5165\u91ce\u81ea\u7531\u3001\u9060\u85e4 \u7dbe\u3001\u9234\u6751\u5065\u4e00\u3001\u570b\u7acb \u5e78\u3001\u4e0a\u7530\u71ff\u53f8\u3001\u98db\u7530\u5c55\u7537\u3001\u658e\u85e4\u6843\u5b50\u307b\u304b\n\u3010\u30b9\u30bf\u30c3\u30d5\u3011\u539f\u4f5c\uff1a\u300e\u304a\u305d\u677e\u304f\u3093\u300f \u8d64\u585a\u4e0d\u4e8c\u592b\u3001\u76e3\u7763\uff1a\u5c0f\u9ad8\u7fa9\u898f\u3001\u30b7\u30ea\u30fc\u30ba\u69cb\u6210\uff1a\u677e\u539f\u79c0\u3001\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30c7\u30b6\u30a4\u30f3\uff1a\u5b89\u5f66\u82f1\u4e8c\u3001\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u5236\u4f5c\uff1aPIERROT FILMS",
+        "Official Site": "https://osomatsusan.com/",
+        "Icon": "https://osomatsusan.com/ogp_v4.jpg",
+        "Redirect": "https://osomatsusan.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://osomatsusan.com/"
     },
     {
         "link": "https://tuscanynowandmore.com",
@@ -308,16 +308,6 @@
         "Redirect": "https://screenclaim.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://screenclaim.com"
-    },
-    {
-        "link": "https://rheged.com",
-        "Heading": "Rheged | Cafe Gallery Cinema Shops | Penrith Cumbria",
-        "Abstract": "Rheged is a gallery, caf\u00e9, cinema, shopping venue, workplace and creative space on the edge of the Northern Lakes.",
-        "Official Site": "https://rheged.com/",
-        "Icon": "https://rheged.com/wp-content/uploads/2021/05/Group-500.svg",
-        "Redirect": "https://rheged.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rheged.com/"
     },
     {
         "link": "https://widows.com",

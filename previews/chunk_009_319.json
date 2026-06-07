@@ -20,16 +20,6 @@
         "AbstractURL": "https://aliup-ext.info"
     },
     {
-        "link": "https://senecadata.com",
-        "Heading": "Seneca Product Support | Arrow Electronics",
-        "Abstract": "For technical or warranty support for Seneca products, please contact us at 800.227.3432 (option 5) or email our team at senecacustomercare@arrow.com",
-        "Official Site": "https://www.arrow.com/company/seneca-product-support",
-        "Icon": "https://www.arrow.com/company/wp-content/uploads/2022/05/Resources_banner.jpg",
-        "Redirect": "https://www.arrow.com/company/seneca-product-support",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.arrow.com/company/seneca-product-support"
-    },
-    {
         "link": "https://svgbox.net",
         "Heading": "SVGBox | \n    API for Web Icons\n",
         "Abstract": "\n    SVGBox allows you to add any of the 4,623 icons we have to your project by using simple tags. \n    Instead of using downloading and uploading icons, simply copy tag and start using it. We are constantly adding \n    more and more icons to serve different use cases.\n",
@@ -108,16 +98,6 @@
         "Redirect": "https://wwdubs.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wwdubs.com"
-    },
-    {
-        "link": "https://chaos-giga.com",
-        "Heading": "\u6df7\u6c8c\u622f\u753b  |  \u3086\u308b\u304f\u3066\u523a\u6fc0\u7684\u306a\u5927\u4eba\u306e\u307e\u3068\u3081\u30b5\u30a4\u30c8",
-        "Abstract": "\u3086\u308b\u304f\u3066\u523a\u6fc0\u7684\u306a\u5927\u4eba\u306e\u307e\u3068\u3081\u30b5\u30a4\u30c8",
-        "Official Site": "https://chaos-giga.com",
-        "Icon": "https://chaos-giga.com/wp-content/uploads/2024/08/gigako.png",
-        "Redirect": "https://chaos-giga.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chaos-giga.com"
     },
     {
         "link": "https://trackone.net",
@@ -200,6 +180,16 @@
         "AbstractURL": "https://worldwide-ua.com/"
     },
     {
+        "link": "https://weworld.it",
+        "Heading": "WeWorld | Organizzazione umanitaria per un mondo giusto",
+        "Abstract": "Da oltre 50 anni WeWorld aiuta i bambini, le bambine e i pi\u00f9 deboli nel campo dei diritti umani, della sicurezza alimentare, della salute e molto altro.",
+        "Official Site": "https://weworld.it",
+        "Icon": "https://ejbn4fjvt9h.exactdn.com/uploads/2024/12/WhatsApp-Image-2024-12-02-at-16.59.12_1bd94e41-aspect-ratio-375-280.jpg",
+        "Redirect": "https://weworld.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://weworld.it"
+    },
+    {
         "link": "https://zamekryn.pl",
         "Heading": "Hotel Mazury - Hotel Zamek Ryn**** na Mazurach - Legendarna Go\u015bcinno\u015b\u0107",
         "Abstract": "Zapraszamy serdecznie do wyj\u0105tkowego hotelu w Zamku Ryn na Mazurach. Gwarantujemy unikaln\u0105 atmosfer\u0119, atrakcyjne ceny i niezapomniane wakacje. Hotel na Mazurach z basenem.",
@@ -230,14 +220,14 @@
         "AbstractURL": "https://thenewoil.org"
     },
     {
-        "link": "https://parapsych.org",
-        "Heading": "Parapsychological Association \u2013 A professional organization of scientists and scholars engaged in the study of psi (or 'psychic') experiences",
-        "Abstract": "The Parapsychological Association is an international professional organization of scientists and scholars engaged in the study of psi (or psychic) experiences. Affiliated with the AAAS since 1969.",
-        "Official Site": "https://parapsychological.org/",
-        "Icon": "https://parapsychological.org/wp-content/uploads/2025/11/cropped-PA-initials_webres2whitebackground-32x32.jpg",
-        "Redirect": "https://parapsychological.org/",
+        "link": "https://dubaiembroidery.ae",
+        "Heading": "Custom Logo Embroidery Service Dubai UAE",
+        "Abstract": null,
+        "Official Site": "https://dubaiembroidery.ae",
+        "Icon": "./assets/images/favicon.ico",
+        "Redirect": "https://dubaiembroidery.ae",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://parapsychological.org/"
+        "AbstractURL": "https://dubaiembroidery.ae"
     },
     {
         "link": "https://planbphoto.com",
@@ -268,16 +258,6 @@
         "Redirect": "https://multibrandaffiliates.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://multibrandaffiliates.com"
-    },
-    {
-        "link": "https://mn-wiki.de",
-        "Heading": "MN-Wiki",
-        "Abstract": null,
-        "Official Site": "https://mn-wiki.de",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://mn-wiki.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mn-wiki.de"
     },
     {
         "link": "https://sociedadekant.org",

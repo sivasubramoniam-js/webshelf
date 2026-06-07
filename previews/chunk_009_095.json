@@ -1,13 +1,23 @@
 [
     {
-        "link": "https://dolphinproject.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dolphinproject.com",
-        "Icon": "N/A",
-        "Redirect": "https://dolphinproject.com",
+        "link": "https://ipm-essen.de",
+        "Heading": "Die Weltleitmesse des Gartenbaus | IPM ESSEN",
+        "Abstract": "Die Internationale Pflanzenmesse (IPM ESSEN) ist die Weltleitmesse des Gartenbaus. Als einzige Fachmesse ihrer Art bildet sie die gesamte Wertsch\u00f6pfungskette von der Pflanzen-Produktion, \u00fcber die Technik, Floristik, Ausstattung bis hin zum Point of Sale ab. Auf keiner anderen Pflanzenmesse findet das Fachpublikum eine derart umfassende Markt\u00fcbersicht und vielf\u00e4ltige Neuheiten. ",
+        "Official Site": "https://ipm-essen.de",
+        "Icon": "/media/neue-medien/favicon/ipm_favicon.ico",
+        "Redirect": "https://ipm-essen.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dolphinproject.com"
+        "AbstractURL": "https://ipm-essen.de"
+    },
+    {
+        "link": "https://yolkfolk.com",
+        "Heading": "Yolkfolk.com \u2013 The Dizzy Fansite",
+        "Abstract": null,
+        "Official Site": "https://yolkfolk.com",
+        "Icon": "https://yolkfolk.com/wp-content/uploads/2020/12/cropped-DizzySwingHiRes-1-32x32.png",
+        "Redirect": "https://yolkfolk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yolkfolk.com"
     },
     {
         "link": "https://veloconnect.io",
@@ -140,6 +150,16 @@
         "AbstractURL": "https://www.freetv-app.com/"
     },
     {
+        "link": "https://etfacademy.it",
+        "Heading": "BlackRock ETF Academy",
+        "Abstract": "ETF Academy \u00e8 un percorso formativo per una maggiore conoscenza degli ETF, strumenti finanziari che hanno registrato una crescita esponenziale negli ultimi 10 anni",
+        "Official Site": "https://etfacademy.it",
+        "Icon": "/favicon.png",
+        "Redirect": "https://etfacademy.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://etfacademy.it"
+    },
+    {
         "link": "https://talonmarks.com",
         "Heading": "talonmarks.com",
         "Abstract": "Cerritos College Talon Marks",
@@ -148,16 +168,6 @@
         "Redirect": "https://www.talonmarks.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.talonmarks.com/"
-    },
-    {
-        "link": "https://wealthup.com",
-        "Heading": "WealthUpdate: Learn. Grow. Thrive.",
-        "Abstract": null,
-        "Official Site": "https://wealthup.com/",
-        "Icon": "https://wealthup.com/wp-content/uploads/wealthupdate1095x290-loosertest.png",
-        "Redirect": "https://wealthup.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wealthup.com/"
     },
     {
         "link": "https://sportingglobe.com.au",
@@ -198,16 +208,6 @@
         "Redirect": "https://psiusa.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://psiusa.com"
-    },
-    {
-        "link": "https://boatlessfishing.com",
-        "Heading": "Boatless Fishing Florida fishing Piers Bridges Jetties Beaches",
-        "Abstract": null,
-        "Official Site": "https://boatlessfishing.com",
-        "Icon": "N/A",
-        "Redirect": "https://boatlessfishing.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://boatlessfishing.com"
     },
     {
         "link": "https://gofasthobbies.com",

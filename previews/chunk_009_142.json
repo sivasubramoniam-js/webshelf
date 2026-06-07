@@ -30,6 +30,16 @@
         "AbstractURL": "https://quarterstudios.net/"
     },
     {
+        "link": "https://unicaveiculos.com",
+        "Heading": "Un\u00edca Ve\u00edculos",
+        "Abstract": "Loja de carros em Hortol\u00e2ndia",
+        "Official Site": "https://unicaveiculos.com",
+        "Icon": "N/A",
+        "Redirect": "https://unicaveiculos.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://unicaveiculos.com"
+    },
+    {
         "link": "https://aviatorjogoaposta.com.br",
         "Heading": "Aviator Aposta: o Jogo Do Avi\u00e3ozinho Que Faz Voc\u00ea Ganhar!",
         "Abstract": "Aposte no Aviator e ganhe b\u00f4nus incr\u00edveis na Aposta! Aprenda a jogar Avi\u00e3ozinho e comece a ganhar agora mesmo. Jogue online e divirta-se!",
@@ -120,16 +130,6 @@
         "AbstractURL": "https://www.theticket.com/"
     },
     {
-        "link": "https://alcommhosting.net",
-        "Heading": "Coming Soon",
-        "Abstract": null,
-        "Official Site": "https://alcommhosting.net",
-        "Icon": "favicon.ico",
-        "Redirect": "https://alcommhosting.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://alcommhosting.net"
-    },
-    {
         "link": "https://bajena.com",
         "Heading": "\u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0430 \u0438 \u043c\u0438\u0440\u0430 \u2013 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043c\u0430\u0442\u0447\u0435\u0439 \u0438 \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430",
         "Abstract": "\u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0430: \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u041a\u041f\u041b, \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430, \u0438\u043d\u0442\u0435\u0440\u0432\u044c\u044e, \u0442\u0443\u0440\u043d\u0438\u0440\u043d\u044b\u0435 \u0442\u0430\u0431\u043b\u0438\u0446\u044b \u0438 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043c\u0430\u0442\u0447\u0435\u0439. \u2713 \u0412\u0441\u0435 \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043c\u0435\u0441\u0442\u0435",
@@ -148,6 +148,26 @@
         "Redirect": "https://www.viherkauppa.fi/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.viherkauppa.fi/"
+    },
+    {
+        "link": "https://greensm.com",
+        "Heading": "Green SM - D\u1ecbch v\u1ee5 di chuy\u1ec3n thu\u1ea7n \u0111i\u1ec7n, ch\u1ea5t l\u01b0\u1ee3ng 5 sao | Green SM",
+        "Abstract": "D\u1ecbch v\u1ee5 di chuy\u1ec3n thu\u1ea7n \u0111i\u1ec7n \u0111\u1ea7u ti\u00ean t\u1ea1i Vi\u1ec7t Nam, tr\u1ea3i nghi\u1ec7m an to\u00e0n h\u01a1n v\u1edbi xe xanh \u0111\u1ea1t chu\u1ea9n qu\u1ed1c t\u1ebf, \u00eam \u00e1i, kh\u00f4ng m\u00f9i, chi ph\u00ed t\u1ed1i \u01b0u. \u0110\u1eb7t xe 1555",
+        "Official Site": "https://www.greensm.com/vn-vi",
+        "Icon": "https://cdn.xanhsm.com/2026/04/d1fe6f66-logo-green-sm.png",
+        "Redirect": "https://www.greensm.com/vn-vi",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.greensm.com/vn-vi"
+    },
+    {
+        "link": "https://75626.com",
+        "Heading": "75626.com",
+        "Abstract": null,
+        "Official Site": "https://75626.com",
+        "Icon": "data:;base64,iVBORw0KGgo=",
+        "Redirect": "https://75626.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://75626.com"
     },
     {
         "link": "https://futbolsapiens.com",
@@ -170,16 +190,6 @@
         "AbstractURL": "https://afchomeclub.com"
     },
     {
-        "link": "https://nooi.de",
-        "Heading": "Strodeweg Media GmbH & Co. KG | D\u00fcsseldorf, Wittmund, Aurich",
-        "Abstract": "Die Strodeweg Media ist eine Internetagentur f\u00fcr Webservice, Strategie, Konzeption, Umsetzung und Betreuung von Webprojekten (u.a. TYPO3, WordPress, Joomla!), sowie Softwareentwicklung, Datenbanken, Datenverarbeitung und Beratung (Social Media, SEO, SEM, Usability). [D-26632 Ihlow]",
-        "Official Site": "https://nooi.de",
-        "Icon": "https://www.strodeweg.de/fileadmin/templates/images/favicon.ico",
-        "Redirect": "https://nooi.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nooi.de"
-    },
-    {
         "link": "https://homeswitchome.com",
         "Heading": "\u05d1\u05d9\u05ea \u05de\u05d7\u05dc\u05d9\u05e3 \u05d1\u05d9\u05ea \u2013 \u05d0\u05ea\u05e8 \u05d5\u05d5\u05e8\u05d3\u05e4\u05e8\u05e1 \u05d7\u05d3\u05e9",
         "Abstract": null,
@@ -188,16 +198,6 @@
         "Redirect": "https://www.homeswitchome.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.homeswitchome.com/"
-    },
-    {
-        "link": "https://delsurca.com",
-        "Heading": "Delsurca",
-        "Abstract": null,
-        "Official Site": "https://delsurca.com",
-        "Icon": "https://delsurca.com/wp-content/uploads/2022/01/cropped-logo_delsur-221x71-1.png",
-        "Redirect": "https://delsurca.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://delsurca.com"
     },
     {
         "link": "https://bonusqr.com",

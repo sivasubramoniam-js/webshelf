@@ -170,24 +170,24 @@
         "AbstractURL": "https://picabo.cz"
     },
     {
-        "link": "https://concertocare.com",
-        "Heading": "Welcome to ConcertoCare",
-        "Abstract": "",
-        "Official Site": "https://concertocare.com",
-        "Icon": "/favicon-32x32.png",
-        "Redirect": "https://concertocare.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://concertocare.com"
-    },
-    {
         "link": "https://xcalibrscans.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://xcalibrscans.com",
         "Icon": "N/A",
         "Redirect": "https://xcalibrscans.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xcalibrscans.com"
+    },
+    {
+        "link": "https://loctite-consument.be",
+        "Heading": "Homepage",
+        "Abstract": null,
+        "Official Site": "https://www.loctite-consument.be/nl.html",
+        "Icon": "https://dm.henkel-dam.com/is/image/henkel/loctite_master_project_banner_4096x1024",
+        "Redirect": "https://www.loctite-consument.be/nl.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.loctite-consument.be/nl.html"
     },
     {
         "link": "https://interplus.com.pl",
@@ -228,16 +228,6 @@
         "Redirect": "https://andromedainsights.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://andromedainsights.com/"
-    },
-    {
-        "link": "https://sustainhealth.fit",
-        "Heading": "Sustain Your Health: Discover the Benefits of Fitness",
-        "Abstract": "PreviousNext\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n  \n    \n\n      \n\n        Sustain Health Newsletter\n\n        Health, fitness and lifestyle stories worth opening",
-        "Official Site": "https://sustainhealth.fit/",
-        "Icon": "https://sustainhealth.fit/wp-content/uploads/2025/12/Sutain-Health-Magazine-Social-Media.webp",
-        "Redirect": "https://sustainhealth.fit/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sustainhealth.fit/"
     },
     {
         "link": "https://alloansonline.com",

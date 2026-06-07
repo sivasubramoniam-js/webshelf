@@ -10,26 +10,6 @@
         "AbstractURL": "https://zorenza-store.com/de-de"
     },
     {
-        "link": "https://tcbuildtech.com",
-        "Heading": "TC BuildTech | Innovative Construction Solutions for Your Projects",
-        "Abstract": "Discover TC BuildTech's comprehensive construction services designed to deliver quality results. From planning to execution, trust our expertise to elevate your project. Contact us today!",
-        "Official Site": "https://tcbuildtech.com/",
-        "Icon": "https://tcbuildtech.com/wp-content/uploads/2024/06/tcbuildtech1.png",
-        "Redirect": "https://tcbuildtech.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tcbuildtech.com/"
-    },
-    {
-        "link": "https://jupseo.net",
-        "Heading": "Index of /",
-        "Abstract": null,
-        "Official Site": "https://jupseo.net",
-        "Icon": "N/A",
-        "Redirect": "https://jupseo.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jupseo.net"
-    },
-    {
         "link": "https://shigeyukikihara.com",
         "Heading": "Website Maintenance | Shigeyuki Kihara - Artist Portfolio",
         "Abstract": "Contemporary Pacific art, photography, and cultural research by Samoan-Japanese artist Shigeyuki Kihara",
@@ -38,16 +18,6 @@
         "Redirect": "https://shigeyukikihara.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shigeyukikihara.com/"
-    },
-    {
-        "link": "https://hallocktechnologies.com",
-        "Heading": "Hallock Technologies - Technology at its Best for YOUR Success!",
-        "Abstract": "Hallock Technologies is the trusted leader in for IT services, innovative web design, seamless video conferencing, dynamic live streaming, and more!",
-        "Official Site": "https://hallocktechnologies.com/",
-        "Icon": "https://hallocktechnologies.com/wp-content/uploads/2024/10/HallockTechnologies-FF-01-1-fotor-202410057955_with_bgc.png",
-        "Redirect": "https://hallocktechnologies.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hallocktechnologies.com/"
     },
     {
         "link": "https://trainerswarehouse.com",
@@ -78,6 +48,16 @@
         "Redirect": "https://mclibre.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mclibre.org"
+    },
+    {
+        "link": "https://kavyapublications.com",
+        "Heading": "Best Book Publishing Company | Self Book Publishing in India",
+        "Abstract": "Publish and sell your book with the India `s leading best book publishing company. Here we provide you the best platform to self publish your book.",
+        "Official Site": "https://kavyapublications.com",
+        "Icon": "images/logo/favicon.png",
+        "Redirect": "https://kavyapublications.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kavyapublications.com"
     },
     {
         "link": "https://7idgaming.de",
@@ -220,16 +200,6 @@
         "AbstractURL": "https://www.suhayla.co.za/"
     },
     {
-        "link": "https://webhostech.com",
-        "Heading": "Trusted, Cheap, Secure & Best Web Hosting | Web HosTech",
-        "Abstract": "Web Hostech is a cheap web hosting company in pakistan to offer the most trusted web hosting services and provide fully speed & security.",
-        "Official Site": "https://www.webhostech.com/",
-        "Icon": "https://www.webhostech.com/wp-content/uploads/2025/05/webhostech-main-banner-1-1-1024x683-3.webp",
-        "Redirect": "https://www.webhostech.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.webhostech.com/"
-    },
-    {
         "link": "https://webcortex.com",
         "Heading": "\n    WEBCORTEX HOMEPAGE\t\n  ",
         "Abstract": "WebCortex - HOMEPAGE ",
@@ -238,15 +208,5 @@
         "Redirect": "https://webcortex.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://webcortex.com"
-    },
-    {
-        "link": "https://hostedwebsolutions.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://hostedwebsolutions.com",
-        "Icon": "N/A",
-        "Redirect": "https://hostedwebsolutions.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hostedwebsolutions.com"
     }
 ]

@@ -50,16 +50,6 @@
         "AbstractURL": "https://akumuink.com/"
     },
     {
-        "link": "https://agrimate.net",
-        "Heading": "Agrimate.net Material Agricola - Grupo Cardoso & Ferraz Lda",
-        "Abstract": null,
-        "Official Site": "https://agrimate.net",
-        "Icon": "N/A",
-        "Redirect": "https://agrimate.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://agrimate.net"
-    },
-    {
         "link": "https://nossaclinicaam.com.br",
         "Heading": "Nossa Cl\u00ednica Sa\u00fade em Manaus \u2013 Fisioterapia | Acupuntura | Fonoaudiologia | Psicologia | Nutricionista",
         "Abstract": null,
@@ -68,6 +58,16 @@
         "Redirect": "https://nossaclinicaam.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nossaclinicaam.com.br"
+    },
+    {
+        "link": "https://raywebarts.com",
+        "Heading": "Web Designers Colombo, Ray Web Arts, For a Futuristic Website",
+        "Abstract": "Web Designers Colombo, Ray Web Arts, For all your website designing needs, information, business, company and e commerce websites",
+        "Official Site": "https://www.raywebarts.com/",
+        "Icon": "https://www.raywebarts.com/wp-content/uploads/2018/12/web-design.png",
+        "Redirect": "https://www.raywebarts.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.raywebarts.com/"
     },
     {
         "link": "https://sunstrongmanagement.com",
@@ -190,21 +190,11 @@
         "AbstractURL": "https://stviateurbagel.com/"
     },
     {
-        "link": "https://dentalclinicjamnagar.com",
-        "Heading": "DUTALOTRE : Game Lotre Online Dengan Sistem Draw dan Gameplay Interaktif",
-        "Abstract": "DUTALOTRE menghadirkan hiburan digital modern dengan akses mudah, permainan seru, dan pengalaman bermain menyenangkan.",
-        "Official Site": "https://dentalclinicjamnagar.com/",
-        "Icon": "https://i.postimg.cc/MZ9MRj1x/banner1011.png",
-        "Redirect": "https://dentalclinicjamnagar.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dentalclinicjamnagar.com/"
-    },
-    {
         "link": "https://uvaldecoop.com",
-        "Heading": "Uvalde County Farmers Coop - Homepage",
-        "Abstract": "",
+        "Heading": "Homepage - Uvalde County Farmers Coop - Mobile",
+        "Abstract": null,
         "Official Site": "https://uvaldecoop.com",
-        "Icon": "//s3.amazonaws.com/media.agricharts.com/sites/2525/Pictures/Coop Logo.png",
+        "Icon": "http://s3.amazonaws.com/media.agricharts.com/sites/2525/Pictures/Coop Logo.png",
         "Redirect": "https://uvaldecoop.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://uvaldecoop.com"

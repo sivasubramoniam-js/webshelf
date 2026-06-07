@@ -70,6 +70,16 @@
         "AbstractURL": "https://www.imedia-systems.de/"
     },
     {
+        "link": "https://capc-bordeaux.fr",
+        "Heading": "Accueil | Capc",
+        "Abstract": null,
+        "Official Site": "https://capc-bordeaux.fr",
+        "Icon": "/sites/BOR-CAPC-DRUPAL/files/sites/BOR-CAPC-DRUPAL/files/favicons/favicon-32x32.png",
+        "Redirect": "https://capc-bordeaux.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://capc-bordeaux.fr"
+    },
+    {
         "link": "https://duschenprofis.de",
         "Heading": "Duschkabinen in nur 24h geliefert",
         "Abstract": "10.000 moderne Glas-Duschen auf Lager \u2713 Top-Preise auch nach Ma\u00df \u2713 Gratis von den Duschenprofis beraten lassen!",
@@ -78,16 +88,6 @@
         "Redirect": "https://www.duschenprofis.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.duschenprofis.de/"
-    },
-    {
-        "link": "https://bialto.com",
-        "Heading": "Bialto.com \u2013 Comprar, Vender e Participar em Leil\u00f5es Online",
-        "Abstract": "Participe nos melhores leil\u00f5es online! Compre e venda itens exclusivos com seguran\u00e7a e facilidade no Bialto Leil\u00f5es. Descubra uma variedade de produtos e oportunidades.",
-        "Official Site": "https://bialto.com",
-        "Icon": "/uploads/favic.png",
-        "Redirect": "https://bialto.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bialto.com"
     },
     {
         "link": "https://bodenfuchs24.de",
@@ -290,14 +290,14 @@
         "AbstractURL": "https://firstpersontetris.com"
     },
     {
-        "link": "https://portfolioserver.xyz",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://portfolioserver.xyz",
-        "Icon": "N/A",
-        "Redirect": "https://portfolioserver.xyz",
+        "link": "https://bioshockinfinite.com",
+        "Heading": "BioShock Official Site | 2K Games",
+        "Abstract": "Unravel the mystery, upgrade beyond possibility, and shape your ultimate fate in this critically acclaimed, retro-futuristic shooter series. ",
+        "Official Site": "https://2k.com/games/bioshock/",
+        "Icon": "https://assets.2k.com/1a6ngf98576c/5qYKKBCanhR58cJZf6cDON/fe6f177287c9356efb9b4c7e9fe82522/2K_Web_App_config_Thumbnail_1920x1080.jpg",
+        "Redirect": "https://2k.com/games/bioshock/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://portfolioserver.xyz"
+        "AbstractURL": "https://2k.com/games/bioshock/"
     },
     {
         "link": "https://gardenofthegodsresort.com",

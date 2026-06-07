@@ -100,16 +100,6 @@
         "AbstractURL": "https://www.vitadao.com"
     },
     {
-        "link": "https://stewartslaw.com",
-        "Heading": "   \n                            Stewarts - The Litigation Specialists - A Law Firm Like No Other\n                    ",
-        "Abstract": "Specialists in high-value and complex disputes, our track record of success for our clients has helped us become the UK\u2019s leading litigation-only law firm.",
-        "Official Site": "https://www.stewartslaw.com/",
-        "Icon": "https://www.stewartslaw.com/app/uploads/2022/04/Stewarts-Home-s.jpg",
-        "Redirect": "https://www.stewartslaw.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.stewartslaw.com/"
-    },
-    {
         "link": "https://nordcap.de",
         "Heading": "NordCap K\u00fchl-, Koch- und Sp\u00fcltechnik f\u00fcr Gastro | Gro\u00dfk\u00fcche | Gewerbe",
         "Abstract": "\u2705 Technik  \u2705 Sonderbau \u2705 Konzepte \u2705 Service f\u00fcr den Au\u00dfer-Haus-Markt  Professionell K\u00fchlen, Tiefk\u00fchlen, Pr\u00e4sentieren, Backen, Garen & Kochen und Sp\u00fclen \u25b7\u25b7\u25b7",
@@ -151,13 +141,13 @@
     },
     {
         "link": "https://mercurioantofagasta.cl",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://mercurioantofagasta.cl",
-        "Icon": "https://www.mercurioantofagasta.cl/impresa/wp-content/themes/papel-digital-2019-movil/assets/images/icons/8/icon-16x16-8.png",
-        "Redirect": "https://mercurioantofagasta.cl",
+        "Heading": "El Mercurio de Antofagasta - 06.06.2026",
+        "Abstract": "El Mercurio de Antofagasta",
+        "Official Site": "https://www.mercurioantofagasta.cl/impresa/2026/06/06/papel/",
+        "Icon": "http://impresa.soy-chile.cl/ElMercuriodeAntofagasta/060626/Paginas/jpg/06_06_26_pag_01-550.jpg",
+        "Redirect": "https://www.mercurioantofagasta.cl/impresa/2026/06/06/papel/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mercurioantofagasta.cl"
+        "AbstractURL": "https://www.mercurioantofagasta.cl/impresa/2026/06/06/papel/"
     },
     {
         "link": "https://payer.de",
@@ -210,6 +200,16 @@
         "AbstractURL": "https://www.wevelgem.be/gemeente-wevelgem"
     },
     {
+        "link": "https://gorges-ardeche-pontdarc.fr",
+        "Heading": "Gorges de l'Ard\u00e8che - Pont d'Arc: pr\u00e9parez vos vacances",
+        "Abstract": "Pr\u00e9parez vos vacances dans les Gorges de l'Ard\u00e8che et au Pont d'Arc ! Sites incontournables, activit\u00e9s, visites, cano\u00eb, randonn\u00e9e, h\u00e9bergements.",
+        "Official Site": "https://gorges-ardeche-pontdarc.fr",
+        "Icon": "/content/themes/theme_altimax/dist/img/favicon/favicon-32x32.png",
+        "Redirect": "https://gorges-ardeche-pontdarc.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gorges-ardeche-pontdarc.fr"
+    },
+    {
         "link": "https://orientmuseum.ru",
         "Heading": "\u041c\u0443\u0437\u0435\u0439 \u0412\u043e\u0441\u0442\u043e\u043a\u0430",
         "Abstract": "\u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u043f\u043e\u043b\u043d\u043e \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e \u0414\u0430\u043b\u044c\u043d\u0435\u0433\u043e \u0438 \u0411\u043b\u0438\u0436\u043d\u0435\u0433\u043e \u0412\u043e\u0441\u0442\u043e\u043a\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0421\u0440\u0435\u0434\u043d\u0435\u0439 \u0410\u0437\u0438\u0438, \u041a\u0430\u0432\u043a\u0430\u0437\u0430, \u0417\u0430\u043a\u0430\u0432\u043a\u0430\u0437\u044c\u044f, \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0430, \u0411\u0443\u0440\u044f\u0442\u0438\u0438, \u0427\u0443\u043a\u043e\u0442\u043a\u0438 (\u0432\u0441\u0435\u0433\u043e \u0441\u0432\u044b\u0448\u0435 147 500 \u043c\u0443\u0437\u0435\u0439\u043d\u044b\u0445 \u044d\u043a\u0441\u043f\u043e\u043d\u0430\u0442\u043e\u0432)",
@@ -250,26 +250,6 @@
         "AbstractURL": "https://invariablesprint.work"
     },
     {
-        "link": "https://tranzit.org",
-        "Heading": "tranzit.org / calendar ",
-        "Abstract": "tranzit is a network of autonomous initiatives in contemporary art in at/ cz/ hu/ ro/ sk/",
-        "Official Site": "https://tranzit.org",
-        "Icon": "N/A",
-        "Redirect": "https://tranzit.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tranzit.org"
-    },
-    {
-        "link": "https://goedbestuurentoezicht.nl",
-        "Heading": "Goed Bestuur & Toezicht",
-        "Abstract": "Goed Bestuur & Toezicht",
-        "Official Site": "https://goedbestuurentoezicht.nl/",
-        "Icon": "/favicon-32x32.png",
-        "Redirect": "https://goedbestuurentoezicht.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://goedbestuurentoezicht.nl/"
-    },
-    {
         "link": "https://equalexperts.com",
         "Heading": "Homepage | Equal Experts",
         "Abstract": "Engaging 3,600+ consultants across 5 continents, Equal Experts partners with clients to create cutting-edge digital products and services.",
@@ -288,6 +268,16 @@
         "Redirect": "https://trwdip.online",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trwdip.online"
+    },
+    {
+        "link": "https://wizofawes.com",
+        "Heading": "Washington Wizards News, Rumors, and Fan Community",
+        "Abstract": "The latest Washington Wizards news, rumors, and free agency updates from the insider fans and analysts at Wiz of Awes.",
+        "Official Site": "https://wizofawes.com/",
+        "Icon": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/WizOfAwes_social-share-f21fcb41050046c45e3ea2a00e144798.jpg",
+        "Redirect": "https://wizofawes.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wizofawes.com/"
     },
     {
         "link": "https://sxworker.com",

@@ -1,10 +1,10 @@
 [
     {
         "link": "https://breet.io",
-        "Heading": "Crypto Exchange in Africa - Buy, Sell, Swap & Send - Breet",
+        "Heading": "Crypto Platform in Africa - Buy, Sell, Swap & Send - Breet",
         "Abstract": "Buy, sell, swap, and spend crypto instantly with Africa's most trusted crypto platform. Trusted by 400,000+ happy users!",
         "Official Site": "https://breet.io",
-        "Icon": "https://breet.io/Image/og/home.webp",
+        "Icon": "https://breet.io/api/og?title=Africa%27s+Most+Secure+Crypto+Platform+for+Businesses+and+Individuals.&page=home",
         "Redirect": "https://breet.io",
         "AbstractSource": "BS4",
         "AbstractURL": "https://breet.io"
@@ -210,16 +210,6 @@
         "AbstractURL": "https://uncannyvalleyforum.com"
     },
     {
-        "link": "https://javadeveloperkit.com",
-        "Heading": "Home - Java Architect Journey",
-        "Abstract": "Sharing on-job learning. Strictly No Theory",
-        "Official Site": "https://javadeveloperkit.com/",
-        "Icon": "N/A",
-        "Redirect": "https://javadeveloperkit.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://javadeveloperkit.com/"
-    },
-    {
         "link": "https://dientrotiendathc.com",
         "Heading": "C\u00f4ng ty TNHH Ti\u1ebfn \u0110\u1ea1t H&C",
         "Abstract": "\u0111i\u1ec7n tr\u1edf, dien tro duc, dien tro noi hoi, dien tro vong, dien tro say, linh ki\u1ec7n, pc , m\u00e1y in, m\u00e1y photocopy, ",
@@ -238,6 +228,16 @@
         "Redirect": "http://nanohostlk.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://nanohostlk.com/"
+    },
+    {
+        "link": "https://megapolitanpos.com",
+        "Heading": "Megapolitan Pos | Megapolitanpos",
+        "Abstract": "Jembatan Informasi Masyarakat, Profesional, Cepat dan Akurat.",
+        "Official Site": "https://megapolitanpos.com/",
+        "Icon": "https://megapolitanpos.com/asset/images/favicon.png",
+        "Redirect": "https://megapolitanpos.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://megapolitanpos.com/"
     },
     {
         "link": "https://kazinst.kz",
@@ -270,6 +270,16 @@
         "AbstractURL": "https://breamteam.com"
     },
     {
+        "link": "https://992955a.buzz",
+        "Heading": "992955a.buzz",
+        "Abstract": null,
+        "Official Site": "https://992955a.buzz",
+        "Icon": "N/A",
+        "Redirect": "https://992955a.buzz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://992955a.buzz"
+    },
+    {
         "link": "https://cashlady.com",
         "Heading": "CashLady official site | Apply online for loans from \u00a3100 - \u00a310,000",
         "Abstract": "Looking for a loan? Apply online for a short-term loan with CashLady for a quick decision. <?php echo e(globals()->get('rep_apr_clad', config('app.rep_apr_clad'))); ?>% APR Rep. If approved, cash can be sent in minutes.",
@@ -278,16 +288,6 @@
         "Redirect": "https://cashlady.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cashlady.com"
-    },
-    {
-        "link": "https://nutriting.com",
-        "Heading": "nutriting : nutrition compl\u00e9ment alimentaire et multivitamines",
-        "Abstract": "nutriting est un site de r\u00e9f\u00e9rence en nutrition, qui propose une offre innovante tournant autour de 3 piliers : \u00e9ducation, suppl\u00e9mentation et plaisir",
-        "Official Site": "https://www.nutriting.com/",
-        "Icon": "https://www.nutriting.com/wp-content/uploads/2023/03/nushop.jpg",
-        "Redirect": "https://www.nutriting.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.nutriting.com/"
     },
     {
         "link": "https://webyurdu.com",

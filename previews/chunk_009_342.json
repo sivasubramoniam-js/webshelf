@@ -110,16 +110,6 @@
         "AbstractURL": "https://vidble.com"
     },
     {
-        "link": "https://offlinedino.com",
-        "Heading": "Offline Dino \ud83e\udd96 - Play Chrome T-rex Dino Runner Game Online",
-        "Abstract": "Offline Dino Runner adventure is waiting for you. Jump, duck, and dash through a prehistoric landscape, dodging cacti and pterodactyls. The T-rex is on an endless running adventure set up by the devs of Chrome.",
-        "Official Site": "https://www.offlinedino.com/",
-        "Icon": "/assets/images/offline-dinosaur-run.jpg",
-        "Redirect": "https://www.offlinedino.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.offlinedino.com/"
-    },
-    {
         "link": "https://spielbank-berlin.de",
         "Heading": "Spielbank-Berlin.de",
         "Abstract": null,
@@ -158,16 +148,6 @@
         "Redirect": "https://akdenizpromotion.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://akdenizpromotion.com"
-    },
-    {
-        "link": "https://wallisgiunta.com",
-        "Heading": "Wallis Giunta - The official website of WALLIS GIUNTA",
-        "Abstract": "\u201cIt was a triumph...She has a delectably rich, silver-toned mezzo-soprano with a beautiful sense of line and effortless rapid runs\u201d - Opera News Magazine",
-        "Official Site": "https://wallisgiunta.com/",
-        "Icon": "https://wallisgiunta.com/wp-content/uploads/2023/02/WALLIS_BASSMAN-554c.png",
-        "Redirect": "https://wallisgiunta.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wallisgiunta.com/"
     },
     {
         "link": "https://mockoon.com",
@@ -210,16 +190,6 @@
         "AbstractURL": "https://oncasiworld.com/"
     },
     {
-        "link": "https://rodomenii.ro",
-        "Heading": " Gazduire web, gazduire premium, gazduire wordpress",
-        "Abstract": "Gazduire web pe servere dedicate, in Romania. Pachete de Gazduire Web, Gazduire Premium, Gazduire Wordpress, Gazduire e-commerce, Gazduire business",
-        "Official Site": "https://rodomenii.ro",
-        "Icon": "/images/favicon.ico",
-        "Redirect": "https://rodomenii.ro",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rodomenii.ro"
-    },
-    {
         "link": "https://por-correo.com",
         "Heading": "Agencia de marketing digital Granada - Dise\u00f1o web Granada, SEO Granada. Tu Agencia de Marketing Digital en Granada.  PORCORREO.COM",
         "Abstract": null,
@@ -248,5 +218,15 @@
         "Redirect": "https://jadlogentregas.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jadlogentregas.com.br"
+    },
+    {
+        "link": "https://organo.co.jp",
+        "Heading": " \u30aa\u30eb\u30ac\u30ce\u682a\u5f0f\u4f1a\u793e",
+        "Abstract": "\u30aa\u30eb\u30ac\u30ce\u682a\u5f0f\u4f1a\u793e\u3002\u4e3b\u8981\u55b6\u696d\u54c1\u76ee\uff0d\u6c34\u51e6\u7406\u88c5\u7f6e\u3001\u8d85\u7d14\u6c34\u88fd\u9020\u88c5\u7f6e\u3001\u7d14\u6c34\u88fd\u9020\u88c5\u7f6e\u3001\u6392\u6c34\u51e6\u7406\u88c5\u7f6e\u3001\u767a\u96fb\u6240\u5411\u3051\u6c34\u51e6\u7406\u88c5\u7f6e\u3001\u4e0a\u6c34\u9053\u8a2d\u5099\u3001\u4e0b\u6c34\u9053\u8a2d\u5099\u3001\u6a19\u6e96\u88c5\u7f6e\u3001\u6a5f\u80fd\u6c34\u88fd\u9020\u88c5\u7f6e\u3001\u30a4\u30aa\u30f3\u4ea4\u63db\u6a39\u8102\u3001\u6c34\u51e6\u7406\u85ac\u54c1\u3001\u98df\u54c1\u6dfb\u52a0\u7269\u3002",
+        "Official Site": "http://www.organo.co.jp/",
+        "Icon": "https://www.organo.co.jp/wp/wp-content/themes/organo/assets/img/ogp/og_image.png",
+        "Redirect": "http://www.organo.co.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.organo.co.jp/"
     }
 ]

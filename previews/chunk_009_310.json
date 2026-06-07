@@ -30,16 +30,6 @@
         "AbstractURL": "https://dimehouse.nl/"
     },
     {
-        "link": "https://brockpress.com",
-        "Heading": "The Brock Press - Brock University's Only Independent Student News Outlet",
-        "Abstract": null,
-        "Official Site": "https://brockpress.com/",
-        "Icon": "https://brockpress.com/wp-content/uploads/2024/01/cropped-TBP-poster-2-32x32.png",
-        "Redirect": "https://brockpress.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://brockpress.com/"
-    },
-    {
         "link": "https://booknik.ru",
         "Heading": "\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0435 \u0442\u0435\u043a\u0441\u0442\u044b \u0438 \u0442\u0435\u043c\u044b \u2014 Booknik.ru",
         "Abstract": "",
@@ -90,6 +80,16 @@
         "AbstractURL": "https://rocketcourier.pk"
     },
     {
+        "link": "https://tansa.com",
+        "Heading": "Tansa Systems | Clear, concise and error-free content",
+        "Abstract": "Tansa deliver enterprise text proofing and hyphenation tools to media companies, large corporations, non-profit organizations and government agencies.",
+        "Official Site": "https://www.tansa.com/",
+        "Icon": "https://www.tansa.com/wp-content/uploads/2018/05/Barcode_page_cropped-min.png",
+        "Redirect": "https://www.tansa.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tansa.com/"
+    },
+    {
         "link": "https://designerscripte.net",
         "Heading": "Designerscripte.net ",
         "Abstract": "Diest ist das ofizielle Supportforum des Loginscriptes VMS1 Virtual-Monetary-System",
@@ -128,16 +128,6 @@
         "Redirect": "https://dmsanctum.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dmsanctum.net/"
-    },
-    {
-        "link": "https://ivermectinus.com",
-        "Heading": "Buy Ivermectin (Stromectol tablets) Online USA - IvermectinUS",
-        "Abstract": "Buy Ivermectin 3/6/12mg Pills Online. Stromectol for Humans Over the Counter only $3.00",
-        "Official Site": "https://ivermectinus.com",
-        "Icon": "N/A",
-        "Redirect": "https://ivermectinus.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ivermectinus.com"
     },
     {
         "link": "https://sundas.de",
@@ -238,16 +228,6 @@
         "Redirect": "https://www.bars4cars.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bars4cars.co.uk/"
-    },
-    {
-        "link": "https://kanroholidayresort.com",
-        "Heading": "Kanro Holiday Resort",
-        "Abstract": "",
-        "Official Site": "https://kanroholidayresort.com",
-        "Icon": "https://kanroholidayresort.com/frontend/assets/img/favicon.ico",
-        "Redirect": "https://kanroholidayresort.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kanroholidayresort.com"
     },
     {
         "link": "https://alliednews.com",

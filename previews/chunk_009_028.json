@@ -60,16 +60,6 @@
         "AbstractURL": "https://loopert.com/"
     },
     {
-        "link": "https://lugrain-software.com",
-        "Heading": "Lugrain Software GmbH",
-        "Abstract": null,
-        "Official Site": "https://lugrain-software.com",
-        "Icon": "/_assets/f6f3c6acdae71a47be877b28cd6e6538/Images/favicon.ico",
-        "Redirect": "https://lugrain-software.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lugrain-software.com"
-    },
-    {
         "link": "https://macedoniantruth.org",
         "Heading": null,
         "Abstract": null,
@@ -78,16 +68,6 @@
         "Redirect": "https://macedoniantruth.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://macedoniantruth.org"
-    },
-    {
-        "link": "https://madeira-islandshotels.com",
-        "Heading": "Madeira Islands hotels & apartments, all accommodations in Madeira Islands",
-        "Abstract": "Online booking for hotels in Madeira Islands, Portugal. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://madeira-islandshotels.com",
-        "Icon": "N/A",
-        "Redirect": "https://madeira-islandshotels.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://madeira-islandshotels.com"
     },
     {
         "link": "https://magicball.net",
@@ -121,13 +101,13 @@
     },
     {
         "link": "https://mathost.eu",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://mathost.eu",
-        "Icon": "/svg/logo.svg",
-        "Redirect": "https://mathost.eu",
+        "Heading": "MatHost.eu - Najlepsze us\u0142ugi hostingowe",
+        "Abstract": "MatHost.eu to firma, \u015bwiadcz\u0105ca p\u0142atne us\u0142ugi hostingowe zar\u00f3wno dla serwer\u00f3w gier, jak i vps. Jeste\u015bmy zespo\u0142em programist\u00f3w i w\u0142a\u015bcicieli serwer\u00f3w, kt\u00f3rzy wiedz\u0105, jak wa\u017cne jest posiadanie niezadownego hostingu. Dzi\u0119ki ogromnemu do\u015bwiadzeniu w tej dziedzinie, staramy si\u0119 zapewni\u0107 jak najwy\u017csz\u0105 jako\u015b\u0107 oferowanych us\u0142ug.",
+        "Official Site": "https://mathost.eu/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://mathost.eu/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mathost.eu"
+        "AbstractURL": "https://mathost.eu/"
     },
     {
         "link": "https://memorial2u.com",
@@ -138,16 +118,6 @@
         "Redirect": "https://memorial2u.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://memorial2u.com"
-    },
-    {
-        "link": "https://mencaroni.it",
-        "Heading": "Mencaroni.it | Vendita Fumettisitca e Figurine",
-        "Abstract": "Welcome to our website.",
-        "Official Site": "https://www.mencaroni.it/",
-        "Icon": "https://www.mencaroni.it/media/wysiwyg/codazon/home-image.jpg",
-        "Redirect": "https://www.mencaroni.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mencaroni.it/"
     },
     {
         "link": "https://michelefranzesemoda.com",
@@ -190,6 +160,16 @@
         "AbstractURL": "https://mirrormatic.co.uk"
     },
     {
+        "link": "https://modelersforum.com",
+        "Heading": "The Modeler's Forum - Index",
+        "Abstract": "The Modeler's Forum - Index",
+        "Official Site": "https://modelersforum.com/index.php?PHPSESSID=04ce48eea81eb18a47fdea4dc7bfda03&",
+        "Icon": "N/A",
+        "Redirect": "https://modelersforum.com/index.php?PHPSESSID=04ce48eea81eb18a47fdea4dc7bfda03&",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://modelersforum.com/index.php?PHPSESSID=04ce48eea81eb18a47fdea4dc7bfda03&"
+    },
+    {
         "link": "https://momostr.pink",
         "Heading": null,
         "Abstract": null,
@@ -230,14 +210,14 @@
         "AbstractURL": "https://www.moonstoystore.com/"
     },
     {
-        "link": "https://msccn.org",
-        "Heading": "Military Spouse Jobs \u2013 119,000+ Verified Placements With VetJobs and Military Spouse Jobs Since 2010!",
-        "Abstract": null,
-        "Official Site": "https://msccn.org",
-        "Icon": "https://militaryspousejobs.org/wp-content/uploads/2024/12/MSJ-May-2022-sm-1-90x90.png",
-        "Redirect": "https://msccn.org",
+        "link": "https://mr-scandinave.fr",
+        "Heading": "Meubles Scandinaves & D\u00e9co Nordique | Mr Scandinave",
+        "Abstract": "Comparez les meubles scandinaves et la d\u00e9co nordique. Les meilleures offres : canap\u00e9s, tables, chaises pour un int\u00e9rieur au style scandinave.",
+        "Official Site": "https://mr-scandinave.fr/",
+        "Icon": "https://mr-scandinave.fr/wp-content/uploads/2021/02/mr-scandinave.jpg",
+        "Redirect": "https://mr-scandinave.fr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://msccn.org"
+        "AbstractURL": "https://mr-scandinave.fr/"
     },
     {
         "link": "https://mudmotortalk.com",
@@ -258,6 +238,16 @@
         "Redirect": "https://www.multi-uslugi.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.multi-uslugi.pl"
+    },
+    {
+        "link": "https://multistore24.pl",
+        "Heading": "Multistore24.pl  - Suplementy, Ksi\u0105\u017cki, Chemia, Male AGD",
+        "Abstract": "Ksi\u0105\u017cki, suplementy, Tiens Suplementy, medycyny Chi\u0144skiej,  BioBran, PM International, Ksi\u0105\u017cki, albumy fotograficzne, Taschen, Meble i Meble Ogrodowe, Akcesoria, prezenty, gadzety,  Riviera Maison, Mi",
+        "Official Site": "https://www.multistore24.pl/",
+        "Icon": "https://www.multistore24.pl/images/frontend/theme/giallo8/_editor/prod/079ff7c9da211f58d3980164385d772b.png",
+        "Redirect": "https://www.multistore24.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.multistore24.pl/"
     },
     {
         "link": "https://mytorotempus.com",

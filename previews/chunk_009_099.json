@@ -50,6 +50,16 @@
         "AbstractURL": "https://thewaystationbk.com"
     },
     {
+        "link": "https://mestrelab.com",
+        "Heading": "Mestrelab Research Analytical Chemistry Software",
+        "Abstract": "Mestrelab Research, Analytical Chemistry Software Solutions: Mnova software for NMR and LC/GC/MS techniques including 1D & 2D NMR, DOSY, and NUS.",
+        "Official Site": "https://mestrelab.com/",
+        "Icon": "https://mestrelab.com/wp-content/uploads/2021/10/favicon-32-2021-10-15.png",
+        "Redirect": "https://mestrelab.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mestrelab.com/"
+    },
+    {
         "link": "https://avned.nl",
         "Heading": "AVNed | Professionele Video Systemen  - Professionele Video Systemen",
         "Abstract": "Persoonlijke service en topkwaliteit, AVNed is d\u00e9 leverancier van Nederland voor professionele videocamera\u2019s van Sony, Blackmagic, Panasonic en vele andere.",
@@ -130,16 +140,6 @@
         "AbstractURL": "https://gtfcu.org"
     },
     {
-        "link": "https://verbrecherverlag.de",
-        "Heading": "Verbrecher Verlag - Gute B\u00fccher",
-        "Abstract": "Der Verbrecher Verlag ist ein unabh\u00e4ngiger Verlag, das Programm ist breit gef\u00e4chert, der Schwerpunkt liegt auf der Belletristik.",
-        "Official Site": "https://verbrecherverlag.de",
-        "Icon": "/wp-content/uploads/2023/01/Custom-favicon-16.png",
-        "Redirect": "https://verbrecherverlag.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://verbrecherverlag.de"
-    },
-    {
         "link": "https://wb4host.com",
         "Heading": ":::: \u0648\u0627\u064a\u062f \u0628\u0627\u0646\u062f \u0644\u062a\u0635\u0645\u064a\u0645 \u0648\u0628\u0631\u0645\u062c\u0629 \u0648\u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u0627\u0646\u062a\u0631\u0646\u062a ::::",
         "Abstract": null,
@@ -148,16 +148,6 @@
         "Redirect": "https://wb4host.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wb4host.com"
-    },
-    {
-        "link": "https://plan9films.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://plan9films.com",
-        "Icon": "N/A",
-        "Redirect": "https://plan9films.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://plan9films.com"
     },
     {
         "link": "https://copyrightfrance.com",
@@ -240,6 +230,16 @@
         "AbstractURL": "https://a1apps.co/"
     },
     {
+        "link": "https://renovolive.com",
+        "Heading": "Sign in",
+        "Abstract": "",
+        "Official Site": "https://renovolive.com",
+        "Icon": "/rl2/favicon.ico",
+        "Redirect": "https://renovolive.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://renovolive.com"
+    },
+    {
         "link": "https://law-democracy.org",
         "Heading": "Home - Centre for Law and Democracy",
         "Abstract": "The Centre for Law and Democracy (CLD) is a non-profit organisation working globally to promote foundational rights for democracies.",
@@ -248,6 +248,16 @@
         "Redirect": "https://www.law-democracy.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.law-democracy.org/"
+    },
+    {
+        "link": "https://habibtechno.com",
+        "Heading": "Manufacturer & Fabricators",
+        "Abstract": "MANUFACTURER & FABRICATORS Plant & Machinery Equipment For Sugar,cement, Fertilizer, Chemical & Power Generation Sectors About Us \"Our Journey Through Time\" \"Founded in 1996, Habib Techno Industries, formerly Basheer Engineering, is a leader in Pakistan's heavy industries. Rebranded twice and led by Mr. Naseer Ahmad, it has expanded services and earned key certifications like ISO-9001\u2026",
+        "Official Site": "https://habibtechno.com",
+        "Icon": "https://habibtechno.com/wp-content/uploads/2024/09/cropped-Site-Icon-32x32.png",
+        "Redirect": "https://habibtechno.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://habibtechno.com"
     },
     {
         "link": "https://redlineautoparts.com",
@@ -300,16 +310,6 @@
         "AbstractURL": "https://mixvip.ir"
     },
     {
-        "link": "https://proan.com",
-        "Heading": "PROAN \u2013 Alimentemos al mundo juntos",
-        "Abstract": null,
-        "Official Site": "https://proan.com",
-        "Icon": "https://proan.com/wp-content/uploads/2023/02/logo-proan-color-150x138.png",
-        "Redirect": "https://proan.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://proan.com"
-    },
-    {
         "link": "https://amunra-cz.com",
         "Heading": "AmunRa Kasino Recenze 2026 Bonus 12 750 CZK + 200 FS",
         "Abstract": "AmunRa kasino CZ \u2013 bonus a\u017e 12 750 CZK + 200 free spin\u016f. 5 000+ her v CZK, wagering 30\u00d7, v\u00fdb\u011bry do 24 h. Nez\u00e1visl\u00e1 expertn\u00ed recenze.",
@@ -318,15 +318,5 @@
         "Redirect": "https://amunra-cz.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://amunra-cz.com/"
-    },
-    {
-        "link": "https://resistir.info",
-        "Heading": "Resistir.info",
-        "Abstract": null,
-        "Official Site": "https://resistir.info",
-        "Icon": "N/A",
-        "Redirect": "https://resistir.info",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://resistir.info"
     }
 ]

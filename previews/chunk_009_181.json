@@ -130,6 +130,16 @@
         "AbstractURL": "https://www.mediexpo.ru/"
     },
     {
+        "link": "https://intsights.com",
+        "Heading": "Rapid7 Managed Cybersecurity: Outpace Attackers",
+        "Abstract": "Outpace attackers with the only endpoint to cloud, unified cybersecurity platform. Build business resilience with expert-led 24/7 MDR.",
+        "Official Site": "https://www.rapid7.com/",
+        "Icon": "https://www.rapid7.com/rapid7-social-card.jpg",
+        "Redirect": "https://www.rapid7.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rapid7.com/"
+    },
+    {
         "link": "https://polkadog.com",
         "Heading": "\n      Polkadog | All-Natural Dog Treats | Handcrafted in Boston\n",
         "Abstract": "Come browse Polkadog\u2019s high-quality selection of healthy, limited-ingredient dog treats your pet will love!",
@@ -140,6 +150,16 @@
         "AbstractURL": "https://www.polkadog.com/"
     },
     {
+        "link": "https://ivermectinew.monster",
+        "Heading": "ivermectinew.monster\u00a0-\u00a0ivermectinew Resources and Information.",
+        "Abstract": "ivermectinew.monster is your first and best source for information about ivermectinew. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://ivermectinew.monster",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://ivermectinew.monster",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ivermectinew.monster"
+    },
+    {
         "link": "https://shopetee.com",
         "Heading": "\n      \n\n    Say Goodbye to Plastic | Zero Waste, Plastic Free Living | ETEE\n\n    ",
         "Abstract": "We\u2019re on a mission to make plastic-free living accessible to everyone. From plastic-free dish soap, to shampoo, cleaners, deodorant, sponges, toothpaste, beeswax wraps and more... we have plastic-free products all in one place.",
@@ -148,26 +168,6 @@
         "Redirect": "https://www.shopetee.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.shopetee.com/"
-    },
-    {
-        "link": "https://agfp.net",
-        "Heading": "AGFP Hosting",
-        "Abstract": null,
-        "Official Site": "https://agfp.net",
-        "Icon": "N/A",
-        "Redirect": "https://agfp.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://agfp.net"
-    },
-    {
-        "link": "https://neupharma.com",
-        "Heading": "\u6da6\u65b0\u751f\u7269",
-        "Abstract": null,
-        "Official Site": "https://neupharma.com",
-        "Icon": "N/A",
-        "Redirect": "https://neupharma.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://neupharma.com"
     },
     {
         "link": "https://unoregler.com",
@@ -248,15 +248,5 @@
         "Redirect": "https://hageland.no",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hageland.no"
-    },
-    {
-        "link": "https://hostinservers.com",
-        "Heading": "Index of /",
-        "Abstract": null,
-        "Official Site": "https://hostinservers.com",
-        "Icon": "N/A",
-        "Redirect": "https://hostinservers.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hostinservers.com"
     }
 ]

@@ -30,16 +30,6 @@
         "AbstractURL": "https://spaa.ae/"
     },
     {
-        "link": "https://stairpartsonline.co.uk",
-        "Heading": "Stair Parts Online - Handrails, Spindles and much more",
-        "Abstract": "The number one site for large discounts on the UK's largest range of stair parts. We have everything you need for your new staircase or existing staircase renovation.",
-        "Official Site": "https://stairpartsonline.co.uk",
-        "Icon": "https://www.stairpartsonline.co.uk/media/favicon/stores/2/fav-icon.png",
-        "Redirect": "https://stairpartsonline.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stairpartsonline.co.uk"
-    },
-    {
         "link": "https://standardautopart.com",
         "Heading": "\n      Auto Parts Canada & USA \u2014 No Duties, Up to 70% Off | Standard Auto Par\n \u2013 Standard Auto Part",
         "Abstract": "Canadian-stocked auto parts with zero import duties. US orders ship from Tukwila, WA. Brakes, suspension, filters, key fobs & more. Up to 70% off. 1\u20133 day delivery or free Edmonton pickup.",
@@ -48,6 +38,16 @@
         "Redirect": "https://www.standardautopart.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.standardautopart.com/"
+    },
+    {
+        "link": "https://swapstick.com",
+        "Heading": "SwapStick.com sticker and trading card swaps",
+        "Abstract": "Panini World Cup Sticker Swaps site with automatic code to store swaps, needed cards and stickers and to organise swaps for Panini and Topps stickers including football stickers and world cup stickers matchattax and cards swap",
+        "Official Site": "https://swapstick.com",
+        "Icon": "https://swapstick.com/swaps.nsf/swapstick250x250.png",
+        "Redirect": "https://swapstick.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://swapstick.com"
     },
     {
         "link": "https://synchronics.co.in",
@@ -68,6 +68,16 @@
         "Redirect": "https://systems-analysis.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://systems-analysis.ru/"
+    },
+    {
+        "link": "https://t-developers.com",
+        "Heading": "T-Developers",
+        "Abstract": "You Can Get All New Contents Regularly...Hacking..Web Site Learning And Custom Roms",
+        "Official Site": "https://www.t-developers.com/",
+        "Icon": "https://www.t-developers.com/wp-content/uploads/2023/12/cropped-t-developers-32x32.png",
+        "Redirect": "https://www.t-developers.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.t-developers.com/"
     },
     {
         "link": "https://tdmnetwork.com.br",
@@ -131,13 +141,13 @@
     },
     {
         "link": "https://thepensionsportal.uk",
-        "Heading": "Watch Anime Online in HD | AniHQ",
-        "Abstract": "Stream the latest anime episodes and series in HD. Watch anime online fast and free on AniHQ.",
-        "Official Site": "https://thepensionsportal.uk/",
-        "Icon": "https://thepensionsportal.uk/wp-content/uploads/cropped-Icon-32x32.webp",
-        "Redirect": "https://thepensionsportal.uk/",
+        "Heading": "Just a moment...",
+        "Abstract": null,
+        "Official Site": "https://thepensionsportal.uk",
+        "Icon": "N/A",
+        "Redirect": "https://thepensionsportal.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thepensionsportal.uk/"
+        "AbstractURL": "https://thepensionsportal.uk"
     },
     {
         "link": "https://thrifttale.com",

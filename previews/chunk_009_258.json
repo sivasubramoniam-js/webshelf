@@ -90,6 +90,16 @@
         "AbstractURL": "http://www.sports-g.com"
     },
     {
+        "link": "https://bonuskoder.net",
+        "Heading": "Bonuskoder: Sveriges b\u00e4sta oddsbonusar & kampanjkoder",
+        "Abstract": "Uppt\u00e4ck v\u00e5r omfattande samling av exklusiva erbjudanden och delta i 1x2-t\u00e4vlingen med gratis priser!",
+        "Official Site": "https://www.bonuskoder.net/",
+        "Icon": "https://static.bonuskoder.net/assets_v2/home/og/sv-33dc637500ab5794ba6420267c2953c333dda5ef6d439e9dc0b1187785f58ce4-1200x630.png",
+        "Redirect": "https://www.bonuskoder.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bonuskoder.net/"
+    },
+    {
         "link": "https://cloud9floatspa.com",
         "Heading": "Mulia189: Mainkan Farm of Fortune Raih Hadiahnya",
         "Abstract": "Mulia189 adalah game online terbaik dengan pilihan game yang beragam. Mulia189 menghadirkan game farm of fortune game yang memiliki tampilah menarik, permain tanam benih dengan hadiah yang besar",
@@ -120,16 +130,6 @@
         "AbstractURL": "https://bebusinessed.com/"
     },
     {
-        "link": "https://cndt.ro",
-        "Heading": "Colegiul Na\u021bional \u201dDiaconovici-Tietz\u201d Re\u0219i\u021ba - Site oficial CNDT",
-        "Abstract": "Site oficial CNDT",
-        "Official Site": "https://cndt.ro/",
-        "Icon": "https://cndt.ro/wp-content/uploads/2017/11/cropped-steagul-Romaniei-32x32.jpg",
-        "Redirect": "https://cndt.ro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cndt.ro/"
-    },
-    {
         "link": "https://laodongcongdoan.vn",
         "Heading": "T\u1ea1p ch\u00ed Lao \u0111\u1ed9ng \u0110oa\u0300n th\u00ea\u0309",
         "Abstract": "T\u1ea1p ch\u00ed Lao \u0111\u1ed9ng \u0110oa\u0300n th\u00ea\u0309",
@@ -140,6 +140,16 @@
         "AbstractURL": "https://laodongdoanthe.vn/"
     },
     {
+        "link": "https://xfoot.in",
+        "Heading": "Xfoot \u2013 Quality kicks only",
+        "Abstract": null,
+        "Official Site": "https://xfoot.in",
+        "Icon": "https://xfoot.in/wp-content/uploads/2023/09/cropped-GLIC-3-32x32.png",
+        "Redirect": "https://xfoot.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xfoot.in"
+    },
+    {
         "link": "https://mitmoradabad.edu.in",
         "Heading": "Moradabad Institute of Technology \u2013 Engineering CSE|AIML|IOT|DS|EE|ECE|ME|CE|MCA|BCA|BBA|Pharmacy",
         "Abstract": "",
@@ -148,6 +158,16 @@
         "Redirect": "https://mitmoradabad.edu.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mitmoradabad.edu.in"
+    },
+    {
+        "link": "https://fitancy.fr",
+        "Heading": "Fitancy, grand magasin de lingerie grande taille en ligne",
+        "Abstract": "Sp\u00e9cialiste de la lingerie grande taille Fitancy vous propose une s\u00e9lection de soutien-gorge, culotte et maillot de bain grande taille pour sublimer vos courbes.",
+        "Official Site": "https://www.fitancy.fr//",
+        "Icon": "https://www.fitancy.fr/images/fitancy/FIT-FR5.svg",
+        "Redirect": "https://www.fitancy.fr//",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fitancy.fr//"
     },
     {
         "link": "https://knigovo.com",
@@ -201,7 +221,7 @@
     },
     {
         "link": "https://garss.tv",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://garss.tv",
         "Icon": "N/A",

@@ -221,13 +221,23 @@
     },
     {
         "link": "https://guadalajaradiario.es",
-        "Heading": "Inicio - GuadalajaraDiario.es - GuadalajaraDiario.es",
-        "Abstract": "Diario digital con informaci\u00f3n preferente sobre Guadalajara y Castilla-La Mancha. Blogs, ocio y entretenimiento.",
-        "Official Site": "https://www.guadalajaradiario.es/",
-        "Icon": "https://www.guadalajaradiario.es/images/logotipos/safe_image.png",
-        "Redirect": "https://www.guadalajaradiario.es/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://guadalajaradiario.es",
+        "Icon": "N/A",
+        "Redirect": "https://guadalajaradiario.es",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.guadalajaradiario.es/"
+        "AbstractURL": "https://guadalajaradiario.es"
+    },
+    {
+        "link": "https://buildingtalk.com",
+        "Heading": "Buildingtalk |  Construction news and building products for specifiers",
+        "Abstract": null,
+        "Official Site": "https://buildingtalk.com",
+        "Icon": "https://buildingtalk.com/wp-content/uploads/psb-favicon-150x150.png",
+        "Redirect": "https://buildingtalk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://buildingtalk.com"
     },
     {
         "link": "https://amiba.net",
@@ -300,14 +310,14 @@
         "AbstractURL": "https://stadtwerke-giessen.de"
     },
     {
-        "link": "https://lawnsolutionsaustralia.com.au",
-        "Heading": "Lawn Solutions Australia | Premium Turf & Lawn Care",
-        "Abstract": "Home of Australia's favourite lawns.",
-        "Official Site": "https://lawnsolutionsaustralia.com.au/",
-        "Icon": "https://lawnsolutionsaustralia.com.au/wp-content/uploads/2024/02/01.jpg",
-        "Redirect": "https://lawnsolutionsaustralia.com.au/",
+        "link": "https://camelotgroup.ca",
+        "Heading": "Camelot",
+        "Abstract": null,
+        "Official Site": "https://camelotgroup.ca",
+        "Icon": "https://camelotgroup.ca/wp-content/uploads/2021/07/favicon.png",
+        "Redirect": "https://camelotgroup.ca",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lawnsolutionsaustralia.com.au/"
+        "AbstractURL": "https://camelotgroup.ca"
     },
     {
         "link": "https://fontsplugin.com",

@@ -10,16 +10,6 @@
         "AbstractURL": "https://immediate1000-lotemax.com"
     },
     {
-        "link": "https://icdr.org",
-        "Heading": "International Centre for Dispute Resolution | ICDR.org",
-        "Abstract": "The International Centre for Dispute Resolution\u00ae (ICDR\u00ae) is the international division of the American Arbitration Association\u00ae (AAA\u00ae) and the world\u2019s leading provider of dispute resolution services to businesses in matters involving cross-border transactions.",
-        "Official Site": "https://icdr.org",
-        "Icon": "/themes/custom/adrorg/favicon.ico",
-        "Redirect": "https://icdr.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://icdr.org"
-    },
-    {
         "link": "https://findmyaddress.co.uk",
         "Heading": "Home - FindMyAddress",
         "Abstract": null,
@@ -180,14 +170,14 @@
         "AbstractURL": "https://www.thepeterboroughexaminer.com/"
     },
     {
-        "link": "https://saarland-therme.de",
-        "Heading": "Saarland Therme",
-        "Abstract": "Entspannung, Wellness, Beauty und viel mehr: Erlebe einen traumhaften Kurzurlaub.",
-        "Official Site": "https://saarland-therme.de",
-        "Icon": "https://saarland-therme.de/wp-content/themes/saarland-therme/img/favicon.png",
-        "Redirect": "https://saarland-therme.de",
+        "link": "https://forecourttrader.co.uk",
+        "Heading": "Home | Forecourt Trader",
+        "Abstract": "",
+        "Official Site": "https://forecourttrader.co.uk",
+        "Icon": "https://forecourttrader.co.uk/Magazine/dest/graphics/social/logo.png?v=1",
+        "Redirect": "https://forecourttrader.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://saarland-therme.de"
+        "AbstractURL": "https://forecourttrader.co.uk"
     },
     {
         "link": "https://hot1009.com",
@@ -200,6 +190,16 @@
         "AbstractURL": "https://hot1009.com/"
     },
     {
+        "link": "https://xtremeinn.com",
+        "Heading": "Xtremeinn | Online store for extreme sports equipment ",
+        "Abstract": "Shop at Xtremeinn for urban and aquatic extreme sports gear! Surfboards, kayaks, skateboards \u2013 guaranteed lowest prices.",
+        "Official Site": "https://xtremeinn.com",
+        "Icon": "https://cache.tradeinn.com/web/web/inn.jpg",
+        "Redirect": "https://xtremeinn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xtremeinn.com"
+    },
+    {
         "link": "https://toulouseblog.fr",
         "Heading": "Accueil - Toulouseblog.fr",
         "Abstract": "Agenda, actualit\u00e9 culturelle et sportive sur Toulouse et sa r\u00e9gion",
@@ -210,16 +210,6 @@
         "AbstractURL": "https://www.toulouseblog.fr/"
     },
     {
-        "link": "https://xpadder.com",
-        "Heading": "Xpadder.com - The Official Home of Xpadder",
-        "Abstract": null,
-        "Official Site": "https://xpadder.com",
-        "Icon": "N/A",
-        "Redirect": "https://xpadder.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://xpadder.com"
-    },
-    {
         "link": "https://tek-ker.com",
         "Heading": "John Vegas Casino - Play slots on the official website 2026",
         "Abstract": "Experience thrilling casino games at John Vegas Casino. Play slots, table games, and live dealer options. Secure gaming for Australian players. Join now.",
@@ -228,15 +218,5 @@
         "Redirect": "https://tek-ker.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tek-ker.com/"
-    },
-    {
-        "link": "https://patriot-bd.com",
-        "Heading": "Patriot Internet \u2013 \u09aa\u09cd\u09af\u09be\u099f\u09cd\u09b0\u09bf\u09af\u09bc\u099f \u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f",
-        "Abstract": null,
-        "Official Site": "https://patriot-bd.com",
-        "Icon": "N/A",
-        "Redirect": "https://patriot-bd.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://patriot-bd.com"
     }
 ]

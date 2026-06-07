@@ -30,16 +30,6 @@
         "AbstractURL": "https://sunex.ch/"
     },
     {
-        "link": "https://i9design.com",
-        "Heading": "Nelson BC Web Design // i9design // Kootenay Design",
-        "Abstract": "Web design & website development since 2001. We are a passionate creative agency based in Nelson, BC. Stop in for a visit! Serving the Kootenays.",
-        "Official Site": "https://www.i9design.com/home/",
-        "Icon": "https://www.i9design.com/wp-content/uploads/2015/09/logo-2015-large.png",
-        "Redirect": "https://www.i9design.com/home/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.i9design.com/home/"
-    },
-    {
         "link": "https://omzo.com",
         "Heading": "Home | Personalized Telehealth for Weight Loss & Wellness",
         "Abstract": "Clinician-guided care for weight, hormones, skin, hair, and sexual wellness made simple, discreet, and effective.",
@@ -58,6 +48,16 @@
         "Redirect": "https://www.labellevilloise.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.labellevilloise.com/"
+    },
+    {
+        "link": "https://maakirasoi.co",
+        "Heading": "maakirasoi.co",
+        "Abstract": null,
+        "Official Site": "https://maakirasoi.co",
+        "Icon": "https://maakirasoi.co/wp-content/uploads/2020/12/cropped-cropped-TG-Thumb-192x192-1-100x100.png",
+        "Redirect": "https://maakirasoi.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://maakirasoi.co"
     },
     {
         "link": "https://idamaster.ru",
@@ -148,16 +148,6 @@
         "Redirect": "https://bloknot-zaporozhie.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bloknot-zaporozhie.ru"
-    },
-    {
-        "link": "https://ctor.com.ua",
-        "Heading": "\u0413\u043e\u043b\u043e\u0432\u043d\u0430 - \u0423\u0447\u0431\u043e\u0432\u0438\u0439 \u043a\u043e\u043c\u0431\u0456\u043d\u0430\u0442 \u041a\u0440\u0438\u0432\u0438\u0439 \u0420\u0456\u0433, \u0423\u041a\u041a. \u0423 \u043d\u0430\u0448\u043e\u043c\u0443 \u043d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0426\u0435\u043d\u0442\u0440\u0456 \u0412\u0438 \u043e\u0442\u0440\u0438\u043c\u0430\u0454\u0442\u0435 \u041f\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043d\u044f, \u044f\u043a\u0435 \u0412\u0430\u043c \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e.",
-        "Abstract": "\u0423 \u043d\u0430\u0448\u043e\u043c\u0443 \u043d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0426\u0435\u043d\u0442\u0440\u0456 \u0412\u0438 \u043e\u0442\u0440\u0438\u043c\u0430\u0454\u0442\u0435 \u041f\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043d\u044f, \u044f\u043a\u0435 \u0412\u0430\u043c \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e. \u0411\u0435\u043b\u0410\u0417, \u041f\u0422\u041c, \u041f\u0424\u0415, \u0433\u0440\u0443\u043f\u0430 \u0437 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u0431\u0435\u0437\u043f\u0435\u043a\u0438. \u0422\u041e\u0412 \u0426\u0422\u041e\u0420. \u0421\u043b\u044e\u0441\u0430\u0440 \u0410\u0412\u0420, \u0421\u043b\u044e\u0441\u0430\u0440 \u0440\u0435\u043c\u043e\u043d\u0442\u043d\u0438\u043a, \u041c\u0430\u0448\u0438\u043d\u0456\u0441\u0442 \u043d\u0430\u0441\u043e\u0441\u043d\u0438\u0445 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u043a",
-        "Official Site": "https://ctor.com.ua/",
-        "Icon": "https://ctor.com.ua/wp-content/uploads/2024/05/cropped-images-32x32.png",
-        "Redirect": "https://ctor.com.ua/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ctor.com.ua/"
     },
     {
         "link": "https://schuelerfeedback-nrw.de",

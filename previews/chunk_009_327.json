@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://namekun.com",
-        "Heading": "Name Meaning Finder | NameKun",
-        "Abstract": "Have you ever wondered what your name means? The people you know associate certain traits with your name. Find out what they are.",
-        "Official Site": "https://namekun.com",
-        "Icon": "N/A",
-        "Redirect": "https://namekun.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://namekun.com"
-    },
-    {
         "link": "https://pixelbunny.ai",
         "Heading": "Pixel Bunny - AI Image & Video Tools | Generate, Edit & Enhance",
         "Abstract": "Generate, edit, upscale and remove backgrounds from images and videos with AI. Pay-as-you-go credits, free credits on signup.",
@@ -98,16 +88,6 @@
         "Redirect": "https://dxp.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dxp.ru"
-    },
-    {
-        "link": "https://seksualiteit.nl",
-        "Heading": "Seksualiteit",
-        "Abstract": "Op seksualiteit.nl vind je informatie, tips en oefeningen om je te helpen bij al je vragen rondom seksualiteit.",
-        "Official Site": "https://seksualiteit.nl/",
-        "Icon": "https://seksualiteit.nl/wp-content/uploads/2021/09/og-image-seksualiteit-nl-1200x627.jpg",
-        "Redirect": "https://seksualiteit.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://seksualiteit.nl/"
     },
     {
         "link": "https://etalustra.ru",
@@ -300,13 +280,13 @@
         "AbstractURL": "https://hyde-design.net"
     },
     {
-        "link": "https://landsat.com",
-        "Heading": "GIS Data - Aerial Photography, USGS Topo Maps, & Air Photo Maps",
-        "Abstract": "Aerial Photography, Topo Maps, Printed Air Photo Maps, & Satellite Imagery",
-        "Official Site": "https://landsat.com",
-        "Icon": "/skins/artificial_casting/customer/images/icons/favicon.ico",
-        "Redirect": "https://landsat.com",
+        "link": "https://eudevdays.eu",
+        "Heading": "The European Development Days - International Partnerships",
+        "Abstract": "Over 15 editions, the European Development Days (EDD), brought key development actors together to exchange on innovative solutions to the world\u2019s most pressing challenges.",
+        "Official Site": "https://international-partnerships.ec.europa.eu/news-and-events/european-development-days_en",
+        "Icon": "https://international-partnerships.ec.europa.eu/profiles/contrib/ewcms/modules/ewcms_seo/assets/images/ec-socialmedia-fallback.png",
+        "Redirect": "https://international-partnerships.ec.europa.eu/news-and-events/european-development-days_en",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://landsat.com"
+        "AbstractURL": "https://international-partnerships.ec.europa.eu/news-and-events/european-development-days_en"
     }
 ]

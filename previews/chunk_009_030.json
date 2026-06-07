@@ -90,16 +90,6 @@
         "AbstractURL": "https://smallparts.com.au/"
     },
     {
-        "link": "https://smartbooking-pro.com",
-        "Heading": "Hotel Booking Engine Software | Web Connection | EasyBooking",
-        "Abstract": "Give your guests an easy and fast way to book with a responsive booking engine for websites and mobiles, EasyBooking drives direct bookings to your hotel.",
-        "Official Site": "https://smartbooking-pro.com",
-        "Icon": "http://www.webconnection.asia/images/fb_logo.jpg",
-        "Redirect": "https://smartbooking-pro.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://smartbooking-pro.com"
-    },
-    {
         "link": "https://smokerbuilder.com",
         "Heading": "BBQ Smoker Education  |  Smoker Plans & Parts  |  SmokerBuilder",
         "Abstract": "Discover expert tips and resources for buying or building your BBQ smoker. Explore plans and parts at SmokerBuilder, your go-to source for all things BBQ!",
@@ -108,6 +98,16 @@
         "Redirect": "https://smokerbuilder.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://smokerbuilder.com"
+    },
+    {
+        "link": "https://soilsandrocks.com",
+        "Heading": "Soils and Rocks",
+        "Abstract": null,
+        "Official Site": "https://soilsandrocks.com",
+        "Icon": "N/A",
+        "Redirect": "https://soilsandrocks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soilsandrocks.com"
     },
     {
         "link": "https://solorunning.com",
@@ -180,16 +180,6 @@
         "AbstractURL": "https://www.synatix.com/"
     },
     {
-        "link": "https://sysmex-mea.com",
-        "Heading": "Sysmex Middle East",
-        "Abstract": null,
-        "Official Site": "https://sysmex-mea.com",
-        "Icon": "https://www.sysmex-mea.com/fileadmin/_processed_/f/d/csm_S-Corp_Key_Visual_Facebook_1640x856_9fedf1bde8.jpg",
-        "Redirect": "https://sysmex-mea.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sysmex-mea.com"
-    },
-    {
         "link": "https://taapi.io",
         "Heading": "200+ Technical Analysis Indicators API | TAAPI.IO",
         "Abstract": "Power your trading applications with 200+ technical analysis indicators and real time market data delivered through the TAAPI.IO API.",
@@ -200,34 +190,14 @@
         "AbstractURL": "https://taapi.io/"
     },
     {
-        "link": "https://tahico.com",
-        "Heading": "TAHICO - Gi\u1ea3i ph\u00e1p to\u00e0n di\u1ec7n, hi\u1ec7u qu\u1ea3 cho Gara Car Care",
-        "Abstract": "C\u00f4ng ty TAHICO Equipment \u0111\u01a1n v\u1ecb cung c\u1ea5p gi\u1ea3i ph\u00e1p to\u00e0n di\u1ec7n, hi\u1ec7u qu\u1ea3 cho Gara Car Care. [\u0110\u1ee7 Gi\u1ea3i Ph\u00e1p, V\u1eefng Gara]",
-        "Official Site": "https://tahico.com/",
-        "Icon": "https://tahico.com/wp-content/uploads/2024/05/cropped-foodter-tahico-100x100.png",
-        "Redirect": "https://tahico.com/",
+        "link": "https://tboverse.com",
+        "Heading": "History, Politics And Current Affairs - Index page",
+        "Abstract": null,
+        "Official Site": "https://tboverse.com",
+        "Icon": "N/A",
+        "Redirect": "https://tboverse.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tahico.com/"
-    },
-    {
-        "link": "https://taskforce72.org",
-        "Heading": "Home - Task Force 72 Scale Model Ship Association",
-        "Abstract": "Welcome: Welcome aboard the website of TASK FORCE 72 Scale Model Ship Association Inc. This website is here to provide Association members, potential members and members of the general public with information about the association, its events and activities across Australia. Please feel free to have a look around, and contact us if you would",
-        "Official Site": "https://taskforce72.org/",
-        "Icon": "https://taskforce72.org/wp-content/uploads/2015/11/cropped-cropped-cropped-logo21-32x32.png",
-        "Redirect": "https://taskforce72.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://taskforce72.org/"
-    },
-    {
-        "link": "https://teraskata.com",
-        "Heading": "Teraskata.com \u2022 Bersama Membangun Indonesia",
-        "Abstract": "#post_excerpt",
-        "Official Site": "https://teraskata.com/",
-        "Icon": "https://teraskata.com/wp-content/uploads/2024/12/cropped-logo-mini-teraskata-32x32.jpg",
-        "Redirect": "https://teraskata.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://teraskata.com/"
+        "AbstractURL": "https://tboverse.com"
     },
     {
         "link": "https://testimonials.ws",
@@ -248,15 +218,5 @@
         "Redirect": "https://the-horror.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://the-horror.com"
-    },
-    {
-        "link": "https://thecorewithin.net",
-        "Heading": "TheCoreWithin - Index page",
-        "Abstract": null,
-        "Official Site": "https://thecorewithin.net",
-        "Icon": "N/A",
-        "Redirect": "https://thecorewithin.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thecorewithin.net"
     }
 ]

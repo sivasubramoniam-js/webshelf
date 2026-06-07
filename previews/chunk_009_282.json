@@ -40,6 +40,16 @@
         "AbstractURL": "https://asadoretxebarri.com"
     },
     {
+        "link": "https://cfhi.org",
+        "Heading": "Global Health Education | Child Family Health International",
+        "Abstract": "We're a non-profit recognized by the United Nations, leader in Global Health Education, offering ethical, community-based immersive programs across 10 countries.",
+        "Official Site": "https://www.cfhi.org/",
+        "Icon": "https://www.cfhi.org/wp-content/uploads/2022/08/img_0366.jpg",
+        "Redirect": "https://www.cfhi.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cfhi.org/"
+    },
+    {
         "link": "https://gusec.org",
         "Heading": "\u7b14\u8da3\u9601_\u5e7f\u5927\u4e66\u53cb\u6700\u503c\u5f97\u6536\u85cf\u7684\u7f51\u7edc\u5c0f\u8bf4\u9605\u8bfb\u7f51",
         "Abstract": "\u7b14\u8da3\u9601\u662f\u5e7f\u5927\u4e66\u53cb\u6700\u503c\u5f97\u6536\u85cf\u7684\u7f51\u7edc\u5c0f\u8bf4\u9605\u8bfb\u7f51\uff0c\u7f51\u7ad9\u6536\u5f55\u4e86\u5f53\u524d\u6700\u706b\u70ed\u7684\u7f51\u7edc\u5c0f\u8bf4\uff0c\u514d\u8d39\u63d0\u4f9b\u9ad8\u8d28\u91cf\u7684\u5c0f\u8bf4\u6700\u65b0\u7ae0\u8282\uff0c\u662f\u5e7f\u5927\u7f51\u7edc\u5c0f\u8bf4\u7231\u597d\u8005\u5fc5\u5907\u7684\u5c0f\u8bf4\u9605\u8bfb\u7f51\u3002",
@@ -210,16 +220,6 @@
         "AbstractURL": "https://kintzing.com"
     },
     {
-        "link": "https://ligmais.com.br",
-        "Heading": "Lig+ Telecom",
-        "Abstract": "Planos de Fibra \u00d3ptica com alta velocidade e de acordo com a sua necessidade. Escolha sua op\u00e7\u00e3o e domine a internet.",
-        "Official Site": "https://ligmais.com.br",
-        "Icon": "assets/site/img/favicon.png",
-        "Redirect": "https://ligmais.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ligmais.com.br"
-    },
-    {
         "link": "https://alanyabrand.ru",
         "Heading": null,
         "Abstract": null,
@@ -228,6 +228,16 @@
         "Redirect": "https://alanyabrand.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alanyabrand.ru"
+    },
+    {
+        "link": "https://easyqrscanner.com",
+        "Heading": "1024\u56fd\u4ea7\u7cbe\u54c1\u514d\u8d39\u89c2\u770b,\u56fd\u4ea7\u514d\u8d39\u4eba\u6210\u89c6\u9891\u5c24\u7269,\u56fd\u4ea7\u514d\u8d39\u65e0\u7801\u4e00\u533a\u4e8c\u533a\u89c6\u9891,\u8272\u82b1\u5802\u56fd\u4ea7\u7cbe\u54c1\u7b2c\u4e00\u9875,\u4e9a\u6d32\u5973\u540chdvllodtv,\u5bcc\u5973\u73a9\u9e2d\u5b50\u4e00\u7ea7\u6bdb\u7247",
+        "Abstract": "1024\u56fd\u4ea7\u7cbe\u54c1\u514d\u8d39\u89c2\u770b,\u56fd\u4ea7\u514d\u8d39\u4eba\u6210\u89c6\u9891\u5c24\u7269,\u56fd\u4ea7\u514d\u8d39\u65e0\u7801\u4e00\u533a\u4e8c\u533a\u89c6\u9891,\u8272\u82b1\u5802\u56fd\u4ea7\u7cbe\u54c1\u7b2c\u4e00\u9875,\u4e9a\u6d32\u5973\u540chdvllodtv,\u5bcc\u5973\u73a9\u9e2d\u5b50\u4e00\u7ea7\u6bdb\u7247,\u4eba\u59bb\u65e0\u5361\u4e2d\u6587\u4e71\u7801\u5728\u7ebf,\u4ee5\u53ca\u7ecf\u5178\u52a8\u6f2b,\u5a5a\u524d\u6587\u827a\u5de5\u4f5c\u8005,\u7cbe\u54c1\u9ed1\u4eba\u89c6\u9891\u4e00\u533a\u4e8c\u533a\u4e09\u533a\u5728\u7ebf,\u6f02\u4eae\u8001\u5e08\u505a\u7230bd\u7535\u5f71,\u7b97\u4f60\u8272\u6c38\u4e45\u514d\u8d39\u89c6\u9891\u64ad\u653e",
+        "Official Site": "https://easyqrscanner.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://easyqrscanner.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://easyqrscanner.com"
     },
     {
         "link": "https://elektracomic.com",
@@ -240,13 +250,23 @@
         "AbstractURL": "https://elektracomic.com"
     },
     {
-        "link": "https://yarat.az",
-        "Heading": "YARAT | CONTEMPORARY ART SPACE - YARAT",
-        "Abstract": null,
-        "Official Site": "https://yarat.az",
-        "Icon": "_templates/system/favicon.ico",
-        "Redirect": "https://yarat.az",
+        "link": "https://shoppingnovaiguacu.com.br",
+        "Heading": "Shopping Nova Igua\u00e7u",
+        "Abstract": "Inaugurado em 2016, na antiga Pedreira Vign\u00e9, o Shopping Nova Igua\u00e7u \u00e9 o primeiro empreendimento da Baixada Fluminense com conceito multiuso \u2013 em que re\u00fane op\u00e7\u00f5es de compra, lazer, hotelaria e escrit\u00f3rios em um \u00fanico lugar - e prev\u00ea o desenvolvimento de torres comerciais, hotel e pr\u00e9dio residencial em seu projeto.",
+        "Official Site": "https://shoppingnovaiguacu.com.br",
+        "Icon": "https://www.shoppingnovaiguacu.com.br/sites/nova-iguacu/files/styles/og_image_1200x630/public/shopping-media/Home/DJI_0084.jpg?itok=zBe9qGPL",
+        "Redirect": "https://shoppingnovaiguacu.com.br",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://yarat.az"
+        "AbstractURL": "https://shoppingnovaiguacu.com.br"
+    },
+    {
+        "link": "https://marinertalk.com",
+        "Heading": "Mariner Talk Chat Forum - Index page",
+        "Abstract": null,
+        "Official Site": "https://marinertalk.com",
+        "Icon": "N/A",
+        "Redirect": "https://marinertalk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://marinertalk.com"
     }
 ]

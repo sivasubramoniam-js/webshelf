@@ -50,16 +50,6 @@
         "AbstractURL": "https://philipstein.com/"
     },
     {
-        "link": "https://kjuc.si",
-        "Heading": "Knji\u017enica Jo\u017eeta Udovi\u010da Cerknica",
-        "Abstract": "Knji\u017enica Jo\u017eeta Udovi\u010da Cerknica deluje na obmo\u010dju treh notranjskih ob\u010din (Cerknica, Lo\u0161ka dolina, Bloke) in je osrednja knji\u017enica tega obmo\u010dja.",
-        "Official Site": "https://www.kjuc.si/",
-        "Icon": "https://www.kjuc.si/wp-content/uploads/2025/05/Cerknica-21.jpg",
-        "Redirect": "https://www.kjuc.si/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kjuc.si/"
-    },
-    {
         "link": "https://ricardoantunes.net",
         "Heading": "Blog do Ricardo Antunes - Pol\u00edtica, Debates, Not\u00edcias & V\u00eddeos Exclusivos",
         "Abstract": "Blog do Ricardo Antunes - Direto de Recife, pol\u00edtica, debates, not\u00edcias, pol\u00eamicas, Not\u00edcias, entrevistas & v\u00eddeos exclusivos.",
@@ -118,6 +108,16 @@
         "Redirect": "https://forum-minecraft.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://forum-minecraft.ru/"
+    },
+    {
+        "link": "https://pomerleau.ca",
+        "Heading": "Pomerleau: Entreprise de construction | Leader en innovation",
+        "Abstract": "Pomerleau, entreprise de construction au Canada, engag\u00e9e \u00e0 b\u00e2tir les milieux de vie de demain. Experte en b\u00e2timent, infrastructure et g\u00e9nie civil.",
+        "Official Site": "https://pomerleau.ca",
+        "Icon": "https://pomerleau.ca/sites/pomerleau/files/styles/1264_711/public/image/default-image-og.jpg.webp?h=ec041e41&itok=FWFzrhbW",
+        "Redirect": "https://pomerleau.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pomerleau.ca"
     },
     {
         "link": "https://kristofer.ru",
@@ -220,26 +220,6 @@
         "AbstractURL": "https://jarrison.net"
     },
     {
-        "link": "https://sttelhost.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://sttelhost.com",
-        "Icon": "N/A",
-        "Redirect": "https://sttelhost.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sttelhost.com"
-    },
-    {
-        "link": "https://ptgatesolutions.com",
-        "Heading": "Marketing Solutions",
-        "Abstract": "Ajudamos o seu neg\u00f3cio a crescer! Solu\u00e7\u00f5es para lojas online, marketing digital, consultoria e impress\u00e3o gr\u00e1fica",
-        "Official Site": "https://ptgatesolutions.com",
-        "Icon": "images/main/favicon.ico",
-        "Redirect": "https://ptgatesolutions.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ptgatesolutions.com"
-    },
-    {
         "link": "https://mj360.cc",
         "Heading": "\u6df1\u5733\u7f8e\u6676\u4e13\u663e\u79d1\u6280\u6709\u9650\u516c\u53f8",
         "Abstract": "\u7f8e\u6676\u4e13\u663e,\u6df1\u5733\u7f8e\u6676\u4e13\u663e,\u6df1\u5733\u7f8e\u6676\u4e13\u663e\u79d1\u6280\u6709\u9650\u516c\u53f8,\u6df1\u5733\u7f8e\u6676\u4e13\u663e\u4f01\u4e1a\u5546\u57ce,\u753b\u6846\u5e7f\u544a\u673a,\u6237\u5916\u5e7f\u544a\u673a,\u6559\u5b66\u4e00\u4f53\u673a,\u4f1a\u8bae\u4e00\u4f53\u673a,\u89e6\u6478\u4e00\u4f53\u673a,\u81ea\u52a9\u7ec8\u7aef\u673a,\u76d1\u89c6\u5668,\u62fc\u63a5\u5c4f,\u6df1\u5733\u7f8e\u6676\u4e13\u663e\u79d1\u6280\u6709\u9650\u516c\u53f8,\u6df1\u5733\u7f8e\u6676\u4e13\u663e,\u7f8e\u6676\u4e13\u663e,\u7f8e\u6676",
@@ -298,5 +278,15 @@
         "Redirect": "https://www.fantasycritic.games",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.fantasycritic.games"
+    },
+    {
+        "link": "https://empolifc.com",
+        "Heading": "\n    \n    Empoli Football Club - Sito Ufficiale | Empolifc.com\n  \n  ",
+        "Abstract": "Visita il sito ufficiale dell'Empoli Football Club. News, video, foto, shop online, contenuti speciali per rimanere sempre aggiornato sul mondo azzurro",
+        "Official Site": "https://www.empolifc.it/",
+        "Icon": "https://lirp.cdn-website.com/35a0a172/dms3rep/multi/opt/RomaEmpoli1+%282%29-1920w.jpg",
+        "Redirect": "https://www.empolifc.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.empolifc.it/"
     }
 ]

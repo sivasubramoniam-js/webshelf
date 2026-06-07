@@ -40,16 +40,6 @@
         "AbstractURL": "https://derrenbrown.co.uk"
     },
     {
-        "link": "https://psegsst.com.br",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://psegsst.com.br",
-        "Icon": "N/A",
-        "Redirect": "https://psegsst.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://psegsst.com.br"
-    },
-    {
         "link": "https://xdnet.be",
         "Heading": "Welkom - XDnet",
         "Abstract": "Of het nu gaat om effici\u00ebntie, beveiliging of naadloze connectiviteit, wij streven ernaar om zorgeloze IT-ervaringen te leveren met een 24/7 service.",
@@ -110,19 +100,9 @@
         "AbstractURL": "https://leben-im-zug.de"
     },
     {
-        "link": "https://fotostolb.ru",
-        "Heading": "\u0424\u043e\u0442\u043e\u0441\u0442\u043e\u043b\u0431: \u0441\u0435\u0440\u0432\u0438\u0441 \u043e\u043d\u043b\u0430\u0439\u043d-\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f. \u041e\u0442 250 \u0440\u0443\u0431\u043b\u0435\u0439 \u0432 \u043c\u0435\u0441\u044f\u0446",
-        "Abstract": "\u0424\u043e\u0442\u043e\u0441\u0442\u043e\u043b\u0431 \u2014 \u0441\u0435\u0440\u0432\u0438\u0441 \u043e\u043d\u043b\u0430\u0439\u043d-\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f \u0437\u0430 \u0445\u043e\u0434\u043e\u043c \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0438 \u0437\u0430\u0433\u043e\u0440\u043e\u0434\u043d\u044b\u043c\u0438 \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c\u0438. \u0412\u0438\u0434\u0435\u043e \u0438 \u0444\u043e\u0442\u043e\u0441\u044a\u0435\u043c\u043a\u0430, \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0430\u0440\u0445\u0438\u0432\u0430, online-\u0434\u043e\u0441\u0442\u0443\u043f 24/7",
-        "Official Site": "https://fotostolb.ru",
-        "Icon": "/favicon.ico?2",
-        "Redirect": "https://fotostolb.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fotostolb.ru"
-    },
-    {
         "link": "https://reasonable.shop",
-        "Heading": "\n\tOnline Shopping for Electronics, Fashion, Computers & more - Reasonable Shop\n",
-        "Abstract": "Reasonable Shop is an online shop with the local warehouses. We sales Sports and Outdoor, Electronics, Fashion, Health and Beauty, Home and Garden, Test Equipment and Tools, and others.",
+        "Heading": "\n\tOnline Einkaufen | Bekleidung, Kopfh\u00f6rer, Autozubeh\u00f6r - Reasonable Shop Germany\n",
+        "Abstract": "Online Einkaufen Reasonable Shop ist ein Onlineshop mit den \u00f6rtlichen Warenh\u00e4usern. Wir verkaufen Bekleidung, Kopfh\u00f6rer, Autozubeh\u00f6r, Elektronik, und andere.",
         "Official Site": "https://reasonable.shop/index.aspx",
         "Icon": "N/A",
         "Redirect": "https://reasonable.shop/index.aspx",
@@ -138,6 +118,16 @@
         "Redirect": "https://emiinspirations.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://emiinspirations.com"
+    },
+    {
+        "link": "https://telfs.com",
+        "Heading": "Start | GemeindeWerke Telfs",
+        "Abstract": null,
+        "Official Site": "https://gwtelfs.at/",
+        "Icon": "https://gwtelfs.at/site/assets/files/1/start-20260228090646_0001.1200x630.jpg",
+        "Redirect": "https://gwtelfs.at/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gwtelfs.at/"
     },
     {
         "link": "https://lanagirls.com",
@@ -200,16 +190,6 @@
         "AbstractURL": "https://www.igretec.com/"
     },
     {
-        "link": "https://hotel-in-denmark.com",
-        "Heading": "Denmark hotels & apartments, all accommodations in Denmark",
-        "Abstract": "Online booking for hotels in Denmark, Denmark. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://hotel-in-denmark.com",
-        "Icon": "N/A",
-        "Redirect": "https://hotel-in-denmark.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hotel-in-denmark.com"
-    },
-    {
         "link": "https://vialtopartners.com",
         "Heading": "Global Mobility Solutions | Vialto Partners",
         "Abstract": "Learn how our global mobility solutions can help you with immigration, tax, business travel, remote work, risk management, and compliance needs.",
@@ -233,11 +213,11 @@
         "link": "https://middleburycampus.com",
         "Heading": "The Middlebury Campus",
         "Abstract": "The Middlebury Campus",
-        "Official Site": "https://www.middleburycampus.com/?feed=rss2",
+        "Official Site": "https://www.middleburycampus.com/",
         "Icon": "https://d32081hfx7ir9x.cloudfront.net/3531560dfe7dd3e3fae70fde186d9211/dist/img/favicons/android-icon-192x192.png",
-        "Redirect": "https://www.middleburycampus.com/?feed=rss2",
+        "Redirect": "https://www.middleburycampus.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.middleburycampus.com/?feed=rss2"
+        "AbstractURL": "https://www.middleburycampus.com/"
     },
     {
         "link": "https://roentgenmuseum.de",
@@ -260,16 +240,6 @@
         "AbstractURL": "https://nethope.org"
     },
     {
-        "link": "https://tadalaccess.com",
-        "Heading": "Cialis Online Access \u2013 Trusted Solutions for Men's | Tadal Access",
-        "Abstract": "Looking for reliable support with ED treatment? Discover online sources for Cialis that offer privacy, fast delivery, and budget-friendly options.",
-        "Official Site": "https://tadalaccess.com",
-        "Icon": "N/A",
-        "Redirect": "https://tadalaccess.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tadalaccess.com"
-    },
-    {
         "link": "https://qgoq.com",
         "Heading": "QGoQ Music Search",
         "Abstract": "Discover and stream your favorite music instantly with our powerful search engine. Find high-quality tracks by song, artist, or album and start listening right away\u2014no hassle, just great music!",
@@ -278,6 +248,16 @@
         "Redirect": "https://qgoq.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://qgoq.com"
+    },
+    {
+        "link": "https://onemorelibrary.com",
+        "Heading": "One More Library - Free Books in english",
+        "Abstract": "One More Library - Free online ebooks in pdf, epub, kindle and other formats. Free ebooks in English, French, German, Spanish and other languages",
+        "Official Site": "https://onemorelibrary.com",
+        "Icon": "N/A",
+        "Redirect": "https://onemorelibrary.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onemorelibrary.com"
     },
     {
         "link": "https://eatbanza.com",
@@ -298,16 +278,6 @@
         "Redirect": "https://wenaked.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wenaked.net"
-    },
-    {
-        "link": "https://terabytelabs.net",
-        "Heading": "Home - Terabytelabs",
-        "Abstract": "terabytelabs.net Explore the Future Today Welcome to Terabyte Labs, your gateway to the forefront of innovation. Dive into a world where technology trends, cutting-edge software solutions, and the latest tech gadgets converge. Stay ahead of the curve as we unravel the possibilities of tomorrow, today. Join us on this exhilarating journey as we redefine the [\u2026]",
-        "Official Site": "https://terabytelabs.net/",
-        "Icon": "https://terabytelabs.net/wp-content/uploads/2022/03/dotted-pattern.png",
-        "Redirect": "https://terabytelabs.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://terabytelabs.net/"
     },
     {
         "link": "https://tier3communications.com",

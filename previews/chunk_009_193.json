@@ -20,16 +20,6 @@
         "AbstractURL": "https://ass-media.de"
     },
     {
-        "link": "https://diplom-zakaz.ru",
-        "Heading": "\n    \u0414\u043e\u043c\u0435\u043d diplom-zakaz.ru: \u043a\u0443\u043f\u0438\u0442\u044c \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u0434\u043e\u043c\u0435\u043d\u043d\u044b\u0445 \u0438\u043c\u0435\u043d \u0420\u0435\u0433.\u0440\u0443\n",
-        "Abstract": "\u0414\u043e\u043c\u0435\u043d diplom-zakaz.ru \u043f\u0440\u043e\u0434\u0430\u0451\u0442\u0441\u044f. \u0426\u0435\u043d\u0430: 1\u00a0000,00\u00a0\u0440. \u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438: \u0411\u0438\u0437\u043d\u0435\u0441 - \u041e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435; \u041e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 - \u041e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 (\u0434\u0440\u0443\u0433\u043e\u0435); \u0420\u0430\u0437\u043d\u043e\u0435 - \u0420\u0430\u0437\u043d\u043e\u0435 (\u0434\u0440\u0443\u0433\u043e\u0435). \u0412\u0441\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043e \u0434\u043e\u043c\u0435\u043d\u0435 \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u0434\u043e\u043c\u0435\u043d\u043e\u0432 \u0420\u0435\u0433.\u0440\u0443.",
-        "Official Site": "https://www.reg.ru/domain/shop/lot/diplom-zakaz.ru",
-        "Icon": "https://img.reg.ru/news/og-regru.png?fit=cover&width=1200&height=630",
-        "Redirect": "https://www.reg.ru/domain/shop/lot/diplom-zakaz.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.reg.ru/domain/shop/lot/diplom-zakaz.ru"
-    },
-    {
         "link": "https://httpstatuses.com",
         "Heading": "Ultimate Web Development terms and Glossary for 2026",
         "Abstract": "Want to familiarize yourself with some common website development terms? Use our web development glossary to find what you\u2019re looking for!",
@@ -58,6 +48,16 @@
         "Redirect": "https://lak-bw.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lak-bw.de"
+    },
+    {
+        "link": "https://arselona.com",
+        "Heading": "Home - arselona",
+        "Abstract": null,
+        "Official Site": "https://arselona.com/",
+        "Icon": "https://arselona.com/wp-content/uploads/2018/10/images-150x150.png",
+        "Redirect": "https://arselona.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arselona.com/"
     },
     {
         "link": "https://babyhuys.com",
@@ -160,14 +160,14 @@
         "AbstractURL": "https://bitcall.io"
     },
     {
-        "link": "https://musicals101.com",
-        "Heading": "Musicals101.com Homepage",
-        "Abstract": null,
-        "Official Site": "https://musicals101.com",
-        "Icon": "N/A",
-        "Redirect": "https://musicals101.com",
+        "link": "https://euskalduna.eus",
+        "Heading": "Palacio Euskalduna Jauregia Bilbao | Palacio de Congresos y de la M\u00fasica",
+        "Abstract": "El Palacio Euskalduna, Centro de Congresos y de la M\u00fasica, ofrece un espacio ideal para su evento, feria o congreso en Bilbao y est\u00e1 muy bien comunicado.",
+        "Official Site": "https://www.euskalduna.eus/",
+        "Icon": "https://www.euskalduna.eus/src/uploads/2018/12/opari-txartela-web.jpg",
+        "Redirect": "https://www.euskalduna.eus/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://musicals101.com"
+        "AbstractURL": "https://www.euskalduna.eus/"
     },
     {
         "link": "https://casapaso.com.ar",
@@ -198,16 +198,6 @@
         "Redirect": "https://legendarywallart.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://legendarywallart.com/"
-    },
-    {
-        "link": "https://ctwchile.cl",
-        "Heading": "construyetuweb | dise\u00f1o web, hosting, posicionamiento, dominios, correos electr\u00f3nicos",
-        "Abstract": null,
-        "Official Site": "https://ctwchile.cl",
-        "Icon": "https://ctwchile.cl/wp-content/uploads/2017/06/av-150x150.jpg",
-        "Redirect": "https://ctwchile.cl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ctwchile.cl"
     },
     {
         "link": "https://wcsdk12.org",
@@ -270,14 +260,24 @@
         "AbstractURL": "https://familienbande24.de"
     },
     {
-        "link": "https://smarteventmanager.com",
-        "Heading": "Event Management Software | Smart Event Manager",
-        "Abstract": "The Smart Event Manager software is the most advanced and user-friendly software for event management. Discover the possibilities.",
-        "Official Site": "https://smarteventmanager.com/en/",
-        "Icon": "https://smarteventmanager.com/en/wp-content/uploads/sites/6/2025/06/cropped-sem-favicon-300x300-1-32x32.png",
-        "Redirect": "https://smarteventmanager.com/en/",
+        "link": "https://aarambhprogram.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://aarambhprogram.com",
+        "Icon": "N/A",
+        "Redirect": "https://aarambhprogram.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://smarteventmanager.com/en/"
+        "AbstractURL": "https://aarambhprogram.com"
+    },
+    {
+        "link": "https://dailybanjara.com",
+        "Heading": "\u092c\u0902\u091c\u093e\u0930\u093e \u0928\u094d\u092f\u0942\u091c, \u0907\u0924\u093f\u0939\u093e\u0938, \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u0940 \u0906\u0923\u093f \u0917\u094b\u0930\u092c\u094b\u0932\u0940 \u092e\u093e\u0939\u093f\u0924\u0940 - DailyBanjara.com",
+        "Abstract": "DailyBanjara.com \u0935\u0930 \u0935\u093e\u091a\u093e \u092c\u0902\u091c\u093e\u0930\u093e \u0938\u092e\u093e\u091c\u093e\u091a\u0947 \u0924\u093e\u091c\u0947 \u0928\u094d\u092f\u0942\u091c, \u0907\u0924\u093f\u0939\u093e\u0938, \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u0940, \u0917\u094b\u0930\u092c\u094b\u0932\u0940 \u092d\u093e\u0937\u093e, \u0938\u0947\u0935\u093e\u0932\u093e\u0932 \u092e\u0939\u093e\u0930\u093e\u091c \u092e\u093e\u0939\u093f\u0924\u0940, \u0917\u093e\u0923\u0940, \u0935\u094d\u0939\u093f\u0921\u093f\u0913 \u0906\u0923\u093f \u0905\u0927\u093f\u0915.",
+        "Official Site": "https://dailybanjara.com/",
+        "Icon": "https://dailybanjara.com/uploads/logo/logo_69ef12daca2136-37760997.png",
+        "Redirect": "https://dailybanjara.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dailybanjara.com/"
     },
     {
         "link": "https://nc-beautypro.fr",

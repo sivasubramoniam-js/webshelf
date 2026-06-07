@@ -10,6 +10,16 @@
         "AbstractURL": "https://partsinn.lt/"
     },
     {
+        "link": "https://pattayastore.com",
+        "Heading": "pattayastore",
+        "Abstract": null,
+        "Official Site": "https://pattayastore.com",
+        "Icon": "N/A",
+        "Redirect": "https://pattayastore.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pattayastore.com"
+    },
+    {
         "link": "https://pepepow.org",
         "Heading": "PEPEPOW Community Organization \u2013 A proof of work crypto-currency, embracing the power of decentralization.",
         "Abstract": "A proof of work crypto-currency, embracing the power of decentralization.",
@@ -40,24 +50,14 @@
         "AbstractURL": "https://phenha.vn"
     },
     {
-        "link": "https://philippineenergylawterms.com",
-        "Heading": "Philippine Energy Law Terms",
-        "Abstract": "This website is dedicated to providing an organized collection of relevant energy-related terms and their meanings, which are culled from select laws and related implementing rules and regulations (IRRs), administrative orders etc.",
-        "Official Site": "https://philippineenergylawterms.com/",
-        "Icon": "N/A",
-        "Redirect": "https://philippineenergylawterms.com/",
+        "link": "https://pigeonbaycottages.com",
+        "Heading": "Luxury Beach Cottages at Pigeon Bay | PigeonBayCottages.com",
+        "Abstract": "Find luxury beachfront cottages at Pigeon Bay. Tranquil escapes across Minnesota, Ontario, and New Zealand, with breathtaking views and unique adventures.",
+        "Official Site": "https://pigeonbaycottages.com/",
+        "Icon": "https://cdn.123presto.com/prod/published/pigeonbaycottages/home.jfif",
+        "Redirect": "https://pigeonbaycottages.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://philippineenergylawterms.com/"
-    },
-    {
-        "link": "https://poitou-charentes-hotels.com",
-        "Heading": "Poitou-Charentes hotels & apartments, all accommodations in Poitou-Charentes",
-        "Abstract": "Online booking for hotels in Poitou-Charentes, France. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://poitou-charentes-hotels.com",
-        "Icon": "N/A",
-        "Redirect": "https://poitou-charentes-hotels.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://poitou-charentes-hotels.com"
+        "AbstractURL": "https://pigeonbaycottages.com/"
     },
     {
         "link": "https://portlandjobsite.com",
@@ -84,7 +84,7 @@
         "Heading": "\n\tGlobal Assessment Center\n",
         "Abstract": null,
         "Official Site": "https://profilesgac.com",
-        "Icon": "/apple-touch-icon-precomposed.png",
+        "Icon": "favicon.ico",
         "Redirect": "https://profilesgac.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://profilesgac.com"
@@ -160,16 +160,6 @@
         "AbstractURL": "https://rearon.se"
     },
     {
-        "link": "https://redblooms.in",
-        "Heading": "Flowers Delivery Bangalore | 2 hrs Free Delivery | RedBlooms.in",
-        "Abstract": "Send Flowers to Bangalore Online. #1 Local Florist for Online Flowers Delivery in Bangalore. Premium Quality Low Costs Free Delivery Safe Payments",
-        "Official Site": "https://www.redblooms.in",
-        "Icon": "https://www.redblooms.in/images/site/sitelogo.png",
-        "Redirect": "https://www.redblooms.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.redblooms.in"
-    },
-    {
         "link": "https://rememberthefilter.com",
         "Heading": "\n      HVAC Filters \u2013 Pleated, MERV-Rated & Custom | Free Shipping $50+\n",
         "Abstract": "HVAC, furnace & AC filters for home and commercial use. All sizes, top brands, and MERV ratings. Free shipping $50+. Trusted since 2006.",
@@ -178,6 +168,16 @@
         "Redirect": "https://www.rememberthefilter.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.rememberthefilter.com/"
+    },
+    {
+        "link": "https://renatovillas.com",
+        "Heading": "Anaheim Villas and Family Vacation Rentals Near Disneyland",
+        "Abstract": "Experience the magic of Disneyland while staying in our luxury villas. Renato Villas offers the perfect blend of comfort and convenience for families.",
+        "Official Site": "https://renatovillas.com/",
+        "Icon": "https://cdn.123presto.com/prod/sites/renatovillas/images/renatovillas-favicon.ico",
+        "Redirect": "https://renatovillas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://renatovillas.com/"
     },
     {
         "link": "https://restaurantlistings.com",
@@ -200,16 +200,6 @@
         "AbstractURL": "http://retailassist.global/"
     },
     {
-        "link": "https://ridebike.hu",
-        "Heading": "Ridebike | RideBike / Ker\u00e9kp\u00e1r\u00fczlet \u00e9s szerv\u00edz",
-        "Abstract": null,
-        "Official Site": "https://ridebike.hu",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://ridebike.hu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ridebike.hu"
-    },
-    {
         "link": "https://robotoys.eu",
         "Heading": "Robotoys | 3D Wooden Puzzle, DIY Miniature Houses",
         "Abstract": "Robotoys | Premium fun-to-build 3D wooden puzzle, DIY miniature house & other creative craft building kits for kids &",
@@ -228,16 +218,6 @@
         "Redirect": "https://ruisiletao.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ruisiletao.com"
-    },
-    {
-        "link": "https://sanders-mcarthurfamily.org",
-        "Heading": "Our Family Genealogy Pages: Sanders McArthur Family Site",
-        "Abstract": null,
-        "Official Site": "https://sanders-mcarthurfamily.org",
-        "Icon": "N/A",
-        "Redirect": "https://sanders-mcarthurfamily.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sanders-mcarthurfamily.org"
     },
     {
         "link": "https://sasadown.cn",

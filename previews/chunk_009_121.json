@@ -90,6 +90,16 @@
         "AbstractURL": "https://fait-maison.com"
     },
     {
+        "link": "https://ferrucci.com.br",
+        "Heading": "Ferrucci | Loja Online de Cal\u00e7ados - Conhe\u00e7a as novidades da cole\u00e7\u00e3o Ferrucci Summer Feelings 2020. Encontre sand\u00e1lia, mule, flat, rasteira, slingback, sapatilha e v\u00e1rios outros modelos na loja virtual oficial da Ferrucci. Shop Now!",
+        "Abstract": "Conhe\u00e7a as novidades da cole\u00e7\u00e3o Ferrucci Summer Feelings 2020. Encontre sand\u00e1lia, mule, flat, rasteira, slingback, sapatilha e v\u00e1rios outros modelos na loja virtual oficial da Ferrucci. Shop Now!",
+        "Official Site": "https://ferrucci.com.br",
+        "Icon": "https://www.ferrucci.com.br/logo/social-ferrucci.jpg",
+        "Redirect": "https://ferrucci.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ferrucci.com.br"
+    },
+    {
         "link": "https://uspvpn.ru",
         "Heading": "VPN",
         "Abstract": null,
@@ -118,6 +128,16 @@
         "Redirect": "https://www.buehler.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.buehler.com/"
+    },
+    {
+        "link": "https://iwatchstuff.com",
+        "Heading": "I Watch Stuff",
+        "Abstract": null,
+        "Official Site": "https://iwatchstuff.com",
+        "Icon": "N/A",
+        "Redirect": "https://iwatchstuff.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iwatchstuff.com"
     },
     {
         "link": "https://startideias.com.br",
@@ -210,16 +230,6 @@
         "AbstractURL": "https://offergate-ecommerce-update11.com"
     },
     {
-        "link": "https://bestofmachinery.com",
-        "Heading": "Best of Machinery - Providing you with the Best Reviews on Tools",
-        "Abstract": "At Best of Machinery, home and garden tools is our field. We are a team of experts, helping you find the best product for you.",
-        "Official Site": "https://bestofmachinery.com/",
-        "Icon": "https://bestofmachinery.com/wp-content/uploads/2021/02/cropped-bestofmachinery.favicon-1-32x32.jpg",
-        "Redirect": "https://bestofmachinery.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bestofmachinery.com/"
-    },
-    {
         "link": "https://kerrvilletx.gov",
         "Heading": "Kerrville TX - Official Website | Official Website",
         "Abstract": "Eclipse 3",
@@ -228,15 +238,5 @@
         "Redirect": "https://kerrvilletx.gov",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kerrvilletx.gov"
-    },
-    {
-        "link": "https://climateaccountability.org",
-        "Heading": "Climate Accountability Institute |",
-        "Abstract": null,
-        "Official Site": "https://climateaccountability.org",
-        "Icon": "https://climateaccountability.org/wp-content/uploads/2024/04/icon-150x150.jpg",
-        "Redirect": "https://climateaccountability.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://climateaccountability.org"
     }
 ]

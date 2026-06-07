@@ -40,6 +40,16 @@
         "AbstractURL": "https://cfosilvia.com"
     },
     {
+        "link": "https://rezepte-blog.eu",
+        "Heading": "rezepte-blog.eu \u2014 Latest News",
+        "Abstract": "Fresh and trending updates from rezepte-blog.eu",
+        "Official Site": "https://rezepte-blog.eu",
+        "Icon": "https://ts2.mm.bing.net/th?q=rezepte-blog.eu",
+        "Redirect": "https://rezepte-blog.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rezepte-blog.eu"
+    },
+    {
         "link": "https://petrocksliquors.com",
         "Heading": "Petrock's Liquors, Hillsborough Township, NJ, Hillsborough Township, NJ",
         "Abstract": " - A Wine and Liquor (Spirits) store located in 419 Amwell Rd, Hillsborough Township, NJ 08844, USA",
@@ -68,16 +78,6 @@
         "Redirect": "https://mehabelka.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mehabelka.ru/"
-    },
-    {
-        "link": "https://corporacioncopacabana.com",
-        "Heading": "CorporacionCopacabana.com - Gerencia, Ejecuci\u00f3n y Consultor\u00eda de Proyectos - Inicio",
-        "Abstract": "empresa venezolana dedicada a la gerencia, ejecuci\u00f3n y consultor\u00eda de proyectos de  Ingenier\u00eda, Procura, y Construcci\u00f3n (IPC) con m\u00e1s de 15 a\u00f1os de experiencia en los siguientes sectores: Gobierno, Infraestructura , Plantas industriales, Petr\u00f3leo y gas, Electricidad, Desarrollo habitacional, Vialidad",
-        "Official Site": "https://corporacioncopacabana.com",
-        "Icon": "/templates/legend_j25/favicon.ico",
-        "Redirect": "https://corporacioncopacabana.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://corporacioncopacabana.com"
     },
     {
         "link": "https://dkeng.co.uk",
@@ -120,16 +120,6 @@
         "AbstractURL": "https://vasy.ru"
     },
     {
-        "link": "https://tyber.net",
-        "Heading": "voiSip - Discount VoIP Phone Service with FREE Clone Lines",
-        "Abstract": "voiSip offers discount business & residential telephone service, cloud fax numbers, toll free numbers, VoIP adapters, phones, phone systems, and other telephony related products and services.",
-        "Official Site": "https://tyber.net",
-        "Icon": "/secure/templates/voisip/favicon.ico",
-        "Redirect": "https://tyber.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tyber.net"
-    },
-    {
         "link": "https://pipedija.com",
         "Heading": " (straipsn\u012f jums duoda Pipedija, laisvoji durnys\u010di\u0173 Wiki Enciklopedija)",
         "Abstract": null,
@@ -138,6 +128,16 @@
         "Redirect": "https://pipedija.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pipedija.com"
+    },
+    {
+        "link": "https://searchcove.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://searchcove.com",
+        "Icon": "N/A",
+        "Redirect": "https://searchcove.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://searchcove.com"
     },
     {
         "link": "https://frompendaftaransekolah.online",
@@ -158,16 +158,6 @@
         "Redirect": "https://inventapalabras.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://inventapalabras.com"
-    },
-    {
-        "link": "https://germaniainternational.com",
-        "Heading": "Enter Germania International",
-        "Abstract": null,
-        "Official Site": "https://germaniainternational.com",
-        "Icon": "N/A",
-        "Redirect": "https://germaniainternational.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://germaniainternational.com"
     },
     {
         "link": "https://vdlgroep.com",
@@ -200,16 +190,6 @@
         "AbstractURL": "https://itegroup.ru"
     },
     {
-        "link": "https://asiangranny.net",
-        "Heading": "asiangranny.net",
-        "Abstract": null,
-        "Official Site": "https://asiangranny.net",
-        "Icon": "N/A",
-        "Redirect": "https://asiangranny.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://asiangranny.net"
-    },
-    {
         "link": "https://iocos.it",
         "Heading": "IOCOS | Siti Web, Domini, Hosting e Marketing Digitale",
         "Abstract": "Realizziamo siti web su misura e gestiamo tutto: domini, hosting, grafica, logo, SEO e strategie social. Scopri il nostro approccio smart e modulare.",
@@ -218,15 +198,5 @@
         "Redirect": "https://iocos.it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://iocos.it/"
-    },
-    {
-        "link": "https://webjolt.co.uk",
-        "Heading": "WebJolt \u2013 Colwyn Bay Web Design",
-        "Abstract": null,
-        "Official Site": "https://webjolt.co.uk",
-        "Icon": "N/A",
-        "Redirect": "https://webjolt.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://webjolt.co.uk"
     }
 ]

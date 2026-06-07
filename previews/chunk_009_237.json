@@ -130,16 +130,6 @@
         "AbstractURL": "https://www.earthlagoon.is/"
     },
     {
-        "link": "https://zebranameserver.com",
-        "Heading": "Amazing.cloud",
-        "Abstract": null,
-        "Official Site": "https://zebranameserver.com",
-        "Icon": "N/A",
-        "Redirect": "https://zebranameserver.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zebranameserver.com"
-    },
-    {
         "link": "https://robinspost.com",
         "Heading": "RobinsPost | Trusted News, Videos, and Print On Demand Stores",
         "Abstract": "RobinsPost is a comprehensive news and social media information platform offering trusted news, videos, shopping, sponsored guest posts, article submissions and print on demand service store. Stay informed with the latest updates from around the world.",
@@ -268,6 +258,16 @@
         "Redirect": "https://prost1.chitausm.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://prost1.chitausm.com/"
+    },
+    {
+        "link": "https://petranks.store",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://petranks.store",
+        "Icon": "N/A",
+        "Redirect": "https://petranks.store",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://petranks.store"
     },
     {
         "link": "https://finelittleday.com",

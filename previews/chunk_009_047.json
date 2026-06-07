@@ -20,16 +20,6 @@
         "AbstractURL": "https://www.girl.com.au/"
     },
     {
-        "link": "https://socpub.com",
-        "Heading": "| socPub",
-        "Abstract": null,
-        "Official Site": "https://socpub.com",
-        "Icon": "/sites/default/files/socPub2022_0.png",
-        "Redirect": "https://socpub.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://socpub.com"
-    },
-    {
         "link": "https://kule.com",
         "Heading": "\n      KULE - Home of the Perfect Stripe Shirt\n      \n      \n    ",
         "Abstract": "KULE is a fashion brand making classic clothes with a happy wink ;) Designed by CFDA member Nikki Kule, the brand launched as a childrenswear brand in 2001, and later relaunched as a collection of perfect stripe tees in 2015. Now encompassing multiple categories for women.",
@@ -58,6 +48,16 @@
         "Redirect": "https://racismoambiental.net.br/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://racismoambiental.net.br/"
+    },
+    {
+        "link": "https://podpartner.com",
+        "Heading": "PODpartner: Print On Demand Clothing & Dropshipping Solutions",
+        "Abstract": "PODpartner is your one-stop platform for global dropshipping of print-on-demand clothing. Design, sell, and let us handle the rest.",
+        "Official Site": "https://www.podpartner.com/",
+        "Icon": "https://img.podpartner.com/static/ogFiles/index-og.png",
+        "Redirect": "https://www.podpartner.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.podpartner.com/"
     },
     {
         "link": "https://actioniq.com",
@@ -110,16 +110,6 @@
         "AbstractURL": "https://bluesblastmagazine.com"
     },
     {
-        "link": "https://asdreams.org",
-        "Heading": "\nInternational Association for the Study of Dreams\t",
-        "Abstract": null,
-        "Official Site": "https://asdreams.org",
-        "Icon": "N/A",
-        "Redirect": "https://asdreams.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://asdreams.org"
-    },
-    {
         "link": "https://embeddedworks.net",
         "Heading": "Embedded Works - Design IoT with Us",
         "Abstract": "Technology solutions provider \u2014 Our company has a 15-year history of delivering the latest in IoT wireless technologies.",
@@ -141,10 +131,10 @@
     },
     {
         "link": "https://dafawin.com",
-        "Heading": "Place your online bets anywhere with Dafabet Mobile!",
-        "Abstract": "Never miss an opportunity to place your online bets and win big even if you are always on the go! Bet now with Dafabet Mobile!",
+        "Heading": "Dafabet is The Most Secure Online Betting Company in Asia",
+        "Abstract": "Place your bets with Dafabet -  The leading online betting site in Asia! Register now and have the best online gambling experience! Bet online today!",
         "Official Site": "https://dafawin.com",
-        "Icon": "/images/favicon.ico",
+        "Icon": "/en/dafa/images/favicon.ico",
         "Redirect": "https://dafawin.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dafawin.com"
@@ -158,16 +148,6 @@
         "Redirect": "https://uznev.uz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://uznev.uz"
-    },
-    {
-        "link": "https://limitlessnexus.com",
-        "Heading": "Limitless Nexus | The Veil and the Key",
-        "Abstract": "The point where infinite potential is given focus.",
-        "Official Site": "https://limitlessnexus.com",
-        "Icon": "N/A",
-        "Redirect": "https://limitlessnexus.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://limitlessnexus.com"
     },
     {
         "link": "https://povpow.com",
@@ -288,6 +268,16 @@
         "Redirect": "https://thnovel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thnovel.com"
+    },
+    {
+        "link": "https://shortfilm.com",
+        "Heading": "Kurzfilm Agentur Hamburg e.V.:  Das Kurzfilmportal der Kurzfilm Agentur Hamburg",
+        "Abstract": null,
+        "Official Site": "https://shortfilm.com",
+        "Icon": "N/A",
+        "Redirect": "https://shortfilm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shortfilm.com"
     },
     {
         "link": "https://lysegarden.se",

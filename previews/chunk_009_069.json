@@ -30,16 +30,6 @@
         "AbstractURL": "https://yless4u.com.au"
     },
     {
-        "link": "https://macquariemed.com.au",
-        "Heading": "Medical Supplies Australia | Macquarie Medical Systems",
-        "Abstract": "Macquarie Medical Systems supplies medical equipment, consumables, and diagnostic devices across Australia. Order online with trusted local support.",
-        "Official Site": "https://macquariemed.com.au",
-        "Icon": "https://macquariemed.com.au/media/favicon/default/favicon-32x32.png",
-        "Redirect": "https://macquariemed.com.au",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://macquariemed.com.au"
-    },
-    {
         "link": "https://scharr.de",
         "Heading": "Ihr Energie- und W\u00e4rmepartner | FRIEDRICH SCHARR KG",
         "Abstract": "SCHARR bringt Tag f\u00fcr Tag Energie in das Leben seiner Kunden. Finden Sie hier das passende Energieprodukt und die zugeh\u00f6rige Technik!",
@@ -120,16 +110,6 @@
         "AbstractURL": "https://www.campingparis.fr/"
     },
     {
-        "link": "https://takipavm.com",
-        "Heading": "Takip\u00e7i Sat\u0131n Al - TakipZE",
-        "Abstract": "Takip\u00e7i sat\u0131n al hizmetlerinde g\u00fcvenilir adres Takipze! Ger\u00e7ek, aktif ve telafili takip\u00e7i paketleriyle hesab\u0131n\u0131z\u0131 g\u00fcvenle b\u00fcy\u00fct\u00fcn.",
-        "Official Site": "https://takipze.com/",
-        "Icon": "https://takipze.com/upload/screenshot-2022-08-14t205413-766272.png",
-        "Redirect": "https://takipze.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://takipze.com/"
-    },
-    {
         "link": "https://tnmagazine.org",
         "Heading": "The Tennessee Magazine - Celebrating the Extraordinary Nature of Everyday Life",
         "Abstract": "Discover Tennessee\u2019s stories, culture, people, and places through the award-winning publication of the Tennessee Electric Cooperative Association. Fresh content every month, from local features to statewide events.",
@@ -180,14 +160,14 @@
         "AbstractURL": "https://wickbot.com"
     },
     {
-        "link": "https://servernetservices.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://servernetservices.com",
-        "Icon": "N/A",
-        "Redirect": "https://servernetservices.com",
+        "link": "https://rw2828.com",
+        "Heading": "rw2828.com\u00a0-\u00a0rw2828 Resources and Information.",
+        "Abstract": "rw2828.com is your first and best source for information about rw2828. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://rw2828.com",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://rw2828.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://servernetservices.com"
+        "AbstractURL": "https://rw2828.com"
     },
     {
         "link": "https://turta.io",
@@ -218,16 +198,6 @@
         "Redirect": "https://aquilapp.fr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aquilapp.fr"
-    },
-    {
-        "link": "https://atecoe.edu.gh",
-        "Heading": "ATECOE \u2013 Atebubu College of Education",
-        "Abstract": null,
-        "Official Site": "https://atecoe.edu.gh",
-        "Icon": "https://atecoe.edu.gh/wp-content/uploads/2024/07/cropped-logo-1-modified-1-32x32.png",
-        "Redirect": "https://atecoe.edu.gh",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://atecoe.edu.gh"
     },
     {
         "link": "https://audioverse.org",
@@ -268,6 +238,26 @@
         "Redirect": "https://maxwire.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://maxwire.net"
+    },
+    {
+        "link": "https://philomathnews.com",
+        "Heading": "Home - Philomath News",
+        "Abstract": "EDITOR\u2019S CHOICE NEWS Subscribe to Free Philomath News Newsletter * indicates required Email Address * First Name Last Name MORE NEWS SPORTS MORE SPORTS Philomath in Photos VIEW PHILOMATH IN [\u2026]",
+        "Official Site": "https://philomathnews.com/",
+        "Icon": "https://philomathnews.com/wp-content/uploads/2026/06/060626-pa-grads-philo-photos_9799-1200x767.jpg",
+        "Redirect": "https://philomathnews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://philomathnews.com/"
+    },
+    {
+        "link": "https://sebraestartups.com.br",
+        "Heading": "Sebrae Startups",
+        "Abstract": "Apoio pra startups em todos os momentos, desafios e lugares.",
+        "Official Site": "https://sebrae.com.br/subsites/sebrae-startups",
+        "Icon": "https://sebrae.scene7.com/is/image/sebrae/banner-destaque-01-17:opengraph?bfc=webp&fmt=png-alpha",
+        "Redirect": "https://sebrae.com.br/subsites/sebrae-startups",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sebrae.com.br/subsites/sebrae-startups"
     },
     {
         "link": "https://rossensor.ru",

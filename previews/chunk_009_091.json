@@ -70,16 +70,6 @@
         "AbstractURL": "https://ekspark.ru"
     },
     {
-        "link": "https://angelcode.com",
-        "Heading": "AngelCode.com - game development and more...",
-        "Abstract": null,
-        "Official Site": "https://angelcode.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://angelcode.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://angelcode.com"
-    },
-    {
         "link": "https://ripplefoods.com",
         "Heading": "\n      Ripple Foods\n",
         "Abstract": "Ripple Foods offers a nutritious & delicious milk alternative that is 100% dairy-free, vegan, nut-, lactose- & gluten-free. Discover more about Ripple milk!",
@@ -168,6 +158,16 @@
         "Redirect": "https://2cccc.cc",
         "AbstractSource": "BS4",
         "AbstractURL": "https://2cccc.cc"
+    },
+    {
+        "link": "https://hiller.org",
+        "Heading": "Imagination takes flight at the Hiller Aviation Museum",
+        "Abstract": "Hiller Aviation Museum",
+        "Official Site": "https://www.hiller.org/",
+        "Icon": "https://www.hiller.org/wp-content/uploads/Stacked_HillerLogo_3Color.png",
+        "Redirect": "https://www.hiller.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hiller.org/"
     },
     {
         "link": "https://iheartjakemedia.com",

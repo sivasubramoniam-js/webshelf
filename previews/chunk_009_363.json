@@ -70,6 +70,16 @@
         "AbstractURL": "https://emfun.online"
     },
     {
+        "link": "https://edumalls.com",
+        "Heading": "Welcome to EduMalls",
+        "Abstract": null,
+        "Official Site": "https://edumalls.com",
+        "Icon": "https://cdn.edumalls.com/favicon/websites/3/edumalls-favicon_1.png",
+        "Redirect": "https://edumalls.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://edumalls.com"
+    },
+    {
         "link": "https://detstvo.ru",
         "Heading": "frs24.de \u2014 Coming Soon",
         "Abstract": "This is a default index page for a new domain.",
@@ -138,6 +148,16 @@
         "Redirect": "https://playerwives.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://playerwives.com"
+    },
+    {
+        "link": "https://semes.org",
+        "Heading": "Sociedad Espa\u00f1ola de Medicina de Urgencias y Emergencias - SEMES",
+        "Abstract": "Fundada en 1987, recogi\u00f3 en sus fines fundacionales todos aquellos aspectos que afectan a tan importante y necesaria parte de la Medicina.",
+        "Official Site": "https://www.semes.org/",
+        "Icon": "https://www.semes.org/wp-content/uploads/2021/12/semes-rework-cuadrado-scaled.jpg",
+        "Redirect": "https://www.semes.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.semes.org/"
     },
     {
         "link": "https://placeofmytaste.com",
@@ -298,15 +318,5 @@
         "Redirect": "https://v-er.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://v-er.eu/"
-    },
-    {
-        "link": "https://whattobecome.com",
-        "Heading": "What To Become - Your Career & Education Guide",
-        "Abstract": "What To Become is a website that offers educational information, career advice, and genuine tutoring guides for people of all ages!",
-        "Official Site": "https://whattobecome.com/",
-        "Icon": "https://whattobecome.com/wp-content/uploads/2020/12/whattobecome_symbol-90x90.png",
-        "Redirect": "https://whattobecome.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://whattobecome.com/"
     }
 ]

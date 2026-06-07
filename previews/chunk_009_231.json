@@ -10,16 +10,6 @@
         "AbstractURL": "https://www.amazonicorestaurant.com/"
     },
     {
-        "link": "https://eurochambres.eu",
-        "Heading": "Home - Eurochambres",
-        "Abstract": "Want to find out more about EUROCHAMBRES and its activities? The homepage is the gateway to the latest news, events and other activities.",
-        "Official Site": "https://www.eurochambres.eu/",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://www.eurochambres.eu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.eurochambres.eu/"
-    },
-    {
         "link": "https://ladia68.ru",
         "Heading": "\u041b\u0430\u0434\u044c\u044f",
         "Abstract": null,
@@ -100,26 +90,6 @@
         "AbstractURL": "https://arc-copro.fr"
     },
     {
-        "link": "https://albania360.com",
-        "Heading": "The #1 Albanian Travel Platform - Visit Albania | Albania 360",
-        "Abstract": "Visiting Albania? Download the Albania360 app for iOS & Android and plan your perfect visit. Or use it to plan your day around you! Visit Albania | Albania360 | Web | App | Social",
-        "Official Site": "https://albania360.com/",
-        "Icon": "https://albania360.com/wp-content/uploads/2024/12/3f630e602b5f34a80e16fd947ecd8676-national-history-museum-1024x683.jpg",
-        "Redirect": "https://albania360.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://albania360.com/"
-    },
-    {
-        "link": "https://spacemarkets.io",
-        "Heading": "Space Markets  | Home ",
-        "Abstract": null,
-        "Official Site": "https://spacemarkets.io",
-        "Icon": "https://spacemarkets.io/image/favicon.png",
-        "Redirect": "https://spacemarkets.io",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://spacemarkets.io"
-    },
-    {
         "link": "https://mankymonkeymotors.co.uk",
         "Heading": "Manky Monkey Motors",
         "Abstract": null,
@@ -128,16 +98,6 @@
         "Redirect": "https://mankymonkeymotors.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mankymonkeymotors.co.uk"
-    },
-    {
-        "link": "https://mydnsnode.com",
-        "Heading": "mydnsnode.com",
-        "Abstract": null,
-        "Official Site": "https://mydnsnode.com",
-        "Icon": "/assets/images/favicon.ico",
-        "Redirect": "https://mydnsnode.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mydnsnode.com"
     },
     {
         "link": "https://gitawonk.com",
@@ -190,16 +150,6 @@
         "AbstractURL": "https://fibocom.com"
     },
     {
-        "link": "https://discgolfontario.com",
-        "Heading": "Disc Golf Ontario - An online community for Ontario Disc Golfers",
-        "Abstract": "A message board and web forum for Ontario disc golf enthusiasts. Information for local disc golf tournaments, techniques and tricks, classifieds and more...",
-        "Official Site": "https://discgolfontario.com",
-        "Icon": "N/A",
-        "Redirect": "https://discgolfontario.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://discgolfontario.com"
-    },
-    {
         "link": "https://insightconferences.com",
         "Heading": "Smowcode",
         "Abstract": "Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go",
@@ -210,14 +160,14 @@
         "AbstractURL": "https://cloud.smowcode.com/"
     },
     {
-        "link": "https://auric.city",
-        "Heading": "AURIC | Maharashtra",
-        "Abstract": "AURIC is a planned & greenfield smart industrial city developed across 10,000 acres in Maharashtra, as part of the Delhi-Mumbai Industrial Corridor (DMIC).",
-        "Official Site": "https://auric.city",
-        "Icon": "https://www.auric.city/images/favicon.ico",
-        "Redirect": "https://auric.city",
+        "link": "https://thehomany.com",
+        "Heading": "The Homany - India\u2019s Leading Real Estate Marketplace",
+        "Abstract": "The Homany is India\u2019s leading real estate marketing and sales platform, designed to simplify the buying, selling, and renting of properties.",
+        "Official Site": "https://thehomany.com/",
+        "Icon": "https://thehomany.com/wp-content/uploads/2024/10/511b6e84-cceb-445e-bf16-3b90852ea7a3-e1729136059925.jpg",
+        "Redirect": "https://thehomany.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://auric.city"
+        "AbstractURL": "https://thehomany.com/"
     },
     {
         "link": "https://aedb.br",

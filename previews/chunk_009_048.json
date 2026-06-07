@@ -170,16 +170,6 @@
         "AbstractURL": "https://mygardenlife.com"
     },
     {
-        "link": "https://ourfamilyworld.com",
-        "Heading": "OurFamilyWorld.com",
-        "Abstract": "A blog about you and your family!",
-        "Official Site": "https://www.ourfamilyworld.com/",
-        "Icon": "https://www.ourfamilyworld.com/wp-content/uploads/2019/05/cropped-icon3.jpg",
-        "Redirect": "https://www.ourfamilyworld.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ourfamilyworld.com/"
-    },
-    {
         "link": "https://lightmode.io",
         "Heading": "Lightmode Laboratories",
         "Abstract": null,
@@ -261,23 +251,13 @@
     },
     {
         "link": "https://acgland.com",
-        "Heading": "\u5fa1\u5b85\u68a6\u57df -  \u624b\u673a\u7248 - Powered by Discuz!",
-        "Abstract": "\u5fa1\u5b85\u68a6\u57df ,\u5fa1\u5b85\u68a6\u57df",
+        "Heading": "\u5fa1\u5b85\u68a6\u57df -  ACGland.com",
+        "Abstract": "\u5fa1\u5b85\u68a6\u57df ",
         "Official Site": "https://acgland.com",
         "Icon": "N/A",
         "Redirect": "https://acgland.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://acgland.com"
-    },
-    {
-        "link": "https://purplemoonhosting.co.uk",
-        "Heading": "Purple Moon Hosting - Web hosting by web developers",
-        "Abstract": null,
-        "Official Site": "https://purplemoonhosting.co.uk",
-        "Icon": "/templates/antler/assets/img/pmh-favicon.png",
-        "Redirect": "https://purplemoonhosting.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://purplemoonhosting.co.uk"
     },
     {
         "link": "https://183worldslasher.com",

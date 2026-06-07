@@ -90,16 +90,6 @@
         "AbstractURL": "https://tpsarov.ru"
     },
     {
-        "link": "https://spie-nl.com",
-        "Heading": "SPIE Nederland | Multitechnische dienstverlener van A-Z",
-        "Abstract": "Welkom op de website van SPIE Nederland, de multitechnische dienstverlener van A tot Z",
-        "Official Site": "https://spie-nl.com",
-        "Icon": "/themes/custom/spie/favicon.ico",
-        "Redirect": "https://spie-nl.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://spie-nl.com"
-    },
-    {
         "link": "https://tsukanko.jp",
         "Heading": "\u4e09\u91cd\u770c\u6d25\u5e02\u306e\u89b3\u5149\u60c5\u5831\u30b5\u30a4\u30c8\u300c\u6d25\u306e\u6642\u9593\u300d - \u6d25\u5e02\u89b3\u5149\u5354\u4f1a",
         "Abstract": "\u81ea\u7136\u306b\u5305\u307e\u308c\u3001\u6b74\u53f2\u3068\u6587\u5316\u306b\u5b88\u3089\u308c\u308b\u307e\u3061\u3001\u4e09\u91cd\u770c\u6d25\u5e02\u306e\u89b3\u5149\u60c5\u5831\u3002 \u304a\u3067\u304b\u3051\u30b9\u30dd\u30c3\u30c8\u7d39\u4ecb\u306e\u307b\u304b\u3001\u5b63\u7bc0\u306e\u7279\u96c6\u8a18\u4e8b\u3084\u304a\u3059\u3059\u3081\u30b3\u30fc\u30b9\u306a\u3069\u3001\u6d25\u306e\u6642\u9593\u3092\u697d\u3057\u3080\u60c5\u5831\u304c\u6e80\u8f09\uff01 \u30b3\u30b3\u30ed\u3068\u30ab\u30e9\u30c0\u304c\u3088\u308d\u3053\u3076\u30b9\u30ed\u30fc\u306a\u3072\u3068\u3068\u304d\u3092\u304a\u904e\u3054\u3057\u304f\u3060\u3055\u3044\u3002",
@@ -130,16 +120,6 @@
         "AbstractURL": "https://schneeberger.com"
     },
     {
-        "link": "https://expleogroup.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://expleogroup.com",
-        "Icon": "N/A",
-        "Redirect": "https://expleogroup.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://expleogroup.com"
-    },
-    {
         "link": "https://pitchforkmusicfestival.com",
         "Heading": "Pitchfork Music Festival 2024",
         "Abstract": null,
@@ -158,16 +138,6 @@
         "Redirect": "https://chinaflw.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chinaflw.cn"
-    },
-    {
-        "link": "https://torvehallernekbh.dk",
-        "Heading": "TorvehallerneKBH - hele byens spisekammer",
-        "Abstract": "TorvehallerneKBH er hele K\u00f8benhavns spisekammer. Et f\u00f8devaremarked, hvor det oprindelige, det nye, det gennemt\u00e6nkte og det langsomt tilberedte fa\u030ar mere end 115.000 k\u00f8benhavnere til at flokkes hver eneste uge.",
-        "Official Site": "https://torvehallernekbh.dk/",
-        "Icon": "https://torvehallernekbh.dk/wp-content/uploads/2021/07/TH_KarlJohan_brun.png",
-        "Redirect": "https://torvehallernekbh.dk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://torvehallernekbh.dk/"
     },
     {
         "link": "https://orwops.com",
@@ -278,15 +248,5 @@
         "Redirect": "https://opentimestamps.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://opentimestamps.org/"
-    },
-    {
-        "link": "https://mindgems.com",
-        "Heading": "MindGems | Trusted Disk Space Analyzer & Duplicate Finders",
-        "Abstract": "MindGems helps professionals analyze disk space, check folder sizes, and remove duplicates. Fast, reliable, and trusted for 25 years.",
-        "Official Site": "https://mindgems.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://mindgems.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mindgems.com"
     }
 ]

@@ -80,6 +80,16 @@
         "AbstractURL": "https://www.festivalfinder.eu/"
     },
     {
+        "link": "https://sanmoise.it",
+        "Heading": "Hotel San Mois\u00e8 | Hotel 3 stelle nel centro di Venezia",
+        "Abstract": "Hotel San Mois\u00e8, hotel 3 stelle nel centro di Venezia a pochi passi da Piazza San Marco. Camere eleganti con arredi d'epoca, corte privata e sala colazione affacciata sul canale. Prenota ora.",
+        "Official Site": "https://sanmoise.it/",
+        "Icon": "https://sanmoise.it/wp-content/uploads/2019/01/cropped-san-moise-logo-colors-1-32x32.jpg",
+        "Redirect": "https://sanmoise.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sanmoise.it/"
+    },
+    {
         "link": "https://uzitalk.com",
         "Heading": "UZI Talk Forums",
         "Abstract": null,
@@ -151,23 +161,13 @@
     },
     {
         "link": "https://paydxm.com",
-        "Heading": "\u5ea6\u5c0f\u6ee1\u94b1\u5305",
+        "Heading": "\u5ea6\u5c0f\u6ee1\u652f\u4ed8",
         "Abstract": null,
         "Official Site": "https://paydxm.com",
         "Icon": "N/A",
         "Redirect": "https://paydxm.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://paydxm.com"
-    },
-    {
-        "link": "https://esserver.com",
-        "Heading": "The Knowledge Center - The Knowledge Center",
-        "Abstract": "The Knowledge Center is a comprehensive resource that features information about Adsystech\u2019s products and services. We offer an extensive catalog of content, including videos, documentation, quick reference guides and previews of new software features. You can even register for upcoming webinars. Check out the Knowledge Center, and if you have any questions, please send us a note using the Contact page letting us know how we can better help you.",
-        "Official Site": "https://kb.esserver.com/",
-        "Icon": "https://kb.esserver.com/wp-content/uploads/2018/04/adsystechfavicon.jpg",
-        "Redirect": "https://kb.esserver.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kb.esserver.com/"
     },
     {
         "link": "https://tekora.ru",
@@ -230,14 +230,14 @@
         "AbstractURL": "https://artsthread.com"
     },
     {
-        "link": "https://accelerist.com",
-        "Heading": "\u0e2a\u0e25\u0e47\u0e2d\u0e15\u0e40\u0e27\u0e47\u0e1a\u0e15\u0e23\u0e07 No.1 \u0e40\u0e27\u0e47\u0e1a\u0e15\u0e23\u0e07\u0e2a\u0e25\u0e47\u0e2d\u0e15 \u0e44\u0e21\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e40\u0e2d\u0e40\u0e22\u0e48\u0e19\u0e15\u0e4c \u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e1b\u0e35 2026",
-        "Abstract": "\u0e2a\u0e25\u0e47\u0e2d\u0e15\u0e40\u0e27\u0e47\u0e1a\u0e15\u0e23\u0e07 No.1 \u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 \u0e40\u0e27\u0e47\u0e1a\u0e15\u0e23\u0e07 \u0e44\u0e21\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e40\u0e2d\u0e40\u0e22\u0e48\u0e19\u0e15\u0e4c 2026 \u0e25\u0e34\u0e02\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e08\u0e32\u0e01\u0e04\u0e48\u0e32\u0e22\u0e41\u0e17\u0e49 \u0e23\u0e30\u0e1a\u0e1a\u0e2d\u0e2d\u0e42\u0e15\u0e49 \u0e1d\u0e32\u0e01\u0e16\u0e2d\u0e19\u0e2d\u0e2d\u0e42\u0e15\u0e49\u0e23\u0e27\u0e14\u0e40\u0e23\u0e47\u0e27 \u0e44\u0e21\u0e48\u0e21\u0e35\u0e25\u0e47\u0e2d\u0e01\u0e22\u0e39\u0e2a \u0e42\u0e1a\u0e19\u0e31\u0e2a\u0e15\u0e49\u0e2d\u0e19\u0e23\u0e31\u0e1a\u0e40\u0e22\u0e2d\u0e30\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14",
-        "Official Site": "https://solomanhoward.com/",
-        "Icon": "https://ik.imagekit.io/dumh9mbpy/%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95/jp365_9.png",
-        "Redirect": "https://solomanhoward.com/",
+        "link": "https://alltbilisihotels.com",
+        "Heading": "alltbilisihotels.com\u00a0-\u00a0alltbilisihotels Resources and Information.",
+        "Abstract": "alltbilisihotels.com is your first and best source for information about alltbilisihotels. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://alltbilisihotels.com",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://alltbilisihotels.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://solomanhoward.com/"
+        "AbstractURL": "https://alltbilisihotels.com"
     },
     {
         "link": "https://fashionopenstudio.com",
@@ -268,15 +268,5 @@
         "Redirect": "https://kotimikro.fi/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kotimikro.fi/"
-    },
-    {
-        "link": "https://iearn.org",
-        "Heading": "iEARN Collaboration Centre (en-US)",
-        "Abstract": "iEARN (International Education and Resource Network) is the world's largest non-profit global network that enables teachers and youth to use the Internet and other technologies to collaborate on projects that enhance learning and make a difference in the world.",
-        "Official Site": "https://iearn.org",
-        "Icon": "https://iearn.org/assets/general/iearn.png",
-        "Redirect": "https://iearn.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://iearn.org"
     }
 ]

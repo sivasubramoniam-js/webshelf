@@ -60,16 +60,6 @@
         "AbstractURL": "https://fortifai.uz/ru"
     },
     {
-        "link": "https://opensourceresearchinstitute.org",
-        "Heading": "Open Source Research Institutue :: Main / HomePage ",
-        "Abstract": null,
-        "Official Site": "https://opensourceresearchinstitute.org",
-        "Icon": "N/A",
-        "Redirect": "https://opensourceresearchinstitute.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://opensourceresearchinstitute.org"
-    },
-    {
         "link": "https://washifyapp.com",
         "Heading": "Car Wash Admin Panel",
         "Abstract": "Cloud admin panel for control the system of car washes",
@@ -108,16 +98,6 @@
         "Redirect": "https://ihpva.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ihpva.org"
-    },
-    {
-        "link": "https://forevers.pw",
-        "Heading": "Checking your browser...",
-        "Abstract": null,
-        "Official Site": "https://forevers.pw",
-        "Icon": "N/A",
-        "Redirect": "https://forevers.pw",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://forevers.pw"
     },
     {
         "link": "https://nwzg.net",
@@ -170,9 +150,19 @@
         "AbstractURL": "https://security24.com.ar"
     },
     {
+        "link": "https://teryair.com",
+        "Heading": "AODD Pump Manufacturers In India | Teryair",
+        "Abstract": "We manufacture a whole range of Marine & Industrial Products thus Providing a One Stop Solution to all Ship Chandlers & Ship Management Companies for their Technical Marine Requirements at extremely Competitive Rates.",
+        "Official Site": "https://www.teryair.com/",
+        "Icon": "https://www.teryair.com/wp-content/uploads/2024/12/teryair-og.jpg",
+        "Redirect": "https://www.teryair.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.teryair.com/"
+    },
+    {
         "link": "https://kaigojobselect.com",
         "Heading": "\u4ecb\u8b77\u306e\u6c42\u4eba\u30fb\u8ee2\u8077\u30fb\u52df\u96c6\u306a\u3089\u3010\u4ecb\u8b77\u6c42\u4eba\u30bb\u30ec\u30af\u30c8\u3011",
-        "Abstract": "\u65e5\u672c\u6700\u5927\u7d1a\u306e\u4ecb\u8b77\u30fb\u798f\u7949\u6c42\u4eba\u30b5\u30a4\u30c8\u3002\u5168\u56fd0\u4ef6\u306e\u6c42\u4eba\u3092\u63b2\u8f09\u4e2d(2026\u5e7406\u670806\u65e5\u65b0\u7740)\u7d66\u4e0e\u3084\u6b63\u8077\u54e1\u30fb\u30d1\u30fc\u30c8\u306a\u3069\u306e\u52e4\u52d9\u5f62\u614b\u3001\u4ecb\u8b77\u798f\u7949\u58eb\u3001\u30d8\u30eb\u30d1\u30fc\u3001\u30b1\u30a2\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u3001\u901a\u6240\u4ecb\u8b77\u306a\u3069\u306e\u6761\u4ef6\u304b\u3089\u30d4\u30c3\u30bf\u30ea\u306a\u4ed5\u4e8b\u3092\u898b\u3064\u3051\u3089\u308c\u307e\u3059\uff01\u3010\u4ecb\u8b77\u6c42\u4eba\u30bb\u30ec\u30af\u30c8\u3011",
+        "Abstract": "\u65e5\u672c\u6700\u5927\u7d1a\u306e\u4ecb\u8b77\u30fb\u798f\u7949\u6c42\u4eba\u30b5\u30a4\u30c8\u3002\u5168\u56fd0\u4ef6\u306e\u6c42\u4eba\u3092\u63b2\u8f09\u4e2d(2026\u5e7406\u670807\u65e5\u65b0\u7740)\u7d66\u4e0e\u3084\u6b63\u8077\u54e1\u30fb\u30d1\u30fc\u30c8\u306a\u3069\u306e\u52e4\u52d9\u5f62\u614b\u3001\u4ecb\u8b77\u798f\u7949\u58eb\u3001\u30d8\u30eb\u30d1\u30fc\u3001\u30b1\u30a2\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u3001\u901a\u6240\u4ecb\u8b77\u306a\u3069\u306e\u6761\u4ef6\u304b\u3089\u30d4\u30c3\u30bf\u30ea\u306a\u4ed5\u4e8b\u3092\u898b\u3064\u3051\u3089\u308c\u307e\u3059\uff01\u3010\u4ecb\u8b77\u6c42\u4eba\u30bb\u30ec\u30af\u30c8\u3011",
         "Official Site": "https://www.kaigojobselect.com/",
         "Icon": "/static/images/icons/favicon.ico",
         "Redirect": "https://www.kaigojobselect.com/",
@@ -210,6 +200,16 @@
         "AbstractURL": "https://www.holz-metall.info/"
     },
     {
+        "link": "https://gorydlaciebie.pl",
+        "Heading": "G\u00f3ry dla Ciebie - portal mi\u0142o\u015bnik\u00f3w g\u00f3r",
+        "Abstract": "Propozycje wycieczek, ubezpieczenia turystyczne i samochodu, sklep - mapy i przewodniki, porady nt. ekwipunku i bezpiecze\u0144stwa, dojazdu, parkingu",
+        "Official Site": "https://gorydlaciebie.pl/",
+        "Icon": "https://gorydlaciebie.pl/wp-content/uploads/2020/02/cropped-favikona-32x32.jpg",
+        "Redirect": "https://gorydlaciebie.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gorydlaciebie.pl/"
+    },
+    {
         "link": "https://prodrive.com",
         "Heading": "Home - Prodrive",
         "Abstract": "A mutlidisciplined motorsport & advanced engineering group, Prodrive helps others realise their ambitions in automotive, aerospace, & other sectors.",
@@ -230,24 +230,14 @@
         "AbstractURL": "https://daddyyankee.com"
     },
     {
-        "link": "https://leistenhammer.de",
-        "Heading": "g\u00fcnstige Sockelleisten & Fu\u00dfleisten I Leistenhammer.de",
-        "Abstract": "Sockelleisten & Fu\u00dfleisten schnell und g\u00fcnstig online bestellen - 10 Jahre Garantie - kostenloser Musterversand",
-        "Official Site": "https://leistenhammer.de/",
-        "Icon": "https://leistenhammer.de/bilder/intern/shoplogo/leistenhammer_logo.jpg",
-        "Redirect": "https://leistenhammer.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://leistenhammer.de/"
-    },
-    {
         "link": "https://nraam.org",
-        "Heading": "Age Verification - NRA",
-        "Abstract": null,
-        "Official Site": "https://nraam.org",
-        "Icon": "N/A",
-        "Redirect": "https://nraam.org",
+        "Heading": "Home | NRA Annual Meeting",
+        "Abstract": "NRA's Event Of The Year - You're invited to NRA's biggest celebration, with an action-packed lineup of events that includes dinners, auctions, concerts, raffles, seminars, workshops, book signings and more.",
+        "Official Site": "https://www.nraam.org/",
+        "Icon": "https://www.nraam.org/media/5692/2026-am-header-700x78.png",
+        "Redirect": "https://www.nraam.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nraam.org"
+        "AbstractURL": "https://www.nraam.org/"
     },
     {
         "link": "https://kerzz.com",

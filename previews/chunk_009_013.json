@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://xtinapictures.com",
-        "Heading": "Home - Xtina Pictures",
-        "Abstract": "Your first ultimate 24/7 resource for largest & longest Christina Aguilera fansite online, with over 70, 000 photos on the gallery. Serving all Christina's fans since 2004.",
-        "Official Site": "https://xtinapictures.com",
-        "Icon": "favicon.ico",
-        "Redirect": "https://xtinapictures.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://xtinapictures.com"
-    },
-    {
         "link": "https://xupalace.org",
         "Heading": null,
         "Abstract": null,
@@ -40,14 +30,14 @@
         "AbstractURL": "https://ybspa.vn/"
     },
     {
-        "link": "https://ykthyun.com",
-        "Heading": "Verify Yourself",
-        "Abstract": null,
-        "Official Site": "https://ykthyun.com",
-        "Icon": "N/A",
-        "Redirect": "https://ykthyun.com",
+        "link": "https://zediet.fr",
+        "Heading": "ZeDiet | Notation alimentaire objective, sans tracking",
+        "Abstract": "Z\u00e9ro blabla, z\u00e9ro tracking. ZeDiet.fr scanne et d\u00e9crypte vos produits pour un avis objectif d'un seul coup d'\u0153il. Simple, rapide et transparent.",
+        "Official Site": "https://zediet.fr",
+        "Icon": "https://zediet.fr/img/og-img-zediet.jpg",
+        "Redirect": "https://zediet.fr",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ykthyun.com"
+        "AbstractURL": "https://zediet.fr"
     },
     {
         "link": "https://ziondaily.com",
@@ -90,6 +80,16 @@
         "AbstractURL": "https://www.bauer-kompressoren.de/de_de/"
     },
     {
+        "link": "https://cityoftracy.org",
+        "Heading": "Home | City of Tracy, CA",
+        "Abstract": "Discover city services, programs, news, and events in the City of Tracy, California. Connecting residents, businesses, and visitors with essential resources.",
+        "Official Site": "https://www.cityoftracy.org/Home",
+        "Icon": "https://www.cityoftracy.org/files/ocwebsite/City/HeroImage/2025-03-26%20%20blossoming%20flowers%20at%20city%20hall%20(66)%20(1).jpg?w=1200",
+        "Redirect": "https://www.cityoftracy.org/Home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cityoftracy.org/Home"
+    },
+    {
         "link": "https://ribana.com.bd",
         "Heading": "\n      Best Organic Soap and Cosmetic Brand in Bangladesh\n \u2013 Ribana Organic",
         "Abstract": "Discover Ribana, the leading organic soap and natural cosmetic brand in Bangladesh. 100% chemical-free, handmade products for skin, hair, and body care.",
@@ -98,6 +98,16 @@
         "Redirect": "https://ribana.com.bd/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ribana.com.bd/"
+    },
+    {
+        "link": "https://kamlahospital.com",
+        "Heading": "Best Women Hospital in Raipur | Kamla Women Hospital",
+        "Abstract": "Kamla Women Hospital is the best women hospital in Raipur, trusted for maternity, gynecology, ovarian cysts treatment, and advanced cancer care.",
+        "Official Site": "https://kamlahospital.com/",
+        "Icon": "https://kamlahospital.com/wp-content/uploads/2025/09/cropped-Untitled-design-32.png",
+        "Redirect": "https://kamlahospital.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kamlahospital.com/"
     },
     {
         "link": "https://theinside.com",

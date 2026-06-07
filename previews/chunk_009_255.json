@@ -50,6 +50,16 @@
         "AbstractURL": "https://helmsauer-gruppe.de"
     },
     {
+        "link": "https://t-pos.tech",
+        "Heading": "T-POS System",
+        "Abstract": "T-POS system support center",
+        "Official Site": "https://t-pos.tech",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://t-pos.tech",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://t-pos.tech"
+    },
+    {
         "link": "https://premiertablelinens.com",
         "Heading": "Premier Table Linens - Skirts, Tablecloths and Accessories",
         "Abstract": "Best Pricing For Wholesale & Retail! Largest Selection Of Fabrics & Colors. Made To Order Within 48 Hours. Can't Find What You're Looking For? Give Us A Call Today! Friendly Customer Service. Quality Fabrics. Perfect For Events. Beautiful Designs. Superior Quality.",
@@ -88,6 +98,16 @@
         "Redirect": "https://funtoshop.co",
         "AbstractSource": "BS4",
         "AbstractURL": "https://funtoshop.co"
+    },
+    {
+        "link": "https://mydigitalcar.de",
+        "Heading": "MyDigitalCar",
+        "Abstract": "Digitale Kfz-Zulassung",
+        "Official Site": "https://mydigitalcar.de",
+        "Icon": "/etc.clientlibs/bluelabel/clientlibs/clientlib-site-mydigitalcar/resources/favicon/favicon.svg",
+        "Redirect": "https://mydigitalcar.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mydigitalcar.de"
     },
     {
         "link": "https://laroussettedesavoie.be",
@@ -140,16 +160,6 @@
         "AbstractURL": "https://www.dyn.sport/"
     },
     {
-        "link": "https://yenitelekom.com",
-        "Heading": "YEN\u0130 TELEKOM",
-        "Abstract": "",
-        "Official Site": "https://yenitelekom.com",
-        "Icon": "N/A",
-        "Redirect": "https://yenitelekom.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://yenitelekom.com"
-    },
-    {
         "link": "https://brandindex.com",
         "Heading": "YouGov BrandIndex | Daily Competitor & Brand Tracking",
         "Abstract": "Measure brand health, monitor growth, and track advertising to create an unbeatable strategy. Daily brand tracking from thousands of consumer interviews across 56 markets, benchmarking against competitors in your sector.",
@@ -178,6 +188,16 @@
         "Redirect": "https://swissopar.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://swissopar.de/"
+    },
+    {
+        "link": "https://odzalanationalparkcongo.com",
+        "Heading": "Page not found \u2013 Odzala kokoua National Park",
+        "Abstract": null,
+        "Official Site": "https://odzalanationalparkcongo.com",
+        "Icon": "N/A",
+        "Redirect": "https://odzalanationalparkcongo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://odzalanationalparkcongo.com"
     },
     {
         "link": "https://cichanski.com",

@@ -90,6 +90,16 @@
         "AbstractURL": "https://praxismedicines.com/"
     },
     {
+        "link": "https://bwdisrupt.com",
+        "Heading": "News & Updates - Indian Startups, Small Businesses, Founders - BW Disrupt",
+        "Abstract": "Latest developments in the startup ecosystem, capital raising & funding, featuring insights also from women entrepreneurs, unicorns, incubators, private equity",
+        "Official Site": "https://bwdisrupt.com",
+        "Icon": "https://static.businessworld.in/favicon.png",
+        "Redirect": "https://bwdisrupt.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bwdisrupt.com"
+    },
+    {
         "link": "https://marketing-agencies.co.uk",
         "Heading": "Integrated Marketing Agency ",
         "Abstract": "Our Integrated Marketing Agency is full of highly trained professionals who are able to create a full marketing plan to advertise your products and services; for more information please do not hesitate to get in touch!",
@@ -98,16 +108,6 @@
         "Redirect": "https://marketing-agencies.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://marketing-agencies.co.uk"
-    },
-    {
-        "link": "https://hayhat.net",
-        "Heading": "Kh\u00e1m ph\u00e1 - H\u00e1t hay kh\u00f4ng b\u1eb1ng Hay H\u00e1t",
-        "Abstract": "H\u00e1t hay kh\u00f4ng b\u1eb1ng hay h\u00e1t l\u00e0 Blog nh\u1ea1c do ch\u00ednh th\u00e0nh vi\u00ean t\u1ef1 h\u00e1t, t\u1ef1 thu \u00e2m v\u00e0 chia s\u1ebb \u0111\u1ec3 c\u1ed9ng \u0111\u1ed3ng c\u00f9ng nghe ^^",
-        "Official Site": "https://hayhat.net",
-        "Icon": "https://hayhat.net/themes/volcano/img/logo.png",
-        "Redirect": "https://hayhat.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hayhat.net"
     },
     {
         "link": "https://plasticfreeonlus.it",
@@ -150,16 +150,6 @@
         "AbstractURL": "https://dihosting.net"
     },
     {
-        "link": "https://dzsl168.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dzsl168.com",
-        "Icon": "N/A",
-        "Redirect": "https://dzsl168.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dzsl168.com"
-    },
-    {
         "link": "https://avendus.com",
         "Heading": "Avendus | India's leading entrepreneur focused financial services firm ",
         "Abstract": "Avendus offers bespoke solutions across Investment Banking, Institutional Equities, Wealth Management, Asset Management and Credit Solutions for the entrepreneurial ecosystem.",
@@ -191,7 +181,7 @@
     },
     {
         "link": "https://persefona.cz",
-        "Heading": "Prob\u00edh\u00e1 \u00fadr\u017eba | Persefona",
+        "Heading": "Varov\u00e1n\u00ed",
         "Abstract": null,
         "Official Site": "https://persefona.cz",
         "Icon": "N/A",
@@ -290,16 +280,6 @@
         "AbstractURL": "https://newsquare.net"
     },
     {
-        "link": "https://syntrus.com",
-        "Heading": "Institutioneel | Achmea",
-        "Abstract": "Op de institutionele markt weten Achmea Bank, Achmea Investment Management, Achmea Real Estate, Achmea Mortgages, Achmea Pensioenservices hun krachten te bundelen. Zo weten we samen meer waarde te realiseren. Voor onze klanten, maar ook voor de samenleving.",
-        "Official Site": "https://www.achmea.nl/organisatie/institutioneel",
-        "Icon": "/assets/static/favicons/favicon-32x32.png",
-        "Redirect": "https://www.achmea.nl/organisatie/institutioneel",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.achmea.nl/organisatie/institutioneel"
-    },
-    {
         "link": "https://escc.ru",
         "Heading": "\u0426\u0435\u043d\u0442\u0440 \u0434\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f \u0415\u0428\u041a\u041e \u2014 \u043a\u0443\u0440\u0441\u044b \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0445 \u044f\u0437\u044b\u043a\u043e\u0432 \u0438 \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u0435 \u043d\u043e\u0432\u044b\u0445 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u0439 \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u043e",
         "Abstract": "\u0414\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f \u043d\u0430 \u043a\u0443\u0440\u0441\u0430\u0445 \u0415\u0428\u041a\u041e \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0412\u0430\u043c \u043f\u0440\u0438\u043e\u0431\u0440\u0435\u0441\u0442\u0438 \u043d\u043e\u0432\u044b\u0435 \u0437\u043d\u0430\u043d\u0438\u044f, \u043f\u043e\u0432\u044b\u0441\u0438\u0442\u044c \u043a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044e \u0431\u0435\u0437 \u043e\u0442\u0440\u044b\u0432\u0430 \u043e\u0442 \u0412\u0430\u0448\u0435\u0439 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0438 \u0432 \u0443\u0434\u043e\u0431\u043d\u043e\u0435 \u0432\u0440\u0435\u043c\u044f",
@@ -368,5 +348,15 @@
         "Redirect": "https://russianpod101.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://russianpod101.com"
+    },
+    {
+        "link": "https://toppassports.com",
+        "Heading": "Top Passports 2023 | A Unique Ranking System",
+        "Abstract": "Top Passports is your gate to discover a passport's performance in mobility, investment, and quality of life.",
+        "Official Site": "https://toppassports.com/",
+        "Icon": "https://toppassports.com/wp-content/uploads/2023/02/Group-3.png",
+        "Redirect": "https://toppassports.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://toppassports.com/"
     }
 ]

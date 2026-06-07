@@ -33,11 +33,11 @@
         "link": "https://769audio.vn",
         "Heading": "769 Audio - \u0110i\u1ec7n m\u00e1y 769 - Thi\u1ebft b\u1ecb \u00e2m thanh loa karaoke ch\u00ednh h\u00e3ng",
         "Abstract": "769 Audio (T\u1eeb 1992) - Ph\u00e2n ph\u1ed1i thi\u1ebft b\u1ecb \u00e2m thanh chuy\u00ean nghi\u1ec7p, High-end ch\u00ednh h\u00e3ng: JBL, Bose, Denon, Accuphase. Ti\u00ean phong gi\u1ea3i ph\u00e1p 769 AI Digital.",
-        "Official Site": "https://769audio.vn/",
-        "Icon": "https://769audio.vn/images/logo.png",
-        "Redirect": "https://769audio.vn/",
+        "Official Site": "https://769audio.vn",
+        "Icon": "favicon.ico",
+        "Redirect": "https://769audio.vn",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://769audio.vn/"
+        "AbstractURL": "https://769audio.vn"
     },
     {
         "link": "https://lykfencingworks.com",
@@ -170,16 +170,6 @@
         "AbstractURL": "https://bts-hvac.com/"
     },
     {
-        "link": "https://cialsfr.com",
-        "Heading": "Acheter Tadalafil Cialis 20mg/10mg/5mg - Choisissez Votre Dosage",
-        "Abstract": null,
-        "Official Site": "https://cialsfr.com",
-        "Icon": "N/A",
-        "Redirect": "https://cialsfr.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cialsfr.com"
-    },
-    {
         "link": "https://malahayati.ac.id",
         "Heading": "Home - Universitas Malahayati",
         "Abstract": null,
@@ -188,6 +178,16 @@
         "Redirect": "https://malahayati.ac.id/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://malahayati.ac.id/"
+    },
+    {
+        "link": "https://dchatmogul.com",
+        "Heading": "Welcome to Dchatmogul",
+        "Abstract": "Share your memories, connect with others, make new friends",
+        "Official Site": "https://dchatmogul.com",
+        "Icon": "https://dchatmogul.com/content/uploads/photos/2024/03/sngine_d733674972aeded381a3a56ca25b634c.jpg",
+        "Redirect": "https://dchatmogul.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dchatmogul.com"
     },
     {
         "link": "https://newportbrass.com",
@@ -248,15 +248,5 @@
         "Redirect": "https://uglyducklingpresse.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://uglyducklingpresse.org"
-    },
-    {
-        "link": "https://hookedgamers.com",
-        "Heading": "At the Frontline of PC Gaming | Hooked Gamers",
-        "Abstract": "We love PC gaming for its creativity and diversity. That is why we operate at the front, walking ahead of the rest of the troops",
-        "Official Site": "https://hookedgamers.com",
-        "Icon": "https://www.hookedgamers.com/_inc/im/hooked_new_free.png",
-        "Redirect": "https://hookedgamers.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hookedgamers.com"
     }
 ]

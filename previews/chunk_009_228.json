@@ -180,14 +180,14 @@
         "AbstractURL": "https://diary-culture.ru"
     },
     {
-        "link": "https://singercars.com",
-        "Heading": "Dedicated to the preservation and restoration of Singer Automobiles - singercars",
-        "Abstract": "If you own a Singer or would like to own one of these outstanding British cars, this site is the place to browse. The content on this site is devoted to providing in depth technical and descriptive information pertaining to a wide range of Singer cars from the 1920\u2019s to the 1950\u2019s. Much historical information [\u2026]",
-        "Official Site": "https://www.singercars.com/",
-        "Icon": "https://www.singercars.com/wp-content/uploads/2020/02/cropped-NASOC_Banner-copy-2-32x32.png",
-        "Redirect": "https://www.singercars.com/",
+        "link": "https://dallardugunsalonu.com.tr",
+        "Heading": "Dallar D\u00fc\u011f\u00fcn Salonu \u2013 An\u0131 Bizimle Ya\u015fay\u0131n",
+        "Abstract": null,
+        "Official Site": "https://dallardugunsalonu.com.tr/",
+        "Icon": "https://dallardugunsalonu.com.tr/wp-content/uploads/2021/09/cropped-dallar-dugun-salonu-32x32.png",
+        "Redirect": "https://dallardugunsalonu.com.tr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.singercars.com/"
+        "AbstractURL": "https://dallardugunsalonu.com.tr/"
     },
     {
         "link": "https://fitapetit.com.pl",
@@ -288,5 +288,15 @@
         "Redirect": "https://alnasarlab.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alnasarlab.com/"
+    },
+    {
+        "link": "https://atme.edu.in",
+        "Heading": "Home - ATME College of Engineering",
+        "Abstract": "Financial aid to merit students through VidyaasareIIT Bombay, Cisco,IIT Guwahati,\u00a0 IIRS-ISROYoungest Engineering College to get accredited in",
+        "Official Site": "https://atme.edu.in/",
+        "Icon": "https://atme.edu.in/wp-content/uploads/2025/09/cropped-ATME-Final-logo-copy-1-e1757155118562.png",
+        "Redirect": "https://atme.edu.in/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://atme.edu.in/"
     }
 ]

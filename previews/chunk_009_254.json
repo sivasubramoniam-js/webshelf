@@ -170,16 +170,6 @@
         "AbstractURL": "https://seopuh.ru"
     },
     {
-        "link": "https://alexadvocacy.com",
-        "Heading": "Alex Advocacy",
-        "Abstract": null,
-        "Official Site": "https://alexadvocacy.com",
-        "Icon": "N/A",
-        "Redirect": "https://alexadvocacy.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://alexadvocacy.com"
-    },
-    {
         "link": "https://digiservices.in",
         "Heading": "Digi Services | Digital Transformation, Marketing & Technology Solutions India",
         "Abstract": "We at Digi Services, thrive to deliver Digital Transformation services which include digital Marketing solutions and Technology services in terms of customised software for enterprises with the option of a Digital Partnership Model.",
@@ -218,16 +208,6 @@
         "Redirect": "https://condopgapp.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://condopgapp.com"
-    },
-    {
-        "link": "https://shabakesoutiranian.ir",
-        "Heading": "\u0634\u0628\u06a9\u0647 \u0635\u0648\u062a \u0627\u06cc\u0631\u0627\u0646\u06cc\u0627\u0646 \u2013 shabakesoutiranian",
-        "Abstract": null,
-        "Official Site": "https://shabakesoutiranian.ir",
-        "Icon": "",
-        "Redirect": "https://shabakesoutiranian.ir",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shabakesoutiranian.ir"
     },
     {
         "link": "https://freeuni.edu.ge",
@@ -311,7 +291,7 @@
     },
     {
         "link": "https://cgbkam.ru",
-        "Heading": "52.162.9.244 06.06.2026 10:04:30",
+        "Heading": "172.182.224.162 07.06.2026 10:48:49",
         "Abstract": null,
         "Official Site": "https://cgbkam.ru",
         "Icon": "data:,",
@@ -330,16 +310,6 @@
         "AbstractURL": "https://www.itmedicalteam.pl/"
     },
     {
-        "link": "https://bbs-meppen.de",
-        "Heading": "Berufsbildende Schulen Meppen | BBS Meppen",
-        "Abstract": "Orientierung, Chancen, Zukunft \u2013 Entdecken Sie unsere Berufsschule, die praxisorientierte Bildung und modernste Lehrmethoden vereint, um Sch\u00fcler auf den Arbeitsmarkt vorzubereiten. Unsere erfahrenen Lehrkr\u00e4fte f\u00f6rdern individuelle Talente und unterst\u00fctzen den Weg zu einer erfolgreichen Karriere. ",
-        "Official Site": "https://www.bbs-meppen.de/",
-        "Icon": "https://www.bbs-meppen.de/templates/yootheme/cache/f1/3%20Foto-f169e8f7.jpeg",
-        "Redirect": "https://www.bbs-meppen.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bbs-meppen.de/"
-    },
-    {
         "link": "https://steinbach.com.tw",
         "Heading": "\u53f2\u5766\u5df4\u54c8\u4f01\u696d\u6709\u9650\u516c\u53f8",
         "Abstract": null,
@@ -348,5 +318,15 @@
         "Redirect": "https://steinbach.com.tw",
         "AbstractSource": "BS4",
         "AbstractURL": "https://steinbach.com.tw"
+    },
+    {
+        "link": "https://reachgroup.in",
+        "Heading": "Reach Group: Premier Real Estate Developer in Gurgaon",
+        "Abstract": "Reach Group a leading real estate developer in Gurgaon, specializing in premium properties. Trusted real estate developer in Gurgaon for top-tier projects",
+        "Official Site": "https://www.reachgroup.in",
+        "Icon": "https://reachgroup.in/images/reach-logo.svg",
+        "Redirect": "https://www.reachgroup.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.reachgroup.in"
     }
 ]

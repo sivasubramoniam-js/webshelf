@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://tribunaalentejo.pt",
-        "Heading": "Tribuna Alentejo",
-        "Abstract": "O Tribuna Alentejo \u00e9 o site noticioso atualizado diariamente, em l\u00edngua portuguesa, que publica informa\u00e7\u00e3o local e edita trabalhos publicados por jornais internacionais de refer\u00eancia, bem como por \u00f3rg\u00e3os de comunica\u00e7\u00e3o mais afastados dos circuitos comerciais locais e mundiais de informa\u00e7\u00e3o.",
-        "Official Site": "https://tribunaalentejo.pt/",
-        "Icon": "https://tribunaalentejo.pt/wp-content/uploads/2026/02/favicon-150x150.png",
-        "Redirect": "https://tribunaalentejo.pt/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tribunaalentejo.pt/"
-    },
-    {
         "link": "https://labstack.com",
         "Heading": "LabStack: Innovate, Integrate, Elevate",
         "Abstract": "LabStack is a technology company best known for its flagship project, Echo, a high-performance, minimalist web framework for building web applications and APIs in Go. Echo has gained popularity due to its simplicity, efficiency, and feature set tailored for building robust applications while maintaining flexibility and performance.",
@@ -100,16 +90,6 @@
         "AbstractURL": "https://www.privatecommunities.com/"
     },
     {
-        "link": "https://morristownchamber.com",
-        "Heading": "Morristown Area Chamber of Commerce | Morristown Tennessee",
-        "Abstract": "Morristown Chamber of Commerce is celebrating 100+ yrs of service to Morristown and the Lakeway Area. Please check out our site or contact us to learn more.",
-        "Official Site": "https://morristownchamber.com/",
-        "Icon": "https://morristownchamber.com/wp-content/uploads/2017/07/jpeg.logo_.sq_.jpg",
-        "Redirect": "https://morristownchamber.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://morristownchamber.com/"
-    },
-    {
         "link": "https://terrafortecentrodenegocios.com.br",
         "Heading": "Home | Terra Forte Centro de Neg\u00f3cios",
         "Abstract": "Principais servi\u00e7os: Servi\u00e7os Topogr\u00e1ficos, Cadastro Ambiental Rural, Auditoria Ambiental, Projetos de Financiamentos Rurais e Empresariais, Regulariza\u00e7\u00e3o Fundi\u00e1ria, Projetos de Incentivos Fiscais, Aerofotogrametria com Vant, An\u00e1lises com imagens de sat\u00e9lite, Servi\u00e7os Ambientais, Certificado de Cadastro de Im\u00f3vel Rural. Solicite um or\u00e7amento sem compromisso!",
@@ -158,6 +138,16 @@
         "Redirect": "https://justlife.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://justlife.com"
+    },
+    {
+        "link": "https://creixment.com",
+        "Heading": "Creix-Ment - Centro de Terapia",
+        "Abstract": "Centro de Terapia individual, infanto-juvenil, parejas y familias des de una metodolog\u00eda humanista para conseguir tu bienestar.",
+        "Official Site": "https://creixment.com/",
+        "Icon": "https://creixment.com/wp-content/uploads/2020/03/vertical_on_corporate_by_logaster-1-1.png",
+        "Redirect": "https://creixment.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://creixment.com/"
     },
     {
         "link": "https://dealgali.com",
@@ -270,6 +260,16 @@
         "AbstractURL": "https://keisoshobo.co.jp"
     },
     {
+        "link": "https://smartgrid.gov",
+        "Heading": "Grid Talk | Department of Energy",
+        "Abstract": "The discussion around grid modernization and the transition to cleaner energy systems is continually progressing, which is why we\u2019ve developed resources and a podcast to help you stay informed.",
+        "Official Site": "https://www.energy.gov/grid-talk/grid-talk",
+        "Icon": "https://www.energy.gov/sites/default/files/2025-04/white-fallback_0.png",
+        "Redirect": "https://www.energy.gov/grid-talk/grid-talk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.energy.gov/grid-talk/grid-talk"
+    },
+    {
         "link": "https://artemsemkin.com",
         "Heading": "Coming Soon \u2013 Artem Semkin",
         "Abstract": "This is a demo page of Artem Semkin WordPress Theme. Designed by Artem Semkin.",
@@ -278,15 +278,5 @@
         "Redirect": "https://artemsemkin.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://artemsemkin.com"
-    },
-    {
-        "link": "https://kalelekai.com",
-        "Heading": null,
-        "Abstract": "Kalele Kai residential complex in Hawaii Kai, Honolulu is a place to come home to in a picturesque, safe, serene, waterfront environment",
-        "Official Site": "https://kalelekai.com",
-        "Icon": "N/A",
-        "Redirect": "https://kalelekai.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kalelekai.com"
     }
 ]

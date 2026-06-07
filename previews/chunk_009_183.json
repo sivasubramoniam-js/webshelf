@@ -20,16 +20,6 @@
         "AbstractURL": "/"
     },
     {
-        "link": "https://gekkowebhosting.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://gekkowebhosting.com",
-        "Icon": "N/A",
-        "Redirect": "https://gekkowebhosting.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gekkowebhosting.com"
-    },
-    {
         "link": "https://logist-city.com",
         "Heading": " \u041b\u043e\u0433\u0438\u0441\u0442 \u0441\u0438\u0442\u0438",
         "Abstract": "---",
@@ -140,6 +130,16 @@
         "AbstractURL": "https://www.spyfall.app"
     },
     {
+        "link": "https://qatuae.com",
+        "Heading": "Quick Action Trading LLC",
+        "Abstract": null,
+        "Official Site": "https://qatuae.com",
+        "Icon": "https://qatuae.com/wp-content/themes/hub/favicon.png",
+        "Redirect": "https://qatuae.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://qatuae.com"
+    },
+    {
         "link": "https://navanet.de",
         "Heading": "navanet.de - Systemadministration Bingen und Umgebung",
         "Abstract": "navanet.de - Systemadministration Bingen und Umgebung",
@@ -210,16 +210,6 @@
         "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=rui77.com"
     },
     {
-        "link": "https://itabau.com.br",
-        "Heading": "Itaba\u00fa \u2022 S\u00e3o Bento do Sapuca\u00ed - SP",
-        "Abstract": "Conhe\u00e7a os melhores sorvetes de massa e picol\u00e9s artesanais da Itaba\u00fa. Ingredientes naturais e receitas exclusivas para sabores irresist\u00edveis. Conhe\u00e7a agora!",
-        "Official Site": "https://itabau.com.br/",
-        "Icon": "https://itabau.com.br/wp-content/uploads/2022/12/cropped-favicon-32x32.png",
-        "Redirect": "https://itabau.com.br/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://itabau.com.br/"
-    },
-    {
         "link": "https://evulid.cc",
         "Heading": null,
         "Abstract": null,
@@ -278,5 +268,15 @@
         "Redirect": "https://nikkanseibu-eve.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nikkanseibu-eve.com"
+    },
+    {
+        "link": "https://learnwithmike.eu",
+        "Heading": "learnwithmike.eu \u2014 Latest News",
+        "Abstract": "Fresh and trending updates from learnwithmike.eu",
+        "Official Site": "https://learnwithmike.eu",
+        "Icon": "https://ts2.mm.bing.net/th?q=learnwithmike.eu",
+        "Redirect": "https://learnwithmike.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://learnwithmike.eu"
     }
 ]

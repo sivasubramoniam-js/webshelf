@@ -20,6 +20,16 @@
         "AbstractURL": "https://www.meridianbanker.com/"
     },
     {
+        "link": "https://mdsolution.at",
+        "Heading": "MDsolution Shop - Individuelle Textilveredelung & personalisierte Bekleidung",
+        "Abstract": "Nachhaltige Unternehmensbekleidung aus zertifizierter Bio-Baumwolle. Faire Produktion & individuelle Veredelung. Jetzt entdecken!",
+        "Official Site": "https://shop.mdsolution.at/",
+        "Icon": "https://shop.mdsolution.at/wp-content/uploads/2024/10/DFM0_STTU170_C728-300x400.jpg",
+        "Redirect": "https://shop.mdsolution.at/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shop.mdsolution.at/"
+    },
+    {
         "link": "https://swpat.org",
         "Heading": "ESP Wiki - The Software Patents Wiki",
         "Abstract": null,
@@ -101,13 +111,13 @@
     },
     {
         "link": "https://acnemedsrx.com",
-        "Heading": "Roaccutane | Acne Treatment",
-        "Abstract": "# Finally Cleared My Skin (But It Wasn't Pretty in Between) Look, if you\u2019re reading this, you probably have a bad time with your skin. You've tried every weird\u2026",
-        "Official Site": "roaccutane.html",
+        "Heading": "Clindamycin | Acne Treatment",
+        "Abstract": "Honestly using Clindamycin on my face (and why I almost quit) Okay, look. If you\u2019re about to buy an antibiotic gel for your face because a YouTube video said s\u2026",
+        "Official Site": "clindamycin.html",
         "Icon": "assets/images/og-cover.jpg",
-        "Redirect": "roaccutane.html",
+        "Redirect": "clindamycin.html",
         "AbstractSource": "BS4",
-        "AbstractURL": "roaccutane.html"
+        "AbstractURL": "clindamycin.html"
     },
     {
         "link": "https://wannatalkaboutit.com",
@@ -190,14 +200,24 @@
         "AbstractURL": "https://textmine.com"
     },
     {
-        "link": "https://lvmserver.ca",
-        "Heading": null,
+        "link": "https://webofthings.org",
+        "Heading": "Web of Things \u2013 Architecting the Web of Things, for techies and thinkers!",
         "Abstract": null,
-        "Official Site": "https://lvmserver.ca",
-        "Icon": "N/A",
-        "Redirect": "https://lvmserver.ca",
+        "Official Site": "https://webofthings.org",
+        "Icon": "https://webofthings.org/wp-content/uploads/2015/04/cropped-1961900-150x150.jpg",
+        "Redirect": "https://webofthings.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lvmserver.ca"
+        "AbstractURL": "https://webofthings.org"
+    },
+    {
+        "link": "https://currieenterprises.com",
+        "Heading": "Currie Enterprises",
+        "Abstract": "Currie Enterprises is a premier manufacturer of high-performance direct replacement, and custom muscle car, and truck rearend axle assemblies.",
+        "Official Site": "https://currieenterprises.com",
+        "Icon": "/icons/icons_0/Currie-Favicon-ICO.ico",
+        "Redirect": "https://currieenterprises.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://currieenterprises.com"
     },
     {
         "link": "https://gofoxit.com",
@@ -228,16 +248,6 @@
         "Redirect": "https://adpassurances.fr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://adpassurances.fr"
-    },
-    {
-        "link": "https://aseguramossas.com.co",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://aseguramossas.com.co",
-        "Icon": "N/A",
-        "Redirect": "https://aseguramossas.com.co",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aseguramossas.com.co"
     },
     {
         "link": "https://swanplc.com",
