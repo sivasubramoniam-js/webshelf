@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://serinacosmetics.com",
-        "Heading": "Serina Cosmetics | #1 Luxury Beauty, Skincare & Fragrances Online in UAE",
-        "Abstract": "Discover Serina Cosmetics, your online destination in the UAE for authentic beauty products, luxury perfumes, skincare, and cosmetics. Shop top international brands with fast delivery across Dubai, Abu Dhabi, Sharjah, and the entire UAE and Wordwide. Explore our curated collection and elevate your beauty routine today",
-        "Official Site": "https://serinacosmetics.com/",
-        "Icon": "https://serinacosmetics.com/wp-content/uploads/2023/10/Serina-Cosmetics-Favicon-150x150.jpg",
-        "Redirect": "https://serinacosmetics.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://serinacosmetics.com/"
-    },
-    {
         "link": "https://drk-duesseldorf.de",
         "Heading": "Startseite",
         "Abstract": "Willkommen auf der Website des DRK-Kreisverband D\u00fcsseldorf e.V.! Erfahren Sie hier alles rund um die Aufgaben des DRK-D\u00fcsseldorf, unsere Projekte und unsere Angebote. Wir freuen uns, wenn Sie unsere Arbeit mit einer Spende unterst\u00fctzen.",
@@ -110,6 +100,16 @@
         "AbstractURL": "https://www.irell.com/"
     },
     {
+        "link": "https://gowaterfalling.com",
+        "Heading": "Waterfalls of the Great Lakes Region and Beyond",
+        "Abstract": null,
+        "Official Site": "https://gowaterfalling.com",
+        "Icon": "N/A",
+        "Redirect": "https://gowaterfalling.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gowaterfalling.com"
+    },
+    {
         "link": "https://liceclinicsofamerica.com",
         "Heading": "Lice Clinics of America: FDA-Cleared Treatment, One Visit",
         "Abstract": "The #1 lice treatment network. AirAll\u00e9 kills lice and 99.2% of eggs in one FDA-cleared visit \u2014 no chemicals, guaranteed. 100+ US clinic locations.",
@@ -141,10 +141,10 @@
     },
     {
         "link": "https://fidelo.com",
-        "Heading": "Start - Fidelo Software GmbH",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://fidelo.com",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://fidelo.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fidelo.com"
@@ -238,15 +238,5 @@
         "Redirect": "https://www.bonnierhealthcare.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bonnierhealthcare.com/"
-    },
-    {
-        "link": "https://krakowpost.com",
-        "Heading": "Front Page | The Krakow Post | The Krakow Post",
-        "Abstract": "The Krakow-based English source for local and national news, culture, events, guides, reviews, and more.",
-        "Official Site": "http://www.krakowpost.com/",
-        "Icon": "http://www.krakowpost.com/wp-content/uploads/2018/07/Krakow-Post-dragon-logo-stacked-rectangle.png",
-        "Redirect": "http://www.krakowpost.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://www.krakowpost.com/"
     }
 ]

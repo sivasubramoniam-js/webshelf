@@ -180,6 +180,16 @@
         "AbstractURL": "https://webenerji.com"
     },
     {
+        "link": "https://a-tech.com",
+        "Heading": "Action Industries \u2013 Delivered by A-TECH",
+        "Abstract": "Get top-quality garage door parts with reliable, damage-free delivery from Action Industries \u2013 Delivered by A-TECH. Trusted by dealers & contractors.",
+        "Official Site": "https://trust-atech.com/",
+        "Icon": "https://trust-atech.com/wp-content/uploads/2025/04/cropped-action-truck-careers.jpg",
+        "Redirect": "https://trust-atech.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trust-atech.com/"
+    },
+    {
         "link": "https://closedpubs.co.uk",
         "Heading": "The Lost Pubs Project",
         "Abstract": null,
@@ -208,16 +218,6 @@
         "Redirect": "https://pizzaclassicany.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pizzaclassicany.com/"
-    },
-    {
-        "link": "https://m6back639.win",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://m6back639.win",
-        "Icon": "N/A",
-        "Redirect": "https://m6back639.win",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://m6back639.win"
     },
     {
         "link": "https://europetheband.com",
@@ -308,15 +308,5 @@
         "Redirect": "https://zeecu.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zeecu.com"
-    },
-    {
-        "link": "https://techbehindit.com",
-        "Heading": "Tech Behind It - Latest Technology News & Updates",
-        "Abstract": "Tech Behind It provides the latest updates about Business, Technology, Artificial Intelligence,Gadgets etc from around the world.",
-        "Official Site": "/",
-        "Icon": "https://techbehindit.com/wp-content/uploads/2020/08/BUSINESS-e1598672208316.jpg",
-        "Redirect": "/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "/"
     }
 ]

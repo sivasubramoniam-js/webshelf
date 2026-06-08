@@ -10,6 +10,16 @@
         "AbstractURL": "https://upphandlingsmyndigheten.se"
     },
     {
+        "link": "https://oobject.com",
+        "Heading": null,
+        "Abstract": "Typologies of Objects and Events Created by Humans",
+        "Official Site": "https://www.oobject.com/",
+        "Icon": "https://s0.wp.com/i/blank.jpg",
+        "Redirect": "https://www.oobject.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.oobject.com/"
+    },
+    {
         "link": "https://ihru.pt",
         "Heading": "In\u00edcio - IHRU",
         "Abstract": null,
@@ -80,16 +90,6 @@
         "AbstractURL": "https://www.cfocentre.com/"
     },
     {
-        "link": "https://enceintesetmusiques.com",
-        "Heading": "Enceintes & Musiques magasin Haute-Fid\u00e9lit\u00e9 - Hi-Fi Paris  chez E&M \u00e0 Paris",
-        "Abstract": "Auditorium HiFi situ\u00e9 \u00e0 Paris (12\u00b0) est accessible sur rendez-vous au 06 82 21 79 26. Ecoute d'appareils et syst\u00e8mes st\u00e9r\u00e9o, et multicanaux pour la musique et le Home-Cinema.",
-        "Official Site": "https://enceintesetmusiques.com",
-        "Icon": "https://enceintesetmusiques.com/media/favicon/default/eem-90.png",
-        "Redirect": "https://enceintesetmusiques.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://enceintesetmusiques.com"
-    },
-    {
         "link": "https://hg5025.com",
         "Heading": null,
         "Abstract": null,
@@ -140,6 +140,16 @@
         "AbstractURL": "https://asosupro.gov.co/"
     },
     {
+        "link": "https://vp3.me",
+        "Heading": "VP3 \u2014 Your Voice-First AI Agent",
+        "Abstract": "VP3 \u2014 Talk to your AI agent. Automate your business with voice-driven commerce, social networking, and intelligent automation.",
+        "Official Site": "https://vp3.me",
+        "Icon": "N/A",
+        "Redirect": "https://vp3.me",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vp3.me"
+    },
+    {
         "link": "https://camps.digital",
         "Heading": "CADI - Buchungssystem f\u00fcr Gruppenreisen & Feriencamps",
         "Abstract": "CADI ist das Buchungssystem f\u00fcr Gruppenreisen, Feriencamps und Klassenfahrten. Jetzt Buchungen vereinfachen, Zeit sparen und G\u00e4ste begeistern!",
@@ -150,16 +160,6 @@
         "AbstractURL": "https://camps.digital"
     },
     {
-        "link": "https://safesuggestsearch.com",
-        "Heading": "Safe Suggest Search | Home",
-        "Abstract": null,
-        "Official Site": "https://safesuggestsearch.com",
-        "Icon": "img/favicon.png",
-        "Redirect": "https://safesuggestsearch.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://safesuggestsearch.com"
-    },
-    {
         "link": "https://pulchritudion.com",
         "Heading": "TidyPhone - Smart Phone Cleaning Solution",
         "Abstract": null,
@@ -168,16 +168,6 @@
         "Redirect": "https://pulchritudion.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pulchritudion.com"
-    },
-    {
-        "link": "https://segucetogo.tg",
-        "Heading": "Accueil | SEGUCE TOGO",
-        "Abstract": null,
-        "Official Site": "https://segucetogo.tg",
-        "Icon": "/sites/default/files/Seguce_Togo-Transparent%20%281%29_0.png",
-        "Redirect": "https://segucetogo.tg",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://segucetogo.tg"
     },
     {
         "link": "https://kyleads.com",
@@ -268,15 +258,5 @@
         "Redirect": "https://www.magnuswijnen.be/nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.magnuswijnen.be/nl"
-    },
-    {
-        "link": "https://offerbuild.com",
-        "Heading": "OfferBuild \u2013 Telecom & Multiple Update",
-        "Abstract": null,
-        "Official Site": "https://offerbuild.com",
-        "Icon": "N/A",
-        "Redirect": "https://offerbuild.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://offerbuild.com"
     }
 ]

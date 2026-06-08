@@ -60,26 +60,6 @@
         "AbstractURL": "https://e-chint.ru"
     },
     {
-        "link": "https://imedia-systems.de",
-        "Heading": "Willkommen \u2013 iMedia-Systems",
-        "Abstract": "Ihre IT-Beratung f\u00fcr induviduelle IT-L\u00f6sungen f\u00fcr Unternehmenskunden aller Gr\u00f6\u00dfen. Netzwerktechnik, Telekommunikation und IT gest\u00fctzte Zutrittskontrolle.",
-        "Official Site": "https://www.imedia-systems.de/",
-        "Icon": "https://www.imedia-systems.de/wp-content/uploads/2019/11/cropped-iMedia-Logo-weiss-rot-quadratisch-318x318-32x32.png",
-        "Redirect": "https://www.imedia-systems.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.imedia-systems.de/"
-    },
-    {
-        "link": "https://capc-bordeaux.fr",
-        "Heading": "Accueil | Capc",
-        "Abstract": null,
-        "Official Site": "https://capc-bordeaux.fr",
-        "Icon": "/sites/BOR-CAPC-DRUPAL/files/sites/BOR-CAPC-DRUPAL/files/favicons/favicon-32x32.png",
-        "Redirect": "https://capc-bordeaux.fr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://capc-bordeaux.fr"
-    },
-    {
         "link": "https://duschenprofis.de",
         "Heading": "Duschkabinen in nur 24h geliefert",
         "Abstract": "10.000 moderne Glas-Duschen auf Lager \u2713 Top-Preise auch nach Ma\u00df \u2713 Gratis von den Duschenprofis beraten lassen!",
@@ -88,6 +68,16 @@
         "Redirect": "https://www.duschenprofis.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.duschenprofis.de/"
+    },
+    {
+        "link": "https://bialto.com",
+        "Heading": "Bialto.com \u2013 Comprar, Vender e Participar em Leil\u00f5es Online",
+        "Abstract": "Participe nos melhores leil\u00f5es online! Compre e venda itens exclusivos com seguran\u00e7a e facilidade no Bialto Leil\u00f5es. Descubra uma variedade de produtos e oportunidades.",
+        "Official Site": "https://bialto.com",
+        "Icon": "/uploads/favic.png",
+        "Redirect": "https://bialto.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bialto.com"
     },
     {
         "link": "https://bodenfuchs24.de",
@@ -250,16 +240,6 @@
         "AbstractURL": "https://productwidgets.cz"
     },
     {
-        "link": "https://robertustech.com",
-        "Heading": "Index of /",
-        "Abstract": null,
-        "Official Site": "https://robertustech.com",
-        "Icon": "N/A",
-        "Redirect": "https://robertustech.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://robertustech.com"
-    },
-    {
         "link": "https://interacnetwork.com",
         "Heading": "Interac Network - Make a Difference, Enrich Through Education",
         "Abstract": "Discover the spirit of Japan while sharing the world with your students, and immersing yourself in an authentic cultural experience. Become an ALT with us.",
@@ -290,14 +270,14 @@
         "AbstractURL": "https://firstpersontetris.com"
     },
     {
-        "link": "https://bioshockinfinite.com",
-        "Heading": "BioShock Official Site | 2K Games",
-        "Abstract": "Unravel the mystery, upgrade beyond possibility, and shape your ultimate fate in this critically acclaimed, retro-futuristic shooter series. ",
-        "Official Site": "https://2k.com/games/bioshock/",
-        "Icon": "https://assets.2k.com/1a6ngf98576c/5qYKKBCanhR58cJZf6cDON/fe6f177287c9356efb9b4c7e9fe82522/2K_Web_App_config_Thumbnail_1920x1080.jpg",
-        "Redirect": "https://2k.com/games/bioshock/",
+        "link": "https://portfolioserver.xyz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://portfolioserver.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://portfolioserver.xyz",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://2k.com/games/bioshock/"
+        "AbstractURL": "https://portfolioserver.xyz"
     },
     {
         "link": "https://gardenofthegodsresort.com",
@@ -348,16 +328,6 @@
         "Redirect": "https://www.hvcb.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hvcb.org/"
-    },
-    {
-        "link": "https://uch-ibadan.org.ng",
-        "Heading": "University College Hospital \u2013 UCH, Ibadan",
-        "Abstract": null,
-        "Official Site": "https://uch-ibadan.org.ng",
-        "Icon": "https://uch-ibadan.org.ng/wp-content/uploads/2022/04/cropped-UCHLOGO-01-1-e1628777753374-1-32x32.png",
-        "Redirect": "https://uch-ibadan.org.ng",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://uch-ibadan.org.ng"
     },
     {
         "link": "https://1win93047.help",

@@ -100,9 +100,19 @@
         "AbstractURL": "https://leben-im-zug.de"
     },
     {
+        "link": "https://fotostolb.ru",
+        "Heading": "\u0424\u043e\u0442\u043e\u0441\u0442\u043e\u043b\u0431: \u0441\u0435\u0440\u0432\u0438\u0441 \u043e\u043d\u043b\u0430\u0439\u043d-\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f. \u041e\u0442 250 \u0440\u0443\u0431\u043b\u0435\u0439 \u0432 \u043c\u0435\u0441\u044f\u0446",
+        "Abstract": "\u0424\u043e\u0442\u043e\u0441\u0442\u043e\u043b\u0431 \u2014 \u0441\u0435\u0440\u0432\u0438\u0441 \u043e\u043d\u043b\u0430\u0439\u043d-\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f \u0437\u0430 \u0445\u043e\u0434\u043e\u043c \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0438 \u0437\u0430\u0433\u043e\u0440\u043e\u0434\u043d\u044b\u043c\u0438 \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c\u0438. \u0412\u0438\u0434\u0435\u043e \u0438 \u0444\u043e\u0442\u043e\u0441\u044a\u0435\u043c\u043a\u0430, \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0430\u0440\u0445\u0438\u0432\u0430, online-\u0434\u043e\u0441\u0442\u0443\u043f 24/7",
+        "Official Site": "https://fotostolb.ru",
+        "Icon": "/favicon.ico?2",
+        "Redirect": "https://fotostolb.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fotostolb.ru"
+    },
+    {
         "link": "https://reasonable.shop",
-        "Heading": "\n\tOnline Einkaufen | Bekleidung, Kopfh\u00f6rer, Autozubeh\u00f6r - Reasonable Shop Germany\n",
-        "Abstract": "Online Einkaufen Reasonable Shop ist ein Onlineshop mit den \u00f6rtlichen Warenh\u00e4usern. Wir verkaufen Bekleidung, Kopfh\u00f6rer, Autozubeh\u00f6r, Elektronik, und andere.",
+        "Heading": "\n\tOnline Shopping for Electronics, Fashion, Computers & more - Reasonable Shop\n",
+        "Abstract": "Reasonable Shop is an online shop with the local warehouses. We sales Sports and Outdoor, Electronics, Fashion, Health and Beauty, Home and Garden, Test Equipment and Tools, and others.",
         "Official Site": "https://reasonable.shop/index.aspx",
         "Icon": "N/A",
         "Redirect": "https://reasonable.shop/index.aspx",
@@ -118,16 +128,6 @@
         "Redirect": "https://emiinspirations.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://emiinspirations.com"
-    },
-    {
-        "link": "https://telfs.com",
-        "Heading": "Start | GemeindeWerke Telfs",
-        "Abstract": null,
-        "Official Site": "https://gwtelfs.at/",
-        "Icon": "https://gwtelfs.at/site/assets/files/1/start-20260228090646_0001.1200x630.jpg",
-        "Redirect": "https://gwtelfs.at/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gwtelfs.at/"
     },
     {
         "link": "https://lanagirls.com",
@@ -180,14 +180,14 @@
         "AbstractURL": "https://gomoonbeam.com/"
     },
     {
-        "link": "https://igretec.com",
-        "Heading": "Igretec \u2013 Bureau d\u2019\u00e9tudes et d\u00e9veloppement durable",
-        "Abstract": "Igretec accompagne acteurs publics, entreprises et citoyens dans leurs projets d\u2019am\u00e9nagement, d\u2019\u00e9nergie, d\u2019eau et de d\u00e9veloppement territorial, avec une expertise pluridisciplinaire et durable.",
-        "Official Site": "https://www.igretec.com/",
-        "Icon": "https://www.igretec.com/app/uploads/70bd03c4ff03ce567d9d8f48-cropped-794bedae44add8af665c845e-faviconigretec-32x32.png",
-        "Redirect": "https://www.igretec.com/",
+        "link": "https://hotel-in-denmark.com",
+        "Heading": "Denmark hotels & apartments, all accommodations in Denmark",
+        "Abstract": "Online booking for hotels in Denmark, Denmark. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://hotel-in-denmark.com",
+        "Icon": "N/A",
+        "Redirect": "https://hotel-in-denmark.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.igretec.com/"
+        "AbstractURL": "https://hotel-in-denmark.com"
     },
     {
         "link": "https://vialtopartners.com",
@@ -248,16 +248,6 @@
         "Redirect": "https://qgoq.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://qgoq.com"
-    },
-    {
-        "link": "https://onemorelibrary.com",
-        "Heading": "One More Library - Free Books in english",
-        "Abstract": "One More Library - Free online ebooks in pdf, epub, kindle and other formats. Free ebooks in English, French, German, Spanish and other languages",
-        "Official Site": "https://onemorelibrary.com",
-        "Icon": "N/A",
-        "Redirect": "https://onemorelibrary.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://onemorelibrary.com"
     },
     {
         "link": "https://eatbanza.com",

@@ -1,13 +1,13 @@
 [
     {
         "link": "https://azionecattolica.it",
-        "Heading": "Home - Azione Cattolica Italiana",
-        "Abstract": "L\u2019Azione Cattolica Italiana \u00e8 un'associazione di laici che dal 1868 propone a tutte le et\u00e0 un cammino di crescita umana e spirituale.",
-        "Official Site": "https://azionecattolica.it/",
-        "Icon": "https://azionecattolica.it/wp-content/uploads/2026/01/Quaresima-Spello-2026_SITO-AC-HP-1024x959.jpg",
-        "Redirect": "https://azionecattolica.it/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://azionecattolica.it",
+        "Icon": "data:;",
+        "Redirect": "https://azionecattolica.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://azionecattolica.it/"
+        "AbstractURL": "https://azionecattolica.it"
     },
     {
         "link": "https://quermania.de",
@@ -60,14 +60,24 @@
         "AbstractURL": "https://www.vandenboom.es/"
     },
     {
-        "link": "https://winningponies.com",
-        "Heading": "Horse Racing Picks Powered by AI Handicapping | WinningPonies",
-        "Abstract": "Handicap like a pro with Horstradamus AI ratings. Advanced horse racing intelligence covering 90+ tracks with real-time updates.",
-        "Official Site": "https://winningponies.com",
-        "Icon": "https://winningponies.com/images/og-default.jpg",
-        "Redirect": "https://winningponies.com",
+        "link": "https://healthhype.com",
+        "Heading": "Home - Healthhype",
+        "Abstract": "Healthhype covers all facets of physical and mental health openly and objectively because we\u2019re here for the whole person \u2014 for your whole life.",
+        "Official Site": "https://healthhype.com/",
+        "Icon": "https://www.healthhype.com/healthhype.jpg",
+        "Redirect": "https://healthhype.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://winningponies.com"
+        "AbstractURL": "https://healthhype.com/"
+    },
+    {
+        "link": "https://bluidkiti.com",
+        "Heading": "Bluidkiti Sober Recovery: Drug Rehab | Drug Addiction\nTreatment Center | Alcoholism | Addiction Mental Health | Directory\nSubstance Abuse Detox Programs",
+        "Abstract": "Online Recovery Help Support Groups for Addicts, Alcoholics, Family, Friends and Loved Ones. Forums - Chat - Links. Daily Recovery and Weekly Spiritual Readings.",
+        "Official Site": "https://bluidkiti.com",
+        "Icon": "https://www.bluidkiti.com/favicon.ico",
+        "Redirect": "https://bluidkiti.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bluidkiti.com"
     },
     {
         "link": "https://rcncapital.com",

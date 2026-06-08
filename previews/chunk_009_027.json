@@ -50,6 +50,26 @@
         "AbstractURL": "https://www.hlpschools.org/"
     },
     {
+        "link": "https://hotelkyoto.net",
+        "Heading": "\n\t\t\t\t\u2263 HOTEL KYOTO \u2022 OFFICIAL Hotel Rates & Availability\n\t\t\t",
+        "Abstract": "With Hotel Kyoto, find the best hotels in Kyoto offering the best rates and comfortable stays. Book now for exclusive deals and enjoy your visit to Kyoto!",
+        "Official Site": "https://hotelkyoto.net",
+        "Icon": "/new/designs/22/shared/images/favicons/1/favicon.ico",
+        "Redirect": "https://hotelkyoto.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotelkyoto.net"
+    },
+    {
+        "link": "https://hotels-in-osaka.com",
+        "Heading": "All accommodations in Osaka",
+        "Abstract": "Online booking for hotels in Osaka, Japan. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://hotels-in-osaka.com",
+        "Icon": "N/A",
+        "Redirect": "https://hotels-in-osaka.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotels-in-osaka.com"
+    },
+    {
         "link": "https://hotels-of-bali.com",
         "Heading": "Bali hotels & apartments, all accommodations in Bali",
         "Abstract": "Online booking for hotels in Bali, Indonesia. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
@@ -58,6 +78,36 @@
         "Redirect": "https://hotels-of-bali.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hotels-of-bali.com"
+    },
+    {
+        "link": "https://hotelschiangmai.net",
+        "Heading": "All accommodations in Chiang Mai",
+        "Abstract": "Online booking for hotels in Chiang Mai, Thailand. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://hotelschiangmai.net",
+        "Icon": "N/A",
+        "Redirect": "https://hotelschiangmai.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotelschiangmai.net"
+    },
+    {
+        "link": "https://hotelseville.net",
+        "Heading": "\n\t\t\t\t\u2263 HOTEL SEVILLE \u2022 OFFICIAL Hotel Rates & Availability\n\t\t\t",
+        "Abstract": "With Hotel Seville, find the best hotels in Seville offering the best rates and comfortable stays. Book now for exclusive deals and enjoy your visit to Seville!",
+        "Official Site": "https://hotelseville.net",
+        "Icon": "/new/designs/22/shared/images/favicons/1/favicon.ico",
+        "Redirect": "https://hotelseville.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotelseville.net"
+    },
+    {
+        "link": "https://hotelsinmauritius.org",
+        "Heading": "Mauritius hotels & apartments, all accommodations in Mauritius",
+        "Abstract": "Online booking for hotels in Mauritius, Mauritius. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://hotelsinmauritius.org",
+        "Icon": "N/A",
+        "Redirect": "https://hotelsinmauritius.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotelsinmauritius.org"
     },
     {
         "link": "https://houhaiwang.com",

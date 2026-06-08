@@ -70,14 +70,34 @@
         "AbstractURL": "https://bibitbunga.com/"
     },
     {
+        "link": "https://allstarelite.com",
+        "Heading": "\n      All Star Elite | Streetwear, Sneakers, Jerseys & Jackets\n",
+        "Abstract": "Shop All Star Elite - premium streetwear, sneakers, jerseys (basketball, football, hockey, soccer), jackets and accessories. Free shipping on orders over $110. New drops monthly. Shop the latest collections now.",
+        "Official Site": "https://www.allstarelite.com/",
+        "Icon": "http://www.allstarelite.com/cdn/shop/files/ASE.png?v=1776111731",
+        "Redirect": "https://www.allstarelite.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.allstarelite.com/"
+    },
+    {
         "link": "https://arghome.ru",
-        "Heading": "172.182.224.162 07.06.2026 08:50:27",
+        "Heading": "52.173.162.97 08.06.2026 09:04:11",
         "Abstract": null,
         "Official Site": "https://arghome.ru",
         "Icon": "data:,",
         "Redirect": "https://arghome.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://arghome.ru"
+    },
+    {
+        "link": "https://avbc.com",
+        "Heading": "\n        Legendary Beer - Anderson Valley Brewing Company : Anderson Valley Brewing Company    ",
+        "Abstract": "World class beer with small town charm. Welcome to Boonville, California, drink it in. For over 30 years, Anderson Valley Brewing Company has been hand-crafting authentic ales & lagers with a passion for sustainable brewing practices.",
+        "Official Site": "https://avbc.com/",
+        "Icon": "https://i0.wp.com/avbc.com/wp-content/uploads/2022/12/avbc-favicon2.png?fit=512%2C512&ssl=1",
+        "Redirect": "https://avbc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://avbc.com/"
     },
     {
         "link": "https://gemstonea.com",
@@ -108,16 +128,6 @@
         "Redirect": "https://www.thegoldenstatecafe.com//",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.thegoldenstatecafe.com//"
-    },
-    {
-        "link": "https://inserrh.com",
-        "Heading": "Gestion des ressources humaines - Logiciels Inser RH",
-        "Abstract": "INSER Inser RH logiciels de gestion des ressources humaines, sp\u00e9cialis\u00e9 sur les logiciels formation, entretiens, comp\u00e9tences et recrutement.",
-        "Official Site": "https://www.inserrh.com/",
-        "Icon": "https://www.inserrh.com/wp-content/uploads/2025/09/references-clients-inser.jpg",
-        "Redirect": "https://www.inserrh.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.inserrh.com/"
     },
     {
         "link": "https://lvdive.com",
@@ -158,6 +168,16 @@
         "Redirect": "https://neolymp.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://neolymp.com/"
+    },
+    {
+        "link": "https://dridriss.com",
+        "Heading": "\n    Dr. Idriss | Derm-Developed, Science-Backed Skincare That Works\n    \n    \n  ",
+        "Abstract": "From dark spots to redness to sun protection, Dr. Idriss products are science-backed skincare solutions developed by board-certified dermatologist Dr. Shereene Idriss. With over 5,000 5-star reviews, including our Major Fade line targeting discoloration, skip the guesswork and say hello to skincare that work.",
+        "Official Site": "https://dridriss.com/",
+        "Icon": "https://dridriss.com/cdn/shop/files/Blank_1200_x_628.jpg?v=1716501905",
+        "Redirect": "https://dridriss.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dridriss.com/"
     },
     {
         "link": "https://pearlsofportugal.com",
@@ -258,15 +278,5 @@
         "Redirect": "https://apkorcb.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://apkorcb.com"
-    },
-    {
-        "link": "https://kallimachos.de",
-        "Heading": "Kallimachos",
-        "Abstract": null,
-        "Official Site": "https://kallimachos.de",
-        "Icon": "N/A",
-        "Redirect": "https://kallimachos.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kallimachos.de"
     }
 ]

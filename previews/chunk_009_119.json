@@ -150,6 +150,16 @@
         "AbstractURL": "https://www.ncpssm.org/"
     },
     {
+        "link": "https://rc-kt.com",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://rc-kt.com",
+        "Icon": "N/A",
+        "Redirect": "https://rc-kt.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rc-kt.com"
+    },
+    {
         "link": "https://capacenter.hu",
         "Heading": null,
         "Abstract": null,
@@ -158,16 +168,6 @@
         "Redirect": "https://capacenter.hu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://capacenter.hu"
-    },
-    {
-        "link": "https://diablotine-coiffure-mode-solomiac.fr",
-        "Heading": "Diablotine coiffure | Salon de coiffure \u00e0 Solomiac",
-        "Abstract": "Salon de coiffure, sp\u00e9cialis\u00e9 dans la coiffure, le maquillage et l\u2019onglerie, coiffeuse visagiste pour hommes, femmes et enfants, \u00e0 Solomiac",
-        "Official Site": "https://diablotine-coiffure-mode-solomiac.fr/",
-        "Icon": "https://diablotine-coiffure-mode-solomiac.fr/wp-content/uploads/2021/09/cropped-favicon1-32x32.png",
-        "Redirect": "https://diablotine-coiffure-mode-solomiac.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://diablotine-coiffure-mode-solomiac.fr/"
     },
     {
         "link": "https://sleepphones.com",
@@ -181,13 +181,13 @@
     },
     {
         "link": "https://elitec.eu",
-        "Heading": "Tasuta koduleht Elitec Group",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.elitec.ee/",
-        "Icon": "http://www.elitec.ee/upload/facebook/EasyOffice_300x230.png",
-        "Redirect": "https://www.elitec.ee/",
+        "Official Site": "http://www.1koigieest.eu/",
+        "Icon": "http://www.1koigieest.eu/upload/favicon/favicon.ico",
+        "Redirect": "http://www.1koigieest.eu/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.elitec.ee/"
+        "AbstractURL": "http://www.1koigieest.eu/"
     },
     {
         "link": "https://heapro.com",

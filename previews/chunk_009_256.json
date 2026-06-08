@@ -10,16 +10,6 @@
         "AbstractURL": "https://biographien.ac.at"
     },
     {
-        "link": "https://seniorhumor.org",
-        "Heading": " S e n i o r h u m o r",
-        "Abstract": null,
-        "Official Site": "https://seniorhumor.org",
-        "Icon": "wp-content/uploads/2011/03/Icon-150x150.jpg",
-        "Redirect": "https://seniorhumor.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://seniorhumor.org"
-    },
-    {
         "link": "https://tnetworkisp.com",
         "Heading": "T Network ISP \u2013 Internet Service Provider",
         "Abstract": null,
@@ -198,6 +188,16 @@
         "Redirect": "https://tinytapeout.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tinytapeout.com/"
+    },
+    {
+        "link": "https://jntuk.edu.in",
+        "Heading": "Jawaharlal Nehru Technological University Kakinada",
+        "Abstract": null,
+        "Official Site": "https://jntuk.edu.in",
+        "Icon": "favicon.ico",
+        "Redirect": "https://jntuk.edu.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jntuk.edu.in"
     },
     {
         "link": "https://wantickets.com",

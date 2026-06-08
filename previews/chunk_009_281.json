@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://hzculligan.com",
-        "Heading": "\u98d8\u82b1\u7535\u5f71\u7f51 - \u98d8\u82b1\u8fc5\u96f7\u7535\u5f71\u4e0b\u8f7d\u7f51_\u6700\u65b0\u7535\u5f71_\u6700\u65b0\u7535\u89c6\u5267\u514d\u8d39\u89c2\u770b\u4e0b\u8f7d",
-        "Abstract": "\u98d8\u82b1\u7535\u5f71\u7f51\u5206\u4eab\u6700\u65b0\u9ad8\u6e05\u7535\u5f71\u7535\u89c6\u5267\u3001\u4f26\u7406\u7247\u3001\u7efc\u827a\u3001\u7f8e\u5267\u3001\u97e9\u5267\u3001\u82f1\u5267\u3001\u65e5\u5267\u7b49\u8fc5\u96f7\u4e0b\u8f7d\uff0c\u7b49\u8d44\u6e90\u5728\u7ebf\u89c2\u770b\uff01",
-        "Official Site": "https://hzculligan.com",
-        "Icon": "/static/favicon.ico",
-        "Redirect": "https://hzculligan.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hzculligan.com"
-    },
-    {
         "link": "https://intellicar.in",
         "Heading": "Intellicar | Advanced IoT Solutions for Fleet and EV Management",
         "Abstract": "Discover Intellicar's innovative IoT-driven mobility solutions, enhancing efficiency across fleets, electric vehicles, battery ecosystems and financiers.",
@@ -28,16 +18,6 @@
         "Redirect": "https://jrplaton.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jrplaton.net"
-    },
-    {
-        "link": "https://lcnxp.com",
-        "Heading": "Lyncoin Explorer",
-        "Abstract": "Lyncoin Blockchain Explorer, you can explorer the whole blockchain from this site, see block and transaction details, address balances",
-        "Official Site": "https://lcnxp.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://lcnxp.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lcnxp.com"
     },
     {
         "link": "https://motosaleser.es",
@@ -110,6 +90,16 @@
         "AbstractURL": "https://seiberer.at"
     },
     {
+        "link": "https://shoezuu.de",
+        "Heading": "Vegane Schuhe f\u00fcr Damen Herren Unisex | Fair und nachhaltig.",
+        "Abstract": "Vegane Schuhe, die nachhaltig und fair produziert wurden. Dein Vegetarian Shoes, NAE Vegan Shoes usw. Markenstore f\u00fcr ethisch einwandfreies Schuhwerk.",
+        "Official Site": "https://www.shoezuu.de/",
+        "Icon": "https://www.shoezuu.de/bilder/intern/shoplogo/shoezuu-logo-neu-2024.jpg",
+        "Redirect": "https://www.shoezuu.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.shoezuu.de/"
+    },
+    {
         "link": "https://sistemaspleno.com",
         "Heading": "Pleno Sistemas - Tecnologia para Loca\u00e7\u00e3o e Vistorias",
         "Abstract": "Tecnologia para Loca\u00e7\u00e3o e Vistorias",
@@ -124,7 +114,7 @@
         "Heading": "SleepShop: \u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u0430\u0442\u0440\u0430\u0446\u0456\u0432 \u0442\u0430 \u043c\u0435\u0431\u043b\u0456\u0432 \u0434\u043b\u044f \u0441\u043f\u0430\u043b\u044c\u043d\u0456 \u0437\u0430 \u043d\u0430\u0439\u043a\u0440\u0430\u0449\u0438\u043c\u0438 \u0446\u0456\u043d\u0430\u043c\u0438 \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456.",
         "Abstract": "\u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043c\u0435\u0431\u0435\u043b\u0456\u0432 \u0434\u043b\u044f \u0441\u043f\u0430\u043b\u044c\u043d\u0456 - \u043a\u0443\u043f\u0438\u0442\u0438 \u043c\u0430\u0442\u0440\u0430\u0446 \u0432\u0456\u0434 \u0432\u0438\u0440\u043e\u0431\u043d\u0438\u043a\u0430 \u0432 \u041a\u0438\u0454\u0432\u0456 \u0437 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u044e \u043f\u043e \u0423\u043a\u0440\u0430\u0457\u043d\u0456.\ud83d\ude9a \u041a\u0440\u0430\u0449\u0456 \u0446\u0456\u043d\u0438 \u043d\u0430 \u043a\u0440\u0456\u0441\u043b\u0430 \u0442\u0430 \u043b\u0456\u0436\u043a\u0430\ud83d\udecf \u043d\u0430 \u0441\u0430\u0439\u0442\u0456 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0430 sleepshop.ua\u2705",
         "Official Site": "https://sleepshop.ua/ua/",
-        "Icon": "https://sleepshop.ua/upload/sleepshop-logo-1.svg",
+        "Icon": "/upload/ammina.optimizer/svg/upload/sleepshop-logo-1.svg",
         "Redirect": "https://sleepshop.ua/ua/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sleepshop.ua/ua/"
@@ -134,7 +124,7 @@
         "Heading": "\u6f2b\u753b\u5c4b-\u6f2b\u753b\u5927\u5168-\u514d\u8d39\u6f2b\u753b\u5728\u7ebf\u770b-\u6700\u597d\u770b\u7684\u6f2b\u753b",
         "Abstract": "\u6f2b\u753b\u5c4b(www.umh5.com)\u4e3a\u60a8\u63d0\u4f9b\u4f18\u8d28\u7684\u6f2b\u753b\u9605\u8bfb\u4f53\u9a8c\uff0c\u65e5\u672c\u6f2b\u753b,\u6e2f\u53f0\u6f2b\u753b,\u97e9\u56fd\u6f2b\u753b,\u6b27\u7f8e\u6f2b\u753b,\u597d\u6f2b\u753b\u3002\u70ed\u95e8\u6f2b\u753b\uff1a\u706b\u5f71\u5fcd\u8005\u3001\u6d77\u8d3c\u738b\u3001\u6b7b\u795e\u3001\u4e00\u62f3\u8d85\u4eba\u3001\u53e4\u60d1\u4ed4\u7b49\u6f2b\u753b\u9605\u8bfb\u7f51\u7ad9\uff0c\u5c31\u5728\u6f2b\u753b\u5c4b",
         "Official Site": "https://umh5.com",
-        "Icon": "/template/wap/default/img/favicon.ico",
+        "Icon": "/template/pc/default/images/favicon.ico",
         "Redirect": "https://umh5.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://umh5.com"
@@ -148,6 +138,16 @@
         "Redirect": "https://163xs.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://163xs.net"
+    },
+    {
+        "link": "https://keycodedirect.com",
+        "Heading": "Keycode Direct",
+        "Abstract": null,
+        "Official Site": "https://keycodedirect.com",
+        "Icon": "N/A",
+        "Redirect": "https://keycodedirect.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://keycodedirect.com"
     },
     {
         "link": "https://darlain.co.il",
@@ -188,5 +188,15 @@
         "Redirect": "https://riometro.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://riometro.org"
+    },
+    {
+        "link": "https://zmotauto.com",
+        "Heading": "Automotive Advertising & Car Dealership Marketing Agency - ZMOT Auto",
+        "Abstract": "Automotive dealer digital marketing solutions we create effective digital marketing solutions through content creation, paid search & social media marketing",
+        "Official Site": "https://zmotauto.com/",
+        "Icon": "https://zmotauto.com/wp-content/uploads/2023/12/site_image.jpg",
+        "Redirect": "https://zmotauto.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zmotauto.com/"
     }
 ]

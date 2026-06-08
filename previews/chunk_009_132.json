@@ -20,6 +20,16 @@
         "AbstractURL": "https://ineratec.de"
     },
     {
+        "link": "https://padnd.com",
+        "Heading": "You are being redirected...",
+        "Abstract": null,
+        "Official Site": "https://padnd.com",
+        "Icon": "N/A",
+        "Redirect": "https://padnd.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://padnd.com"
+    },
+    {
         "link": "https://fondationcarasso.org",
         "Heading": "Fondation Daniel & Nina Carasso",
         "Abstract": "D\u00e9couvrez la fondation Daniel et Nina Carasso engag\u00e9e pour l'art et l'alimentation durable au service d'une soci\u00e9t\u00e9 juste.",
@@ -238,16 +248,6 @@
         "Redirect": "https://genesiscareer.edu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://genesiscareer.edu"
-    },
-    {
-        "link": "https://in2code.de",
-        "Heading": "Spezialisiert auf TYPO3: in2code - Wir leben TYPO3",
-        "Abstract": "in2code als TYPO3-Platinum Member bietet Web-L\u00f6sungen f\u00fcr Internet- und Intranet auf Basis von TYPO3. ",
-        "Official Site": "https://in2code.de",
-        "Icon": "https://www.in2code.de/typo3temp/assets/_processed_/c/7/csm_typo3_coffee_332f461043.png",
-        "Redirect": "https://in2code.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://in2code.de"
     },
     {
         "link": "https://sparkasse-freising-moosburg.de",

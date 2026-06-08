@@ -70,16 +70,6 @@
         "AbstractURL": "https://arbvps.com"
     },
     {
-        "link": "https://autorating.ru",
-        "Heading": "\u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439 - \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u0430\u0432\u0442\u043e. \u041f\u043e\u043b\u043d\u044b\u0439 \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u043c\u0430\u0448\u0438\u043d - \u0410\u0432\u0442\u043e\u0440\u0435\u0439\u0442\u0438\u043d\u0433",
-        "Abstract": "\u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439 - \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u0430\u0432\u0442\u043e \u0432\u0441\u0435\u0445 \u043c\u0430\u0440\u043e\u043a \u0438 \u043c\u043e\u0434\u0435\u043b\u0435\u0439 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0410\u0432\u0442\u043e\u0440\u0435\u0439\u0442\u0438\u043d\u0433. \u2756\u041f\u043e\u043b\u043d\u044b\u0439 \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u043c\u0430\u0448\u0438\u043d \u0442\u043e\u043b\u044c\u043a\u043e \u0437\u0434\u0435\u0441\u044c \u261b\u0444\u043e\u0442\u043e \u0438 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u0446\u0435\u043d\u044b \u0438 \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0442\u044b",
-        "Official Site": "https://autorating.ru",
-        "Icon": "/bitrix/templates/main/images/favicon.ico",
-        "Redirect": "https://autorating.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://autorating.ru"
-    },
-    {
         "link": "https://cplmanager.com",
         "Heading": "Browser Based Esports Game | CPL Manager",
         "Abstract": "Lead your FPS team to victory in the thrilling browser-based game set in the CPL esports tournaments. Take the challenge and compete in an intense league season!",
@@ -170,16 +160,6 @@
         "AbstractURL": "https://medrez.net"
     },
     {
-        "link": "https://eagleman.com",
-        "Heading": "David Eagleman - Neuroscientist, Author, Technologist, Entrepreneur",
-        "Abstract": "David's research encompasses brain plasticity, sensory substitution, time perception, synesthesia, and the intersection of brain science with the legal system.",
-        "Official Site": "https://eagleman.com/",
-        "Icon": "https://i0.wp.com/eagleman.com/wp-content/uploads/2020/10/Eagleman3-by_Brian_Goldman.jpg?fit=912%2C1140&quality=89&ssl=1",
-        "Redirect": "https://eagleman.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eagleman.com/"
-    },
-    {
         "link": "https://communitychange.org",
         "Heading": "Homepage - Community Change",
         "Abstract": null,
@@ -238,6 +218,16 @@
         "Redirect": "https://opinsys.fi/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://opinsys.fi/"
+    },
+    {
+        "link": "https://goldenhopecare.co.uk",
+        "Heading": "Golden Hope Care - Quality Care Always",
+        "Abstract": "Quality Care Always",
+        "Official Site": "https://goldenhopecare.co.uk/",
+        "Icon": "N/A",
+        "Redirect": "https://goldenhopecare.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://goldenhopecare.co.uk/"
     },
     {
         "link": "https://instylehome.ca",
@@ -318,16 +308,6 @@
         "Redirect": "https://mimics.cloud",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mimics.cloud"
-    },
-    {
-        "link": "https://hubfit.com",
-        "Heading": "HubFit | The All-in-One Fitness Coaching Platform",
-        "Abstract": "HubFit is the all-in-one coaching platform for personal trainers, online coaches, and gyms. Coach clients, drive engagement, automate workflows, and scale revenue.",
-        "Official Site": "https://hubfit.com",
-        "Icon": "https://hubfit.com/opengraph-image-pwu6ef?3ea6a2382d91483d",
-        "Redirect": "https://hubfit.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hubfit.com"
     },
     {
         "link": "https://netzkolchose.de",

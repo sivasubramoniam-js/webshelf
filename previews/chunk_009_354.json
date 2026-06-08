@@ -50,16 +50,6 @@
         "AbstractURL": "https://www.labellevilloise.com/"
     },
     {
-        "link": "https://maakirasoi.co",
-        "Heading": "maakirasoi.co",
-        "Abstract": null,
-        "Official Site": "https://maakirasoi.co",
-        "Icon": "https://maakirasoi.co/wp-content/uploads/2020/12/cropped-cropped-TG-Thumb-192x192-1-100x100.png",
-        "Redirect": "https://maakirasoi.co",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://maakirasoi.co"
-    },
-    {
         "link": "https://idamaster.ru",
         "Heading": "iDAMASTER",
         "Abstract": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0435\u0442\u044c \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u043e\u0432",
@@ -110,16 +100,6 @@
         "AbstractURL": "https://advokatnidenik.cz/"
     },
     {
-        "link": "https://jshem.or.jp",
-        "Heading": "\u4e00\u822c\u793e\u56e3\u6cd5\u4eba \u65e5\u672c\u8840\u6db2\u5b66\u4f1a",
-        "Abstract": "",
-        "Official Site": "https://www.jshem.or.jp/",
-        "Icon": "N/A",
-        "Redirect": "https://www.jshem.or.jp/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.jshem.or.jp/"
-    },
-    {
         "link": "https://partystream.tv",
         "Heading": "PartyStream - We\u2019ll be back soon!",
         "Abstract": "Priame prenosy a vide\u00e1 zo slovenskej hudobnej sc\u00e9ny a nielen. Party stream ti prin\u00e1\u0161a nov\u00fa interakt\u00edvnu z\u00e1bavu a priestor, ktor\u00fd sp\u00e1ja umelcov a fan\u00fa\u0161ikov. \u010ci na chate \u010di v stane, o p\u00e1rty sa postarame!",
@@ -148,6 +128,16 @@
         "Redirect": "https://bloknot-zaporozhie.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bloknot-zaporozhie.ru"
+    },
+    {
+        "link": "https://ctor.com.ua",
+        "Heading": "\u0413\u043e\u043b\u043e\u0432\u043d\u0430 - \u0423\u0447\u0431\u043e\u0432\u0438\u0439 \u043a\u043e\u043c\u0431\u0456\u043d\u0430\u0442 \u041a\u0440\u0438\u0432\u0438\u0439 \u0420\u0456\u0433, \u0423\u041a\u041a. \u0423 \u043d\u0430\u0448\u043e\u043c\u0443 \u043d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0426\u0435\u043d\u0442\u0440\u0456 \u0412\u0438 \u043e\u0442\u0440\u0438\u043c\u0430\u0454\u0442\u0435 \u041f\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043d\u044f, \u044f\u043a\u0435 \u0412\u0430\u043c \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e.",
+        "Abstract": "\u0423 \u043d\u0430\u0448\u043e\u043c\u0443 \u043d\u0430\u0432\u0447\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0426\u0435\u043d\u0442\u0440\u0456 \u0412\u0438 \u043e\u0442\u0440\u0438\u043c\u0430\u0454\u0442\u0435 \u041f\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043d\u044f, \u044f\u043a\u0435 \u0412\u0430\u043c \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e. \u0411\u0435\u043b\u0410\u0417, \u041f\u0422\u041c, \u041f\u0424\u0415, \u0433\u0440\u0443\u043f\u0430 \u0437 \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u0431\u0435\u0437\u043f\u0435\u043a\u0438. \u0422\u041e\u0412 \u0426\u0422\u041e\u0420. \u0421\u043b\u044e\u0441\u0430\u0440 \u0410\u0412\u0420, \u0421\u043b\u044e\u0441\u0430\u0440 \u0440\u0435\u043c\u043e\u043d\u0442\u043d\u0438\u043a, \u041c\u0430\u0448\u0438\u043d\u0456\u0441\u0442 \u043d\u0430\u0441\u043e\u0441\u043d\u0438\u0445 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u043a",
+        "Official Site": "https://ctor.com.ua/",
+        "Icon": "https://ctor.com.ua/wp-content/uploads/2024/05/cropped-images-32x32.png",
+        "Redirect": "https://ctor.com.ua/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ctor.com.ua/"
     },
     {
         "link": "https://schuelerfeedback-nrw.de",
@@ -228,15 +218,5 @@
         "Redirect": "https://mutante.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mutante.com.br"
-    },
-    {
-        "link": "https://sspaeth.de",
-        "Heading": "Spaetzblog \u2013 Stuff that doesn't matter",
-        "Abstract": null,
-        "Official Site": "https://sspaeth.de",
-        "Icon": "https://sspaeth.de/wp-content/uploads/2021/01/cropped-spaetz_2020-32x32.jpg",
-        "Redirect": "https://sspaeth.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sspaeth.de"
     }
 ]

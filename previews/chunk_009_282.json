@@ -220,6 +220,16 @@
         "AbstractURL": "https://kintzing.com"
     },
     {
+        "link": "https://ligmais.com.br",
+        "Heading": "Lig+ Telecom",
+        "Abstract": "Planos de Fibra \u00d3ptica com alta velocidade e de acordo com a sua necessidade. Escolha sua op\u00e7\u00e3o e domine a internet.",
+        "Official Site": "https://ligmais.com.br",
+        "Icon": "assets/site/img/favicon.png",
+        "Redirect": "https://ligmais.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ligmais.com.br"
+    },
+    {
         "link": "https://alanyabrand.ru",
         "Heading": null,
         "Abstract": null,
@@ -250,23 +260,13 @@
         "AbstractURL": "https://elektracomic.com"
     },
     {
-        "link": "https://shoppingnovaiguacu.com.br",
-        "Heading": "Shopping Nova Igua\u00e7u",
-        "Abstract": "Inaugurado em 2016, na antiga Pedreira Vign\u00e9, o Shopping Nova Igua\u00e7u \u00e9 o primeiro empreendimento da Baixada Fluminense com conceito multiuso \u2013 em que re\u00fane op\u00e7\u00f5es de compra, lazer, hotelaria e escrit\u00f3rios em um \u00fanico lugar - e prev\u00ea o desenvolvimento de torres comerciais, hotel e pr\u00e9dio residencial em seu projeto.",
-        "Official Site": "https://shoppingnovaiguacu.com.br",
-        "Icon": "https://www.shoppingnovaiguacu.com.br/sites/nova-iguacu/files/styles/og_image_1200x630/public/shopping-media/Home/DJI_0084.jpg?itok=zBe9qGPL",
-        "Redirect": "https://shoppingnovaiguacu.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shoppingnovaiguacu.com.br"
-    },
-    {
-        "link": "https://marinertalk.com",
-        "Heading": "Mariner Talk Chat Forum - Index page",
+        "link": "https://yarat.az",
+        "Heading": "YARAT | CONTEMPORARY ART SPACE - YARAT",
         "Abstract": null,
-        "Official Site": "https://marinertalk.com",
-        "Icon": "N/A",
-        "Redirect": "https://marinertalk.com",
+        "Official Site": "https://yarat.az",
+        "Icon": "_templates/system/favicon.ico",
+        "Redirect": "https://yarat.az",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://marinertalk.com"
+        "AbstractURL": "https://yarat.az"
     }
 ]

@@ -171,10 +171,10 @@
     },
     {
         "link": "https://aerodefencesolutions.com",
-        "Heading": "NSN & Aerospace Parts Supplier USA | Aero Defence",
-        "Abstract": "Shop NSN parts, aviation components, and defense hardware at Aero Defence Solutions. Fast RFQ, certified quality, and reliable USA-based delivery.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://aerodefencesolutions.com",
-        "Icon": "https://cdn.asapsemi.com/aerodefencesolutions/web/assets/images/favicon/favicon-16x16.png",
+        "Icon": "N/A",
         "Redirect": "https://aerodefencesolutions.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aerodefencesolutions.com"
@@ -198,6 +198,16 @@
         "Redirect": "https://moto-opinie.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://moto-opinie.info"
+    },
+    {
+        "link": "https://carlzimmer.com",
+        "Heading": "Carl Zimmer, New York Times columnist and author of science books",
+        "Abstract": "Carl Zimmer is an award-winner New York Times columnist and the author of 13 books about science. His newest book is Air-Borne: The Hidden History of The Life We Breathe.",
+        "Official Site": "https://carlzimmer.com/",
+        "Icon": "N/A",
+        "Redirect": "https://carlzimmer.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://carlzimmer.com/"
     },
     {
         "link": "https://visidea.ai",

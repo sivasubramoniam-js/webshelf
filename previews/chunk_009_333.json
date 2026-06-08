@@ -130,6 +130,16 @@
         "AbstractURL": "https://www.venomit.com/"
     },
     {
+        "link": "https://sandersparks.com",
+        "Heading": "Home \u00bb Sanders + Parks",
+        "Abstract": null,
+        "Official Site": "https://www.sandersparks.com/",
+        "Icon": "https://www.sandersparks.com/wp-content/themes/sanders-parks/src/img/logo-sanders-parks-50-plus-years-white.svg",
+        "Redirect": "https://www.sandersparks.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sandersparks.com/"
+    },
+    {
         "link": "https://haaartland.com",
         "Heading": "Haaartland - made for community builders",
         "Abstract": "The simple affordable all-in-one community platform. Scandinavian design & Radical simplicity. Join thousands of community builders.",
@@ -228,16 +238,6 @@
         "Redirect": "https://poweredportablesolar.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://poweredportablesolar.com"
-    },
-    {
-        "link": "https://monocolle-motorsport.com",
-        "Heading": "monocolle-motorsport",
-        "Abstract": null,
-        "Official Site": "https://monocolle-motorsport.com",
-        "Icon": "N/A",
-        "Redirect": "https://monocolle-motorsport.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://monocolle-motorsport.com"
     },
     {
         "link": "https://huguenots-france.org",

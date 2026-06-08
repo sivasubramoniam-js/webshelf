@@ -30,14 +30,24 @@
         "AbstractURL": "https://datingapprove.com"
     },
     {
-        "link": "https://tenemosplan.com",
-        "Heading": "TenemosPlan - Entradas y actividades en toda Espa\u00f1a.",
-        "Abstract": "Venta de entradas para actividades, espect\u00e1culos, museos, monumentos, conciertos... en toda Espa\u00f1a. Los mejores precios. Elige tu plan y disfruta al m\u00e1ximo. ",
-        "Official Site": "www.tenemosplan.com/",
-        "Icon": "https://cdn.tenemosplan.com/tiendas/../tenemosplan/logo.png",
-        "Redirect": "www.tenemosplan.com/",
+        "link": "https://ccsj.edu",
+        "Heading": "Calumet College of St. Joseph | Private Catholic College",
+        "Abstract": "CCSJ is a private, four-year Catholic institution and Indiana's #1 most diverse college. 94% of traditional students receive financial aid.",
+        "Official Site": "https://www.ccsj.edu/",
+        "Icon": "https://www.ccsj.edu/wp-content/uploads/2021/02/The-Liberal-Arts-Tradition.jpg",
+        "Redirect": "https://www.ccsj.edu/",
         "AbstractSource": "BS4",
-        "AbstractURL": "www.tenemosplan.com/"
+        "AbstractURL": "https://www.ccsj.edu/"
+    },
+    {
+        "link": "https://cribis.com",
+        "Heading": " CRIBIS: Gestione Crediti, Report e Informazioni su aziende ",
+        "Abstract": "CRIBIS offre servizi per la gestione e recupero crediti di aziende in tutto il mondo: informazioni economiche e commerciali, valutazioni e credit scoring.",
+        "Official Site": "https://www.cribis.com/it/",
+        "Icon": "/assets/img/favicon.ico",
+        "Redirect": "https://www.cribis.com/it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cribis.com/it/"
     },
     {
         "link": "https://telkimsk.com",
@@ -98,16 +108,6 @@
         "Redirect": "https://vestirama.ru/https://vestirama.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vestirama.ru/https://vestirama.ru/"
-    },
-    {
-        "link": "https://onlyguppies.com.au",
-        "Heading": "Only Guppies",
-        "Abstract": null,
-        "Official Site": "https://onlyguppies.com.au",
-        "Icon": "N/A",
-        "Redirect": "https://onlyguppies.com.au",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://onlyguppies.com.au"
     },
     {
         "link": "https://coedistributing.com",
@@ -240,18 +240,8 @@
         "AbstractURL": "https://graintrade.com.ua"
     },
     {
-        "link": "https://cominmag.ch",
-        "Heading": "Cominmag Home - Cominmag.ch",
-        "Abstract": null,
-        "Official Site": "https://cominmag.ch/",
-        "Icon": "N/A",
-        "Redirect": "https://cominmag.ch/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cominmag.ch/"
-    },
-    {
         "link": "https://aurastel.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://aurastel.com",
         "Icon": "N/A",
@@ -268,16 +258,6 @@
         "Redirect": "https://www.stokertje.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.stokertje.nl/"
-    },
-    {
-        "link": "https://furchguitars.com",
-        "Heading": "Furch Guitars - The choice of the most discerning musicians",
-        "Abstract": "The Furch brand owes its existence to our desire to make top-quality instruments for the most discerning musicians of the world.",
-        "Official Site": "https://furchguitars.com/us/",
-        "Icon": "https://furchguitars.com/wp-content/uploads/2019/01/share_fruch_02.jpg",
-        "Redirect": "https://furchguitars.com/us/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://furchguitars.com/us/"
     },
     {
         "link": "https://ltofbr.com",

@@ -140,6 +140,26 @@
         "AbstractURL": "https://flyvps.com"
     },
     {
+        "link": "https://tbarkelectric.net",
+        "Heading": "Coming Soon",
+        "Abstract": null,
+        "Official Site": "https://tbarkelectric.net",
+        "Icon": "N/A",
+        "Redirect": "https://tbarkelectric.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tbarkelectric.net"
+    },
+    {
+        "link": "https://asbestosdiseaseawareness.org",
+        "Heading": "Asbestos Disease Awareness Organization (ADAO)",
+        "Abstract": "Join the Asbestos Disease Awareness Organization (ADAO), the largest U.S. group dedicated to supporting asbestos victims. Founded in 2004, we unite victims and citizens to raise awareness, advocate for a global asbestos ban.",
+        "Official Site": "https://www.asbestosdiseaseawareness.org/",
+        "Icon": "https://www.asbestosdiseaseawareness.org/wp-content/uploads/2025/10/Untitled.jpeg",
+        "Redirect": "https://www.asbestosdiseaseawareness.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.asbestosdiseaseawareness.org/"
+    },
+    {
         "link": "https://barabazar.com",
         "Heading": "IT",
         "Abstract": null,
@@ -238,15 +258,5 @@
         "Redirect": "https://wireva.eu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wireva.eu"
-    },
-    {
-        "link": "https://nationalgeographicexpeditions.com",
-        "Heading": "National Geographic Traveler Vacation Packages | National Geographic Expeditions",
-        "Abstract": "The Best Luxury Travel Vacation Packages With National Geographic. Luxury Travel Packages: National Geographic Traveler Expert Guides, Special Access To Attractions & Cultural Experiences.",
-        "Official Site": "https://www.nationalgeographic.com/expeditions/",
-        "Icon": "https://www.nationalgeographic.com/content/dam/expeditions/Homepage/Hero-hompeage-june2018.jpg",
-        "Redirect": "https://www.nationalgeographic.com/expeditions/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.nationalgeographic.com/expeditions/"
     }
 ]

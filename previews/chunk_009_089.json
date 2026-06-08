@@ -10,14 +10,14 @@
         "AbstractURL": "https://atouchofhandz.co"
     },
     {
-        "link": "https://usengecsef.com",
-        "Heading": "\u00dc\u015fenge\u00e7 \u015eef - Yemek Tarifleri, Mekanlar, Deneyimler",
-        "Abstract": "Hayat dev bir orkestra ve ben de bir orkestra \u015fefiyim! \u00dc\u015fenge\u00e7 \u015eef; davet, yemek, mekan, al\u0131\u015fveri\u015f, tatil, konser, sinema, l\u00fcks oteller, sa\u011fl\u0131k, g\u00fczellik, ya\u015fant\u0131m \u00fczerine...",
-        "Official Site": "https://usengecsef.com/",
-        "Icon": "https://usengecsef.com/wp-content/uploads/2020/05/usengecsef-icon@2x-768x768.jpg",
-        "Redirect": "https://usengecsef.com/",
+        "link": "https://kochloeffel.de",
+        "Heading": "Kochl\u00f6ffel - seit 1961 lecker!",
+        "Abstract": "Der klassische, deutsche Imbiss modern und professionell in den deutschen Innenst\u00e4dte, das ist Kochl\u00f6ffel. Pommes, Burger, vegetarisches und vieles mehr.",
+        "Official Site": "https://kochloeffel.de/",
+        "Icon": "https://kochloeffel.de/templates/yootheme/cache/66/franchise_GG-6690d2ba.jpeg",
+        "Redirect": "https://kochloeffel.de/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://usengecsef.com/"
+        "AbstractURL": "https://kochloeffel.de/"
     },
     {
         "link": "https://idealibrary.com",
@@ -78,6 +78,16 @@
         "Redirect": "https://www.optimallyorganic.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.optimallyorganic.com/"
+    },
+    {
+        "link": "https://zamtech.com.br",
+        "Heading": "Zamtech Fibra \u00d3ptica \u2013 Provedor de Internet 100 Fibra Optica",
+        "Abstract": null,
+        "Official Site": "https://zamtech.com.br",
+        "Icon": "https://zamtech.com.br/wp-content/uploads/2022/07/cropped-favicon-32x32.png",
+        "Redirect": "https://zamtech.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zamtech.com.br"
     },
     {
         "link": "https://pushsubs.info",
@@ -190,16 +200,6 @@
         "AbstractURL": "https://www.axivox.com/en"
     },
     {
-        "link": "https://loantap.in",
-        "Heading": "India's Fastest & Most Reliable Personal Loan Platform | LoanTap",
-        "Abstract": "LoanTap is an online personal loan platform in India that offers quick and hassle-free customized loans up to \u20b910 Lakhs with competitive rates & minimal documentation. Apply Now.",
-        "Official Site": "https://loantap.in/",
-        "Icon": "N/A",
-        "Redirect": "https://loantap.in/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://loantap.in/"
-    },
-    {
         "link": "https://digitalsurgeons.com",
         "Heading": "Digital Surgeons | Transform Your Company for What Comes Next",
         "Abstract": "Digital Surgeons is a transformation company built for high-stakes change. We align brand, AI consulting, and workflow automation into one strategic system, then activate the right team to move your business forward.",
@@ -238,15 +238,5 @@
         "Redirect": "https://victor96.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://victor96.com"
-    },
-    {
-        "link": "https://otezla.com",
-        "Heading": "A Pill for PsO, PsA, and Oral Ulcers in BD | Otezla\u00ae (apremilast)",
-        "Abstract": "Otezla\u00ae is a pill that helps treat symptoms of plaque psoriasis (PsO), psoriatic arthritis (PsA), and oral ulcers in Beh\u00e7et\u2019s Disease (BD). See full prescribing & safety info.",
-        "Official Site": "https://www.otezla.com/",
-        "Icon": "http://www.otezla.com/-/media/Themes/Otezla/Otezla-com-redesign/Otezla-com-redesign/images/logos/Logo.svg",
-        "Redirect": "https://www.otezla.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.otezla.com/"
     }
 ]

@@ -160,6 +160,16 @@
         "AbstractURL": "https://www.playbike.ro"
     },
     {
+        "link": "https://pobedov.com",
+        "Heading": "POBEDOV: \u0427\u043e\u043b\u043e\u0432\u0456\u0447\u0438\u0439 \u043e\u0434\u044f\u0433 | \u0416\u0456\u043d\u043e\u0447\u0438\u0439 \u041e\u0434\u044f\u0433",
+        "Abstract": "\u041e\u043d\u043b\u0430\u0439\u043d \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0447\u043e\u043b\u043e\u0432\u0456\u0447\u043e\u0433\u043e \u043e\u0434\u044f\u0433\u0443 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0431\u0440\u0435\u043d\u0434\u0443 POBEDOV \u0416\u0456\u043d\u043e\u0447\u043e\u0433\u043e \u043e\u0434\u044f\u0433\u0443 MANIRNA \u0417\u0430\u043c\u043e\u0432\u043b\u044f\u0439\u0442\u0435 \u043e\u0434\u044f\u0433 \u0442\u0430 \u0430\u043a\u0441\u0435\u0441\u0443\u0430\u0440\u0438 \u0437\u0430 \u043f\u0440\u0438\u0454\u043c\u043d\u0438\u043c\u0438 \u0446\u0456\u043d\u0430\u043c\u0438.",
+        "Official Site": "https://pobedov.com/",
+        "Icon": "https://pobedov.com/image/catalog/home/logo.svg",
+        "Redirect": "https://pobedov.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pobedov.com/"
+    },
+    {
         "link": "https://propositosalud.com",
         "Heading": null,
         "Abstract": null,
@@ -218,16 +228,6 @@
         "Redirect": "https://republikbobotoh.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://republikbobotoh.com/"
-    },
-    {
-        "link": "https://rolmarket.pl",
-        "Heading": "\n        Rolmarket.pl - wyposa\u017cenie i budowa ogrodu    ",
-        "Abstract": "Internetowy sklep ogrodniczy Rolmarket.pl to bogaty wyb\u00f3r artyku\u0142\u00f3w do budowy, wyposa\u017cenia i piel\u0119gnacji ogrod\u00f3w. Rolmarket to kompleksowe rozwi\u0105zanie dla Twojego ogrodu.",
-        "Official Site": "https://rolmarket.pl",
-        "Icon": "/images/favicon/rolmarket.jpg",
-        "Redirect": "https://rolmarket.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rolmarket.pl"
     },
     {
         "link": "https://rr77md.com",
@@ -384,7 +384,7 @@
         "Heading": "\u0160vihadla, kter\u00e1 t\u011b dostanou do formy - \u0160vihej",
         "Abstract": "\u0160vihadla vyv\u00edj\u00edme my, brat\u0159i a profesion\u00e1ln\u00ed sportovci. Chce\u0161 na sob\u011b za\u010d\u00edt makat, ale nev\u00ed\u0161 jak na to? Nevad\u00ed. Uk\u00e1\u017eeme ti, jak na to!",
         "Official Site": "https://www.svihej.cz/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.svihej.cz/user/front_images/ogImage/hp.jpg?t=1780806612",
+        "Icon": "https://cdn.myshoptet.com/usr/www.svihej.cz/user/front_images/ogImage/hp.jpg?t=1780893658",
         "Redirect": "https://www.svihej.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.svihej.cz/"

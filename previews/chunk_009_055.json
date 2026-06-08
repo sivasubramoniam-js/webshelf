@@ -20,6 +20,16 @@
         "AbstractURL": "https://glpro.one"
     },
     {
+        "link": "https://ems-dolorclast.com",
+        "Heading": "Guided DolorClast\u00ae Therapy EN | EMS Pain Therapy",
+        "Abstract": null,
+        "Official Site": "https://www.ems-dolorclast.com/",
+        "Icon": "/themes/custom/pain_therapy/favicon.ico",
+        "Redirect": "https://www.ems-dolorclast.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ems-dolorclast.com/"
+    },
+    {
         "link": "https://homemark.co.za",
         "Heading": "Homemark | Your Mark of Quality",
         "Abstract": "Homemark Online Store. Your Mark of Quality Our Brands: Polaroid, Milex, Remedy Health, Argan Secret, Igia, Homemax and More! Secure Online Shopping | Free Delivery Over R1000",
@@ -110,16 +120,6 @@
         "AbstractURL": "https://www.kalajokilaakso.fi/"
     },
     {
-        "link": "https://trzemeszno24.info",
-        "Heading": "Strona g\u0142\u00f3wna - Trzemeszno24.info",
-        "Abstract": null,
-        "Official Site": "https://trzemeszno24.info/",
-        "Icon": "N/A",
-        "Redirect": "https://trzemeszno24.info/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://trzemeszno24.info/"
-    },
-    {
         "link": "https://sz-haltern.de",
         "Heading": "\n                    IServ - sz-haltern.de\n            ",
         "Abstract": null,
@@ -158,6 +158,16 @@
         "Redirect": "https://eicub.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eicub.net"
+    },
+    {
+        "link": "https://suchnase.de",
+        "Heading": "Webverzeichnis Webkatalog suchnase.de Suchmaschine",
+        "Abstract": "Der Webkatalog und die Suchmaschine suchnase.de - einer der \u00e4ltesten Kataloge in Deutschland. Tragen Sie sich kostenfrei ein.",
+        "Official Site": "https://suchnase.de",
+        "Icon": "N/A",
+        "Redirect": "https://suchnase.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://suchnase.de"
     },
     {
         "link": "https://dimaestri.com",
@@ -238,15 +248,5 @@
         "Redirect": "https://www.facescosmetics.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.facescosmetics.com/"
-    },
-    {
-        "link": "https://townofsmyrna.org",
-        "Heading": "Welcome to Town of Smyrna, TN",
-        "Abstract": null,
-        "Official Site": "https://townofsmyrna.org",
-        "Icon": "//cms3.revize.com/revize/townofsmyrna/_assets_/images/logo.png",
-        "Redirect": "https://townofsmyrna.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://townofsmyrna.org"
     }
 ]

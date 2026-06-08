@@ -10,6 +10,16 @@
         "AbstractURL": "https://zorenza-store.com/de-de"
     },
     {
+        "link": "https://tcbuildtech.com",
+        "Heading": "TC BuildTech | Innovative Construction Solutions for Your Projects",
+        "Abstract": "Discover TC BuildTech's comprehensive construction services designed to deliver quality results. From planning to execution, trust our expertise to elevate your project. Contact us today!",
+        "Official Site": "https://tcbuildtech.com/",
+        "Icon": "https://tcbuildtech.com/wp-content/uploads/2024/06/tcbuildtech1.png",
+        "Redirect": "https://tcbuildtech.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tcbuildtech.com/"
+    },
+    {
         "link": "https://shigeyukikihara.com",
         "Heading": "Website Maintenance | Shigeyuki Kihara - Artist Portfolio",
         "Abstract": "Contemporary Pacific art, photography, and cultural research by Samoan-Japanese artist Shigeyuki Kihara",
@@ -48,26 +58,6 @@
         "Redirect": "https://mclibre.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mclibre.org"
-    },
-    {
-        "link": "https://kavyapublications.com",
-        "Heading": "Best Book Publishing Company | Self Book Publishing in India",
-        "Abstract": "Publish and sell your book with the India `s leading best book publishing company. Here we provide you the best platform to self publish your book.",
-        "Official Site": "https://kavyapublications.com",
-        "Icon": "images/logo/favicon.png",
-        "Redirect": "https://kavyapublications.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kavyapublications.com"
-    },
-    {
-        "link": "https://7idgaming.de",
-        "Heading": "7ID Gaming - CMS-Startseite",
-        "Abstract": "vBulletin 4.0 Publishing Suite inkl. CMS",
-        "Official Site": "https://7idgaming.de",
-        "Icon": "N/A",
-        "Redirect": "https://7idgaming.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://7idgaming.de"
     },
     {
         "link": "https://lasl.ru",
@@ -208,5 +198,15 @@
         "Redirect": "https://webcortex.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://webcortex.com"
+    },
+    {
+        "link": "https://hostedwebsolutions.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://hostedwebsolutions.com",
+        "Icon": "N/A",
+        "Redirect": "https://hostedwebsolutions.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hostedwebsolutions.com"
     }
 ]

@@ -30,6 +30,16 @@
         "AbstractURL": "https://dimehouse.nl/"
     },
     {
+        "link": "https://brockpress.com",
+        "Heading": "The Brock Press - Brock University's Only Independent Student News Outlet",
+        "Abstract": null,
+        "Official Site": "https://brockpress.com/",
+        "Icon": "https://brockpress.com/wp-content/uploads/2024/01/cropped-TBP-poster-2-32x32.png",
+        "Redirect": "https://brockpress.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://brockpress.com/"
+    },
+    {
         "link": "https://booknik.ru",
         "Heading": "\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0435 \u0442\u0435\u043a\u0441\u0442\u044b \u0438 \u0442\u0435\u043c\u044b \u2014 Booknik.ru",
         "Abstract": "",
@@ -80,24 +90,14 @@
         "AbstractURL": "https://rocketcourier.pk"
     },
     {
-        "link": "https://tansa.com",
-        "Heading": "Tansa Systems | Clear, concise and error-free content",
-        "Abstract": "Tansa deliver enterprise text proofing and hyphenation tools to media companies, large corporations, non-profit organizations and government agencies.",
-        "Official Site": "https://www.tansa.com/",
-        "Icon": "https://www.tansa.com/wp-content/uploads/2018/05/Barcode_page_cropped-min.png",
-        "Redirect": "https://www.tansa.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.tansa.com/"
-    },
-    {
-        "link": "https://designerscripte.net",
-        "Heading": "Designerscripte.net ",
-        "Abstract": "Diest ist das ofizielle Supportforum des Loginscriptes VMS1 Virtual-Monetary-System",
-        "Official Site": "https://designerscripte.net",
+        "link": "https://xinyaya.cn",
+        "Heading": "\u676d\u5dde\u4fe1\u4e2b\u4e2b\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "Abstract": null,
+        "Official Site": "https://xinyaya.cn",
         "Icon": "N/A",
-        "Redirect": "https://designerscripte.net",
+        "Redirect": "https://xinyaya.cn",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://designerscripte.net"
+        "AbstractURL": "https://xinyaya.cn"
     },
     {
         "link": "https://nbcuni-asia.com",
@@ -230,6 +230,16 @@
         "AbstractURL": "https://www.bars4cars.co.uk/"
     },
     {
+        "link": "https://kanroholidayresort.com",
+        "Heading": "Kanro Holiday Resort",
+        "Abstract": "",
+        "Official Site": "https://kanroholidayresort.com",
+        "Icon": "https://kanroholidayresort.com/frontend/assets/img/favicon.ico",
+        "Redirect": "https://kanroholidayresort.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kanroholidayresort.com"
+    },
+    {
         "link": "https://alliednews.com",
         "Heading": "alliednews.com",
         "Abstract": "",
@@ -248,15 +258,5 @@
         "Redirect": "https://www.taokids.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.taokids.com/"
-    },
-    {
-        "link": "https://net-burg.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://net-burg.net",
-        "Icon": "N/A",
-        "Redirect": "https://net-burg.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://net-burg.net"
     }
 ]

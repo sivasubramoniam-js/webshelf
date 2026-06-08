@@ -10,6 +10,16 @@
         "AbstractURL": "https://www.southamptonboatshow.com/"
     },
     {
+        "link": "https://burchfieldpenney.org",
+        "Heading": "Burchfield Penney Art Center",
+        "Abstract": "The Burchfield Penney Art Center holds the largest public collection of works by Charles E. Burchfield, as well as art from Western New York and beyond, for everyone to experience and enjoy.",
+        "Official Site": "https://burchfieldpenney.org",
+        "Icon": "/assets/icons/favicon-32x32.png",
+        "Redirect": "https://burchfieldpenney.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://burchfieldpenney.org"
+    },
+    {
         "link": "https://7fe.ru",
         "Heading": "\u041c\u0438\u043a\u0440\u043e\u043c\u0430\u0440\u043a\u0435\u0442 \u043e\u0442 Reatme",
         "Abstract": "Reatme - \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0443\u0435\u043c \u0433\u043e\u0440\u044f\u0447\u0435\u0435 \u0438 \u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u043e\u0435 \u043f\u0438\u0442\u0430\u043d\u0438\u0435 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u043e\u0432 \u043d\u0430 1\u043c2. \u0423 \u043d\u0430\u0441 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u0438 \u0432\u0441\u0435\u0433\u0434\u0430 \u0441\u0432\u0435\u0436\u0430\u044f \u0433\u043e\u0442\u043e\u0432\u0430\u044f \u0435\u0434\u0430. \u0411\u043e\u043b\u0435\u0435 350 \u0431\u043b\u044e\u0434 \u0432 \u043c\u0435\u043d\u044e. \u0414\u0435\u0433\u0443\u0441\u0442\u0430\u0446\u0438\u044f \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 - \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e!",
@@ -20,16 +30,6 @@
         "AbstractURL": "https://reatme.ru/"
     },
     {
-        "link": "https://hanjo-net.de",
-        "Heading": "Zugriff verweigert",
-        "Abstract": null,
-        "Official Site": "https://hanjo-net.de",
-        "Icon": "N/A",
-        "Redirect": "https://hanjo-net.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hanjo-net.de"
-    },
-    {
         "link": "https://enchantasys.com",
         "Heading": "\n            Enchantasys Shop Adult Toys, Novelties, Lingerie, Bachelorette\n",
         "Abstract": "Enchantasys Lingerie & More - lingerie, lubricants, adult toys, adult boutique, adult toys, bachelorette, party supplies, sexy costumes, wigs, adult store, vibrators, dildos, penis rings, high heels, massage, couples, date night, romance, sexual wellness",
@@ -38,6 +38,16 @@
         "Redirect": "https://enchantasys.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://enchantasys.com/"
+    },
+    {
+        "link": "https://gigglesinfotech.in",
+        "Heading": "Home - Giggles Infotech",
+        "Abstract": null,
+        "Official Site": "https://www.gigglesinfotech.in/",
+        "Icon": "https://www.gigglesinfotech.in/wp-content/uploads/2021/03/cropped-g_logo_512-1-32x32.png",
+        "Redirect": "https://www.gigglesinfotech.in/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gigglesinfotech.in/"
     },
     {
         "link": "https://862x.com",
@@ -90,16 +100,6 @@
         "AbstractURL": "https://podarki.ru"
     },
     {
-        "link": "https://domain2.hu",
-        "Heading": "Domain2.hu A domain piact\u00e9r",
-        "Abstract": "",
-        "Official Site": "https://domain2.hu",
-        "Icon": "https://domain2.hu/assets/img/favicon.ico",
-        "Redirect": "https://domain2.hu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://domain2.hu"
-    },
-    {
         "link": "https://kontio.com",
         "Heading": "Kontio | World's Largest Log House Manufacturer",
         "Abstract": "Discover Kontio, the world\u2019s largest log house manufacturer, offering sustainable and elegant log buildings that enhance your living experience and connect you with nature.",
@@ -144,7 +144,7 @@
         "Heading": "\n        \uc571\uac1c\ubc1c\uae30\uc5c5 \uc774\uc624\uc571\uc2a4(eoapps)    ",
         "Abstract": "\ubaa8\ubc14\uc77c \uc571(iOS\u00b7Android)\u00b7\uc6f9 \uc11c\ube44\uc2a4 \uac1c\ubc1c, \uae30\ud68d\ubd80\ud130 \uc720\uc9c0\uad00\ub9ac\uae4c\uc9c0 \uc804 \uacfc\uc815 \uc218\ud589. \uae30\uc5c5\u00b7\uae30\uad00 \ud504\ub85c\uc81d\ud2b8 \ubc0f ERP\u00b7PG\u00b7POS \uc5f0\ub3d9 \uac1c\ubc1c \uacbd\ud5d8.",
         "Official Site": "https://www.eoapps.co.kr",
-        "Icon": "https://www.eoapps.co.kr/theme/eoapps/images/img.jpg?v=1780819471",
+        "Icon": "https://www.eoapps.co.kr/theme/eoapps/images/img.jpg?v=1780907154",
         "Redirect": "https://www.eoapps.co.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.eoapps.co.kr"
@@ -188,16 +188,6 @@
         "Redirect": "https://serviomatic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://serviomatic.com"
-    },
-    {
-        "link": "https://herentals.be",
-        "Heading": "Home | Herentals",
-        "Abstract": null,
-        "Official Site": "https://www.herentals.be/home",
-        "Icon": "/themes/custom/subtheme/favicon.ico",
-        "Redirect": "https://www.herentals.be/home",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.herentals.be/home"
     },
     {
         "link": "https://wolffer.com",

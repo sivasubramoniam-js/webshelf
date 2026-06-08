@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://deutsche-islam-konferenz.de",
-        "Heading": "DIK - Deutsche Islam Konferenz  -  Startseite",
-        "Abstract": "Homepage des deutschsprachigen Auftritts",
-        "Official Site": "https://www.deutsche-islam-konferenz.de/DE/Startseite/startseite_node.html",
-        "Icon": "https://www.deutsche-islam-konferenz.de/SiteGlobals/Frontend/Images/logometadata.png?__blob=normal&v=2",
-        "Redirect": "https://www.deutsche-islam-konferenz.de/DE/Startseite/startseite_node.html",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.deutsche-islam-konferenz.de/DE/Startseite/startseite_node.html"
-    },
-    {
         "link": "https://regystra.com",
         "Heading": "Regystra - Sports Registration & Tournament Management Software",
         "Abstract": "Trusted by major sports tournaments worldwide. All-in-one sports registration, payment processing, team management, and tournament scheduling software.",
@@ -18,16 +8,6 @@
         "Redirect": "https://regystra.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://regystra.com"
-    },
-    {
-        "link": "https://lagosppa.gov.ng",
-        "Heading": "Welcome to Lagos State Public Procurement Agency",
-        "Abstract": null,
-        "Official Site": "https://lagosppa.gov.ng",
-        "Icon": "https://www.lagosppa.gov.ng/wp-content/uploads/2021/03/cropped-cropped-ppa-icon-32x32.png",
-        "Redirect": "https://lagosppa.gov.ng",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lagosppa.gov.ng"
     },
     {
         "link": "https://audiencetalking.com",
@@ -120,6 +100,26 @@
         "AbstractURL": "https://lookmovie0.to/"
     },
     {
+        "link": "https://soumaster.com.br",
+        "Heading": "MASTER INTERNET",
+        "Abstract": "Saiba mais Fale com nossa equipe Cliente Master Clique e acesse o portal de streaming da Master e conhe\u00e7a alguns SVAs que voc\u00ea pode realizar a substitui\u00e7\u00e3o. *Consulte as regras. Indique e Ganhe Ao indicar um amigo para assinar com a Master, voc\u00ea ganha um desconto exclusivo na fatura. Quanto mais amigos, mais voc\u00ea ganha! [\u2026] ",
+        "Official Site": "https://soumaster.com.br/",
+        "Icon": "https://soumaster.com.br/wp-content/uploads/2026/03/cropped-Simbolo-Master-01.png",
+        "Redirect": "https://soumaster.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soumaster.com.br/"
+    },
+    {
+        "link": "https://riversidetransit.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://riversidetransit.com",
+        "Icon": "data:;",
+        "Redirect": "https://riversidetransit.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://riversidetransit.com"
+    },
+    {
         "link": "https://cimared.com",
         "Heading": "Redirecting...",
         "Abstract": null,
@@ -148,16 +148,6 @@
         "Redirect": "https://www.ensodata.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ensodata.com/"
-    },
-    {
-        "link": "https://babellibros.com",
-        "Heading": "Babel Libros.",
-        "Abstract": "Babel Libros, librer\u00edas, libros, lectura, libros de texto, libros de educaci\u00f3n, libros de ciencias pol\u00edticas, libros de sociolog\u00eda, libros de  filosof\u00eda, libros de  literatura",
-        "Official Site": "https://babellibros.com",
-        "Icon": "/images/favicon.ico",
-        "Redirect": "https://babellibros.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://babellibros.com"
     },
     {
         "link": "https://leadspawn.com",

@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://dronepilots.nl",
-        "Heading": "DronePilots.nl",
-        "Abstract": "Het forum voor dronevliegers in Nederland en Vlaanderen",
-        "Official Site": "https://dronepilots.nl/",
-        "Icon": "/styles/drift/images/favicon.png",
-        "Redirect": "https://dronepilots.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dronepilots.nl/"
-    },
-    {
         "link": "https://dsbrown.com",
         "Heading": "D.S. Brown - Bridge and Pavement Solutions",
         "Abstract": "Find D.S. Brown bridge and pavement solutions. D.S. Brown has designed and engineered structural movement, protection and repair solutions for the world\u2019s bridges, highways and airfields for more than 130 years.",
@@ -48,6 +38,16 @@
         "Redirect": "https://www.easy-equipment.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.easy-equipment.com/"
+    },
+    {
+        "link": "https://edinburghhotelsuk.org",
+        "Heading": "Edinburgh hotels & apartments, all accommodations in Edinburgh",
+        "Abstract": "Online booking for hotels in Edinburgh, United Kingdom. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://edinburghhotelsuk.org",
+        "Icon": "N/A",
+        "Redirect": "https://edinburghhotelsuk.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://edinburghhotelsuk.org"
     },
     {
         "link": "https://eloro.gob.ec",
@@ -160,6 +160,16 @@
         "AbstractURL": "https://gestimag.com"
     },
     {
+        "link": "https://getmanilahotels.com",
+        "Heading": "All accommodations in Manila",
+        "Abstract": "Online booking for hotels in Manila, Philippines. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://getmanilahotels.com",
+        "Icon": "N/A",
+        "Redirect": "https://getmanilahotels.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://getmanilahotels.com"
+    },
+    {
         "link": "https://global-spain.com",
         "Heading": "\u25b7 Belgian Real Estate in Torrevieja and Orihuela Costa",
         "Abstract": "\u2705 If you're looking for Belgian Real Estate Agents in Costa Blanca or Costa C\u00e1lida, Global Spain is your best choice \u2705Resale, New Build & Rental Properties",
@@ -208,5 +218,25 @@
         "Redirect": "https://www.grandibottiglie.com/it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.grandibottiglie.com/it/"
+    },
+    {
+        "link": "https://gundammates.com",
+        "Heading": "Gundammates, gundam modeling database | stash manager",
+        "Abstract": "Search thousands of kits, articles, walkarounds, books, events, shops... Connect with gundam modelers and manage your stash of kits",
+        "Official Site": "https://gundammates.com",
+        "Icon": "https://www.gundammates.com/s/ati.png",
+        "Redirect": "https://gundammates.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gundammates.com"
+    },
+    {
+        "link": "https://hanoi-hotels.org",
+        "Heading": "All accommodations in Hanoi",
+        "Abstract": "Online booking for hotels in Hanoi, Vietnam. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://hanoi-hotels.org",
+        "Icon": "N/A",
+        "Redirect": "https://hanoi-hotels.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hanoi-hotels.org"
     }
 ]

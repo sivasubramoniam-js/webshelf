@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://ageval.fr",
-        "Heading": "Ageval | Logiciel pilotage qualit\u00e9 & risques \u2013 Formations et conseil",
-        "Abstract": "Avec Ageval, simplifiez vos d\u00e9marches qualit\u00e9, ma\u00eetrisez vos risques et renforcez durablement vos performances.",
-        "Official Site": "https://www.ageval.fr/",
-        "Icon": "https://www.ageval.fr/wp-content/uploads/2025/09/cropped-favegavl-32x32.png",
-        "Redirect": "https://www.ageval.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ageval.fr/"
-    },
-    {
         "link": "https://airgroupegypt.com",
         "Heading": "\u0623\u0648\u0644 \u0645\u0648\u0642\u0639 \u062a\u0643\u064a\u064a\u0641\u0627\u062a \u0641\u064a \u0645\u0635\u0631 - \u0643\u0627\u0634 \u0648 \u0642\u0633\u0637 | \u0627\u064a\u0631 \u062c\u0631\u0648\u0628",
         "Abstract": "\u0645\u0631\u062d\u0628\u0627\u064b \u0628\u0643\u0645 \u0641\u064a \u0627\u064a\u0631 \u062c\u0631\u0648\u0628 \u0623\u0648\u0644 \u0645\u0648\u0642\u0639 \u062a\u0643\u064a\u064a\u0641\u0627\u062a \u0641\u064a \u0645\u0635\u0631- \u0623\u0631\u062e\u0635 \u0623\u0633\u0639\u0627\u0631 \u062a\u0643\u064a\u064a\u0641. \u062a\u0633\u0648\u0642 \u0623\u0648\u0646\u0644\u0627\u064a\u0646 \u0648\u0627\u0634\u062a\u0631\u064a \u062a\u0643\u064a\u064a\u0641\u0627\u062a \u0642\u0633\u0637 \u0645\u0646 \u0645\u0627\u0631\u0643\u0627\u062a \u062a\u0643\u064a\u064a\u0641\u0627\u062a \u0634\u0627\u0631\u0628, \u062a\u0648\u0631\u0646\u064a\u062f\u0648, \u0627\u0644 \u062c\u064a, \u0645\u064a\u062f\u064a\u0627, \u0633\u0627\u0645\u0633\u0648\u0646\u062c, \u064a\u0648\u0646\u064a\u0648 \u0627\u064a\u0631, \u0643\u0627\u0631\u064a\u064a\u0631 \u0648\u0643\u0644 \u0627\u0644\u0645\u0627\u0631\u0643\u0627\u062a.",
@@ -68,6 +58,16 @@
         "Redirect": "https://www.artmu.co.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.artmu.co.kr"
+    },
+    {
+        "link": "https://askdoctor.cn",
+        "Heading": "\u95ee\u533b\u751f-\u5728\u7ebf\u5feb\u901f\u95ee\u8bca-\u9884\u7ea6\u6302\u53f7-\u4f18\u8d28\u7684\u533b\u7597\u4fdd\u5065\u4fe1\u606f\u4e0e\u5728\u7ebf\u5065\u5eb7\u670d\u52a1\u5e73\u53f0",
+        "Abstract": "\u95ee\u533b\u751f\u662f\u4e13\u4e1a\u7684\u5065\u5eb7\u8d44\u8baf\u7f51\u7ad9,\u4f18\u8d28\u7684\u533b\u7597\u4fdd\u5065\u4fe1\u606f\u4e0e\u5728\u7ebf\u5065\u5eb7\u670d\u52a1\u5e73\u53f0.\u63d0\u4f9b\u5728\u7ebf\u54a8\u8be2,\u533b\u9662\u79d1\u5ba4\u67e5\u8be2,\u533b\u751f\u5728\u7ebf\u54a8\u8be2\u9884\u7ea6\u7b49\u5b8c\u5584\u7684\u5065\u5eb7\u4fe1\u606f\u670d\u52a1",
+        "Official Site": "https://askdoctor.cn",
+        "Icon": "/template/mobile/default/img/favicons/icon.png",
+        "Redirect": "https://askdoctor.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://askdoctor.cn"
     },
     {
         "link": "https://atcompweb.pl",
@@ -154,7 +154,7 @@
         "Heading": "Miasto Bia\u0142ogard",
         "Abstract": "Bia\u0142ogard - miejski portal informacyjny. Zapowiedzi wydarze\u0144, informacje z \u017cycia miasta, filmy, zdj\u0119cia, galerie. Zapraszamy!",
         "Official Site": "https://bialogard.info",
-        "Icon": "https://bialogard.info/css/logo.jpg?v=1780803760",
+        "Icon": "https://bialogard.info/css/logo.jpg?v=1780890593",
         "Redirect": "https://bialogard.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bialogard.info"
@@ -208,15 +208,5 @@
         "Redirect": "https://bxfilm-5.me",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bxfilm-5.me"
-    },
-    {
-        "link": "https://byguitar.com",
-        "Heading": "\u5f7c\u5cb8\u5409\u4ed6-\u514d\u8d39\u5409\u4ed6\u8c31,\u5409\u4ed6\u5165\u95e8\u89c6\u9891\u6559\u5b66,\u624b\u673a\u5409\u4ed6APP,\u4e00\u7ad9\u5f0f\u5409\u4ed6\u7231\u597d\u8005\u670d\u52a1\u5e73\u53f0",
-        "Abstract": "\u5f7c\u5cb8\u5409\u4ed6 - \u5409\u4ed6APP - \u4e00\u7ad9\u5f0f\u5409\u4ed6\u7231\u597d\u8005\u670d\u52a1\u5e73\u53f0\u3001\u5b66\u5409\u4ed6\u3001\u4e70\u5409\u4ed6\u3001show\u7434\u6280\u3001\u5409\u4ed6\u5165\u95e8\u5b66\u4e60\u3001\u5409\u4ed6\u89c6\u9891\u6559\u5b66\u3001\u6d77\u91cf\u9ad8\u54c1\u8d28\u5409\u4ed6\u8c31\u3001\u5409\u4ed6\u5f39\u5531\u4ea4\u6d41\u3001\u8c03\u97f3\u5668\u3001\u8282\u62cd\u5668\u3001\u5409\u4ed6APP\u3001\u5f39\u624b",
-        "Official Site": "https://byguitar.com",
-        "Icon": "https://img.byguitar.com/Public/Images/public/bgicon.png?v=20230223002",
-        "Redirect": "https://byguitar.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://byguitar.com"
     }
 ]

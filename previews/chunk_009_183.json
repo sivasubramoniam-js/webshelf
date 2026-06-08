@@ -20,6 +20,16 @@
         "AbstractURL": "/"
     },
     {
+        "link": "https://gekkowebhosting.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://gekkowebhosting.com",
+        "Icon": "N/A",
+        "Redirect": "https://gekkowebhosting.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gekkowebhosting.com"
+    },
+    {
         "link": "https://logist-city.com",
         "Heading": " \u041b\u043e\u0433\u0438\u0441\u0442 \u0441\u0438\u0442\u0438",
         "Abstract": "---",
@@ -130,16 +140,6 @@
         "AbstractURL": "https://www.spyfall.app"
     },
     {
-        "link": "https://qatuae.com",
-        "Heading": "Quick Action Trading LLC",
-        "Abstract": null,
-        "Official Site": "https://qatuae.com",
-        "Icon": "https://qatuae.com/wp-content/themes/hub/favicon.png",
-        "Redirect": "https://qatuae.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://qatuae.com"
-    },
-    {
         "link": "https://navanet.de",
         "Heading": "navanet.de - Systemadministration Bingen und Umgebung",
         "Abstract": "navanet.de - Systemadministration Bingen und Umgebung",
@@ -174,7 +174,7 @@
         "Heading": "\n            \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e \u043e\u0431\u0441\u043b\u0443\u0436\u0432\u0430\u043d\u0435::\u041d\u0430\u0447\u0430\u043b\u043e        ",
         "Abstract": null,
         "Official Site": "https://is-bg.net/",
-        "Icon": "/favicon.1780111030.ico",
+        "Icon": "/favicon.1780902011.ico",
         "Redirect": "https://is-bg.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://is-bg.net/"
@@ -268,15 +268,5 @@
         "Redirect": "https://nikkanseibu-eve.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nikkanseibu-eve.com"
-    },
-    {
-        "link": "https://learnwithmike.eu",
-        "Heading": "learnwithmike.eu \u2014 Latest News",
-        "Abstract": "Fresh and trending updates from learnwithmike.eu",
-        "Official Site": "https://learnwithmike.eu",
-        "Icon": "https://ts2.mm.bing.net/th?q=learnwithmike.eu",
-        "Redirect": "https://learnwithmike.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://learnwithmike.eu"
     }
 ]

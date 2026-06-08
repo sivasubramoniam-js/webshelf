@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://abaccos-steakhouse.de",
-        "Heading": "ABACCO'S STEAKHOUSE - Das wahrscheinlich beste Steak der Welt",
-        "Abstract": "Premium Steakhouse mit 13 Standorten in Deutschland und \u00d6sterreich. Argentinisches Rindfleisch und US Prime Beef direkt auf dem hei\u00dfen Stein serviert.",
-        "Official Site": "https://www.abaccos-steakhouse.de/",
-        "Icon": "assets/favicon/favicon-32x32.png",
-        "Redirect": "https://www.abaccos-steakhouse.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.abaccos-steakhouse.de/"
-    },
-    {
         "link": "https://lukuexpert.ee",
         "Heading": "Parimad lukustus- ja l\u00e4bip\u00e4\u00e4sulahendused | LukuExpert",
         "Abstract": "Lukud koju ja kontorisse. ABLOY volitatud m\u00fc\u00fcja ja teenindaja. Lukkude m\u00fc\u00fck, paigaldus, hooldus ja remont, muu lukuabi. Kodu- ja autov\u00f5tmete valmistamine. Lukus\u00fcdamike sarjastamine. Lukustuspojektide koostamine. E-poest k\u00f5ik vajalikud ukse- ja aknatarvikud.",
@@ -38,16 +28,6 @@
         "Redirect": "https://ww1.solarmoviefree.online/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ww1.solarmoviefree.online/"
-    },
-    {
-        "link": "https://bellfoodgroup.com",
-        "Heading": "Bell Food Group - Leading in Food",
-        "Abstract": "Die Bell Food Group ist ein f\u00fchrender europ\u00e4ischer Hersteller von Fleisch und Convenience-Produkten, bekannt f\u00fcr Marken wie Bell, Hilcona und H\u00fcgli.",
-        "Official Site": "https://bellfoodgroup.com",
-        "Icon": "https://www.bellfoodgroup.com/bell-food-group/5122/image-thumb__5122__social_thumb/bellfoodgroup-leading-in-food.fa9c2e21.jpg",
-        "Redirect": "https://bellfoodgroup.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bellfoodgroup.com"
     },
     {
         "link": "https://syuriken.jp",
@@ -98,6 +78,16 @@
         "Redirect": "https://kurashiki-teien.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kurashiki-teien.com"
+    },
+    {
+        "link": "https://dipendrajha.com",
+        "Heading": "Site is undergoing maintenance",
+        "Abstract": "Site will be available soon. Thank you for your patience!",
+        "Official Site": "https://dipendrajha.com",
+        "Icon": "N/A",
+        "Redirect": "https://dipendrajha.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dipendrajha.com"
     },
     {
         "link": "https://triton-grupa.hr",
@@ -160,6 +150,16 @@
         "AbstractURL": "https://razatop.com"
     },
     {
+        "link": "https://nerdsnerd.com",
+        "Heading": "Nerd's Nerd | The first \"nerd\" is possessive",
+        "Abstract": "The first \"nerd\" is possessive",
+        "Official Site": "https://nerdsnerd.com/",
+        "Icon": "https://s0.wp.com/i/blank.jpg",
+        "Redirect": "https://nerdsnerd.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nerdsnerd.com/"
+    },
+    {
         "link": "https://entefy.com",
         "Heading": "Home - Entefy | AI & Automation",
         "Abstract": null,
@@ -184,7 +184,7 @@
         "Heading": "Minnesota Timberwolves - Get the Latest Timberwolves Scores, Schedule & News",
         "Abstract": "The official site of the Minnesota Timberwolves. Includes news, scores, schedules, statistics, photos and video.",
         "Official Site": "https://www.nba.com/timberwolves",
-        "Icon": "https://cdn.nba.com/teams/uploads/sites/1610612750/2022/03/MTimberwolves_Primary-sm.png",
+        "Icon": "https://cdn.nba.com/teams/uploads/sites/1610612750/2026/06/TW_Primary.png",
         "Redirect": "https://www.nba.com/timberwolves",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.nba.com/timberwolves"
@@ -210,14 +210,14 @@
         "AbstractURL": "https://indonesiamengajar.org"
     },
     {
-        "link": "https://tampacarpetrepairheroes.com",
-        "Heading": "Carpet repair in Tampa Bay - Tampa Carpet Repair Heroes",
-        "Abstract": "Professional Carpet Repair in Tampa Bay. Reach out to the Carpet Heroes today for a free estimate. Let us repair your damaged carpets.",
-        "Official Site": "https://tampacarpetrepairheroes.com/",
-        "Icon": "https://tampacarpetrepairheroes.com/wp-content/uploads/2024/10/CARPET-REPAIR-HEROES-Face-829x1024.png",
-        "Redirect": "https://tampacarpetrepairheroes.com/",
+        "link": "https://oakbay.ca",
+        "Heading": "Home - District of Oak Bay",
+        "Abstract": "Welcome to the District of Oak Bay, a picturesque suburban coastal community located on the southern tip of Vancouver Island, British Columbia.",
+        "Official Site": "https://www.oakbay.ca/",
+        "Icon": "https://www.oakbay.ca/wp-content/uploads/2025/03/OB-HomePage-Featured.jpg",
+        "Redirect": "https://www.oakbay.ca/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tampacarpetrepairheroes.com/"
+        "AbstractURL": "https://www.oakbay.ca/"
     },
     {
         "link": "https://pm-gbr.de",

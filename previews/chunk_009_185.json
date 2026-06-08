@@ -150,21 +150,21 @@
         "AbstractURL": "https://www.joanbarceloart.com/es"
     },
     {
-        "link": "https://nestxpert.com",
-        "Heading": "Best Facility Management Company in Abu Dhabi | Nest Xpert UAE",
-        "Abstract": "Transform your property with Nest Xpert, the leading facility management company in Abu Dhabi. Expert solutions for seamless operations and optimal functionality.",
-        "Official Site": "https://nestxpert.com/",
-        "Icon": "https://nestxpert.com/wp-content/uploads/2018/10/cropped-fv-copy-32x32.png",
-        "Redirect": "https://nestxpert.com/",
+        "link": "https://riteofpassage.com",
+        "Heading": "Home - Rite of Passage",
+        "Abstract": "For more than 40 years, Rite of Passage has delivered programs, services, and resources that empower youth and families to succeed\u2014in their communities and in",
+        "Official Site": "https://riteofpassage.com/",
+        "Icon": "https://riteofpassage.com/wp-content/uploads/2019/09/rop_favicon.png",
+        "Redirect": "https://riteofpassage.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nestxpert.com/"
+        "AbstractURL": "https://riteofpassage.com/"
     },
     {
         "link": "https://cumclinic.com",
-        "Heading": "Cum Clinic | Age Verification",
-        "Abstract": "Cum Clinic | Age Verification",
+        "Heading": "Cum Clinic | Welcome to my Cum Clinic",
+        "Abstract": null,
         "Official Site": "https://cumclinic.com",
-        "Icon": "N/A",
+        "Icon": "custom_assets/images/favicon.png",
         "Redirect": "https://cumclinic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cumclinic.com"
@@ -184,7 +184,7 @@
         "Heading": "\u0418\u043c\u043f\u043b\u0430\u043d\u0442 \u0441\u0438\u0442\u0438 \u2013 \u0446\u0435\u043d\u0442\u0440 \u0438\u043c\u043f\u043b\u0430\u043d\u0442\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u0441\u0442\u043e\u043c\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 | Implant City",
         "Abstract": "\u0418\u043c\u043f\u043b\u0430\u043d\u0442 \u0421\u0438\u0442\u0438 - \u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u0438\u043c\u043f\u043b\u0430\u043d\u0442\u043e\u043b\u043e\u0433\u0438\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 - \u0417\u0432\u043e\u043d\u0438\u0442\u0435 \u260e+ 7 (495) 150-07-35 - \u0418\u043c\u043f\u043b\u0430\u043d\u0442 \u0421\u0438\u0442\u0438!",
         "Official Site": "https://implantcity.ru",
-        "Icon": "/upload/resize_cache/webp/local/templates/implantcity/favicons/favicon-32x32.webp",
+        "Icon": "/local/templates/implantcity/favicons/favicon-32x32.png",
         "Redirect": "https://implantcity.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://implantcity.ru"
@@ -240,16 +240,6 @@
         "AbstractURL": "https://joberty.com"
     },
     {
-        "link": "https://bicpens.com",
-        "Heading": "Home - Custom Printed Promotional Products - BICpens.com | Product Catalog | BICpens.com",
-        "Abstract": "Specializing in items we imprint with your logo or content, and more than 45 years of promotional experience, BICpens.com offers advertising quality and value that can\u2019t be matched.",
-        "Official Site": "https://www.bicpens.com/",
-        "Icon": "https://www.bicpens.com/wp-content/uploads/2021/09/favicon.ico",
-        "Redirect": "https://www.bicpens.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bicpens.com/"
-    },
-    {
         "link": "https://alliedmedia.org",
         "Heading": "Home Page - Allied Media Projects",
         "Abstract": "We are a network of people and projects, rooted in Detroit and connected to hundreds of other places across the globe. Together, we grow and exchange ways of using media to create the world we need.",
@@ -258,6 +248,16 @@
         "Redirect": "https://alliedmedia.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alliedmedia.org/"
+    },
+    {
+        "link": "https://rsfloodcontrol.com",
+        "Heading": "Best Flood Barrier Solution - RS Flood Control",
+        "Abstract": "Find the best flood barriers and flood gates for your home, factories, and business establishments.",
+        "Official Site": "https://rsfloodcontrol.com/",
+        "Icon": "https://rsfloodcontrol.com/wp-content/uploads/2022/10/rs_demountable_flood_barrier.jpg",
+        "Redirect": "https://rsfloodcontrol.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rsfloodcontrol.com/"
     },
     {
         "link": "https://moritzundmoritz.com",

@@ -140,16 +140,6 @@
         "AbstractURL": "https://www.enviroportal.sk/"
     },
     {
-        "link": "https://icstepup.com",
-        "Heading": "Default page",
-        "Abstract": "Default page",
-        "Official Site": "https://icstepup.com",
-        "Icon": "https://hpanel.hostinger.com/favicons/hostinger.png",
-        "Redirect": "https://icstepup.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://icstepup.com"
-    },
-    {
         "link": "https://marketplacelive.co.uk",
         "Heading": "Marketplacelive",
         "Abstract": "marketplacelive.co.uk",
@@ -160,11 +150,21 @@
         "AbstractURL": "https://marketplacelive.co.uk"
     },
     {
+        "link": "https://jaihorestaurants.com",
+        "Heading": "Jai Ho at the Coppingham Arms Bar & Authentic Indian Dining",
+        "Abstract": "Jai Ho Indian restaurant & Bar, Horley is situated on the Balcombe Road near Gatwick Airport South Terminal. Dine-in or order for Delivery or Collection",
+        "Official Site": "https://jaihorestaurants.com/",
+        "Icon": "https://jaihorestaurants.com/wp-content/uploads/2020/08/favicon.png",
+        "Redirect": "https://jaihorestaurants.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jaihorestaurants.com/"
+    },
+    {
         "link": "https://linknox.com",
         "Heading": "Google",
-        "Abstract": null,
+        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
         "Official Site": "https://linknox.com",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://linknox.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://linknox.com"

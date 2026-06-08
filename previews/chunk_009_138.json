@@ -70,6 +70,16 @@
         "AbstractURL": "https://www.twentepc.nl/"
     },
     {
+        "link": "https://sowegacotton.com",
+        "Heading": "Sowega Cotton Gin & Warehouse, LLC. - Homepage",
+        "Abstract": "",
+        "Official Site": "https://sowegacotton.com",
+        "Icon": "",
+        "Redirect": "https://sowegacotton.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sowegacotton.com"
+    },
+    {
         "link": "https://shuvar.com",
         "Heading": "\u0420\u0438\u043d\u043e\u043a `\u0428\u0443\u0432\u0430\u0440` | \u041d\u0430\u0439\u0431\u0456\u043b\u044c\u0448\u0438\u0439 \u0433\u0443\u0440\u0442\u043e\u0432\u0438\u0439 \u0440\u0438\u043d\u043e\u043a \u0441\u0432\u0456\u0436\u043e\u0457 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0456\u0457 \u0432 \u0437\u0430\u0445\u0456\u0434\u043d\u0456\u0439 \u0423\u043a\u0440\u0430\u0457\u043d\u0456",
         "Abstract": "\u041d\u0430\u0439\u0431\u0456\u043b\u044c\u0448\u0438\u0439 \u0433\u0443\u0440\u0442\u043e\u0432\u0438\u0439 \u0440\u0438\u043d\u043e\u043a \u0441\u0432\u0456\u0436\u043e\u0457 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0456\u0457 \u0432 \u0437\u0430\u0445\u0456\u0434\u043d\u0456\u0439 \u0423\u043a\u0440\u0430\u0457\u043d\u0456",
@@ -88,16 +98,6 @@
         "Redirect": "https://tvujweb.cz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tvujweb.cz"
-    },
-    {
-        "link": "https://hibiki-radio.jp",
-        "Heading": "\u97ff - HiBiKi Radio Station",
-        "Abstract": "{{$root.metatags.ogp.description}}",
-        "Official Site": "{{$root.metatags.ogp.url}}",
-        "Icon": "{{$root.metatags.ogp.image}}",
-        "Redirect": "{{$root.metatags.ogp.url}}",
-        "AbstractSource": "BS4",
-        "AbstractURL": "{{$root.metatags.ogp.url}}"
     },
     {
         "link": "https://hamburgsud-line.com",
@@ -180,6 +180,16 @@
         "AbstractURL": "https://popsop.com/"
     },
     {
+        "link": "https://miragefurnishings.com",
+        "Heading": "Mirage Modern Furnishings (Vacaville CA)\n    ",
+        "Abstract": "Mirage Modern Furnishings (Vacaville CA)",
+        "Official Site": "https://miragefurnishings.com/",
+        "Icon": "https://miragefurnishings.com/cdn/shop/files/Group-2-300x87_1204x630.png?v=1709829012",
+        "Redirect": "https://miragefurnishings.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://miragefurnishings.com/"
+    },
+    {
         "link": "https://datamother.com",
         "Heading": null,
         "Abstract": null,
@@ -228,6 +238,16 @@
         "Redirect": "https://chintaa.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chintaa.com/"
+    },
+    {
+        "link": "https://saltxo.com",
+        "Heading": "SALT.XO",
+        "Abstract": "Salt.xo",
+        "Official Site": "https://www.saltxo.com/",
+        "Icon": "http://www.saltxo.com/cdn/shop/files/Untitled_design-7.png?v=1713974018",
+        "Redirect": "https://www.saltxo.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.saltxo.com/"
     },
     {
         "link": "https://sparkasse-hegau-bodensee.de",

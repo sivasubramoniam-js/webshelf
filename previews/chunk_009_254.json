@@ -291,7 +291,7 @@
     },
     {
         "link": "https://cgbkam.ru",
-        "Heading": "172.182.224.162 07.06.2026 10:48:49",
+        "Heading": "52.173.162.97 08.06.2026 11:10:08",
         "Abstract": null,
         "Official Site": "https://cgbkam.ru",
         "Icon": "data:,",
@@ -310,6 +310,16 @@
         "AbstractURL": "https://www.itmedicalteam.pl/"
     },
     {
+        "link": "https://bbs-meppen.de",
+        "Heading": "Berufsbildende Schulen Meppen | BBS Meppen",
+        "Abstract": "Orientierung, Chancen, Zukunft \u2013 Entdecken Sie unsere Berufsschule, die praxisorientierte Bildung und modernste Lehrmethoden vereint, um Sch\u00fcler auf den Arbeitsmarkt vorzubereiten. Unsere erfahrenen Lehrkr\u00e4fte f\u00f6rdern individuelle Talente und unterst\u00fctzen den Weg zu einer erfolgreichen Karriere. ",
+        "Official Site": "https://www.bbs-meppen.de/",
+        "Icon": "https://www.bbs-meppen.de/templates/yootheme/cache/f1/3%20Foto-f169e8f7.jpeg",
+        "Redirect": "https://www.bbs-meppen.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bbs-meppen.de/"
+    },
+    {
         "link": "https://steinbach.com.tw",
         "Heading": "\u53f2\u5766\u5df4\u54c8\u4f01\u696d\u6709\u9650\u516c\u53f8",
         "Abstract": null,
@@ -318,15 +328,5 @@
         "Redirect": "https://steinbach.com.tw",
         "AbstractSource": "BS4",
         "AbstractURL": "https://steinbach.com.tw"
-    },
-    {
-        "link": "https://reachgroup.in",
-        "Heading": "Reach Group: Premier Real Estate Developer in Gurgaon",
-        "Abstract": "Reach Group a leading real estate developer in Gurgaon, specializing in premium properties. Trusted real estate developer in Gurgaon for top-tier projects",
-        "Official Site": "https://www.reachgroup.in",
-        "Icon": "https://reachgroup.in/images/reach-logo.svg",
-        "Redirect": "https://www.reachgroup.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.reachgroup.in"
     }
 ]

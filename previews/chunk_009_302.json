@@ -60,16 +60,6 @@
         "AbstractURL": "https://nmls.ru"
     },
     {
-        "link": "https://webqua.jp",
-        "Heading": "\u6b6f\u79d1\u885b\u751f\u58eb\u6c42\u4eba\u3001\u6b6f\u79d1\u533b\u5e2b\u6c42\u4eba\u30fb\u8ee2\u8077\u30fb\u5c02\u9580\u30b5\u30a4\u30c8\uff5c\u30af\u30aa\u30ad\u30e3\u30ea\u30a2",
-        "Abstract": "\u6b6f\u79d1\u885b\u751f\u58eb\u3001\u6b6f\u79d1\u533b\u5e2b\u306e\u6c42\u4eba\u3001\u8ee2\u8077\u60c5\u5831\u306a\u3089\u30af\u30aa\u30ad\u30e3\u30ea\u30a2\u3002\u6b6f\u79d1\u885b\u751f\u58eb\u306e\u65b0\u5352\u6c42\u4eba\u304b\u3089\u8ee2\u8077\u3001\u5fa9\u8077\u306e\u6c42\u4eba\u3002\u6b6f\u79d1\u533b\u5e2b\u306e\u81e8\u5e8a\u7814\u4fee\u533b\u306e\u5c31\u8077\u304b\u3089\u52e4\u52d9\u533b\u306e\u8ee2\u8077\u60c5\u5831\u3092\u63b2\u8f09\u4e2d\u3067\u3059\u3002\u6b6f\u79d1\u5c02\u9580\u3060\u304b\u3089\u3053\u305d\u306e\u6a5f\u80fd\u3067\u69d8\u3005\u306a\u6761\u4ef6\u3067\u63a2\u3059\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
-        "Official Site": "https://www.webqua.jp",
-        "Icon": "https://www.webqua.jp/img/common/ogimg.jpg",
-        "Redirect": "https://www.webqua.jp",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.webqua.jp"
-    },
-    {
         "link": "https://sqldbm.com",
         "Heading": "Data Architecture Platform for Enterprise Teams | SqlDBM",
         "Abstract": "SqlDBM is the context layer for AI-ready data architecture. Design, govern, and connect every layer of your data, from conceptual to semantic, in one collaborative platform",
@@ -78,16 +68,6 @@
         "Redirect": "https://sqldbm.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sqldbm.com/"
-    },
-    {
-        "link": "https://iamx.eu",
-        "Heading": "Iamx.eu",
-        "Abstract": "Home",
-        "Official Site": "https://iamx.eu",
-        "Icon": "N/A",
-        "Redirect": "https://iamx.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://iamx.eu"
     },
     {
         "link": "https://etre-belle.su",
@@ -118,16 +98,6 @@
         "Redirect": "https://bilimastana.kz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bilimastana.kz/"
-    },
-    {
-        "link": "https://globeinvestor.com",
-        "Heading": "Globe Investor - The Globe and Mail",
-        "Abstract": "Globe Investor offers the most current and up-to-date information on stocks and markets from The Globe and Mail. Find personal finance, mortgage, investment ideas, market information, and stock pick news and analysis from Canada and the world.",
-        "Official Site": "https://www.theglobeandmail.com/investing/",
-        "Icon": "https://www.theglobeandmail.com/pf/resources/assets/meta/favicon-32x32.png?d=913",
-        "Redirect": "https://www.theglobeandmail.com/investing/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.theglobeandmail.com/investing/"
     },
     {
         "link": "https://yidff.jp",
@@ -250,16 +220,6 @@
         "AbstractURL": "https://gulfnews.com/"
     },
     {
-        "link": "https://webactueel.nl",
-        "Heading": "Home | 12+ jaar ervaring | Webactueel [BEKIJK]",
-        "Abstract": "Home - Online groeien? Bewezen #1 online marketing bureau van Nederland. PLAN NU EEN GRATIS ADVIESGESPREK!",
-        "Official Site": "https://webactueel.nl/",
-        "Icon": "https://webactueel.nl/wp-content/uploads/2023/11/emerce.png",
-        "Redirect": "https://webactueel.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://webactueel.nl/"
-    },
-    {
         "link": "https://hjv.dk",
         "Heading": "Hjemmev\u00e6rnet - frivillig milit\u00e6r beredskabsorganisation",
         "Abstract": "Hjemmev\u00e6rnet er en frivillig milit\u00e6r beredskabsorganisation, som st\u00f8tter Forsvaret og det samlede beredskab. ",
@@ -308,6 +268,16 @@
         "Redirect": "https://livresennord.fr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://livresennord.fr"
+    },
+    {
+        "link": "https://pipers.ie",
+        "Heading": "Na P\u00edobair\u00ed Uilleann - Uilleann Pipes",
+        "Abstract": "Sharing the Sound of Ireland (the uilleann pipes) through providing classes in piping & pipemaking, practice instruments, hosting events & building the national & international community.",
+        "Official Site": "https://pipers.ie/",
+        "Icon": "https://pipers.ie/app/uploads/2026/03/NPU-Logo_PORTRAIT_Col.png",
+        "Redirect": "https://pipers.ie/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pipers.ie/"
     },
     {
         "link": "https://bistmart.com",

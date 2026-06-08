@@ -120,6 +120,16 @@
         "AbstractURL": "https://us.atgtickets.com/venues/kings-theatre-brooklyn/whats-on/"
     },
     {
+        "link": "https://lovelylittlekitchen.com",
+        "Heading": "Lovely Little Kitchen - Delicious Made Simple",
+        "Abstract": "Delicious Made Simple",
+        "Official Site": "https://lovelylittlekitchen.com/",
+        "Icon": "https://lovelylittlekitchen.com/manage/wp-content/themes/foodie/images/favicon.ico?x74093",
+        "Redirect": "https://lovelylittlekitchen.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lovelylittlekitchen.com/"
+    },
+    {
         "link": "https://sinnsucher.de",
         "Heading": "Weil Du wichtig bist! Unsere ONLINE-KURSE bringen Dich weiter. | Sinnsucher",
         "Abstract": "Video-Kurse & Coachings von namhaften Experten zu den Themen Psychologie, Pers\u00f6nlichkeitsentwicklung Achtsamkeit & Spiritualit\u00e4t. Mit Geld-Zur\u00fcck-Garantie!",
@@ -160,16 +170,6 @@
         "AbstractURL": "https://www.thewhiskybarrel.com/"
     },
     {
-        "link": "https://seokratie.de",
-        "Heading": "SEO Agentur Seokratie \u2013 Nachhaltige Rankings mit 16 Jahren Erfahrung",
-        "Abstract": "Premium SEO & Online Marketing aus M\u00fcnchen. Fachliche Kompetenz - H\u00f6chste Flexibilit\u00e4t - 100 %ige Zuverl\u00e4ssigkeit \u00bb Beginne jetzt Deine Erfolgsstory!",
-        "Official Site": "https://www.seokratie.de/",
-        "Icon": "https://www.seokratie.de/wp-content/uploads/2014/04/vistenkarte-kompr.jpg",
-        "Redirect": "https://www.seokratie.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.seokratie.de/"
-    },
-    {
         "link": "https://siriusserver.net",
         "Heading": null,
         "Abstract": null,
@@ -208,15 +208,5 @@
         "Redirect": "https://atmt-e-1.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://atmt-e-1.com"
-    },
-    {
-        "link": "https://esuperfund.com.au",
-        "Heading": "\n\tSelf Managed Super Funds | SMSF - ESUPERFUND\n",
-        "Abstract": "ESUPERFUND is a Self Managed Super Funds (SMSF) service provider in Australia and we are here to help you take back control of your Super with low fees.",
-        "Official Site": "https://esuperfund.com.au",
-        "Icon": "/Sitefinity/WebsiteTemplates/Esuperfund-theme2/App_Themes/Esuperfund-theme2/Icons/favicon.ico",
-        "Redirect": "https://esuperfund.com.au",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://esuperfund.com.au"
     }
 ]

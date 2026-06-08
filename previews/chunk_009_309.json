@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://noorinvestment.com",
-        "Heading": "Noor Investment",
-        "Abstract": "",
-        "Official Site": "https://noorinvestment.com",
-        "Icon": "https://noorinvestment.com/assets/img/core-img/favicon.ico",
-        "Redirect": "https://noorinvestment.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://noorinvestment.com"
-    },
-    {
         "link": "https://gpl-violations.org",
         "Heading": "The gpl-violations.org project | gpl-violations.org",
         "Abstract": "The gpl-violations.org project tries to raise public awareness about past and\npresent infringing use(r)s of GPL licensed software.\nThe ultimate goal is to make companies engaging in the distribution o",
@@ -28,16 +18,6 @@
         "Redirect": "https://pilkalokalna.pl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pilkalokalna.pl/"
-    },
-    {
-        "link": "https://kobe-nagasawa.co.jp",
-        "Heading": "\u30ca\u30ac\u30b5\u30ef\u6587\u5177\u30bb\u30f3\u30bf\u30fc",
-        "Abstract": "\u4e07\u5e74\u7b46\u30fb\u624b\u5e33\u30fb\u6587\u623f\u5177\u30fb\u30aa\u30d5\u30a3\u30b9\u7528\u54c1\u306e\u8ca9\u58f2",
-        "Official Site": "https://kobe-nagasawa.co.jp/",
-        "Icon": "https://kobe-nagasawa.co.jp/system/wp-content/uploads/2019/05/kobeink.jpg",
-        "Redirect": "https://kobe-nagasawa.co.jp/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kobe-nagasawa.co.jp/"
     },
     {
         "link": "https://wolsdorff.shop",
@@ -268,6 +248,16 @@
         "Redirect": "https://switchthink.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://switchthink.com"
+    },
+    {
+        "link": "https://cgatlas.cn",
+        "Heading": "CGATLAS-\u827a\u672f\u5bb6\u793e\u4ea4\u548c\u4f5c\u54c1\u96c6\u5e73\u53f0",
+        "Abstract": "CGATLAS\u662fCG\u7f8e\u672f\u8d44\u8baf\u548c\u8bbe\u8ba1\u4ea4\u4e92\u5f0f\u5c55\u793a\u5e73\u53f0\uff0c\u4e3a\u6c47\u805a\u4f18\u79c0\u8bbe\u8ba1\u4ece\u4e1a\u8005\uff0c\u63d0\u4f9b\u5c55\u793a\u9ad8\u5206\u8fa8\u7387\u56fe\u50cf\uff0c\u89c6\u9891\uff0c\u77ed\u7247\uff0c\u6559\u7a0b\u7b49\u5c55\u793a\u5e73\u53f0\uff0c\u63d0\u4f9b\u4f18\u8d28\u7d20\u6750\u8d44\u4ea7\u5e93\uff0c\u8ba9\u4f60\u7684\u521b\u4f5c\u66f4\u5bb9\u6613\uff01\u3002CGATLAS\u5b98\u7f51",
+        "Official Site": "https://cgatlas.cn",
+        "Icon": "./source/plugin/one_base/assets/media/logo/favicon.ico",
+        "Redirect": "https://cgatlas.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cgatlas.cn"
     },
     {
         "link": "https://chatforhookups.com",

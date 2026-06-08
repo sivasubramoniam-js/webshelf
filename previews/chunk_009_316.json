@@ -30,6 +30,16 @@
         "AbstractURL": "https://ivolta.pl//"
     },
     {
+        "link": "https://museumangewandtekunst.de",
+        "Heading": "Home / Museum Angewandte Kunst",
+        "Abstract": null,
+        "Official Site": "https://www.museumangewandtekunst.de/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.museumangewandtekunst.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.museumangewandtekunst.de/"
+    },
+    {
         "link": "https://terzisolla.com",
         "Heading": "Terzisolla",
         "Abstract": null,
@@ -78,6 +88,26 @@
         "Redirect": "https://www.brooklyngrangefarm.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.brooklyngrangefarm.com"
+    },
+    {
+        "link": "https://vigirupture.fr",
+        "Heading": "Vigirupture \u2013 Ne cherchez plus, trouvez",
+        "Abstract": null,
+        "Official Site": "https://vigirupture.fr",
+        "Icon": "https://www.vigirupture.fr/wp-content/uploads/2019/09/vigirupture-logo.jpg",
+        "Redirect": "https://vigirupture.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vigirupture.fr"
+    },
+    {
+        "link": "https://himachaltour.com",
+        "Heading": "shimla hotels, Hotels in Shimla, Shimla Tours, shimla manali tour packages, shimla tourism, shimla local sight seeing, shimla weather, Shimla Tour Packages, Shimla Himachal Pradesh",
+        "Abstract": null,
+        "Official Site": "https://himachaltour.com",
+        "Icon": "N/A",
+        "Redirect": "https://himachaltour.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://himachaltour.com"
     },
     {
         "link": "https://metallnp.ru",

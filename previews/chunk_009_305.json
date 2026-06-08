@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://att-dsa.biz",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://att-dsa.biz",
-        "Icon": "N/A",
-        "Redirect": "https://att-dsa.biz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://att-dsa.biz"
-    },
-    {
         "link": "https://dorelhome.com",
         "Heading": "Dorel Home - Furniture For Life's Every Moment",
         "Abstract": "Dore Home&#39;s official website. At Dorel Home, we&#39;re committed to providing unmatched value, making functional and stylish home design a reality for all.",
@@ -38,6 +28,16 @@
         "Redirect": "https://fasthosting-server.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fasthosting-server.com"
+    },
+    {
+        "link": "https://oled.com",
+        "Heading": "Universal Display Corporation - OLED Technology & Materials",
+        "Abstract": "Universal Display Corporation is a world leader in the invention, research, development and commercialization of state-of-the-art OLED technologies and materials",
+        "Official Site": "https://oled.com/",
+        "Icon": "https://oled.com/wp-content/uploads/2017/01/favicon.ico",
+        "Redirect": "https://oled.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oled.com/"
     },
     {
         "link": "https://sistemasrao.com.br",

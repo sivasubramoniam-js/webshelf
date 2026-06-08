@@ -20,6 +20,16 @@
         "AbstractURL": "https://etogetherness.com/"
     },
     {
+        "link": "https://sterling-adventures.co.uk",
+        "Heading": "Sterling Adventures",
+        "Abstract": null,
+        "Official Site": "https://www.sterling-adventures.co.uk/",
+        "Icon": "https://s0.wp.com/i/blank.jpg",
+        "Redirect": "https://www.sterling-adventures.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sterling-adventures.co.uk/"
+    },
+    {
         "link": "https://discounts70.com",
         "Heading": "Discounts70 | Save Big on Flights, Hotels & Car Rentals",
         "Abstract": "Find the best travel deals with Discounts70. Book affordable flights, hotels, and car rentals worldwide and enjoy exclusive discounts.",
@@ -41,7 +51,7 @@
     },
     {
         "link": "https://asimily.com",
-        "Heading": "Cyber Asset & Exposure Management Platform | IT, IoT, OT, IoMT | Asimily",
+        "Heading": "Cyber Asset & Exposure Management Platform | IT, IoT\u2026 - Asimily",
         "Abstract": "Asimily is the leading top-rated IT, IoT, OT & IoMT exposure management platform enabling Visibility, Vulnerability Prioritization, Risk Mitigation, Threat & Response, & GRC.",
         "Official Site": "https://asimily.com/",
         "Icon": "https://asimily.com/wp-content/uploads/2023/09/favicon.ico",
@@ -118,16 +128,6 @@
         "Redirect": "https://planete-sonic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://planete-sonic.com"
-    },
-    {
-        "link": "https://legal-reg.site",
-        "Heading": "legal-reg.site\u00a0-\u00a0legal reg Resources and Information.",
-        "Abstract": "legal-reg.site is your first and best source for information about legal reg. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
-        "Official Site": "https://legal-reg.site",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://legal-reg.site",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://legal-reg.site"
     },
     {
         "link": "https://shuziqushi.com",
@@ -218,15 +218,5 @@
         "Redirect": "https://urbancultureonline.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://urbancultureonline.com/"
-    },
-    {
-        "link": "https://myramsons.in",
-        "Heading": "Ramsons \u2013 Traditional Kerala Sarees, Dhotis & Ethnic Wear",
-        "Abstract": "Discover Ramsons collection of authentic Kerala sarees, elegant kasavu sarees & dhotis. Perfect for weddings, festivals, and cultural celebrations.",
-        "Official Site": "https://myramsons.in/",
-        "Icon": "https://myramsons.in/wp-content/uploads/2025/08/cropped-Ramsons-Favicon-32x32.png",
-        "Redirect": "https://myramsons.in/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://myramsons.in/"
     }
 ]

@@ -110,21 +110,11 @@
         "AbstractURL": "https://viraatlabs.com"
     },
     {
-        "link": "https://havtech.com",
-        "Heading": "Trusted Commercial HVAC Solutions | Havtech",
-        "Abstract": "Trusted commercial HVAC experts providing full lifecycle support and HVAC solutions across the Mid-Atlantic.",
-        "Official Site": "https://www.havtech.com/",
-        "Icon": "https://www.havtech.com/wp-content/uploads/2025/11/technician-consultant-rooftop-B-1024-85.webp",
-        "Redirect": "https://www.havtech.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.havtech.com/"
-    },
-    {
         "link": "https://leukermeer.nl",
-        "Heading": "Vakantieresort in Limburg \u26f5\ufe0f | Leukermeer",
-        "Abstract": "Bij Vakantie & Resort Leukermeer ben je bij voorbaat verzekerd van een geslaagde vakantie! Komt u ook? Ontdek onze accommodaties en kampeerplekken!",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://leukermeer.nl",
-        "Icon": "https://cdn-cms.bookingexperts.com/media/3639/68/optimized.jpg",
+        "Icon": "N/A",
         "Redirect": "https://leukermeer.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://leukermeer.nl"
@@ -142,22 +132,12 @@
     {
         "link": "https://locateventsnow.com",
         "Heading": "Search - Microsoft Bing",
-        "Abstract": "Since opening its doors in 1976, the Atlanta Botan",
-        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260607_0700&mkt=en-US",
-        "Icon": "https://www.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_tmb.jpg&rf=",
-        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260607_0700&mkt=en-US",
+        "Abstract": "Today is World Oceans Day, so follow the lead of a",
+        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260608_0700&mkt=en-US",
+        "Icon": "https://www.bing.com/th?id=OHR.Cyanea_EN-US1146473249_tmb.jpg&rf=",
+        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260608_0700&mkt=en-US",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260607_0700&mkt=en-US"
-    },
-    {
-        "link": "https://alliances.ru",
-        "Heading": "\u0410\u043b\u044c\u044f\u043d\u0441\u044b.\u0440\u0443 - \u0432\u0438\u0434\u044b \u0438 \u043f\u0440\u0435\u0438\u043c\u0443\u0449\u0435\u0441\u0442\u0432\u0430 \u0430\u043b\u044c\u044f\u043d\u0441\u043e\u0432 ",
-        "Abstract": "\u0425\u043e\u0447\u0435\u0448\u044c \u0443\u0437\u043d\u0430\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u043e \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0438 \u0438 \u0440\u043e\u043b\u0438 \u0430\u043b\u044c\u044f\u043d\u0441\u043e\u0432 \u0432 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u043c \u043c\u0438\u0440\u0435? \u0422\u043e\u0433\u0434\u0430 \u0442\u0435\u0431\u0435 \u0441\u044e\u0434\u0430! \u0423\u0437\u043d\u0430\u0439 \u0432\u0441\u0435 \u043e \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0435, \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0435\u043d\u043d\u043e\u0441\u0442\u044f\u0445 \u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044f\u0445 \u0430\u043b\u044c\u044f\u043d\u0441\u043e\u0432 \u043f\u0440\u044f\u043c\u043e \u0441\u0435\u0439\u0447\u0430\u0441!",
-        "Official Site": "https://alliances.ru",
-        "Icon": "https://alliances.ru/favicon/265695-3.ico",
-        "Redirect": "https://alliances.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://alliances.ru"
+        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260608_0700&mkt=en-US"
     },
     {
         "link": "https://rafaelbarbosatec.com",
@@ -248,15 +228,5 @@
         "Redirect": "https://zwia.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zwia.org/"
-    },
-    {
-        "link": "https://osnatel.de",
-        "Heading": "Internet, Mobilfunk & Service bei osnatel",
-        "Abstract": "DSL und Glasfaser, Handytarife, Smartphones, Tablets und Energie: Nutze Produkte, Angebote und Services von osnatel.",
-        "Official Site": "https://www.osnatel.de/",
-        "Icon": "N/A",
-        "Redirect": "https://www.osnatel.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.osnatel.de/"
     }
 ]

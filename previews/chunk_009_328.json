@@ -150,16 +150,6 @@
         "AbstractURL": "https://arenda-ekskavatora-pogruzchika-6.ru"
     },
     {
-        "link": "https://insky.be",
-        "Heading": "Welcome to DIGI - the fair telecom operator",
-        "Abstract": "Welcome to DIGI, your reliable telecom operator. Discover our extensive range of internet, television, telephony, and mobile services. With DIGI, you're always connected, wherever you are. Explore our packages and find the perfect solution for your needs.",
-        "Official Site": "https://insky.be",
-        "Icon": "/favicon-48x48.png",
-        "Redirect": "https://insky.be",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://insky.be"
-    },
-    {
         "link": "https://conciliacionlaley.pe",
         "Heading": "Inicio - La Ley | Centro de Conciliaci\u00f3n",
         "Abstract": "Es la disoluci\u00f3n del v\u00ednculo matrimonial, se realiza mediante el acuerdo de ambas c\u00f3nyuges, que puede llevarse a cabo mediante una solicitud dirigida a la Municipalidad el ultimo domicilio conyugal o mediante Notario Publico",
@@ -168,6 +158,16 @@
         "Redirect": "https://conciliacionlaley.pe/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://conciliacionlaley.pe/"
+    },
+    {
+        "link": "https://jfsdigital.org",
+        "Heading": "Homepage * Journal of Futures Studies",
+        "Abstract": null,
+        "Official Site": "https://jfsdigital.org/",
+        "Icon": "https://i0.wp.com/jfsdigital.org/wp-content/uploads/2018/08/cropped-favicon-1024.png?fit=32%2C32&ssl=1",
+        "Redirect": "https://jfsdigital.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jfsdigital.org/"
     },
     {
         "link": "https://pukzh.ch",
@@ -190,16 +190,6 @@
         "AbstractURL": "https://voltsbattery.com"
     },
     {
-        "link": "https://cousins.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://cousins.com",
-        "Icon": "/favicon.png",
-        "Redirect": "https://cousins.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cousins.com"
-    },
-    {
         "link": "https://omniaad.com",
         "Heading": "Omnia Advisory \u2013 Firma de consultor\u00eda y auditor\u00eda",
         "Abstract": "Firma de consultor\u00eda y auditor\u00eda",
@@ -208,16 +198,6 @@
         "Redirect": "https://omniaad.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://omniaad.com"
-    },
-    {
-        "link": "https://tvparadies.net",
-        "Heading": "TVParadies.net - Die Welt der TV und Film Foren",
-        "Abstract": null,
-        "Official Site": "https://tvparadies.net",
-        "Icon": "N/A",
-        "Redirect": "https://tvparadies.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tvparadies.net"
     },
     {
         "link": "https://beinmatchlive.com",

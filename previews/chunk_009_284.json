@@ -10,16 +10,6 @@
         "AbstractURL": "https://en.toplivegirls.com/"
     },
     {
-        "link": "https://octogon.hu",
-        "Heading": "Octogon",
-        "Abstract": "",
-        "Official Site": "https://www.octogon.hu/",
-        "Icon": "https://www.octogon.hu/theme-20261/img/share-octogon-540.jpg",
-        "Redirect": "https://www.octogon.hu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.octogon.hu/"
-    },
-    {
         "link": "https://w3logistics.com",
         "Heading": "Softwarel\u00f6sungen f\u00fcr Ihre Logistik - w3logistics - w3logistics AG",
         "Abstract": null,
@@ -80,6 +70,16 @@
         "AbstractURL": "https://TOPZO"
     },
     {
+        "link": "https://98gk.com",
+        "Heading": "\u5149\u5f71\u5929\u5802_\u7535\u5f71\u5929\u5802\u7684\u5168\u65b0\u5347\u7ea7\u7248",
+        "Abstract": "\u5149\u5f71\u5929\u5802\u6c47\u805a\u5168\u7403\u70ed\u95e8\u5f71\u89c6\uff0c\u6d77\u91cf\u8d44\u6e90\u514d\u8d39\u770b\uff0c\u5e26\u4f60\u7545\u6e38\u5c5e\u4e8e\u5f71\u8ff7\u7684\u4e50\u56ed\u3002",
+        "Official Site": "https://98gk.com",
+        "Icon": "/statics/img/favicon.ico",
+        "Redirect": "https://98gk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://98gk.com"
+    },
+    {
         "link": "https://86gamestore.com",
         "Heading": "CHATGPT PLUS \u5145\u503c",
         "Abstract": null,
@@ -88,16 +88,6 @@
         "Redirect": "https://86gamestore.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://86gamestore.com"
-    },
-    {
-        "link": "https://aqsyby.com",
-        "Heading": "\u5728\u7ebf\u89c2\u770b\u7f51\u7ad9\u56fd\u4ea7\u4f60\u61c2\u7684,\u65e5\u97e9av\u798f\u5229\u5728\u7ebf\u89c2\u770b\u514d\u8d39,\u4e00\u672c\u8272\u9053\u4e45\u4e45\u7efc\u5408\u7cbe\u54c1,\u4e45\u4e45\u4e45\u56fd\u4ea7\u7cbe\u54c191,\u5348\u591c\u7f8e\u5973\u5728\u7ebf\u514d\u8d39\u89c6\u9891\u770b\u770b,97\u4eba\u59bb\u4eba\u4eba\u505a\u4eba\u78b0\u4eba\u4eba,\u6b27\u7f8e\u5728\u7ebf\u89c2\u6210\u5168\u7535\u5f71\u5927\u5168\u5728\u7ebf\u89c2\u770b\u56fd\u8bed\u7248,\u6210\u5168\u7535\u5f71\u5927\u5168\u5728\u7ebf\u89c2\u770b\u56fd\u8bed\u7248\u9ad8\u6e05,\u6210\u5168\u5f71\u89c6\u5927\u5168\u5728\u7ebf\u89c2\u770b,\u6210\u5168\u5f71\u89c6\u5728\u7ebf\u89c2\u770b\u7b2c6\u5b63,\u6210\u5168\u52a8\u6f2b\u5728\u7ebf\u89c2\u770b\u66f4\u65b0\u65f6\u95f4,\u6210\u5168\u514d\u8d39\u9ad8\u6e05\u89c2\u770b\u5728\u7ebf\u7535\u89c6\u5267,\u6210\u5168\u9ad8\u6e05\u5728\u7ebf\u64ad\u653e\u7535\u89c6\u5267,\u6210\u5168\u5728\u7ebf\u89c2\u770b\u514d\u8d39\u5b8c\u6574\u7248-\u8d85\u7ea7\u5973\u6559\u5e082\u514d\u8d39\u5b8c\u6574\u7248\u7535\u89c6\u5267",
-        "Abstract": "\u5728\u7ebf\u89c2\u770b\u7f51\u7ad9\u56fd\u4ea7\u4f60\u61c2\u7684,\u65e5\u97e9av\u798f\u5229\u5728\u7ebf\u89c2\u770b\u514d\u8d39,\u4e00\u672c\u8272\u9053\u4e45\u4e45\u7efc\u5408\u7cbe\u54c1,\u4e45\u4e45\u4e45\u56fd\u4ea7\u7cbe\u54c191,\u5348\u591c\u7f8e\u5973\u5728\u7ebf\u514d\u8d39\u89c6\u9891\u770b\u770b,97\u4eba\u59bb\u4eba\u4eba\u505a\u4eba\u78b0\u4eba\u4eba,\u6b27\u7f8e\u5728\u7ebf\u89c2\u6210\u5168\u7535\u5f71\u5927\u5168\u5728\u7ebf\u89c2\u770b\u56fd\u8bed\u7248,\u6210\u5168\u7535\u5f71\u5927\u5168\u5728\u7ebf\u89c2\u770b\u56fd\u8bed\u7248\u9ad8\u6e05,\u6210\u5168\u5f71\u89c6\u5927\u5168\u5728\u7ebf\u89c2\u770b,\u6210\u5168\u5f71\u89c6\u5728\u7ebf\u89c2\u770b\u7b2c6\u5b63,\u6210\u5168\u52a8\u6f2b\u5728\u7ebf\u89c2\u770b\u66f4\u65b0\u65f6\u95f4,\u6210\u5168\u514d\u8d39\u9ad8\u6e05\u89c2\u770b\u5728\u7ebf\u7535\u89c6\u5267,\u6210\u5168\u9ad8\u6e05\u5728\u7ebf\u64ad\u653e\u7535\u89c6\u5267,\u6210\u5168\u5728\u7ebf\u89c2\u770b\u514d\u8d39\u5b8c\u6574\u7248-\u8d85\u7ea7\u5973\u6559\u5e082\u514d\u8d39\u5b8c\u6574\u7248\u7535\u89c6\u5267-\u6a31\u6843\u89c6\u9891\u5728\u7ebf\u89c2\u770b\u89c6\u9891tv-\u871c\u6843\u6210\u719f\u65f6\u7535\u5f71",
-        "Official Site": "https://aqsyby.com",
-        "Icon": "/staticmy/images/favicon.ico",
-        "Redirect": "https://aqsyby.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aqsyby.com"
     },
     {
         "link": "https://asdforum.ru",
@@ -110,44 +100,14 @@
         "AbstractURL": "https://asdforum.ru"
     },
     {
-        "link": "https://cg-snt-quickq.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://cg-snt-quickq.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://cg-snt-quickq.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cg-snt-quickq.com.cn"
-    },
-    {
-        "link": "https://ck-vhd-quickq.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ck-vhd-quickq.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://ck-vhd-quickq.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ck-vhd-quickq.com.cn"
-    },
-    {
         "link": "https://colaos.ai",
         "Heading": "ColaOS \u2014 The First OS With Soul",
-        "Abstract": "One AI that runs your computer, adapts to any role, and connects to everything. She remembers you, understands you, and gets things done.",
+        "Abstract": "Cola lives on your computer, remembers who you are, and grows with you over time. She doesn't just assist \u2014 she acts.",
         "Official Site": "https://colaos.ai",
         "Icon": "https://colaos.ai/og.png",
         "Redirect": "https://colaos.ai",
         "AbstractSource": "BS4",
         "AbstractURL": "https://colaos.ai"
-    },
-    {
-        "link": "https://gw-youdao.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://gw-youdao.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://gw-youdao.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gw-youdao.com.cn"
     },
     {
         "link": "https://hikokipowertoolsdirect.com",
@@ -160,16 +120,6 @@
         "AbstractURL": "https://hikokipowertoolsdirect.com/"
     },
     {
-        "link": "https://hz-fqr-quickq.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://hz-fqr-quickq.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://hz-fqr-quickq.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hz-fqr-quickq.com.cn"
-    },
-    {
         "link": "https://imtoken-bqs.com.cn",
         "Heading": null,
         "Abstract": null,
@@ -178,36 +128,6 @@
         "Redirect": "https://imtoken-bqs.com.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://imtoken-bqs.com.cn"
-    },
-    {
-        "link": "https://imtoken-clp.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://imtoken-clp.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://imtoken-clp.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://imtoken-clp.com.cn"
-    },
-    {
-        "link": "https://imtoken-gnt.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://imtoken-gnt.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://imtoken-gnt.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://imtoken-gnt.com.cn"
-    },
-    {
-        "link": "https://imtoken-hmr.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://imtoken-hmr.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://imtoken-hmr.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://imtoken-hmr.com.cn"
     },
     {
         "link": "https://imtoken-lmt.com.cn",
@@ -220,46 +140,6 @@
         "AbstractURL": "https://imtoken-lmt.com.cn"
     },
     {
-        "link": "https://imtoken-plw.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://imtoken-plw.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://imtoken-plw.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://imtoken-plw.com.cn"
-    },
-    {
-        "link": "https://imtoken-skl.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://imtoken-skl.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://imtoken-skl.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://imtoken-skl.com.cn"
-    },
-    {
-        "link": "https://imtoken-vjr.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://imtoken-vjr.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://imtoken-vjr.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://imtoken-vjr.com.cn"
-    },
-    {
-        "link": "https://imtoken-xqm.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://imtoken-xqm.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://imtoken-xqm.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://imtoken-xqm.com.cn"
-    },
-    {
         "link": "https://jarsia.jp",
         "Heading": "\u65e5\u672c\u30ed\u30dc\u30c3\u30c8\u30b7\u30b9\u30c6\u30e0\u30a4\u30f3\u30c6\u30b0\u30ec\u30fc\u30bf\u5354\u4f1a\uff08SIer\u5354\u4f1a\uff09",
         "Abstract": "",
@@ -270,16 +150,6 @@
         "AbstractURL": "https://jarsia.jp"
     },
     {
-        "link": "https://jiashuqikuailian.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://jiashuqikuailian.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://jiashuqikuailian.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jiashuqikuailian.com.cn"
-    },
-    {
         "link": "https://juicepresso.kr",
         "Heading": "Access blocking country info",
         "Abstract": null,
@@ -288,25 +158,5 @@
         "Redirect": "https://juicepresso.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://juicepresso.kr"
-    },
-    {
-        "link": "https://kauilianvpn.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://kauilianvpn.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://kauilianvpn.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kauilianvpn.com.cn"
-    },
-    {
-        "link": "https://kuailianapp-cn.com.cn",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://kuailianapp-cn.com.cn",
-        "Icon": "N/A",
-        "Redirect": "https://kuailianapp-cn.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kuailianapp-cn.com.cn"
     }
 ]
