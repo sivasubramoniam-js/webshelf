@@ -60,6 +60,16 @@
         "AbstractURL": "https://xplorer.rugby/index"
     },
     {
+        "link": "https://tech-wiki.net",
+        "Heading": "Tech-Wiki",
+        "Abstract": null,
+        "Official Site": "https://tech-wiki.net",
+        "Icon": "/logo/favicon.ico",
+        "Redirect": "https://tech-wiki.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tech-wiki.net"
+    },
+    {
         "link": "https://ycrsoft.com",
         "Heading": "YcrSOFT \u0130nternet Teknolojileri | Hosting | Sunucu | Web Sitesi | SSL | SEO",
         "Abstract": "YcrSOFT,web tasar\u0131m s\u00fcrekli destek ile hosting, alan ad\u0131 tescili, sunucu ve SSL hizmetleri sa\u011flamaktad\u0131r.",
@@ -108,6 +118,16 @@
         "Redirect": "https://altademoblog.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://altademoblog.com"
+    },
+    {
+        "link": "https://iowasbdc.org",
+        "Heading": "- Iowa SBDC",
+        "Abstract": "The Iowa Small Business Development Center provides no-cost business advice and resources when growing or starting a business in Iowa.",
+        "Official Site": "https://iowasbdc.org",
+        "Icon": "https://iowasbdc.org/wp-content/uploads/2021/06/star-removebg-preview-1-1-1-150x150.png",
+        "Redirect": "https://iowasbdc.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iowasbdc.org"
     },
     {
         "link": "https://trestires.com",
@@ -201,13 +221,13 @@
     },
     {
         "link": "https://optimalegezondheid.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://optimalegezondheid.com",
-        "Icon": "data:;",
-        "Redirect": "https://optimalegezondheid.com",
+        "Heading": "Optimale Gezondheid",
+        "Abstract": "Optimale Gezondheid \u2014 praktische, wetenschappelijk onderbouwde gezondheidsinformatie voor elke dag.",
+        "Official Site": "https://www.optimalegezondheid.com/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.optimalegezondheid.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://optimalegezondheid.com"
+        "AbstractURL": "https://www.optimalegezondheid.com/"
     },
     {
         "link": "https://hvoptics.com",
@@ -218,16 +238,6 @@
         "Redirect": "https://hvoptics.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hvoptics.com/"
-    },
-    {
-        "link": "https://eventgift.net",
-        "Heading": "Corporate Gifts Dubai | Luxury Corporate Gift Suppliers UAE - Eventgift",
-        "Abstract": "Order premium Corporate gift, promotional gifts, giveaways in Dubai, UAE, Europe, Qatar, and all countries, catalogues, quick quotes, big stock volume.",
-        "Official Site": "https://eventgift.net/",
-        "Icon": "https://eventgift.net/wp-content/uploads/2026/01/WEB-BANNER-2026-a2.jpg",
-        "Redirect": "https://eventgift.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eventgift.net/"
     },
     {
         "link": "https://kongstudios.net",

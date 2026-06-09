@@ -83,11 +83,11 @@
         "link": "https://svetodom.ru",
         "Heading": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043b\u044e\u0441\u0442\u0440 \u0438 \u0441\u0432\u0435\u0442\u0438\u043b\u044c\u043d\u0438\u043a\u043e\u0432: \u043a\u0443\u043f\u0438\u0442\u044c \u0441\u0432\u0435\u0442\u0438\u043b\u044c\u043d\u0438\u043a\u0438 \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439",
         "Abstract": "\u0412 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u043b\u044e\u0441\u0442\u0440 \u0438 \u0441\u0432\u0435\u0442\u0438\u043b\u044c\u043d\u0438\u043a\u043e\u0432 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043e \u0431\u043e\u043b\u0435\u0435 50 000 \u043c\u043e\u0434\u0435\u043b\u0435\u0439 \u043b\u044e\u0441\u0442\u0440, \u0441\u0432\u0435\u0442\u0438\u043b\u044c\u043d\u0438\u043a\u043e\u0432 \u0438 \u0441\u043e\u043f\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0442\u043e\u0432\u0430\u0440\u043e\u0432, \u0443 \u043d\u0430\u0441: &#10004; \u0432\u044b\u0433\u043e\u0434\u043d\u044b\u0435 \u0446\u0435\u043d\u044b &#10004; \u0432\u044b\u0441\u043e\u043a\u043e\u0435 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e &#10004; \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438, \u0437\u0432\u043e\u043d\u0438\u0442\u0435 &#9743; 8 (800) 555-40-14. ",
-        "Official Site": "https://www.svetodom.ru/",
-        "Icon": "https://www.svetodom.ru/images/logo_2025.png",
-        "Redirect": "https://www.svetodom.ru/",
+        "Official Site": "https://svetodom.ru",
+        "Icon": "N/A",
+        "Redirect": "https://svetodom.ru",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.svetodom.ru/"
+        "AbstractURL": "https://svetodom.ru"
     },
     {
         "link": "https://idautomation.com",
@@ -161,10 +161,10 @@
     },
     {
         "link": "https://praguest.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "The best of Prague",
+        "Abstract": "Discover Prague's best events calendar with live concerts, festivals, and cultural shows. Plan your visit and never miss a thing happening in Prague.",
         "Official Site": "https://praguest.com",
-        "Icon": "data:;",
+        "Icon": "/images/favicon.ico",
         "Redirect": "https://praguest.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://praguest.com"
@@ -261,13 +261,13 @@
     },
     {
         "link": "https://jodafilmes.com",
-        "Heading": "Pobreflix - HD FREE Online, Assistir Filmes Online, Series Online, Animes Online",
+        "Heading": "Pobreflix - HD Online FREE, Assistir Filmes Online, Series Online, Animes Online",
         "Abstract": "Assista filmes e s\u00e9ries online gratis no Pobreflix HD. Encontre lan\u00e7amentos, cl\u00e1ssicos e seus t\u00edtulos favoritos com qualidade HD sem travamentos.",
-        "Official Site": "https://zonafilmesonline.com/",
-        "Icon": "https://zonafilmesonline.com/images/cover.jpg",
-        "Redirect": "https://zonafilmesonline.com/",
+        "Official Site": "https://yesfilmesgratis.com/",
+        "Icon": "https://yesfilmesgratis.com/images/cover.jpg",
+        "Redirect": "https://yesfilmesgratis.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://zonafilmesonline.com/"
+        "AbstractURL": "https://yesfilmesgratis.com/"
     },
     {
         "link": "https://topfx.com",
@@ -278,6 +278,16 @@
         "Redirect": "https://topfx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://topfx.com"
+    },
+    {
+        "link": "https://netexsoftware.com",
+        "Heading": "Netex Software | A Leading Technology Solutions Provider",
+        "Abstract": null,
+        "Official Site": "https://netexsoftware.com",
+        "Icon": "//netexsoftware.com/wp-content/uploads/2015/01/favicon.ico",
+        "Redirect": "https://netexsoftware.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://netexsoftware.com"
     },
     {
         "link": "https://javanetsystems.com",
@@ -308,5 +318,15 @@
         "Redirect": "https://andyweirauthor.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://andyweirauthor.com"
+    },
+    {
+        "link": "https://jolie-bobine.fr",
+        "Heading": "Accueil -",
+        "Abstract": "D\u00e9couvrez Jolie Bobine, votre blog d\u00e9di\u00e9 \u00e0 l'inspiration : sant\u00e9, lifestyle, maison, cin\u00e9ma, mode et l'univers de l'entreprise pour enrichir votre quotidien !",
+        "Official Site": "https://www.jolie-bobine.fr",
+        "Icon": "https://www.jolie-bobine.fr/wp-content/uploads/2024/11/cropped-cropped-JOLIE-BOBINE-logo-noir-tipo.png",
+        "Redirect": "https://www.jolie-bobine.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.jolie-bobine.fr"
     }
 ]

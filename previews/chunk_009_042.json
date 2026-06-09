@@ -60,6 +60,16 @@
         "AbstractURL": "https://www.superlist.com/"
     },
     {
+        "link": "https://novezamky.sk",
+        "Heading": "Nov\u00e9 Z\u00e1mky: Titulka",
+        "Abstract": null,
+        "Official Site": "https://novezamky.sk",
+        "Icon": "/html/images/icons/favicon-32x32.png",
+        "Redirect": "https://novezamky.sk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://novezamky.sk"
+    },
+    {
         "link": "https://watchenglish.tv",
         "Heading": "WatchEnglish - \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u043f\u043e \u0444\u0438\u043b\u044c\u043c\u0430\u043c",
         "Abstract": null,
@@ -190,6 +200,16 @@
         "AbstractURL": "https://keyboard-layout-editor.com"
     },
     {
+        "link": "https://sey.fi",
+        "Heading": "SEY Suomen el\u00e4insuojelu - El\u00e4inten puolella!",
+        "Abstract": "Suomen suurin el\u00e4insuojeluj\u00e4rjest\u00f6 ja el\u00e4insuojelun asiantuntija. El\u00e4inten asialla jo yli sadan vuoden ajan.",
+        "Official Site": "https://sey.fi/",
+        "Icon": "https://sey.fi/wp-content/uploads/2024/08/sey-logo-link-preview.png",
+        "Redirect": "https://sey.fi/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sey.fi/"
+    },
+    {
         "link": "https://grechofiberglass.com",
         "Heading": "Fiberglass, Glassfiber, Fiber Glass - GRECHO",
         "Abstract": "GRECHO as a leading marketer of providing premium quality glass fiber material, fiberglass products and non-woven for commercial, industrial and residential applications etc.",
@@ -218,6 +238,26 @@
         "Redirect": "https://cameotv.cc",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cameotv.cc"
+    },
+    {
+        "link": "https://otstcfq.org",
+        "Heading": "- OTSTCFQ | Ordre des travailleurs sociaux et des th\u00e9rapeutes conjugaux et familiaux du Qu\u00e9bec.",
+        "Abstract": "L'Ordre des travailleurs sociaux et des th\u00e9rapeutes conjugaux et familiaux du Qu\u00e9bec encadre et surveille deux professions et s\u2019assure que des services de qualit\u00e9 soient dispens\u00e9s \u00e0 la population qu\u00e9b\u00e9coise par ses membres.",
+        "Official Site": "https://www.otstcfq.org/",
+        "Icon": "https://www.otstcfq.org/wp-content/themes/otstcfq/assets/img/image-partage.jpg",
+        "Redirect": "https://www.otstcfq.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.otstcfq.org/"
+    },
+    {
+        "link": "https://spryservers.com",
+        "Heading": "Mana Fusion",
+        "Abstract": null,
+        "Official Site": "https://spryservers.com",
+        "Icon": "N/A",
+        "Redirect": "https://spryservers.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://spryservers.com"
     },
     {
         "link": "https://smart-q.de",
@@ -270,6 +310,26 @@
         "AbstractURL": "https://www.boottotaal.nl/?source=facebook"
     },
     {
+        "link": "https://walkerdesigns.com.au",
+        "Heading": "Walker Designs | Launceston Creative Agency - Walker Designs",
+        "Abstract": "Discover Walker Designs, a Launceston creative agency delivering purposeful solutions through strategy and innovation.",
+        "Official Site": "https://walkerdesigns.com.au/",
+        "Icon": "https://walkerdesigns.com.au/volumes/images/_1200x630_crop_center-center_none/WD-Logo-RGB-Stacked.png",
+        "Redirect": "https://walkerdesigns.com.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://walkerdesigns.com.au/"
+    },
+    {
+        "link": "https://didactum.fr",
+        "Heading": "Didactum Formation professionnelle, active learning hyper-adapt\u00e9",
+        "Abstract": "Avec Didactum, entrez dans une nouvelle dimension de l\u2019\u00e9mancipation professionnelle pour prot\u00e9ger votre entreprise et son offre de formation",
+        "Official Site": "https://didactum.fr/",
+        "Icon": "https://didactum.fr/wp-content/uploads/2022/09/Organisme-de-formation.jpg",
+        "Redirect": "https://didactum.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://didactum.fr/"
+    },
+    {
         "link": "https://chefsbliss.com",
         "Heading": "ChefsBliss \u2013 Cook-Share-Celebrate",
         "Abstract": null,
@@ -308,15 +368,5 @@
         "Redirect": "https://gruppenreisen.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gruppenreisen.com"
-    },
-    {
-        "link": "https://bcg-mirrors.com",
-        "Heading": "BC Game Mirror \u2013 BC Game Mirror List 2026",
-        "Abstract": "BC Game mirror sites provide secure access to the platform when blocked. View the BC Game mirror list in 2026 for trusted links to keep playing safely.",
-        "Official Site": "https://bcg-mirrors.com/",
-        "Icon": "https://bcg-mirrors.com/wp-content/uploads/2025/07/bc-game-bc-app-mirrors.png",
-        "Redirect": "https://bcg-mirrors.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bcg-mirrors.com/"
     }
 ]

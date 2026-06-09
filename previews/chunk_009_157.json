@@ -21,10 +21,10 @@
     },
     {
         "link": "https://harvardsquarelibrary.org",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Harvard Square Library | a digital library of Unitarian Universalism and religious liberalismHarvard Square Library",
+        "Abstract": "Harvard Square Library is a digital library that features biographies, books, historical documents, and other materials about Unitarian Universalism and religious liberalism. We provide these materials free of charge to an audience of Unitarian Universalist congregations, ministers, members, and friends, as well as theological students, scholarly researchers, and other site visitors from around the world.",
         "Official Site": "https://harvardsquarelibrary.org",
-        "Icon": "data:;",
+        "Icon": "N/A",
         "Redirect": "https://harvardsquarelibrary.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://harvardsquarelibrary.org"
@@ -58,6 +58,26 @@
         "Redirect": "https://mutualia.fr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mutualia.fr"
+    },
+    {
+        "link": "https://tanjasteinbach.de",
+        "Heading": "Tanja Steinbach \u2013 strickt, h\u00e4kelt, n\u00e4ht \u2026 \u00fcberall, auch im TV",
+        "Abstract": null,
+        "Official Site": "https://tanjasteinbach.de",
+        "Icon": "https://i0.wp.com/www.tanjasteinbach.de/wp-content/uploads/2023/01/cropped-favicon-tanja-steinbach-v02.png?fit=32%2C32&ssl=1",
+        "Redirect": "https://tanjasteinbach.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tanjasteinbach.de"
+    },
+    {
+        "link": "https://climategate.nl",
+        "Heading": "Climategate Klimaat \u2013 Onthullend over natuur milieu wetenschap energie en economie",
+        "Abstract": null,
+        "Official Site": "https://www.climategate.nl/",
+        "Icon": "https://www.climategate.nl/wp-content/uploads/2020/03/Climategate-Klimaat.png",
+        "Redirect": "https://www.climategate.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.climategate.nl/"
     },
     {
         "link": "https://adsdms.mk",
@@ -118,6 +138,16 @@
         "Redirect": "https://apkmedya.tr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://apkmedya.tr/"
+    },
+    {
+        "link": "https://godoiceland.com",
+        "Heading": "Home - Godoiceland",
+        "Abstract": "Stay ahead with smart tax strategies, the latest cryptocurrency news, and insights into the trends shaping Gen Z\u2019s financial future",
+        "Official Site": "https://godoiceland.com/",
+        "Icon": "https://godoiceland.com/wp-content/uploads/2025/05/Electric-Blue-Gradient-Cube-Modern-Company-Business-Technology-Logo-1-150x150.png",
+        "Redirect": "https://godoiceland.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://godoiceland.com/"
     },
     {
         "link": "https://theworkathomewife.com",
@@ -188,6 +218,16 @@
         "Redirect": "https://musicxray.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://musicxray.com/"
+    },
+    {
+        "link": "https://kftv.com",
+        "Heading": "Film, TV & Commercials Production Companies and Services Directory | Screen Global Production",
+        "Abstract": "The global guide to the most innovative and professional film, television and commercial production services companies, latest production news and in-depth features. Formerly KFTV",
+        "Official Site": "https://kftv.com",
+        "Icon": "/ScreenGP_Favicon.jpg",
+        "Redirect": "https://kftv.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kftv.com"
     },
     {
         "link": "https://tuxexpert.com",

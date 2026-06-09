@@ -81,13 +81,23 @@
     },
     {
         "link": "https://ntoa.org",
-        "Heading": null,
+        "Heading": "NTOA | National Tactical Officers Association",
         "Abstract": null,
         "Official Site": "https://ntoa.org",
-        "Icon": "data:;",
+        "Icon": "https://www.ntoa.org/wp-content/uploads/2018/04/cropped-NTOA-Logo-Color-e1537973585927-32x32.png",
         "Redirect": "https://ntoa.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ntoa.org"
+    },
+    {
+        "link": "https://phoenixdev.gr",
+        "Heading": "Phoenix Development",
+        "Abstract": "We craft bespoke websites, e-shops, b2b, web applications, web-tools, etc. to global businesses and startups with 100% project delivery.",
+        "Official Site": "https://phoenixdev.gr/",
+        "Icon": "https://phoenixdev.gr/wp-content/uploads/2022/06/logo-phoenix-big.png",
+        "Redirect": "https://phoenixdev.gr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://phoenixdev.gr/"
     },
     {
         "link": "https://narkologicheskaya-klinika-v-yaroslavle12.ru",
@@ -148,6 +158,26 @@
         "Redirect": "https://snokid.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://snokid.net/"
+    },
+    {
+        "link": "https://acerotek.com.mx",
+        "Heading": "Acerotek | Fortaleciendo a la Industria del Acero",
+        "Abstract": "Dedicada a la compra-venta, servicio de proceso y transformaci\u00f3n de acero plano y perfiles estructurales de Acero en M\u00e9xico.",
+        "Official Site": "https://acerotek.com.mx/",
+        "Icon": "https://acerotek.com.mx/wp-content/uploads/2021/05/logo-ACEROTEK.png",
+        "Redirect": "https://acerotek.com.mx/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://acerotek.com.mx/"
+    },
+    {
+        "link": "https://raffamusadesigns.com",
+        "Heading": "RaffamusaDesigns \u2022 Free Crochet Patterns and Tutorials",
+        "Abstract": "Free Crochet Patterns and Tutorials",
+        "Official Site": "https://raffamusadesigns.com/",
+        "Icon": "https://raffamusadesigns.com/wp-content/uploads/cropped-RaffamusaDesigns_Logo_512-32x32.jpg",
+        "Redirect": "https://raffamusadesigns.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://raffamusadesigns.com/"
     },
     {
         "link": "https://theresponsibleinvesting.com",
@@ -228,6 +258,16 @@
         "Redirect": "https://hancockclaims.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hancockclaims.com/"
+    },
+    {
+        "link": "https://almuheettours.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://almuheettours.net",
+        "Icon": "N/A",
+        "Redirect": "https://almuheettours.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://almuheettours.net"
     },
     {
         "link": "https://explosionnetwork.com",

@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://digitalmarketingmagazine.co.uk",
+        "Heading": "Digital Marketing Magazine | News, advice & tips on marketing, data protection & privacy",
+        "Abstract": "An online magazine for the modern marketer & digital industries, with news, articles and commentary on digital marketing.",
+        "Official Site": "http://digitalmarketingmagazine.co.uk",
+        "Icon": "http://digitalmarketingmagazine.co.uk/img/dmm-graph.jpg",
+        "Redirect": "http://digitalmarketingmagazine.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://digitalmarketingmagazine.co.uk"
+    },
+    {
         "link": "https://mndelgolfo.com",
         "Heading": "MN del Golfo: compra en l\u00ednea materiales de construcci\u00f3n, ferreter\u00eda, el\u00e9ctrico, iluminaci\u00f3n. truper, accesorios para construcci\u00f3n, conexiones, cerraduras, impermeabilizantes, puertas, boilers, calentadores, mini splits, azulejos, pisos, accesorios cer\u00e1micos, todo para ba\u00f1o.",
         "Abstract": "MN Home Center :  - Ba\u00f1os Materiales de Construcci\u00f3n Ferreter\u00eda Plomer\u00eda Material El\u00e9ctrico Cocina Piso, Azulejos, Adhesivos Y Mas L\u00ednea Blanca Iluminaci\u00f3n Herramientas Jard\u00edn Hogar Ventilaci\u00f3n y Minisplits Puertas y Cerraduras Impermeabilizantes Pinturas Eco Hogar \u00a1Ahorro Total! \u00a1Renueva tu Cocina! venta de block en l\u00ednea, venta de material para construcci\u00f3n, comprar materiales, cemento venta en l\u00ednea, construcci\u00f3n,venta sobre pedido, ferreter\u00eda, el\u00e9ctrico, iluminaci\u00f3n. material de construcci\u00f3n,  truper, accesorios para construcci\u00f3n, conexiones, cerraduras, impermeabilizantes,  puertas, cemento, varilla, venta de cemento, venta de varilla, thermoteck, cemex,  venta de material para construccion, calentadores de agua, boilers, construrama,  acero para construccion, concreto, compra cemento, materiales para construcci\u00f3n, pisos, azulejos, cer\u00e1mica, ba\u00f1os, accesorios para ba\u00f1os, material de construccion, cemento gris, cemento blanco, yeso, venta impermeabilizantes,",
@@ -70,16 +80,6 @@
         "AbstractURL": "https://gamepc.nl/"
     },
     {
-        "link": "https://redleaflogic.biz",
-        "Heading": "\u6709\u9650\u4f1a\u793e\u3000\u8d64\u8449\u30ed\u30b8\u30c3\u30af\u306e\u30db\u30fc\u30e0\u30da\u30fc\u30b8",
-        "Abstract": null,
-        "Official Site": "https://redleaflogic.biz",
-        "Icon": "N/A",
-        "Redirect": "https://redleaflogic.biz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://redleaflogic.biz"
-    },
-    {
         "link": "https://mth.group",
         "Heading": "MTH Retail Group: Handelskonzern f\u00fcr B\u00fcro- & Schreibwaren",
         "Abstract": "\u27a1\ufe0fLIBRO, PAGRO DISKONT, M\u00c4C GEIZ, PFENNIGPFEIFFER & OFFICE WORLD: Ihre M\u00e4rkte f\u00fcr B\u00fcro & Technik, Papier-& Schreibwaren und Schulbedarf",
@@ -91,10 +91,10 @@
     },
     {
         "link": "https://ars-pharma.com",
-        "Heading": null,
+        "Heading": "ARS Pharma \u2013 Developing Biotechnology",
         "Abstract": null,
         "Official Site": "https://ars-pharma.com",
-        "Icon": "data:;",
+        "Icon": "https://ars-pharma.com/wp-content/uploads/2018/10/cropped-ARS-Mark-512px-1-32x32.jpg",
         "Redirect": "https://ars-pharma.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ars-pharma.com"
@@ -150,6 +150,16 @@
         "AbstractURL": "https://tenthousandcoffees.com"
     },
     {
+        "link": "https://cstarchitects.com",
+        "Heading": "CSTarchitects",
+        "Abstract": null,
+        "Official Site": "https://cstarchitects.com/",
+        "Icon": "https://cstarchitects.com/wp-content/uploads/2026/05/Gemini_Generated_Image_2oibz12oibz12oib-scaled.png",
+        "Redirect": "https://cstarchitects.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cstarchitects.com/"
+    },
+    {
         "link": "https://1-win-aviator.com",
         "Heading": "1win oinline casino araql\u0131 t\u0259cr\u00fcb\u0259y\u0259 malik unikal oyun 1 Win Aviator",
         "Abstract": "H\u0259y\u0259canverici 1win online casino oynay\u0131n v\u0259 1win Aviator h\u0259zz al\u0131n. 1 Win Casino h\u0259y\u0259candan v\u0259 b\u00f6y\u00fck qazanmaq \u015fans\u0131ndan h\u0259zz al\u0131n.\n",
@@ -188,6 +198,16 @@
         "Redirect": "https://www.missio-hilft.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.missio-hilft.de/"
+    },
+    {
+        "link": "https://htbridge.com",
+        "Heading": "High-Tech Bridge SA | Information Security Solutions ",
+        "Abstract": "High-Tech Bridge is a Geneva-based MSSP provider offering penetration testing, security auditing and compliance.",
+        "Official Site": "https://www.htbridge.ch/",
+        "Icon": "https://www.htbridge.ch/img/header__bg.jpg",
+        "Redirect": "https://www.htbridge.ch/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.htbridge.ch/"
     },
     {
         "link": "https://techjobscafe.com",
@@ -270,6 +290,16 @@
         "AbstractURL": "https://alcornsports.com/"
     },
     {
+        "link": "https://drogisterijplus.nl",
+        "Heading": "Drogisterij Plus \u2013 Verzorging & Gemak",
+        "Abstract": null,
+        "Official Site": "https://drogisterijplus.nl",
+        "Icon": "https://drogisterijplus.nl/wp-content/uploads/2025/03/cropped-favicon-32x32.png",
+        "Redirect": "https://drogisterijplus.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://drogisterijplus.nl"
+    },
+    {
         "link": "https://lianaiyx.com",
         "Heading": "\u4e0a\u6d77\u4e91\u6167\u822a\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8",
         "Abstract": null,
@@ -318,6 +348,16 @@
         "Redirect": "https://www.tpimagazine.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tpimagazine.com/"
+    },
+    {
+        "link": "https://biasmandirigroup.id",
+        "Heading": "Home - Bias Mandiri Group",
+        "Abstract": "ONE-STOP OFFSHORE MARINE BUSINESS SOLUTION https://biasmandirigroup.id/wp-content/uploads/2024/03/Biasmandirigroup24.mp4 ONE STOP OFFSHORE MARINE\u2026  Read more",
+        "Official Site": "https://biasmandirigroup.id/",
+        "Icon": "https://biasmandirigroup.id/wp-content/uploads/2024/02/cropped-BMG-LOGO-32x32.png",
+        "Redirect": "https://biasmandirigroup.id/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://biasmandirigroup.id/"
     },
     {
         "link": "https://yakun.com",

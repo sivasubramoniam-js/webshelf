@@ -1,13 +1,13 @@
 [
     {
         "link": "https://arkcase.com",
-        "Heading": null,
+        "Heading": "Home - ArkCase",
         "Abstract": null,
-        "Official Site": "https://arkcase.com",
-        "Icon": "data:;",
-        "Redirect": "https://arkcase.com",
+        "Official Site": "https://www.arkcase.com/",
+        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
+        "Redirect": "https://www.arkcase.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://arkcase.com"
+        "AbstractURL": "https://www.arkcase.com/"
     },
     {
         "link": "https://aptekagarant.ru",
@@ -38,6 +38,16 @@
         "Redirect": "https://dboobs.tv",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dboobs.tv"
+    },
+    {
+        "link": "https://altitudeweb.co.uk",
+        "Heading": "ASIAN4D \u2013 Pilihan Hiburan Digital yang Ramai Dikunjungi dengan Sistem Praktis",
+        "Abstract": "ASIAN4D merupakan pilihan hiburan digital yang ramai dikunjungi karena menghadirkan sistem praktis, akses cepat, fitur lengkap, dan pengalaman pengguna yang nyaman. Beragam pilihan permainan serta layanan yang responsif menjadikan platform ini sebagai salah satu destinasi hiburan online yang semakin diminati.",
+        "Official Site": "https://altitudeweb.co.uk/",
+        "Icon": "https://res.cloudinary.com/dxmyua6sz/image/upload/v1780978702/asian4d_mjw2dn.png",
+        "Redirect": "https://altitudeweb.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://altitudeweb.co.uk/"
     },
     {
         "link": "https://tedxmarseille.com",
@@ -110,6 +120,16 @@
         "AbstractURL": "https://vidble.com"
     },
     {
+        "link": "https://offlinedino.com",
+        "Heading": "Offline Dino \ud83e\udd96 - Play Chrome T-rex Dino Runner Game Online",
+        "Abstract": "Offline Dino Runner adventure is waiting for you. Jump, duck, and dash through a prehistoric landscape, dodging cacti and pterodactyls. The T-rex is on an endless running adventure set up by the devs of Chrome.",
+        "Official Site": "https://www.offlinedino.com/",
+        "Icon": "/assets/images/offline-dinosaur-run.jpg",
+        "Redirect": "https://www.offlinedino.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.offlinedino.com/"
+    },
+    {
         "link": "https://spielbank-berlin.de",
         "Heading": "Spielbank-Berlin.de",
         "Abstract": null,
@@ -148,6 +168,16 @@
         "Redirect": "https://akdenizpromotion.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://akdenizpromotion.com"
+    },
+    {
+        "link": "https://wallisgiunta.com",
+        "Heading": "Wallis Giunta - The official website of WALLIS GIUNTA",
+        "Abstract": "\u201cIt was a triumph...She has a delectably rich, silver-toned mezzo-soprano with a beautiful sense of line and effortless rapid runs\u201d - Opera News Magazine",
+        "Official Site": "https://wallisgiunta.com/",
+        "Icon": "https://wallisgiunta.com/wp-content/uploads/2023/02/WALLIS_BASSMAN-554c.png",
+        "Redirect": "https://wallisgiunta.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wallisgiunta.com/"
     },
     {
         "link": "https://mockoon.com",
@@ -190,6 +220,16 @@
         "AbstractURL": "https://crenews.com/"
     },
     {
+        "link": "https://baznica.info",
+        "Heading": "Home - \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u044d\u043a\u0443\u043c\u0435\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u043e\u0440\u0442\u0430\u043b",
+        "Abstract": null,
+        "Official Site": "https://baznica.info/",
+        "Icon": "https://baznica.info/wp-content/uploads/2020/08/cropped-logobaz-32x32.jpg",
+        "Redirect": "https://baznica.info/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://baznica.info/"
+    },
+    {
         "link": "https://oncasiworld.com",
         "Heading": "oncasiworld.com",
         "Abstract": "",
@@ -198,6 +238,16 @@
         "Redirect": "https://oncasiworld.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://oncasiworld.com/"
+    },
+    {
+        "link": "https://rodomenii.ro",
+        "Heading": " Gazduire web, gazduire premium, gazduire wordpress",
+        "Abstract": "Gazduire web pe servere dedicate, in Romania. Pachete de Gazduire Web, Gazduire Premium, Gazduire Wordpress, Gazduire e-commerce, Gazduire business",
+        "Official Site": "https://rodomenii.ro",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://rodomenii.ro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rodomenii.ro"
     },
     {
         "link": "https://por-correo.com",
@@ -213,11 +263,11 @@
         "link": "https://norwichathletics.com",
         "Heading": "\n\tNorwich University - Official Athletics Website\n",
         "Abstract": "The official athletics website for the Norwich University",
-        "Official Site": "https://norwichathletics.com/",
+        "Official Site": "https://norwichathletics.com/index.aspx",
         "Icon": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fnorwichathletics.com%2fimages%2flogos%2fsite%2fsite.png&type=jpeg",
-        "Redirect": "https://norwichathletics.com/",
+        "Redirect": "https://norwichathletics.com/index.aspx",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://norwichathletics.com/"
+        "AbstractURL": "https://norwichathletics.com/index.aspx"
     },
     {
         "link": "https://jadlogentregas.com.br",
@@ -228,5 +278,15 @@
         "Redirect": "https://jadlogentregas.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jadlogentregas.com.br"
+    },
+    {
+        "link": "https://organo.co.jp",
+        "Heading": " \u30aa\u30eb\u30ac\u30ce\u682a\u5f0f\u4f1a\u793e",
+        "Abstract": "\u30aa\u30eb\u30ac\u30ce\u682a\u5f0f\u4f1a\u793e\u3002\u4e3b\u8981\u55b6\u696d\u54c1\u76ee\uff0d\u6c34\u51e6\u7406\u88c5\u7f6e\u3001\u8d85\u7d14\u6c34\u88fd\u9020\u88c5\u7f6e\u3001\u7d14\u6c34\u88fd\u9020\u88c5\u7f6e\u3001\u6392\u6c34\u51e6\u7406\u88c5\u7f6e\u3001\u767a\u96fb\u6240\u5411\u3051\u6c34\u51e6\u7406\u88c5\u7f6e\u3001\u4e0a\u6c34\u9053\u8a2d\u5099\u3001\u4e0b\u6c34\u9053\u8a2d\u5099\u3001\u6a19\u6e96\u88c5\u7f6e\u3001\u6a5f\u80fd\u6c34\u88fd\u9020\u88c5\u7f6e\u3001\u30a4\u30aa\u30f3\u4ea4\u63db\u6a39\u8102\u3001\u6c34\u51e6\u7406\u85ac\u54c1\u3001\u98df\u54c1\u6dfb\u52a0\u7269\u3002",
+        "Official Site": "http://www.organo.co.jp/",
+        "Icon": "https://www.organo.co.jp/wp/wp-content/themes/organo/assets/img/ogp/og_image.png",
+        "Redirect": "http://www.organo.co.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.organo.co.jp/"
     }
 ]

@@ -40,6 +40,16 @@
         "AbstractURL": "https://vyvod-iz-zapoya-v-staczionare-sankt-peterburg-1.ru"
     },
     {
+        "link": "https://airlinesassistant.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://airlinesassistant.com",
+        "Icon": "https://airlinesassistant.com/wp-content/uploads/2021/04/cropped-airplane-512-237853-32x32.png",
+        "Redirect": "https://airlinesassistant.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://airlinesassistant.com"
+    },
+    {
         "link": "https://ble-t.org",
         "Heading": "Home - Brotherhood of Locomotive Engineers and Trainmen",
         "Abstract": "Recent major articles related to BLET and its members. BLET News View All BLET News Rail Industry News View All Rail Industry News National Division Officer ...",
@@ -81,13 +91,23 @@
     },
     {
         "link": "https://nieveaventura.com",
-        "Heading": null,
+        "Heading": "Home - NieveAventura.com",
         "Abstract": null,
-        "Official Site": "https://nieveaventura.com",
-        "Icon": "data:;",
-        "Redirect": "https://nieveaventura.com",
+        "Official Site": "https://www.nieveaventura.com/",
+        "Icon": "https://i0.wp.com/www.nieveaventura.com//wp-content/uploads/2025/09/Nieveaventura_LOGO-1.jpg?fit=1152%2C648&ssl=1",
+        "Redirect": "https://www.nieveaventura.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nieveaventura.com"
+        "AbstractURL": "https://www.nieveaventura.com/"
+    },
+    {
+        "link": "https://dosmanzanas.com",
+        "Heading": "dosmanzanas - La web de noticias LGTB",
+        "Abstract": "La web de noticias LGTB para todo el mundo desde 2005. noticias relacionadas con la comunidad LGTB (gais, lesbianas, transexuales y bisexuales) en los \u00e1mbitos pol\u00edtico, social y cultural.",
+        "Official Site": "https://dosmanzanas.com",
+        "Icon": "https://dosmanzanas.com/wp-content/uploads/logo-512-positivo.png",
+        "Redirect": "https://dosmanzanas.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dosmanzanas.com"
     },
     {
         "link": "https://trynood.com",
@@ -140,14 +160,14 @@
         "AbstractURL": "https://multtv.com.br/"
     },
     {
-        "link": "https://pravakupiq.com",
-        "Heading": "pravakupiq.com",
-        "Abstract": null,
-        "Official Site": "https://pravakupiq.com",
-        "Icon": "N/A",
-        "Redirect": "https://pravakupiq.com",
+        "link": "https://pastdaily.com",
+        "Heading": "Past Daily: A Sound Archive of News, History And Music \u2013 \"Because ignorance of your culture is considered uncool\"",
+        "Abstract": "%",
+        "Official Site": "https://pastdaily.com/",
+        "Icon": "https://oildale.s3.amazonaws.com/wp-content/uploads/2021/07/05164807/No-Ads-2.jpg",
+        "Redirect": "https://pastdaily.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pravakupiq.com"
+        "AbstractURL": "https://pastdaily.com/"
     },
     {
         "link": "https://tarjomaan.com",
@@ -228,6 +248,16 @@
         "Redirect": "https://vid-collection.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vid-collection.ru"
+    },
+    {
+        "link": "https://kecapku.com",
+        "Heading": "Codesense",
+        "Abstract": null,
+        "Official Site": "https://kecapku.com",
+        "Icon": "N/A",
+        "Redirect": "https://kecapku.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kecapku.com"
     },
     {
         "link": "https://zzzzgg.com",

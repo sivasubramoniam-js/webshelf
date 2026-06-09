@@ -10,6 +10,26 @@
         "AbstractURL": "https://www.icevonline.com"
     },
     {
+        "link": "https://beachdog.com",
+        "Heading": "beachdog.com - web. print. marketing.",
+        "Abstract": "web. print. marketing.",
+        "Official Site": "https://beachdog.com",
+        "Icon": "https://beachdog.com/wp-content/uploads/2014/08/favicon.ico",
+        "Redirect": "https://beachdog.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://beachdog.com"
+    },
+    {
+        "link": "https://wired2fire.co.uk",
+        "Heading": "Wired2Fire UK | Elevate Your Gaming Experience | Award Winning PCs",
+        "Abstract": "Embark on a gaming journey where passion meets peak performance at Wired2Fire. Immerse yourself in our meticulously handcrafted gaming PCs, uniquely tailored to surpass your gaming expectations. Unleash the true potential of gaming with our award-winning machines, backed by an industry-leading warranty. Discover the pinnacle of gaming excellence \u2013 Wired2Fire, proudly offering the best the UK has to offer",
+        "Official Site": "https://wired2fire.co.uk/",
+        "Icon": "https://wired2fire.co.uk/wp-content/uploads/2021/11/Wired_2_Fire_Social_Icon.svg",
+        "Redirect": "https://wired2fire.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wired2fire.co.uk/"
+    },
+    {
         "link": "https://sitepark.com",
         "Heading": "Sitepark GmbH - performant - effizient - zukunftssicher",
         "Abstract": "Inhalte und Informationen intelligent managen und zug\u00e4nglich machen, das ist die Hauptaufgabe, der sich Sitepark verschrieben hat.",
@@ -18,6 +38,16 @@
         "Redirect": "https://www.sitepark.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sitepark.com/"
+    },
+    {
+        "link": "https://successoverseas.com",
+        "Heading": "Home - Success Overseas",
+        "Abstract": "",
+        "Official Site": "https://successoverseas.com",
+        "Icon": "https://successoverseas.com/assets/images/logo.png",
+        "Redirect": "https://successoverseas.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://successoverseas.com"
     },
     {
         "link": "https://perulinux.pe",
@@ -58,6 +88,16 @@
         "Redirect": "https://usprohosting.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://usprohosting.com"
+    },
+    {
+        "link": "https://mukammal.net",
+        "Heading": "Home | Mukammal",
+        "Abstract": "Mukammal.Net - You got the solution!",
+        "Official Site": "https://mukammal.net",
+        "Icon": "img/favicon.ico",
+        "Redirect": "https://mukammal.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mukammal.net"
     },
     {
         "link": "https://ixad.net",
@@ -258,25 +298,5 @@
         "Redirect": "https://sovepark.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sovepark.com"
-    },
-    {
-        "link": "https://cb750.com",
-        "Heading": "Honda CB750 Forum",
-        "Abstract": "CB750.com is dedicated to the Honda CB750 SOHC and DOHC motorcycles and to their owners who love to ride, restore, and customize them.  All CB750 enthusiasts are welcome regardless of where you are from or whether you are into CB750 choppers, bobbers, cafe racers, drag bikes, or restorations...",
-        "Official Site": "https://www.cb750.com/",
-        "Icon": "https://www.cb750.com/data/assets/logo/cb750_meta1200x630.jpg",
-        "Redirect": "https://www.cb750.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cb750.com/"
-    },
-    {
-        "link": "https://500songs.com",
-        "Heading": "A History of Rock Music in 500 Songs",
-        "Abstract": null,
-        "Official Site": "https://500songs.com/",
-        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC81MDBzb25ncy5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjFcLzA0XC9jcm9wcGVkLWNyb3BwZWQtTG9nby0xLnBuZz9maXQ9NTEyJTJDNTEyJnNzbD0xIiwidHh0IjoiQSBIaXN0b3J5IG9mIFJvY2sgTXVzaWMgaW4gNTAwIFNvbmdzIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjE5MTkyOTgyM30.HJcbDg6OvcYlwzR9cvDfCQXKwPLiRHlfC6mth79C6FEMQ",
-        "Redirect": "https://500songs.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://500songs.com/"
     }
 ]

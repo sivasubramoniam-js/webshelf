@@ -10,6 +10,16 @@
         "AbstractURL": "https://destinationbigbear.com"
     },
     {
+        "link": "https://icpcorp.com",
+        "Heading": "www.icpcorp.com \u2013 When Performance Counts",
+        "Abstract": null,
+        "Official Site": "https://icpcorp.com",
+        "Icon": "N/A",
+        "Redirect": "https://icpcorp.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://icpcorp.com"
+    },
+    {
         "link": "https://a351yjj.top",
         "Heading": "a351yjj.top",
         "Abstract": null,
@@ -38,6 +48,16 @@
         "Redirect": "https://thewaystationbk.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thewaystationbk.com"
+    },
+    {
+        "link": "https://mestrelab.com",
+        "Heading": "Mestrelab Research Analytical Chemistry Software",
+        "Abstract": "Mestrelab Research, Analytical Chemistry Software Solutions: Mnova software for NMR and LC/GC/MS techniques including 1D & 2D NMR, DOSY, and NUS.",
+        "Official Site": "https://mestrelab.com/",
+        "Icon": "https://mestrelab.com/wp-content/uploads/2021/10/favicon-32-2021-10-15.png",
+        "Redirect": "https://mestrelab.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mestrelab.com/"
     },
     {
         "link": "https://avned.nl",
@@ -230,6 +250,16 @@
         "AbstractURL": "https://a1apps.co/"
     },
     {
+        "link": "https://renovolive.com",
+        "Heading": "Sign in",
+        "Abstract": "",
+        "Official Site": "https://renovolive.com",
+        "Icon": "/rl2/favicon.ico",
+        "Redirect": "https://renovolive.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://renovolive.com"
+    },
+    {
         "link": "https://law-democracy.org",
         "Heading": "Home - Centre for Law and Democracy",
         "Abstract": "The Centre for Law and Democracy (CLD) is a non-profit organisation working globally to promote foundational rights for democracies.",
@@ -238,6 +268,16 @@
         "Redirect": "https://www.law-democracy.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.law-democracy.org/"
+    },
+    {
+        "link": "https://habibtechno.com",
+        "Heading": "Manufacturer & Fabricators",
+        "Abstract": "MANUFACTURER & FABRICATORS Plant & Machinery Equipment For Sugar,cement, Fertilizer, Chemical & Power Generation Sectors About Us \"Our Journey Through Time\" \"Founded in 1996, Habib Techno Industries, formerly Basheer Engineering, is a leader in Pakistan's heavy industries. Rebranded twice and led by Mr. Naseer Ahmad, it has expanded services and earned key certifications like ISO-9001\u2026",
+        "Official Site": "https://habibtechno.com",
+        "Icon": "https://habibtechno.com/wp-content/uploads/2024/09/cropped-Site-Icon-32x32.png",
+        "Redirect": "https://habibtechno.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://habibtechno.com"
     },
     {
         "link": "https://redlineautoparts.com",
@@ -274,7 +314,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://hungrysurrenderdevastated.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://hungrysurrenderdevastated.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hungrysurrenderdevastated.com"
@@ -308,5 +348,15 @@
         "Redirect": "https://amunra-cz.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://amunra-cz.com/"
+    },
+    {
+        "link": "https://resistir.info",
+        "Heading": "Resistir.info",
+        "Abstract": null,
+        "Official Site": "https://resistir.info",
+        "Icon": "N/A",
+        "Redirect": "https://resistir.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://resistir.info"
     }
 ]

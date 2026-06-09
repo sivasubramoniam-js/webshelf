@@ -20,6 +20,16 @@
         "AbstractURL": "https://www.dailybusiness.ro/"
     },
     {
+        "link": "https://quieroalojamiento.eu",
+        "Heading": "Quiero Alojamiento Hosting \u2013 Tu hosting profesional",
+        "Abstract": null,
+        "Official Site": "https://quieroalojamiento.eu",
+        "Icon": "N/A",
+        "Redirect": "https://quieroalojamiento.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://quieroalojamiento.eu"
+    },
+    {
         "link": "https://nwtdemos.com",
         "Heading": null,
         "Abstract": null,
@@ -100,6 +110,16 @@
         "AbstractURL": "https://tvujweb.cz"
     },
     {
+        "link": "https://hibiki-radio.jp",
+        "Heading": "\u97ff - HiBiKi Radio Station",
+        "Abstract": "{{$root.metatags.ogp.description}}",
+        "Official Site": "{{$root.metatags.ogp.url}}",
+        "Icon": "{{$root.metatags.ogp.image}}",
+        "Redirect": "{{$root.metatags.ogp.url}}",
+        "AbstractSource": "BS4",
+        "AbstractURL": "{{$root.metatags.ogp.url}}"
+    },
+    {
         "link": "https://hamburgsud-line.com",
         "Heading": "Maersk | Integrated Container Logistics & Supply Chain Services",
         "Abstract": "Integrated logistics company and global leader in container shipping.",
@@ -178,6 +198,16 @@
         "Redirect": "https://popsop.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://popsop.com/"
+    },
+    {
+        "link": "https://snadgy.com",
+        "Heading": "snazzy, edgy, hot \u2022 snadgy",
+        "Abstract": "Snadgy is a multiverse of all things snazzy, edgy and sexy. A magazine of delicious diversion. Arousing, bedazzling, contemporary and nsfw.",
+        "Official Site": "https://snadgy.com/",
+        "Icon": "https://snadgy.com/wp-content/uploads/2014/04/snadgy-beta144.png",
+        "Redirect": "https://snadgy.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://snadgy.com/"
     },
     {
         "link": "https://miragefurnishings.com",
@@ -308,6 +338,16 @@
         "Redirect": "https://razagems.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://razagems.com/"
+    },
+    {
+        "link": "https://grupotragaluz.com",
+        "Heading": "\n    Grupo Tragaluz - Restaurantes | Grupo Tragaluz  ",
+        "Abstract": "Restaurantes Grupo Tragaluz. Cada una de las propuestas del grupo tiene un car\u00e1cter propio, fruto de un estudiado equilibrio entre gastronom\u00eda y dise\u00f1o.",
+        "Official Site": "https://grupotragaluz.com/",
+        "Icon": "https://grupotragaluz.com/wp-content/uploads/logo-grupo-tragaluz.jpg",
+        "Redirect": "https://grupotragaluz.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://grupotragaluz.com/"
     },
     {
         "link": "https://belleten.gov.tr",

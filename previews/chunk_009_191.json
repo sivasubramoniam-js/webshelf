@@ -40,6 +40,26 @@
         "AbstractURL": "https://www.ccsj.edu/"
     },
     {
+        "link": "https://tenemosplan.com",
+        "Heading": "TenemosPlan - Entradas y actividades en toda Espa\u00f1a.",
+        "Abstract": "Venta de entradas para actividades, espect\u00e1culos, museos, monumentos, conciertos... en toda Espa\u00f1a. Los mejores precios. Elige tu plan y disfruta al m\u00e1ximo. ",
+        "Official Site": "www.tenemosplan.com/",
+        "Icon": "https://cdn.tenemosplan.com/tiendas/../tenemosplan/logo.png",
+        "Redirect": "www.tenemosplan.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "www.tenemosplan.com/"
+    },
+    {
+        "link": "https://lunarweb.io",
+        "Heading": "Site is undergoing maintenance",
+        "Abstract": "Site will be available soon. Thank you for your patience!",
+        "Official Site": "https://lunarweb.io",
+        "Icon": "N/A",
+        "Redirect": "https://lunarweb.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lunarweb.io"
+    },
+    {
         "link": "https://cribis.com",
         "Heading": " CRIBIS: Gestione Crediti, Report e Informazioni su aziende ",
         "Abstract": "CRIBIS offre servizi per la gestione e recupero crediti di aziende in tutto il mondo: informazioni economiche e commerciali, valutazioni e credit scoring.",
@@ -48,6 +68,16 @@
         "Redirect": "https://www.cribis.com/it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cribis.com/it/"
+    },
+    {
+        "link": "https://techiegamers.com",
+        "Heading": "Latest Entertainment, TV and Media Content - Techie + Gamers",
+        "Abstract": "TechieGamers.com is a leading destination for engaging entertainment coverage, news, net worths and TV shows with a strong focus on Shark Tank.",
+        "Official Site": "https://techiegamers.com/",
+        "Icon": "https://techiegamers.com/wp-content/uploads/2022/04/Kevin-OLeary.jpg",
+        "Redirect": "https://techiegamers.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://techiegamers.com/"
     },
     {
         "link": "https://telkimsk.com",
@@ -80,6 +110,16 @@
         "AbstractURL": "https://onecentvoip.com/"
     },
     {
+        "link": "https://biztackle.com",
+        "Heading": "Best eCommerce, Web & Mobile App developer in Bahrain.",
+        "Abstract": "Biztackle Innovation provides e-commerce, ERP, CRM, and web and mobile app development solutions to boost business growth and online success.",
+        "Official Site": "https://biztackle.com/",
+        "Icon": "https://biztackle.com/wp-content/uploads/2021/03/Logofull.png",
+        "Redirect": "https://biztackle.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://biztackle.com/"
+    },
+    {
         "link": "https://napawf.org",
         "Heading": "Home - NAPAWF",
         "Abstract": "Featured Resource \u2013 Beyond the Labels Beyond the Labels is the largest national, multilingual Asian American Pacific Islander (AAPI) abortion study of its kind, with groundbreaking qualitative and quantitative findings about how AAPI women across more than 25 ethnicities are thinking about and engaging with abortion rights. Developed with Lake Research Partners and Sprout Insight,\u2026",
@@ -110,6 +150,16 @@
         "AbstractURL": "https://vestirama.ru/https://vestirama.ru/"
     },
     {
+        "link": "https://onlyguppies.com.au",
+        "Heading": "Only Guppies",
+        "Abstract": null,
+        "Official Site": "https://onlyguppies.com.au",
+        "Icon": "N/A",
+        "Redirect": "https://onlyguppies.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onlyguppies.com.au"
+    },
+    {
         "link": "https://coedistributing.com",
         "Heading": "COE Distributing | Largest Office Furniture Distributor USA",
         "Abstract": "COE Distributing is a national office furniture wholesaler. Our OfficeSource brand offers quality furniture and accessories for every workspace.",
@@ -131,13 +181,13 @@
     },
     {
         "link": "https://landeeseelandeedo.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://landeeseelandeedo.com",
-        "Icon": "data:;",
-        "Redirect": "https://landeeseelandeedo.com",
+        "Heading": "landeelu.com - Creating A Home - Home DIY, free crafts and more!",
+        "Abstract": "Creating A Home - Home DIY, free crafts - printables - recipes and more!",
+        "Official Site": "https://www.landeeseelandeedo.com/",
+        "Icon": "https://www.landeeseelandeedo.com/files/wp-content/themes/landeelu/images/favicon.ico",
+        "Redirect": "https://www.landeeseelandeedo.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://landeeseelandeedo.com"
+        "AbstractURL": "https://www.landeeseelandeedo.com/"
     },
     {
         "link": "https://arml.io",
@@ -240,8 +290,18 @@
         "AbstractURL": "https://graintrade.com.ua"
     },
     {
+        "link": "https://cominmag.ch",
+        "Heading": "Cominmag Home - Cominmag.ch",
+        "Abstract": null,
+        "Official Site": "https://cominmag.ch/",
+        "Icon": "N/A",
+        "Redirect": "https://cominmag.ch/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cominmag.ch/"
+    },
+    {
         "link": "https://aurastel.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://aurastel.com",
         "Icon": "N/A",
@@ -258,6 +318,16 @@
         "Redirect": "https://www.stokertje.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.stokertje.nl/"
+    },
+    {
+        "link": "https://furchguitars.com",
+        "Heading": "Furch Guitars - The choice of the most discerning musicians",
+        "Abstract": "The Furch brand owes its existence to our desire to make top-quality instruments for the most discerning musicians of the world.",
+        "Official Site": "https://furchguitars.com/us/",
+        "Icon": "https://furchguitars.com/wp-content/uploads/2019/01/share_fruch_02.jpg",
+        "Redirect": "https://furchguitars.com/us/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://furchguitars.com/us/"
     },
     {
         "link": "https://ltofbr.com",

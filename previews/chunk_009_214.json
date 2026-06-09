@@ -40,6 +40,16 @@
         "AbstractURL": "https://die-partei.de"
     },
     {
+        "link": "https://zamworg.com",
+        "Heading": "Zamworg | Agencia B2B de Desarrollo Web, Marketing Digital y Tecnolog\u00eda en Colombia",
+        "Abstract": "Zamworg Ltd. - Agencia B2B l\u00edder en Colombia especializada en desarrollo web, marketing digital, apps m\u00f3viles, automatizaci\u00f3n con IA, ERP y WhatsApp IA. M\u00e1s de 6 a\u00f1os transformando empresas.",
+        "Official Site": "https://www.zamworg.com/",
+        "Icon": "https://www.zamworg.com/assets/images/og-image.jpg",
+        "Redirect": "https://www.zamworg.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.zamworg.com/"
+    },
+    {
         "link": "https://level-7.co.za",
         "Heading": "Level 7 Internet",
         "Abstract": "Premium internet service provider",
@@ -120,16 +130,6 @@
         "AbstractURL": "https://digital-x.com/de"
     },
     {
-        "link": "https://oneprojectcloser.com",
-        "Heading": "One Project Closer - Home Improvement Blog Featuring DIY Projects, Tool & Material Reviews, and More!",
-        "Abstract": "Home Improvement Blog Featuring DIY Projects, Tool & Material Reviews, and More!",
-        "Official Site": "https://www.oneprojectcloser.com/",
-        "Icon": "https://s0.wp.com/i/blank.jpg",
-        "Redirect": "https://www.oneprojectcloser.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.oneprojectcloser.com/"
-    },
-    {
         "link": "https://rigacci.org",
         "Heading": "rigacci.org [rigacci.org]",
         "Abstract": null,
@@ -148,6 +148,26 @@
         "Redirect": "https://praml.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://praml.de"
+    },
+    {
+        "link": "https://clickmyway.gr",
+        "Heading": "\u039a\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03b7\u03c4\u03b9\u03ba\u03bf\u03cd eshop | \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03cc \u03bc\u03b5 \u03c4\u03bf\u03bd \u03bc\u03ae\u03bd\u03b1",
+        "Abstract": "\u03a3\u03c4\u03b7\u03bd ClickMyWay \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03bf\u03c5\u03bc\u03b5 \u03bf\u03bb\u03bf\u03ba\u03bb\u03b7\u03c1\u03c9\u03bc\u03ad\u03bd\u03b5\u03c2 \u03bb\u03cd\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03b7\u03c4\u03b9\u03ba\u03bf\u03cd eshop, \u03c0\u03c1\u03bf\u03c3\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c3\u03bf\u03c5, \u03bc\u03b5 \u03bc\u03cc\u03bb\u03b9\u03c2 35\u20ac \u03c4\u03bf \u03bc\u03ae\u03bd\u03b1!",
+        "Official Site": "https://clickmyway.gr/",
+        "Icon": "https://clickmyway.gr/wp-content/uploads/2021/01/Group-17849.png",
+        "Redirect": "https://clickmyway.gr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://clickmyway.gr/"
+    },
+    {
+        "link": "https://66hosting.net",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://66hosting.net",
+        "Icon": "N/A",
+        "Redirect": "https://66hosting.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://66hosting.net"
     },
     {
         "link": "https://bajajmall.in",
@@ -188,6 +208,16 @@
         "Redirect": "https://atundo.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://atundo.com/"
+    },
+    {
+        "link": "https://projehost.com",
+        "Heading": "\n    Ana sayfa | Projehosting\n",
+        "Abstract": "Proje Hosting size en uygun fiyatlarla ve  son teknoloji g\u00fcvenlik \u00e7\u00f6z\u00fcmleriyle hosting, kiral\u0131k sunucu ve domain hizmeti sunar.",
+        "Official Site": "http://www.projehosting.com",
+        "Icon": "N/A",
+        "Redirect": "http://www.projehosting.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.projehosting.com"
     },
     {
         "link": "https://moto-opinie.info",

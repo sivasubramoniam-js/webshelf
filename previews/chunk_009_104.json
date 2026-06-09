@@ -1,13 +1,13 @@
 [
     {
         "link": "https://bdsmbibliothek.net",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://bdsmbibliothek.net",
-        "Icon": "data:,",
-        "Redirect": "https://bdsmbibliothek.net",
+        "Heading": "BDSM Bibliothek \u10e6 Blog, Geschichten, dominante & devote Kontakte",
+        "Abstract": "BDSM Bibliothek: Alles zu den Themen Bondage & SM \u10e6 \u2705 Lese Geschichten \u2713 verabrede dich mit Kontakten \u2713 Schau dir Videos an \u2713 u.v.m.",
+        "Official Site": "https://bdsmbibliothek.net/",
+        "Icon": "https://bdsmbibliothek.net/wp-content/uploads/der-gutshof-nordhausen.jpg",
+        "Redirect": "https://bdsmbibliothek.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bdsmbibliothek.net"
+        "AbstractURL": "https://bdsmbibliothek.net/"
     },
     {
         "link": "https://aumix.net",
@@ -38,6 +38,26 @@
         "Redirect": "https://www.goettler-weine.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.goettler-weine.de/"
+    },
+    {
+        "link": "https://pressgiochi.it",
+        "Heading": "PressGiochi | The new style of gaming information",
+        "Abstract": "PressGiochi.it \u00e8 un quotidiano di informazione online dedicato al settore del gioco pubblico italiano registrato al n.1 presso il Tribunale di Viterbo...",
+        "Official Site": "https://www.pressgiochi.it/",
+        "Icon": "https://www.pressgiochi.it/wp-content/themes/pressgiochi/assets/content/img/logo_press_giochi_icona2.png",
+        "Redirect": "https://www.pressgiochi.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pressgiochi.it/"
+    },
+    {
+        "link": "https://katherinetimes.com.au",
+        "Heading": "Katherine news, sport and weather | Katherine Times | Katherine, NT",
+        "Abstract": "Katherine Times delivers latest news from Katherine, NT including sport, weather, entertainment and lifestyle.",
+        "Official Site": "https://katherinetimes.com.au",
+        "Icon": "/static/1780967923/sites/katherine-times/ico/favicon.ico",
+        "Redirect": "https://katherinetimes.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://katherinetimes.com.au"
     },
     {
         "link": "https://nmzrctlm.cc",
@@ -91,10 +111,10 @@
     },
     {
         "link": "https://zoarah.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Korea's Leading Online Mobile Accessories Retailer | Zoarah",
+        "Abstract": "Our main aim is to introduce most stylish and durable Korean mobile phone cases and accessories to the customers worldwide. ",
         "Official Site": "https://zoarah.com",
-        "Icon": "data:;",
+        "Icon": "",
         "Redirect": "https://zoarah.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zoarah.com"
@@ -130,6 +150,16 @@
         "AbstractURL": "https://www.gyankoshacademy.com/"
     },
     {
+        "link": "https://fotozap.com",
+        "Heading": "Homepage",
+        "Abstract": "Homepage",
+        "Official Site": "https://www.picturemarketing.com",
+        "Icon": "https://www.picturemarketing.com/hubfs/iconpm.jpg",
+        "Redirect": "https://www.picturemarketing.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.picturemarketing.com"
+    },
+    {
         "link": "https://heyoncall.com",
         "Heading": "\nHeyOnCall: On-Call Alerting, Monitoring, Status Pages\n",
         "Abstract": "HeyOnCall pages you when your website, service, or cron job is down. HeyOnCall integrates on-call scheduling, alerting, website monitoring, and heartbeat monitoring, into one simple, reliable product. HeyOnCall powers DevOps, SRE, and engineering teams, as well as solo developers.",
@@ -161,10 +191,10 @@
     },
     {
         "link": "https://ocalastyle.com",
-        "Heading": null,
+        "Heading": "Ocala Style Magazine",
         "Abstract": null,
         "Official Site": "https://ocalastyle.com",
-        "Icon": "data:;",
+        "Icon": "N/A",
         "Redirect": "https://ocalastyle.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ocalastyle.com"
@@ -188,6 +218,16 @@
         "Redirect": "https://donau-boote.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://donau-boote.de"
+    },
+    {
+        "link": "https://careereco.com",
+        "Heading": "Virtual Career Fairs and Admissions Events Technology - CareerEco",
+        "Abstract": "We help jobseekers and prospective students connect online with employers and college admissions teams through online virtual events.",
+        "Official Site": "https://events.careereco.com/",
+        "Icon": "https://events.careereco.com/wp-content/uploads/2021/07/home-page-hero-mobile.jpg",
+        "Redirect": "https://events.careereco.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://events.careereco.com/"
     },
     {
         "link": "https://deutschlandsim.de",
@@ -228,6 +268,16 @@
         "Redirect": "https://globalcomment.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://globalcomment.com/"
+    },
+    {
+        "link": "https://accurateindustries.com",
+        "Heading": "Saunas & Steam Showers | Accurate Industries",
+        "Abstract": "America\u2019s Steam & Sauna Authority for over 50 years. Steam shower and sauna design, construction, equipment, service, maintenance, and parts. Call us today!",
+        "Official Site": "https://accurateindustries.com",
+        "Icon": "/sites/default/files/AI%20Favicon.jpg",
+        "Redirect": "https://accurateindustries.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://accurateindustries.com"
     },
     {
         "link": "https://intaward.org",

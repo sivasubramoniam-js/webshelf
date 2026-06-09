@@ -64,7 +64,7 @@
         "Heading": "Hello May Your Wedding Magazine, Blog & Directory \u2764\ufe0f",
         "Abstract": "A new kind of wedding magazine, blog & directory connecting creative wedding suppliers. Unearth your perfect match today. Find your wedding day dream team!",
         "Official Site": "https://hellomay.com.au/",
-        "Icon": "https://hellomay.com.au/wp-content/uploads/2025/10/HM_issue41__-1833x722-1.jpg",
+        "Icon": "https://hellomay.com.au/wp-content/uploads/2026/06/HM_REAL-WEDDING-vol-11_1833x722.jpg",
         "Redirect": "https://hellomay.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hellomay.com.au/"
@@ -130,6 +130,16 @@
         "AbstractURL": "https://brightpathkids.com"
     },
     {
+        "link": "https://younetwork.app",
+        "Heading": "younetwork",
+        "Abstract": "younetwork",
+        "Official Site": "https://younetwork.app",
+        "Icon": "https://younetwork.app/themes/sunshine/img/og.jpg",
+        "Redirect": "https://younetwork.app",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://younetwork.app"
+    },
+    {
         "link": "https://toejeksperten.dk",
         "Heading": "Herret\u00f8j Online | 1-2 dages levering | T\u00f8jeksperten",
         "Abstract": "Gratis fragt til butik. Stort udvalg af t\u00f8j til m\u00e6nd hos T\u00f8jeksperten. Tilbud p\u00e5 t\u00f8j og herret\u00f8j p\u00e5 udsalg. Gratis retur i 365 dage. Bliv medlem - 10% rabat p\u00e5 f\u00f8rste k\u00f8b.",
@@ -161,13 +171,23 @@
     },
     {
         "link": "https://capacenter.hu",
-        "Heading": null,
+        "Heading": "Nyit\u00f3oldal | Robert Capa Kort\u00e1rs Fotogr\u00e1fiai K\u00f6zpont",
         "Abstract": null,
         "Official Site": "https://capacenter.hu",
-        "Icon": "data:;",
+        "Icon": "N/A",
         "Redirect": "https://capacenter.hu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://capacenter.hu"
+    },
+    {
+        "link": "https://diablotine-coiffure-mode-solomiac.fr",
+        "Heading": "Diablotine coiffure | Salon de coiffure \u00e0 Solomiac",
+        "Abstract": "Salon de coiffure, sp\u00e9cialis\u00e9 dans la coiffure, le maquillage et l\u2019onglerie, coiffeuse visagiste pour hommes, femmes et enfants, \u00e0 Solomiac",
+        "Official Site": "https://diablotine-coiffure-mode-solomiac.fr/",
+        "Icon": "https://diablotine-coiffure-mode-solomiac.fr/wp-content/uploads/2021/09/cropped-favicon1-32x32.png",
+        "Redirect": "https://diablotine-coiffure-mode-solomiac.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://diablotine-coiffure-mode-solomiac.fr/"
     },
     {
         "link": "https://sleepphones.com",
@@ -181,13 +201,13 @@
     },
     {
         "link": "https://elitec.eu",
-        "Heading": null,
+        "Heading": "Tasuta koduleht Elitec Group",
         "Abstract": null,
-        "Official Site": "http://www.1koigieest.eu/",
-        "Icon": "http://www.1koigieest.eu/upload/favicon/favicon.ico",
-        "Redirect": "http://www.1koigieest.eu/",
+        "Official Site": "https://www.elitec.ee/",
+        "Icon": "http://www.elitec.ee/upload/facebook/EasyOffice_300x230.png",
+        "Redirect": "https://www.elitec.ee/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://www.1koigieest.eu/"
+        "AbstractURL": "https://www.elitec.ee/"
     },
     {
         "link": "https://heapro.com",

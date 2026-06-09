@@ -80,6 +80,16 @@
         "AbstractURL": "https://plissee-flix24.de/"
     },
     {
+        "link": "https://afsca.be",
+        "Heading": "Bienvenue \u00e0 l'AFSCA | Agence f\u00e9d\u00e9rale pour la s\u00e9curit\u00e9 de la cha\u00eene alimentaire",
+        "Abstract": null,
+        "Official Site": "https://afsca.be",
+        "Icon": "/themes/custom/favv_afsca/favicon.ico",
+        "Redirect": "https://afsca.be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://afsca.be"
+    },
+    {
         "link": "https://stm72.ru",
         "Heading": "\u0417\u0430\u0441\u0442\u0440\u043e\u0439\u0449\u0438\u043a \u00ab\u0421\u0435\u0432\u0435\u0440\u00bb \u2014 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u044b \u0432 \u043d\u043e\u0432\u043e\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u0445 \u0422\u044e\u043c\u0435\u043d\u0438 \u043e\u0442 4,8 \u043c\u043b\u043d \u20bd",
         "Abstract": "\u0414\u0435\u0432\u0435\u043b\u043e\u043f\u0435\u0440 \u0441 24-\u043b\u0435\u0442\u043d\u0438\u043c \u043e\u043f\u044b\u0442\u043e\u043c \u2014 \u0436\u0438\u043b\u044b\u0435 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u044b \u043a\u043e\u043c\u0444\u043e\u0440\u0442- \u0438 \u0431\u0438\u0437\u043d\u0435\u0441-\u043a\u043b\u0430\u0441\u0441\u0430 \u0432 \u0422\u044e\u043c\u0435\u043d\u0438, \u041c\u043e\u0441\u043a\u0432\u0435 \u0438 \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433\u0435. \u0418\u043f\u043e\u0442\u0435\u043a\u0430 \u043e\u0442 2,2%, \u0440\u0430\u0441\u0441\u0440\u043e\u0447\u043a\u0430 0%. \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u0443 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435",
@@ -101,10 +111,10 @@
     },
     {
         "link": "https://indielisboa.com",
-        "Heading": "IndieLisboa 2026 - Festival Internacional de Cinema",
-        "Abstract": "De 30 de Abril a 10 de Maio de 2026, o IndieLisboa volta a ser a casa onde o cinema se reinventa. Um mundo infind\u00e1vel de cinema em 11 dias de curadoria.",
+        "Heading": "IndieLisboa 2027 - Festival Internacional de Cinema",
+        "Abstract": "De 29 de Abril a 9 de Maio de 2027, o IndieLisboa volta a ser a casa onde o cinema se reinventa. Um mundo infind\u00e1vel de cinema em 11 dias de curadoria.",
         "Official Site": "https://indielisboa.com/",
-        "Icon": "https://indielisboa.com/wp-content/uploads/2025/11/Sessao-de-Abertura-2025.jpg",
+        "Icon": "https://indielisboa.com/wp-content/uploads/2026/05/\u00a9RM-Dia8-CN-Cochena-12.jpg",
         "Redirect": "https://indielisboa.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://indielisboa.com/"
@@ -258,6 +268,26 @@
         "Redirect": "https://manzanares.es/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://manzanares.es/"
+    },
+    {
+        "link": "https://tueventodron.com",
+        "Heading": "Inicio - Tu eVento Dron - Photo & Film",
+        "Abstract": "Tu eVento Dron Soluciones Audiovisuales & Fotogr\u00e1ficos Ver Productos Actividades Escoge tu Actividad A\u00e9reo Bicicleta Buceo Mountaint Bike Ski Surf Viajes Vlogging DJI \u2013 DRONES Wishlist Vista r\u00e1pidaCompararA\u00f1adir al carrito DJI MINI 4 PRO (DJI RC 2) 999,00\u00a0\u20ac Iva incluido A\u00f1adir al carrito Wishlist Comparar Wishlist Vista r\u00e1pidaCompararA\u00f1adir al carrito Pack DJI MINI 4 PRO [\u2026]",
+        "Official Site": "https://tueventodron.com/",
+        "Icon": "https://tueventodron.com/wp-content/uploads/2024/07/AIRDRONE.jpg",
+        "Redirect": "https://tueventodron.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tueventodron.com/"
+    },
+    {
+        "link": "https://sayechsolution.com",
+        "Heading": "SayechSolution",
+        "Abstract": null,
+        "Official Site": "https://sayechsolution.com",
+        "Icon": "https://sayechsolution.com/wp-content/uploads/2024/12/cropped-logo-sin-fondo-32x32.png",
+        "Redirect": "https://sayechsolution.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sayechsolution.com"
     },
     {
         "link": "https://humeconnect.com",

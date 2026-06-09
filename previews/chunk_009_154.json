@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://sinesen.org.tr",
+        "Heading": "Sine-Sen \u2013 Sinema Emek\u00e7ileri Sendikas\u0131",
+        "Abstract": "Sinema Emek\u00e7ileri Sendikas\u0131",
+        "Official Site": "https://sinesen.org.tr",
+        "Icon": "https://sinesen.org.tr/wp-content/uploads/2025/01/cropped-ss-logo-32x32.jpg",
+        "Redirect": "https://sinesen.org.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sinesen.org.tr"
+    },
+    {
         "link": "https://bearwayonce.com",
         "Heading": null,
         "Abstract": null,
@@ -28,6 +38,16 @@
         "Redirect": "https://knifepoint.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://knifepoint.net"
+    },
+    {
+        "link": "https://canliskor.biz.tr",
+        "Heading": "Canl\u0131 Futbol Skorlar\u0131, Takvimler, Sonu\u00e7lar & Puan Durumu | Soccerway",
+        "Abstract": "Soccerway ile d\u00fcnyadaki en son futbol skorlar\u0131, fikst\u00fcrler ve sonu\u00e7lardan haberdar olun. Taraftarlar ve futbol severler i\u00e7in en kapsaml\u0131 kaynak.",
+        "Official Site": "https://www.soccerway.com/?utm_source=canliskor.biz.tr&utm_medium=acq&utm_campaign=acq_fsg",
+        "Icon": "https://tr.soccerway.com/res/_sw/image/og/soccerway.png",
+        "Redirect": "https://www.soccerway.com/?utm_source=canliskor.biz.tr&utm_medium=acq&utm_campaign=acq_fsg",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.soccerway.com/?utm_source=canliskor.biz.tr&utm_medium=acq&utm_campaign=acq_fsg"
     },
     {
         "link": "https://selflessdumbestexpectations.com",
@@ -71,8 +91,8 @@
     },
     {
         "link": "https://premiumfeedgrain.com",
-        "Heading": "Premium Feed & Grain - Homepage",
-        "Abstract": "",
+        "Heading": "Home - Premium Feed & Grain",
+        "Abstract": null,
         "Official Site": "https://premiumfeedgrain.com",
         "Icon": "",
         "Redirect": "https://premiumfeedgrain.com",
@@ -88,6 +108,16 @@
         "Redirect": "https://oneasiahost.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://oneasiahost.com/"
+    },
+    {
+        "link": "https://mauricioc.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mauricioc.com",
+        "Icon": "N/A",
+        "Redirect": "https://mauricioc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mauricioc.com"
     },
     {
         "link": "https://tilganga.org",
@@ -140,6 +170,16 @@
         "AbstractURL": "https://www.enviroportal.sk/"
     },
     {
+        "link": "https://icstepup.com",
+        "Heading": "Default page",
+        "Abstract": "Default page",
+        "Official Site": "https://icstepup.com",
+        "Icon": "https://hpanel.hostinger.com/favicons/hostinger.png",
+        "Redirect": "https://icstepup.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://icstepup.com"
+    },
+    {
         "link": "https://marketplacelive.co.uk",
         "Heading": "Marketplacelive",
         "Abstract": "marketplacelive.co.uk",
@@ -162,12 +202,22 @@
     {
         "link": "https://linknox.com",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://linknox.com",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://linknox.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://linknox.com"
+    },
+    {
+        "link": "https://familytraveller.com",
+        "Heading": "Family holidays curated by our team of explorers | Family Traveller",
+        "Abstract": "Looking for inspiration for your next family trip? Look no further. Discover family holidays, destinations, activities and experiences.",
+        "Official Site": "https://familytraveller.com/",
+        "Icon": "https://familytraveller.com/wp-content/themes/FamilyTraveller2022/img/favicon.png",
+        "Redirect": "https://familytraveller.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://familytraveller.com/"
     },
     {
         "link": "https://letsbemates.com.au",
@@ -210,6 +260,26 @@
         "AbstractURL": "https://azizigroupofcompanies.com"
     },
     {
+        "link": "https://greenstarplumbing.company",
+        "Heading": "Home - Green Star Plumbing Company",
+        "Abstract": "Welcome to Green Star Plumbing Company, a leading provider of high-quality plumbing services. Whether you need a quick repair, full system installation, or",
+        "Official Site": "https://greenstarplumbing.company/",
+        "Icon": "https://greenstarplumbing.company/wp-content/uploads/2025/01/bathroom_kitchen_remodeling.jpg",
+        "Redirect": "https://greenstarplumbing.company/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greenstarplumbing.company/"
+    },
+    {
+        "link": "https://acuraplanet.com",
+        "Heading": "Acura Planet Forum",
+        "Abstract": "An Acura Forum, By Acura Enthusiasts, For Acura Enthusiasts",
+        "Official Site": "https://acuraplanet.com",
+        "Icon": "N/A",
+        "Redirect": "https://acuraplanet.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://acuraplanet.com"
+    },
+    {
         "link": "https://realestateexpress.com",
         "Heading": "Colibri Real Estate School | Online Real Estate Education",
         "Abstract": "Colibri Real Estate School offers industry-leading online real estate school programs to earn your license or advance your career. Start your journey today.",
@@ -221,13 +291,13 @@
     },
     {
         "link": "https://theamericanreader.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://theamericanreader.com",
-        "Icon": "data:;",
-        "Redirect": "https://theamericanreader.com",
+        "Heading": "The American Reader",
+        "Abstract": "A monthly journal of literature and criticism.",
+        "Official Site": "http://theamericanreader.com/to-our-readers/",
+        "Icon": "https://theamericanreader.com/wp-content/uploads/2015/09/ar_final.jpg",
+        "Redirect": "http://theamericanreader.com/to-our-readers/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://theamericanreader.com"
+        "AbstractURL": "http://theamericanreader.com/to-our-readers/"
     },
     {
         "link": "https://zml3onikjft.info",

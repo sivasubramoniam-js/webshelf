@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://talkred.com",
+        "Heading": "Talk Red - The America First Alternative to Drudge",
+        "Abstract": "The America First Alternative to Drudge",
+        "Official Site": "https://www.talkred.com/",
+        "Icon": "https://www.talkred.com/wp-content/themes/talk-red/images/social-share-image.jpg",
+        "Redirect": "https://www.talkred.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.talkred.com/"
+    },
+    {
         "link": "https://geotek.online",
         "Heading": "GEOTEK \u2013 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a IOT \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0434\u043b\u044f \u0432\u0430\u0448\u0435\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430",
         "Abstract": "\u041c\u044b \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u043c \u043e\u0431\u043b\u0430\u0447\u043d\u0443\u044e \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0443 GeoTek Online, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u043c IoT-\u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b\u044b \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043b\u0435\u0440\u044b, \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c \u0430\u0432\u0442\u043e\u043f\u0430\u0440\u043a\u043e\u043c \u0432 \u0440\u0435\u0436\u0438\u043c\u0435 \u043e\u043d\u043b\u0430\u0439\u043d \u0438 \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u0442\u044c \u0443\u0434\u0430\u043b\u0435\u043d\u043d\u044b\u0435 \u043e\u0431\u044a\u0435\u043a\u0442\u044b.",
@@ -8,6 +18,26 @@
         "Redirect": "https://geotek.online/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://geotek.online/"
+    },
+    {
+        "link": "https://firstoken.co",
+        "Heading": "Firstoken - End-to-end PCI DSS infrastructure",
+        "Abstract": "Reduce time and costs by 50% in your PCI DSS certification process with our secure, cloud-based compliance solution.",
+        "Official Site": "https://firstoken.co/",
+        "Icon": "/img/favicon-32x32.png",
+        "Redirect": "https://firstoken.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://firstoken.co/"
+    },
+    {
+        "link": "https://mycryptoheroes.net",
+        "Heading": "My Crypto Heroes (MCH, \u30de\u30a4\u30af\u30ea) | Crypto game from Japan!",
+        "Abstract": "Block Chain Game,My Crypto Heroes (MCH) -where your time and passion will become your assets. Get great extensions and Land through collecting/training historical Heroes! Can be played without gas fee.",
+        "Official Site": "https://www.mycryptoheroes.net/",
+        "Icon": "https://www.mycryptoheroes.net/ogp.png?2019120301",
+        "Redirect": "https://www.mycryptoheroes.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mycryptoheroes.net/"
     },
     {
         "link": "https://apprication.dev",
@@ -131,13 +161,13 @@
     },
     {
         "link": "https://n2galeria.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://n2galeria.com",
-        "Icon": "data:;",
-        "Redirect": "https://n2galeria.com",
+        "Heading": "Top Sitios de Casinos Online en Espa\u00f1a para 2026",
+        "Abstract": "Descubre los mejores casinos online en Espa\u00f1a en 2026, con bonos exclusivos, pagos r\u00e1pidos, juegos seguros y plataformas confiables.",
+        "Official Site": "https://www.n2galeria.com/",
+        "Icon": "https://www.n2galeria.com/files/wp-content/uploads/2019/07/logo_transparente_n.png",
+        "Redirect": "https://www.n2galeria.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://n2galeria.com"
+        "AbstractURL": "https://www.n2galeria.com/"
     },
     {
         "link": "https://sakaiku.jp",
@@ -158,6 +188,16 @@
         "Redirect": "https://westerncosmetics.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://westerncosmetics.com/"
+    },
+    {
+        "link": "https://abiacom.org",
+        "Heading": "ABIACOMM - Associa\u00e7\u00e3o Brasileira de Intelig\u00eancia Artificial e E-commerce",
+        "Abstract": "Associa\u00e7\u00e3o Brasileira de Intelig\u00eancia Artificial e E-commerce",
+        "Official Site": "https://abiacom.org/",
+        "Icon": "https://abiacom.org/wp-content/uploads/2023/10/cropped-logo-footer-associe-32x32.png",
+        "Redirect": "https://abiacom.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://abiacom.org/"
     },
     {
         "link": "https://coverhound.com",
@@ -198,6 +238,26 @@
         "Redirect": "https://www.actunet.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.actunet.com/"
+    },
+    {
+        "link": "https://904media.net",
+        "Heading": "Web904 \u2013 Web Site Design",
+        "Abstract": null,
+        "Official Site": "https://904media.net",
+        "Icon": "N/A",
+        "Redirect": "https://904media.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://904media.net"
+    },
+    {
+        "link": "https://veportal.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://veportal.net",
+        "Icon": "N/A",
+        "Redirect": "https://veportal.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://veportal.net"
     },
     {
         "link": "https://lubliniec.pl",

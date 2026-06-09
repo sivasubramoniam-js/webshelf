@@ -70,6 +70,26 @@
         "AbstractURL": "https://www.nmrabr.org.uk/"
     },
     {
+        "link": "https://festivalfinder.eu",
+        "Heading": "Festival Finder - European Festivals Association",
+        "Abstract": "",
+        "Official Site": "https://www.festivalfinder.eu/",
+        "Icon": "https://www.festivalfinder.eu/cpresources/1f443b60/favicon.png?v=1666882946",
+        "Redirect": "https://www.festivalfinder.eu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.festivalfinder.eu/"
+    },
+    {
+        "link": "https://sanmoise.it",
+        "Heading": "Hotel San Mois\u00e8 | Hotel 3 stelle nel centro di Venezia",
+        "Abstract": "Hotel San Mois\u00e8, hotel 3 stelle nel centro di Venezia a pochi passi da Piazza San Marco. Camere eleganti con arredi d'epoca, corte privata e sala colazione affacciata sul canale. Prenota ora.",
+        "Official Site": "https://sanmoise.it/",
+        "Icon": "https://sanmoise.it/wp-content/uploads/2019/01/cropped-san-moise-logo-colors-1-32x32.jpg",
+        "Redirect": "https://sanmoise.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sanmoise.it/"
+    },
+    {
         "link": "https://uzitalk.com",
         "Heading": "UZI Talk Forums",
         "Abstract": null,
@@ -150,6 +170,16 @@
         "AbstractURL": "https://paydxm.com"
     },
     {
+        "link": "https://esserver.com",
+        "Heading": "The Knowledge Center - The Knowledge Center",
+        "Abstract": "The Knowledge Center is a comprehensive resource that features information about Adsystech\u2019s products and services. We offer an extensive catalog of content, including videos, documentation, quick reference guides and previews of new software features. You can even register for upcoming webinars. Check out the Knowledge Center, and if you have any questions, please send us a note using the Contact page letting us know how we can better help you.",
+        "Official Site": "https://kb.esserver.com/",
+        "Icon": "https://kb.esserver.com/wp-content/uploads/2018/04/adsystechfavicon.jpg",
+        "Redirect": "https://kb.esserver.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kb.esserver.com/"
+    },
+    {
         "link": "https://tekora.ru",
         "Heading": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \"\u0422\u0415\u041a\u041e\u0420\u0410\" - \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u044f\u043c\u0438 \u0438  \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c\u044e, \u0438\u0434\u0435\u044f\u043c\u0438, \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043a\u0430\u043f\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u043c \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e\u043c, \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438 \u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u043c\u0438, \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u043c\u0438 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043c\u0438, \u0441\u0438\u0441\u0442\u0435\u043c\u0430 4\u0438",
         "Abstract": "\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0438\u0434\u0435\u044f\u043c\u0438, \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u044f\u043c\u0438, \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043e\u0439, \u043a\u0430\u043f\u0438\u0442\u0430\u043b\u044c\u043d\u044b\u043c \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e\u043c, \u0440\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0438\u0437\u0430\u0442\u043e\u0440\u0441\u043a\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c\u044e, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u043e\u0431\u043e\u0440\u043e\u0442\u043e\u043c",
@@ -180,6 +210,16 @@
         "AbstractURL": "https://hillga.com/"
     },
     {
+        "link": "https://ryu-ga-index.com",
+        "Heading": "FrontPage - PukiWiki",
+        "Abstract": null,
+        "Official Site": "https://ryu-ga-index.com",
+        "Icon": "N/A",
+        "Redirect": "https://ryu-ga-index.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ryu-ga-index.com"
+    },
+    {
         "link": "https://telnetfast.com.br",
         "Heading": " Telnet Fast ",
         "Abstract": null,
@@ -198,6 +238,16 @@
         "Redirect": "https://artsthread.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://artsthread.com"
+    },
+    {
+        "link": "https://alltbilisihotels.com",
+        "Heading": "alltbilisihotels.com\u00a0-\u00a0alltbilisihotels Resources and Information.",
+        "Abstract": "alltbilisihotels.com is your first and best source for information about alltbilisihotels. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://alltbilisihotels.com",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://alltbilisihotels.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alltbilisihotels.com"
     },
     {
         "link": "https://accelerist.com",
@@ -238,5 +288,15 @@
         "Redirect": "https://kotimikro.fi/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kotimikro.fi/"
+    },
+    {
+        "link": "https://iearn.org",
+        "Heading": "iEARN Collaboration Centre (en-US)",
+        "Abstract": "iEARN (International Education and Resource Network) is the world's largest non-profit global network that enables teachers and youth to use the Internet and other technologies to collaborate on projects that enhance learning and make a difference in the world.",
+        "Official Site": "https://iearn.org",
+        "Icon": "https://iearn.org/assets/general/iearn.png",
+        "Redirect": "https://iearn.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iearn.org"
     }
 ]

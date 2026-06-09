@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.independence.health/"
     },
     {
+        "link": "https://narodypodyji.cz",
+        "Heading": "N\u00e1rody Podyj\u00ed \u2013 Bu\u010fto jsou tu doma v\u0161ichni anebo nikdo",
+        "Abstract": null,
+        "Official Site": "https://narodypodyji.cz",
+        "Icon": "https://www.narodypodyji.cz/wp-content/uploads/2022/03/cropped-logowebu-32x32.png",
+        "Redirect": "https://narodypodyji.cz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://narodypodyji.cz"
+    },
+    {
         "link": "https://springindustrial.com",
         "Heading": null,
         "Abstract": null,
@@ -60,6 +70,16 @@
         "AbstractURL": "https://gmgjzj.com"
     },
     {
+        "link": "https://kitpapa.net",
+        "Heading": "KitPapa - The Ultimate WordPress Template Marketplace",
+        "Abstract": null,
+        "Official Site": "https://kitpapa.com/",
+        "Icon": "https://kitpapa.com/wp-content/uploads/2022/10/Kitpapa-Logo.png",
+        "Redirect": "https://kitpapa.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kitpapa.com/"
+    },
+    {
         "link": "https://com-business.ru",
         "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f - \u0411\u0438\u0437\u043d\u0435\u0441 \u043f\u043e\u0440\u0442\u0430\u043b",
         "Abstract": null,
@@ -78,6 +98,16 @@
         "Redirect": "https://raildesign.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://raildesign.nl"
+    },
+    {
+        "link": "https://nisamedical.com.au",
+        "Heading": "NISA Medical",
+        "Abstract": null,
+        "Official Site": "https://nisamedical.com.au",
+        "Icon": "https://nisamedical.com.au/wp-content/uploads/2019/12/favi.png",
+        "Redirect": "https://nisamedical.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nisamedical.com.au"
     },
     {
         "link": "https://mymillennialguide.com",
@@ -118,6 +148,16 @@
         "Redirect": "https://www.datensysteme.de/ebo-connect",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.datensysteme.de/ebo-connect"
+    },
+    {
+        "link": "https://idlo.int",
+        "Heading": "IDLO - International Development Law Organization |",
+        "Abstract": null,
+        "Official Site": "https://idlo.int/",
+        "Icon": "https://idlo.int/sites/default/files/favicon_0.ico",
+        "Redirect": "https://idlo.int/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://idlo.int/"
     },
     {
         "link": "https://998993.ru",
@@ -200,6 +240,16 @@
         "AbstractURL": "https://www.mcgrathnicol.com/"
     },
     {
+        "link": "https://best-bike.at",
+        "Heading": null,
+        "Abstract": "",
+        "Official Site": "https://best-bike.at/",
+        "Icon": "https://best-bike.at/bilder/intern/shoplogo/BestBikeLong.svg",
+        "Redirect": "https://best-bike.at/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://best-bike.at/"
+    },
+    {
         "link": "https://inxenio.com",
         "Heading": "Inxenio | Dise\u00f1o de p\u00e1ginas web | Registro de dominios | Alojamiento web",
         "Abstract": null,
@@ -230,14 +280,34 @@
         "AbstractURL": "https://foretagande.se"
     },
     {
+        "link": "https://dzconnect.com",
+        "Heading": "dzconnect.com",
+        "Abstract": null,
+        "Official Site": "https://dzconnect.com",
+        "Icon": "N/A",
+        "Redirect": "https://dzconnect.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dzconnect.com"
+    },
+    {
         "link": "https://candy-spinz-revisao.xyz",
         "Heading": "Candy Spinz Casino Oficial \u2013 Ganhe at\u00e9 1500\u20ac + 300 Rodadas Gr\u00e1tis",
         "Abstract": "An\u00e1lise completa do nosso casino oficial Candy Spinz. Qualidade dos jogos e b\u00f3nus. Porque a nossa plataforma de jogos \u00e9 t\u00e3o confi\u00e1vel. Como se registar no site oficial, fazer um dep\u00f3sito, ganhar e sacar fundos.",
-        "Official Site": "https://candyspinzcasino.eu.com/",
-        "Icon": "https://candyspinzcasino.eu.com/wp-content/uploads/2025/01/favicon_candyspinz_pt-150x150.webp",
-        "Redirect": "https://candyspinzcasino.eu.com/",
+        "Official Site": "https://candyspiinz.net/login1/",
+        "Icon": "https://candyspiinz.net/wp-content/uploads/2025/01/favicon_candyspinz_pt-150x150.webp",
+        "Redirect": "https://candyspiinz.net/login1/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://candyspinzcasino.eu.com/"
+        "AbstractURL": "https://candyspiinz.net/login1/"
+    },
+    {
+        "link": "https://samdre.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://samdre.com",
+        "Icon": "N/A",
+        "Redirect": "https://samdre.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://samdre.com"
     },
     {
         "link": "https://velvetcake.live",

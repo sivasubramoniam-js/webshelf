@@ -80,6 +80,16 @@
         "AbstractURL": "https://evergreen29.com"
     },
     {
+        "link": "https://bricosite.com",
+        "Heading": "Domain Default page",
+        "Abstract": null,
+        "Official Site": "https://bricosite.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://bricosite.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bricosite.com"
+    },
+    {
         "link": "https://lrhsd.org",
         "Heading": "Home - Lenape Regional High School District",
         "Abstract": "Home - Lenape Regional High School District",
@@ -88,6 +98,16 @@
         "Redirect": "https://www.lrhsd.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lrhsd.org/"
+    },
+    {
+        "link": "https://hyystd.com",
+        "Heading": "\u4e9a\u6d32\u4e2d\u6587\u5b57\u5e55\u5728\u7ebf\u89c2\u770b_\u65e5\u97e9\u4e2d\u6587\u5b57\u5e55_\u4e2d\u6587\u5728\u7ebf\u5b57\u5e55\u514d\u8d39\u89c2\u770b\u7535\u89c6\u5267\u65e5\u5267_\u65e5\u97e9\u4e2d\u6587\u5b57\u5e55\u5728\u7ebf\u89c2\u770b_\u4e2d\u6587\u5b57\u5e55\u5728\u7ebf\u514d\u8d39\u89c2\u770b-\u4e9a\u6d32\u4e2d\u6587\u5f71\u9662",
+        "Abstract": "\u4e9a\u6d32\u4e2d\u6587\u5f71\u9662(hyystd.com)\u514d\u8d39\u5e26\u6765\u4e9a\u6d32\u4e2d\u6587\u5b57\u5e55\u5728\u7ebf\u89c2\u770b,\u65e5\u97e9\u4e2d\u6587\u5b57\u5e55,\u4e2d\u6587\u5728\u7ebf\u5b57\u5e55\u514d\u8d39\u89c2\u770b\u7535\u89c6\u5267\u65e5\u5267,\u65e5\u97e9\u4e2d\u6587\u5b57\u5e55\u5728\u7ebf\u89c2\u770b,\u4e2d\u6587\u5b57\u5e55\u5728\u7ebf\u514d\u8d39\u89c2\u770b\u3002",
+        "Official Site": "https://hyystd.com",
+        "Icon": "/Tpl/miaopon/demo/img/favicon.png",
+        "Redirect": "https://hyystd.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hyystd.com"
     },
     {
         "link": "https://memoryplugin.com",
@@ -101,10 +121,10 @@
     },
     {
         "link": "https://langkahkecilterus.com",
-        "Heading": "Asian Handicap Sports Betting - SBOBET Mobile",
-        "Abstract": "Bet on your favorite sports with Asian Handicap odds on SBOBET Mobile. Enjoy convenient betting on the move!",
+        "Heading": "Asian Handicap Betting- Sports Betting by SBOBET",
+        "Abstract": "SBOBET - The world leading Asian Handicap Specialist offering the best odds in Sports, Casino, Games.",
         "Official Site": "https://langkahkecilterus.com",
-        "Icon": "/favicon.ico",
+        "Icon": "https://img-1-3.speedysurfcdn.net/images/favicon.ico?20260513b",
         "Redirect": "https://langkahkecilterus.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://langkahkecilterus.com"
@@ -171,13 +191,13 @@
     },
     {
         "link": "https://networkip.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://networkip.net",
-        "Icon": "data:;",
-        "Redirect": "https://networkip.net",
+        "Heading": "Home - Network IP",
+        "Abstract": "About NetworkIP NetworkIP is an international voice \u201cService Provider\u201d with over 25 years of experience, specializing in high-quality international calling services. We enable MNOs and Mobile Virtual Network Operators (MVNOs) to outsource international calling offerings with minimal risk and significant regulatory savings. NetworkIP supports direct dialing through its exclusive connections with the major US MNOs,",
+        "Official Site": "https://www.networkip.net/",
+        "Icon": "https://www.networkip.net/wp-content/uploads/2025/03/network-ip-logo.png",
+        "Redirect": "https://www.networkip.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://networkip.net"
+        "AbstractURL": "https://www.networkip.net/"
     },
     {
         "link": "https://colredit.com",
@@ -228,6 +248,26 @@
         "Redirect": "https://www.choowap.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.choowap.com"
+    },
+    {
+        "link": "https://energyfiend.com",
+        "Heading": "Caffeine Informer",
+        "Abstract": "Caffeine dangers, benefits, and safety.  Find the caffeine amounts in energy drinks, coffee, tea, soda, and food with our extensive interactive database.",
+        "Official Site": "https://energyfiend.com",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://energyfiend.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://energyfiend.com"
+    },
+    {
+        "link": "https://tektonics.org",
+        "Heading": "Tekton Education and Apologetics Ministries, James Patrick Holding",
+        "Abstract": "Answering Bible contradictions, misunderstandings, and misinterpretations",
+        "Official Site": "https://tektonics.org",
+        "Icon": "N/A",
+        "Redirect": "https://tektonics.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tektonics.org"
     },
     {
         "link": "https://advance-trading.com",

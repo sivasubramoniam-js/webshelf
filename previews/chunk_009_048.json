@@ -150,14 +150,34 @@
         "AbstractURL": "https://www.setlog.com/"
     },
     {
-        "link": "https://mygardenlife.com",
+        "link": "https://tracevanish.com",
         "Heading": null,
         "Abstract": null,
+        "Official Site": "https://tracevanish.com",
+        "Icon": "N/A",
+        "Redirect": "https://tracevanish.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tracevanish.com"
+    },
+    {
+        "link": "https://mygardenlife.com",
+        "Heading": "Home - MyGardenLife",
+        "Abstract": "Spruce up your garden with some of these seasonal selections from the Plant Library",
         "Official Site": "https://mygardenlife.com",
-        "Icon": "data:;",
+        "Icon": "https://mygardenlife.com/wp-content/uploads/2023/05/cropped-mgl-favicon-32x32.png",
         "Redirect": "https://mygardenlife.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mygardenlife.com"
+    },
+    {
+        "link": "https://ourfamilyworld.com",
+        "Heading": "OurFamilyWorld.com",
+        "Abstract": "A blog about you and your family!",
+        "Official Site": "https://www.ourfamilyworld.com/",
+        "Icon": "https://www.ourfamilyworld.com/wp-content/uploads/2019/05/cropped-icon3.jpg",
+        "Redirect": "https://www.ourfamilyworld.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ourfamilyworld.com/"
     },
     {
         "link": "https://lightmode.io",
@@ -250,6 +270,16 @@
         "AbstractURL": "https://acgland.com"
     },
     {
+        "link": "https://purplemoonhosting.co.uk",
+        "Heading": "Purple Moon Hosting - Web hosting by web developers",
+        "Abstract": null,
+        "Official Site": "https://purplemoonhosting.co.uk",
+        "Icon": "/templates/antler/assets/img/pmh-favicon.png",
+        "Redirect": "https://purplemoonhosting.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://purplemoonhosting.co.uk"
+    },
+    {
         "link": "https://183worldslasher.com",
         "Heading": null,
         "Abstract": null,
@@ -258,5 +288,35 @@
         "Redirect": "https://183worldslasher.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://183worldslasher.com"
+    },
+    {
+        "link": "https://2jlmmm.com",
+        "Heading": "JLMMM",
+        "Abstract": null,
+        "Official Site": "https://2jlmmm.com",
+        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+        "Redirect": "https://2jlmmm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://2jlmmm.com"
+    },
+    {
+        "link": "https://3jlmmm.com",
+        "Heading": "JLMMM",
+        "Abstract": null,
+        "Official Site": "https://3jlmmm.com",
+        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+        "Redirect": "https://3jlmmm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://3jlmmm.com"
+    },
+    {
+        "link": "https://asep637.com",
+        "Heading": "ASEPTOGEL: LINK LOGIN DAFTAR TERBARU ASEPTOGEL",
+        "Abstract": "ASEPTOGEL adalah agen togel slot dan casino online resmi terpercaya terlengkap ada bonus cashback di semua permainan. ",
+        "Official Site": "https://asep639.com/",
+        "Icon": "https://cloud.cdnku.link/wp-content/uploads/2024/06/Asepcard.jpg",
+        "Redirect": "https://asep639.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://asep639.com/"
     }
 ]

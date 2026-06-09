@@ -101,13 +101,13 @@
     },
     {
         "link": "https://casertaweb.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://casertaweb.com",
-        "Icon": "data:;",
-        "Redirect": "https://casertaweb.com",
+        "Heading": "Ultime Notizie Caserta - Cronaca Caserta e Provincia | Caserta Web",
+        "Abstract": "Segui le ultime notizie relative all'attualit\u00e0, alla cultura e agli spettacoli, guarda i video rilevanti su questo argomento e trova informazioni sul sito Web di Caserta.",
+        "Official Site": "https://casertaweb.com/notizie/",
+        "Icon": "https://casertaweb.com/notizie/wp-content/uploads/2025/02/CasertaWeb2025.jpg",
+        "Redirect": "https://casertaweb.com/notizie/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://casertaweb.com"
+        "AbstractURL": "https://casertaweb.com/notizie/"
     },
     {
         "link": "https://chistayasloboda.ru",
@@ -218,16 +218,6 @@
         "Redirect": "https://smtanatomi.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://smtanatomi.com/"
-    },
-    {
-        "link": "https://oil4u.ru",
-        "Heading": "Access Denied",
-        "Abstract": null,
-        "Official Site": "https://oil4u.ru",
-        "Icon": "N/A",
-        "Redirect": "https://oil4u.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://oil4u.ru"
     },
     {
         "link": "https://forward-center.ru",

@@ -20,6 +20,26 @@
         "AbstractURL": "https://vertahosting.com"
     },
     {
+        "link": "https://monitorulneamt.ro",
+        "Heading": "Monitorul de Neam\u021b \u2013 \u0218tiri de ultim\u0103 or\u0103 din jude\u021bul Neam\u021b",
+        "Abstract": "Ziarul care st\u0103 de vorb\u0103 cu oamenii",
+        "Official Site": "https://monitorulneamt.ro/",
+        "Icon": "https://i0.wp.com/monitorulneamt.ro/wp-content/uploads/logo-monitorul1.png?fit=272%2C90&ssl=1",
+        "Redirect": "https://monitorulneamt.ro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://monitorulneamt.ro/"
+    },
+    {
+        "link": "https://ikpartners.com",
+        "Heading": "Leading European Private Equity Firm. IK Partners - People-First",
+        "Abstract": "Hands-on approach to investing in the European mid-market, supporting management teams and creating lasting value for investors.",
+        "Official Site": "https://ikpartners.com/",
+        "Icon": "wp-content/uploads/2025/03/cropped-icon-black-32x32.png",
+        "Redirect": "https://ikpartners.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ikpartners.com/"
+    },
+    {
         "link": "https://taif.ru",
         "Heading": "\u0422\u0430\u0438\u0444 \u0433\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439",
         "Abstract": null,
@@ -278,6 +298,16 @@
         "Redirect": "http://www.webdico.com",
         "AbstractSource": "BS4",
         "AbstractURL": "http://www.webdico.com"
+    },
+    {
+        "link": "https://windowsgames.co.uk",
+        "Heading": "Windows Games by Sean O'Connor",
+        "Abstract": null,
+        "Official Site": "https://windowsgames.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://windowsgames.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://windowsgames.co.uk"
     },
     {
         "link": "https://traffic-pulse.ru",

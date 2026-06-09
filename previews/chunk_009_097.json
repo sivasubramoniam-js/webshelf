@@ -10,6 +10,16 @@
         "AbstractURL": "https://salus-kliniken.de"
     },
     {
+        "link": "https://qmarkets.net",
+        "Heading": "Qmarkets - Impact-Driven Innovation Management Software",
+        "Abstract": "We empower organizations to manage innovation that drives real business results with intelligent tools, proven methodologies, and expert guidance.",
+        "Official Site": "https://www.qmarkets.net/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.qmarkets.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.qmarkets.net/"
+    },
+    {
         "link": "https://baires.host",
         "Heading": "Baires Host \u2014 Infraestructura Cloud y Bare Metal | Argentina",
         "Abstract": "Cloud VPS, servidores dedicados Bare Metal y Game Servers desde Argentina. Activaci\u00f3n en minutos, baja latencia regional, Anti-DDoS y soporte t\u00e9cnico 24/7.",
@@ -38,6 +48,16 @@
         "Redirect": "https://sq4444.shop",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sq4444.shop"
+    },
+    {
+        "link": "https://mvovlaanderen.be",
+        "Heading": "MVO Vlaanderen",
+        "Abstract": null,
+        "Official Site": "https://mvovlaanderen.be",
+        "Icon": "https://www.mvovlaanderen.be/sites/default/files/styles/social_media_image/public/import/lamp.png?h=1674cd7c&itok=5m198noi",
+        "Redirect": "https://mvovlaanderen.be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mvovlaanderen.be"
     },
     {
         "link": "https://datacreek.net",
@@ -78,6 +98,16 @@
         "Redirect": "https://vkmusicplayer.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vkmusicplayer.ru"
+    },
+    {
+        "link": "https://lenmr.pl",
+        "Heading": "SKLEP - LenMR",
+        "Abstract": "Wspania\u0142y len\u2026 Ten w stu procentach naturalny materia\u0142 pozytywnie wp\u0142ywa na stan sk\u00f3ry. Jest hipoalergiczny i antybakteryjny, co sprawia, \u017ce jest przydatny w leczeniu wielu chor\u00f3b zwi\u0105zanych ze sk\u00f3r\u0105. Nie powoduje uczule\u0144, ani podra\u017cnie\u0144 ze wzgl\u0119du na brak czynnik\u00f3w alergennych. To wyb\u00f3r idealny nie tylko dla alergik\u00f3w i os\u00f3b maj\u0105cych wra\u017cliw\u0105 sk\u00f3r\u0119, ale dla ka\u017cdego, ... Dowiedz si\u0119 wi\u0119cej",
+        "Official Site": "https://www.lenmr.pl/",
+        "Icon": "https://www.lenmr.pl/wp-content/uploads/2022/03/home_witaj.jpg",
+        "Redirect": "https://www.lenmr.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lenmr.pl/"
     },
     {
         "link": "https://onholyground.com",
@@ -170,6 +200,16 @@
         "AbstractURL": "https://nowekasynaonline.com.pl"
     },
     {
+        "link": "https://goalinn.com",
+        "Heading": "Goalinn | Online store for football and team sports equipment",
+        "Abstract": "Shop at Goalinn for top soccer gear! Clothing, footwear, and accessories at unbeatable prices, guaranteed.",
+        "Official Site": "https://goalinn.com",
+        "Icon": "https://cache.tradeinn.com/web/web/inn.jpg",
+        "Redirect": "https://goalinn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://goalinn.com"
+    },
+    {
         "link": "https://ringsidereport.com",
         "Heading": "RingSide Report \u2013 World News, Social Issues, Politics, Entertainment and Sports",
         "Abstract": null,
@@ -190,6 +230,16 @@
         "AbstractURL": "https://www.hwk-schwerin.de/artikel/startseite-hwk-19,0,1449.html"
     },
     {
+        "link": "https://playatharrys.co",
+        "Heading": "Play at Harrys",
+        "Abstract": null,
+        "Official Site": "https://playatharrys.co",
+        "Icon": "/android-icon-192x192.png",
+        "Redirect": "https://playatharrys.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://playatharrys.co"
+    },
+    {
         "link": "https://trazeapp.com",
         "Heading": "Traze",
         "Abstract": null,
@@ -208,6 +258,16 @@
         "Redirect": "https://www.aromasoap.com.ua",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.aromasoap.com.ua"
+    },
+    {
+        "link": "https://liseyhosting.com",
+        "Heading": "Elise Cronin-Hurley,\u00a0Web and Graphic Design",
+        "Abstract": null,
+        "Official Site": "https://liseyhosting.com",
+        "Icon": "N/A",
+        "Redirect": "https://liseyhosting.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://liseyhosting.com"
     },
     {
         "link": "https://asyncapi.com",
@@ -258,5 +318,15 @@
         "Redirect": "https://1winazerbaijan.online",
         "AbstractSource": "BS4",
         "AbstractURL": "https://1winazerbaijan.online"
+    },
+    {
+        "link": "https://enventaya.com",
+        "Heading": "En venta Ya",
+        "Abstract": "La Tienda en Linea m\u00e1s completa de La Rep\u00fablica Dominicana",
+        "Official Site": "https://enventaya.com",
+        "Icon": "N/A",
+        "Redirect": "https://enventaya.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://enventaya.com"
     }
 ]

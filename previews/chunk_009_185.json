@@ -110,6 +110,16 @@
         "AbstractURL": "https://firebase.google.com/products/crashlytics"
     },
     {
+        "link": "https://cruzrojacolombiana.org",
+        "Heading": "Cruz Roja Colombiana",
+        "Abstract": "S\u00e9 la mano que acompa\u00f1a, la voz que ayuda y la fuerza que sostiene a miles de familias en Colombia. Juntos hacemos la diferencia.",
+        "Official Site": "https://www.cruzrojacolombiana.org/",
+        "Icon": "https://www.cruzrojacolombiana.org/wp-content/uploads/2026/02/Favicon-Cruz-Roja-Colombiana.png",
+        "Redirect": "https://www.cruzrojacolombiana.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cruzrojacolombiana.org/"
+    },
+    {
         "link": "https://globalassembly.org",
         "Heading": "Address the climate and ecological crisis | Global Assembly",
         "Abstract": "Global Assembly Members at COP26  Assembly members from the world's first global citizens' assembly presented their Declaration at COP26 on  Monday 01 November 2021 .  Read the Declaration in full by clicking the link below.",
@@ -160,11 +170,21 @@
         "AbstractURL": "https://riteofpassage.com/"
     },
     {
+        "link": "https://nestxpert.com",
+        "Heading": "Best Facility Management Company in Abu Dhabi | Nest Xpert UAE",
+        "Abstract": "Transform your property with Nest Xpert, the leading facility management company in Abu Dhabi. Expert solutions for seamless operations and optimal functionality.",
+        "Official Site": "https://nestxpert.com/",
+        "Icon": "https://nestxpert.com/wp-content/uploads/2018/10/cropped-fv-copy-32x32.png",
+        "Redirect": "https://nestxpert.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nestxpert.com/"
+    },
+    {
         "link": "https://cumclinic.com",
-        "Heading": "Cum Clinic | Welcome to my Cum Clinic",
-        "Abstract": null,
+        "Heading": "Cum Clinic | Age Verification",
+        "Abstract": "Cum Clinic | Age Verification",
         "Official Site": "https://cumclinic.com",
-        "Icon": "custom_assets/images/favicon.png",
+        "Icon": "N/A",
         "Redirect": "https://cumclinic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cumclinic.com"
@@ -211,13 +231,13 @@
     },
     {
         "link": "https://londonfestivalofarchitecture.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://londonfestivalofarchitecture.org",
-        "Icon": "data:;",
-        "Redirect": "https://londonfestivalofarchitecture.org",
+        "Heading": "The London Festival of Architecture | 1 \u2013 30 June",
+        "Abstract": "The London Festival of Architecture is the world\u2019s largest annual architecture festival. The festival returns from 1 - 30 June 2024 with hundreds of events right across the capital - from family events, to exhibitions, walks and tours, debates and stunning architectural installations: there's something for everyone.",
+        "Official Site": "https://www.londonfestivalofarchitecture.org/",
+        "Icon": "https://www.londonfestivalofarchitecture.org/wp-content/uploads/2020/05/london.jpg",
+        "Redirect": "https://www.londonfestivalofarchitecture.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://londonfestivalofarchitecture.org"
+        "AbstractURL": "https://www.londonfestivalofarchitecture.org/"
     },
     {
         "link": "https://takihost.ru",
@@ -238,6 +258,16 @@
         "Redirect": "https://joberty.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://joberty.com"
+    },
+    {
+        "link": "https://bicpens.com",
+        "Heading": "Home - Custom Printed Promotional Products - BICpens.com | Product Catalog | BICpens.com",
+        "Abstract": "Specializing in items we imprint with your logo or content, and more than 45 years of promotional experience, BICpens.com offers advertising quality and value that can\u2019t be matched.",
+        "Official Site": "https://www.bicpens.com/",
+        "Icon": "https://www.bicpens.com/wp-content/uploads/2021/09/favicon.ico",
+        "Redirect": "https://www.bicpens.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bicpens.com/"
     },
     {
         "link": "https://alliedmedia.org",

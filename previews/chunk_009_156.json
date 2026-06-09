@@ -10,16 +10,6 @@
         "AbstractURL": "https://www.villavillam.com.tr"
     },
     {
-        "link": "https://automanulav.pt",
-        "Heading": "Homepage",
-        "Abstract": "",
-        "Official Site": "https://automanulav.pt/",
-        "Icon": "http://cdnw1.omeuwebsite.com/users/bikes/other/logo_weasy_1.png",
-        "Redirect": "https://automanulav.pt/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://automanulav.pt/"
-    },
-    {
         "link": "https://alparistart.com",
         "Heading": null,
         "Abstract": null,
@@ -100,6 +90,16 @@
         "AbstractURL": "https://marketing-agencies.co.uk"
     },
     {
+        "link": "https://hayhat.net",
+        "Heading": "Kh\u00e1m ph\u00e1 - H\u00e1t hay kh\u00f4ng b\u1eb1ng Hay H\u00e1t",
+        "Abstract": "H\u00e1t hay kh\u00f4ng b\u1eb1ng hay h\u00e1t l\u00e0 Blog nh\u1ea1c do ch\u00ednh th\u00e0nh vi\u00ean t\u1ef1 h\u00e1t, t\u1ef1 thu \u00e2m v\u00e0 chia s\u1ebb \u0111\u1ec3 c\u1ed9ng \u0111\u1ed3ng c\u00f9ng nghe ^^",
+        "Official Site": "https://hayhat.net",
+        "Icon": "https://hayhat.net/themes/volcano/img/logo.png",
+        "Redirect": "https://hayhat.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hayhat.net"
+    },
+    {
         "link": "https://plasticfreeonlus.it",
         "Heading": "Plastic Free Odv Onlus - L'associazione contro la plastica monouso",
         "Abstract": "Organizzazione di volontariato con l'obiettivo di informare e sensibilizzare pi\u00f9 persone possibili per un mondo #plasticfree",
@@ -171,13 +171,13 @@
     },
     {
         "link": "https://persefona.cz",
-        "Heading": "Do\u010dasn\u00e1 str\u00e1nka | Persefona",
-        "Abstract": null,
-        "Official Site": "https://persefona.cz",
-        "Icon": "N/A",
-        "Redirect": "https://persefona.cz",
+        "Heading": "Pomoc ob\u011btem dom\u00e1c\u00edho n\u00e1sil\u00ed a zn\u00e1siln\u011bn\u00ed v Brn\u011b | Persefona",
+        "Abstract": "Poradna Persefona Brno pom\u00e1h\u00e1 ob\u011btem dom\u00e1c\u00edho a sexu\u00e1ln\u00edho n\u00e1sil\u00ed. Nab\u00edz\u00edme diksr\u00e9tn\u00ed podporu, poradenstv\u00ed i kritovou linku.",
+        "Official Site": "https://www.persefona.cz/",
+        "Icon": "https://www.persefona.cz/img/sliderPoradenstviFB.jpg",
+        "Redirect": "https://www.persefona.cz/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://persefona.cz"
+        "AbstractURL": "https://www.persefona.cz/"
     },
     {
         "link": "https://muledesign.com",
@@ -348,15 +348,5 @@
         "Redirect": "https://russianpod101.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://russianpod101.com"
-    },
-    {
-        "link": "https://toppassports.com",
-        "Heading": "Top Passports 2023 | A Unique Ranking System",
-        "Abstract": "Top Passports is your gate to discover a passport's performance in mobility, investment, and quality of life.",
-        "Official Site": "https://toppassports.com/",
-        "Icon": "https://toppassports.com/wp-content/uploads/2023/02/Group-3.png",
-        "Redirect": "https://toppassports.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://toppassports.com/"
     }
 ]

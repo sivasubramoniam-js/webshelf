@@ -22,7 +22,7 @@
     {
         "link": "https://nferias.com",
         "Heading": "Ferias",
-        "Abstract": "23.033 Ferias en 2.348 recintos de 149 Paises. Ferias de 495 Sectores en 1.771 Ciudades. Noticias de 11.244 Expositores y 23.264 Proveedores que te ayudar\u00e1n a que la feria sea un \u00e9xito.",
+        "Abstract": "23.042 Ferias en 2.348 recintos de 149 Paises. Ferias de 495 Sectores en 1.770 Ciudades. Noticias de 11.244 Expositores y 23.269 Proveedores que te ayudar\u00e1n a que la feria sea un \u00e9xito.",
         "Official Site": "https://nferias.com",
         "Icon": "N/A",
         "Redirect": "https://nferias.com",
@@ -63,21 +63,31 @@
         "link": "https://3ffwin.com",
         "Heading": null,
         "Abstract": "Convide 1 pessoa para ingressar no FFwin e voc\u00ea poder\u00e1 ganhar R$ 30,00, com comiss\u00e3o de ag\u00eancia de at\u00e9 5%\uff01",
-        "Official Site": "ffwin5.win",
+        "Official Site": "ffwin11.com",
         "Icon": "https://upload-us.f-1-g-h.com/s1/1762038359905/00.png",
-        "Redirect": "ffwin5.win",
+        "Redirect": "ffwin11.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "ffwin5.win"
+        "AbstractURL": "ffwin11.com"
     },
     {
         "link": "https://cemilansehat.click",
-        "Heading": null,
+        "Heading": "Under construction - Awesome site in the making!",
         "Abstract": null,
         "Official Site": "https://cemilansehat.click",
-        "Icon": "data:;",
+        "Icon": "N/A",
         "Redirect": "https://cemilansehat.click",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cemilansehat.click"
+    },
+    {
+        "link": "https://elitedentallasvegas.com",
+        "Heading": "Elite Dental: Sinh Trinh DDS | Dentist in Las Vegas",
+        "Abstract": "We believe that a smile tells a thousand words, and we are dedicated to giving our patients high-quality dental care. We offer a full...",
+        "Official Site": "http://elitedentallasvegas.com/",
+        "Icon": "http://elitedentallasvegas.com/wp-content/uploads/2023/05/Our-Dental-Services-min.jpg",
+        "Redirect": "http://elitedentallasvegas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://elitedentallasvegas.com/"
     },
     {
         "link": "https://bizmarket.com.ua",
@@ -278,6 +288,16 @@
         "Redirect": "https://www.taitcommunications.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.taitcommunications.com"
+    },
+    {
+        "link": "https://cityofbrenham.org",
+        "Heading": "Welcome to City of Brenham, TX",
+        "Abstract": "Brenham, Texas. Located in Washington County.",
+        "Official Site": "https://cityofbrenham.org",
+        "Icon": "//cms2.revize.com/revize/brenham/_assets_/images/logo.png",
+        "Redirect": "https://cityofbrenham.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cityofbrenham.org"
     },
     {
         "link": "https://healthykneesclub.com",

@@ -90,6 +90,16 @@
         "AbstractURL": "https://webdianoia.com"
     },
     {
+        "link": "https://gesamtschule-online.de",
+        "Heading": "\n                    IServ - gesamtschule-online.de\n            ",
+        "Abstract": null,
+        "Official Site": "https://gesamtschule-online.de",
+        "Icon": "/iserv/css/static/icons/android-chrome-192x192.fc2f37a3.png",
+        "Redirect": "https://gesamtschule-online.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gesamtschule-online.de"
+    },
+    {
         "link": "https://educationexchangeltd.org",
         "Heading": "St. Jude\u2019s International | Leadership & Legacy",
         "Abstract": null,
@@ -112,22 +122,12 @@
     {
         "link": "https://groundwidgets.com",
         "Heading": "GroundWidgets \u2013 the leading company in innovative software development for the ground transportation industry",
-        "Abstract": null,
+        "Abstract": "Groundwidgets - the leading company in innovative software development for the ground transportation industry",
         "Official Site": "https://groundwidgets.com",
-        "Icon": "/Content/images/favicons/favicon-32x32.png?v=9588",
+        "Icon": "/Content/images/favicons/favicon.ico?v=9651",
         "Redirect": "https://groundwidgets.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://groundwidgets.com"
-    },
-    {
-        "link": "https://taelerbus.at",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://taelerbus.at",
-        "Icon": "data:;",
-        "Redirect": "https://taelerbus.at",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://taelerbus.at"
     },
     {
         "link": "https://ogretmenler.com.tr",
@@ -158,16 +158,6 @@
         "Redirect": "https://noceast.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://noceast.net"
-    },
-    {
-        "link": "https://komoedie-steinstrasse.de",
-        "Heading": "Wettanbieter ohne OASIS - Topliste 2026 im Test",
-        "Abstract": "Entdecken Sie die besten Wettanbieter ohne OASIS in Deutschland. Nutzen Sie mehr Freiheit, h\u00f6here Limits und die besten Quoten.",
-        "Official Site": "https://komoedie-steinstrasse.de/",
-        "Icon": "https://komoedie-steinstrasse.de/wp-content/uploads/2025/12/balkonkraftwerk-vertriebde-logo.png",
-        "Redirect": "https://komoedie-steinstrasse.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://komoedie-steinstrasse.de/"
     },
     {
         "link": "https://sok-raduga.ru",
@@ -260,6 +250,16 @@
         "AbstractURL": "https://elektracomic.com"
     },
     {
+        "link": "https://shoppingnovaiguacu.com.br",
+        "Heading": "Shopping Nova Igua\u00e7u",
+        "Abstract": "Inaugurado em 2016, na antiga Pedreira Vign\u00e9, o Shopping Nova Igua\u00e7u \u00e9 o primeiro empreendimento da Baixada Fluminense com conceito multiuso \u2013 em que re\u00fane op\u00e7\u00f5es de compra, lazer, hotelaria e escrit\u00f3rios em um \u00fanico lugar - e prev\u00ea o desenvolvimento de torres comerciais, hotel e pr\u00e9dio residencial em seu projeto.",
+        "Official Site": "https://shoppingnovaiguacu.com.br",
+        "Icon": "https://www.shoppingnovaiguacu.com.br/sites/nova-iguacu/files/styles/og_image_1200x630/public/shopping-media/Home/DJI_0084.jpg?itok=zBe9qGPL",
+        "Redirect": "https://shoppingnovaiguacu.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shoppingnovaiguacu.com.br"
+    },
+    {
         "link": "https://yarat.az",
         "Heading": "YARAT | CONTEMPORARY ART SPACE - YARAT",
         "Abstract": null,
@@ -268,5 +268,15 @@
         "Redirect": "https://yarat.az",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yarat.az"
+    },
+    {
+        "link": "https://marinertalk.com",
+        "Heading": "Mariner Talk Chat Forum - Index page",
+        "Abstract": null,
+        "Official Site": "https://marinertalk.com",
+        "Icon": "N/A",
+        "Redirect": "https://marinertalk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://marinertalk.com"
     }
 ]

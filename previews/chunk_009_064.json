@@ -71,13 +71,13 @@
     },
     {
         "link": "https://dianacorp.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dianacorp.com",
-        "Icon": "data:;",
-        "Redirect": "https://dianacorp.com",
+        "Heading": "Diana Corp: Fashion E-Commerce Solutions | Official Site",
+        "Abstract": "Diana Corp. is an international hub that places an avant-garde lens on luxe fashion and lifestyle brand development. Visit the official website to find out more.",
+        "Official Site": "https://www.dianacorp.com/",
+        "Icon": "https://www.dianacorp.com/wp-content/uploads/2025/01/logo-1-150x150.png",
+        "Redirect": "https://www.dianacorp.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dianacorp.com"
+        "AbstractURL": "https://www.dianacorp.com/"
     },
     {
         "link": "https://quipa.com",
@@ -88,6 +88,26 @@
         "Redirect": "https://quipa.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://quipa.com/"
+    },
+    {
+        "link": "https://utahpowercu.org",
+        "Heading": "Utah Power Credit Union",
+        "Abstract": "Our mission is to ensure that Utah Power Credit Union creates financial power with our members by providing excellent value and lifelong relationships.",
+        "Official Site": "https://utahpowercu.org",
+        "Icon": "favicon.ico",
+        "Redirect": "https://utahpowercu.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://utahpowercu.org"
+    },
+    {
+        "link": "https://e-madencilik.com",
+        "Heading": "Madencinin Adresi - Sahibinden Maden \u0130lanlar\u0131 - E-Madencilik",
+        "Abstract": "T\u00fcrkiye\u2019nin en b\u00fcy\u00fck Madencilik Sekt\u00f6r\u00fc ilanlar\u0131 sitesi. Hem de \u00fccretsiz. Sahibinden Maden Sahalar\u0131-Cevherler-\u0130kinci el ve S\u0131f\u0131r Maden \u00dcretim Makineleri-YTK-Proje-Ruhsat",
+        "Official Site": "https://e-madencilik.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://e-madencilik.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://e-madencilik.com"
     },
     {
         "link": "https://coincat.in",
@@ -228,6 +248,16 @@
         "Redirect": "https://jkg-portal.com.ua",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jkg-portal.com.ua"
+    },
+    {
+        "link": "https://spacewatchafrica.com",
+        "Heading": "Home - Space Watch Africa",
+        "Abstract": null,
+        "Official Site": "https://spacewatchafrica.com/",
+        "Icon": "https://spacewatchafrica.com/wp-content/uploads/2023/01/spacewatch_logo-300x129-1.jpeg",
+        "Redirect": "https://spacewatchafrica.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://spacewatchafrica.com/"
     },
     {
         "link": "https://siouxlandenergy.com",

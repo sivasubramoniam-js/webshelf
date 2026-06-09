@@ -80,6 +80,16 @@
         "AbstractURL": "https://gsgen.ru"
     },
     {
+        "link": "https://museumarnhem.nl",
+        "Heading": "Home | Museum Arnhem",
+        "Abstract": "Kunst kijken met schitterend uitzicht op Rijn? D\u00e1t kan in Museum Arnhem. Ontdek onze tentoonstellingen of kom langs in onze gratis beeldentuin.",
+        "Official Site": "https://museumarnhem.nl/nl",
+        "Icon": "https://museumarnhem.nl/assets/favicon.svg",
+        "Redirect": "https://museumarnhem.nl/nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://museumarnhem.nl/nl"
+    },
+    {
         "link": "https://domainmaker.pl",
         "Heading": "Zosta\u0144 resellerem. Rejestracja, sprzeda\u017c domen i hostingu | DomainMaker - Zarabiaj na domenach i hostingu. Na rynku od 2003 roku, 500 partner\u00f3w. W programie partnerskim udost\u0119pniamy niezb\u0119dne aplikacje, wsparcie techniczne i know-how.",
         "Abstract": "Zarabiaj na domenach i hostingu. Na rynku od 2003 roku, 500 partner\u00f3w. W programie partnerskim udost\u0119pniamy niezb\u0119dne aplikacje, wsparcie techniczne i know-how.",
@@ -108,6 +118,16 @@
         "Redirect": "https://videosxxx.link",
         "AbstractSource": "BS4",
         "AbstractURL": "https://videosxxx.link"
+    },
+    {
+        "link": "https://sotokoto-online.jp",
+        "Heading": "sotokoto online\uff08\u30bd\u30c8\u30b3\u30c8\u30aa\u30f3\u30e9\u30a4\u30f3\uff09 | \u65e5\u672c\u306e\u30ed\u30fc\u30ab\u30eb\u3092\u697d\u3057\u3080\u3001\u3064\u306a\u3052\u308b\u3001\u5b88\u308b\u3002",
+        "Abstract": "\u300c\u793e\u4f1a\u3084\u74b0\u5883\u304c\u3088\u304f\u306a\u3063\u3066\u3001\u305d\u3057\u3066\u304a\u3082\u3057\u308d\u3044\u300d\u3092\u30c6\u30fc\u30de\u3068\u3057\u305f\u672a\u6765\u3092\u3064\u304f\u308bSDGs\u30de\u30ac\u30b8\u30f3\u300e\u30bd\u30c8\u30b3\u30c8\u300f\u306e\u30aa\u30f3\u30e9\u30a4\u30f3\u30e1\u30c7\u30a3\u30a2\u3002\u672c\u8a8c\u306e\u8a18\u4e8b\u306e\u307b\u304b\u3001Web\u7248\u30aa\u30ea\u30b8\u30ca\u30eb\u306e\u8a18\u4e8b\u3082\u516c\u958b\u3002",
+        "Official Site": "https://sotokoto-online.jp/",
+        "Icon": "https://sotokoto-online.jp/cp/wp-content/uploads/2023/09/cropped-fav-32x32.png",
+        "Redirect": "https://sotokoto-online.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sotokoto-online.jp/"
     },
     {
         "link": "https://ncstatefair.org",
@@ -230,14 +250,14 @@
         "AbstractURL": "https://werkleitz.de"
     },
     {
-        "link": "https://poweredportablesolar.com",
-        "Heading": null,
+        "link": "https://monocolle-motorsport.com",
+        "Heading": "monocolle-motorsport",
         "Abstract": null,
-        "Official Site": "https://poweredportablesolar.com",
-        "Icon": "data:;",
-        "Redirect": "https://poweredportablesolar.com",
+        "Official Site": "https://monocolle-motorsport.com",
+        "Icon": "N/A",
+        "Redirect": "https://monocolle-motorsport.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://poweredportablesolar.com"
+        "AbstractURL": "https://monocolle-motorsport.com"
     },
     {
         "link": "https://huguenots-france.org",
@@ -248,5 +268,15 @@
         "Redirect": "https://huguenots-france.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://huguenots-france.org"
+    },
+    {
+        "link": "https://plsk6.com.br",
+        "Heading": "::...::  Silicom ISP  ::..::",
+        "Abstract": null,
+        "Official Site": "https://plsk6.com.br",
+        "Icon": "N/A",
+        "Redirect": "https://plsk6.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://plsk6.com.br"
     }
 ]

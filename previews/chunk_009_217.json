@@ -20,16 +20,6 @@
         "AbstractURL": "https://busycreatingmemories.com/"
     },
     {
-        "link": "https://poeprices.info",
-        "Heading": "Poe Price Info - Path of Exile Item Price Check",
-        "Abstract": "A simple tool to price check your items in path of exile by copy and paste",
-        "Official Site": "https://poeprices.info",
-        "Icon": "/css/icon2.png",
-        "Redirect": "https://poeprices.info",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://poeprices.info"
-    },
-    {
         "link": "https://ubsayan24.ru",
         "Heading": "7\u043a \u043a\u0430\u0437\u0438\u043d\u043e (7k Casino) - \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442, \u0437\u0435\u0440\u043a\u0430\u043b\u043e, \u0432\u0445\u043e\u0434",
         "Abstract": "\u0412\u0441\u0435 \u0431\u043e\u043d\u0443\u0441\u044b \u043e\u0442 \u043a\u0430\u0437\u0438\u043d\u043e Casino 7 - \u043f\u0440\u043e\u043c\u043e\u043a\u043e\u0434\u044b \u2713 \u0431\u043e\u043d\u0443\u0441 \u043a\u043e\u0434\u044b \u2713 \u0431\u0435\u0437\u0434\u0435\u043f\u043e\u0437\u0438\u0442\u043d\u044b\u0435 \u0431\u043e\u043d\u0443\u0441\u044b \u0437\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044e \u2713 \u0444\u0440\u0438\u0441\u043f\u0438\u043d\u044b \u2713 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043b\u043e\u044f\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u2713 \u043a\u044d\u0448\u0431\u044d\u043a!",
@@ -48,6 +38,16 @@
         "Redirect": "https://tripta.social",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tripta.social"
+    },
+    {
+        "link": "https://dynsrv.de",
+        "Heading": "C&H \u2013 IT-Dienstleister in Hannover",
+        "Abstract": "IT-Dienstleister in Hannover. Spezialisten f\u00fcr CRM. Anbieter von IT-Support f\u00fcr Unternehmen.",
+        "Official Site": "https://dynsrv.de",
+        "Icon": "N/A",
+        "Redirect": "https://dynsrv.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dynsrv.de"
     },
     {
         "link": "https://1ecolog.ru",
@@ -111,13 +111,23 @@
     },
     {
         "link": "https://talbotspy.org",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Welcome - Talbot Spy",
+        "Abstract": "The Chestertown Spy is the e-newspaper for Chestertown and Kent County, MD",
         "Official Site": "https://talbotspy.org",
-        "Icon": "data:;",
+        "Icon": "https://talbotspy.org/wp-content/uploads/sites/3/2026/05/FF-Hot-Dog-Season-May-29-2026-copy.jpg",
         "Redirect": "https://talbotspy.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://talbotspy.org"
+    },
+    {
+        "link": "https://faenoesund.dk",
+        "Heading": "F\u00e6n\u00f8sund | Restaurant i Middelfart med smuk havudsigt",
+        "Abstract": "Restaurant i Middelfart med smuk havudsigt. Vi har eksisteret siden 1921, og serverer gastronomisk l\u00e6kker mad til b\u00e5de frokost og aften.",
+        "Official Site": "https://faenoesund.dk/",
+        "Icon": "https://faenoesund.dk/wp-content/uploads/2022/07/clock-dark.svg",
+        "Redirect": "https://faenoesund.dk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://faenoesund.dk/"
     },
     {
         "link": "https://ssnwhq.com",
@@ -208,6 +218,16 @@
         "Redirect": "https://analytics-info.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://analytics-info.com/"
+    },
+    {
+        "link": "https://dread.ru",
+        "Heading": "\u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u0434\u0440\u0435\u0434\u044b",
+        "Abstract": null,
+        "Official Site": "https://dread.ru",
+        "Icon": "/favicon.ICO",
+        "Redirect": "https://dread.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dread.ru"
     },
     {
         "link": "https://axa-lm.ch",

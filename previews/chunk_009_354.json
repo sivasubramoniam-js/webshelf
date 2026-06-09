@@ -1,8 +1,8 @@
 [
     {
         "link": "https://selwayarmory.com",
-        "Heading": "Home - Selway Armory",
-        "Abstract": "Featured Products",
+        "Heading": "Home",
+        "Abstract": "Home",
         "Official Site": "https://www.selwayarmory.com/",
         "Icon": "https://www.selwayarmory.com/wp-content/uploads/2023/08/icon-100x100.png",
         "Redirect": "https://www.selwayarmory.com/",
@@ -30,6 +30,26 @@
         "AbstractURL": "https://sunex.ch/"
     },
     {
+        "link": "https://memotheme.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://memotheme.net",
+        "Icon": "N/A",
+        "Redirect": "https://memotheme.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://memotheme.net"
+    },
+    {
+        "link": "https://i9design.com",
+        "Heading": "Nelson BC Web Design // i9design // Kootenay Design",
+        "Abstract": "Web design & website development since 2001. We are a passionate creative agency based in Nelson, BC. Stop in for a visit! Serving the Kootenays.",
+        "Official Site": "https://www.i9design.com/home/",
+        "Icon": "https://www.i9design.com/wp-content/uploads/2015/09/logo-2015-large.png",
+        "Redirect": "https://www.i9design.com/home/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.i9design.com/home/"
+    },
+    {
         "link": "https://omzo.com",
         "Heading": "Home | Personalized Telehealth for Weight Loss & Wellness",
         "Abstract": "Clinician-guided care for weight, hormones, skin, hair, and sexual wellness made simple, discreet, and effective.",
@@ -48,6 +68,26 @@
         "Redirect": "https://www.labellevilloise.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.labellevilloise.com/"
+    },
+    {
+        "link": "https://faithlogistic.net",
+        "Heading": "FAITH LOGISTICS PTE LTD",
+        "Abstract": null,
+        "Official Site": "https://faithlogistic.net",
+        "Icon": "https://faithlogistic.net/wp-content/uploads/2024/07/fevicon.png",
+        "Redirect": "https://faithlogistic.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://faithlogistic.net"
+    },
+    {
+        "link": "https://maakirasoi.co",
+        "Heading": "maakirasoi.co",
+        "Abstract": null,
+        "Official Site": "https://maakirasoi.co",
+        "Icon": "https://maakirasoi.co/wp-content/uploads/2020/12/cropped-cropped-TG-Thumb-192x192-1-100x100.png",
+        "Redirect": "https://maakirasoi.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://maakirasoi.co"
     },
     {
         "link": "https://idamaster.ru",
@@ -100,6 +140,26 @@
         "AbstractURL": "https://advokatnidenik.cz/"
     },
     {
+        "link": "https://pthgroup.in",
+        "Heading": "pthgroup",
+        "Abstract": null,
+        "Official Site": "https://pthgroup.in",
+        "Icon": "https://pthgroup.in/wp-content/uploads/2025/10/cropped-pth_logo-1-32x32.png",
+        "Redirect": "https://pthgroup.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pthgroup.in"
+    },
+    {
+        "link": "https://jshem.or.jp",
+        "Heading": "\u4e00\u822c\u793e\u56e3\u6cd5\u4eba \u65e5\u672c\u8840\u6db2\u5b66\u4f1a",
+        "Abstract": "",
+        "Official Site": "https://www.jshem.or.jp/",
+        "Icon": "N/A",
+        "Redirect": "https://www.jshem.or.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.jshem.or.jp/"
+    },
+    {
         "link": "https://partystream.tv",
         "Heading": "PartyStream - We\u2019ll be back soon!",
         "Abstract": "Priame prenosy a vide\u00e1 zo slovenskej hudobnej sc\u00e9ny a nielen. Party stream ti prin\u00e1\u0161a nov\u00fa interakt\u00edvnu z\u00e1bavu a priestor, ktor\u00fd sp\u00e1ja umelcov a fan\u00fa\u0161ikov. \u010ci na chate \u010di v stane, o p\u00e1rty sa postarame!",
@@ -150,14 +210,24 @@
         "AbstractURL": "https://schuelerfeedback-nrw.de"
     },
     {
-        "link": "https://epsagroup.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://epsagroup.com",
-        "Icon": "data:;",
-        "Redirect": "https://epsagroup.com",
+        "link": "https://nationalpark-saechsische-schweiz.de",
+        "Heading": "Startseite \u2013 Nationalpark S\u00e4chsische Schweiz \u2013 Wandern, Natur & Erholung - Nationalpark S\u00e4chsische Schweiz",
+        "Abstract": "Entdecke die beeindruckenden Felsformationen & unber\u00fchrte Natur im Nationalpark S\u00e4chsische Schweiz. Perfekt zum Wandern, Staunen & Erholen!",
+        "Official Site": "https://nationalpark-saechsische-schweiz.de/",
+        "Icon": "https://nationalpark-saechsische-schweiz.de/uploads/icons/nationalparkregion-favicon.png",
+        "Redirect": "https://nationalpark-saechsische-schweiz.de/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://epsagroup.com"
+        "AbstractURL": "https://nationalpark-saechsische-schweiz.de/"
+    },
+    {
+        "link": "https://epsagroup.com",
+        "Heading": "EPSA - Global Earthmoving Company",
+        "Abstract": "EPSA is a global earthmoving contractor for mining and infrastructure projects, offering world-class services in mining and construction since 1962.",
+        "Official Site": "https://epsagroup.com/",
+        "Icon": "https://epsagroup.com/wp-content/uploads/2023/06/EPSAlogosvg-cropped.svg",
+        "Redirect": "https://epsagroup.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://epsagroup.com/"
     },
     {
         "link": "https://novgorod-tv.ru",
@@ -218,5 +288,15 @@
         "Redirect": "https://mutante.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mutante.com.br"
+    },
+    {
+        "link": "https://sspaeth.de",
+        "Heading": "Spaetzblog \u2013 Stuff that doesn't matter",
+        "Abstract": null,
+        "Official Site": "https://sspaeth.de",
+        "Icon": "https://sspaeth.de/wp-content/uploads/2021/01/cropped-spaetz_2020-32x32.jpg",
+        "Redirect": "https://sspaeth.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sspaeth.de"
     }
 ]

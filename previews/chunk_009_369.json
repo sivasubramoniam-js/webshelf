@@ -30,6 +30,26 @@
         "AbstractURL": "https://snips.ai"
     },
     {
+        "link": "https://tehcat.ru",
+        "Heading": " \u0417\u0430\u043f\u0447\u0430\u0441\u0442\u0438 \u043d\u0430 \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0443 Komatsu Hitachi ",
+        "Abstract": null,
+        "Official Site": "https://tehcat.ru",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://tehcat.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tehcat.ru"
+    },
+    {
+        "link": "https://miankong.top",
+        "Heading": "\u4e91\u65e5\u8bb0",
+        "Abstract": "\u5b66\u4e60\u6570\u5b66\uff0c\u4ee3\u7801",
+        "Official Site": "https://miankong.top",
+        "Icon": "/img/favicon.ico",
+        "Redirect": "https://miankong.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://miankong.top"
+    },
+    {
         "link": "https://master-key.pl",
         "Heading": "Masterkey - PATRONIC | Systemy jednego klucza generalnego Master Key",
         "Abstract": "PATRONIC - Profesjonalny dostawca systemu Master Key (tzw. system jednego klucza MasterKey). Oferujemy tak\u017ce zamkni\u0119cia i klucze elektroniczne, bezprzewodowe zamki elektroniczne na kart\u0119 zbli\u017ceniow\u0105 oraz depozytory kluczy.",
@@ -58,16 +78,6 @@
         "Redirect": "https://bleskmet.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bleskmet.ru/"
-    },
-    {
-        "link": "https://justartscrapbooking.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://justartscrapbooking.com",
-        "Icon": "data:;",
-        "Redirect": "https://justartscrapbooking.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://justartscrapbooking.com"
     },
     {
         "link": "https://valmet-automotive.com",
@@ -108,6 +118,16 @@
         "Redirect": "https://www.bncollege.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bncollege.com/"
+    },
+    {
+        "link": "https://mbs-service.de",
+        "Heading": "\n                    MBS Schadenmanagement GmbH, MBS Renovierung GmbH\n    ",
+        "Abstract": "    Marktf\u00fchrer im Bereich Leckortung, Brand- und Wasserschadensanierung, Komplettrenovierung - wir sind bundesweit mit eigenen Mitarbeitern f\u00fcr Sie vor Ort\n",
+        "Official Site": "https://mbs-service.de",
+        "Icon": "/bundles/mbshpneu/favicon/favicon.ico",
+        "Redirect": "https://mbs-service.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mbs-service.de"
     },
     {
         "link": "https://woluwe1200.be",
@@ -181,13 +201,13 @@
     },
     {
         "link": "https://sacred-wind.net",
-        "Heading": "Sacred Wind Communications",
-        "Abstract": "Bridging the Digital Divide for Rural and Tribal Communities",
-        "Official Site": "https://sacredwindcommunications.com/",
-        "Icon": "https://sacredwindcommunications.com/wp-content/uploads/2019/10/SacredWinds-stroked-r-266w.png",
-        "Redirect": "https://sacredwindcommunications.com/",
+        "Heading": "Client Challenge",
+        "Abstract": null,
+        "Official Site": "https://sacred-wind.net",
+        "Icon": "N/A",
+        "Redirect": "https://sacred-wind.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sacredwindcommunications.com/"
+        "AbstractURL": "https://sacred-wind.net"
     },
     {
         "link": "https://1win-bestbk.com",
@@ -198,6 +218,16 @@
         "Redirect": "https://1win-bestbk.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://1win-bestbk.com"
+    },
+    {
+        "link": "https://servealittle.org",
+        "Heading": "Serve A Little - You can keep single mothers moving forward",
+        "Abstract": "You can keep single mothers moving forward",
+        "Official Site": "https://servealittle.org/",
+        "Icon": "https://servealittle.org/wp-content/uploads/2013/04/favicon1.ico",
+        "Redirect": "https://servealittle.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://servealittle.org/"
     },
     {
         "link": "https://yangtata.com",

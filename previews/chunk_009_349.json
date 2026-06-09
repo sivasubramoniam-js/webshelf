@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.ontogenyadvertising.com/"
     },
     {
+        "link": "https://welcomingschools.org",
+        "Heading": "Welcoming Schools | homepage",
+        "Abstract": "Creating Safe and Welcoming Schools HRC Foundation\u2019s Welcoming Schools is the most comprehensive bias-based bullying prevention program in the nation.\u2026",
+        "Official Site": "https://welcomingschools.org/",
+        "Icon": "https://hrc-prod-requests.s3-us-west-2.amazonaws.com/welcoming-schools/_1200x630_crop_center-center_82_none/WS-Logo-thumbnail-1200x720-v2.png?mtime=1734023848",
+        "Redirect": "https://welcomingschools.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://welcomingschools.org/"
+    },
+    {
         "link": "https://2adam.com.tr",
         "Heading": "\n\t2 Adam Yaz\u0131l\u0131m | Yaz\u0131l\u0131m ve Teknoloji \u015eirketi \n",
         "Abstract": "Adana Web Tasar\u0131m ve Yaz\u0131l\u0131m, Adana Web Site Tasar\u0131m\u0131 hizmetleri i\u00e7in en do\u011fru adrestesiniz.Adana Web Tasar\u0131m \u015eirketleri, Adana Yaz\u0131l\u0131m Firmalar\u0131",
@@ -38,6 +48,16 @@
         "Redirect": "https://www.2adam.com.tr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.2adam.com.tr"
+    },
+    {
+        "link": "https://clubpalma.es",
+        "Heading": "Club Palma - Simple Boat Sharing",
+        "Abstract": "Club Palma te permite navegar sin los problemas que supone tener un barco. Boat Sharing simple, organizado y accesible. \u00a1Inf\u00f3rmate ahora!",
+        "Official Site": "https://clubpalma.es/",
+        "Icon": "https://clubpalma.es/wp-content/uploads/2023/06/logo-club-palma-nuevo-02-1024x422.png",
+        "Redirect": "https://clubpalma.es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://clubpalma.es/"
     },
     {
         "link": "https://axxis.co.jp",
@@ -58,6 +78,16 @@
         "Redirect": "https://www.rainbowsystem.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.rainbowsystem.com/"
+    },
+    {
+        "link": "https://hamburg-zwei.de",
+        "Heading": "Home | HAMBURG ZWEI",
+        "Abstract": "HAMBURG ZWEI ist der Radiosender mit den meisten 80ern f\u00fcr Hamburg, gemischt mit Songs aus den 70er und 90ern und einer Prise 2000er. St\u00fcndliche Nachrichten stellen sicher, dass Ihr keine News aus unserer Stadt und der Welt verpasst.",
+        "Official Site": "https://www.hamburg-zwei.de/",
+        "Icon": "https://www.hamburg-zwei.de/assets/fallback/fallback_1x1.jpg",
+        "Redirect": "https://www.hamburg-zwei.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hamburg-zwei.de/"
     },
     {
         "link": "https://fastpingservice.com",
@@ -118,6 +148,16 @@
         "Redirect": "https://wangfeizbz12a.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wangfeizbz12a.com"
+    },
+    {
+        "link": "https://e2gstudio.com",
+        "Heading": "Accueil - E2G STUDIO",
+        "Abstract": "Int\u00e9gration",
+        "Official Site": "https://www.e2gstudio.com/",
+        "Icon": "https://www.e2gstudio.com/wp-content/uploads/2025/08/cropped-Logo-E2G-1-32x32.png",
+        "Redirect": "https://www.e2gstudio.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.e2gstudio.com/"
     },
     {
         "link": "https://veenas.com",
@@ -181,23 +221,33 @@
     },
     {
         "link": "https://castlecombecircuit.co.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://castlecombecircuit.co.uk",
-        "Icon": "data:;",
-        "Redirect": "https://castlecombecircuit.co.uk",
+        "Heading": "Castle Combe Race Circuit | UK Motorsport Venue",
+        "Abstract": "Castle Combe Circuit is the South West's premier motorsport venue, hosting race meetings, car shows, track days and driving experiences throughout the year.",
+        "Official Site": "https://castlecombecircuit.co.uk/",
+        "Icon": "https://ex7988es9ka.exactdn.com/wp-content/uploads/2023/11/CastCombeLandscapelogoDark.png",
+        "Redirect": "https://castlecombecircuit.co.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://castlecombecircuit.co.uk"
+        "AbstractURL": "https://castlecombecircuit.co.uk/"
     },
     {
-        "link": "https://lokaleportalen.dk",
-        "Heading": "Ledige erhvervslokaler \u2192 1000-vis af lokaler til leje lige nu",
-        "Abstract": "Find ledige erhvervslokaler hurtigt og nemt \u2714 1000-vis af ledige lokaler til leje lige nu \u2714 F\u00e5 overblik over erhvervslokaler til leje i hele landet. Billige priser og gode tilbud",
-        "Official Site": "https://www.lokaleportalen.dk",
-        "Icon": "https://www.lokaleportalen.dk/media/2zohm2et/microsoftteams-image.png",
-        "Redirect": "https://www.lokaleportalen.dk",
+        "link": "https://flightterminalinfo.com",
+        "Heading": "Airports Near Me | Domestic and International",
+        "Abstract": "Find airports near me quickly and easily. Discover nearby airports, flight schedules, and travel options for a smooth journey. Plan your next trip with ease!\"",
+        "Official Site": "https://www.flightterminalinfo.com/",
+        "Icon": "https://www.flightterminalinfo.com/wp-content/uploads/2025/12/cropped-FlightterminalInfo.png",
+        "Redirect": "https://www.flightterminalinfo.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lokaleportalen.dk"
+        "AbstractURL": "https://www.flightterminalinfo.com/"
+    },
+    {
+        "link": "https://h-breed.com",
+        "Heading": "Min blogg \u2013 Bare en WordPress-side",
+        "Abstract": null,
+        "Official Site": "https://h-breed.com",
+        "Icon": "N/A",
+        "Redirect": "https://h-breed.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://h-breed.com"
     },
     {
         "link": "https://viaplz.com",

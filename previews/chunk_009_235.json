@@ -70,6 +70,16 @@
         "AbstractURL": "https://arbvps.com"
     },
     {
+        "link": "https://autorating.ru",
+        "Heading": "\u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439 - \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u0430\u0432\u0442\u043e. \u041f\u043e\u043b\u043d\u044b\u0439 \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u043c\u0430\u0448\u0438\u043d - \u0410\u0432\u0442\u043e\u0440\u0435\u0439\u0442\u0438\u043d\u0433",
+        "Abstract": "\u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439 - \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u0430\u0432\u0442\u043e \u0432\u0441\u0435\u0445 \u043c\u0430\u0440\u043e\u043a \u0438 \u043c\u043e\u0434\u0435\u043b\u0435\u0439 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0410\u0432\u0442\u043e\u0440\u0435\u0439\u0442\u0438\u043d\u0433. \u2756\u041f\u043e\u043b\u043d\u044b\u0439 \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u043c\u0430\u0448\u0438\u043d \u0442\u043e\u043b\u044c\u043a\u043e \u0437\u0434\u0435\u0441\u044c \u261b\u0444\u043e\u0442\u043e \u0438 \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u0446\u0435\u043d\u044b \u0438 \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0442\u044b",
+        "Official Site": "https://autorating.ru",
+        "Icon": "/bitrix/templates/main/images/favicon.ico",
+        "Redirect": "https://autorating.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://autorating.ru"
+    },
+    {
         "link": "https://cplmanager.com",
         "Heading": "Browser Based Esports Game | CPL Manager",
         "Abstract": "Lead your FPS team to victory in the thrilling browser-based game set in the CPL esports tournaments. Take the challenge and compete in an intense league season!",
@@ -118,6 +128,16 @@
         "Redirect": "https://chicken-road-2-recensioni.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chicken-road-2-recensioni.it"
+    },
+    {
+        "link": "https://am2support.com",
+        "Heading": "AM2 PTY LTD \u2013 IT Support, Software Integration, Websites",
+        "Abstract": null,
+        "Official Site": "https://am2support.com",
+        "Icon": "N/A",
+        "Redirect": "https://am2support.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://am2support.com"
     },
     {
         "link": "https://kvsaarland.de",
@@ -174,7 +194,7 @@
         "Heading": "Apnet - Custom Software Development Experts",
         "Abstract": "We specialize in SaaS solutions, turning ideas into reliable, user-friendly products: platforms, integrations, websites, and apps.",
         "Official Site": "https://apnethq.com",
-        "Icon": "https://cdn.prod.website-files.com/68aaf3b32222de6025250c48/68ab27f6d954095fd579e186_Avatar_Black%202.png",
+        "Icon": "images/favicon.png",
         "Redirect": "https://apnethq.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://apnethq.com"
@@ -310,6 +330,16 @@
         "AbstractURL": "https://mimics.cloud"
     },
     {
+        "link": "https://hubfit.com",
+        "Heading": "HubFit | The All-in-One Fitness Coaching Platform",
+        "Abstract": "HubFit is the all-in-one coaching platform for personal trainers, online coaches, and gyms. Coach clients, drive engagement, automate workflows, and scale revenue.",
+        "Official Site": "https://hubfit.com",
+        "Icon": "https://hubfit.com/opengraph-image-pwu6ef?3ea6a2382d91483d",
+        "Redirect": "https://hubfit.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hubfit.com"
+    },
+    {
         "link": "https://netzkolchose.de",
         "Heading": "Webdesign und E-Commerce aus Jena | netzkolchose",
         "Abstract": "Hallo, wir sind netzkolchose. Wir entwickeln Websites, Webapplikationen und ma\u00dfgeschneiderte E-Commerce-L\u00f6sungen in Jena, Deutschland. Schauen Sie vorbei.",
@@ -318,6 +348,16 @@
         "Redirect": "https://netzkolchose.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://netzkolchose.de"
+    },
+    {
+        "link": "https://challengerbrokers.com",
+        "Heading": "Challenger Brokers \u2013 Your REALTOR\u00ae For Life!",
+        "Abstract": null,
+        "Official Site": "https://challengerbrokers.com",
+        "Icon": "https://challengerbrokers.com/wp-content/uploads/2022/12/Capture-removebg-preview-removebg-preview-removebg-preview.png",
+        "Redirect": "https://challengerbrokers.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://challengerbrokers.com"
     },
     {
         "link": "https://milega.co.il",

@@ -51,13 +51,13 @@
     },
     {
         "link": "https://loctiteam.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://loctiteam.com",
-        "Icon": "data:;",
-        "Redirect": "https://loctiteam.com",
+        "Heading": "LOCTITE 3D Printing - Excellence in Photopolymer Resins - Henkel",
+        "Abstract": "LOCTITE 3D Printing provides high performance photopolymer resins, engineered with mechanical properties suitable for end-use applications.",
+        "Official Site": "https://www.loctiteam.com/",
+        "Icon": "//loctiteam.com/wp-content/themes/porto/images/logo/favicon.ico",
+        "Redirect": "https://www.loctiteam.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://loctiteam.com"
+        "AbstractURL": "https://www.loctiteam.com/"
     },
     {
         "link": "https://yourirvine.org",
@@ -100,6 +100,26 @@
         "AbstractURL": "https://fishbasetest.com"
     },
     {
+        "link": "https://lfde.com",
+        "Heading": "Soci\u00e9t\u00e9 de gestion - LFDE - La Financi\u00e8re de l'Echiquier",
+        "Abstract": "Notre conviction depuis pr\u00e8s de 30 ans : la performance r\u00e9side dans l\u2019analyse des entreprises et dans la connaissance de ceux qui les dirigent.",
+        "Official Site": "https://www.lfde.com/fr-fr/",
+        "Icon": "https://www.lfde.com/wp-content/themes/LFDE-2019/favicon/android-icon-192x192.png",
+        "Redirect": "https://www.lfde.com/fr-fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lfde.com/fr-fr/"
+    },
+    {
+        "link": "https://ufleku.cz",
+        "Heading": "Restaurace Praha 1 \u2013 PIVOVAR A RESTAURACE U FLEK\u016e s.r.o.",
+        "Abstract": "Staro\u010desk\u00e1 restaurace na Praze 1, kter\u00e1 poskytuje prostory pro po\u0159\u00e1d\u00e1n\u00ed nejen rodinn\u00fdch, ale i firemn\u00edch ve\u010d\u00edrk\u016f a dal\u0161\u00edch spole\u010densk\u00fdch ud\u00e1lost\u00ed. Po\u0159\u00e1d\u00e1me tak\u00e9 exkurze v pivovaru a pivovarsk\u00e9m muzeu. Adresa restaurace: K\u0159emencova 11, Praha 1.",
+        "Official Site": "https://ufleku.cz/",
+        "Icon": "/favicon/android-icon-192x192.png",
+        "Redirect": "https://ufleku.cz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ufleku.cz/"
+    },
+    {
         "link": "https://diocese-annecy.fr",
         "Heading": "Dioc\u00e8se d'Annecy \u2014 Dioc\u00e8se d'Annecy",
         "Abstract": "Catholiques en Haute-Savoie et Val d'Arly",
@@ -118,6 +138,16 @@
         "Redirect": "https://hotellhedasen.se/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hotellhedasen.se/"
+    },
+    {
+        "link": "https://rel-uita.org",
+        "Heading": "Rel UITA \u2013 Regional Latinoamericana de la UITA",
+        "Abstract": null,
+        "Official Site": "https://www.rel-uita.org",
+        "Icon": "https://www.rel-uita.org/wp-content/uploads/2015/09/cropped-logo-rel-mobile-1-32x32.png",
+        "Redirect": "https://www.rel-uita.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rel-uita.org"
     },
     {
         "link": "https://lepaystchad.com",
@@ -168,6 +198,16 @@
         "Redirect": "https://logb.pro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://logb.pro"
+    },
+    {
+        "link": "https://almogzalsudani.com",
+        "Heading": "\u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u2014 \u0627\u0644\u0645\u0648\u062c\u0632 \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u064a",
+        "Abstract": null,
+        "Official Site": "https://almogzalsudani.com/",
+        "Icon": "https://almogzalsudani.com/wp-content/uploads/2022/04/MogazSudani-logo.png",
+        "Redirect": "https://almogzalsudani.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://almogzalsudani.com/"
     },
     {
         "link": "https://cielbulletinsdepaye.com",

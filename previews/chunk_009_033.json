@@ -180,6 +180,16 @@
         "AbstractURL": "http://anime-navi.net/"
     },
     {
+        "link": "https://moppie.info",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://moppie.info",
+        "Icon": "N/A",
+        "Redirect": "https://moppie.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://moppie.info"
+    },
+    {
         "link": "https://langmai.org",
         "Heading": "L\u00e0ng Mai \u2013 Th\u00edch Nh\u1ea5t H\u1ea1nh",
         "Abstract": null,
@@ -188,6 +198,16 @@
         "Redirect": "https://langmai.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://langmai.org"
+    },
+    {
+        "link": "https://freewheelingfrance.com",
+        "Heading": "Cycling holidays in France - Freewheeling France",
+        "Abstract": "",
+        "Official Site": "https://freewheelingfrance.com",
+        "Icon": "http://www.freewheelingfrance.com/images%20for%20stories/bikehire.jpg",
+        "Redirect": "https://freewheelingfrance.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://freewheelingfrance.com"
     },
     {
         "link": "https://dynary.de",
@@ -258,16 +278,6 @@
         "Redirect": "https://kirkpatrickprice.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kirkpatrickprice.com/"
-    },
-    {
-        "link": "https://amursma.ru",
-        "Heading": "\u0422\u043e\u043f \u043a\u0430\u0437\u0438\u043d\u043e \u043e\u043d\u043b\u0430\u0439\u043d - \u0418\u0433\u0440\u0430\u0442\u044c \u0432 \u0438\u0433\u0440\u043e\u0432\u044b\u0435 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u044b \u043d\u0430 \u0434\u0435\u043d\u044c\u0433\u0438",
-        "Abstract": "\u0422\u043e\u043f \u043a\u0430\u0437\u0438\u043d\u043e \u043e\u043d\u043b\u0430\u0439\u043d - \u0418\u0433\u0440\u0430\u0442\u044c \u0432 \u0438\u0433\u0440\u043e\u0432\u044b\u0435 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u044b \u043d\u0430 \u0434\u0435\u043d\u044c\u0433\u0438",
-        "Official Site": "https://amursma.ru",
-        "Icon": "img/favicon.ico",
-        "Redirect": "https://amursma.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://amursma.ru"
     },
     {
         "link": "https://qahtaan.com",

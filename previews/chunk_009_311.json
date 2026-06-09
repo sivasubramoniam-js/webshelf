@@ -81,13 +81,23 @@
     },
     {
         "link": "https://peltiertech.com",
-        "Heading": "Homepage - Peltier Tech",
-        "Abstract": "Peltier Tech is a World Leader in Excel Charting Charting is a vital part of data analytics. Peltier Tech can help you conquor your charting issues, through software, consulting, and training. What Peltier Tech Can Do For You Peltier Tech Charting Software Starting with the Waterfall Chart Utility in 2008, Peltier Tech has developed comprehensive [\u2026]",
-        "Official Site": "https://peltiertech.com/",
-        "Icon": "https://peltiertech.com/wp-content/uploads/2025/02/JonBulg1.jpg",
-        "Redirect": "https://peltiertech.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://peltiertech.com",
+        "Icon": "N/A",
+        "Redirect": "https://peltiertech.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://peltiertech.com/"
+        "AbstractURL": "https://peltiertech.com"
+    },
+    {
+        "link": "https://leslielohman.org",
+        "Heading": "Leslie-Lohman Museum of Art\n\t\t\t\t\t\t\t\t|\n\t\t\t\t\t\t\t\tLeslie Lohman Museum",
+        "Abstract": "The Leslie-Lohman Museum of Art provides a platform for artistic exploration through multi-faceted queer perspectives.",
+        "Official Site": "/",
+        "Icon": "/web/app/templates/uploads/learnHomeSlider.jpg",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
     },
     {
         "link": "https://amicireggiavenariareale.com",
@@ -140,6 +150,26 @@
         "AbstractURL": "https://beststoryus.com"
     },
     {
+        "link": "https://laparenthesedurondroyal.com",
+        "Heading": "La parenthese du rond royal - COMPIEGNE - FRANCE",
+        "Abstract": "En poussant la porte de cet h\u00f4tel particulier datant de la fin du 18 si\u00e8cle, vous tomberez sous le charme de sa cour pav\u00e9e, de son jardin arbor\u00e9 et de...",
+        "Official Site": "https://www.laparenthesedurondroyal.com/",
+        "Icon": "https://medias.elloha.com/crop-300x200/0e31e986-00c3-4c13-86fc-bdc64ba71e00/thumbnail_IMG_8274.jpg",
+        "Redirect": "https://www.laparenthesedurondroyal.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.laparenthesedurondroyal.com/"
+    },
+    {
+        "link": "https://hoekstraenvaneck.nl",
+        "Heading": "D\u00e9 lokale NVM-makelaar in jouw buurt - Hoekstra en van Eck",
+        "Abstract": "Hoekstra en van Eck helpt bij het kopen, verkopen of financieren van jouw woning. Maak direct een afspraak met een van onze makelaars bij jouw in de buurt.",
+        "Official Site": "https://hoekstraenvaneck.nl/",
+        "Icon": "N/A",
+        "Redirect": "https://hoekstraenvaneck.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hoekstraenvaneck.nl/"
+    },
+    {
         "link": "https://odessainc.com",
         "Heading": "Modern Asset Finance Software | Odessa",
         "Abstract": "Connect, accelerate, and grow your asset finance business on one unified platform. Discover our asset-based, all-in-one advantage.",
@@ -158,6 +188,16 @@
         "Redirect": "https://verasoni.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://verasoni.com/"
+    },
+    {
+        "link": "https://splashteck.com",
+        "Heading": " SplashTeck -  \u0633\u0628\u0644\u0627\u0634 \u062a\u0643 \u0644\u062d\u0644\u0648\u0644 \u0627\u0644\u0628\u0631\u0645\u062c\u0629 \u0648\u0627\u0644\u062a\u0633\u0648\u064a\u0642 \u0627\u0644\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u0649 ",
+        "Abstract": null,
+        "Official Site": "https://splashteck.com",
+        "Icon": "N/A",
+        "Redirect": "https://splashteck.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://splashteck.com"
     },
     {
         "link": "https://techywale24.in",
@@ -238,6 +278,16 @@
         "Redirect": "https://imuabanbds.vn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://imuabanbds.vn"
+    },
+    {
+        "link": "https://picol.com",
+        "Heading": "Crypto Trading Robot | Free Crypto Trading Bot | Picol",
+        "Abstract": "Picol is the best crypto trading bot currently available, 24/7 trading automatically in the cloud. Easy to use, powerful, and extremely safe. Trade your cryptocurrency now with Picol trading robot, the automated crypto trading bot.",
+        "Official Site": "https://picol.com",
+        "Icon": "https://www.picol.com/static/media/picol_banner_for_og.jpg",
+        "Redirect": "https://picol.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://picol.com"
     },
     {
         "link": "https://valuco.nl",

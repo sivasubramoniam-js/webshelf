@@ -80,6 +80,16 @@
         "AbstractURL": "https://codex-alimentarius.net"
     },
     {
+        "link": "https://investinegypt.gov.eg",
+        "Heading": "\n\t\n                \u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629\n            \n",
+        "Abstract": "Invest In Egypt is the official investments map for Egypt, including all the Egyptian investments opportunities",
+        "Official Site": "https://investinegypt.gov.eg",
+        "Icon": "https://www.investinegypt.gov.eg/Style Library/investmap/images/homepage-sharing.png",
+        "Redirect": "https://investinegypt.gov.eg",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://investinegypt.gov.eg"
+    },
+    {
         "link": "https://usjournal.com",
         "Heading": "USjournal: Improving efficiency and integrity in global operations",
         "Abstract": "US Journal improves the efficiency and integrity in global processes to ultimately advance cross-border mobility around the world.",
@@ -101,10 +111,10 @@
     },
     {
         "link": "https://cgiamestre.com",
-        "Heading": null,
+        "Heading": "CGIA MESTRE | Associazione Artigiani e Piccole Imprese MESTRE",
         "Abstract": null,
         "Official Site": "https://cgiamestre.com",
-        "Icon": "data:;",
+        "Icon": "https://www.cgiamestre.com/wp-content/uploads/2018/01/favicon.ico",
         "Redirect": "https://cgiamestre.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cgiamestre.com"
@@ -160,6 +170,16 @@
         "AbstractURL": "https://rsk-city.ru"
     },
     {
+        "link": "https://creationonlinebd.com",
+        "Heading": "Creation Online | Broadband Internet \u2013 All IT Service Under One Roof | High Speed Broadband Internet",
+        "Abstract": null,
+        "Official Site": "https://creationonlinebd.com",
+        "Icon": "https://creationonlinebd.com/wp-content/uploads/2024/09/fav-min-150x150.jpg",
+        "Redirect": "https://creationonlinebd.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://creationonlinebd.com"
+    },
+    {
         "link": "https://docca.hu",
         "Heading": "F\u0151oldal - Rendszergazda szolg\u00e1ltat\u00e1s",
         "Abstract": "Megb\u00edzhat\u00f3 \u00e9s k\u00f6lts\u00e9ghat\u00e9kony IT \u00fczemeltet\u00e9s. \u00c1tl\u00e1that\u00f3 d\u00edjszab\u00e1s, rejtett k\u00f6lts\u00e9gek n\u00e9lk\u00fcl. El\u0151re tervezhet\u0151 havi csomagok, hogy pontosan illeszkedjen a v\u00e1llalkoz\u00e1s k\u00f6lts\u00e9gvet\u00e9s\u00e9hez. Gyors reakci\u00f3id\u0151, \u00e9jjel-nappali \u00fcgyelet.",
@@ -184,7 +204,7 @@
         "Heading": "Lifespan Kids Official Store | Trampolines, Cubby Houses, Outdoor Play\n",
         "Abstract": "Lifespan Kids",
         "Official Site": "https://www.lifespankids.com.au/",
-        "Icon": "http://www.lifespankids.com.au/cdn/shop/t/44/assets/home-page.png?v=45833",
+        "Icon": "http://www.lifespankids.com.au/cdn/shop/t/44/assets/home-page.png?v=45845",
         "Redirect": "https://www.lifespankids.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lifespankids.com.au/"
@@ -218,5 +238,15 @@
         "Redirect": "https://www.bonappeteach.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bonappeteach.com/"
+    },
+    {
+        "link": "https://deanaskinart.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://deanaskinart.com",
+        "Icon": "N/A",
+        "Redirect": "https://deanaskinart.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deanaskinart.com"
     }
 ]

@@ -70,6 +70,16 @@
         "AbstractURL": "https://emfun.online"
     },
     {
+        "link": "https://edumalls.com",
+        "Heading": "Welcome to EduMalls",
+        "Abstract": null,
+        "Official Site": "https://edumalls.com",
+        "Icon": "https://cdn.edumalls.com/favicon/websites/3/edumalls-favicon_1.png",
+        "Redirect": "https://edumalls.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://edumalls.com"
+    },
+    {
         "link": "https://detstvo.ru",
         "Heading": "frs24.de \u2014 Coming Soon",
         "Abstract": "This is a default index page for a new domain.",
@@ -81,13 +91,23 @@
     },
     {
         "link": "https://abib.com",
-        "Heading": "Cafe24",
-        "Abstract": null,
-        "Official Site": "https://abib.com",
-        "Icon": "https://img.cafe24.com/favicon/cafe24.ico",
-        "Redirect": "https://abib.com",
+        "Heading": "Abib Cosmetic - \uc544\ube44\ube0c \ucf54\uc2a4\uba54\ud2f1",
+        "Abstract": "\ube44\uc6cc\uc11c \ucc44\uc6b4 \uc644\ubcbd\ud568, \uc544\ube44\ube0c",
+        "Official Site": "https://abib.com/",
+        "Icon": "https://abib.com/web/upload/share-image-1-080db29e9c98cae390b97d1615fd8a2b.jpg",
+        "Redirect": "https://abib.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://abib.com"
+        "AbstractURL": "https://abib.com/"
+    },
+    {
+        "link": "https://financereference.com",
+        "Heading": "Read. Learn. Earn. - Finance Reference",
+        "Abstract": "plinko demo plinko app billionairespin vincispin casino",
+        "Official Site": "https://www.financereference.com/",
+        "Icon": "https://financereference.com/wp-content/uploads/2021/12/logoicon1.png",
+        "Redirect": "https://www.financereference.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.financereference.com/"
     },
     {
         "link": "https://ddmgaragedoors.com",
@@ -130,6 +150,16 @@
         "AbstractURL": "https://playerwives.com"
     },
     {
+        "link": "https://semes.org",
+        "Heading": "Sociedad Espa\u00f1ola de Medicina de Urgencias y Emergencias - SEMES",
+        "Abstract": "Fundada en 1987, recogi\u00f3 en sus fines fundacionales todos aquellos aspectos que afectan a tan importante y necesaria parte de la Medicina.",
+        "Official Site": "https://www.semes.org/",
+        "Icon": "https://www.semes.org/wp-content/uploads/2021/12/semes-rework-cuadrado-scaled.jpg",
+        "Redirect": "https://www.semes.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.semes.org/"
+    },
+    {
         "link": "https://placeofmytaste.com",
         "Heading": "Place of My Taste - Place Of My Taste",
         "Abstract": "Place of My Taste is a creative blog sharing easy DIY projects, tasty recipes, home decor inspiration and beautiful travel destinations.",
@@ -138,16 +168,6 @@
         "Redirect": "https://placeofmytaste.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://placeofmytaste.com/"
-    },
-    {
-        "link": "https://mcdowellglassapp.com",
-        "Heading": "Coming Soon",
-        "Abstract": null,
-        "Official Site": "https://mcdowellglassapp.com",
-        "Icon": "N/A",
-        "Redirect": "https://mcdowellglassapp.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mcdowellglassapp.com"
     },
     {
         "link": "https://classcardapp.com",
@@ -198,6 +218,16 @@
         "Redirect": "https://www.mmogames.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mmogames.com/"
+    },
+    {
+        "link": "https://leaftea.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://leaftea.net",
+        "Icon": "N/A",
+        "Redirect": "https://leaftea.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://leaftea.net"
     },
     {
         "link": "https://kilmarnockfc.co.uk",
@@ -258,6 +288,16 @@
         "Redirect": "https://kawsargroup.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kawsargroup.com"
+    },
+    {
+        "link": "https://kabarta.id",
+        "Heading": "Kabarta \u2013 Warta Terkini",
+        "Abstract": "Warta Terkini",
+        "Official Site": "https://kabarta.id",
+        "Icon": "https://kabarta.id/wp-content/uploads/2024/01/cropped-icon-kabarta-1-80x80.png",
+        "Redirect": "https://kabarta.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kabarta.id"
     },
     {
         "link": "https://photonaturals.com",

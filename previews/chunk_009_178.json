@@ -200,16 +200,6 @@
         "AbstractURL": "https://usghof.org/"
     },
     {
-        "link": "https://supervolt.de",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://supervolt.de",
-        "Icon": "data:;",
-        "Redirect": "https://supervolt.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://supervolt.de"
-    },
-    {
         "link": "https://kariyanichigeki.com",
         "Heading": "KariyaNichigeki",
         "Abstract": null,
@@ -254,7 +244,7 @@
         "Heading": "Successful Software | \u2026requires more than just good programming.",
         "Abstract": "...requires more than just good programming.",
         "Official Site": "https://successfulsoftware.net/",
-        "Icon": "https://secure.gravatar.com/blavatar/64279352bb3ebe47dbed8c1bae921ee74a40ef409fecadd81991b423f12c588d?s=200&ts=1780902398",
+        "Icon": "https://secure.gravatar.com/blavatar/64279352bb3ebe47dbed8c1bae921ee74a40ef409fecadd81991b423f12c588d?s=200&ts=1780982894",
         "Redirect": "https://successfulsoftware.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://successfulsoftware.net/"
@@ -268,6 +258,16 @@
         "Redirect": "https://ergo-plus.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ergo-plus.com"
+    },
+    {
+        "link": "https://buywithconfidence.gov.uk",
+        "Heading": "Buy with confidence",
+        "Abstract": null,
+        "Official Site": "https://buywithconfidence.gov.uk",
+        "Icon": "/themes/newbwc/assets/favicon/favicon-96x96.png?v=1",
+        "Redirect": "https://buywithconfidence.gov.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://buywithconfidence.gov.uk"
     },
     {
         "link": "https://vanhack.com",

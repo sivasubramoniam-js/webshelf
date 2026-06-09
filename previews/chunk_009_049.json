@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://ewfbn.xyz",
-        "Heading": "Chicken Road: Dodge Fire & Win Up to x3.2 Million!",
-        "Abstract": null,
-        "Official Site": "https://ewfbn.xyz",
-        "Icon": "/assets/one_pixel.png",
-        "Redirect": "https://ewfbn.xyz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ewfbn.xyz"
-    },
-    {
         "link": "https://jeta9i.xyz",
         "Heading": "JETA9",
         "Abstract": null,
@@ -48,6 +38,16 @@
         "Redirect": "https://paitokadiri.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://paitokadiri.com"
+    },
+    {
+        "link": "https://thetravelbreeze.com",
+        "Heading": "Home - The Travel Breeze",
+        "Abstract": null,
+        "Official Site": "https://thetravelbreeze.com/",
+        "Icon": "https://thetravelbreeze.com/wp-content/uploads/2019/09/favicon-150x150.ico",
+        "Redirect": "https://thetravelbreeze.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thetravelbreeze.com/"
     },
     {
         "link": "https://www-good111.com",
@@ -170,6 +170,16 @@
         "AbstractURL": "https://www.thewhiskybarrel.com/"
     },
     {
+        "link": "https://seokratie.de",
+        "Heading": "SEO Agentur Seokratie \u2013 Nachhaltige Rankings mit 16 Jahren Erfahrung",
+        "Abstract": "Premium SEO & Online Marketing aus M\u00fcnchen. Fachliche Kompetenz - H\u00f6chste Flexibilit\u00e4t - 100 %ige Zuverl\u00e4ssigkeit \u00bb Beginne jetzt Deine Erfolgsstory!",
+        "Official Site": "https://www.seokratie.de/",
+        "Icon": "https://www.seokratie.de/wp-content/uploads/2014/04/vistenkarte-kompr.jpg",
+        "Redirect": "https://www.seokratie.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.seokratie.de/"
+    },
+    {
         "link": "https://siriusserver.net",
         "Heading": null,
         "Abstract": null,
@@ -200,6 +210,26 @@
         "AbstractURL": "https://www.atom.com/name/cdnweb"
     },
     {
+        "link": "https://3fronterasfmradio.com",
+        "Heading": "inicio - 3 Fronteras Fm Radio",
+        "Abstract": "S\u00edguenos\u00a0 Facebook Instagram Twitter Youtube REPORTA SINTONIA! 312 566 9252 \u00a1PAUTA CON NOSOTROS! 313 439 5608 Puerto As\u00eds \u2013 PutumayoCalle 10 \u2013 Cra 27 esquinaBarrio el Carmen PROGRAMACI\u00d3N \u2013:\u2013 \u2013:\u2013 Copyright \u00a9 2025 Todos los derechos reservados. Dise\u00f1o y Desarrollo en \ud83c\udde8\ud83c\uddf4 Por Zona Creativos S.A.S \u00ae CHAT EN VIVO S\u00edguenos\u00a0 Facebook Instagram Twitter Youtube [\u2026]",
+        "Official Site": "https://www.3fronterasfmradio.com/",
+        "Icon": "https://www.3fronterasfmradio.com/wp-content/uploads/elementor/thumbs/LOGO-3F-PNG-LQMS-p3n3kscx78na4c2siyt1s4eg16kv435o7ew7sqi4h8.png",
+        "Redirect": "https://www.3fronterasfmradio.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.3fronterasfmradio.com/"
+    },
+    {
+        "link": "https://agenciaamapa.com.br",
+        "Heading": "Ag\u00eancia de Not\u00edcias do Amap\u00e1",
+        "Abstract": "Acompanhe as \u00faltimas not\u00edcias, v\u00eddeos, \u00e1udios, galerias de fotos e pautas da SECOM - Secretaria de Comunica\u00e7\u00e3o do Estado do Amap\u00e1.",
+        "Official Site": "https://agenciaamapa.com.br",
+        "Icon": "https://agenciaamapa.com.br/images/og_image.png",
+        "Redirect": "https://agenciaamapa.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://agenciaamapa.com.br"
+    },
+    {
         "link": "https://atmt-e-1.com",
         "Heading": null,
         "Abstract": null,
@@ -208,5 +238,15 @@
         "Redirect": "https://atmt-e-1.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://atmt-e-1.com"
+    },
+    {
+        "link": "https://esuperfund.com.au",
+        "Heading": "\n\tSelf Managed Super Funds | SMSF - ESUPERFUND\n",
+        "Abstract": "ESUPERFUND is a Self Managed Super Funds (SMSF) service provider in Australia and we are here to help you take back control of your Super with low fees.",
+        "Official Site": "https://esuperfund.com.au",
+        "Icon": "/Sitefinity/WebsiteTemplates/Esuperfund-theme2/App_Themes/Esuperfund-theme2/Icons/favicon.ico",
+        "Redirect": "https://esuperfund.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://esuperfund.com.au"
     }
 ]

@@ -20,6 +20,16 @@
         "AbstractURL": "https://comitagroup.com"
     },
     {
+        "link": "https://s-ling.com",
+        "Heading": "\u4ed9\u53f0\u30ea\u30f3\u30b0\uff5c\u4ed9\u53f0\u30fb\u5bae\u57ce\u306e\u7dcf\u5408\u30ea\u30f3\u30af\u96c6\uff06\u30b5\u30fc\u30c1\u30a8\u30f3\u30b8\u30f3",
+        "Abstract": "\u4ed9\u53f0\u5e02\u3068\u5bae\u57ce\u770c\u306b\u95a2\u9023\u3057\u305f\u30db\u30fc\u30e0\u30da\u30fc\u30b8\u3092\u96c6\u3081\u305f\u30b5\u30fc\u30c1\u30a8\u30f3\u30b8\u30f3\u3002\u4ed9\u53f0\u570f\u306e\u30b5\u30fc\u30af\u30eb\u60c5\u5831\u3001\u4ed9\u53f0\u306e\u30a4\u30d9\u30f3\u30c8\u30ac\u30a4\u30c9\u3001\u4ed9\u53f0\u306e\u6c42\u4eba\u60c5\u5831\u3001\u30ea\u30b5\u30a4\u30af\u30eb\u30b3\u30fc\u30ca\u30fc\u306a\u3069\u5730\u57df\u306b\u5bc6\u7740\u3057\u305f\u60c5\u5831\u3092\u63d0\u4f9b",
+        "Official Site": "https://s-ling.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://s-ling.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://s-ling.com"
+    },
+    {
         "link": "https://screencapture.com",
         "Heading": "Free Online Screen Recorder | Online Video Recorder",
         "Abstract": "Looking for a free screen recorder with no download needed? Try our free online video recorder and capture visuals you want from your computer.",
@@ -80,14 +90,44 @@
         "AbstractURL": "https://tpsarov.ru"
     },
     {
-        "link": "https://potatonewstoday.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://potatonewstoday.com",
-        "Icon": "data:;",
-        "Redirect": "https://potatonewstoday.com",
+        "link": "https://spie-nl.com",
+        "Heading": "SPIE Nederland | Multitechnische dienstverlener van A-Z",
+        "Abstract": "Welkom op de website van SPIE Nederland, de multitechnische dienstverlener van A tot Z",
+        "Official Site": "https://spie-nl.com",
+        "Icon": "/themes/custom/spie/favicon.ico",
+        "Redirect": "https://spie-nl.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://potatonewstoday.com"
+        "AbstractURL": "https://spie-nl.com"
+    },
+    {
+        "link": "https://tsukanko.jp",
+        "Heading": "\u4e09\u91cd\u770c\u6d25\u5e02\u306e\u89b3\u5149\u60c5\u5831\u30b5\u30a4\u30c8\u300c\u6d25\u306e\u6642\u9593\u300d - \u6d25\u5e02\u89b3\u5149\u5354\u4f1a",
+        "Abstract": "\u81ea\u7136\u306b\u5305\u307e\u308c\u3001\u6b74\u53f2\u3068\u6587\u5316\u306b\u5b88\u3089\u308c\u308b\u307e\u3061\u3001\u4e09\u91cd\u770c\u6d25\u5e02\u306e\u89b3\u5149\u60c5\u5831\u3002 \u304a\u3067\u304b\u3051\u30b9\u30dd\u30c3\u30c8\u7d39\u4ecb\u306e\u307b\u304b\u3001\u5b63\u7bc0\u306e\u7279\u96c6\u8a18\u4e8b\u3084\u304a\u3059\u3059\u3081\u30b3\u30fc\u30b9\u306a\u3069\u3001\u6d25\u306e\u6642\u9593\u3092\u697d\u3057\u3080\u60c5\u5831\u304c\u6e80\u8f09\uff01 \u30b3\u30b3\u30ed\u3068\u30ab\u30e9\u30c0\u304c\u3088\u308d\u3053\u3076\u30b9\u30ed\u30fc\u306a\u3072\u3068\u3068\u304d\u3092\u304a\u904e\u3054\u3057\u304f\u3060\u3055\u3044\u3002",
+        "Official Site": "https://tsukanko.jp/",
+        "Icon": "https://tsukanko.jp/manage/wp-content/uploads/2024/12/5edf20f6da821e8c7cb7af6428bd28ec.png",
+        "Redirect": "https://tsukanko.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tsukanko.jp/"
+    },
+    {
+        "link": "https://wrinklefreeit.com",
+        "Heading": "IT Support For Long Beach Businesses | WFIT Solutions",
+        "Abstract": "Fast, friendly IT support for Long Beach businesses. Managed services, cybersecurity, and network solutions \u2014 all backed by 24/7 monitoring.",
+        "Official Site": "https://wrinklefree.it/",
+        "Icon": "https://wrinklefree.it/files/2026/03/IMG_1480a.jpg",
+        "Redirect": "https://wrinklefree.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wrinklefree.it/"
+    },
+    {
+        "link": "https://potatonewstoday.com",
+        "Heading": "Potato News Today \u2013 No-nonsense, no-frills potato news stories from around the world",
+        "Abstract": "No-nonsense, no-frills potato news stories from around the world",
+        "Official Site": "https://www.potatonewstoday.com/",
+        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC93d3cucG90YXRvbmV3c3RvZGF5LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMFwvMDZcL2Nyb3BwZWQtUE5ULWxvZ28tZmluYWw1LTEuanBnP2ZpdD0xNTAwJTJDNjk4JnNzbD0xIiwidHh0IjoiUG90YXRvIE5ld3MgVG9kYXkiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTgyMzgzNzI4fQ._b6UW1MxGLwlueH4afltNWgspSiR-fsttQ_5jf3OlJ8MQ",
+        "Redirect": "https://www.potatonewstoday.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.potatonewstoday.com/"
     },
     {
         "link": "https://schneeberger.com",
@@ -101,13 +141,13 @@
     },
     {
         "link": "https://expleogroup.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://expleogroup.com",
-        "Icon": "N/A",
-        "Redirect": "https://expleogroup.com",
+        "Heading": "Transforming Business with Expleo",
+        "Abstract": "Expleo is a trusted partner for end-to-end, integrated engineering, quality services and management consulting for digital transformation.",
+        "Official Site": "https://expleo.com/global/en/",
+        "Icon": "https://expleo.com/global/en/wp-content/uploads/2022/09/expleo-featured-pic-02.jpg",
+        "Redirect": "https://expleo.com/global/en/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://expleogroup.com"
+        "AbstractURL": "https://expleo.com/global/en/"
     },
     {
         "link": "https://pitchforkmusicfestival.com",
@@ -128,6 +168,16 @@
         "Redirect": "https://chinaflw.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chinaflw.cn"
+    },
+    {
+        "link": "https://torvehallernekbh.dk",
+        "Heading": "TorvehallerneKBH - hele byens spisekammer",
+        "Abstract": "TorvehallerneKBH er hele K\u00f8benhavns spisekammer. Et f\u00f8devaremarked, hvor det oprindelige, det nye, det gennemt\u00e6nkte og det langsomt tilberedte fa\u030ar mere end 115.000 k\u00f8benhavnere til at flokkes hver eneste uge.",
+        "Official Site": "https://torvehallernekbh.dk/",
+        "Icon": "https://torvehallernekbh.dk/wp-content/uploads/2021/07/TH_KarlJohan_brun.png",
+        "Redirect": "https://torvehallernekbh.dk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://torvehallernekbh.dk/"
     },
     {
         "link": "https://orwops.com",
@@ -200,6 +250,16 @@
         "AbstractURL": "https://www.cashandkerry.com/"
     },
     {
+        "link": "https://zahrada-cs.com",
+        "Heading": "Zahrada-cs.com - v\u0161e pro zahradu a p\u011bstov\u00e1n\u00ed rostlin",
+        "Abstract": "Zahradnick\u00fd server - encyklopedie rostlin, \u010dl\u00e1nky, diskusn\u00ed f\u00f3rum, zahradn\u00ed obchody, 150 000 fotografi\u00ed",
+        "Official Site": "https://www.zahrada-cs.com/",
+        "Icon": "https://www.zahrada-cs.com/images_forum/gallery/12147/14819-abelie-velkokveta-abelia-x-grandiflora-a.jpg",
+        "Redirect": "https://www.zahrada-cs.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.zahrada-cs.com/"
+    },
+    {
         "link": "https://playernc.com",
         "Heading": null,
         "Abstract": null,
@@ -228,5 +288,15 @@
         "Redirect": "https://opentimestamps.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://opentimestamps.org/"
+    },
+    {
+        "link": "https://mindgems.com",
+        "Heading": "MindGems | Trusted Disk Space Analyzer & Duplicate Finders",
+        "Abstract": "MindGems helps professionals analyze disk space, check folder sizes, and remove duplicates. Fast, reliable, and trusted for 25 years.",
+        "Official Site": "https://mindgems.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://mindgems.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mindgems.com"
     }
 ]

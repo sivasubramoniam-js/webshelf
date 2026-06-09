@@ -20,6 +20,16 @@
         "AbstractURL": "https://warforgalaxy.com"
     },
     {
+        "link": "https://bitconsulting.ro",
+        "Heading": "BIT Consulting - Servicii si Solutii IT ",
+        "Abstract": "BIT Consulting furnizeaza Solutii si Servicii IT pentru companiile din Bucure\u0219ti inca din 2005, avand o vasta experienta \u00een domeniu. ",
+        "Official Site": "https://bitconsulting.ro",
+        "Icon": "assets/img/favicon.png?v=3",
+        "Redirect": "https://bitconsulting.ro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bitconsulting.ro"
+    },
+    {
         "link": "https://re-mind.pro",
         "Heading": null,
         "Abstract": null,
@@ -28,16 +38,6 @@
         "Redirect": "https://re-mind.pro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://re-mind.pro"
-    },
-    {
-        "link": "https://glitchndealz.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://glitchndealz.com",
-        "Icon": "data:;",
-        "Redirect": "https://glitchndealz.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://glitchndealz.com"
     },
     {
         "link": "https://foes.de",
@@ -71,8 +71,8 @@
     },
     {
         "link": "https://winning-moves.com",
-        "Heading": "Winning Moves Games, Inc.",
-        "Abstract": "",
+        "Heading": "Winning Moves Games",
+        "Abstract": null,
         "Official Site": "https://winning-moves.com",
         "Icon": "N/A",
         "Redirect": "https://winning-moves.com",
@@ -108,6 +108,16 @@
         "Redirect": "https://es.opiniones-verificadas.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://es.opiniones-verificadas.com/"
+    },
+    {
+        "link": "https://teesvalley-ca.gov.uk",
+        "Heading": "Tees Valley - Anything is Possible",
+        "Abstract": "Working alongside national bodies, local authorities and businesses, we\u2019re making Tees Valley an exceptional place to live, learn, work and visit.",
+        "Official Site": "https://teesvalley-ca.gov.uk/",
+        "Icon": "https://teesvalley-ca.gov.uk/wp-content/themes/tees-valley/dist/favicons/favicon-32x32.png",
+        "Redirect": "https://teesvalley-ca.gov.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://teesvalley-ca.gov.uk/"
     },
     {
         "link": "https://mindmechanics.net",

@@ -1,13 +1,13 @@
 [
     {
         "link": "https://citylinkcenter.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://citylinkcenter.org",
-        "Icon": "data:;",
-        "Redirect": "https://citylinkcenter.org",
+        "Heading": "CityLink Center: One Place, All Kinds of Services - Homepage",
+        "Abstract": "CityLink Center is where individuals go to get surrounded by one team, create a plan to break free from poverty and get to a place of stability and hope.",
+        "Official Site": "https://www.citylinkcenter.org/",
+        "Icon": "N/A",
+        "Redirect": "https://www.citylinkcenter.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://citylinkcenter.org"
+        "AbstractURL": "https://www.citylinkcenter.org/"
     },
     {
         "link": "https://nsbikes.com",
@@ -28,6 +28,16 @@
         "Redirect": "https://yless4u.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yless4u.com.au"
+    },
+    {
+        "link": "https://macquariemed.com.au",
+        "Heading": "Medical Supplies Australia | Macquarie Medical Systems",
+        "Abstract": "Macquarie Medical Systems supplies medical equipment, consumables, and diagnostic devices across Australia. Order online with trusted local support.",
+        "Official Site": "https://macquariemed.com.au",
+        "Icon": "https://macquariemed.com.au/media/favicon/default/favicon-32x32.png",
+        "Redirect": "https://macquariemed.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://macquariemed.com.au"
     },
     {
         "link": "https://scharr.de",
@@ -70,16 +80,6 @@
         "AbstractURL": "https://journeyartstuff.com/"
     },
     {
-        "link": "https://thethriftshopper.com",
-        "Heading": "TheThriftShopper: National Directory of Thrift, Resale & Donation Stores ",
-        "Abstract": " Search 0+ thrift, consignment, vintage & donation shops by city, state or ZIP. Rate, review, and find your next thrift store on TheThriftShopper.",
-        "Official Site": "https://thethriftshopper.com",
-        "Icon": "/assets/favicon/android-icon-192x192.png",
-        "Redirect": "https://thethriftshopper.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thethriftshopper.com"
-    },
-    {
         "link": "https://albaida.es",
         "Heading": "Portada | Ajuntament d'Albaida",
         "Abstract": null,
@@ -108,6 +108,16 @@
         "Redirect": "https://www.campingparis.fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.campingparis.fr/"
+    },
+    {
+        "link": "https://takipavm.com",
+        "Heading": "Ucuz Takip\u00e7i Sat\u0131n Al - \u0130nstagram Ucuz Takip\u00e7i",
+        "Abstract": "Ucuz takip\u00e7i sat\u0131n al ve instagram ucuz takip\u00e7i g\u00f6nder! En uygun fiyatlar ile takip\u00e7i sat\u0131n al ve ucuz takip\u00e7i sipari\u015fi ver!",
+        "Official Site": "https://takipavm.com/",
+        "Icon": "https://takipavm.com/upload/favicon-494953.png",
+        "Redirect": "https://takipavm.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://takipavm.com/"
     },
     {
         "link": "https://tnmagazine.org",
@@ -158,6 +168,16 @@
         "Redirect": "https://wickbot.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wickbot.com"
+    },
+    {
+        "link": "https://servernetservices.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://servernetservices.com",
+        "Icon": "N/A",
+        "Redirect": "https://servernetservices.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://servernetservices.com"
     },
     {
         "link": "https://turta.io",
@@ -248,6 +268,16 @@
         "Redirect": "https://philomathnews.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://philomathnews.com/"
+    },
+    {
+        "link": "https://sebraestartups.com.br",
+        "Heading": "Sebrae Startups",
+        "Abstract": "Apoio pra startups em todos os momentos, desafios e lugares.",
+        "Official Site": "https://sebrae.com.br/subsites/sebrae-startups",
+        "Icon": "https://sebrae.scene7.com/is/image/sebrae/banner-destaque-01-17:opengraph?bfc=webp&fmt=png-alpha",
+        "Redirect": "https://sebrae.com.br/subsites/sebrae-startups",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sebrae.com.br/subsites/sebrae-startups"
     },
     {
         "link": "https://rossensor.ru",

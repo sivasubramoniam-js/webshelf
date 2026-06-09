@@ -20,6 +20,16 @@
         "AbstractURL": "https://www.girl.com.au/"
     },
     {
+        "link": "https://socpub.com",
+        "Heading": "| socPub",
+        "Abstract": null,
+        "Official Site": "https://socpub.com",
+        "Icon": "/sites/default/files/socPub2022_0.png",
+        "Redirect": "https://socpub.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://socpub.com"
+    },
+    {
         "link": "https://kule.com",
         "Heading": "\n      KULE - Home of the Perfect Stripe Shirt\n      \n      \n    ",
         "Abstract": "KULE is a fashion brand making classic clothes with a happy wink ;) Designed by CFDA member Nikki Kule, the brand launched as a childrenswear brand in 2001, and later relaunched as a collection of perfect stripe tees in 2015. Now encompassing multiple categories for women.",
@@ -38,6 +48,26 @@
         "Redirect": "https://www.cowshed.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cowshed.com/"
+    },
+    {
+        "link": "https://racismoambiental.net.br",
+        "Heading": "Combate Racismo Ambiental - O blog Combate Racismo Ambiental foi criado e \u00e9 mantido por Tania Pacheco, sem fins lucrativos e utilizando tecnologia WordPress. A reprodu\u00e7\u00e3o de seu conte\u00fado \u00e9 incentivada, desde que citando a fonte e tamb\u00e9m sem fins lucrativos.",
+        "Abstract": "O blog Combate Racismo Ambiental foi criado e \u00e9 mantido por Tania Pacheco, sem fins lucrativos e utilizando tecnologia WordPress. A reprodu\u00e7\u00e3o de seu conte\u00fado \u00e9 incentivada, desde que citando a fonte e tamb\u00e9m sem fins lucrativos.",
+        "Official Site": "https://racismoambiental.net.br/",
+        "Icon": "N/A",
+        "Redirect": "https://racismoambiental.net.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://racismoambiental.net.br/"
+    },
+    {
+        "link": "https://podpartner.com",
+        "Heading": "PODpartner: Print On Demand Clothing & Dropshipping Solutions",
+        "Abstract": "PODpartner is your one-stop platform for global dropshipping of print-on-demand clothing. Design, sell, and let us handle the rest.",
+        "Official Site": "https://www.podpartner.com/",
+        "Icon": "https://img.podpartner.com/static/ogFiles/index-og.png",
+        "Redirect": "https://www.podpartner.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.podpartner.com/"
     },
     {
         "link": "https://actioniq.com",
@@ -70,14 +100,14 @@
         "AbstractURL": "https://www.adairhomes.com"
     },
     {
-        "link": "https://initiativefortbildung.de",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://initiativefortbildung.de",
-        "Icon": "data:;",
-        "Redirect": "https://initiativefortbildung.de",
+        "link": "https://bluesblastmagazine.com",
+        "Heading": "Blues Blast Magazine \u2013 Home of Blues News, Reviews, and More.",
+        "Abstract": "Home of Blues News, Reviews, and More.",
+        "Official Site": "https://bluesblastmagazine.com",
+        "Icon": "N/A",
+        "Redirect": "https://bluesblastmagazine.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://initiativefortbildung.de"
+        "AbstractURL": "https://bluesblastmagazine.com"
     },
     {
         "link": "https://asdreams.org",
@@ -128,6 +158,16 @@
         "Redirect": "https://uznev.uz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://uznev.uz"
+    },
+    {
+        "link": "https://limitlessnexus.com",
+        "Heading": "Limitless Nexus | The Veil and the Key",
+        "Abstract": "The point where infinite potential is given focus.",
+        "Official Site": "https://limitlessnexus.com",
+        "Icon": "N/A",
+        "Redirect": "https://limitlessnexus.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://limitlessnexus.com"
     },
     {
         "link": "https://povpow.com",

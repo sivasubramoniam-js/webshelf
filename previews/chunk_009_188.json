@@ -74,7 +74,7 @@
         "Heading": "\ud83c\udfc6 Premium WordPress Themes | Gutenberg & Elementor Compatible Themes",
         "Abstract": "Amazing Premium and Free WordPress themes. Download Gutenberg and Elementor Compatible Free WordPress Themes. Buy Premium WordPress Elementor themes & Templates",
         "Official Site": "https://wpcharms.com/",
-        "Icon": "https://cdn-aflcd.nitrocdn.com/pbHyNZgifiLfvIqQEJXpyMDjwbtbwEOc/assets/images/optimized/rev-d4e06a1/wpcharms.com/wp-content/uploads/2019/04/wpcharms-2-150x150.png",
+        "Icon": "https://wpcharms.com/wp-content/uploads/2019/04/wpcharms-2-150x150.png",
         "Redirect": "https://wpcharms.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wpcharms.com/"
@@ -108,16 +108,6 @@
         "Redirect": "https://thibautcourtoiscz.biz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thibautcourtoiscz.biz"
-    },
-    {
-        "link": "https://sathiharu.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://sathiharu.com",
-        "Icon": "N/A",
-        "Redirect": "https://sathiharu.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sathiharu.com"
     },
     {
         "link": "https://monschau.de",
@@ -170,6 +160,36 @@
         "AbstractURL": "https://kktpakistan.com"
     },
     {
+        "link": "https://biofortuna.com",
+        "Heading": "Assay Development & Manufacturing",
+        "Abstract": "Biofortuna is a leading contract development, manufacturing, and laboratory services organisation that accelerates diagnostic innovation",
+        "Official Site": "https://www.biofortuna.com/",
+        "Icon": "https://www.biofortuna.com/wp-content/uploads/2025/03/lyo-scientists.webp",
+        "Redirect": "https://www.biofortuna.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.biofortuna.com/"
+    },
+    {
+        "link": "https://law-firm-rechtsanwalt-sattler-schanda-vienna-wien-austria.at",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://law-firm-rechtsanwalt-sattler-schanda-vienna-wien-austria.at",
+        "Icon": "N/A",
+        "Redirect": "https://law-firm-rechtsanwalt-sattler-schanda-vienna-wien-austria.at",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://law-firm-rechtsanwalt-sattler-schanda-vienna-wien-austria.at"
+    },
+    {
+        "link": "https://seasoft.com",
+        "Heading": "IBM Z & IBM i | Mainframe Software | AS400 Software | IT Service Management | IBM Z & IBM i | Mainframe Software | AS400 Software | IT Service Management  \n  ",
+        "Abstract": "Software Engineering of America has built a reputation as a leading provider of IT management, enterprise, mainframe (IBM software Z), and as400 (IBM i) software solutions.",
+        "Official Site": "https://seasoft.com/",
+        "Icon": "https://seasoft.com/wp-content/uploads/2025/10/seasoft-social-media.jpg",
+        "Redirect": "https://seasoft.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seasoft.com/"
+    },
+    {
         "link": "https://homemediamagazine.com",
         "Heading": "Home Media Magazine | Covering DVD news, Blu-ray, high-def and electronic sellthrough for Hollywood, studios and retailers",
         "Abstract": "www.HomeMediaMagazine.com covers breaking news about the home entertainment industry. News on Blu-ray, high-definition, electronic delivery, TV DVD, and video games, including studios and retailer news, industry event photos, polls, commentary & information.",
@@ -198,16 +218,6 @@
         "Redirect": "https://kafkadesk.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kafkadesk.org/"
-    },
-    {
-        "link": "https://old4me.com",
-        "Heading": "Redirecting...",
-        "Abstract": null,
-        "Official Site": "https://old4me.com",
-        "Icon": "N/A",
-        "Redirect": "https://old4me.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://old4me.com"
     },
     {
         "link": "https://fitaacademy.in",

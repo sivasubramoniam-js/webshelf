@@ -140,14 +140,24 @@
         "AbstractURL": "https://albertdock.com/"
     },
     {
-        "link": "https://chelnyltd.ru",
-        "Heading": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0445 \u0427\u0435\u043b\u043d\u043e\u0432 - \u0433\u0430\u0437\u0435\u0442\u0430 \"\u0427\u0435\u043b\u043d\u044b \u041b\u0422\u0414\"",
-        "Abstract": "\u0415\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0445 \u0427\u0435\u043b\u043d\u043e\u0432 - \u0433\u0430\u0437\u0435\u0442\u0430 '\u0427\u0435\u043b\u043d\u044b \u041b\u0422\u0414'",
-        "Official Site": "https://chelnyltd.ru",
-        "Icon": "N/A",
-        "Redirect": "https://chelnyltd.ru",
+        "link": "https://tapub.fr",
+        "Heading": "Publicit\u00e9 avec TaPub.Fr - Echange de banni\u00e8res - Solution publicitaire",
+        "Abstract": "TaPub.Fr propose un service gratuit d'\u00e9change de banni\u00e8res. Votre publicit\u00e9 sur le net devient plus facile et rapide. Trouver rapidement de nouveaux clients.",
+        "Official Site": "https://tapub.fr/",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://tapub.fr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chelnyltd.ru"
+        "AbstractURL": "https://tapub.fr/"
+    },
+    {
+        "link": "https://micro-churches.net",
+        "Heading": "Home - Online Bible College",
+        "Abstract": "Start your Free Online Bible College Education and join over 60,000 transformed students worldwide.",
+        "Official Site": "https://onlinebiblecollege.com/",
+        "Icon": "https://onlinebiblecollege.com/wp-content/uploads/2026/05/online_bible_college_logo-150x150.jpeg",
+        "Redirect": "https://onlinebiblecollege.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onlinebiblecollege.com/"
     },
     {
         "link": "https://venturaharborcomedyclub.com",
@@ -160,6 +170,16 @@
         "AbstractURL": "https://venturaharborcomedyclub.com"
     },
     {
+        "link": "https://bistrosakana.com",
+        "Heading": "\u0e2a\u0e25\u0e47\u0e2d\u0e15\u0e40\u0e27\u0e47\u0e1a\u0e15\u0e23\u0e07 2026 PGWIN828 \u0e23\u0e27\u0e21 PG Slot \u0e1d\u0e32\u0e01\u0e16\u0e2d\u0e19\u0e27\u0e2d\u0e40\u0e25\u0e17 \u0e23\u0e30\u0e1a\u0e1a\u0e44\u0e27 RTP \u0e2a\u0e39\u0e07",
+        "Abstract": "\u0e2a\u0e25\u0e47\u0e2d\u0e15\u0e40\u0e27\u0e47\u0e1a\u0e15\u0e23\u0e07 2026 \u0e01\u0e31\u0e1a PGWIN828 \u0e23\u0e27\u0e21\u0e41\u0e19\u0e27\u0e17\u0e32\u0e07\u0e40\u0e0a\u0e47\u0e01\u0e40\u0e27\u0e47\u0e1a PG Slot \u0e23\u0e30\u0e1a\u0e1a API \u0e1d\u0e32\u0e01\u0e16\u0e2d\u0e19\u0e27\u0e2d\u0e40\u0e25\u0e17 \u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e16\u0e35\u0e22\u0e23 RTP \u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e1c\u0e48\u0e32\u0e19\u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d\u0e01\u0e48\u0e2d\u0e19\u0e15\u0e31\u0e14\u0e2a\u0e34\u0e19\u0e43\u0e08\u0e40\u0e25\u0e48\u0e19",
+        "Official Site": "https://www.eatlola.com/our-menu",
+        "Icon": "https://www.eatlola.com/images/favicon.webp",
+        "Redirect": "https://www.eatlola.com/our-menu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.eatlola.com/our-menu"
+    },
+    {
         "link": "https://lif.se",
         "Heading": "Lif \u2013 de forskande l\u00e4kemedelsf\u00f6retagen",
         "Abstract": "Lif \u00e4r branschorganisationen f\u00f6r de forskande l\u00e4kemedelsf\u00f6retagen i Sverige. Vi arbetar f\u00f6r en h\u00f6gkvalitativ v\u00e5rd och tillg\u00e5ng till nya behandlingar.",
@@ -168,6 +188,16 @@
         "Redirect": "/",
         "AbstractSource": "BS4",
         "AbstractURL": "/"
+    },
+    {
+        "link": "https://naelith.space",
+        "Heading": "Naelith",
+        "Abstract": null,
+        "Official Site": "https://naelith.space",
+        "Icon": "N/A",
+        "Redirect": "https://naelith.space",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://naelith.space"
     },
     {
         "link": "https://hospitalmompia.com",
@@ -201,8 +231,8 @@
     },
     {
         "link": "https://eranet-lac.eu",
-        "Heading": "Online Casinos in Europe: Top Platforms for Safe & Exciting Gaming",
-        "Abstract": "Discover the best online casino Europe has to offer with top games, secure payments, and exciting bonuses. Play safely and enjoy premium gaming experiences today.\n",
+        "Heading": "Online Casinos in Europe 2026 \u2013 Best Licensed EU Casino Sites",
+        "Abstract": "Find the best online casino Europe has to offer with our expert guide. Compare licensed EU casinos, bonuses, payment methods, and games for safe European online gambling.",
         "Official Site": "https://eranet-lac.eu",
         "Icon": "/img/favicon.png",
         "Redirect": "https://eranet-lac.eu",
@@ -218,6 +248,16 @@
         "Redirect": "https://doulos.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://doulos.com"
+    },
+    {
+        "link": "https://shakalakaa.my",
+        "Heading": "shakalakaa | Digital Marketing Agency | High-Growth Strategy",
+        "Abstract": "Scale your brand with shakalakaa, a premier digital marketing agency. We specialize in SEO, paid media, and creative strategy to drive measurable ROI for ambitious businesses. Start your growth journey today.",
+        "Official Site": "https://shakalakaa.my",
+        "Icon": "https://plixitt.com/assets/images/shakalakaa-logo-icon-only_v2.png",
+        "Redirect": "https://shakalakaa.my",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shakalakaa.my"
     },
     {
         "link": "https://0560.ru",

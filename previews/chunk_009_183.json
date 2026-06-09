@@ -140,6 +140,26 @@
         "AbstractURL": "https://www.spyfall.app"
     },
     {
+        "link": "https://qatuae.com",
+        "Heading": "Quick Action Trading LLC",
+        "Abstract": null,
+        "Official Site": "https://qatuae.com",
+        "Icon": "https://qatuae.com/wp-content/themes/hub/favicon.png",
+        "Redirect": "https://qatuae.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://qatuae.com"
+    },
+    {
+        "link": "https://official-hotel.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://official-hotel.ru",
+        "Icon": "N/A",
+        "Redirect": "https://official-hotel.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://official-hotel.ru"
+    },
+    {
         "link": "https://navanet.de",
         "Heading": "navanet.de - Systemadministration Bingen und Umgebung",
         "Abstract": "navanet.de - Systemadministration Bingen und Umgebung",
@@ -172,9 +192,9 @@
     {
         "link": "https://is-bg.net",
         "Heading": "\n            \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e \u043e\u0431\u0441\u043b\u0443\u0436\u0432\u0430\u043d\u0435::\u041d\u0430\u0447\u0430\u043b\u043e        ",
-        "Abstract": null,
+        "Abstract": "",
         "Official Site": "https://is-bg.net/",
-        "Icon": "/favicon.1780902011.ico",
+        "Icon": "/favicon.1780925841.ico",
         "Redirect": "https://is-bg.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://is-bg.net/"
@@ -208,6 +228,16 @@
         "Redirect": "https://www.hugeDomains.com/domain_profile.cfm?d=rui77.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=rui77.com"
+    },
+    {
+        "link": "https://itabau.com.br",
+        "Heading": "Itaba\u00fa \u2022 S\u00e3o Bento do Sapuca\u00ed - SP",
+        "Abstract": "Conhe\u00e7a os melhores sorvetes de massa e picol\u00e9s artesanais da Itaba\u00fa. Ingredientes naturais e receitas exclusivas para sabores irresist\u00edveis. Conhe\u00e7a agora!",
+        "Official Site": "https://itabau.com.br/",
+        "Icon": "https://itabau.com.br/wp-content/uploads/2022/12/cropped-favicon-32x32.png",
+        "Redirect": "https://itabau.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://itabau.com.br/"
     },
     {
         "link": "https://evulid.cc",
@@ -268,5 +298,15 @@
         "Redirect": "https://nikkanseibu-eve.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nikkanseibu-eve.com"
+    },
+    {
+        "link": "https://learnwithmike.eu",
+        "Heading": "learnwithmike.eu \u2014 Latest News",
+        "Abstract": "Fresh and trending updates from learnwithmike.eu",
+        "Official Site": "https://learnwithmike.eu",
+        "Icon": "https://ts2.mm.bing.net/th?q=learnwithmike.eu",
+        "Redirect": "https://learnwithmike.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://learnwithmike.eu"
     }
 ]

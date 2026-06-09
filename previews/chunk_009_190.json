@@ -40,6 +40,16 @@
         "AbstractURL": "https://thejewishstar.com/"
     },
     {
+        "link": "https://biofuelwatch.org.uk",
+        "Heading": "Biofuelwatch | Raising awareness of the negative impacts of industrial biofuels and bioenergy",
+        "Abstract": null,
+        "Official Site": "https://biofuelwatch.org.uk",
+        "Icon": "https://www.biofuelwatch.org.uk/wp-content/uploads/biofuelwatch-favicon-150x150.png",
+        "Redirect": "https://biofuelwatch.org.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://biofuelwatch.org.uk"
+    },
+    {
         "link": "https://ertheo.com",
         "Heading": "Home - Ertheo - Educaci\u00f3n & deporte",
         "Abstract": null,
@@ -110,6 +120,16 @@
         "AbstractURL": "https://uni.tech/"
     },
     {
+        "link": "https://oomphdesign.co.uk",
+        "Heading": "Cheltenham website design company providing responsive Wordpress & WooCommerce development, logos, branding, brochures, leaflets - Oomph! Design, Gloucestershire",
+        "Abstract": ".",
+        "Official Site": "https://oomphdesign.co.uk",
+        "Icon": "favicon.png",
+        "Redirect": "https://oomphdesign.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oomphdesign.co.uk"
+    },
+    {
         "link": "https://bruxelles2.eu",
         "Heading": "Bruxelles2 - L'actualit\u00e9 europ\u00e9enne de d\u00e9fense et de s\u00e9curit\u00e9",
         "Abstract": "Toute l'actualit\u00e9 de la politique europ\u00e9enne de d\u00e9fense et de s\u00e9curit\u00e9 (PSDC). Informations exclusives, analyses et d\u00e9cryptages.",
@@ -140,14 +160,34 @@
         "AbstractURL": "https://www.americansamoa.gov"
     },
     {
-        "link": "https://idplans.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://idplans.com",
-        "Icon": "data:;",
-        "Redirect": "https://idplans.com",
+        "link": "https://top10massage.fr",
+        "Heading": "TOP10MASSAGE.FR \u2022 Salons de massage dans toute la France",
+        "Abstract": "Top10massage.fr vous aide a trouver salons de massage populaires dans France.",
+        "Official Site": "https://top10massage.fr",
+        "Icon": "Top10massage.fr vous aide a trouver salons de massage populaires dans France.",
+        "Redirect": "https://top10massage.fr",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://idplans.com"
+        "AbstractURL": "https://top10massage.fr"
+    },
+    {
+        "link": "https://samyak.com",
+        "Heading": "Custom Software Development Company",
+        "Abstract": "Partner with a top-rated custom software development company offering tailored solutions to drive innovation and efficiency. Get your free consultation today!",
+        "Official Site": "https://www.samyak.com/",
+        "Icon": "https://www.samyak.com/wp-content/themes/samyak/images/favicon/android-icon-192x192.png",
+        "Redirect": "https://www.samyak.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.samyak.com/"
+    },
+    {
+        "link": "https://idplans.com",
+        "Heading": "Home - idplans.com",
+        "Abstract": "Find your next tenant before you need one with prospect matches ranked by 50+ data points. Connect with your best matches instantly through personalized",
+        "Official Site": "https://www.idplans.com/",
+        "Icon": "https://www.idplans.com/wp-content/uploads/2025/09/cropped-ID-logo-icon-32x32.jpg",
+        "Redirect": "https://www.idplans.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.idplans.com/"
     },
     {
         "link": "https://radiohdvivo.com",
