@@ -60,21 +60,11 @@
         "AbstractURL": "https://thesportslite.com/"
     },
     {
-        "link": "https://daysmartappointments.com",
-        "Heading": "Appointment Scheduling Software | DaySmart Appointments",
-        "Abstract": "Appointment scheduling software that streamlines booking for businesses and their clients. Learn about DaySmart Appointments (formerly AppointmentPlus).",
-        "Official Site": "https://www.daysmart.com/appointments/",
-        "Icon": "https://www.daysmart.com/appointments/wp-content/uploads/sites/6/2025/01/Appointments-Generic-1.webp",
-        "Redirect": "https://www.daysmart.com/appointments/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.daysmart.com/appointments/"
-    },
-    {
         "link": "https://ceskatrafika.com",
         "Heading": ". - CeskaTrafika.com",
         "Abstract": ".. \u00a0\u00a0",
         "Official Site": "https://www.ceskatrafika.com/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.ceskatrafika.com/user/logos/ceskatrafika-barva-com.png?t=1781079428",
+        "Icon": "https://cdn.myshoptet.com/usr/www.ceskatrafika.com/user/logos/ceskatrafika-barva-com.png?t=1781165242",
         "Redirect": "https://www.ceskatrafika.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ceskatrafika.com/"
@@ -88,6 +78,16 @@
         "Redirect": "https://mposportkim.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mposportkim.com/"
+    },
+    {
+        "link": "https://opoczta.pl",
+        "Heading": "Logowanie Poczta Onet | Bezpieczna i darmowa poczta e-mail",
+        "Abstract": "Bezpieczne logowanie do Poczty Onet. | Szybka rejestracja | Konfiguracja wielu kont | Dedykowana pomoc | Szeroka funkcjonalno\u015b\u0107",
+        "Official Site": "https://opoczta.pl",
+        "Icon": "https://static-konto.onet.pl/assets/logos/onet_konto_favicon_v1_1.png",
+        "Redirect": "https://opoczta.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://opoczta.pl"
     },
     {
         "link": "https://theitaliantimes.it",
@@ -108,6 +108,16 @@
         "Redirect": "https://leroy-somer.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://leroy-somer.com"
+    },
+    {
+        "link": "https://levolcan.com",
+        "Heading": "Le Volcan, Sc\u00e8ne nationale du Havre",
+        "Abstract": "Sc\u00e8ne nationale du Havre, Le Volcan accueille th\u00e9\u00e2tre, danse, cirque et musique. Un lieu de cr\u00e9ation vivante dans l'architecture d'Oscar Niemeyer.",
+        "Official Site": "https://www.levolcan.com/node/192",
+        "Icon": "/core/misc/favicon.ico",
+        "Redirect": "https://www.levolcan.com/node/192",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.levolcan.com/node/192"
     },
     {
         "link": "https://viewfinder-app.com",
@@ -160,6 +170,26 @@
         "AbstractURL": "https://catscradle.com/"
     },
     {
+        "link": "https://goofle.com",
+        "Heading": "Loading...",
+        "Abstract": null,
+        "Official Site": "https://goofle.com",
+        "Icon": "N/A",
+        "Redirect": "https://goofle.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://goofle.com"
+    },
+    {
+        "link": "https://inddee.com",
+        "Heading": "Inddee",
+        "Abstract": "Indd.ee offers an extensive range of services which have been designed to support businesses, organisations and brands of all sizes.",
+        "Official Site": "https://indd.ee/",
+        "Icon": "https://indd.ee/ender-chest/fbrfg/favicon-96x96.png",
+        "Redirect": "https://indd.ee/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://indd.ee/"
+    },
+    {
         "link": "https://redirect301.de",
         "Heading": "Redirect 301 - Tech-Blog von Daniel Weihmann",
         "Abstract": "Tech-Blog seit 2010: Tastatur-Tricks, Webserver-Konfiguration, IT-Sicherheit und SEO-Anleitungen. Knapp 300 Artikel mit Online-Tools, Code-Beispielen und Schritt-f\u00fcr-Schritt-Anleitungen.",
@@ -178,6 +208,16 @@
         "Redirect": "https://simplegrad.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://simplegrad.com/"
+    },
+    {
+        "link": "https://net39.net",
+        "Heading": "Net39 - H\u00e9bergeur Internet Professionel",
+        "Abstract": "Web Hosting, domain name parking and web site hosting, web site design, custom and stand alone e-mail systems.",
+        "Official Site": "https://net39.net",
+        "Icon": "N/A",
+        "Redirect": "https://net39.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://net39.net"
     },
     {
         "link": "https://ui-utils.com",
@@ -208,6 +248,16 @@
         "Redirect": "https://project.com/en-US",
         "AbstractSource": "BS4",
         "AbstractURL": "https://project.com/en-US"
+    },
+    {
+        "link": "https://caraccesorios.mx",
+        "Heading": "CAR Accesorios Distribuidor Mayorista de Accesorios para Tractocamiones.",
+        "Abstract": "Encuentra los mejores accesorios para tractocamiones: repuestos, partes y componentes de alta calidad. Mejora el rendimiento y seguridad de tu veh\u00edculo. \u00a1Descubre nuestro cat\u00e1logo!",
+        "Official Site": "https://caraccesorios.mx/",
+        "Icon": "https://caraccesorios.mx/wp-content/uploads/2025/03/portada-car-accesorios.webp",
+        "Redirect": "https://caraccesorios.mx/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://caraccesorios.mx/"
     },
     {
         "link": "https://igraviebonusi.website",

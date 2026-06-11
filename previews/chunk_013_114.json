@@ -80,6 +80,16 @@
         "AbstractURL": "https://lepen.tv/"
     },
     {
+        "link": "https://satellitejones.net",
+        "Heading": "Satellite Jones Intergalactic Media",
+        "Abstract": "Satellite Jones is a socially conscious media company providing web development, video production, and digital strategy services.",
+        "Official Site": "https://satellitejones.net",
+        "Icon": "N/A",
+        "Redirect": "https://satellitejones.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://satellitejones.net"
+    },
+    {
         "link": "https://sygnaturediscovery.com",
         "Heading": "Sygnature Discovery - Leading Contract Research Organisation",
         "Abstract": "Sygnature Discovery is a world-leading integrated drug discovery CRO based in the UK and Canada with headquarters in Nottingham (UK).",
@@ -240,6 +250,26 @@
         "AbstractURL": "https://blissan.ru"
     },
     {
+        "link": "https://lasershot.com",
+        "Heading": "Firearms Training Simulator Systems | Shooting Simulator",
+        "Abstract": "Train with a firearms training simulator and advanced shooting training simulator that creates realistic environments for safer, smarter practice.",
+        "Official Site": "https://lasershot.com/",
+        "Icon": "https://lasershot.com/wp-content/uploads/2023/10/Laser_shot_logo.png",
+        "Redirect": "https://lasershot.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lasershot.com/"
+    },
+    {
+        "link": "https://minfor.gov.gy",
+        "Heading": "Home | Ministry of Foreign Affairs",
+        "Abstract": null,
+        "Official Site": "https://minfor.gov.gy",
+        "Icon": "/sites/default/files/Coat_of_arms_of_Guyana.svg.png",
+        "Redirect": "https://minfor.gov.gy",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://minfor.gov.gy"
+    },
+    {
         "link": "https://hareketgeorgia.com",
         "Heading": "Redirecting...",
         "Abstract": null,
@@ -258,5 +288,15 @@
         "Redirect": "https://vicepresidente.gov.ao",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vicepresidente.gov.ao"
+    },
+    {
+        "link": "https://newigcaptions.com",
+        "Heading": "New Instagram Captions , Quotes and Pickup lines - Choose New Captions For Your New Instagram Feed",
+        "Abstract": "Choose New Captions For Your New Instagram Feed",
+        "Official Site": "https://newigcaptions.com/",
+        "Icon": "https://newigcaptions.com/wp-content/uploads/2024/02/new_ig_captions__2_-removebg-preview.png",
+        "Redirect": "https://newigcaptions.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://newigcaptions.com/"
     }
 ]

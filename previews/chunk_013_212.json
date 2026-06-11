@@ -20,11 +20,31 @@
         "AbstractURL": "https://progresso-ict.nl"
     },
     {
+        "link": "https://itsistem.ro",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://itsistem.ro",
+        "Icon": "N/A",
+        "Redirect": "https://itsistem.ro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://itsistem.ro"
+    },
+    {
+        "link": "https://splatsearch.com",
+        "Heading": "Marketing Agency in Leeds - Search-First Integrated Marketing Agency",
+        "Abstract": "Splat Search is the search first marketing agency based in Leeds, West Yorkshire. We provde SEO, Biddable Media, Creative Marketing and Viral Marketing.",
+        "Official Site": "https://www.splatsearch.com/",
+        "Icon": "https://www.splatsearch.com/wp-content/uploads/2025/01/cropped-splat-search-site-icon-32x32.png",
+        "Redirect": "https://www.splatsearch.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.splatsearch.com/"
+    },
+    {
         "link": "https://bridgman.co.uk",
         "Heading": "Bridgman",
         "Abstract": "Fall in love with the UK's favourite luxury furniture and accessories. Transforming homes and gardens with quality, comfort and style since 1977.",
         "Official Site": "https://bridgman.co.uk/",
-        "Icon": "https://bridgman.co.uk/cdn/shop/files/230cm_Mayfair_Oval_Dining_Table_with_8_Dining_Armchairs_and_Parasol_Bridgman_06_210075rt.jpg?v=1666965512",
+        "Icon": "https://cdn.shopify.com/s/files/1/0441/7870/2504/files/230cm_Mayfair_Oval_Dining_Table_with_8_Dining_Armchairs_and_Parasol_Bridgman_06_210075rt.jpg?v=1666965512",
         "Redirect": "https://bridgman.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bridgman.co.uk/"
@@ -71,13 +91,23 @@
     },
     {
         "link": "https://delatorrechirocenter.com",
-        "Heading": "Chiropractic Therapy Center, Chiropractic Care & Physical Therapy Services, Auto Accident Injury Chiropractor, Sports Injury Rehabilitation, Sports Therapist, Chiropractor New Jersey - New Jersey Pain and Injury Center",
+        "Heading": "Chiropractic Therapy Center, Chiropractic Care & Physical Therapy Services, Auto Accident & Sports Injury Rehabilitation, Sports Therapist & Chiropractor New Jersey - New Jersey Pain and Injury Center",
         "Abstract": "New Jersey Pain and Injury Center offers chiropractic care, physical therapy, and injury rehab in New Jersey. Contact us today to schedule your visit!",
         "Official Site": "https://delatorrechirocenter.com/",
         "Icon": "https://delatorrechirocenter.com/wp-content/uploads/2022/08/full-shot-woman-rehabilitation-therapy.jpg",
         "Redirect": "https://delatorrechirocenter.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://delatorrechirocenter.com/"
+    },
+    {
+        "link": "https://bestarabicmassage.com",
+        "Heading": "Best Arabic Massage \u2013 Best Arabic Massage",
+        "Abstract": null,
+        "Official Site": "https://bestarabicmassage.com",
+        "Icon": "https://bestarabicmassage.com/wp-content/uploads/2025/12/cropped-logo-spa-32x32.png",
+        "Redirect": "https://bestarabicmassage.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bestarabicmassage.com"
     },
     {
         "link": "https://southboundrva.com",

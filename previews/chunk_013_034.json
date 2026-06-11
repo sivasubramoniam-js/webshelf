@@ -30,6 +30,16 @@
         "AbstractURL": "https://nomicom.xyz"
     },
     {
+        "link": "https://obcas.pl",
+        "Heading": "Czego nie wiemy o naszych idolach? Nieznane fakty z \u017cycia gwiazd! - Obcas.pl",
+        "Abstract": "Plotki, newsy, lifestyle!",
+        "Official Site": "https://obcas.pl/",
+        "Icon": "https://obcas.pl/wp-content/uploads/2019/02/hhh-4.png",
+        "Redirect": "https://obcas.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://obcas.pl/"
+    },
+    {
         "link": "https://oberkochen-heimatverein.de",
         "Heading": "Heimatverein Oberkochen e.V.",
         "Abstract": "Herzlich willkommen auf unserer Website. Der Heimatverein Oberkochen e.V. wurde 1987 gegr\u00fcndet und z\u00e4hlt heute ca. 240 Mitglieder.",
@@ -128,5 +138,15 @@
         "Redirect": "https://ophoacit.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ophoacit.com"
+    },
+    {
+        "link": "https://originalo.ro",
+        "Heading": "Originalo \u2013 cadouri personalizate",
+        "Abstract": null,
+        "Official Site": "https://originalo.ro",
+        "Icon": "https://originalo.ro/wp-content/themes/elessi-theme/favicon.ico",
+        "Redirect": "https://originalo.ro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://originalo.ro"
     }
 ]

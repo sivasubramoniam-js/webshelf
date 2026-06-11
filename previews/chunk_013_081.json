@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://mediatiko.com",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://mediatiko.com",
+        "Icon": "data:,",
+        "Redirect": "https://mediatiko.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mediatiko.com"
+    },
+    {
         "link": "https://mizar24.ro",
         "Heading": "Mizar24.ro",
         "Abstract": "",
@@ -100,6 +110,26 @@
         "AbstractURL": "https://www.setpar.com.br/"
     },
     {
+        "link": "https://sneakarts.com",
+        "Heading": "SneakArts - Peinture pour Chaussures, V\u00eatements et D\u00e9co",
+        "Abstract": "D\u00e9couvrez nos peintures pour personnaliser vos chaussures, v\u00eatements ou objets. Ultra r\u00e9sistant sur cuir, tissu et autres mati\u00e8res. Non toxique et fabriqu\u00e9 en France \u2713",
+        "Official Site": "https://sneakarts.com/fr/",
+        "Icon": "https://sneakarts.com/img/prestashop-logo-1687944434.jpg",
+        "Redirect": "https://sneakarts.com/fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sneakarts.com/fr/"
+    },
+    {
+        "link": "https://soccerballofficia.com",
+        "Heading": "Professional sports equipment",
+        "Abstract": "Professional sports equipment",
+        "Official Site": "https://www.soccerballofficia.com/",
+        "Icon": "https://img.staticdj.com/357331860ce997ffe773a5e0151ef95d.png",
+        "Redirect": "https://www.soccerballofficia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.soccerballofficia.com/"
+    },
+    {
         "link": "https://surgo.com",
         "Heading": "Premium Medical Supplies and Equipment for Professionals and Clinics!",
         "Abstract": "Explore our premium medical supplies and equipment designed for healthcare professionals and medical clinics.  With 50 years of experience, we offer exceptional service, competitive prices, responsive support, and prompt product delivery. Discover our top-quality clinic supplies today!",
@@ -150,6 +180,16 @@
         "AbstractURL": "https://tianyabooks.com"
     },
     {
+        "link": "https://wowbbq.co.uk",
+        "Heading": "WoWbbq | World of Weber BBQs | Huge Weber Discounts",
+        "Abstract": "Buy a Weber BBQ With Free Delivery On All BBQ Orders. The UK\u2019s leading independent Weber Grill experts, discounting full Weber range.",
+        "Official Site": "https://wowbbq.co.uk",
+        "Icon": "https://www.wowbbq.co.uk/media/favicon/stores/2/Wow-BBQ-Icon.png",
+        "Redirect": "https://wowbbq.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wowbbq.co.uk"
+    },
+    {
         "link": "https://xxx-video-hub.com",
         "Heading": "Best Sex Hub Videos Online - Premium XXX Content at XXX-Video-Hub.com",
         "Abstract": "Watch free HD porn videos on XXX-Video-Hub.com with daily updates, long porn scenes, premium picks, trending adult categories, popular XXX models, and smooth streaming for desktop and mobile devices at XXX-Video-Hub.com.",
@@ -184,7 +224,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://official-mega.shop",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://official-mega.shop",
         "AbstractSource": "BS4",
         "AbstractURL": "https://official-mega.shop"
@@ -228,16 +268,6 @@
         "Redirect": "https://tridecor.net/en/shop",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tridecor.net/en/shop"
-    },
-    {
-        "link": "https://kinobams.ru",
-        "Heading": "kinobams.ru",
-        "Abstract": null,
-        "Official Site": "https://kinobams.ru",
-        "Icon": "N/A",
-        "Redirect": "https://kinobams.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kinobams.ru"
     },
     {
         "link": "https://2000w.xyz",
@@ -288,6 +318,16 @@
         "Redirect": "https://cosyharu.co.kr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cosyharu.co.kr/"
+    },
+    {
+        "link": "https://crazystock.it",
+        "Heading": "CrazyStock: prodotti in stock a prezzi da ingrosso",
+        "Abstract": "CrazyStock \u00e8 il sito che unisce qualit\u00e0 e risparmio! Qui trovi una vasta selezione di prodotti in stock a prezzi da ingrosso. Scopri la nostra gamma di articoli!",
+        "Official Site": "https://crazystock.it",
+        "Icon": "/content/favicon.png",
+        "Redirect": "https://crazystock.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://crazystock.it"
     },
     {
         "link": "https://defendagro.ro",

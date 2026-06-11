@@ -10,6 +10,16 @@
         "AbstractURL": "https://usualwines.com/"
     },
     {
+        "link": "https://belmar.com",
+        "Heading": "Belmar Municipal - Home",
+        "Abstract": null,
+        "Official Site": "https://belmar.com/",
+        "Icon": "https://belmar.com/",
+        "Redirect": "https://belmar.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://belmar.com/"
+    },
+    {
         "link": "https://vkusalina.shop",
         "Heading": "\u0412\u041a\u0423\u0421\u0410\u041b\u0418\u041d\u0410 | \u041f\u0440\u0435\u043c\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0444\u0438\u043d\u0438\u043a\u0438",
         "Abstract": null,
@@ -48,6 +58,16 @@
         "Redirect": "https://www.kaligo.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.kaligo.com"
+    },
+    {
+        "link": "https://brianmclaren.net",
+        "Heading": "Brian McLaren",
+        "Abstract": "Author | Speaker | Activist",
+        "Official Site": "http://brianmclaren.net",
+        "Icon": "https://brianmclaren.net/wp-content/uploads/2016/10/cropped-flock-32x32.png",
+        "Redirect": "http://brianmclaren.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://brianmclaren.net"
     },
     {
         "link": "https://gerds-wissen.online",
@@ -160,11 +180,31 @@
         "AbstractURL": "https://samohosting.ru"
     },
     {
+        "link": "https://ethicsdaily.com",
+        "Heading": "Good Faith Media Archives | Site includes posts from before 2020",
+        "Abstract": null,
+        "Official Site": "https://ethicsdaily.com",
+        "Icon": "https://gfmarchives.com/wp-content/uploads/2024/12/cropped-favi-32x32.png",
+        "Redirect": "https://ethicsdaily.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ethicsdaily.com"
+    },
+    {
+        "link": "https://callcards.ie",
+        "Heading": "Callcards.ie | The home of Irish Phonecards (Irish Callcards)",
+        "Abstract": "The home of Irish Phonecards (Irish Callcards)",
+        "Official Site": "https://callcards.ie/",
+        "Icon": "https://callcards.ie/sites/all/themes/responsive/favicon.ico",
+        "Redirect": "https://callcards.ie/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://callcards.ie/"
+    },
+    {
         "link": "https://sportuniform.com",
         "Heading": "\n  All Sports Uniforms | Custom Team Uniforms | Ships from USA\n \u2013 SportUniform.com",
         "Abstract": "Shop all sports uniforms for your team \u2014 baseball, basketball, football, soccer, softball, volleyball & more. Custom team uniforms with free shipping on orders $99+. Ships from USA.",
         "Official Site": "https://sportuniform.com/",
-        "Icon": "http://sportuniform.com/cdn/shop/files/Logo-SportUniform-shopify-2.jpg?v=1753472977",
+        "Icon": "//sportuniform.com/cdn/shop/files/Logo-Favicon-png.png?crop=center&height=32&v=1753894391&width=32",
         "Redirect": "https://sportuniform.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sportuniform.com/"
@@ -188,6 +228,26 @@
         "Redirect": "https://irinafarion.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://irinafarion.xyz"
+    },
+    {
+        "link": "https://poolewood.co.uk",
+        "Heading": "Woodturning Tools, Woodworking Supplies And Machinery | Poolewood Machinery & Tools",
+        "Abstract": "Poolewood Machinery and Tools is a long established name of quality. Selling machinery & tools for woodworking, metal work by Charnwood, SIP, Scheppach, Fox...",
+        "Official Site": "https://www.poolewood.co.uk/",
+        "Icon": "https://www.poolewood.co.uk/wp-content/uploads/poolewood_facebook-1024x538.jpg",
+        "Redirect": "https://www.poolewood.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.poolewood.co.uk/"
+    },
+    {
+        "link": "https://derigo.com",
+        "Heading": "Produzione e Distribuzione Occhiali - Eyewear | De Rigo",
+        "Abstract": "",
+        "Official Site": "https://derigo.com",
+        "Icon": "/favicons/favicon-16x16.png",
+        "Redirect": "https://derigo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://derigo.com"
     },
     {
         "link": "https://worldcup2026.email",
@@ -238,6 +298,16 @@
         "Redirect": "https://pragmatica.us",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pragmatica.us"
+    },
+    {
+        "link": "https://ultimatewebdesigns.co.nz",
+        "Heading": "Website Design in Auckland & Christchurch | Top Web Design Agency NZ Ultimate Web Designs Limited",
+        "Abstract": "Top website design agency in Auckland, New Zealand. Ultimate Web Designs offers the best and most affordable web development services to help businesses grow with custom websites across NZ.",
+        "Official Site": "https://ultimatewebdesigns.co.nz/",
+        "Icon": "https://ultimatewebdesigns.co.nz/wp-content/uploads/2025/04/ultimate-web-designs-website-design-Web-Development.png",
+        "Redirect": "https://ultimatewebdesigns.co.nz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ultimatewebdesigns.co.nz/"
     },
     {
         "link": "https://onewelbeck.com",

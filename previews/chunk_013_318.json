@@ -64,7 +64,7 @@
         "Heading": "Viktorias | Smycken & g\u00e5vor med mening\n",
         "Abstract": "Ringar, halsband, armband & \u00f6rh\u00e4ngen skapade f\u00f6r stunderna som betyder n\u00e5got. Skapare av den ursprungliga Kramringen. 100 000+ kunder, 100 dagars returr\u00e4tt.",
         "Official Site": "https://viktorias.com/",
-        "Icon": "http://viktorias.com/cdn/shop/files/viktorias-white.jpg?v=1737133285",
+        "Icon": "http://cdn.shopify.com/s/files/1/0818/4922/1399/files/viktorias-white.jpg?v=1737133285",
         "Redirect": "https://viktorias.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://viktorias.com/"
@@ -88,6 +88,16 @@
         "Redirect": "http://designbyian.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://designbyian.com/"
+    },
+    {
+        "link": "https://aydinrehberkoleji.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://aydinrehberkoleji.com",
+        "Icon": "N/A",
+        "Redirect": "https://aydinrehberkoleji.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aydinrehberkoleji.com"
     },
     {
         "link": "https://gffa-berlin.de",
@@ -218,6 +228,16 @@
         "Redirect": "https://roe7.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://roe7.com"
+    },
+    {
+        "link": "https://wissounig.at",
+        "Heading": " Dietger Wissounig Architekten \u2013 Architektur und St\u00e4dtebau",
+        "Abstract": null,
+        "Official Site": "https://wissounig.at",
+        "Icon": "/android-icon-192x192.png",
+        "Redirect": "https://wissounig.at",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wissounig.at"
     },
     {
         "link": "https://imiaoban.com",

@@ -170,16 +170,6 @@
         "AbstractURL": "https://dappershop.pk/"
     },
     {
-        "link": "https://datacruit.com",
-        "Heading": "Datacruit | V\u00e1\u0161 ATS syst\u00e9m pro efektivn\u00ed n\u00e1bor",
-        "Abstract": "N\u00e1borov\u00fd software Datacruit propojuje kandid\u00e1ty, procesy a data. Pom\u00e1h\u00e1 firm\u00e1m efektivn\u011b \u0159\u00eddit n\u00e1bor a d\u00edky AI a reportingu l\u00e9pe rozhodovat.",
-        "Official Site": "https://www.datacruit.com/",
-        "Icon": "https://www.datacruit.com/favicon.ico",
-        "Redirect": "https://www.datacruit.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.datacruit.com/"
-    },
-    {
         "link": "https://dateers.com",
         "Heading": "Date Ers: Free Dating, Make Friends. Send text, video, and voice messages to anyone",
         "Abstract": "Date Ers is a Free simple online dating site, find someone new to connect with today! Send voice, video and text messages. Works on all devices.",
@@ -218,6 +208,16 @@
         "Redirect": "https://daytona73.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://daytona73.com/"
+    },
+    {
+        "link": "https://deepbluesub.com",
+        "Heading": "DEEP BLUE - Store online di pesca subacquea e apnea",
+        "Abstract": "Deep blue \u00e8 il pi\u00f9 grande Store Online di Pesca Subacquea e Apnea. Attrezzature di alta qualit\u00e0 e servizio eccellente. SCOPRI DI PIU!",
+        "Official Site": "https://deepbluesub.com/",
+        "Icon": "https://deepbluesub.com/wp-content/uploads/2020/08/wahoo-deep-blue.jpg",
+        "Redirect": "https://deepbluesub.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deepbluesub.com/"
     },
     {
         "link": "https://delnext.com",
@@ -330,6 +330,26 @@
         "AbstractURL": "https://www.didoni.com/"
     },
     {
+        "link": "https://discosdobrasil.com.br",
+        "Heading": "Discos do Brasil",
+        "Abstract": "Discos do Brasil \u00e9 um site que cont\u00e9m a discografia brasileira catalogada por Maria Luiza Kfouri. O acervo conta com mais de 7 mil discos.",
+        "Official Site": "https://discosdobrasil.com.br/",
+        "Icon": "https://discosdobrasil.com.br/wp-content/uploads/2020/12/toastfb.jpg",
+        "Redirect": "https://discosdobrasil.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://discosdobrasil.com.br/"
+    },
+    {
+        "link": "https://disqueriakyd.cl",
+        "Heading": "Vinilos nuevos y usados, Tapes, Cds, Accesorios - Disqueriakyd",
+        "Abstract": "Disquer\u00eda KYD, Disquer\u00eda, Vinilos nuevos, Vinilos de \u00e9poca, , Cds nuevos y usados, Casetes nuevos y usados, K-pop, Coleccionables, Accesorios afines, Figuras Coleccionables",
+        "Official Site": "https://disqueriakyd.cl/",
+        "Icon": "https://disqueriakyd.cl/wp-content/uploads/2020/05/Favicon-Disqueria-KYD-64x64.png",
+        "Redirect": "https://disqueriakyd.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://disqueriakyd.cl/"
+    },
+    {
         "link": "https://djmixclub.co.za",
         "Heading": "Home - DJ Mix Club",
         "Abstract": "With our amazing range of hardware and professional insight,let us guide you in the right direction!",
@@ -368,6 +388,16 @@
         "Redirect": "https://www.domowaspizarnia.pl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.domowaspizarnia.pl/"
+    },
+    {
+        "link": "https://donjondudragon.fr",
+        "Heading": "Donjon du Dragon - Le Donjon du Dragon - Le Donjon du Dragon",
+        "Abstract": "Le Donjon du Dragon est un site communautaire et participatif qui a pour but de rassembler les ouvrages des anciennes \u00e9ditions de Donjons & Dragons et des r\u00e8gles Avanc\u00e9es de Donjons & Dragons en version fran\u00e7aise (OD&D \u00e0 AD&D2.5). Par le biais de discussions et d'une gratuit\u00e9 totale, les membres du site proposent des restaurations, des traductions exclusives et de nombreuses cr\u00e9ations. Vous trouverez \u00e9galement les r\u00e8gles de ces diff\u00e9rents syst\u00e8mes en format num\u00e9rique dans le DRS.",
+        "Official Site": "https://donjondudragon.fr",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://donjondudragon.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://donjondudragon.fr"
     },
     {
         "link": "https://donsaga.com",

@@ -41,13 +41,23 @@
     },
     {
         "link": "https://volunteerspot.com",
-        "Heading": "SignUp.com Mobile",
-        "Abstract": null,
-        "Official Site": "https://volunteerspot.com",
-        "Icon": "favicon.ico",
-        "Redirect": "https://volunteerspot.com",
+        "Heading": "Easiest Online SignUp Sheets | SignUp.com",
+        "Abstract": "SignUp.com makes it easy to coordinate school events &#38; classroom activities, fundraisers, snack schedules, potlucks &#38; more!",
+        "Official Site": "https://signup.com/index",
+        "Icon": "https://vspot.s3.amazonaws.com/sign-up/Facebook-Images/SignUp-Facebook-Default-Image.jpg",
+        "Redirect": "https://signup.com/index",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://volunteerspot.com"
+        "AbstractURL": "https://signup.com/index"
+    },
+    {
+        "link": "https://generalengineering.co",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://generalengineering.co",
+        "Icon": "N/A",
+        "Redirect": "https://generalengineering.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://generalengineering.co"
     },
     {
         "link": "https://kumulhost.com",
@@ -68,16 +78,6 @@
         "Redirect": "https://www.cc6m9.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cc6m9.com/"
-    },
-    {
-        "link": "https://thehive-project.org",
-        "Heading": "StrangeBee",
-        "Abstract": "TheHive by StrangeBee: the collaborative case management platform trusted by security teams worldwide. Automate responses with Cortex. On-prem & SaaS.",
-        "Official Site": "https://strangebee.com/",
-        "Icon": "https://strangebee.com/wp-content/uploads/2025/01/Main-page.png",
-        "Redirect": "https://strangebee.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://strangebee.com/"
     },
     {
         "link": "https://vintagestock.com",
@@ -108,6 +108,16 @@
         "Redirect": "https://bankzweiplus.ch",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bankzweiplus.ch"
+    },
+    {
+        "link": "https://elcastillodelamas.com",
+        "Heading": "El Castillo de Lamas \u2013 Bienvenidos al Castillo de Lamas",
+        "Abstract": null,
+        "Official Site": "https://elcastillodelamas.com",
+        "Icon": "https://elcastillodelamas.com/wp-content/uploads/2021/04/cropped-LOGO-CASTILLO-DE-LAMAS-32x32.png",
+        "Redirect": "https://elcastillodelamas.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elcastillodelamas.com"
     },
     {
         "link": "https://cbkps.com",
@@ -180,6 +190,16 @@
         "AbstractURL": "https://dentists-now.com"
     },
     {
+        "link": "https://project1947.com",
+        "Heading": "Welcome to PROJECT 1947",
+        "Abstract": null,
+        "Official Site": "https://project1947.com",
+        "Icon": "N/A",
+        "Redirect": "https://project1947.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://project1947.com"
+    },
+    {
         "link": "https://safecall.co.uk",
         "Heading": "Home - Safecall Ltd Whistleblowing service provider, vendor, solutions",
         "Abstract": "whistleblowing software, whistleblowing service provider, whistleblower service provider, corporate whistleblower hotline, employee hotline",
@@ -188,6 +208,16 @@
         "Redirect": "https://www.safecall.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.safecall.co.uk/"
+    },
+    {
+        "link": "https://gdairmechanical.com",
+        "Heading": "GD AIR MECHANICAL  \u2013 Fair rates. Quality work. Outstanding heating, cooling and plumbing services.",
+        "Abstract": null,
+        "Official Site": "https://gdairmechanical.com",
+        "Icon": "//gdairmechanical.com/wp-content/uploads/2022/03/logo-preview.png",
+        "Redirect": "https://gdairmechanical.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gdairmechanical.com"
     },
     {
         "link": "https://teensloveblackcocks.com",
@@ -208,5 +238,25 @@
         "Redirect": "https://artstyle.ne.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://artstyle.ne.jp/"
+    },
+    {
+        "link": "https://pusatcloud.com",
+        "Heading": "Welcome to Hi-TechMall.ORG - Go create your Own Group blog event calendar and others",
+        "Abstract": "Hi-Tech Product News, Reviews, and enjoy buy online at our Web-store client",
+        "Official Site": "https://pusatcloud.com",
+        "Icon": "N/A",
+        "Redirect": "https://pusatcloud.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pusatcloud.com"
+    },
+    {
+        "link": "https://marcoele.com",
+        "Heading": "marcoELE",
+        "Abstract": "marcoELE es una revista electr\u00f3nica dedicada a la did\u00e1ctica del espa\u00f1ol como lengua extranjera, cuyo objetivo es poner a disposici\u00f3n de los profesores/as material espec\u00edfico para su formaci\u00f3n y tambi\u00e9n para la docencia que imparten y suscitar reflexi\u00f3n y debate sobre la did\u00e1ctica espec\u00edfica de esta disciplina.",
+        "Official Site": "https://marcoele.com",
+        "Icon": "https://marcoele.com/wp-content/uploads/2018/02/cropped-icono-barra512-32x32.jpg",
+        "Redirect": "https://marcoele.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://marcoele.com"
     }
 ]

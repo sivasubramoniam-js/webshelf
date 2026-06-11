@@ -60,6 +60,16 @@
         "AbstractURL": "https://browningammo.com/en"
     },
     {
+        "link": "https://ncsacademy.com",
+        "Heading": "Online Certification Exams From NCSA",
+        "Abstract": "The National Computer Science Academy, NCSA, offers online certification tests on a variety popular of software such as Windows, Office, and HTML. Take your free exam today!",
+        "Official Site": "https://ncsacademy.com",
+        "Icon": "http://www.ncsacademy.com/favicon.png",
+        "Redirect": "https://ncsacademy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ncsacademy.com"
+    },
+    {
         "link": "https://gssp-buende.de",
         "Heading": "\n                    IServ - gssp-buende.de\n            ",
         "Abstract": null,
@@ -118,6 +128,16 @@
         "Redirect": "https://aquayar.biz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aquayar.biz"
+    },
+    {
+        "link": "https://fondazionegolinelli.it",
+        "Heading": "Fondazione Golinelli",
+        "Abstract": "L'intelligenza di esserci",
+        "Official Site": "https://www.fondazionegolinelli.it/",
+        "Icon": "https://www.fondazionegolinelli.it/app/themes/fg-theme/assets/images/social-card.jpg",
+        "Redirect": "https://www.fondazionegolinelli.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fondazionegolinelli.it/"
     },
     {
         "link": "https://avtomoyka-strogino.ru",
@@ -230,6 +250,26 @@
         "AbstractURL": "https://songfuplastic.com"
     },
     {
+        "link": "https://revistaurbanova.com.br",
+        "Heading": "News - Revista Urbanova",
+        "Abstract": "A Revista Urbanova \u00e9 o \u00fanico ve\u00edculo de comunica\u00e7\u00e3o do bairro e diferencia-se no mercado pela qualidade das reportagens",
+        "Official Site": "https://revistaurbanova.com.br/",
+        "Icon": "https://revistaurbanova.com.br/wp-content/uploads/2021/05/cropped-ICONE-REVISTA-URBANOVA-32x32.png",
+        "Redirect": "https://revistaurbanova.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://revistaurbanova.com.br/"
+    },
+    {
+        "link": "https://procloudhost.com",
+        "Heading": "Reliable cloud web hosting made easy since 2008- ProCloudHost.COM",
+        "Abstract": "Professional cloud web hosting with tier 3 dc, top hardware, 24x7 support, improved security and instant setup. Serving customers since 2008!",
+        "Official Site": "https://www.procloudhost.com/",
+        "Icon": "https://www.procloudhost.com/wp-content/uploads/2024/01/cropped-logo-32x32.png",
+        "Redirect": "https://www.procloudhost.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.procloudhost.com/"
+    },
+    {
         "link": "https://fastcows.nl",
         "Heading": "FastCows",
         "Abstract": "FastCows levert, adviseert en integreert uw automatisering op basis van open source software.",
@@ -248,6 +288,16 @@
         "Redirect": "https://www.oac18.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.oac18.com/"
+    },
+    {
+        "link": "https://bulgariamall.bg",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bulgariamall.bg",
+        "Icon": "https://bulgariamall.bg/wp-content/uploads/2025/07/cropped-favicon-clean-round-32x32.png",
+        "Redirect": "https://bulgariamall.bg",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bulgariamall.bg"
     },
     {
         "link": "https://gotahm.it",

@@ -60,16 +60,6 @@
         "AbstractURL": "https://whitemane.gg/en"
     },
     {
-        "link": "https://pointepest.com",
-        "Heading": "Local Pest Control Services | Pest Free Homes & Businesses",
-        "Abstract": "Pointe Pest Control provides effective pest control solutions for your home and business. Contact us today for a free quote and reclaim your space!",
-        "Official Site": "https://pointepest.com/",
-        "Icon": "https://pointepest.com/wp-content/uploads/2025/02/cropped-pointe-favicon-32x32.png",
-        "Redirect": "https://pointepest.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pointepest.com/"
-    },
-    {
         "link": "https://ahahockey.com",
         "Heading": "AHA Hockey",
         "Abstract": "AHA Hockey is Minnesota's Premier adult hockey league, promoting parity and safety. From Beginner to Advanced, there's a place for everyone to play!",
@@ -108,6 +98,26 @@
         "Redirect": "https://www.greyston.org/about/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.greyston.org/about/"
+    },
+    {
+        "link": "https://sma-sunny.com",
+        "Heading": "SMA Blog",
+        "Abstract": "Sunny ist der Blog der SMA Solar Technology AG. Als Spezialist f\u00fcr solare Systemtechnik schreiben wir \u00fcber den Einsatz unserer Produkte, geben Tipps f\u00fcr eine autarke solare Stromversorgung und gew\u00e4hren Blicke hinter die Kulissen des Unternehmens.",
+        "Official Site": "https://www.sma-sunny.com/en/",
+        "Icon": "https://www.sma-sunny.com/wp-content/uploads/2018/02/sma-blog-sunny.jpg",
+        "Redirect": "https://www.sma-sunny.com/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sma-sunny.com/en/"
+    },
+    {
+        "link": "https://opavanex.com",
+        "Heading": "Home | Opavanex",
+        "Abstract": "Live Charts with Indicators, Foreign Exchange Market Trading Methods, Hours, Sessions, & Plans, Major and Minor Pairs Currency, Bullish and Bearish Divergence.",
+        "Official Site": "./",
+        "Icon": "./assets/images/favicon.png",
+        "Redirect": "./",
+        "AbstractSource": "BS4",
+        "AbstractURL": "./"
     },
     {
         "link": "https://ifrbanking.ru",
@@ -160,6 +170,16 @@
         "AbstractURL": "https://openbgpd.org"
     },
     {
+        "link": "https://royalelectric.pk",
+        "Heading": "Royal Electric",
+        "Abstract": "Royal Electric",
+        "Official Site": "https://royalelectric.pk/",
+        "Icon": "https://royalelectric.pk/wp-content/uploads/2023/02/farhan2.jpg",
+        "Redirect": "https://royalelectric.pk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://royalelectric.pk/"
+    },
+    {
         "link": "https://wildlandsnetwork.org",
         "Heading": "Home - Wildlands Network",
         "Abstract": "Rewild North America. We\u2019re rebuilding the natural connections that let wildlife roam, ecosystems thrive, and life flourish across a continent.",
@@ -168,6 +188,16 @@
         "Redirect": "https://wildlandsnetwork.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wildlandsnetwork.org/"
+    },
+    {
+        "link": "https://creamosel.com",
+        "Heading": "Inicio",
+        "Abstract": null,
+        "Official Site": "https://creamosel.com",
+        "Icon": "N/A",
+        "Redirect": "https://creamosel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://creamosel.com"
     },
     {
         "link": "https://global-reparatur.de",
@@ -188,6 +218,16 @@
         "Redirect": "https://reticleweb.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://reticleweb.com"
+    },
+    {
+        "link": "https://propertypavilion.co.uk",
+        "Heading": "propertypavilion \u2013 Turning Property into Possibility",
+        "Abstract": null,
+        "Official Site": "https://propertypavilion.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://propertypavilion.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://propertypavilion.co.uk"
     },
     {
         "link": "https://antilles-info-tourisme.com",

@@ -41,7 +41,7 @@
     },
     {
         "link": "https://uslugi-spravka.ru",
-        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438  09.06.2026 ",
+        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438  07.06.2026 ",
         "Abstract": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u041f\u0440\u043e\u0432\u0435\u0440\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u043d\u0430\u0441.",
         "Official Site": "https://uslugi-spravka.ru",
         "Icon": "untitled-1.ico",
@@ -120,16 +120,6 @@
         "AbstractURL": "https://toos.co.jp"
     },
     {
-        "link": "https://alpertron.com.ar",
-        "Heading": "Sitio de matem\u00e1ticas y assembler de Dario Alpern",
-        "Abstract": "Incluye un programa 3 en 1 escrito en assembler 80x86 que calcula pi, e, ln 2, una calculadora de numeros complejos (Javascript) y mas...",
-        "Official Site": "https://alpertron.com.ar",
-        "Icon": "favicon.ico",
-        "Redirect": "https://alpertron.com.ar",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://alpertron.com.ar"
-    },
-    {
         "link": "https://stobocastle.co.uk",
         "Heading": "Home - Stobo Castle",
         "Abstract": "Nestled among the beautiful Scottish Borders countryside, Stobo Castle is a luxury destination spa offering excellent service, fine food, elegantly trained staff and above all, the ability to find peace in a frenetic world.",
@@ -148,6 +138,16 @@
         "Redirect": "https://wificaravan.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wificaravan.ru"
+    },
+    {
+        "link": "https://artmozi.hu",
+        "Heading": "C\u00edmlap | ARTMozi.hu",
+        "Abstract": null,
+        "Official Site": "https://artmozi.hu",
+        "Icon": "/themes/custom/artf/favicon.ico",
+        "Redirect": "https://artmozi.hu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://artmozi.hu"
     },
     {
         "link": "https://pecpac.co.uk",
@@ -218,16 +218,6 @@
         "Redirect": "https://www.honeypie.eu/menu.html",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.honeypie.eu/menu.html"
-    },
-    {
-        "link": "https://iklanindo4d2.online",
-        "Heading": "Indo4D: Main Slot Gacor Sekali Spin \u2013 Auto Cuan Tanpa tandingan!",
-        "Abstract": "Indo4D adalah tempat bermain slot online gacor hari ini, di Indo 4D sudah di lengkapi dengan game pragmatic dan pg soft terbaru dan paling update. Situs Game Online MPOPlay Resmi & Terpercaya",
-        "Official Site": "https://iklanindo4d2.online",
-        "Icon": "https://images.linkcdn.cloud/V2/598/favicon/favicon-483718550.png",
-        "Redirect": "https://iklanindo4d2.online",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://iklanindo4d2.online"
     },
     {
         "link": "https://mitchjones.vip",

@@ -50,6 +50,26 @@
         "AbstractURL": "https://www.allaspool.fi/"
     },
     {
+        "link": "https://carolinalive.com",
+        "Heading": "Myrtle Beach/Florence News, Weather, Sports, Breaking News",
+        "Abstract": "WPDE covers news, sports, weather, and local events in and around the Grand Strand, Pee Dee, and the Border Belt.",
+        "Official Site": "https://wpde.com",
+        "Icon": "https://wpde.com/resources/assets/wpde/images/brand-icons/WPDE-16x9.jpg",
+        "Redirect": "https://wpde.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wpde.com"
+    },
+    {
+        "link": "https://antimaf.live",
+        "Heading": "\u0410\u041d\u0422\u0418\u041c\u0410\u0424\u0418\u042f",
+        "Abstract": "\u0410\u041d\u0422\u0418\u041c\u0410\u0424\u0418\u042f",
+        "Official Site": "https://antimaf.live/",
+        "Icon": "https://antimafia.se/antimafia.jpg",
+        "Redirect": "https://antimaf.live/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://antimaf.live/"
+    },
+    {
         "link": "https://yeowan.kr",
         "Heading": "(\uc8fc)\uc5ec\ud589\uc758\uc644\uc131 - \uc5ec\ud589\uc758 \uc644\uc131\uc740 \uc219\ubc15\uc774\ub2e4",
         "Abstract": "\ud39c\uc158 \uad11\uace0, \ud648\ud398\uc774\uc9c0 \uc81c\uc791, \ud39c\uc158 \ucc3d\uc5c5 \ucee8\uc124\ud305, \uc6f9\ub514\uc790\uc778, \uc0ac\uc9c4 \ucd2c\uc601",
@@ -80,6 +100,16 @@
         "AbstractURL": "https://harkaitzcano.com"
     },
     {
+        "link": "https://fringz.ma",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://fringz.ma",
+        "Icon": "N/A",
+        "Redirect": "https://fringz.ma",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fringz.ma"
+    },
+    {
         "link": "https://africasfaces.com",
         "Heading": "Aviator Game India: Play & Win Real Money on Official Website",
         "Abstract": "Play Aviator Game online at top Indian casinos and dive into an exciting, fast-paced crash game featuring a solid 97% RTP. With real player stories showing wins like turning 500 INR into 100,000 INR.",
@@ -100,6 +130,26 @@
         "AbstractURL": "https://seobdtools.com/"
     },
     {
+        "link": "https://guruhost2.com.br",
+        "Heading": "guruhost2.com.br",
+        "Abstract": "",
+        "Official Site": "https://guruhost2.com.br",
+        "Icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIxLjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA4OCAxMDIuMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgODggMTAyLjI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojMDY4MkI0O30KCS5zdDF7ZmlsbDojMzFCN0U5O30KCS5zdDJ7ZmlsbDpub25lO30KPC9zdHlsZT4KPGc+Cgk8Zz4KCQk8Zz4KCQkJPHBvbHlnb24gY2xhc3M9InN0MCIgcG9pbnRzPSI4OCw1Mi42IDg4LDUyLjYgMzguNCwzIDI0LjIsMTcuMiA1OS43LDUyLjYgMjQuMyw4OCAzOC40LDEwMi4yIAkJCSIvPgoJCTwvZz4KCQk8Zz4KCQkJPHBvbHlnb24gY2xhc3M9InN0MSIgcG9pbnRzPSI4NSw0OS42IDg1LDQ5LjYgMzUuNCwwIDIxLjIsMTQuMiA1Ni43LDQ5LjYgMjEuMyw4NSAzNS40LDk5LjIgCQkJIi8+CgkJPC9nPgoJPC9nPgoJPGxpbmUgY2xhc3M9InN0MiIgeDE9IjQwLjMiIHkxPSIxMDMuOCIgeDI9IjkwLjEiIHkyPSI1NC4yIi8+Cgk8Zz4KCQk8cG9seWxpbmUgY2xhc3M9InN0MCIgcG9pbnRzPSIxMC41LDc0LjQgMTQuMSw3OCA0Mi40LDQ5LjYgMzguNyw0NS44IAkJIi8+CgkJPHBvbHlsaW5lIGNsYXNzPSJzdDEiIHBvaW50cz0iMzguNyw0NS45IDE0LjIsMjEuMyAwLDM1LjQgMTQuMiw0OS42IDAsNjMuOCAxMC42LDc0LjQgCQkiLz4KCTwvZz4KPC9nPgo8L3N2Zz4K",
+        "Redirect": "https://guruhost2.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://guruhost2.com.br"
+    },
+    {
+        "link": "https://tradeteam.bb",
+        "Heading": "Barbados Private Sector Trade Team",
+        "Abstract": "Your default description here",
+        "Official Site": "https://tradeteam.bb",
+        "Icon": "https://tradeteam.bb/favicon.png",
+        "Redirect": "https://tradeteam.bb",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tradeteam.bb"
+    },
+    {
         "link": "https://ayeqgdl.xyz",
         "Heading": null,
         "Abstract": null,
@@ -108,6 +158,16 @@
         "Redirect": "https://ayeqgdl.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ayeqgdl.xyz"
+    },
+    {
+        "link": "https://rcwebhost.co.uk",
+        "Heading": "Redditch Connected - Trusted Development Agency",
+        "Abstract": "Discover innovative software solutions and services for your business needs with our experienced development team. Explore our expertise, and industry insights.",
+        "Official Site": "https://redditchconnected.co.uk/",
+        "Icon": "https://redditchconnected-assets.s3.eu-west-2.amazonaws.com/RC-Meta.jpg",
+        "Redirect": "https://redditchconnected.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://redditchconnected.co.uk/"
     },
     {
         "link": "https://roto-dachfenster.de",
@@ -164,10 +224,20 @@
         "Heading": "Inbox Zero | Automate and clean your inbox",
         "Abstract": "Your AI executive assistant to reach inbox zero fast. Automate emails, bulk unsubscribe, block cold emails, and analytics. Open-source",
         "Official Site": "https://www.getinboxzero.com",
-        "Icon": "https://www.getinboxzero.com/opengraph-image.jpg?opengraph-image.0r~nregsc_lbu.jpg",
+        "Icon": "https://www.getinboxzero.com/opengraph-image.jpg?opengraph-image.0r~nregsc_lbu.jpg?dpl=dpl_Fam4MzgWHjBiKBmVB2obuCyXtmsa",
         "Redirect": "https://www.getinboxzero.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.getinboxzero.com"
+    },
+    {
+        "link": "https://2b-support.nl",
+        "Heading": "2B Support",
+        "Abstract": "Lima ICT voor al uw advies, beheer, ontwerp & onderhoud van website en pc",
+        "Official Site": "https://2b-support.nl",
+        "Icon": "N/A",
+        "Redirect": "https://2b-support.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://2b-support.nl"
     },
     {
         "link": "https://copyrightencyclopedia.com",
@@ -178,6 +248,26 @@
         "Redirect": "https://copyrightencyclopedia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://copyrightencyclopedia.com"
+    },
+    {
+        "link": "https://igranpanificio.com",
+        "Heading": "Panificio",
+        "Abstract": null,
+        "Official Site": "https://igranpanificio.com",
+        "Icon": "https://igranpanificio.com/wp-content/uploads/2025/07/cropped-logo-3-32x32.png",
+        "Redirect": "https://igranpanificio.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://igranpanificio.com"
+    },
+    {
+        "link": "https://wordwideinvest.live",
+        "Heading": "wordwideinvest - Home",
+        "Abstract": "wordwideinvest.live - Complete HYIP Investment System . Most Advanced HYIP Investment System Script in codecanyon.",
+        "Official Site": "https://wordwideinvest.live",
+        "Icon": "https://wordwideinvest.live/assets/images/seo/68913cb604c211754348726.png",
+        "Redirect": "https://wordwideinvest.live",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wordwideinvest.live"
     },
     {
         "link": "https://edbatista.com",

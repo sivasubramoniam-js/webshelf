@@ -30,6 +30,16 @@
         "AbstractURL": "https://tennents.com"
     },
     {
+        "link": "https://eightymphmom.com",
+        "Heading": "Home New - Eighty MPH Mom",
+        "Abstract": "Eighty MPH Mom is a modern mommy blog recipes for busy women who do it all. Explore easy recipes, product reviews, money and shopping.",
+        "Official Site": "https://eightymphmom.com/",
+        "Icon": "https://eightymphmom.com/wp-content/uploads/2025/06/cropped-New-80mphmom-logo.png",
+        "Redirect": "https://eightymphmom.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eightymphmom.com/"
+    },
+    {
         "link": "https://purenow.com",
         "Heading": "Premium Hemp & Wellness Products Since 2014 | Pure Now",
         "Abstract": "Shop top-rated CBD and Delta 8 products for health.",
@@ -70,6 +80,16 @@
         "AbstractURL": "https://leinoholdings.com"
     },
     {
+        "link": "https://wallbe-hub.com",
+        "Heading": "ePowerDirect",
+        "Abstract": null,
+        "Official Site": "https://wallbe-hub.com",
+        "Icon": "assets/img/icons/favicon.png",
+        "Redirect": "https://wallbe-hub.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wallbe-hub.com"
+    },
+    {
         "link": "https://aleracare.com",
         "Heading": "Pure Infusion | Private Infusion Suites for Chronic Conditions",
         "Abstract": "Pure Infusion provides biologic treatments and immunotherapies for cancer in private suites located in 14 states.",
@@ -78,6 +98,16 @@
         "Redirect": "https://pureinfusion.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pureinfusion.com/"
+    },
+    {
+        "link": "https://canaljunction.com",
+        "Heading": "Plan & book the widest choice of UK canal holidays & breaks here!",
+        "Abstract": "Plan and book your canal holidays here with our canal maps and cruising guides and links to canal hire companies and equipment suppliers",
+        "Official Site": "https://www.canaljunction.com/index.htm",
+        "Icon": "https://www.canaljunction.com/wp-content/uploads/2022/12/20220614_072344-1.jpg",
+        "Redirect": "https://www.canaljunction.com/index.htm",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.canaljunction.com/index.htm"
     },
     {
         "link": "https://dados-cafe.com",
@@ -181,13 +211,13 @@
     },
     {
         "link": "https://roboterforum.de",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://roboterforum.de",
-        "Icon": "N/A",
-        "Redirect": "https://roboterforum.de",
+        "Heading": "Roboterforum.de \u2014 die Industrieroboter & Cobot Community",
+        "Abstract": "Das gr\u00f6\u00dfte deutschsprachige Forum f\u00fcr Industrieroboter und Cobots. Hilfe zu KUKA, ABB, Fanuc, Yaskawa \u2014 Programmierung, Integration, Wartung und Service.",
+        "Official Site": "https://www.roboterforum.de/",
+        "Icon": "https://www.roboterforum.de/images/style-2/favicon-48x48.png",
+        "Redirect": "https://www.roboterforum.de/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://roboterforum.de"
+        "AbstractURL": "https://www.roboterforum.de/"
     },
     {
         "link": "https://sanitaer-haffner.de",

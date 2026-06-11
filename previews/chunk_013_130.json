@@ -41,10 +41,10 @@
     },
     {
         "link": "https://srcsolucoes.inf.br",
-        "Heading": "One moment, please...",
+        "Heading": "SRC Solu\u00e7\u00f5es em Redes",
         "Abstract": null,
         "Official Site": "https://srcsolucoes.inf.br",
-        "Icon": "N/A",
+        "Icon": "https://www.srcsolucoes.inf.br/wp-content/themes/SRC/assets/img/favicon.png",
         "Redirect": "https://srcsolucoes.inf.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://srcsolucoes.inf.br"
@@ -90,6 +90,16 @@
         "AbstractURL": "https://usflicks.com"
     },
     {
+        "link": "https://schwebebahn.de",
+        "Heading": "Die Schwebebahn",
+        "Abstract": "Die Schwebebahn \u2013 das Wahrzeichen Wuppertals \u2013 f\u00e4hrt auf einer 13 km langen Strecke durch die Stadt.",
+        "Official Site": "https://schwebebahn.de",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://schwebebahn.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://schwebebahn.de"
+    },
+    {
         "link": "https://langly.fr",
         "Heading": "/",
         "Abstract": null,
@@ -130,14 +140,34 @@
         "AbstractURL": "https://expressgain.com"
     },
     {
-        "link": "https://renjiabari.asia",
-        "Heading": "Low Cost, High Performance S3 Compatible Object Storage",
-        "Abstract": "Backblaze B2 provides unlimited data storage in the cloud at 1/5th the cost of Amazon S3, Microsoft Azure, and Google Cloud.",
-        "Official Site": "https://renjiabari.asia",
-        "Icon": "https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64b1b1605e73b516e5712f82_Backblaze_Social-Card.webp",
-        "Redirect": "https://renjiabari.asia",
+        "link": "https://twpusc.org",
+        "Heading": "The Township of Upper St. Clair",
+        "Abstract": "Welcome to the Township of Upper St. Clair, located 10 miles southwest of downtown Pittsburgh. The primarily residential suburb is conveniently close to major roadways, restaurants and stores.",
+        "Official Site": "https://twpusc.org",
+        "Icon": "https://cms8.revize.com/revize/usctpa/news_image/Log%20House.jpg?t=202101070853350",
+        "Redirect": "https://twpusc.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://renjiabari.asia"
+        "AbstractURL": "https://twpusc.org"
+    },
+    {
+        "link": "https://voipbel.net",
+        "Heading": "VoIPBel Internettelefonie",
+        "Abstract": null,
+        "Official Site": "https://voipbel.net",
+        "Icon": "https://www.voipbel.nl/wp-content/uploads/2021/03/logo-vierkant-150x150.jpg",
+        "Redirect": "https://voipbel.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://voipbel.net"
+    },
+    {
+        "link": "https://pfennigparade.de",
+        "Heading": "Stiftung Pfennigparade \u2013 Die Zukunft z\u00e4hlt auf uns.",
+        "Abstract": "Mehr Inklusion f\u00fcr Menschen mit Behinderung.",
+        "Official Site": "https://www.pfennigparade.de/",
+        "Icon": "https://www.pfennigparade.de/wp-content/uploads/2025/10/kampagne-weil-es-weitergeht-wolfgang-arbeitsplatz-fenster.jpg",
+        "Redirect": "https://www.pfennigparade.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pfennigparade.de/"
     },
     {
         "link": "https://visitoliver.com",
@@ -158,6 +188,16 @@
         "Redirect": "https://www.ximilar.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ximilar.com"
+    },
+    {
+        "link": "https://robojackets.org",
+        "Heading": "RoboJackets \u2013 Competitive Robotics at Georgia Tech",
+        "Abstract": null,
+        "Official Site": "https://robojackets.org",
+        "Icon": "https://robojackets.org/wp-content/uploads/2019/10/cropped-RoboBuzz-32x32.png",
+        "Redirect": "https://robojackets.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://robojackets.org"
     },
     {
         "link": "https://rbabr.top",
@@ -228,6 +268,16 @@
         "Redirect": "https://poluchit-prava-4y6b.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://poluchit-prava-4y6b.ru"
+    },
+    {
+        "link": "https://lyonswebdesign.com",
+        "Heading": "Lyons Web Services .: Homepage :.",
+        "Abstract": "Lyons Web Services and Design provides all your website's needs, including Web Design, Web Hosting, Domain Registration and everything you need to get your business eyeballs.",
+        "Official Site": "https://lyonswebdesign.com",
+        "Icon": "N/A",
+        "Redirect": "https://lyonswebdesign.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lyonswebdesign.com"
     },
     {
         "link": "https://gvweser-ems.de",

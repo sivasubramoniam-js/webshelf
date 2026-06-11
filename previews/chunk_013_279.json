@@ -80,6 +80,16 @@
         "AbstractURL": "https://topcart.com"
     },
     {
+        "link": "https://ciussscentreouest.ca",
+        "Heading": "CIUSSS du Centre-Ouest-de-l\u2019\u00cele-de-Montr\u00e9al | CIUSSS du Centre-Ouest-de-l\u2019\u00cele-de-Montr\u00e9al",
+        "Abstract": "{$page.meta.description}",
+        "Official Site": "https://www.ciussscentreouest.ca/",
+        "Icon": "https://cdn.ciussscentreouest.ca/documents/ciusss-coim/home_page7.png",
+        "Redirect": "https://www.ciussscentreouest.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ciussscentreouest.ca/"
+    },
+    {
         "link": "https://simplotfoods.com",
         "Heading": "Foodservice Solutions | Simplot Food - USA",
         "Abstract": "From chef-driven foodservice products to culinary support and inspiration\u2014your business is our passion.",
@@ -190,6 +200,16 @@
         "AbstractURL": "https://fvxpycyb.xyz"
     },
     {
+        "link": "https://drywallmasters.net",
+        "Heading": "Drywall Masters",
+        "Abstract": null,
+        "Official Site": "https://drywallmasters.net",
+        "Icon": "N/A",
+        "Redirect": "https://drywallmasters.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://drywallmasters.net"
+    },
+    {
         "link": "https://armysurpluswarehouse.com",
         "Heading": "Army Surplus Warehouse, Inc.",
         "Abstract": "Genuine Military Surplus and so much more",
@@ -250,6 +270,16 @@
         "AbstractURL": "https://qgjkvquz.xyz"
     },
     {
+        "link": "https://bleu-sistemasinteractivos.com",
+        "Heading": "bleu.mx",
+        "Abstract": null,
+        "Official Site": "https://bleu-sistemasinteractivos.com",
+        "Icon": "/favicons/favicon-32x32.png",
+        "Redirect": "https://bleu-sistemasinteractivos.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bleu-sistemasinteractivos.com"
+    },
+    {
         "link": "https://taitotalo.fi",
         "Heading": "Taitotalo",
         "Abstract": "Taitotalo on Suomen johtava aikuiskouluttaja ja ty\u00f6el\u00e4m\u00e4n kehitt\u00e4j\u00e4.",
@@ -278,15 +308,5 @@
         "Redirect": "https://worlddayofremembrance.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://worlddayofremembrance.org/"
-    },
-    {
-        "link": "https://allthingslinguistic.com",
-        "Heading": "All Things Linguistic",
-        "Abstract": "A blog about all things linguistic by Gretchen McCulloch. I cohost Lingthusiasm, a podcast that's enthusiastic about linguistics. I'm the author of Because Internet, a book about internet language!",
-        "Official Site": "https://allthingslinguistic.com",
-        "Icon": "https://static.tumblr.com/a9a96ab465988841c0c86998e2fb5aa0/pyb4ved/Fk9npi89r/tumblr_static_c2ewu7dz7i0wwkg8k0kcok0k8.png",
-        "Redirect": "https://allthingslinguistic.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://allthingslinguistic.com"
     }
 ]

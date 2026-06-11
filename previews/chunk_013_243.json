@@ -50,6 +50,16 @@
         "AbstractURL": "https://landmarkcapitallp.com"
     },
     {
+        "link": "https://fastbolt.com",
+        "Heading": "Home - Fastbolt Gruppe",
+        "Abstract": null,
+        "Official Site": "https://www.fastbolt.com/",
+        "Icon": "https://www.fastbolt.com/wp-content/uploads/2018/08/favicon.png",
+        "Redirect": "https://www.fastbolt.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fastbolt.com/"
+    },
+    {
         "link": "https://campaniartecard.it",
         "Heading": "Home - Artecard",
         "Abstract": "campania>artecard \u00e8 il pass per visitare i musei di Napoli e la Campania e per viaggiare sui trasporti pubblici della rete UnicoCampania",
@@ -68,6 +78,16 @@
         "Redirect": "https://9sug.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://9sug.com"
+    },
+    {
+        "link": "https://indiebookawards.com",
+        "Heading": "Next Generation Indie Book Awards - Welcome",
+        "Abstract": "The Next Generation Indie Book Awards are the premier indie book awards program in the world",
+        "Official Site": "https://indiebookawards.com",
+        "Icon": "/favicon.png",
+        "Redirect": "https://indiebookawards.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://indiebookawards.com"
     },
     {
         "link": "https://bigdvapor.com",
@@ -170,6 +190,16 @@
         "AbstractURL": "https://brennan.io/"
     },
     {
+        "link": "https://britsoccrim.org",
+        "Heading": "British Society of Criminology",
+        "Abstract": null,
+        "Official Site": "https://britsoccrim.org",
+        "Icon": "N/A",
+        "Redirect": "https://britsoccrim.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://britsoccrim.org"
+    },
+    {
         "link": "https://louisianarecord.com",
         "Heading": "Louisiana Record | legalnewsline.com",
         "Abstract": "Get the latest legal news in Louisiana from the Louisiana Record. In-depth coverage of lawsuits, courts, legislation, and more.",
@@ -268,5 +298,15 @@
         "Redirect": "https://indowebhost.co.id/home/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://indowebhost.co.id/home/"
+    },
+    {
+        "link": "https://envitect.com",
+        "Heading": "Aluminium Composite Panels Manufacturer for Modern Architecture",
+        "Abstract": "Envitect offers high-quality aluminium composite panels for exterior and interior applications, supporting modern architecture with durable, aesthetic, and sustainable solutions.",
+        "Official Site": "https://envitect.com/",
+        "Icon": "https://envitect.com/wp-content/uploads/2024/04/about-bg.webp",
+        "Redirect": "https://envitect.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://envitect.com/"
     }
 ]
