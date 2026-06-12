@@ -200,16 +200,6 @@
         "AbstractURL": "https://vent74.pro"
     },
     {
-        "link": "https://knowledgequran.com",
-        "Heading": "Learn Quran Online at Knowledge Quran Centre",
-        "Abstract": "Learn Quran online at the Knowledge Quran Centre, a leading destination for Quranic education. With certified Quran teachers, offers services.",
-        "Official Site": "https://www.knowledgequran.com/",
-        "Icon": "https://www.knowledgequran.com/wp-content/uploads/2021/10/cropped-KnowledgeQuran-Centre-2-32x32.png",
-        "Redirect": "https://www.knowledgequran.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.knowledgequran.com/"
-    },
-    {
         "link": "https://papercheap.co.uk",
         "Heading": "Cheap Papers from UK Based Essay Writing Service | PaperCheap",
         "Abstract": "Don\u2019t panic! If your paper or essay is due soon and you can\u2019t write it, just hire PaperCheap. Discover our cheap custom essay papers here",
@@ -228,16 +218,6 @@
         "Redirect": "https://amazingbridalshowers.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://amazingbridalshowers.com/"
-    },
-    {
-        "link": "https://boneinlayfurnitureindia.com",
-        "Heading": "Home | Bone Inlay Furniture India",
-        "Abstract": "Discover handcrafted bone inlay & mother of pearl furniture at Bone Inlay Furniture India. Elegant designs, premium quality, and timeless craftsmanship.",
-        "Official Site": "https://boneinlayfurnitureindia.com/",
-        "Icon": "https://boneinlayfurnitureindia.com/wp-content/uploads/2024/01/logo-boneinlay.png",
-        "Redirect": "https://boneinlayfurnitureindia.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://boneinlayfurnitureindia.com/"
     },
     {
         "link": "https://affiliatesgetpaid.com",
@@ -271,23 +251,13 @@
     },
     {
         "link": "https://dependablepickup.com",
-        "Heading": null,
+        "Heading": "Redirecting...",
         "Abstract": null,
         "Official Site": "https://dependablepickup.com",
         "Icon": "N/A",
         "Redirect": "https://dependablepickup.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dependablepickup.com"
-    },
-    {
-        "link": "https://longpelaexpertise.com.au",
-        "Heading": "Mainframe and Systems Programmer Consultants - Longpela Expertise ",
-        "Abstract": null,
-        "Official Site": "https://longpelaexpertise.com.au",
-        "Icon": "N/A",
-        "Redirect": "https://longpelaexpertise.com.au",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://longpelaexpertise.com.au"
     },
     {
         "link": "https://it-sv.ru",
@@ -318,15 +288,5 @@
         "Redirect": "https://www.lactigo.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lactigo.com/"
-    },
-    {
-        "link": "https://bppulse.co.uk",
-        "Heading": "EV Charging Solutions | bp pulse UK",
-        "Abstract": "Charge your EV with confidence using bp pulse \u2013 one of the UK\u2019s leading electric vehicle charging networks. Find fast, reliable on the go or for your business.",
-        "Official Site": "https://bppulse.co.uk",
-        "Icon": "http://localhost:3000/en-gb/bp-pulse-eom.png",
-        "Redirect": "https://bppulse.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bppulse.co.uk"
     }
 ]

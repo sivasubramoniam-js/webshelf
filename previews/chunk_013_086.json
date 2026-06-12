@@ -30,6 +30,16 @@
         "AbstractURL": "https://badadventures.com"
     },
     {
+        "link": "https://holmwright.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://holmwright.com",
+        "Icon": "N/A",
+        "Redirect": "https://holmwright.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://holmwright.com"
+    },
+    {
         "link": "https://expressmilwaukee.com",
         "Heading": "Shepherd Express - Shepherd Express",
         "Abstract": "Smart, Informed, Opinionated: The Shepherd Express is Milwaukee's alternative news source covering arts & entertainment, food, culture and politics.",
@@ -58,16 +68,6 @@
         "Redirect": "https://dicas-l.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dicas-l.com.br"
-    },
-    {
-        "link": "https://bucurestiivechisinoi.ro",
-        "Heading": "From BACH to MOZART \u2013 THE SOUND OF BEAUTY, \u00een 28 martie, la Sala Luceaf\u0103rul - Bucurestii Vechi si Noi",
-        "Abstract": "s",
-        "Official Site": "https://bucurestiivechisinoi.ro/",
-        "Icon": "https://bucurestiivechisinoi.ro/wp-content/uploads/2025/02/AFIS_concertbaroc-web-cp4.jpg",
-        "Redirect": "https://bucurestiivechisinoi.ro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bucurestiivechisinoi.ro/"
     },
     {
         "link": "https://callofdutyendowment.org",
@@ -138,16 +138,6 @@
         "Redirect": "https://guimaraes-bruno-cz.biz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://guimaraes-bruno-cz.biz"
-    },
-    {
-        "link": "https://oopsla.org",
-        "Heading": "Index of /",
-        "Abstract": null,
-        "Official Site": "https://oopsla.org",
-        "Icon": "N/A",
-        "Redirect": "https://oopsla.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://oopsla.org"
     },
     {
         "link": "https://safestorz.com",
@@ -260,14 +250,14 @@
         "AbstractURL": "https://getsnapmaids.com/"
     },
     {
-        "link": "https://preseli.net",
-        "Heading": "PRESELI DOT NET - silentcar.com, landspeed.org domain names for sale",
-        "Abstract": null,
-        "Official Site": "https://preseli.net",
-        "Icon": "N/A",
-        "Redirect": "https://preseli.net",
+        "link": "https://ncalculators.com",
+        "Heading": "Online Calculators and Work with Steps",
+        "Abstract": "Free calculators, formulas, step by step procedures, practice problems and real world problems to practice and learn math, finance and engineering calculations includes pre-algebra, algebra, geometry, finance, probability & statistics, digital computation, currency conversion, time tables and more.",
+        "Official Site": "https://ncalculators.com/",
+        "Icon": "https://ncalculators.com/og-images/ncalculators.png",
+        "Redirect": "https://ncalculators.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://preseli.net"
+        "AbstractURL": "https://ncalculators.com/"
     },
     {
         "link": "https://farsinama.com",

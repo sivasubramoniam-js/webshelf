@@ -100,16 +100,6 @@
         "AbstractURL": "https://spectropop.com"
     },
     {
-        "link": "https://it-people.co.za",
-        "Heading": "CREATING BETTER IT SOLUTIONS - IT People",
-        "Abstract": "We assist companies with their IT support, custom software design, web applications, graphic design & digital marketing.",
-        "Official Site": "https://www.itpeople.co.za/",
-        "Icon": "https://www.itpeople.co.za/wp-content/uploads/2023/06/it-favicon.png",
-        "Redirect": "https://www.itpeople.co.za/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.itpeople.co.za/"
-    },
-    {
         "link": "https://reddalfsresorts.com",
         "Heading": "Reddalfsresorts",
         "Abstract": null,
@@ -170,21 +160,11 @@
         "AbstractURL": "https://belajarpenting.shop"
     },
     {
-        "link": "https://esystems-eg.com",
-        "Heading": "E-Systems \u2013 The Best Specializing ERP and CRM systems in Egypt",
-        "Abstract": null,
-        "Official Site": "https://esystems-eg.com",
-        "Icon": "https://esystems-eg.com/wp-content/uploads/2024/05/cropped-esys-32x32.jpg",
-        "Redirect": "https://esystems-eg.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://esystems-eg.com"
-    },
-    {
         "link": "https://slekt-i-midt-telemark.no",
         "Heading": "Slekt i midtre Telemark",
         "Abstract": null,
         "Official Site": "https://slekt-i-midt-telemark.no",
-        "Icon": "img/public/android-icon-192x192.png",
+        "Icon": "img/public/favicon.ico",
         "Redirect": "https://slekt-i-midt-telemark.no",
         "AbstractSource": "BS4",
         "AbstractURL": "https://slekt-i-midt-telemark.no"

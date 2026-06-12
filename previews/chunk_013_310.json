@@ -20,16 +20,6 @@
         "AbstractURL": "{{ canonical_url() }}"
     },
     {
-        "link": "https://kushalmetal.com",
-        "Heading": "Tool Steel Suppliers, Importer and Exporter in India - Kushal Metal & Steel Industries",
-        "Abstract": "Kushal Metal & Steel Industries is a tool steel supplier, trading & stock holding company dealing in all kinds of high speed steel, cold work steel, hot work steel, plastic mould steel, beryllium copper, cutting tools & more.",
-        "Official Site": "https://kushalmetal.com",
-        "Icon": "favicon.ico",
-        "Redirect": "https://kushalmetal.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kushalmetal.com"
-    },
-    {
         "link": "https://eaaze.cloud",
         "Heading": "OperationsUI",
         "Abstract": null,
@@ -71,13 +61,13 @@
     },
     {
         "link": "https://oficretefc.com",
-        "Heading": "OFI CRETE FC | OFFICIAL WEBSITE",
-        "Abstract": "\u03a4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf site \u03c4\u03b7\u03c2 \u03a0\u0391\u0395 \u039f\u03a6\u0397 1925. \u0391\u03b3\u03ce\u03bd\u03b5\u03c2, \u03c0\u03b1\u03af\u03ba\u03c4\u03b5\u03c2, \u03b1\u03c5\u03b8\u03b5\u03bd\u03c4\u03b9\u03ba\u03ac \u03c0\u03c1\u03bf\u03ca\u03cc\u03bd\u03c4\u03b1, \u03b5\u03b9\u03c3\u03b9\u03c4\u03ae\u03c1\u03b9\u03b1, \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ba\u03b1\u03b9 \u03cc\u03bb\u03b1 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03b5\u03be\u03b5\u03bb\u03af\u03be\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03bf\u03bc\u03ac\u03b4\u03b1\u03c2 \u03c4\u03b7\u03c2 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2.",
-        "Official Site": "https://www.oficretefc.com/",
-        "Icon": "https://www.oficretefc.com/wp-content/uploads/share1.png",
-        "Redirect": "https://www.oficretefc.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://oficretefc.com",
+        "Icon": "data:;",
+        "Redirect": "https://oficretefc.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.oficretefc.com/"
+        "AbstractURL": "https://oficretefc.com"
     },
     {
         "link": "https://thephilippinestoday.com",
@@ -140,6 +130,16 @@
         "AbstractURL": "https://dvdjournal.com"
     },
     {
+        "link": "https://meetingsint.com",
+        "Heading": "Meetings International | Upcoming International Conferences 2026 | USA | Europe | Asia-Pacific | Middle East",
+        "Abstract": "Global Platform for Science (Life Science, Medical, Clinical, Pharma), Technology, Engineering & Management Professionals to Exchange Ideas, Knowledge and Networking at 300+ Meetings International Conferences",
+        "Official Site": "https://meetingsint.com/",
+        "Icon": "https://www.meetingsint.com/assets/main/images/favicon.ico",
+        "Redirect": "https://meetingsint.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://meetingsint.com/"
+    },
+    {
         "link": "https://consumerphysics.com",
         "Heading": "Instant Material Analysis Solutions for Agricultural & Food | SCiO",
         "Abstract": "SCIO Provides Real-Time, On-the-Spot Analysis for Smarter Agricultural & Food Decisions.",
@@ -148,16 +148,6 @@
         "Redirect": "https://scionir.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://scionir.com/"
-    },
-    {
-        "link": "https://villatraful.com.ar",
-        "Heading": "villatraful.com.ar - Todo lo que necesit\u00e1s para tu viaje.",
-        "Abstract": "Alojamiento, gastronom\u00eda, actividades y atracciones de Villa Traful. Toda la info que necesit\u00e1s para tu viaje. Reserv\u00e1 directo...",
-        "Official Site": "https://villatraful.com.ar/",
-        "Icon": "https://villatraful.com.ar/wp-content/uploads/2021/11/JFA_villatraful-25.jpg",
-        "Redirect": "https://villatraful.com.ar/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://villatraful.com.ar/"
     },
     {
         "link": "https://ms-uk.org",
@@ -170,16 +160,6 @@
         "AbstractURL": "https://ms-uk.org/"
     },
     {
-        "link": "https://pcwhosting.co.uk",
-        "Heading": "Sign in to Hosting Control Panel\n    ",
-        "Abstract": null,
-        "Official Site": "https://pcwhosting.co.uk",
-        "Icon": "/brandFavicon?size=ico",
-        "Redirect": "https://pcwhosting.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pcwhosting.co.uk"
-    },
-    {
         "link": "https://lozovamachinery.com",
         "Heading": " \u0412\u0438\u0440\u043e\u0431\u043d\u0438\u043a \u0441\u0456\u043b\u044c\u0433\u043e\u0441\u043f\u0442\u0435\u0445\u043d\u0456\u043a\u0438 | \u041b\u043e\u0437\u0456\u0432\u0441\u044c\u043a\u0456 \u043c\u0430\u0448\u0438\u043d\u0438 ",
         "Abstract": " LOZOVA MACHINERY (\u041b\u041e\u0417\u0406\u0412\u0421\u042c\u041a\u0406 \u041c\u0410\u0428\u0418\u041d\u0418) \u2014 \u0446\u0435 \u0441\u0443\u0447\u0430\u0441\u043d\u0430 \u0441\u0456\u043b\u044c\u0441\u044c\u043a\u043e\u0433\u043e\u0441\u043f\u043e\u0434\u0430\u0440\u0441\u044c\u043a\u0430 \u0442\u0435\u0445\u043d\u0456\u043a\u0430, \u0449\u043e \u043f\u043e\u0454\u0434\u043d\u0443\u0454 \u0456\u043d\u043d\u043e\u0432\u0430\u0446\u0456\u0457, \u0435\u043d\u0435\u0440\u0433\u043e\u0435\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0456\u0441\u0442\u044c \u0456 \u043d\u0430\u0434\u0456\u0439\u043d\u0456\u0441\u0442\u044c. \u041d\u0430\u0448\u0430 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0456\u044f \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u0448\u0438\u0440\u043e\u043a\u0438\u043c \u0430\u0441\u043e\u0440\u0442\u0438\u043c\u0435\u043d\u0442\u043e\u043c \u0491\u0440\u0443\u043d\u0442\u043e\u043e\u0431\u0440\u043e\u0431\u043d\u0438\u0445, \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u0435\u043d\u0438\u0445 \u0434\u043b\u044f \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0435\u043a\u043e\u043d\u043e\u043c\u0456\u0447\u043d\u043e\u0433\u043e \u0435\u0444\u0435\u043a\u0442\u0443. ",
@@ -188,6 +168,16 @@
         "Redirect": "https://lozovamachinery.com/ua",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lozovamachinery.com/ua"
+    },
+    {
+        "link": "https://redbullstudiosshop.com",
+        "Heading": "redbullstudiosshop.com",
+        "Abstract": null,
+        "Official Site": "https://redbullstudiosshop.com",
+        "Icon": "N/A",
+        "Redirect": "https://redbullstudiosshop.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://redbullstudiosshop.com"
     },
     {
         "link": "https://turborilla.com",
@@ -218,16 +208,6 @@
         "Redirect": "https://hagh-iserv.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hagh-iserv.de"
-    },
-    {
-        "link": "https://skinchanger.net",
-        "Heading": "\u041d\u0430\u0448 \u0441\u0430\u0439\u0442 \u0441\u043a\u043e\u0440\u043e \u043f\u043e\u044f\u0432\u0438\u0442\u0441\u044f",
-        "Abstract": null,
-        "Official Site": "https://skinchanger.net",
-        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHIAAAByCAMAAAC4A3VPAAAANlBMVEUAgZoIfZp5RpWnwzuyxzXPKlHRIFPU5LHi6rPo7PLv9/n14d738/j54+n6+/L9/vr+//////99SPYbAAAAbUlEQVRo3u3Nxw2AMBAAsNB7239Z/scvUhAS9gJO1+uSUqlUKpVKpTLHWj8olUqlUvnz8pyjqXQ5p6hSKpVKpVL5dnmM0VC63NuoUSqVSmVeuUVL8bKPOqVSqVQqlUql8vtlUUqlUqlUKpV/Km+rIpqzkYF/fQAAAABJRU5ErkJggg==",
-        "Redirect": "https://skinchanger.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://skinchanger.net"
     },
     {
         "link": "https://theotherpalace.co.uk",
@@ -268,16 +248,6 @@
         "Redirect": "https://www.oshaoutreachcourses.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.oshaoutreachcourses.com"
-    },
-    {
-        "link": "https://electric-cloud.com",
-        "Heading": "The trusted software delivery solution for the agentic era | CloudBees",
-        "Abstract": "CloudBees Unify is the enterprise control and context plane for your entire AI-powered software delivery lifecycle: open, multi-agentic, and continuously secure.",
-        "Official Site": "https://electric-cloud.com",
-        "Icon": "https://cdn.prod.website-files.com/695e1939655d6c0175b126da/699e0e462f773eee6d427fc8_270667b753a4c25ae513f51bbf519f79_OG-CloudBees-old.png",
-        "Redirect": "https://electric-cloud.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://electric-cloud.com"
     },
     {
         "link": "https://wekconsulting.com",

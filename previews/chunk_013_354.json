@@ -130,26 +130,6 @@
         "AbstractURL": "https://piranha-bytes.com"
     },
     {
-        "link": "https://novawoodcapital.com",
-        "Heading": "Home | Novawood Capital",
-        "Abstract": "Live Charts with Indicators, Foreign Exchange Market Trading Methods, Hours, Sessions, & Plans, Major and Minor Pairs Currency, Bullish and Bearish Divergence.",
-        "Official Site": "./",
-        "Icon": "./assets/images/favicon.png",
-        "Redirect": "./",
-        "AbstractSource": "BS4",
-        "AbstractURL": "./"
-    },
-    {
-        "link": "https://shadeplace.com",
-        "Heading": "Window Treatment Store, Custom Vertical Window Blinds, Roller Shades, Sheer Window Shades, Solar Shades, Woven Wood Shades, Roman Window Shades, Hunter Douglas Blinds, Window Treatments & Vertical Blinds Hoboken NJ - Shade Place by Stephan",
-        "Abstract": "Shade Place by Stephan specializes in custom blinds, shades, and window treatments for every style and space in Hoboken NJ. Visit us today to learn more!",
-        "Official Site": "https://shadeplacebystephan.com/",
-        "Icon": "https://shadeplacebystephan.com/wp-content/uploads/2025/10/Layered-Treatments-with-Hunter-Douglas.webp",
-        "Redirect": "https://shadeplacebystephan.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shadeplacebystephan.com/"
-    },
-    {
         "link": "https://topbilet.kz",
         "Heading": "\u0410\u0444\u0438\u0448\u0430 \u0410\u043b\u043c\u0430\u0442\u044b: \u0432\u0441\u0435 \u043c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u044f, \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0438 \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f | Topbilet.kz",
         "Abstract": "\u0418\u0449\u0435\u0442\u0435 \u043a\u0443\u0434\u0430 \u0441\u0445\u043e\u0434\u0438\u0442\u044c? \u041f\u043e\u043b\u043d\u0430\u044f \u0430\u0444\u0438\u0448\u0430 \u0410\u043b\u043c\u0430\u0442\u044b: \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0435 \u043c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u044f, \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f, \u0432\u044b\u0441\u0442\u0430\u0432\u043a\u0438 \u0438 \u0448\u043e\u0443. \u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u0438 \u043d\u0430 \u0432\u044b\u0445\u043e\u0434\u043d\u044b\u0445. \u0411\u0438\u043b\u0435\u0442\u044b \u043e\u043d\u043b\u0430\u0439\u043d!",
@@ -171,7 +151,7 @@
     },
     {
         "link": "https://123moviesclub.to",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://123moviesclub.to",
         "Icon": "N/A",
@@ -208,6 +188,16 @@
         "Redirect": "https://opendatastructures.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://opendatastructures.org"
+    },
+    {
+        "link": "https://tmsmotorgroup.co.uk",
+        "Heading": "TMS Motor Group | Family Run Car Dealer in the Midlands",
+        "Abstract": "TMS Motor Group, a trusted family-run dealer in Coventry, Hinckley, Leicester and Loughborough. We offer friendly guidance, quality new and used cars and helpful aftersales support.",
+        "Official Site": "https://tmsmotorgroup.co.uk",
+        "Icon": "https://images.netdirector.co.uk/gforces-auto/image/upload/q_auto,c_fill,f_auto,fl_lossy,w_1200/auto-client/8e17a33f8062da955a92159b48a9a228/ex30_7.jpg",
+        "Redirect": "https://tmsmotorgroup.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tmsmotorgroup.co.uk"
     },
     {
         "link": "https://pharmalibrefrance.com",
@@ -251,13 +241,13 @@
     },
     {
         "link": "https://bigwinpictures.com",
-        "Heading": "Big Win Pictures - BigWinPictures",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://bigwinpictures.com/",
-        "Icon": "https://bigwinpictures.com/wp-content/uploads/BigWinPictures-Logo-subscribers-125x125.jpg",
-        "Redirect": "https://bigwinpictures.com/",
+        "Official Site": "https://bigwinpictures.com",
+        "Icon": "data:;",
+        "Redirect": "https://bigwinpictures.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bigwinpictures.com/"
+        "AbstractURL": "https://bigwinpictures.com"
     },
     {
         "link": "https://zdorovie-vn.ru",

@@ -80,16 +80,6 @@
         "AbstractURL": "https://topcart.com"
     },
     {
-        "link": "https://ciussscentreouest.ca",
-        "Heading": "CIUSSS du Centre-Ouest-de-l\u2019\u00cele-de-Montr\u00e9al | CIUSSS du Centre-Ouest-de-l\u2019\u00cele-de-Montr\u00e9al",
-        "Abstract": "{$page.meta.description}",
-        "Official Site": "https://www.ciussscentreouest.ca/",
-        "Icon": "https://cdn.ciussscentreouest.ca/documents/ciusss-coim/home_page7.png",
-        "Redirect": "https://www.ciussscentreouest.ca/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ciussscentreouest.ca/"
-    },
-    {
         "link": "https://simplotfoods.com",
         "Heading": "Foodservice Solutions | Simplot Food - USA",
         "Abstract": "From chef-driven foodservice products to culinary support and inspiration\u2014your business is our passion.",
@@ -121,13 +111,13 @@
     },
     {
         "link": "https://greenkeyglobal.com",
-        "Heading": "Home - Green Key Global",
-        "Abstract": "Green Key Global Partners with Al\u014d Index Hotels can now turn their sustainability achievements into a competitive commercial advantage, increasing visibility, strengthening RFP responses, and creating more opportunities for qualified corporate travel demand. Explore This Sustainability Initiative Eco-Rating Core Criteria\u2026",
-        "Official Site": "https://greenkeyglobal.com/",
-        "Icon": "https://greenkeyglobal.com/wp-content/uploads/alo-index.png",
-        "Redirect": "https://greenkeyglobal.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://greenkeyglobal.com",
+        "Icon": "data:;",
+        "Redirect": "https://greenkeyglobal.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://greenkeyglobal.com/"
+        "AbstractURL": "https://greenkeyglobal.com"
     },
     {
         "link": "https://1c-services.pro",
@@ -151,8 +141,8 @@
     },
     {
         "link": "https://openacessjournal.com",
-        "Heading": "20,248 Free Open Access Journals (2026 Directory) \u00b7 OpenAccessJournal",
-        "Abstract": "Browse 20,248 peer-reviewed open access journals \u2014 search by subject, publisher, country, APC, and indexing.",
+        "Heading": "20,268 Free Open Access Journals (2026 Directory) \u00b7 OpenAccessJournal",
+        "Abstract": "Browse 20,268 peer-reviewed open access journals \u2014 search by subject, publisher, country, APC, and indexing.",
         "Official Site": "https://openacessjournal.com",
         "Icon": "https://openacessjournal.com/open-access-journals.png",
         "Redirect": "https://openacessjournal.com",
@@ -168,16 +158,6 @@
         "Redirect": "https://masoxigeno.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://masoxigeno.com"
-    },
-    {
-        "link": "https://cinaki.biz",
-        "Heading": "cinaki.biz\u00a0-\u00a0cinaki Resources and Information.",
-        "Abstract": "cinaki.biz is your first and best source for information about cinaki. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
-        "Official Site": "https://cinaki.biz",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://cinaki.biz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cinaki.biz"
     },
     {
         "link": "https://ago-outsourcing.com",
@@ -198,16 +178,6 @@
         "Redirect": "https://fvxpycyb.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fvxpycyb.xyz"
-    },
-    {
-        "link": "https://drywallmasters.net",
-        "Heading": "Drywall Masters",
-        "Abstract": null,
-        "Official Site": "https://drywallmasters.net",
-        "Icon": "N/A",
-        "Redirect": "https://drywallmasters.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://drywallmasters.net"
     },
     {
         "link": "https://armysurpluswarehouse.com",
@@ -268,16 +238,6 @@
         "Redirect": "https://qgjkvquz.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://qgjkvquz.xyz"
-    },
-    {
-        "link": "https://bleu-sistemasinteractivos.com",
-        "Heading": "bleu.mx",
-        "Abstract": null,
-        "Official Site": "https://bleu-sistemasinteractivos.com",
-        "Icon": "/favicons/favicon-32x32.png",
-        "Redirect": "https://bleu-sistemasinteractivos.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bleu-sistemasinteractivos.com"
     },
     {
         "link": "https://taitotalo.fi",

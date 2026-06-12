@@ -30,16 +30,6 @@
         "AbstractURL": "https://nsdata.ru"
     },
     {
-        "link": "https://arbat25.ru",
-        "Heading": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0413\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u041f\u0441\u0438\u0445\u043e\u044d\u043d\u0434\u043e\u043a\u0440\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0426\u0435\u043d\u0442\u0440 - \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442",
-        "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0413\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0433\u043e \u041f\u0441\u0438\u0445\u043e\u044d\u043d\u0434\u043e\u043a\u0440\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0426\u0435\u043d\u0442\u0440\u0430. \u0423\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u0435\u0442\u043e\u0434\u0438\u043a\u0438 \u043b\u0435\u0447\u0435\u043d\u0438\u044f. \u041a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e, \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u044c\u043d\u043e, \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e.",
-        "Official Site": "https://arbat25.ru/",
-        "Icon": "/assets/main/images/logo.png",
-        "Redirect": "https://arbat25.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://arbat25.ru/"
-    },
-    {
         "link": "https://stroopwafels.com",
         "Heading": "Daelmans Stroopwafels. Original Dutch Stroopwafel Experience",
         "Abstract": "At Daelmans we are totally mad about Stroopwafels. It is our passion! That is why we enjoy making the most delicious stroopwafels every day. Two crispy...",
@@ -318,6 +308,16 @@
         "Redirect": "https://doservis.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://doservis.ru"
+    },
+    {
+        "link": "https://bigkupon.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bigkupon.ru",
+        "Icon": "N/A",
+        "Redirect": "https://bigkupon.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bigkupon.ru"
     },
     {
         "link": "https://1bor.ru",

@@ -80,26 +80,6 @@
         "AbstractURL": "https://jetprogramusa.org"
     },
     {
-        "link": "https://mrbobd.site",
-        "Heading": "MRBOBD.SITE - Download and Watch Movies & Series Free",
-        "Abstract": "Download and Watch Movies & Series Free",
-        "Official Site": "https://1.mrbobd.site/",
-        "Icon": "https://1.mrbobd.site/wp-content/uploads/2024/12/MRBOBD.COM-1.png",
-        "Redirect": "https://1.mrbobd.site/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://1.mrbobd.site/"
-    },
-    {
-        "link": "https://stkipsingkawang.ac.id",
-        "Heading": "STKIP Singkawang",
-        "Abstract": "STKIP Singkawang : STKIP Singkawang",
-        "Official Site": "https://stkipsingkawang.ac.id",
-        "Icon": "https://stkipsingkawang.ac.id/favicon.ico",
-        "Redirect": "https://stkipsingkawang.ac.id",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stkipsingkawang.ac.id"
-    },
-    {
         "link": "https://northlandgroup.com",
         "Heading": null,
         "Abstract": null,
@@ -181,13 +161,13 @@
     },
     {
         "link": "https://sanjosejazz.org",
-        "Heading": "Home - San Jose Jazz",
-        "Abstract": "Founded in 1986, San Jose Jazz is a public benefit organization celebrating jazz as a dynamic, evolving art form and is producer of the annual San Jose Jazz Summer Fest and Winter Fest.",
-        "Official Site": "https://sanjosejazz.org/",
-        "Icon": "https://sanjosejazz.org/wp-content/uploads/2023/08/SJZ_Social-Image-for-Website.jpg",
-        "Redirect": "https://sanjosejazz.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sanjosejazz.org",
+        "Icon": "data:;",
+        "Redirect": "https://sanjosejazz.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sanjosejazz.org/"
+        "AbstractURL": "https://sanjosejazz.org"
     },
     {
         "link": "https://rcfoundation.ru",
@@ -200,16 +180,6 @@
         "AbstractURL": "https://rcfoundation.ru/"
     },
     {
-        "link": "https://tucanoice.com",
-        "Heading": "Tucano | Ice & Gear",
-        "Abstract": null,
-        "Official Site": "https://tucanoice.com",
-        "Icon": "https://www.tucanoice.com/wp-content/uploads/2019/08/cropped-tucano-logo-min-32x32.png",
-        "Redirect": "https://tucanoice.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tucanoice.com"
-    },
-    {
         "link": "https://kodakphotoplus.com",
         "Heading": "\n      KODAK Photo Plus - Printomatic Instant Print Camera\n",
         "Abstract": "Capture and Print in an Instant. It's fast, fun, and easy to use.",
@@ -218,16 +188,6 @@
         "Redirect": "https://www.kodakphotoplus.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.kodakphotoplus.com/"
-    },
-    {
-        "link": "https://visitsugarlandtx.com",
-        "Heading": "Visit Sugar Land | Sugar Land, TX",
-        "Abstract": "Planning your visit to Sugar Land, TX? See the official website for hotels, things to do, restaurants and events in the \"Sweetest City in Texas.\"",
-        "Official Site": "https://visitsugarlandtx.com/",
-        "Icon": "/favicon-96x96.png",
-        "Redirect": "https://visitsugarlandtx.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://visitsugarlandtx.com/"
     },
     {
         "link": "https://nanterre-amandiers.com",
@@ -278,15 +238,5 @@
         "Redirect": "https://blinkogroup.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://blinkogroup.com/"
-    },
-    {
-        "link": "https://valleedutrient.ch",
-        "Heading": "Bienvenue dans la Vall\u00e9e du Trient ! | Vall\u00e9e du Trient",
-        "Abstract": "La Vall\u00e9e du Trient, une nature pr\u00e9serv\u00e9e, des attractions uniques, un panorama exceptionnel et des villages charg\u00e9s d'histoire reli\u00e9s par le chemin de fer du Mont-Blanc Express.",
-        "Official Site": "https://www.valleedutrient.ch",
-        "Icon": "http://www.valleedutrient.ch/UserFiles/File/organisme/UserFiles-valleedutrient/File/Photos/vallee-du-trient-nature.jpg",
-        "Redirect": "https://www.valleedutrient.ch",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.valleedutrient.ch"
     }
 ]

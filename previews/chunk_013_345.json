@@ -50,24 +50,14 @@
         "AbstractURL": "https://www.gerstbau.de/"
     },
     {
-        "link": "https://axessnet.com",
-        "Heading": "HispaSat | Operador de sat\u00e9lites de telecomunicaci\u00f3n",
-        "Abstract": "Somos un operador de sat\u00e9lites de comunicaciones que ofrece conectividad a Internet, transmisi\u00f3n de televisi\u00f3n y soluciones de comunicaci\u00f3n en zonas remotas",
-        "Official Site": "https://www.hispasat.com/es/",
-        "Icon": "https://www.hispasat.com/imagenes/logo-og.png",
-        "Redirect": "https://www.hispasat.com/es/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hispasat.com/es/"
-    },
-    {
         "link": "https://pingco.com.au",
-        "Heading": "PingCo - Transforming Telecommunications Through Automation",
-        "Abstract": "At PingCo, we're transforming how the global voice network is deployed, managed, and serviced with cutting-edge automation and a customer-first approach.",
-        "Official Site": "https://pingco.cloud/",
-        "Icon": "https://pingco.cloud/wp-content/uploads/2024/11/P-IMGE035_Cityscape_Tech_Manager.jpg",
-        "Redirect": "https://pingco.cloud/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pingco.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://pingco.com.au",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pingco.cloud/"
+        "AbstractURL": "https://pingco.com.au"
     },
     {
         "link": "https://reactive-executive.com",
@@ -190,14 +180,24 @@
         "AbstractURL": "https://ojshostng.com"
     },
     {
-        "link": "https://txstatebobcats.com",
-        "Heading": "\n\tBasketball Season Tickets On Sale - Texas State Athletics - Official Athletics Website\n",
-        "Abstract": "Basketball Season Tickets On Sale",
-        "Official Site": "https://txst.com/splash.aspx?id=splash358",
-        "Icon": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ftxstate.sidearmsports.com%2fimages%2flogos%2fsite%2fsite.png&type=jpeg",
-        "Redirect": "https://txst.com/splash.aspx?id=splash358",
+        "link": "https://chuguevsky.ru",
+        "Heading": "\u0421\u0430\u0439\u0442 \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0427\u0443\u0433\u0443\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
+        "Abstract": "\u0421\u0430\u0439\u0442 \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0427\u0443\u0433\u0443\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
+        "Official Site": "https://chuguevsky.ru",
+        "Icon": "/bitrix/templates/chmr/favicon2.ico",
+        "Redirect": "https://chuguevsky.ru",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://txst.com/splash.aspx?id=splash358"
+        "AbstractURL": "https://chuguevsky.ru"
+    },
+    {
+        "link": "https://txstatebobcats.com",
+        "Heading": "\n\tTexas State Athletics - Official Athletics Website\n",
+        "Abstract": "The official athletics website for the Texas State University Bobcats",
+        "Official Site": "https://txst.com/",
+        "Icon": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ftxstate.sidearmsports.com%2fimages%2flogos%2fsite%2fsite.png&type=jpeg",
+        "Redirect": "https://txst.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://txst.com/"
     },
     {
         "link": "https://filterwater.com",
@@ -260,24 +260,14 @@
         "AbstractURL": "https://www.growandbrew.co.nz/"
     },
     {
-        "link": "https://thezaurus.com",
-        "Heading": "Webzine - thezaurus.com",
+        "link": "https://businesscycle.com",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://thezaurus.com/",
-        "Icon": "N/A",
-        "Redirect": "https://thezaurus.com/",
+        "Official Site": "https://businesscycle.com",
+        "Icon": "data:;",
+        "Redirect": "https://businesscycle.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thezaurus.com/"
-    },
-    {
-        "link": "https://hardindailydeals.com",
-        "Heading": "Best Department Stores for Discount Shopping Online - Hardin Daily Deals",
-        "Abstract": null,
-        "Official Site": "https://www.hardindailydeals.com/",
-        "Icon": "https://www.hardindailydeals.com/wp-content/uploads/2025/06/logo_1.png",
-        "Redirect": "https://www.hardindailydeals.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hardindailydeals.com/"
+        "AbstractURL": "https://businesscycle.com"
     },
     {
         "link": "https://cybergear2.com",
@@ -298,15 +288,5 @@
         "Redirect": "https://elfinit.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://elfinit.net"
-    },
-    {
-        "link": "https://yogadog.pl",
-        "Heading": "NV Kasyno Online 2026: Oficjalna Strona NV Casino!",
-        "Abstract": "NV Kasyno Online 2026: Oficjalna strona kasyna dla polskich graczy \u2b50\ufe0f Odkryj darmowe gry, ekscytuj\u0105ce bonusy i niezapomniane wra\u017cenia z gry \u2705",
-        "Official Site": "https://nv-pl.com/",
-        "Icon": "https://nv-pl.com/wp-content/uploads/nv-casino-Polska.png",
-        "Redirect": "https://nv-pl.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nv-pl.com/"
     }
 ]

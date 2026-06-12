@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://xde.com.ph",
-        "Heading": "XDE Logistics",
-        "Abstract": "We have what you need. XDE offers freight forwarding services from air, land, and sea cargo shipments to assure our clients of our continuing pursuit to maintain excellence in service as a driving force of our brand.",
-        "Official Site": "https://www.xde.com.ph/",
-        "Icon": "https://www.xde.com.ph/wp-content/uploads/2020/07/xde-xpresland.jpg",
-        "Redirect": "https://www.xde.com.ph/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.xde.com.ph/"
-    },
-    {
         "link": "https://ggdflevoland.nl",
         "Heading": "Inwoners - GGD Flevoland",
         "Abstract": "GGD Flevoland zorgt voor de gezondheid van alle inwoners van Flevoland. Met speciale aandacht voor mensen die extra hulp nodig hebben. Wij willen gezondheidsproblemen voorkomen. En helpen om de gezondheid van al onze inwoners te bevorderen. Ook die van jou!",
@@ -80,34 +70,14 @@
         "AbstractURL": "https://bearweather.live"
     },
     {
-        "link": "https://ultracel.com.mx",
-        "Heading": "Ultracel - Ultracel | La red que te pone en contacto",
-        "Abstract": "Cambiarte a Ultracel es muy f\u00e1cil 1. Elige SIM o eSIM 2. Selecciona tu paquete 3. Verifica la compatibilidad 4. Portabilidad de tu equipo SELECCIONA TU PAQUETE CONSERVANDO TU MISMO N\u00daMERO COMPRAR COMPRAR COMPRAR COMPRAR PLANES ULTRACEL \u00a1ANTIC\u00cdPATE! ELIGE TU PLAN, PAGA UNA VEZ Y DISFRUTA POR 1 A\u00d1O. COMPRAR COMPRAR COMPRAR DESCUBRE NUESTRAS SOLUCIONES",
-        "Official Site": "https://ultracel.com.mx/",
-        "Icon": "https://ultracel.com.mx/wp-content/uploads/2026/02/ultracel_1200x680.jpg",
-        "Redirect": "https://ultracel.com.mx/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ultracel.com.mx/"
-    },
-    {
-        "link": "https://firstconnection.com.br",
-        "Heading": "Suporte em TI - First Connection",
-        "Abstract": "Precisa de uma empresa de TI confi\u00e1vel? A First Connection oferece consultoria especializada e suporte t\u00e9cnico de alta qualidade. Com 22 anos de experi\u00eancia, garantimos solu\u00e7\u00f5es tecnol\u00f3gicas eficientes para sua empresa. Acesse nosso site e descubra mais!",
-        "Official Site": "https://firstconnection.com.br/",
-        "Icon": "https://firstconnection.com.br/wp-content/uploads/2023/05/sobre-nos-first-connection.png",
-        "Redirect": "https://firstconnection.com.br/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://firstconnection.com.br/"
-    },
-    {
         "link": "https://hyaloo.de",
-        "Heading": "Professionelle Produkte f\u00fcr die \u00e4sthetische Medizin\u2714\ufe0f | Hyaloo.de",
-        "Abstract": "Entdecken Sie unser Angebot an Produkten f\u00fcr die \u00e4sthetische Medizin zu g\u00fcnstigen Preisen. In unserem Angebot finden Sie die besten F\u00fcllstoffe, Mesokoktails und mehr",
-        "Official Site": "https://hyaloo.de/",
-        "Icon": "/skins/user/rwd_shoper_22/images/favicon.png",
-        "Redirect": "https://hyaloo.de/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://hyaloo.de",
+        "Icon": "N/A",
+        "Redirect": "https://hyaloo.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hyaloo.de/"
+        "AbstractURL": "https://hyaloo.de"
     },
     {
         "link": "https://computersciencedegreehub.com",
@@ -120,14 +90,14 @@
         "AbstractURL": "https://www.computersciencedegreehub.com/"
     },
     {
-        "link": "https://solucionesdf.com",
-        "Heading": "DF Soluciones Online",
-        "Abstract": null,
-        "Official Site": "https://solucionesdf.com",
-        "Icon": "N/A",
-        "Redirect": "https://solucionesdf.com",
+        "link": "https://stk-retail.ru",
+        "Heading": "\n    \u0414\u043e\u043c\u0435\u043d stk-retail.ru: \u043a\u0443\u043f\u0438\u0442\u044c \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u0434\u043e\u043c\u0435\u043d\u043d\u044b\u0445 \u0438\u043c\u0435\u043d \u0420\u0435\u0433.\u0440\u0443\n",
+        "Abstract": "\u0414\u043e\u043c\u0435\u043d stk-retail.ru \u043f\u0440\u043e\u0434\u0430\u0451\u0442\u0441\u044f. \u0426\u0435\u043d\u0430: \u0414\u043e\u0433\u043e\u0432\u043e\u0440\u043d\u0430\u044f. \u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438: \u0420\u0430\u0437\u043d\u043e\u0435 - \u0420\u0430\u0437\u043d\u043e\u0435 (\u0434\u0440\u0443\u0433\u043e\u0435). \u0412\u0441\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043e \u0434\u043e\u043c\u0435\u043d\u0435 \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u0434\u043e\u043c\u0435\u043d\u043e\u0432 \u0420\u0435\u0433.\u0440\u0443.",
+        "Official Site": "https://www.reg.ru/domain/shop/lot/stk-retail.ru",
+        "Icon": "https://img.reg.ru/news/og-regru.png?fit=cover&width=1200&height=630",
+        "Redirect": "https://www.reg.ru/domain/shop/lot/stk-retail.ru",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://solucionesdf.com"
+        "AbstractURL": "https://www.reg.ru/domain/shop/lot/stk-retail.ru"
     },
     {
         "link": "https://galeon1.com",
@@ -198,6 +168,16 @@
         "Redirect": "https://www.fastfoodpost.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.fastfoodpost.com/"
+    },
+    {
+        "link": "https://reedypress.com",
+        "Heading": "Reedy Press \u2013 Bookseller and Publisher",
+        "Abstract": "Bookseller and Publisher",
+        "Official Site": "https://reedypress.com/",
+        "Icon": "https://reedypress.com/wp-content/uploads/2021/01/favicon-32x32-1.png",
+        "Redirect": "https://reedypress.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://reedypress.com/"
     },
     {
         "link": "https://actionswift.com",
@@ -281,10 +261,10 @@
     },
     {
         "link": "https://boomservicestaffing.com",
-        "Heading": "The Best Way to Work",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://boomservicestaffing.com",
-        "Icon": "https://boomservicestaffing.com/wp-content/uploads/2025/08/cropped-boom-logo-blue-2-e1756078041772-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://boomservicestaffing.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://boomservicestaffing.com"

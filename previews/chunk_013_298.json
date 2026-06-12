@@ -50,26 +50,6 @@
         "AbstractURL": "https://www.allaspool.fi/"
     },
     {
-        "link": "https://carolinalive.com",
-        "Heading": "Myrtle Beach/Florence News, Weather, Sports, Breaking News",
-        "Abstract": "WPDE covers news, sports, weather, and local events in and around the Grand Strand, Pee Dee, and the Border Belt.",
-        "Official Site": "https://wpde.com",
-        "Icon": "https://wpde.com/resources/assets/wpde/images/brand-icons/WPDE-16x9.jpg",
-        "Redirect": "https://wpde.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wpde.com"
-    },
-    {
-        "link": "https://antimaf.live",
-        "Heading": "\u0410\u041d\u0422\u0418\u041c\u0410\u0424\u0418\u042f",
-        "Abstract": "\u0410\u041d\u0422\u0418\u041c\u0410\u0424\u0418\u042f",
-        "Official Site": "https://antimaf.live/",
-        "Icon": "https://antimafia.se/antimafia.jpg",
-        "Redirect": "https://antimaf.live/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://antimaf.live/"
-    },
-    {
         "link": "https://yeowan.kr",
         "Heading": "(\uc8fc)\uc5ec\ud589\uc758\uc644\uc131 - \uc5ec\ud589\uc758 \uc644\uc131\uc740 \uc219\ubc15\uc774\ub2e4",
         "Abstract": "\ud39c\uc158 \uad11\uace0, \ud648\ud398\uc774\uc9c0 \uc81c\uc791, \ud39c\uc158 \ucc3d\uc5c5 \ucee8\uc124\ud305, \uc6f9\ub514\uc790\uc778, \uc0ac\uc9c4 \ucd2c\uc601",
@@ -98,16 +78,6 @@
         "Redirect": "https://harkaitzcano.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://harkaitzcano.com"
-    },
-    {
-        "link": "https://fringz.ma",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://fringz.ma",
-        "Icon": "N/A",
-        "Redirect": "https://fringz.ma",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fringz.ma"
     },
     {
         "link": "https://africasfaces.com",
@@ -224,20 +194,10 @@
         "Heading": "Inbox Zero | Automate and clean your inbox",
         "Abstract": "Your AI executive assistant to reach inbox zero fast. Automate emails, bulk unsubscribe, block cold emails, and analytics. Open-source",
         "Official Site": "https://www.getinboxzero.com",
-        "Icon": "https://www.getinboxzero.com/opengraph-image.jpg?opengraph-image.0r~nregsc_lbu.jpg?dpl=dpl_Fam4MzgWHjBiKBmVB2obuCyXtmsa",
+        "Icon": "https://www.getinboxzero.com/opengraph-image.jpg?opengraph-image.0r~nregsc_lbu.jpg",
         "Redirect": "https://www.getinboxzero.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.getinboxzero.com"
-    },
-    {
-        "link": "https://2b-support.nl",
-        "Heading": "2B Support",
-        "Abstract": "Lima ICT voor al uw advies, beheer, ontwerp & onderhoud van website en pc",
-        "Official Site": "https://2b-support.nl",
-        "Icon": "N/A",
-        "Redirect": "https://2b-support.nl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://2b-support.nl"
     },
     {
         "link": "https://copyrightencyclopedia.com",
@@ -248,16 +208,6 @@
         "Redirect": "https://copyrightencyclopedia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://copyrightencyclopedia.com"
-    },
-    {
-        "link": "https://igranpanificio.com",
-        "Heading": "Panificio",
-        "Abstract": null,
-        "Official Site": "https://igranpanificio.com",
-        "Icon": "https://igranpanificio.com/wp-content/uploads/2025/07/cropped-logo-3-32x32.png",
-        "Redirect": "https://igranpanificio.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://igranpanificio.com"
     },
     {
         "link": "https://wordwideinvest.live",

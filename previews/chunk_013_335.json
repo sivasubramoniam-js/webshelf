@@ -80,6 +80,16 @@
         "AbstractURL": "https://xn----7sbgj9bdrl.xn--p1ai"
     },
     {
+        "link": "https://youtube-rank.com",
+        "Heading": "\uc720\ud29c\ube0c \ub7ad\ud0b9",
+        "Abstract": "\uc720\ud29c\ube0c \ub7ad\ud0b9,\uc778\uc2a4\ud0c0 \ub7ad\ud0b9,\uc544\ud504\ub9ac\uce74TV \ub7ad\ud0b9, \ud398\uc774\uc2a4\ubd81 \ub7ad\ud0b9, \ud2b8\uc704\ud130 \ub7ad\ud0b9, \uc21c\uc704, \uad6c\ub3c5\uc790, \ud06c\ub9ac\uc5d0\uc774\ud130, \uc720\ud29c\ubc84, \uc601\uc0c1, \uc870\ud68c\uc218, \uc778\uae30\ub3d9\uc601\uc0c1",
+        "Official Site": "https://www.sns-rank.com",
+        "Icon": "/img/android-chrome-512x512.png",
+        "Redirect": "https://www.sns-rank.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sns-rank.com"
+    },
+    {
         "link": "https://intercontinental-strings.jp",
         "Heading": "Luxury Hotel in Shinagawa, Tokyo | The Strings by InterContinental Tokyo",
         "Abstract": "Just a 1-minute walk from Shinagawa Station, The Strings by InterContinental Tokyo offers elevated luxury, panoramic city views, and world-class hospitality in the heart of Tokyo",
@@ -120,19 +130,9 @@
         "AbstractURL": "https://franklinbbq.com"
     },
     {
-        "link": "https://personalloans.com",
-        "Heading": "Personal Loans\u00ae",
-        "Abstract": "Personal Loans\u00ae helps you find a personal loan through our free, advertiser supported loan connecting service. We can also show your information to other lenders and or credit or finance companies like debt relief, credit repair or credit monitoring companies.",
-        "Official Site": "https://personalloans.com/",
-        "Icon": "https://personalloans.com/assets/img/social-share-image.png",
-        "Redirect": "https://personalloans.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://personalloans.com/"
-    },
-    {
         "link": "https://swisstopo.ch",
-        "Heading": "swisstopo \u2013 knowing where",
-        "Abstract": "The Federal Office of Topography swisstopo is Switzerland's geoinformation centre. With us, everything - or almost everything - revolves around geodata. We share our knowledge in an open, transparent and reusable way so that it is accessible to the public, companies and authorities.And what are you looking for?",
+        "Heading": "swisstopo \u2013 wissen wohin",
+        "Abstract": "Das Bundesamt f\u00fcr Landestopografie swisstopo ist das Geoinformationszentrum der Schweiz. Bei uns dreht sich alles - oder fast alles - um Geodaten. Wir teilen dieses Wissen auf offene, transparente und wiederverwendbare Weise, damit es f\u00fcr die Bev\u00f6lkerung, Unternehmen oder Beh\u00f6rden zug\u00e4nglich ist.Und was suchen Sie?",
         "Official Site": "https://swisstopo.ch",
         "Icon": "/favicon-16x16.png",
         "Redirect": "https://swisstopo.ch",
@@ -240,6 +240,16 @@
         "AbstractURL": "https://cazino-banda.xyz"
     },
     {
+        "link": "https://tayloredlivingaz.com",
+        "Heading": "Home Page",
+        "Abstract": "East Valley AZ Homes for Sale provided by Exp Realty is your real estate source for homes for sale in Peoria, AZ. Call us at 480-571-5316. Or visit us at 16165 N. 83rd Ave, Peoria, AZ 85382.",
+        "Official Site": "https://www.tayloredlivingaz.com",
+        "Icon": "https://s-static.cinccdn.com/images/header/UP4A165DBFC0D043.png",
+        "Redirect": "https://www.tayloredlivingaz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tayloredlivingaz.com"
+    },
+    {
         "link": "https://le7.info",
         "Heading": "L'information de proximit\u00e9 dans la Vienne. | Le7.info",
         "Abstract": "L'information de proximit\u00e9 | Le7.info",
@@ -278,5 +288,15 @@
         "Redirect": "https://www.oldmonterey.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.oldmonterey.org/"
+    },
+    {
+        "link": "https://pazarin.com.tr",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pazarin.com.tr",
+        "Icon": "N/A",
+        "Redirect": "https://pazarin.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pazarin.com.tr"
     }
 ]

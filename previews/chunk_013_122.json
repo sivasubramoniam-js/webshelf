@@ -24,7 +24,7 @@
         "Heading": "La Xarxa - Portada",
         "Abstract": "Som una plataforma multim\u00e8dia que proporciona continguts i serveis a m\u00e9s de 200 r\u00e0dios, televisions i mitjans en l\u00ednia locals d\u2019arreu de Catalunya. Treballem perqu\u00e8 aquests mitjans..",
         "Official Site": "https:\\www.laxarxa.cat/",
-        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1781154531879",
+        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1781241282301",
         "Redirect": "https:\\www.laxarxa.cat/",
         "AbstractSource": "BS4",
         "AbstractURL": "https:\\www.laxarxa.cat/"
@@ -50,6 +50,26 @@
         "AbstractURL": "https://indiebloggers.org"
     },
     {
+        "link": "https://kiseido.com",
+        "Heading": "Kiseido's Home Page",
+        "Abstract": null,
+        "Official Site": "https://kiseido.com",
+        "Icon": "N/A",
+        "Redirect": "https://kiseido.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kiseido.com"
+    },
+    {
+        "link": "https://camilastore.top",
+        "Heading": "camilastore.top\u00a0-\u00a0This website is for sale!\u00a0-\u00a0camilastore Resources and Information.",
+        "Abstract": "This website is for sale! camilastore.top is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, camilastore.top has it all. We hope you find what you are searching for!",
+        "Official Site": "https://camilastore.top",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://camilastore.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://camilastore.top"
+    },
+    {
         "link": "https://exacqvision.com",
         "Heading": "Exacq Technologies | IP Video Surveillance Solutions for Windows, Mac, Linux, iPhone, mobile\t",
         "Abstract": "Exacq Technologies manufacturers enterprise IP and Hybrid video surveillance software and systems.  Open architecture, supports Windows, Linux, Mac, browsers, \niPhone, Blackberry. exacqVision VMS software merges analog CCTV cameras and IP megapixel cameras.  From one camera to hundreds, easy to create and manage multi location installations.  Supports leading IP cameras and encoders, \nincluding Axis, Arecont Vision, IQinvision, Panasonic, Sony, Vivotek, GE, ACTi, ioimage, StarDot.  Hybrid systems leverage existing analog cameras while providing ability to add any number of IP cameras. Access control \nintegration. Video analytics support. Low cost, easy licensing. Free demo software",
@@ -58,6 +78,16 @@
         "Redirect": "https://exacqvision.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://exacqvision.com"
+    },
+    {
+        "link": "https://acafe.org.br",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://acafe.org.br",
+        "Icon": "N/A",
+        "Redirect": "https://acafe.org.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://acafe.org.br"
     },
     {
         "link": "https://riorouter.com",
@@ -78,16 +108,6 @@
         "Redirect": "https://www.crystalmissions.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.crystalmissions.com/"
-    },
-    {
-        "link": "https://ilass.com.br",
-        "Heading": "Ilass \u2013 Instituto Latino Americano de Sexologia Som\u00e1tica",
-        "Abstract": null,
-        "Official Site": "https://ilass.com.br",
-        "Icon": "https://ilass.com.br/wp-content/uploads/2025/04/cropped-logo_ilass-32x32.png",
-        "Redirect": "https://ilass.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ilass.com.br"
     },
     {
         "link": "https://caktusgroup.com",
@@ -148,16 +168,6 @@
         "Redirect": "https://fanboyexpo.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fanboyexpo.com/"
-    },
-    {
-        "link": "https://drlalitmalik.com",
-        "Heading": "Robotic and MICS Cardiac Surgeon in Jaipur - Dr Lalit Malik",
-        "Abstract": "Dr Lalit Malik is one of the Best Cardiac and Thoracic Surgeon In Jaipur | Best Heart Surgeon in Jaipur He has performed over 7000 Surgeries.",
-        "Official Site": "https://drlalitmalik.com/",
-        "Icon": "https://drlalitmalik.com/wp-content/uploads/2024/05/Untitled-design-10-e1715160163461.jpg",
-        "Redirect": "https://drlalitmalik.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://drlalitmalik.com/"
     },
     {
         "link": "https://caseymuratori.com",
@@ -251,13 +261,13 @@
     },
     {
         "link": "https://freecoursefunding.co.uk",
-        "Heading": "Home -",
-        "Abstract": "Discover opportunities for free course funding in London. Explore options for financial support to help you advance your education.",
-        "Official Site": "https://freecoursefunding.co.uk/",
-        "Icon": "http://freecoursefunding.co.uk/wp-content/uploads/2024/04/manager-free-img-1.png",
-        "Redirect": "https://freecoursefunding.co.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://freecoursefunding.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://freecoursefunding.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://freecoursefunding.co.uk/"
+        "AbstractURL": "https://freecoursefunding.co.uk"
     },
     {
         "link": "https://basenczluchow.pl",

@@ -60,16 +60,6 @@
         "AbstractURL": "https://turkiyeisdunyasi.com"
     },
     {
-        "link": "https://perthchildcare.com.au",
-        "Heading": "Perth Child Care - Western Australia ChildCare",
-        "Abstract": "Perth Child Care WA, Directory for finding Perth ChildCare, we also list Day Care for Babies and for Pre School.",
-        "Official Site": "https://perthchildcare.com.au/",
-        "Icon": "https://dirdata.b-cdn.net/img/sites/og/ogmd_desktop_154_efif0828_2111303717.jpg?crop_gravity=center&crop=1200,627",
-        "Redirect": "https://perthchildcare.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://perthchildcare.com.au/"
-    },
-    {
         "link": "https://akdm.link",
         "Heading": "AKADEMIA - E\u011fitim Kurumu Y\u00f6netim Platformu",
         "Abstract": null,
@@ -111,23 +101,13 @@
     },
     {
         "link": "https://epyx.co.uk",
-        "Heading": "epyx - Technology Solutions for the Automotive Sector",
-        "Abstract": "epyx Ltd provide technology solutions enabling the procurement, servicing, repair, hire and sale of more than five million vehicles a year. Learn about our Ecosystem here.",
-        "Official Site": "https://www.epyx.co.uk/",
-        "Icon": "https://epyx.co.uk/wp-content/uploads/2022/06/cropped-Digital.jpg",
-        "Redirect": "https://www.epyx.co.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://epyx.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://epyx.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.epyx.co.uk/"
-    },
-    {
-        "link": "https://jornalfax.net",
-        "Heading": "home -",
-        "Abstract": "Jornal Fax JORNAL FAX \u00e9 um \u00d3rg\u00e3o de Comunica\u00e7\u00e3o Social de Direito Angolano, registado sob o n\u00ba MCS-874/B/2018. Director Pedro Vicente jornalfax2@gmail.com Actualidade ActualidadeDestaque ASSASSINATOS NO CUANZA NORTE: POL\u00cdCIA DET\u00c9M DEPUTADOS DA OPOSI\u00c7\u00c3O QUE PRETENDIAM MARCHAR CONTRA AS MORTES DE IDOSAS Posted on16 de fevereiro de 202516 de fevereiro de 2025 Agentes da Pol\u00edcia Nacional [\u2026]",
-        "Official Site": "https://jornalfax.net/",
-        "Icon": "https://jornalfax.net/wp-content/uploads/elementor/thumbs/cropped-Jrnal-fax-sem-fundo-e1706964890421-qj9letw2gz8nyb7fjmk9kkj2w1q8li15ys04pe6rxk.png",
-        "Redirect": "https://jornalfax.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jornalfax.net/"
+        "AbstractURL": "https://epyx.co.uk"
     },
     {
         "link": "https://al-awdapalestine.org",
@@ -358,15 +338,5 @@
         "Redirect": "https://dreamsandideas.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dreamsandideas.com"
-    },
-    {
-        "link": "https://quintonpardee.top",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://quintonpardee.top",
-        "Icon": "N/A",
-        "Redirect": "https://quintonpardee.top",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://quintonpardee.top"
     }
 ]

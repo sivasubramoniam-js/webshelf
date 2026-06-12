@@ -140,6 +140,16 @@
         "AbstractURL": "https://www.ooberpad.com/"
     },
     {
+        "link": "https://optikshop.hu",
+        "Heading": "Dioptri\u00e1s szem\u00fcveg, szem\u00fcvegkeret \u00e9s napszem\u00fcveg \u2013 rendelj online",
+        "Abstract": "Rendelj komplett dioptri\u00e1s szem\u00fcveget, szem\u00fcvegkeretet, napszem\u00fcveget \u00e9s kontaktlencs\u00e9t online. Polaroid, Ray-Ban, Carrera, Vogue \u00e9s tov\u00e1bbi m\u00e1rk\u00e1k.",
+        "Official Site": "https://optikshop.hu/hu/",
+        "Icon": "https://optikshop.hu/img/favicon.ico?1768561385",
+        "Redirect": "https://optikshop.hu/hu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://optikshop.hu/hu/"
+    },
+    {
         "link": "https://optorium.in",
         "Heading": "OPTORIUM | Best Optical Stores | Premium Sunglass, Prescription Lenses",
         "Abstract": "Optorium is Hyderabad & India's leading optical store for luxury & premium eyewear. Find exclusive collections of branded sunglasses, prescriptions glasses, lenses & contact lenses for Men & Women at the best prices. Buy online or visit us at a store near you!",
@@ -250,24 +260,34 @@
         "AbstractURL": "https://www.outdoorline.eu/"
     },
     {
+        "link": "https://ozcanopies.com.au",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ozcanopies.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://ozcanopies.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ozcanopies.com.au"
+    },
+    {
         "link": "https://paccosmetics.com",
         "Heading": "\n      PAC Cosmetics | Premium Makeup Products | Makeup Brand\n    ",
         "Abstract": "India\u2019s trusted premium makeup and beauty brand - PAC Cosmetics. Get all your makeup essentials in one place, from makeup products to tools and more.",
         "Official Site": "https://www.paccosmetics.com/",
-        "Icon": "http://www.paccosmetics.com/cdn/shop/files/PAC_Cosmetics_Logo.jpg?v=1752474475&width=2048",
+        "Icon": "http://cdn.shopify.com/s/files/1/0685/0641/9476/files/PAC_Cosmetics_Logo.jpg?v=1752474475&width=2048",
         "Redirect": "https://www.paccosmetics.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.paccosmetics.com/"
     },
     {
         "link": "https://pagan-records.com",
-        "Heading": "Pagan Records - Sklep Internetowy",
-        "Abstract": "",
-        "Official Site": "https://www.pagan-records.com/",
-        "Icon": "/skins/user/rwd_shoper_5/images/favicon.png",
-        "Redirect": "https://www.pagan-records.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pagan-records.com",
+        "Icon": "N/A",
+        "Redirect": "https://pagan-records.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.pagan-records.com/"
+        "AbstractURL": "https://pagan-records.com"
     },
     {
         "link": "https://pandaloo.ch",
@@ -318,16 +338,6 @@
         "Redirect": "https://pg-securitysystems.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pg-securitysystems.nl"
-    },
-    {
-        "link": "https://pharmacyfreak.com",
-        "Heading": "Pharmacy Freak",
-        "Abstract": "Your ultimate resource for pharmacy education and exam prep. Access drug classifications, Mechanisms of Action (MOA), mock tests, Quizzes, MCQs, pharmacy blogs",
-        "Official Site": "https://pharmacyfreak.com/",
-        "Icon": "https://pharmacyfreak.com/wp-content/uploads/2025/08/cropped-Dental-products-Dentifrices-32x32.png",
-        "Redirect": "https://pharmacyfreak.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pharmacyfreak.com/"
     },
     {
         "link": "https://phoenixshaving.com",
