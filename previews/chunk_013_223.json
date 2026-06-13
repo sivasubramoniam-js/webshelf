@@ -1,13 +1,13 @@
 [
     {
-        "link": "https://hotelonderbergen.be",
-        "Heading": "Hotel Onderbergen - Boutique Hotel Gent - Perfect City Trip Hotel - Affordabel With Deluxe Rooms Available",
-        "Abstract": "Hotel Onderbergen is a modern, but charming 24 room boutique hotel, situated in the heart of the historical Belgian city of Gent. We are a leading choice for city trips of all types, thanks to our central location, competitive rates and multiple room types.",
-        "Official Site": "https://hotelonderbergen.be/",
-        "Icon": "https://hotelonderbergen.be/og-image.jpg",
-        "Redirect": "https://hotelonderbergen.be/",
+        "link": "https://hq-bot.com",
+        "Heading": "HQSahamIDX BOT User Manual",
+        "Abstract": null,
+        "Official Site": "https://hq-bot.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://hq-bot.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hotelonderbergen.be/"
+        "AbstractURL": "https://hq-bot.com"
     },
     {
         "link": "https://hunterbootsitalia.it",
@@ -28,16 +28,6 @@
         "Redirect": "https://hvar24.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hvar24.com"
-    },
-    {
-        "link": "https://hyrican.de",
-        "Heading": "Home - Hyrican Informationssysteme AG",
-        "Abstract": "Hyrican ist Ihr Business-Partner im Mittelstand f\u00fcr individuelle IT-Systeme und IT-L\u00f6sungen, ma\u00dfgeschneidert auf Ihre Anforderungen.",
-        "Official Site": "https://hyrican.de/",
-        "Icon": "https://hyrican.de/wp-content/uploads/2024/11/cropped-favicon-hyrican-png-32x32.webp",
-        "Redirect": "https://hyrican.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hyrican.de/"
     },
     {
         "link": "https://idotoshi.net",
@@ -68,6 +58,16 @@
         "Redirect": "https://illytrilly.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://illytrilly.com"
+    },
+    {
+        "link": "https://infobeautry.xyz",
+        "Heading": "infobeautry.xyz",
+        "Abstract": null,
+        "Official Site": "https://infobeautry.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://infobeautry.xyz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://infobeautry.xyz"
     },
     {
         "link": "https://innovatnow.com",
@@ -111,13 +111,13 @@
     },
     {
         "link": "https://jakartaaestheticclinic.co.id",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://jakartaaestheticclinic.co.id",
-        "Icon": "data:;",
-        "Redirect": "https://jakartaaestheticclinic.co.id",
+        "Heading": "Klinik Estetika Non-Bedah Standar Internasional - JAC",
+        "Abstract": "Spesialis Estetika dan Anti-Aging tanpa bedah",
+        "Official Site": "https://jakartaaestheticclinic.co.id/",
+        "Icon": "https://jakartaaestheticclinic.co.id/wp-content/uploads/2016/02/header-slimming-program.jpg",
+        "Redirect": "https://jakartaaestheticclinic.co.id/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jakartaaestheticclinic.co.id"
+        "AbstractURL": "https://jakartaaestheticclinic.co.id/"
     },
     {
         "link": "https://jaminqian.com",
@@ -168,15 +168,5 @@
         "Redirect": "https://jpmaior.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jpmaior.com"
-    },
-    {
-        "link": "https://justemachine.com",
-        "Heading": "Pad Printer & Screen Printing Machine Manufacturer | Justemachine",
-        "Abstract": "Factory-direct pad printers, silk screen & UV printing machines. CE certified, 1-year warranty, ships to 146+ countries. Get a free quote from JusteMachine today.",
-        "Official Site": "https://www.justemachine.com",
-        "Icon": "https://www.justemachine.com/jst/wp-content/uploads/2022/11/Shenzhen-Juste-Machine-Co.-Ltd.-Company-Logo-100x100.png",
-        "Redirect": "https://www.justemachine.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.justemachine.com"
     }
 ]

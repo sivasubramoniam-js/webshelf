@@ -80,16 +80,6 @@
         "AbstractURL": "http://german-drugstore.com"
     },
     {
-        "link": "https://getawayaccommodation.com",
-        "Heading": "Getaway Accommodation",
-        "Abstract": "Accommodation Australia, book special deals online, compare hundreds of Accommodation Australia options such as hotels, resorts and apartments. Cheap Accommodation in Australia.",
-        "Official Site": "https://getawayaccommodation.com/",
-        "Icon": "https://dirdata.b-cdn.net/img/sites/569/desktop_569_jimg9908_2211024328.jpg?crop_gravity=center&crop=1200,627",
-        "Redirect": "https://getawayaccommodation.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://getawayaccommodation.com/"
-    },
-    {
         "link": "https://giantkidsworld.com",
         "Heading": "\n      Giant Kids World\n",
         "Abstract": "Giant Kids World",
@@ -160,6 +150,16 @@
         "AbstractURL": "https://gnkitchenandbath.com/"
     },
     {
+        "link": "https://gonissannorth.ca",
+        "Heading": "New & Used Nissan Dealer in Edmonton | Go Nissan North",
+        "Abstract": "Your trusted Nissan dealership in North Edmonton for new and used vehicles. We offer great deals, expert service, and easy financing for you. Visit us now!",
+        "Official Site": "https://www.gonissannorth.ca/",
+        "Icon": "/images/favicons/nissan_favicon.png",
+        "Redirect": "https://www.gonissannorth.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gonissannorth.ca/"
+    },
+    {
         "link": "https://gossettmotorcars.net",
         "Heading": "Gossett Chrysler Dodge Jeep RAM FIAT | Memphis, TN",
         "Abstract": "We are your local Chrysler, Dodge, Jeep, RAM car dealership. Our experienced sales staff is eager to provide you with a great experience! Don't forget, You Want It, We Gossett!",
@@ -198,6 +198,16 @@
         "Redirect": "https://greekhome.gr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://greekhome.gr/"
+    },
+    {
+        "link": "https://gridpx.com",
+        "Heading": "GPX Diamonds \u2013 Reasonable Diamond and Jewelry retailer - GPX Diamonds",
+        "Abstract": "ROUND EMERALD RADIANT PEAR PRINCESS OVAL CUSHION HEART MARQUISE ASSCHER IGI Certified 100% Authentic Laser Inscribed Registry Match Free Delivery",
+        "Official Site": "https://gridpx.com/",
+        "Icon": "https://gridpx.com/wp-content/uploads/2026/05/slider-banner-poster-image-of-gpx-diamonds2.webp",
+        "Redirect": "https://gridpx.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gridpx.com/"
     },
     {
         "link": "https://grizzlyracing.co",

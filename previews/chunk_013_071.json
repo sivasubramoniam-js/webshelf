@@ -30,11 +30,21 @@
         "AbstractURL": "https://hipfonts.com/"
     },
     {
+        "link": "https://eipcore.net",
+        "Heading": "Embedded Insurance Solutions Provider | EIP",
+        "Abstract": "EIP is the industry-leading Embedded Insurance provider for insurers, brokers, telcos, banks, retailers, telcos and others",
+        "Official Site": "https://eip.tech/",
+        "Icon": "http://eip.tech/wp-content/uploads/2024/05/Screenshot-2024-05-06-160850.png",
+        "Redirect": "https://eip.tech/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eip.tech/"
+    },
+    {
         "link": "https://makergot.com",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://makergot.com",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://makergot.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://makergot.com"
@@ -70,16 +80,6 @@
         "AbstractURL": "https://findcity.de"
     },
     {
-        "link": "https://innove.org",
-        "Heading": "\n\t\tInternational Journal of Information Science and Technology\n\t\t\t\t\t",
-        "Abstract": "International Journal of Information Science and Technology",
-        "Official Site": "https://innove.org",
-        "Icon": "https://innove.org/ijist/public/journals/1/favicon_en_US.png",
-        "Redirect": "https://innove.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://innove.org"
-    },
-    {
         "link": "https://pneumaticspro.ca",
         "Heading": "Pneumatics-pro (Professional solutions to Pneumatics needs) \u2014 Pneumatics-pro Inc.",
         "Abstract": "Canada Distributor of Pneumatics products, Humphrey, AIGNEP, Pisco, Airtac, Alpha, Vesta, Koganei, Fabco, Fabco-air, Knocks, Pneumation supplying pneumatic valves, cylinders, actuators, pneumatic air fittings, hoses, tubing, filter, regulator, lubricator, FRL unit, ISO, NFPA cylinders, Tie-rod, Solenoid valve, Topring",
@@ -90,8 +90,28 @@
         "AbstractURL": "https://pneumaticspro.ca/"
     },
     {
+        "link": "https://greencubes.org",
+        "Heading": "GreenCubes",
+        "Abstract": null,
+        "Official Site": "https://greencubes.org",
+        "Icon": "https://greencubes.org/templates/new/img/logo.png",
+        "Redirect": "https://greencubes.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greencubes.org"
+    },
+    {
+        "link": "https://electricstyle.online",
+        "Heading": "Home - Electric Style",
+        "Abstract": "UP TO 40% OFF CHARGERS AND MORE.",
+        "Official Site": "https://electricstyle.online/",
+        "Icon": "https://i0.wp.com/electricstyle.online/wp-content/uploads/2021/02/cropped-Herbs-by-Tifah-Logo-smallfor-web.jpg",
+        "Redirect": "https://electricstyle.online/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://electricstyle.online/"
+    },
+    {
         "link": "https://prava-2h6k.ru",
-        "Heading": "104.209.10.226 12.06.2026 04:26:00",
+        "Heading": "4.246.135.69 13.06.2026 04:13:42",
         "Abstract": null,
         "Official Site": "https://prava-2h6k.ru",
         "Icon": "data:,",
@@ -110,14 +130,24 @@
         "AbstractURL": "https://bayouvermiliondistrict.org"
     },
     {
-        "link": "https://i-luckyjetgame.com",
-        "Heading": "Welcome to nginx!",
-        "Abstract": null,
-        "Official Site": "https://i-luckyjetgame.com",
-        "Icon": "N/A",
-        "Redirect": "https://i-luckyjetgame.com",
+        "link": "https://wildfirerisk.org",
+        "Heading": "Homepage - Wildfire Risk to Communities",
+        "Abstract": "Looking for GIS data? Need information about grants and funding? Wildfire Risk to Communities is a free, easy-to-use website with interactive maps, charts, and resources to help communities understand, explore, and reduce wildfire risk. It was created by the USDA Forest Service under the direction of Congress and is designed to help community leaders, such [\u2026]",
+        "Official Site": "https://wildfirerisk.org/",
+        "Icon": "https://wildfirerisk.org/wp-content/uploads/2020/04/WRC-square.jpg",
+        "Redirect": "https://wildfirerisk.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://i-luckyjetgame.com"
+        "AbstractURL": "https://wildfirerisk.org/"
+    },
+    {
+        "link": "https://i-luckyjetgame.com",
+        "Heading": "Lucky Jet casino game | LuckyJet 1win online | betting site",
+        "Abstract": "Play Lucky Jet game at 1win casino \ud83c\udfb0 Instant bets, fast withdrawals, bonuses for new player \u2770Lucky Jet online official platform\u2771 \u25b6\ufe0f Start winning now with Lucky Jet bet &, boost your chances!",
+        "Official Site": "https://i-luckyjetgame.com/",
+        "Icon": "https://i-luckyjetgame.com/wp-content/uploads/2025/04/1.jpg",
+        "Redirect": "https://i-luckyjetgame.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://i-luckyjetgame.com/"
     },
     {
         "link": "https://sorrisniva.no",
@@ -141,13 +171,13 @@
     },
     {
         "link": "https://jesusalive.cc",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://jesusalive.cc",
-        "Icon": "data:;",
-        "Redirect": "https://jesusalive.cc",
+        "Heading": "Home - JesusAlive.cc",
+        "Abstract": "JesusAlive.cc is dedicated to witnessing to the lost, discipling those in Christ, and equipping Christians to share their faith with others.",
+        "Official Site": "https://jesusalive.cc/",
+        "Icon": "https://jesusalive.cc/wp-content/uploads/elementor/thumbs/Zoom-Bible-Study-4-qpm5on2x2bhahxkv94azghklihwmy9c0reodbwdg1w.jpg",
+        "Redirect": "https://jesusalive.cc/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jesusalive.cc"
+        "AbstractURL": "https://jesusalive.cc/"
     },
     {
         "link": "https://farsight.org",
@@ -184,7 +214,7 @@
         "Heading": "final \u516c\u5f0f\u30b9\u30c8\u30a2 | \u65e5\u672c\u306e\u9ad8\u54c1\u8cea\u30a4\u30e4\u30db\u30f3\u30fb\u30ef\u30a4\u30e4\u30ec\u30b9\u30a4\u30e4\u30db\u30f3\u30fb\u30d8\u30c3\u30c9\u30db\u30f3\u306a\u3089final",
         "Abstract": "\u97f3\u97ff\u5de5\u5b66\u306e\u7814\u7a76\u304b\u3089\u30a4\u30e4\u30db\u30f3\u30fb\u30d8\u30c3\u30c9\u30db\u30f3\u306e\u958b\u767a\u30fb\u88fd\u9020\u307e\u3067\u3092\u3059\u3079\u3066\u81ea\u793e\u3067\u884c\u3046\u65e5\u672c\u306e\u30aa\u30fc\u30c7\u30a3\u30aa\u30d6\u30e9\u30f3\u30c9final\uff08\u30d5\u30a1\u30a4\u30ca\u30eb\uff09\u306e\u516c\u5f0f\u30b9\u30c8\u30a2\u3002\u97f3\u8cea\u3068\u30c7\u30b6\u30a4\u30f3\u306b\u3053\u3060\u308f\u308a\u629c\u3044\u305f\u30a4\u30e4\u30db\u30f3\u30fb\u30ef\u30a4\u30e4\u30ec\u30b9\u30a4\u30e4\u30db\u30f3\u30fb\u30d8\u30c3\u30c9\u30db\u30f3\u306a\u3069\u306e\u88fd\u54c1\u3092\u76f4\u8ca9\u306a\u3089\u3067\u306f\u306e\u30b5\u30fc\u30d3\u30b9\u3067\u3054\u8cfc\u5165\u3044\u305f\u3060\u3051\u307e\u3059\u3002",
         "Official Site": "https://final-inc.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0516/3106/3190/files/final_logo_black_w_2_1.png?v=1734680377",
+        "Icon": "http://final-inc.com/cdn/shop/files/final_logo_black_w_2_1.png?v=1734680377",
         "Redirect": "https://final-inc.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://final-inc.com/"
@@ -238,16 +268,6 @@
         "Redirect": "https://pathofscience.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pathofscience.org"
-    },
-    {
-        "link": "https://bertone.it",
-        "Heading": "The Timeless Icon is reborn | Bertone",
-        "Abstract": "Since 1912, the ingenuity and attention to detail of Bertone's artisanal engineers have made it a cornerstone of automotive history. Now under new ownership, it embodies an excitingly modern vision while still maintaining the values upon which its rich and respected history has been built.",
-        "Official Site": "https://bertone.it/",
-        "Icon": "https://bertone.it/wp-content/uploads/2025/04/Bertone-meta-img.png",
-        "Redirect": "https://bertone.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bertone.it/"
     },
     {
         "link": "https://moiremarketing.com",

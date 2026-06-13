@@ -10,16 +10,6 @@
         "AbstractURL": "https://kunstgrasconcurrent.nl"
     },
     {
-        "link": "https://mckoysnews.com",
-        "Heading": "mckoysnews | Home | mckoysnews.com",
-        "Abstract": "Stay informed with the latest news, events, and updates from mckoysnews Explore articles on a wide range of topics including current affairs",
-        "Official Site": "https://mckoysnews.com/",
-        "Icon": "https://mckoysnews.com/wp-content/uploads/2024/04/My-Husband-is-a-Control-Freak-300x169.png",
-        "Redirect": "https://mckoysnews.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mckoysnews.com/"
-    },
-    {
         "link": "https://labaronia.es",
         "Heading": "Portada | Mancomunitat de La Baronia",
         "Abstract": null,
@@ -143,11 +133,11 @@
         "link": "https://kimballelectronics.com",
         "Heading": "\n\tHome\n",
         "Abstract": "Kimball Electronics provides electronics manufacturing and contract manufacturing for the Automotive, Industrial, and Medical markets.",
-        "Official Site": "https://www.kimballelectronics.com/home",
+        "Official Site": "https://kimballelectronics.com/home",
         "Icon": "/AdminApp/assets/icons/KEIFavIcon-50x50.png",
-        "Redirect": "https://www.kimballelectronics.com/home",
+        "Redirect": "https://kimballelectronics.com/home",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kimballelectronics.com/home"
+        "AbstractURL": "https://kimballelectronics.com/home"
     },
     {
         "link": "https://actionaidindia.org",
@@ -181,13 +171,13 @@
     },
     {
         "link": "https://canadianrockies.net",
-        "Heading": null,
+        "Heading": "Canadian Rockies Vacation Guide | Banff National Park | Canmore Banff Live Web Cams",
         "Abstract": null,
-        "Official Site": "https://canadianrockies.net",
-        "Icon": "data:;",
-        "Redirect": "https://canadianrockies.net",
+        "Official Site": "https://www.canadianrockies.net/",
+        "Icon": "https://www.canadianrockies.net/wp-content/uploads/2016/04/jasper-banff-lake-louise-calgary-shuttle.jpg",
+        "Redirect": "https://www.canadianrockies.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://canadianrockies.net"
+        "AbstractURL": "https://www.canadianrockies.net/"
     },
     {
         "link": "https://fiona.com",
@@ -228,16 +218,6 @@
         "Redirect": "https://fabkom.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fabkom.com"
-    },
-    {
-        "link": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
-        "Icon": "N/A",
-        "Redirect": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://322ffbbc7c1b312c2f9d942f20422f8d.com"
     },
     {
         "link": "https://oncoins.net",
@@ -321,13 +301,13 @@
     },
     {
         "link": "https://tripleareview.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://tripleareview.com",
-        "Icon": "data:;",
-        "Redirect": "https://tripleareview.com",
+        "Heading": "Top Marketing Stack Reviews | tripleareview.com - Triple A Review",
+        "Abstract": "Expert marketing stack reviews focusing on AI writing, SEO, email marketing, video editing & eCommerce. We guide small businesses on the best platforms & strategies to drive success.",
+        "Official Site": "https://tripleareview.com/",
+        "Icon": "https://tripleareview.com/wp-content/uploads/2025/05/cropped-Original-Logo-full-blue-transp-32x32.png",
+        "Redirect": "https://tripleareview.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tripleareview.com"
+        "AbstractURL": "https://tripleareview.com/"
     },
     {
         "link": "https://passerelle.or.jp",

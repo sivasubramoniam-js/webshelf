@@ -174,7 +174,7 @@
         "Heading": "Microbiome Test & Gut Health Test | InnerBuddies Personalised Insights ",
         "Abstract": "Discover your unique microbiome with InnerBuddies&#39; Microbiome Test. Improve your gut health with personalised advice tailored to your needs. Take the first step toward better well-being today!",
         "Official Site": "https://www.innerbuddies.com/",
-        "Icon": "https://www.innerbuddies.com/cdn/shop/files/thumbnail_d2088185-fc99-4656-8e0f-b8b03f37c8a9.png?v=1710492437&width=1200",
+        "Icon": "https://cdn.shopify.com/s/files/1/0719/9005/1084/files/thumbnail_d2088185-fc99-4656-8e0f-b8b03f37c8a9.png?v=1710492437&width=1200",
         "Redirect": "https://www.innerbuddies.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.innerbuddies.com/"
@@ -250,6 +250,16 @@
         "AbstractURL": "https://www.iropes.com/"
     },
     {
+        "link": "https://isaacelitetime.com",
+        "Heading": "Isaac Elite Time \u2013 Luxury Watches In Nyc",
+        "Abstract": null,
+        "Official Site": "https://isaacelitetime.com",
+        "Icon": "https://isaacelitetime.com/wp-content/uploads/2022/12/7a8a7df0-0ba0-4c34-a573-917ac706bdca-100x100.jpg",
+        "Redirect": "https://isaacelitetime.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://isaacelitetime.com"
+    },
+    {
         "link": "https://ixm.co.uk",
         "Heading": "ixm.co.uk",
         "Abstract": null,
@@ -268,16 +278,6 @@
         "Redirect": "https://j-node.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://j-node.com"
-    },
-    {
-        "link": "https://jasniej.com",
-        "Heading": "Dzie\u0144 dobry!",
-        "Abstract": "Ja\u015bniej :: o\u015bwietlenie :: meble :: dodatki :: Gda\u0144sk :: Tr\u00f3jmiasto",
-        "Official Site": "https://jasniej.com/",
-        "Icon": "https://jasniej.comhttps://jasniej.com/img/nowy-jasniej-logo-1736434830.jpg",
-        "Redirect": "https://jasniej.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jasniej.com/"
     },
     {
         "link": "https://jawlessro.com",
@@ -318,5 +318,15 @@
         "Redirect": "https://jlc-smt.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jlc-smt.com"
+    },
+    {
+        "link": "https://jobs-bayreuth.de",
+        "Heading": "Stellenangebote Bayreuth - Ihre aktuelle Jobb\u00f6rse f\u00fcr Bayreuth und Umgebung",
+        "Abstract": "T\u00e4glich aktuelle und neue Stellenangebote f\u00fcr die Region Bayreuth. Finden Sie aus 6.012 passenden Jobs in Bayreuth und Umgebung, Ihre neue Stelle. Ihre regionale Jobb\u00f6rse jobs-bayreuth.de | 2026",
+        "Official Site": "https://jobs-bayreuth.de",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://jobs-bayreuth.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jobs-bayreuth.de"
     }
 ]

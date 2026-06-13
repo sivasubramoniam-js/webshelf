@@ -12,9 +12,9 @@
     {
         "link": "https://madarray.net",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://madarray.net",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://madarray.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://madarray.net"
@@ -61,13 +61,13 @@
     },
     {
         "link": "https://arrowheadclinic.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://arrowheadclinic.com",
-        "Icon": "data:;",
-        "Redirect": "https://arrowheadclinic.com",
+        "Heading": "Arrowhead Clinic - Georgia's Top Ranked Chiropractor & Auto Accident Clinic",
+        "Abstract": "Arrowhead Clinic Is Your Top Choice For Chiropractic Personal Injury Clinics in Georgia and South Carolina with over 48+ years of experience. We Have Car Crash Doctors and Chiropractors on-site. Call now!",
+        "Official Site": "https://www.arrowheadclinic.com",
+        "Icon": "https://www.arrowheadclinic.com/wp-content/uploads/2025/03/DSC0474-819x1024.jpg",
+        "Redirect": "https://www.arrowheadclinic.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://arrowheadclinic.com"
+        "AbstractURL": "https://www.arrowheadclinic.com"
     },
     {
         "link": "https://gsv-wadersloh.de",
@@ -108,6 +108,16 @@
         "Redirect": "https://eldoy-games.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eldoy-games.xyz"
+    },
+    {
+        "link": "https://lcl-sailings.online",
+        "Heading": "myDHLi",
+        "Abstract": null,
+        "Official Site": "https://lcl-sailings.online",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://lcl-sailings.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lcl-sailings.online"
     },
     {
         "link": "https://lyndentribune.com",
@@ -161,8 +171,8 @@
     },
     {
         "link": "https://checkroi.ru",
-        "Heading": "\u041f\u043e\u0434\u0431\u043e\u0440\u043a\u0430 \u043b\u0443\u0447\u0448\u0438\u0445 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441\u043e\u0432 2026 \u2014 \u0440\u0435\u0439\u0442\u0438\u043d\u0433, \u043e\u0442\u0437\u044b\u0432\u044b \u0438 \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u0446\u0435\u043d 11\u00a0200+ \u043a\u0443\u0440\u0441\u043e\u0432 \u2022 Checkroi",
-        "Abstract": "\u0421\u0440\u0430\u0432\u043d\u0438\u0442\u0435 11\u00a0200+ \u043a\u0443\u0440\u0441\u043e\u0432 \u043e\u0442 109 \u0448\u043a\u043e\u043b. \u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u043f\u043e 20 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u0430\u043c, \u043e\u0442\u0437\u044b\u0432\u044b 9\u00a0600+ \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043e\u0432, \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u043a\u0438\u0434\u043a\u0438 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043a\u0430\u0440\u044c\u0435\u0440\u043d\u044b\u0439 \u0442\u0435\u0441\u0442",
+        "Heading": "\u041f\u043e\u0434\u0431\u043e\u0440\u043a\u0430 \u043b\u0443\u0447\u0448\u0438\u0445 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441\u043e\u0432 2026 \u2014 \u0440\u0435\u0439\u0442\u0438\u043d\u0433, \u043e\u0442\u0437\u044b\u0432\u044b \u0438 \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u0446\u0435\u043d 11\u00a0300+ \u043a\u0443\u0440\u0441\u043e\u0432 \u2022 Checkroi",
+        "Abstract": "\u0421\u0440\u0430\u0432\u043d\u0438\u0442\u0435 11\u00a0300+ \u043a\u0443\u0440\u0441\u043e\u0432 \u043e\u0442 109 \u0448\u043a\u043e\u043b. \u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u043f\u043e 20 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u0430\u043c, \u043e\u0442\u0437\u044b\u0432\u044b 9\u00a0700+ \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043e\u0432, \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u043a\u0438\u0434\u043a\u0438 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043a\u0430\u0440\u044c\u0435\u0440\u043d\u044b\u0439 \u0442\u0435\u0441\u0442",
         "Official Site": "https://checkroi.ru/",
         "Icon": "https://selcdn.checkroi.ru/wp-content/uploads/2026/04/checkroi-glavnaya-stranitsa.png",
         "Redirect": "https://checkroi.ru/",
@@ -178,16 +188,6 @@
         "Redirect": "https://www.venatorcorp.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.venatorcorp.com/"
-    },
-    {
-        "link": "https://crommedia.com",
-        "Heading": "Webbyr\u00e5 Uppsala & Stockholm | Reklambyr\u00e5 i Uppsala  | Digital Monkey AB | Foto & Video",
-        "Abstract": "V\u00e4lkommen till Digital Monkey AB, f\u00f6retaget som f\u00f6r din onlinevision till liv! Med omfattande tj\u00e4nster inom web design specialiserade i att skapa fullst\u00e4ndig di",
-        "Official Site": "https://digitalmonkey.se/",
-        "Icon": "https://digitalmonkey.se/images/content/img/digital-monkey.jpg",
-        "Redirect": "https://digitalmonkey.se/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://digitalmonkey.se/"
     },
     {
         "link": "https://antibodypedia.com",

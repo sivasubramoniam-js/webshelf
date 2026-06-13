@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://maxgrup.ro",
+        "Heading": "Max Grup \u2013 Max Grup Company",
+        "Abstract": null,
+        "Official Site": "https://maxgrup.ro",
+        "Icon": "N/A",
+        "Redirect": "https://maxgrup.ro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://maxgrup.ro"
+    },
+    {
         "link": "https://ccbbu.com",
         "Heading": null,
         "Abstract": null,
@@ -20,24 +30,14 @@
         "AbstractURL": "https://comfax.com/"
     },
     {
-        "link": "https://websdirect.com",
-        "Heading": "Websdirect.com \u2013 Internet Marketing | We solve your marketing problems so that you can make more money!",
-        "Abstract": null,
-        "Official Site": "https://websdirect.com",
-        "Icon": "https://www.websdirect.com/wp-content/uploads/2014/10/favicon1.ico",
-        "Redirect": "https://websdirect.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://websdirect.com"
-    },
-    {
         "link": "https://bloggerjet.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://bloggerjet.com",
-        "Icon": "data:;",
-        "Redirect": "https://bloggerjet.com",
+        "Heading": "BloggerJet | Your Hub for Online Marketing Tools",
+        "Abstract": "Your Hub for Online Marketing Tools",
+        "Official Site": "https://bloggerjet.com/",
+        "Icon": "https://bloggerjet.com/img/cropped-bloggerjet-new-favicon-32x32.png",
+        "Redirect": "https://bloggerjet.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bloggerjet.com"
+        "AbstractURL": "https://bloggerjet.com/"
     },
     {
         "link": "https://awtv.ru",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://vivanti.ru"
     },
     {
+        "link": "https://camara-e.net",
+        "Heading": "Home - Camara-e.net",
+        "Abstract": null,
+        "Official Site": "https://camara-e.net/",
+        "Icon": "https://camara-e.net/wp-content/uploads/2025/05/fav-camara.png#15",
+        "Redirect": "https://camara-e.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://camara-e.net/"
+    },
+    {
         "link": "https://puretechdsm.com",
         "Heading": null,
         "Abstract": null,
@@ -198,6 +208,16 @@
         "Redirect": "https://puretechdsm.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://puretechdsm.com"
+    },
+    {
+        "link": "https://killarya.icu",
+        "Heading": "Low Cost, High Performance S3 Compatible Object Storage",
+        "Abstract": "Backblaze B2 provides unlimited data storage in the cloud at 1/5th the cost of Amazon S3, Microsoft Azure, and Google Cloud.",
+        "Official Site": "https://killarya.icu",
+        "Icon": "https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64b1b1605e73b516e5712f82_Backblaze_Social-Card.webp",
+        "Redirect": "https://killarya.icu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://killarya.icu"
     },
     {
         "link": "https://d-central.tech",
@@ -211,13 +231,23 @@
     },
     {
         "link": "https://revclinesp.es",
-        "Heading": "Revista Cl\u00ednica Espa\u00f1ola",
+        "Heading": "Mantenimiento",
         "Abstract": null,
-        "Official Site": "http://revclinesp.es/",
-        "Icon": "https://static.elsevier.es/multimedia/22548874/0000022600000006/v1_202606020425/en/main.assets/cover.jpeg?idApp=WRCEE",
-        "Redirect": "http://revclinesp.es/",
+        "Official Site": "https://revclinesp.es",
+        "Icon": "N/A",
+        "Redirect": "https://revclinesp.es",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://revclinesp.es/"
+        "AbstractURL": "https://revclinesp.es"
+    },
+    {
+        "link": "https://michuhol.go.kr",
+        "Heading": "\uc778\ucc9c\uad11\uc5ed\uc2dc \ubbf8\ucd94\ud640\uad6c ",
+        "Abstract": "\uc778\ucc9c\uad11\uc5ed\uc2dc \ubbf8\ucd94\ud640\uad6c \ub300\ud45c \ub204\ub9ac\uc9d1\uc785\ub2c8\ub2e4.",
+        "Official Site": "https://www.michuhol.go.kr/main/main.do?",
+        "Icon": "https://www.michuhol.go.kr/main/images/opengraph.png",
+        "Redirect": "https://www.michuhol.go.kr/main/main.do?",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.michuhol.go.kr/main/main.do?"
     },
     {
         "link": "https://vilvoorde.be",
@@ -230,6 +260,16 @@
         "AbstractURL": "https://www.vilvoorde.be"
     },
     {
+        "link": "https://cashmatters.org",
+        "Heading": "Cash Matters - A Pro-Cash Movement",
+        "Abstract": null,
+        "Official Site": "https://cashmatters.org",
+        "Icon": "/static/favicon.jpg",
+        "Redirect": "https://cashmatters.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cashmatters.org"
+    },
+    {
         "link": "https://vmasideas.mx",
         "Heading": null,
         "Abstract": null,
@@ -238,5 +278,15 @@
         "Redirect": "https://vmasideas.mx",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vmasideas.mx"
+    },
+    {
+        "link": "https://ifistanbul.com",
+        "Heading": "\u25b6 Leon Bet Giri\u015f | %10 G\u00fcnl\u00fck Cashback \u2705 En G\u00fcvenilir Bahis ve Casino Platformu T\u00fcrkiye # 2026",
+        "Abstract": "\u27a1\ufe0f Leon Bet T\u00fcrkiye\u2019ye g\u00fcvenli giri\u015f yap\u0131n ve spor bahisleri, \u2714\ufe0f canl\u0131 bahisler, slot oyunlar\u0131 ve canl\u0131 casino \u26a1 se\u00e7enekleriyle kazanmaya ba\u015flay\u0131n.",
+        "Official Site": "https://ifistanbul.com/tr/6/",
+        "Icon": "https://ifistanbul.com/wp-content/uploads/2025/01/leon-casino-turkey.png",
+        "Redirect": "https://ifistanbul.com/tr/6/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ifistanbul.com/tr/6/"
     }
 ]

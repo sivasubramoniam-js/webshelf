@@ -4,7 +4,7 @@
         "Heading": "Media Rodzina | Ksi\u0119garnia internetowa i wydawnictwo",
         "Abstract": "Ksi\u0119garnia internetowa - sprawd\u017a bestselerowe ksi\u0105\u017cki dla dzieci i m\u0142odzie\u017cy, poradniki dla rodzic\u00f3w, ksi\u0105\u017cki popularnonaukowe i wiele innych.",
         "Official Site": "https://www.mediarodzina.pl/",
-        "Icon": "https://cdn-cihla.nitrocdn.com/RBIhfqxjlWjltQeXxEHeWkopHDVdEXlW/assets/images/optimized/rev-10f3aff/www.mediarodzina.pl/mrcore/uploads/2018/08/cropped-logo_mr_m06-32x32.jpg",
+        "Icon": "https://www.mediarodzina.pl/mrcore/uploads/2018/08/cropped-logo_mr_m06-32x32.jpg",
         "Redirect": "https://www.mediarodzina.pl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mediarodzina.pl/"
@@ -28,6 +28,16 @@
         "Redirect": "https://partydeko.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://partydeko.de"
+    },
+    {
+        "link": "https://hellointern.in",
+        "Heading": "Find Internships & Jobs in India | HelloIntern",
+        "Abstract": "Browse internships and jobs from verified companies across India. Apply with one click and connect with leading employers.",
+        "Official Site": "https://hellointern.in",
+        "Icon": "https://hellointern.in/img/logo/logo-light-full.png",
+        "Redirect": "https://hellointern.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hellointern.in"
     },
     {
         "link": "https://lutuz.co",
@@ -208,6 +218,16 @@
         "Redirect": "https://gobox.pt",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gobox.pt"
+    },
+    {
+        "link": "https://jm-date-rencontre.fr",
+        "Heading": "JM Date : Le site de rencontres libres n\u00b01 en France",
+        "Abstract": "D\u00e9couvrez JM Date, le site 100% fran\u00e7ais avec profils filtr\u00e9s, fonctionnalit\u00e9s priv\u00e9es, et inscription gratuite rapide.",
+        "Official Site": "https://jm-date-rencontre.fr/",
+        "Icon": "https://jm-date-rencontre.fr/wp-content/uploads/2025/06/cropped-logo-JM-Date-1-32x32.webp",
+        "Redirect": "https://jm-date-rencontre.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jm-date-rencontre.fr/"
     },
     {
         "link": "https://enriquebunbury.com",

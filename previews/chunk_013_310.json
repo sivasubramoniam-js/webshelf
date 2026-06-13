@@ -20,6 +20,16 @@
         "AbstractURL": "{{ canonical_url() }}"
     },
     {
+        "link": "https://kushalmetal.com",
+        "Heading": "Tool Steel Suppliers, Importer and Exporter in India - Kushal Metal & Steel Industries",
+        "Abstract": "Kushal Metal & Steel Industries is a tool steel supplier, trading & stock holding company dealing in all kinds of high speed steel, cold work steel, hot work steel, plastic mould steel, beryllium copper, cutting tools & more.",
+        "Official Site": "https://kushalmetal.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://kushalmetal.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kushalmetal.com"
+    },
+    {
         "link": "https://eaaze.cloud",
         "Heading": "OperationsUI",
         "Abstract": null,
@@ -61,13 +71,13 @@
     },
     {
         "link": "https://oficretefc.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://oficretefc.com",
-        "Icon": "data:;",
-        "Redirect": "https://oficretefc.com",
+        "Heading": "OFI CRETE FC | OFFICIAL WEBSITE",
+        "Abstract": "\u03a4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf site \u03c4\u03b7\u03c2 \u03a0\u0391\u0395 \u039f\u03a6\u0397 1925. \u0391\u03b3\u03ce\u03bd\u03b5\u03c2, \u03c0\u03b1\u03af\u03ba\u03c4\u03b5\u03c2, \u03b1\u03c5\u03b8\u03b5\u03bd\u03c4\u03b9\u03ba\u03ac \u03c0\u03c1\u03bf\u03ca\u03cc\u03bd\u03c4\u03b1, \u03b5\u03b9\u03c3\u03b9\u03c4\u03ae\u03c1\u03b9\u03b1, \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ba\u03b1\u03b9 \u03cc\u03bb\u03b1 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03b5\u03be\u03b5\u03bb\u03af\u03be\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03bf\u03bc\u03ac\u03b4\u03b1\u03c2 \u03c4\u03b7\u03c2 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2.",
+        "Official Site": "https://www.oficretefc.com/",
+        "Icon": "https://www.oficretefc.com/wp-content/uploads/share1.png",
+        "Redirect": "https://www.oficretefc.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://oficretefc.com"
+        "AbstractURL": "https://www.oficretefc.com/"
     },
     {
         "link": "https://thephilippinestoday.com",
@@ -110,16 +120,6 @@
         "AbstractURL": "https://vancouverusa.com"
     },
     {
-        "link": "https://galerie-photo.com",
-        "Heading": "accueil galerie photo",
-        "Abstract": " Autour d'une galerie photographique en ligne, le site Fran\u00e7ais de la Photographie Haute R\u00e9solution vous pr\u00e9sente l'essentiel des adresses et des techniques permettant de r\u00e9aliser la photographie de tr\u00e8s haute qualit\u00e9.",
-        "Official Site": "https://galerie-photo.com",
-        "Icon": "favicon.ico",
-        "Redirect": "https://galerie-photo.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://galerie-photo.com"
-    },
-    {
         "link": "https://dvdjournal.com",
         "Heading": "The DVD Journal | DVD News, Reviews, Rumors, and Commentary",
         "Abstract": "Visit the home of The DVD Journal, an online DVD magazine. We offer DVD news, reviews, commentary, and stuff like that. Stop by. Or don't, that's okay too.",
@@ -150,14 +150,34 @@
         "AbstractURL": "https://scionir.com/"
     },
     {
-        "link": "https://ms-uk.org",
-        "Heading": "Home | MS-UK | Supporting your multiple sclerosis journey",
-        "Abstract": "MS-UK is here for anyone affected by multiple sclerosis (MS), improving the understanding of MS and providing support where it is needed most.",
-        "Official Site": "https://ms-uk.org/",
-        "Icon": "https://msuk-1f835.kxcdn.com/wp-content/uploads/2021/06/cropped-favicon-ms-uk.jpg",
-        "Redirect": "https://ms-uk.org/",
+        "link": "https://villatraful.com.ar",
+        "Heading": "villatraful.com.ar - Todo lo que necesit\u00e1s para tu viaje.",
+        "Abstract": "Alojamiento, gastronom\u00eda, actividades y atracciones de Villa Traful. Toda la info que necesit\u00e1s para tu viaje. Reserv\u00e1 directo...",
+        "Official Site": "https://villatraful.com.ar/",
+        "Icon": "https://villatraful.com.ar/wp-content/uploads/2021/11/JFA_villatraful-25.jpg",
+        "Redirect": "https://villatraful.com.ar/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ms-uk.org/"
+        "AbstractURL": "https://villatraful.com.ar/"
+    },
+    {
+        "link": "https://pcwhosting.co.uk",
+        "Heading": "Sign in to Hosting Control Panel\n    ",
+        "Abstract": null,
+        "Official Site": "https://pcwhosting.co.uk",
+        "Icon": "/brandFavicon?size=ico",
+        "Redirect": "https://pcwhosting.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pcwhosting.co.uk"
+    },
+    {
+        "link": "https://seascout.org",
+        "Heading": "Sea Scouts, BSA",
+        "Abstract": "Adventure In, On, Around, and Under the Water",
+        "Official Site": "https://seascout.org/",
+        "Icon": "https://seascout.org/wp-content/uploads/2024/01/Sea-Scouts.svg",
+        "Redirect": "https://seascout.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seascout.org/"
     },
     {
         "link": "https://lozovamachinery.com",
@@ -210,6 +230,16 @@
         "AbstractURL": "https://hagh-iserv.de"
     },
     {
+        "link": "https://skinchanger.net",
+        "Heading": "\u041d\u0430\u0448 \u0441\u0430\u0439\u0442 \u0441\u043a\u043e\u0440\u043e \u043f\u043e\u044f\u0432\u0438\u0442\u0441\u044f",
+        "Abstract": null,
+        "Official Site": "https://skinchanger.net",
+        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHIAAAByCAMAAAC4A3VPAAAANlBMVEUAgZoIfZp5RpWnwzuyxzXPKlHRIFPU5LHi6rPo7PLv9/n14d738/j54+n6+/L9/vr+//////99SPYbAAAAbUlEQVRo3u3Nxw2AMBAAsNB7239Z/scvUhAS9gJO1+uSUqlUKpVKpTLHWj8olUqlUvnz8pyjqXQ5p6hSKpVKpVL5dnmM0VC63NuoUSqVSmVeuUVL8bKPOqVSqVQqlUql8vtlUUqlUqlUKpV/Km+rIpqzkYF/fQAAAABJRU5ErkJggg==",
+        "Redirect": "https://skinchanger.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://skinchanger.net"
+    },
+    {
         "link": "https://theotherpalace.co.uk",
         "Heading": "Homepage - The Other Palace Theatre",
         "Abstract": "Hot Mess: A New Musical13 June \u2013 6 September | Main HouseClick HereEcholocationFri 26 June | Main HouseClick HereSPACE DOGS28 July \u2013 9 August | StudioClick HereDEEP-HEAT RIVALRY11 \u2013 27 September | StudioClick HereJanet Street-Porter is Still Off The Leash at 80! Mon 21 September | Main HouseClick Here Hot Mess: A New Musical13 June ... Read more",
@@ -250,6 +280,16 @@
         "AbstractURL": "https://www.oshaoutreachcourses.com"
     },
     {
+        "link": "https://electric-cloud.com",
+        "Heading": "The trusted software delivery solution for the agentic era | CloudBees",
+        "Abstract": "CloudBees Unify is the enterprise control and context plane for your entire AI-powered software delivery lifecycle: open, multi-agentic, and continuously secure.",
+        "Official Site": "https://electric-cloud.com",
+        "Icon": "https://cdn.prod.website-files.com/695e1939655d6c0175b126da/699e0e462f773eee6d427fc8_270667b753a4c25ae513f51bbf519f79_OG-CloudBees-old.png",
+        "Redirect": "https://electric-cloud.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://electric-cloud.com"
+    },
+    {
         "link": "https://wekconsulting.com",
         "Heading": "WEK Consulting \u2013 Where Ideas Turn Into Reality",
         "Abstract": null,
@@ -258,16 +298,6 @@
         "Redirect": "https://wekconsulting.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wekconsulting.com"
-    },
-    {
-        "link": "https://legal25.ca",
-        "Heading": "Site is undergoing maintenance",
-        "Abstract": "Site will be available soon. Thank you for your patience!",
-        "Official Site": "https://legal25.ca",
-        "Icon": "https://legal25.ca/wp-content/uploads/2024/08/Asset-1dots-upsdf-1.svg",
-        "Redirect": "https://legal25.ca",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://legal25.ca"
     },
     {
         "link": "https://schwarzesbayern.info",

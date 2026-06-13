@@ -13,11 +13,11 @@
         "link": "https://belmar.com",
         "Heading": "Belmar Municipal - Home",
         "Abstract": null,
-        "Official Site": "https://govsites.spatialdatalogic.com/",
-        "Icon": "https://govsites.spatialdatalogic.com/",
-        "Redirect": "https://govsites.spatialdatalogic.com/",
+        "Official Site": "https://belmar.com/",
+        "Icon": "https://belmar.com/",
+        "Redirect": "https://belmar.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://govsites.spatialdatalogic.com/"
+        "AbstractURL": "https://belmar.com/"
     },
     {
         "link": "https://vkusalina.shop",
@@ -130,16 +130,6 @@
         "AbstractURL": "https://nobleliftrussia.ru/"
     },
     {
-        "link": "https://allianceforthebay.org",
-        "Heading": "Alliance for the Chesapeake Bay | 50 Years of Conservation",
-        "Abstract": "Join the communities, companies, and conservationists working to improve our lands and waters in the Chesapeake Bay watershed.",
-        "Official Site": "https://www.allianceforthebay.org/",
-        "Icon": "https://www.allianceforthebay.org/wp-content/uploads/2021/01/acb-og-share.jpg",
-        "Redirect": "https://www.allianceforthebay.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.allianceforthebay.org/"
-    },
-    {
         "link": "https://gwin9au.com",
         "Heading": "GWIN9 | Trusted Real Money Online Casino Australia 2026",
         "Abstract": "GWIN9 is the best payid real money online casino in Australia. Gwin9 provide latest hot games and exclusive bonuses for international players. Unlock 100% welcome bonus now!",
@@ -250,16 +240,6 @@
         "AbstractURL": "/"
     },
     {
-        "link": "https://pragmatica.us",
-        "Heading": "Pragmatica | Exceptional solutions for the criminal justice community",
-        "Abstract": "Exceptional solutions for the criminal justice community ",
-        "Official Site": "https://pragmatica.us",
-        "Icon": "N/A",
-        "Redirect": "https://pragmatica.us",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pragmatica.us"
-    },
-    {
         "link": "https://onewelbeck.com",
         "Heading": "Welbeck | Beyond Better | Leaders in UK Private Healthcare",
         "Abstract": "Welbeck is a leading private healthcare provider in the UK, delivering advanced diagnostics, the latest treatments, and minimally invasive surgery.",
@@ -278,5 +258,15 @@
         "Redirect": "https://www.theoxfordhotel.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.theoxfordhotel.com/"
+    },
+    {
+        "link": "https://albatest.com",
+        "Heading": "Centro de Psicolog\u00eda en Albacete - Albatest",
+        "Abstract": "Centro de psicolog\u00eda en Albacete. Tratamos los trastornos de ansiedad y depresi\u00f3n, fobias, terapia de pareja, trastornos alimentarios,...",
+        "Official Site": "https://albatest.com/",
+        "Icon": "https://albatest.com/wp-content/uploads/2025/06/LogoAlbatestRed.webp",
+        "Redirect": "https://albatest.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://albatest.com/"
     }
 ]

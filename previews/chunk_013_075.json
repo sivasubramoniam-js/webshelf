@@ -150,6 +150,16 @@
         "AbstractURL": "https://cretanoil.de"
     },
     {
+        "link": "https://samesame.com.au",
+        "Heading": "samesame.com.au",
+        "Abstract": null,
+        "Official Site": "https://samesame.com.au",
+        "Icon": "N/A",
+        "Redirect": "https://samesame.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://samesame.com.au"
+    },
+    {
         "link": "https://kirchberg-schule.de",
         "Heading": "\n                    IServ - kirchberg-schule.de\n            ",
         "Abstract": null,
@@ -160,16 +170,6 @@
         "AbstractURL": "https://kirchberg-schule.de"
     },
     {
-        "link": "https://olimp-labs.pl",
-        "Heading": "Strona g\u0142\u00f3wna - Olimp Labs",
-        "Abstract": null,
-        "Official Site": "https://olimp-labs.pl/",
-        "Icon": "https://olimp-labs.pl/wp-content/uploads/2020/05/cropped-olimp-favicon-32x32.png",
-        "Redirect": "https://olimp-labs.pl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://olimp-labs.pl/"
-    },
-    {
         "link": "https://esec-benin.net",
         "Heading": "Trang ch\u1ee7 11M - Trung t\u00e2m tin t\u1ee9c v\u00e0 nh\u1eadn \u0111\u1ecbnh b\u00f3ng \u0111\u00e1 to\u00e0n di\u1ec7n",
         "Abstract": "Kh\u00e1m ph\u00e1 trang ch\u1ee7 11M - n\u01a1i c\u1eadp nh\u1eadt nhanh tin t\u1ee9c, livescore, l\u1ecbch thi \u0111\u1ea5u v\u00e0 nh\u1eadn \u0111\u1ecbnh chuy\u00ean s\u00e2u, gi\u00fap anh em n\u1eafm tr\u1ecdn th\u1ebf gi\u1edbi s\u00e2n c\u1ecf 24/7.",
@@ -178,26 +178,6 @@
         "Redirect": "http://11m.fun",
         "AbstractSource": "BS4",
         "AbstractURL": "http://11m.fun"
-    },
-    {
-        "link": "https://reveco.cl",
-        "Heading": "REVECO | International Crisis Consultors .\u00b7.",
-        "Abstract": null,
-        "Official Site": "https://reveco.cl",
-        "Icon": "N/A",
-        "Redirect": "https://reveco.cl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://reveco.cl"
-    },
-    {
-        "link": "https://projac.fr",
-        "Heading": "PROJAC \u2022 L'outil de recyclage et r\u00e9cup\u00e9ration",
-        "Abstract": "PROJAC propose des solutions pour le recyclage et la r\u00e9cup\u00e9ration. Des outils robustes, innovants au service de votre performance.",
-        "Official Site": "https://projac.fr/",
-        "Icon": "https://projac.fr/wp-content/uploads/2025/06/Projac-Outil-de-recyclage-et-de-recuperation.webp",
-        "Redirect": "https://projac.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://projac.fr/"
     },
     {
         "link": "https://journlab.online",
@@ -284,7 +264,7 @@
         "Heading": "Homepage - Jumbolino-model.com",
         "Abstract": "Homepage. ",
         "Official Site": "https://www.jumbolino-model.com/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.jumbolino-model.com/user/logos/logo-jumbolino-1.svg?t=1781238523",
+        "Icon": "https://cdn.myshoptet.com/usr/www.jumbolino-model.com/user/logos/logo-jumbolino-1.svg?t=1781324214",
         "Redirect": "https://www.jumbolino-model.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.jumbolino-model.com/"

@@ -10,6 +10,16 @@
         "AbstractURL": "https://123digit.com"
     },
     {
+        "link": "https://telecommunicationtoday.com",
+        "Heading": "Site Under Maintenance \u2014 Telecommunication Today",
+        "Abstract": null,
+        "Official Site": "https://telecommunicationtoday.com",
+        "Icon": "N/A",
+        "Redirect": "https://telecommunicationtoday.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://telecommunicationtoday.com"
+    },
+    {
         "link": "https://vavadax.site",
         "Heading": null,
         "Abstract": null,
@@ -30,16 +40,6 @@
         "AbstractURL": "https://sandrasteffen.com/"
     },
     {
-        "link": "https://ambiancecreations.org",
-        "Heading": "Kitchen & Bath Remodeling | Bonita Springs & Naples FL - Ambiance Creations",
-        "Abstract": "Ambiance Creations provides expert kitchen and bathroom remodeling in Bonita Springs & Naples. Custom designs, quality craftsmanship, and stress-free renovations.",
-        "Official Site": "https://ambiancecreations.org/",
-        "Icon": "https://ambiancecreations.org/wp-content/uploads/2024/10/A-\ufffd-C-BLACK.png",
-        "Redirect": "https://ambiancecreations.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ambiancecreations.org/"
-    },
-    {
         "link": "https://popsb.com",
         "Heading": "Santa Barbara Web Design + Search Engine Consultants",
         "Abstract": "Santa Barbara web design and search engine consultants. Custom sites that rank, reliable hosting, Wild Apricot integration \u2014 20+ years in.",
@@ -48,16 +48,6 @@
         "Redirect": "https://popsb.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://popsb.com/"
-    },
-    {
-        "link": "https://noyaweb.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://noyaweb.com",
-        "Icon": "N/A",
-        "Redirect": "https://noyaweb.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://noyaweb.com"
     },
     {
         "link": "https://myimpact.in",
@@ -130,6 +120,16 @@
         "AbstractURL": "https://thepanamanews.com"
     },
     {
+        "link": "https://pro-media.de",
+        "Heading": "Die VNR Group in Bonn \ud83d\udd37 seit 1975",
+        "Abstract": "Die VNR Group Jetzt mehr erfahren! \ud83d\udd37 VNR Group\ud83d\udd37 We ensure customer success.",
+        "Official Site": "https://www.vnrgroup.com/",
+        "Icon": "https://static.vnrgroup.com/wp-content/uploads/2025/06/Godesburg-scaled.jpg",
+        "Redirect": "https://www.vnrgroup.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.vnrgroup.com/"
+    },
+    {
         "link": "https://cantatafile.com",
         "Heading": "\uce78\ud0c0\ud0c0\ud30c\uc77c \u2014 \uc601\ud654, \ub4dc\ub77c\ub9c8, \uac8c\uc784 \ub4f1 \ucf58\ud150\uce20 \uc544\uce74\uc774\ube0c",
         "Abstract": "\uc601\ud654, \ub4dc\ub77c\ub9c8, \ubc29\uc1a1, \uac8c\uc784, \uc560\ub2c8\uba54\uc774\uc158 \ub4f1 \ub2e4\uc591\ud55c \ucf58\ud150\uce20\ub97c \uac80\uc0c9\ud558\uace0 \ub2e4\uc6b4\ub85c\ub4dc\ud558\uc138\uc694.",
@@ -138,16 +138,6 @@
         "Redirect": "https://cantatafile.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cantatafile.com"
-    },
-    {
-        "link": "https://avantixs.network",
-        "Heading": "avantixs.network",
-        "Abstract": "",
-        "Official Site": "https://avantixs.network",
-        "Icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIxLjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA4OCAxMDIuMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgODggMTAyLjI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojMDY4MkI0O30KCS5zdDF7ZmlsbDojMzFCN0U5O30KCS5zdDJ7ZmlsbDpub25lO30KPC9zdHlsZT4KPGc+Cgk8Zz4KCQk8Zz4KCQkJPHBvbHlnb24gY2xhc3M9InN0MCIgcG9pbnRzPSI4OCw1Mi42IDg4LDUyLjYgMzguNCwzIDI0LjIsMTcuMiA1OS43LDUyLjYgMjQuMyw4OCAzOC40LDEwMi4yIAkJCSIvPgoJCTwvZz4KCQk8Zz4KCQkJPHBvbHlnb24gY2xhc3M9InN0MSIgcG9pbnRzPSI4NSw0OS42IDg1LDQ5LjYgMzUuNCwwIDIxLjIsMTQuMiA1Ni43LDQ5LjYgMjEuMyw4NSAzNS40LDk5LjIgCQkJIi8+CgkJPC9nPgoJPC9nPgoJPGxpbmUgY2xhc3M9InN0MiIgeDE9IjQwLjMiIHkxPSIxMDMuOCIgeDI9IjkwLjEiIHkyPSI1NC4yIi8+Cgk8Zz4KCQk8cG9seWxpbmUgY2xhc3M9InN0MCIgcG9pbnRzPSIxMC41LDc0LjQgMTQuMSw3OCA0Mi40LDQ5LjYgMzguNyw0NS44IAkJIi8+CgkJPHBvbHlsaW5lIGNsYXNzPSJzdDEiIHBvaW50cz0iMzguNyw0NS45IDE0LjIsMjEuMyAwLDM1LjQgMTQuMiw0OS42IDAsNjMuOCAxMC42LDc0LjQgCQkiLz4KCTwvZz4KPC9nPgo8L3N2Zz4K",
-        "Redirect": "https://avantixs.network",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://avantixs.network"
     },
     {
         "link": "https://asklepionrevista.info",
@@ -161,23 +151,13 @@
     },
     {
         "link": "https://uolivet.edu",
-        "Heading": null,
+        "Heading": "Home - The University of Olivet",
         "Abstract": null,
-        "Official Site": "https://uolivet.edu",
-        "Icon": "data:;",
-        "Redirect": "https://uolivet.edu",
+        "Official Site": "https://www.uolivet.edu/",
+        "Icon": "https://www.uolivet.edu/wp-content/uploads/2025/04/Alum-Awards-Recipients-Cropped-scaled.jpg",
+        "Redirect": "https://www.uolivet.edu/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://uolivet.edu"
-    },
-    {
-        "link": "https://affarieuropei.gov.it",
-        "Heading": "Dipartimento per gli Affari Europei",
-        "Abstract": "Il Dipartimento per gli Affari Europei &#232; la struttura che supporta il Presidente del Consiglio dei Ministri nella gestione dei rapporti tra il Governo italiano e le istituzioni europee.",
-        "Official Site": "https://www.affarieuropei.gov.it/it/",
-        "Icon": "/media/vhmgkc2b/favicon-96x96.png",
-        "Redirect": "https://www.affarieuropei.gov.it/it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.affarieuropei.gov.it/it/"
+        "AbstractURL": "https://www.uolivet.edu/"
     },
     {
         "link": "https://merca-leasing.de",
@@ -208,6 +188,16 @@
         "Redirect": "https://www.hhost.eg/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hhost.eg/"
+    },
+    {
+        "link": "https://alonzosokolsky.top",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://alonzosokolsky.top",
+        "Icon": "N/A",
+        "Redirect": "https://alonzosokolsky.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alonzosokolsky.top"
     },
     {
         "link": "https://streamingmediaglobal.com",

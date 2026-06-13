@@ -60,16 +60,6 @@
         "AbstractURL": "https://pjcyh.com"
     },
     {
-        "link": "https://plctoolboxsupply.com",
-        "Heading": "Home-Shop - PLC Toolbox Supply",
-        "Abstract": "Your Source for Reliable Industrial Automation Equipment and Networking Solutions! Search Shop Now Contact Us Featured Products NEW BURNDY Q2A40-4N LUGS 4 HOLE 60 KCMIL 800 *READ* Buy It NowRequest Quote LOT OF 7 NEW THOMAS & BETTS 268 9P DEG BOX CONNECTOR 1/2\u2033 Buy It NowRequest Quote LOT OF 6 NEW THOMAS & BETTS",
-        "Official Site": "https://plctoolboxsupply.com/",
-        "Icon": "https://plctoolboxsupply.com/wp-content/uploads/2022/03/icon-100x100.jpg",
-        "Redirect": "https://plctoolboxsupply.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://plctoolboxsupply.com/"
-    },
-    {
         "link": "https://portugalcolonial.pt",
         "Heading": "Portugal Colonial - as \u00faltimas not\u00edcias, 24 horas por dia, em seis l\u00ednguas, de todo o mundo",
         "Abstract": "Portugal Colonial: 24/7 not\u00edcias di\u00e1rias, portugu\u00eas, alem\u00e3o, ingl\u00eas, espanhol, franc\u00eas e italiano, sobre pol\u00edtica, economia, desporto, tecnologia, autom\u00f3veis, boulevard",
@@ -88,16 +78,6 @@
         "Redirect": "https://pos-media.eu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pos-media.eu"
-    },
-    {
-        "link": "https://positivelylearningblog.com",
-        "Heading": "Home - Positively Learning",
-        "Abstract": "Find resources, tools, and support to help you succeed as a special education teacher. From forms and presentations to tips and tricks, we have everything you need to feel confident in the classroom.",
-        "Official Site": "https://positivelylearningblog.com/",
-        "Icon": "https://positivelylearningblog.com/wp-content/uploads/2022/04/YouTube-Channel-Preview.png",
-        "Redirect": "https://positivelylearningblog.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://positivelylearningblog.com/"
     },
     {
         "link": "https://powercli.net",
@@ -150,16 +130,6 @@
         "AbstractURL": "https://pro-latex.com"
     },
     {
-        "link": "https://projektorhd.pl",
-        "Heading": "Projektory, rzutniki, ekrany -  Sklep audio-video",
-        "Abstract": "Projektor HD - sklep z projektorami, ekranami, tablicami multimedialnymi i sprz\u0119tem audio- video. Specjalizujemy si\u0119 w internetowej sprzeda\u017cy wysokiej jako\u015bci sprz\u0119tu projekcyjnego. Du\u017cy wyb\u00f3r modeli w atrakcyjnych cenach. Zapraszamy serdecznie.",
-        "Official Site": "https://projektorhd.pl",
-        "Icon": "/img/favicon.ico?1585810557",
-        "Redirect": "https://projektorhd.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://projektorhd.pl"
-    },
-    {
         "link": "https://promosuitemail.net",
         "Heading": null,
         "Abstract": null,
@@ -210,16 +180,6 @@
         "AbstractURL": "https://www.qualitybeddingfurniture.com/"
     },
     {
-        "link": "https://qwalis.com",
-        "Heading": "Qwalis - Accueil",
-        "Abstract": "Qwalis, ce sont plus de 3.000 produits promotionnels en textiles, cadeaux d'affaires, sport et luxe, personnalisables sur mesure pour votre entreprise.",
-        "Official Site": "https://www.qwalis.com/fr/",
-        "Icon": "https://www.qwalis.com/img/qwalis-logo-1602517036.jpg",
-        "Redirect": "https://www.qwalis.com/fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.qwalis.com/fr/"
-    },
-    {
         "link": "https://radyoduble.com.tr",
         "Heading": null,
         "Abstract": null,
@@ -251,13 +211,13 @@
     },
     {
         "link": "https://rdrive.io",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://rdrive.io",
-        "Icon": "data:;",
-        "Redirect": "https://rdrive.io",
+        "Heading": "Progress Monitoring & Reporting Software | RDrive by SnagR",
+        "Abstract": "RDrive is progress monitoring software that helps teams capture field data and automate reporting for faster, smarter project delivery.",
+        "Official Site": "https://rdrive.io/en/",
+        "Icon": "https://rdrive.io/wp-content/uploads/2025/09/social-share.png",
+        "Redirect": "https://rdrive.io/en/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rdrive.io"
+        "AbstractURL": "https://rdrive.io/en/"
     },
     {
         "link": "https://readefined.com",
@@ -318,5 +278,15 @@
         "Redirect": "https://reimers.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://reimers.ca/"
+    },
+    {
+        "link": "https://relymedia.com",
+        "Heading": "RELYmedia - Promotional Products",
+        "Abstract": "RELYmedia offers innovative promotional products and exceptional service. Browse our catalog of custom promotional items.",
+        "Official Site": "https://www.relymedia.com",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://www.relymedia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.relymedia.com"
     }
 ]

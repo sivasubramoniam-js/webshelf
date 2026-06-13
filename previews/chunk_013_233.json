@@ -20,6 +20,16 @@
         "AbstractURL": "https://ringit.com.au/"
     },
     {
+        "link": "https://2sautomobile.com",
+        "Heading": "2S AUTO : Service & solutions automobile",
+        "Abstract": "Le sp\u00e9cialiste de l'entretien et de la r\u00e9paration rapide automobile 2S AUTO propose \u00e0 ses clients des produits et des services de haut niveau.\nOp\u00e9rationnelle depuis 2005, 2S AUTO Alg\u00e9rie promet un accueil chaleureux et une \u00e9coute de tous les instants.",
+        "Official Site": "https://2sautomobile.com",
+        "Icon": "N/A",
+        "Redirect": "https://2sautomobile.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://2sautomobile.com"
+    },
+    {
         "link": "https://tcgcsv.com",
         "Heading": "TCGCSV",
         "Abstract": "TCGCSV hosts TCGplayer category, group, and product information updated daily.",
@@ -80,16 +90,6 @@
         "AbstractURL": "https://utopiverse.net"
     },
     {
-        "link": "https://fxbull.com",
-        "Heading": "fxbull.com\u00a0-\u00a0This website is for sale!\u00a0-\u00a0fx trading Investing Resources and Information.",
-        "Abstract": "This website is for sale! fxbull.com is your first and best source for information about fx trading Investing. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
-        "Official Site": "https://fxbull.com",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://fxbull.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fxbull.com"
-    },
-    {
         "link": "https://trattoria-dafranco.com",
         "Heading": "Program - Aksi Demo Mahjong PG Soft Gacor Scatter Hitam Dan Pragmatic Play Demo X1000 Zeus Lengkap",
         "Abstract": "Demo mahjong dan demo zeus menjadi primadona sebagai kesultanan demo gacor x1000 scatter hitam dari masing-masing provider yaitu demo pragmatic play demo pg soft. Daftar aksi akun demo gratis, game terlengkap main sepuasnya tanpa batas.",
@@ -121,7 +121,7 @@
     },
     {
         "link": "https://zafaa.org",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://zafaa.org",
         "Icon": "N/A",
@@ -178,5 +178,15 @@
         "Redirect": "https://www.mainegraphics.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mainegraphics.com/"
+    },
+    {
+        "link": "https://advokat-georgieva.com",
+        "Heading": "\u0410\u0434\u0432\u043e\u043a\u0430\u0442 \u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430 \u2013 \u041c\u0438\u043b\u0435\u043d\u0430 \u0413\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u0430",
+        "Abstract": "\u0410\u0434\u0432\u043e\u043a\u0430\u0442 \u0432 \u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430 - \u041c\u0438\u043b\u0435\u043d\u0430 \u0413\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u0430. \u041a\u043e\u043d\u0441\u0443\u043b\u0442\u0430\u0446\u0438\u0438 \u0438 \u0437\u0430\u0449\u0438\u0442\u0430: \u0431\u0440\u0430\u043a\u043e\u0440\u0430\u0437\u0432\u043e\u0434\u043d\u0438 \u0434\u0435\u043b\u0430, \u0438\u043c\u043e\u0442\u0438, \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0438. \u041e\u0431\u0430\u0434e\u0442\u0435 \u0441\u0435 \u0438 \u0437\u0430\u043f\u0430\u0437\u0435\u0442\u0435 \u0447\u0430\u0441.",
+        "Official Site": "https://advokat-georgieva.com/",
+        "Icon": "https://advokat-georgieva.com/wp-content/uploads/2025/05/Adv.-Georgieva-Fav.svg",
+        "Redirect": "https://advokat-georgieva.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://advokat-georgieva.com/"
     }
 ]

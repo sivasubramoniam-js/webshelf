@@ -80,16 +80,6 @@
         "AbstractURL": "https://eaudithub.com"
     },
     {
-        "link": "https://mutluyazilim.com.tr",
-        "Heading": "Anasayfa - Mutlu Yaz\u0131l\u0131m",
-        "Abstract": "Kurumsal & G\u00fcven Veren",
-        "Official Site": "https://mutluyazilim.com.tr/",
-        "Icon": "https://mutluyazilim.com.tr/wp-content/uploads/2025/04/cropped-simge-1-32x32.png",
-        "Redirect": "https://mutluyazilim.com.tr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mutluyazilim.com.tr/"
-    },
-    {
         "link": "https://projectquantumai.com",
         "Heading": "Project Quantum Ai  | Official Website Platform",
         "Abstract": "Project Quantum Ai delivers automated trading technology, trusted broker connectivity, and in-depth market education to help traders excel across global markets.",
@@ -111,13 +101,13 @@
     },
     {
         "link": "https://planetgong.co.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://planetgong.co.uk",
-        "Icon": "data:;",
-        "Redirect": "https://planetgong.co.uk",
+        "Heading": "planet gong",
+        "Abstract": "Gong and its network of bands and artists : official news, merchandise, concert information, archives",
+        "Official Site": "https:/planetgong.co.uk/home.shtml",
+        "Icon": "https://planetgong.co.uk/images/gigs/flying-v.webp",
+        "Redirect": "https:/planetgong.co.uk/home.shtml",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://planetgong.co.uk"
+        "AbstractURL": "https:/planetgong.co.uk/home.shtml"
     },
     {
         "link": "https://bongdalu19.com",
@@ -180,14 +170,14 @@
         "AbstractURL": "https://pflege-soforthilfe.de"
     },
     {
-        "link": "https://tekmiss.com",
-        "Heading": "Client Challenge",
-        "Abstract": null,
-        "Official Site": "https://tekmiss.com",
-        "Icon": "N/A",
-        "Redirect": "https://tekmiss.com",
+        "link": "https://skyhighproperties.com.au",
+        "Heading": "Home - Skyhigh Properties",
+        "Abstract": "Buy Rent Sold Commercial Sales Experience the Skyhigh Properties difference where your real estate aspirations reach new heights. Contact Us Free Property appraisal Who we are\u200b Welcome to Skyhigh Properties! We are delighted to be your trusted partner in the Goulburn Valley real estate market. Our mission is to provide you with exceptional real estate [\u2026]",
+        "Official Site": "https://skyhighproperties.com.au/",
+        "Icon": "https://skyhighproperties.com.au/wp-content/uploads/2024/07/cropped-icon-32x32.png",
+        "Redirect": "https://skyhighproperties.com.au/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tekmiss.com"
+        "AbstractURL": "https://skyhighproperties.com.au/"
     },
     {
         "link": "https://ggidi.cn",
@@ -238,6 +228,16 @@
         "Redirect": "https://centralapps.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://centralapps.com/"
+    },
+    {
+        "link": "https://susanagateirashop.com",
+        "Heading": "Susana Gateira Shop \u2013 Fitness Fashion \u2013 your Premium Activewear brand \u2013 Innovative, Ergonomic, High Quality and unique Design.",
+        "Abstract": null,
+        "Official Site": "https://susanagateirashop.com",
+        "Icon": "https://susanagateirashop.b-cdn.net/shop2024/local/media/cropped-gateira_icon-32x32.png",
+        "Redirect": "https://susanagateirashop.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://susanagateirashop.com"
     },
     {
         "link": "https://llmaitengff.com",

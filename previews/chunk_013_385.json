@@ -30,6 +30,16 @@
         "AbstractURL": "https://gridlineanalytics.com"
     },
     {
+        "link": "https://alphabasecoin.com",
+        "Heading": "Alpha Base Coin",
+        "Abstract": "Alpha Base Coin \u2013 Your gateway to smart trading and secure investing. Access a range of portfolios, expert strategies, and real-time insights. Begin building your financial future today!",
+        "Official Site": "https://alphabasecoin.com",
+        "Icon": "https://alphabasecoin.com/styles/logo.png",
+        "Redirect": "https://alphabasecoin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alphabasecoin.com"
+    },
+    {
         "link": "https://parketoff.ru",
         "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u043f\u0430\u0440\u043a\u0435\u0442 \u043e\u0442 PARKETOFF GROUP",
         "Abstract": "PARKETOFF GROUP - \u044d\u0442\u043e \u043e\u0434\u043d\u0430 \u0438\u0437 \u043c\u0438\u0440\u043e\u0432\u044b\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0441 2006 \u0433\u043e\u0434\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442 \u043d\u0430\u043f\u043e\u043b\u044c\u043d\u044b\u0435 \u043f\u043e\u043a\u0440\u044b\u0442\u0438\u044f \u0438 \u0442\u043e\u0432\u0430\u0440\u044b \u0434\u043b\u044f \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0433\u043e \u0443\u044e\u0442\u0430. \u0417\u0430 \u0432\u0440\u0435\u043c\u044f \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043d\u0438\u044f \u043c\u044b \u043d\u0430\u043b\u0430\u0434\u0438\u043b\u0438 \u0441\u0432\u043e\u0451 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u0432 \u0433. \u0417\u0435\u043b\u0435\u043d\u043e\u0433\u0440\u0430\u0434, \u043e\u0442\u043a\u0440\u044b\u043b\u0438 \u0440\u043e\u0437\u043d\u0438\u0447\u043d\u044b\u0435 \u0441\u0430\u043b\u043e\u043d\u044b \u0432 \u0433. \u0417\u0435\u043b\u0435\u043d\u043e\u0433\u0440\u0430\u0434. \u041c\u043e\u0441\u043a\u0432\u0435 \u0438 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435, \u043d\u0430\u0440\u0430\u0441\u0442\u0438\u043b\u0438 \u0434\u0438\u043b\u0435\u0440\u0441\u043a\u0443\u044e \u0441\u0435\u0442\u044c \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0441\u0442\u0440\u0430\u043d\u0430\u043c \u0441\u0442\u0440\u0430\u043d.",
@@ -68,16 +78,6 @@
         "Redirect": "https://bc-berlin-nord.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bc-berlin-nord.com"
-    },
-    {
-        "link": "https://addictivepoints.com",
-        "Heading": "Home - Addictivepoints",
-        "Abstract": "Discover expert guides, tips & news on FIFA, Skyrim & WoW from trusted gamers at AddictivePoints.",
-        "Official Site": "https://addictivepoints.com/",
-        "Icon": "https://addictivepoints.com/wp-content/uploads/2026/03/airtable_69c4c591a4a7d-1.jpeg",
-        "Redirect": "https://addictivepoints.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://addictivepoints.com/"
     },
     {
         "link": "https://jdland.com",
@@ -208,15 +208,5 @@
         "Redirect": "https://kobilis.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kobilis.com"
-    },
-    {
-        "link": "https://modernautomation.ca",
-        "Heading": "Modern Automation \u2013 Modern Automation Home / Smart House solutions",
-        "Abstract": null,
-        "Official Site": "https://modernautomation.ca",
-        "Icon": "/wp-content/themes/quake/assets/images/favicon.png",
-        "Redirect": "https://modernautomation.ca",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://modernautomation.ca"
     }
 ]

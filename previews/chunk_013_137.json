@@ -20,16 +20,6 @@
         "AbstractURL": "https://ijdomains.com"
     },
     {
-        "link": "https://barretteoutdoorliving.com",
-        "Heading": "Barrette Outdoor Living: HomePage",
-        "Abstract": null,
-        "Official Site": "https://www.barretteoutdoorliving.com/",
-        "Icon": "https://www.barretteoutdoorliving.com/wp-content/uploads/2021/05/favicon.png",
-        "Redirect": "https://www.barretteoutdoorliving.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.barretteoutdoorliving.com/"
-    },
-    {
         "link": "https://speedtradehub.com",
         "Heading": "SpeedTradeHub.com is for sale | HugeDomains",
         "Abstract": "Get the premium .com domain you deserve. Seamless and professional transactions. Payment plans available.",
@@ -160,14 +150,24 @@
         "AbstractURL": "https://www.mauihawaii.org/"
     },
     {
-        "link": "https://legalaidchicago.org",
-        "Heading": "Free Legal Services To People Living In Poverty - Legal Aid Chicago",
-        "Abstract": "Legal Aid Chicago provides free civil legal services to people living in poverty in Cook County. Call us at 312-341-1070.",
-        "Official Site": "https://legalaidchicago.org/",
-        "Icon": "N/A",
-        "Redirect": "https://legalaidchicago.org/",
+        "link": "https://jinbe.asia",
+        "Heading": "Low Cost, High Performance S3 Compatible Object Storage",
+        "Abstract": "Backblaze B2 provides unlimited data storage in the cloud at 1/5th the cost of Amazon S3, Microsoft Azure, and Google Cloud.",
+        "Official Site": "https://jinbe.asia",
+        "Icon": "https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64b1b1605e73b516e5712f82_Backblaze_Social-Card.webp",
+        "Redirect": "https://jinbe.asia",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://legalaidchicago.org/"
+        "AbstractURL": "https://jinbe.asia"
+    },
+    {
+        "link": "https://wildserengetiquest.com",
+        "Heading": "Wild Serengeti Quest \u2013 Venture Into the Wilderness, Return with a Story Untold.",
+        "Abstract": null,
+        "Official Site": "https://wildserengetiquest.com",
+        "Icon": "https://wildserengetiquest.com/wp-content/uploads/2024/12/cropped-logo-01-1-32x32.png",
+        "Redirect": "https://wildserengetiquest.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wildserengetiquest.com"
     },
     {
         "link": "https://gbhomecollection.com",
@@ -230,13 +230,23 @@
         "AbstractURL": "https://www.llresearch.org"
     },
     {
-        "link": "https://andreasrecipes.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://andreasrecipes.com",
-        "Icon": "data:;",
-        "Redirect": "https://andreasrecipes.com",
+        "link": "https://netzeroinvestor.net",
+        "Heading": "Homepage - Net Zero Investor",
+        "Abstract": "Net Zero Investor\u2018s mission is to provide written, streamed and in-person content that will benefit investors\u2019 net-zero journeys.",
+        "Official Site": "https://netzeroinvestor.net",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://netzeroinvestor.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://andreasrecipes.com"
+        "AbstractURL": "https://netzeroinvestor.net"
+    },
+    {
+        "link": "https://andreasrecipes.com",
+        "Heading": "Making Life Delicious - Making Life Delicious",
+        "Abstract": "Making Life Delicious with Andrea Meyers is a blog about food, cooking, baking, gardening, and learning how to do new things.",
+        "Official Site": "https://andreasrecipes.com/",
+        "Icon": "https://andreasrecipes.com/wp-content/uploads/2024/05/cropped-MLD_RETINA_LOGO_2024.png",
+        "Redirect": "https://andreasrecipes.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://andreasrecipes.com/"
     }
 ]

@@ -20,16 +20,6 @@
         "AbstractURL": "https://edise.es"
     },
     {
-        "link": "https://g1box.eu",
-        "Heading": "Twitch",
-        "Abstract": "Twitch is the world's leading video platform and community for gamers.",
-        "Official Site": "https://g1box.eu",
-        "Icon": "https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg",
-        "Redirect": "https://g1box.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://g1box.eu"
-    },
-    {
         "link": "https://aloha-corp.com",
         "Heading": "\uc54c\ub85c\ud558\ud329\ud1a0\ub9ac - AlohaFactory",
         "Abstract": "\uc54c\ub85c\ud558\ud329\ud1a0\ub9ac\ub294 \ub9ce\uc740 \uc0ac\ub78c\ub4e4\uc5d0\uac8c \uc624\ub7ab\ub3d9\uc548 \uae30\uc5b5\ub420 \uac8c\uc784\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
@@ -68,16 +58,6 @@
         "Redirect": "https://medien-internet-und-recht.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://medien-internet-und-recht.de"
-    },
-    {
-        "link": "https://beateuhsemovie.com",
-        "Heading": "Beate Uhse Movie",
-        "Abstract": null,
-        "Official Site": "https://beateuhsemovie.com",
-        "Icon": "/favicon-32x32.png",
-        "Redirect": "https://beateuhsemovie.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://beateuhsemovie.com"
     },
     {
         "link": "https://pittsburgusd.net",
@@ -130,14 +110,24 @@
         "AbstractURL": "SITE_URL/index.html"
     },
     {
-        "link": "https://commercenext.com",
-        "Heading": "CommerceNext | The Retail and Ecommerce Conference for Marketers",
-        "Abstract": "CommerceNext is a community, event series and conference for marketers at retail and direct-to-consumer brands. See why Inc. Magazine named CommerceNext one of the top 5 ecommerce conferences.",
-        "Official Site": "https://community.commercenext.com/",
-        "Icon": "https://community.commercenext.com/wp-content/uploads/2021/05/CN-IRL-2021-share-cardCN-IRL.jpg",
-        "Redirect": "https://community.commercenext.com/",
+        "link": "https://ticketswvv.de",
+        "Heading": "Loading...",
+        "Abstract": "Loading...",
+        "Official Site": "https://ticketswvv.de",
+        "Icon": "N/A",
+        "Redirect": "https://ticketswvv.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://community.commercenext.com/"
+        "AbstractURL": "https://ticketswvv.de"
+    },
+    {
+        "link": "https://foxhomecenter.com",
+        "Heading": "Home & Kitchen Hardware Store Alsip, IL | Fox Home Center",
+        "Abstract": "Fox Home Center located in Alsip, IL is your full service supplier of home hardware including kitchens, bathrooms, bedrooms, & outdoor spaces, stop in today or call to inquire!",
+        "Official Site": "https://foxhomecenter.com",
+        "Icon": "/images/favicon.ico?ccid=x27b34334",
+        "Redirect": "https://foxhomecenter.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://foxhomecenter.com"
     },
     {
         "link": "https://ahepahosp.gr",
@@ -231,7 +221,7 @@
     },
     {
         "link": "https://caribbeancovewaterpark.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://caribbeancovewaterpark.com",
         "Icon": "N/A",

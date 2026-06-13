@@ -101,13 +101,23 @@
     },
     {
         "link": "https://epyx.co.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://epyx.co.uk",
-        "Icon": "data:;",
-        "Redirect": "https://epyx.co.uk",
+        "Heading": "epyx - Technology Solutions for the Automotive Sector",
+        "Abstract": "epyx Ltd provide technology solutions enabling the procurement, servicing, repair, hire and sale of more than five million vehicles a year. Learn about our Ecosystem here.",
+        "Official Site": "https://www.epyx.co.uk/",
+        "Icon": "https://epyx.co.uk/wp-content/uploads/2022/06/cropped-Digital.jpg",
+        "Redirect": "https://www.epyx.co.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://epyx.co.uk"
+        "AbstractURL": "https://www.epyx.co.uk/"
+    },
+    {
+        "link": "https://jornalfax.net",
+        "Heading": "home -",
+        "Abstract": "Jornal Fax JORNAL FAX \u00e9 um \u00d3rg\u00e3o de Comunica\u00e7\u00e3o Social de Direito Angolano, registado sob o n\u00ba MCS-874/B/2018. Director Pedro Vicente jornalfax2@gmail.com Actualidade ActualidadeDestaque ASSASSINATOS NO CUANZA NORTE: POL\u00cdCIA DET\u00c9M DEPUTADOS DA OPOSI\u00c7\u00c3O QUE PRETENDIAM MARCHAR CONTRA AS MORTES DE IDOSAS Posted on16 de fevereiro de 202516 de fevereiro de 2025 Agentes da Pol\u00edcia Nacional [\u2026]",
+        "Official Site": "https://jornalfax.net/",
+        "Icon": "https://jornalfax.net/wp-content/uploads/elementor/thumbs/cropped-Jrnal-fax-sem-fundo-e1706964890421-qj9letw2gz8nyb7fjmk9kkj2w1q8li15ys04pe6rxk.png",
+        "Redirect": "https://jornalfax.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jornalfax.net/"
     },
     {
         "link": "https://al-awdapalestine.org",
@@ -188,16 +198,6 @@
         "Redirect": "https://ettijah.org.sa",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ettijah.org.sa"
-    },
-    {
-        "link": "https://nelog.jp",
-        "Heading": "\u5bdd\u30ed\u30b0  |  \u5bdd\u306a\u304c\u3089\u51fa\u6765\u308b\u30b3\u30c8\u3084\u4f7f\u3048\u308b\u30e2\u30ce\u3092\u7d39\u4ecb",
-        "Abstract": "\u5bdd\u306a\u304c\u3089\u51fa\u6765\u308b\u30b3\u30c8\u3084\u4f7f\u3048\u308b\u30e2\u30ce\u3092\u7d39\u4ecb",
-        "Official Site": "https://nelog.jp",
-        "Icon": "http://nelog.jp/wp-content/uploads/2016/03/12001060_1133315893363425_2026224785753303593_o.jpg",
-        "Redirect": "https://nelog.jp",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nelog.jp"
     },
     {
         "link": "https://manoirsaintemarie.com",
@@ -338,5 +338,15 @@
         "Redirect": "https://dreamsandideas.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dreamsandideas.com"
+    },
+    {
+        "link": "https://quintonpardee.top",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://quintonpardee.top",
+        "Icon": "N/A",
+        "Redirect": "https://quintonpardee.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://quintonpardee.top"
     }
 ]

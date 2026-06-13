@@ -80,16 +80,6 @@
         "AbstractURL": "https://mitsubishi-asx.net"
     },
     {
-        "link": "https://movingintelligence.com",
-        "Heading": "Home - Moving Intelligence Global",
-        "Abstract": "\u201cWhere is my \u00a0 stolen car?\u201d WE KNOW The world is in motion. Where there is motion, we are: Moving Intelligence. Moving Intelligence enables management of all things moving. With hardware that we install invisibly and with software that makes information visible so you can track, manage and monitor everything that moves worldwide.\u00a0\u00a0 We are [\u2026]",
-        "Official Site": "https://movingintelligence.com/",
-        "Icon": "https://movingintelligence.com/wp-content/uploads/sites/2/2022/07/unsplash_Q1p7bh3SHj8-1.png",
-        "Redirect": "https://movingintelligence.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://movingintelligence.com/"
-    },
-    {
         "link": "https://mydogbreeds.com",
         "Heading": "All dog breed | MyDogBreeds",
         "Abstract": "Get information on all the dog breeds in the world. Discover all dog breeds information, History, Pictures, here. View and compare the dog breeds info.",
@@ -118,16 +108,6 @@
         "Redirect": "https://mylisting365.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mylisting365.co.uk"
-    },
-    {
-        "link": "https://myscoutshop.org",
-        "Heading": "Scouting America Official Store",
-        "Abstract": "The Official Store for Scouting America Official Store!",
-        "Official Site": "https://www.myscoutshop.org",
-        "Icon": "https://content.bespokelabs.co/images/theme/BSA/favicos/android-chrome-512x512.png",
-        "Redirect": "https://www.myscoutshop.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.myscoutshop.org"
     },
     {
         "link": "https://naturacenter.es",
@@ -171,10 +151,10 @@
     },
     {
         "link": "https://ngehex.cyou",
-        "Heading": null,
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://ngehex.cyou",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://ngehex.cyou",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ngehex.cyou"
@@ -190,6 +170,16 @@
         "AbstractURL": "/"
     },
     {
+        "link": "https://novafox.co.uk",
+        "Heading": "NovaFox Ltd - NovaFox Hydra and other specialist solutions for the circular economy. Market leading Network Erasure products.",
+        "Abstract": "NovaFox Hydra and other specialist solutions for the circular economy. Market leading Network Erasure products.",
+        "Official Site": "https://novafox.co.uk/",
+        "Icon": "https://novafox.co.uk/wp-content/uploads/2024/07/cropped-favicon-32x32.png",
+        "Redirect": "https://novafox.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://novafox.co.uk/"
+    },
+    {
         "link": "https://oconchemicals.ie",
         "Heading": "Ocon Chemicals - Lab Supply & Waste Management Cork | OCON Chemicals",
         "Abstract": "Ocon Chemicals is a Laboratory Supply & Waste Management Company. We offer a range of solutions such as VMI & Calibration.",
@@ -200,14 +190,14 @@
         "AbstractURL": "https://oconchemicals.ie/"
     },
     {
-        "link": "https://papierkorb.me",
-        "Heading": "M\u00fcllmail.com - Deine gratis Wegwerf eMail Adresse & Trashmail",
-        "Abstract": "10 Min Mail reicht nicht? Deine kostenlose Temp Mail & Trashmail ohne Registrierung. Hol dir deine Wegwerf Email \u2013 anonym & sofort nutzbar auf M\u00fcllmail.com.",
-        "Official Site": "https://muellmail.com/",
-        "Icon": "https://muellmail.com/img/socials/og.jpg",
-        "Redirect": "https://muellmail.com/",
+        "link": "https://paxvet.com.tr",
+        "Heading": "Paxvet.com.tr ~ \u00dccretsiz kargo",
+        "Abstract": null,
+        "Official Site": "https://paxvet.com.tr",
+        "Icon": "N/A",
+        "Redirect": "https://paxvet.com.tr",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://muellmail.com/"
+        "AbstractURL": "https://paxvet.com.tr"
     },
     {
         "link": "https://pickleballpaddlescanada.ca",

@@ -100,16 +100,6 @@
         "AbstractURL": "https://finnchristiansen.de/"
     },
     {
-        "link": "https://homms.pl",
-        "Heading": "Sklep z Meblami Homms | Meble i wyposa\u017cenie",
-        "Abstract": "Sklep meblowy Homms oferuje meble oraz wyposa\u017cenie do ogrodu i wn\u0119trza, kt\u00f3re wyr\u00f3\u017cnia si\u0119 niepowtarzalnym designem oraz ponadprzeci\u0119tn\u0105 jako\u015bci\u0105 Sprawd\u017a!",
-        "Official Site": "https://homms.pl/",
-        "Icon": "https://homms.pl/wp-content/uploads/2026/05/homms_social_logo_200_200.png",
-        "Redirect": "https://homms.pl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://homms.pl/"
-    },
-    {
         "link": "https://pci-diagnosetechnik.de",
         "Heading": "PCI Diagnosetechnik | Homepage",
         "Abstract": "KFZ Diagnosesysteme & Werkstattshop | Software, Hardware & Vertrieb | Mess- & Pr\u00fcftechnik | Technischer Support | VCDS Forum & Wiki",
@@ -168,6 +158,16 @@
         "Redirect": "https://tradexius14-ai.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tradexius14-ai.com"
+    },
+    {
+        "link": "https://gehl.com",
+        "Heading": "Compact construction equipment and agriculture machine - Gehl",
+        "Abstract": "Check out our machines and attachments: skid steer, telehandler, skid loader, track loader, articulated loaders... Quickly access specs, services and Gehl dealers near you",
+        "Official Site": "https://gehl.com",
+        "Icon": "/themes/custom/gehl_theme/favicon.png",
+        "Redirect": "https://gehl.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gehl.com"
     },
     {
         "link": "https://highlandeurope.com",

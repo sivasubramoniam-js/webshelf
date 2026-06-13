@@ -10,16 +10,6 @@
         "AbstractURL": "https://radiovive.com.ar/"
     },
     {
-        "link": "https://resortsonly.net",
-        "Heading": "Resorts",
-        "Abstract": null,
-        "Official Site": "https://resortsonly.net/",
-        "Icon": "https://resortsonly.net/favicon.ico",
-        "Redirect": "https://resortsonly.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://resortsonly.net/"
-    },
-    {
         "link": "https://resourceinn.com",
         "Heading": "Resourceinn HRMS | All-in-One HR & Payroll Software",
         "Abstract": "Resourceinn is your all-in-one HR and Payroll Software solution. Features include Payroll, Attendance, and Full HCM to simplify your HRMS needs.",
@@ -28,16 +18,6 @@
         "Redirect": "https://resourceinn.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://resourceinn.com/"
-    },
-    {
-        "link": "https://rjperformance.com",
-        "Heading": "\n\tRJ Performance - Ottumwa, Iowa | Motorcycles, ATVs, UTVs & Power Equipment\n",
-        "Abstract": "Visit RJ Performance in Ottumwa, Iowa: Dealers for Polaris, Slingshot, Indian, Yamaha & Victory, with sales and service for Motorcycles, ATVs, UTVs, Electric Bicycles, Trailers, Generators & Grills. Call us today at 641-684-8400.",
-        "Official Site": "https://rjperformance.com",
-        "Icon": "/portals/shoprjperformance/social_preview.jpg",
-        "Redirect": "https://rjperformance.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rjperformance.com"
     },
     {
         "link": "https://s81zw.com",
@@ -68,16 +48,6 @@
         "Redirect": "https://scientificfilters.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://scientificfilters.com"
-    },
-    {
-        "link": "https://sectolin.com",
-        "Heading": "Sectolin | We Take Care",
-        "Abstract": "Sectolin - We Take Care. Merk in ruitersport, verzorgingsproducten, diergeneesmiddelen en voedingssupplementen voor uw paard en pony.",
-        "Official Site": "https://sectolin.com",
-        "Icon": "https://www.sectolin.com/media/favicon/stores/1/favicon.png",
-        "Redirect": "https://sectolin.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sectolin.com"
     },
     {
         "link": "https://sensrtrx.com",
@@ -124,7 +94,7 @@
         "Heading": "Steenhauer Sleutels | Silca Selected Partner. Steenhauer Silca Sleutels",
         "Abstract": "Specialistische groothandel in Silca sleutels en Sleutelmachines",
         "Official Site": "https://steenhauer.nl",
-        "Icon": "//www.steenhauer.nl/media/110/content/favicon.ico?v=6.0",
+        "Icon": "//steenhauer.nl/media/110/content/favicon.ico?v=6.0",
         "Redirect": "https://steenhauer.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://steenhauer.nl"

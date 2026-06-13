@@ -70,16 +70,6 @@
         "AbstractURL": "https://www.sn2.eu/"
     },
     {
-        "link": "https://snphomes.com",
-        "Heading": "Reno Real Estate - Sierra Nevada Properties",
-        "Abstract": "Search 27008 homes for sale in Reno. Find Reno Real Estate with Sierra Nevada Properties.",
-        "Official Site": "https://www.snphomes.com/",
-        "Icon": "https://s3.us-west-1.wasabisys.com/bay/cust/iq_sierra_nevada/agent-images/SNPHOMES/2026-snphomes-hero-favuloso-rear.jpg",
-        "Redirect": "https://www.snphomes.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.snphomes.com/"
-    },
-    {
         "link": "https://soevrthpoetry.com",
         "Heading": null,
         "Abstract": null,
@@ -111,13 +101,13 @@
     },
     {
         "link": "https://sports-addict.net",
-        "Heading": "Actualit\u00e9s Sportives: Suivez les Derni\u00e8res Nouvelles du Monde du Sport",
-        "Abstract": "Restez inform\u00e9 des derni\u00e8res actualit\u00e9s sportives, y compris les transferts, les performances d'athl\u00e8tes et les commentaires d'experts. Suivez vos \u00e9quipes pr\u00e9f\u00e9r\u00e9es ici !...",
-        "Official Site": "https://www.sports-addict.net/fr",
-        "Icon": "https://d1xr1v9etxmhuy.cloudfront.net/img/header/logo-sports.png",
-        "Redirect": "https://www.sports-addict.net/fr",
+        "Heading": "Toutes les derni\u00e8res actualit\u00e9s G\u00e9n\u00e9ral",
+        "Abstract": "All the latest news about G\u00e9n\u00e9ral.",
+        "Official Site": "https://sports-addict.net",
+        "Icon": "https://d1xr1v9etxmhuy.cloudfront.net/img/icon/pwa/sports-icon-180x180.png",
+        "Redirect": "https://sports-addict.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sports-addict.net/fr"
+        "AbstractURL": "https://sports-addict.net"
     },
     {
         "link": "https://statexmonitoring.com",
@@ -258,5 +248,15 @@
         "Redirect": "https://www.teestore.pro/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.teestore.pro/"
+    },
+    {
+        "link": "https://tempcontrolpack.com",
+        "Heading": "Tempk: Supplier of cold chain packaging and solutions",
+        "Abstract": "Tempk offers innovative Cold Chain solutions, include dry ice packs for shipping, insulated thermal bags,insulin coolers and EPP cold shipping boxes...",
+        "Official Site": "https://www.tempcontrolpack.com/",
+        "Icon": "https://www.tempcontrolpack.com/wp-content/uploads/2024/10/logo1.png",
+        "Redirect": "https://www.tempcontrolpack.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tempcontrolpack.com/"
     }
 ]

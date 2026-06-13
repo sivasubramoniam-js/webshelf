@@ -50,16 +50,6 @@
         "AbstractURL": "https://latarnik-kopice.pl/"
     },
     {
-        "link": "https://newdigitalpoint.com",
-        "Heading": "Home - Newdigitalpoint",
-        "Abstract": "Stay updated with the latest in technology news, smartphone trends, and cutting-edge drone innovations\u2014all in one dynamic tech blog.",
-        "Official Site": "https://newdigitalpoint.com/",
-        "Icon": "https://newdigitalpoint.com/wp-content/uploads/2025/09/airtable_698d6267cc015.webp",
-        "Redirect": "https://newdigitalpoint.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://newdigitalpoint.com/"
-    },
-    {
         "link": "https://calligo.cloud",
         "Heading": "Calligo | Transformative Data Management Services",
         "Abstract": "Calligo is a provider of transformative data services, spanning Data Privacy, Data Insights and Managed Cloud",
@@ -88,16 +78,6 @@
         "Redirect": "https://diakonie-dresden.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://diakonie-dresden.de"
-    },
-    {
-        "link": "https://saidthegramophone.com",
-        "Heading": "Said the Gramophone - an mp3 blog",
-        "Abstract": null,
-        "Official Site": "https://saidthegramophone.com",
-        "Icon": "favicon.ico",
-        "Redirect": "https://saidthegramophone.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://saidthegramophone.com"
     },
     {
         "link": "https://irisservers.com",
@@ -201,10 +181,10 @@
     },
     {
         "link": "https://metacreations.com",
-        "Heading": null,
+        "Heading": "MetaCreations",
         "Abstract": null,
         "Official Site": "https://metacreations.com",
-        "Icon": "data:;",
+        "Icon": "https://metacreations.com/wp-content/themes/Avada/assets/images/logo.png",
         "Redirect": "https://metacreations.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://metacreations.com"
@@ -263,11 +243,11 @@
         "link": "https://rockinrobotchallenge.eu",
         "Heading": "Casino Senza Documenti | Migliori Casino Online Senza Verifica e Registrazione",
         "Abstract": "Scopri i migliori casino senza documenti in Italia: slot online senza registrazione, bonus immediati, pagamenti rapidi e meno verifiche. Guida completa 2026.",
-        "Official Site": "https://rockinrobotchallenge.eu/",
+        "Official Site": "https://casino.rockinrobotchallenge.eu/it/",
         "Icon": "https://rockinrobotchallenge.eu/wp-content/uploads/2025/12/cropped-rrc-logo-32x32.jpg",
-        "Redirect": "https://rockinrobotchallenge.eu/",
+        "Redirect": "https://casino.rockinrobotchallenge.eu/it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rockinrobotchallenge.eu/"
+        "AbstractURL": "https://casino.rockinrobotchallenge.eu/it/"
     },
     {
         "link": "https://orepa.jp",

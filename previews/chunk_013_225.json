@@ -70,6 +70,16 @@
         "AbstractURL": "https://mazda-ogn.no"
     },
     {
+        "link": "https://merikhichdi.com",
+        "Heading": "MERI KHICHDI | Food & Recipes \u2014 Trending in the US & Worldwide",
+        "Abstract": "MERI KHICHDI is a next-generation digital media platform delivering the latest trends in the US and India.",
+        "Official Site": "https://merikhichdi.com/",
+        "Icon": "https://merikhichdi.com/images/logo.png",
+        "Redirect": "https://merikhichdi.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://merikhichdi.com/"
+    },
+    {
         "link": "https://metrodenverluxuryhomes.com",
         "Heading": "Denver Luxury Homes For Sale - Colorado Real Estate",
         "Abstract": "Metro Denver Luxury Homes is your source for luxury homes for sale in Colorado. Easily search the MLS and save your favorite homes.",
@@ -78,16 +88,6 @@
         "Redirect": "https://metrodenverluxuryhomes.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://metrodenverluxuryhomes.com/"
-    },
-    {
-        "link": "https://middlecreekprinting.com",
-        "Heading": "Middle Creek Printing  - Middle Creek Printing",
-        "Abstract": "Middle Creek Printing offers Screen Printing, Embroidery, Promotional Products as well as custom online Stores.",
-        "Official Site": "https://middlecreekprinting.com",
-        "Icon": "https://middlecreekprinting.com/media/favicon/stores/1/MiddleCreekAlt_2.png",
-        "Redirect": "https://middlecreekprinting.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://middlecreekprinting.com"
     },
     {
         "link": "https://millenasiaproject.com",
@@ -111,10 +111,10 @@
     },
     {
         "link": "https://mnmsba.org",
-        "Heading": null,
+        "Heading": "Minnesota School Boards Association \u2013 The Minnesota School Boards Association's mission is to support, promote and enhance the work of public school boards and public education",
         "Abstract": null,
         "Official Site": "https://mnmsba.org",
-        "Icon": "data:;",
+        "Icon": "https://mnmsba.org/wp-content/uploads/2021/11/MSBA_fav-2.jpg",
         "Redirect": "https://mnmsba.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mnmsba.org"
@@ -150,14 +150,24 @@
         "AbstractURL": "https://www.mortal-kombat.org/"
     },
     {
-        "link": "https://msgermany.de",
-        "Heading": "MSG Dichtungswerk GmbH | Deutsche Gleitringdichtungen",
-        "Abstract": "Gleitringdichtungen auf h\u00f6chstem Niveau - Seit 1993",
-        "Official Site": "https://www.msgermany.de/de/home//#home",
-        "Icon": "https://www.msgermany.de/img/_layout/logo_fb.png",
-        "Redirect": "https://www.msgermany.de/de/home//#home",
+        "link": "https://moviemash.info",
+        "Heading": "YTS - Download YIFY Movies | YTS.MX Official",
+        "Abstract": "YTS.MX - The official home of YIFY Movies. Download free HD movies in smallest file size. Browse YTS Movies, YIFY torrents in 720p, 1080p and 3D quali...",
+        "Official Site": "https://ytsfree.com/",
+        "Icon": "https://ytsfree.com/images/meta-cover.png",
+        "Redirect": "https://ytsfree.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.msgermany.de/de/home//#home"
+        "AbstractURL": "https://ytsfree.com/"
+    },
+    {
+        "link": "https://msvtimes.com",
+        "Heading": "Site is undergoing maintenance",
+        "Abstract": "PLEASE AWAIT UPDATES.",
+        "Official Site": "https://msvtimes.com",
+        "Icon": "https://msvtimes.com/wp-content/uploads/2026/01/cropped-MSV-Logo-32x32.webp",
+        "Redirect": "https://msvtimes.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://msvtimes.com"
     },
     {
         "link": "https://music-theory-practice.com",

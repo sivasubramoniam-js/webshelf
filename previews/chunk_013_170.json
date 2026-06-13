@@ -141,7 +141,7 @@
     },
     {
         "link": "https://forcecons.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://forcecons.com",
         "Icon": "N/A",
@@ -168,16 +168,6 @@
         "Redirect": "https://avto-forum.name",
         "AbstractSource": "BS4",
         "AbstractURL": "https://avto-forum.name"
-    },
-    {
-        "link": "https://phpsitem.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://phpsitem.com",
-        "Icon": "N/A",
-        "Redirect": "https://phpsitem.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://phpsitem.com"
     },
     {
         "link": "https://cafedirect.co.uk",
@@ -230,16 +220,6 @@
         "AbstractURL": "https://ulusesco.xyz"
     },
     {
-        "link": "https://avianweb.com",
-        "Heading": "Beak School Club. End Problem Bird Behavior For Good",
-        "Abstract": "Force-free parrot training from Cassie Malina. Solve biting, screaming, and cage refusal. Start for $17 your first month, then $67/month. Cancel anytime.",
-        "Official Site": "https://beakschool.com/",
-        "Icon": "https://beakschool.com/assets/cassie-groucho-hero-1400-Bsf3gDuT.jpg",
-        "Redirect": "https://beakschool.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://beakschool.com/"
-    },
-    {
         "link": "https://wecandevelopit.com",
         "Heading": "Expert Custom Software Development Services | WeCanDevelopIt",
         "Abstract": "Trusted partner in custom software solutions, from mobile apps to AI systems. We build secure, scalable IT products that drive business growth.",
@@ -278,6 +258,16 @@
         "Redirect": "https://unitedwaynyc.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://unitedwaynyc.org"
+    },
+    {
+        "link": "https://readitnowusa.top",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://readitnowusa.top",
+        "Icon": "N/A",
+        "Redirect": "https://readitnowusa.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://readitnowusa.top"
     },
     {
         "link": "https://devicetree.org",

@@ -10,16 +10,6 @@
         "AbstractURL": "https://goodygirls.online"
     },
     {
-        "link": "https://mdcn.gov.ng",
-        "Heading": "MEDICAL AND DENTAL COUNCIL OF NIGERIA",
-        "Abstract": null,
-        "Official Site": "https://mdcn.gov.ng",
-        "Icon": "N/A",
-        "Redirect": "https://mdcn.gov.ng",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mdcn.gov.ng"
-    },
-    {
         "link": "https://purobakery.com",
         "Heading": "Home - Puro Pastry &\u00a0Bakery",
         "Abstract": "OUR PRODUCT CELEBRATION CAKE View all products COOKIES View all products BREAD View all products MIDDLE EASTERN SWEETS View all products Days Hour Min Sec",
@@ -48,16 +38,6 @@
         "Redirect": "https://anonwg.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://anonwg.ru"
-    },
-    {
-        "link": "https://pagodapainting.com",
-        "Heading": "Pagoda Painting | Reading, Pa Berks County \u2013 Reading Pa, Berks County Painting Company",
-        "Abstract": null,
-        "Official Site": "https://pagodapainting.com",
-        "Icon": "https://pagodapainting.com/wp-content/uploads/cropped-unnamed-file-32x32.jpeg",
-        "Redirect": "https://pagodapainting.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pagodapainting.com"
     },
     {
         "link": "https://technologiestiftung-berlin.de",
@@ -111,13 +91,13 @@
     },
     {
         "link": "https://fet-ev.eu",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://fet-ev.eu",
-        "Icon": "data:;",
-        "Redirect": "https://fet-ev.eu",
+        "Heading": "Start | FETeV",
+        "Abstract": "Finden Sie wissenschaftliche Updates, Recherche-Tools und hilfreiche Leitf\u00e4den f\u00fcr Ihre t\u00e4gliche Arbeit in der Ern\u00e4hrungstherapie.",
+        "Official Site": "https://fet-ev.eu/",
+        "Icon": "https://fet-ev.eu/wp-content/uploads/2023/11/cropped-cropped-logo-web-klein.png",
+        "Redirect": "https://fet-ev.eu/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fet-ev.eu"
+        "AbstractURL": "https://fet-ev.eu/"
     },
     {
         "link": "https://mercerstreetsalon.com",
@@ -160,16 +140,6 @@
         "AbstractURL": "https://www.interparfumsinc.com"
     },
     {
-        "link": "https://freestudentloanadvice.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://freestudentloanadvice.org",
-        "Icon": "data:;",
-        "Redirect": "https://freestudentloanadvice.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://freestudentloanadvice.org"
-    },
-    {
         "link": "https://seamlessflooring.com",
         "Heading": "Seamless Flooring",
         "Abstract": null,
@@ -191,7 +161,7 @@
     },
     {
         "link": "https://1024kk.com",
-        "Heading": "\u6751\u4e0a\u6625\u6811 - \u540d\u4eba\u540d\u8a00",
+        "Heading": "\u6ce2\u4f0f\u5a03 - \u540d\u4eba\u540d\u8a00",
         "Abstract": null,
         "Official Site": "https://1024kk.com",
         "Icon": "N/A",
@@ -210,16 +180,6 @@
         "AbstractURL": "https://goodwrite.pl/"
     },
     {
-        "link": "https://creative-crafts.com",
-        "Heading": "Creative Crafts - We have it all, Mayco Colors, Amaco and Spectrum Glazes, Laguna Clay, Skutt Kilns and Pottery Supplies",
-        "Abstract": "Creative Crafts is Louisiana's largest wholesale ceramic bisque and color distributor for Mayco Colors and Amaco Products.  We stock Laguna clay, Skutt Kilns, Xiem tools, Kemper tools, clay molds, ceramic brushes and many other decorating accessories along with a complete line of ready to paint ceramic bisque to serve the needs of today's hobbyist, do it your self potters, art teachers. organization and store front paint your own pottery business owners.",
-        "Official Site": "https://creative-crafts.com",
-        "Icon": "https://www.creative-crafts.com/image/catalog/image003.png",
-        "Redirect": "https://creative-crafts.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://creative-crafts.com"
-    },
-    {
         "link": "https://clannet.co.uk",
         "Heading": "CLANNET Broadband",
         "Abstract": null,
@@ -230,16 +190,6 @@
         "AbstractURL": "https://clannet.co.uk"
     },
     {
-        "link": "https://msoynet.com",
-        "Heading": "Valokuitu kotiin - vakaa ja nopea nettiyhteys Valoolta",
-        "Abstract": "Valokuitu tarjoaa vakaan ja h\u00e4iri\u00f6tt\u00f6m\u00e4n netin kotiin. Valoo rakentaa luotettavaa valokuituverkkoa Suomessa. Tarkista saatavuus kotiisi.",
-        "Official Site": "https://www.valoo.fi/",
-        "Icon": "https://www.valoo.fi/wp-content/uploads/2024/01/valoo-valokuitu-logo-artikkelikuva-jpg.webp",
-        "Redirect": "https://www.valoo.fi/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.valoo.fi/"
-    },
-    {
         "link": "https://malcolm.tech",
         "Heading": "Malcolm Technology - Sivas\u2019\u0131n Lider Yaz\u0131l\u0131m ve Signage Firmas\u0131",
         "Abstract": "Malcolm Technology, Sivas merkezli lider bir teknoloji firmas\u0131d\u0131r. Yapay zeka, dijital signage, web geli\u015ftirme ve mobil uygulama \u00e7\u00f6z\u00fcmleriyle i\u015fletmenizi gelece\u011fe ta\u015f\u0131y\u0131n.",
@@ -248,6 +198,26 @@
         "Redirect": "https://malcolm.tech",
         "AbstractSource": "BS4",
         "AbstractURL": "https://malcolm.tech"
+    },
+    {
+        "link": "https://premiumcartshop.com",
+        "Heading": "Buy Weed Online | Buy Marijuana Online in USA",
+        "Abstract": "Buy high quality cannabis strains like Biscotti , moonrocks, amnesia haze, live resin, hashish and vape carts at very affordable prices.",
+        "Official Site": "https://premiumcartshop.com/",
+        "Icon": "https://premiumcartshop.com/wp-content/uploads/2024/07/premiumcartshop-banner-1-1.jpg",
+        "Redirect": "https://premiumcartshop.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://premiumcartshop.com/"
+    },
+    {
+        "link": "https://alabadvogados.com.br",
+        "Heading": "ALAB Advogados Associados",
+        "Abstract": null,
+        "Official Site": "https://alabadvogados.com.br",
+        "Icon": "N/A",
+        "Redirect": "https://alabadvogados.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alabadvogados.com.br"
     },
     {
         "link": "https://uniqueinsuranceco.com",
@@ -298,16 +268,6 @@
         "Redirect": "https://exhibitionstage.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://exhibitionstage.com/"
-    },
-    {
-        "link": "https://thethaicuisine.vn",
-        "Heading": "THE THAI CUISINE - Th\u01b0\u01a1ng hi\u1ec7u m\u00f3n Th\u00e1i v\u1ecb Nguy\u00ean B\u1ea3n",
-        "Abstract": null,
-        "Official Site": "https://thethaicuisine.vn/",
-        "Icon": "N/A",
-        "Redirect": "https://thethaicuisine.vn/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thethaicuisine.vn/"
     },
     {
         "link": "https://livefashionable.com",

@@ -20,16 +20,6 @@
         "AbstractURL": "https://imagesofoldhawaii.com/"
     },
     {
-        "link": "https://ibero909.fm",
-        "Heading": "IBERO 90.9 FM",
-        "Abstract": "Ibero 90.9 es un ant\u00eddoto contra el silencio intolerable. Una estaci\u00f3n de la Universidad Iberoamericana.",
-        "Official Site": "https://ibero909.fm/",
-        "Icon": "https://ibero909.fm/wp-content/uploads/2025/06/social_radio_ibero.jpg",
-        "Redirect": "https://ibero909.fm/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ibero909.fm/"
-    },
-    {
         "link": "https://garten-deals.de",
         "Heading": "Garten-Deals - Ihr H\u00e4ngematten und Gartenm\u00f6bel Onlineshop",
         "Abstract": null,
@@ -48,6 +38,16 @@
         "Redirect": "https://gbls.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gbls.org"
+    },
+    {
+        "link": "https://uzts-sedin.com",
+        "Heading": "\u042e\u0436\u043d\u044b\u0439 \u0437\u0430\u0432\u043e\u0434 \u0442\u044f\u0436\u0435\u043b\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u043a\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f",
+        "Abstract": null,
+        "Official Site": "https://uzts-sedin.com",
+        "Icon": "images/favicon/favicon-16x16.png",
+        "Redirect": "https://uzts-sedin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uzts-sedin.com"
     },
     {
         "link": "https://win-eldorados.xyz",
@@ -71,7 +71,7 @@
     },
     {
         "link": "https://vremennaya-reg.ru",
-        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 09.06.2026 ",
+        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 12.06.2026 ",
         "Abstract": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u043d\u0430\u0434\u0435\u0436\u043d\u043e.",
         "Official Site": "https://vremennaya-reg.ru",
         "Icon": "untitled-1.ico",
@@ -288,15 +288,5 @@
         "Redirect": "https://signalroad.co/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://signalroad.co/"
-    },
-    {
-        "link": "https://ondis24.com",
-        "Heading": "Ondis24 - Gro\u00dfe Auswahl an Garten- und Haushaltsprodukten | Startseite",
-        "Abstract": "Ondis24 Der Onlineshop f\u00fcr Kunststoffschr\u00e4nke, Aufbewahrungsboxen, muelltonnenbox, gartenschuppen, aufbewahrungsbox, ordnungsboxen, rollerboxen, Gartenboxen, M\u00fclltonnenboxen, Werkstatteinrichtung und Spielzeug f\u00fcr drau\u00dfen, Rutschen, sandk\u00e4sten, spielhaus garten, gartenschrank und rollschrank.",
-        "Official Site": "https://www.ondis24.com/",
-        "Icon": "https://www.ondis24.com/out/ondis242024/img/basket.png",
-        "Redirect": "https://www.ondis24.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ondis24.com/"
     }
 ]

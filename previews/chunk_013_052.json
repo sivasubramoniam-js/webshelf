@@ -41,13 +41,13 @@
     },
     {
         "link": "https://fridayapp.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://fridayapp.com",
-        "Icon": "data:;",
-        "Redirect": "https://fridayapp.com",
+        "Heading": "FRIDAY: The Simplest Small Business Payroll Software \ud83d\ude80",
+        "Abstract": "FRIDAY\u2122 is the #1 small business payroll software.\ud83c\udfc6 Run payroll in seconds, track time, onboard, manage PTO, and keep your team connected.\ud83d\udcac",
+        "Official Site": "https://fridayapp.com/",
+        "Icon": "https://fridayapp.com/wp-content/uploads/2025/05/Friday-open-graph.png",
+        "Redirect": "https://fridayapp.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fridayapp.com"
+        "AbstractURL": "https://fridayapp.com/"
     },
     {
         "link": "https://froutino.gr",
@@ -58,16 +58,6 @@
         "Redirect": "https://froutino.gr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://froutino.gr/"
-    },
-    {
-        "link": "https://fuerteventurabesthotels.com",
-        "Heading": "Fuerteventura hotels & apartments, all accommodations in Fuerteventura",
-        "Abstract": "Online booking for hotels in Fuerteventura, Spain. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
-        "Official Site": "https://fuerteventurabesthotels.com",
-        "Icon": "N/A",
-        "Redirect": "https://fuerteventurabesthotels.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fuerteventurabesthotels.com"
     },
     {
         "link": "https://fundd.org",
@@ -160,6 +150,16 @@
         "AbstractURL": "https://getcccam.com/cccam%20premium"
     },
     {
+        "link": "https://giboo.com",
+        "Heading": "Giboo \u2014 Find Grants, Funders & Nonprofits | AI-Powered Matching",
+        "Abstract": "Giboo is an AI-powered platform that helps nonprofits find and connect with the right grants, funders, and donors through smart, personalized matching.",
+        "Official Site": "https://www.giboo.com",
+        "Icon": "https://www.giboo.com/og.png",
+        "Redirect": "https://www.giboo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.giboo.com"
+    },
+    {
         "link": "https://giocattolicreativi.it",
         "Heading": "Giochi Montessori per Bambini - Vendita Giocattoli Online",
         "Abstract": "Acquista online i migliori giocattoli Montessori in legno, giochi creativi, giocattoli educativi per bambini da 0 a 12 anni. Pronta consegna e prezzi bassi. Spedizione in 24 ore.",
@@ -178,6 +178,16 @@
         "Redirect": "https://glencoe-plumbing.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://glencoe-plumbing.com"
+    },
+    {
+        "link": "https://gonetex.com",
+        "Heading": "Home - Netex Enterprises Inc.",
+        "Abstract": "Hire Netex Managed Services Today! We innovate. You thrive. We make IT your most precious asset. Located in Toronto, Canada.",
+        "Official Site": "https://gonetex.com/",
+        "Icon": "https://gonetex.com/wp-content/uploads/2021/08/logo.png",
+        "Redirect": "https://gonetex.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gonetex.com/"
     },
     {
         "link": "https://goodricecake.com",
@@ -240,13 +250,13 @@
         "AbstractURL": "https://www.groningenmarkt.nl"
     },
     {
-        "link": "https://grossisteturquie.com",
-        "Heading": "GrossisteTurquie.com | Grossiste Abaya et Grossiste Hijab\n",
-        "Abstract": "Votre source de confiance en tant que grossiste abayas et grossiste hijab de qualit\u00e9. Parcourez notre collection en gros, offrant une vari\u00e9t\u00e9 de designs exquis pour satisfaire vos clients. Devenez le vendeur privil\u00e9gi\u00e9 de mode abaya et hijab avec nos offres de gros",
-        "Official Site": "https://grossisteturquie.com/",
-        "Icon": "http://grossisteturquie.com/cdn/shop/files/grossiste-abaya.jpg?v=1693508682",
-        "Redirect": "https://grossisteturquie.com/",
+        "link": "https://grosvenorprints.com",
+        "Heading": "Grosvenor Prints",
+        "Abstract": null,
+        "Official Site": "https://grosvenorprints.com",
+        "Icon": "N/A",
+        "Redirect": "https://grosvenorprints.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://grossisteturquie.com/"
+        "AbstractURL": "https://grosvenorprints.com"
     }
 ]

@@ -30,16 +30,6 @@
         "AbstractURL": "https://rcoutfitters.net/"
     },
     {
-        "link": "https://rctrax.pl",
-        "Heading": "Sklep RCTRAX",
-        "Abstract": "Sklep modelarski i serwis Szczecin. Zdalnie sterowane auta Team Corally, Vanquish, Traxxas, Maverick, BlackZon, HPI Racing, samoloty, \u0142odzie, cz\u0119\u015bci zamienne.",
-        "Official Site": "https://rctrax.pl",
-        "Icon": "./favicon.ico",
-        "Redirect": "https://rctrax.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rctrax.pl"
-    },
-    {
         "link": "https://reatonfood.eu",
         "Heading": "Reaton Food Online Ordering | Reaton Food Online Ordering",
         "Abstract": "Reaton p\u0101rtikas produktu tirdzniec\u012bbas departaments savu darb\u012bbu s\u0101ka 1993. gad\u0101. Jau vair\u0101k k\u0101 25 gadus Reaton Baltij\u0101 ie\u0146em stabilas tirgus l\u012bdera poz\u012bcijas augstv\u0113rt\u012bgu p\u0101rtikas produktu tirdzniec\u012bbas nozar\u0113.",
@@ -58,6 +48,16 @@
         "Redirect": "https://recampro.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://recampro.com"
+    },
+    {
+        "link": "https://recursocoral.com.ar",
+        "Heading": "||: Recurso Coral",
+        "Abstract": "Agrupando Informaci\u00f3n \u00datil para Directores y Cantantes de Coro. Herramienta de intercambio, estudio y consulta.",
+        "Official Site": "https://recursocoral.com.ar/",
+        "Icon": "https://recursocoral.com.ar/wp-content/uploads/2021/09/cropped-logorc-1-32x32.png",
+        "Redirect": "https://recursocoral.com.ar/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://recursocoral.com.ar/"
     },
     {
         "link": "https://redcotton.com",
@@ -128,16 +128,6 @@
         "Redirect": "https://www.rimfireaccuracy.com/Forum/index.php",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.rimfireaccuracy.com/Forum/index.php"
-    },
-    {
-        "link": "https://riskmerkezi.org",
-        "Heading": "Anasayfa | TBB Risk Merkezi",
-        "Abstract": null,
-        "Official Site": "https://riskmerkezi.org",
-        "Icon": "/themes/custom/riskmerkezi/favicon.ico",
-        "Redirect": "https://riskmerkezi.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://riskmerkezi.org"
     },
     {
         "link": "https://risperstyling.com",
@@ -354,20 +344,10 @@
         "Heading": "\n      Sang-e-meel Publications\n",
         "Abstract": "Based in Lahore, Pakistan Sang-e-meel Publications is a publishing house focused on the promotion of South Asian literature.",
         "Official Site": "https://sangemeel.shop/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0119/4776/9918/files/web_logo2_f9e565cf-473c-404d-b02f-5f2446df9ce4.png?height=628&pad_color=ffffff&v=1655926045&width=1200",
+        "Icon": "http://sangemeel.shop/cdn/shop/files/web_logo2_f9e565cf-473c-404d-b02f-5f2446df9ce4.png?height=628&pad_color=ffffff&v=1655926045&width=1200",
         "Redirect": "https://sangemeel.shop/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sangemeel.shop/"
-    },
-    {
-        "link": "https://santamariasaude.pt",
-        "Heading": "Santa Maria Health School - Porto - Ensino Superior Polit\u00e9cnico",
-        "Abstract": "Ensino Superior Polit\u00e9cnico",
-        "Official Site": "https://www.santamariasaude.pt/",
-        "Icon": "https://www.santamariasaude.pt/wp-content/uploads/2025/06/cropped-1-1-32x32.png",
-        "Redirect": "https://www.santamariasaude.pt/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.santamariasaude.pt/"
     },
     {
         "link": "https://santamartaaldia.co",
@@ -378,16 +358,6 @@
         "Redirect": "https://santamartaaldia.co/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://santamartaaldia.co/"
-    },
-    {
-        "link": "https://santiamhospital.org",
-        "Heading": "Home - Santiam Hospital",
-        "Abstract": "Experience compassionate, community-focused healthcare at Santiam Hospital & Clinics. Discover our services and connect with our caring team today.",
-        "Official Site": "https://santiamhospital.org/",
-        "Icon": "https://santiamhospital.org/wp-content/uploads/2025/07/Heading.jpg",
-        "Redirect": "https://santiamhospital.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://santiamhospital.org/"
     },
     {
         "link": "https://sanvemaybay.vn",

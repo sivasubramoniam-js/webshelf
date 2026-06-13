@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://noxwealth.com",
-        "Heading": "Home - NoxWealth",
-        "Abstract": "Discover NoxWealth Investments, your trusted platform for tailored investment plans, real-time market insights, and advanced tools to build wealth with confidence.",
-        "Official Site": "https://noxwealth.com",
-        "Icon": "/static/home/assets/img/favicon.png",
-        "Redirect": "https://noxwealth.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://noxwealth.com"
-    },
-    {
         "link": "https://museumofus.org",
         "Heading": "Home - Museum of Us",
         "Abstract": "The Museum of Us is a cultural anthropology museum with immersive experiences about the human experience. ",
@@ -18,6 +8,16 @@
         "Redirect": "https://www.museumofus.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.museumofus.org"
+    },
+    {
+        "link": "https://similacrecall.com",
+        "Heading": "Abbott Recall | Powder Infant Formulas ",
+        "Abstract": "Home for info about the recall of powder infant formulas and 2 fl oz ready-to-feed liquid products.",
+        "Official Site": "https://www.similacrecall.com/us/en/home.html",
+        "Icon": "https://www.similacrecall.com/etc.clientlibs/abbott-platform/clientlibs/clientlib-site/resources/images/abbott-logo.png",
+        "Redirect": "https://www.similacrecall.com/us/en/home.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.similacrecall.com/us/en/home.html"
     },
     {
         "link": "https://wert14.de",
@@ -58,16 +58,6 @@
         "Redirect": "https://www.pulsecharge.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.pulsecharge.com.au/"
-    },
-    {
-        "link": "https://ourkidthings.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ourkidthings.com",
-        "Icon": "data:;",
-        "Redirect": "https://ourkidthings.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ourkidthings.com"
     },
     {
         "link": "https://primelineenergy.com",
@@ -208,15 +198,5 @@
         "Redirect": "https://popstocksenergy.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://popstocksenergy.com"
-    },
-    {
-        "link": "https://educationaltoys.pk",
-        "Heading": "Pakistan's # 1 Educational Toys Store - Buy Learning Materials Online",
-        "Abstract": "Buy Award winning educational toys in Pakistan online. Wide range of learning materials. Flash cards, puzzles, cloth books, STEM, blocks and wooden toys etc.",
-        "Official Site": "https://www.educationaltoys.pk/",
-        "Icon": "https://www.educationaltoys.pk/wp-content/uploads/2020/07/facebook-thumbnail-1.jpg",
-        "Redirect": "https://www.educationaltoys.pk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.educationaltoys.pk/"
     }
 ]

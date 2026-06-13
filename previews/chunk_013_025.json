@@ -54,7 +54,7 @@
         "Heading": "EDM Dance Directory \u2014 DJs, Festivals & Clubs Worldwide",
         "Abstract": "Global directory of electronic music events, DJs and venues. Browse artists, festivals and clubs across cities worldwide and find what's on tonight.",
         "Official Site": "https://edmdancedirectory.com/",
-        "Icon": "https://edmdancedirectory.com/api/img?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab6761610000e5ebecb23a5f80883b6d546f3c96&w=1200",
+        "Icon": "https://edmdancedirectory.com/api/img?url=https%3A%2F%2Fi.scdn.co%2Fimage%2F8645d53e98ed22882600aa690c9d4c5ebc560776&w=1200",
         "Redirect": "https://edmdancedirectory.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://edmdancedirectory.com/"
@@ -141,10 +141,10 @@
     },
     {
         "link": "https://emwhg.com",
-        "Heading": null,
+        "Heading": "\u8bf7\u9a8c\u8bc1... / Please verify...",
         "Abstract": null,
         "Official Site": "https://emwhg.com",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://emwhg.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://emwhg.com"
@@ -191,13 +191,13 @@
     },
     {
         "link": "https://equippos.com",
-        "Heading": "403 Forbidden",
-        "Abstract": null,
-        "Official Site": "https://equippos.com",
-        "Icon": "N/A",
-        "Redirect": "https://equippos.com",
+        "Heading": "Tienda H\u00edpica y Equitaci\u00f3n Online",
+        "Abstract": "Tienda de productos y ropa de H\u00edpica y Equitaci\u00f3n en Barcelona con m\u00e1s de 5.000 productos en stock. \u00a1Env\u00edos en 24h!",
+        "Official Site": "https://www.equippos.com/es/",
+        "Icon": "https://www.equippos.com/img/cms/Equippos Logo.jpg",
+        "Redirect": "https://www.equippos.com/es/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://equippos.com"
+        "AbstractURL": "https://www.equippos.com/es/"
     },
     {
         "link": "https://equn-uguvy.store",
@@ -218,16 +218,6 @@
         "Redirect": "https://erajo-fapa.online",
         "AbstractSource": "BS4",
         "AbstractURL": "https://erajo-fapa.online"
-    },
-    {
-        "link": "https://eransa.cz",
-        "Heading": "ERANSA s.r.o.",
-        "Abstract": "Online obchod stavebn\u00e9ho materi\u00e1lu",
-        "Official Site": "https://eransa.cz",
-        "Icon": "https://eransa.cz/img/favicon.ico?1688045060",
-        "Redirect": "https://eransa.cz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eransa.cz"
     },
     {
         "link": "https://espuntik.sk",

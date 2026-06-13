@@ -60,6 +60,16 @@
         "AbstractURL": "https://headius.com/"
     },
     {
+        "link": "https://psd-server11.com",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://psd-server11.com",
+        "Icon": "N/A",
+        "Redirect": "https://psd-server11.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://psd-server11.com"
+    },
+    {
         "link": "https://kupi-prava-2n7e.ru",
         "Heading": "Success!",
         "Abstract": null,
@@ -128,16 +138,6 @@
         "Redirect": "http://garyjohnson2012.com/front",
         "AbstractSource": "BS4",
         "AbstractURL": "http://garyjohnson2012.com/front"
-    },
-    {
-        "link": "https://ribdom.ru",
-        "Heading": "\u0410\u041a\u0412\u0410\u0420\u0418\u0423\u041c\u041d\u042b\u0415 \u0420\u042b\u0411\u041a\u0418 \u041a\u0423\u041f\u0418\u0422\u042c \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0420\u042b\u0411\u041a\u0410 \u0414\u041e\u041c\u0410.",
-        "Abstract": null,
-        "Official Site": "https://ribdom.ru",
-        "Icon": "favicon.ico",
-        "Redirect": "https://ribdom.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ribdom.ru"
     },
     {
         "link": "https://majortom.com",
@@ -228,6 +228,16 @@
         "Redirect": "https://www.raineit.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.raineit.eu/"
+    },
+    {
+        "link": "https://wellacompany.com",
+        "Heading": "Wella Company",
+        "Abstract": "Wella Company is one of the world\u2019s leading beauty companies, comprised of a family of iconic brands including Wella Professionals, O\u00b7P\u00b7I, ghd, Briogeo, Nioxin, Sebastian Professional and Clairol.",
+        "Official Site": "https://wellacompany.com",
+        "Icon": "/themes/custom/wella/favicon.ico",
+        "Redirect": "https://wellacompany.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wellacompany.com"
     },
     {
         "link": "https://vus-tour.ru",

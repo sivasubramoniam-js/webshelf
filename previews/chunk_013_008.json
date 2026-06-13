@@ -60,6 +60,16 @@
         "AbstractURL": "https://frenchbulldogclub.org/"
     },
     {
+        "link": "https://orapages.com",
+        "Heading": "Redirecting...",
+        "Abstract": null,
+        "Official Site": "https://orapages.com",
+        "Icon": "N/A",
+        "Redirect": "https://orapages.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://orapages.com"
+    },
+    {
         "link": "https://worldwar3.com",
         "Heading": "World War 3 - Tactical Online FPS Action",
         "Abstract": "World War 3 is an online multiplayer first-person shooter game where the world is your battleground. Play for FREE on Windows PC to experience a wealth of modes, loadout options, maps, and more!",
@@ -182,12 +192,12 @@
     {
         "link": "https://pitchdrive.com",
         "Heading": "Pitchdrive \u2014 A fund built by people who already sat in your chair",
-        "Abstract": null,
-        "Official Site": "https://pitchdrive.com",
-        "Icon": "/assets/favicon-64.png",
-        "Redirect": "https://pitchdrive.com",
+        "Abstract": "An operator-led pre-seed & seed VC backing Europe's boldest founders, building alongside them from day one.",
+        "Official Site": "https://www.pitchdrive.com/",
+        "Icon": "https://www.pitchdrive.com/assets/logo-3d.png",
+        "Redirect": "https://www.pitchdrive.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pitchdrive.com"
+        "AbstractURL": "https://www.pitchdrive.com/"
     },
     {
         "link": "https://medyaa.com.tr",

@@ -30,16 +30,6 @@
         "AbstractURL": "https://tealtech.com/"
     },
     {
-        "link": "https://schulinck.nl",
-        "Heading": "Schulinck - Wolters Kluwer",
-        "Abstract": "Met de diensten van Schulinck, onderdeel van Wolters Kluwer, beschikt u altijd over actuele kennis binnen het sociaal domein en omgevingsrecht in Nederland.",
-        "Official Site": "https://www.schulinck.nl/",
-        "Icon": "https://www.schulinck.nl/app/uploads/Schulinck_Header_Homepage_1920x1080_web-1.jpg",
-        "Redirect": "https://www.schulinck.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.schulinck.nl/"
-    },
-    {
         "link": "https://poluchit-prava-5t7i.ru",
         "Heading": "Success!",
         "Abstract": null,
@@ -241,7 +231,7 @@
     },
     {
         "link": "https://chubu-mitsubishi-motor-sales.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://chubu-mitsubishi-motor-sales.com",
         "Icon": "N/A",

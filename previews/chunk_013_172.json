@@ -80,6 +80,16 @@
         "AbstractURL": "https://ruffedgrousesociety.org"
     },
     {
+        "link": "https://mauiunitedway.org",
+        "Heading": "Maui United Way |",
+        "Abstract": "We work to meet the immediate needs of our neighbors and fight for stronger, more equitable communities",
+        "Official Site": "https://www.mauiunitedway.org/",
+        "Icon": "https://share-image.png",
+        "Redirect": "https://www.mauiunitedway.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mauiunitedway.org/"
+    },
+    {
         "link": "https://joyapproach.ee",
         "Heading": "O\u00dc Joy Approach",
         "Abstract": null,
@@ -121,13 +131,13 @@
     },
     {
         "link": "https://cityartsmagazine.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://cityartsmagazine.com",
-        "Icon": "data:;",
-        "Redirect": "https://cityartsmagazine.com",
+        "Heading": "City Arts Magazine - Creative minds, compelling stories",
+        "Abstract": "Creative minds, compelling stories",
+        "Official Site": "https://www.cityartsmagazine.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.cityartsmagazine.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cityartsmagazine.com"
+        "AbstractURL": "https://www.cityartsmagazine.com/"
     },
     {
         "link": "https://trisuladata.net.id",
@@ -171,13 +181,23 @@
     },
     {
         "link": "https://yunquna.com",
-        "Heading": "\u8de8\u5883\u7535\u5546\u7269\u6d41_\u5317\u7f8e\u6d77\u5916\u4ed3_\u56fd\u9645\u7269\u6d41\u5e73\u53f0-\u8fd0\u53bb\u54ea\u8d27\u4ee3\u5e73\u53f0",
-        "Abstract": "\u4f5c\u4e3a\u5168\u7403\u6570\u5b57\u5316\u7269\u6d41\u670d\u52a1\u4e13\u5bb6\uff0c\u8fd0\u53bb\u54ea\u4f9d\u6258\u9886\u5148\u7684\u7269\u6d41\u79d1\u6280\u6280\u672f\uff0c\u4e3a\u5168\u7403\u51fa\u6d77\u5ba2\u6237\u63d0\u4f9b\u987e\u95ee\u5f0f\u7684\u56fd\u9645\u7269\u6d41\u670d\u52a1\u53ca\u4e13\u4e1a\u7ec6\u81f4\u7684\u7269\u6d41\u89e3\u51b3\u65b9\u6848\u3002\u505a\u4e3a\u4e00\u4e2a\u56fd\u9645\u8d27\u4ee3\u5e73\u53f0\uff0c\u8fd0\u53bb\u54ea\u5e73\u53f0\u63d0\u4f9b\u56fd\u9645\u7269\u6d41\u89e3\u51b3\u65b9\u6848\u3001\u7f8e\u56fd\u3001\u52a0\u62ff\u5927\u3001\u58a8\u897f\u54e5\u6d77\u5916\u4ed3\u670d\u52a1\u4ee5\u53ca\u8de8\u5883\u7535\u5546\u7269\u6d41\u670d\u52a1\u3002",
-        "Official Site": "https://www.yqn.com",
-        "Icon": "https://srfiles.yqn.com/fe/63001/18a8edfa-691b-4578-b790-43e8dd4f089f/LinkedIn%20Thumbnail.png",
-        "Redirect": "https://www.yqn.com",
+        "Heading": "YQN | Instant Freight Rates Online - Free Sign up",
+        "Abstract": "YQNLink is a China leading digial freight forwarder offering professional online freight services.",
+        "Official Site": "https://yunquna.com",
+        "Icon": "N/A",
+        "Redirect": "https://yunquna.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.yqn.com"
+        "AbstractURL": "https://yunquna.com"
+    },
+    {
+        "link": "https://elcortijoperu.com",
+        "Heading": "Centro de Servicios El Cortijo",
+        "Abstract": null,
+        "Official Site": "https://elcortijoperu.com",
+        "Icon": "https://elcortijoperu.com/wp-content/uploads/cropped-logo-elcortijo-32x32.png",
+        "Redirect": "https://elcortijoperu.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elcortijoperu.com"
     },
     {
         "link": "https://cutpricepharmacy.com.au",
@@ -191,13 +211,13 @@
     },
     {
         "link": "https://chicisimo.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://chicisimo.com",
-        "Icon": "data:;",
-        "Redirect": "https://chicisimo.com",
+        "Heading": "Chicisimo - Build with fashion shoppers' taste data",
+        "Abstract": "Chicisimo helps fashion retailers build with shoppers' taste-data. Fashion ontologies, fashion taste graph, taste profiles, virtual closets...",
+        "Official Site": "https://chicisimo.com/",
+        "Icon": "https://chicisimo.com/wp-content/uploads/2020/07/cropped-app_icon-1-32x32.jpg",
+        "Redirect": "https://chicisimo.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chicisimo.com"
+        "AbstractURL": "https://chicisimo.com/"
     },
     {
         "link": "https://sudan.net",
@@ -208,16 +228,6 @@
         "Redirect": "https://sudan.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sudan.net"
-    },
-    {
-        "link": "https://tidaholmsvagnar.se",
-        "Heading": "The cars Tidaholms",
-        "Abstract": "The cars Tidaholms",
-        "Official Site": "https://tidaholmsvagnar.se",
-        "Icon": "N/A",
-        "Redirect": "https://tidaholmsvagnar.se",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tidaholmsvagnar.se"
     },
     {
         "link": "https://mandalasystem.com",
@@ -248,15 +258,5 @@
         "Redirect": "https://radiodisneyclub.fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://radiodisneyclub.fr/"
-    },
-    {
-        "link": "https://marvelous-usa.com",
-        "Heading": "Home | Marvelous USA",
-        "Abstract": "Delivering unique, innovative titles across multiple platforms and genres, XSEED Games is dedicated to publishing products that appeal to and enrich the North American market.",
-        "Official Site": "https://marvelous-usa.com/",
-        "Icon": "https://marvelous-usa.com/wp-content/uploads/2024/08/MARVELOUS_Favicon_192x192-100x100.png",
-        "Redirect": "https://marvelous-usa.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://marvelous-usa.com/"
     }
 ]

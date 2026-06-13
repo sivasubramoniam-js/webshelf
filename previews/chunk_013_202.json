@@ -120,6 +120,16 @@
         "AbstractURL": "https://fasab.gov"
     },
     {
+        "link": "https://newsserviceflorida.com",
+        "Heading": "newsserviceflorida.com | Independent and Indispensable",
+        "Abstract": "",
+        "Official Site": "https://www.newsserviceflorida.com/",
+        "Icon": "https://www.newsserviceflorida.com/content/tncms/site/icon.ico",
+        "Redirect": "https://www.newsserviceflorida.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.newsserviceflorida.com/"
+    },
+    {
         "link": "https://medakahonpo.com",
         "Heading": "Sorry, the website has been stopped",
         "Abstract": null,
@@ -278,15 +288,5 @@
         "Redirect": "https://tattoos.gallery",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tattoos.gallery"
-    },
-    {
-        "link": "https://cooperativeindividualism.org",
-        "Heading": "The School of Cooperative Individualism",
-        "Abstract": null,
-        "Official Site": "https://hotels-grancanaria.com/",
-        "Icon": "https://hotels-grancanaria.com/favicon.ico",
-        "Redirect": "https://hotels-grancanaria.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hotels-grancanaria.com/"
     }
 ]

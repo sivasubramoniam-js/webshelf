@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.minkstubalduremontas.lt/"
     },
     {
+        "link": "https://lowndessignal.com",
+        "Heading": "Lowndes Signal",
+        "Abstract": "The latest news, stories, and articles from Lowndes Signal.",
+        "Official Site": "https://www.lowndessignal.com",
+        "Icon": "https://public-assets-prod.pubgen.ai/brand_2a6e18e4-d44b-4b35-8db4-7e100a4d670f/asset_4f01fc65-265e-4126-9ed3-c82bd541cb7b.png?w=1200",
+        "Redirect": "https://www.lowndessignal.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lowndessignal.com"
+    },
+    {
         "link": "https://notiyard.xyz",
         "Heading": null,
         "Abstract": null,
@@ -100,16 +110,6 @@
         "AbstractURL": "/"
     },
     {
-        "link": "https://svoboda-news.com",
-        "Heading": "Home page - \"\u0421\u0432\u043e\u0431\u043e\u0434\u0430\"",
-        "Abstract": "June 4, 2026 1:08 pmBy \u042e\u043b\u0456\u044f \u0417\u0430\u0445\u0430\u0440\u0435\u0432\u0438\u0447, \u0420\u0430\u0434\u0456\u043e \u0421\u0432\u043e\u0431\u043e\u0434\u04303 Mins Read",
-        "Official Site": "https://subscription.svoboda-news.com/",
-        "Icon": "https://subscription.svoboda-news.com/wp-content/uploads/SV-logo768x240.png",
-        "Redirect": "https://subscription.svoboda-news.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://subscription.svoboda-news.com/"
-    },
-    {
         "link": "https://guitarnine.com",
         "Heading": "Guitar Nine | The Guitar Player's Resource",
         "Abstract": null,
@@ -148,16 +148,6 @@
         "Redirect": "https://altitcon.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://altitcon.com"
-    },
-    {
-        "link": "https://poumon.ca",
-        "Heading": "Canadian Lung Association | Protecting lung health and managing lung disease since 1900",
-        "Abstract": "The Canadian Lung Association funds research, supports lung disease self management and protects the lungs of everyone in Canada.",
-        "Official Site": "https://www.lung.ca/",
-        "Icon": "https://www.lung.ca/wp-content/uploads/2025/10/favicon_1.png",
-        "Redirect": "https://www.lung.ca/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lung.ca/"
     },
     {
         "link": "https://direttafacile.it",

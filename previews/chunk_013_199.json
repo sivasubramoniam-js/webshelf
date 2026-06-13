@@ -1,13 +1,13 @@
 [
     {
         "link": "https://staggallery.com",
-        "Heading": null,
+        "Heading": "Home - The Stag Gallery",
         "Abstract": null,
-        "Official Site": "https://staggallery.com",
-        "Icon": "data:;",
-        "Redirect": "https://staggallery.com",
+        "Official Site": "https://staggallery.com/",
+        "Icon": "https://staggallery.com/wp-content/uploads/2025/03/cropped-stag-gallery-icon-32x32.png",
+        "Redirect": "https://staggallery.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://staggallery.com"
+        "AbstractURL": "https://staggallery.com/"
     },
     {
         "link": "https://legendzizou.com",
@@ -38,6 +38,16 @@
         "Redirect": "https://pentagonmemorial.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pentagonmemorial.org/"
+    },
+    {
+        "link": "https://cerescourier.com",
+        "Heading": "\n                Ceres Courier - Ceres Courier\n            ",
+        "Abstract": "Ceres Courier",
+        "Official Site": "https://www.cerescourier.com/",
+        "Icon": "https://centralca.cdn-anvilcms.net/media/images/2018/04/16/images/CC_Website_Logo_tnhWTFV.max-640x480.png",
+        "Redirect": "https://www.cerescourier.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cerescourier.com/"
     },
     {
         "link": "https://magnerot.ru",
@@ -72,7 +82,7 @@
     {
         "link": "https://priesters.com",
         "Heading": "Fresh Nuts, Pecan Candy, Southern Gifts & Baskets | Priester's Pecans",
-        "Abstract": "Priester's Pecans specializes in high-quality southern delights like fresh nuts, candies, gift baskets, and more. Shop now.",
+        "Abstract": "Up to 35% Off 1lb Bags. Priester's Pecans specializes in high-quality southern delights like fresh nuts, candies, gift baskets, and more. Shop now.",
         "Official Site": "https://priesters.com",
         "Icon": "https://cdn11.bigcommerce.com/s-ic5f5z66bm/product_images/Priesters_Favicon.png?t=1715366468",
         "Redirect": "https://priesters.com",
@@ -158,6 +168,26 @@
         "Redirect": "https://toldoslosangeles.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://toldoslosangeles.com/"
+    },
+    {
+        "link": "https://loknet.com.br",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://loknet.com.br",
+        "Icon": "N/A",
+        "Redirect": "https://loknet.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://loknet.com.br"
+    },
+    {
+        "link": "https://infandum.uk",
+        "Heading": "Welcome to Infandvm Universe - Infandvm Digital Solutions",
+        "Abstract": "Evoking the ineffable Welcome to the Dark Side of the web Contact us Results-first digital partner. Conversion-focused design, organic SEO, strategic social, and AI backed by a team that shows up, stands by you, and supports you end-to-end. Phone, WhatsApp, or email your choice. What we do We design fast, conversion-ready websites, grow your organic [\u2026]",
+        "Official Site": "https://infandvm.com/",
+        "Icon": "https://infandvm.com/wp-content/uploads/2025/10/long-exposure-road-at-night-with-a-light-house-in-2022-03-04-05-57-45-utc.png",
+        "Redirect": "https://infandvm.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://infandvm.com/"
     },
     {
         "link": "https://radiotangra.com",

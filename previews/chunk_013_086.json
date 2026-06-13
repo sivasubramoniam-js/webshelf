@@ -30,16 +30,6 @@
         "AbstractURL": "https://badadventures.com"
     },
     {
-        "link": "https://holmwright.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://holmwright.com",
-        "Icon": "N/A",
-        "Redirect": "https://holmwright.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://holmwright.com"
-    },
-    {
         "link": "https://expressmilwaukee.com",
         "Heading": "Shepherd Express - Shepherd Express",
         "Abstract": "Smart, Informed, Opinionated: The Shepherd Express is Milwaukee's alternative news source covering arts & entertainment, food, culture and politics.",
@@ -68,6 +58,16 @@
         "Redirect": "https://dicas-l.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dicas-l.com.br"
+    },
+    {
+        "link": "https://bucurestiivechisinoi.ro",
+        "Heading": "From BACH to MOZART \u2013 THE SOUND OF BEAUTY, \u00een 28 martie, la Sala Luceaf\u0103rul - Bucurestii Vechi si Noi",
+        "Abstract": "s",
+        "Official Site": "https://bucurestiivechisinoi.ro/",
+        "Icon": "https://bucurestiivechisinoi.ro/wp-content/uploads/2025/02/AFIS_concertbaroc-web-cp4.jpg",
+        "Redirect": "https://bucurestiivechisinoi.ro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bucurestiivechisinoi.ro/"
     },
     {
         "link": "https://callofdutyendowment.org",
@@ -288,15 +288,5 @@
         "Redirect": "https://sanjuanregional.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sanjuanregional.com"
-    },
-    {
-        "link": "https://sustainabilityprofessionals.org",
-        "Heading": "\n    \n    International Society of Sustainability Professionals ISSP Home Page\n  \n  ",
-        "Abstract": "The International Society of Sustainability Professionals is the world\u2019s leading network of sustainability professionals. We work together to provide the community, training, and tools needed to meet goals and create sustainable change. ",
-        "Official Site": "https://www.sustainabilityprofessionals.org/",
-        "Icon": "https://lirp.cdn-website.com/8169dea1/dms3rep/multi/opt/Social+network+images-1920w.png",
-        "Redirect": "https://www.sustainabilityprofessionals.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sustainabilityprofessionals.org/"
     }
 ]

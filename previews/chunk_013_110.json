@@ -120,16 +120,6 @@
         "AbstractURL": "https://allpokies.co.nz/"
     },
     {
-        "link": "https://nomad-lab.eu",
-        "Heading": "NOMAD \u2014 Materials science data, managed and shared",
-        "Abstract": "NOMAD lets you manage and share your materials science data in a way that makes it truly useful to you, your group, and the community. Free and open source.",
-        "Official Site": "https://nomad-lab.eu/nomad-lab/index.html",
-        "Icon": "https://nomad-lab.eu/nomad-lab/assets/nomad-hero.png",
-        "Redirect": "https://nomad-lab.eu/nomad-lab/index.html",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nomad-lab.eu/nomad-lab/index.html"
-    },
-    {
         "link": "https://psystudy.ru",
         "Heading": "\n\t\t\u041f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f\n\t\t\t\t\t",
         "Abstract": "\u041c\u0435\u0436\u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u0430\u0440\u043d\u044b\u0439 \u043d\u0430\u0443\u0447\u043d\u044b\u0439 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0436\u0443\u0440\u043d\u0430\u043b '\u041f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f' \u043f\u0443\u0431\u043b\u0438\u043a\u0443\u0435\u0442 \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0442\u0430\u0442\u044c\u0438 \u043f\u043e \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c \u043e\u0442\u0440\u0430\u0441\u043b\u044f\u043c \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u0441\u043c\u0435\u0436\u043d\u044b\u0445 \u043d\u0430\u0443\u043a. \u0410\u0434\u0440\u0435\u0441\u043e\u0432\u0430\u043d \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u0430\u043c. \u0426\u0435\u043b\u0438 \u0436\u0443\u0440\u043d\u0430\u043b\u0430: \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0438 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u0438\u0437\u0430\u0446\u0438\u044f \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0437\u043d\u0430\u043d\u0438\u0439, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0432\u044b\u0441\u043e\u043a\u0438\u0445 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043e\u0432 \u043d\u0430\u0443\u0447\u043d\u044b\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0438 \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0439, \u0441\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043d\u0430\u0443\u043a\u0438 \u0432 \u043c\u0438\u0440\u043e\u0432\u043e\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u043d\u0430\u0443\u0447\u043d\u043e\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e.",
@@ -228,6 +218,16 @@
         "Redirect": "https://novyigorod.ru:443/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://novyigorod.ru:443/"
+    },
+    {
+        "link": "https://fitwize4kids.com",
+        "Heading": "Fitwize 4 Kids | Fun & Effective Fitness for Kids 5-15",
+        "Abstract": "Empowering the next generation with fun, effective fitness programs, interactive nutrition classes, and lifestyle coaching tailored for ages 5-15.",
+        "Official Site": "https://fitwize4kids.com/",
+        "Icon": "http://fitwize4kids.com/wp-content/uploads/2026/05/Fitwize-4-Kids-Transforming-Youth-Fitness-Healthy-Living.png",
+        "Redirect": "https://fitwize4kids.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fitwize4kids.com/"
     },
     {
         "link": "https://altera-auto.ru",

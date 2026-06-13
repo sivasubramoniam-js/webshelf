@@ -31,7 +31,7 @@
     },
     {
         "link": "https://yourmoscow.ru",
-        "Heading": "KillBot user verification [104.209.10.226] [Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36]...",
+        "Heading": "KillBot user verification [4.246.135.69] [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0]...",
         "Abstract": null,
         "Official Site": "https://yourmoscow.ru",
         "Icon": "N/A",
@@ -51,13 +51,13 @@
     },
     {
         "link": "https://vv411.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://vv411.com",
-        "Icon": "data:;",
-        "Redirect": "https://vv411.com",
+        "Heading": "VV411 - Victor Valley 411",
+        "Abstract": "Come and join the Victor Valley 411 community. Expand your network and get to know new local people!",
+        "Official Site": "https://vv411.com/",
+        "Icon": "https://vv411.com/wp-content/uploads/2023/01/Dark-Blue-Red-White-Generic-News-General-News-Logo-600-\u00d7-900-px-Facebook-Cover.png",
+        "Redirect": "https://vv411.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vv411.com"
+        "AbstractURL": "https://vv411.com/"
     },
     {
         "link": "https://evan-roth.com",
@@ -240,16 +240,6 @@
         "AbstractURL": "https://windmesse.de"
     },
     {
-        "link": "https://jammydodgers.co.uk",
-        "Heading": "Jammie Dodgers - Britain's Favourite Jam Filled Biscuits - FBC UK",
-        "Abstract": "Discover the playful world of Jammie Dodgers, the UK's most-loved jam-filled biscuits. From classic strawberry to special editions, find your perfect jammy treat made by FBC since 1960",
-        "Official Site": "https://jammydodgers.co.uk",
-        "Icon": "/themes/fbc/favicon/favicon.svg",
-        "Redirect": "https://jammydodgers.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jammydodgers.co.uk"
-    },
-    {
         "link": "https://tudigo.co",
         "Heading": "Tudigo - L'investissement non cot\u00e9 accessible \u00e0 tous",
         "Abstract": "Rejoignez la communaut\u00e9 d'investisseurs particuliers la plus active de France et commencez \u00e0 investir d\u00e8s maintenant dans des PME et startups engag\u00e9es.",
@@ -261,13 +251,13 @@
     },
     {
         "link": "https://achology.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://achology.com",
-        "Icon": "data:;",
-        "Redirect": "https://achology.com",
+        "Heading": "Achology: Pioneering a New Way in Psychology-Based Education",
+        "Abstract": "Achology offers 28 insightful, psychology-based e-learning courses designed to deepen self-awareness and foster a greater understanding of other people.",
+        "Official Site": "https://achology.com/",
+        "Icon": "https://cdn.achology.com/wp-content/uploads/20250520144600/Achology-Home-Page-Featured-Image.jpg",
+        "Redirect": "https://achology.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://achology.com"
+        "AbstractURL": "https://achology.com/"
     },
     {
         "link": "https://schloss-drachenburg.de",
@@ -288,16 +278,6 @@
         "Redirect": "https://fxopenaffiliate.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fxopenaffiliate.com/"
-    },
-    {
-        "link": "https://lukasbudinsky.cz",
-        "Heading": "Luk\u00e1\u0161 Bud\u00ednsk\u00fd - sportovn\u00ed, outdoor a rodinn\u00fd fotograf",
-        "Abstract": "Luk\u00e1\u0161 Bud\u00ednsk\u00fd - sportovn\u00ed, outdoor a rodinn\u00fd fotograf miluj\u00edc\u00ed hory, sport a p\u0159\u00edb\u011bhy. M\u00fdm ateli\u00e9rem jsou nejen Beskydy, ale i Tatry, Alpy \u010di Dolomity",
-        "Official Site": "https://lukasbudinsky.cz/",
-        "Icon": "https://lukasbudinsky.cz/wp-content/uploads/2017/02/cropped-web_lukas_budinsky-32x32.png",
-        "Redirect": "https://lukasbudinsky.cz/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lukasbudinsky.cz/"
     },
     {
         "link": "https://ielts-simon.com",

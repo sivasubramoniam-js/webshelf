@@ -71,10 +71,10 @@
     },
     {
         "link": "https://malygosc.pl",
-        "Heading": "Ma\u0142y Go\u015b\u0107",
+        "Heading": "Ma\u0142y Go\u015b\u0107 - www.malygosc.pl",
         "Abstract": null,
         "Official Site": "https://malygosc.pl",
-        "Icon": "/static/themes/mgn-2017/touch-icons/touch-icon-192x192.png",
+        "Icon": "/static/themes/maly-gosc-mobile-2016/favicon.ico?v=QTRuC4J7NpTgTvjQqzrmA",
         "Redirect": "https://malygosc.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://malygosc.pl"
@@ -91,13 +91,13 @@
     },
     {
         "link": "https://ccscheme.org.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ccscheme.org.uk",
-        "Icon": "data:;",
-        "Redirect": "https://ccscheme.org.uk",
+        "Heading": "Considerate Constructors Scheme",
+        "Abstract": "The Considerate Constructors Scheme is an independently run organisation supporting and guiding positive change in the construction industry.",
+        "Official Site": "https://www.considerateconstructors.com/",
+        "Icon": "https://www.considerateconstructors.com/wp-content/uploads/2022/11/Home03_1920px.jpg",
+        "Redirect": "https://www.considerateconstructors.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ccscheme.org.uk"
+        "AbstractURL": "https://www.considerateconstructors.com/"
     },
     {
         "link": "https://vivasoftltd.com",
@@ -230,6 +230,16 @@
         "AbstractURL": "https://exquisiteinvestmentlimited.com"
     },
     {
+        "link": "https://silvengames.ru",
+        "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u0430\u0432\u0438\u0430\u0431\u0438\u043b\u0435\u0442\u044b \u0434\u0451\u0448\u0435\u0432\u043e \u043e\u043d\u043b\u0430\u0439\u043d | \u0410\u0432\u0438\u0430\u0441\u0435\u0439\u043b\u0441 \u2014 \u043f\u043e\u0438\u0441\u043a \u0441\u0430\u043c\u044b\u0445 \u0434\u0435\u0448\u0435\u0432\u044b\u0445 \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u043d\u0430 \u0441\u0430\u043c\u043e\u043b\u0435\u0442",
+        "Abstract": "\u0410\u0432\u0438\u0430\u0441\u0435\u0439\u043b\u0441 \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u043d\u0430\u0439\u0442\u0438 \u0438 \u043a\u0443\u043f\u0438\u0442\u044c \u0441\u0430\u043c\u044b\u0435 \u0434\u0435\u0448\u0451\u0432\u044b\u0435 \u0430\u0432\u0438\u0430\u0431\u0438\u043b\u0435\u0442\u044b. \u041f\u043e\u0438\u0441\u043a \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u043d\u0430 \u0441\u0430\u043c\u043e\u043b\u0451\u0442 \u043f\u043e 2000+ \u0430\u0432\u0438\u0430\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u043c, \u0432\u0435\u0434\u0443\u0449\u0438\u043c \u0430\u0432\u0438\u0430\u043a\u0430\u0441\u0441\u0430\u043c \u0438 \u043b\u0443\u0447\u0448\u0438\u0435 \u0446\u0435\u043d\u044b \u043d\u0430 \u0430\u0432\u0438\u0430\u0431\u0438\u043b\u0435\u0442\u044b.",
+        "Official Site": "https://silvengames.ru",
+        "Icon": "https://static.aviasales.com/selene-static/spa/meta/og_summer_2026.png",
+        "Redirect": "https://silvengames.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://silvengames.ru"
+    },
+    {
         "link": "https://ideosolutions.com",
         "Heading": null,
         "Abstract": null,
@@ -258,6 +268,16 @@
         "Redirect": "https://ewa-c.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ewa-c.com/"
+    },
+    {
+        "link": "https://thebigsquish.ca",
+        "Heading": "Home - The Big Squish",
+        "Abstract": "Big Flavour, Big Fun The Big Squish! Lemonade and Bubble tea Learn More Sippin\u2019 Big Since Day One The Big Squish has been shaking up Edmonton since 2021 \u2014 one bold drink at a time. We\u2019re a local, family-founded brand serving up fresh-squeezed lemonades, bubble teas, slushies, and vibes. Every drink is mixed right when [\u2026]",
+        "Official Site": "https://thebigsquish.ca/",
+        "Icon": "https://thebigsquish.ca/media/tbs_logo_400px.webp",
+        "Redirect": "https://thebigsquish.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thebigsquish.ca/"
     },
     {
         "link": "https://thurenfabrication.com",
