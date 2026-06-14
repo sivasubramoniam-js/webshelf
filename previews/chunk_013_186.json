@@ -60,6 +60,16 @@
         "AbstractURL": "https://medien-internet-und-recht.de"
     },
     {
+        "link": "https://beateuhsemovie.com",
+        "Heading": "Beate Uhse Movie",
+        "Abstract": null,
+        "Official Site": "https://beateuhsemovie.com",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://beateuhsemovie.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://beateuhsemovie.com"
+    },
+    {
         "link": "https://pittsburgusd.net",
         "Heading": "\n          Pittsburg Unified School District - Home\n        ",
         "Abstract": "",
@@ -120,11 +130,21 @@
         "AbstractURL": "https://ticketswvv.de"
     },
     {
+        "link": "https://commercenext.com",
+        "Heading": "CommerceNext | The Retail and Ecommerce Conference for Marketers",
+        "Abstract": "CommerceNext is a community, event series and conference for marketers at retail and direct-to-consumer brands. See why Inc. Magazine named CommerceNext one of the top 5 ecommerce conferences.",
+        "Official Site": "https://community.commercenext.com/",
+        "Icon": "https://community.commercenext.com/wp-content/uploads/2021/05/CN-IRL-2021-share-cardCN-IRL.jpg",
+        "Redirect": "https://community.commercenext.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://community.commercenext.com/"
+    },
+    {
         "link": "https://foxhomecenter.com",
         "Heading": "Home & Kitchen Hardware Store Alsip, IL | Fox Home Center",
         "Abstract": "Fox Home Center located in Alsip, IL is your full service supplier of home hardware including kitchens, bathrooms, bedrooms, & outdoor spaces, stop in today or call to inquire!",
         "Official Site": "https://foxhomecenter.com",
-        "Icon": "/images/favicon.ico?ccid=x27b34334",
+        "Icon": "/images/favicon.ico?ccid=x4514765a",
         "Redirect": "https://foxhomecenter.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://foxhomecenter.com"
@@ -201,13 +221,13 @@
     },
     {
         "link": "https://rivnet.net",
-        "Heading": "AGENOLX \ud83c\udfc6 Pelopor Viral terbaru Situs Slot Online Resmi Paling Gacor",
-        "Abstract": "AGENOLX hadir sebagai terbitan terbaru situs slot online resmi paling gacor dengan berbagai pilihan permainan populer dan fitur menarik.",
-        "Official Site": "https://designspacemodular.com/",
-        "Icon": "https://imgstore.io/images/2025/05/02/agenolx-icon.png",
-        "Redirect": "https://designspacemodular.com/",
+        "Heading": "AGENOLX : Riwayat Situs Slot Resmi Paling Gacor Dapatkan Bonus Anggota Baru",
+        "Abstract": "AGENOLX merupakan situs slot resmi yang memiliki riwayat terpercaya dengan berbagai pilihan permainan dari provider populer. Dilengkapi bonus anggota baru serta proses akses yang mudah.",
+        "Official Site": "https://www.ridgelinegaragedoor.com/",
+        "Icon": "https://imgstore.io/images/2026/04/03/daftar-agenolx.jpeg",
+        "Redirect": "https://www.ridgelinegaragedoor.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://designspacemodular.com/"
+        "AbstractURL": "https://www.ridgelinegaragedoor.com/"
     },
     {
         "link": "https://visitthegambia.gm",
@@ -224,7 +244,7 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://caribbeancovewaterpark.com",
-        "Icon": "N/A",
+        "Icon": "https://storage.googleapis.com/landing_pager_public/favicons/xrp2.ico",
         "Redirect": "https://caribbeancovewaterpark.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://caribbeancovewaterpark.com"
@@ -278,15 +298,5 @@
         "Redirect": "https://www.whimvoy.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.whimvoy.com/"
-    },
-    {
-        "link": "https://bioservice.com",
-        "Heading": "BSL BIOSERVICE - Your CRO of preclinical safety testing",
-        "Abstract": "We contribute to global health, safety and environment offering a comprehensive range of safety testing services at BSL BIOSERVICE",
-        "Official Site": "https://bioservice.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://bioservice.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bioservice.com"
     }
 ]

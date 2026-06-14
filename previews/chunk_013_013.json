@@ -50,16 +50,6 @@
         "AbstractURL": "https://openwebsearch.eu/welcome/"
     },
     {
-        "link": "https://tomballtx.gov",
-        "Heading": "Tomball, TX - Official Website | Official Website",
-        "Abstract": "",
-        "Official Site": "https://tomballtx.gov",
-        "Icon": "/images/favicon.ico",
-        "Redirect": "https://tomballtx.gov",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tomballtx.gov"
-    },
-    {
         "link": "https://jumpfind.org",
         "Heading": "JumpFind 2 - Reloaded",
         "Abstract": "JumpFind 2 is your mate to travel really fast through the internet.",
@@ -110,6 +100,16 @@
         "AbstractURL": "https://keratoconus-group.org.uk/"
     },
     {
+        "link": "https://planet-kob.ru",
+        "Heading": "\u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u041a\u041e\u0411 - \u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+        "Abstract": "\u0421\u043e\u0431\u044b\u0442\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0432 \u043c\u0438\u0440\u0435 \u0441 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u041a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u0438 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438. \u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u041a\u041e\u0411 - \u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+        "Official Site": "https://www.planet-kob.ru/",
+        "Icon": "https://www.planet-kob.ru/ob/pic/happy-future.jpg",
+        "Redirect": "https://www.planet-kob.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.planet-kob.ru/"
+    },
+    {
         "link": "https://brostor.biz",
         "Heading": "\u0412\u044b \u043d\u0435 \u0440\u043e\u0431\u043e\u0442?",
         "Abstract": null,
@@ -138,6 +138,16 @@
         "Redirect": "https://xn--80ajat4acbm8e.xn--p1ai",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xn--80ajat4acbm8e.xn--p1ai"
+    },
+    {
+        "link": "https://cffutures.net",
+        "Heading": "Children and Family Futures",
+        "Abstract": "MISSION\nChildren and Family Futures strives to prevent child abuse and neglect while improving safety, permanency, well-being, and recovery outcomes for all children, parents and families affected by trauma, substance use and mental health disorders.    More About Who We Are  In 2023,",
+        "Official Site": "https://www.cffutures.org/",
+        "Icon": "https://cffutures.b-cdn.net/wp-content/uploads/2025/07/cff-logo-web.svg",
+        "Redirect": "https://www.cffutures.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cffutures.org/"
     },
     {
         "link": "https://psp-hacks.com",
@@ -220,6 +230,16 @@
         "AbstractURL": "https://bullbbq.com/"
     },
     {
+        "link": "https://chihuoclub.com",
+        "Heading": "China-Made, Carefully Selected | MicSelect",
+        "Abstract": "MicSelect curates quality China-made products with reliable craftsmanship, practical design, and everyday value.",
+        "Official Site": "https://chihuoclub.com",
+        "Icon": "https://www.micselect.com/opengraph-image.png?4db0ee8cf66e90af",
+        "Redirect": "https://chihuoclub.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chihuoclub.com"
+    },
+    {
         "link": "https://biogartenliving.de",
         "Heading": "Nachhaltig g\u00e4rtnern & sinnvoll heimwerken | BioGartenLiving",
         "Abstract": "Praxisnahe DIY-Anleitungen, Naturwissen & ehrliche Produkttests f\u00fcr einen lebendigen Garten \u2013 nachhaltig, verst\u00e4ndlich und direkt umsetzbar.",
@@ -228,6 +248,16 @@
         "Redirect": "https://www.biogartenliving.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.biogartenliving.de/"
+    },
+    {
+        "link": "https://parcheha.com",
+        "Heading": "Site is undergoing maintenance",
+        "Abstract": "Site will be available soon. Thank you for your patience",
+        "Official Site": "https://parcheha.com",
+        "Icon": "https://parcheha.com/wp-content/uploads/2026/06/logo-steaky.png",
+        "Redirect": "https://parcheha.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://parcheha.com"
     },
     {
         "link": "https://shamanking-project.com",

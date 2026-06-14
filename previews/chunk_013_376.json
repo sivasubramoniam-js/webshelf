@@ -50,6 +50,16 @@
         "AbstractURL": "https://latarnik-kopice.pl/"
     },
     {
+        "link": "https://newdigitalpoint.com",
+        "Heading": "Home - Newdigitalpoint",
+        "Abstract": "Stay updated with the latest in technology news, smartphone trends, and cutting-edge drone innovations\u2014all in one dynamic tech blog.",
+        "Official Site": "https://newdigitalpoint.com/",
+        "Icon": "https://newdigitalpoint.com/wp-content/uploads/2025/09/airtable_698d6267cc015.webp",
+        "Redirect": "https://newdigitalpoint.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://newdigitalpoint.com/"
+    },
+    {
         "link": "https://calligo.cloud",
         "Heading": "Calligo | Transformative Data Management Services",
         "Abstract": "Calligo is a provider of transformative data services, spanning Data Privacy, Data Insights and Managed Cloud",
@@ -80,24 +90,14 @@
         "AbstractURL": "https://diakonie-dresden.de"
     },
     {
-        "link": "https://irisservers.com",
-        "Heading": "V",
+        "link": "https://saidthegramophone.com",
+        "Heading": "Said the Gramophone - an mp3 blog",
         "Abstract": null,
-        "Official Site": "https://irisservers.com",
-        "Icon": "N/A",
-        "Redirect": "https://irisservers.com",
+        "Official Site": "https://saidthegramophone.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://saidthegramophone.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://irisservers.com"
-    },
-    {
-        "link": "https://tracesecritesnews.fr",
-        "Heading": "Traces Ecrites News | L'actualit\u00e9 \u00e9conomique du Grand Est et de Bourgogne Franche-Comt\u00e9",
-        "Abstract": "Agence de presse install\u00e9e \u00e0 Dijon depuis 1991, la connaissance du terrain de ses journalistes et la pertinence d\u2019un territoire en devenir, sur l\u2019axe Rhin-Rh\u00f4ne, donne naissance \u00e0 cette lettre d\u2019informations \u00e9conomiques sur le Grand Est et la Bourgogne Franche-Comt\u00e9.",
-        "Official Site": "https://tracesecritesnews.fr",
-        "Icon": "https://www.tracesecritesnews.fr/img/favicon.png",
-        "Redirect": "https://tracesecritesnews.fr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tracesecritesnews.fr"
+        "AbstractURL": "https://saidthegramophone.com"
     },
     {
         "link": "https://ketabkhun.com",
@@ -118,6 +118,26 @@
         "Redirect": "https://www.survivorcorps.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.survivorcorps.com"
+    },
+    {
+        "link": "https://zhxg.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://zhxg.com",
+        "Icon": "N/A",
+        "Redirect": "https://zhxg.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zhxg.com"
+    },
+    {
+        "link": "https://hawaiianbeachrentals.com",
+        "Heading": "Escape to Paradise with Us | Hawaiian Beach Rentals",
+        "Abstract": "Go ahead and spend vacation with our exclusive Hawaii beach house rentals. Explore luxury, breathtaking views, and the ideal beachfront getaway. Contact (844)...",
+        "Official Site": "https://www.hawaiianbeachrentals.com",
+        "Icon": "https://www.hawaiianbeachrentals.com/img/logo_img.png",
+        "Redirect": "https://www.hawaiianbeachrentals.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hawaiianbeachrentals.com"
     },
     {
         "link": "https://bot-stars.pro",
@@ -170,16 +190,6 @@
         "AbstractURL": "https://rogerswest.net"
     },
     {
-        "link": "https://austria-tourism.at",
-        "Heading": "Austria Tourism \u2013 Market Insights, Trade & Press",
-        "Abstract": "Explore market insights, travel trade opportunities, media resources and the latest updates from Austria Tourism for international partners. Learn more.",
-        "Official Site": "https://austria-tourism.at",
-        "Icon": "https://fuutazbsb.filerobot.com/Freigegeben/Lebensgefuhl-Osterreich-Ziegenwanderung-469164c4-068d-44f2-afb6-2da23081d7f9?gravity=auto&w=1200&h=630&dpr=1&func=crop",
-        "Redirect": "https://austria-tourism.at",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://austria-tourism.at"
-    },
-    {
         "link": "https://metacreations.com",
         "Heading": "MetaCreations",
         "Abstract": null,
@@ -218,16 +228,6 @@
         "Redirect": "https://localsistemas.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://localsistemas.com.br"
-    },
-    {
-        "link": "https://desmazes.com",
-        "Heading": "Desmazes - Stores, menuiseries, pergolas et chapiteaux...",
-        "Abstract": "Desmazes des id\u00e9es sur-mesures depuis 1985 \u00e0 THIVIERS, D\u00e9couvrez nos cr\u00e9ations de stores, menuiseries, pergolas, chapiteaux",
-        "Official Site": "https://www.desmazes.com/",
-        "Icon": "https://www.desmazes.com/wp-content/uploads/2017/03/desmazes.png",
-        "Redirect": "https://www.desmazes.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.desmazes.com/"
     },
     {
         "link": "https://forumarmstrade.org",

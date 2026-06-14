@@ -144,7 +144,7 @@
         "Heading": "MyPrelovedTiffany - Authenticated Preloved Tiffany & Co.",
         "Abstract": "We are a pre-owned / second-hand branded store specializing in T&Co. jewelries. We have a zero-tolerance policy for counterfeits and we strive to play our part in battling against the counterfeit market. Shop with confidence, pay less for the same product.",
         "Official Site": "https://myprelovedtiffany.com",
-        "Icon": "/themes/mybartik/favicon.ico",
+        "Icon": "/favicon-32x32.png",
         "Redirect": "https://myprelovedtiffany.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myprelovedtiffany.com"
@@ -178,6 +178,16 @@
         "Redirect": "https://myzeg-sucok.site",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myzeg-sucok.site"
+    },
+    {
+        "link": "https://myzitong.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://myzitong.com",
+        "Icon": "data:image/x-icon;,",
+        "Redirect": "https://myzitong.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://myzitong.com"
     },
     {
         "link": "https://nalvazhiorganic.com",
@@ -274,7 +284,7 @@
         "Heading": "\n      Nguy\u00ean X\u01b0\u01a1ng\n",
         "Abstract": "Nguy\u00ean X\u01b0\u01a1ng",
         "Official Site": "https://nguyenxuong.com/",
-        "Icon": "http://nguyenxuong.com/cdn/shop/files/LOGO_NX.png?height=628&pad_color=ffffff&v=1777536647&width=1200",
+        "Icon": "http://cdn.shopify.com/s/files/1/0993/5450/9594/files/LOGO_NX.png?height=628&pad_color=ffffff&v=1777536647&width=1200",
         "Redirect": "https://nguyenxuong.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nguyenxuong.com/"
@@ -288,5 +298,15 @@
         "Redirect": "https://nhnz.tv",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nhnz.tv"
+    },
+    {
+        "link": "https://nichenghui.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://nichenghui.com/",
+        "Icon": "hhpoker\u5b98\u65b9\u6b63\u7248\u4e0b\u8f7d\u82f9\u679c",
+        "Redirect": "https://nichenghui.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nichenghui.com/"
     }
 ]

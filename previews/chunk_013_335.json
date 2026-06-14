@@ -80,6 +80,16 @@
         "AbstractURL": "https://xn----7sbgj9bdrl.xn--p1ai"
     },
     {
+        "link": "https://youtube-rank.com",
+        "Heading": "\uc720\ud29c\ube0c \ub7ad\ud0b9",
+        "Abstract": "\uc720\ud29c\ube0c \ub7ad\ud0b9,\uc778\uc2a4\ud0c0 \ub7ad\ud0b9,\uc544\ud504\ub9ac\uce74TV \ub7ad\ud0b9, \ud398\uc774\uc2a4\ubd81 \ub7ad\ud0b9, \ud2b8\uc704\ud130 \ub7ad\ud0b9, \uc21c\uc704, \uad6c\ub3c5\uc790, \ud06c\ub9ac\uc5d0\uc774\ud130, \uc720\ud29c\ubc84, \uc601\uc0c1, \uc870\ud68c\uc218, \uc778\uae30\ub3d9\uc601\uc0c1",
+        "Official Site": "https://www.sns-rank.com",
+        "Icon": "/img/android-chrome-512x512.png",
+        "Redirect": "https://www.sns-rank.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sns-rank.com"
+    },
+    {
         "link": "https://intercontinental-strings.jp",
         "Heading": "Luxury Hotel in Shinagawa, Tokyo | The Strings by InterContinental Tokyo",
         "Abstract": "Just a 1-minute walk from Shinagawa Station, The Strings by InterContinental Tokyo offers elevated luxury, panoramic city views, and world-class hospitality in the heart of Tokyo",
@@ -118,6 +128,16 @@
         "Redirect": "https://franklinbbq.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://franklinbbq.com"
+    },
+    {
+        "link": "https://personalloans.com",
+        "Heading": "Personal Loans\u00ae",
+        "Abstract": "Personal Loans\u00ae helps you find a personal loan through our free, advertiser supported loan connecting service. We can also show your information to other lenders and or credit or finance companies like debt relief, credit repair or credit monitoring companies.",
+        "Official Site": "https://personalloans.com/",
+        "Icon": "https://personalloans.com/assets/img/social-share-image.png",
+        "Redirect": "https://personalloans.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://personalloans.com/"
     },
     {
         "link": "https://swisstopo.ch",
@@ -200,6 +220,26 @@
         "AbstractURL": "https://neomax.mobi"
     },
     {
+        "link": "https://gregbear.com",
+        "Heading": "Greg Bear",
+        "Abstract": null,
+        "Official Site": "https://gregbear.com",
+        "Icon": "N/A",
+        "Redirect": "https://gregbear.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gregbear.com"
+    },
+    {
+        "link": "https://guiase.net.br",
+        "Heading": "Empresa de Marketing Digital - Guia-se",
+        "Abstract": "Ag\u00eancia de Marketing Digital com 28 anos de experi\u00eancia. Transformamos cada real investido em resultados reais e lucrativos para sua empresa.",
+        "Official Site": "https://guiase.com.br/",
+        "Icon": "https://guiase.com.br/wp-content/uploads/2025/08/logo-horizontal-1-negativo-black.png",
+        "Redirect": "https://guiase.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://guiase.com.br/"
+    },
+    {
         "link": "https://cazino-banda.xyz",
         "Heading": null,
         "Abstract": null,
@@ -208,16 +248,6 @@
         "Redirect": "https://cazino-banda.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cazino-banda.xyz"
-    },
-    {
-        "link": "https://tayloredlivingaz.com",
-        "Heading": "Home Page",
-        "Abstract": "East Valley AZ Homes for Sale provided by Exp Realty is your real estate source for homes for sale in Peoria, AZ. Call us at 480-571-5316. Or visit us at 16165 N. 83rd Ave, Peoria, AZ 85382.",
-        "Official Site": "https://www.tayloredlivingaz.com",
-        "Icon": "https://s-static.cinccdn.com/images/header/UP4A165DBFC0D043.png",
-        "Redirect": "https://www.tayloredlivingaz.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.tayloredlivingaz.com"
     },
     {
         "link": "https://le7.info",
@@ -248,5 +278,25 @@
         "Redirect": "https://idrivee2-58.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://idrivee2-58.com"
+    },
+    {
+        "link": "https://oldmonterey.org",
+        "Heading": "Old Monterey | Where California was Born!",
+        "Abstract": "Where California was Born!",
+        "Official Site": "https://www.oldmonterey.org/",
+        "Icon": "https://www.oldmonterey.org/sites/default/files/omba-logo2x.png",
+        "Redirect": "https://www.oldmonterey.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.oldmonterey.org/"
+    },
+    {
+        "link": "https://pazarin.com.tr",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pazarin.com.tr",
+        "Icon": "N/A",
+        "Redirect": "https://pazarin.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pazarin.com.tr"
     }
 ]

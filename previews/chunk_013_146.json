@@ -20,16 +20,6 @@
         "AbstractURL": "https://digitalexperience.co.za/"
     },
     {
-        "link": "https://nextechna.com",
-        "Heading": "Commercial HVAC & Refrigeration Services Las Vegas | Nextech",
-        "Abstract": "Expert commercial HVAC & refrigeration services in Las Vegas. Installation, maintenance & 24/7 emergency support for businesses of all sizes.",
-        "Official Site": "https://www.nextechna.com/",
-        "Icon": "https://www.nextechna.com/wp-content/uploads/2025/07/nextech-commercial-hvac-refrigeration.jpg",
-        "Redirect": "https://www.nextechna.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.nextechna.com/"
-    },
-    {
         "link": "https://aurasoft-skyline.co.uk",
         "Heading": "Skyline Game Engine - Store",
         "Abstract": "The Skyline Game Engine Store is where you can get all the assets and engines you need to make the next AAA blockbuster title...",
@@ -60,6 +50,16 @@
         "AbstractURL": "https://carving-art.com"
     },
     {
+        "link": "https://mycomputerworks.com",
+        "Heading": "Technology Solutions for Home and Office",
+        "Abstract": "Offering expert support for homes and small businesses. Repairs, network troubleshooting and more. In\u2011home or remote assistance nationwide.",
+        "Official Site": "https://mycomputerworks.com",
+        "Icon": "https://mycomputerworks.com/wp-content/themes/mcw/assets/images/favicon/favicon-32x32.png",
+        "Redirect": "https://mycomputerworks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mycomputerworks.com"
+    },
+    {
         "link": "https://successfultrade.live",
         "Heading": "successfultrade.live",
         "Abstract": null,
@@ -78,6 +78,16 @@
         "Redirect": "https://ventasdiversas.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ventasdiversas.com"
+    },
+    {
+        "link": "https://korthalsaltes.com",
+        "Heading": "Paper Models of Polyhedra",
+        "Abstract": "Free paper models: Platonic solids, Archimedean solids and many other polyhedra",
+        "Official Site": "https://korthalsaltes.com",
+        "Icon": "https://www.polyhedra.net/photo/Small_stellated_Dodecahedron.JPG",
+        "Redirect": "https://korthalsaltes.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://korthalsaltes.com"
     },
     {
         "link": "https://bigceramicstore.com",
@@ -128,6 +138,16 @@
         "Redirect": "https://elektrizitaet-berlin.de/?ref=fb",
         "AbstractSource": "BS4",
         "AbstractURL": "https://elektrizitaet-berlin.de/?ref=fb"
+    },
+    {
+        "link": "https://corgidrama.com",
+        "Heading": "Corgi Drama",
+        "Abstract": null,
+        "Official Site": "https://corgidrama.com",
+        "Icon": "N/A",
+        "Redirect": "https://corgidrama.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://corgidrama.com"
     },
     {
         "link": "https://learninggroup.cl",
@@ -228,6 +248,16 @@
         "Redirect": "https://romashka-parts.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://romashka-parts.ru"
+    },
+    {
+        "link": "https://wezard.net",
+        "Heading": "ZARD Official Website \u2013 WEZARD.net",
+        "Abstract": "B-Gram RECORDS\u306b\u3088\u308bZARD\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30b5\u30a4\u30c8\u3002",
+        "Official Site": "https://wezard.net/",
+        "Icon": "https://wezard.net/wp-content/themes/zard/assets/images/zard-photo.jpg",
+        "Redirect": "https://wezard.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wezard.net/"
     },
     {
         "link": "https://yoomedia.de",

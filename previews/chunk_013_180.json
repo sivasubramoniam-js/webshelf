@@ -130,14 +130,14 @@
         "AbstractURL": "https://ceedu.com.cn"
     },
     {
-        "link": "https://jetsetchristina.com",
-        "Heading": "Luxury Travel & Lifestyle - JetsetChristina",
-        "Abstract": "Jetset Christina is a top luxury travel blog with award-winning guides and resources to elevate your travel and lifestyle, every day.",
-        "Official Site": "https://www.jetsetchristina.com/",
-        "Icon": "https://www.jetsetchristina.com/wp-content/uploads/2019/10/66294200_621536925022903_8849102696909603314_n.jpg",
-        "Redirect": "https://www.jetsetchristina.com/",
+        "link": "https://queermusicheritage.com",
+        "Heading": "Queer Music Heritage -- Gay Radio, Lesbian Radio, Transgender Radio",
+        "Abstract": null,
+        "Official Site": "https://queermusicheritage.com",
+        "Icon": "N/A",
+        "Redirect": "https://queermusicheritage.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.jetsetchristina.com/"
+        "AbstractURL": "https://queermusicheritage.com"
     },
     {
         "link": "https://solvro.pl",
@@ -210,6 +210,16 @@
         "AbstractURL": "https://www.aksecurityservices.com"
     },
     {
+        "link": "https://leary.com",
+        "Heading": "Timothy Leary",
+        "Abstract": null,
+        "Official Site": "https://leary.com",
+        "Icon": "N/A",
+        "Redirect": "https://leary.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://leary.com"
+    },
+    {
         "link": "https://globgames-ent.com",
         "Heading": "Classic Shop - Globgames Enterprises",
         "Abstract": "Subscribe to receive updates, access to exclusive deals, and more.",
@@ -228,6 +238,16 @@
         "Redirect": "https://simplysohealthy.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://simplysohealthy.com/"
+    },
+    {
+        "link": "https://tecplot.com",
+        "Heading": "Tecplot Visualization and Analysis Tools for CFD Post-processing",
+        "Abstract": "Tecplot visualization & analysis tools for CFD, other simulations and experimental data help you discover, analyze and communicate results.",
+        "Official Site": "https://tecplot.com/",
+        "Icon": "https://tecplot.com/wp-content/themes/Tecplot22/images/favicon-196x196.png",
+        "Redirect": "https://tecplot.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tecplot.com/"
     },
     {
         "link": "https://dandeacon.com",

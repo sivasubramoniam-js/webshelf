@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://noxwealth.com",
+        "Heading": "Home - NoxWealth",
+        "Abstract": "Discover NoxWealth Investments, your trusted platform for tailored investment plans, real-time market insights, and advanced tools to build wealth with confidence.",
+        "Official Site": "https://noxwealth.com",
+        "Icon": "/static/home/assets/img/favicon.png",
+        "Redirect": "https://noxwealth.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://noxwealth.com"
+    },
+    {
         "link": "https://museumofus.org",
         "Heading": "Home - Museum of Us",
         "Abstract": "The Museum of Us is a cultural anthropology museum with immersive experiences about the human experience. ",
@@ -60,6 +70,26 @@
         "AbstractURL": "https://www.pulsecharge.com.au/"
     },
     {
+        "link": "https://ourkidthings.com",
+        "Heading": "Our Kid Things | Easy Crafts for Kids",
+        "Abstract": "Welcome to Our Kid Things! We're excited to share with you all of our tried and true easy crafts for kids of all ages",
+        "Official Site": "https://www.ourkidthings.com/",
+        "Icon": "https://www.ourkidthings.com/wp-content/uploads/2023/03/favicon.png",
+        "Redirect": "https://www.ourkidthings.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ourkidthings.com/"
+    },
+    {
+        "link": "https://idinamenzel.com",
+        "Heading": "IDINA MENZEL | Official Site",
+        "Abstract": "The official website of Idina Menzel, the voice of Elsa in Disney's FROZEN and Tony Award-winning star of WICKED.",
+        "Official Site": "https://idinamenzel.com",
+        "Icon": "https://idinamenzel.com/wp-content/uploads/2023/04/socialshare_Facebook.jpg",
+        "Redirect": "https://idinamenzel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://idinamenzel.com"
+    },
+    {
         "link": "https://primelineenergy.com",
         "Heading": null,
         "Abstract": null,
@@ -118,6 +148,16 @@
         "Redirect": "https://devotepvit.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://devotepvit.xyz"
+    },
+    {
+        "link": "https://theprimelimited.com",
+        "Heading": "The Prime Limited",
+        "Abstract": null,
+        "Official Site": "https://theprimelimited.com",
+        "Icon": "images/logo1.png",
+        "Redirect": "https://theprimelimited.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://theprimelimited.com"
     },
     {
         "link": "https://budenbergschule.de",
@@ -198,5 +238,35 @@
         "Redirect": "https://popstocksenergy.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://popstocksenergy.com"
+    },
+    {
+        "link": "https://educationaltoys.pk",
+        "Heading": "Pakistan's # 1 Educational Toys Store - Buy Learning Materials Online",
+        "Abstract": "Buy Award winning educational toys in Pakistan online. Wide range of learning materials. Flash cards, puzzles, cloth books, STEM, blocks and wooden toys etc.",
+        "Official Site": "https://www.educationaltoys.pk/",
+        "Icon": "https://www.educationaltoys.pk/wp-content/uploads/2020/07/facebook-thumbnail-1.jpg",
+        "Redirect": "https://www.educationaltoys.pk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.educationaltoys.pk/"
+    },
+    {
+        "link": "https://majestique.ma",
+        "Heading": "Creation Site Internet Marrakech | SEO, R\u00e9f\u00e9rencement Naturel & Webmarketing au Maroc",
+        "Abstract": "Cr\u00e9ez un site professionnel avec des designs 100% compatibles smartphones et tablettes tactiles \u00e0 moins de prix.",
+        "Official Site": "https://www.majestique.info/",
+        "Icon": "https://www.majestique.info/images/majestique-avatar.png",
+        "Redirect": "https://www.majestique.info/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.majestique.info/"
+    },
+    {
+        "link": "https://51jichuang.com",
+        "Heading": "\n\t51\u673a\u5e8a\u7f51 - \u4e70\u5356\u673a\u5e8a\u3001\u5bfb\u627e\u670d\u52a1\u3001\u4e0a51\u673a\u5e8a\n",
+        "Abstract": "51\u673a\u5e8a\u7f51\u662f\u4e13\u4e1a\u7684\u6570\u63a7\u673a\u5e8a\u4ea4\u6613\u548c\u670d\u52a1\u5e73\u53f0\uff0c\u63d0\u4f9b\u6700\u65b0\u6570\u63a7\u673a\u5e8a\u54c1\u724c\u3001\u673a\u578b\u53ca\u51fa\u552e\u4fe1\u606f\u3001\u673a\u5e8a\u76f8\u5173MRO\u4ea7\u54c1\u4ea4\u6613\u7b49\uff0cCNC\u673a\u5e8a\u5c55\u793a\u3001CNC\u673a\u5e8a\u51fa\u552e\u3001CNC\u673a\u5e8a\u6c42\u8d2d\u3001\u4e8c\u624b\u673a\u5e8a\u51fa\u552e\u3001\u4e8c\u624b\u673a\u5e8a\u6c42\u8d2d\u3001\u65e7\u673a\u5e8a\u8f6c\u8ba9\u3001\u65e7\u673a\u5e8a\u56de\u6536\u3001\u62cd\u5356\u7b49\u4fe1\u606f\u3002",
+        "Official Site": "https://51jichuang.com",
+        "Icon": "N/A",
+        "Redirect": "https://51jichuang.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://51jichuang.com"
     }
 ]

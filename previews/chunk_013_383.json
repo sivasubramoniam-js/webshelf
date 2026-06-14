@@ -10,6 +10,16 @@
         "AbstractURL": "www.taxiautofare.com/"
     },
     {
+        "link": "https://weaselmods.net",
+        "Heading": "Weasel Mods",
+        "Abstract": "Home of all Weasely Mods for Infinity Engine Games. Come, download and enjoy!",
+        "Official Site": "https://weaselmods.net",
+        "Icon": "https://www.weaselmods.net/upload/images/netpen-pro/logo-footer.png",
+        "Redirect": "https://weaselmods.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://weaselmods.net"
+    },
+    {
         "link": "https://groruddalen.no",
         "Heading": "Groruddalen",
         "Abstract": "Akers Avis Groruddalen er lokalavisen for Groruddalen nord-\u00f8st i Oslo. De fire bydelene Grorud, Bjerke, Alna og Stovner utgj\u00f8r Groruddalen. Avisen er uavhengig og lokalt eiet.",
@@ -18,6 +28,16 @@
         "Redirect": "https://groruddalen.no/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://groruddalen.no/"
+    },
+    {
+        "link": "https://pixxelon.net",
+        "Heading": "Pixxelon - Domain - Web Hosting & Business Email Service",
+        "Abstract": "Get seamless access to a wide range of domain for registration, reliable and high-performance web hosting and secured business email solution.",
+        "Official Site": "https://www.pixxelon.com/",
+        "Icon": "https://www.pixxelon.com/pixxelon_con/uploads/2024/05/pixxelon-fb.png",
+        "Redirect": "https://www.pixxelon.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pixxelon.com/"
     },
     {
         "link": "https://mmahd0.online",
@@ -110,6 +130,16 @@
         "AbstractURL": "https://kc-sistema.ru"
     },
     {
+        "link": "https://monthlycalendars.in",
+        "Heading": "Today's Hindu Panchangam (June 14, 2026) -  2026 and  2027 Hindu Panchangam Calendars",
+        "Abstract": "June 2026 Hindu Panchangam Calendars - 2026 and 2027 Panchangam Calendars in Telugu, Tamil, Hindi - Todays panchangam with Tithi, Nakshtra, Yoga, Karana, Yamagandam, Rahukalam, Varjyam, Amritakalam",
+        "Official Site": "https://monthlycalendars.in",
+        "Icon": "N/A",
+        "Redirect": "https://monthlycalendars.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://monthlycalendars.in"
+    },
+    {
         "link": "https://freshersnews.co.in",
         "Heading": "Explore Salaries, Exams, Net Worth & Career Tips",
         "Abstract": "Get the latest updates on employee salaries, exam preparation, net worth insights, full forms, career tips, interview guidance, and test strategies.",
@@ -118,6 +148,16 @@
         "Redirect": "https://freshersnews.co.in/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://freshersnews.co.in/"
+    },
+    {
+        "link": "https://belovedasheville.com",
+        "Heading": "Welcome - BeLoved Asheville",
+        "Abstract": "Beloved Asheville is the best support system we have to help those in need Asheville, North Carolina and surrounding areas.",
+        "Official Site": "https://www.belovedasheville.com/",
+        "Icon": "https://www.belovedasheville.com/wp-content/uploads/beloved-second-image.webp",
+        "Redirect": "https://www.belovedasheville.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.belovedasheville.com/"
     },
     {
         "link": "https://moviesnewstoday.com",
@@ -140,6 +180,16 @@
         "AbstractURL": "https://ambit24.net"
     },
     {
+        "link": "https://raynewater.com",
+        "Heading": "Water Filtration & Softener Systems | Rayne Water",
+        "Abstract": "Protect your home with the best water filtration & softener systems. Whole house solutions for clean, safe & soft water. Contact Rayne Water, Order now!",
+        "Official Site": "https://www.raynewater.com/",
+        "Icon": "https://www.raynewater.com/wp-content/uploads/2025/08/ken.png",
+        "Redirect": "https://www.raynewater.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.raynewater.com/"
+    },
+    {
         "link": "https://allencc.edu",
         "Heading": "Home - Allen Community College",
         "Abstract": "Home - Allen Community College",
@@ -150,14 +200,14 @@
         "AbstractURL": "https://www.allencc.edu/"
     },
     {
-        "link": "https://elielcruz.com.br",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://elielcruz.com.br",
-        "Icon": "N/A",
-        "Redirect": "https://elielcruz.com.br",
+        "link": "https://cornwallairportnewquay.com",
+        "Heading": "Cornwall Airport Newquay",
+        "Abstract": "Welcome to the Cornwall Airport home page, your gateway to flight information, travel updates, and services in the Cornwall region.",
+        "Official Site": "https://www.cornwallairportnewquay.com/",
+        "Icon": "https://www.cornwallairportnewquay.com/wp-content/uploads/2024/10/social-share.png",
+        "Redirect": "https://www.cornwallairportnewquay.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://elielcruz.com.br"
+        "AbstractURL": "https://www.cornwallairportnewquay.com/"
     },
     {
         "link": "https://em360group.ro",
@@ -228,5 +278,15 @@
         "Redirect": "https://canadiandailymeds.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://canadiandailymeds.com"
+    },
+    {
+        "link": "https://softwarevision.de",
+        "Heading": "software vision",
+        "Abstract": null,
+        "Official Site": "https://softwarevision.de",
+        "Icon": "N/A",
+        "Redirect": "https://softwarevision.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://softwarevision.de"
     }
 ]

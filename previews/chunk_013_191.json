@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://hsa-haiku.org",
+        "Heading": "Welcome to the Haiku Society of America Web Site",
+        "Abstract": "The Haiku Society of America is a not-for-profit organization founded in 1968 to promote the writing and appreciation of haiku in English.",
+        "Official Site": "https://hsa-haiku.org",
+        "Icon": "favicon.ico",
+        "Redirect": "https://hsa-haiku.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hsa-haiku.org"
+    },
+    {
         "link": "https://idrivee2-49.com",
         "Heading": "S3 Compatible Storage - IDrive\u00ae e2",
         "Abstract": "IDrive\u00ae e2 offers low-cost cloud storage infrastructure for developers and businesses. Scale business and development infinitely with global access & availability",
@@ -140,16 +150,6 @@
         "AbstractURL": "https://trafficanalytics.info"
     },
     {
-        "link": "https://clichy-sous-bois.fr",
-        "Heading": "Site Officiel de la ville de Clichy-sous-Bois",
-        "Abstract": "Bienvenue sur le site officiel de la ville de\u00a0Clichy-sous-Bois. Toutes les informations, actualit\u00e9s et services dont vous avez besoin vous y attendent : pr\u00e9sentation de la ville, services publics, d\u00e9marches en lignes, actualit\u00e9s, kiosque, phototh\u00e8que, newsletter\u2026",
-        "Official Site": "https://www.clichy-sous-bois.fr/",
-        "Icon": "https://www.clichy-sous-bois.fr/wp-content/uploads/2019/05/favicon.png",
-        "Redirect": "https://www.clichy-sous-bois.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.clichy-sous-bois.fr/"
-    },
-    {
         "link": "https://cyclingcols.com",
         "Heading": "CyclingCols \u2013 Welcome \u2013 ride every col \u26f0\ufe0f\ud83d\udeb4",
         "Abstract": null,
@@ -172,7 +172,7 @@
     {
         "link": "https://checkroi.ru",
         "Heading": "\u041f\u043e\u0434\u0431\u043e\u0440\u043a\u0430 \u043b\u0443\u0447\u0448\u0438\u0445 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441\u043e\u0432 2026 \u2014 \u0440\u0435\u0439\u0442\u0438\u043d\u0433, \u043e\u0442\u0437\u044b\u0432\u044b \u0438 \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u0446\u0435\u043d 11\u00a0300+ \u043a\u0443\u0440\u0441\u043e\u0432 \u2022 Checkroi",
-        "Abstract": "\u0421\u0440\u0430\u0432\u043d\u0438\u0442\u0435 11\u00a0300+ \u043a\u0443\u0440\u0441\u043e\u0432 \u043e\u0442 109 \u0448\u043a\u043e\u043b. \u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u043f\u043e 20 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u0430\u043c, \u043e\u0442\u0437\u044b\u0432\u044b 9\u00a0700+ \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043e\u0432, \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u043a\u0438\u0434\u043a\u0438 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043a\u0430\u0440\u044c\u0435\u0440\u043d\u044b\u0439 \u0442\u0435\u0441\u0442",
+        "Abstract": "\u0421\u0440\u0430\u0432\u043d\u0438\u0442\u0435 11\u00a0300+ \u043a\u0443\u0440\u0441\u043e\u0432 \u043e\u0442 110 \u0448\u043a\u043e\u043b. \u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u043f\u043e 20 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u0430\u043c, \u043e\u0442\u0437\u044b\u0432\u044b 9\u00a0700+ \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043e\u0432, \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u043a\u0438\u0434\u043a\u0438 \u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043a\u0430\u0440\u044c\u0435\u0440\u043d\u044b\u0439 \u0442\u0435\u0441\u0442",
         "Official Site": "https://checkroi.ru/",
         "Icon": "https://selcdn.checkroi.ru/wp-content/uploads/2026/04/checkroi-glavnaya-stranitsa.png",
         "Redirect": "https://checkroi.ru/",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://www.venatorcorp.com/"
     },
     {
+        "link": "https://crommedia.com",
+        "Heading": "Webbyr\u00e5 Uppsala & Stockholm | Reklambyr\u00e5 i Uppsala  | Digital Monkey AB | Foto & Video",
+        "Abstract": "V\u00e4lkommen till Digital Monkey AB, f\u00f6retaget som f\u00f6r din onlinevision till liv! Med omfattande tj\u00e4nster inom web design specialiserade i att skapa fullst\u00e4ndig di",
+        "Official Site": "https://digitalmonkey.se/",
+        "Icon": "https://digitalmonkey.se/images/content/img/digital-monkey.jpg",
+        "Redirect": "https://digitalmonkey.se/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://digitalmonkey.se/"
+    },
+    {
         "link": "https://antibodypedia.com",
         "Heading": "Antibodypedia",
         "Abstract": null,
@@ -198,6 +208,16 @@
         "Redirect": "https://antibodypedia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://antibodypedia.com"
+    },
+    {
+        "link": "https://criasitecampinas.com.br",
+        "Heading": "Cria\u00e7\u00e3o de Sites em Campinas - Web Designer Bruno Gontijo",
+        "Abstract": "Cria\u00e7\u00e3o de Sites e Lojas Virtuais responsivos para pequenas, m\u00e9dias e grandes empresas",
+        "Official Site": "https://www.criasitecampinas.com.br/",
+        "Icon": "https://www.criasitecampinas.com.br/wp-content/uploads/2020/12/eu.jpeg",
+        "Redirect": "https://www.criasitecampinas.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.criasitecampinas.com.br/"
     },
     {
         "link": "https://pol83.ru",

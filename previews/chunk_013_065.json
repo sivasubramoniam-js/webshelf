@@ -70,6 +70,16 @@
         "AbstractURL": "https://vyte.in"
     },
     {
+        "link": "https://go2barcelona.de",
+        "Heading": "N\u00b01 Barcelona Reisef\u00fchrer - Tipps Barcelona (Spanien)",
+        "Abstract": "Alle Infos und Geheimtipps f\u00fcr Ihre St\u00e4dtereise nach Barcelona, Spanien, wie die Besuche von Sehensw\u00fcrdigkeiten und H\u00f6hepunkten. Ihr Besuch und St\u00e4dtereise nach Barcelona Stadt beginnt auf Go2Barcelona.de!",
+        "Official Site": "https://go2barcelona.de/",
+        "Icon": "https://go2barcelona.de/images/casabatllo.jpg",
+        "Redirect": "https://go2barcelona.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://go2barcelona.de/"
+    },
+    {
         "link": "https://gobeach.com",
         "Heading": "GoBeach Vacations - St Martin Villas - St Barths Villas - Anguilla Villas - Cayman Villa Rentals and more...",
         "Abstract": "Villa vacations in the Caribbean.  Browse through our hand made catalog of island villas, from the most luxury villas to cheaper basic condo or apartment, with many specials and discounts. Specializing in St.Martin, St. Maarten, British and US Virgin Islands, Barbados, Anguilla, St.Barths and Cayman Islands villa rentals.  We know our villas first hand and will help you select the right one from the many great options available.",
@@ -231,13 +241,13 @@
     },
     {
         "link": "https://afrikanbasket.com",
-        "Heading": "Home - AfrikanBasket.com African Shop General Goods & Products",
-        "Abstract": "In search of South African Shop Dubai, West African Shop in Dubai? AfrikanBasket.com is a one-stop shop for African Inspired Products.",
-        "Official Site": "https://afrikanbasket.com/",
-        "Icon": "https://afrikanbasket.com/wp-content/uploads/2022/12/LOGO-ARTBOARD-FULL-VERTICAL.png",
-        "Redirect": "https://afrikanbasket.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://afrikanbasket.com",
+        "Icon": "N/A",
+        "Redirect": "https://afrikanbasket.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://afrikanbasket.com/"
+        "AbstractURL": "https://afrikanbasket.com"
     },
     {
         "link": "https://agc-shuttle.com",

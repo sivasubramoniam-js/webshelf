@@ -61,23 +61,13 @@
     },
     {
         "link": "https://twtybbs.com",
-        "Heading": "\u53f0\u7063\u98b1\u98a8\u8ad6\u58c7 - \u9632\u707d\u8cc7\u8a0a\u3001\u98b1\u98a8\u3001\u5730\u9707\u3001\u5929\u6c23\u5373\u6642\u638c\u63e1 -  Powered by Discuz!",
-        "Abstract": "\u53f0\u7063\u98b1\u98a8\u8ad6\u58c7 ",
+        "Heading": "\u53f0\u7063\u98b1\u98a8\u8ad6\u58c7 - \u9632\u707d\u8cc7\u8a0a\u3001\u98b1\u98a8\u3001\u5730\u9707\u3001\u5929\u6c23\u5373\u6642\u638c\u63e1 -  \u624b\u6a5f\u7248 - Powered by Discuz!",
+        "Abstract": "\u53f0\u7063\u98b1\u98a8\u8ad6\u58c7 ,\u53f0\u7063\u98b1\u98a8\u8ad6\u58c7 - \u9632\u707d\u8cc7\u8a0a\u3001\u98b1\u98a8\u3001\u5730\u9707\u3001\u5929\u6c23\u5373\u6642\u638c\u63e1",
         "Official Site": "https://twtybbs.com",
         "Icon": "N/A",
         "Redirect": "https://twtybbs.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://twtybbs.com"
-    },
-    {
-        "link": "https://ulsannews.net",
-        "Heading": "\uc6b8\uc0b0\ub274\uc2a4\ub137",
-        "Abstract": "\uc815\uce58, \uacbd\uc81c, \uc0ac\ud68c, \ubb38\ud654, \uc624\ud53c\ub2c8\uc5b8, \ub178\ub3d9/\ud658\uacbd, \uad50\uc721, IT/\uacfc\ud559, \uc2a4\ud3ec\uce20, \uc0ac\ub78c\ub4e4, \ud3ec\ud1a0&\uc601\uc0c1",
-        "Official Site": "https://www.ulsannews.net",
-        "Icon": "https://f.xza.co.kr/https://www.ulsannews.net/data/ulsannews_net/upload/sns_thumbnail.jpg?wd=1729229203",
-        "Redirect": "https://www.ulsannews.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ulsannews.net"
     },
     {
         "link": "https://unpublished.ca",
@@ -150,6 +140,16 @@
         "AbstractURL": "https://www.validatornode.com/"
     },
     {
+        "link": "https://valle-de-calamuchita-hoteles.com",
+        "Heading": "Valle de Calamuchita hotels & apartments, all accommodations in Valle de Calamuchita",
+        "Abstract": "Online booking for hotels in Valle de Calamuchita, Argentina. Good availability and great rates. Cheap and secure, pay at the hotel, no booking fees.",
+        "Official Site": "https://valle-de-calamuchita-hoteles.com",
+        "Icon": "N/A",
+        "Redirect": "https://valle-de-calamuchita-hoteles.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://valle-de-calamuchita-hoteles.com"
+    },
+    {
         "link": "https://vaposeleccion.com",
         "Heading": "Vape Shop Online - Tienda Vaper | VapoSeleccion",
         "Abstract": "Descubre los mejores productos en nuestra vape shop Online. Variedad de vapers, e-l\u00edquidos y accesorios. \u00a1Compra ahora! y disfruta de env\u00edo r\u00e1pido y precios competitivos.",
@@ -188,6 +188,16 @@
         "Redirect": "https://vente-pieces-menager.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vente-pieces-menager.com"
+    },
+    {
+        "link": "https://verfaillie.com",
+        "Heading": "Verfaillie Bauwens | Reeds meer dan 50 jaar d\u00e9 partner voor al uw elektro",
+        "Abstract": "De specialist in elektro met de beste service. Vandaag besteld, morgen in huis. Levering en installatie door eigen experts, met 2 echte winkels....",
+        "Official Site": "https://verfaillie.com/",
+        "Icon": "https://verfaillie.com/image/cache/logo/Logo Verfaillie-600x315.png",
+        "Redirect": "https://verfaillie.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://verfaillie.com/"
     },
     {
         "link": "https://visionforeducation.co.uk",

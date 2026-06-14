@@ -40,16 +40,6 @@
         "AbstractURL": "https://kimberleywalsh.co.uk"
     },
     {
-        "link": "https://ao-nk.ru",
-        "Heading": "\u0410\u041e \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438",
-        "Abstract": "\u0410\u041e \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438",
-        "Official Site": "https://ao-nk.ru",
-        "Icon": "/template/images/favicon.png",
-        "Redirect": "https://ao-nk.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ao-nk.ru"
-    },
-    {
         "link": "https://imagination-engines.com",
         "Heading": "Imagination Engines",
         "Abstract": "Imagination Engines, ushering in the dawn of conscious computing!",
@@ -78,6 +68,16 @@
         "Redirect": "https://laola24.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://laola24.com"
+    },
+    {
+        "link": "https://barrettnetworks.com",
+        "Heading": "Barrett Networks | Barrett Networks is now part of HostGo.com.",
+        "Abstract": null,
+        "Official Site": "https://barrettnetworks.com",
+        "Icon": "https://hostgo.barrettnetworks.com/wp-content/uploads/2024/11/cropped-bn-favicon-32x32.jpg",
+        "Redirect": "https://barrettnetworks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://barrettnetworks.com"
     },
     {
         "link": "https://louisvilleoralsurgery.com",
@@ -188,6 +188,16 @@
         "Redirect": "https://www.hyponamiru.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hyponamiru.cz/"
+    },
+    {
+        "link": "https://limaclub.com",
+        "Heading": "Encuentros Arequipa",
+        "Abstract": "WoWonder v1.2 is a Social Networking Platform. With our new feature, user can wonder posts, photos,",
+        "Official Site": "https://limaclub.com",
+        "Icon": "https://limaclub.com/themes/aqp/img/icon.png",
+        "Redirect": "https://limaclub.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://limaclub.com"
     },
     {
         "link": "https://sshn.nl",

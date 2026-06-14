@@ -91,13 +91,33 @@
     },
     {
         "link": "https://devcurry.com",
-        "Heading": ".NET and Web Development Tutorials for Developers  ",
+        "Heading": "DevCurry",
         "Abstract": "Web Developer Tutorials",
         "Official Site": "https://www.devcurry.com/",
         "Icon": "https://www.devcurry.com/favicon.ico",
         "Redirect": "https://www.devcurry.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.devcurry.com/"
+    },
+    {
+        "link": "https://mountsdentalcare.com",
+        "Heading": "Best Dentist Offices/Clinic North Little Rock AR - Family Dentistry & Dental Care Services at Mounts Dental Care",
+        "Abstract": "Mounts Dental Care \u2013 Best dentist offices in North Little Rock, AR. We offer top-quality dental care & family dentistry services at our clinic for all ages.",
+        "Official Site": "https://www.mountsdentalcare.com/",
+        "Icon": "https://mountsdentalcare.com/wp-content/uploads/2024/03/mountsdentalcare80x80fav.png",
+        "Redirect": "https://www.mountsdentalcare.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mountsdentalcare.com/"
+    },
+    {
+        "link": "https://muhb.cz",
+        "Heading": "Havl\u00ed\u010dk\u016fv Brod: \u00davod",
+        "Abstract": "Vznik na\u0161eho m\u011bsta se datuje od 2. poloviny 13. stolet\u00ed, kdy Smil z Lichtenburka zalo\u017eil na Habersk\u00e9 stezce u zdej\u0161\u00ed osady Brod | Havl\u00ed\u010dk\u016fv Brod",
+        "Official Site": "https://www.muhb.cz/",
+        "Icon": "https://www.muhb.cz/img/logo_soc.jpg",
+        "Redirect": "https://www.muhb.cz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.muhb.cz/"
     },
     {
         "link": "https://plicards.com",
@@ -150,8 +170,18 @@
         "AbstractURL": "https://arevista.com.br/"
     },
     {
+        "link": "https://vifaexpo.com",
+        "Heading": "18th VIFA EXPO | 08 - 11 Mar, 2027 | WTC EXPO + SKY EXPO, HCMC | Vietnamese Largest, Oldest and Most Prestigious Export Furniture Trade Show (Since 2008) | 680+ Exhibitors | 2,800+ Booths | 51,000+ sqm",
+        "Abstract": "VIFA EXPO 2026 - Vietnam's Largest & Oldest International Furniture Fair since 2008",
+        "Official Site": "https://vifaexpo.com",
+        "Icon": "https://vifaexpo.com/wp-content/uploads/2026/04/cropped-LOGO-VIFA-EXPO-2027-square-32x32.jpg",
+        "Redirect": "https://vifaexpo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vifaexpo.com"
+    },
+    {
         "link": "https://krassud.ru",
-        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 08.06.2026 ",
+        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 13.06.2026 ",
         "Abstract": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u0417\u0430\u043a\u043e\u043d\u043d\u0430\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0431\u0435\u0437 \u043f\u0440\u043e\u0431\u043b\u0435\u043c.",
         "Official Site": "https://krassud.ru",
         "Icon": "untitled-1.ico",
@@ -160,14 +190,24 @@
         "AbstractURL": "https://krassud.ru"
     },
     {
-        "link": "https://rinecloud.net",
-        "Heading": "\u0631\u0627\u06cc\u0646\u200c\u06a9\u0644\u0648\u062f",
+        "link": "https://bodhiindexes.com",
+        "Heading": "Bodhi Indexes",
         "Abstract": null,
-        "Official Site": "https://rinecloud.net",
-        "Icon": "https://rinecloud.net/wp-content/uploads/2026/05/cropped-rinecloud-logo-32x32.png",
-        "Redirect": "https://rinecloud.net",
+        "Official Site": "https://bodhiindexes.com",
+        "Icon": "N/A",
+        "Redirect": "https://bodhiindexes.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rinecloud.net"
+        "AbstractURL": "https://bodhiindexes.com"
+    },
+    {
+        "link": "https://rinecloud.net",
+        "Heading": "\u0631\u0627\u06cc\u0646 \u06a9\u0644\u0648\u062f",
+        "Abstract": "\u0627\u0632 \u062a\u0646\u0648\u0639 \u0633\u0631\u0648\u06cc\u0633\u200c\u0647\u0627\u06cc \u0645\u06cc\u0632\u0628\u0627\u0646\u06cc \u0648\u0628 (web hosting) \u062a\u0627 \u0628\u0647\u06cc\u0646\u0647\u200c \u0633\u0627\u0632\u06cc \u0633\u0627\u06cc\u062a \u0648 \u0645\u0647\u0627\u062c\u0631\u062a \u0631\u0627\u06cc\u06af\u0627\u0646\u060c \u0645\u0627 \u062a\u0645\u0627\u0645 \u0631\u0627\u0647\u200c\u0647\u0627\u06cc \u0645\u0646\u062d\u0635\u0631 \u0628\u0647 \u0641\u0631\u062f \u0631\u0634\u062f \u06cc\u06a9 \u0648\u0628\u200c\u0633\u0627\u06cc\u062a \u0646\u0648\u067e\u0627\u06cc \u0648\u0631\u062f\u067e\u0631\u0633\u06cc \u062a\u0627 \u06cc\u06a9 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0628\u0632\u0631\u06af",
+        "Official Site": "https://rinecloud.net/",
+        "Icon": "https://rinecloud.net/wp-content/uploads/2026/05/cropped-rinecloud-logo-32x32.png",
+        "Redirect": "https://rinecloud.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rinecloud.net/"
     },
     {
         "link": "https://discountappliances.com.au",
@@ -191,13 +231,13 @@
     },
     {
         "link": "https://sugaroutfitters.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://sugaroutfitters.com",
-        "Icon": "N/A",
-        "Redirect": "https://sugaroutfitters.com",
+        "Heading": "SugarAI Marketplace | SugarAI Module, Themes, and Integrations",
+        "Abstract": "Connect your favorite tools and find new Add-Ons. Unlock sales potential.",
+        "Official Site": "https://marketplace.sugarai.com/",
+        "Icon": "https://marketplace.sugarai.com/assets/img/brandmarks/SugarAI_RGB_Brandmark_DarkGreen.jpg",
+        "Redirect": "https://marketplace.sugarai.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sugaroutfitters.com"
+        "AbstractURL": "https://marketplace.sugarai.com/"
     },
     {
         "link": "https://kuramatoys.com",

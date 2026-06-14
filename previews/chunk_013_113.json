@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://itfresh.ru",
+        "Heading": "\u0410\u0419-\u0422\u0418 \u0424\u0440\u0435\u0448 \u2014 IT-\u0430\u0443\u0442\u0441\u043e\u0440\u0441\u0438\u043d\u0433 \u0434\u043b\u044f \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043b\u0438\u0446 | \u041c\u043e\u0441\u043a\u0432\u0430",
+        "Abstract": "\u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435 IT-\u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u0432\u0430\u0448\u0435\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430. 15+ \u043b\u0435\u0442 \u043e\u043f\u044b\u0442\u0430. \u0424\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0430. \u041c\u043e\u0441\u043a\u0432\u0430, \u0434\u0430\u0442\u0430-\u0446\u0435\u043d\u0442\u0440 \u041c\u0422\u0421.",
+        "Official Site": "https://itfresh.ru/",
+        "Icon": "https://itfresh.ru/assets/img/logo.png",
+        "Redirect": "https://itfresh.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://itfresh.ru/"
+    },
+    {
         "link": "https://leva-club.xyz",
         "Heading": null,
         "Abstract": null,
@@ -8,6 +18,16 @@
         "Redirect": "https://leva-club.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://leva-club.xyz"
+    },
+    {
+        "link": "https://dpair.com",
+        "Heading": "Data Center Solutions - DP Air",
+        "Abstract": "Comprehensive data center solutions including design and build, Environmental Control, Critical Power, and Commercial HVAC.",
+        "Official Site": "https://dpair.com/",
+        "Icon": "https://dpair.com/wp-content/uploads/2022/10/favicon.jpg",
+        "Redirect": "https://dpair.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dpair.com/"
     },
     {
         "link": "https://avasys.jp",
@@ -38,6 +58,16 @@
         "Redirect": "https://averf.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://averf.ru"
+    },
+    {
+        "link": "https://netvand.com",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://netvand.com",
+        "Icon": "N/A",
+        "Redirect": "https://netvand.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://netvand.com"
     },
     {
         "link": "https://carhifi-store-buende.de",
@@ -101,7 +131,7 @@
     },
     {
         "link": "https://michael-prokop.at",
-        "Heading": "Michael Prokop -\nWelcome 4.246.135.69 [4.246.135.69]",
+        "Heading": "Michael Prokop -\nWelcome 172.184.213.247 [172.184.213.247]",
         "Abstract": null,
         "Official Site": "https://michael-prokop.at",
         "Icon": "favicon.ico",

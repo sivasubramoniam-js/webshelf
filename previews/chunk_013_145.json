@@ -110,6 +110,16 @@
         "AbstractURL": "https://paginaweb.be"
     },
     {
+        "link": "https://verspiel-nicht-dein-leben.de",
+        "Heading": "Verspiel nicht dein Leben",
+        "Abstract": "Verspiel nicht dein Leben bietet zahlreiche Informationen rund um das Thema Gl\u00fccksspielsucht in mehreren Sprachen und einen Selbsttest.",
+        "Official Site": "https://verspiel-nicht-dein-leben.de",
+        "Icon": "https://www.verspiel-nicht-dein-leben.de/fileadmin/_processed_/e/5/csm_VNDL_Header_Startseite_9070e64a1b.jpg",
+        "Redirect": "https://verspiel-nicht-dein-leben.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://verspiel-nicht-dein-leben.de"
+    },
+    {
         "link": "https://groupautointernational.com",
         "Heading": "\n\t\t\tGROUPAUTO International\t\t",
         "Abstract": null,
@@ -158,6 +168,16 @@
         "Redirect": "https://zavify.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zavify.co.uk/"
+    },
+    {
+        "link": "https://dominionherbal.com",
+        "Heading": "Online Herbal Medicine Programs from Dominion Herbal College",
+        "Abstract": "Join thousands of graduates with online herbal programs from Dominion Herbal College and start your journey in Herbal Medicine.",
+        "Official Site": "https://www.dominionherbalcollege.com/",
+        "Icon": "https://www.dominionherbalcollege.com/wp-content/uploads/2022/07/AdobeStock_258071338-1200x630-1.jpg",
+        "Redirect": "https://www.dominionherbalcollege.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dominionherbalcollege.com/"
     },
     {
         "link": "https://adnakayama.com",
@@ -228,5 +248,25 @@
         "Redirect": "http://cggyo.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "http://cggyo.cn"
+    },
+    {
+        "link": "https://naba369.com",
+        "Heading": "My Blog - My WordPress Blog",
+        "Abstract": "My WordPress Blog",
+        "Official Site": "https://www.naba369.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.naba369.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.naba369.com/"
+    },
+    {
+        "link": "https://childrensbookstore.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://childrensbookstore.com",
+        "Icon": "N/A",
+        "Redirect": "https://childrensbookstore.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://childrensbookstore.com"
     }
 ]

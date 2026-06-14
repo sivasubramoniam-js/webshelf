@@ -40,14 +40,14 @@
         "AbstractURL": "https://webhostingprotocol.com"
     },
     {
-        "link": "https://whitemane.org",
-        "Heading": "Whitemane | Hearth Back Home",
-        "Abstract": "Alliance or Horde?! Hearth back home and discover the cult classic MMO and play today for free!",
-        "Official Site": "https://whitemane.gg/en",
-        "Icon": "https://whitemane.gg/img/OG.webp",
-        "Redirect": "https://whitemane.gg/en",
+        "link": "https://appgods.website",
+        "Heading": "App Gods Inc. \u2013 The God Of Apps, Websites, & More",
+        "Abstract": null,
+        "Official Site": "https://appgods.website",
+        "Icon": "https://appgods.website/wp-content/uploads/2021/07/cropped-APP-GODS-Inc-32x32.png",
+        "Redirect": "https://appgods.website",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://whitemane.gg/en"
+        "AbstractURL": "https://appgods.website"
     },
     {
         "link": "https://pointepest.com",
@@ -130,6 +130,16 @@
         "AbstractURL": "https://ifrbanking.ru"
     },
     {
+        "link": "https://rampantgames.com",
+        "Heading": "Rampant Games - Top Indie Games - Roleplaying, Strategy, Action, and \nMore!",
+        "Abstract": "Rampant Games - home of indie RPGs, Adventure Games, Strategy, and Action Games",
+        "Official Site": "https://rampantgames.com",
+        "Icon": "N/A",
+        "Redirect": "https://rampantgames.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rampantgames.com"
+    },
+    {
         "link": "https://gidroizolyaciya-cena-8.ru",
         "Heading": "\u0426\u0435\u043d\u044b \u043d\u0430 \u0413\u0438\u0434\u0440\u043e\u0438\u0437\u043e\u043b\u044f\u0446\u0438\u044e | \u041f\u0440\u0430\u0439\u0441-\u043b\u0438\u0441\u0442 \u043d\u0430 \u0413\u0438\u0434\u0440\u043e\u0438\u0437\u043e\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0420\u0430\u0431\u043e\u0442\u044b | \u042e\u0432\u0438\u043a\u0441 \u0413\u0440\u0443\u043f\u043f ",
         "Abstract": "\u0426\u0435\u043d\u044b \u043d\u0430 \u0443\u0441\u043b\u0443\u0433\u0438, \u0440\u0430\u0431\u043e\u0442\u044b \u043f\u043e \u0433\u0438\u0434\u0440\u043e\u0438\u0437\u043e\u043b\u044f\u0446\u0438\u0438 \u0437\u0434\u0430\u043d\u0438\u0439, \u0444\u0443\u043d\u0434\u0430\u043c\u0435\u043d\u0442\u0430, \u0441\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u0438\u0439 \u0438\u0437 \u043a\u0438\u0440\u043f\u0438\u0447\u0430, \u0431\u0435\u0442\u043e\u043d\u0430 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 | \u042e\u0432\u0438\u043a\u0441 \u0413\u0440\u0443\u043f\u043f ",
@@ -180,6 +190,16 @@
         "AbstractURL": "https://wildlandsnetwork.org/"
     },
     {
+        "link": "https://creamosel.com",
+        "Heading": "Inicio",
+        "Abstract": null,
+        "Official Site": "https://creamosel.com",
+        "Icon": "N/A",
+        "Redirect": "https://creamosel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://creamosel.com"
+    },
+    {
         "link": "https://global-reparatur.de",
         "Heading": "Global Reparaturservice | Haushaltsger\u00e4te Reparatur vor Ort",
         "Abstract": "Reparaturservice f\u00fcr Waschmaschine, Geschirrsp\u00fcler, Trockner, Backofen & mehr. Schnelle Vor-Ort-Diagnose, transparente Preisfreigabe. Berlin, Potsdam & Brandenburg.",
@@ -188,6 +208,16 @@
         "Redirect": "https://global-reparaturservice.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://global-reparaturservice.de/"
+    },
+    {
+        "link": "https://reticleweb.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://reticleweb.com",
+        "Icon": "N/A",
+        "Redirect": "https://reticleweb.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://reticleweb.com"
     },
     {
         "link": "https://propertypavilion.co.uk",
@@ -238,6 +268,16 @@
         "Redirect": "https://www.duecker.com/de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.duecker.com/de/"
+    },
+    {
+        "link": "https://koukalgroupe.fr",
+        "Heading": "SERVEUR LINUX",
+        "Abstract": null,
+        "Official Site": "https://koukalgroupe.fr",
+        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAE4UExURUxpcWO2KWK0KGO2KVafIl+vJ2S4KmS4KV6sJ1+uJ16tJ2O3KWO2KWS4KWS5Kl2rJWGzKFuoJGK1KWGzKF6tJ1mlJF+vJ2O3KWO2KV2qJV6tJ2CwJ2S5KmCyKF2rJVyqJWO1KWK0KF+vJ12rJWS5KmO3KWS4KmS4KlmmJF6uJ2K1KVikJFypJV2sJWK1KVmlJFypJWO2KWS3KWS3KV6sJ2K1KWGzKFuoJWGzKGGzKFijI2CxKF6tJ2CxKGW5KmO2KWCxKGO2KV+vJ1mkJF+wJ1mmJGS5KmGyKGS5KmGyKF6tJ16tJ2W5KleiI2O3KWS4KVuoJFagI2CxKGGyKF2sJWS5Kl+uJ2K0KGS3KWO2KV2sJVumJF2rJWW5KlypJWGzKF+vJ2S4KVijI2GzKFuoJGGzKGW6KmW5KhLeswQAAABmdFJOUwDModUGV/bvOUlU39/u+S6RHsWWThRD494oQ1f9kB0d06lmRvfn8vcSUcgSHDXCETDb6u9AxroUmrMHhD6a/NCX1nAMdw36jfiSPTr7CODzIw+MgSL8o63l2igUQ/4eqpDxIZ4Qkq1IzdkAAAAJcEhZcwAAAHAAAABwAc54YpMAAADfSURBVDjLY2AYGSAJv3QgQ0J8DG7pgKAwhrjE2ORo7NK+wf6hHAwMqWlpkZzY5L0Y09LCgXQKkPbxdEaXdnX3SEvzCwExoyLS0tLsbVDlOR2BguzeUA4bkMNmzYKQNrewAwq5scL4TmkgIMQB47NygwVcEDpswQIqsvogjpxiOpjrgGSjlRlYKI1HQERZ2AjCtmRBdpOGVhoaMNVGdbWOAqo8syC6vyUlkOXF+TEDTlcVIc9rgi1opdhh8upc2CNHE6qCTwlX7HIYguTVpHHHvzyTsYyeGN4UJGowLPMNAAcjRWNz/z2rAAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC",
+        "Redirect": "https://koukalgroupe.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://koukalgroupe.fr"
     },
     {
         "link": "https://psychedelicstoday.com",
