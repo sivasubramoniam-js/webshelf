@@ -60,16 +60,6 @@
         "AbstractURL": "https://afs-linden.de"
     },
     {
-        "link": "https://cibap.nl",
-        "Heading": "Cibap | Creatieve vakschool voor vormgeving",
-        "Abstract": "Op zoek naar een creatieve mbo-opleiding? Cibap is d\u00e9 creatieve vakschool in Zwolle. Met opleidingen van filmmaker tot meubelontwerper, interieurstylist etc.",
-        "Official Site": "https://www.cibap.nl/",
-        "Icon": "https://www.cibap.nl/wp-content/uploads/2024/02/Cibap-specialist-schilder-home-foto-2-1024x576.png",
-        "Redirect": "https://www.cibap.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cibap.nl/"
-    },
-    {
         "link": "https://zutterdesign.com",
         "Heading": "Zutter Design:",
         "Abstract": null,
@@ -110,16 +100,6 @@
         "AbstractURL": "https://yunasoft.com/"
     },
     {
-        "link": "https://knowyourself.pk",
-        "Heading": "Knowyourself \u2013 knowyourself",
-        "Abstract": "KNOW YOURSELF \nwill help you to discover the real you Join Now      \nKNOW YOURSELF \nwill help you to discover the real you Join Now    \nmake your happy life  Who am I? What is my purpose in life? What does my future hold? Will I ever",
-        "Official Site": "https://knowyourself.pk/",
-        "Icon": "https://knowyourself.pk/wp-content/uploads/2022/04/WhatsApp_Image_2021-12-16_at_4.13.38_PM-removebg-preview.png",
-        "Redirect": "https://knowyourself.pk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://knowyourself.pk/"
-    },
-    {
         "link": "https://dpservicesfl.com",
         "Heading": "Emergency Plumbing Company, HVAC Repair, AC Maintenance & Installation Services in Fort Myers, Cape Coral, Daytona Beach, FL - Diversified Plumbing Services of SW Florida",
         "Abstract": "Diversified Plumbing Services provides complete plumbing and rooter services for residential and commercial properties throughout Lee County, Collier, Volusia and Flagler. Schedule a service or call us today!",
@@ -131,13 +111,13 @@
     },
     {
         "link": "https://sakuraofamerica.com",
-        "Heading": "Home - Sakura of America",
-        "Abstract": "We produce quality art supplies and products with only the best materials so that you are able to express yourself and unlock your unique creative potential.",
-        "Official Site": "https://www.sakuraofamerica.com/",
-        "Icon": "https://www.sakuraofamerica.com/wp-content/uploads/2020/06/Thumbnail-Pens-1.jpg",
-        "Redirect": "https://www.sakuraofamerica.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sakuraofamerica.com",
+        "Icon": "data:;",
+        "Redirect": "https://sakuraofamerica.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sakuraofamerica.com/"
+        "AbstractURL": "https://sakuraofamerica.com"
     },
     {
         "link": "https://article29.cc",
@@ -328,25 +308,5 @@
         "Redirect": "https://apxforx.pro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://apxforx.pro"
-    },
-    {
-        "link": "https://gundogmusesco.xyz",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://gundogmusesco.xyz",
-        "Icon": "N/A",
-        "Redirect": "https://gundogmusesco.xyz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gundogmusesco.xyz"
-    },
-    {
-        "link": "https://peacediplomacy.org",
-        "Heading": "Home - The Institute for Peace and Diplomacy - l\u2019Institut pour la paix et la diplomatie",
-        "Abstract": "When Guardrails Become the Stakes: AI Governance and the Beijing Summit The Beijing summit should be read neither as a breakthrough nor as a failure. It is an early, tentative signal that [\u2026]",
-        "Official Site": "https://peacediplomacy.org/",
-        "Icon": "https://peacediplomacy.org/wp-content/uploads/2026/05/55272396804_2030cb5088_o.jpg",
-        "Redirect": "https://peacediplomacy.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://peacediplomacy.org/"
     }
 ]

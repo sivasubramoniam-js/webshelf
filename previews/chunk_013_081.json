@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://mediatiko.com",
-        "Heading": "Mediatiko - Noticias en espa\u00f1ol de Latinoam\u00e9rica",
-        "Abstract": null,
-        "Official Site": "https://www.mediatiko.com/",
-        "Icon": "https://www.mediatiko.com/wp-content/uploads/2022/12/logo-mediatiko2-e1680531916473.png",
-        "Redirect": "https://www.mediatiko.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mediatiko.com/"
-    },
-    {
         "link": "https://mizar24.ro",
         "Heading": "Mizar24.ro",
         "Abstract": "",
@@ -80,16 +70,6 @@
         "AbstractURL": "https://s3i.co.uk"
     },
     {
-        "link": "https://safarni.com",
-        "Heading": "\u0633\u0641\u0631\u0646\u064a - \u062a\u0630\u0627\u0643\u0631 \u0637\u064a\u0631\u0627\u0646 \u0628\u0623\u0642\u0644 \u0627\u0644\u0627\u0633\u0639\u0627\u0631 \u0648 \u062d\u062c\u0648\u0632\u0627\u062a \u0627\u0644\u0641\u0646\u0627\u062f\u0642",
-        "Abstract": "seo.Discover Your Dream Destinations with Deals, Travel Ideas",
-        "Official Site": "https://safarni.com",
-        "Icon": "https://saf-img.s3.eu-west-2.amazonaws.com/logos/fmeEoZT1N8LIPj6JnCazBwVRcOsih0GTqNkNZ4QU.jpg",
-        "Redirect": "https://safarni.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://safarni.com"
-    },
-    {
         "link": "https://searchlightelectric.com",
         "Heading": "Quality Decorative Lighting | Searchlight Electric",
         "Abstract": "Searchlight Electric is home to a variety of quality decorative lighting. We've been in the wholesale trade lighting industry since 1945. Visit our showrooms today.",
@@ -148,16 +128,6 @@
         "Redirect": "https://www.tennisratio.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tennisratio.com/"
-    },
-    {
-        "link": "https://theflooringguys.com.au",
-        "Heading": "The Flooring Guys - Hybrid Flooring & Laminate Flooring Online",
-        "Abstract": "Shop Hybrid Flooring, Engineered Timber Flooring, Vinyl Flooring and Laminate Flooring. See The Flooring Guys range of quality flooring online today!",
-        "Official Site": "https://theflooringguys.com.au/",
-        "Icon": "https://theflooringguys.com.au/wp-content/uploads/2024/06/quick-step-flooring-logo.webp",
-        "Redirect": "https://theflooringguys.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://theflooringguys.com.au/"
     },
     {
         "link": "https://tianyabooks.com",
@@ -288,6 +258,16 @@
         "Redirect": "https://cardlaxy.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cardlaxy.com"
+    },
+    {
+        "link": "https://cdg40.fr",
+        "Heading": " Accueil - CDG 40",
+        "Abstract": null,
+        "Official Site": "https://cdg40.fr",
+        "Icon": "images/favicon/favicon-32x32.png",
+        "Redirect": "https://cdg40.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cdg40.fr"
     },
     {
         "link": "https://cosyharu.co.kr",

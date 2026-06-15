@@ -50,16 +50,6 @@
         "AbstractURL": "https://activeplumbing.com"
     },
     {
-        "link": "https://actylis.com",
-        "Heading": "Actylis | Home",
-        "Abstract": "",
-        "Official Site": "https://actylis.com",
-        "Icon": "https://actylis.com/assets/images/Actylis-favicon.svg",
-        "Redirect": "https://actylis.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://actylis.com"
-    },
-    {
         "link": "https://acu-kytaj.store",
         "Heading": null,
         "Abstract": null,
@@ -140,16 +130,6 @@
         "AbstractURL": "https://agim-cez.online"
     },
     {
-        "link": "https://agriparts.ie",
-        "Heading": "AgriParts \u2013 Agri Tractor Tunning",
-        "Abstract": null,
-        "Official Site": "https://agriparts.ie",
-        "Icon": "https://bunny-wp-pullzone-1hmxx7ulhr.b-cdn.net/wp-content/uploads/2024/07/cropped-agriparts-favi-32x32.png",
-        "Redirect": "https://agriparts.ie",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://agriparts.ie"
-    },
-    {
         "link": "https://aichef.pro",
         "Heading": "AI Chef Pro: 55+ Herramientas de IA para Chefs y Restaurantes",
         "Abstract": "Suite de inteligencia artificial para chefs y restaurantes. 55+ herramientas: recetas con IA, food cost, escandallos, marketing gastronomico. Prueba gratis.",
@@ -194,10 +174,20 @@
         "Heading": "Adventures in Wonderland \u2013 a pilgrimage of the heart",
         "Abstract": "a pilgrimage of the heart",
         "Official Site": "https://alisonanddon.com/",
-        "Icon": "https://secure.gravatar.com/blavatar/d9eb6f460d0fa9d140a1f2af775d879ab8fc48ca597b9a4f4bdac37c42b586dd?s=200&ts=1781378918",
+        "Icon": "https://secure.gravatar.com/blavatar/d9eb6f460d0fa9d140a1f2af775d879ab8fc48ca597b9a4f4bdac37c42b586dd?s=200&ts=1781407757",
         "Redirect": "https://alisonanddon.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alisonanddon.com/"
+    },
+    {
+        "link": "https://allposterforum.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://allposterforum.com",
+        "Icon": "data:;",
+        "Redirect": "https://allposterforum.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://allposterforum.com"
     },
     {
         "link": "https://alu-oquk.store",
@@ -218,6 +208,16 @@
         "Redirect": "https://www.amlion.store/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.amlion.store/"
+    },
+    {
+        "link": "https://amyryangroup.com",
+        "Heading": "Denver Real Estate Agents Redefining Service in Real Estate",
+        "Abstract": "Amy Ryan Group is a team of agents in Denver Colorado that are redefining Service in real estate. Contact the team for buying or selling real estate in Colorado.",
+        "Official Site": "https://www.amyryangroup.com/",
+        "Icon": "https://www.amyryangroup.com/wp-content/uploads/2023/01/amy-ryan-group-logo-banner-1200x630-1-jpg.webp",
+        "Redirect": "https://www.amyryangroup.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.amyryangroup.com/"
     },
     {
         "link": "https://animalwiz.com",

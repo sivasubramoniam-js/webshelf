@@ -130,6 +130,16 @@
         "AbstractURL": "https://qvox.com.co/"
     },
     {
+        "link": "https://caravansa.co.za",
+        "Heading": "CaravanSA | Caravan News, Reviews, Travel & Classifieds",
+        "Abstract": "Discover the latest caravan news, product reviews, camping gear, resorts, travel inspiration and buy-and-sell classifieds on CaravanSA.co.za",
+        "Official Site": "https://www.caravansa.co.za/",
+        "Icon": "https://www.caravansa.co.za/wp-content/uploads/2020/11/CaravanSA.jpg",
+        "Redirect": "https://www.caravansa.co.za/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.caravansa.co.za/"
+    },
+    {
         "link": "https://radiokampus.fm",
         "Heading": "Radio Kampus 97,1 FM #SAMESZTOSY",
         "Abstract": "Radio Kampus - s\u0142uchaj na 97,1 FM w Warszawie i okolicach, przez Internet lub za pomoc\u0105 aplikacji TuneIn! Muzyka, kultura miejska, podcasty, playlisty, wywiady, artyku\u0142y!",
@@ -158,16 +168,6 @@
         "Redirect": "https://newcondocentre.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://newcondocentre.com/"
-    },
-    {
-        "link": "https://zerkalnye-prava-5t7j.ru",
-        "Heading": "Success!",
-        "Abstract": null,
-        "Official Site": "https://zerkalnye-prava-5t7j.ru",
-        "Icon": "N/A",
-        "Redirect": "https://zerkalnye-prava-5t7j.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zerkalnye-prava-5t7j.ru"
     },
     {
         "link": "https://sport25.pro",
@@ -238,6 +238,16 @@
         "Redirect": "https://helga.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://helga.ru/"
+    },
+    {
+        "link": "https://bluebees.fr",
+        "Heading": "Blue Bees - Financement participatif de la transition \u00e9cologique",
+        "Abstract": "Bluebees est la premi\u00e8re plateforme de crowdfunding enti\u00e8rement d\u00e9di\u00e9e aux projets \u00e0 fort impact \u00e9cologique et social",
+        "Official Site": "https://bluebees.fr/fr/",
+        "Icon": "https://bluebees.fr/assets/img/logo-fb.png?v260615",
+        "Redirect": "https://bluebees.fr/fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bluebees.fr/fr/"
     },
     {
         "link": "https://swiminator.com",

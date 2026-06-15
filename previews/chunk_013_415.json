@@ -194,7 +194,7 @@
         "Heading": "Joyer\u00eda Orovel's | Joyas de Oro 14k \u2013 Env\u00edos a Todo M\u00e9xico \u2013 Joyer\u00eda Orovel\u2019s",
         "Abstract": "Compra joyer\u00eda de oro 14k aut\u00e9ntica con garant\u00eda de kilataje. Mayoreo y menudeo con env\u00edos a todo M\u00e9xico. Confianza y calidad desde 1986. \u00a1Encuentra tu pieza ideal!",
         "Official Site": "https://www.orovels.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0116/7599/2121/files/meta_orovels.png?v=1774665326",
+        "Icon": "http://www.orovels.com/cdn/shop/files/meta_orovels.png?v=1774665326",
         "Redirect": "https://www.orovels.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.orovels.com/"
@@ -203,11 +203,11 @@
         "link": "https://orsancobranzas.cl",
         "Heading": "Inicio - Orsan Cobranzas",
         "Abstract": null,
-        "Official Site": "http://orsancobranzas.cl/",
+        "Official Site": "https://ec2-3-225-174-134.compute-1.amazonaws.com/",
         "Icon": "https://orsancobranzas.cl/wp-content/uploads/2022/01/cropped-logo_isotype_large-1-32x32.png",
-        "Redirect": "http://orsancobranzas.cl/",
+        "Redirect": "https://ec2-3-225-174-134.compute-1.amazonaws.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://orsancobranzas.cl/"
+        "AbstractURL": "https://ec2-3-225-174-134.compute-1.amazonaws.com/"
     },
     {
         "link": "https://osara.com.au",
@@ -254,10 +254,20 @@
         "Heading": "Ultralight Outdoor Gear in Europe Since 2012 | Outdoorline",
         "Abstract": "Largest cottage ultralight gear selection in Europe since 2012. Zpacks, HMG, Durston & 40+ brands. In stock, customs-free across the EU. 4.94\u2605 (6,700+ reviews). For thru-hiking, bikepacking & camping.",
         "Official Site": "https://www.outdoorline.eu/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0791/5130/0875/files/social_sharing_2b7452c9-a2c0-4f87-b3ab-8bbc1c71d874.jpg?crop=center&height=1200&v=1751376378&width=1200",
+        "Icon": "http://www.outdoorline.eu/cdn/shop/files/social_sharing_2b7452c9-a2c0-4f87-b3ab-8bbc1c71d874.jpg?crop=center&height=1200&v=1751376378&width=1200",
         "Redirect": "https://www.outdoorline.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.outdoorline.eu/"
+    },
+    {
+        "link": "https://ozcanopies.com.au",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ozcanopies.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://ozcanopies.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ozcanopies.com.au"
     },
     {
         "link": "https://paccosmetics.com",
@@ -298,16 +308,6 @@
         "Redirect": "https://peixoto.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://peixoto.com.br"
-    },
-    {
-        "link": "https://perfecthideaways.co.za",
-        "Heading": "Home | Perfect Hideaways",
-        "Abstract": "Handpicked for their outstanding architecture, gorgeous interiors and unsurpassed locations, our hideaways allow you to escape the ordinary.",
-        "Official Site": "https://www.perfecthideaways.co.za/",
-        "Icon": "https://www.perfecthideaways.co.za/wp-content/uploads/2023/11/SEO-Facebook_share-image.jpg",
-        "Redirect": "https://www.perfecthideaways.co.za/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.perfecthideaways.co.za/"
     },
     {
         "link": "https://peytonstreetpens.com",

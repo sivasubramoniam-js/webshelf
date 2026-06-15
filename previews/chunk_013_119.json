@@ -14,7 +14,7 @@
         "Heading": "Telegram: Launch @vGroup24VPN_bot",
         "Abstract": "\ud83d\udd12 \u0411\u044b\u0441\u0442\u0440\u044b\u0439 VPN \u2022 3 \u0434\u043d\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u2022 99 \u20bd/\u043c\u0435\u0441 \u2022 \u0421\u0435\u0440\u0432\u0435\u0440\u044b \u0432 \u0415\u0432\u0440\u043e\u043f\u0435",
         "Official Site": "https://vgroup24.ru",
-        "Icon": "https://cdn4.telesco.pe/file/vU-VpoKDYkJ2F6KGY7iZr4T0UDl-3z2kxtBTZK-TfRWsioc6fqr1r3nW6cJEqvCGQMstI6AheXMGm_d5XyyIjvwpTkEdWZhAjg9lRmcVsbwtJRW_Je8csd26NBUXB1PPxSEyHnKOsf0XEjSucnmLcJL8mZieU2JYZGW5GmGtTRpn7r-cSjdzim7QCRAJbZ2TaOM4Kim6SgA80IV4dEZ5xby9JPuZ6P5UvEv00RcdkY-k2WNrzoeeICp9zG7AQNdZKNne4gB81KG6-rtXHxhlA9ciJBaLFWQB6Fm15fvpKg4Igfhm69yyheNdJW37f4t2zFjgaszunegJACbe9q6WJw.jpg",
+        "Icon": "https://cdn4.telesco.pe/file/NxDyaftB2OqYSjYPfXIwN9ke52FR9sOPQ1sFyIIVo-GzqmGfJjzz5QVWodLtg8Bjp916n-6v1tZXSO2f6qrcvnK61iMfilAdUcQ6C0CEtIDJSso_9Az5VYOE5KB1JH33dFCwn_12l3J1DQMBCRk0eMSqsnZc0PAX-_rcQKjnKJFBvzXs-KoVPh62NR9Ch9CgvfA8j7_ocZk4FxmDS8o1QwK4W3cpeY7PSCvU6zf6miGUuD_S6jr7LTL03boqUWikAIxWsV2MSmi-xX7ZYwP0LbgrQ8HKmBeEp6DSRmz01JIo0NTlUs8iZgQ2bC7fkp4wwzahd2uWvY2i7ahQnCRVjw.jpg",
         "Redirect": "https://vgroup24.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vgroup24.ru"
@@ -38,16 +38,6 @@
         "Redirect": "https://crazy-time-italia.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://crazy-time-italia.it"
-    },
-    {
-        "link": "https://arahoster.net",
-        "Heading": "WordPress & Web Hosting Company \u2014 Fast from $1/mo",
-        "Abstract": "AraHoster is a hosting company for WordPress and websites: NVMe SSD, free SSL, cPanel, 99.9% uptime. Linux hosting from $12/yr, VPS from $16.99/mo.",
-        "Official Site": "https://arahoster.com/",
-        "Icon": "https://arahoster.com/og-image.webp",
-        "Redirect": "https://arahoster.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://arahoster.com/"
     },
     {
         "link": "https://thedigitallion.com",
@@ -170,16 +160,6 @@
         "AbstractURL": "https://www.educationsuperhighway.org/"
     },
     {
-        "link": "https://stratumreservoir.com",
-        "Heading": "Stratum Reservoir",
-        "Abstract": null,
-        "Official Site": "https://www.stratumreservoir.com/",
-        "Icon": "https://www.stratumreservoir.com/wp-content/uploads/2022/07/cropped-large_logo-150x150.png",
-        "Redirect": "https://www.stratumreservoir.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.stratumreservoir.com/"
-    },
-    {
         "link": "https://tagoreautoparts.com",
         "Heading": "Tagore AutoParts | Used Engines, Transmissions & Turbos",
         "Abstract": "Tagore AutoParts for top-quality used engines and transmissions. Enjoy unbeatable prices, 24/7 support, and fast shipping. Find your perfect part now!",
@@ -210,6 +190,26 @@
         "AbstractURL": "https://miamidolphinsjerseyspop.com"
     },
     {
+        "link": "https://elitefundsfinance-inc.com",
+        "Heading": "elitefundsfinance-inc.com",
+        "Abstract": "Elitefundsfinance-inc.com Trading has shown commendably successful and consistent performance and trading history. Currently, it is regarded as one of the best, most beneficial, brilliantly successful companies in the industry of forex trading and investing.",
+        "Official Site": "https://elitefundsfinance-inc.com",
+        "Icon": "secured/img/logos/elitef_favicon.png",
+        "Redirect": "https://elitefundsfinance-inc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elitefundsfinance-inc.com"
+    },
+    {
+        "link": "https://tanukisoftware.com",
+        "Heading": "Tanuki Software Ltd. - Top Page",
+        "Abstract": null,
+        "Official Site": "https://tanukisoftware.com",
+        "Icon": "../favicon.ico",
+        "Redirect": "https://tanukisoftware.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tanukisoftware.com"
+    },
+    {
         "link": "https://mauritius.net",
         "Heading": "Mauritius Welcomes You: The Official Site for Mauritius",
         "Abstract": "Mauritius Welcomes You - The Official Site for Mauritius",
@@ -228,16 +228,6 @@
         "Redirect": "https://jiaheu.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jiaheu.com"
-    },
-    {
-        "link": "https://freedmensbureau.com",
-        "Heading": "The Freedmen's Bureau Online",
-        "Abstract": null,
-        "Official Site": "https://freedmensbureau.com",
-        "Icon": "/themes/analytic/favicon.ico",
-        "Redirect": "https://freedmensbureau.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://freedmensbureau.com"
     },
     {
         "link": "https://admiralx-us.xyz",

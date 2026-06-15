@@ -61,10 +61,10 @@
     },
     {
         "link": "https://fireaviation.com",
-        "Heading": "Wildfire Today \u2013 Wildfire News and Opinions",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://fireaviation.com",
-        "Icon": "https://wildfiretoday.com/wp-content/uploads/2025/01/WTLogoArtboard-1-copy-1-150x150.png",
+        "Icon": "data:;",
         "Redirect": "https://fireaviation.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fireaviation.com"
@@ -161,13 +161,13 @@
     },
     {
         "link": "https://ibexshow.com",
-        "Heading": "IBEX Show: Where better boats begin in Tampa, Florida",
-        "Abstract": "Keep connected to the products, technology, people, and training that are advancing the industry. No other event gives you so much access to marine industry development.",
-        "Official Site": "https://www.ibexshow.com/",
-        "Icon": "https://www.ibexshow.com/wp-content/uploads/2024/11/IBEXSlide_Showfloor3rd-1024x492.jpg",
-        "Redirect": "https://www.ibexshow.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ibexshow.com",
+        "Icon": "data:;",
+        "Redirect": "https://ibexshow.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ibexshow.com/"
+        "AbstractURL": "https://ibexshow.com"
     },
     {
         "link": "https://ballyrewards.com",
@@ -228,16 +228,6 @@
         "Redirect": "https://kinofan-hd.lol",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kinofan-hd.lol"
-    },
-    {
-        "link": "https://cashlelo.com",
-        "Heading": "Cashlelo.com - Highest Cashback Paying Website In India",
-        "Abstract": "Discover top deals, latest coupons, and max cashback at Cashlelo.com - Highest Cashback Paying Website in India. Maximize savings on a wide range of sites!",
-        "Official Site": "https://cashlelo.com/",
-        "Icon": "https://cashlelo.com/wp-content/uploads/2023/12/cashlelo-1200x675-1.png",
-        "Redirect": "https://cashlelo.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cashlelo.com/"
     },
     {
         "link": "https://textsale.ru",

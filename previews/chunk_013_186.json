@@ -144,7 +144,7 @@
         "Heading": "Home & Kitchen Hardware Store Alsip, IL | Fox Home Center",
         "Abstract": "Fox Home Center located in Alsip, IL is your full service supplier of home hardware including kitchens, bathrooms, bedrooms, & outdoor spaces, stop in today or call to inquire!",
         "Official Site": "https://foxhomecenter.com",
-        "Icon": "/images/favicon.ico?ccid=x4514765a",
+        "Icon": "/images/favicon.ico?ccid=x7a7ce56f",
         "Redirect": "https://foxhomecenter.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://foxhomecenter.com"
@@ -230,21 +230,11 @@
         "AbstractURL": "https://www.ridgelinegaragedoor.com/"
     },
     {
-        "link": "https://visitthegambia.gm",
-        "Heading": "Holiday - Visit The Gambia",
-        "Abstract": "Welcome to the Gambia, the Smiling Coast of Africa",
-        "Official Site": "https://visitthegambia.com/",
-        "Icon": "https://visitthegambia.com/wp-content/uploads/2017/08/cropped-gambian_tourist_board_logo_300px1-32x32.png",
-        "Redirect": "https://visitthegambia.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://visitthegambia.com/"
-    },
-    {
         "link": "https://caribbeancovewaterpark.com",
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://caribbeancovewaterpark.com",
-        "Icon": "https://storage.googleapis.com/landing_pager_public/favicons/xrp2.ico",
+        "Icon": "N/A",
         "Redirect": "https://caribbeancovewaterpark.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://caribbeancovewaterpark.com"
@@ -298,5 +288,15 @@
         "Redirect": "https://www.whimvoy.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.whimvoy.com/"
+    },
+    {
+        "link": "https://bioservice.com",
+        "Heading": "BSL BIOSERVICE - Your CRO of preclinical safety testing",
+        "Abstract": "We contribute to global health, safety and environment offering a comprehensive range of safety testing services at BSL BIOSERVICE",
+        "Official Site": "https://bioservice.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://bioservice.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bioservice.com"
     }
 ]

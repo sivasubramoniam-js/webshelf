@@ -41,8 +41,8 @@
     },
     {
         "link": "https://viploader.net",
-        "Heading": "\ud1a0\ud1a0\uc0ac\uc774\ud2b8 \ucd94\ucc9c - 2026 \uac80\uc99d\ub41c \uc548\uc804\ub180\uc774\ud130 \uba39\ud280\uac80\uc99d | Coming2",
-        "Abstract": "2026\ub144 \ud1a0\ud1a0\uc0ac\uc774\ud2b8 \ucd94\ucc9c \uc804\ubb38 \ud3ec\ud138 Coming2. \uba39\ud280\uac80\uc99d \uc644\ub8cc \uc548\uc804\ub180\uc774\ud130\u00b7\ubc14\uce74\ub77c\u00b7\uc2a4\ud3ec\uce20\ubca0\ud305 \uac00\uc774\ub4dc\ub97c \ud55c\ub208\uc5d0 \ube44\uad50\ud558\uc138\uc694.",
+        "Heading": "\ud1a0\ud1a0\uc0ac\uc774\ud2b8 \uba39\ud280\uac80\uc99d \uac00\uc774\ub4dc \u2014 \uc548\uc804 \uc774\uc6a9 \uc644\uc804 \uc548\ub0b4 2026 | Coming2",
+        "Abstract": "\ud1a0\ud1a0\uc0ac\uc774\ud2b8 \uba39\ud280\uac80\uc99d \ubc29\ubc95, \uba39\ud280\uc0ac\uc774\ud2b8 \ud53c\ud574 \uc608\ubc29, \uc548\uc804\ub180\uc774\ud130 \ud655\uc778\ubc95\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4. \uac80\uc99d \uc808\ucc28\uc640 \uccb4\ud06c\ub9ac\uc2a4\ud2b8\ub85c \uc548\uc804\ud558\uac8c \uc774\uc6a9\ud558\uc138\uc694.",
         "Official Site": "https://coming2.com/",
         "Icon": "/favicon.svg",
         "Redirect": "https://coming2.com/",
@@ -131,13 +131,13 @@
     },
     {
         "link": "https://greenkeyglobal.com",
-        "Heading": "Home - Green Key Global",
-        "Abstract": "Green Key Global Partners with Al\u014d Index Hotels can now turn their sustainability achievements into a competitive commercial advantage, increasing visibility, strengthening RFP responses, and creating more opportunities for qualified corporate travel demand. Explore This Sustainability Initiative Eco-Rating Core Criteria\u2026",
-        "Official Site": "https://greenkeyglobal.com/",
-        "Icon": "https://greenkeyglobal.com/wp-content/uploads/alo-index.png",
-        "Redirect": "https://greenkeyglobal.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://greenkeyglobal.com",
+        "Icon": "data:;",
+        "Redirect": "https://greenkeyglobal.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://greenkeyglobal.com/"
+        "AbstractURL": "https://greenkeyglobal.com"
     },
     {
         "link": "https://fewcents.co",
@@ -151,8 +151,8 @@
     },
     {
         "link": "https://openacessjournal.com",
-        "Heading": "20,274 Free Open Access Journals (2026 Directory) \u00b7 OpenAccessJournal",
-        "Abstract": "Browse 20,274 peer-reviewed open access journals \u2014 search by subject, publisher, country, APC, and indexing.",
+        "Heading": "20,289 Free Open Access Journals (2026 Directory) \u00b7 OpenAccessJournal",
+        "Abstract": "Browse 20,289 peer-reviewed open access journals \u2014 search by subject, publisher, country, APC, and indexing.",
         "Official Site": "https://openacessjournal.com",
         "Icon": "https://openacessjournal.com/open-access-journals.png",
         "Redirect": "https://openacessjournal.com",
@@ -168,6 +168,16 @@
         "Redirect": "https://masoxigeno.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://masoxigeno.com"
+    },
+    {
+        "link": "https://cinaki.biz",
+        "Heading": "cinaki.biz\u00a0-\u00a0cinaki Resources and Information.",
+        "Abstract": "cinaki.biz is your first and best source for information about cinaki. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://cinaki.biz",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://cinaki.biz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cinaki.biz"
     },
     {
         "link": "https://ago-outsourcing.com",
@@ -188,16 +198,6 @@
         "Redirect": "https://fvxpycyb.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fvxpycyb.xyz"
-    },
-    {
-        "link": "https://drywallmasters.net",
-        "Heading": "Drywall Masters",
-        "Abstract": null,
-        "Official Site": "https://drywallmasters.net",
-        "Icon": "N/A",
-        "Redirect": "https://drywallmasters.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://drywallmasters.net"
     },
     {
         "link": "https://armysurpluswarehouse.com",
@@ -258,16 +258,6 @@
         "Redirect": "https://qgjkvquz.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://qgjkvquz.xyz"
-    },
-    {
-        "link": "https://bleu-sistemasinteractivos.com",
-        "Heading": "bleu.mx",
-        "Abstract": null,
-        "Official Site": "https://bleu-sistemasinteractivos.com",
-        "Icon": "/favicons/favicon-32x32.png",
-        "Redirect": "https://bleu-sistemasinteractivos.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bleu-sistemasinteractivos.com"
     },
     {
         "link": "https://taitotalo.fi",

@@ -100,16 +100,6 @@
         "AbstractURL": "https://sldn.org"
     },
     {
-        "link": "https://order-essays.com",
-        "Heading": "Order-Essays.com | BEST Custom Writing Service",
-        "Abstract": "If you want to buy essay papers online from the RELIABLE custom writing company, we are here for you!",
-        "Official Site": "https://order-essays.com/",
-        "Icon": "https://order-essays.com/wp-content/uploads/2023/10/website-visit_card.png",
-        "Redirect": "https://order-essays.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://order-essays.com/"
-    },
-    {
         "link": "https://yuml.me",
         "Heading": "yUML \u2014 Diagrams AI can write. Humans can read at a glance.",
         "Abstract": null,
@@ -148,6 +138,16 @@
         "Redirect": "https://6mmbr.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://6mmbr.com"
+    },
+    {
+        "link": "https://arnoldspark.com",
+        "Heading": "Arnolds Park Amusement Park \u22c6 Home",
+        "Abstract": "Arnolds Park Amusement Park is one of the longest operating amusement parks in the world. Located on the shores of West Lake Okoboji, the Park is one of the most treasured destinations in the Iowa Great Lakes region.",
+        "Official Site": "https://arnoldspark.com/",
+        "Icon": "https://arnoldspark.com/wp-content/uploads/2017/10/AP_LargeLogo-150x150.png",
+        "Redirect": "https://arnoldspark.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arnoldspark.com/"
     },
     {
         "link": "https://tyronyxtrd.live",
@@ -231,23 +231,13 @@
     },
     {
         "link": "https://freechurch.org",
-        "Heading": "Free Church of Scotland",
-        "Abstract": "God\u2019s message of love and hope shapes all we do as a Reformed Presbyterian denomination, and is our main message to Scotland and the world.",
-        "Official Site": "https://freechurch.org/",
-        "Icon": "https://freechurch.org/wp-content/uploads/2022/01/FCOS_01c.jpg",
-        "Redirect": "https://freechurch.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://freechurch.org",
+        "Icon": "data:;",
+        "Redirect": "https://freechurch.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://freechurch.org/"
-    },
-    {
-        "link": "https://isitio.net",
-        "Heading": "MagicAngel Support Page",
-        "Abstract": "Support and Login Page for MagicAngel.net",
-        "Official Site": "https://isitio.net",
-        "Icon": "N/A",
-        "Redirect": "https://isitio.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://isitio.net"
+        "AbstractURL": "https://freechurch.org"
     },
     {
         "link": "https://defresart.com",

@@ -40,16 +40,6 @@
         "AbstractURL": "https://welogostuff.com"
     },
     {
-        "link": "https://aluext.net",
-        "Heading": "Domain Default page",
-        "Abstract": null,
-        "Official Site": "https://aluext.net",
-        "Icon": "N/A",
-        "Redirect": "https://aluext.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aluext.net"
-    },
-    {
         "link": "https://energie-nederland.nl",
         "Heading": "Energie-Nederland | Branchevereniging voor energiebedrijven",
         "Abstract": "Branchevereniging van bijna 90% van de markt voor producenten, leveranciers en handelaren van elektriciteit, gas en warmte.",
@@ -88,16 +78,6 @@
         "Redirect": "https://1.mrbobd.site/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://1.mrbobd.site/"
-    },
-    {
-        "link": "https://stkipsingkawang.ac.id",
-        "Heading": "STKIP Singkawang",
-        "Abstract": "STKIP Singkawang : STKIP Singkawang",
-        "Official Site": "https://stkipsingkawang.ac.id",
-        "Icon": "https://stkipsingkawang.ac.id/favicon.ico",
-        "Redirect": "https://stkipsingkawang.ac.id",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stkipsingkawang.ac.id"
     },
     {
         "link": "https://northlandgroup.com",
@@ -181,13 +161,13 @@
     },
     {
         "link": "https://sanjosejazz.org",
-        "Heading": "Home - San Jose Jazz",
-        "Abstract": "Founded in 1986, San Jose Jazz is a public benefit organization celebrating jazz as a dynamic, evolving art form and is producer of the annual San Jose Jazz Summer Fest and Winter Fest.",
-        "Official Site": "https://sanjosejazz.org/",
-        "Icon": "https://sanjosejazz.org/wp-content/uploads/2023/08/SJZ_Social-Image-for-Website.jpg",
-        "Redirect": "https://sanjosejazz.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sanjosejazz.org",
+        "Icon": "data:;",
+        "Redirect": "https://sanjosejazz.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sanjosejazz.org/"
+        "AbstractURL": "https://sanjosejazz.org"
     },
     {
         "link": "https://rcfoundation.ru",
@@ -198,16 +178,6 @@
         "Redirect": "https://rcfoundation.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rcfoundation.ru/"
-    },
-    {
-        "link": "https://tucanoice.com",
-        "Heading": "Tucano | Ice & Gear",
-        "Abstract": null,
-        "Official Site": "https://tucanoice.com",
-        "Icon": "https://www.tucanoice.com/wp-content/uploads/2019/08/cropped-tucano-logo-min-32x32.png",
-        "Redirect": "https://tucanoice.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tucanoice.com"
     },
     {
         "link": "https://kodakphotoplus.com",

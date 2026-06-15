@@ -60,16 +60,6 @@
         "AbstractURL": "/"
     },
     {
-        "link": "https://mntnewsbharat.com",
-        "Heading": "Home - Mnt News Bharat | \u0906\u091c \u0915\u0940 \u0924\u093e\u091c\u093c\u093e \u0916\u092c\u0930\u0947\u0902, \u0930\u093e\u091c\u0928\u0940\u0924\u093f, \u0915\u094d\u0930\u093e\u0907\u092e \u0914\u0930 \u0926\u0947\u0936 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0916\u092c\u0930\u0947\u0902\"",
-        "Abstract": "\u0926\u0947\u0936 \u0915\u0940 \u0906\u0935\u093e\u091c\u093c, \u0906\u092a\u0915\u093e \u0935\u093f\u0936\u094d\u0935\u093e\u0938",
-        "Official Site": "https://mntnewsbharat.com/",
-        "Icon": "http://mntnewsbharat.com/wp-content/uploads/2026/03/InShot_20260317_125342002-scaled.png",
-        "Redirect": "https://mntnewsbharat.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mntnewsbharat.com/"
-    },
-    {
         "link": "https://mojdommojsen.sk",
         "Heading": null,
         "Abstract": null,
@@ -91,13 +81,13 @@
     },
     {
         "link": "https://mondomodelcars.it",
-        "Heading": "Verifica accesso / Security Check",
-        "Abstract": null,
-        "Official Site": "https://mondomodelcars.it",
-        "Icon": "N/A",
-        "Redirect": "https://mondomodelcars.it",
+        "Heading": "Mondomodelcars.it Vendita modellini on-line",
+        "Abstract": "Acquista online al miglior prezzo nel nostro catalogo con oltre 20.000 modellini in pronta consegna per la tua collezione.",
+        "Official Site": "https://www.mondomodelcars.it/",
+        "Icon": "https://www.mondomodelcars.it/ReadySkins/wonder/img/no_image_FB.png",
+        "Redirect": "https://www.mondomodelcars.it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mondomodelcars.it"
+        "AbstractURL": "https://www.mondomodelcars.it/"
     },
     {
         "link": "https://motorcycle4sale.com",
@@ -120,11 +110,21 @@
         "AbstractURL": "https://mpbuiltonline.com/"
     },
     {
+        "link": "https://mr-bills.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mr-bills.com",
+        "Icon": "data:;",
+        "Redirect": "https://mr-bills.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mr-bills.com"
+    },
+    {
         "link": "https://mrandmrsdesigner.com",
-        "Heading": " MR AND MRS DESIGNER | Designer Lighting, Home Decor and Furniture",
+        "Heading": "\n      MR AND MRS DESIGNER | Designer Lighting, Home Decor and Furniture\n",
         "Abstract": "Australia's fastest growing lighting, furniture and home decor store. Home of the world's leading contemporary designers. Top international designers including: Fiam Italia, MUUTO, Normann Copenhagen, ferm LIVING, Qeeboo and many more.",
         "Official Site": "https://www.mrandmrsdesigner.com/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0291/5296/8778/files/HIGH_RES_copy_1080x_27fafb05-9001-4902-b034-34230f27cc4a.jpg?height=628&pad_color=ffffff&v=1683305953&width=1200",
+        "Icon": "http://www.mrandmrsdesigner.com/cdn/shop/files/HIGH_RES_copy.png?height=628&pad_color=ffffff&v=1613766156&width=1200",
         "Redirect": "https://www.mrandmrsdesigner.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mrandmrsdesigner.com/"

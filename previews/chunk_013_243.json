@@ -60,6 +60,16 @@
         "AbstractURL": "https://www.fastbolt.com/"
     },
     {
+        "link": "https://campaniartecard.it",
+        "Heading": "Home - Artecard",
+        "Abstract": "campania>artecard \u00e8 il pass per visitare i musei di Napoli e la Campania e per viaggiare sui trasporti pubblici della rete UnicoCampania",
+        "Official Site": "https://www.campaniartecard.it/",
+        "Icon": "https://www.campaniartecard.it/wp-content/uploads/2023/11/slide-card-2023_sito5.jpg",
+        "Redirect": "https://www.campaniartecard.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.campaniartecard.it/"
+    },
+    {
         "link": "https://9sug.com",
         "Heading": "UG\u7f51\uff0d\u514d\u8d39UG\u6559\u7a0b\u3001UG\u4e0b\u8f7d\u3001UG\u57f9\u8bad\u5c31\u4e0aUG\u5b98\u7f51 - ",
         "Abstract": "\u5b66UG\u5c31\u4e0aUG\u7f51\uff0c\u514d\u8d39UG\u89c6\u9891\u6559\u7a0b\uff0c\u8bbe\u8ba1\u6a21\u578b\uff0c\u56fe\u7eb8\u7d20\u6750\u4e0b\u8f7d ",
@@ -180,16 +190,6 @@
         "AbstractURL": "https://brennan.io/"
     },
     {
-        "link": "https://britsoccrim.org",
-        "Heading": "British Society of Criminology",
-        "Abstract": null,
-        "Official Site": "https://britsoccrim.org",
-        "Icon": "N/A",
-        "Redirect": "https://britsoccrim.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://britsoccrim.org"
-    },
-    {
         "link": "https://louisianarecord.com",
         "Heading": "Louisiana Record | legalnewsline.com",
         "Abstract": "Get the latest legal news in Louisiana from the Louisiana Record. In-depth coverage of lawsuits, courts, legislation, and more.",
@@ -278,25 +278,5 @@
         "Redirect": "https://www.smidgeup.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.smidgeup.com/"
-    },
-    {
-        "link": "https://indowebhost.co.id",
-        "Heading": "Home - Penyedia Server Dan Digital Agency Terbaik",
-        "Abstract": "| CLOUD SERVER & DIGITAL AGENCY | Membawa Bisnis ke Puncak Digital dengan Solusi Cloud Terbaik. Indowebhost Tempat Terbaik untuk Solusi Cloud dan Layanan Digital! Selengkapnya | Cloud Server dan Digital Agency Terbaik | Selamat datang di Indowebhost, tempat di mana kecanggihan teknologi dan kreativitas bersatu. Kami adalah penyedia solusi terdepan dalam pengelolaan cloud server \u2026 Continue reading \"Home\"",
-        "Official Site": "https://indowebhost.co.id/home/",
-        "Icon": "https://indowebhost.co.id/wp-content/uploads/2022/09/banner-image-1.png",
-        "Redirect": "https://indowebhost.co.id/home/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://indowebhost.co.id/home/"
-    },
-    {
-        "link": "https://envitect.com",
-        "Heading": "ACP Sheet Manufacturer in India | Aluminium Composite Panels",
-        "Abstract": "Leading ACP Sheet Manufacturer in India offering Aluminium Composite Panels, ACP Boards & facade solutions for modern architectural projects.",
-        "Official Site": "https://envitect.com/",
-        "Icon": "https://envitect.com/wp-content/uploads/2024/04/about-bg.webp",
-        "Redirect": "https://envitect.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://envitect.com/"
     }
 ]

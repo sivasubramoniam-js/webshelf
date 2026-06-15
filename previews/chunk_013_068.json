@@ -100,14 +100,14 @@
         "AbstractURL": "https://myhugenaturals.com"
     },
     {
-        "link": "https://mylisting365.co.uk",
-        "Heading": "Find Property for Sale & Rent | House Prices, and Estate Agents in UK - Mylistings365",
-        "Abstract": "Search for residential and commercial property for sale and rent with the UK's leading property finder. Find houses, flats, apartment to rent, and see house prices for paid and current property values in United Kingdom.",
-        "Official Site": "https://mylisting365.co.uk",
-        "Icon": "assets/img/favicon.png",
-        "Redirect": "https://mylisting365.co.uk",
+        "link": "https://myscoutshop.org",
+        "Heading": "Scouting America Official Store",
+        "Abstract": "The Official Store for Scouting America Official Store!",
+        "Official Site": "https://www.myscoutshop.org",
+        "Icon": "https://content.bespokelabs.co/images/theme/BSA/favicos/android-chrome-512x512.png",
+        "Redirect": "https://www.myscoutshop.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mylisting365.co.uk"
+        "AbstractURL": "https://www.myscoutshop.org"
     },
     {
         "link": "https://naturacenter.es",
@@ -128,6 +128,16 @@
         "Redirect": "https://ndhealthfacts.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ndhealthfacts.org"
+    },
+    {
+        "link": "https://nemdirect.dk",
+        "Heading": "\nNEM it-solution a/s\n",
+        "Abstract": null,
+        "Official Site": "https://www.nemdirect.dk/",
+        "Icon": "https://img2-327a.kxcdn.com/di1.ashx/345/2153945",
+        "Redirect": "https://www.nemdirect.dk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nemdirect.dk/"
     },
     {
         "link": "https://newmoonski.com",
@@ -160,16 +170,6 @@
         "AbstractURL": "/"
     },
     {
-        "link": "https://novafox.co.uk",
-        "Heading": "NovaFox Ltd - NovaFox Hydra and other specialist solutions for the circular economy. Market leading Network Erasure products.",
-        "Abstract": "NovaFox Hydra and other specialist solutions for the circular economy. Market leading Network Erasure products.",
-        "Official Site": "https://novafox.co.uk/",
-        "Icon": "https://novafox.co.uk/wp-content/uploads/2024/07/cropped-favicon-32x32.png",
-        "Redirect": "https://novafox.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://novafox.co.uk/"
-    },
-    {
         "link": "https://oconchemicals.ie",
         "Heading": "Ocon Chemicals - Lab Supply & Waste Management Cork | OCON Chemicals",
         "Abstract": "Ocon Chemicals is a Laboratory Supply & Waste Management Company. We offer a range of solutions such as VMI & Calibration.",
@@ -180,24 +180,24 @@
         "AbstractURL": "https://oconchemicals.ie/"
     },
     {
-        "link": "https://oldangler.com",
-        "Heading": "Italian Leather Bags | Handmade Leather Goods | Old Angler Firenze",
-        "Abstract": "Discover our collection of italian leather bags, briefcases, messenger bags, leather wallets, leather travel bags and leather golf bags. Full grain Florentine leather.",
-        "Official Site": "https://oldangler.com",
-        "Icon": "https://www.oldangler.com/media/favicon/default/favicon.ico",
-        "Redirect": "https://oldangler.com",
+        "link": "https://ontargetsportingarms.com",
+        "Heading": "Brisbane Gun Shop | On Target Sporting Arms",
+        "Abstract": "Find Your Perfect Competition Shotgun & More! Explore Our Wide Selection of Firearms, Ammunition, & Accessories for Australian Sporting Shooters. Shop Now!",
+        "Official Site": "https://ontargetsportingarms.com/",
+        "Icon": "https://ontargetsportingarms.com/wp-content/uploads/2023/10/cropped-Favicon-2-32x32.png",
+        "Redirect": "https://ontargetsportingarms.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://oldangler.com"
+        "AbstractURL": "https://ontargetsportingarms.com/"
     },
     {
-        "link": "https://phoenix-of-the-sun.eu",
-        "Heading": "Phoenix of the Sun - Portal",
+        "link": "https://paxvet.com.tr",
+        "Heading": "Paxvet.com.tr ~ \u00dccretsiz kargo",
         "Abstract": null,
-        "Official Site": "https://phoenix-of-the-sun.eu",
+        "Official Site": "https://paxvet.com.tr",
         "Icon": "N/A",
-        "Redirect": "https://phoenix-of-the-sun.eu",
+        "Redirect": "https://paxvet.com.tr",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://phoenix-of-the-sun.eu"
+        "AbstractURL": "https://paxvet.com.tr"
     },
     {
         "link": "https://pickleballpaddlescanada.ca",
@@ -220,16 +220,6 @@
         "AbstractURL": "https://platta.jp"
     },
     {
-        "link": "https://portafold.co.uk",
-        "Heading": "portafold.co.uk | The home of the Portafold and Ansfold folding caravan",
-        "Abstract": null,
-        "Official Site": "https://portafold.co.uk",
-        "Icon": "system_files/animated_favicon1.gif",
-        "Redirect": "https://portafold.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://portafold.co.uk"
-    },
-    {
         "link": "https://postads.ph",
         "Heading": "PostAds.ph - Free Classified Ads, Philippines Buy & Sell",
         "Abstract": "Join the Philippines' fastest growing free classified ads, buy and sell site. Find new & used item, best in-class services & deals \u2714 Post FREE Ads today!",
@@ -238,6 +228,16 @@
         "Redirect": "https://www.postads.ph/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.postads.ph/"
+    },
+    {
+        "link": "https://pozdravlenie.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pozdravlenie.net",
+        "Icon": "N/A",
+        "Redirect": "https://pozdravlenie.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pozdravlenie.net"
     },
     {
         "link": "https://premiumplc.com",
@@ -258,15 +258,5 @@
         "Redirect": "https://qinghuan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://qinghuan.com"
-    },
-    {
-        "link": "https://qualityscent.com",
-        "Heading": "qualityscent",
-        "Abstract": null,
-        "Official Site": "https://qualityscent.com",
-        "Icon": "N/A",
-        "Redirect": "https://qualityscent.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://qualityscent.com"
     }
 ]

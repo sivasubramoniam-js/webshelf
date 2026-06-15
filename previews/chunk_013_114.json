@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://channelconnect.nl",
-        "Heading": "Het ICT kennisplatform voor business partners - MSP Business",
-        "Abstract": "ChannelConnect is h\u00e9t ICT kennisplatform in Nederland dat partners, msp's, mssp's, resellers en het mkb met elkaar verbindt.",
-        "Official Site": "https://mspbusiness.com/",
-        "Icon": "https://mspbusiness.com/wp-content/uploads/2026/04/cropped-MSP-icon-business-red-bg-RGB-32x32.png",
-        "Redirect": "https://mspbusiness.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mspbusiness.com/"
-    },
-    {
         "link": "https://cmd-ltd.com",
         "Heading": "Ergonomic & power distribution solutions for offices & commercial spaces",
         "Abstract": "CMD are premium British manufacturer of a range products including ergonomics, power modules, power distribution, cable management, lighting controls & more!",
@@ -110,6 +100,16 @@
         "AbstractURL": "https://stirlingprofessional.com/stirling-cbd-oil-faqs/"
     },
     {
+        "link": "https://jlt.se",
+        "Heading": "Start- J\u00f6nk\u00f6pings L\u00e4nstrafik",
+        "Abstract": "J\u00f6nk\u00f6pings L\u00e4nstrafik har i uppdrag att inom l\u00e4net och i angr\u00e4nsande omr\u00e5den bedriva och utveckla kollektivtrafiken. V\u00e5rt Kundcenter n\u00e5r du p\u00e5 0771-444 333.",
+        "Official Site": "https://jlt.se",
+        "Icon": "/assets/images/favicon.png?v=414360844e3fc4e67fa586620e1c678f4c83d88973c832a6454dd371438360dd",
+        "Redirect": "https://jlt.se",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jlt.se"
+    },
+    {
         "link": "https://cancerschmancer.org",
         "Heading": "Cancer Schmancer",
         "Abstract": "Fran Drescher",
@@ -168,6 +168,16 @@
         "Redirect": "https://itcareerhub.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://itcareerhub.de"
+    },
+    {
+        "link": "https://defenderdoor.com",
+        "Heading": "Chicago Security Doors, Entry Doors & Windows | Defender Door & Window",
+        "Abstract": "Upgrade your home with Defender Steel Door & Window Company in Chicago. Secure, stylish, and durable doors & windows. Call for expert installation and pricing.",
+        "Official Site": "https://defenderdoor.com/",
+        "Icon": "https://defenderdoor.com/wp-content/uploads/2020/12/favicon-150x150.png.webp",
+        "Redirect": "https://defenderdoor.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://defenderdoor.com/"
     },
     {
         "link": "https://pipperr.de",
@@ -230,16 +240,6 @@
         "AbstractURL": "https://blissan.ru"
     },
     {
-        "link": "https://lasershot.com",
-        "Heading": "Firearms Training Simulator Systems | Shooting Simulator",
-        "Abstract": "Train with a firearms training simulator and advanced shooting training simulator that creates realistic environments for safer, smarter practice.",
-        "Official Site": "https://lasershot.com/",
-        "Icon": "https://lasershot.com/wp-content/uploads/2023/10/Laser_shot_logo.png",
-        "Redirect": "https://lasershot.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lasershot.com/"
-    },
-    {
         "link": "https://minfor.gov.gy",
         "Heading": "Home | Ministry of Foreign Affairs",
         "Abstract": null,
@@ -250,6 +250,16 @@
         "AbstractURL": "https://minfor.gov.gy"
     },
     {
+        "link": "https://flesh4me.com",
+        "Heading": "Flesh For Me!",
+        "Abstract": null,
+        "Official Site": "https://flesh4me.com",
+        "Icon": "N/A",
+        "Redirect": "https://flesh4me.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://flesh4me.com"
+    },
+    {
         "link": "https://vicepresidente.gov.ao",
         "Heading": "Portal - vicepresidente.gov.ao  ",
         "Abstract": "",
@@ -258,15 +268,5 @@
         "Redirect": "https://vicepresidente.gov.ao",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vicepresidente.gov.ao"
-    },
-    {
-        "link": "https://newigcaptions.com",
-        "Heading": "New Instagram Captions , Quotes and Pickup lines - Choose New Captions For Your New Instagram Feed",
-        "Abstract": "Choose New Captions For Your New Instagram Feed",
-        "Official Site": "https://newigcaptions.com/",
-        "Icon": "https://newigcaptions.com/wp-content/uploads/2024/02/new_ig_captions__2_-removebg-preview.png",
-        "Redirect": "https://newigcaptions.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://newigcaptions.com/"
     }
 ]

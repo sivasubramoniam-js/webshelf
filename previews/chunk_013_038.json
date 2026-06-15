@@ -70,16 +70,6 @@
         "AbstractURL": "https://www.sn2.eu/"
     },
     {
-        "link": "https://snphomes.com",
-        "Heading": "Reno Real Estate - Sierra Nevada Properties",
-        "Abstract": "Search 27048 homes for sale in Reno. Find Reno Real Estate with Sierra Nevada Properties.",
-        "Official Site": "https://www.snphomes.com/",
-        "Icon": "https://s3.us-west-1.wasabisys.com/bay/cust/iq_sierra_nevada/agent-images/SNPHOMES/2026-snphomes-hero-favuloso-rear.jpg",
-        "Redirect": "https://www.snphomes.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.snphomes.com/"
-    },
-    {
         "link": "https://soevrthpoetry.com",
         "Heading": null,
         "Abstract": null,
@@ -114,7 +104,7 @@
         "Heading": "Toutes les derni\u00e8res actualit\u00e9s G\u00e9n\u00e9ral",
         "Abstract": "All the latest news about G\u00e9n\u00e9ral.",
         "Official Site": "https://sports-addict.net",
-        "Icon": "https://d1xr1v9etxmhuy.cloudfront.net/img/icon/pwa/sports-icon-180x180.png",
+        "Icon": "https://d1xr1v9etxmhuy.cloudfront.net/img/og/sports-og-default.jpg",
         "Redirect": "https://sports-addict.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sports-addict.net"
@@ -158,16 +148,6 @@
         "Redirect": "https://strathroyagedispatch.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://strathroyagedispatch.com"
-    },
-    {
-        "link": "https://studiofieschi.it",
-        "Heading": "Studio Fieschi - Home",
-        "Abstract": null,
-        "Official Site": "https://studiofieschi.it//",
-        "Icon": "https://studiofieschi.it/",
-        "Redirect": "https://studiofieschi.it//",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://studiofieschi.it//"
     },
     {
         "link": "https://suadientulimosa.com",
@@ -220,6 +200,16 @@
         "AbstractURL": "https://synthra.org/"
     },
     {
+        "link": "https://sysjxcs.com",
+        "Heading": "\u65e5\u5386\u548c\u65f6\u95f4",
+        "Abstract": null,
+        "Official Site": "https://sysjxcs.com",
+        "Icon": "N/A",
+        "Redirect": "https://sysjxcs.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sysjxcs.com"
+    },
+    {
         "link": "https://szzhaowei.net",
         "Heading": "\u6df1\u5733\u5e02\u5146\u5a01\u673a\u7535\u80a1\u4efd\u6709\u9650\u516c\u53f8-\u5fae\u578b\u9a71\u52a8\u7cfb\u7edf\u5236\u9020\u5546",
         "Abstract": "\u6df1\u5733\u5e02\u5146\u5a01\u673a\u7535\u80a1\u4efd\u6709\u9650\u516c\u53f8\u521b\u5efa\u4e8e2001\u5e74\u662f\u4e00\u5bb6\u8bbe\u8ba1\u3001\u7814\u53d1\u3001\u751f\u4ea7\u7cbe\u5bc6\u9a71\u52a8\u7cfb\u7edf\u7684\u56fd\u5bb6\u9ad8\u65b0\u6280\u672f\u4f01\u4e1a\u3002\u4ea7\u54c1\u4e3b\u8981\u6d89\u53ca\u6c7d\u8f66\u667a\u80fd\u9a71\u52a8\u3001\u901a\u8baf\u8bbe\u5907\u3001\u667a\u80fd\u533b\u7597\u3001\u667a\u80fd\u5bb6\u5c45\u3001\u667a\u80fd\u673a\u5668\u4eba\u3001\u7535\u5b50\u4ea7\u54c1\uff1b\u4e3a\u5ba2\u6237\u7684\u667a\u80fd\u5316\u9a71\u52a8\u63d0\u4f9b\u5b9a\u5236\u5316\u670d\u52a1\u3002",
@@ -268,15 +258,5 @@
         "Redirect": "https://www.teestore.pro/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.teestore.pro/"
-    },
-    {
-        "link": "https://tempcontrolpack.com",
-        "Heading": "Tempk: Supplier of cold chain packaging and solutions",
-        "Abstract": "Tempk offers innovative Cold Chain solutions, include dry ice packs for shipping, insulated thermal bags,insulin coolers and EPP cold shipping boxes...",
-        "Official Site": "https://www.tempcontrolpack.com/",
-        "Icon": "https://www.tempcontrolpack.com/wp-content/uploads/2024/10/logo1.png",
-        "Redirect": "https://www.tempcontrolpack.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.tempcontrolpack.com/"
     }
 ]

@@ -2,7 +2,7 @@
     {
         "link": "https://notbbc.co.uk",
         "Heading": "Homepage | NOTBBC",
-        "Abstract": "Welcome to NOTBBC Welcome to NOTBBC - Latest forum posts: Disney's Doctor Who! started by Zagreb ( Sci-Fi ) 47 posts - latest posting by Teenwolf on 12:",
+        "Abstract": "Welcome to NOTBBC Welcome to NOTBBC - Latest forum posts: Disney's Doctor Who! started by Zagreb ( Sci-Fi ) 50 posts - latest posting by Zagreb on 10:",
         "Official Site": "https://notbbc.co.uk",
         "Icon": "/notbbc.ico",
         "Redirect": "https://notbbc.co.uk",
@@ -48,16 +48,6 @@
         "Redirect": "https://parallelpublicworks.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://parallelpublicworks.com"
-    },
-    {
-        "link": "https://propmix.io",
-        "Heading": "PropMix | Real Estate Data , Insights and Solutions",
-        "Abstract": "PropMix provides real estate insights and valuation solutions powered by nationwide data. We serve realtors, brokers, lenders, iBuyers, and investment funds.",
-        "Official Site": "https://propmix.io",
-        "Icon": "https://propmix.io/wp-content/uploads/2017/07/favicon.png",
-        "Redirect": "https://propmix.io",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://propmix.io"
     },
     {
         "link": "https://plastubo.pt",
@@ -180,16 +170,6 @@
         "AbstractURL": "https://hanginggardensofbali.com"
     },
     {
-        "link": "https://spectrumhealthlakeland.org",
-        "Heading": "Corewell Health",
-        "Abstract": "Welcome to Corewell Health. We are relentlessly pursuing better health for everyone. Count on Corewell Health Southeast, Southwest, and West Michigan to make health care and coverage accessible, affordable, equitable, and simple.",
-        "Official Site": "https://corewellhealth.org/",
-        "Icon": "https://images.contentstack.io/v3/assets/blt3055f692fe7bf193/blta718d583b9ce4507/6553dc8a9984b800cd5a9f0e/corewell-health-horizontal.svg",
-        "Redirect": "https://corewellhealth.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://corewellhealth.org/"
-    },
-    {
         "link": "https://big-bamboo-play.uk",
         "Heading": "Big Bamboo Slot - 50,000x Max Win with Mystery Stacks | Play Free Demo",
         "Abstract": "Big Bamboo by Push Gaming: 5x6 slot with Mystery Bamboo Stacks, Golden Bamboo Feature up to 5000x prizes, Free Spins with symbol conversion. RTP 96.13-96.74%. Play demo now.",
@@ -270,26 +250,6 @@
         "AbstractURL": "https://advantageservices.net/"
     },
     {
-        "link": "https://theartofonlinebusiness.com",
-        "Heading": "The Art Of Online Business | Facebook Ads Management Services",
-        "Abstract": "Facebook ads management and coaching for online course creators who want consistent leads without babysitting their campaigns. Home of the Art Of Online Business Podcast.",
-        "Official Site": "https://theartofonlinebusiness.com/",
-        "Icon": "https://theartofonlinebusiness.com/wp-content/uploads/2023/12/TAOOB-logo-on-teal2.jpg",
-        "Redirect": "https://theartofonlinebusiness.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://theartofonlinebusiness.com/"
-    },
-    {
-        "link": "https://3dwebers.com",
-        "Heading": "3D Webers",
-        "Abstract": null,
-        "Official Site": "https://3dwebers.com",
-        "Icon": "N/A",
-        "Redirect": "https://3dwebers.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://3dwebers.com"
-    },
-    {
         "link": "https://psypress.com",
         "Heading": "Taylor & Francis - Fostering human progress through knowledge",
         "Abstract": "Taylor & Francis publishes knowledge and specialty research spanning humanities, social sciences, science and technology, engineering, medicine and healthcare.",
@@ -318,5 +278,15 @@
         "Redirect": "https://csvanw.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://csvanw.org"
+    },
+    {
+        "link": "https://ekw.cn",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ekw.cn",
+        "Icon": "N/A",
+        "Redirect": "https://ekw.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ekw.cn"
     }
 ]

@@ -20,24 +20,14 @@
         "AbstractURL": "https://www.santaluziaarthotel.com/"
     },
     {
-        "link": "https://lasm.org",
-        "Heading": "Home | Louisiana Art & Science Museum",
-        "Abstract": "The Louisiana Art & Science Museum encourages discovery, inspires creativity, and fosters the pursuit of knowledge.",
-        "Official Site": "https://www.lasm.org/",
-        "Icon": "https://www.lasm.org/wp-content/uploads/Programs-1-scaled.jpg",
-        "Redirect": "https://www.lasm.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lasm.org/"
-    },
-    {
         "link": "https://cnpa.com",
-        "Heading": "CNPA - California News Publishers Association",
-        "Abstract": "The California News Publishers Association protects members, upholds journalistic ideals, and strengthens communities through a free press.",
-        "Official Site": "https://cnpa.com/",
-        "Icon": "https://cnpa.com/wp-content/uploads/default-social-image-1.png",
-        "Redirect": "https://cnpa.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://cnpa.com",
+        "Icon": "data:;",
+        "Redirect": "https://cnpa.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cnpa.com/"
+        "AbstractURL": "https://cnpa.com"
     },
     {
         "link": "https://mccinvestors.com",
@@ -60,14 +50,14 @@
         "AbstractURL": "https://aethon.com/"
     },
     {
-        "link": "https://postflex.de",
-        "Heading": "Postflex - Sch\u00fctze deine Privat-Adresse",
-        "Abstract": "Postflex bietet Bloggern und Online-Unternehmern eine sichere Postanschrift f\u00fcr ein rechtssicheres Impressum. \u25ba Jetzt starten!",
-        "Official Site": "https://www.postflex.de/",
-        "Icon": "https://www.postflex.de/media/favi-150x150.png",
-        "Redirect": "https://www.postflex.de/",
+        "link": "https://antennasoftware.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://antennasoftware.com",
+        "Icon": "data:;",
+        "Redirect": "https://antennasoftware.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.postflex.de/"
+        "AbstractURL": "https://antennasoftware.com"
     },
     {
         "link": "https://rouletteforum.cc",
@@ -100,6 +90,16 @@
         "AbstractURL": "https://nepgeekstech.com/"
     },
     {
+        "link": "https://peniscool.com",
+        "Heading": "Penis Cool",
+        "Abstract": null,
+        "Official Site": "https://peniscool.com",
+        "Icon": "N/A",
+        "Redirect": "https://peniscool.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://peniscool.com"
+    },
+    {
         "link": "https://barnahost.com",
         "Heading": "Estudi de programaci\u00f3 a Barcelona / Estudio de programaci\u00f3n en Barcelona \u2013 Estudi de programaci\u00f3 a Barcelona / Estudio de programaci\u00f3n en Barcelona",
         "Abstract": null,
@@ -108,16 +108,6 @@
         "Redirect": "https://barnahost.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://barnahost.com"
-    },
-    {
-        "link": "https://hasbeenz.com",
-        "Heading": "Hasbeenz",
-        "Abstract": null,
-        "Official Site": "https://hasbeenz.com",
-        "Icon": "https://hasbeenz.com/wp-content/uploads/2023/03/favicon2.png",
-        "Redirect": "https://hasbeenz.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hasbeenz.com"
     },
     {
         "link": "https://sandnes.kommune.no",
@@ -161,13 +151,13 @@
     },
     {
         "link": "https://ship4wd.com",
-        "Heading": "Digital Freight Forwarding and Sourcing Solution for SMBs | Ship4wd",
-        "Abstract": "Simplify international shipping for SMBs with free quotes, reliable comparisons, and guaranteed ocean container allocation for FCL and LCL shipments.",
-        "Official Site": "https://ship4wd.com/",
-        "Icon": "https://ship4wd.com/wp-content/uploads/2022/05/s4wd-social-share.png",
-        "Redirect": "https://ship4wd.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ship4wd.com",
+        "Icon": "data:;",
+        "Redirect": "https://ship4wd.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ship4wd.com/"
+        "AbstractURL": "https://ship4wd.com"
     },
     {
         "link": "https://feline-nutrition.org",
@@ -230,33 +220,13 @@
         "AbstractURL": "https://dggeriatrie.de"
     },
     {
-        "link": "https://ecowipes.com.vn",
-        "Heading": "Home - Ecowipes",
-        "Abstract": null,
-        "Official Site": "https://ecowipes.com.vn/",
-        "Icon": "https://ecowipes.com.vn/wp-content/uploads/2025/06/faviconV2-100x100.png",
-        "Redirect": "https://ecowipes.com.vn/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ecowipes.com.vn/"
-    },
-    {
-        "link": "https://diariodelcesar.com",
-        "Heading": "Inicio - Diario del Cesar",
-        "Abstract": "If govt can\u2019t secure women\u2019s safety, we can secure it ourselves\u2019, Police files 110 cases Wasim Khalid Srinagar: With 45 days having passed since the first hair-chopping case was reported in Kashmir, the police are still clueless about who the...",
-        "Official Site": "https://www.diariodelcesar.com/",
-        "Icon": "https://www.diariodelcesar.com/wp-content/uploads/2018/12/LOGO-DIARIO-DEL-CESAR-REDES-150x150.jpg",
-        "Redirect": "https://www.diariodelcesar.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.diariodelcesar.com/"
-    },
-    {
         "link": "https://aachonline.org",
-        "Heading": "\u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 \u0432 \u0423\u043a\u0440\u0430\u0438\u043d\u0435 - \u041b\u0443\u0447\u0448\u0438\u0435 \u0411\u0443\u043a\u043c\u0435\u043a\u0435\u0440\u0441\u043a\u0438\u0435 \u041a\u043e\u043d\u0442\u043e\u0440\u044b",
-        "Abstract": "\u041f\u043e\u0448\u0430\u0433\u043e\u0432\u0430\u044f \u0438\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f \u0434\u043b\u044f \u043d\u043e\u0432\u0438\u0447\u043a\u043e\u0432: \u043e\u0442 \u043f\u0435\u0440\u0432\u043e\u0439 \u0441\u0442\u0430\u0432\u043a\u0438 \u0434\u043e \u0432\u044b\u0431\u043e\u0440\u0430 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0438. \u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u043c \u0434\u0435\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u0431\u0437\u043e\u0440 \u0442\u043e\u043f-4 \u043b\u0435\u0433\u0430\u043b\u044c\u043d\u044b\u0445 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u043a\u043e\u043d\u0442\u043e\u0440, \u0447\u0442\u043e\u0431\u044b \u0432\u044b \u0441\u0434\u0435\u043b\u0430\u043b\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u044b\u0439 \u0432\u044b\u0431\u043e\u0440",
-        "Official Site": "https://www.sportsbettinghub.uk.com",
-        "Icon": "https://www.aachonline.org/wp-content/uploads/2025/09/vbet-betting-1200-1024x494.webp",
-        "Redirect": "https://www.sportsbettinghub.uk.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://aachonline.org",
+        "Icon": "data:;",
+        "Redirect": "https://aachonline.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sportsbettinghub.uk.com"
+        "AbstractURL": "https://aachonline.org"
     }
 ]

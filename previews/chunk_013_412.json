@@ -40,16 +40,6 @@
         "AbstractURL": "https://www.liofilizado.es/"
     },
     {
-        "link": "https://liquidnature.at",
-        "Heading": "Liquid Nature - Aquarium Shop & Gallery \u2013 Wien | Aquascaping",
-        "Abstract": "Taucht ein in die faszinierende Welt der modernen Aquaristik. Wir bieten euch kompetente Beratung und ein umfassendes Sortiment rund um Naturaquaristik und Aquascaping.",
-        "Official Site": "https://www.liquidnature.at/",
-        "Icon": "https://www.liquidnature.at/wp-content/uploads/2024/08/IAPLC-2024-Dead-Wood.jpg",
-        "Redirect": "https://www.liquidnature.at/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.liquidnature.at/"
-    },
-    {
         "link": "https://lisetailor.com",
         "Heading": "Lise Tailor \u2013 Tissus, Patrons Couture & Tricot Cr\u00e9atifs",
         "Abstract": "Lise Tailor est une marque cr\u00e9ative d\u00e9di\u00e9e \u00e0 la couture et au tricot. D\u00e9couvrez des tissus exclusifs, des patrons modernes, des laines de qualit\u00e9 et une mercerie inspirante pour cr\u00e9er des pi\u00e8ces uniques, durables et \u00e9l\u00e9gantes, au rythme des saisons et des envies.",
@@ -91,13 +81,13 @@
     },
     {
         "link": "https://lokkio.it",
-        "Heading": "Home - Lokkio",
-        "Abstract": "Immergiti nell'atmosfera vibrante di Savona e dintorni, esplorando la cultura, le bellezze naturali e le sue fantastiche manifestazioni! Con Lokkio, sarai costantemente informato su tutto ci\u00f2 che accade nella nostra provincia.I nostri giornalisti esperti garantiscono una copertura tempestiva e approfondita, offrendoti notizie aggiornate e approfondimenti su sport, cultura, arte, eventi e attualit\u00e0.",
-        "Official Site": "https://lokkio.it/",
-        "Icon": "https://lokkio.it/wp-content/uploads/2023/05/cropped-Favicon-1-Lokkio-32x32.png",
-        "Redirect": "https://lokkio.it/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lokkio.it",
+        "Icon": "data:;",
+        "Redirect": "https://lokkio.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lokkio.it/"
+        "AbstractURL": "https://lokkio.it"
     },
     {
         "link": "https://looev.com",
@@ -230,6 +220,16 @@
         "AbstractURL": "https://magrami.pl/"
     },
     {
+        "link": "https://mainesavings.com",
+        "Heading": "Maine Savings Federal Credit Union",
+        "Abstract": "We go beyond what's expected to help you achieve your financial goals. Be part of something bigger than just another bank.",
+        "Official Site": "https://mainesavings.com/",
+        "Icon": "https://mainesavings.com/wp-content/uploads/2023/06/cropped-favicon-32x32.jpg",
+        "Redirect": "https://mainesavings.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mainesavings.com/"
+    },
+    {
         "link": "https://maisoncrivelli.com",
         "Heading": "\n      Maison Crivelli\n",
         "Abstract": "Le parfum est une exp\u00e9rience vivante.",
@@ -303,31 +303,21 @@
         "link": "https://marcolino.pt",
         "Heading": "Desde 1926 at\u00e9 hoje, como sempre | Marcolino 1926",
         "Abstract": "A Marcolino 1926 \u00e9 a principal refer\u00eancia na cidade do Porto para quem exige qualidade e excel\u00eancia em relojoaria e joalharia. ",
-        "Official Site": "https://www.marcolino.pt/?_ch=95dcc4ec79591c336ce90daf630c8465&_lp=https%3A%2F%2Fwww.marcolinolink.pt%2Fen%2Foutlet%2Fwolf",
+        "Official Site": "https://www.marcolino.pt/",
         "Icon": "/favicon-32x32.png",
-        "Redirect": "https://www.marcolino.pt/?_ch=95dcc4ec79591c336ce90daf630c8465&_lp=https%3A%2F%2Fwww.marcolinolink.pt%2Fen%2Foutlet%2Fwolf",
+        "Redirect": "https://www.marcolino.pt/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.marcolino.pt/?_ch=95dcc4ec79591c336ce90daf630c8465&_lp=https%3A%2F%2Fwww.marcolinolink.pt%2Fen%2Foutlet%2Fwolf"
-    },
-    {
-        "link": "https://marcustoday.com.au",
-        "Heading": "Home - Marcus Today",
-        "Abstract": "Marcus Today helps you understand the market, follow real portfolios, and learn as you go - with clear, honest, entertaining insights every day.",
-        "Official Site": "https://marcustoday.com.au/",
-        "Icon": "https://marcustoday.com.au/wp-content/uploads/2025/08/Your-Guide-To-Self-Directed-Investing-1.png",
-        "Redirect": "https://marcustoday.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://marcustoday.com.au/"
+        "AbstractURL": "https://www.marcolino.pt/"
     },
     {
         "link": "https://maryuriropainterior.com",
-        "Heading": "Inicio - Maryuri",
-        "Abstract": "Asistencia: 098 187 3849 0 days 00 hr 00 min 00 sc Beneficios Descuentos primera compra Producto del Mes Oferta",
-        "Official Site": "https://maryuriropainterior.com/",
-        "Icon": "https://maryuriropainterior.com/wp-content/uploads/2024/05/carrito-de-compras.png",
-        "Redirect": "https://maryuriropainterior.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://maryuriropainterior.com",
+        "Icon": "data:;",
+        "Redirect": "https://maryuriropainterior.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://maryuriropainterior.com/"
+        "AbstractURL": "https://maryuriropainterior.com"
     },
     {
         "link": "https://mascomintl.com",
@@ -360,16 +350,6 @@
         "AbstractURL": "https://masqueradenyc.com/"
     },
     {
-        "link": "https://massamarkt.nl",
-        "Heading": "Massamarkt, da's een partij voordelig!",
-        "Abstract": null,
-        "Official Site": "https://massamarkt.nl",
-        "Icon": "N/A",
-        "Redirect": "https://massamarkt.nl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://massamarkt.nl"
-    },
-    {
         "link": "https://matericashop.it",
         "Heading": "Le Migliori Piastrelle al Miglior Prezzo | MatericaSHOP",
         "Abstract": "MatericaSHOP propone una vasta selezione di piastrelle per pavimenti e rivestimenti di stile a prezzi scontati! Scegli le tue prossime piastrelle comodamente da casa.",
@@ -380,14 +360,14 @@
         "AbstractURL": "https://matericashop.it/"
     },
     {
-        "link": "https://mayoristaelcondor.com.ar",
-        "Heading": "Mayorista El C\u00f3ndor - Tienda Online",
-        "Abstract": "Mayorista El C\u00f3ndor: el aliado para tu comercio. Amplia variedad al mejor precio. Almac\u00e9n, Bebidas, Desayuno, Kiosco y m\u00e1s. \u00a1Compr\u00e1 online!",
-        "Official Site": "https://mayoristaelcondor.com.ar/",
-        "Icon": "https://mayoristaelcondor.com.ar/wp-content/uploads/2024/03/Logo-Condor-Mayorista-SEO.jpg",
-        "Redirect": "https://mayoristaelcondor.com.ar/",
+        "link": "https://mazeto.sk",
+        "Heading": "Mazeto.sk \u2013 Autodiely, motorov\u00e9 oleje, ru\u010dn\u00e9ho n\u00e1radie, n\u00e1stroje a potreby pre dom, z\u00e1hradu a diel\u0148u.",
+        "Abstract": "Mazeto.sk \u2013 \u0160irok\u00e1 ponuka kvalitn\u00fdch autodielov, motorov\u00fdch olejov, n\u00e1radia pre dom, diel\u0148u a z\u00e1hradu. R\u00fdchle dodanie, skvel\u00e9 ceny a odborn\u00e9 poradenstvo. Nakupujte u odborn\u00edkov na autodiely!",
+        "Official Site": "https://mazeto.sk/",
+        "Icon": "https://mazeto.sk/assets/default/img/logo.png",
+        "Redirect": "https://mazeto.sk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mayoristaelcondor.com.ar/"
+        "AbstractURL": "https://mazeto.sk/"
     },
     {
         "link": "https://mc-auctions.com",

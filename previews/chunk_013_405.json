@@ -1,10 +1,10 @@
 [
     {
         "link": "https://corbero.es",
-        "Heading": "Corber\u00f3",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://corbero.es",
-        "Icon": "https://corbero.es/wp-content/uploads/2026/04/favicon-corbero.png",
+        "Icon": "data:;",
         "Redirect": "https://corbero.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://corbero.es"
@@ -104,7 +104,7 @@
         "Heading": "\n      CubeIn | UK-CN Based Professional Cubes & Twisty Puzzles Online Store\n",
         "Abstract": "CubeIn is a UK-CN based premier puzzle online shop, specializing in high-performance speed cubes and professional 3D-customized twisty puzzles. Leveraging our global logistics hub in China, we provide reliable service and rapid worldwide shipping for enthusiasts.",
         "Official Site": "https://cubein.cn/",
-        "Icon": "http://cubein.cn/cdn/shop/files/H5b41da1f23fd4d76978b97fd55e45f1cj_1.png?v=1706333440",
+        "Icon": "http://cdn.shopify.com/s/files/1/0620/5053/3559/files/H5b41da1f23fd4d76978b97fd55e45f1cj_1.png?v=1706333440",
         "Redirect": "https://cubein.cn/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cubein.cn/"
@@ -141,13 +141,13 @@
     },
     {
         "link": "https://daborstore.it",
-        "Heading": "Dabor forniture per parrucchieri - DABOR",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://daborstore.it/",
-        "Icon": "https://daborstore.it/wp-content/uploads/2022/07/cropped-favicon-dabor-png-512-32x32.png",
-        "Redirect": "https://daborstore.it/",
+        "Official Site": "https://daborstore.it",
+        "Icon": "data:;",
+        "Redirect": "https://daborstore.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://daborstore.it/"
+        "AbstractURL": "https://daborstore.it"
     },
     {
         "link": "https://daksshoes.com",
@@ -214,20 +214,10 @@
         "Heading": "\n    \n    Daytona 73 - Boutique officielle - Blousons en cuir et v\u00eatements\n    \n    \n    \n  ",
         "Abstract": "Boutique en ligne de blousons en cuir et v\u00eatements de caract\u00e8re pour les aventuriers modernes. \u2714\ufe0fHaute Qualit\u00e9 \u2714\ufe0fPaiement s\u00e9curis\u00e9 \u2714\ufe0fSAV \u00e0 l'\u00e9coute",
         "Official Site": "https://daytona73.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0831/0335/1124/files/2025-11-01_Daytona_73_-_Outdoor_-_les_Angles-17-min_2b992a6f-988d-4a07-aea5-ef05e3117409.jpg?v=1764770861",
+        "Icon": "http://daytona73.com/cdn/shop/files/2025-11-01_Daytona_73_-_Outdoor_-_les_Angles-17-min_2b992a6f-988d-4a07-aea5-ef05e3117409.jpg?v=1764770861",
         "Redirect": "https://daytona73.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://daytona73.com/"
-    },
-    {
-        "link": "https://deepbluesub.com",
-        "Heading": "DEEP BLUE - Store online di pesca subacquea e apnea",
-        "Abstract": "Deep blue \u00e8 il pi\u00f9 grande Store Online di Pesca Subacquea e Apnea. Attrezzature di alta qualit\u00e0 e servizio eccellente. SCOPRI DI PIU!",
-        "Official Site": "https://deepbluesub.com/",
-        "Icon": "https://deepbluesub.com/wp-content/uploads/2020/08/wahoo-deep-blue.jpg",
-        "Redirect": "https://deepbluesub.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://deepbluesub.com/"
     },
     {
         "link": "https://delnext.com",
@@ -271,10 +261,10 @@
     },
     {
         "link": "https://depodental.cl",
-        "Heading": "Depodental \u2013 Insumos dentales de alta calidad",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://depodental.cl",
-        "Icon": "https://depodental.cl/wp-content/uploads/2026/02/cropped-favic-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://depodental.cl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://depodental.cl"
@@ -340,26 +330,6 @@
         "AbstractURL": "https://www.didoni.com/"
     },
     {
-        "link": "https://discosdobrasil.com.br",
-        "Heading": "Discos do Brasil",
-        "Abstract": "Discos do Brasil \u00e9 um site que cont\u00e9m a discografia brasileira catalogada por Maria Luiza Kfouri. O acervo conta com mais de 7 mil discos.",
-        "Official Site": "https://discosdobrasil.com.br/",
-        "Icon": "https://discosdobrasil.com.br/wp-content/uploads/2020/12/toastfb.jpg",
-        "Redirect": "https://discosdobrasil.com.br/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://discosdobrasil.com.br/"
-    },
-    {
-        "link": "https://disqueriakyd.cl",
-        "Heading": "Vinilos nuevos y usados, Tapes, Cds, Accesorios - Disqueriakyd",
-        "Abstract": "Disquer\u00eda KYD, Disquer\u00eda, Vinilos nuevos, Vinilos de \u00e9poca, , Cds nuevos y usados, Casetes nuevos y usados, K-pop, Coleccionables, Accesorios afines, Figuras Coleccionables",
-        "Official Site": "https://disqueriakyd.cl/",
-        "Icon": "https://disqueriakyd.cl/wp-content/uploads/2020/05/Favicon-Disqueria-KYD-64x64.png",
-        "Redirect": "https://disqueriakyd.cl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://disqueriakyd.cl/"
-    },
-    {
         "link": "https://djmixclub.co.za",
         "Heading": "Home - DJ Mix Club",
         "Abstract": "With our amazing range of hardware and professional insight,let us guide you in the right direction!",
@@ -398,16 +368,6 @@
         "Redirect": "https://www.domowaspizarnia.pl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.domowaspizarnia.pl/"
-    },
-    {
-        "link": "https://donjondudragon.fr",
-        "Heading": "Donjon du Dragon - Le Donjon du Dragon - Le Donjon du Dragon",
-        "Abstract": "Le Donjon du Dragon est un site communautaire et participatif qui a pour but de rassembler les ouvrages des anciennes \u00e9ditions de Donjons & Dragons et des r\u00e8gles Avanc\u00e9es de Donjons & Dragons en version fran\u00e7aise (OD&D \u00e0 AD&D2.5). Par le biais de discussions et d'une gratuit\u00e9 totale, les membres du site proposent des restaurations, des traductions exclusives et de nombreuses cr\u00e9ations. Vous trouverez \u00e9galement les r\u00e8gles de ces diff\u00e9rents syst\u00e8mes en format num\u00e9rique dans le DRS.",
-        "Official Site": "https://donjondudragon.fr",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://donjondudragon.fr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://donjondudragon.fr"
     },
     {
         "link": "https://donsaga.com",

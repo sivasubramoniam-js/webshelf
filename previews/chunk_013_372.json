@@ -80,16 +80,6 @@
         "AbstractURL": "https://eaudithub.com"
     },
     {
-        "link": "https://mutluyazilim.com.tr",
-        "Heading": "Anasayfa - Mutlu Yaz\u0131l\u0131m",
-        "Abstract": "Kurumsal & G\u00fcven Veren",
-        "Official Site": "https://mutluyazilim.com.tr/",
-        "Icon": "https://mutluyazilim.com.tr/wp-content/uploads/2025/04/cropped-simge-1-32x32.png",
-        "Redirect": "https://mutluyazilim.com.tr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mutluyazilim.com.tr/"
-    },
-    {
         "link": "https://projectquantumai.com",
         "Heading": "Project Quantum Ai  | Official Website Platform",
         "Abstract": "Project Quantum Ai delivers automated trading technology, trusted broker connectivity, and in-depth market education to help traders excel across global markets.",
@@ -108,6 +98,16 @@
         "Redirect": "https://uncb.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://uncb.org"
+    },
+    {
+        "link": "https://planetgong.co.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://planetgong.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://planetgong.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://planetgong.co.uk"
     },
     {
         "link": "https://bongdalu19.com",

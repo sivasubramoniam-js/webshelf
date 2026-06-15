@@ -50,6 +50,16 @@
         "AbstractURL": "https://openwebsearch.eu/welcome/"
     },
     {
+        "link": "https://tomballtx.gov",
+        "Heading": "Tomball, TX - Official Website | Official Website",
+        "Abstract": "",
+        "Official Site": "https://tomballtx.gov",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://tomballtx.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tomballtx.gov"
+    },
+    {
         "link": "https://jumpfind.org",
         "Heading": "JumpFind 2 - Reloaded",
         "Abstract": "JumpFind 2 is your mate to travel really fast through the internet.",
@@ -78,16 +88,6 @@
         "Redirect": "https://xxxtube-asian.com/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xxxtube-asian.com/en/"
-    },
-    {
-        "link": "https://unnatipharmax.com",
-        "Heading": "Pharma Exporter India | Bulk Medicines Online\u2013Unnati Pharmax",
-        "Abstract": "Order WHO-GMP certified generic and specialty medicines from Unnati Pharmax. Trusted pharma exporter India for bulk medicine supply and global shipping.",
-        "Official Site": "https://unnatipharmax.com/",
-        "Icon": "https://unnatipharmax.com/wp-content/uploads/2025/07/Hiv-Banner-Homepage.png",
-        "Redirect": "https://unnatipharmax.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://unnatipharmax.com/"
     },
     {
         "link": "https://keratoconus-group.org.uk",
@@ -140,16 +140,6 @@
         "AbstractURL": "https://xn--80ajat4acbm8e.xn--p1ai"
     },
     {
-        "link": "https://cffutures.net",
-        "Heading": "Children and Family Futures",
-        "Abstract": "MISSION\nChildren and Family Futures strives to prevent child abuse and neglect while improving safety, permanency, well-being, and recovery outcomes for all children, parents and families affected by trauma, substance use and mental health disorders.    More About Who We Are  In 2023,",
-        "Official Site": "https://www.cffutures.org/",
-        "Icon": "https://cffutures.b-cdn.net/wp-content/uploads/2025/07/cff-logo-web.svg",
-        "Redirect": "https://www.cffutures.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cffutures.org/"
-    },
-    {
         "link": "https://psp-hacks.com",
         "Heading": "Redirecting...",
         "Abstract": null,
@@ -181,13 +171,13 @@
     },
     {
         "link": "https://mwge.org",
-        "Heading": "The Movie Watcher's Guide to Enlightenment (MWGE)",
-        "Abstract": "With movie commentary for over 450 spiritual movies and regular movies alike, MWGE offers a fun and practical path to spiritual enlightenment!",
-        "Official Site": "https://mwge.org/",
-        "Icon": "https://mwge.org/wp-content/uploads/mwge-logo-on-teal-background.jpeg",
-        "Redirect": "https://mwge.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mwge.org",
+        "Icon": "data:;",
+        "Redirect": "https://mwge.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mwge.org/"
+        "AbstractURL": "https://mwge.org"
     },
     {
         "link": "https://tcomlp.com",
@@ -228,16 +218,6 @@
         "Redirect": "https://bullbbq.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bullbbq.com/"
-    },
-    {
-        "link": "https://chihuoclub.com",
-        "Heading": "China-Made, Carefully Selected | MicSelect",
-        "Abstract": "MicSelect curates quality China-made products with reliable craftsmanship, practical design, and everyday value.",
-        "Official Site": "https://chihuoclub.com",
-        "Icon": "https://www.micselect.com/opengraph-image.png?4db0ee8cf66e90af",
-        "Redirect": "https://chihuoclub.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chihuoclub.com"
     },
     {
         "link": "https://biogartenliving.de",

@@ -11,13 +11,13 @@
     },
     {
         "link": "https://winedos.com",
-        "Heading": "Home | Winedos Store",
-        "Abstract": "Follow us on our wine journey around the world!",
-        "Official Site": "https://winedos.com/",
-        "Icon": "https://winedos.com/wp-content/uploads/compressed_Austin-Hope-2.webp",
-        "Redirect": "https://winedos.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://winedos.com",
+        "Icon": "data:;",
+        "Redirect": "https://winedos.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://winedos.com/"
+        "AbstractURL": "https://winedos.com"
     },
     {
         "link": "https://wingercompanies.com",
@@ -171,13 +171,13 @@
     },
     {
         "link": "https://seegreatart.art",
-        "Heading": "See Great Art - Sharing great art from across North America",
-        "Abstract": "Sharing great art from across North America",
-        "Official Site": "https://www.seegreatart.art/",
-        "Icon": "https://www.seegreatart.art/wp-content/uploads/2020/09/cropped-See-Great-Art-32x32.jpg",
-        "Redirect": "https://www.seegreatart.art/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://seegreatart.art",
+        "Icon": "data:;",
+        "Redirect": "https://seegreatart.art",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.seegreatart.art/"
+        "AbstractURL": "https://seegreatart.art"
     },
     {
         "link": "https://mujin.co.jp",
@@ -188,6 +188,16 @@
         "Redirect": "/",
         "AbstractSource": "BS4",
         "AbstractURL": "/"
+    },
+    {
+        "link": "https://herita.be",
+        "Heading": "Samen zorgen voor historische plekken | Herita",
+        "Abstract": "Beleef onze historische plekken. Samen zorgen we ervoor dat ze blijven bestaan!",
+        "Official Site": "https://herita.be",
+        "Icon": "https://www.herita.be/sites/default/files/styles/social_media_image/public/2022-05/%C2%A9LUCID_Herita_Herkenrode_074_verkleind.jpg?h=ee7f09fc&itok=BtkcPx98",
+        "Redirect": "https://herita.be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://herita.be"
     },
     {
         "link": "https://datingcritic.org",
@@ -230,16 +240,6 @@
         "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=CoinVaultExchange.com"
     },
     {
-        "link": "https://serrasultelecom.com.br",
-        "Heading": "SERRASUL \u2013 Internet 100% Fibra \u00d3ptica",
-        "Abstract": null,
-        "Official Site": "https://serrasultelecom.com.br",
-        "Icon": "https://serrasultelecom.com.br/wp-content/uploads/2023/07/cropped-serrasul-icon-32x32.png",
-        "Redirect": "https://serrasultelecom.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://serrasultelecom.com.br"
-    },
-    {
         "link": "https://backstageviral.com",
         "Heading": "Back Stage Viral - Posts That Gets Viral",
         "Abstract": "Posts That Gets Viral",
@@ -268,16 +268,6 @@
         "Redirect": "https://clickvariant.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://clickvariant.com"
-    },
-    {
-        "link": "https://madeinkitchenware.com",
-        "Heading": "Shop Stainless Steel, Non-Stick, Carbon Steel, and More \u2013 Honest Prices for Quality Kitchenware",
-        "Abstract": "Discover premium kitchenware from Made In, including non-stick, carbon steel, knives, plates, and more.",
-        "Official Site": "https://madeinkitchenware.com/",
-        "Icon": "https://madeinkitchenware.com/wp-content/uploads/2025/04/cropped-2025-04-30_011026-32x32.png",
-        "Redirect": "https://madeinkitchenware.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://madeinkitchenware.com/"
     },
     {
         "link": "https://devocion.com",

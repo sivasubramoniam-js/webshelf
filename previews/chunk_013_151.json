@@ -1,8 +1,8 @@
 [
     {
         "link": "https://023002.com",
-        "Heading": "\u8bba\u575b -  \u624b\u673a\u7248 - Powered by Discuz!",
-        "Abstract": "\u8bba\u575b ,Discuz! Board",
+        "Heading": "\u8bba\u575b -  Powered by Discuz!",
+        "Abstract": "\u8bba\u575b ",
         "Official Site": "https://023002.com",
         "Icon": "N/A",
         "Redirect": "https://023002.com",
@@ -38,6 +38,26 @@
         "Redirect": "https://designmuseumshop.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://designmuseumshop.com/"
+    },
+    {
+        "link": "https://trafficltd.com.au",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://trafficltd.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://trafficltd.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trafficltd.com.au"
+    },
+    {
+        "link": "https://ompsfuneralhome.com",
+        "Heading": "Home - Omps Funeral Home",
+        "Abstract": null,
+        "Official Site": "https://ompsfuneralhome.com/",
+        "Icon": "https://ompsfuneralhome.com/wp-content/uploads/cache/2019/04/favicon/1748134855.png",
+        "Redirect": "https://ompsfuneralhome.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ompsfuneralhome.com/"
     },
     {
         "link": "https://triocangaco.com.br",
@@ -232,7 +252,7 @@
     {
         "link": "https://xocdia.games",
         "Heading": "Ch\u01a1i X\u00f3c \u0110\u0129a Online - Game \u0110\u1ed5i Th\u01b0\u1edfng T\u1ef7 L\u1ec7 1 \u0102n 2,5 Ti\u1ec1n",
-        "Abstract": "X\u00f3c \u0111\u0129a online - Game \u0111\u1ed5i th\u01b0\u1edfng hot nh\u1ea5t Vi\u1ec7t Nam v\u1edbi t\u1ef7 l\u1ec7 \u0103n th\u01b0\u1edfng 1 \u0103n 2,5 l\u1ea7n ti\u1ec1n \u0111\u1eb7t c\u01b0\u1ee3c. T\u1ea3i app x\u00f3c \u0111\u0129a m\u1edbi nh\u1ea5t Th\u00e1ng 6 14, 2026 ngay h\u00f4m nay!",
+        "Abstract": "X\u00f3c \u0111\u0129a online - Game \u0111\u1ed5i th\u01b0\u1edfng hot nh\u1ea5t Vi\u1ec7t Nam v\u1edbi t\u1ef7 l\u1ec7 \u0103n th\u01b0\u1edfng 1 \u0103n 2,5 l\u1ea7n ti\u1ec1n \u0111\u1eb7t c\u01b0\u1ee3c. T\u1ea3i app x\u00f3c \u0111\u0129a m\u1edbi nh\u1ea5t Th\u00e1ng 6 15, 2026 ngay h\u00f4m nay!",
         "Official Site": "https://guillaumepressiatgithub.io/",
         "Icon": "https://guillaumepressiatgithub.io/wp-content/uploads/2025/06/top-app-xoc-dia-online-uy-tin-thuong-lon-moi-ngay.webp",
         "Redirect": "https://guillaumepressiatgithub.io/",
@@ -300,6 +320,16 @@
         "AbstractURL": "https://www.clearsourcerealty.com/"
     },
     {
+        "link": "https://bcartscouncil.ca",
+        "Heading": "BC Arts Council",
+        "Abstract": null,
+        "Official Site": "https://www.bcartscouncil.ca/",
+        "Icon": "https://www.bcartscouncil.ca/app/themes/child-bcgov-base-bcartscouncil/resources/favicon.ico",
+        "Redirect": "https://www.bcartscouncil.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bcartscouncil.ca/"
+    },
+    {
         "link": "https://zinfo.pl",
         "Heading": "Strona g\u0142\u00f3wna - zinfo.pl",
         "Abstract": null,
@@ -338,15 +368,5 @@
         "Redirect": "https://seltzer.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://seltzer.org"
-    },
-    {
-        "link": "https://earwormentertainment.com",
-        "Heading": "\u00bb EARWORM ENTERTAINMENT",
-        "Abstract": "business specializing in audio/video production, live event booking, merchandise & music throughout New England. Home of the Earworm Entertainment Artist Collective (EwEaC).",
-        "Official Site": "https://earwormentertainment.com/",
-        "Icon": "https://earwormentertainment.com/wp-content/uploads/2022/12/Screenshot-2022-12-29-152639.png",
-        "Redirect": "https://earwormentertainment.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://earwormentertainment.com/"
     }
 ]

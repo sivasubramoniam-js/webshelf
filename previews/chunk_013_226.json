@@ -11,23 +11,13 @@
     },
     {
         "link": "https://nugen-rx.com",
-        "Heading": "Nugen-Rx is medical and aesthetic focused",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://nugen-rx.com",
-        "Icon": "https://nugen-rx.com/wp-content/uploads/2023/04/cropped-Nugen-Rx-logo-retina-001-32x32.jpg",
+        "Icon": "data:;",
         "Redirect": "https://nugen-rx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nugen-rx.com"
-    },
-    {
-        "link": "https://nwurgent.com",
-        "Heading": "Find our Locations | Northwest Urgent Care",
-        "Abstract": "Offering convenient access to healthcare when you need it most - Northwest Urgent Care in Post Falls and Coeur d' Alene, ID.",
-        "Official Site": "https://nwurgent.com",
-        "Icon": "https://daks2k3a4ib2z.cloudfront.net/56a7f8d1251395b30b7dba67/56cf424cb65ae40a3ebcfb5d_PolstonUrgentCare.jpg",
-        "Redirect": "https://nwurgent.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nwurgent.com"
     },
     {
         "link": "https://obec-cermna.cz",
@@ -38,6 +28,16 @@
         "Redirect": "https://obec-cermna.cz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://obec-cermna.cz"
+    },
+    {
+        "link": "https://obecrasovice.cz",
+        "Heading": "Obec Ra\u0161ovice: Tituln\u00ed str\u00e1nka",
+        "Abstract": null,
+        "Official Site": "https://obecrasovice.cz",
+        "Icon": "/html/images/favicon.ico",
+        "Redirect": "https://obecrasovice.cz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://obecrasovice.cz"
     },
     {
         "link": "https://ogvl.net",
@@ -140,6 +140,16 @@
         "AbstractURL": "https://www.outlethomelife.com/"
     },
     {
+        "link": "https://paddlesshop.com",
+        "Heading": "Best Pickleball Paddles For Beginners Online Store - Paddlesshop",
+        "Abstract": "Paddleshop Is Best Pickleball Paddles for Beginners Supplier, Our Goal Is Simple: Provide Affordable, High Quality Paddles Without Compromise. Shop Our Pickleball Paddles, Padel Rackets, Accessories and More.Free Shipping Worldwide!",
+        "Official Site": "https://www.paddlesshop.com/",
+        "Icon": "//www.paddlesshop.com/wp-content/uploads/2023/04/icon-favicon.png",
+        "Redirect": "https://www.paddlesshop.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.paddlesshop.com/"
+    },
+    {
         "link": "https://pahd.net",
         "Heading": "\u767d\u6d01\u5c0f\u8bf4\u7f51 - \u70ed\u95e8\u5c0f\u8bf4\u8fde\u8f7d,\u8ffd\u4e66\u5fc5\u5907",
         "Abstract": "\u767d\u6d01\u5c0f\u8bf4\u7f51\u81f4\u529b\u4e8e\u6253\u9020\u65e0\u5e7f\u544a\u65e0\u5f39\u7a97\u7684\u5728\u7ebf\u5c0f\u8bf4\u9605\u8bfb\u7f51\u7ad9\uff0c\u63d0\u4f9b\u5c0f\u8bf4\u5728\u7ebf\u9605\u8bfb\uff0c\u5c0f\u8bf4TXT\u5168\u6587\uff0c\u7f51\u7ad9\u6ca1\u6709\u5f39\u7a97\u5e7f\u544a\u9875\u9762\u7b80\u6d01\u3002",
@@ -178,16 +188,6 @@
         "Redirect": "https://passionhome.sg/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://passionhome.sg/"
-    },
-    {
-        "link": "https://pisani.com.co",
-        "Heading": "PISANI BOUTIQUE \u2013 Porcelanatos y Dise\u00f1o",
-        "Abstract": null,
-        "Official Site": "https://pisani.com.co",
-        "Icon": "https://pisani.com.co/wp-content/uploads/2026/02/cropped-logo-tab-fondo-32x32.png",
-        "Redirect": "https://pisani.com.co",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pisani.com.co"
     },
     {
         "link": "https://pixexpert.com",
@@ -291,10 +291,10 @@
     },
     {
         "link": "https://qqwfd.com",
-        "Heading": "\u4e0a\u763e\u5168\u6587\u514d\u8d39\u9605\u8bfb_\u4e0a\u763e\u7535\u89c6\u5267\u514d\u8d39\u89c2\u770b\u5168\u96c6\u5b8c\u6574\u7248_HD\u4e2d\u5b57\u9ad8\u6e05\u4e91\u64ad\u82f1\u8bed\u514d\u8d39\u5728\u7ebf\u89c2\u770b\u5168\u96c6\u9ad8\u6e05\u5b8c\u6574\u7248 - \u4e2d\u5b57\u9ad8\u6e05\u89c6\u9891\u7f51",
-        "Abstract": "\u4e2d\u5b57\u9ad8\u6e05\u89c6\u9891\u7f51\u73b0\u5df2\u6253\u901a\u5168\u7ef4\u5ea6\u8d44\u6e90\u77e9\u9635\uff0c\u4e3a\u60a8\u63d0\u4f9b\u300a\u4e0a\u763e\u5168\u6587\u514d\u8d39\u9605\u8bfb\u300b\u7684\u4e00\u7ad9\u5f0f\u6587\u5b66\u5165\u53e3\uff0c\u5e76\u540c\u6b65\u4e0a\u7ebf\u4e0a\u763e\u7535\u89c6\u5267\u514d\u8d39\u89c2\u770b\u5168\u96c6\u5b8c\u6574\u7248\u8d85\u6e05\u9891\u9053\u3002\u672c\u7ad9\u6df1\u5ea6\u96c6\u6210 2026 \u6700\u65b0\u6d41\u5a92\u4f53\u5206\u53d1\u534f\u8bae\uff0c\u9488\u5bf9\u5168\u7403\u5f71\u89c6\u4f5c\u54c1\u5f00\u542f HD\u4e2d\u5b57\u9ad8\u6e05\u4e91\u64ad\u82f1\u8bed\u514d\u8d39\u5728\u7ebf\u89c2\u770b\u5168\u96c6\u9ad8\u6e05\u5b8c",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://qqwfd.com",
-        "Icon": "/t/enc_MDQwMDI2NjMzYzkwM2Q5NLLKhIhQFVdpbU8glOfD6v-XTsavtIJ8uhBKH4Z609ALvKxYa233LAZua9PCUF-9XQ",
+        "Icon": "N/A",
         "Redirect": "https://qqwfd.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://qqwfd.com"

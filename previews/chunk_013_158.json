@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://sweco-assetsmanagement-ltd.com",
-        "Heading": "Account Suspended",
-        "Abstract": null,
-        "Official Site": "https://sweco-assetsmanagement-ltd.com",
-        "Icon": "N/A",
-        "Redirect": "https://sweco-assetsmanagement-ltd.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sweco-assetsmanagement-ltd.com"
-    },
-    {
         "link": "https://nosmay.com",
         "Heading": "Home - Nosmay Enterprise Solutions",
         "Abstract": "",
@@ -70,14 +60,14 @@
         "AbstractURL": "https://syka-online.xyz"
     },
     {
-        "link": "https://telete.in",
-        "Heading": "telete.in",
-        "Abstract": null,
-        "Official Site": "https://telete.in",
-        "Icon": "N/A",
-        "Redirect": "https://telete.in",
+        "link": "https://caliu.cat",
+        "Heading": "Caliu",
+        "Abstract": "P\u00e0gina web de l'Associaci\u00f3 d'Usuaris i Usu\u00e0ries de GNU/Linux en Llengua Catalana (CALIU).",
+        "Official Site": "https://www.caliu.cat/",
+        "Icon": "https://www.caliu.cat/images/thumbnail.png",
+        "Redirect": "https://www.caliu.cat/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://telete.in"
+        "AbstractURL": "https://www.caliu.cat/"
     },
     {
         "link": "https://etalkingonline.com",
@@ -100,16 +90,6 @@
         "AbstractURL": "https://jonnywalker.net"
     },
     {
-        "link": "https://jssmadison.org",
-        "Heading": "Jewish Social Services - JSS of Madison",
-        "Abstract": "Discover Jewish Social Services' community support programs. Join us to build a stronger community!",
-        "Official Site": "https://jssmadison.org",
-        "Icon": "https://jssmadison.org/wp-content/uploads/2017/01/cropped-square-32x32.png",
-        "Redirect": "https://jssmadison.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jssmadison.org"
-    },
-    {
         "link": "https://boginmunns.com",
         "Heading": "Florida Personal Injury Lawyers and Full Service Firm | Bogin, Munns & Munns",
         "Abstract": "Bogin, Munns & Munns is a full service law firm in Orlando representing clients with offices throughout Florida. We have attorneys ready to assist you.",
@@ -128,16 +108,6 @@
         "Redirect": "https://igrovieavtomati-best.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://igrovieavtomati-best.xyz"
-    },
-    {
-        "link": "https://museumofnonvisibleart.com",
-        "Heading": "Museum of Non-visible Art \u2013 A place where ideas alone are hung on walls.",
-        "Abstract": null,
-        "Official Site": "https://museumofnonvisibleart.com",
-        "Icon": "https://museumofnonvisibleart.com/wp-content/uploads/2016/09/favicon.png",
-        "Redirect": "https://museumofnonvisibleart.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://museumofnonvisibleart.com"
     },
     {
         "link": "https://algenist.com",
@@ -200,26 +170,6 @@
         "AbstractURL": "https://dlapiperintelligence.com"
     },
     {
-        "link": "https://eyesimple.us",
-        "Heading": "Eyesimple Enterprise Solutions - Homepage",
-        "Abstract": "Eyesimple Enterprise Solutions. by PT Cakrawala Utama Kreasi Indonesia.",
-        "Official Site": "https://eyesimple.us",
-        "Icon": "https://eyesimple.us/img/logo.png",
-        "Redirect": "https://eyesimple.us",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eyesimple.us"
-    },
-    {
-        "link": "https://nestliehk.com",
-        "Heading": "www.nestliehk.com \u5bb6\u5bb6\u6a02 \u2013 \u5bb6\u5bb6\u6a02 Nestlie  \u9999\u6e2f\u7269\u696d\u653e\u76e4\u5e73\u53f0",
-        "Abstract": null,
-        "Official Site": "https://nestliehk.com",
-        "Icon": "https://nestliehk.com/wp-content/uploads/2021/11/logo0066.png",
-        "Redirect": "https://nestliehk.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nestliehk.com"
-    },
-    {
         "link": "https://polskiekasynohex.org",
         "Heading": "Polskie Kasyno Internetowe 2026 \u1409 Ranking kasyn dla Polak\u00f3w",
         "Abstract": "Znajd\u017a najlepsze polskie kasyno online w 2026! Sprawd\u017a ranking CasinoHEX \u2013 recenzje, opinie graczy, bonusy i gry. Wybierz swoje kasyno internetowe ju\u017c dzi\u015b!",
@@ -228,5 +178,15 @@
         "Redirect": "https://polskiekasynohex.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://polskiekasynohex.org"
+    },
+    {
+        "link": "https://binarywealthplatform.com",
+        "Heading": "BinaryWealth | Professional Bitcoin Investment Platform",
+        "Abstract": "Fully insured Bitcoin investment platform. Professional portfolio management, weekly returns, zero hidden fees. Start your journey today.",
+        "Official Site": "https://binarywealthplatform.com",
+        "Icon": "/images/favicon.svg",
+        "Redirect": "https://binarywealthplatform.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://binarywealthplatform.com"
     }
 ]

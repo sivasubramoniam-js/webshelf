@@ -211,13 +211,13 @@
     },
     {
         "link": "https://evonexus.org",
-        "Heading": "Homepage - EvoNexus",
-        "Abstract": "Turn Transformative Ideas Into Fundable, Commercially-Viable Companies EvoNexus Graduate Biolinq Achieves FDA De Novo Classification for Needle-Free, Autonomous Wearable Biosensor EvoNexus portfolio company graduate Biolinq has received FDA De Novo authorization for its Shine\u2122 device, creating a new category for autonomous wearable biosensors. In a new MedTech Dive feature, co-founder Jared Tangney reveals what's next:",
-        "Official Site": "https://evonexus.org/",
-        "Icon": "https://evonexus.org/wp-content/uploads/2021/06/icon_color-01.svg",
-        "Redirect": "https://evonexus.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://evonexus.org",
+        "Icon": "data:;",
+        "Redirect": "https://evonexus.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://evonexus.org/"
+        "AbstractURL": "https://evonexus.org"
     },
     {
         "link": "https://hotelcannes.info",
@@ -228,6 +228,16 @@
         "Redirect": "https://hotelcannes.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hotelcannes.info"
+    },
+    {
+        "link": "https://hunterinportugal.com",
+        "Heading": "Hunter Boots Portugal | Galochas e Botas | Site Oficial",
+        "Abstract": "Descobre a nova cole\u00e7\u00e3o de Galochas e Botas Hunter para mulher, homem e crian\u00e7a. Vasta sele\u00e7\u00e3o \u2713 Distribuidor oficial \u2713 Entrega gr\u00e1tis \u2713 Devolu\u00e7\u00f5es gratuitas.",
+        "Official Site": "https://www.hunterinportugal.com/",
+        "Icon": "https://www.hunterinportugal.com/wp-content/uploads/2025/11/tall_boot.jpg",
+        "Redirect": "https://www.hunterinportugal.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hunterinportugal.com/"
     },
     {
         "link": "https://inilexgpsfleet.com",
@@ -248,16 +258,6 @@
         "Redirect": "https://www.jbros.co.kr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.jbros.co.kr/"
-    },
-    {
-        "link": "https://jmbmodels.com",
-        "Heading": "JMBmodels | Buying scale models online",
-        "Abstract": "JMBmodels \u2714\ufe0fOnline buy scale models \u2714\ufe0f Available in 3 work days",
-        "Official Site": "https://jmbmodels.com/",
-        "Icon": "https://jmbmodels.com/wp-content/uploads/2023/08/favicon.png",
-        "Redirect": "https://jmbmodels.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jmbmodels.com/"
     },
     {
         "link": "https://lokalnytmiddelfart.dk",
