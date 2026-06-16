@@ -100,6 +100,16 @@
         "AbstractURL": "https://myhugenaturals.com"
     },
     {
+        "link": "https://mylisting365.co.uk",
+        "Heading": "Find Property for Sale & Rent | House Prices, and Estate Agents in UK - Mylistings365",
+        "Abstract": "Search for residential and commercial property for sale and rent with the UK's leading property finder. Find houses, flats, apartment to rent, and see house prices for paid and current property values in United Kingdom.",
+        "Official Site": "https://mylisting365.co.uk",
+        "Icon": "assets/img/favicon.png",
+        "Redirect": "https://mylisting365.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mylisting365.co.uk"
+    },
+    {
         "link": "https://myscoutshop.org",
         "Heading": "Scouting America Official Store",
         "Abstract": "The Official Store for Scouting America Official Store!",
@@ -150,16 +160,6 @@
         "AbstractURL": "https://www.newmoonski.com"
     },
     {
-        "link": "https://ngehex.cyou",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ngehex.cyou",
-        "Icon": "N/A",
-        "Redirect": "https://ngehex.cyou",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ngehex.cyou"
-    },
-    {
         "link": "https://nicoka.com",
         "Heading": "Logiciels ATS CRM SIRH pour le recrutement | NICOKA",
         "Abstract": "Nicoka, logiciel SaaS tout-en-un (ATS, CRM, SIRH, ERP, facturation) pour cabinets de recrutement, de conseil et soci\u00e9t\u00e9s de services. Con\u00e7u et h\u00e9berg\u00e9 en France.",
@@ -168,6 +168,16 @@
         "Redirect": "/",
         "AbstractSource": "BS4",
         "AbstractURL": "/"
+    },
+    {
+        "link": "https://novafox.co.uk",
+        "Heading": "NovaFox Ltd - NovaFox Hydra and other specialist solutions for the circular economy. Market leading Network Erasure products.",
+        "Abstract": "NovaFox Hydra and other specialist solutions for the circular economy. Market leading Network Erasure products.",
+        "Official Site": "https://novafox.co.uk/",
+        "Icon": "https://novafox.co.uk/wp-content/uploads/2024/07/cropped-favicon-32x32.png",
+        "Redirect": "https://novafox.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://novafox.co.uk/"
     },
     {
         "link": "https://oconchemicals.ie",
@@ -230,16 +240,6 @@
         "AbstractURL": "https://www.postads.ph/"
     },
     {
-        "link": "https://pozdravlenie.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://pozdravlenie.net",
-        "Icon": "N/A",
-        "Redirect": "https://pozdravlenie.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pozdravlenie.net"
-    },
-    {
         "link": "https://premiumplc.com",
         "Heading": "PremiumPLC",
         "Abstract": "PremiumPLC",
@@ -248,15 +248,5 @@
         "Redirect": "https://premiumplc.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://premiumplc.com/"
-    },
-    {
-        "link": "https://qinghuan.com",
-        "Heading": "\u6e05\u73af\u7f51",
-        "Abstract": "\u6e05\u73af\u7f51",
-        "Official Site": "https://qinghuan.com",
-        "Icon": "https://www.qinghuan.com/favicon.ico",
-        "Redirect": "https://qinghuan.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://qinghuan.com"
     }
 ]

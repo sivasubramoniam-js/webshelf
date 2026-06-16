@@ -50,16 +50,6 @@
         "AbstractURL": "https://ren-finthra.net/"
     },
     {
-        "link": "https://wanielik.net",
-        "Heading": "Mealie",
-        "Abstract": "Mealie is a recipe management app for your kitchen.",
-        "Official Site": "https://wanielik.net",
-        "Icon": "https://raw.githubusercontent.com/mealie-recipes/mealie/9571816ac4eed5beacfc0abf6c03eff1427fd0eb/frontend/static/icons/android-chrome-512x512.png",
-        "Redirect": "https://wanielik.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wanielik.net"
-    },
-    {
         "link": "https://mysterymod.net",
         "Heading": "Login To Manage Your Mail Domains & Accounts",
         "Abstract": null,
@@ -251,10 +241,10 @@
     },
     {
         "link": "https://mdxczx.com",
-        "Heading": "\u5b81\u5fb7\u4e61\u6751\u4ea7\u4e1a\u79d1\u6280\u53d1\u5c55\u6709\u9650\u516c\u53f8",
+        "Heading": "\u6570\u5b57\u4e61\u6751\u670d\u52a1\u5e73\u53f0",
         "Abstract": null,
         "Official Site": "https://mdxczx.com",
-        "Icon": "/logo.png",
+        "Icon": "./vite.svg",
         "Redirect": "https://mdxczx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mdxczx.com"

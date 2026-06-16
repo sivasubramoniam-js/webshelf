@@ -100,16 +100,6 @@
         "AbstractURL": "https://adroithost.com"
     },
     {
-        "link": "https://hc-molot.ru",
-        "Heading": "\u0425\u041a \u041c\u043e\u043b\u043e\u0442",
-        "Abstract": "\u0425\u041a \u041c\u043e\u043b\u043e\u0442",
-        "Official Site": "https://hc-molot.ru",
-        "Icon": "N/A",
-        "Redirect": "https://hc-molot.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hc-molot.ru"
-    },
-    {
         "link": "https://complemento.net.br",
         "Heading": "ligerosmart-ai",
         "Abstract": null,
@@ -208,6 +198,16 @@
         "Redirect": "https://foxboroughma.gov/home",
         "AbstractSource": "BS4",
         "AbstractURL": "https://foxboroughma.gov/home"
+    },
+    {
+        "link": "https://raioam.com",
+        "Heading": "RAY ALLEN - Enterprise Technology Management Solution.",
+        "Abstract": "Revolutionizing IT Asset Management with innovative solutions, data-driven strategies, and global reach. Transforming confusion into clarity for businesses worldwide.",
+        "Official Site": "https://www.rayalleninc.com",
+        "Icon": "https://www.rayalleninc.com/hubfs/Website%20Featured%20Image/Featured%20Image_About.png",
+        "Redirect": "https://www.rayalleninc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rayalleninc.com"
     },
     {
         "link": "https://canvas8.com",

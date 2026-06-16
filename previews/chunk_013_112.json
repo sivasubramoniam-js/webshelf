@@ -90,16 +90,6 @@
         "AbstractURL": "https://dfact.xyz"
     },
     {
-        "link": "https://woozulu.de",
-        "Heading": "woozulu | Online-Marketing aus echter Praxiserfahrung",
-        "Abstract": "woozulu hilft lokalen Unternehmen online sichtbar zu werden. Website-Erstellung, SEO & strategische Beratung.",
-        "Official Site": "https://woozulu.de",
-        "Icon": "https://www.woozulu.de/og-woozulu.webp",
-        "Redirect": "https://woozulu.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://woozulu.de"
-    },
-    {
         "link": "https://like-sl.xyz",
         "Heading": null,
         "Abstract": null,
@@ -128,16 +118,6 @@
         "Redirect": "https://eldoradosfun.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eldoradosfun.xyz"
-    },
-    {
-        "link": "https://ic-energostroy.ru",
-        "Heading": "\u042d\u043d\u0435\u0440\u0433\u043e\u0441\u0442\u0440\u043e\u0439",
-        "Abstract": null,
-        "Official Site": "https://ic-energostroy.ru",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://ic-energostroy.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ic-energostroy.ru"
     },
     {
         "link": "https://disruptorleague.com",
@@ -198,6 +178,26 @@
         "Redirect": "https://aonewine.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aonewine.com"
+    },
+    {
+        "link": "https://asianfilmfestivals.com",
+        "Heading": "Asian Film Festivals | Connecting Asian Film Festivals to the World",
+        "Abstract": "Connecting Asian Film Festivals to the World",
+        "Official Site": "https://asianfilmfestivals.com/",
+        "Icon": "https://secure.gravatar.com/blavatar/96bc9cc8a70c70551d0abc154c91a49953954633c380451847b4fa8c30f465cd?s=200&ts=1781585357",
+        "Redirect": "https://asianfilmfestivals.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://asianfilmfestivals.com/"
+    },
+    {
+        "link": "https://connectedhomeip.com",
+        "Heading": "CSA - Matter, Zigbee & Aliro - Connectivity Standards Alliance",
+        "Abstract": "Building the foundation and future of the IoT. Discover how the CSA creates and certifies open, interoperable smart standards like Matter, Zigbee, and Aliro.",
+        "Official Site": "https://csa-iot.org/",
+        "Icon": "https://csa-iot.org/wp-content/uploads/2025/03/home-hero-superconnector-draft-1-1.png",
+        "Redirect": "https://csa-iot.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://csa-iot.org/"
     },
     {
         "link": "https://bnbarchery.com",

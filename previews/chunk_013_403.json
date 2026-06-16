@@ -34,7 +34,7 @@
         "Heading": "Kvalitn\u00ed dom\u00e1c\u00ed kino je \u017eivotn\u00ed styl | Blu-shop.cz",
         "Abstract": "Dom\u00e1c\u00ed kino jako lifestyle \u2705 A/V technika \u2705 Tis\u00edce film\u016f na 4k Ultra HD, Blu-ray i DVD skladem \u2705 Merchandising a filmov\u00e9 d\u00e1rky \u2705 Nejv\u011bt\u0161\u00ed experti oboru",
         "Official Site": "https://www.blu-shop.cz/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.blu-shop.cz/user/logos/blushopnewlogo.png?t=1781515876",
+        "Icon": "https://cdn.myshoptet.com/usr/www.blu-shop.cz/user/logos/blushopnewlogo.png?t=1781602048",
         "Redirect": "https://www.blu-shop.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.blu-shop.cz/"
@@ -150,6 +150,16 @@
         "AbstractURL": "https://www.bravalingerie.com.au/"
     },
     {
+        "link": "https://brekkesport.no",
+        "Heading": null,
+        "Abstract": "Brekke Sport er den lokale faghandleren for alle, i Arendal og p\u00e5 nett. Vi er spesialister p\u00e5 blant annet sykkel, ski, sko, kl\u00e6r og klubb.",
+        "Official Site": "https://brekkesport.no",
+        "Icon": "N/A",
+        "Redirect": "https://brekkesport.no",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://brekkesport.no"
+    },
+    {
         "link": "https://bridgemoscow.ru",
         "Heading": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f \u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0411\u0440\u0438\u0434\u0436\u0430",
         "Abstract": null,
@@ -250,16 +260,6 @@
         "AbstractURL": "https://bysofiesoenderby.dk/"
     },
     {
-        "link": "https://calounictvi-kralik.cz",
-        "Heading": "N\u00e1bytek a \u010dalounictv\u00ed Kr\u00e1l\u00edk",
-        "Abstract": "\u010caloun\u011bn\u00e9 postele \u010desk\u00e9 v\u00fdroby. Prodej v\u00e1lend, rozkl\u00e1dac\u00edch pohovek, rozkl\u00e1dac\u00edch k\u0159esel a dal\u0161\u00edho zbo\u017e\u00ed.",
-        "Official Site": "https://calounictvi-kralik.cz",
-        "Icon": "favicon/favicon-96x96.png",
-        "Redirect": "https://calounictvi-kralik.cz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://calounictvi-kralik.cz"
-    },
-    {
         "link": "https://canadiansafetysupplies.com",
         "Heading": "Canadian Safety Supplies - First Aid Kits. AEDs, CPR, & Emergency",
         "Abstract": "Shop Canadian Safety Supplies for high-quality first aid kits, AEDs, CPR training gear, and emergency supplies. Trusted nationwide for workplace safety and compliance.",
@@ -341,8 +341,8 @@
     },
     {
         "link": "https://celalgultekin.com.tr",
-        "Heading": "\n\tDeri Ayakkab\u0131 Kad\u0131n Erkek ve \u00c7ocuk Modelleri | CELAL G\u00dcLTEK\u0130N\n",
-        "Abstract": "Deri Ayakkab\u0131, Mont, \u00c7anta, Kemer, C\u00fczdan modelleri Celal G\u00fcltekin'de! % 60 'a varan indirimli modelleri incelemek ve uygun fiyatlarla sat\u0131n almak i\u00e7in t\u0131klay\u0131n! De\u011fi\u015fim ve iade garantili.",
+        "Heading": "\n\tKad\u0131n, Erkek ve \u00c7ocuk Deri Ayakkab\u0131lar | Celal G\u00fcltekin\n",
+        "Abstract": "Birbirinden \u015f\u0131k Erkek Kad\u0131n ve \u00c7ocuk Deri Ayakkab\u0131, \u00c7anta, Kemer, C\u00fczdan modelleri Celal G\u00fcltekin'de! \u0130ndirimli modelleri incelemek ve uygun fiyatlarla sat\u0131n almak i\u00e7in t\u0131klay\u0131n!",
         "Official Site": "https://www.celalgultekin.com.tr",
         "Icon": "/Uploads/Images/favicon.ico",
         "Redirect": "https://www.celalgultekin.com.tr",

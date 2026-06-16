@@ -70,14 +70,14 @@
         "AbstractURL": "https://collectiveminds.health"
     },
     {
-        "link": "https://comparus.co.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://comparus.co.uk",
-        "Icon": "N/A",
-        "Redirect": "https://comparus.co.uk",
+        "link": "https://courchevelvillas.com",
+        "Heading": "Luxury Courchevel Villa Rentals | Alpine Villas in the French Alps",
+        "Abstract": "Discover exquisite villa rentals in Courchevel, nestled in the French Alps. Perfect for ski seasons or summer escapes, enjoy unmatched comfort, privacy, and breathtaking mountain views.",
+        "Official Site": "https://courchevelvillas.com/",
+        "Icon": "https://cdn.123presto.com/prod/published/courchevelvillas/home.jpg",
+        "Redirect": "https://courchevelvillas.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://comparus.co.uk"
+        "AbstractURL": "https://courchevelvillas.com/"
     },
     {
         "link": "https://cravenow24.com",
@@ -98,6 +98,16 @@
         "Redirect": "https://www.silvercreekdesignshowroom.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.silvercreekdesignshowroom.com/"
+    },
+    {
+        "link": "https://cuevana123.co",
+        "Heading": "cuevana123.co",
+        "Abstract": null,
+        "Official Site": "https://cuevana123.co",
+        "Icon": "N/A",
+        "Redirect": "https://cuevana123.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cuevana123.co"
     },
     {
         "link": "https://cvrcovice.eu",
@@ -121,8 +131,8 @@
     },
     {
         "link": "https://dazcohost.com",
-        "Heading": "DazcoHost | Minecraft, FiveM, VPS & Dedicated Servers, Game Server Hosting",
-        "Abstract": "High-performance game server hosting with instant setup, DDoS protection, and ultra-low latency. Minecraft, FiveM, VPS and dedicated servers.",
+        "Heading": "DazcoHost | Best MENA & Gulf Game Server Hosting | Minecraft, FiveM & Dedicated Servers",
+        "Abstract": "High-performance MENA game server hosting with ultra-low latency. Top-tier Middle East hosting for Minecraft, FiveM, and Dedicated servers.",
         "Official Site": "https://dazcohost.com/",
         "Icon": "https://dazcohost.com/assets/images/background/hero.png",
         "Redirect": "https://dazcohost.com/",

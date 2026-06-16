@@ -130,11 +130,21 @@
         "AbstractURL": "https://ads-forum.com"
     },
     {
+        "link": "https://advokat.at",
+        "Heading": "ADVOKAT \u2013 Software f\u00fcr Rechtsanw\u00e4lte",
+        "Abstract": "ADVOKAT, Software f\u00fcr Rechtsanw\u00e4lte",
+        "Official Site": "https://advokat.at/",
+        "Icon": "https://advokat.at/wp-content/uploads/2022/03/Logo_200.jpg",
+        "Redirect": "https://advokat.at/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://advokat.at/"
+    },
+    {
         "link": "https://aegisvoip.io",
         "Heading": "Home",
         "Abstract": "Secure\n",
         "Official Site": "https://www.aegisvoip.com/",
-        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUC205Bkh1llsgslfJXEkM6l08y_r60Lfg1Eox62XMS-qstY3JLBnfyhBWj1PcDYEu51drwOLW9HapMXeJEC5ZuJycaGlrlgKChhpeDjLps0rGKiNPML9Vqdr8j0vOK3dPYNn2yS04h4rDJbYwB1f367KLx9MfCfHV5AykOZASQp1rEroYRsT8_Rpkt6bsU=w1280",
+        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUAdo0IZbPezlM_kew6iaUBjWyQr186tB6s6Sa4ZpRYHMMckR6McU_XMywh3CWWfJFuE4kIPVu_cnY9fRxfHNCGvcyb2OBbYDCjxj2jIpPd0nsPEmY9XM0VMTFgH5yNWssNPs25FCjFD1b0eYB73N3tiiiyMD0m4b-cH-FGNsO2QUn0MkQB7jMCLiUg4sxQ=w1280",
         "Redirect": "https://www.aegisvoip.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.aegisvoip.com/"
@@ -178,6 +188,16 @@
         "Redirect": "https://aiwah.pk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aiwah.pk/"
+    },
+    {
+        "link": "https://aizaiyuedu.com",
+        "Heading": "\u7231\u5728\u9605\u8bfb\u7ed8\u672c\u9986",
+        "Abstract": "\u5e7c\u513f\u56ed\u7ed8\u672c\u9986\u5efa\u8bbe\u3001\u7ed8\u672c\u56fe\u4e66\u6279\u53d1\u96f6\u552e\u3001\u8f6f\u4ef6\u5f00\u53d1\u3001\u7ed8\u672c\u9986\u52a0\u76df\u3001\u56fe\u4e66\u501f\u9605\u7cfb\u7edf\u7b49\u7efc\u5408\u9605\u8bfb\u670d\u52a1\u5546\u3002",
+        "Official Site": "https://aizaiyuedu.com",
+        "Icon": "N/A",
+        "Redirect": "https://aizaiyuedu.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aizaiyuedu.com"
     },
     {
         "link": "https://akai-electronics.it",

@@ -70,6 +70,16 @@
         "AbstractURL": "https://igro24.de"
     },
     {
+        "link": "https://ims-evolve.com",
+        "Heading": "IMS Evolve - Transformative IoT Solutions",
+        "Abstract": "IMS Evolve - Transformative IoT Solutions",
+        "Official Site": "https://ims-evolve.com",
+        "Icon": "https://www.ims-evolve.com/favicon.png",
+        "Redirect": "https://ims-evolve.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ims-evolve.com"
+    },
+    {
         "link": "https://imsharecenter.com",
         "Heading": "InformaMarkets\u8d44\u6e90\u4e2d\u5fc3",
         "Abstract": null,
@@ -90,16 +100,6 @@
         "AbstractURL": "https://incentive.me"
     },
     {
-        "link": "https://indifocus.kr",
-        "Heading": "\uc778\ub514\ud3ec\ucee4\uc2a4",
-        "Abstract": "\uc815\uce58,\uacbd\uc81c,\uc0ac\ud68c,\ubb38\ud654,\uad6d\uc81c,\uc5f0\uc608,\uc2a4\ud3ec\uce20,\ud658\uacbd,\uc9c0\uc5ed\uc18c\uc2dd,\uc778\ub514\ud3ec\ucee4\uc2a4",
-        "Official Site": "http://www.indifocus.kr",
-        "Icon": "http://f.xza.co.kr/http://www.indifocus.kr/data/jmbc_tv/upload/sns_thumbnail.jpg?wd=1617071481",
-        "Redirect": "http://www.indifocus.kr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://www.indifocus.kr"
-    },
-    {
         "link": "https://industrialgeneralstore.com",
         "Heading": "3M Industrial Products > Industrial General Store",
         "Abstract": "CLICK ON ANY ITEM FOR A CATEGORY SEARCH",
@@ -108,6 +108,16 @@
         "Redirect": "https://www.industrialgeneralstore.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.industrialgeneralstore.com/"
+    },
+    {
+        "link": "https://info-actu.net",
+        "Heading": "info-actu",
+        "Abstract": null,
+        "Official Site": "https://info-actu.net",
+        "Icon": "https://www.info-actu.net/wp-content/uploads/2014/08/30300_18705_ca259f87-9a1f-4301-a962-a2dc0ba02321.gif",
+        "Redirect": "https://info-actu.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://info-actu.net"
     },
     {
         "link": "https://info-lux.com",
@@ -290,16 +300,6 @@
         "AbstractURL": "https://jfi.cz"
     },
     {
-        "link": "https://jisuan5.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://jisuan5.com",
-        "Icon": "data:image/x-icon;,",
-        "Redirect": "https://jisuan5.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jisuan5.com"
-    },
-    {
         "link": "https://jjggbizkaia.eus",
         "Heading": "Hasierea - Bizkaiko Batzar Nagusiak",
         "Abstract": null,
@@ -318,15 +318,5 @@
         "Redirect": "https://jlc-smt.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jlc-smt.com"
-    },
-    {
-        "link": "https://jobs-bayreuth.de",
-        "Heading": "Stellenangebote Bayreuth - Ihre aktuelle Jobb\u00f6rse f\u00fcr Bayreuth und Umgebung",
-        "Abstract": "T\u00e4glich aktuelle und neue Stellenangebote f\u00fcr die Region Bayreuth. Finden Sie aus 6.016 passenden Jobs in Bayreuth und Umgebung, Ihre neue Stelle. Ihre regionale Jobb\u00f6rse jobs-bayreuth.de | 2026",
-        "Official Site": "https://jobs-bayreuth.de",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://jobs-bayreuth.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jobs-bayreuth.de"
     }
 ]

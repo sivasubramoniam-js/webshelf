@@ -92,7 +92,7 @@
     {
         "link": "https://videoaktiv.tv",
         "Heading": "VIDEOAKTIV",
-        "Abstract": "VIDEOAKTIV - die Plattform f\u00fcr Filmschaffende.\nAktuelle News und Tests zu Kameras, Audio, Beleuchung und anderem Zubeh\u00f6r.\nDar\u00fcber hinaus testen wir Schnittprogramme und weitere Software.",
+        "Abstract": null,
         "Official Site": "https://videoaktiv.tv",
         "Icon": "/images/VA/favicon.png",
         "Redirect": "https://videoaktiv.tv",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://wildserengetiquest.com"
     },
     {
+        "link": "https://gbhomecollection.com",
+        "Heading": "Home decor products including curtain rod brackets - 1337nih",
+        "Abstract": "GB Home Collection showcases home d\u00e9cor products including curtain rod brackets , hanging curtains, wall art, candlestick holder, and other home d\u00e9cor products at an affordable price",
+        "Official Site": "https://gbhomecollection.com/",
+        "Icon": "https://gbhomecollection.com/wp-content/uploads/2019/10/cropped-favicon-32x32.png",
+        "Redirect": "https://gbhomecollection.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gbhomecollection.com/"
+    },
+    {
         "link": "https://wellnessheadlines.com",
         "Heading": null,
         "Abstract": null,
@@ -220,16 +230,6 @@
         "AbstractURL": "https://www.accordiondoorstore.com/"
     },
     {
-        "link": "https://findandgoseek.net",
-        "Heading": "Family Activities in Vermont \u2014 Find & Go Seek",
-        "Abstract": "Your essential guide to family-oriented activities, events and educational opportunities in Vermont. Plan your next family day out with FindandGoSeek!",
-        "Official Site": "https://findandgoseek.net/",
-        "Icon": "/images/favicons/favicon-32x32.png",
-        "Redirect": "https://findandgoseek.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://findandgoseek.net/"
-    },
-    {
         "link": "https://llresearch.org",
         "Heading": "Home of the Law of One material - L/L Research",
         "Abstract": "Home of The Law of One material, L/L Research is a non-profit organization dedicated to discovering and sharing information to aid in the spiritual evolution of humankind.",
@@ -251,12 +251,12 @@
     },
     {
         "link": "https://andreasrecipes.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://andreasrecipes.com",
-        "Icon": "data:;",
-        "Redirect": "https://andreasrecipes.com",
+        "Heading": "Making Life Delicious - Making Life Delicious",
+        "Abstract": "Making Life Delicious with Andrea Meyers is a blog about food, cooking, baking, gardening, and learning how to do new things.",
+        "Official Site": "https://andreasrecipes.com/",
+        "Icon": "https://andreasrecipes.com/wp-content/uploads/2024/05/cropped-MLD_RETINA_LOGO_2024.png",
+        "Redirect": "https://andreasrecipes.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://andreasrecipes.com"
+        "AbstractURL": "https://andreasrecipes.com/"
     }
 ]

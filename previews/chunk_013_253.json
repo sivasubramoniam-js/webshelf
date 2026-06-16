@@ -100,16 +100,6 @@
         "AbstractURL": "https://www.techfirm.co.jp"
     },
     {
-        "link": "https://janus-consultants.de",
-        "Heading": "Janus Consultants - Studentische Unternehmensberatung",
-        "Abstract": "Janus Consultants ist die studentische Unternehmensberatung der Leibniz Universit\u00e4t Hannover und den Hochschulen der Region.",
-        "Official Site": "https://janus-consultants.de/",
-        "Icon": "https://janus-consultants.de/wp-content/uploads/2023/02/Janus_Lockup_SparklingBlue_RGB.png",
-        "Redirect": "https://janus-consultants.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://janus-consultants.de/"
-    },
-    {
         "link": "https://vladivostok-eparhia.ru",
         "Heading": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a\u0441\u043a\u0430\u044f \u0435\u043f\u0430\u0440\u0445\u0438\u044f \u0420\u0443\u0441\u0441\u043a\u043e\u0439 \u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u043e\u0439 \u0426\u0435\u0440\u043a\u0432\u0438",
         "Abstract": "",
@@ -138,6 +128,16 @@
         "Redirect": "https://www.serviceleaguegb.com/service_league_home/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.serviceleaguegb.com/service_league_home/"
+    },
+    {
+        "link": "https://freeaccess.de",
+        "Heading": "freeaccess - MS Access Support, Datenbankentwicklung und dynamische Webanwendungen",
+        "Abstract": "MS Access Datenbankentwicklung und Softwareentwicklung, Support und Hilfe: FAQ, Links, Forum, downloads zu MS Access",
+        "Official Site": "https://freeaccess.de",
+        "Icon": "N/A",
+        "Redirect": "https://freeaccess.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://freeaccess.de"
     },
     {
         "link": "https://ochphilxvertex.live",

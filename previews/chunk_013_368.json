@@ -42,12 +42,22 @@
     {
         "link": "https://intelly-search.com",
         "Heading": "Search - Microsoft Bing",
-        "Abstract": "These mountains were shaped over time\u2014and June 15,",
-        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260615_0700&mkt=en-US",
-        "Icon": "https://www.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_tmb.jpg&rf=",
-        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260615_0700&mkt=en-US",
+        "Abstract": "Sea Turtle Day highlights some of the ocean's most",
+        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260616_0700&mkt=en-US",
+        "Icon": "https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_tmb.jpg&rf=",
+        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260616_0700&mkt=en-US",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260615_0700&mkt=en-US"
+        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260616_0700&mkt=en-US"
+    },
+    {
+        "link": "https://shareresearch.us",
+        "Heading": "Reviews Consumer Reports \u2014 Tested. Rated. Reported.",
+        "Abstract": "Find trusted product ratings and unbiased consumer insights at Reviews Consumer Reports. Make confident shopping decisions with expert reviews.",
+        "Official Site": "https://reviewsconsumerreports.com/",
+        "Icon": "https://reviewsconsumerreports.com/wp-content/uploads/2025/12/icon-150x150.png",
+        "Redirect": "https://reviewsconsumerreports.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://reviewsconsumerreports.com/"
     },
     {
         "link": "https://sormlandsmuseum.se",
@@ -74,7 +84,7 @@
         "Heading": "How to Become a Teacher | Online Teacher Certification",
         "Abstract": "Learn how to become a teacher with American Board's online certification programs. Start your teaching career without debt. Try free for 7 days!",
         "Official Site": "https://www.americanboard.org/",
-        "Icon": "https://www.americanboard.org/wp/wp-content/uploads/2017/03/apple_fav_16.jpg?x41857",
+        "Icon": "https://www.americanboard.org/wp/wp-content/uploads/2017/03/apple_fav_16.jpg?x31061",
         "Redirect": "https://www.americanboard.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.americanboard.org/"
@@ -208,6 +218,16 @@
         "Redirect": "https://juzph.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://juzph.cn"
+    },
+    {
+        "link": "https://onlinecomplianceexperts.com",
+        "Heading": " Compliance Trainings and Seminars for all the Industries - OnlineComplianceExperts.com ",
+        "Abstract": "OnlineComplianceExperts, the ultimate continuing professional education provider offers you regulatory and compliance trainings from the industry,s leading experts.",
+        "Official Site": "https://onlinecomplianceexperts.com",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://onlinecomplianceexperts.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onlinecomplianceexperts.com"
     },
     {
         "link": "https://fake-pdf.com",

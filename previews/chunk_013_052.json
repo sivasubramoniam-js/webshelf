@@ -90,16 +90,6 @@
         "AbstractURL": "https://furnituregold.co.uk/"
     },
     {
-        "link": "https://futmal.pl",
-        "Heading": "Futbol-Ma\u0142opolska / Futmal.pl",
-        "Abstract": "Futbol-Ma\u0142opolska / Futmal.pl",
-        "Official Site": "https://futmal.pl",
-        "Icon": "/img/cms/favicon.jpg",
-        "Redirect": "https://futmal.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://futmal.pl"
-    },
-    {
         "link": "https://gailsfurniture.com",
         "Heading": "Gails Furniture | Goodyear, AZ",
         "Abstract": "14190 W Van Buren A-103, Goodyear, AZ 85338 At Gail's Furniture, we believe your home should reflect your unique style and personality. We are committed to offering high-quality, stylish furniture that brings comfort and elegance to every room. Our curated selection blends timeless designs with modern trends, ensuring",
@@ -240,6 +230,16 @@
         "AbstractURL": "https://granny-xxxmovies.com"
     },
     {
+        "link": "https://graphicreserve.com",
+        "Heading": "Canva Marketing Templates & Website Kits | GraphicReserve",
+        "Abstract": "Browse 1000+ Canva templates & Elementor website kits for local contractors. Door hangers, EDDM postcards, flyers & more. Instant download.",
+        "Official Site": "https://graphicreserve.com/",
+        "Icon": "https://cdn.graphicreserve.com/wp-content/uploads/2021/09/cropped-graphic-reserve-favicon-2-32x32.png",
+        "Redirect": "https://graphicreserve.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://graphicreserve.com/"
+    },
+    {
         "link": "https://groningenmarkt.nl",
         "Heading": "De gratis Advertentie site van Groningen en omgeving",
         "Abstract": "Lokaal, veilig, gratis advertenties bij jou in de buurt zoals tweedehands en nieuwe artikelen, banen, woningen, dating en meer",
@@ -250,13 +250,13 @@
         "AbstractURL": "https://www.groningenmarkt.nl"
     },
     {
-        "link": "https://grossisteturquie.com",
-        "Heading": "GrossisteTurquie.com | Grossiste Abaya et Grossiste Hijab\n",
-        "Abstract": "Votre source de confiance en tant que grossiste abayas et grossiste hijab de qualit\u00e9. Parcourez notre collection en gros, offrant une vari\u00e9t\u00e9 de designs exquis pour satisfaire vos clients. Devenez le vendeur privil\u00e9gi\u00e9 de mode abaya et hijab avec nos offres de gros",
-        "Official Site": "https://grossisteturquie.com/",
-        "Icon": "http://grossisteturquie.com/cdn/shop/files/grossiste-abaya.jpg?v=1693508682",
-        "Redirect": "https://grossisteturquie.com/",
+        "link": "https://grosvenorprints.com",
+        "Heading": "Grosvenor Prints",
+        "Abstract": null,
+        "Official Site": "https://grosvenorprints.com",
+        "Icon": "N/A",
+        "Redirect": "https://grosvenorprints.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://grossisteturquie.com/"
+        "AbstractURL": "https://grosvenorprints.com"
     }
 ]

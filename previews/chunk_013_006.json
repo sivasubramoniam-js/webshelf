@@ -54,7 +54,7 @@
         "Heading": "Home | Browning Ammunition",
         "Abstract": "Browning Ammunition manufactures ammo for all shooting activities: hunting ammo, shooting, target ammo, and personal defense ammo. Browning offers rifle ammo, shotgun ammo, and handgun ammo.",
         "Official Site": "https://browningammo.com/en",
-        "Icon": "https://browningammo.com/-/media/Project/BrowningAmmo/Social-Images/share-facebook.ashx",
+        "Icon": "https://localhost/-/media/Project/BrowningAmmo/Social-Images/share-facebook.ashx",
         "Redirect": "https://browningammo.com/en",
         "AbstractSource": "BS4",
         "AbstractURL": "https://browningammo.com/en"
@@ -80,16 +80,6 @@
         "AbstractURL": "https://gssp-buende.de"
     },
     {
-        "link": "https://soyol.ru",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://soyol.ru",
-        "Icon": "N/A",
-        "Redirect": "https://soyol.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://soyol.ru"
-    },
-    {
         "link": "https://aavs.org",
         "Heading": "Home - American Anti-Vivisection Society",
         "Abstract": "Ending the use of animals in science through education, advocacy, and the development of alternative methods.",
@@ -112,7 +102,7 @@
     {
         "link": "https://alfredopiedrafita.com",
         "Heading": "Inicio | alfredopiedrafita",
-        "Abstract": "CONTRATACI\u00d3N:606 08 56 16setlist@setlistproducciones.com Pr\u00f3ximos conciertos M\u00e1s fechas e info:\u00a0www.elmejordetusdias.com FECHA LUGAR M\u00c1S INFO 18/04/26 Duran ...",
+        "Abstract": "CONTRATACI\u00d3N:606 08 56 16setlist@setlistproducciones.com Pr\u00f3ximos conciertos M\u00e1s fechas e info:\u00a0www.elmejordetusdias.com FECHA LUGAR M\u00c1S INFO 19/06/26 Segov ...",
         "Official Site": "https://alfredopiedrafita.com",
         "Icon": "https://www.alfredopiedrafita.com/wp-content/uploads/2025/08/cropped-ALFREDO-PIEDRAFITA_Favicon-32x32.png",
         "Redirect": "https://alfredopiedrafita.com",
@@ -248,6 +238,16 @@
         "Redirect": "https://agocfr.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://agocfr.com"
+    },
+    {
+        "link": "https://revistaurbanova.com.br",
+        "Heading": "News - Revista Urbanova",
+        "Abstract": "A Revista Urbanova \u00e9 o \u00fanico ve\u00edculo de comunica\u00e7\u00e3o do bairro e diferencia-se no mercado pela qualidade das reportagens",
+        "Official Site": "https://revistaurbanova.com.br/",
+        "Icon": "https://revistaurbanova.com.br/wp-content/uploads/2021/05/cropped-ICONE-REVISTA-URBANOVA-32x32.png",
+        "Redirect": "https://revistaurbanova.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://revistaurbanova.com.br/"
     },
     {
         "link": "https://fastcows.nl",

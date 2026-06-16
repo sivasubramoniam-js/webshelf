@@ -50,16 +50,6 @@
         "AbstractURL": "https://landmarkcapitallp.com"
     },
     {
-        "link": "https://fastbolt.com",
-        "Heading": "Home - Fastbolt Gruppe",
-        "Abstract": null,
-        "Official Site": "https://www.fastbolt.com/",
-        "Icon": "https://www.fastbolt.com/wp-content/uploads/2018/08/favicon.png",
-        "Redirect": "https://www.fastbolt.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.fastbolt.com/"
-    },
-    {
         "link": "https://campaniartecard.it",
         "Heading": "Home - Artecard",
         "Abstract": "campania>artecard \u00e8 il pass per visitare i musei di Napoli e la Campania e per viaggiare sui trasporti pubblici della rete UnicoCampania",
@@ -138,16 +128,6 @@
         "Redirect": "http://steroidwiki.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://steroidwiki.com/"
-    },
-    {
-        "link": "https://binaryvibesit.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://binaryvibesit.com",
-        "Icon": "N/A",
-        "Redirect": "https://binaryvibesit.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://binaryvibesit.com"
     },
     {
         "link": "https://vaportalk.com",
@@ -278,5 +258,15 @@
         "Redirect": "https://www.smidgeup.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.smidgeup.com/"
+    },
+    {
+        "link": "https://indowebhost.co.id",
+        "Heading": "Home - Penyedia Server Dan Digital Agency Terbaik",
+        "Abstract": "| CLOUD SERVER & DIGITAL AGENCY | Membawa Bisnis ke Puncak Digital dengan Solusi Cloud Terbaik. Indowebhost Tempat Terbaik untuk Solusi Cloud dan Layanan Digital! Selengkapnya | Cloud Server dan Digital Agency Terbaik | Selamat datang di Indowebhost, tempat di mana kecanggihan teknologi dan kreativitas bersatu. Kami adalah penyedia solusi terdepan dalam pengelolaan cloud server \u2026 Continue reading \"Home\"",
+        "Official Site": "https://indowebhost.co.id/home/",
+        "Icon": "https://indowebhost.co.id/wp-content/uploads/2022/09/banner-image-1.png",
+        "Redirect": "https://indowebhost.co.id/home/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://indowebhost.co.id/home/"
     }
 ]

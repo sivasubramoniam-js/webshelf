@@ -40,16 +40,6 @@
         "AbstractURL": "https://webhostingprotocol.com"
     },
     {
-        "link": "https://appgods.website",
-        "Heading": "App Gods Inc. \u2013 The God Of Apps, Websites, & More",
-        "Abstract": null,
-        "Official Site": "https://appgods.website",
-        "Icon": "https://appgods.website/wp-content/uploads/2021/07/cropped-APP-GODS-Inc-32x32.png",
-        "Redirect": "https://appgods.website",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://appgods.website"
-    },
-    {
         "link": "https://whitemane.org",
         "Heading": "Whitemane | Hearth Back Home",
         "Abstract": "Alliance or Horde?! Hearth back home and discover the cult classic MMO and play today for free!",
@@ -118,6 +108,16 @@
         "Redirect": "https://www.sma-sunny.com/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sma-sunny.com/en/"
+    },
+    {
+        "link": "https://sundhedspolitisktidsskrift.dk",
+        "Heading": "Sundhedspolitisk Tidsskrift",
+        "Abstract": "Sundhedspolitisk Tidsskrift giver dig nyheder om sundhedspolitik, nye behandlinger, sundheds\u00f8konomi samt debat om sundhedsproblemer og -politik",
+        "Official Site": "https://sundhedspolitisktidsskrift.dk",
+        "Icon": "/images/favicon.png",
+        "Redirect": "https://sundhedspolitisktidsskrift.dk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sundhedspolitisktidsskrift.dk"
     },
     {
         "link": "https://opavanex.com",

@@ -20,6 +20,16 @@
         "AbstractURL": "https://edise.es"
     },
     {
+        "link": "https://g1box.eu",
+        "Heading": "Twitch",
+        "Abstract": "Hey, hier ist g1box \ud83d\udc7eVariety-Streamer mit nerdigen Vibes, Programmer-Brain und gelegentlichen NULLs.Erwartet Chill und Chaos sowie eine Mischung aus allem dazwischen und au\u00dferhalb.",
+        "Official Site": "https://www.twitch.tv/g1box",
+        "Icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3bd7132-89ee-45c5-ba57-fce42fa7f124-profile_image-300x300.png",
+        "Redirect": "https://www.twitch.tv/g1box",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.twitch.tv/g1box"
+    },
+    {
         "link": "https://aloha-corp.com",
         "Heading": "\uc54c\ub85c\ud558\ud329\ud1a0\ub9ac - AlohaFactory",
         "Abstract": "\uc54c\ub85c\ud558\ud329\ud1a0\ub9ac\ub294 \ub9ce\uc740 \uc0ac\ub78c\ub4e4\uc5d0\uac8c \uc624\ub7ab\ub3d9\uc548 \uae30\uc5b5\ub420 \uac8c\uc784\uc744 \ub9cc\ub4ed\ub2c8\ub2e4.",
@@ -58,16 +68,6 @@
         "Redirect": "https://medien-internet-und-recht.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://medien-internet-und-recht.de"
-    },
-    {
-        "link": "https://beateuhsemovie.com",
-        "Heading": "Beate Uhse Movie",
-        "Abstract": null,
-        "Official Site": "https://beateuhsemovie.com",
-        "Icon": "/favicon-32x32.png",
-        "Redirect": "https://beateuhsemovie.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://beateuhsemovie.com"
     },
     {
         "link": "https://pittsburgusd.net",
@@ -144,7 +144,7 @@
         "Heading": "Home & Kitchen Hardware Store Alsip, IL | Fox Home Center",
         "Abstract": "Fox Home Center located in Alsip, IL is your full service supplier of home hardware including kitchens, bathrooms, bedrooms, & outdoor spaces, stop in today or call to inquire!",
         "Official Site": "https://foxhomecenter.com",
-        "Icon": "/images/favicon.ico?ccid=x7a7ce56f",
+        "Icon": "/images/favicon.ico?ccid=x2266247c",
         "Redirect": "https://foxhomecenter.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://foxhomecenter.com"
@@ -230,14 +230,14 @@
         "AbstractURL": "https://www.ridgelinegaragedoor.com/"
     },
     {
-        "link": "https://caribbeancovewaterpark.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://caribbeancovewaterpark.com",
-        "Icon": "N/A",
-        "Redirect": "https://caribbeancovewaterpark.com",
+        "link": "https://visitthegambia.gm",
+        "Heading": "Holiday - Visit The Gambia",
+        "Abstract": "Welcome to the Gambia, the Smiling Coast of Africa",
+        "Official Site": "https://visitthegambia.com/",
+        "Icon": "https://visitthegambia.com/wp-content/uploads/2017/08/cropped-gambian_tourist_board_logo_300px1-32x32.png",
+        "Redirect": "https://visitthegambia.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://caribbeancovewaterpark.com"
+        "AbstractURL": "https://visitthegambia.com/"
     },
     {
         "link": "https://dynipropips.com",

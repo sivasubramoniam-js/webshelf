@@ -73,11 +73,11 @@
         "link": "https://reactable.com",
         "Heading": "Welcome |Reactable Legacy",
         "Abstract": "The Reactable was conceived and developed in Barcelona by Sergi Jord\u00e0, Martin Kaltenbrunner, G\u00fcnter Geiger and Marcos Alonso.",
-        "Official Site": "http://reactable.com/",
+        "Official Site": "https://reactable.com/",
         "Icon": "http://reactable.com/wp-content/uploads/2015/09/Icono.png",
-        "Redirect": "http://reactable.com/",
+        "Redirect": "https://reactable.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://reactable.com/"
+        "AbstractURL": "https://reactable.com/"
     },
     {
         "link": "https://webclientes.com",
@@ -170,16 +170,6 @@
         "AbstractURL": "https://ojshostng.com"
     },
     {
-        "link": "https://chuguevsky.ru",
-        "Heading": "\u0421\u0430\u0439\u0442 \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0427\u0443\u0433\u0443\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
-        "Abstract": "\u0421\u0430\u0439\u0442 \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0427\u0443\u0433\u0443\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
-        "Official Site": "https://chuguevsky.ru",
-        "Icon": "/bitrix/templates/chmr/favicon2.ico",
-        "Redirect": "https://chuguevsky.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chuguevsky.ru"
-    },
-    {
         "link": "https://txstatebobcats.com",
         "Heading": "\n\tTexas State Athletics - Official Athletics Website\n",
         "Abstract": "The official athletics website for the Texas State University Bobcats",
@@ -198,6 +188,16 @@
         "Redirect": "https://filterwater.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://filterwater.com"
+    },
+    {
+        "link": "https://gracerps.com",
+        "Heading": "Site is undergoing maintenance",
+        "Abstract": "Site will be available soon. Thank you for your patience!",
+        "Official Site": "https://gracerps.com",
+        "Icon": "https://gracerps.com/wp-content/uploads/2024/07/cropped-Grace-logo-32x32.png",
+        "Redirect": "https://gracerps.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gracerps.com"
     },
     {
         "link": "https://yamanosusume.com",

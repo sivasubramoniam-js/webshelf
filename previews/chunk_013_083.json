@@ -132,9 +132,9 @@
     {
         "link": "https://desart.co.kr",
         "Heading": "\ub514\uc7c8\ud2b8 \uac00\uad6c = \ub514\uc790\uc778 + \uc544\ud2b8. \ub514\uc790\uc778\uac00\uad6c\uc758 \ub9ac\ub354",
-        "Abstract": "\ucc28\ubcc4\ud654\ub41c \ub514\uc790\uc778, \ud569\ub9ac\uc801\uc778 \uac00\uaca9\uc758 \uace0\ud488\uc9c8 \ub514\uc790\uc778\uac00\uad6c\ub85c \uace0\uac1d\ub2d8\uc758 \ub77c\uc774\ud504 \uc2a4\ud0c0\uc77c\uc744 \ub514\uc790\uc778\ud574\ub4dc\ub9ac\uaca0\uc2b5\ub2c8\ub2e4.",
+        "Abstract": null,
         "Official Site": "https://www.desart.co.kr",
-        "Icon": "/design/desart1/snsRepresentImage.jpg",
+        "Icon": "/design/desart1/m/snsRepresentImage.jpg",
         "Redirect": "https://www.desart.co.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.desart.co.kr"
@@ -148,16 +148,6 @@
         "Redirect": "https://donaghys.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://donaghys.co.uk/"
-    },
-    {
-        "link": "https://ecofactortech.com",
-        "Heading": "Charging stations and app for electric cars from ECOFACTOR",
-        "Abstract": "App and map of charging stations for electric cars across Ukraine. \u2713 Sales and advice on charging stations for your business \u2713 Connecting the charging station to the ECOFACTOR app",
-        "Official Site": "https://ecofactortech.com/",
-        "Icon": "https://ecofactortech.com/wp-content/uploads/2026/03/ecofactor_1200x800.jpg",
-        "Redirect": "https://ecofactortech.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ecofactortech.com/"
     },
     {
         "link": "https://eiendomsverdi.no",
@@ -234,7 +224,7 @@
         "Heading": "\n        Honest Forwarder     ",
         "Abstract": "Honest Forwarder - ",
         "Official Site": "http://honestforwarder.com",
-        "Icon": "http://honestforwarder.com/uploads/product/betzold-triceratops-naturkautschuk-BYtDGRg9kH16.jpg",
+        "Icon": "http://honestforwarder.com/uploads/product/schleich-r-bayala-r-tiere-4-elemente-set-LRZ1YYbgK123.jpg",
         "Redirect": "http://honestforwarder.com",
         "AbstractSource": "BS4",
         "AbstractURL": "http://honestforwarder.com"
@@ -308,6 +298,16 @@
         "Redirect": "https://www.legendaryautointeriors.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.legendaryautointeriors.com/"
+    },
+    {
+        "link": "https://managermas.cl",
+        "Heading": "\u2b9e Manager+ - Software ERP Contable para Pymes",
+        "Abstract": "\u00a1Toma decisiones oportunas con el ERP para pymes Manager+! Olv\u00eddate de los procesos manuales y las tareas repetitivas con nuestro ERP contable web .",
+        "Official Site": "https://www.manager.cl/manager-mas-erp-contable/",
+        "Icon": "https://www.manager.cl/wp-content/uploads/2023/07/Isotipo_Manager.svg",
+        "Redirect": "https://www.manager.cl/manager-mas-erp-contable/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.manager.cl/manager-mas-erp-contable/"
     },
     {
         "link": "https://maybankfinance.co.id",
@@ -384,7 +384,7 @@
         "Heading": "Optioncarriere",
         "Abstract": null,
         "Official Site": "https://option-carriere.ca",
-        "Icon": "N/A",
+        "Icon": "https://static.careerjet.org/images/favicon/og-160x160.png?v=2020022501",
         "Redirect": "https://option-carriere.ca",
         "AbstractSource": "BS4",
         "AbstractURL": "https://option-carriere.ca"

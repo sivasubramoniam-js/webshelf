@@ -120,16 +120,6 @@
         "AbstractURL": "https://eventosbcn.com/"
     },
     {
-        "link": "https://instapro2.io",
-        "Heading": "The Power and Promise of AI Agents - InstaPRO2.io",
-        "Abstract": null,
-        "Official Site": "https://instapro2.io",
-        "Icon": "",
-        "Redirect": "https://instapro2.io",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://instapro2.io"
-    },
-    {
         "link": "https://ruegen-immobilienmakler.de",
         "Heading": "R\u00fcgen Immobilienmakler - Ihr Makler auf der Insel R\u00fcgen \u2013 R\u00fcgen Immobilienmakler",
         "Abstract": "R\u00fcgen Immobilienmakler f\u00fcr Immobilien auf R\u00fcgen - wir beraten Sie beim Kauf, Verkauf und Vermarktung Ihrer Immobilie auf R\u00fcgen.  Jetzt anrufen \u260e 0163 880 14 00.",
@@ -204,7 +194,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://facmtf.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://facmtf.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://facmtf.com"

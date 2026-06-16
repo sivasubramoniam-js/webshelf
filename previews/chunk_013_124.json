@@ -100,6 +100,16 @@
         "AbstractURL": "https://ceresitshop.ru/"
     },
     {
+        "link": "https://fhchamber.com",
+        "Heading": "Fountain Hills Chamber of Commerce | Home Page",
+        "Abstract": "Official site of the Fountain Hills Chamber of Commerce. Offers a business and member directory, calendar of events and art festival and fair information.",
+        "Official Site": "https://fhchamber.com",
+        "Icon": "https://fhchamber.com/wp-content/uploads/2020/12/cropped-fh-chamber-logoICON-32x32.png",
+        "Redirect": "https://fhchamber.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fhchamber.com"
+    },
+    {
         "link": "https://rusgarden.com",
         "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430",
         "Abstract": "\u0411\u0440\u0435\u043d\u0434\u043e\u0432\u044b\u0435 \u0441\u043e\u0440\u0442\u0430 \u044f\u0431\u043b\u043e\u043a \u0438 \u044f\u0433\u043e\u0434, \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438, \u043c\u043d\u043e\u0433\u043e\u0441\u0442\u0443\u043f\u0435\u043d\u0447\u0430\u0442\u044b\u0439 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430. \u0412\u044b\u0440\u0430\u0449\u0435\u043d\u044b \u0432 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u0441\u0430\u0434\u0443 \u043f\u043e\u0434 \u0441\u043e\u043b\u043d\u0446\u0435\u043c \u041a\u0443\u0431\u0430\u043d\u0438",
@@ -200,6 +210,16 @@
         "AbstractURL": "https://99nightsforest.io"
     },
     {
+        "link": "https://seegerwerbung.de",
+        "Heading": "Willkommen | Seeger-Werbung GmbH & Co. KG",
+        "Abstract": "",
+        "Official Site": "https://seegerwerbung.de",
+        "Icon": "favicon.ico",
+        "Redirect": "https://seegerwerbung.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seegerwerbung.de"
+    },
+    {
         "link": "https://operating-system.org",
         "Heading": "Documentation of Operating Systems and Developers",
         "Abstract": "Independent website to preserve information about the history of operating systems in long term.",
@@ -218,25 +238,5 @@
         "Redirect": "https://quotewerks.com/quotevalet/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://quotewerks.com/quotevalet/"
-    },
-    {
-        "link": "https://dragonicgames.com",
-        "Heading": "Dragonic Games - \u0e28\u0e39\u0e19\u0e22\u0e4c\u0e23\u0e27\u0e21\u0e40\u0e01\u0e21\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e22\u0e2d\u0e14\u0e19\u0e34\u0e22\u0e21 - \u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e01\u0e21\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e17\u0e35\u0e48\u0e2b\u0e25\u0e32\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e41\u0e25\u0e30\u0e2a\u0e19\u0e38\u0e01\u0e17\u0e35\u0e48 Dragonic Games \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e19\u0e31\u0e01\u0e40\u0e25\u0e48\u0e19\u0e40\u0e01\u0e21\u0e17\u0e38\u0e01\u0e04\u0e19",
-        "Abstract": "Tagline",
-        "Official Site": "https://dragonicgames.com/",
-        "Icon": "N/A",
-        "Redirect": "https://dragonicgames.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dragonicgames.com/"
-    },
-    {
-        "link": "https://parafiasadkowice.pl",
-        "Heading": "Parafia pw. \u015awi\u0119tych Dziesi\u0119ciu Tysi\u0119cy Rycerzy M\u0119czennik\u00f3w w Sadkowicach - Strona g\u0142\u00f3wna",
-        "Abstract": "Parafia pw. \u015awi\u0119tych Dziesi\u0119ciu Tysi\u0119cy Rycerzy M\u0119czennik\u00f3w w Sadkowicach, Sadkowice 45, 96-206 Sadkowice, powiat rawski, woj. \u0142\u00f3dzkie",
-        "Official Site": "https://parafiasadkowice.pl",
-        "Icon": "parafia.gif",
-        "Redirect": "https://parafiasadkowice.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://parafiasadkowice.pl"
     }
 ]

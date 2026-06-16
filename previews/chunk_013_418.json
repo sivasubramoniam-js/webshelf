@@ -50,16 +50,6 @@
         "AbstractURL": "https://seria-job.net"
     },
     {
-        "link": "https://sevengear.net",
-        "Heading": "Home - SevenGear",
-        "Abstract": " ",
-        "Official Site": "https://sevengear.net/",
-        "Icon": "https://sevengear.net/wp-content/uploads/2022/06/logo.png",
-        "Redirect": "https://sevengear.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sevengear.net/"
-    },
-    {
         "link": "https://sewyours.com",
         "Heading": "\n    Bag Making Supplies, Purse Hardware & Handbag Patterns | Sew Yours\n  ",
         "Abstract": "Shop bag making supplies, purse hardware, waterproof canvas, printed vinyl fabric, zippers, and exclusive handbag patterns at Sew Yours.",
@@ -171,13 +161,13 @@
     },
     {
         "link": "https://shoptaurus.com",
-        "Heading": "Shop Taurus - Parts, Gear & Accessories",
-        "Abstract": "Shop Taurus parts, magazines, and firearm accessories. OEM products, fast shipping, and official gear from Taurus.",
-        "Official Site": "https://shoptaurus.com/",
+        "Heading": "TaurusShop",
+        "Abstract": null,
+        "Official Site": "https://shoptaurus.com",
         "Icon": "favicon.ico",
-        "Redirect": "https://shoptaurus.com/",
+        "Redirect": "https://shoptaurus.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://shoptaurus.com/"
+        "AbstractURL": "https://shoptaurus.com"
     },
     {
         "link": "https://shopwithcaa.com",
@@ -264,7 +254,7 @@
         "Heading": "\n      Singer Sewing Outlet - Singer Sewing Machines UK\n",
         "Abstract": "The largest range of Sewing Machines available in the UK. FREE UK Delivery, extended warranties, sales, service & repair.",
         "Official Site": "https://singersewingoutlet.co.uk/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0928/4013/2938/files/singeroutlet175.png?height=628&pad_color=ffffff&v=1771418455&width=1200",
+        "Icon": "http://singersewingoutlet.co.uk/cdn/shop/files/singeroutlet175.png?height=628&pad_color=ffffff&v=1771418455&width=1200",
         "Redirect": "https://singersewingoutlet.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://singersewingoutlet.co.uk/"

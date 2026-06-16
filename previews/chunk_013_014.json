@@ -120,16 +120,6 @@
         "AbstractURL": "https://gesrhwd.de"
     },
     {
-        "link": "https://all-inn.at",
-        "Heading": "all-inn.at \u2013 Das Innsbruck Stadtmagazin #1",
-        "Abstract": "Entdecke Innsbruck mit Insider-Tipps, Events, Food & Lifestyle \u2013 urban, lokal, authentisch. Dein Stadtmagazin: Mehr Innsbruck geht nicht!",
-        "Official Site": "https://all-inn.at/",
-        "Icon": "https://all-inn.at/wp-content/uploads/2026/01/cropped-favicon1-32x32.png",
-        "Redirect": "https://all-inn.at/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://all-inn.at/"
-    },
-    {
         "link": "https://turnkeyvr.com",
         "Heading": "Vacasa | Vacation Rentals, Vacation Rental Management, Real Estate",
         "Abstract": "Vacasa professionally manages vacation rentals from coast to coast. Every home meets the highest standards of comfort & cleanliness. Book confidently. Stay comfortably.",
@@ -268,6 +258,16 @@
         "Redirect": "https://501websites.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://501websites.com"
+    },
+    {
+        "link": "https://ponten-weber.de",
+        "Heading": "Ponten & Weber \u2013 InformationsTechnik und Mediendienste GbR",
+        "Abstract": null,
+        "Official Site": "https://ponten-weber.de",
+        "Icon": "https://ponten-weber.de/wp-content/uploads/2020/09/cropped-favicon_logo-32x32.png",
+        "Redirect": "https://ponten-weber.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ponten-weber.de"
     },
     {
         "link": "https://thuviencodoc.org",

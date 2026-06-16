@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://ocssoftware.com",
-        "Heading": "OCS Software | Dise\u00f1o Web - Sistemas php mysql - SEO - Redise\u00f1o Web",
-        "Abstract": "OCS Software. Desarrollamos sitios web Profesionales, Atractivos y Autogestionables, acorde a su imagen corporativa y a las metas de su empresa.",
-        "Official Site": "https://ocssoftware.com",
-        "Icon": "favicon.ico",
-        "Redirect": "https://ocssoftware.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ocssoftware.com"
-    },
-    {
         "link": "https://bjhyxjsgc.com",
         "Heading": "\u5317\u4eac\u9e3f\u6e90\u7965\u5efa\u8bbe\u5de5\u7a0b\u6709\u9650\u516c\u53f8",
         "Abstract": null,
@@ -24,7 +14,7 @@
         "Heading": "Djeco | Crafts For Kids | Wooden Toys | Gifts For Kids",
         "Abstract": "Kids Craft Kits, Gifts For Girls & Boys. Largest DJECO shop in UK \ud83d\ude9aFast Despatch\ud83c\udf81Gift Wrap and Send Service. Maileg, Moulin Roty, Janod \u2b50Loyalty Scheme",
         "Official Site": "https://www.crafts4kids.co.uk/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0850/6916/8962/files/2_06e65c0d-4dca-4b33-8c23-f978fccb1f41.webp?v=1719491885",
+        "Icon": "https://www.crafts4kids.co.uk/cdn/shop/files/2_06e65c0d-4dca-4b33-8c23-f978fccb1f41.webp?v=1719491885",
         "Redirect": "https://www.crafts4kids.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.crafts4kids.co.uk/"
@@ -58,16 +48,6 @@
         "Redirect": "https://mbtokb.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mbtokb.net/"
-    },
-    {
-        "link": "https://reff.ee",
-        "Heading": "Reff.ee e-pood - rehvid, rehvide m\u00fc\u00fck, suverehvid, talverehvid, naastrehvid, kummid, veoautorehvid.",
-        "Abstract": "Rehvide m\u00fc\u00fck, rehvide e-pood! Rehvid, kummid, suverehvid, lamellrehvid, naastrehvid sinu s\u00f5iduautole, kaubikule, maasturile ja veoautole soodsate hindadega.",
-        "Official Site": "https://www.reff.ee/",
-        "Icon": "https://www.reff.ee/userfiles/images/siteog/374977655_772549991545774_2978596443765704676_n.jpg",
-        "Redirect": "https://www.reff.ee/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.reff.ee/"
     },
     {
         "link": "https://intersign.com",
@@ -138,6 +118,16 @@
         "Redirect": "https://sitepardaze.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sitepardaze.com/"
+    },
+    {
+        "link": "https://prologium.com",
+        "Heading": "ProLogium Technology Co., Ltd",
+        "Abstract": "ProLogium is a lithium ceramic battery manufacturer that is leading in the commercialization of safer EV batteries with higher energy density and superior performance. Following its first shipment of lithium-ceramic battery(LCB) in 2014, ProLogium's R&D and production capabilities for SSBs have been verified by various markets.",
+        "Official Site": "https://prologium.com/index/",
+        "Icon": "https://prologium.com/wp-content/uploads/2026/05/\u8f1d\u80fd\u96c6\u5718\u7db2\u7ad9-\u6309\u9215-09_new_1-300x83.png",
+        "Redirect": "https://prologium.com/index/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://prologium.com/index/"
     },
     {
         "link": "https://brokervergleich.de",

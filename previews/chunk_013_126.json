@@ -121,10 +121,10 @@
     },
     {
         "link": "https://oceanfox.org",
-        "Heading": "Mae\u00a0govannen!",
-        "Abstract": "DiskStation provides a full-featured network attached storage (NAS) solution to help you manage, backup and share data among Windows, Mac and Linux easily.",
+        "Heading": "DSM mobile - Mae\u00a0govannen!",
+        "Abstract": null,
         "Official Site": "https://oceanfox.org",
-        "Icon": "webman/favicon.ico?v=40438",
+        "Icon": "webman/favicon.ico?v=86009",
         "Redirect": "https://oceanfox.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://oceanfox.org"
@@ -150,16 +150,6 @@
         "AbstractURL": "https://jsof-tech.com"
     },
     {
-        "link": "https://cartr.ru",
-        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
-        "Abstract": null,
-        "Official Site": "https://cartr.ru",
-        "Icon": "/templates/ot_appoz/favicon.ico",
-        "Redirect": "https://cartr.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cartr.ru"
-    },
-    {
         "link": "https://wyjadaczewisienek.pl",
         "Heading": "Promocje bankowe, lokaty bankowe i konta - prze\u015bwietlamy najlepsze - LiveSmarter.pl",
         "Abstract": "Jak p\u0142aci\u0107 mniej, zyskiwa\u0107 w programach premiowych, zarabia\u0107 na lokatach i kontach",
@@ -178,6 +168,16 @@
         "Redirect": "https://dovzhenkocentre.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dovzhenkocentre.org/"
+    },
+    {
+        "link": "https://isxgames.com",
+        "Heading": "isxGames",
+        "Abstract": "isxGames provides InnerSpace extensions for popular MMORPGs including EverQuest 2 (ISXEQ2) and EVE Online (ISXEVE).",
+        "Official Site": "https://isxgames.com",
+        "Icon": "img/favicon.ico",
+        "Redirect": "https://isxgames.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://isxgames.com"
     },
     {
         "link": "https://seashoresteel.com",

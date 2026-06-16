@@ -40,16 +40,6 @@
         "AbstractURL": "https://uerige.de"
     },
     {
-        "link": "https://gripplay.com",
-        "Heading": "GripPlay.com is for sale | HugeDomains",
-        "Abstract": "This domain is for sale! Fast and easy shopping. Trusted and secure since 2005.",
-        "Official Site": "https://www.hugeDomains.com/domain_profile.cfm?d=GripPlay.com",
-        "Icon": "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png",
-        "Redirect": "https://www.hugeDomains.com/domain_profile.cfm?d=GripPlay.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=GripPlay.com"
-    },
-    {
         "link": "https://milford-sound.co.nz",
         "Heading": "Visit Milford Sound in New Zealand | Best Tours and Cruises",
         "Abstract": "Discover Milford Sound, New Zealand's most spectacular natural attraction. Find Milford Sound information on best tours, cruises, and getting there from Queenstown and Te Anau.",
@@ -138,6 +128,16 @@
         "Redirect": "https://cafe-viereck.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cafe-viereck.de"
+    },
+    {
+        "link": "https://maah.org",
+        "Heading": "Home | MAAH",
+        "Abstract": null,
+        "Official Site": "https://maah.org",
+        "Icon": "https://www.maah.org/wp-content/uploads/2025/10/favicon-150x150.jpg",
+        "Redirect": "https://maah.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://maah.org"
     },
     {
         "link": "https://nashel.ru",
@@ -248,6 +248,16 @@
         "Redirect": "https://eigenkracht.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eigenkracht.nl"
+    },
+    {
+        "link": "https://centralhombroahombro.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://centralhombroahombro.com",
+        "Icon": "https://centralhombroahombro.com/wp-content/uploads/2024/04/cropped-Diseno-sin-titulo-32x32.png",
+        "Redirect": "https://centralhombroahombro.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://centralhombroahombro.com"
     },
     {
         "link": "https://rmupdate.com",

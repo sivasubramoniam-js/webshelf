@@ -80,26 +80,6 @@
         "AbstractURL": "https://womenwhotech.org"
     },
     {
-        "link": "https://elubin.pl",
-        "Heading": "e Lubin.pl - Portal informacyjny Lubina i okolic  \u2014 Lubin, Wiadomosci, Ogloszenia, Sport, Kultura, Oferty Pracy, Katalog firm",
-        "Abstract": null,
-        "Official Site": "https://elubin.pl",
-        "Icon": "theme/default/elubin.ico",
-        "Redirect": "https://elubin.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://elubin.pl"
-    },
-    {
-        "link": "https://attinternetvacaville.com",
-        "Heading": "attinternetvacaville.com",
-        "Abstract": null,
-        "Official Site": "https://attinternetvacaville.com",
-        "Icon": "N/A",
-        "Redirect": "https://attinternetvacaville.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://attinternetvacaville.com"
-    },
-    {
         "link": "https://easyfire.dk",
         "Heading": "Odds uden om ROFUS \ud83c\udfc5 Find betting sider uden ROFUS",
         "Abstract": "Find de bedste betting sider uden ROFUS med h\u00f8je odds, hurtige udbetalinger og mange spilmarkeder. Spil sikkert uden dansk licens og ROFUS-blokering.",
@@ -151,8 +131,8 @@
     },
     {
         "link": "https://bmoca.org",
-        "Heading": "Boulder Museum of Contemporary Art",
-        "Abstract": "",
+        "Heading": "Boulder Museum of Contemporary Art | Discover Contemporary Art Today",
+        "Abstract": "Explore contemporary art exhibits, immersive programs, and community events at Boulder Museum of Contemporary Art. Discover innovative art experiences today.",
         "Official Site": "https://www.bmoca.org",
         "Icon": "http://static1.squarespace.com/static/6489ee902e8c774687a929a2/t/6489f006f7a15d520f5a59e6/1686761478663/BMOCA.SymbolBlack%26White.png?format=1500w",
         "Redirect": "https://www.bmoca.org",
@@ -230,6 +210,16 @@
         "AbstractURL": "https://www.hbc-radiomatic.com/en/Home.html"
     },
     {
+        "link": "https://projeyazilim.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://projeyazilim.com",
+        "Icon": "N/A",
+        "Redirect": "https://projeyazilim.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://projeyazilim.com"
+    },
+    {
         "link": "https://fontec.com.ua",
         "Heading": "FonTec",
         "Abstract": " \u041c\u0438 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u044f \u0437\u0430 \u0430\u0434\u0440\u0435\u0441\u043e\u044e \u0432\u0443\u043b. \u041c\u0438\u0441\u0442\u0435\u0446\u044c\u043a\u0430, \u0431\u0443\u0434. 3. \u042f\u043a\u0449\u043e \u0432\u0438\u043d\u0438\u043a\u043b\u0438 \u043f\u0438\u0442\u0430\u043d\u043d\u044f, \u0432\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u0437\u0430\u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443\u0432\u0430\u0442\u0438 \u043d\u0430 \u043d\u043e\u043c\u0435\u0440 +38 (096)-275-26-26.\u0412 FonTec \u0432\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u0434\u0438\u0432\u0438\u0442\u0438\u0441\u044f \u0432\u0435\u043b\u0438\u043a\u0438\u0439 \u0430\u0441\u043e\u0440\u0442\u0438\u043c\u0435\u043d\u0442 \u0442\u043e\u0432\u0430\u0440\u0456\u0432: \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0443\u044e\u0447\u0456.",
@@ -278,15 +268,5 @@
         "Redirect": "https://www.all-funeralhomes.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.all-funeralhomes.com/"
-    },
-    {
-        "link": "https://howlerbox.com",
-        "Heading": "HowlerBox.com is for sale | HugeDomains",
-        "Abstract": "Shop a wide selection of domains at HugeDomains.com. Find the right domain name today.",
-        "Official Site": "https://www.hugeDomains.com/domain_profile.cfm?d=HowlerBox.com",
-        "Icon": "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png",
-        "Redirect": "https://www.hugeDomains.com/domain_profile.cfm?d=HowlerBox.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=HowlerBox.com"
     }
 ]

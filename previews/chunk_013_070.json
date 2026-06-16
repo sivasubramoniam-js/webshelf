@@ -171,13 +171,13 @@
     },
     {
         "link": "https://seegreatart.art",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://seegreatart.art",
-        "Icon": "data:;",
-        "Redirect": "https://seegreatart.art",
+        "Heading": "See Great Art - Sharing great art from across North America",
+        "Abstract": "Sharing great art from across North America",
+        "Official Site": "https://www.seegreatart.art/",
+        "Icon": "https://www.seegreatart.art/wp-content/uploads/2020/09/cropped-See-Great-Art-32x32.jpg",
+        "Redirect": "https://www.seegreatart.art/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://seegreatart.art"
+        "AbstractURL": "https://www.seegreatart.art/"
     },
     {
         "link": "https://mujin.co.jp",
@@ -268,6 +268,16 @@
         "Redirect": "https://clickvariant.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://clickvariant.com"
+    },
+    {
+        "link": "https://madeinkitchenware.com",
+        "Heading": "Shop Stainless Steel, Non-Stick, Carbon Steel, and More \u2013 Honest Prices for Quality Kitchenware",
+        "Abstract": "Discover premium kitchenware from Made In, including non-stick, carbon steel, knives, plates, and more.",
+        "Official Site": "https://madeinkitchenware.com/",
+        "Icon": "https://madeinkitchenware.com/wp-content/uploads/2025/04/cropped-2025-04-30_011026-32x32.png",
+        "Redirect": "https://madeinkitchenware.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://madeinkitchenware.com/"
     },
     {
         "link": "https://devocion.com",

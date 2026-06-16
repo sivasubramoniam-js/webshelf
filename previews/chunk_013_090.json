@@ -70,16 +70,6 @@
         "AbstractURL": "https://dietz-verlag.de/"
     },
     {
-        "link": "https://hlsberlin.de",
-        "Heading": "\n                    IServ - hlsberlin.de\n            ",
-        "Abstract": null,
-        "Official Site": "https://hlsberlin.de",
-        "Icon": "/iserv/css/static/icons/android-chrome-192x192.fc2f37a3.png",
-        "Redirect": "https://hlsberlin.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hlsberlin.de"
-    },
-    {
         "link": "https://theemilywillis.com",
         "Heading": "UIE.fm \u2014 The UX Podcast Network",
         "Abstract": "A podcast network about UX, usability, and tales from the people that research it.",
@@ -101,7 +91,7 @@
     },
     {
         "link": "https://go-openspark.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://go-openspark.com",
         "Icon": "N/A",
@@ -248,26 +238,6 @@
         "Redirect": "https://cinemaxi.site",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cinemaxi.site"
-    },
-    {
-        "link": "https://3plogistics.com",
-        "Heading": "3PL Market Research & Consulting | Armstrong & Associates",
-        "Abstract": "Expert third-party logistics market research, M&A advisory, and consulting since 1980. Explore 3PL guides, industry data, and strategic planning services.",
-        "Official Site": "https://www.3plogistics.com/",
-        "Icon": "https://www.3plogistics.com/wp-content/uploads/2024/10/aa_trademark_logo-1-1.webp",
-        "Redirect": "https://www.3plogistics.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.3plogistics.com/"
-    },
-    {
-        "link": "https://certifopac.fr",
-        "Heading": "Certifopac, le sp\u00e9cialiste de la certification Qualiopi",
-        "Abstract": "Obtenez votre certification Qualiopi avec l'organisme certificateur certifopac, accr\u00e9dit\u00e9 et pr\u00e9sent partout en France !",
-        "Official Site": "https://certifopac.fr/",
-        "Icon": "https://certifopac.fr/wp-content/uploads/2021/01/Logo-Certifopac-Officiel-1.jpg",
-        "Redirect": "https://certifopac.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://certifopac.fr/"
     },
     {
         "link": "https://jrias.or.jp",

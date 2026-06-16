@@ -151,13 +151,13 @@
     },
     {
         "link": "https://mythess.gr",
-        "Heading": "MyThess.gr - \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac \u03a0\u03c1\u03bf\u03ca\u03cc\u03bd\u03c4\u03b1 - \u03a0\u03bf\u03b9\u03bf\u03c4\u03b9\u03ba\u03ac & \u0394\u03b9\u03b1\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b1",
-        "Abstract": "\u03a4\u03bf MyThess.gr \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03b5\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03b9\u03ba\u03ac \u03c0\u03c1\u03bf\u03ca\u03cc\u03bd\u03c4\u03b1 \u03b4\u03b9\u03b1\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b1 & \u03c5\u03c8\u03b7\u03bb\u03ae\u03c2 \u03c0\u03bf\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03c3\u03ac\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03c3\u03c0\u03af\u03c4\u03b9.",
-        "Official Site": "https://mythess.gr/",
-        "Icon": "https://mythess.gr/wp-content/uploads/2023/04/viber_image_2023-04-30_07-41-59-090.png",
-        "Redirect": "https://mythess.gr/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mythess.gr",
+        "Icon": "data:;",
+        "Redirect": "https://mythess.gr",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mythess.gr/"
+        "AbstractURL": "https://mythess.gr"
     },
     {
         "link": "https://naijanowell.com",
@@ -250,16 +250,6 @@
         "AbstractURL": "https://www.netfinancie.sk/"
     },
     {
-        "link": "https://netschach.de",
-        "Heading": "Spiele Schach, l\u00f6se Schachaufgaben - trainiere dein Schachspiel!",
-        "Abstract": "L\u00f6se interaktive Schachaufgaben, spiele online Schach gegen den Schachcomputer oder gegen echte Gegner und gewinne neue Schachfreunde",
-        "Official Site": "https://netschach.de",
-        "Icon": "gfx/netschachstern.svg",
-        "Redirect": "https://netschach.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://netschach.de"
-    },
-    {
         "link": "https://neutonic.com",
         "Heading": "\n      Official Neutonic | Research-Backed Performance\n",
         "Abstract": "Improve focus, reduce stress, and beat fatigue with our scientifically formulated nootropic blends. Stay productive all day. Save up to 20% with subscriptions.",
@@ -278,6 +268,16 @@
         "Redirect": "https://nexuscare.me/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nexuscare.me/"
+    },
+    {
+        "link": "https://nfp-forum.de",
+        "Heading": "nfp-forum.de (nat\u00fcrliche Familienplanung)",
+        "Abstract": null,
+        "Official Site": "https://nfp-forum.de",
+        "Icon": "N/A",
+        "Redirect": "https://nfp-forum.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nfp-forum.de"
     },
     {
         "link": "https://nhmonthly.com",

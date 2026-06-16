@@ -80,16 +80,6 @@
         "AbstractURL": "https://seeindustry.com"
     },
     {
-        "link": "https://oszhandel1.org",
-        "Heading": "\n                    IServ - oszhandel1.org\n            ",
-        "Abstract": null,
-        "Official Site": "https://oszhandel1.org",
-        "Icon": "/iserv/css/static/icons/android-chrome-192x192.fc2f37a3.png",
-        "Redirect": "https://oszhandel1.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://oszhandel1.org"
-    },
-    {
         "link": "https://redbow.org.au",
         "Heading": "Red Bow Appeal 2026",
         "Abstract": "Make a donation today to support people with muscular dystrophy",
@@ -178,6 +168,16 @@
         "Redirect": "https://eletforma.hu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eletforma.hu/"
+    },
+    {
+        "link": "https://iyfnet.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://iyfnet.org",
+        "Icon": "N/A",
+        "Redirect": "https://iyfnet.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iyfnet.org"
     },
     {
         "link": "https://bk-kz-promo.com",

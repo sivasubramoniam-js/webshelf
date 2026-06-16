@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://borouge.com",
-        "Heading": "\n\t\n               Borouge \n            INSPIRING\u200b TOMOR\u200bROW\n            \n            \n            \n            \n        \n",
-        "Abstract": null,
-        "Official Site": "https://borouge.com",
-        "Icon": "/Style%20Library/assets/Borouge/images/favicon.ico",
-        "Redirect": "https://borouge.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://borouge.com"
-    },
-    {
         "link": "https://solarak.shop",
         "Heading": "solarak.shop",
         "Abstract": null,
@@ -48,6 +38,16 @@
         "Redirect": "https://www.clevelandzoosociety.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.clevelandzoosociety.org/"
+    },
+    {
+        "link": "https://dystar.com",
+        "Heading": "DyStar Group",
+        "Abstract": "DyStar Group is a solution provider, offering customers across the globe a complete range of colorants, auxiliaries and services.",
+        "Official Site": "https://www.dystar.com/",
+        "Icon": "https://www.dystar.com/wp-content/uploads/2014/09/favicon.png",
+        "Redirect": "https://www.dystar.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dystar.com/"
     },
     {
         "link": "https://pronosticobarcelona.com",
@@ -170,16 +170,6 @@
         "AbstractURL": "https://gataria.pt/"
     },
     {
-        "link": "https://kotor-montenegro-weather.com",
-        "Heading": "Weather forecast Kotor > weather in Kotor in June and July > today and tomorrow",
-        "Abstract": "Detailed weather forecast for Kotor, Montenegro. Current weather, hourly and 5-day forecast. Temperature, rain, wind, humidity data updated regularly.",
-        "Official Site": "https://kotor-montenegro-weather.com",
-        "Icon": "/favicon-96x96.png",
-        "Redirect": "https://kotor-montenegro-weather.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kotor-montenegro-weather.com"
-    },
-    {
         "link": "https://18teentube.pro",
         "Heading": "18 teen tube - sex video clips, hot porn videos",
         "Abstract": null,
@@ -260,16 +250,6 @@
         "AbstractURL": "https://www.buymyname.com/"
     },
     {
-        "link": "https://gwiddle.co.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://gwiddle.co.uk",
-        "Icon": "N/A",
-        "Redirect": "https://gwiddle.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gwiddle.co.uk"
-    },
-    {
         "link": "https://knopman.com",
         "Heading": "Knopman Marks | Securities Exam Prep & Beyond",
         "Abstract": "For 30 years, Knopman Marks\u2019 world-class faculty, data-driven methodology, and flexible learning model have helped hundreds of thousands of students walk confidently out our doors, into their securities exams, and onto the next stage of their careers.",
@@ -291,7 +271,7 @@
     },
     {
         "link": "https://euclidmanagement.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://euclidmanagement.com",
         "Icon": "N/A",

@@ -30,16 +30,6 @@
         "AbstractURL": "https://jensen-souders.net"
     },
     {
-        "link": "https://wesellhost.net",
-        "Heading": "WeSellHost - Coming Soon",
-        "Abstract": null,
-        "Official Site": "https://wesellhost.net",
-        "Icon": "N/A",
-        "Redirect": "https://wesellhost.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wesellhost.net"
-    },
-    {
         "link": "https://komorkomania.pl",
         "Heading": "Kom\u00f3rkomania",
         "Abstract": "Kom\u00f3rkomania.pl - informacje, komentarze, opinie",
@@ -48,6 +38,16 @@
         "Redirect": "https://komorkomania.pl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://komorkomania.pl/"
+    },
+    {
+        "link": "https://texasmilitaryforcesmuseum.org",
+        "Heading": "The Texas Military Forces Museum",
+        "Abstract": null,
+        "Official Site": "https://texasmilitaryforcesmuseum.org",
+        "Icon": "N/A",
+        "Redirect": "https://texasmilitaryforcesmuseum.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://texasmilitaryforcesmuseum.org"
     },
     {
         "link": "https://hunto.com",
@@ -68,6 +68,16 @@
         "Redirect": "https://malygosc.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://malygosc.pl"
+    },
+    {
+        "link": "https://gtmf.org",
+        "Heading": "Grand Teton Music Festival, Classical Music in Jackson Hole, WY",
+        "Abstract": "Experience the Grand Teton Music Festival in Jackson Hole, Wyoming\u2014celebrating over 60 years of exceptional classical performances by renowned musicians from around the world. Discover concerts, events, and tickets today.",
+        "Official Site": "https://gtmf.org/",
+        "Icon": "/wp-content/themes/gtmf/assets/images/favicon.svg",
+        "Redirect": "https://gtmf.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gtmf.org/"
     },
     {
         "link": "https://ccscheme.org.uk",

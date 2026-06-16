@@ -70,6 +70,16 @@
         "AbstractURL": "https://mxchat.cz"
     },
     {
+        "link": "https://hereweare.de",
+        "Heading": "IT-Systemhaus aus Lippe | Hereweare . it architecs - Ihr kompetenter IT-Partner",
+        "Abstract": "Cloud, Netzwerkadministration, Datensicherheit, IT-Infrastruktur, Managed Servives \u2013 unser Spektrum deckt alles ab, was Unternehmen von einer modernen IT erwarten k\u00f6nnen.",
+        "Official Site": "https://www.hereweare.de/",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://www.hereweare.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hereweare.de/"
+    },
+    {
         "link": "https://mitosettembremusica.it",
         "Heading": "MITO SettembreMusica | Torino Milano Festival Internazionale della Musica",
         "Abstract": "Festival internazionale dedicato alla musica classica che unisce le citt\u00e0 di Milano e Torino in un fitto calendario di concerti",
@@ -108,16 +118,6 @@
         "Redirect": "https://siteburg.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://siteburg.com"
-    },
-    {
-        "link": "https://fireboyandwatergirl3.com",
-        "Heading": "Redirecting...",
-        "Abstract": null,
-        "Official Site": "https://fireboyandwatergirl3.com",
-        "Icon": "N/A",
-        "Redirect": "https://fireboyandwatergirl3.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fireboyandwatergirl3.com"
     },
     {
         "link": "https://ertisdaryn.kz",
@@ -170,6 +170,16 @@
         "AbstractURL": "https://openhpsdr.org"
     },
     {
+        "link": "https://nacwebhost.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://nacwebhost.com",
+        "Icon": "N/A",
+        "Redirect": "https://nacwebhost.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nacwebhost.com"
+    },
+    {
         "link": "https://livingcities.org",
         "Heading": "Living Cities",
         "Abstract": null,
@@ -190,8 +200,18 @@
         "AbstractURL": "https://vivanti.ru"
     },
     {
+        "link": "https://camara-e.net",
+        "Heading": "Home - Camara-e.net",
+        "Abstract": null,
+        "Official Site": "https://camara-e.net/",
+        "Icon": "https://camara-e.net/wp-content/uploads/2025/05/fav-camara.png#15",
+        "Redirect": "https://camara-e.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://camara-e.net/"
+    },
+    {
         "link": "https://puretechdsm.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://puretechdsm.com",
         "Icon": "N/A",
@@ -238,6 +258,16 @@
         "Redirect": "https://www.vilvoorde.be",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.vilvoorde.be"
+    },
+    {
+        "link": "https://cashmatters.org",
+        "Heading": "Cash Matters - A Pro-Cash Movement",
+        "Abstract": null,
+        "Official Site": "https://cashmatters.org",
+        "Icon": "/static/favicon.jpg",
+        "Redirect": "https://cashmatters.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cashmatters.org"
     },
     {
         "link": "https://vmasideas.mx",

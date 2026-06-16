@@ -60,6 +60,16 @@
         "AbstractURL": "https://soglasovanie-pereplanirovki-1.ru"
     },
     {
+        "link": "https://extendedcoins.com",
+        "Heading": "extendedcoins - Power Up Your Investment with Mining",
+        "Abstract": "",
+        "Official Site": "https://extendedcoins.com",
+        "Icon": "/images/logo.png",
+        "Redirect": "https://extendedcoins.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://extendedcoins.com"
+    },
+    {
         "link": "https://v14.de",
         "Heading": " V14",
         "Abstract": "A law firm focused on growth capital, technology and media for investors, entrepreneurs and businesses.",
@@ -121,13 +131,13 @@
     },
     {
         "link": "https://amplifiedsciences.com",
-        "Heading": "Home - Amplified Sciences",
-        "Abstract": "Providing innovative diagnostic tests that enable earlier detection, risk stratification and monitoring of challenging diseases.",
-        "Official Site": "https://amplifiedsciences.com/",
-        "Icon": "https://amplifiedsciences.com/wp-content/uploads/2024/04/logo1.png",
-        "Redirect": "https://amplifiedsciences.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://amplifiedsciences.com",
+        "Icon": "data:;",
+        "Redirect": "https://amplifiedsciences.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://amplifiedsciences.com/"
+        "AbstractURL": "https://amplifiedsciences.com"
     },
     {
         "link": "https://ofnumbers.com",
@@ -218,6 +228,16 @@
         "Redirect": "https://fwv.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fwv.de"
+    },
+    {
+        "link": "https://dialnicnaznamkaonline.sk",
+        "Heading": "Najpred\u00e1vanej\u0161\u00ed ~ Dialnicnaznamkaonline.sk",
+        "Abstract": null,
+        "Official Site": "https://dialnicnaznamkaonline.sk",
+        "Icon": "N/A",
+        "Redirect": "https://dialnicnaznamkaonline.sk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dialnicnaznamkaonline.sk"
     },
     {
         "link": "https://elanusco.com",

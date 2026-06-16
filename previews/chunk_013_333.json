@@ -90,6 +90,16 @@
         "AbstractURL": "https://www.wantstats.com/"
     },
     {
+        "link": "https://tpchousing.com",
+        "Heading": "The Pacific Companies \u2013 Multifamily Housing Development - The Pacific Companies",
+        "Abstract": "TPC develops, constructs, and operates communities throughout the western US, with a focus on producing affordable multifamily housing.",
+        "Official Site": "https://tpchousing.com/",
+        "Icon": "https://tpchousing.com/wp-content/uploads/2025/03/cropped-TPC_favicon-1-32x32.png",
+        "Redirect": "https://tpchousing.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tpchousing.com/"
+    },
+    {
         "link": "https://zsecurity.org",
         "Heading": "Home - zSecurity",
         "Abstract": "Learn ethical hacking with zSecurity. Hack like black hats, secure systems like experts\u2014start learning with hands-on courses and tools today!",
@@ -131,8 +141,8 @@
     },
     {
         "link": "https://enamelpins.com",
-        "Heading": "Custom Enamel Pins [ Up to 30% Off & QTY No Minimum ]",
-        "Abstract": "Custom enamel pins with free design and unlimited revisions, fast production & free shipping. Start with one piece; custom enamel pins offer bulk discounts.",
+        "Heading": "Custom Pin Badges | Free Artwork & Shipping - Up to 30%",
+        "Abstract": "Create your custom enamel pin badges with Free Design. We provide Soft, Hard, Fast UV printed and more pin badge crafts to choose. from Quality Guaranteed.",
         "Official Site": "https://enamelpins.com",
         "Icon": "https://static-oss.gs-souvenir.com/web/public/picStore/20240924/favicon_20240924K34RD6.ico",
         "Redirect": "https://enamelpins.com",
@@ -158,16 +168,6 @@
         "Redirect": "https://bytebuddy.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bytebuddy.net"
-    },
-    {
-        "link": "https://tenisklub.pl",
-        "Heading": "Tenisklub - Tenis w najlepszym wydaniu!",
-        "Abstract": "Tenis w najlepszym wydaniu!",
-        "Official Site": "https://tenisklub.pl/",
-        "Icon": "https://tenisklub.pl/wp-content/uploads/2020/08/cropped-tenisklub-logo-1-32x32.png",
-        "Redirect": "https://tenisklub.pl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tenisklub.pl/"
     },
     {
         "link": "https://utopia56.org",
@@ -278,16 +278,6 @@
         "Redirect": "https://doservis.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://doservis.ru"
-    },
-    {
-        "link": "https://bigkupon.ru",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://bigkupon.ru",
-        "Icon": "N/A",
-        "Redirect": "https://bigkupon.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bigkupon.ru"
     },
     {
         "link": "https://1bor.ru",
