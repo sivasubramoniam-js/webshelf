@@ -10,6 +10,16 @@
         "AbstractURL": "https://enerjiportali.com"
     },
     {
+        "link": "https://thewebdev.info",
+        "Heading": "The Web Dev - A site all about web development.",
+        "Abstract": "A site all about web development.",
+        "Official Site": "https://thewebdev.info/",
+        "Icon": "https://thewebdev.info/wp-content/uploads/2020/03/2m71l9fa6mg.jpg",
+        "Redirect": "https://thewebdev.info/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thewebdev.info/"
+    },
+    {
         "link": "https://jimgonder.xyz",
         "Heading": null,
         "Abstract": null,
@@ -100,6 +110,16 @@
         "AbstractURL": "https://adroithost.com"
     },
     {
+        "link": "https://hc-molot.ru",
+        "Heading": "\u0425\u041a \u041c\u043e\u043b\u043e\u0442",
+        "Abstract": "\u0425\u041a \u041c\u043e\u043b\u043e\u0442",
+        "Official Site": "https://hc-molot.ru",
+        "Icon": "N/A",
+        "Redirect": "https://hc-molot.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hc-molot.ru"
+    },
+    {
         "link": "https://complemento.net.br",
         "Heading": "ligerosmart-ai",
         "Abstract": null,
@@ -108,6 +128,26 @@
         "Redirect": "https://complemento.net.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://complemento.net.br"
+    },
+    {
+        "link": "https://igwindkraft.at",
+        "Heading": "\n\tIG Windkraft \u00d6sterreich\n\t | \n\tIG Windkraft\n",
+        "Abstract": "Die Interessenvertretung der \u00f6sterreichischen Windbranche. News, Veranstaltungen, Presseinformationen & alles Wissenswerte \u00fcber die Windkraft in \u00d6sterreich",
+        "Official Site": "https://igwindkraft.at",
+        "Icon": "/favicon_igwindkraft.ico?v=c14dcd6f",
+        "Redirect": "https://igwindkraft.at",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://igwindkraft.at"
+    },
+    {
+        "link": "https://sedatio.net",
+        "Heading": "Home",
+        "Abstract": "Sedatio",
+        "Official Site": "https://sedatio.net",
+        "Icon": "/templates/protostar/favicon.ico",
+        "Redirect": "https://sedatio.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sedatio.net"
     },
     {
         "link": "https://sforge.com",
@@ -231,13 +271,13 @@
     },
     {
         "link": "https://drdavisinfinitehealth.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://drdavisinfinitehealth.com",
-        "Icon": "data:;",
-        "Redirect": "https://drdavisinfinitehealth.com",
+        "Heading": "Dr. William Davis | Cardiologist & Author of Wheat Belly Books",
+        "Abstract": "Dr. William Davis, cardiologist, author of the New York Times Bestselling Wheat Belly Books, and health crusader for the wheat-free, grain-free lifestyle",
+        "Official Site": "https://drdavisinfinitehealth.com/",
+        "Icon": "https://drdavisinfinitehealth.com/wp-content/uploads/2022/01/wheat-belly-copy.jpg",
+        "Redirect": "https://drdavisinfinitehealth.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://drdavisinfinitehealth.com"
+        "AbstractURL": "https://drdavisinfinitehealth.com/"
     },
     {
         "link": "https://greedyeats.com",

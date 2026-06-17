@@ -24,20 +24,30 @@
         "Heading": "Norfolk/Wrentham - Local Town Pages | The Voice of Your Community",
         "Abstract": "LocalTownPages Norfolk/Wrentham is your community-based newspaper, direct mailed to 8,181 residents and businesses, providing local news, sports, and services into the Norfolk/Wrentham area.",
         "Official Site": "https://www.norfolkwrenthamnews.com/",
-        "Icon": "//cdn3.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
+        "Icon": "//cdn0.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
         "Redirect": "https://www.norfolkwrenthamnews.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.norfolkwrenthamnews.com/"
     },
     {
         "link": "https://lecinemaclub.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://lecinemaclub.com",
-        "Icon": "data:;",
-        "Redirect": "https://lecinemaclub.com",
+        "Heading": "Le Cin\u00e9ma Club",
+        "Abstract": "A free, curated platform streaming one film every week.",
+        "Official Site": "https://www.lecinemaclub.com/",
+        "Icon": "https://www.lecinemaclub.com/wp-content/themes/cinemaclub/img/lecinemaclub.png",
+        "Redirect": "https://www.lecinemaclub.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lecinemaclub.com"
+        "AbstractURL": "https://www.lecinemaclub.com/"
+    },
+    {
+        "link": "https://kumiuniversity.ac.ug",
+        "Heading": "Kumi University \u2013 Godliness & Excellence for Servanthood",
+        "Abstract": null,
+        "Official Site": "https://kumiuniversity.ac.ug",
+        "Icon": "https://www.kumiuniversity.ac.ug/wp-content/uploads/2017/03/cropped-Kumi-University-logo-round-32x32.png",
+        "Redirect": "https://kumiuniversity.ac.ug",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kumiuniversity.ac.ug"
     },
     {
         "link": "https://317d.net",
@@ -60,6 +70,16 @@
         "AbstractURL": "https://www.fitzpatrickreferrals.co.uk/"
     },
     {
+        "link": "https://roamshade.com",
+        "Heading": "Home - Roamshade",
+        "Abstract": "Insights on digital tools, coffee culture, and work-life balance to help you work smarter and live better.",
+        "Official Site": "https://roamshade.com/",
+        "Icon": "https://roamshade.com/wp-content/uploads/2025/04/2-e1747436221557-150x150.png",
+        "Redirect": "https://roamshade.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://roamshade.com/"
+    },
+    {
         "link": "https://paymeservice.com",
         "Heading": "Home - PayMe",
         "Abstract": "Embedded financial ecosystem - Enabling platforms, marketplaces, FinTechs and banks to embed financial offerings into their products",
@@ -73,11 +93,11 @@
         "link": "https://auto-nix.de",
         "Heading": "Autohaus NIX",
         "Abstract": "Zufriedenheit, Kontinuit\u00e4t und Innovation, Autohaus NIX, Toyota, Lexus, Volkswagen Nutzfahrzeuge, Gebrauchtwagen, Neuwagen, Tageszulassungen",
-        "Official Site": "https://www.auto-nix.de/",
+        "Official Site": "https://www.auto-nix.de/?gad_source=2&gad_campaignid=20574794866&gclid=EAIaIQobChMIm5Ddi8OLlQMVd1keAh03ryEQEAEYASAAEgKx7PD_BwE",
         "Icon": "https://www.auto-nix.de/fileadmin/_processed_/b/b/csm_nix-og_981d4794a4.jpg",
-        "Redirect": "https://www.auto-nix.de/",
+        "Redirect": "https://www.auto-nix.de/?gad_source=2&gad_campaignid=20574794866&gclid=EAIaIQobChMIm5Ddi8OLlQMVd1keAh03ryEQEAEYASAAEgKx7PD_BwE",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.auto-nix.de/"
+        "AbstractURL": "https://www.auto-nix.de/?gad_source=2&gad_campaignid=20574794866&gclid=EAIaIQobChMIm5Ddi8OLlQMVd1keAh03ryEQEAEYASAAEgKx7PD_BwE"
     },
     {
         "link": "https://belgraviadent.ru",
@@ -98,6 +118,16 @@
         "Redirect": "https://glfestateplanning.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://glfestateplanning.com/"
+    },
+    {
+        "link": "https://aralto.nl",
+        "Heading": "Aralto ICT",
+        "Abstract": "Aralto ICT ontwikkelt Dynamische webapplicaties voor bedrijven en overheden",
+        "Official Site": "https://aralto.nl",
+        "Icon": "favicon.ico",
+        "Redirect": "https://aralto.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aralto.nl"
     },
     {
         "link": "https://aphex.com",
@@ -188,6 +218,16 @@
         "Redirect": "https://insuris.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://insuris.ru"
+    },
+    {
+        "link": "https://expensesfocus.xyz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://expensesfocus.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://expensesfocus.xyz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://expensesfocus.xyz"
     },
     {
         "link": "https://guinee-camions.com",
@@ -288,5 +328,15 @@
         "Redirect": "https://www.citizen.co.za/lowvelder/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.citizen.co.za/lowvelder/"
+    },
+    {
+        "link": "https://almustaqbalpress.com",
+        "Heading": "Al Mustaqbal Press |  printing industry in Sharjah | Technical innovation",
+        "Abstract": "Events Management, Exhibitions, Conferences, Concerts, Entertainment",
+        "Official Site": "https://almustaqbalpress.com",
+        "Icon": "images/favicon.png",
+        "Redirect": "https://almustaqbalpress.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://almustaqbalpress.com"
     }
 ]

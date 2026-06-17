@@ -40,6 +40,16 @@
         "AbstractURL": "https://colombiaservers.co"
     },
     {
+        "link": "https://turkomedya.com.tr",
+        "Heading": "Konya Reklam Ajans\u0131 | TurkoMedya",
+        "Abstract": "Konya reklam ajans\u0131 TurkoMedya ile markan\u0131z\u0131 dijitalde b\u00fcy\u00fct\u00fcn. Stratejik marka y\u00f6netimi, web tasar\u0131m\u0131, sosyal medya ve AI-SEO \u00e7\u00f6z\u00fcmleriyle fark yarat\u0131n.",
+        "Official Site": "https://www.turkomedya.com.tr/",
+        "Icon": "https://www.turkomedya.com.tr/assets/images/meta-og-image.webp",
+        "Redirect": "https://www.turkomedya.com.tr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.turkomedya.com.tr/"
+    },
+    {
         "link": "https://wangr.com",
         "Heading": "Wangr - Crypto data for humans",
         "Abstract": "Track whales and insiders in real time - spot risks, seize opportunities, get ahead.",
@@ -80,14 +90,34 @@
         "AbstractURL": "https://www.kpmanalytics.com"
     },
     {
+        "link": "https://visitportoandnorth.travel",
+        "Heading": "Descubra o Porto e Norte de Portugal | Experi\u00eancias aut\u00eanticas",
+        "Abstract": "Explore o melhor do Porto e Norte de Portugal! Encontre experi\u00eancias aut\u00eanticas, paisagens deslumbrantes, patrim\u00f3nio cultural e a melhor gastronomia. ",
+        "Official Site": "https://www.visitportoandnorth.travel",
+        "Icon": "N/A",
+        "Redirect": "https://www.visitportoandnorth.travel",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.visitportoandnorth.travel"
+    },
+    {
         "link": "https://i95rocks.com",
         "Heading": "I-95 \u2013 Bangor's Classic Rock Station \u2013 Bangor Classic Rock Radio",
         "Abstract": "I-95 FM radio, a Townsquare Media station, plays the best classic hits in Bangor, Maine on WWMJ-FM.",
-        "Official Site": "i95rocks.com",
+        "Official Site": "https://i95rocks.com/",
         "Icon": "https://townsquare.media/site/543/files/2017/11/wwmjfm-logo.png?w=300&q=75&format=natural",
-        "Redirect": "i95rocks.com",
+        "Redirect": "https://i95rocks.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "i95rocks.com"
+        "AbstractURL": "https://i95rocks.com/"
+    },
+    {
+        "link": "https://catcafebk.com",
+        "Heading": "Home - Brooklyn Cat Cafe",
+        "Abstract": "Welcome to Brooklyn Cat Cafe Welcome to Brooklyn Cat Cafe! We are a volunteer-driven and woman-owned community space and New York City\u2019s only nonprofit cat cafe. We\u2019re open to the public Fridays, Saturdays, Sundays, and Mondays and we\u2019d love for you to visit our adoptable cats, who are all rescues from the streets of NYC. [\u2026]",
+        "Official Site": "https://catcafebk.com/",
+        "Icon": "https://catcafebk.com/wp-content/uploads/2021/05/logo-outline-3-48x48.png",
+        "Redirect": "https://catcafebk.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://catcafebk.com/"
     },
     {
         "link": "https://stitchingfox.com",
@@ -101,13 +131,23 @@
     },
     {
         "link": "https://epohi.gr",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://epohi.gr",
-        "Icon": "data:;",
-        "Redirect": "https://epohi.gr",
+        "Heading": "\u0395\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03b4\u03b1 \u0397 \u0395\u03c0\u03bf\u03c7\u03ae | \u0397 \u03c6\u03c9\u03bd\u03ae \u03c4\u03b7\u03c2 \u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ac\u03c2 | \u0397 \u03c6\u03c9\u03bd\u03ae \u03c4\u03b7\u03c2 \u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ac\u03c2",
+        "Abstract": "\u0397 \u0395\u03c0\u03bf\u03c7\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03b5\u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b9\u03b1\u03af\u03b1 \u03b5\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03b4\u03b1. \u03a0\u03c1\u03c9\u03c4\u03bf\u03b5\u03ba\u03b4\u03cc\u03b8\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u0391\u03b8\u03ae\u03bd\u03b1 \u03c4\u03bf 1988 \u03ba\u03b1\u03b9 \u03ba\u03c5\u03ba\u03bb\u03bf\u03c6\u03bf\u03c1\u03b5\u03af \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1. \u0397 \u0395\u03a0\u039f\u03a7\u0397, \u03a3\u03a5\u039d \u03a0.\u0395.",
+        "Official Site": "https://epohi.gr/",
+        "Icon": "https://epohi.gr/wp-content/uploads/2025/01/cropped-epohi-1200x1200-1.png",
+        "Redirect": "https://epohi.gr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://epohi.gr"
+        "AbstractURL": "https://epohi.gr/"
+    },
+    {
+        "link": "https://agencyallure.com",
+        "Heading": "London Escorts at Allure | High Class London Escort Agency",
+        "Abstract": "Est. 2002, Agency Allure is a London escort agency that is known for prioritising quality over quantity. Call us on 0207 183 1094.",
+        "Official Site": "https://agencyallure.com/",
+        "Icon": "https://agencyallure.com/wp-content/uploads/London-Escorts-1-1024x683.jpg",
+        "Redirect": "https://agencyallure.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://agencyallure.com/"
     },
     {
         "link": "https://mijnstadmijndorp.nl",
@@ -118,6 +158,26 @@
         "Redirect": "https://mijnstadmijndorp.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mijnstadmijndorp.nl"
+    },
+    {
+        "link": "https://freehali.com",
+        "Heading": "Freehali - Des Freelances Alg\u00e9riens pour les Entrepreneurs & Agences",
+        "Abstract": "La plateforme qui vous donne le pouvoir de n\u00e9gocier avec le top des freelances alg\u00e9riens, d'accomplir vos projets, et de faire des \u00e9conomies !",
+        "Official Site": "https://www.freehali.com/",
+        "Icon": "https://freehali.com/freehali-assets/uploads/2017/10/Link-Thumbnail.png",
+        "Redirect": "https://www.freehali.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.freehali.com/"
+    },
+    {
+        "link": "https://codefx.org",
+        "Heading": "nipafx // You. Me. Java.",
+        "Abstract": "A website to sharpen your Java skills - by Nicolai (aka nipafx), a Java enthusiast with a passion for learning and sharing, online and offline.",
+        "Official Site": "https://nipafx.dev",
+        "Icon": "https://nipafx.dev/nicolai.jpg",
+        "Redirect": "https://nipafx.dev",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nipafx.dev"
     },
     {
         "link": "https://carastana.kz",
@@ -158,16 +218,6 @@
         "Redirect": "https://www.hevasphalttexas.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hevasphalttexas.com/"
-    },
-    {
-        "link": "https://upcomingmovies.com",
-        "Heading": "Log into Facebook | Facebook",
-        "Abstract": "Log into Facebook to start sharing and connecting with your friends, family, and people you know.",
-        "Official Site": "https://www.facebook.com/login/",
-        "Icon": "N/A",
-        "Redirect": "https://www.facebook.com/login/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.facebook.com/login/"
     },
     {
         "link": "https://nowgoal29.dev",

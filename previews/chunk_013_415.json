@@ -151,7 +151,7 @@
     },
     {
         "link": "https://optorium.in",
-        "Heading": "OPTORIUM | Best Optical Stores | Premium Sunglass, Prescription Lenses",
+        "Heading": "\n      OPTORIUM | Best Optical Stores | Premium Sunglass, Prescription Lenses\n    ",
         "Abstract": "Optorium is Hyderabad & India's leading optical store for luxury & premium eyewear. Find exclusive collections of branded sunglasses, prescriptions glasses, lenses & contact lenses for Men & Women at the best prices. Buy online or visit us at a store near you!",
         "Official Site": "https://optorium.in/",
         "Icon": "http://optorium.in/cdn/shop/files/1200x628_logo_for_google.png?v=1707543038&width=2048",
@@ -261,13 +261,13 @@
     },
     {
         "link": "https://ozcanopies.com.au",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ozcanopies.com.au",
-        "Icon": "data:;",
-        "Redirect": "https://ozcanopies.com.au",
+        "Heading": "Ute and 4x4 Accessories Sydney, Australia | Best Prices & Huge Range",
+        "Abstract": "Explore our huge range of high-quality ute accessories, ute canopies, roller shutters, hard lids, roof racks, bullbars, towbars & more.",
+        "Official Site": "https://www.ozcanopies.com.au/",
+        "Icon": "https://www.ozcanopies.com.au/wp-content/uploads/2024/10/about-team-scaled-1.jpg",
+        "Redirect": "https://www.ozcanopies.com.au/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ozcanopies.com.au"
+        "AbstractURL": "https://www.ozcanopies.com.au/"
     },
     {
         "link": "https://paccosmetics.com",
@@ -300,6 +300,16 @@
         "AbstractURL": "https://pandaloo.ch/"
     },
     {
+        "link": "https://pansoft.de",
+        "Heading": "Home",
+        "Abstract": "Die PANSOFT GmbH hat sich auf den professionellen Einsatz von Open Source im Unternehmen spezialisiert.",
+        "Official Site": "https://pansoft.de",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://pansoft.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pansoft.de"
+    },
+    {
         "link": "https://peixoto.com.br",
         "Heading": "PEIXOTO COMERCIO INDUSTRIA SERVICOS E TRANSPORTES S/A",
         "Abstract": "Peixoto Atacado Online do Pequeno e M\u00e9dio varejista. Aqui voc\u00ea encontra mais de 4.500 produtos dispon\u00edveis nos departamentos de Alimentos, Bebidas, Limpeza, Bazar, Higiene e Beleza, Cal\u00e7ados e outros. Confira no site e compre online com seu CNPJ.",
@@ -308,6 +318,16 @@
         "Redirect": "https://peixoto.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://peixoto.com.br"
+    },
+    {
+        "link": "https://perfecthideaways.co.za",
+        "Heading": "Home | Perfect Hideaways",
+        "Abstract": "Handpicked for their outstanding architecture, gorgeous interiors and unsurpassed locations, our hideaways allow you to escape the ordinary.",
+        "Official Site": "https://www.perfecthideaways.co.za/",
+        "Icon": "https://www.perfecthideaways.co.za/wp-content/uploads/2023/11/SEO-Facebook_share-image.jpg",
+        "Redirect": "https://www.perfecthideaways.co.za/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.perfecthideaways.co.za/"
     },
     {
         "link": "https://peytonstreetpens.com",

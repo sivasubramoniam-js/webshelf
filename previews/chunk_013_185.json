@@ -60,6 +60,16 @@
         "AbstractURL": "https://csspta.com/"
     },
     {
+        "link": "https://northlife.ro",
+        "Heading": "Untitled Document",
+        "Abstract": null,
+        "Official Site": "https://northlife.ro",
+        "Icon": "N/A",
+        "Redirect": "https://northlife.ro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://northlife.ro"
+    },
+    {
         "link": "https://primastream.com",
         "Heading": "Prima",
         "Abstract": null,
@@ -144,10 +154,20 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://gravelsemesterflourish.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://gravelsemesterflourish.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gravelsemesterflourish.com"
+    },
+    {
+        "link": "https://starlingscapital.com",
+        "Heading": "StarlingsCapital.com is for sale | HugeDomains",
+        "Abstract": "Get set up with a new domain name right away. Affordable payment plans to fit any budget. Friendly customer support.",
+        "Official Site": "https://www.HugeDomains.com/domain_profile.cfm?d=StarlingsCapital.com",
+        "Icon": "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png",
+        "Redirect": "https://www.HugeDomains.com/domain_profile.cfm?d=StarlingsCapital.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.HugeDomains.com/domain_profile.cfm?d=StarlingsCapital.com"
     },
     {
         "link": "https://seenandunseen.com",

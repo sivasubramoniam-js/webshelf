@@ -20,6 +20,16 @@
         "AbstractURL": "https://www.storepieces.com/"
     },
     {
+        "link": "https://stragnhildsgille.se",
+        "Heading": "S\u00f6derk\u00f6pings hembygdsf\u00f6rening -  S:t Ragnhilds Gille",
+        "Abstract": null,
+        "Official Site": "https://stragnhildsgille.se",
+        "Icon": "N/A",
+        "Redirect": "https://stragnhildsgille.se",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stragnhildsgille.se"
+    },
+    {
         "link": "https://studentlanka.com",
         "Heading": "Home - StudentLanka.com \u2013 Your Pathway to Exams, Careers and AI Skills",
         "Abstract": "Education support and AI tools for faster learning and career growth. - Master AI Without Abandoning Your Studies Whether you're preparing for O/L, crushing A/L Biology, choosing a university, or planning your career\u2014StudentLanka.com gives you the AI skills to excel faster, work smarter, and future-proof your success. Led by Dr. Hiran Amarasekera | Trusted by Sri Lankan students for 25+ years Discover Now Harness AI to Boost",
@@ -78,6 +88,16 @@
         "Redirect": "https://sushi-melt.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sushi-melt.net"
+    },
+    {
+        "link": "https://sveaas.net",
+        "Heading": "Startside",
+        "Abstract": null,
+        "Official Site": "https://sveaas.net",
+        "Icon": "img/public/android-icon-192x192.png",
+        "Redirect": "https://sveaas.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sveaas.net"
     },
     {
         "link": "https://swingcomputers.com",
@@ -220,13 +240,23 @@
         "AbstractURL": "https://tilefeeds.co.uk"
     },
     {
-        "link": "https://topusvape.com",
-        "Heading": "\u6ca1\u6709\u627e\u5230\u7ad9\u70b9",
+        "link": "https://topcareer.id",
+        "Heading": "TopCareerID \u2013 Your Golden Career Compass",
         "Abstract": null,
-        "Official Site": "https://topusvape.com",
-        "Icon": "N/A",
-        "Redirect": "https://topusvape.com",
+        "Official Site": "https://topcareer.id",
+        "Icon": "https://topcareer.id/wp-content/uploads/2019/08/cropped-Icon-gradasi-32x32.png",
+        "Redirect": "https://topcareer.id",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://topusvape.com"
+        "AbstractURL": "https://topcareer.id"
+    },
+    {
+        "link": "https://topusvape.com",
+        "Heading": "Home - Shop Long\u2011Lasting Disposable Vape Pens & E\u2011Juice \u2013 Free Delivery on Fruit, Dessert & Menthol E\u2011Liquid Flavors",
+        "Abstract": null,
+        "Official Site": "https://www.topusvape.com/",
+        "Icon": "https://www.topusvape.com/wp-content/uploads/2026/06/pexels-99816073-10312202.jpg",
+        "Redirect": "https://www.topusvape.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.topusvape.com/"
     }
 ]

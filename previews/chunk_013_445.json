@@ -130,6 +130,16 @@
         "AbstractURL": "https://versoli.com/pl/"
     },
     {
+        "link": "https://hi2net.com",
+        "Heading": "Log into Facebook | Facebook",
+        "Abstract": "Log into Facebook to start sharing and connecting with your friends, family, and people you know.",
+        "Official Site": "https://www.facebook.com/login/",
+        "Icon": "N/A",
+        "Redirect": "https://www.facebook.com/login/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.facebook.com/login/"
+    },
+    {
         "link": "https://prodentim24.com",
         "Heading": "ProDentim - Text Presentation",
         "Abstract": "ProDentim - Text Presentation",
@@ -151,10 +161,10 @@
     },
     {
         "link": "https://tntelectric-co.com",
-        "Heading": "Electrician Near You in Citrus Heights & Sacramento, CA - TNT Electric Co.",
-        "Abstract": "Licensed residential and commercial electricians serving Citrus Heights, Sacramento, Roseville, Fair Oaks, Carmichael, Orangevale, Rancho Cordova, and surrounding communities. Panel upgrades, EV charger installation, electrical repairs, troubleshooting, lighting, and wiring services.",
+        "Heading": "Licensed Electrician Citrus Heights, CA | Panel Upgrades & EV Chargers - TNT Electric Co.",
+        "Abstract": "TNT Electric Co. is a licensed electrician in Citrus Heights, CA (CSLB #1099241). Panel upgrades, EV charger installation, rewiring, and repairs. \u26055-rated. Free quotes. Call (916) 370-5032.",
         "Official Site": "https://tntelectric-co.com/",
-        "Icon": "https://tntelectric-co.com/wp-content/uploads/2025/03/cropped-Fav-Icon-32x32.jpg",
+        "Icon": "https://tntelectric-co.com/wp-content/uploads/2025/09/Briar-Buddecke-Owner.jpg",
         "Redirect": "https://tntelectric-co.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tntelectric-co.com/"
@@ -228,6 +238,16 @@
         "Redirect": "https://angfa.jp",
         "AbstractSource": "BS4",
         "AbstractURL": "https://angfa.jp"
+    },
+    {
+        "link": "https://kosmickonnections.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://kosmickonnections.com",
+        "Icon": "N/A",
+        "Redirect": "https://kosmickonnections.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kosmickonnections.com"
     },
     {
         "link": "https://hanf.com",

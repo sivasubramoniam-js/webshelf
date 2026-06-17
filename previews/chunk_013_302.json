@@ -60,6 +60,16 @@
         "AbstractURL": "https://zazofficial.com"
     },
     {
+        "link": "https://luvbeinghost.com",
+        "Heading": "Portal Home - LuvBeing Host",
+        "Abstract": null,
+        "Official Site": "https://luvbeinghost.com",
+        "Icon": "/templates/hostx/images/favicon.ico",
+        "Redirect": "https://luvbeinghost.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://luvbeinghost.com"
+    },
+    {
         "link": "https://everestfinances.com",
         "Heading": "Coming Soon",
         "Abstract": null,
@@ -70,14 +80,14 @@
         "AbstractURL": "https://everestfinances.com"
     },
     {
-        "link": "https://vodafone-insurance.com",
-        "Heading": null,
+        "link": "https://adns-nichonauta.com",
+        "Heading": "cPanel Login",
         "Abstract": null,
-        "Official Site": "https://vodafone-insurance.com",
-        "Icon": "N/A",
-        "Redirect": "https://vodafone-insurance.com",
+        "Official Site": "https://adns-nichonauta.com",
+        "Icon": "data:image/x-icon;base64,AAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC+8MW+3z+9/l6l2383xH+iSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1+w/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2+1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou+f6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m+RncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL+mZE18e36IWiHLkFocqzW9QXcNz1+wUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD+/p6dJDknzX+05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX+DPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC",
+        "Redirect": "https://adns-nichonauta.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vodafone-insurance.com"
+        "AbstractURL": "https://adns-nichonauta.com"
     },
     {
         "link": "https://ripxu.com",
@@ -111,13 +121,13 @@
     },
     {
         "link": "https://jdonovanlaw.ca",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://jdonovanlaw.ca",
-        "Icon": "data:;",
-        "Redirect": "https://jdonovanlaw.ca",
+        "Heading": "Family, Criminal & Civil Lawyers in NB | J. Donovan Law Group",
+        "Abstract": "J. Donovan Law Group provides family, criminal, real estate, wills, estates, mediation, and civil litigation services across New Brunswick.",
+        "Official Site": "https://www.jdonovanlaw.ca/",
+        "Icon": "https://jdonovanlaw.ca/wp-content/uploads/2020/06/DLG_favicon.png",
+        "Redirect": "https://www.jdonovanlaw.ca/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jdonovanlaw.ca"
+        "AbstractURL": "https://www.jdonovanlaw.ca/"
     },
     {
         "link": "https://gringosoysterbar.com",
@@ -138,6 +148,16 @@
         "Redirect": "https://5gringo-777.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://5gringo-777.com"
+    },
+    {
+        "link": "https://scatter.com.ar",
+        "Heading": "Scatter.com.ar",
+        "Abstract": "Explora rese\u00f1as completas de casas de apuestas y encuentra tu pr\u00f3xima plataforma de apuestas. Mejora tu estrategia con nuestras recomendaciones expertas.",
+        "Official Site": "https://scatter.com.ar/",
+        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
+        "Redirect": "https://scatter.com.ar/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://scatter.com.ar/"
     },
     {
         "link": "https://ahyes.org",
@@ -161,13 +181,13 @@
     },
     {
         "link": "https://anatomage.com",
-        "Heading": "Anatomage, Inc | Digital 3D Anatomy and Physiology Learning Tool",
-        "Abstract": "Anatomage leads in transforming real human bodies into interactive, digital 3D cadavers, showcasing accurate anatomy and physiology.",
-        "Official Site": "https://anatomage.com/",
-        "Icon": "https://anatomage.com/wp-content/uploads/2026/06/anatomage-product-ecosystem.webp",
-        "Redirect": "https://anatomage.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://anatomage.com",
+        "Icon": "N/A",
+        "Redirect": "https://anatomage.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://anatomage.com/"
+        "AbstractURL": "https://anatomage.com"
     },
     {
         "link": "https://visitcolumbusga.com",
@@ -180,6 +200,36 @@
         "AbstractURL": "https://visitcolumbusga.com/"
     },
     {
+        "link": "https://jsoarescorreia.pt",
+        "Heading": "J. Soares Correia - Armaz\u00e9ns de Ferro, S.A. | Produtos Sider\u00fargicos. Venda de Ferro e A\u00e7o, Malhas de A\u00e7o, Perfis, Arame, Galvaniza\u00e7\u00e3o, Chapa, Redes, Tubos, Var\u00e3o, Barras Comerciais",
+        "Abstract": "Armaz\u00e9m Ferro e A\u00e7o Portugal, Produtos Sider\u00fargicos, Barras Comerciais, Arame, Chapa, Perfis, Redes, Tubos, Var\u00e3o para Bet\u00e3o, Malhasol",
+        "Official Site": "https://jsoarescorreia.pt/",
+        "Icon": "https://jsoarescorreia.pt/wp-content/uploads/2023/05/DSCN4907-1.jpg",
+        "Redirect": "https://jsoarescorreia.pt/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jsoarescorreia.pt/"
+    },
+    {
+        "link": "https://sattvaorquideascolombia.com",
+        "Heading": "La Orquidea ideal para el cliente ideal",
+        "Abstract": null,
+        "Official Site": "https://sattvaorquideascolombia.com",
+        "Icon": "https://sattvaorquideascolombia.com/wp-content/uploads/2020/07/cropped-Logo-final-1-32x32.png",
+        "Redirect": "https://sattvaorquideascolombia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sattvaorquideascolombia.com"
+    },
+    {
+        "link": "https://cgtaik.com",
+        "Heading": "KETUA123 Oc\u00e9an V\u00e9g\u00e9tal | Paysagiste \u00e0 Rochefort | Charente-Maritime",
+        "Abstract": "Wujudkan taman impian Anda bersama Oc\u00e9an V\u00e9g\u00e9tal \u2013 layanan desain taman, pemeliharaan lanskap, dan solusi hijau profesional di Rochefort.",
+        "Official Site": "https://www.oceanvegetal.com/",
+        "Icon": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1200&q=80",
+        "Redirect": "https://www.oceanvegetal.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.oceanvegetal.com/"
+    },
+    {
         "link": "https://rfndtrk.com",
         "Heading": null,
         "Abstract": null,
@@ -188,6 +238,16 @@
         "Redirect": "https://rfndtrk.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rfndtrk.com"
+    },
+    {
+        "link": "https://sim-automation.de",
+        "Heading": "SIM Automation GmbH \u2013 simply automation",
+        "Abstract": null,
+        "Official Site": "https://sim-automation.de",
+        "Icon": "https://www.sim-automation.de/wp-content/uploads/2022/05/cropped-icon-32x32.png",
+        "Redirect": "https://sim-automation.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sim-automation.de"
     },
     {
         "link": "https://swabhimanifoodcluster.com",
@@ -213,10 +273,10 @@
         "link": "https://paula.cl",
         "Heading": "Paula - La Tercera",
         "Abstract": "Paula.cl: revista chilena para mujeres con historias de vida, salud, amor, maternidad, crianza y bienestar.",
-        "Official Site": "https://www.latercera.com/canal/paula/",
+        "Official Site": "https://www.latercera.com/canal/paula/?feed=rss2",
         "Icon": "https://www.latercera.com/resizer/v2/LNTX4CAJLZGAFJCQTL2EWO7STA.jpg?auth=9d190a9c367914860440827b4cabd17409892544b709bb1efa29e47eb3112d08&height=630&width=1200&focal=600%2C315",
-        "Redirect": "https://www.latercera.com/canal/paula/",
+        "Redirect": "https://www.latercera.com/canal/paula/?feed=rss2",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.latercera.com/canal/paula/"
+        "AbstractURL": "https://www.latercera.com/canal/paula/?feed=rss2"
     }
 ]

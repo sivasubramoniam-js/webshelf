@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://jbcookiecutters.com",
-        "Heading": "Cookie Cutters | Fondant Cutters Online | JB Cookie Cutters",
-        "Abstract": "JB Cookie Cutters make custom cookie cutters in almost any design you can imagine. From Batman to your favorite Disney characters, we have it all! Order online!",
-        "Official Site": "https://www.jbcookiecutters.com/",
-        "Icon": "https://www.jbcookiecutters.com/wp-content/uploads/2022/04/JBCookieCutters.png",
-        "Redirect": "https://www.jbcookiecutters.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.jbcookiecutters.com/"
-    },
-    {
         "link": "https://wetten-tipps-expert.com",
         "Heading": "Wett Tipps 2026: Sportwetten, Quoten und Analysen im \u00dcberblick",
         "Abstract": "Aktuelle Wett Tipps 2026 mit Quoten, Analysen und Sportwetten im \u00dcberblick. Inhalte zu Fu\u00dfball, Tennis, Wettm\u00e4rkten und relevanten Faktoren f\u00fcr Wettentscheidungen.",
@@ -50,6 +40,16 @@
         "AbstractURL": "https://latarnik-kopice.pl/"
     },
     {
+        "link": "https://newdigitalpoint.com",
+        "Heading": "Home - Newdigitalpoint",
+        "Abstract": "Stay updated with the latest in technology news, smartphone trends, and cutting-edge drone innovations\u2014all in one dynamic tech blog.",
+        "Official Site": "https://newdigitalpoint.com/",
+        "Icon": "https://newdigitalpoint.com/wp-content/uploads/2025/09/airtable_698d6267cc015.webp",
+        "Redirect": "https://newdigitalpoint.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://newdigitalpoint.com/"
+    },
+    {
         "link": "https://calligo.cloud",
         "Heading": "Calligo | Transformative Data Management Services",
         "Abstract": "Calligo is a provider of transformative data services, spanning Data Privacy, Data Insights and Managed Cloud",
@@ -78,6 +78,16 @@
         "Redirect": "https://diakonie-dresden.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://diakonie-dresden.de"
+    },
+    {
+        "link": "https://saidthegramophone.com",
+        "Heading": "Said the Gramophone - an mp3 blog",
+        "Abstract": null,
+        "Official Site": "https://saidthegramophone.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://saidthegramophone.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://saidthegramophone.com"
     },
     {
         "link": "https://irisservers.com",
@@ -128,16 +138,6 @@
         "Redirect": "https://zhxg.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zhxg.com"
-    },
-    {
-        "link": "https://hawaiianbeachrentals.com",
-        "Heading": "Escape to Paradise with Us | Hawaiian Beach Rentals",
-        "Abstract": "Go ahead and spend vacation with our exclusive Hawaii beach house rentals. Explore luxury, breathtaking views, and the ideal beachfront getaway. Contact (844)...",
-        "Official Site": "https://www.hawaiianbeachrentals.com",
-        "Icon": "https://www.hawaiianbeachrentals.com/img/logo_img.png",
-        "Redirect": "https://www.hawaiianbeachrentals.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hawaiianbeachrentals.com"
     },
     {
         "link": "https://bot-stars.pro",
@@ -201,10 +201,10 @@
     },
     {
         "link": "https://metacreations.com",
-        "Heading": null,
+        "Heading": "MetaCreations",
         "Abstract": null,
         "Official Site": "https://metacreations.com",
-        "Icon": "data:;",
+        "Icon": "https://metacreations.com/wp-content/themes/Avada/assets/images/logo.png",
         "Redirect": "https://metacreations.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://metacreations.com"

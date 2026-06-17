@@ -50,6 +50,16 @@
         "AbstractURL": "https://landmarkcapitallp.com"
     },
     {
+        "link": "https://fastbolt.com",
+        "Heading": "Home - Fastbolt Gruppe",
+        "Abstract": null,
+        "Official Site": "https://www.fastbolt.com/",
+        "Icon": "https://www.fastbolt.com/wp-content/uploads/2018/08/favicon.png",
+        "Redirect": "https://www.fastbolt.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fastbolt.com/"
+    },
+    {
         "link": "https://campaniartecard.it",
         "Heading": "Home - Artecard",
         "Abstract": "campania>artecard \u00e8 il pass per visitare i musei di Napoli e la Campania e per viaggiare sui trasporti pubblici della rete UnicoCampania",
@@ -100,14 +110,14 @@
         "AbstractURL": "https://edwardhopper.net"
     },
     {
-        "link": "https://americalatinagenera.org",
-        "Heading": "Am\u00e9rica Latina Genera | Gesti\u00f3n del Conocimiento y G\u00e9nero",
-        "Abstract": "Am\u00e9rica Latina Genera es un portal que facilita el acceso a la informaci\u00f3n y al conocimiento en temas de g\u00e9nero en la regi\u00f3n.",
-        "Official Site": "https://americalatinagenera.org/",
-        "Icon": "wp-content/uploads/2022/05/logo-genera.png",
-        "Redirect": "https://americalatinagenera.org/",
+        "link": "https://gpfi.org",
+        "Heading": "GPFI",
+        "Abstract": null,
+        "Official Site": "https://gpfi.org",
+        "Icon": "/themes/custom/gpfi/favicon.ico",
+        "Redirect": "https://gpfi.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://americalatinagenera.org/"
+        "AbstractURL": "https://gpfi.org"
     },
     {
         "link": "https://belexpo.by",
@@ -168,6 +178,16 @@
         "Redirect": "https://brennan.io/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://brennan.io/"
+    },
+    {
+        "link": "https://britsoccrim.org",
+        "Heading": "British Society of Criminology",
+        "Abstract": null,
+        "Official Site": "https://britsoccrim.org",
+        "Icon": "N/A",
+        "Redirect": "https://britsoccrim.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://britsoccrim.org"
     },
     {
         "link": "https://louisianarecord.com",
@@ -268,5 +288,15 @@
         "Redirect": "https://indowebhost.co.id/home/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://indowebhost.co.id/home/"
+    },
+    {
+        "link": "https://envitect.com",
+        "Heading": "ACP Sheet Manufacturer in India | Aluminium Composite Panels",
+        "Abstract": "Leading ACP Sheet Manufacturer in India offering Aluminium Composite Panels, ACP Boards & facade solutions for modern architectural projects.",
+        "Official Site": "https://envitect.com/",
+        "Icon": "https://envitect.com/wp-content/uploads/2024/04/about-bg.webp",
+        "Redirect": "https://envitect.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://envitect.com/"
     }
 ]

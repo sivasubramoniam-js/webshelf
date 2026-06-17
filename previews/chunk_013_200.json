@@ -10,11 +10,21 @@
         "AbstractURL": "https://closo.co/"
     },
     {
+        "link": "https://eafactory.com",
+        "Heading": "EAfactory - Automated Forex Trading Solutions",
+        "Abstract": "High-performance Expert Advisors (EAs) for MetaTrader. Automate your trading with our proven Forex robots.",
+        "Official Site": "https://eafactory.com",
+        "Icon": "https://www.eafactory.com/favicon.ico",
+        "Redirect": "https://eafactory.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eafactory.com"
+    },
+    {
         "link": "https://trickysite.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Tricky | Home",
+        "Abstract": "",
         "Official Site": "https://trickysite.com",
-        "Icon": "data:;",
+        "Icon": "https://www.trickysite.com/wp-content/themes/tricky/_assets/img/shareImage.jpg",
         "Redirect": "https://trickysite.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trickysite.com"
@@ -70,6 +80,26 @@
         "AbstractURL": "https://www.raisg.org/es/"
     },
     {
+        "link": "https://armandomipc.com.pe",
+        "Heading": "ARMANDO MI PC - Laptops, Computadoras, Impresoras",
+        "Abstract": "ARMANDO MI PC: Expertos en Equipos de Tecnologia de Ultima Generaci\u00f3n, Laptops, Computadoras, Impresoras, Accesorios.",
+        "Official Site": "https://armandomipc.com.pe",
+        "Icon": "https://armandomipc.com.pe/images/logo-armando-mi-pc.svg",
+        "Redirect": "https://armandomipc.com.pe",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://armandomipc.com.pe"
+    },
+    {
+        "link": "https://verenigingfas.nl",
+        "Heading": "De vereniging Familie- en erfrecht Advocaten Scheidingsmediators",
+        "Abstract": "Het personen-, familie- en erfrecht is een rechtsgebied dat volop in beweging en in ontwikkeling is. Dat geldt zeker ook voor de vFAS >>>",
+        "Official Site": "https://verenigingfas.nl/",
+        "Icon": "https://verenigingfas.nl/wp-content/uploads/2024/08/Echtscheidingsmediator-vFAS.jpg",
+        "Redirect": "https://verenigingfas.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://verenigingfas.nl/"
+    },
+    {
         "link": "https://academiaventasdigitales.com",
         "Heading": "Academia de Ventas Digitales",
         "Abstract": null,
@@ -78,6 +108,26 @@
         "Redirect": "https://academiaventasdigitales.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://academiaventasdigitales.com"
+    },
+    {
+        "link": "https://homenett.com.br",
+        "Heading": "Homenet Telecom |  Seu Provedor de Internet",
+        "Abstract": null,
+        "Official Site": "https://homenett.com.br",
+        "Icon": "",
+        "Redirect": "https://homenett.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://homenett.com.br"
+    },
+    {
+        "link": "https://countryschatter.com",
+        "Heading": "Country\u2019s Chatter \u2013 stay in tune with your favorite country stars.",
+        "Abstract": "stay in tune with your favorite country stars.",
+        "Official Site": "https://www.countryschatter.com/",
+        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC93d3cuY291bnRyeXNjaGF0dGVyLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxNlwvMDhcL2Nyb3BwZWQtbXVzaWMtbm90ZXMuanBnP2ZpdD01MTIlMkM1MTImc3NsPTEiLCJ0eHQiOiJDb3VudHJ5J3MgQ2hhdHRlciIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjo0Nzc1ODk1fQ.VzN4cIyxT5DS4uFYiHndRVfAlsMt54m03kbWTIKwp9gMQ",
+        "Redirect": "https://www.countryschatter.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.countryschatter.com/"
     },
     {
         "link": "https://modiru.com",
@@ -208,6 +258,16 @@
         "Redirect": "https://merchbundle.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://merchbundle.com"
+    },
+    {
+        "link": "https://trinkgames.com",
+        "Heading": "Trink Games",
+        "Abstract": "Download free Games and Apps for your device\ud83d\udd79\ud83c\udfaf\ud83e\ude80",
+        "Official Site": "https://trinkgames.com/",
+        "Icon": "assets/img/favicon.ico",
+        "Redirect": "https://trinkgames.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trinkgames.com/"
     },
     {
         "link": "https://zoobrilka.com",

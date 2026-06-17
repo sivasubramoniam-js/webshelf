@@ -70,14 +70,14 @@
         "AbstractURL": "https://bigboss1.org/"
     },
     {
-        "link": "https://bc-berlin-nord.com",
-        "Heading": "Bridge-Club Berlin-Nord e.V.",
-        "Abstract": null,
-        "Official Site": "https://bc-berlin-nord.com",
-        "Icon": "/favicon/favicon-32x32.png",
-        "Redirect": "https://bc-berlin-nord.com",
+        "link": "https://addictivepoints.com",
+        "Heading": "Home - Addictivepoints",
+        "Abstract": "Discover expert guides, tips & news on FIFA, Skyrim & WoW from trusted gamers at AddictivePoints.",
+        "Official Site": "https://addictivepoints.com/",
+        "Icon": "https://addictivepoints.com/wp-content/uploads/2026/03/airtable_69c4c591a4a7d-1.jpeg",
+        "Redirect": "https://addictivepoints.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bc-berlin-nord.com"
+        "AbstractURL": "https://addictivepoints.com/"
     },
     {
         "link": "https://jdland.com",
@@ -164,7 +164,7 @@
         "Heading": null,
         "Abstract": "",
         "Official Site": "https://suntci.com",
-        "Icon": "https://suntci.com/favicon.png?v=15365856482",
+        "Icon": "https://suntci.com/favicon.png?v=96586921296",
         "Redirect": "https://suntci.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://suntci.com"
@@ -208,5 +208,15 @@
         "Redirect": "https://kobilis.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kobilis.com"
+    },
+    {
+        "link": "https://modernautomation.ca",
+        "Heading": "Modern Automation \u2013 Modern Automation Home / Smart House solutions",
+        "Abstract": null,
+        "Official Site": "https://modernautomation.ca",
+        "Icon": "/wp-content/themes/quake/assets/images/favicon.png",
+        "Redirect": "https://modernautomation.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://modernautomation.ca"
     }
 ]
