@@ -31,7 +31,7 @@
     },
     {
         "link": "https://yourmoscow.ru",
-        "Heading": "KillBot user verification [68.154.119.212] [Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0]...",
+        "Heading": "KillBot user verification [13.83.160.132] [Mozilla/5.0 (Macintosh; Intel Mac OS X 14_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36]...",
         "Abstract": null,
         "Official Site": "https://yourmoscow.ru",
         "Icon": "N/A",
@@ -260,6 +260,16 @@
         "AbstractURL": "https://ccapi.co"
     },
     {
+        "link": "https://windmesse.de",
+        "Heading": "\nWindenergie und Windkraft | windmesse.de\n",
+        "Abstract": "Windmesse.de informiert aktuell \u00fcber die Windenergie-Branche. Dabei stehen unsere Mitgliedsunternehmen mit ihren aktuellen Produkten, Windenergieanlagen und/oder Komponenten und Dienstleistungen im Ber",
+        "Official Site": "https://windmesse.de",
+        "Icon": "N/A",
+        "Redirect": "https://windmesse.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://windmesse.de"
+    },
+    {
         "link": "https://jammydodgers.co.uk",
         "Heading": "Jammie Dodgers - Britain's Favourite Jam Filled Biscuits - FBC UK",
         "Abstract": "Discover the playful world of Jammie Dodgers, the UK's most-loved jam-filled biscuits. From classic strawberry to special editions, find your perfect jammy treat made by FBC since 1960",
@@ -328,6 +338,16 @@
         "Redirect": "https://fxopenaffiliate.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fxopenaffiliate.com/"
+    },
+    {
+        "link": "https://lukasbudinsky.cz",
+        "Heading": "Luk\u00e1\u0161 Bud\u00ednsk\u00fd - sportovn\u00ed, outdoor a rodinn\u00fd fotograf",
+        "Abstract": "Luk\u00e1\u0161 Bud\u00ednsk\u00fd - sportovn\u00ed, outdoor a rodinn\u00fd fotograf miluj\u00edc\u00ed hory, sport a p\u0159\u00edb\u011bhy. M\u00fdm ateli\u00e9rem jsou nejen Beskydy, ale i Tatry, Alpy \u010di Dolomity",
+        "Official Site": "https://lukasbudinsky.cz/",
+        "Icon": "https://lukasbudinsky.cz/wp-content/uploads/2017/02/cropped-web_lukas_budinsky-32x32.png",
+        "Redirect": "https://lukasbudinsky.cz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lukasbudinsky.cz/"
     },
     {
         "link": "https://ielts-simon.com",

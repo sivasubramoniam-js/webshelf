@@ -10,16 +10,6 @@
         "AbstractURL": "https://protistologists.org/this-url-is-canonical/"
     },
     {
-        "link": "https://smarthacklink.xyz",
-        "Heading": "smarthacklink.xyz",
-        "Abstract": null,
-        "Official Site": "https://smarthacklink.xyz",
-        "Icon": "N/A",
-        "Redirect": "https://smarthacklink.xyz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://smarthacklink.xyz"
-    },
-    {
         "link": "https://adcomsolutions.com",
         "Heading": "Enterprise Technology: Design, Source, Implement, and Support - VersatilIT",
         "Abstract": "We Design, Source, Implement and Support Technology for Enterprise. Our solutions deliver the versatility that your technology stack demands.",
@@ -38,6 +28,16 @@
         "Redirect": "https://itabcabc.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://itabcabc.ru"
+    },
+    {
+        "link": "https://sumobulldogs.com",
+        "Heading": "\u89e6\u624b\u52a8\u6f2b \u00b7 \u6307\u5c16\u6b21\u5143 | \u89e6\u611f\u7535\u5f71\u00b7\u6c89\u6d78\u5267\u96c6\u00b7\u5168\u606f\u7efc\u827a\u00b7\u65b0\u756a\u89e6\u78b0\u00b7\u6f2b\u6e38\u6f2b\u753b",
+        "Abstract": "\u89e6\u624b\u52a8\u6f2b \u2014 \u6307\u5c16\u89e6\u78b0\uff0c\u6b21\u5143\u5f00\u542f\u3002\u6536\u5f55\u89e6\u624b\u53ef\u53ca\u7684\u7535\u5f71\u3001\u8fde\u64ad\u5267\u96c6\u3001\u5168\u666f\u7efc\u827a\u3001\u65b0\u756a\u52a8\u6f2b\u4e0e\u4e92\u52a8\u6f2b\u753b\u3002\u6bcf\u4e00\u6b21\u6ed1\u52a8\uff0c\u90fd\u662f\u4e0e\u6545\u4e8b\u7684\u4eb2\u5bc6\u63a5\u89e6\u3002",
+        "Official Site": "https://sumobulldogs.com",
+        "Icon": "N/A",
+        "Redirect": "https://sumobulldogs.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sumobulldogs.com"
     },
     {
         "link": "https://wrganews.com",
@@ -284,7 +284,7 @@
         "Heading": "\u00a0 - Start",
         "Abstract": null,
         "Official Site": "https://klaiberundoettle.de/Start/",
-        "Icon": "data:;base64,iVBORw0KGgo=",
+        "Icon": "https://klaiberundoettle.de/.cm4all/uproc.php/0/Aktuelles47.jpg",
         "Redirect": "https://klaiberundoettle.de/Start/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://klaiberundoettle.de/Start/"

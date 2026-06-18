@@ -94,7 +94,7 @@
         "Heading": "\n      Mustafa Computers | Laptops, PCs, Printers & Electronics in Pakistan\n \u2013 MUSTAFA COMPUTERS",
         "Abstract": "Mustafa Computers is a leading computer and electronics store in Pakistan. Shop laptops, desktops, gaming PCs, monitors, printers, networking devices, and accessories with official warranty and nationwide delivery.",
         "Official Site": "https://mustafacomputers.pk/",
-        "Icon": "http://mustafacomputers.pk/cdn/shop/files/Mustafa-Computers-Logo-01_5a4ea819-adc5-469d-8481-2f2f21b5357a.png?height=628&pad_color=ffffff&v=1713866348&width=1200",
+        "Icon": "http://cdn.shopify.com/s/files/1/0874/3577/2185/files/Mustafa-Computers-Logo-01_5a4ea819-adc5-469d-8481-2f2f21b5357a.png?height=628&pad_color=ffffff&v=1713866348&width=1200",
         "Redirect": "https://mustafacomputers.pk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mustafacomputers.pk/"
@@ -298,6 +298,16 @@
         "Redirect": "https://www.neutonic.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.neutonic.com/"
+    },
+    {
+        "link": "https://newsflash71.com",
+        "Heading": "News Flash 71",
+        "Abstract": "this is meta description",
+        "Official Site": "https://newsflash71.com",
+        "Icon": "https://admin.newsflash71.com/uploads/logo/1764058387.png",
+        "Redirect": "https://newsflash71.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://newsflash71.com"
     },
     {
         "link": "https://nexuscare.me",

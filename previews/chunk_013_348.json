@@ -121,13 +121,23 @@
     },
     {
         "link": "https://paralleltext.io",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://paralleltext.io",
         "Icon": "N/A",
         "Redirect": "https://paralleltext.io",
         "AbstractSource": "BS4",
         "AbstractURL": "https://paralleltext.io"
+    },
+    {
+        "link": "https://thinkglink.com",
+        "Heading": "Real Estate and Personal Financial Advice | ThinkGlink",
+        "Abstract": "Best real estate and personal finance advice authored by the leading real estate advocate, award-winning financial journalist and book author, Ilyce Glink.",
+        "Official Site": "https://www.thinkglink.com/",
+        "Icon": "https://www.thinkglink.com/wp-content/uploads/2016/10/thinkglink-logo.png",
+        "Redirect": "https://www.thinkglink.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thinkglink.com/"
     },
     {
         "link": "https://exelnode.com",
@@ -191,7 +201,7 @@
     },
     {
         "link": "https://davesrunning.com",
-        "Heading": "Dave's Running Shop \u2013 Daves Running",
+        "Heading": "Dave's Running Shop \u2013 Daves Running Shop",
         "Abstract": "Since 1973, they have been providing the community with top-quality running shoes, lifestyle footgear, apparel, and technology. Priding itself on fitting customers with the perfect gear for their needs. With locations in Sylvania, Perrysburg, Findlay, and Delta, they are dedicated to serving runners of all levels.",
         "Official Site": "https://davesrunning.com/",
         "Icon": "http://davesrunning.com/cdn/shop/files/Social-assets-Daves-13.png?v=1755197424",
@@ -258,16 +268,6 @@
         "Redirect": "https://cherriesiddique.top",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cherriesiddique.top"
-    },
-    {
-        "link": "https://dorukmak.com.tr",
-        "Heading": "Ana Sayfa - Dorukmak",
-        "Abstract": "\u201cG\u00fcvenli ve konforlu bir s\u00fcr\u00fc\u015f i\u00e7in \u00fcretiyoruz\u201d 1 TON Y\u0131ll\u0131k Kar\u0131\u015f\u0131mKapasitesi 1 + Toz Lasti\u011fi \u00dcr\u00fcn \u00c7e\u015fidi 1 Adet Y\u0131ll\u0131k \u00dcretimKapasitesi 1 + Ki\u015filik \u00c7al\u0131\u015fanSay\u0131s\u0131 TOZ LAST\u0130KLER\u0130 Rot ba\u015f\u0131 ve rotil gruplar\u0131nda kullan\u0131lan s\u0131zd\u0131rmazl\u0131k \u00fcr\u00fcnleridir. \u00dcR\u00dcNLERE G\u0130T T\u0130TRE\u015e\u0130M TAKOZLARI Vibrasyon s\u00f6n\u00fcmleyici olarak da adland\u0131r\u0131lan \u00fcr\u00fcn gruplar\u0131d\u0131r. Makine ve beyaz e\u015fya ba\u015fta olmak \u00fczere bir\u00e7ok sekt\u00f6rde [...]",
-        "Official Site": "https://dorukmak.com.tr/",
-        "Icon": "https://dorukmak.com.tr/wp-content/uploads/ROL_7491-1024x683.jpg",
-        "Redirect": "https://dorukmak.com.tr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dorukmak.com.tr/"
     },
     {
         "link": "https://dendritics.com",

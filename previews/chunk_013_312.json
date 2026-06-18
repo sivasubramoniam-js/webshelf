@@ -184,7 +184,7 @@
         "Heading": "Slekt i midtre Telemark",
         "Abstract": null,
         "Official Site": "https://slekt-i-midt-telemark.no",
-        "Icon": "img/public/android-icon-192x192.png",
+        "Icon": "img/public/favicon.ico",
         "Redirect": "https://slekt-i-midt-telemark.no",
         "AbstractSource": "BS4",
         "AbstractURL": "https://slekt-i-midt-telemark.no"
@@ -240,16 +240,6 @@
         "AbstractURL": "https://www.globalcardmart.com/"
     },
     {
-        "link": "https://4-dosug.com",
-        "Heading": "4-dosug.com",
-        "Abstract": null,
-        "Official Site": "https://4-dosug.com",
-        "Icon": "N/A",
-        "Redirect": "https://4-dosug.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://4-dosug.com"
-    },
-    {
         "link": "https://marcofellner.at",
         "Heading": "MarcoFellner \u2013 Hair & Make Up by Marco",
         "Abstract": null,
@@ -298,5 +288,15 @@
         "Redirect": "https://ridenowtucsoneast.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ridenowtucsoneast.com"
+    },
+    {
+        "link": "https://riverraisinstainedglass.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://riverraisinstainedglass.com",
+        "Icon": "N/A",
+        "Redirect": "https://riverraisinstainedglass.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://riverraisinstainedglass.com"
     }
 ]

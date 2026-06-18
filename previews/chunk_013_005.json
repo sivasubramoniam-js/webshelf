@@ -100,6 +100,16 @@
         "AbstractURL": "https://sunlightmedia.org/"
     },
     {
+        "link": "https://goodplayguide.com",
+        "Heading": "The Good Play Guide - Your one-stop for all things 'play'",
+        "Abstract": "The Good Play Guide is your one-stop for all things 'play'. Find the perfect products for your children with our independent experts' reviews and more",
+        "Official Site": "https://www.goodplayguide.com/",
+        "Icon": "https://www.goodplayguide.com/wp-content/uploads/2022/02/good-play-guide-logo.jpg",
+        "Redirect": "https://www.goodplayguide.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.goodplayguide.com/"
+    },
+    {
         "link": "https://poluchit-prava-2n7d.ru",
         "Heading": "Success!",
         "Abstract": null,
@@ -128,16 +138,6 @@
         "Redirect": "https://auctionads.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://auctionads.com"
-    },
-    {
-        "link": "https://leisure4youth.eu",
-        "Heading": "leisure4youth.eu \u2014 Latest News",
-        "Abstract": "Fresh and trending updates from leisure4youth.eu",
-        "Official Site": "https://leisure4youth.eu",
-        "Icon": "https://ts2.mm.bing.net/th?q=leisure4youth.eu",
-        "Redirect": "https://leisure4youth.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://leisure4youth.eu"
     },
     {
         "link": "https://caseygrants.org",
@@ -181,7 +181,7 @@
     },
     {
         "link": "https://trafficshoe.com",
-        "Heading": "Continue...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://trafficshoe.com",
         "Icon": "N/A",

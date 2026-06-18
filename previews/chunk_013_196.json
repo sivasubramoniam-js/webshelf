@@ -120,6 +120,16 @@
         "AbstractURL": "https://rwmarketing.com.au"
     },
     {
+        "link": "https://redbullmotorsport.com",
+        "Heading": "Red Bull Energy Drink \u2013 Gives You Wiiings",
+        "Abstract": "Welcome to the World of Red Bull. Find the latest news and stories about our energy drinks, athletes, artists, content, events, livestreams and more. ",
+        "Official Site": "https://www.redbull.com/us-en",
+        "Icon": "https://img.redbull.com/images/c_fill,g_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2026/3/24/kw375zsbxt3cf6hxefga/spot-on-summer-key-visual",
+        "Redirect": "https://www.redbull.com/us-en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.redbull.com/us-en"
+    },
+    {
         "link": "https://horoshiy-dep.xyz",
         "Heading": null,
         "Abstract": null,
@@ -211,10 +221,10 @@
     },
     {
         "link": "https://bxsrchrdr.com",
-        "Heading": "Google",
+        "Heading": "Search",
         "Abstract": null,
         "Official Site": "https://bxsrchrdr.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "N/A",
         "Redirect": "https://bxsrchrdr.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bxsrchrdr.com"
@@ -228,6 +238,16 @@
         "Redirect": "https://azumamakoto.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://azumamakoto.com"
+    },
+    {
+        "link": "https://americanbulls.com",
+        "Heading": "\n\tAmericanbulls - Technical analysis of stocks with candlesticks\n",
+        "Abstract": null,
+        "Official Site": "https://americanbulls.com",
+        "Icon": "N/A",
+        "Redirect": "https://americanbulls.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://americanbulls.com"
     },
     {
         "link": "https://handdryersupply.com",
@@ -258,15 +278,5 @@
         "Redirect": "https://kop16.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kop16.ru"
-    },
-    {
-        "link": "https://medsisters78.life",
-        "Heading": "\u0414\u043e\u043c\u0435\u043d \u043f\u0440\u0438\u043f\u0430\u0440\u043a\u043e\u0432\u0430\u043d \u0432 Timeweb",
-        "Abstract": null,
-        "Official Site": "https://medsisters78.life",
-        "Icon": "N/A",
-        "Redirect": "https://medsisters78.life",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://medsisters78.life"
     }
 ]

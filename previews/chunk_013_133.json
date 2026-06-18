@@ -81,10 +81,10 @@
     },
     {
         "link": "https://internet-modena.it",
-        "Heading": "www.internet-modena.it",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://internet-modena.it",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://internet-modena.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://internet-modena.it"
@@ -258,16 +258,6 @@
         "Redirect": "https://plankandpillow.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://plankandpillow.com/"
-    },
-    {
-        "link": "https://bcgame-denmark.com",
-        "Heading": "BC.Game Denmark - Online Crypto Casino for Slots & Games",
-        "Abstract": "Play casino games at BC.Game in Denmark. Enjoy secure crypto payments, fast withdrawals, and a wide range of slots, table games.",
-        "Official Site": "https://bcgame-denmark.com/",
-        "Icon": "https://bcgame-denmark.com/wp-content/uploads/2024/12/bc-game-denmark.webp",
-        "Redirect": "https://bcgame-denmark.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bcgame-denmark.com/"
     },
     {
         "link": "https://kvm-ko.ru",

@@ -160,16 +160,6 @@
         "AbstractURL": "https://shimur.org/"
     },
     {
-        "link": "https://invoidea.com",
-        "Heading": "Website Design Company in India, Web Development India - Invoidea",
-        "Abstract": "Invoidea is the Best Website Design Company in India, offering Web Development, Mobile App Development, Digital Marketing, UI UX and Logo Design Services.",
-        "Official Site": "https://invoidea.com",
-        "Icon": "https://asset.invoidea.com/IT0101PL/media/website_logo/1684912922.png",
-        "Redirect": "https://invoidea.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://invoidea.com"
-    },
-    {
         "link": "https://indexbooster.net",
         "Heading": "IndexBooster Fast Google Indexer. Page Indexing Tool for Google",
         "Abstract": "IndexBooster helps you get your pages indexed on Google faster. Automate fast indexing, index URLs, SEO indexing, page indexing service, website indexing",
@@ -224,10 +214,20 @@
         "Heading": "\n      Comics, Games & Coffee\n \u2013 Comics Games And Coffee",
         "Abstract": "Comics, Board Games, TCG's and Coffee in Chichester & Worthing, UK.",
         "Official Site": "https://www.cgc-emporium.com/",
-        "Icon": "//cdn.shopify.com/s/files/1/1031/4315/files/design-1b2b51e4-4836-4bcf-87d4-2662d03a7d05.png?crop=center&height=32&v=1698860602&width=32",
+        "Icon": "//www.cgc-emporium.com/cdn/shop/files/design-1b2b51e4-4836-4bcf-87d4-2662d03a7d05.png?crop=center&height=32&v=1698860602&width=32",
         "Redirect": "https://www.cgc-emporium.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cgc-emporium.com/"
+    },
+    {
+        "link": "https://tovejansson.com",
+        "Heading": "Tove Jansson \u2022 Author and artist who created the Moomins",
+        "Abstract": "Discover tovejansson.com, the most extensive website dedicated to the life, art, and legacy of Finnish artist Tove Jansson.",
+        "Official Site": "https://tovejansson.com/",
+        "Icon": "https://tovejansson.com/wp-content/uploads/2021/12/tovejansson_com_share_image_1440.jpg",
+        "Redirect": "https://tovejansson.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tovejansson.com/"
     },
     {
         "link": "https://glazboga.net",

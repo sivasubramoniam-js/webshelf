@@ -100,6 +100,16 @@
         "AbstractURL": "https://saatolog.com.tr/"
     },
     {
+        "link": "https://turbomaxturbos.com",
+        "Heading": "Turbomaxturbos \u2013 Welcome to turbomaxturbos",
+        "Abstract": null,
+        "Official Site": "https://turbomaxturbos.com",
+        "Icon": "https://turbomaxturbos.com/wp-content/uploads/2022/12/cropped-Turbomax-1-32x32.jpg",
+        "Redirect": "https://turbomaxturbos.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://turbomaxturbos.com"
+    },
+    {
         "link": "https://center4trade.com",
         "Heading": null,
         "Abstract": null,
@@ -138,16 +148,6 @@
         "Redirect": "https://radiokampus.fm/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://radiokampus.fm/"
-    },
-    {
-        "link": "https://facam.org",
-        "Heading": "Tech News, AI, Gadgets and Digital Trends | Facam.org",
-        "Abstract": "Discover tech articles on facam.org about AI, smartphones, apps, cybersecurity, gaming, smart home, wearables, computing and digital trends.",
-        "Official Site": "https://facam.org/",
-        "Icon": "https://facam.org/wp-content/uploads/2026/04/feedrum-cover-scaled.jpg",
-        "Redirect": "https://facam.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://facam.org/"
     },
     {
         "link": "https://newcondocentre.com",
@@ -254,7 +254,7 @@
         "Heading": "Blue Bees - Financement participatif de la transition \u00e9cologique",
         "Abstract": "Bluebees est la premi\u00e8re plateforme de crowdfunding enti\u00e8rement d\u00e9di\u00e9e aux projets \u00e0 fort impact \u00e9cologique et social",
         "Official Site": "https://bluebees.fr/fr/",
-        "Icon": "https://bluebees.fr/assets/img/logo-fb.png?v260617",
+        "Icon": "https://bluebees.fr/assets/img/logo-fb.png?v260618",
         "Redirect": "https://bluebees.fr/fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bluebees.fr/fr/"

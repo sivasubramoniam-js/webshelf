@@ -70,6 +70,16 @@
         "AbstractURL": "https://luvbeinghost.com"
     },
     {
+        "link": "https://simas.it",
+        "Heading": "Arredo bagno, lavabi e sanitari bagno | Ceramica Simas, dal 1955",
+        "Abstract": "Sfoglia il catalogo di Ceramica Simas: collezioni di sanitari bagno, lavabi e arredo bagno made in Italy",
+        "Official Site": "https://simas.it",
+        "Icon": "favicon.ico",
+        "Redirect": "https://simas.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://simas.it"
+    },
+    {
         "link": "https://everestfinances.com",
         "Heading": "Coming Soon",
         "Abstract": null,
@@ -273,10 +283,10 @@
         "link": "https://paula.cl",
         "Heading": "Paula - La Tercera",
         "Abstract": "Paula.cl: revista chilena para mujeres con historias de vida, salud, amor, maternidad, crianza y bienestar.",
-        "Official Site": "https://www.latercera.com/canal/paula/?feed=rss2",
+        "Official Site": "https://www.latercera.com/canal/paula/",
         "Icon": "https://www.latercera.com/resizer/v2/LNTX4CAJLZGAFJCQTL2EWO7STA.jpg?auth=9d190a9c367914860440827b4cabd17409892544b709bb1efa29e47eb3112d08&height=630&width=1200&focal=600%2C315",
-        "Redirect": "https://www.latercera.com/canal/paula/?feed=rss2",
+        "Redirect": "https://www.latercera.com/canal/paula/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.latercera.com/canal/paula/?feed=rss2"
+        "AbstractURL": "https://www.latercera.com/canal/paula/"
     }
 ]

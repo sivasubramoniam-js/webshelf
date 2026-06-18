@@ -10,6 +10,16 @@
         "AbstractURL": "https://rezendeconstrucao.com.br"
     },
     {
+        "link": "https://rizeogretmenevi.com.tr",
+        "Heading": "Rizeogretmenevi.com.tr ~ \u00c7evrimi\u00e7i ma\u011faza",
+        "Abstract": null,
+        "Official Site": "https://rizeogretmenevi.com.tr",
+        "Icon": "N/A",
+        "Redirect": "https://rizeogretmenevi.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rizeogretmenevi.com.tr"
+    },
+    {
         "link": "https://rkslstudios.info",
         "Heading": "RKSL Studios",
         "Abstract": "Addons for Arma3",
@@ -60,16 +70,6 @@
         "AbstractURL": "https://rolnikeko.pl"
     },
     {
-        "link": "https://roohit.com",
-        "Heading": ":: Roohit Home ::",
-        "Abstract": "Collect & Share highlights - you make - on any web page. Discover interesting highlights made by people you trust.",
-        "Official Site": "http://roohit.com/",
-        "Icon": "http://roohit.com/images/home_page.png",
-        "Redirect": "http://roohit.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://roohit.com/"
-    },
-    {
         "link": "https://rrsheth.com",
         "Heading": "Gujarati Books Collection - R R Sheth Books",
         "Abstract": "Gujrati Books Collection",
@@ -81,7 +81,7 @@
     },
     {
         "link": "https://rtcnv.com",
-        "Heading": "Checking your browser...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://rtcnv.com",
         "Icon": "N/A",
@@ -144,7 +144,7 @@
         "Heading": "Victoria Ferruccio",
         "Abstract": null,
         "Official Site": "https://www.saattravel.com",
-        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=5800",
+        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=5366",
         "Redirect": "https://www.saattravel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.saattravel.com"
@@ -270,11 +270,31 @@
         "AbstractURL": "https://www.securus-software.com/"
     },
     {
+        "link": "https://select-light.com",
+        "Heading": "Select Light \u00b7 Iluminaci\u00f3n con alma \u00b7 Barcelona",
+        "Abstract": "Consultor\u00eda lum\u00ednica, dise\u00f1o de proyectos y distribuci\u00f3n de luminarias premium en Barcelona.",
+        "Official Site": "https://select-light.com",
+        "Icon": "/favicon-select-light.png",
+        "Redirect": "https://select-light.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://select-light.com"
+    },
+    {
+        "link": "https://selleriebucephale.com",
+        "Heading": "Sellerie Buc\u00e9phale | Mat\u00e9riel d'\u00e9quitation pour cheval et cavalier",
+        "Abstract": "D\u00e9couvrez des produits de qualit\u00e9 : bottes sur-mesure Petrie, gu\u00eatres de dressage, gilet airbag, \u00e9triers, etc. Retrouvez les meilleures marques : Anky, Back on Track, BR, Dynavena, D\u00f6bert, Eskadron, Helite, Horse Master, KEP Italia, Horseware, Lamantia Couture, LeMieux, Matt\u00e8s, Pikeur, Roeckl, Sprenger et Or-Vet.",
+        "Official Site": "https://selleriebucephale.com/",
+        "Icon": "http://selleriebucephale.com/cdn/shop/files/banniere_TEST.jpg?v=1668369755",
+        "Redirect": "https://selleriebucephale.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://selleriebucephale.com/"
+    },
+    {
         "link": "https://serna1.com",
-        "Heading": "Serna #1 -  Compra Llantas al mejor precio directo a tu casa!",
-        "Abstract": "\u2705 \u25b7 Venta de llantas en l\u00ednea con env\u00edos a todo M\u00e9xico. \u2705 Neum\u00e1ticos para auto, camioneta, cami\u00f3n, industrial, agr\u00edcola, muevetierra.",
+        "Heading": "Inicio",
+        "Abstract": null,
         "Official Site": "https://serna1.com",
-        "Icon": "/img/favicon.ico?1645638872",
+        "Icon": "https://serna1.com/img/website/home/personaje.png",
         "Redirect": "https://serna1.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://serna1.com"

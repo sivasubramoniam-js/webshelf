@@ -80,6 +80,16 @@
         "AbstractURL": "https://medien-internet-und-recht.de"
     },
     {
+        "link": "https://beateuhsemovie.com",
+        "Heading": "Beate Uhse Movie",
+        "Abstract": null,
+        "Official Site": "https://beateuhsemovie.com",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://beateuhsemovie.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://beateuhsemovie.com"
+    },
+    {
         "link": "https://pittsburgusd.net",
         "Heading": "\n          Pittsburg Unified School District - Home\n        ",
         "Abstract": "",
@@ -140,11 +150,21 @@
         "AbstractURL": "https://ticketswvv.de"
     },
     {
+        "link": "https://commercenext.com",
+        "Heading": "CommerceNext | The Retail and Ecommerce Conference for Marketers",
+        "Abstract": "CommerceNext is a community, event series and conference for marketers at retail and direct-to-consumer brands. See why Inc. Magazine named CommerceNext one of the top 5 ecommerce conferences.",
+        "Official Site": "https://community.commercenext.com/",
+        "Icon": "https://community.commercenext.com/wp-content/uploads/2021/05/CN-IRL-2021-share-cardCN-IRL.jpg",
+        "Redirect": "https://community.commercenext.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://community.commercenext.com/"
+    },
+    {
         "link": "https://foxhomecenter.com",
         "Heading": "Home & Kitchen Hardware Store Alsip, IL | Fox Home Center",
         "Abstract": "Fox Home Center located in Alsip, IL is your full service supplier of home hardware including kitchens, bathrooms, bedrooms, & outdoor spaces, stop in today or call to inquire!",
         "Official Site": "https://foxhomecenter.com",
-        "Icon": "/images/favicon.ico?ccid=x4e7e1927",
+        "Icon": "/images/favicon.ico?ccid=x6da41529",
         "Redirect": "https://foxhomecenter.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://foxhomecenter.com"
@@ -228,6 +248,16 @@
         "Redirect": "https://www.ridgelinegaragedoor.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ridgelinegaragedoor.com/"
+    },
+    {
+        "link": "https://visitthegambia.gm",
+        "Heading": "Holiday - Visit The Gambia",
+        "Abstract": "Welcome to the Gambia, the Smiling Coast of Africa",
+        "Official Site": "https://visitthegambia.com/",
+        "Icon": "https://visitthegambia.com/wp-content/uploads/2017/08/cropped-gambian_tourist_board_logo_300px1-32x32.png",
+        "Redirect": "https://visitthegambia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://visitthegambia.com/"
     },
     {
         "link": "https://caribbeancovewaterpark.com",

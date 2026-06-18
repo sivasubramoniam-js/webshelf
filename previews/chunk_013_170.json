@@ -70,6 +70,16 @@
         "AbstractURL": "https://huashengwudaozi.com"
     },
     {
+        "link": "https://fatbobman.com",
+        "Heading": "Fatbobman's Blog | \u8098\u5b50\u7684 Swift \u8bb0\u4e8b\u672c",
+        "Abstract": "A Swift and iOS development blog | \u5206\u4eab\u4e0e Swift\u3001SwiftUI\u3001Core Data\u3001Swift Data \u6709\u5173\u7684\u5185\u5bb9",
+        "Official Site": "https://fatbobman.com/en/",
+        "Icon": "https://fatbobman.com/images/blog-card.png",
+        "Redirect": "https://fatbobman.com/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fatbobman.com/en/"
+    },
+    {
         "link": "https://rankifymusic.com",
         "Heading": "Rankify \u2013 Rate Albums & Compare with the World",
         "Abstract": "Sign in with your Apple or Google account to drag ratings for every track on any album, visualize your personal rating curve, and compare it against the global average on Rankify.",

@@ -62,12 +62,12 @@
     {
         "link": "https://chautfifth.com",
         "Heading": "CHAUTFIFTH",
-        "Abstract": "Handbags and accessories designed in Vietnam.",
-        "Official Site": "https://chautfifth.com/",
+        "Abstract": null,
+        "Official Site": "https://chautfifth.com/password",
         "Icon": "http://chautfifth.com/cdn/shop/files/images.png?v=1781004897&width=2048",
-        "Redirect": "https://chautfifth.com/",
+        "Redirect": "https://chautfifth.com/password",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chautfifth.com/"
+        "AbstractURL": "https://chautfifth.com/password"
     },
     {
         "link": "https://cheapfurniturewarehouse.co.uk",
@@ -150,16 +150,6 @@
         "AbstractURL": "https://circuitdulaquais.com"
     },
     {
-        "link": "https://civisol.fr",
-        "Heading": "Panneau Solaire - Kit solaire autoconsommation | Civisol",
-        "Abstract": "Mat\u00e9riel et conseils pour votre installation solaire photovolta\u00efque performante, de qualit\u00e9, made in France. Panneaux solaires et onduleurs.",
-        "Official Site": "https://www.civisol.fr/",
-        "Icon": "/img/favicon.ico?1767715281",
-        "Redirect": "https://www.civisol.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.civisol.fr/"
-    },
-    {
         "link": "https://clarksstores.ae",
         "Heading": "Clarks UAE Official | Shop Shoes, Sandals, Boots - Up to 60% Off\n",
         "Abstract": "Shop stylish shoes, sandals, trainers & boots for men, women & kids at Clarks UAE official site. Discover comfort, quality & the latest footwear trends.",
@@ -200,16 +190,6 @@
         "AbstractURL": "https://clstjean.be"
     },
     {
-        "link": "https://clujenii.ro",
-        "Heading": "Acas\u0103 | Clujenii.ro",
-        "Abstract": "Clujenii.ro aduce \u00een prim plan cele mai relevante \u0219tiri din Cluj, Flore\u0219ti, Dej, Gherla, Turda, C\u00e2mpia Turzii, Huedin. Pe clujenii.ro vei g\u0103si cele mai inedite STIRI din CLUJ.",
-        "Official Site": "https://clujenii.ro/",
-        "Icon": "https://clujenii.ro/wp-content/uploads/2024/07/cropped-clujenii.png",
-        "Redirect": "https://clujenii.ro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://clujenii.ro/"
-    },
-    {
         "link": "https://cmg24.pl",
         "Heading": "Portal CMG24.pl \u2013 Mogilno, D\u0105browa, Strzelno i Jeziora Wielkie \u2013 informacje, aktualno\u015bci, wiadomo\u015bci, radio Mogilno, dziennik, og\u0142oszenia \u2013 Portal CMG24.pl",
         "Abstract": "Portal CMG24.pl",
@@ -244,7 +224,7 @@
         "Heading": "Cocowoods.cz - Eticky, Ekologicky a Zdrav\u011b na jednom m\u00edst\u011b",
         "Abstract": "E-shop pln\u00fd p\u0159\u00edrodn\u00edch potravin, zdrav\u00e9 v\u00fd\u017eivy, vegan kosmetiky a ekodrogerie. Produkt\u016f pro d\u011bti, dom\u00e1c\u00ed mazl\u00ed\u010dky a ekologick\u00e9 dom\u00e1cnosti.",
         "Official Site": "https://www.cocowoods.cz/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.cocowoods.cz/user/front_images/ogImage/hp.png?t=1781687175",
+        "Icon": "https://cdn.myshoptet.com/usr/www.cocowoods.cz/user/front_images/ogImage/hp.png?t=1781774255",
         "Redirect": "https://www.cocowoods.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cocowoods.cz/"

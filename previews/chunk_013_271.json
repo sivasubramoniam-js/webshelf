@@ -14,7 +14,7 @@
         "Heading": "\n    \n    Accounting Firm | Fremont, CA | Finck, Rudnick & Co\n  \n  ",
         "Abstract": "If you want a reliable accounting firm serving Fremont, CA, contact Finck Rudnick & Company. Our detailed work and experience set us above the rest.\n",
         "Official Site": "https://www.frc-fremont.com/",
-        "Icon": "N/A",
+        "Icon": "https://irp.cdn-website.com/f27ba3da/site_favicon_16_1694456729387.ico",
         "Redirect": "https://www.frc-fremont.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.frc-fremont.com/"
@@ -148,6 +148,16 @@
         "Redirect": "https://hardwoodbargains.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hardwoodbargains.com/"
+    },
+    {
+        "link": "https://youthstopaids.org",
+        "Heading": "Youth Stop AIDS | Campaigning for a world without AIDS",
+        "Abstract": null,
+        "Official Site": "https://youthstopaids.org",
+        "Icon": "wp-content/uploads/2015/09/what-we-do-3.png",
+        "Redirect": "https://youthstopaids.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://youthstopaids.org"
     },
     {
         "link": "https://americanhort.org",

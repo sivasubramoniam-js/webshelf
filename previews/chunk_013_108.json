@@ -211,13 +211,13 @@
     },
     {
         "link": "https://roboterforum.de",
-        "Heading": "Roboterforum.de \u2014 die Industrieroboter & Cobot Community",
-        "Abstract": "Das gr\u00f6\u00dfte deutschsprachige Forum f\u00fcr Industrieroboter und Cobots. Hilfe zu KUKA, ABB, Fanuc, Yaskawa \u2014 Programmierung, Integration, Wartung und Service.",
-        "Official Site": "https://www.roboterforum.de/",
-        "Icon": "https://www.roboterforum.de/images/style-2/favicon-48x48.png",
-        "Redirect": "https://www.roboterforum.de/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://roboterforum.de",
+        "Icon": "N/A",
+        "Redirect": "https://roboterforum.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.roboterforum.de/"
+        "AbstractURL": "https://roboterforum.de"
     },
     {
         "link": "https://sanitaer-haffner.de",
@@ -253,11 +253,11 @@
         "link": "https://gadgetraffle.com",
         "Heading": "Gadget Raffle | Gadget Raffle and inspirations",
         "Abstract": "Gadget Raffle and inspirations.",
-        "Official Site": "https://gadgetraffle.com/",
+        "Official Site": "http://gadgetraffle.com/",
         "Icon": "/wp-content/uploads/2026/02/Final-01.png",
-        "Redirect": "https://gadgetraffle.com/",
+        "Redirect": "http://gadgetraffle.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gadgetraffle.com/"
+        "AbstractURL": "http://gadgetraffle.com/"
     },
     {
         "link": "https://holypals.com",

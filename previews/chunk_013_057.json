@@ -91,20 +91,20 @@
     },
     {
         "link": "https://mondomodelcars.it",
-        "Heading": "Verifica accesso / Security Check",
-        "Abstract": null,
-        "Official Site": "https://mondomodelcars.it",
-        "Icon": "N/A",
-        "Redirect": "https://mondomodelcars.it",
+        "Heading": "Mondomodelcars.it Vendita modellini on-line",
+        "Abstract": "Acquista online al miglior prezzo nel nostro catalogo con oltre 20.000 modellini in pronta consegna per la tua collezione.",
+        "Official Site": "https://www.mondomodelcars.it/",
+        "Icon": "https://www.mondomodelcars.it/ReadySkins/wonder/img/no_image_FB.png",
+        "Redirect": "https://www.mondomodelcars.it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mondomodelcars.it"
+        "AbstractURL": "https://www.mondomodelcars.it/"
     },
     {
         "link": "https://motorcycle4sale.com",
-        "Heading": "Motorcycles for sale",
+        "Heading": "Motorcycles for Sale",
         "Abstract": "Catalog of motorcycles, tips on choosing and buying a motorcycle in United Kingdom and USA. Biggest selection of motorcycles for sale.",
         "Official Site": "https://motorcycle4sale.com",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://motorcycle4sale.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://motorcycle4sale.com"
@@ -194,7 +194,7 @@
         "Heading": "Naman Howell | Texas Law Firm",
         "Abstract": "Texas based full-service law firm with five offices spread across Texas. With a team of over 100 professionals, Naman Howell is dedicated to meeting the needs of our clients.",
         "Official Site": "https://www.namanhowell.com/",
-        "Icon": "assets/images-t1781550586/65.webp",
+        "Icon": "assets/images-t1781732234/65.webp",
         "Redirect": "https://www.namanhowell.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.namanhowell.com/"
@@ -240,16 +240,6 @@
         "AbstractURL": "https://nbfjhertyrxiang.com"
     },
     {
-        "link": "https://nearfinderit.com",
-        "Heading": "Roma - Italy Guida alle Aziende",
-        "Abstract": "Rubrica in linea di Roma - Italy. Usa la nostra guida online per trovare numeri di telefono e indirizzi di attivit\u00e0 commerciali vicino a te. Scegli tra categ...",
-        "Official Site": "https://nearfinderit.com/it/",
-        "Icon": "https://nearfinderit.com/img/q80-p1-l200-h200-acenter/public/default/images/nearfinder.jpg.webp",
-        "Redirect": "https://nearfinderit.com/it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nearfinderit.com/it/"
-    },
-    {
         "link": "https://nearstore.com",
         "Heading": "Fragrance Outlet - Women's & Men's Perfumes | Buy now",
         "Abstract": "Explore our online shop for cheap perfume near you. Shop best women's and men's fragrances with same-day and fast shipping. Find a perfume shop nearby.",
@@ -261,7 +251,7 @@
     },
     {
         "link": "https://newbuildingspain.com",
-        "Heading": "Inmobiliaria Costa del Sol | Alianz Group",
+        "Heading": "Obra Nueva Costa del Sol | Alianz Group",
         "Abstract": "Inmobiliaria en Costa del Sol especializada en obra nueva, villas, apartamentos y propiedades en Marbella, Estepona, Fuengirola, Mijas y M\u00e1laga.",
         "Official Site": "https://alianzgroup.es/",
         "Icon": "https://alianzgroup.es/og-image.jpg",

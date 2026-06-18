@@ -60,16 +60,6 @@
         "AbstractURL": "https://uytwpbfp.xyz"
     },
     {
-        "link": "https://modiranserver.com",
-        "Heading": "\u062e\u062f\u0645\u0627\u062a \u0633\u0631\u0648\u0631 \u0645\u062c\u0627\u0632\u06cc \u0648 \u0633\u0631\u0648\u0631 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0628\u0631\u0627\u06cc \u06a9\u0633\u0628\u200c\u0648\u06a9\u0627\u0631\u0647\u0627 | \u0645\u062f\u06cc\u0631\u0627\u0646 \u0633\u0631\u0648\u0631",
-        "Abstract": "\u062e\u0631\u06cc\u062f \u0633\u0631\u0648\u0631 \u0645\u062c\u0627\u0632\u06cc (VPS) \u0648 \u0633\u0631\u0648\u0631 \u0627\u062e\u062a\u0635\u0627\u0635\u06cc \u0645\u0637\u0645\u0626\u0646 \u0628\u0631\u0627\u06cc \u0634\u0631\u06a9\u062a\u200c\u0647\u0627 \u0648 \u0641\u0631\u0648\u0634\u06af\u0627\u0647\u200c\u0647\u0627\u06cc \u0622\u0646\u0644\u0627\u06cc\u0646 | \u0645\u062f\u06cc\u0631\u0627\u0646 \u0633\u0631\u0648\u0631\u060c \u0627\u0646\u062a\u062e\u0627\u0628 \u0647\u0648\u0634\u0645\u0646\u062f\u0627\u0646\u0647 \u0628\u0631\u0627\u06cc \u0631\u0634\u062f \u06a9\u0633\u0628\u200c\u0648\u06a9\u0627\u0631.",
-        "Official Site": "https://modiranserver.com/",
-        "Icon": "https://modiranserver.com/wp-content/uploads/2022/02/logo200.png",
-        "Redirect": "https://modiranserver.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://modiranserver.com/"
-    },
-    {
         "link": "https://nextfab.com",
         "Heading": "Makerspace Philadelphia, PA | Community Workshop | NextFab",
         "Abstract": "Join our community workshop offering collaborative makerspaces in Philadelphia! Join today & gain access to machinery, classes, & more. All skill levels welcome!",
@@ -108,6 +98,16 @@
         "Redirect": "https://www.booksofm.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.booksofm.com"
+    },
+    {
+        "link": "https://globalmntrd.com",
+        "Heading": "Globalminedtrade | CFD Trading \u2014 Trading on Stocks, Gold, Oil, Indices",
+        "Abstract": "CFD Trading with Globalminedtrade. Trading on Stocks, Gold, Oil, Indices with ultra-fast execution & spreads from 0.0 pips. News, articles and training materials for experienced and novice traders.",
+        "Official Site": "https://globalmntrd.com",
+        "Icon": "img/share.jpg",
+        "Redirect": "https://globalmntrd.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://globalmntrd.com"
     },
     {
         "link": "https://azoncloud.com",
@@ -250,16 +250,6 @@
         "AbstractURL": "https://personaldienstleister.de/"
     },
     {
-        "link": "https://nupureshop.com",
-        "Heading": "\n      Nupure | Better life through microbiome science\n \u2013 Nupure Shop ",
-        "Abstract": "Nupure ist eine Mikrobiom-Wissenschaftsmarke mit einer propriet\u00e4ren und klinisch erprobten Bakterienstammmischung. Einzigartige probiotische, postbiotische und pr\u00e4biotische Produkte, die Ihren Darm, Mund, Ihre Haut, Ihren Stoffwechsel, Ihren Hormonhaushalt und Ihre allgemeine Gesundheit unterst\u00fctzen.",
-        "Official Site": "https://nupureshop.com/",
-        "Icon": "http://nupureshop.com/cdn/shop/files/NU_primary_logo_main_colour__aed000_cd831b01-bc80-4cb4-821f-2ee32f87e27d.png?v=1756124461",
-        "Redirect": "https://nupureshop.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nupureshop.com/"
-    },
-    {
         "link": "https://everintelconsulting.com",
         "Heading": "::: \uc5d0\ubc84\uc778\ud154\ucee8\uc124\ud305 :::",
         "Abstract": "\uc5d0\ubc84\uc778\ud154\ucee8\uc124\ud305\uc740 \ucc44\uc6a9\uc815\ubcf4 \ubc0f \uacbd\uc601/\uc778\uc0ac \ucee8\uc124\ud305\uc744 \uc81c\uacf5\ud558\ub294 \ucee8\uc124\ud305 \uc804\ubb38 \ud68c\uc0ac\uc785\ub2c8\ub2e4.",
@@ -291,7 +281,7 @@
     },
     {
         "link": "https://helplife.biz",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://helplife.biz",
         "Icon": "N/A",

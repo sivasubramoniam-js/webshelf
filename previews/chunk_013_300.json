@@ -70,6 +70,16 @@
         "AbstractURL": "https://www.cibap.nl/"
     },
     {
+        "link": "https://zutterdesign.com",
+        "Heading": "Zutter Design:",
+        "Abstract": null,
+        "Official Site": "https://zutterdesign.com",
+        "Icon": "/images/tabicon.png",
+        "Redirect": "https://zutterdesign.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zutterdesign.com"
+    },
+    {
         "link": "https://depaulcharity.org",
         "Heading": "Youth Homeless Charity & Emergency Accommodation - Depaul UK",
         "Abstract": "Depaul UK is a youth homeless charity providing emergency accommodation and shelter for young people facing homelessness across the UK.",
@@ -88,6 +98,16 @@
         "Redirect": "http://localhost:8080/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://localhost:8080/"
+    },
+    {
+        "link": "https://yunasoft.com",
+        "Heading": "YunaSoft",
+        "Abstract": "Are you super busy? Calendar King is the most powerful you'll ever have in a calendar app and makes your daily calendar come alive. It also supports powerful features like Checklist, Notes app, Stickers for iMessage, Designed Marker and Stickers, Widget, Class Time-Table, Custom icon and theme color and so on. \"STICK IT\" ON THE\u2026",
+        "Official Site": "https://yunasoft.com/",
+        "Icon": "https://yunasoft.com/wp-content/uploads/2020/07/computer-2982270_1920.jpg",
+        "Redirect": "https://yunasoft.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yunasoft.com/"
     },
     {
         "link": "https://knowyourself.pk",

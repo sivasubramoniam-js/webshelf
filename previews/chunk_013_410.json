@@ -50,16 +50,6 @@
         "AbstractURL": "https://interbosch.nl"
     },
     {
-        "link": "https://interno82.it",
-        "Heading": "Interno82 Sito Ufficiale | Abbigliamento Donna",
-        "Abstract": "Shop Online Interno82 con le tendenze e novit\u00e0 di abbigliamento e accessori da donna. Trova lo stile perfetto in pochi click.",
-        "Official Site": "https://interno82.it/",
-        "Icon": "https://interno82.it/wp-content/uploads/2023/09/logo.png",
-        "Redirect": "https://interno82.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://interno82.it/"
-    },
-    {
         "link": "https://invite-tracker.com",
         "Heading": "Invite Tracker",
         "Abstract": "A powerful Discord bot which offers many features such as invite tracking, giveaways, messages tracking and more.",
@@ -104,7 +94,7 @@
         "Heading": "icon-X",
         "Abstract": "Buy gold plated jewellery at Isharya. Find the perfect luxury gold jewellery pieces for any occasion. Isharya is an ideal online jewellery shopping destination.",
         "Official Site": "https://isharya.com/",
-        "Icon": "http://isharya.com/cdn/shop/files/website_logo_d4953264-94ad-4fb3-84a9-f52aa82716a3.jpg?v=1712248199",
+        "Icon": "http://cdn.shopify.com/s/files/1/0640/5167/5359/files/website_logo_d4953264-94ad-4fb3-84a9-f52aa82716a3.jpg?v=1712248199",
         "Redirect": "https://isharya.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://isharya.com/"
@@ -294,7 +284,7 @@
         "Heading": "\n      Jlite Customs Brunei \u2013 Custom PCs, PC Components, and Upgrades\n \u2013 Jlite Customs Enterprise",
         "Abstract": "Build your perfect Custom PC in Brunei with Jlite Customs. Find the latest computer parts and components for gaming, productivity, and everyday use \u2013 from desktop parts to monitors, laptops, and more. Shop with us today!",
         "Official Site": "https://jlitebn.com/",
-        "Icon": "http://jlitebn.com/cdn/shop/files/Untitled_1080_x_1080_px.png?v=1765021077",
+        "Icon": "http://cdn.shopify.com/s/files/1/0553/4056/4637/files/Untitled_1080_x_1080_px.png?v=1765021077",
         "Redirect": "https://jlitebn.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jlitebn.com/"
@@ -428,15 +418,5 @@
         "Redirect": "https://kenkoooo.github.io/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kenkoooo.github.io/"
-    },
-    {
-        "link": "https://keramik.at",
-        "Heading": "Keramik Lehrer - keramik.at",
-        "Abstract": "\u00dcber 6.000 T\u00f6pfer- und Keramik-Produkte in ganz Europa bestellen. Alles was man zum T\u00f6pfern braucht: Ton, Glasuren, T\u00f6pferscheibe lieferbar.",
-        "Official Site": "https://www.keramik.at/",
-        "Icon": "https://www.keramik.at/medien/Toepfern-Zubehoer.png",
-        "Redirect": "https://www.keramik.at/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.keramik.at/"
     }
 ]

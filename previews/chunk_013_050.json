@@ -1,8 +1,8 @@
 [
     {
         "link": "https://dinozaury.com",
-        "Heading": "Dinozaury.com - z nami przeniesiesz si\u0119 w czasie\u2026 | polski serwis internetowy po\u015bwi\u0119cony paleontologii kr\u0119gowc\u00f3w",
-        "Abstract": "polski serwis internetowy po\u015bwi\u0119cony paleontologii kr\u0119gowc\u00f3w",
+        "Heading": "Dinozaury.com \u2013 z nami przeniesiesz si\u0119 w czasie\u2026 \u2013 polski serwis internetowy po\u015bwi\u0119cony paleontologii kr\u0119gowc\u00f3w",
+        "Abstract": null,
         "Official Site": "https://dinozaury.com",
         "Icon": "N/A",
         "Redirect": "https://dinozaury.com",
@@ -120,16 +120,6 @@
         "AbstractURL": "https://github.com/domaframework/doma"
     },
     {
-        "link": "https://doormarko.pl",
-        "Heading": "Stalprodukt drzwi zewn\u0119trzne - Sklep z drzwiami Door Marko",
-        "Abstract": "Sklep internetowy Doormarko posiada drzwi zewn\u0119trzne dla Twojego domu. Wszystkie nasze drzwi kwalifikuj\u0105 si\u0119 do dofinsowania w ramach czystego powietrze. ",
-        "Official Site": "https://doormarko.pl/",
-        "Icon": "https://doormarko.pl/img/favicon.ico?1697920518",
-        "Redirect": "https://doormarko.pl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://doormarko.pl/"
-    },
-    {
         "link": "https://dprforum.com",
         "Heading": "Home - The DPReview spin-off. Forum, reviews, galleries. Join now!",
         "Abstract": "The DPReview successor: DPRforum.com - forums, user reviews, user photo galleries. DPReview users, unite! Join now!",
@@ -138,6 +128,16 @@
         "Redirect": "https://dprforum.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dprforum.com/"
+    },
+    {
+        "link": "https://dralexrinehart.com",
+        "Heading": "Dr. Alex Rinehart: Gut Health, Supplements, & Wellness Strategies",
+        "Abstract": "Boost gut health with Dr. Alex Rinehart\u2019s gut microbiome and leaky gut protocols. Discover top supplements, expert tips & results",
+        "Official Site": "https://dralexrinehart.com/",
+        "Icon": "https://dralexrinehart.com/wp-content/uploads/2024/07/hero-man-1.png",
+        "Redirect": "https://dralexrinehart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dralexrinehart.com/"
     },
     {
         "link": "https://dreamteamcar.com",
