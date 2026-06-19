@@ -41,13 +41,13 @@
     },
     {
         "link": "https://volunteerspot.com",
-        "Heading": "Easiest Online SignUp Sheets | SignUp.com",
-        "Abstract": "SignUp.com makes it easy to coordinate school events &#38; classroom activities, fundraisers, snack schedules, potlucks &#38; more!",
-        "Official Site": "https://signup.com/index",
-        "Icon": "https://vspot.s3.amazonaws.com/sign-up/Facebook-Images/SignUp-Facebook-Default-Image.jpg",
-        "Redirect": "https://signup.com/index",
+        "Heading": "SignUp.com Mobile",
+        "Abstract": null,
+        "Official Site": "https://volunteerspot.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://volunteerspot.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://signup.com/index"
+        "AbstractURL": "https://volunteerspot.com"
     },
     {
         "link": "https://generalengineering.co",
@@ -78,6 +78,16 @@
         "Redirect": "https://www.cc6m9.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cc6m9.com/"
+    },
+    {
+        "link": "https://thehive-project.org",
+        "Heading": "StrangeBee",
+        "Abstract": "TheHive by StrangeBee: the collaborative case management platform trusted by security teams worldwide. Automate responses with Cortex. On-prem & SaaS.",
+        "Official Site": "https://strangebee.com/",
+        "Icon": "https://strangebee.com/wp-content/uploads/2025/01/Main-page.png",
+        "Redirect": "https://strangebee.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://strangebee.com/"
     },
     {
         "link": "https://vintagestock.com",
@@ -201,13 +211,13 @@
     },
     {
         "link": "https://safecall.co.uk",
-        "Heading": "Home - Safecall Ltd Whistleblowing service provider, vendor, solutions",
-        "Abstract": "whistleblowing software, whistleblowing service provider, whistleblower service provider, corporate whistleblower hotline, employee hotline",
-        "Official Site": "https://www.safecall.co.uk/",
-        "Icon": "https://www.safecall.co.uk/wp-content/uploads/2023/10/70bb4709bd861d949c9a0b827bbf94e4.jpeg",
-        "Redirect": "https://www.safecall.co.uk/",
+        "Heading": "Client Challenge",
+        "Abstract": null,
+        "Official Site": "https://safecall.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://safecall.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.safecall.co.uk/"
+        "AbstractURL": "https://safecall.co.uk"
     },
     {
         "link": "https://gdairmechanical.com",

@@ -210,24 +210,24 @@
         "AbstractURL": "https://cityofarticles.in"
     },
     {
+        "link": "https://usdata.biz",
+        "Heading": "Home",
+        "Abstract": "US Data Biz provides free information about the nation's people and economy.",
+        "Official Site": "https://usdata.biz",
+        "Icon": "https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png",
+        "Redirect": "https://usdata.biz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://usdata.biz"
+    },
+    {
         "link": "https://propiska-zakaz.ru",
-        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 16.06.2026 ",
+        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 15.06.2026 ",
         "Abstract": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u0417\u0430\u043a\u043e\u043d\u043d\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u043d\u0430\u0441.",
         "Official Site": "https://propiska-zakaz.ru",
         "Icon": "untitled-1.ico",
         "Redirect": "https://propiska-zakaz.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://propiska-zakaz.ru"
-    },
-    {
-        "link": "https://energyforum.net",
-        "Heading": "Wikipedia, the free encyclopedia",
-        "Abstract": null,
-        "Official Site": "https://energyforum.net",
-        "Icon": "https://upload.wikimedia.org/wikipedia/commons/2/22/Mariah_Carey_Library_of_Congress_2023_1_Cropped_3.png",
-        "Redirect": "https://energyforum.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://energyforum.net"
     },
     {
         "link": "https://guidantglobal.com",

@@ -23,11 +23,11 @@
         "link": "https://regionalno.si",
         "Heading": "ADRIA INFO - Regionalno.si ",
         "Abstract": null,
-        "Official Site": "https://www.regionalno.si/sl/?list=hiddens&date=06-18&key=sopcast-%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5",
-        "Icon": "https://www.regionalno.si/",
-        "Redirect": "https://www.regionalno.si/sl/?list=hiddens&date=06-18&key=sopcast-%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5",
+        "Official Site": "https://regionalno.si/sl/?list=hiddens&date=06-19&key=%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A1",
+        "Icon": "https://regionalno.si/",
+        "Redirect": "https://regionalno.si/sl/?list=hiddens&date=06-19&key=%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A1",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.regionalno.si/sl/?list=hiddens&date=06-18&key=sopcast-%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5"
+        "AbstractURL": "https://regionalno.si/sl/?list=hiddens&date=06-19&key=%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A1"
     },
     {
         "link": "https://reinerkan.com",
@@ -48,16 +48,6 @@
         "Redirect": "https://reinhardfischerauktionen.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://reinhardfischerauktionen.de"
-    },
-    {
-        "link": "https://reklamprestij.com.tr",
-        "Heading": "Reklamprestij.com.tr \\ H\u0131zl\u0131 teslimat",
-        "Abstract": null,
-        "Official Site": "https://reklamprestij.com.tr",
-        "Icon": "N/A",
-        "Redirect": "https://reklamprestij.com.tr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://reklamprestij.com.tr"
     },
     {
         "link": "https://resortshotels.net",
@@ -150,16 +140,6 @@
         "AbstractURL": "https://sagierp.com.br"
     },
     {
-        "link": "https://sbf-sg.social",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://sbf-sg.social",
-        "Icon": "N/A",
-        "Redirect": "https://sbf-sg.social",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sbf-sg.social"
-    },
-    {
         "link": "https://scp-jp.org",
         "Heading": "scp-jp.org",
         "Abstract": null,
@@ -178,6 +158,16 @@
         "Redirect": "https://seabeachtravel.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://seabeachtravel.com/"
+    },
+    {
+        "link": "https://section17inc.com",
+        "Heading": "Just a moment...",
+        "Abstract": null,
+        "Official Site": "https://section17inc.com",
+        "Icon": "N/A",
+        "Redirect": "https://section17inc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://section17inc.com"
     },
     {
         "link": "https://seekghana.com",

@@ -70,6 +70,16 @@
         "AbstractURL": "https://zerkalnye-prava-39.ru"
     },
     {
+        "link": "https://crimevoice.com",
+        "Heading": "\nCrime Voice | Crime Voice \u2013 California crime news stories",
+        "Abstract": "Crime Voice is an online news publication that specializes in California crime journalism and publishes daily arrest information.",
+        "Official Site": "https://www.crimevoice.com/",
+        "Icon": "https://www.crimevoice.com/wp-content/uploads/2017/12/crime_voice-fav_icon.png",
+        "Redirect": "https://www.crimevoice.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.crimevoice.com/"
+    },
+    {
         "link": "https://mac-history.net",
         "Heading": "Mac History \u2013 The story of Apple, Steve Jobs, and the Macs - Mac History",
         "Abstract": "The people who changed the world.",
@@ -140,16 +150,6 @@
         "AbstractURL": "https://rapidsoftsolutions.com/"
     },
     {
-        "link": "https://healthcareinsider.com",
-        "Heading": "Expert Healthcare News, Medical Insurance Plan Guides & Reviews by HealthCareInsider.com",
-        "Abstract": "Learn how health insurance works, compare coverage options, and find plans that fit your needs. Healthcare Insider offers expert guides on ACA, Medicare, Medicaid, costs, and health insurance coverage.",
-        "Official Site": "https://healthcareinsider.com/",
-        "Icon": "https://healthcareinsider.com/wp-content/uploads/2025/01/Medicare-Resources-from-Insurance-Experts-a-Healthcare.com-Platform-4.png",
-        "Redirect": "https://healthcareinsider.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://healthcareinsider.com/"
-    },
-    {
         "link": "https://thebigbang.org.uk",
         "Heading": "The Big Bang - The Big Bang",
         "Abstract": "Inspiring young people in STEM, welcome to The Big Bang!",
@@ -168,16 +168,6 @@
         "Redirect": "https://tribehotels.com/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tribehotels.com/en/"
-    },
-    {
-        "link": "https://ark-survival.net",
-        "Heading": "Ark: Survival Evolved",
-        "Abstract": null,
-        "Official Site": "https://ark-survival.net",
-        "Icon": "https://www.ark-survival.net/wp-content/uploads/sites/10/2026/01/ARKLOGO_klein.png",
-        "Redirect": "https://ark-survival.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ark-survival.net"
     },
     {
         "link": "https://rkm.kz",

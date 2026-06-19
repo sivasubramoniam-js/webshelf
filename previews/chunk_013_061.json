@@ -40,16 +40,6 @@
         "AbstractURL": "https://singhraurtech.in/"
     },
     {
-        "link": "https://sinusoidalmusic.com",
-        "Heading": "Home - Sinusoidal Music",
-        "Abstract": "Your ultimate source of indie music reviews, interviews, latest news and trends, music industry tips and playlists!",
-        "Official Site": "https://sinusoidalmusic.com/",
-        "Icon": "https://i0.wp.com/sinusoidalmusic.com/wp-content/uploads/2025/04/cropped-01.Sinu-Logo_Black-Wave-Icon.png?fit=32%2C32&ssl=1",
-        "Redirect": "https://sinusoidalmusic.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sinusoidalmusic.com/"
-    },
-    {
         "link": "https://sjployola.com",
         "Heading": "78\u52a8\u6f2b-\u6b63\u7248\u5b98\u7f51\u5165\u53e3_\u514d\u8d39\u52a8\u6f2b\u5728\u7ebf\u89c2\u770b_78\u52a8\u6f2b\u6a21\u578b\u73a9\u5177\u7f51",
         "Abstract": "78\u52a8\u6f2b\u6b63\u7248\u5b98\u7f51\u5165\u53e3\uff0c\u63d0\u4f9b\u514d\u8d39\u52a8\u6f2b\u7f51\u7ad9\u5728\u7ebf\u89c2\u770b\u670d\u52a1\uff0c78\u52a8\u6f2b\u540c\u65f6\u6db5\u76d6\u6a21\u578b\u73a9\u5177\u8d44\u8baf\u3001\u9009\u8d2d\u7b49\u6838\u5fc3\u5185\u5bb9\uff0c\u662f\u96c6\u514d\u8d39\u52a8\u6f2b\u5728\u7ebf\u89c2\u770b\u3001\u52a8\u6f2b\u6a21\u578b\u73a9\u5177\u4ea4\u6613\u4e8e\u4e00\u4f53\u7684\u4e13\u4e1a78\u52a8\u6f2b\u5e73\u53f0\uff0c\u627e78\u52a8\u6f2b\u5b98\u7f51\u3001\u770b\u514d\u8d39\u52a8\u6f2b\u3001\u9009\u52a8\u6f2b\u6a21\u578b\u73a9\u5177\uff0c\u8ba4\u51c678\u52a8\u6f2b\u5b98\u65b9\u5e73\u53f0\uff01",
@@ -174,7 +164,7 @@
         "Heading": "\n\tSport Radical \u2013 Radical Shop\n\t",
         "Abstract": "Sport Radical a \u00e9t\u00e9 fond\u00e9 en 1992 par des passionn\u00e9s de sport de planche. Le magasin offre une vaste gamme de produits sp\u00e9cialis\u00e9s pour le Snowboard, Ski, Kitesurf, Skateboard, Wakeboard, V\u00eatements, etc! Avec l'\u00e9quipe la plus chaleureuse et qualifi\u00e9e \u00e0 Qu\u00e9bec.",
         "Official Site": "https://sportradical.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0531/3337/7688/files/c4ca4238a0b923820dcc509a6f75849b.jpg?v=1635150021",
+        "Icon": "http://sportradical.com/cdn/shop/files/c4ca4238a0b923820dcc509a6f75849b.jpg?v=1635150021",
         "Redirect": "https://sportradical.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sportradical.com/"
@@ -193,11 +183,11 @@
         "link": "https://standardpartstoolkit.com",
         "Heading": "SPT \u2014 Standard Parts Toolkit for Shopify",
         "Abstract": "SPT turns ACES/PIES, ShowMeTheParts, or CSV data into fast YMM search, enriched product pages, in-cart fitment, and order plumbing. Built to reduce 'didn't fit' returns.",
-        "Official Site": "http://standardpartstoolkit.com/",
-        "Icon": "http://standardpartstoolkit.com/og-default.png",
-        "Redirect": "http://standardpartstoolkit.com/",
+        "Official Site": "https://standardpartstoolkit.com/",
+        "Icon": "https://standardpartstoolkit.com/og-default.png",
+        "Redirect": "https://standardpartstoolkit.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://standardpartstoolkit.com/"
+        "AbstractURL": "https://standardpartstoolkit.com/"
     },
     {
         "link": "https://starkbank.com",
@@ -218,6 +208,26 @@
         "Redirect": "https://starsales.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://starsales.com"
+    },
+    {
+        "link": "https://stefanmoravcik.sk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://stefanmoravcik.sk",
+        "Icon": "N/A",
+        "Redirect": "https://stefanmoravcik.sk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stefanmoravcik.sk"
+    },
+    {
+        "link": "https://stellenanzeigen-in-landshut.de",
+        "Heading": "Stellenangebote Landshut - Ihre aktuelle Jobb\u00f6rse f\u00fcr Landshut und Umgebung",
+        "Abstract": "T\u00e4glich aktuelle und neue Stellenangebote f\u00fcr die Region Landshut. Finden Sie aus 5.388 passenden Jobs in Landshut und Umgebung, Ihre neue Stelle. Ihre regionale Jobb\u00f6rse stellenanzeigen-in-landshut.de | 2026",
+        "Official Site": "https://stellenanzeigen-in-landshut.de",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://stellenanzeigen-in-landshut.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stellenanzeigen-in-landshut.de"
     },
     {
         "link": "https://sterlingshop.com",

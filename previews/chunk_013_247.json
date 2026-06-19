@@ -210,14 +210,24 @@
         "AbstractURL": "https://diamondnational.com"
     },
     {
-        "link": "https://awdwiki.com",
-        "Heading": "M: All Wheel Drive Encyclopedia - How it works",
-        "Abstract": "'''Welcome!'''",
-        "Official Site": "https://m.awdwiki.com/en/home/",
-        "Icon": "https://www.awdwiki.com/favicon120.png",
-        "Redirect": "https://m.awdwiki.com/en/home/",
+        "link": "https://serdceprirody.ru",
+        "Heading": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0421\u0435\u0440\u0434\u0446\u0435 \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u0432 \u044f\u043b\u0442\u0435",
+        "Abstract": "",
+        "Official Site": "https://serdceprirody.ru",
+        "Icon": "ico.ico",
+        "Redirect": "https://serdceprirody.ru",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://m.awdwiki.com/en/home/"
+        "AbstractURL": "https://serdceprirody.ru"
+    },
+    {
+        "link": "https://awdwiki.com",
+        "Heading": "All Wheel Drive Encyclopedia - How it works",
+        "Abstract": "'''Welcome!'''",
+        "Official Site": "https://www.awdwiki.com/en/home/",
+        "Icon": "https://www.awdwiki.com/favicon120.png",
+        "Redirect": "https://www.awdwiki.com/en/home/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.awdwiki.com/en/home/"
     },
     {
         "link": "https://topitcollege.ru",

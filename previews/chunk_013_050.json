@@ -181,13 +181,23 @@
     },
     {
         "link": "https://dunaevabooks.ru",
-        "Heading": "\n            dunaevabooks.ru \u2013 \u043f\u043e\u0438\u0441\u043a \u043f\u043e Telegram \u043a\u0430\u043d\u0430\u043b\u0430\u043c. \u041a\u0430\u0442\u0430\u043b\u043e\u0433 \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c\u043c \u043a\u0430\u043d\u0430\u043b\u043e\u0432.\n        ",
-        "Abstract": "dunaevabooks.ru \u2013 \u0443\u0434\u043e\u0431\u043d\u044b\u0439 \u043f\u043e\u0438\u0441\u043a \u043f\u043e \u0442\u0435\u043b\u0435\u0433\u0440\u0430\u043c\u043c \u043a\u0430\u043d\u0430\u043b\u0430\u043c, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043a\u0430\u0442\u0430\u043b\u043e\u0433, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0441\u043e\u0431\u0440\u0430\u043d\u043e \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c 700000 Telegram \u043a\u0430\u043d\u0430\u043b\u043e\u0432.",
+        "Heading": "Welcome to nginx!",
+        "Abstract": null,
         "Official Site": "https://dunaevabooks.ru",
-        "Icon": "pics/widget.png",
+        "Icon": "N/A",
         "Redirect": "https://dunaevabooks.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dunaevabooks.ru"
+    },
+    {
+        "link": "https://dutchgameboys.com",
+        "Heading": "Dutch Game Boys",
+        "Abstract": "Games & Consoles",
+        "Official Site": "https://dutchgameboys.com",
+        "Icon": "https://www.dutchgameboys.com/wp-content/uploads/2019/06/Favicon.png",
+        "Redirect": "https://dutchgameboys.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dutchgameboys.com"
     },
     {
         "link": "https://eaglelion.kr",

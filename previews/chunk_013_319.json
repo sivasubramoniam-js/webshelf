@@ -80,24 +80,14 @@
         "AbstractURL": "https://shop-os.io"
     },
     {
-        "link": "https://startrails.de",
-        "Heading": "Startrails",
-        "Abstract": "Freeware for Windows to create startrail-images",
-        "Official Site": "https://startrails.de",
-        "Icon": "https://templates.pingendo.com/assets/Pingendo_favicon.ico",
-        "Redirect": "https://startrails.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://startrails.de"
-    },
-    {
         "link": "https://waterworldusa.com",
-        "Heading": "Water Filtration & Water Treatment Solutions | Waterworld USA",
-        "Abstract": "Discover top-tier water filtration and treatment solutions at Waterworld USA. Providing clean, safe water for communities worldwide.",
-        "Official Site": "https://waterworldusa.com/",
-        "Icon": "https://waterworldusa.com/wp-content/uploads/2024/03/Waterworld-USA-Social-Media-Sharing-Updated.jpg",
-        "Redirect": "https://waterworldusa.com/",
+        "Heading": "Home | Waterworld",
+        "Abstract": "This is the homepage of the website",
+        "Official Site": "https://www.waterworldusa.com/",
+        "Icon": "https://www.waterworldusa.com/web/image/44672-4d8b0788/wwfavicon.jpg",
+        "Redirect": "https://www.waterworldusa.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://waterworldusa.com/"
+        "AbstractURL": "https://www.waterworldusa.com/"
     },
     {
         "link": "https://chronoland.ru",
@@ -138,6 +128,16 @@
         "Redirect": "https://www.lecentrefranco.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lecentrefranco.ca/"
+    },
+    {
+        "link": "https://ect-journal.kz",
+        "Heading": "\n\t\tEurasian Chemico-Technological Journal\n\t\t\t\t\t",
+        "Abstract": "Journal Metrics",
+        "Official Site": "https://ect-journal.kz",
+        "Icon": "https://ect-journal.kz/public/journals/1/favicon_en_US.png",
+        "Redirect": "https://ect-journal.kz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ect-journal.kz"
     },
     {
         "link": "https://odom-roofing.com",
@@ -220,16 +220,6 @@
         "AbstractURL": "https://staterequirement.com/"
     },
     {
-        "link": "https://backpackblog.nl",
-        "Heading": "Backpackblog.nl: h\u00e9t online platform voor backpackers - Backpackblog.nl",
-        "Abstract": "Ga jij backpacken? Op mijn blog vind je toffe en inspirerende info en persoonlijke verhalen die verder gaan dan koetjes en kalfjes.",
-        "Official Site": "https://www.backpackblog.nl/",
-        "Icon": "https://6afdad08.delivery.rocketcdn.me/wp-content/uploads/2021/12/Kata-Noi-Beach.jpg",
-        "Redirect": "https://www.backpackblog.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.backpackblog.nl/"
-    },
-    {
         "link": "https://grapiuna.com",
         "Heading": "Grapiuna.com - Hosting and domains in Brazil / Hospedagem e dominios",
         "Abstract": "Provedor avancado de hospedagem de sites (hosting), registro de dominios  (domain registration), comercio eletronico (ecommerce), lojas virtuais, websites, email, redirecionamento de URLs, consultoria web, servicos de internet",
@@ -258,16 +248,6 @@
         "Redirect": "https://karaburunservisi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://karaburunservisi.com"
-    },
-    {
-        "link": "https://icauralghanim.com",
-        "Heading": "iCAUR Alghanim",
-        "Abstract": "Alghanim Automobile is dedicated to enhancing your journey and strengthening the iCAUR brand through world-class facilities and superior customer experience.",
-        "Official Site": "https://icauralghanim.com",
-        "Icon": "/favicon.ico?favicon.099odrv1h3f42.ico",
-        "Redirect": "https://icauralghanim.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://icauralghanim.com"
     },
     {
         "link": "https://firebranddesigns.net",

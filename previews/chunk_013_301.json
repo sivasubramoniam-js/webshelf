@@ -90,14 +90,14 @@
         "AbstractURL": "https://camping-adventure.eu"
     },
     {
-        "link": "https://oxbridgeacademy.edu.za",
-        "Heading": "\n    \n    Waterfall School of Business | Home\n  \n  ",
-        "Abstract": "Learn about our business programs & expert faculty. Enroll today for a brighter future in business!",
-        "Official Site": "https://www.wsb.edu.za/",
-        "Icon": "https://lirp.cdn-website.com/7f714fc0/dms3rep/multi/opt/Waterfall+2+Col+Square-1920w.png",
-        "Redirect": "https://www.wsb.edu.za/",
+        "link": "https://ethiopianmonitor.com",
+        "Heading": "Ethiopian Monitor \u2013 Daily News from Ethiopia",
+        "Abstract": null,
+        "Official Site": "https://ethiopianmonitor.com",
+        "Icon": "https://ethiopianmonitor.com/wp-content/uploads/2022/08/cropped-em-1-32x32.png",
+        "Redirect": "https://ethiopianmonitor.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.wsb.edu.za/"
+        "AbstractURL": "https://ethiopianmonitor.com"
     },
     {
         "link": "https://bluediamondhost27.com",
@@ -238,6 +238,16 @@
         "Redirect": "https://isle.dev",
         "AbstractSource": "BS4",
         "AbstractURL": "https://isle.dev"
+    },
+    {
+        "link": "https://rijeka2020.eu",
+        "Heading": "Rijeka 2020 - Europska prijestolnica kulture \u2022 Rijeka 2020",
+        "Abstract": "U 2020. godini u Rijeci se odr\u017eava gotovo 300 kulturnih programa s vi\u0161e od 600 pojedina\u010dnih doga\u0111anja.",
+        "Official Site": "https://rijeka2020.eu/",
+        "Icon": "https://rijeka2020.eu/files/favicon-32x32.png",
+        "Redirect": "https://rijeka2020.eu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rijeka2020.eu/"
     },
     {
         "link": "https://sarasmichaelcollinssite.com",

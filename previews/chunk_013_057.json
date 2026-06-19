@@ -70,16 +70,6 @@
         "AbstractURL": "https://mntnewsbharat.com/"
     },
     {
-        "link": "https://mojdommojsen.sk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://mojdommojsen.sk",
-        "Icon": "N/A",
-        "Redirect": "https://mojdommojsen.sk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mojdommojsen.sk"
-    },
-    {
         "link": "https://monamarket.co.kr",
         "Heading": "\ubaa8\ub098\ub9c8\ucf13 - \uc720\uc544\ub3d9\ubcf5 \uc1fc\ud551\ubab0",
         "Abstract": "\ubca0\ubca0 \uc544\ub3d9\ubcf5 \uc96c\ub2c8\uc5b4\uae4c\uc9c0, \uc720\uc544\ub3d9\ubcf5 \uc1fc\ud551\ubab0",
@@ -91,20 +81,20 @@
     },
     {
         "link": "https://mondomodelcars.it",
-        "Heading": "Mondomodelcars.it Vendita modellini on-line",
-        "Abstract": "Acquista online al miglior prezzo nel nostro catalogo con oltre 20.000 modellini in pronta consegna per la tua collezione.",
-        "Official Site": "https://www.mondomodelcars.it/",
-        "Icon": "https://www.mondomodelcars.it/ReadySkins/wonder/img/no_image_FB.png",
-        "Redirect": "https://www.mondomodelcars.it/",
+        "Heading": "Verifica accesso / Security Check",
+        "Abstract": null,
+        "Official Site": "https://mondomodelcars.it",
+        "Icon": "N/A",
+        "Redirect": "https://mondomodelcars.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mondomodelcars.it/"
+        "AbstractURL": "https://mondomodelcars.it"
     },
     {
         "link": "https://motorcycle4sale.com",
-        "Heading": "Motorcycles for Sale",
+        "Heading": "Motorcycles for sale",
         "Abstract": "Catalog of motorcycles, tips on choosing and buying a motorcycle in United Kingdom and USA. Biggest selection of motorcycles for sale.",
         "Official Site": "https://motorcycle4sale.com",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://motorcycle4sale.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://motorcycle4sale.com"
@@ -190,11 +180,21 @@
         "AbstractURL": "https://www.mykids-usa.com/"
     },
     {
+        "link": "https://nailsrus.ca",
+        "Heading": "\n  nailsrus.ca\n \u2013 NRU Beauty",
+        "Abstract": "NRU Beauty",
+        "Official Site": "https://nailsrus.ca/",
+        "Icon": "//nailsrus.ca/cdn/shop/files/NRU-Logo-bright.png?crop=center&height=32&v=1766346121&width=32",
+        "Redirect": "https://nailsrus.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nailsrus.ca/"
+    },
+    {
         "link": "https://namanhowell.com",
         "Heading": "Naman Howell | Texas Law Firm",
         "Abstract": "Texas based full-service law firm with five offices spread across Texas. With a team of over 100 professionals, Naman Howell is dedicated to meeting the needs of our clients.",
         "Official Site": "https://www.namanhowell.com/",
-        "Icon": "assets/images-t1781732234/65.webp",
+        "Icon": "assets/images-t1781795289/65.webp",
         "Redirect": "https://www.namanhowell.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.namanhowell.com/"
@@ -238,6 +238,16 @@
         "Redirect": "https://nbfjhertyrxiang.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nbfjhertyrxiang.com"
+    },
+    {
+        "link": "https://nearfinderit.com",
+        "Heading": "Roma - Italy Guida alle Aziende",
+        "Abstract": "Rubrica in linea di Roma - Italy. Usa la nostra guida online per trovare numeri di telefono e indirizzi di attivit\u00e0 commerciali vicino a te. Scegli tra categ...",
+        "Official Site": "https://nearfinderit.com/it/",
+        "Icon": "https://nearfinderit.com/img/q80-p1-l200-h200-acenter/public/default/images/nearfinder.jpg.webp",
+        "Redirect": "https://nearfinderit.com/it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nearfinderit.com/it/"
     },
     {
         "link": "https://nearstore.com",

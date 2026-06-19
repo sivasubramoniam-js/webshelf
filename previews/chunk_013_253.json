@@ -110,16 +110,6 @@
         "AbstractURL": "https://www.techfirm.co.jp"
     },
     {
-        "link": "https://janus-consultants.de",
-        "Heading": "Janus Consultants - Studentische Unternehmensberatung",
-        "Abstract": "Janus Consultants ist die studentische Unternehmensberatung der Leibniz Universit\u00e4t Hannover und den Hochschulen der Region.",
-        "Official Site": "https://janus-consultants.de/",
-        "Icon": "https://janus-consultants.de/wp-content/uploads/2023/02/Janus_Lockup_SparklingBlue_RGB.png",
-        "Redirect": "https://janus-consultants.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://janus-consultants.de/"
-    },
-    {
         "link": "https://vladivostok-eparhia.ru",
         "Heading": "\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a\u0441\u043a\u0430\u044f \u0435\u043f\u0430\u0440\u0445\u0438\u044f \u0420\u0443\u0441\u0441\u043a\u043e\u0439 \u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u043e\u0439 \u0426\u0435\u0440\u043a\u0432\u0438",
         "Abstract": "",
@@ -184,7 +174,7 @@
         "Heading": "Skate Shop Sydney | Skateboards & Shoes Online | Boardworld",
         "Abstract": "Australia's premier skate shop. Shop skateboards, decks, trucks, wheels, skate shoes and apparel from the best brands. Fast shipping Australia-wide or visit us in Newtown, Sydney. Unbeatable customer service.",
         "Official Site": "https://boardworld.com.au/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0613/6263/4946/files/boardworld-social-share-image.webp?v=1780034845",
+        "Icon": "https://boardworld.com.au/cdn/shop/files/boardworld-social-share-image.webp?v=1780034845",
         "Redirect": "https://boardworld.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://boardworld.com.au/"
@@ -228,6 +218,16 @@
         "Redirect": "https://hellasfastservers.gr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hellasfastservers.gr"
+    },
+    {
+        "link": "https://4crests.com",
+        "Heading": "\n  Coat of Arms and Family Crest gift store \u2013 Family Crests / Coat of Arms Gifts\n  ",
+        "Abstract": "Our coat of arms store offers glassware, rings, downloads, embroideries, parchment scroll prints, flags, jewelry, plaques & more. Irish, Scottish & most others.",
+        "Official Site": "https://coatofarmsgifts.com/",
+        "Icon": "N/A",
+        "Redirect": "https://coatofarmsgifts.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://coatofarmsgifts.com/"
     },
     {
         "link": "https://legal-obnals.xyz",

@@ -190,6 +190,16 @@
         "AbstractURL": "https://trafficpro.io"
     },
     {
+        "link": "https://instantjobs.co.in",
+        "Heading": "Instant Jobs",
+        "Abstract": null,
+        "Official Site": "https://instantjobs.co.in",
+        "Icon": "https://instantjobs.co.in/wp-content/uploads/2021/11/cropped-logo-32x32.jpg",
+        "Redirect": "https://instantjobs.co.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://instantjobs.co.in"
+    },
+    {
         "link": "https://inmailing.com.br",
         "Heading": "InMailing - Ferramenta de Email Marketing",
         "Abstract": null,
@@ -238,6 +248,16 @@
         "Redirect": "https://www.stias.ac.za/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.stias.ac.za/"
+    },
+    {
+        "link": "https://fnordware.com",
+        "Heading": "fnord software",
+        "Abstract": "open source plug-ins for After Effects, Photoshop, and Premiere",
+        "Official Site": "https://fnordware.com",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://fnordware.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fnordware.com"
     },
     {
         "link": "https://ymetrika.site",
@@ -311,7 +331,7 @@
     },
     {
         "link": "https://sch001.ru",
-        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440 15.06.2026 ",
+        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0434\u043e\u0433\u043e\u0432\u043e\u0440 16.06.2026 ",
         "Abstract": " \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u043f\u043e \u0440\u0430\u0437\u0443\u043c\u043d\u044b\u043c \u0446\u0435\u043d\u0430\u043c.",
         "Official Site": "https://sch001.ru",
         "Icon": "untitled-1.ico",

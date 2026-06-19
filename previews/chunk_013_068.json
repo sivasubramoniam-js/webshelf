@@ -150,16 +150,6 @@
         "AbstractURL": "https://ndhealthfacts.org"
     },
     {
-        "link": "https://nemdirect.dk",
-        "Heading": "\nVelkommen | NEM it-solution a/s\n",
-        "Abstract": null,
-        "Official Site": "https://www.nemdirect.dk/",
-        "Icon": "https://img2-327a.kxcdn.com/di1.ashx/345/2153945",
-        "Redirect": "https://www.nemdirect.dk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.nemdirect.dk/"
-    },
-    {
         "link": "https://newmoonski.com",
         "Heading": "New Moon Ski & Bike | Hayward, WI",
         "Abstract": "New Moon Ski & Bike is a family of dedicated and passionate cross country skiers, cyclists, and outdoor enthusiasts eager to share our knowledge and experience with you. Visit us today!",
@@ -171,10 +161,10 @@
     },
     {
         "link": "https://ngehex.cyou",
-        "Heading": "\u8bf7\u7a0d\u5019\u2026",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://ngehex.cyou",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://ngehex.cyou",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ngehex.cyou"
@@ -220,21 +210,11 @@
         "AbstractURL": "https://oldangler.com"
     },
     {
-        "link": "https://phoenix-of-the-sun.eu",
-        "Heading": "Phoenix of the Sun - Portal",
-        "Abstract": null,
-        "Official Site": "https://phoenix-of-the-sun.eu",
-        "Icon": "N/A",
-        "Redirect": "https://phoenix-of-the-sun.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://phoenix-of-the-sun.eu"
-    },
-    {
         "link": "https://pickleballpaddlescanada.ca",
         "Heading": "\n      Pickleball Paddles Canada - Best Paddles At the Best Prices\n      \n      \n      \n    ",
         "Abstract": "Pickleball Paddles Canada is here for all your pickleball needs. We carry Selkirk, Gearbox, Paddletek, Alpha, CRBN, Prokennex, Zelus, Joola and many more.",
         "Official Site": "https://pickleballpaddlescanada.ca/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0424/1175/3633/files/e6694e1f1a77bcfb6b647b918cc9410d.pdf_LinkedIn_Post_-_4_a5b7c9c2-bf6b-4811-9c32-cef3fcfaf645.png?v=1749137247",
+        "Icon": "http://pickleballpaddlescanada.ca/cdn/shop/files/e6694e1f1a77bcfb6b647b918cc9410d.pdf_LinkedIn_Post_-_4_a5b7c9c2-bf6b-4811-9c32-cef3fcfaf645.png?v=1749137247",
         "Redirect": "https://pickleballpaddlescanada.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pickleballpaddlescanada.ca/"

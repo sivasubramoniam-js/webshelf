@@ -1,23 +1,13 @@
 [
     {
-        "link": "https://teatrodonizetti.it",
-        "Heading": "Home - Teatro Donizetti",
-        "Abstract": "IN EVIDENZA",
-        "Official Site": "https://www.teatrodonizetti.it/it/",
-        "Icon": "https://www.teatrodonizetti.it/wp-content/uploads/2020/11/favicon_web.png",
-        "Redirect": "https://www.teatrodonizetti.it/it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.teatrodonizetti.it/it/"
-    },
-    {
         "link": "https://komm-passion.de",
-        "Heading": "Unternehmensberatung trifft Kreativagentur \u2013 komm.passion",
-        "Abstract": "komm.passion ist eine Full-Service-Kommunikationsberatung in Berlin, D\u00fcsseldorf und Hamburg. International geh\u00f6rt komm.passion zum Team Farner.",
-        "Official Site": "https://komm-passion.de",
-        "Icon": "https://www.komm-passion.de/fileadmin/_processed_/3/2/csm_komm-passion-og-image_9c46e50500.png",
-        "Redirect": "https://komm-passion.de",
+        "Heading": "Startseite | komm.passion ",
+        "Abstract": "Bei komm.passion verschmelzen Strategie und Kreation. Wir denken komplexe Themen bis zum Kern und verdichten sie zu klaren L\u00f6sungen, die wirklich wirken.",
+        "Official Site": "https://localhost:3000",
+        "Icon": "https://a.storyblok.com/f/286108612279832/1200x630/6f6e776eeb/komm-passion-og.jpg/m/",
+        "Redirect": "https://localhost:3000",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://komm-passion.de"
+        "AbstractURL": "https://localhost:3000"
     },
     {
         "link": "https://facetshealthcare.com",
@@ -200,6 +190,16 @@
         "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=NeterVest.com"
     },
     {
+        "link": "https://finiki.org",
+        "Heading": "finiki, the Canadian financial wiki",
+        "Abstract": null,
+        "Official Site": "https://finiki.org",
+        "Icon": "https://www.finiki.org/w/images/c/c0/Get_started.png",
+        "Redirect": "https://finiki.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://finiki.org"
+    },
+    {
         "link": "https://tamgreenagro.com",
         "Heading": "Investing in your future, one harvest at a time - Tamgreenagro",
         "Abstract": "Tamgreenagro offers secure, passive investment opportunities in high-demand agricultural commodities like corn, shea, and cashews, designed to deliver high-yield returns in just 30 days.",
@@ -241,13 +241,13 @@
     },
     {
         "link": "https://keyword-hero.com",
-        "Heading": "Keyword Hero - Match organic keywords to sessions in Google Analytics 4",
-        "Abstract": "The Keyword Hero shows you the exact keywords your customers search for, in your Google Analytics account. He saves you from (not provided)!",
-        "Official Site": "https://keyword-hero.com/",
-        "Icon": "http://keyword-hero.com/wp-content/uploads/2017/04/Cart-Hero.png",
-        "Redirect": "https://keyword-hero.com/",
+        "Heading": "Keyword Hero - Understand What Keywords Really Drive Your Traffic",
+        "Abstract": "Get real insights with Keyword Hero. Find out which keywords matter, boost your traffic, and turn visitors into customers",
+        "Official Site": "https://new.keyword-hero.com/",
+        "Icon": "https://new.keyword-hero.com/wp-content/uploads/2026/03/herofliegtwirklich.svg",
+        "Redirect": "https://new.keyword-hero.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://keyword-hero.com/"
+        "AbstractURL": "https://new.keyword-hero.com/"
     },
     {
         "link": "https://naughtytalk.com",

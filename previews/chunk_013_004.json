@@ -291,13 +291,13 @@
     },
     {
         "link": "https://liebert.dev",
-        "Heading": " - YouTube",
-        "Abstract": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "Official Site": "https://liebert.dev",
-        "Icon": "https://www.youtube.com/s/desktop/28a5e722/img/favicon.ico",
-        "Redirect": "https://liebert.dev",
+        "Heading": "YouTube",
+        "Abstract": "Share your videos with friends, family, and the world",
+        "Official Site": "https://www.youtube.com/watch?v=klfT41uZniI",
+        "Icon": "https://m.youtube.com/static/favicon.ico",
+        "Redirect": "https://www.youtube.com/watch?v=klfT41uZniI",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://liebert.dev"
+        "AbstractURL": "https://www.youtube.com/watch?v=klfT41uZniI"
     },
     {
         "link": "https://marwatravel.com",

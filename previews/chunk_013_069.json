@@ -124,7 +124,7 @@
         "Heading": "Steenhauer Sleutels | Silca Selected Partner. Steenhauer Silca Sleutels",
         "Abstract": "Specialistische groothandel in Silca sleutels en Sleutelmachines",
         "Official Site": "https://steenhauer.nl",
-        "Icon": "//www.steenhauer.nl/media/110/content/favicon.ico?v=6.0",
+        "Icon": "//steenhauer.nl/media/110/content/favicon.ico?v=6.0",
         "Redirect": "https://steenhauer.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://steenhauer.nl"
@@ -148,16 +148,6 @@
         "Redirect": "https://textmod.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://textmod.es"
-    },
-    {
-        "link": "https://theboardshop.eu",
-        "Heading": "TheBoardshopEU Longboards - Skateboards - Inline skates - Snowboards Groningen",
-        "Abstract": "TheBoardshopEU Longboards - Skateboards - Inline skates - Snowboards Groningen",
-        "Official Site": "https://theboardshop.eu/nl/",
-        "Icon": "https://theboardshop.eu/img/favicon.ico?1592651534",
-        "Redirect": "https://theboardshop.eu/nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://theboardshop.eu/nl/"
     },
     {
         "link": "https://theshavingcadre.com",
@@ -278,5 +268,15 @@
         "Redirect": "https://weringtone.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://weringtone.com/"
+    },
+    {
+        "link": "https://wicet-zyxa.online",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://wicet-zyxa.online",
+        "Icon": "N/A",
+        "Redirect": "https://wicet-zyxa.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wicet-zyxa.online"
     }
 ]

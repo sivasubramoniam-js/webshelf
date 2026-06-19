@@ -40,6 +40,16 @@
         "AbstractURL": "https://www.sprunky.org/"
     },
     {
+        "link": "https://spuntini.be",
+        "Heading": "Spuntini - We deliver food happiness",
+        "Abstract": "Welkom bij Spuntini, de gespecialiseerde groothandel met een uitgebreid assortiment van food en non-food producten voor horeca, catering en fast-service zaken. ",
+        "Official Site": "https://www.spuntini.be/nl-be",
+        "Icon": "/fav/favicon.ico",
+        "Redirect": "https://www.spuntini.be/nl-be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.spuntini.be/nl-be"
+    },
+    {
         "link": "https://stackedstore.com",
         "Heading": "Shop Online For Trendy Home Decor Items | The Stacked Store",
         "Abstract": "Find designer home decor items, accessories, lamps, drinkware, rugs and furniture from unique brands. House and Room Decoration with style. Shop online!",
@@ -84,7 +94,7 @@
         "Heading": "Sticky Art: Stickere Autocolante, Ceasuri de Perete, Tapet \u0219i Fototapet Personalizate",
         "Abstract": "Descopera colectia noastra de stickere autocolante, ceasuri de perete, tapet si foto tapet la Sticky Art! Personalizeaza, transforma-ti spatiul si exprima-ti creativitatea",
         "Official Site": "https://www.sticky-art.ro",
-        "Icon": "https://s.cdnshm.com/site/1200x1200/sticky-art.ro.jpg?20260618",
+        "Icon": "https://s.cdnshm.com/site/1200x1200/sticky-art.ro.jpg?20260619",
         "Redirect": "https://www.sticky-art.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sticky-art.ro"
@@ -141,13 +151,13 @@
     },
     {
         "link": "https://stylowear.store",
-        "Heading": "\n      Stylo wear\n",
-        "Abstract": "Stylo wear",
-        "Official Site": "https://stylowear.store/",
-        "Icon": "//stylowear.store/cdn/shop/files/stylo_new_Logo.png?crop=center&height=32&v=1776760992&width=32",
-        "Redirect": "https://stylowear.store/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://stylowear.store",
+        "Icon": "N/A",
+        "Redirect": "https://stylowear.store",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://stylowear.store/"
+        "AbstractURL": "https://stylowear.store"
     },
     {
         "link": "https://suissi.ch",
@@ -198,6 +208,16 @@
         "Redirect": "https://supermexdigital.mx",
         "AbstractSource": "BS4",
         "AbstractURL": "https://supermexdigital.mx"
+    },
+    {
+        "link": "https://surplusautos.fr",
+        "Heading": "Surplus Autos - Producteur de pi\u00e8ces auto d\u2019occasion garanties 2 ans",
+        "Abstract": "Surplus Autos, expert du recyclage automobile.  Plus de 100 000 pi\u00e8ces automobiles d\u2019occasion disponibles en stock. Pi\u00e8ces d\u00e9tach\u00e9es de carrosserie, m\u00e9canique, \u00e9clairage, habitacle, refroidissement, direction, suspension, roue.. Pi\u00e8ces test\u00e9e, contr\u00f4l\u00e9e et garantie jusqu'\u00e0 2 ans.",
+        "Official Site": "https://surplusautos.fr",
+        "Icon": "https://www.surplusautos.fr/media/favicon/stores/1/favicon.png",
+        "Redirect": "https://surplusautos.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://surplusautos.fr"
     },
     {
         "link": "https://svitovederevo.ua",
@@ -358,16 +378,6 @@
         "Redirect": "https://text-verification.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://text-verification.net/"
-    },
-    {
-        "link": "https://the-millshop-online.co.uk",
-        "Heading": "Curtain & Upholstery Fabric by the Metre | The Millshop Online",
-        "Abstract": "Discover high-quality curtain & upholstery fabrics by the metre at The Millshop Online. Printed in-house in the UK, we offer a wide range of fabrics with trade accounts available. Whether you\u2019re looking for soft linens, rich velvets, or durable weaves, find the perfect fabric for your project. Order online today.",
-        "Official Site": "https://www.the-millshop-online.co.uk/",
-        "Icon": "http://www.the-millshop-online.co.uk/cdn/shop/files/Millshop-Logo-Full-Black.jpg?crop=center&height=1200&v=1763115394&width=1200",
-        "Redirect": "https://www.the-millshop-online.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.the-millshop-online.co.uk/"
     },
     {
         "link": "https://thebanyantee.com",

@@ -180,16 +180,6 @@
         "AbstractURL": "https://tianyabooks.com"
     },
     {
-        "link": "https://wowbbq.co.uk",
-        "Heading": "WoWbbq | World of Weber BBQs | Huge Weber Discounts",
-        "Abstract": "Buy a Weber BBQ With Free Delivery On All BBQ Orders. The UK\u2019s leading independent Weber Grill experts, discounting full Weber range.",
-        "Official Site": "https://wowbbq.co.uk",
-        "Icon": "https://www.wowbbq.co.uk/media/favicon/stores/2/Wow-BBQ-Icon.png",
-        "Redirect": "https://wowbbq.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wowbbq.co.uk"
-    },
-    {
         "link": "https://xxx-video-hub.com",
         "Heading": "Best Sex Hub Videos Online - Premium XXX Content at XXX-Video-Hub.com",
         "Abstract": "Watch free HD porn videos on XXX-Video-Hub.com with daily updates, long porn scenes, premium picks, trending adult categories, popular XXX models, and smooth streaming for desktop and mobile devices at XXX-Video-Hub.com.",
@@ -222,9 +212,9 @@
     {
         "link": "https://official-mega.shop",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://official-mega.shop",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://official-mega.shop",
         "AbstractSource": "BS4",
         "AbstractURL": "https://official-mega.shop"
@@ -248,6 +238,16 @@
         "Redirect": "https://kasinos-drip.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kasinos-drip.xyz"
+    },
+    {
+        "link": "https://keelpno.gr",
+        "Heading": "Online Casino \u0395\u03bb\u03bb\u03ac\u03b4\u03b1: \u03a0\u03b1\u03af\u03be\u03c4\u03b5 \u03bc\u03b5 \u03b1\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03c3\u03b9\u03b3\u03bf\u03c5\u03c1\u03b9\u03ac",
+        "Abstract": "\u0391\u03bd\u03b1\u03ba\u03b1\u03bb\u03cd\u03c8\u03c4\u03b5 \u03cc\u03bb\u03b1 \u03c4\u03b1 online \u03ba\u03b1\u03b6\u03af\u03bd\u03bf \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. \ud83c\udfc6 \u0395\u03bb\u03ad\u03b3\u03be\u03b1\u03bc\u03b5 \u03c0\u03c1\u03bf\u03c3\u03b5\u03ba\u03c4\u03b9\u03ba\u03ac \u03b1\u03c5\u03c4\u03ac \u03c4\u03b1 \u03ba\u03b1\u03b6\u03af\u03bd\u03bf \u03ce\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c0\u03b1\u03af\u03be\u03b5\u03c4\u03b5 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b1\u03bc\u03c6\u03b9\u03b2\u03bf\u03bb\u03af\u03b1!",
+        "Official Site": "https://www.indianembassy.gr/",
+        "Icon": "https://www.indianembassy.gr/wp-content/uploads/2025/04/online-casino-attention.webp",
+        "Redirect": "https://www.indianembassy.gr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.indianembassy.gr/"
     },
     {
         "link": "https://tridecor.net",

@@ -150,6 +150,16 @@
         "AbstractURL": "https://radiokampus.fm/"
     },
     {
+        "link": "https://facam.org",
+        "Heading": "Tech News, AI, Gadgets and Digital Trends | Facam.org",
+        "Abstract": "Discover tech articles on facam.org about AI, smartphones, apps, cybersecurity, gaming, smart home, wearables, computing and digital trends.",
+        "Official Site": "https://facam.org/",
+        "Icon": "https://facam.org/wp-content/uploads/2026/04/feedrum-cover-scaled.jpg",
+        "Redirect": "https://facam.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://facam.org/"
+    },
+    {
         "link": "https://newcondocentre.com",
         "Heading": "Home - New Condo Centre",
         "Abstract": "Learn to invest in real estate in the Greater Toronto Area.",
@@ -200,16 +210,6 @@
         "AbstractURL": "https://levuspower.xyz"
     },
     {
-        "link": "https://cabsec.gov.in",
-        "Heading": " Cabinet Secretariat, Government of India ",
-        "Abstract": "The Cabinet Secretariat is responsible for the administration of the Government of India (Transaction of Business) Rules, 1961 and the Government of India (Allocation of Business) Rules 1961, facilitating smooth transaction of business in Ministries/ Departments of the Government",
-        "Official Site": "https://cabsec.gov.in",
-        "Icon": "sites/default/files/favicon_1.ico",
-        "Redirect": "https://cabsec.gov.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cabsec.gov.in"
-    },
-    {
         "link": "https://fasagames.com",
         "Heading": "FASA Games, Inc.",
         "Abstract": null,
@@ -254,7 +254,7 @@
         "Heading": "Blue Bees - Financement participatif de la transition \u00e9cologique",
         "Abstract": "Bluebees est la premi\u00e8re plateforme de crowdfunding enti\u00e8rement d\u00e9di\u00e9e aux projets \u00e0 fort impact \u00e9cologique et social",
         "Official Site": "https://bluebees.fr/fr/",
-        "Icon": "https://bluebees.fr/assets/img/logo-fb.png?v260618",
+        "Icon": "https://bluebees.fr/assets/img/logo-fb.png?v260619",
         "Redirect": "https://bluebees.fr/fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bluebees.fr/fr/"

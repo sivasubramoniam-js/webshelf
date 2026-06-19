@@ -91,13 +91,13 @@
     },
     {
         "link": "https://jdland.com",
-        "Heading": "JDLand.com: Near Southeast DC Redevelopment",
-        "Abstract": "The latest news on the neighborhood by Nationals Park and the Navy Yard, on the Anacostia River.",
-        "Official Site": "/dc/index.cfm",
-        "Icon": "/dc/images/graphics/twitterprofile14.jpg",
-        "Redirect": "/dc/index.cfm",
+        "Heading": "Error - JDLand.com",
+        "Abstract": null,
+        "Official Site": "https://jdland.com",
+        "Icon": "N/A",
+        "Redirect": "https://jdland.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "/dc/index.cfm"
+        "AbstractURL": "https://jdland.com"
     },
     {
         "link": "https://airforcemuseum.co.nz",
@@ -174,7 +174,7 @@
         "Heading": null,
         "Abstract": "",
         "Official Site": "https://suntci.com",
-        "Icon": "https://suntci.com/favicon.png?v=06540509259",
+        "Icon": "https://suntci.com/favicon.png?v=14494097222",
         "Redirect": "https://suntci.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://suntci.com"

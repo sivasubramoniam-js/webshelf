@@ -31,8 +31,8 @@
     },
     {
         "link": "https://liofilizado.es",
-        "Heading": "Liofilizado & Co \u00b7 Comidas Liofilizadas & Material Outdoor",
-        "Abstract": "Venta online de comidas liofilizadas, stock alimentario, raciones y supervivencia, nutrici\u00f3n deportiva y material para tus actividades outdoor, situaciones de emergencia...",
+        "Heading": "Liofilizado & Co \u00b7 Comida Liofilizada & Material Outdoor",
+        "Abstract": "Tienda online de comidas liofilizadas, nutrici\u00f3n deportiva, material de vivac & reservas alimentarias desde 2010. Eat well, anywhere.",
         "Official Site": "https://www.liofilizado.es/",
         "Icon": "https://cdn.lyophilise.fr/img/favicon-3.ico?1770138192",
         "Redirect": "https://www.liofilizado.es/",
@@ -54,7 +54,7 @@
         "Heading": "Lise Tailor \u2013 Tissus, Patrons Couture & Tricot Cr\u00e9atifs",
         "Abstract": "Lise Tailor est une marque cr\u00e9ative d\u00e9di\u00e9e \u00e0 la couture et au tricot. D\u00e9couvrez des tissus exclusifs, des patrons modernes, des laines de qualit\u00e9 et une mercerie inspirante pour cr\u00e9er des pi\u00e8ces uniques, durables et \u00e9l\u00e9gantes, au rythme des saisons et des envies.",
         "Official Site": "https://lisetailor.com/",
-        "Icon": "http://lisetailor.com/cdn/shop/files/Macaron_rose.png?v=1765181338&width=2048",
+        "Icon": "http://cdn.shopify.com/s/files/1/0967/2838/3870/files/Macaron_rose.png?v=1765181338&width=2048",
         "Redirect": "https://lisetailor.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lisetailor.com/"
@@ -300,6 +300,16 @@
         "AbstractURL": "https://maorimaps.com/en"
     },
     {
+        "link": "https://marcelprod.ro",
+        "Heading": "MarcelProd",
+        "Abstract": "Magazin motorizat de PrestaShop",
+        "Official Site": "https://marcelprod.ro",
+        "Icon": "https://marcelprod.ro/img/favicon.ico?1754310317",
+        "Redirect": "https://marcelprod.ro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://marcelprod.ro"
+    },
+    {
         "link": "https://marcolino.pt",
         "Heading": "Desde 1926 at\u00e9 hoje, como sempre | Marcolino 1926",
         "Abstract": "A Marcolino 1926 \u00e9 a principal refer\u00eancia na cidade do Porto para quem exige qualidade e excel\u00eancia em relojoaria e joalharia. ",
@@ -358,16 +368,6 @@
         "Redirect": "https://masqueradenyc.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://masqueradenyc.com/"
-    },
-    {
-        "link": "https://massamarkt.nl",
-        "Heading": "Massamarkt, da's een partij voordelig!",
-        "Abstract": null,
-        "Official Site": "https://massamarkt.nl",
-        "Icon": "N/A",
-        "Redirect": "https://massamarkt.nl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://massamarkt.nl"
     },
     {
         "link": "https://matericashop.it",

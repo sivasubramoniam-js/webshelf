@@ -60,16 +60,6 @@
         "AbstractURL": "https://rapidtestmv.org/"
     },
     {
-        "link": "https://sonavel.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://sonavel.com",
-        "Icon": "N/A",
-        "Redirect": "https://sonavel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sonavel.com"
-    },
-    {
         "link": "https://111webhost.com",
         "Heading": "UK Web Hosting and Domain Names - 111WebHost",
         "Abstract": "We offer unlimited web hosting services for businesses of all sizes. Website hosting services from 111WebHost.",
@@ -78,6 +68,16 @@
         "Redirect": "https://111webhost.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://111webhost.com/"
+    },
+    {
+        "link": "https://helmut-schmidt.de",
+        "Heading": "Startseite",
+        "Abstract": "Die Bundeskanzler-Helmut-Schmidt-Stiftung greift die dr\u00e4ngenden Fragen unserer Zeit auf, f\u00f6rdert den gesellschaftlichen Diskurs und entwickelt Impulse f\u00fcr die Welt von morgen. Wir vernetzen Expert*innen national wie international und bewahren damit das Erbe von einem der pr\u00e4gendsten Staatsm\u00e4nner des 20. Jahrhunderts.",
+        "Official Site": "https://helmut-schmidt.de",
+        "Icon": "/_assets/dc0026db4c8e383d620ff5cfe74c6c78/Icons/Favicon/favicon.svg?v=8a170efs",
+        "Redirect": "https://helmut-schmidt.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://helmut-schmidt.de"
     },
     {
         "link": "https://selektor.xyz",
@@ -158,16 +158,6 @@
         "Redirect": "https://www.alpha3d.io/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.alpha3d.io/"
-    },
-    {
-        "link": "https://piez.ru",
-        "Heading": "XXX \u0412\u0438\u0434\u0435\u043e \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0441\u0435\u043a\u0441 \u043d\u0430 \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u0435 \u043f\u043e\u0440\u043d\u043e HD \u043e\u043d\u043b\u0430\u0439\u043d",
-        "Abstract": "\u0412\u0438\u0434\u0435\u043e xxx \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0441\u0435\u043a\u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u043d\u0430 \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u0435 \u0438 \u043f\u043e\u0440\u043d\u043e HD \u043e\u043d\u043b\u0430\u0439\u043d \u0441\u043a\u0430\u0447\u0430\u0442\u044c.",
-        "Official Site": "https://piez.ru",
-        "Icon": "/templates/Default/images/favicon.ico",
-        "Redirect": "https://piez.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://piez.ru"
     },
     {
         "link": "https://diplomgroup.vip",

@@ -121,7 +121,7 @@
     },
     {
         "link": "https://paralleltext.io",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://paralleltext.io",
         "Icon": "N/A",
@@ -188,6 +188,16 @@
         "Redirect": "https://controcopertina.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://controcopertina.com"
+    },
+    {
+        "link": "https://feldmann-gmbh.com",
+        "Heading": "Home  - FELDMANN",
+        "Abstract": null,
+        "Official Site": "https://feldmann-gmbh.com",
+        "Icon": "/fileadmin/feldmann/favicon/favicon.svg",
+        "Redirect": "https://feldmann-gmbh.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://feldmann-gmbh.com"
     },
     {
         "link": "https://lemarquier.com",

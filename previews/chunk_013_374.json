@@ -51,7 +51,7 @@
     },
     {
         "link": "https://ipos-data.de",
-        "Heading": "IIS Windows Server-WB30",
+        "Heading": "IIS Windows Server-WB31",
         "Abstract": null,
         "Official Site": "https://ipos-data.de",
         "Icon": "N/A",
@@ -108,16 +108,6 @@
         "Redirect": "https://dps2protect.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dps2protect.com/"
-    },
-    {
-        "link": "https://elsewherefashion.com",
-        "Heading": "Elsewhere Fashion | Official Webshop | Something Elsewhere",
-        "Abstract": "Discover bold, avant-garde fashion designed in the Netherlands. Sculptural silhouettes, monochrome tones, and effortless style by Elsewhere.",
-        "Official Site": "https://www.elsewherefashion.com/",
-        "Icon": "https://www.elsewherefashion.com/wp-content/uploads/2026/04/2.jpg",
-        "Redirect": "https://www.elsewherefashion.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.elsewherefashion.com/"
     },
     {
         "link": "https://l-welse.com",
@@ -188,6 +178,16 @@
         "Redirect": "https://thedailybriefing.io/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thedailybriefing.io/"
+    },
+    {
+        "link": "https://kupit-kursovuyu-3.ru",
+        "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u043a\u0443\u0440\u0441\u043e\u0432\u0443\u044e \u0440\u0430\u0431\u043e\u0442\u0443 \u043d\u0435\u0434\u043e\u0440\u043e\u0433\u043e \u043d\u0430 \u0437\u0430\u043a\u0430\u0437 \u2014 \u043f\u043e\u043c\u043e\u0449\u044c \u0432 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0438 \u0438 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0438",
+        "Abstract": "\u0417\u0430\u043a\u0430\u0437\u0430\u0442\u044c \u043a\u0443\u0440\u0441\u043e\u0432\u0443\u044e \u0440\u0430\u0431\u043e\u0442\u0443 \u0441 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0435\u0439 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0438 \u0441\u0440\u043e\u043a\u043e\u0432. \u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u00ab\u043f\u043e\u0434 \u043a\u043b\u044e\u0447\u00bb \u043f\u043e \u0432\u0441\u0435\u043c \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430\u043c. \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0434\u043e\u0440\u0430\u0431\u043e\u0442\u043a\u0438, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7.",
+        "Official Site": "https://www.homework.ru/uslugi/kursovye-na-zakaz/",
+        "Icon": "{{ og_image|default:'https://www.homework.ru/Content/images/favicons/apple-touch-icon.png' }}",
+        "Redirect": "https://www.homework.ru/uslugi/kursovye-na-zakaz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.homework.ru/uslugi/kursovye-na-zakaz/"
     },
     {
         "link": "https://8tradebrokers.com",

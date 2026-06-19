@@ -30,16 +30,6 @@
         "AbstractURL": "https://evoprime.net"
     },
     {
-        "link": "https://manuelservice.com",
-        "Heading": "manuelservice.com services de recherche et t\u00e9l\u00e9chargement de manuels PDF",
-        "Abstract": null,
-        "Official Site": "https://manuelservice.com",
-        "Icon": "https://www.manuels.solutions/favicon.ico",
-        "Redirect": "https://manuelservice.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://manuelservice.com"
-    },
-    {
         "link": "https://btclock.dev",
         "Heading": "BTClock \u2014 Bitcoin, told in e-paper",
         "Abstract": "Block height. Spot price. Median fee. Halving countdown. Nostr zaps and Lightning payments. Updated in real time, no phone required.",
@@ -70,16 +60,6 @@
         "AbstractURL": "https://amazonrelayit.com"
     },
     {
-        "link": "https://thediscourse.ca",
-        "Heading": "Home \u2013 The Discourse.",
-        "Abstract": null,
-        "Official Site": "https://thediscourse.ca/",
-        "Icon": "https://thediscourse.ca/wp-content/uploads/2022/07/The_Discourse_Team-8-scaled-1-1024x683.jpg",
-        "Redirect": "https://thediscourse.ca/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thediscourse.ca/"
-    },
-    {
         "link": "https://cameronsseafood.com",
         "Heading": "Fresh Seafood Market & Online Seafood Company | Cameron's Seafood\n",
         "Abstract": "Cameron\u2019s Seafood is your go-to fresh seafood market. Order quality seafood shipped nationwide from a family-owned online seafood company you can trust.",
@@ -98,6 +78,16 @@
         "Redirect": "https://www.scarlethotel.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.scarlethotel.co.uk/"
+    },
+    {
+        "link": "https://rskm.pro",
+        "Heading": "Ruskompromat",
+        "Abstract": "RUSKOMPROMAT",
+        "Official Site": "https://rskm.pro/",
+        "Icon": "https://ruskompromat.info/ruskompromat.jpg",
+        "Redirect": "https://rskm.pro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rskm.pro/"
     },
     {
         "link": "https://bakirkoy.bel.tr",
@@ -148,16 +138,6 @@
         "Redirect": "https://toptanmaviyengec.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://toptanmaviyengec.com/"
-    },
-    {
-        "link": "https://termedeipapi.it",
-        "Heading": "Home Page - Terme dei Papi Viterbo | Terme & Cosmetici Termali",
-        "Abstract": "Scopri le terme storiche di Viterbo e i cosmetici al fango e acqua termale del Bullicame. Made in Italy, dermatologicamente testati.",
-        "Official Site": "https://termedeipapi.it/",
-        "Icon": "https://termedeipapi.it/wp-content/uploads/2021/02/cropped-cropped-Terme-dei-papi-off.-positivo-2-1-32x32.png",
-        "Redirect": "https://termedeipapi.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://termedeipapi.it/"
     },
     {
         "link": "https://summix.biz",
