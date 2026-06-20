@@ -134,7 +134,7 @@
         "Heading": "ZYNAH Beauty: Shop Skincare, Perfumes, Hair & Makeup - Egypt & Saudi",
         "Abstract": "Discover a wide range of beauty products on ZYNAH: skincare to hair, makeup and perfumes, shop online in Egypt & Saudi for all your beauty needs.",
         "Official Site": "https://zynah.me/",
-        "Icon": "//zynah.me/cdn/shop/files/ZYNAH_mobile_app_logo.png?crop=center&height=32&v=1736614926&width=32",
+        "Icon": "//cdn.shopify.com/s/files/1/0595/9247/4808/files/ZYNAH_mobile_app_logo.png?crop=center&height=32&v=1736614926&width=32",
         "Redirect": "https://zynah.me/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zynah.me/"
@@ -278,6 +278,16 @@
         "Redirect": "https://gongjyuhok.hk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gongjyuhok.hk"
+    },
+    {
+        "link": "https://singasari.info",
+        "Heading": "Singasari Kokokan - Private Stay Bali Indonesia",
+        "Abstract": null,
+        "Official Site": "https://singasari.info",
+        "Icon": "N/A",
+        "Redirect": "https://singasari.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://singasari.info"
     },
     {
         "link": "https://seanbonner.com",

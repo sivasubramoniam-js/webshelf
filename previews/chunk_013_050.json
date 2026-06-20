@@ -1,8 +1,8 @@
 [
     {
         "link": "https://dinozaury.com",
-        "Heading": "Dinozaury.com \u2013 z nami przeniesiesz si\u0119 w czasie\u2026 \u2013 polski serwis internetowy po\u015bwi\u0119cony paleontologii kr\u0119gowc\u00f3w",
-        "Abstract": null,
+        "Heading": "Dinozaury.com - z nami przeniesiesz si\u0119 w czasie\u2026 | polski serwis internetowy po\u015bwi\u0119cony paleontologii kr\u0119gowc\u00f3w",
+        "Abstract": "polski serwis internetowy po\u015bwi\u0119cony paleontologii kr\u0119gowc\u00f3w",
         "Official Site": "https://dinozaury.com",
         "Icon": "N/A",
         "Redirect": "https://dinozaury.com",
@@ -18,16 +18,6 @@
         "Redirect": "https://dinozozo.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dinozozo.com/"
-    },
-    {
-        "link": "https://dintkorea.com",
-        "Heading": "\n      Korean Women's Luxury Clothing Online | DINT Korea\n    ",
-        "Abstract": "DINT is the Korean women's luxury designer clothing fashion brand. Shop for the best selection of dresses, pants, jeans, jackets, skirts, and stylish codi items.",
-        "Official Site": "https://dintkorea.com/",
-        "Icon": "//dintkorea.com/cdn/shop/files/Dint-Favicon.jpg?v=1699008604&width=96",
-        "Redirect": "https://dintkorea.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dintkorea.com/"
     },
     {
         "link": "https://dinuofrp.com",
@@ -114,10 +104,20 @@
         "Heading": "GitHub - domaframework/doma: DAO oriented database mapping framework for Java \u00b7 GitHub",
         "Abstract": "DAO oriented database mapping framework for Java. Contribute to domaframework/doma development by creating an account on GitHub.",
         "Official Site": "https://github.com/domaframework/doma",
-        "Icon": "https://opengraph.githubassets.com/ce0b6723d80b3b39710befd1cc2a5d02090bfa7780543370b435ec2ce222380d/domaframework/doma",
+        "Icon": "https://opengraph.githubassets.com/b530f4b50b9a67f45effc366f30d3e13aa56f001215b1f4ff77ebca30e2ae1cc/domaframework/doma",
         "Redirect": "https://github.com/domaframework/doma",
         "AbstractSource": "BS4",
         "AbstractURL": "https://github.com/domaframework/doma"
+    },
+    {
+        "link": "https://doormarko.pl",
+        "Heading": "Stalprodukt drzwi zewn\u0119trzne - Sklep z drzwiami Door Marko",
+        "Abstract": "Sklep internetowy Doormarko posiada drzwi zewn\u0119trzne dla Twojego domu. Wszystkie nasze drzwi kwalifikuj\u0105 si\u0119 do dofinsowania w ramach czystego powietrze. ",
+        "Official Site": "https://doormarko.pl/",
+        "Icon": "https://doormarko.pl/img/favicon.ico?1697920518",
+        "Redirect": "https://doormarko.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://doormarko.pl/"
     },
     {
         "link": "https://dprforum.com",
@@ -188,26 +188,6 @@
         "Redirect": "https://dunaevabooks.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dunaevabooks.ru"
-    },
-    {
-        "link": "https://dutchgameboys.com",
-        "Heading": "Dutch Game Boys",
-        "Abstract": "Games & Consoles",
-        "Official Site": "https://dutchgameboys.com",
-        "Icon": "https://www.dutchgameboys.com/wp-content/uploads/2019/06/Favicon.png",
-        "Redirect": "https://dutchgameboys.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dutchgameboys.com"
-    },
-    {
-        "link": "https://eaglelion.kr",
-        "Heading": "\ud638\uc218\uc2a4",
-        "Abstract": "\uac74\uac15, \uad50\uc721, \ubc1c\ub2ec\uc2ec\ub9ac\ubd80\ud130 \uc2dc\uc0ac\uae4c\uc9c0 \ub2e4\uc591\ud55c \uc8fc\uc81c\ub97c \ub2e4\ub8e8\uba70, \n\uc774\ud574\ud558\uae30 \uc27d\uac8c  \uae4a\uc774 \uc788\ub294 \uc815\ubcf4\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4. \n",
-        "Official Site": "https://eaglelion.kr/",
-        "Icon": "https://eaglelion.kr/favicon.png",
-        "Redirect": "https://eaglelion.kr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eaglelion.kr/"
     },
     {
         "link": "https://easyya.com",

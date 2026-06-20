@@ -23,18 +23,18 @@
         "link": "https://regionalno.si",
         "Heading": "ADRIA INFO - Regionalno.si ",
         "Abstract": null,
-        "Official Site": "https://regionalno.si/sl/?list=hiddens&date=06-19&key=%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A1",
-        "Icon": "https://regionalno.si/",
-        "Redirect": "https://regionalno.si/sl/?list=hiddens&date=06-19&key=%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A1",
+        "Official Site": "https://www.regionalno.si/sl/?list=essays&date=06-20&key=%E0%B9%82%E0%B8%9B%E0%B8%A3-10-%E0%B8%A3%E0%B8%B1%E0%B8%9A-100-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94-2026",
+        "Icon": "https://www.regionalno.si/",
+        "Redirect": "https://www.regionalno.si/sl/?list=essays&date=06-20&key=%E0%B9%82%E0%B8%9B%E0%B8%A3-10-%E0%B8%A3%E0%B8%B1%E0%B8%9A-100-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94-2026",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://regionalno.si/sl/?list=hiddens&date=06-19&key=%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A1"
+        "AbstractURL": "https://www.regionalno.si/sl/?list=essays&date=06-20&key=%E0%B9%82%E0%B8%9B%E0%B8%A3-10-%E0%B8%A3%E0%B8%B1%E0%B8%9A-100-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94-2026"
     },
     {
         "link": "https://reinerkan.com",
         "Heading": "Pulse Groove \u2013 Equalizer & Bass Booster App for Music Lovers",
         "Abstract": "Pulse Groove is your ultimate music companion, offering powerful equalizer, bass booster, volume booster, reverb, tone, and rhythm optimization. Enhance your listening experience and enjoy crystal-clear sound with our easy-to-use audio app.",
         "Official Site": "https://reinerkan.com",
-        "Icon": "N/A",
+        "Icon": "/public/img/logo.32742c01.png",
         "Redirect": "https://reinerkan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://reinerkan.com"
@@ -48,6 +48,16 @@
         "Redirect": "https://reinhardfischerauktionen.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://reinhardfischerauktionen.de"
+    },
+    {
+        "link": "https://reklamprestij.com.tr",
+        "Heading": "Reklamprestij.com.tr \\ H\u0131zl\u0131 teslimat",
+        "Abstract": null,
+        "Official Site": "https://reklamprestij.com.tr",
+        "Icon": "N/A",
+        "Redirect": "https://reklamprestij.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://reklamprestij.com.tr"
     },
     {
         "link": "https://resortshotels.net",

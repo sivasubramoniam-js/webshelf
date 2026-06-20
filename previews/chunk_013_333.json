@@ -100,16 +100,6 @@
         "AbstractURL": "https://www.wantstats.com/"
     },
     {
-        "link": "https://tpchousing.com",
-        "Heading": "The Pacific Companies \u2013 Multifamily Housing Development - The Pacific Companies",
-        "Abstract": "TPC develops, constructs, and operates communities throughout the western US, with a focus on producing affordable multifamily housing.",
-        "Official Site": "https://tpchousing.com/",
-        "Icon": "https://tpchousing.com/wp-content/uploads/2025/03/cropped-TPC_favicon-1-32x32.png",
-        "Redirect": "https://tpchousing.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tpchousing.com/"
-    },
-    {
         "link": "https://finprom.net",
         "Heading": "FinTips \u2013 \u0424\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0456 \u043f\u043e\u0440\u0430\u0434\u0438, \u043f\u0456\u0434\u0431\u0456\u0440 \u043e\u043d\u043b\u0430\u0439\u043d \u043a\u0440\u0435\u0434\u0438\u0442\u0456\u0432, \u0433\u0440\u043e\u0448\u0456 \u0432 \u0431\u043e\u0440\u0433",
         "Abstract": "FinTips \u2013 \u0424\u0456\u043d\u0430\u043d\u0441\u043e\u0432\u0456 \u043f\u043e\u0440\u0430\u0434\u0438 \u0442\u0430 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0430\u0446\u0456\u0457 \u2013 \u041f\u0456\u0434\u0431\u0456\u0440 \u043a\u0440\u0435\u0434\u0438\u0442\u0456\u0432 \u043e\u043d\u043b\u0430\u0439\u043d \u2013 \u0412\u0437\u044f\u0442\u0438 \u0433\u0440\u043e\u0448\u0456 \u0432 \u0431\u043e\u0440\u0433 \u2013 \u041a\u043e\u0440\u0438\u0441\u043d\u0456 \u0441\u0442\u0430\u0442\u0442\u0456 \u0442\u0430 \u0432\u0456\u0434\u0435\u043e\u043e\u0433\u043b\u044f\u0434\u0438",
@@ -178,6 +168,16 @@
         "Redirect": "https://bytebuddy.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bytebuddy.net"
+    },
+    {
+        "link": "https://tenisklub.pl",
+        "Heading": "Tenisklub - Tenis w najlepszym wydaniu!",
+        "Abstract": "Tenis w najlepszym wydaniu!",
+        "Official Site": "https://tenisklub.pl/",
+        "Icon": "https://tenisklub.pl/wp-content/uploads/2020/08/cropped-tenisklub-logo-1-32x32.png",
+        "Redirect": "https://tenisklub.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tenisklub.pl/"
     },
     {
         "link": "https://utopia56.org",
@@ -338,15 +338,5 @@
         "Redirect": "https://www.sunacademy.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sunacademy.org/"
-    },
-    {
-        "link": "https://dxrawt.cn",
-        "Heading": "\u70df\u6279\u53d1\u5e02\u573a\u8fdb\u8d27\u4ef7\u683c-\u9999\u70df\u6279\u53d1\u5382\u5bb6\u514d\u7a0e\u5916\u70df\u4e00\u624b\u8d27\u6e90\u603b\u4ed3\u76f4\u9500 - \u535a\u987f\u9999\u70df\u7f51",
-        "Abstract": "\u70df\u6279\u53d1\u5e02\u573a\u8fdb\u8d27\u4ef7\u683c\u900f\u660e,\u798f\u5efa\u4e91\u9704\u53ca\u5e7f\u897f\u8d8a\u5357\u4ee3\u5de5\u9999\u70df\u4e00\u624b\u8d27\u6e90\u603b\u4ed3\u76f4\u9500\u3002\u4e3b\u8425\u9ad8\u4eff\u70df\u7ed3\u5408\u4ee3\u5de5\u3001\u514d\u7a0e\u5916\u70df\u3001\u65e5\u672c\u70df\u53ca\u67ec\u57d4\u5be8\u9999\u70df\u7b49\u7206\u73e0\u7cfb\u5217\u3002\u5382\u5bb6\u76f4\u63a5\u5bf9\u63a5\u4ee3\u7406,\u63d0\u4f9b\u4f4e\u4ef7\u8d27\u6e90\u4e0e\u4fbf\u6377\u5fae\u4fe1\u8054\u7cfb\u65b9\u5f0f,\u8bda\u62db\u5168\u56fd\u5b9e\u529b\u5206\u9500\u5546\u5408\u4f5c\u3002",
-        "Official Site": "http://dxrawt.cn",
-        "Icon": "https://dxrawt.cn/favicon.ico",
-        "Redirect": "http://dxrawt.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://dxrawt.cn"
     }
 ]

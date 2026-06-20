@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://etissus.com",
+        "Heading": "Tissus aux Meilleurs Prix",
+        "Abstract": "D\u00e9couvrez notre large gamme de tissus au m\u00e8tre (coton, lycra, velours, dentelle,\u2026) aux meilleurs prix ainsi que notre mercerie, parmi plus de 5000 tissus au m\u00e8tre aux meilleurs prix. Cr\u00e9ez tout ce que vous souhaitez.",
+        "Official Site": "https://etissus.com/fr/",
+        "Icon": "https://etissus-21966.kxcdn.com/img/favicon.ico?1734355796",
+        "Redirect": "https://etissus.com/fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://etissus.com/fr/"
+    },
+    {
         "link": "https://europarfemy.cz",
         "Heading": "Parf\u00e9my a kosmetika levn\u011b - EUROPARFEMY.cz",
         "Abstract": "Vyu\u017eijte svou \u0161anci a po\u0159i\u010fte si parf\u00e9my a kosmetiku za bezkonkuren\u010dn\u00ed ceny na Europarfemy.cz. Tis\u00edce polo\u017eek skladem a bleskov\u00e9 dod\u00e1n\u00ed.",
@@ -418,5 +428,25 @@
         "Redirect": "https://www.ganlys.ie/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ganlys.ie/"
+    },
+    {
+        "link": "https://garaze.org.pl",
+        "Heading": "Producent gara\u017cy blaszanych i blaszak\u00f3w - Stalgar",
+        "Abstract": "Producent gara\u017cy blaszanych \u2013 najlepsze ceny, wysoka jako\u015b\u0107. Zadzwo\u0144 i zam\u00f3w konstrukcj\u0119 dopasowan\u0105 do Twoich potrzeb. Transport i monta\u017c - ca\u0142y kraj.",
+        "Official Site": "https://garaze.org.pl/",
+        "Icon": "/images/favicon.png",
+        "Redirect": "https://garaze.org.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://garaze.org.pl/"
+    },
+    {
+        "link": "https://gardenitaliastore.it",
+        "Heading": "GARDEN ITALIA STORE - Attrezzature per agricoltura e giardinaggio",
+        "Abstract": "Vendita online di Motozappe Tosaerba Rasaerba Trattorini Rider Decespugliatori Tagliasiepi Motoseghe Elettroseghe Aspiratori Soffiatori Tagliabordi",
+        "Official Site": "https://gardenitaliastore.it/",
+        "Icon": "https://gardenitaliastore.it/wp-content/uploads/2025/11/Categoria-GardenItalia-Macchine-per-Prato-Sintetico.webp",
+        "Redirect": "https://gardenitaliastore.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gardenitaliastore.it/"
     }
 ]

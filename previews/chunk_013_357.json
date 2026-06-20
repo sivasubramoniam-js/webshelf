@@ -100,16 +100,6 @@
         "AbstractURL": "https://adroithost.com"
     },
     {
-        "link": "https://hc-molot.ru",
-        "Heading": "\u0425\u041a \u041c\u043e\u043b\u043e\u0442",
-        "Abstract": "\u0425\u041a \u041c\u043e\u043b\u043e\u0442",
-        "Official Site": "https://hc-molot.ru",
-        "Icon": "N/A",
-        "Redirect": "https://hc-molot.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hc-molot.ru"
-    },
-    {
         "link": "https://complemento.net.br",
         "Heading": "ligerosmart-ai",
         "Abstract": null,
@@ -198,6 +188,16 @@
         "Redirect": "https://www.thebasementnashville.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.thebasementnashville.com/"
+    },
+    {
+        "link": "https://gebeya.com",
+        "Heading": "Gebeya | AI Solutions for Africa with Dala, Jitume & Jenga",
+        "Abstract": "Discover Gebeya and explore Dala, Jitume, and Jenga-AI-powered solutions built to help businesses in Africa scale faster, work smarter, and create real impact.",
+        "Official Site": "https://gebeya.com/",
+        "Icon": "https://gebeya.com/wp-content/uploads/2025/02/117-987x1024.webp",
+        "Redirect": "https://gebeya.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gebeya.com/"
     },
     {
         "link": "https://foxboroughma.gov",

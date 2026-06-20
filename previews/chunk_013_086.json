@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://revisionnepal.com",
-        "Heading": "Redirecting...",
-        "Abstract": null,
-        "Official Site": "https://revisionnepal.com",
-        "Icon": "N/A",
-        "Redirect": "https://revisionnepal.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://revisionnepal.com"
-    },
-    {
         "link": "https://godwinprof.com",
         "Heading": "John L. Godwin historian",
         "Abstract": "John L. Godwin, a Wilmington North Carolina historian, is an adjuct professor of history at Campbell University, Camp Lejeune, N.C.. He teaches upper level courses in 20th century and 19th century U.S. History, and surveys in U.S. History and Western Civ.",
@@ -20,6 +10,16 @@
         "AbstractURL": "https://godwinprof.com"
     },
     {
+        "link": "https://doughmesstic.com",
+        "Heading": "Home - Doughmesstic",
+        "Abstract": "Susan Moss shares recipes to feed your family and travel experiences to feed your soul. Join the Wanderlings around the world and in the kitchen.",
+        "Official Site": "https://doughmesstic.com/",
+        "Icon": "N/A",
+        "Redirect": "https://doughmesstic.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://doughmesstic.com/"
+    },
+    {
         "link": "https://badadventures.com",
         "Heading": "Kayak Trips & Adventure Vacations | Bad Adventures",
         "Abstract": "Don't settle for a life without adventure! Register for a paddling adventure, backpacking trip, or National Park basecamp hiking vacation with Bad Adventures.",
@@ -28,6 +28,16 @@
         "Redirect": "https://badadventures.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://badadventures.com"
+    },
+    {
+        "link": "https://holmwright.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://holmwright.com",
+        "Icon": "N/A",
+        "Redirect": "https://holmwright.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://holmwright.com"
     },
     {
         "link": "https://expressmilwaukee.com",

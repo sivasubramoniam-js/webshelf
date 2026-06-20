@@ -231,23 +231,13 @@
     },
     {
         "link": "https://puretechdsm.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://puretechdsm.com",
         "Icon": "N/A",
         "Redirect": "https://puretechdsm.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://puretechdsm.com"
-    },
-    {
-        "link": "https://killarya.icu",
-        "Heading": "Low Cost, High Performance S3 Compatible Object Storage",
-        "Abstract": "Backblaze B2 provides unlimited data storage in the cloud at 1/5th the cost of Amazon S3, Microsoft Azure, and Google Cloud.",
-        "Official Site": "https://killarya.icu",
-        "Icon": "https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64b1b1605e73b516e5712f82_Backblaze_Social-Card.webp",
-        "Redirect": "https://killarya.icu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://killarya.icu"
     },
     {
         "link": "https://d-central.tech",
@@ -258,6 +248,26 @@
         "Redirect": "https://d-central.tech/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://d-central.tech/"
+    },
+    {
+        "link": "https://revclinesp.es",
+        "Heading": "Revista Cl\u00ednica Espa\u00f1ola",
+        "Abstract": null,
+        "Official Site": "http://revclinesp.es/",
+        "Icon": "https://static.elsevier.es/multimedia/22548874/0000022600000006/v1_202606020425/en/main.assets/cover.jpeg?idApp=WRCEE",
+        "Redirect": "http://revclinesp.es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://revclinesp.es/"
+    },
+    {
+        "link": "https://michuhol.go.kr",
+        "Heading": "\uc778\ucc9c\uad11\uc5ed\uc2dc \ubbf8\ucd94\ud640\uad6c ",
+        "Abstract": "\uc778\ucc9c\uad11\uc5ed\uc2dc \ubbf8\ucd94\ud640\uad6c \ub300\ud45c \ub204\ub9ac\uc9d1\uc785\ub2c8\ub2e4.",
+        "Official Site": "https://www.michuhol.go.kr/main/main.do?",
+        "Icon": "https://www.michuhol.go.kr/main/images/opengraph.png",
+        "Redirect": "https://www.michuhol.go.kr/main/main.do?",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.michuhol.go.kr/main/main.do?"
     },
     {
         "link": "https://vilvoorde.be",

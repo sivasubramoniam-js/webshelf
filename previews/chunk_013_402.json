@@ -154,7 +154,7 @@
         "Heading": "Barbosul Prietenos",
         "Abstract": "Barbosul Prietenos",
         "Official Site": "https://www.barbosulprietenos.ro",
-        "Icon": "https://s.cdnshm.com/site/1200x1200/barbosulprietenos.ro.jpg?20260619",
+        "Icon": "https://s.cdnshm.com/site/1200x1200/barbosulprietenos.ro.jpg?20260620",
         "Redirect": "https://www.barbosulprietenos.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.barbosulprietenos.ro"
@@ -171,10 +171,10 @@
     },
     {
         "link": "https://basilclassiccars.com",
-        "Heading": "Basil Classics",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://basilclassiccars.com",
-        "Icon": "/basil/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://basilclassiccars.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://basilclassiccars.com"
@@ -214,7 +214,7 @@
         "Heading": "Buy Customized Gifts Online - Unique Personalized Gifts - bbdgifts  \u2013 BBD GIFTS",
         "Abstract": "Buy customized gifts online from BBDGifts. Explore unique personalized gifts for birthdays, weddings, anniversaries, and corporate events across India.",
         "Official Site": "https://bbdgifts.com/",
-        "Icon": "http://bbdgifts.com/cdn/shop/files/SHOP.png?v=1679580732",
+        "Icon": "http://cdn.shopify.com/s/files/1/0653/0075/8777/files/SHOP.png?v=1679580732",
         "Redirect": "https://bbdgifts.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bbdgifts.com/"
@@ -340,6 +340,16 @@
         "AbstractURL": "https://beridampak.com/"
     },
     {
+        "link": "https://beslagsboden.com",
+        "Heading": "\n      Beslagsboden\n",
+        "Abstract": "Beslagsboden",
+        "Official Site": "https://www.beslagsboden.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.beslagsboden.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.beslagsboden.com/"
+    },
+    {
         "link": "https://bezprzewodu.pl",
         "Heading": "Najwi\u0119kszy Autoryzowany Sklep Internetowy Milwaukee",
         "Abstract": "Najwi\u0119kszy Autoryzowany Sklep Internetowy Milwaukee! \u2705 Zarejestrujemy Tw\u00f3j Sprz\u0119t do Przed\u0142u\u017conej Gwarancji 3-lata! \u2705 Najszybsza i Darmowa Wysy\u0142ka! \u2705",
@@ -411,13 +421,13 @@
     },
     {
         "link": "https://birminghamautoauction.com",
-        "Heading": "Birmingham Auto Auction of Hueytown - Serving Hueytown, AL",
-        "Abstract": "Serving Hueytown, Alabama (AL), Birmingham Auto Auction of Hueytown is the  place to purchase your next vehicle. View photos and details of our entire new and used inventory.",
-        "Official Site": "https://www.birminghamautoauction.com/",
-        "Icon": "//images.ebizautos.media/Foundation/Sites/13661/AccountTemplate/images/logo.png",
-        "Redirect": "https://www.birminghamautoauction.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://birminghamautoauction.com",
+        "Icon": "N/A",
+        "Redirect": "https://birminghamautoauction.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.birminghamautoauction.com/"
+        "AbstractURL": "https://birminghamautoauction.com"
     },
     {
         "link": "https://blackboots.com.br",

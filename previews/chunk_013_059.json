@@ -250,16 +250,6 @@
         "AbstractURL": "https://www.qwalis.com/fr/"
     },
     {
-        "link": "https://radyoduble.com.tr",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://radyoduble.com.tr",
-        "Icon": "N/A",
-        "Redirect": "https://radyoduble.com.tr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://radyoduble.com.tr"
-    },
-    {
         "link": "https://ramseier-normteile.at",
         "Heading": "Home - Ramseier Normteile GmbH",
         "Abstract": "Die Ramseier GmbH aus \u00d6sterreich bietet Ihnen hochqualitative Normalien und Normteile f\u00fcr alle Anforderungen im Gesamtbereich Werkzeugbau & Maschinenbau, Stanzwerkbau, Vorrichtungsbau, Maschinenbau, Apparatebau, Formenbau sowie diverse F\u00fchrungen, Sonderteile, Bedienteile, Lochstempel und pr\u00e4zise Zeichnungsteile.",
@@ -268,26 +258,6 @@
         "Redirect": "https://www.ramseier-normteile.at/de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ramseier-normteile.at/de/"
-    },
-    {
-        "link": "https://rcworst.com",
-        "Heading": "\n      Wastewater Pumps | Well Pump Systems | R.C. Worst & Co.\n",
-        "Abstract": "R.C. Worst & Co. has affordable wastewater pumping and filtration products, including motors, control panels and supplies. Enjoy free shipping on most items.",
-        "Official Site": "https://rcworst.com/",
-        "Icon": "http://rcworst.com/cdn/shop/files/RCWorstInternetLogoLarge.png?height=628&pad_color=ffffff&v=1725431185&width=1200",
-        "Redirect": "https://rcworst.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rcworst.com/"
-    },
-    {
-        "link": "https://rdrive.io",
-        "Heading": "Progress Monitoring & Reporting Software | RDrive by SnagR",
-        "Abstract": "RDrive is progress monitoring software that helps teams capture field data and automate reporting for faster, smarter project delivery.",
-        "Official Site": "https://rdrive.io/en/",
-        "Icon": "https://rdrive.io/wp-content/uploads/2025/09/social-share.png",
-        "Redirect": "https://rdrive.io/en/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rdrive.io/en/"
     },
     {
         "link": "https://readefined.com",
@@ -308,6 +278,16 @@
         "Redirect": "https://realitypro.eu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://realitypro.eu"
+    },
+    {
+        "link": "https://recipepop.online",
+        "Heading": "recipepop",
+        "Abstract": null,
+        "Official Site": "https://recipepop.online",
+        "Icon": "N/A",
+        "Redirect": "https://recipepop.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://recipepop.online"
     },
     {
         "link": "https://redrosecps.com",
@@ -358,5 +338,15 @@
         "Redirect": "https://www.relymedia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.relymedia.com"
+    },
+    {
+        "link": "https://repaircost.net",
+        "Heading": "Home Repair and Services Reviews & Complaints \u2014 Real Ratings Across United States (2026) | RepairCost.Net",
+        "Abstract": "Read real customer reviews, complaints and ratings for home repair and services across United States. 1,843 businesses rated by actual customers. Find trustworthy home repair and services near you \u2014 free & independent.",
+        "Official Site": "https://repaircost.net/",
+        "Icon": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231d4ed8' width='100' height='100' rx='18'/><text y='72' x='50' font-size='58' text-anchor='middle' fill='%23fff'>%E2%AD%90</text></svg>",
+        "Redirect": "https://repaircost.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://repaircost.net/"
     }
 ]

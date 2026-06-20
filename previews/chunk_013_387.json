@@ -20,16 +20,6 @@
         "AbstractURL": "https://sidatark.xyz"
     },
     {
-        "link": "https://law-ai.org",
-        "Heading": "Home - Institute for Law & AI",
-        "Abstract": "The Institute for Law & AI is an independent think tank that researches and advises on the legal challenges posed by artificial intelligence.",
-        "Official Site": "https://law-ai.org/",
-        "Icon": "https://law-ai.org/wp-content/uploads/2024/08/the-capitol.png",
-        "Redirect": "https://law-ai.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://law-ai.org/"
-    },
-    {
         "link": "https://rocksoffmag.com",
         "Heading": "Rocks Off Mag - Music | Culture | Lifestyle",
         "Abstract": "Small, passionate and always learning - Rocks Off Magazine is an online magazine dedicated to telling the stories of our favourite music, movie, cultural and celebrity icons. We focus on the Golden Years of the 1960s, 70s and 80s - but honestly, won't avoid a good story no matter the era it originates. Rocks Off Magazine is a digital publication of music, culture, and lifestyle. Inspired by the 60s and 70s but with a modern relevance!",
@@ -218,6 +208,16 @@
         "Redirect": "https://nbc16.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nbc16.com"
+    },
+    {
+        "link": "https://tangyshop.com",
+        "Heading": "\n      Tangy Shop - The Indian Candy Store\n \u2013 TANGY SHOP",
+        "Abstract": "Tangy Shop is the first Indian candy store that sells candies and snacks to customers in USA, Canada and internationally.",
+        "Official Site": "https://www.tangyshop.com/",
+        "Icon": "http://www.tangyshop.com/cdn/shop/files/Sweet_Candy_Shop_Promotion_Simple_Instagram_Feed_250_x_250_px_320_x_132_px_c90e2a6a-e231-42a2-8cd9-08496bbd1562.png?v=1656301285",
+        "Redirect": "https://www.tangyshop.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tangyshop.com/"
     },
     {
         "link": "https://whitemushroom.xyz",

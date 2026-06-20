@@ -10,16 +10,6 @@
         "AbstractURL": "https://chiraghapparel.com"
     },
     {
-        "link": "https://omiclinic.ru",
-        "Heading": "\u041e\u0444\u0442\u0430\u043b\u044c\u043c\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u00ab\u041e\u043c\u0438\u043a\u0440\u043e\u043d\u00bb: \u0443\u0441\u043b\u0443\u0433\u0438, \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u044b, \u0446\u0435\u043d\u044b, \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u044b.",
-        "Abstract": "\u041e\u0444\u0442\u0430\u043b\u044c\u043c\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u00ab\u041e\u043c\u0438\u043a\u0440\u043e\u043d\u00bb: \u0443\u0441\u043b\u0443\u0433\u0438, \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u044b, \u0446\u0435\u043d\u044b, \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u044b.",
-        "Official Site": "https://omiclinic.ru/",
-        "Icon": "https://omiclinic.ru/bitrix/templates/main/img/soc_img.png",
-        "Redirect": "https://omiclinic.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://omiclinic.ru/"
-    },
-    {
         "link": "https://antlionaudio.com",
         "Heading": "\n  Antlion \u2013 Antlion Audio\n  ",
         "Abstract": "The ModMic is an attachable/detachable boom microphone that you can attach to any pair of headphones.",
@@ -41,7 +31,7 @@
     },
     {
         "link": "https://lavoz901.com",
-        "Heading": "Frigerio recibi\u00f3 a Caputo en Paran\u00e1 y afirm\u00f3: \"Estamos en condiciones de escribir el pr\u00f3ximo cap\u00edtulo del pacto fiscal\" - La voz 90.1",
+        "Heading": "Una adolescente muri\u00f3 tras caer de un edificio en el centro de Gualeguaych\u00fa - La voz 90.1",
         "Abstract": "",
         "Official Site": "https://www.lavoz901.com",
         "Icon": "/images/logo.png",
@@ -298,5 +288,15 @@
         "Redirect": "https://www.fietsplatform.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.fietsplatform.nl/"
+    },
+    {
+        "link": "https://xassetcapitals.com",
+        "Heading": "XAssetcapitals Ltd | Home",
+        "Abstract": "Best sustainable investment, designed with investors profit in mind. We derive joy in bringing financial freedom to investors",
+        "Official Site": "https://xassetcapitals.com",
+        "Icon": "#",
+        "Redirect": "https://xassetcapitals.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xassetcapitals.com"
     }
 ]

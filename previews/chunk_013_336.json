@@ -40,16 +40,6 @@
         "AbstractURL": "https://changview.com"
     },
     {
-        "link": "https://quelliv.com",
-        "Heading": "Laser Wellness Center St. Petersburg- Medical Spa -Quelliv Medical Spa",
-        "Abstract": "Quelliv provides an effective, non-invasive therapeutic alternative to ease pain, reduce inflammation, enhance skin health, and support your well-being",
-        "Official Site": "https://quelliv.com/",
-        "Icon": "https://quelliv.com/wp-content/uploads/2024/01/favicon.png",
-        "Redirect": "https://quelliv.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://quelliv.com/"
-    },
-    {
         "link": "https://jasawebbandung.com",
         "Heading": "Under Construction",
         "Abstract": null,
@@ -210,16 +200,6 @@
         "AbstractURL": "https://margs.com/"
     },
     {
-        "link": "https://yourdreamdegree.com",
-        "Heading": "\nEarn Your Degree\n",
-        "Abstract": null,
-        "Official Site": "https://yourdreamdegree.com",
-        "Icon": "N/A",
-        "Redirect": "https://yourdreamdegree.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://yourdreamdegree.com"
-    },
-    {
         "link": "https://diybook.de",
         "Heading": "diybook.de - das Portal f\u00fcr Heimwerker und Selbermacher!",
         "Abstract": "Auf diybook.de gibts Anleitungen und Wissen in den Bereichen Bauen, Renovieren, Finanzieren, Garten und Wartung, sowie aktuelle Nachrichten rund ums Heimwerken.",
@@ -268,6 +248,16 @@
         "Redirect": "https://www.bsmedia.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bsmedia.nl/"
+    },
+    {
+        "link": "https://krajowy.biz",
+        "Heading": "Portal informacyjny. B\u0105d\u017a na bie\u017c\u0105co w ka\u017cdej dziedzinie. Krajowy.biz",
+        "Abstract": "\u015aledzimy krajowe i \u015bwiatowe trendy i informujemy Ci\u0119 o nich na bie\u017c\u0105co! Rzetelny portal informacyjny: sport, biznes, motoryzacja, kulinarna, lifestyle.",
+        "Official Site": "https://krajowy.biz/",
+        "Icon": "https://krajowy.biz/wp-content/uploads/2019/01/cropped-krajowy-logo-32x32.png",
+        "Redirect": "https://krajowy.biz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://krajowy.biz/"
     },
     {
         "link": "https://laytoncity.org",

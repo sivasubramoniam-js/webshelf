@@ -54,7 +54,7 @@
         "Heading": "Lise Tailor \u2013 Tissus, Patrons Couture & Tricot Cr\u00e9atifs",
         "Abstract": "Lise Tailor est une marque cr\u00e9ative d\u00e9di\u00e9e \u00e0 la couture et au tricot. D\u00e9couvrez des tissus exclusifs, des patrons modernes, des laines de qualit\u00e9 et une mercerie inspirante pour cr\u00e9er des pi\u00e8ces uniques, durables et \u00e9l\u00e9gantes, au rythme des saisons et des envies.",
         "Official Site": "https://lisetailor.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0967/2838/3870/files/Macaron_rose.png?v=1765181338&width=2048",
+        "Icon": "http://lisetailor.com/cdn/shop/files/Macaron_rose.png?v=1765181338&width=2048",
         "Redirect": "https://lisetailor.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lisetailor.com/"
@@ -313,11 +313,11 @@
         "link": "https://marcolino.pt",
         "Heading": "Desde 1926 at\u00e9 hoje, como sempre | Marcolino 1926",
         "Abstract": "A Marcolino 1926 \u00e9 a principal refer\u00eancia na cidade do Porto para quem exige qualidade e excel\u00eancia em relojoaria e joalharia. ",
-        "Official Site": "https://www.marcolino.pt/",
+        "Official Site": "https://www.marcolino.pt/?utm_source=google&utm_medium=cpc&utm_campaign=23512171385&utm_content=&utm_term=&gad_source=1&gad_campaignid=23861455397&gclid=CjwKCAjw9NjRBhATEiwA_p2J8bPrz6IfwWTx_jObJxm-LWiLPeFvFB3MrDhwbi-MFwg2yxgIVocYBhoCj-MQAvD_BwE",
         "Icon": "/favicon-32x32.png",
-        "Redirect": "https://www.marcolino.pt/",
+        "Redirect": "https://www.marcolino.pt/?utm_source=google&utm_medium=cpc&utm_campaign=23512171385&utm_content=&utm_term=&gad_source=1&gad_campaignid=23861455397&gclid=CjwKCAjw9NjRBhATEiwA_p2J8bPrz6IfwWTx_jObJxm-LWiLPeFvFB3MrDhwbi-MFwg2yxgIVocYBhoCj-MQAvD_BwE",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.marcolino.pt/"
+        "AbstractURL": "https://www.marcolino.pt/?utm_source=google&utm_medium=cpc&utm_campaign=23512171385&utm_content=&utm_term=&gad_source=1&gad_campaignid=23861455397&gclid=CjwKCAjw9NjRBhATEiwA_p2J8bPrz6IfwWTx_jObJxm-LWiLPeFvFB3MrDhwbi-MFwg2yxgIVocYBhoCj-MQAvD_BwE"
     },
     {
         "link": "https://marcustoday.com.au",
@@ -368,6 +368,16 @@
         "Redirect": "https://masqueradenyc.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://masqueradenyc.com/"
+    },
+    {
+        "link": "https://massamarkt.nl",
+        "Heading": "Massamarkt, da's een partij voordelig!",
+        "Abstract": null,
+        "Official Site": "https://massamarkt.nl",
+        "Icon": "N/A",
+        "Redirect": "https://massamarkt.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://massamarkt.nl"
     },
     {
         "link": "https://matericashop.it",

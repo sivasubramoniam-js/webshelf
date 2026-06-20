@@ -74,7 +74,7 @@
         "Heading": "mundizio - Reinigungs- und Hygienebedarf online kaufen",
         "Abstract": "Deutschlands gro\u00dfer Online-Shop f\u00fcr Reinigungs- und Hygieneartikel. Bestellen Sie aus \u00fcber 10.000 Artikel - Glasreinigungszubeh\u00f6r, Reinigungsmittel, Desinfektionsmittel, Hygienepapiere und vieles Mehr.",
         "Official Site": "https://www.mundizio.de/",
-        "Icon": "//www.mundizio.de/cdn/shop/files/favicon.png?crop=center&height=48&v=1753442481&width=48",
+        "Icon": "//cdn.shopify.com/s/files/1/0853/8351/2395/files/favicon.png?crop=center&height=48&v=1753442481&width=48",
         "Redirect": "https://www.mundizio.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mundizio.de/"
@@ -280,6 +280,26 @@
         "AbstractURL": "https://netschach.de"
     },
     {
+        "link": "https://neue-gladbecker-zeitung.de",
+        "Heading": "Nachrichten aus Gladbeck - NGZ - Neue Gladbecker Zeitung",
+        "Abstract": "Nachrichten und News aus Gladbeck und Umgebung",
+        "Official Site": "https://neue-gladbecker-zeitung.de/",
+        "Icon": "https://neue-gladbecker-zeitung.de/wp-content/uploads/2023/02/icon.jpg",
+        "Redirect": "https://neue-gladbecker-zeitung.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://neue-gladbecker-zeitung.de/"
+    },
+    {
+        "link": "https://neutonic.com",
+        "Heading": "\n      Official Neutonic | Research-Backed Performance\n",
+        "Abstract": "Improve focus, reduce stress, and beat fatigue with our scientifically formulated nootropic blends. Stay productive all day. Save up to 20% with subscriptions.",
+        "Official Site": "https://www.neutonic.com/",
+        "Icon": "http://www.neutonic.com/cdn/shop/files/Steps_Link_Share_Banner_83b7fc0f-de41-44ec-9a05-9b5b79b1b60a.jpg?v=1777050105",
+        "Redirect": "https://www.neutonic.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.neutonic.com/"
+    },
+    {
         "link": "https://newsflash71.com",
         "Heading": "News Flash 71",
         "Abstract": "this is meta description",
@@ -340,6 +360,16 @@
         "AbstractURL": "https://www.nlb-rs.ba/stanovnistvo"
     },
     {
+        "link": "https://nordicanglers.com",
+        "Heading": "N\u00f8je udvalgt fiskegrej - Nordicanglers | Find mere end 12.000 varer \u2013 Nordic Anglers",
+        "Abstract": "Fiskegrej til alle former for lystfiskeri. N\u00f8je udvalgt af dedikerede lystfiskere, som g\u00e5r op i lystfiskeri og det rette fiskegrej. Med mange \u00e5rs erfaring inden for gej til b\u00e5de flue og spinnefiskere. Vi vil g\u00f8re det nemt at k\u00f8be fiskegrej online.",
+        "Official Site": "https://nordicanglers.com/",
+        "Icon": "http://nordicanglers.com/cdn/shop/files/ms-icon-144x144_ca9d3882-a310-4024-a182-d350990c2b50.png?v=1725278895",
+        "Redirect": "https://nordicanglers.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nordicanglers.com/"
+    },
+    {
         "link": "https://novaemoney.com",
         "Heading": "Novae: Fintech providing greater access to credit, capital, and entrepreneurship for underserved communities.",
         "Abstract": "Novae makes fintech solutions accessible to average consumers and small businesses nationwide that include consumer financing, business funding, credit building, and entrepreneurship opportunities.",
@@ -348,6 +378,16 @@
         "Redirect": "https://novaemoney.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://novaemoney.com"
+    },
+    {
+        "link": "https://novaoflondon.com",
+        "Heading": "Nova of London | Wholesale Womens Clothing",
+        "Abstract": "Nova of London is a long established wholesaler and importer of ladies fashion in London and Manchester. We design and supply a huge range of beautifully made wholesale women's dresses, skirts, tops, jumpsuits, jeans, coats, wholesale plus size clothing with no minimum spend.",
+        "Official Site": "https://novaoflondon.com/",
+        "Icon": "//novaoflondon.com/cdn/shop/files/Nova0Logo-02_96x96.jpg?v=1651655018",
+        "Redirect": "https://novaoflondon.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://novaoflondon.com/"
     },
     {
         "link": "https://novenadimension.com",

@@ -70,16 +70,6 @@
         "AbstractURL": "https://wbg-o-e.de"
     },
     {
-        "link": "https://youngthegiant.com",
-        "Heading": "Young The Giant | Official Site",
-        "Abstract": "New Album \"Victory Garden\" Out Now",
-        "Official Site": "https://youngthegiant.com/",
-        "Icon": "https://youngthegiant.com/wp-content/uploads/2026/02/cropped-YTG_LOGO-stack-copy-sq-32x32.webp",
-        "Redirect": "https://youngthegiant.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://youngthegiant.com/"
-    },
-    {
         "link": "https://calfee.com",
         "Heading": "Calfee, Halter & Griswold LLP Home Page",
         "Abstract": null,
@@ -128,6 +118,16 @@
         "Redirect": "https://segaagro.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://segaagro.com"
+    },
+    {
+        "link": "https://ruskom.pro",
+        "Heading": "Ruskompromat",
+        "Abstract": "RUSKOMPROMAT",
+        "Official Site": "https://ruskom.pro/",
+        "Icon": "https://ruskompromat.info/ruskompromat.jpg",
+        "Redirect": "https://ruskom.pro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ruskom.pro/"
     },
     {
         "link": "https://citymedphysio.co.nz",

@@ -14,7 +14,7 @@
         "Heading": "IAC360 | IAC | Home",
         "Abstract": "ONLINE LEARNING",
         "Official Site": "https://iac360.org/",
-        "Icon": "https://cdn.iac360.org/wp-content/uploads/2024/07/Group-1003.jpg",
+        "Icon": "https://iac360.org/wp-content/uploads/2024/07/Group-1003.jpg",
         "Redirect": "https://iac360.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://iac360.org/"
@@ -220,6 +220,16 @@
         "AbstractURL": "https://fs-etit.de"
     },
     {
+        "link": "https://bad-heilbrunner.de",
+        "Heading": "Bad Heilbrunner | Alles Gute aus der Natur!",
+        "Abstract": "Herzlich Willkommen auf der Webseite von Bad Heilbrunner! Erfahren Sie hier alles \u00fcber \u2713 Unser Unternehmen \u2713 Unsere Produkte \u2713 Unser Heilkr\u00e4uter Lexikon",
+        "Official Site": "https://bad-heilbrunner.de/",
+        "Icon": "https://bad-heilbrunner.de/media/86/87/14/1693398458/logo.png?ts=1693398458",
+        "Redirect": "https://bad-heilbrunner.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bad-heilbrunner.de/"
+    },
+    {
         "link": "https://golakemetro.com",
         "Heading": "Lake Metro Web - Hosting and Development, Lake County Ohio",
         "Abstract": "Web design development and hosting services located in Willoughby, Lake County Ohio",
@@ -248,16 +258,6 @@
         "Redirect": "https://www.diariomomento.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.diariomomento.com"
-    },
-    {
-        "link": "https://jubito.com.hr",
-        "Heading": "Internet-trgovina / Jubito.com.hr",
-        "Abstract": null,
-        "Official Site": "https://jubito.com.hr",
-        "Icon": "N/A",
-        "Redirect": "https://jubito.com.hr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jubito.com.hr"
     },
     {
         "link": "https://jgaa.com",
@@ -310,6 +310,16 @@
         "AbstractURL": "https://www.cocoawonderland.co.uk"
     },
     {
+        "link": "https://lusyen.net",
+        "Heading": "Lusyen.net - Lusyen.net - Lusyen Mood",
+        "Abstract": "JTVCc21hcnRzbGlkZXIzJTIwc2xpZGVyJTNEJTIyMiUyMiU1RA==",
+        "Official Site": "https://lusyen.net/",
+        "Icon": "https://lusyen.net/wp-content/uploads/2023/07/icon.png",
+        "Redirect": "https://lusyen.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lusyen.net/"
+    },
+    {
         "link": "https://walagata.com",
         "Heading": "Walagata.com - Free File Hosting, Free Image Hosting, Free Picture Hosting (Image Host)",
         "Abstract": null,
@@ -318,6 +328,16 @@
         "Redirect": "https://walagata.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://walagata.com"
+    },
+    {
+        "link": "https://zapojmevsechny.cz",
+        "Heading": "Zapojmev\u0161echny.cz | Zapojmev\u0161echny.cz",
+        "Abstract": "Zapojme v\u0161echny.",
+        "Official Site": "https://zapojmevsechny.cz/",
+        "Icon": "/_nuxt/logo_main_new.DdRivPNk.svg",
+        "Redirect": "https://zapojmevsechny.cz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zapojmevsechny.cz/"
     },
     {
         "link": "https://fenorixtrader8-ai.com",
