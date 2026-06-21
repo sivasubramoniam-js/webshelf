@@ -100,6 +100,26 @@
         "AbstractURL": "https://potrebkor.ru/index.html"
     },
     {
+        "link": "https://valleyhospital.net",
+        "Heading": "Welcome To Valley Hospital Medical Center | Las Vegas, NV",
+        "Abstract": "Located in the heart of Las Vegas, Valley Hospital Medical Center is an acute care and teaching hospital that has provided high quality healthcare to residents of Southern Nevada since 1972. The hospital offers a comprehensive range of services, including advanced cardiology, neurology, surgery and more.",
+        "Official Site": "https://www.valleyhospital.net/node/653",
+        "Icon": "https://www.valleyhospital.net/sites/valleyhospital.net/files/vh_vhs_favicon.gif",
+        "Redirect": "https://www.valleyhospital.net/node/653",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.valleyhospital.net/node/653"
+    },
+    {
+        "link": "https://whitepeakdigital.com",
+        "Heading": "White Peak Digital | Award-Winning Websites & Marketing",
+        "Abstract": "White Peak Digital is an award-winning digital agency helping brands grow through human-centred, high-converting websites and marketing strategies.",
+        "Official Site": "https://www.whitepeakdigital.com/",
+        "Icon": "https://www.whitepeakdigital.com/wp-content/uploads/White-Peak-Digital-Web-Design-Banner.jpg",
+        "Redirect": "https://www.whitepeakdigital.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.whitepeakdigital.com/"
+    },
+    {
         "link": "https://mediahouse-it.com",
         "Heading": "Mediahouse for information technology",
         "Abstract": null,
@@ -318,15 +338,5 @@
         "Redirect": "https://1000ideas.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://1000ideas.ru"
-    },
-    {
-        "link": "https://kanvasbeauty.com.au",
-        "Heading": "\n      Australia's favourite skincare online store | Kanvas Beauty",
-        "Abstract": "K-Beauty and J-Beauty? Check. Brands tailored to darker skin tones? Yup! French pharmacy gold like A313 and Ialuset? You bet. Shop for the best global skincare online in Australia, right here at Kanvas Beauty. Take $20 off your first order plus free shipping!",
-        "Official Site": "https://www.kanvasbeauty.com.au/",
-        "Icon": "https://www.kanvasbeauty.com.au/cdn/shop/files/BANNER_3acf442c-f91f-400b-9340-1f24f3c17054_1200x.jpg?v=1632526137",
-        "Redirect": "https://www.kanvasbeauty.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kanvasbeauty.com.au/"
     }
 ]

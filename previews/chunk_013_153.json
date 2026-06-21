@@ -90,16 +90,6 @@
         "AbstractURL": "https://carlhiaasen.com/"
     },
     {
-        "link": "https://djrayanevents.com",
-        "Heading": "ACCUEIL - DJ Rayan Events | Animation & Sonorisation pour \u00c9v\u00e9nements",
-        "Abstract": null,
-        "Official Site": "https://djrayanevents.com/",
-        "Icon": "https://djrayanevents.com/wp-content/uploads/2024/10/cropped-5-32x32.png",
-        "Redirect": "https://djrayanevents.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://djrayanevents.com/"
-    },
-    {
         "link": "https://3buy-doc.ru",
         "Heading": "Welcome!",
         "Abstract": null,
@@ -140,6 +130,16 @@
         "AbstractURL": "https://tinx.dk"
     },
     {
+        "link": "https://signo-digital.website",
+        "Heading": "Portal Web",
+        "Abstract": null,
+        "Official Site": "https://signo-digital.website",
+        "Icon": "N/A",
+        "Redirect": "https://signo-digital.website",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://signo-digital.website"
+    },
+    {
         "link": "https://gogla.org",
         "Heading": "Home - GOGLA",
         "Abstract": "GOGLA is the off-grid sector\u2019s trusted convenor and data authority, providing evidence and insights to inform policy, unlock finance, and enable sustained energy access.",
@@ -158,16 +158,6 @@
         "Redirect": "https://cleantechworld.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cleantechworld.org/"
-    },
-    {
-        "link": "https://intechservis.com",
-        "Heading": "\u0418\u043d\u0442\u0435\u0445\u0441\u0435\u0440\u0432\u0438\u0441 \u0410\u041e \u2014 \u043e\u043f\u0442\u043e\u0432\u044b\u0439 \u043f\u043e\u0441\u0442\u0430\u0432\u0449\u0438\u043a \u043f\u043e\u0434\u0448\u0438\u043f\u043d\u0438\u043a\u043e\u0432, \u0446\u0435\u043f\u0435\u0439, \u0440\u0435\u043c\u043d\u0435\u0439 \u0438 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0443\u044e\u0449\u0438\u0445 \u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434",
-        "Abstract": "\u0410\u041e \u0418\u043d\u0442\u0435\u0445\u0441\u0435\u0440\u0432\u0438\u0441 \u2014 \u043f\u0440\u044f\u043c\u044b\u0435 \u043f\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u043f\u043e\u0434\u0448\u0438\u043f\u043d\u0438\u043a\u043e\u0432 \u0438 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0443\u044e\u0449\u0438\u0445 \u043e\u043f\u0442\u043e\u043c. \u0420\u0430\u0431\u043e\u0442\u0430\u0435\u043c \u0441 \u0437\u0430\u0432\u043e\u0434\u0430\u043c\u0438 \u0438 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u044f\u043c\u0438 \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438. \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0430\u0441\u0441\u043e\u0440\u0442\u0438\u043c\u0435\u043d\u0442, \u0431\u044b\u0441\u0442\u0440\u0430\u044f \u043e\u0442\u0433\u0440\u0443\u0437\u043a\u0430, \u043e\u0442\u043b\u0438\u0447\u043d\u044b\u0435 \u0446\u0435\u043d\u044b.",
-        "Official Site": "https://intechservis.com",
-        "Icon": "/local/templates/is/assets/ico/favicon.ico",
-        "Redirect": "https://intechservis.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://intechservis.com"
     },
     {
         "link": "https://otto-usa.com",
@@ -274,7 +264,7 @@
         "Heading": "\n    \n    Dental Clinic & General Family Dentist Services Geneva, St. Charles, Batavia | Sacrey Dentistry & Associate\n  \n  ",
         "Abstract": "Quality dental care for all ages in Geneva, St. Charles, Batavia. Visit Sacrey Dentistry & Associate for trusted general family dentist services in a comfortable setting.",
         "Official Site": "https://www.sacreydds.com/",
-        "Icon": "https://irp.cdn-website.com/542ae8167fa3476d9e1e6c4c30830cca/site_favicon_16_1619591377956.ico",
+        "Icon": "N/A",
         "Redirect": "https://www.sacreydds.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sacreydds.com/"

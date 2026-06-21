@@ -14,7 +14,7 @@
         "Heading": "Telegram: Launch @vGroup24VPN_bot",
         "Abstract": "\ud83d\udd12 \u0411\u044b\u0441\u0442\u0440\u044b\u0439 VPN \u2022 3 \u0434\u043d\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u2022 99 \u20bd/\u043c\u0435\u0441 \u2022 \u0421\u0435\u0440\u0432\u0435\u0440\u044b \u0432 \u0415\u0432\u0440\u043e\u043f\u0435",
         "Official Site": "https://vgroup24.ru",
-        "Icon": "https://cdn4.telesco.pe/file/bVH49CkZKHlynOiE9DQuyuv4eb33mCkPmIiArg5x1EZMt0U_CV3m1ogr_SUbv6FKk0FaEBP3HHaVe58d1phHn373s6dZV0qIidLCqReR0aQzRQiLaFjL2skU0cHDrpRdwNvNJqui_cHMZN828fQSRxlEJEDEKAVvVZft5v3TXrVgrE4DsaFee8Z_noHF_HZ9it4vKY_wuQx_HFSsGRU9NRbssxHMR-cl3yw7JrISDcC69zaz1oicBuOu5dS8mWJonZVQ1hXICw1Ij1_TNd_aKBuECQSEaIygFnDyKyl5k2gZEoxzdP6TBlvbNHJ8timgevmewS8lbOGPTi7Z6tB7tA.jpg",
+        "Icon": "https://cdn4.telesco.pe/file/uryFiTJrW16Y2wZZxK4SVEqZcmITP39xqjJ3tUpVLFyx9Covhd-Tcor3MOuBJXlFu4-cM50uayABd_kQgVivmsnqXuhu0ENwVgG2inAUhFYm0XH-3iLkyQRv4LI8Puv3yzN7p8GcpZU6JjyUJTxzrd08NfmYLThRwaoYj36k2umuWv0iP8VFxDmnz7_6yoCPooxvRj6k40eLo8SXjZp3b9E3FnU5La4ed69jw93crtw2LwU5dbhykp0p2go-T6vpPhtoJ1QK2caneuWgsRAgraUBJ1F-kz31tvyl1fW2BCtPjDoG0ttwQk3D828Z4G7BaK3-dWLk61PjAKB9hlyFew.jpg",
         "Redirect": "https://vgroup24.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vgroup24.ru"
@@ -150,16 +150,6 @@
         "AbstractURL": "https://therisefx.com"
     },
     {
-        "link": "https://francoallemand.com",
-        "Heading": "Deutsch-Franz\u00f6sische Industrie- und Handelskammer",
-        "Abstract": "",
-        "Official Site": "https://francoallemand.com",
-        "Icon": "/static/images/appicons/favicon-32x32.png",
-        "Redirect": "https://francoallemand.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://francoallemand.com"
-    },
-    {
         "link": "https://educationsuperhighway.org",
         "Heading": "EducationSuperHighway | Close the K-12 Literacy Gap",
         "Abstract": "Nonprofit providing literacy tutoring scholarships to first graders who read below grade level. Together, we can close the K-12 literacy gap.",
@@ -178,16 +168,6 @@
         "Redirect": "https://www.stratumreservoir.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.stratumreservoir.com/"
-    },
-    {
-        "link": "https://tagoreautoparts.com",
-        "Heading": "Tagore AutoParts | Used Engines, Transmissions & Turbos",
-        "Abstract": "Tagore AutoParts for top-quality used engines and transmissions. Enjoy unbeatable prices, 24/7 support, and fast shipping. Find your perfect part now!",
-        "Official Site": "https://tagoreautoparts.com",
-        "Icon": "img/core-img/favicon.jpg",
-        "Redirect": "https://tagoreautoparts.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tagoreautoparts.com"
     },
     {
         "link": "https://lovekuhnya.ru",
@@ -218,16 +198,6 @@
         "Redirect": "https://elitefundsfinance-inc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://elitefundsfinance-inc.com"
-    },
-    {
-        "link": "https://tanukisoftware.com",
-        "Heading": "Tanuki Software Ltd. - Top Page",
-        "Abstract": null,
-        "Official Site": "https://tanukisoftware.com",
-        "Icon": "../favicon.ico",
-        "Redirect": "https://tanukisoftware.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tanukisoftware.com"
     },
     {
         "link": "https://mauritius.net",
@@ -268,16 +238,6 @@
         "Redirect": "https://admiralx-us.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://admiralx-us.xyz"
-    },
-    {
-        "link": "https://torcaldeantequera.com",
-        "Heading": "Torcal de Antequera - Paraje Natural - Patrimonio de la Humanidad",
-        "Abstract": "Torcal de Antequera, probablemente el paisaje k\u00e1rstico m\u00e1s espectacular de Europa. Descubre sus senderos, su fauna y vegetaci\u00f3n.",
-        "Official Site": "https://www.torcaldeantequera.com/",
-        "Icon": "https://www.torcaldeantequera.com/wp-content/uploads/2022/12/panoramica_torcal-scaled.jpg",
-        "Redirect": "https://www.torcaldeantequera.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.torcaldeantequera.com/"
     },
     {
         "link": "https://familyaware.org",

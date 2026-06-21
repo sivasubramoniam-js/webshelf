@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.mfcu.net/"
     },
     {
-        "link": "https://tenthotels.com",
-        "Heading": "tent Hotels \u00b7 Hoteles confortables y de dise\u00f1o en la playa",
-        "Abstract": "Tent Hotels",
-        "Official Site": "https://tenthotels.com",
-        "Icon": "/assets/tent/favicon.ico",
-        "Redirect": "https://tenthotels.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tenthotels.com"
-    },
-    {
         "link": "https://perf-docs.ru",
         "Heading": "\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0443 Microsoft Word \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e. \u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u0430\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0430",
         "Abstract": null,
@@ -88,16 +78,6 @@
         "Redirect": "https://golds-klubs.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://golds-klubs.xyz"
-    },
-    {
-        "link": "https://wildflowerfinder.org.uk",
-        "Heading": "WILD FLOWER IDENTIFICATION GUIDE  (ID GUIDE)",
-        "Abstract": "A Wild Flower Identification Guide (ID Guide) for UK flowers indexed by colour, flowering month, number of petals, habitat, family and a fully cross-referenced contents list. Plus structural formulae of hundreds of plant compounds: dyes, herbs, poisons, smells, etc.",
-        "Official Site": "https://wildflowerfinder.org.uk",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://wildflowerfinder.org.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wildflowerfinder.org.uk"
     },
     {
         "link": "https://aabp.org",
@@ -190,6 +170,16 @@
         "AbstractURL": "https://www.waltontribune.com/"
     },
     {
+        "link": "https://cybersecurity-magazine.com",
+        "Heading": "Cybersecurity Magazine - Science meets Practice",
+        "Abstract": "Science meets Practice",
+        "Official Site": "https://cybersecurity-magazine.com/",
+        "Icon": "https://cybersecurity-magazine.com/wp-content/uploads/2020/04/cropped-csm_social-32x32.png",
+        "Redirect": "https://cybersecurity-magazine.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cybersecurity-magazine.com/"
+    },
+    {
         "link": "https://livewebsol.co.uk",
         "Heading": "Live Web Solutions - LIVEWEB",
         "Abstract": "Logo & Banner Design Flyer Design Olex \u2013 UI/UX Design Fintech \u2013 Apps & Branding Custom UX Design Testimonial 1.5k World wide customers work with us Blog The Power of Intuitive UI/UX in Design Read More Blog Staying ahead of the curve in the digital world Read More Let's Create an Amazing Project Together!",
@@ -204,7 +194,7 @@
         "Heading": "\n    \n    Custom Lifting Equipment & Material Handling Solutions | Bohl Co\n  \n  ",
         "Abstract": "For 100 years, Bohl has provided premium material handling solutions across the Midwest. Explore our cranes, hoists, forklifts, and custom equipment for your facility. Call us at 888-695-3105!",
         "Official Site": "https://www.bohlco.com/",
-        "Icon": "N/A",
+        "Icon": "https://irp.cdn-website.com/2eaaaff2/site_favicon_16_1753456037645.ico",
         "Redirect": "https://www.bohlco.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bohlco.com/"
@@ -228,16 +218,6 @@
         "Redirect": "https://yaysoft.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yaysoft.net"
-    },
-    {
-        "link": "https://bcwholesalers.com.au",
-        "Heading": "BC Wholesalers - BC Wholesalers",
-        "Abstract": "Wholesale distributor of Musical Instruments & Music Accessories for Retail Music Shops based in Perth Western Australia.",
-        "Official Site": "https://bcwholesalers.com.au",
-        "Icon": "templates/bootstrap/images/favicon.png",
-        "Redirect": "https://bcwholesalers.com.au",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bcwholesalers.com.au"
     },
     {
         "link": "https://responsiveimages.org",

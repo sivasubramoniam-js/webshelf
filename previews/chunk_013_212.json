@@ -20,16 +20,6 @@
         "AbstractURL": "https://progresso-ict.nl"
     },
     {
-        "link": "https://purecommunion.com",
-        "Heading": "Pure communion",
-        "Abstract": null,
-        "Official Site": "https://purecommunion.com",
-        "Icon": "https://purecommunion.com/wp-content/uploads/2020/11/cropped-Bez-nazvu1-e1599504347165-32x32.png",
-        "Redirect": "https://purecommunion.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://purecommunion.com"
-    },
-    {
         "link": "https://itsistem.ro",
         "Heading": null,
         "Abstract": null,
@@ -38,16 +28,6 @@
         "Redirect": "https://itsistem.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://itsistem.ro"
-    },
-    {
-        "link": "https://obernai.fr",
-        "Heading": "Obernai (67) - Alsace : site officiel de la ville",
-        "Abstract": "Ville d'Obernai - D\u00e9veloppement \u00e9conomique, actualit\u00e9s, agenda, informations pratiques, manifestations, tourisme.",
-        "Official Site": "https://obernai.fr",
-        "Icon": "https://www.obernai.fr/images/logo_desktop.png",
-        "Redirect": "https://obernai.fr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://obernai.fr"
     },
     {
         "link": "https://splatsearch.com",
@@ -108,6 +88,16 @@
         "Redirect": "https://freshmilkfl.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://freshmilkfl.com/"
+    },
+    {
+        "link": "https://delatorrechirocenter.com",
+        "Heading": "Chiropractic Therapy Center, Chiropractic Care & Physical Therapy Services, Auto Accident & Sports Injury Rehabilitation, Sports Therapist & Chiropractor New Jersey - New Jersey Pain and Injury Center",
+        "Abstract": "New Jersey Pain and Injury Center offers chiropractic care, physical therapy, and injury rehab in New Jersey. Contact us today to schedule your visit!",
+        "Official Site": "https://delatorrechirocenter.com/",
+        "Icon": "https://delatorrechirocenter.com/wp-content/uploads/2022/08/full-shot-woman-rehabilitation-therapy.jpg",
+        "Redirect": "https://delatorrechirocenter.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://delatorrechirocenter.com/"
     },
     {
         "link": "https://bestarabicmassage.com",

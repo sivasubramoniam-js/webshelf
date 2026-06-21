@@ -61,20 +61,20 @@
     },
     {
         "link": "https://chautfifth.com",
-        "Heading": "CHAUTFIFTH",
-        "Abstract": null,
-        "Official Site": "https://chautfifth.com/password",
-        "Icon": "http://chautfifth.com/cdn/shop/files/images.png?v=1781004897&width=2048",
-        "Redirect": "https://chautfifth.com/password",
+        "Heading": "\n  \n \u2013 CHAUTFIFTH",
+        "Abstract": "Handbags and accessories designed in Vietnam.",
+        "Official Site": "https://chautfifth.com",
+        "Icon": "http://chautfifth.com/cdn/shop/files/images.png?v=1781004897",
+        "Redirect": "https://chautfifth.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chautfifth.com/password"
+        "AbstractURL": "https://chautfifth.com"
     },
     {
         "link": "https://cheapfurniturewarehouse.co.uk",
         "Heading": "\n\tCheap Furniture Warehouse - Save up 60% off RRP branded furniture\n\t",
         "Abstract": "Shop furniture for every room of your house with huge discounts! Big brands, big savings.",
         "Official Site": "https://cheapfurniturewarehouse.co.uk/",
-        "Icon": "http://cheapfurniturewarehouse.co.uk/cdn/shop/files/Cheap_Furniture_Warehouse.png?v=1730667831",
+        "Icon": "http://cdn.shopify.com/s/files/1/0860/7760/4174/files/Cheap_Furniture_Warehouse.png?v=1730667831",
         "Redirect": "https://cheapfurniturewarehouse.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cheapfurniturewarehouse.co.uk/"
@@ -108,6 +108,16 @@
         "Redirect": "https://www.chinamotorbus.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.chinamotorbus.com/"
+    },
+    {
+        "link": "https://chinmasa.com",
+        "Heading": "\u5948\u826f\u6700\u5927\u7d1a\u306e\u8cc3\u8cb8\u60c5\u5831 - \u8cc3\u8cb8\u306e\u30de\u30b5\u30ad",
+        "Abstract": "\u5948\u826f\u306e\u8cc3\u8cb8\u304a\u90e8\u5c4b\u63a2\u3057\u306f\u3010\u8cc3\u8cb8\u306e\u30de\u30b5\u30ad(\u6b63\u6728\u5546\u4e8b\u682a\u5f0f\u4f1a\u793e)\u3011\u304c\u304a\u3059\u3059\u3081\uff01\u5948\u826f\u30a8\u30ea\u30a2\u30674\u5e97\u8217\u5c55\u958b\u3002Google\u6210\u7d04\u53e3\u30b3\u30df\u6570No1(\u8a55\u4fa1\u5e73\u57474.8\u4ee5\u4e0a)\u306e\u5b9f\u7e3e\u3002\u30de\u30f3\u30b7\u30e7\u30f3\u3001\u30a2\u30d1\u30fc\u30c8\u3001\u4e00\u6238\u5efa\u3066\u306e\u4f4f\u5b85\u60c5\u5831\u3092\u6bce\u65e5\u66f4\u65b0\u3002\u7269\u4ef6\u63b2\u8f09\u6570\u306f\u5948\u826f\u6700\u5927\u7d1a\u3002\u7269\u4ef6\u5199\u771f\u306f\u6700\u592755\u679a\u63b2\u8f09\u3002",
+        "Official Site": "https://chinmasa.com",
+        "Icon": "https://hp-asp-lab5.s3.ap-northeast-1.amazonaws.com/chinmasa.com/mainimage/21690_1.jpg",
+        "Redirect": "https://chinmasa.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chinmasa.com"
     },
     {
         "link": "https://cihms.com",
@@ -148,6 +158,16 @@
         "Redirect": "https://circuitdulaquais.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://circuitdulaquais.com"
+    },
+    {
+        "link": "https://civisol.fr",
+        "Heading": "Panneau Solaire - Kit solaire autoconsommation | Civisol",
+        "Abstract": "Mat\u00e9riel et conseils pour votre installation solaire photovolta\u00efque performante, de qualit\u00e9, made in France. Panneaux solaires et onduleurs.",
+        "Official Site": "https://www.civisol.fr/",
+        "Icon": "/img/favicon.ico?1767715281",
+        "Redirect": "https://www.civisol.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.civisol.fr/"
     },
     {
         "link": "https://clarksstores.ae",
@@ -234,7 +254,7 @@
         "Heading": "Cocowoods.cz - Eticky, Ekologicky a Zdrav\u011b na jednom m\u00edst\u011b",
         "Abstract": "E-shop pln\u00fd p\u0159\u00edrodn\u00edch potravin, zdrav\u00e9 v\u00fd\u017eivy, vegan kosmetiky a ekodrogerie. Produkt\u016f pro d\u011bti, dom\u00e1c\u00ed mazl\u00ed\u010dky a ekologick\u00e9 dom\u00e1cnosti.",
         "Official Site": "https://www.cocowoods.cz/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.cocowoods.cz/user/front_images/ogImage/hp.png?t=1781945167",
+        "Icon": "https://cdn.myshoptet.com/usr/www.cocowoods.cz/user/front_images/ogImage/hp.png?t=1782034938",
         "Redirect": "https://www.cocowoods.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cocowoods.cz/"

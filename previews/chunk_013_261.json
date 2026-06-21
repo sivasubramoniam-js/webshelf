@@ -120,16 +120,6 @@
         "AbstractURL": "https://www.holdenluntz.com/"
     },
     {
-        "link": "https://themakeupshow.com",
-        "Heading": "Experience Hair, Skin, & Makeup | The Makeup Show NYC",
-        "Abstract": "Discover The Makeup Show \u2013 top makeup hands-on and business classes in NYC, plus experiences, & pro trade shows for artists worldwide.",
-        "Official Site": "https://themakeupshow.com/",
-        "Icon": "https://themakeupshow.com/wp-content/uploads/elementor/thumbs/NYC-Shop-2026-black-1-rnegn39oaxfjocjgbbs9x498kvwth31gzxywoop13k.png",
-        "Redirect": "https://themakeupshow.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://themakeupshow.com/"
-    },
-    {
         "link": "https://umweltbildung.at",
         "Heading": "Forum Umweltbildung \u2013 \u00d6sterreichisches Portal f\u00fcr Umweltbildung und Bildung f\u00fcr nachhaltige Entwicklung",
         "Abstract": "\u00d6sterreichisches Portal f\u00fcr Bildung f\u00fcr nachhaltige Entwicklung, die Agenda 2030 und Umweltbildung",
@@ -168,6 +158,16 @@
         "Redirect": "https://narlidereservisi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://narlidereservisi.com"
+    },
+    {
+        "link": "https://universitaeuropeadiroma.it",
+        "Heading": "UER | Universit\u00e0 Europea di Roma",
+        "Abstract": "Lauree con valore legale in Giurisprudenza, Economia, Medicina e Chirurgia, Psicologia, Scienze della Formazione Primaria, Transizione Digitale, Turismo. Master, ricerca e network internazionale",
+        "Official Site": "https://www.uer.it/",
+        "Icon": "https://www.uer.it/wp-content/uploads/2020/07/logo-FB-100x100.png",
+        "Redirect": "https://www.uer.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.uer.it/"
     },
     {
         "link": "https://teh-profi.net",

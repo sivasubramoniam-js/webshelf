@@ -24,7 +24,7 @@
         "Heading": "La Xarxa - Portada",
         "Abstract": "Som una plataforma multim\u00e8dia que proporciona continguts i serveis a m\u00e9s de 200 r\u00e0dios, televisions i mitjans en l\u00ednia locals d\u2019arreu de Catalunya. Treballem perqu\u00e8 aquests mitjans..",
         "Official Site": "https:\\www.laxarxa.cat/",
-        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1781930104402",
+        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1782019463384",
         "Redirect": "https:\\www.laxarxa.cat/",
         "AbstractSource": "BS4",
         "AbstractURL": "https:\\www.laxarxa.cat/"
@@ -110,16 +110,6 @@
         "AbstractURL": "https://www.crystalmissions.com/"
     },
     {
-        "link": "https://ilass.com.br",
-        "Heading": "Ilass \u2013 Instituto Latino Americano de Sexologia Som\u00e1tica",
-        "Abstract": null,
-        "Official Site": "https://ilass.com.br",
-        "Icon": "https://ilass.com.br/wp-content/uploads/2025/04/cropped-logo_ilass-32x32.png",
-        "Redirect": "https://ilass.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ilass.com.br"
-    },
-    {
         "link": "https://caktusgroup.com",
         "Heading": "Caktus Group",
         "Abstract": "Caktus leads in web development with a sharp team and an ongoing commitment to clients. Contact us to start your enterprise, higher ed, or non-profit project.",
@@ -180,16 +170,6 @@
         "AbstractURL": "https://fanboyexpo.com/"
     },
     {
-        "link": "https://drlalitmalik.com",
-        "Heading": "Robotic and MICS Cardiac Surgeon in Jaipur - Dr Lalit Malik",
-        "Abstract": "Dr Lalit Malik is one of the Best Cardiac and Thoracic Surgeon In Jaipur | Best Heart Surgeon in Jaipur He has performed over 7000 Surgeries.",
-        "Official Site": "https://drlalitmalik.com/",
-        "Icon": "https://drlalitmalik.com/wp-content/uploads/2024/05/Untitled-design-10-e1715160163461.jpg",
-        "Redirect": "https://drlalitmalik.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://drlalitmalik.com/"
-    },
-    {
         "link": "https://caseymuratori.com",
         "Heading": "Home",
         "Abstract": "Quick links to the relevant parts of Casey\u2019s home page.",
@@ -248,6 +228,16 @@
         "Redirect": "https://industrialempathy.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://industrialempathy.com"
+    },
+    {
+        "link": "https://mightyeighth.org",
+        "Heading": "Home | National Museum of the Mighty 8th Air Force",
+        "Abstract": null,
+        "Official Site": "https://mightyeighth.org",
+        "Icon": "https://www.mightyeighth.org/wp-content/themes/m8thmuseum/images/favicon.ico",
+        "Redirect": "https://mightyeighth.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mightyeighth.org"
     },
     {
         "link": "https://gamingplay.xyz",

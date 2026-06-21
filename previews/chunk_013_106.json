@@ -61,10 +61,10 @@
     },
     {
         "link": "https://neglectedbooks.com",
-        "Heading": "The Neglected Books Page \u2013 www.NeglectedBooks.com:  Where forgotten books are remembered",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://neglectedbooks.com",
-        "Icon": "https://neglectedbooks.com/wp-content/uploads/2015/10/cropped-nbsiteicon1-32x32.jpg",
+        "Icon": "data:;",
         "Redirect": "https://neglectedbooks.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://neglectedbooks.com"
@@ -168,16 +168,6 @@
         "Redirect": "https://justmarketing.es/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://justmarketing.es/"
-    },
-    {
-        "link": "https://immo.fr",
-        "Heading": "immo.fr\u00a0-\u00a0This website is for sale!\u00a0-\u00a0immo Resources and Information.",
-        "Abstract": "This website is for sale! immo.fr is your first and best source for information about immo. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
-        "Official Site": "https://immo.fr",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://immo.fr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://immo.fr"
     },
     {
         "link": "https://tomskpress.ru",

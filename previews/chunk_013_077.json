@@ -110,16 +110,6 @@
         "AbstractURL": "https://pps-eu.org"
     },
     {
-        "link": "https://royalark.net",
-        "Heading": "index",
-        "Abstract": null,
-        "Official Site": "https://royalark.net",
-        "Icon": "N/A",
-        "Redirect": "https://royalark.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://royalark.net"
-    },
-    {
         "link": "https://operationwearehere.com",
         "Heading": "Resources for Military & Veteran Families and Military Supporters",
         "Abstract": "Operation We Are Here ~ A clearinghouse of resources for the military community and military supporters.",
@@ -200,16 +190,6 @@
         "AbstractURL": "https://favorite-games.com"
     },
     {
-        "link": "https://dilmilti3-surabaya.go.id",
-        "Heading": "Pengadilan Militer Tinggi III Surabaya",
-        "Abstract": null,
-        "Official Site": "https://dilmilti3-surabaya.go.id",
-        "Icon": "https://dilmilti3-surabaya.go.id/wp-content/uploads/2020/02/SITE-LOGO-1-150x150.png",
-        "Redirect": "https://dilmilti3-surabaya.go.id",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dilmilti3-surabaya.go.id"
-    },
-    {
         "link": "https://phaa.net.au",
         "Heading": "\n\tHome\n",
         "Abstract": null,
@@ -221,13 +201,13 @@
     },
     {
         "link": "https://pstrust.org",
-        "Heading": "Pipeline Safety Trust",
-        "Abstract": "Credible. Independent. In the public interest.",
-        "Official Site": "https://pstrust.org/",
-        "Icon": "https://pstrust.org/wp-content/uploads/2021/03/PST_Logo_Square_Web.svg",
-        "Redirect": "https://pstrust.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pstrust.org",
+        "Icon": "data:;",
+        "Redirect": "https://pstrust.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pstrust.org/"
+        "AbstractURL": "https://pstrust.org"
     },
     {
         "link": "https://globalvaluebuyingstore.shop",

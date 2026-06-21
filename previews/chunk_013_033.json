@@ -131,10 +131,10 @@
     },
     {
         "link": "https://myprelovedtiffany.com",
-        "Heading": "MyPrelovedTiffany - Authenticated Preloved Tiffany & Co.",
-        "Abstract": "We are a pre-owned / second-hand branded store specializing in T&Co. jewelries. We have a zero-tolerance policy for counterfeits and we strive to play our part in battling against the counterfeit market. Shop with confidence, pay less for the same product.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://myprelovedtiffany.com",
-        "Icon": "/favicon-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://myprelovedtiffany.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myprelovedtiffany.com"
@@ -168,6 +168,16 @@
         "Redirect": "https://myzeg-sucok.site",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myzeg-sucok.site"
+    },
+    {
+        "link": "https://myzitong.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://myzitong.com",
+        "Icon": "data:image/x-icon;,",
+        "Redirect": "https://myzitong.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://myzitong.com"
     },
     {
         "link": "https://nalvazhiorganic.com",
@@ -210,16 +220,6 @@
         "AbstractURL": "https://www.natalianeverko.com/"
     },
     {
-        "link": "https://natural-e.co.jp",
-        "Heading": "\u65e5\u672c\u81ea\u7136\u30a8\u30cd\u30eb\u30ae\u30fc\u682a\u5f0f\u4f1a\u793e",
-        "Abstract": null,
-        "Official Site": "https://www.natural-e.co.jp/",
-        "Icon": "http://natural-e.co.jp/wp-content/uploads/2025/11/ogp.png",
-        "Redirect": "https://www.natural-e.co.jp/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.natural-e.co.jp/"
-    },
-    {
         "link": "https://nautiluspuzzles.com",
         "Heading": "Wooden Jigsaw Puzzles For Adults - Made in the USA",
         "Abstract": "Nautilus Wooden Jigsaw Puzzles for Adults are creatively designed by a team of artists and jigsaw puzzle enthusiasts in California. The unique cuts in every puzzle reflect the imagination and mischievousness of our designers who throw in funky whimsical shapes, to make each puzzle a challenging and fun experience.",
@@ -230,14 +230,14 @@
         "AbstractURL": "https://nautiluspuzzles.com/"
     },
     {
-        "link": "https://nejlevnejsi-obklady-dlazby.cz",
-        "Heading": "Home page",
-        "Abstract": "Obklady a dla\u017eby ",
-        "Official Site": "https://nejlevnejsi-obklady-dlazby.cz",
-        "Icon": "https://nejlevnejsi-obklady-dlazby.cz/pub/media/favicon/stores/1/logo_main2.png",
-        "Redirect": "https://nejlevnejsi-obklady-dlazby.cz",
+        "link": "https://nealfrisby.eu",
+        "Heading": "Home - Neal Frisby with a message of faith and power",
+        "Abstract": "Brother Neal Frisby has been preaching the gospel of our Lord Jesus Christ since 1960, during that time God worked great miracles through him...",
+        "Official Site": "https://nealfrisby.eu/",
+        "Icon": "https://nealfrisby.eu/wp-content/uploads/2024/12/cropped-cropped-neal-frisby-logo-eagle-300-32x32.png",
+        "Redirect": "https://nealfrisby.eu/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nejlevnejsi-obklady-dlazby.cz"
+        "AbstractURL": "https://nealfrisby.eu/"
     },
     {
         "link": "https://neurahealth.co",
@@ -274,7 +274,7 @@
         "Heading": "\n      Nguy\u00ean X\u01b0\u01a1ng\n",
         "Abstract": "Nguy\u00ean X\u01b0\u01a1ng",
         "Official Site": "https://nguyenxuong.com/",
-        "Icon": "http://nguyenxuong.com/cdn/shop/files/LOGO_NX.png?height=628&pad_color=ffffff&v=1777536647&width=1200",
+        "Icon": "http://cdn.shopify.com/s/files/1/0993/5450/9594/files/LOGO_NX.png?height=628&pad_color=ffffff&v=1777536647&width=1200",
         "Redirect": "https://nguyenxuong.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nguyenxuong.com/"
@@ -291,7 +291,7 @@
     },
     {
         "link": "https://nichenghui.com",
-        "Heading": "hhpoker\u5b98\u65b9\u6b63\u7248\u4e0b\u8f7d\u82f9\u679c_\u8d44\u6df1\u56e2\u961f\u8fd0\u8425\u591a\u5e74",
+        "Heading": "hhpoker\u5b98\u65b9\u6b63\u7248\u4e0b\u8f7d\u82f9\u679c_\u5708\u5185\u5b9e\u529b\u9760\u8c31HHpoker\u4ff1\u4e50\u90e8\u63a8\u8350\u52a0\u5165",
         "Abstract": null,
         "Official Site": "https://nichenghui.com",
         "Icon": "/assets/index/xiyou/image/favicon.ico",

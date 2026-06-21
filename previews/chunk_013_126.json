@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://protistologists.org",
-        "Heading": "Home - International Society of Protistologists",
-        "Abstract": "The International Society of Protistologists (ISOP) is an association of scientists devoted to research on single-celled eukaryotes or protists.",
-        "Official Site": "https://protistologists.org/this-url-is-canonical/",
-        "Icon": "https://protistologists.org/wp-content/uploads/2015/03/ISOP-logo-black-bg-800x800px.png",
-        "Redirect": "https://protistologists.org/this-url-is-canonical/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://protistologists.org/this-url-is-canonical/"
-    },
-    {
         "link": "https://smarthacklink.xyz",
         "Heading": "smarthacklink.xyz",
         "Abstract": null,
@@ -141,10 +131,10 @@
     },
     {
         "link": "https://oceanfox.org",
-        "Heading": "DSM mobile - Mae\u00a0govannen!",
-        "Abstract": null,
+        "Heading": "Mae\u00a0govannen!",
+        "Abstract": "DiskStation provides a full-featured network attached storage (NAS) solution to help you manage, backup and share data among Windows, Mac and Linux easily.",
         "Official Site": "https://oceanfox.org",
-        "Icon": "webman/favicon.ico?v=86009",
+        "Icon": "webman/favicon.ico?v=40438",
         "Redirect": "https://oceanfox.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://oceanfox.org"
@@ -178,16 +168,6 @@
         "Redirect": "https://radarhosting.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://radarhosting.com/"
-    },
-    {
-        "link": "https://cartr.ru",
-        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
-        "Abstract": null,
-        "Official Site": "https://cartr.ru",
-        "Icon": "/templates/ot_appoz/favicon.ico",
-        "Redirect": "https://cartr.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cartr.ru"
     },
     {
         "link": "https://wyjadaczewisienek.pl",
@@ -308,15 +288,5 @@
         "Redirect": "https://www.learntoplaymusic.com/store/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.learntoplaymusic.com/store/"
-    },
-    {
-        "link": "https://jara23.co.uk",
-        "Heading": "Welcome to Jara23",
-        "Abstract": null,
-        "Official Site": "https://jara23.co.uk",
-        "Icon": "N/A",
-        "Redirect": "https://jara23.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jara23.co.uk"
     }
 ]

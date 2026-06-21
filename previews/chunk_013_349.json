@@ -260,6 +260,16 @@
         "AbstractURL": "https://www.diariomomento.com"
     },
     {
+        "link": "https://jubito.com.hr",
+        "Heading": "Internet-trgovina / Jubito.com.hr",
+        "Abstract": null,
+        "Official Site": "https://jubito.com.hr",
+        "Icon": "N/A",
+        "Redirect": "https://jubito.com.hr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jubito.com.hr"
+    },
+    {
         "link": "https://jgaa.com",
         "Heading": "Jgaa's Internet",
         "Abstract": null,
@@ -330,16 +340,6 @@
         "AbstractURL": "https://walagata.com"
     },
     {
-        "link": "https://zapojmevsechny.cz",
-        "Heading": "Zapojmev\u0161echny.cz | Zapojmev\u0161echny.cz",
-        "Abstract": "Zapojme v\u0161echny.",
-        "Official Site": "https://zapojmevsechny.cz/",
-        "Icon": "/_nuxt/logo_main_new.DdRivPNk.svg",
-        "Redirect": "https://zapojmevsechny.cz/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zapojmevsechny.cz/"
-    },
-    {
         "link": "https://fenorixtrader8-ai.com",
         "Heading": "\n      Diese Plattform wurden beschlagnahmt / This platform have been seized\n    ",
         "Abstract": null,
@@ -358,15 +358,5 @@
         "Redirect": "https://suzmehaber.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://suzmehaber.com"
-    },
-    {
-        "link": "https://avantgarde-experts.de",
-        "Heading": "Personaldienstleistung & Jobvermittlung f\u00fcr Expert:innen | YER",
-        "Abstract": "Personaldienstleister YER Deutschland vermittelt Jobs & Projekte in \u2713 Engineering \u2713 IT \u2713 Marketing im Mobility-, Tech- & Energy-Sektor. Spannende Jobs finden!",
-        "Official Site": "https://avantgarde-experts.de",
-        "Icon": "https://www.yer.de/typo3temp/assets/_processed_/3/0/csm_fallback-og-yer_20e0ca4bbb.jpg",
-        "Redirect": "https://avantgarde-experts.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://avantgarde-experts.de"
     }
 ]

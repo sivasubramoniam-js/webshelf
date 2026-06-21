@@ -82,12 +82,12 @@
     {
         "link": "https://search-2go.com",
         "Heading": "Search - Microsoft Bing",
-        "Abstract": "Across the National Mall in Washington, DC, the Na",
-        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260619_0700&mkt=en-US",
-        "Icon": "https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_tmb.jpg&rf=",
-        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260619_0700&mkt=en-US",
+        "Abstract": "On the third Sunday in June, we celebrate Father's",
+        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260621_0700&mkt=en-US",
+        "Icon": "https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_tmb.jpg&rf=",
+        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260621_0700&mkt=en-US",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260619_0700&mkt=en-US"
+        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260621_0700&mkt=en-US"
     },
     {
         "link": "https://razny.com",
@@ -131,7 +131,7 @@
     },
     {
         "link": "https://putlocker123.video",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://putlocker123.video",
         "Icon": "N/A",
@@ -148,6 +148,16 @@
         "Redirect": "https://www.itewiki.fi",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.itewiki.fi"
+    },
+    {
+        "link": "https://bezuidenhout.nl",
+        "Heading": "Bezuidenhout Homepage - Bezuidenhout - 50 jaar wijkberaad",
+        "Abstract": "De website v\u00e1n en v\u00f3\u00f3r bewoners van de Bezuidenhout, met het laatste nieuws, veel informatie over wat er speelt in de wijk en natuurlijk de komende activiteiten.",
+        "Official Site": "https://bezuidenhout.nl/",
+        "Icon": "https://bezuidenhout.nl/wp-content/uploads/sites/15/2025/12/Skyline-Bezuidenhout-with-Fireworks-6-1-scaled.jpg",
+        "Redirect": "https://bezuidenhout.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bezuidenhout.nl/"
     },
     {
         "link": "https://alfa-hobby.ru",

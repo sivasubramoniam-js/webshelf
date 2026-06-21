@@ -24,20 +24,20 @@
         "Heading": "Norfolk/Wrentham - Local Town Pages | The Voice of Your Community",
         "Abstract": "LocalTownPages Norfolk/Wrentham is your community-based newspaper, direct mailed to 8,181 residents and businesses, providing local news, sports, and services into the Norfolk/Wrentham area.",
         "Official Site": "https://www.norfolkwrenthamnews.com/",
-        "Icon": "//cdn2.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
+        "Icon": "//cdn0.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
         "Redirect": "https://www.norfolkwrenthamnews.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.norfolkwrenthamnews.com/"
     },
     {
         "link": "https://lecinemaclub.com",
-        "Heading": "Le Cin\u00e9ma Club",
-        "Abstract": "A free, curated platform streaming one film every week.",
-        "Official Site": "https://www.lecinemaclub.com/",
-        "Icon": "https://www.lecinemaclub.com/wp-content/themes/cinemaclub/img/lecinemaclub.png",
-        "Redirect": "https://www.lecinemaclub.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lecinemaclub.com",
+        "Icon": "data:;",
+        "Redirect": "https://lecinemaclub.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lecinemaclub.com/"
+        "AbstractURL": "https://lecinemaclub.com"
     },
     {
         "link": "https://kumiuniversity.ac.ug",
@@ -338,15 +338,5 @@
         "Redirect": "https://www.citizen.co.za/lowvelder/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.citizen.co.za/lowvelder/"
-    },
-    {
-        "link": "https://almustaqbalpress.com",
-        "Heading": "Al Mustaqbal Press |  printing industry in Sharjah | Technical innovation",
-        "Abstract": "Events Management, Exhibitions, Conferences, Concerts, Entertainment",
-        "Official Site": "https://almustaqbalpress.com",
-        "Icon": "images/favicon.png",
-        "Redirect": "https://almustaqbalpress.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://almustaqbalpress.com"
     }
 ]
