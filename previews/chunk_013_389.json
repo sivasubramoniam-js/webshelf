@@ -152,9 +152,9 @@
     {
         "link": "https://clenchinfer.com",
         "Heading": "Google",
-        "Abstract": null,
+        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
         "Official Site": "https://clenchinfer.com",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://clenchinfer.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://clenchinfer.com"
@@ -188,6 +188,16 @@
         "Redirect": "https://getearlybird.io",
         "AbstractSource": "BS4",
         "AbstractURL": "https://getearlybird.io"
+    },
+    {
+        "link": "https://brokeandchic.com",
+        "Heading": "Broke and Chic - Budget friendly fashion, beauty and health tips",
+        "Abstract": "Budget friendly fashion, beauty and health tips",
+        "Official Site": "https://brokeandchic.com/",
+        "Icon": "https://brokeandchic.com/wp-content/uploads/2015/03/apple-icon-180x180.png",
+        "Redirect": "https://brokeandchic.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://brokeandchic.com/"
     },
     {
         "link": "https://taxi-svoi.ru",

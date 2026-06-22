@@ -200,6 +200,16 @@
         "AbstractURL": "https://ymzv.ru"
     },
     {
+        "link": "https://dondadatech.com",
+        "Heading": "Don Dada Technologies",
+        "Abstract": "A Digital Agency that is passionate about helping you succeed online.",
+        "Official Site": "https://dondadatech.com",
+        "Icon": "N/A",
+        "Redirect": "https://dondadatech.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dondadatech.com"
+    },
+    {
         "link": "https://abkuerzungen.de",
         "Heading": "abkuerzungen.de - Ihre Adresse f\u00fcr Abk\u00fcrzungen im Internet",
         "Abstract": null,
@@ -220,14 +230,24 @@
         "AbstractURL": "https://www.vespazone.com/fr/"
     },
     {
-        "link": "https://consistcapital.com",
-        "Heading": "ConsistCapital.com is for sale | HugeDomains",
-        "Abstract": "Extensive selection of high-quality domain names. Knowledgeable, friendly customer support.",
-        "Official Site": "https://www.hugeDomains.com/domain_profile.cfm?d=ConsistCapital.com",
-        "Icon": "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png",
-        "Redirect": "https://www.hugeDomains.com/domain_profile.cfm?d=ConsistCapital.com",
+        "link": "https://merchbundle.com",
+        "Heading": "Merchbundle",
+        "Abstract": null,
+        "Official Site": "https://merchbundle.com",
+        "Icon": "https://merchbundle.com/wp-content/plugins/cmp-coming-soon-maintenance/themes/countdown/img/countdown_banner_large.jpg",
+        "Redirect": "https://merchbundle.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=ConsistCapital.com"
+        "AbstractURL": "https://merchbundle.com"
+    },
+    {
+        "link": "https://consistcapital.com",
+        "Heading": "HugeDomains.com",
+        "Abstract": null,
+        "Official Site": "https://consistcapital.com",
+        "Icon": "N/A",
+        "Redirect": "https://consistcapital.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://consistcapital.com"
     },
     {
         "link": "https://trinkgames.com",

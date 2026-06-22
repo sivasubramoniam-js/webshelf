@@ -60,16 +60,6 @@
         "AbstractURL": "https://letsdoitromania.ro/"
     },
     {
-        "link": "https://jehjewels.com",
-        "Heading": "Tijdloze en ambachtelijke fairmade sieraden | J\u00e9h Jewels",
-        "Abstract": "Default Description",
-        "Official Site": "https://jehjewels.com",
-        "Icon": "https://www.jehjewels.com/media/favicon/websites/1/favicon.png",
-        "Redirect": "https://jehjewels.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jehjewels.com"
-    },
-    {
         "link": "https://simplyorg-seminare.de",
         "Heading": "Seminarverwaltung Software - digital statt Excel",
         "Abstract": "Seminare einfach planen, verwalten und abrechnen. Die deutsche Seminarverwaltung- Software f\u00fcr Akademien und Bildungstr\u00e4ger. Jetzt Demo vereinbaren.",
@@ -98,6 +88,16 @@
         "Redirect": "https://blabla-gmbh.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://blabla-gmbh.de"
+    },
+    {
+        "link": "https://cinewind.com",
+        "Heading": "\u65b0\u6f5f\u30fb\u5e02\u6c11\u6620\u753b\u9928 \u30b7\u30cd\u30fb\u30a6\u30a4\u30f3\u30c9 | \u30b3\u30b3\u3060\u304b\u3089\u3067\u304d\u308b\u3053\u3068\u3092\u3001\u3053\u308c\u304b\u3089\u3082",
+        "Abstract": "\u65b0\u6f5f\u30fb\u5e02\u6c11\u6620\u753b\u9928\u30b7\u30cd\u30fb\u30a6\u30a4\u30f3\u30c9\u306e\u516c\u5f0f\u30b5\u30a4\u30c8\u3067\u3059\u3002\u904b\u55b6\u306f\u30b7\u30cd\u30fb\u30a6\u30a4\u30f3\u30c9\u4f1a\u54e1\u6709\u5fd7\u304c\u4e2d\u5fc3\u3068\u306a\u3063\u3066\u3001\u4e0a\u6620\u4f5c\u54c1\u306e\u9078\u5b9a\u3001\u30a4\u30d9\u30f3\u30c8\u306e\u4f01\u753b\u30fb\u904b\u55b6\u3001\u4f1a\u5831\u300c\u6708\u520a\u30a6\u30a4\u30f3\u30c9\u300d\u306e\u7de8\u96c6\u3001\u60c5\u5831\u767a\u4fe1\u306a\u3069\u7cbe\u529b\u7684\u306b\u6d3b\u52d5\u3057\u3066\u3044\u307e\u3059\u3002",
+        "Official Site": "https://www.cinewind.com/",
+        "Icon": "https://www.cinewind.com/wp2019/wp-content/uploads/2019/10/cinewind-appearance.jpg",
+        "Redirect": "https://www.cinewind.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cinewind.com/"
     },
     {
         "link": "https://izmirflame.com",

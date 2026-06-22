@@ -30,16 +30,6 @@
         "AbstractURL": "https://badadventures.com"
     },
     {
-        "link": "https://holmwright.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://holmwright.com",
-        "Icon": "N/A",
-        "Redirect": "https://holmwright.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://holmwright.com"
-    },
-    {
         "link": "https://expressmilwaukee.com",
         "Heading": "Shepherd Express - Shepherd Express",
         "Abstract": "Smart, Informed, Opinionated: The Shepherd Express is Milwaukee's alternative news source covering arts & entertainment, food, culture and politics.",
@@ -280,16 +270,6 @@
         "AbstractURL": "https://getsnapmaids.com/"
     },
     {
-        "link": "https://ncalculators.com",
-        "Heading": "Online Calculators and Work with Steps",
-        "Abstract": "Free calculators, formulas, step by step procedures, practice problems and real world problems to practice and learn math, finance and engineering calculations includes pre-algebra, algebra, geometry, finance, probability & statistics, digital computation, currency conversion, time tables and more.",
-        "Official Site": "https://ncalculators.com/",
-        "Icon": "https://ncalculators.com/og-images/ncalculators.png",
-        "Redirect": "https://ncalculators.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ncalculators.com/"
-    },
-    {
         "link": "https://preseli.net",
         "Heading": "PRESELI DOT NET - silentcar.com, landspeed.org domain names for sale",
         "Abstract": null,
@@ -302,9 +282,9 @@
     {
         "link": "https://farsinama.com",
         "Heading": "Home - FarsiNama.com - Persian Dubbed | FarsiNama",
-        "Abstract": null,
+        "Abstract": "\u062a\u0645\u0627\u0634\u0627\u06cc \u0622\u0646\u0644\u0627\u06cc\u0646 \u0648 \u062f\u0627\u0646\u0644\u0648\u062f Landing \u0628\u0627 \u06a9\u06cc\u0641\u06cc\u062a \u0628\u0627\u0644\u0627 \u0648 \u062f\u0648\u0628\u0644\u0647 \u0641\u0627\u0631\u0633\u06cc \u062f\u0631 FarsiNama.com - Persian Dubbed | FarsiNama.",
         "Official Site": "https://farsinama.com/landing/",
-        "Icon": "https://farsinama.com/wp-content/uploads/2021/11/logoo_preview.png",
+        "Icon": "https://farsinama.com/wp-content/themes/fn-lux/assets/img/no/dt_poster.png",
         "Redirect": "https://farsinama.com/landing/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://farsinama.com/landing/"
@@ -328,15 +308,5 @@
         "Redirect": "https://sanjuanregional.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sanjuanregional.com"
-    },
-    {
-        "link": "https://sustainabilityprofessionals.org",
-        "Heading": "\n    \n    International Society of Sustainability Professionals ISSP Home Page\n  \n  ",
-        "Abstract": "The International Society of Sustainability Professionals is the world\u2019s leading network of sustainability professionals. We work together to provide the community, training, and tools needed to meet goals and create sustainable change. ",
-        "Official Site": "https://www.sustainabilityprofessionals.org/",
-        "Icon": "https://lirp.cdn-website.com/8169dea1/dms3rep/multi/opt/Social+network+images-1920w.png",
-        "Redirect": "https://www.sustainabilityprofessionals.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sustainabilityprofessionals.org/"
     }
 ]

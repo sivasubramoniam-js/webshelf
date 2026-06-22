@@ -20,6 +20,16 @@
         "AbstractURL": "https://rizeogretmenevi.com.tr"
     },
     {
+        "link": "https://rkslstudios.info",
+        "Heading": "RKSL Studios",
+        "Abstract": "Addons for Arma3",
+        "Official Site": "https://www.rkslstudios.info/",
+        "Icon": "https://www.rkslstudios.info/images/AW159_01.jpg",
+        "Redirect": "https://www.rkslstudios.info/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rkslstudios.info/"
+    },
+    {
         "link": "https://robertmorrellhomes.com",
         "Heading": "Robert Morrell | California Real Estate Specialist ",
         "Abstract": "Looking to buy or sell California real estate? Look no further than Robert Morrell - your trusted partner in finding your dream property in the Golden State.",
@@ -50,6 +60,16 @@
         "AbstractURL": "https://rogerslandscapesupply.com"
     },
     {
+        "link": "https://rolnikeko.pl",
+        "Heading": "Sklep ekologiczny Warszawa - zdrowa \u017cywno\u015b\u0107 bio, produkty eko | RolnikEko.pl",
+        "Abstract": "Eko sklep internetowy - najwi\u0119kszy wyb\u00f3r \u017cywno\u015bci ekologicznej \u2b50 Szybka wysy\u0142ka \u2714\ufe0f Wysoka jako\u015b\u0107 \u2714\ufe0f Odbi\u00f3r osobisty w Warszawie \u26a1 Sprawd\u017a nasz\u0105 ofert\u0119!",
+        "Official Site": "https://rolnikeko.pl",
+        "Icon": "/img/favicon.ico?1595428844",
+        "Redirect": "https://rolnikeko.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rolnikeko.pl"
+    },
+    {
         "link": "https://roohit.com",
         "Heading": ":: Roohit Home ::",
         "Abstract": "Collect & Share highlights - you make - on any web page. Discover interesting highlights made by people you trust.",
@@ -60,8 +80,18 @@
         "AbstractURL": "http://roohit.com/"
     },
     {
+        "link": "https://rrsheth.com",
+        "Heading": "Gujarati Books Collection - R R Sheth Books",
+        "Abstract": "Gujrati Books Collection",
+        "Official Site": "https://rrsheth.com/",
+        "Icon": "http://rrsheth.com/wp-content/uploads/2021/03/Frame-49.png",
+        "Redirect": "https://rrsheth.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rrsheth.com/"
+    },
+    {
         "link": "https://rtcnv.com",
-        "Heading": "Checking your browser...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://rtcnv.com",
         "Icon": "N/A",
@@ -124,7 +154,7 @@
         "Heading": "Victoria Ferruccio",
         "Abstract": null,
         "Official Site": "https://www.saattravel.com",
-        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=7606",
+        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=9529",
         "Redirect": "https://www.saattravel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.saattravel.com"
@@ -230,14 +260,24 @@
         "AbstractURL": "https://schutzer.eu/"
     },
     {
-        "link": "https://securus-software.com",
-        "Heading": "Monitoring & Safeguarding Software for Schools | Securus",
-        "Abstract": "Securus monitoring & safeguarding software for schools protects pupils from digital harm \u2013 automatically captures & reports incidents on any device.",
-        "Official Site": "https://www.securus-software.com/",
-        "Icon": "https://www.securus-software.com/wp-content/uploads/2023/11/cropped-Securus-icon-700x700-1-32x32.png",
-        "Redirect": "https://www.securus-software.com/",
+        "link": "https://sdott-parts.com",
+        "Heading": "SDOTT-PARTS",
+        "Abstract": "International Online Store",
+        "Official Site": "https://sdott-parts.com",
+        "Icon": "https://www.sdott-parts.com/media/favicon/default/sdott-parts_ICO_1.ico",
+        "Redirect": "https://sdott-parts.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.securus-software.com/"
+        "AbstractURL": "https://sdott-parts.com"
+    },
+    {
+        "link": "https://securus-software.com",
+        "Heading": "Client Challenge",
+        "Abstract": null,
+        "Official Site": "https://securus-software.com",
+        "Icon": "N/A",
+        "Redirect": "https://securus-software.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://securus-software.com"
     },
     {
         "link": "https://select-light.com",
@@ -301,10 +341,10 @@
     },
     {
         "link": "https://shopofmagic.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Home",
+        "Abstract": "The Little Shop of Magic is a full-service specialty store that has been serving the needs of gamers like yourself since 1994.",
         "Official Site": "https://shopofmagic.com",
-        "Icon": "data:;",
+        "Icon": "/templates/shaper_helix_ii/favicon.ico",
         "Redirect": "https://shopofmagic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shopofmagic.com"

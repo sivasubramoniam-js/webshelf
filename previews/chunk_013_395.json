@@ -130,16 +130,6 @@
         "AbstractURL": "https://expireddomains.com/domain/molodezhka-lordfilm.online"
     },
     {
-        "link": "https://redhot.org",
-        "Heading": "Red Hot Org",
-        "Abstract": "Red Hot Organization is a not-for-profit, international organization dedicated to fighting AIDS through pop culture.",
-        "Official Site": "https://redhot.org/",
-        "Icon": "https://redhot.org/assets/RH.jpg",
-        "Redirect": "https://redhot.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://redhot.org/"
-    },
-    {
         "link": "https://vibhaait.com",
         "Heading": "Vibhaa Technologies Hosting Solutions",
         "Abstract": null,
@@ -171,10 +161,10 @@
     },
     {
         "link": "https://assemblyfestival.com",
-        "Heading": "Home | Assembly Festival",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://assemblyfestival.com",
-        "Icon": "https://assemblyfestival.com/img/og-image.jpg",
+        "Icon": "N/A",
         "Redirect": "https://assemblyfestival.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://assemblyfestival.com"
@@ -218,6 +208,16 @@
         "Redirect": "https://ocialisshop.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ocialisshop.com"
+    },
+    {
+        "link": "https://yesmap.net",
+        "Heading": "About | Yesmap",
+        "Abstract": "Yesmap is the communications hub of Newgon Organization, an activist group founded in 2007",
+        "Official Site": "https://www.yesmap.net/",
+        "Icon": "https://www.yesmap.net/user/pages/01.home/pexels-olly-920381.jpg",
+        "Redirect": "https://www.yesmap.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.yesmap.net/"
     },
     {
         "link": "https://javafilms.fr",

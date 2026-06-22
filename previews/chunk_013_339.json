@@ -41,8 +41,8 @@
     },
     {
         "link": "https://consultacrm.com.br",
-        "Heading": "Consulta CRM M\u00e9dico",
-        "Abstract": "Consulte se seu m\u00e9dico ou odontologista est\u00e1 realmente legalizado. Pesquise pelo CRM, CRO, nome do m\u00e9dico ou nome do odontologista. Consulte tamb\u00e9m OAB, CREA, CRP e outros profissionais.",
+        "Heading": "Consulta CRM M\ufffddico",
+        "Abstract": "Consulte se seu m\ufffddico ou odontologista est\ufffd realmente legalizado. Pesquise pelo CRM, CRO, nome do m\ufffddico ou nome do odontologista. Consulte tamb\ufffdm OAB, CREA, CRP e outros profissionais.",
         "Official Site": "https://consultacrm.com.br",
         "Icon": "https://www.consultacrm.com.br/design/logos/crm.webp",
         "Redirect": "https://consultacrm.com.br",
@@ -294,7 +294,7 @@
         "Heading": "Element Pack Pro \u2013 300+ Elementor Widgets & 2700+ Templates",
         "Abstract": "Enhance your Elementor experience with 300+ advanced widgets, 2,700+ ready-made templates, Live Copy Paste, Mega Menu Builder, Theme Builder, and more. Starts from $49/year.",
         "Official Site": "https://www.elementpack.pro",
-        "Icon": "https://www.elementpack.pro/element-pack-site-video-thumbnail.webp",
+        "Icon": "https://www.elementpack.pro/element-pack-pro-site-thumbnail.webp",
         "Redirect": "https://www.elementpack.pro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.elementpack.pro"
@@ -328,5 +328,15 @@
         "Redirect": "https://dreamsandideas.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dreamsandideas.com"
+    },
+    {
+        "link": "https://quintonpardee.top",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://quintonpardee.top",
+        "Icon": "N/A",
+        "Redirect": "https://quintonpardee.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://quintonpardee.top"
     }
 ]

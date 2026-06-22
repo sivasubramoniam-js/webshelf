@@ -40,6 +40,16 @@
         "AbstractURL": "https://www.bootsfahrschule4you.ch/"
     },
     {
+        "link": "https://voxshowroom.com",
+        "Heading": "The VOX Showroom - www.voxshowroom.com",
+        "Abstract": null,
+        "Official Site": "https://voxshowroom.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://voxshowroom.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://voxshowroom.com"
+    },
+    {
         "link": "https://one2onediet.com",
         "Heading": "The 1:1 Diet by Cambridge Weight Plan | A Diet Plan That Works!",
         "Abstract": "Want a personalised diet Plan that you can stick to? Get one-to-one consultation support throughout your weight loss journey, in person or online. Start today!",
@@ -138,16 +148,6 @@
         "Redirect": "https://egitimajansi.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://egitimajansi.com/"
-    },
-    {
-        "link": "https://intesasanpaoloprotezione.com",
-        "Heading": "Intesa Sanpaolo Protezione | Assicurazione Famiglia, Salute, Casa e Business ",
-        "Abstract": null,
-        "Official Site": "https://www.intesasanpaoloprotezione.com/content/isp_protezione/it.html",
-        "Icon": "/etc.clientlibs/isp_protezione/clientlibs/clientlib-site/resources/isv.ico",
-        "Redirect": "https://www.intesasanpaoloprotezione.com/content/isp_protezione/it.html",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.intesasanpaoloprotezione.com/content/isp_protezione/it.html"
     },
     {
         "link": "https://rtl-super.de",

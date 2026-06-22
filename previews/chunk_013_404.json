@@ -74,7 +74,7 @@
         "Heading": "\n\tCheap Furniture Warehouse - Save up 60% off RRP branded furniture\n\t",
         "Abstract": "Shop furniture for every room of your house with huge discounts! Big brands, big savings.",
         "Official Site": "https://cheapfurniturewarehouse.co.uk/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0860/7760/4174/files/Cheap_Furniture_Warehouse.png?v=1730667831",
+        "Icon": "http://cheapfurniturewarehouse.co.uk/cdn/shop/files/Cheap_Furniture_Warehouse.png?v=1730667831",
         "Redirect": "https://cheapfurniturewarehouse.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cheapfurniturewarehouse.co.uk/"
@@ -240,21 +240,11 @@
         "AbstractURL": "https://coachview.net"
     },
     {
-        "link": "https://cocotilesandmosaics.com.au",
-        "Heading": "\n      COCO Tiles & Mosaics | Artistic Tiles & Mosaic Art Australia\n \u2013 COCO Tiles and Mosaics",
-        "Abstract": "Shop COCO Tiles & Mosaics for ready-to-ship designs, custom mosaic murals, and tile samples\u2014delivered Australia-wide.",
-        "Official Site": "https://cocotilesandmosaics.com.au/",
-        "Icon": "http://cocotilesandmosaics.com.au/cdn/shop/files/Coco_Tiles_Mosaics_Logo_Final_Side.png?height=628&pad_color=ffffff&v=1740007474&width=1200",
-        "Redirect": "https://cocotilesandmosaics.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cocotilesandmosaics.com.au/"
-    },
-    {
         "link": "https://cocowoods.cz",
         "Heading": "Cocowoods.cz - Eticky, Ekologicky a Zdrav\u011b na jednom m\u00edst\u011b",
         "Abstract": "E-shop pln\u00fd p\u0159\u00edrodn\u00edch potravin, zdrav\u00e9 v\u00fd\u017eivy, vegan kosmetiky a ekodrogerie. Produkt\u016f pro d\u011bti, dom\u00e1c\u00ed mazl\u00ed\u010dky a ekologick\u00e9 dom\u00e1cnosti.",
         "Official Site": "https://www.cocowoods.cz/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.cocowoods.cz/user/front_images/ogImage/hp.png?t=1782034938",
+        "Icon": "https://cdn.myshoptet.com/usr/www.cocowoods.cz/user/front_images/ogImage/hp.png?t=1782121514",
         "Redirect": "https://www.cocowoods.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cocowoods.cz/"
@@ -291,13 +281,13 @@
     },
     {
         "link": "https://collinshub.co.uk",
-        "Heading": "You are being redirected...",
-        "Abstract": null,
-        "Official Site": "https://collinshub.co.uk",
-        "Icon": "N/A",
-        "Redirect": "https://collinshub.co.uk",
+        "Heading": "Home - Collins Hub",
+        "Abstract": "Welcome to the Collins Hub Digital solutions for teaching and learning Teach flexibly with online access on whiteboards and all \u2026 Continued",
+        "Official Site": "https://www.collinshub.co.uk/",
+        "Icon": "https://s28434.pcdn.co/wp-content/uploads/sites/96/2024/05/Computer-images-front-page.png",
+        "Redirect": "https://www.collinshub.co.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://collinshub.co.uk"
+        "AbstractURL": "https://www.collinshub.co.uk/"
     },
     {
         "link": "https://colorsqueen.com",

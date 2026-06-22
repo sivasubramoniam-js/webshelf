@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://protistologists.org",
+        "Heading": "Home - International Society of Protistologists",
+        "Abstract": "The International Society of Protistologists (ISOP) is an association of scientists devoted to research on single-celled eukaryotes or protists.",
+        "Official Site": "https://protistologists.org/this-url-is-canonical/",
+        "Icon": "https://protistologists.org/wp-content/uploads/2015/03/ISOP-logo-black-bg-800x800px.png",
+        "Redirect": "https://protistologists.org/this-url-is-canonical/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://protistologists.org/this-url-is-canonical/"
+    },
+    {
         "link": "https://smarthacklink.xyz",
         "Heading": "smarthacklink.xyz",
         "Abstract": null,
@@ -168,6 +178,16 @@
         "Redirect": "https://radarhosting.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://radarhosting.com/"
+    },
+    {
+        "link": "https://cartr.ru",
+        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+        "Abstract": null,
+        "Official Site": "https://cartr.ru",
+        "Icon": "/templates/ot_appoz/favicon.ico",
+        "Redirect": "https://cartr.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cartr.ru"
     },
     {
         "link": "https://wyjadaczewisienek.pl",

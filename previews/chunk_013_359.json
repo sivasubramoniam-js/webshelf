@@ -113,11 +113,11 @@
         "link": "https://quebec-amerique.com",
         "Heading": "Qu\u00e9bec Am\u00e9rique",
         "Abstract": "Fond\u00e9es en 1974 par Jacques Fortin, les \u00c9ditions Qu\u00e9bec Am\u00e9rique sont devenues avec les ann\u00e9es une v\u00e9ritable institution culturelle o\u00f9 la rigueur et l'originalit\u00e9 sont des points d'attache.",
-        "Official Site": "https://www.quebec-amerique.com/",
+        "Official Site": "https://www.quebec-amerique.com/?auteur=Gare+Joyce",
         "Icon": "https://www.quebec-amerique.com/img/qa.jpg",
-        "Redirect": "https://www.quebec-amerique.com/",
+        "Redirect": "https://www.quebec-amerique.com/?auteur=Gare+Joyce",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.quebec-amerique.com/"
+        "AbstractURL": "https://www.quebec-amerique.com/?auteur=Gare+Joyce"
     },
     {
         "link": "https://krilo.hr",
@@ -230,6 +230,16 @@
         "AbstractURL": "https://www.fu-manchu.com"
     },
     {
+        "link": "https://universalstadium2024.com",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://universalstadium2024.com",
+        "Icon": "N/A",
+        "Redirect": "https://universalstadium2024.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://universalstadium2024.com"
+    },
+    {
         "link": "https://afac.com.au",
         "Heading": "AFAC",
         "Abstract": "AFAC is the National Council for fire and emergency services in Australia and New Zealand, creating synergies across the emergency management sector.",
@@ -274,7 +284,7 @@
         "Heading": "Inicio | Ajuntament  de Vinar\u00f2s",
         "Abstract": null,
         "Official Site": "https://vinaros.es",
-        "Icon": "https://www.vinaros.es/sites/default/files/FAVICON.PNG",
+        "Icon": "/sites/default/files/FAVICON.PNG",
         "Redirect": "https://vinaros.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vinaros.es"

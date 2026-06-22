@@ -211,13 +211,13 @@
     },
     {
         "link": "https://roboterforum.de",
-        "Heading": "Roboterforum.de \u2014 die Industrieroboter & Cobot Community",
-        "Abstract": "Das gr\u00f6\u00dfte deutschsprachige Forum f\u00fcr Industrieroboter und Cobots. Hilfe zu KUKA, ABB, Fanuc, Yaskawa \u2014 Programmierung, Integration, Wartung und Service.",
-        "Official Site": "https://www.roboterforum.de/",
-        "Icon": "https://www.roboterforum.de/images/style-2/favicon-48x48.png",
-        "Redirect": "https://www.roboterforum.de/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://roboterforum.de",
+        "Icon": "N/A",
+        "Redirect": "https://roboterforum.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.roboterforum.de/"
+        "AbstractURL": "https://roboterforum.de"
     },
     {
         "link": "https://sanitaer-haffner.de",
@@ -240,16 +240,6 @@
         "AbstractURL": "https://www.nolapro.com/"
     },
     {
-        "link": "https://oshatraining.com",
-        "Heading": "OSHA Training",
-        "Abstract": "Obtain OSHA training certification. OSHA 10-hour and 30-hour courses, confined space, competent person. On-site classes or online courses.",
-        "Official Site": "https://oshatraining.com/",
-        "Icon": "https://oshatraining.com/wp-content/uploads/OSHA-Authorized-Training.jpg",
-        "Redirect": "https://oshatraining.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://oshatraining.com/"
-    },
-    {
         "link": "https://gadgetraffle.com",
         "Heading": "Gadget Raffle | Gadget Raffle and inspirations",
         "Abstract": "Gadget Raffle and inspirations.",
@@ -258,16 +248,6 @@
         "Redirect": "https://gadgetraffle.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gadgetraffle.com/"
-    },
-    {
-        "link": "https://holypals.com",
-        "Heading": "Christian Apparel & Gifts | Soft & Joyful Family Matching PJs",
-        "Abstract": "Faith-filled Christian apparel & gifts for kids and families. Designed to help parents teach children about Jesus \u2014 with a Scripture tag on every item.",
-        "Official Site": "https://holypals.com/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0264/7788/7572/files/Untitled_design_7.jpg?v=1697507454",
-        "Redirect": "https://holypals.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://holypals.com/"
     },
     {
         "link": "https://magicapple.net",

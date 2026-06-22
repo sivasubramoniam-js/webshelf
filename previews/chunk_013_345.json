@@ -83,11 +83,11 @@
         "link": "https://reactable.com",
         "Heading": "Welcome |Reactable Legacy",
         "Abstract": "The Reactable was conceived and developed in Barcelona by Sergi Jord\u00e0, Martin Kaltenbrunner, G\u00fcnter Geiger and Marcos Alonso.",
-        "Official Site": "https://reactable.com/",
+        "Official Site": "http://reactable.com/",
         "Icon": "http://reactable.com/wp-content/uploads/2015/09/Icono.png",
-        "Redirect": "https://reactable.com/",
+        "Redirect": "http://reactable.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://reactable.com/"
+        "AbstractURL": "http://reactable.com/"
     },
     {
         "link": "https://webclientes.com",
@@ -98,16 +98,6 @@
         "Redirect": "https://webclientes.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://webclientes.com"
-    },
-    {
-        "link": "https://freshcomics.us",
-        "Heading": "Fresh Comics: The Latest Releases in Your Pocket",
-        "Abstract": "Get the latest comic release information and events weekly.",
-        "Official Site": "http://freshcomics.us",
-        "Icon": "http://freshcomics.us/static/images/this-week.jpg",
-        "Redirect": "http://freshcomics.us",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://freshcomics.us"
     },
     {
         "link": "https://chernobyl-hbo.xyz",
@@ -191,10 +181,10 @@
     },
     {
         "link": "https://filterwater.com",
-        "Heading": "Water Filters and Filtration Systems by FilterWater.com",
-        "Abstract": "Water Filter Superstore is your leading source for Water Filters and Filtration Systems. Every filter we sell has been lab-tested and evaluated against the highest standards in the industry. Free shipping over $99!",
+        "Heading": "REFUSED",
+        "Abstract": null,
         "Official Site": "https://filterwater.com",
-        "Icon": "favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://filterwater.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://filterwater.com"
@@ -250,6 +240,16 @@
         "AbstractURL": "https://www.growandbrew.co.nz/"
     },
     {
+        "link": "https://thezaurus.com",
+        "Heading": "Webzine - thezaurus.com",
+        "Abstract": null,
+        "Official Site": "https://thezaurus.com/",
+        "Icon": "N/A",
+        "Redirect": "https://thezaurus.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thezaurus.com/"
+    },
+    {
         "link": "https://businesscycle.com",
         "Heading": "Economic Cycle Research Institute | Public Home | ECRI - ECRI | Economic Cycle Research Institute",
         "Abstract": "ECRI is the leading authority on business cycles. Our state-of-the-art analytical framework is unmatched in its ability to forecast cycle turning points.",
@@ -258,6 +258,16 @@
         "Redirect": "https://www.businesscycle.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.businesscycle.com"
+    },
+    {
+        "link": "https://hardindailydeals.com",
+        "Heading": "Best Department Stores for Discount Shopping Online - Hardin Daily Deals",
+        "Abstract": null,
+        "Official Site": "https://www.hardindailydeals.com/",
+        "Icon": "https://www.hardindailydeals.com/wp-content/uploads/2025/06/logo_1.png",
+        "Redirect": "https://www.hardindailydeals.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hardindailydeals.com/"
     },
     {
         "link": "https://cybergear2.com",

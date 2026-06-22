@@ -210,16 +210,6 @@
         "AbstractURL": "https://fr.lemarquier.com/fr/"
     },
     {
-        "link": "https://davesrunning.com",
-        "Heading": "Dave's Running Shop \u2013 Daves Running Shop",
-        "Abstract": "Since 1973, they have been providing the community with top-quality running shoes, lifestyle footgear, apparel, and technology. Priding itself on fitting customers with the perfect gear for their needs. With locations in Sylvania, Perrysburg, Findlay, and Delta, they are dedicated to serving runners of all levels.",
-        "Official Site": "https://davesrunning.com/",
-        "Icon": "http://davesrunning.com/cdn/shop/files/Social-assets-Daves-13.png?v=1755197424",
-        "Redirect": "https://davesrunning.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://davesrunning.com/"
-    },
-    {
         "link": "https://game-factory.net",
         "Heading": "Game Factory \u2014 World-Class Game Development Studio",
         "Abstract": "20+ years of AAA game development expertise. Full-cycle production for PC, Mobile, and VR platforms.",
@@ -268,6 +258,16 @@
         "Redirect": "https://pbaupdates.ph/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pbaupdates.ph/"
+    },
+    {
+        "link": "https://cherriesiddique.top",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://cherriesiddique.top",
+        "Icon": "N/A",
+        "Redirect": "https://cherriesiddique.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cherriesiddique.top"
     },
     {
         "link": "https://dendritics.com",

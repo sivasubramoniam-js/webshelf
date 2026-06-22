@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://morfansub.com.tr",
+        "Heading": "Morfansub.com.tr < En iyi ma\u011faza",
+        "Abstract": null,
+        "Official Site": "https://morfansub.com.tr",
+        "Icon": "N/A",
+        "Redirect": "https://morfansub.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://morfansub.com.tr"
+    },
+    {
         "link": "https://morningstarbookstore.com",
         "Heading": "American Express",
         "Abstract": "Morning Star Bookstore offers a diverse selection of Christian bibles, books, supplies, gifts, and resources to enhance your spiritual journey. From Bibles to devotionals to church supplies, our online store has everything you need to deepen your faith. Visit us today and explore our collection!",
@@ -38,16 +48,6 @@
         "Redirect": "https://mumoh-wol.store",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mumoh-wol.store"
-    },
-    {
-        "link": "https://mupor-gakym.store",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://mupor-gakym.store",
-        "Icon": "N/A",
-        "Redirect": "https://mupor-gakym.store",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mupor-gakym.store"
     },
     {
         "link": "https://musicalheritage.org",
@@ -131,10 +131,10 @@
     },
     {
         "link": "https://myprelovedtiffany.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "MyPrelovedTiffany - Authenticated Preloved Tiffany & Co.",
+        "Abstract": "We are a pre-owned / second-hand branded store specializing in T&Co. jewelries. We have a zero-tolerance policy for counterfeits and we strive to play our part in battling against the counterfeit market. Shop with confidence, pay less for the same product.",
         "Official Site": "https://myprelovedtiffany.com",
-        "Icon": "data:;",
+        "Icon": "/favicon-32x32.png",
         "Redirect": "https://myprelovedtiffany.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myprelovedtiffany.com"
@@ -220,6 +220,16 @@
         "AbstractURL": "https://www.natalianeverko.com/"
     },
     {
+        "link": "https://natural-e.co.jp",
+        "Heading": "\u65e5\u672c\u81ea\u7136\u30a8\u30cd\u30eb\u30ae\u30fc\u682a\u5f0f\u4f1a\u793e",
+        "Abstract": null,
+        "Official Site": "https://www.natural-e.co.jp/",
+        "Icon": "http://natural-e.co.jp/wp-content/uploads/2025/11/ogp.png",
+        "Redirect": "https://www.natural-e.co.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.natural-e.co.jp/"
+    },
+    {
         "link": "https://nautiluspuzzles.com",
         "Heading": "Wooden Jigsaw Puzzles For Adults - Made in the USA",
         "Abstract": "Nautilus Wooden Jigsaw Puzzles for Adults are creatively designed by a team of artists and jigsaw puzzle enthusiasts in California. The unique cuts in every puzzle reflect the imagination and mischievousness of our designers who throw in funky whimsical shapes, to make each puzzle a challenging and fun experience.",
@@ -274,7 +284,7 @@
         "Heading": "\n      Nguy\u00ean X\u01b0\u01a1ng\n",
         "Abstract": "Nguy\u00ean X\u01b0\u01a1ng",
         "Official Site": "https://nguyenxuong.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0993/5450/9594/files/LOGO_NX.png?height=628&pad_color=ffffff&v=1777536647&width=1200",
+        "Icon": "http://nguyenxuong.com/cdn/shop/files/LOGO_NX.png?height=628&pad_color=ffffff&v=1777536647&width=1200",
         "Redirect": "https://nguyenxuong.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nguyenxuong.com/"
@@ -291,7 +301,7 @@
     },
     {
         "link": "https://nichenghui.com",
-        "Heading": "hhpoker\u5b98\u65b9\u6b63\u7248\u4e0b\u8f7d\u82f9\u679c_\u5708\u5185\u5b9e\u529b\u9760\u8c31HHpoker\u4ff1\u4e50\u90e8\u63a8\u8350\u52a0\u5165",
+        "Heading": "hhpoker\u5b98\u65b9\u6b63\u7248\u4e0b\u8f7d\u82f9\u679c_\u5956\u52b1\u673a\u5236\u516c\u5e73\u5408\u7406",
         "Abstract": null,
         "Official Site": "https://nichenghui.com",
         "Icon": "/assets/index/xiyou/image/favicon.ico",

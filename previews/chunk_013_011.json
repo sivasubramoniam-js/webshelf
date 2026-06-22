@@ -180,6 +180,16 @@
         "AbstractURL": "http://cinematicorchestra.com/"
     },
     {
+        "link": "https://mkgr.jp",
+        "Heading": "MARUKAN",
+        "Abstract": null,
+        "Official Site": "https://mkgr.jp",
+        "Icon": "N/A",
+        "Redirect": "https://mkgr.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mkgr.jp"
+    },
+    {
         "link": "https://danggn.net",
         "Heading": null,
         "Abstract": null,
@@ -228,6 +238,16 @@
         "Redirect": "https://ppshop.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ppshop.in"
+    },
+    {
+        "link": "https://pascalabc.net",
+        "Heading": "\u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f PascalABC.NET",
+        "Abstract": "\u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f PascalABC.NET",
+        "Official Site": "https://pascalabc.net",
+        "Icon": "/templates/yougrids/favicon.ico",
+        "Redirect": "https://pascalabc.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pascalabc.net"
     },
     {
         "link": "https://collectiveaccess.org",

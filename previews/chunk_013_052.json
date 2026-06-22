@@ -41,13 +41,13 @@
     },
     {
         "link": "https://fridayapp.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://fridayapp.com",
-        "Icon": "data:;",
-        "Redirect": "https://fridayapp.com",
+        "Heading": "FRIDAY: The Simplest Small Business Payroll Software \ud83d\ude80",
+        "Abstract": "FRIDAY\u2122 is the #1 small business payroll software.\ud83c\udfc6 Run payroll in seconds, track time, onboard, manage PTO, and keep your team connected.\ud83d\udcac",
+        "Official Site": "https://fridayapp.com/",
+        "Icon": "https://fridayapp.com/wp-content/uploads/2025/05/Friday-open-graph.png",
+        "Redirect": "https://fridayapp.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fridayapp.com"
+        "AbstractURL": "https://fridayapp.com/"
     },
     {
         "link": "https://froutino.gr",
@@ -88,6 +88,16 @@
         "Redirect": "https://furnituregold.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://furnituregold.co.uk/"
+    },
+    {
+        "link": "https://futmal.pl",
+        "Heading": "Futbol-Ma\u0142opolska / Futmal.pl",
+        "Abstract": "Futbol-Ma\u0142opolska / Futmal.pl",
+        "Official Site": "https://futmal.pl",
+        "Icon": "/img/cms/favicon.jpg",
+        "Redirect": "https://futmal.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://futmal.pl"
     },
     {
         "link": "https://gailsfurniture.com",
@@ -220,6 +230,16 @@
         "AbstractURL": "https://glitterattic.com"
     },
     {
+        "link": "https://gonetex.com",
+        "Heading": "Home - Netex Enterprises Inc.",
+        "Abstract": "Hire Netex Managed Services Today! We innovate. You thrive. We make IT your most precious asset. Located in Toronto, Canada.",
+        "Official Site": "https://gonetex.com/",
+        "Icon": "https://gonetex.com/wp-content/uploads/2021/08/logo.png",
+        "Redirect": "https://gonetex.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gonetex.com/"
+    },
+    {
         "link": "https://goodricecake.com",
         "Heading": "\ucc29\ud55c\ub5a1",
         "Abstract": "\uba85\uc7a5\ubcd1\uac00 \ucc29\ud55c\ub5a1",
@@ -280,6 +300,16 @@
         "AbstractURL": "https://granny-xxxmovies.com"
     },
     {
+        "link": "https://graphicreserve.com",
+        "Heading": "Canva Marketing Templates & Website Kits | GraphicReserve",
+        "Abstract": "Browse 1000+ Canva templates & Elementor website kits for local contractors. Door hangers, EDDM postcards, flyers & more. Instant download.",
+        "Official Site": "https://graphicreserve.com/",
+        "Icon": "https://cdn.graphicreserve.com/wp-content/uploads/2021/09/cropped-graphic-reserve-favicon-2-32x32.png",
+        "Redirect": "https://graphicreserve.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://graphicreserve.com/"
+    },
+    {
         "link": "https://groningenmarkt.nl",
         "Heading": "De gratis Advertentie site van Groningen en omgeving",
         "Abstract": "Lokaal, veilig, gratis advertenties bij jou in de buurt zoals tweedehands en nieuwe artikelen, banen, woningen, dating en meer",
@@ -288,5 +318,25 @@
         "Redirect": "https://www.groningenmarkt.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.groningenmarkt.nl"
+    },
+    {
+        "link": "https://grossisteturquie.com",
+        "Heading": "GrossisteTurquie.com | Grossiste Abaya et Grossiste Hijab\n",
+        "Abstract": "Votre source de confiance en tant que grossiste abayas et grossiste hijab de qualit\u00e9. Parcourez notre collection en gros, offrant une vari\u00e9t\u00e9 de designs exquis pour satisfaire vos clients. Devenez le vendeur privil\u00e9gi\u00e9 de mode abaya et hijab avec nos offres de gros",
+        "Official Site": "https://grossisteturquie.com/",
+        "Icon": "http://grossisteturquie.com/cdn/shop/files/grossiste-abaya.jpg?v=1693508682",
+        "Redirect": "https://grossisteturquie.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://grossisteturquie.com/"
+    },
+    {
+        "link": "https://grosvenorprints.com",
+        "Heading": "Grosvenor Prints",
+        "Abstract": null,
+        "Official Site": "https://grosvenorprints.com",
+        "Icon": "N/A",
+        "Redirect": "https://grosvenorprints.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://grosvenorprints.com"
     }
 ]

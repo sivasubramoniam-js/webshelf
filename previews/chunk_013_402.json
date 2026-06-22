@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://autolakopmaat.nl",
-        "Heading": "Autolak op Maat \ud83d\ude97 | Spuitbussen & Lakstiften | Alle Kleuren",
-        "Abstract": "Autolak kopen? Voor elk type automerk leveren wij autolak op maat! Voor elke kras een oplossing en altijd in de juiste kleur! \u2705",
-        "Official Site": "https://www.autolakopmaat.nl/",
-        "Icon": "https://www.autolakopmaat.nl/wp-content/themes/storefront-autolakopmaat/images/favicon/android-icon-192x192.png",
-        "Redirect": "https://www.autolakopmaat.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.autolakopmaat.nl/"
-    },
-    {
         "link": "https://aveonline.co",
         "Heading": "Aveonline: Plataforma Log\u00edstica E-commerce en Colombia \u2013 Somos una empresa de tecnolog\u00eda que genera soluciones para facilitar la gesti\u00f3n de comercio electr\u00f3nico. Nuestra plataforma log\u00edstica integra los servicios de las transportadoras m\u00e1s reconocidas del pa\u00eds y las conecta con las empresas. Todo en un mismo lugar, con precios m\u00e1s bajos y mayor asesor\u00eda y acompa\u00f1amiento.",
         "Abstract": "Integra log\u00edstica multitransportadora, recaudo protegido, automatizaci\u00f3n de gu\u00edas y herramientas digitales para potenciar tu eCommerce.",
@@ -28,6 +18,16 @@
         "Redirect": "https://www.avsmoto.fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.avsmoto.fr/"
+    },
+    {
+        "link": "https://awardsandtrophies.com.au",
+        "Heading": "\n\tBuy Trophies Online in Australia \u2013 Cheap Prices | Awards And Trophies\n",
+        "Abstract": "Awards and Trophies is Australia\u2019s premier online trophy store. Offering quality trophies, awards, trophy cups, corporate award and more Australia-wide.",
+        "Official Site": "https://awardsandtrophies.com.au",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://awardsandtrophies.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://awardsandtrophies.com.au"
     },
     {
         "link": "https://azurajewelry.com",
@@ -84,7 +84,7 @@
         "Heading": "BajoLugo\uff08\u30d0\u30b8\u30e7\u30eb\u30b4\uff09\uff5c\u30ec\u30b6\u30fc\u30b9\u30cb\u30fc\u30ab\u30fc\u3001\u30d0\u30c3\u30b0\u3001\u8ca1\u5e03\u300a\u30d6\u30e9\u30f3\u30c9\u516c\u5f0f\u901a\u8ca9\u300b\n",
         "Abstract": "\u30d0\u30b8\u30e7\u30eb\u30b4\u306f\u4f1d\u7d71\u6280\u8853\u3068\u6d41\u884c\u3092\u30df\u30c3\u30af\u30b9\u3057\u3001\u65ac\u65b0\u304b\u3064\u30b4\u30fc\u30b8\u30e3\u30b9\u306a\u30ec\u30b6\u30fc\u3092\u4f7f\u7528\u3057\u305f\u30e1\u30a4\u30c9\u30a4\u30f3\u30b8\u30e3\u30d1\u30f3\u306e\u30ec\u30b6\u30fc\u30d6\u30e9\u30f3\u30c9\u3002\u30c9\u30ec\u30b9\u30b7\u30e5\u30fc\u30ba\u3001\u30ec\u30b6\u30fc\u30b9\u30cb\u30fc\u30ab\u30fc\u306a\u3069\u306e\u9769\u9774\u3084\u3001\u30df\u30cb\u30d0\u30c3\u30b0\u3001\u8ca1\u5e03\u306a\u3069\u3092\u767a\u4fe1\u3059\u308b\u3002",
         "Official Site": "https://bajolugo.jp/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0013/2199/2297/files/logo_125f70bc-8ae2-4495-b35e-4e1ac31c21df.png?height=628&pad_color=ffffff&v=1677827211&width=1200",
+        "Icon": "http://bajolugo.jp/cdn/shop/files/logo_125f70bc-8ae2-4495-b35e-4e1ac31c21df.png?height=628&pad_color=ffffff&v=1677827211&width=1200",
         "Redirect": "https://bajolugo.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bajolugo.jp/"
@@ -98,6 +98,16 @@
         "Redirect": "https://baks.com.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://baks.com.pl"
+    },
+    {
+        "link": "https://bandsuche.at",
+        "Heading": "bandsuche.at | Startseite",
+        "Abstract": "Plattform f\u00fcr Bands und Musiker in \u00d6sterreich",
+        "Official Site": "https://bandsuche.at",
+        "Icon": "img/favicon.png",
+        "Redirect": "https://bandsuche.at",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bandsuche.at"
     },
     {
         "link": "https://banglatv.tv",
@@ -134,7 +144,7 @@
         "Heading": "Barbosul Prietenos",
         "Abstract": "Barbosul Prietenos",
         "Official Site": "https://www.barbosulprietenos.ro",
-        "Icon": "https://s.cdnshm.com/site/1200x1200/barbosulprietenos.ro.jpg?20260621",
+        "Icon": "https://s.cdnshm.com/site/1200x1200/barbosulprietenos.ro.jpg?20260622",
         "Redirect": "https://www.barbosulprietenos.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.barbosulprietenos.ro"
@@ -184,7 +194,7 @@
         "Heading": "\n      \n\n      Bayse Brand - Women's Clothing Online, Buy Women's International Cloth\n\n    ",
         "Abstract": "Bayse Brand - Latest women's trends available to buy on our online store. International shipping. Shop Bodysuits, Tees, Dresses, Pants, Skirts and more at Bayse Brand.",
         "Official Site": "https://www.baysebrand.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0071/9637/7186/files/Bayse_Logo_-_Black_White_-_Square_copy.jpg?v=1722228006",
+        "Icon": "http://www.baysebrand.com/cdn/shop/files/Bayse_Logo_-_Black_White_-_Square_copy.jpg?v=1722228006",
         "Redirect": "https://www.baysebrand.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.baysebrand.com/"
@@ -248,16 +258,6 @@
         "Redirect": "https://beautymind.com.bd",
         "AbstractSource": "BS4",
         "AbstractURL": "https://beautymind.com.bd"
-    },
-    {
-        "link": "https://beautyvolfashion.nl",
-        "Heading": "\n\t\tbeautyvolfashion.nl\n\t",
-        "Abstract": null,
-        "Official Site": "https://beautyvolfashion.nl",
-        "Icon": "N/A",
-        "Redirect": "https://beautyvolfashion.nl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://beautyvolfashion.nl"
     },
     {
         "link": "https://becekku.com",

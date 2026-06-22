@@ -10,6 +10,36 @@
         "AbstractURL": "https://www.accr.org.au/"
     },
     {
+        "link": "https://oscorm.com",
+        "Heading": "Oscorm - Scalable Workforce Automation Solutions",
+        "Abstract": "Oscorm delivers next-gen remote teams with AI oversight. Hire pre-vetted experts in engineering, AI, design, marketing, and more with rapid deployment.",
+        "Official Site": "https://oscorm.com",
+        "Icon": "/favicon.ico?favicon.b32c6fc5.ico",
+        "Redirect": "https://oscorm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oscorm.com"
+    },
+    {
+        "link": "https://climbingtechnology.com",
+        "Heading": "CLIMBING TECHNOLOGY: arrampicata e lavoro su fune",
+        "Abstract": "CLIMBING TECHNOLOGY realizza prodotti per l'ambito outdoor (arrampicata, alpinismo etc.) e per l'ambito professional (lavoro in fune, soccorso etc.)",
+        "Official Site": "https://www.climbingtechnology.com/",
+        "Icon": "https://www.climbingtechnology.com/wp-content/themes/CT2024/favicon.ico",
+        "Redirect": "https://www.climbingtechnology.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.climbingtechnology.com/"
+    },
+    {
+        "link": "https://nesaden.com",
+        "Heading": "\u0422\u0435\u043a\u0441\u0442\u0438\u043b\u044c \u043e\u043f\u0442\u043e\u043c \u043e\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f \u041d\u0435\u0421\u0430\u0414\u0435\u043d.",
+        "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u0442\u0435\u043a\u0441\u0442\u0438\u043b\u044c \u043e\u043f\u0442\u043e\u043c \u043e\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u0430\u0439\u0442\u0435 \u041d\u0435\u0421\u0430\u0414\u0435\u043d. \u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0442\u0435\u043a\u0441\u0442\u0438\u043b\u044c \u043e\u043f\u0442\u043e\u043c \u043e\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f \u043f\u043e \u043d\u0438\u0437\u043a\u0438\u043c \u0446\u0435\u043d\u0430\u043c \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 &#128666; \u043f\u043e \u0420\u043e\u0441\u0441\u0438\u0438. \u0417\u0432\u043e\u043d\u0438\u0442\u0435: 8 (800) 234-93-11. &#11088;&#11088;&#11088;&#11088;&#11088;",
+        "Official Site": "https://nesaden.com/",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://nesaden.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nesaden.com/"
+    },
+    {
         "link": "https://programming-idioms.org",
         "Heading": "Programming Idioms",
         "Abstract": null,
@@ -74,7 +104,7 @@
         "Heading": "Prefeitura de Canind\u00e9",
         "Abstract": "Portal Oficial da Prefeitura Municipal de Canind\u00e9, que traz para o cidad\u00e3o a transpar\u00eancia, diversos servi\u00e7os prestados e not\u00edcias sobre tudo o que acontece no Munic\u00edpio.",
         "Official Site": "https://caninde.ce.gov.br",
-        "Icon": "http://caninde.ce.gov.br/imagens/TopoTimbre.png?time=1781997647",
+        "Icon": "http://caninde.ce.gov.br/imagens/TopoTimbre.png?time=1782084314",
         "Redirect": "https://caninde.ce.gov.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://caninde.ce.gov.br"
@@ -138,6 +168,16 @@
         "Redirect": "https://www.intermediaweb.lk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.intermediaweb.lk/"
+    },
+    {
+        "link": "https://srhospedaje.info",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://srhospedaje.info",
+        "Icon": "N/A",
+        "Redirect": "https://srhospedaje.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://srhospedaje.info"
     },
     {
         "link": "https://segmentweb.in",
@@ -240,6 +280,16 @@
         "AbstractURL": "https://o-c-r.org/"
     },
     {
+        "link": "https://vesoul.fr",
+        "Heading": "CAV & Ville de Vesoul - Agglom\u00e9ration et Ville de Vesoul",
+        "Abstract": "Site internet de l'Agglom\u00e9ration et Ville de Vesoul (70)",
+        "Official Site": "https://www.vesoul.fr/",
+        "Icon": "/images/demo/favicon.png",
+        "Redirect": "https://www.vesoul.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.vesoul.fr/"
+    },
+    {
         "link": "https://enezdemircelik.com.tr",
         "Heading": "Anasayfa | Enez Demir \u00c7elik",
         "Abstract": "Enez Demir \u00c7elik",
@@ -308,5 +358,15 @@
         "Redirect": "https://pinewoodsocial.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pinewoodsocial.com/"
+    },
+    {
+        "link": "https://fopea.org",
+        "Heading": "FOPEA \u2013 Foro de periodismo argentino",
+        "Abstract": null,
+        "Official Site": "https://fopea.org",
+        "Icon": "https://fopea.org/wp-content/uploads/2023/11/cropped-fopea-favicon_v02-32x32.png",
+        "Redirect": "https://fopea.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fopea.org"
     }
 ]

@@ -20,21 +20,11 @@
         "AbstractURL": "https://bleurodbeattie.com/"
     },
     {
-        "link": "https://blindparts.com",
-        "Heading": "Blind Parts | Blinds & Shades Parts for DIY Blind Repair | BlindParts.com",
-        "Abstract": "We offer thousands of repair parts & string for window blinds & shades. Our low cost and fast shipping will get you the parts you need today!",
-        "Official Site": "https://blindparts.com/shop-by-window-covering-type/",
-        "Icon": "https://blindparts.com/wp-content/uploads/2018/01/WebsiteScreenShot.png",
-        "Redirect": "https://blindparts.com/shop-by-window-covering-type/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://blindparts.com/shop-by-window-covering-type/"
-    },
-    {
         "link": "https://blu-shop.cz",
         "Heading": "Kvalitn\u00ed dom\u00e1c\u00ed kino je \u017eivotn\u00ed styl | Blu-shop.cz",
         "Abstract": "Dom\u00e1c\u00ed kino jako lifestyle \u2705 A/V technika \u2705 Tis\u00edce film\u016f na 4k Ultra HD, Blu-ray i DVD skladem \u2705 Merchandising a filmov\u00e9 d\u00e1rky \u2705 Nejv\u011bt\u0161\u00ed experti oboru",
         "Official Site": "https://www.blu-shop.cz/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.blu-shop.cz/user/logos/blushopnewlogo.png?t=1782034891",
+        "Icon": "https://cdn.myshoptet.com/usr/www.blu-shop.cz/user/logos/blushopnewlogo.png?t=1782121470",
         "Redirect": "https://www.blu-shop.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.blu-shop.cz/"
@@ -111,8 +101,8 @@
     },
     {
         "link": "https://borikplus.rs",
-        "Heading": "Borik Plus | Online prodaja | Baterije, UPS ure\u0111aji, CCTV, Solarni paneli",
-        "Abstract": "Olovne baterije, Alkalne baterije, UPS ure\u0111aji, CCTV, Alarmni sistemi, Video nadzor, Solarani paneli, Inverteri za Centralno Grejanje. Cene, Distribucija.",
+        "Heading": "Borik Plus | Va\u0161 izvor napajanja, solarne i CCTV opreme na jednom mestu!",
+        "Abstract": "Borik Plus veliki izbor maloprodajnie cene i veleporodaja. Distribucija vodecih brendova, roba dostupna odmah velike kolicne na lageru.",
         "Official Site": "https://borikplus.rs/",
         "Icon": "https://borikplus.rs/wp-content/uploads/2020/05/bp-prodavnica.jpg",
         "Redirect": "https://borikplus.rs/",
@@ -160,11 +150,21 @@
         "AbstractURL": "https://bowlingovaliga.cz"
     },
     {
+        "link": "https://bracom.ba",
+        "Heading": "Bracom.ba - Sve za sport, outdoor i aktivan \u017eivot",
+        "Abstract": "Bracom nudi sve za outdoor i fitness. Sportska oprema, suplementi, skija\u0161ka i biciklisti\u010dka oprema najboljih brendova za aktivan \u017eivot.",
+        "Official Site": "https://bracom.ba/",
+        "Icon": "https://bracom.ba/wp-content/uploads/2025/05/bracom-pocetna-2.webp",
+        "Redirect": "https://bracom.ba/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bracom.ba/"
+    },
+    {
         "link": "https://bravalingerie.com.au",
         "Heading": "D-K Bras, Swimwear, Sports & Maternity Bras | Brava Lingerie\n",
         "Abstract": "Brava is Australia&#39;s Specialist Store for D - K cup Lingerie, Swimwear, Sports Bras, Maternity Bras, Bridal lingerie and Expert Bra Fitting Advice. Shop Online or In-store in Melbourne, Sydney and Brisbane.",
         "Official Site": "https://www.bravalingerie.com.au/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0580/0837/1362/files/brava-wordmark-tagline-1500.jpg?v=1639459707",
+        "Icon": "https://www.bravalingerie.com.au/cdn/shop/files/brava-wordmark-tagline-1500.jpg?v=1639459707",
         "Redirect": "https://www.bravalingerie.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bravalingerie.com.au/"
@@ -320,6 +320,16 @@
         "AbstractURL": "https://canalcursos.com"
     },
     {
+        "link": "https://capilarglobal.cl",
+        "Heading": "Productos capilares profesionales para sal\u00f3n y hogar",
+        "Abstract": "Encuentra en Capilar Global productos capilares profesionales para sal\u00f3n y hogar. Tinturas, tratamientos, champ\u00fas, styling y herramientas con resultados de nivel profesional.",
+        "Official Site": "https://capilarglobal.cl/",
+        "Icon": "https://capilarglobal.cl/wp-content/uploads/2024/07/cropped-GG-fondo-negro-32x32.png",
+        "Redirect": "https://capilarglobal.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://capilarglobal.cl/"
+    },
+    {
         "link": "https://carabinsnicois.fr",
         "Heading": "Le forum officiel du Tutorat Ni\u00e7ois \u2022 Page d\u2019index",
         "Abstract": "",
@@ -334,7 +344,7 @@
         "Heading": "Cartes Pok\u00e9mon | Directement Import\u00e9es du Japon \u2013 CPC - Cartes Pok\u00e9mon, One Piece & Yu-Gi-Oh !",
         "Abstract": "D\u00e9couvrez les derni\u00e8res Cartes Pok\u00e9mon en direct du Japon. Produits Officiels du Pok\u00e9mon Center et accessoires pour les joueurs TCG et collectionneurs.",
         "Official Site": "https://cartespokemon.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0511/6824/8008/files/logocpcfavicon_494c2610-f982-495d-a112-52becc7766d2.png?crop=center&height=1200&v=1712192426&width=1200",
+        "Icon": "http://cartespokemon.com/cdn/shop/files/logocpcfavicon_494c2610-f982-495d-a112-52becc7766d2.png?crop=center&height=1200&v=1712192426&width=1200",
         "Redirect": "https://cartespokemon.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cartespokemon.com/"

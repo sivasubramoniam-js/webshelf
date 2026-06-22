@@ -184,10 +184,20 @@
         "Heading": "\u6771\u4eac\u9280\u5ea7\u306e\u30f4\u30a3\u30f3\u30c6\u30fc\u30b8\u30c9\u30ec\u30b9\u30a6\u30a9\u30c3\u30c1\u5c02\u9580\u5e97 - ANTIQURIOUS",
         "Abstract": "\u30f4\u30a3\u30f3\u30c6\u30fc\u30b8\u30a6\u30a9\u30c3\u30c1\u3068\u30a2\u30af\u30bb\u30b5\u30ea\u30fc\u306e\u5c02\u9580\u5e97\u300cANTIQURIOUS\u300d ROLEX,CARTIER,PATEK PHILIPPE\u306a\u3069\u306e\u30f4\u30a3\u30f3\u30c6\u30fc\u30b8\u30a6\u30a9\u30c3\u30c1\u3084\u3001HERMES,TIFFANY\u306a\u3069\u9ad8\u7d1a\u30d6\u30e9\u30f3\u30c9\u306e\u30a2\u30af\u30bb\u30b5\u30ea\u30fc\u3092\u5e38\u6642500\u70b9\u4ee5\u4e0a\u53d6\u308a\u63c3\u3048\u3066\u304a\u308a\u307e\u3059\u3002 \u9280\u5ea7\u99c5\u5f92\u6b691\u5206\u3001\u9280\u5ea7\u30d5\u30a1\u30a4\u30d62\u968e",
         "Official Site": "https://antiqurious.com/",
-        "Icon": "//cdn.shopify.com/s/files/1/0713/5543/3258/files/favicon.png?v=1684137005&width=96",
+        "Icon": "//antiqurious.com/cdn/shop/files/favicon.png?v=1684137005&width=96",
         "Redirect": "https://antiqurious.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://antiqurious.com/"
+    },
+    {
+        "link": "https://antojoentucocina.com",
+        "Heading": "Antojo en tu cocina - no resistas la tentaci\u00f3n",
+        "Abstract": "no resistas la tentaci\u00f3n",
+        "Official Site": "https://antojoentucocina.com/",
+        "Icon": "N/A",
+        "Redirect": "https://antojoentucocina.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://antojoentucocina.com/"
     },
     {
         "link": "https://anytimeonline.com.cy",
@@ -284,7 +294,7 @@
         "Heading": "\n      Artknit Studios: The Modern House of Knitwear\n    ",
         "Abstract": "The destination for timeless knitwear in 100% natural materials, made responsibly by the best Italian makers. Free shipping in Europe over 250\u20ac.",
         "Official Site": "https://artknit-studios.com/",
-        "Icon": "http://artknit-studios.com/cdn/shop/files/Frame_2224.png?v=1652265397&width=2048",
+        "Icon": "http://cdn.shopify.com/s/files/1/0288/1568/7732/files/Frame_2224.png?v=1652265397&width=2048",
         "Redirect": "https://artknit-studios.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://artknit-studios.com/"
@@ -350,6 +360,16 @@
         "AbstractURL": "https://atpscience.com.au/"
     },
     {
+        "link": "https://atsafetytraining.ca",
+        "Heading": "AT Safety Training \u2013 Sherwood Park, AB, Canada",
+        "Abstract": null,
+        "Official Site": "https://atsafetytraining.ca",
+        "Icon": "https://atsafetytraining.ca/wp-content/uploads/2025/07/cropped-at-safety-logo-32x32.png",
+        "Redirect": "https://atsafetytraining.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://atsafetytraining.ca"
+    },
+    {
         "link": "https://audiopipe.com",
         "Heading": "Audiopipe | United States | Car Competition Audio",
         "Abstract": "Audiopipe is a global manufacturer and distributor of 12-volt electronics, pro- audio equipment, marine audio equipment, and electronic audio/video accessories.",
@@ -361,10 +381,10 @@
     },
     {
         "link": "https://auntjudysxxx.com",
-        "Heading": "AuntJudys.com",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://auntjudysxxx.com",
-        "Icon": "N/A",
+        "Icon": "/favicon-32x32.png?v=2",
         "Redirect": "https://auntjudysxxx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://auntjudysxxx.com"

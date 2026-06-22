@@ -230,6 +230,16 @@
         "AbstractURL": "https://www.cambodiapostalcode.com"
     },
     {
+        "link": "https://splidejs.com",
+        "Heading": "Splide - The lightweight, flexible and accessible slider/carousel",
+        "Abstract": "Splide is a lightweight, flexible and accessible slider/carousel, written in TypeScript. No dependencies, no Lighthouse errors",
+        "Official Site": "https://splidejs.com/",
+        "Icon": "https://splidejs.com/images/site/banner.jpg",
+        "Redirect": "https://splidejs.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://splidejs.com/"
+    },
+    {
         "link": "https://nthosting.net",
         "Heading": "Domain Default page",
         "Abstract": null,
@@ -288,6 +298,16 @@
         "Redirect": "https://towelhub.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://towelhub.com"
+    },
+    {
+        "link": "https://gpp-osijek.com",
+        "Heading": "Gradski prijevoz putnika d.o.o. Osijek - To\u010dnost - Sigurnost - Pouzdanost",
+        "Abstract": "Prijevoz putnika od davne 1884. godine odvija na dvije tramvajske linije, te osam autobusnih linija koje povezuju cijeli grad i predgra\u0111a.",
+        "Official Site": "https://web.gpp-osijek.com/",
+        "Icon": "https://web.gpp-osijek.com/wp-content/uploads/2020/07/gpp-logo-hi.png",
+        "Redirect": "https://web.gpp-osijek.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://web.gpp-osijek.com/"
     },
     {
         "link": "https://adapteva.com",

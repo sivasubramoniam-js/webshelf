@@ -74,7 +74,7 @@
         "Heading": "mundizio - Reinigungs- und Hygienebedarf online kaufen",
         "Abstract": "Deutschlands gro\u00dfer Online-Shop f\u00fcr Reinigungs- und Hygieneartikel. Bestellen Sie aus \u00fcber 10.000 Artikel - Glasreinigungszubeh\u00f6r, Reinigungsmittel, Desinfektionsmittel, Hygienepapiere und vieles Mehr.",
         "Official Site": "https://www.mundizio.de/",
-        "Icon": "//cdn.shopify.com/s/files/1/0853/8351/2395/files/favicon.png?crop=center&height=48&v=1753442481&width=48",
+        "Icon": "//www.mundizio.de/cdn/shop/files/favicon.png?crop=center&height=48&v=1753442481&width=48",
         "Redirect": "https://www.mundizio.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mundizio.de/"
@@ -104,7 +104,7 @@
         "Heading": "Mobile plan with no credit check or contract | Mycall",
         "Abstract": "Mycall offers free calls to EU, UK, USA and Canada. No credit check, no BankID, no contract. Find the right plan and get started today.",
         "Official Site": "https://mycall.no",
-        "Icon": "https://mycall.cdn.prismic.io/mycall/aiJ0egeQX7-eW0Nc_Unlimited_SOMMER.svg",
+        "Icon": "https://images.prismic.io/mycall/ajT0Ro1P9HI4UtzY_UA_film_mor_datter_2880x1010px_01.jpg?auto=format,compress&rect=1,0,2877,1010&w=1450&h=509",
         "Redirect": "https://mycall.no",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mycall.no"
@@ -268,26 +268,6 @@
         "Redirect": "https://www.netfinancie.sk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.netfinancie.sk/"
-    },
-    {
-        "link": "https://netschach.de",
-        "Heading": "Spiele Schach, l\u00f6se Schachaufgaben - trainiere dein Schachspiel!",
-        "Abstract": "L\u00f6se interaktive Schachaufgaben, spiele online Schach gegen den Schachcomputer oder gegen echte Gegner und gewinne neue Schachfreunde",
-        "Official Site": "https://netschach.de",
-        "Icon": "gfx/netschachstern.svg",
-        "Redirect": "https://netschach.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://netschach.de"
-    },
-    {
-        "link": "https://neue-gladbecker-zeitung.de",
-        "Heading": "Nachrichten aus Gladbeck - NGZ - Neue Gladbecker Zeitung",
-        "Abstract": "Nachrichten und News aus Gladbeck und Umgebung",
-        "Official Site": "https://neue-gladbecker-zeitung.de/",
-        "Icon": "https://neue-gladbecker-zeitung.de/wp-content/uploads/2023/02/icon.jpg",
-        "Redirect": "https://neue-gladbecker-zeitung.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://neue-gladbecker-zeitung.de/"
     },
     {
         "link": "https://neutonic.com",

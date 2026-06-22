@@ -14,7 +14,7 @@
         "Heading": "\n    \n    Accounting Firm | Fremont, CA | Finck, Rudnick & Co\n  \n  ",
         "Abstract": "If you want a reliable accounting firm serving Fremont, CA, contact Finck Rudnick & Company. Our detailed work and experience set us above the rest.\n",
         "Official Site": "https://www.frc-fremont.com/",
-        "Icon": "N/A",
+        "Icon": "https://irp.cdn-website.com/f27ba3da/site_favicon_16_1694456729387.ico",
         "Redirect": "https://www.frc-fremont.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.frc-fremont.com/"
@@ -28,6 +28,16 @@
         "Redirect": "https://vseproremont.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vseproremont.com/"
+    },
+    {
+        "link": "https://greengeckogaming.com",
+        "Heading": "Green Gecko Gaming | UK Online Gaming Store",
+        "Abstract": "Shop Trading Card Singles, boosters and booster boxes for Magic: The Gathering, Pokemon, Lorcana, Star Wars: Unlimited, Digimon and more! We also sell tabletop wargames like Bolt Action, Frostgrave and Star Wars: Legion!",
+        "Official Site": "https://www.greengeckogaming.com/",
+        "Icon": "https://cdn.shopify.com/s/files/1/0565/0346/8205/files/01.png?height=628&pad_color=fff&v=1623874213&width=1200",
+        "Redirect": "https://www.greengeckogaming.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.greengeckogaming.com/"
     },
     {
         "link": "https://42ndstreet.org.uk",
@@ -120,14 +130,14 @@
         "AbstractURL": "https://tfehosting.com"
     },
     {
-        "link": "https://vicevi.net",
-        "Heading": "Arhiva viceva - vicevi.net",
-        "Abstract": "Arhiva viceva",
-        "Official Site": "https://vicevi.net",
-        "Icon": "http://vicevi.net/img/logo.png",
-        "Redirect": "https://vicevi.net",
+        "link": "https://hardwoodbargains.com",
+        "Heading": "\n      Shop Hardwood & Vinyl Flooring Online | Hardwood Bargains\n",
+        "Abstract": "Shop hardwood flooring and vinyl flooring trusted by homeowners, designers, and builders nationwide. Order samples to compare styles, explore premium collections, and enjoy honest pricing with fast, reliable delivery from Hardwood Bargains.",
+        "Official Site": "https://hardwoodbargains.com/",
+        "Icon": "http://hardwoodbargains.com/cdn/shop/files/Richmond_Select-4_1.jpg?v=1762561062",
+        "Redirect": "https://hardwoodbargains.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vicevi.net"
+        "AbstractURL": "https://hardwoodbargains.com/"
     },
     {
         "link": "https://passiveplan.xyz",

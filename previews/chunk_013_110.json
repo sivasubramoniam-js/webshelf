@@ -250,6 +250,16 @@
         "AbstractURL": "https://novyigorod.ru:443/"
     },
     {
+        "link": "https://fitwize4kids.com",
+        "Heading": "Fitwize 4 Kids | Fun & Effective Fitness for Kids 5-15",
+        "Abstract": "Empowering the next generation with fun, effective fitness programs, interactive nutrition classes, and lifestyle coaching tailored for ages 5-15.",
+        "Official Site": "https://fitwize4kids.com/",
+        "Icon": "http://fitwize4kids.com/wp-content/uploads/2026/05/Fitwize-4-Kids-Transforming-Youth-Fitness-Healthy-Living.png",
+        "Redirect": "https://fitwize4kids.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fitwize4kids.com/"
+    },
+    {
         "link": "https://altera-auto.ru",
         "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 \u2014 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0434\u0438\u043b\u0435\u0440 ",
         "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 \u0441\u043e \u0441\u043a\u0438\u0434\u043a\u043e\u0439. \u0428\u0438\u0440\u043e\u043a\u0438\u0439 \u0432\u044b\u0431\u043e\u0440 \u043d\u043e\u0432\u044b\u0445 \u0438 \u043f\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u043d\u044b\u0445 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0435\u0439 \u043f\u043e \u0432\u044b\u0433\u043e\u0434\u043d\u044b\u043c \u0446\u0435\u043d\u0430\u043c ",
@@ -288,5 +298,15 @@
         "Redirect": "https://genbu.net/index.htm",
         "AbstractSource": "BS4",
         "AbstractURL": "https://genbu.net/index.htm"
+    },
+    {
+        "link": "https://meadowlakesgolfclub.com",
+        "Heading": "Book Online! | The Best Golf in Yukon under the Midnight Sun",
+        "Abstract": null,
+        "Official Site": "https://meadowlakesgolfclub.com",
+        "Icon": "https://meadowlakesgolfclub.com/wp-content/uploads/2021/05/cropped-1E404260-91C5-4402-9B85-50940702BC73-32x32.jpg",
+        "Redirect": "https://meadowlakesgolfclub.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://meadowlakesgolfclub.com"
     }
 ]

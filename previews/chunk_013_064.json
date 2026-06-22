@@ -20,16 +20,6 @@
         "AbstractURL": "https://webcoderscdn.eu"
     },
     {
-        "link": "https://webpointsolutions.co.uk",
-        "Heading": "Business IT Support Services | Managed IT Services | Zansys ICT",
-        "Abstract": "IT Support for all businesses by qualified IT experts in the North West. Covering businesses in Wirral, Chester, Liverpool, Manchester and surroundings.",
-        "Official Site": "https://zansys.co.uk/",
-        "Icon": "https://zansys.co.uk/wp-content/uploads/home-page-bg-zansys-ict-multi-scaled.webp",
-        "Redirect": "https://zansys.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zansys.co.uk/"
-    },
-    {
         "link": "https://wedplan.com",
         "Heading": "WedPlan Madison - WedPlan",
         "Abstract": "Discover your perfect venue, find experienced wedding vendors, and get expert ideas, tips, and planning advice through WedPlan Madison.",
@@ -68,6 +58,16 @@
         "Redirect": "https://wentzo.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wentzo.com/"
+    },
+    {
+        "link": "https://wg-liste.de",
+        "Heading": "WG-Zimmer & m\u00f6blierte Wohnungen mieten | wg-liste.de",
+        "Abstract": "Wohnen auf Zeit, m\u00f6blierte Wohnungen und WG-Zimmer zur Miete in gro\u00dfer Auswahl \u2713 Single-Wohnungen finden mit wg-liste.de \u2713 Ihre deutschlandweite WG-Suchmaschine",
+        "Official Site": "https://www.wg-liste.de/",
+        "Icon": "/site/clm/iwgl/images/favicon.ico",
+        "Redirect": "https://www.wg-liste.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wg-liste.de/"
     },
     {
         "link": "https://wikiconference.org",

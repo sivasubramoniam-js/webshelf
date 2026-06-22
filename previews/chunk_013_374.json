@@ -51,7 +51,7 @@
     },
     {
         "link": "https://ipos-data.de",
-        "Heading": "IIS Windows Server-WB31",
+        "Heading": "IIS Windows Server-WB30",
         "Abstract": null,
         "Official Site": "https://ipos-data.de",
         "Icon": "N/A",
@@ -160,6 +160,16 @@
         "AbstractURL": "https://sportenote.com"
     },
     {
+        "link": "https://omarlara.cl",
+        "Heading": "Gran Himalaya - Omar Lara",
+        "Abstract": "Es un hecho que no subir\u00e9 jam\u00e1s a las cumbresdel Gran Himalaya;est\u00e1 escrito que los hombres all\u00ed se vuelvendiosesy el poder temible de la naturaleza disminuye alos seres: sus pasiones,a una blanda indolencia.Pero yo no subir\u00e9 al Gran Himalaya,tropezar\u00e9 con las piedras del camino,me embriagar\u00e9 con deleznables licores,seguir\u00e9 maldici\u00e9ndome con ternura. ",
+        "Official Site": "https://omarlara.cl/",
+        "Icon": "N/A",
+        "Redirect": "https://omarlara.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://omarlara.cl/"
+    },
+    {
         "link": "https://thedailybriefing.io",
         "Heading": "the Daily Briefing | Substack",
         "Abstract": "Every morning, the leading football journalists round up the most important news, providing you with exclusive insight, inside stories and everything you need to know for the day ahead. Click to read the Daily Briefing, a Substack publication with hundreds of thousands of subscribers.",
@@ -258,6 +268,16 @@
         "Redirect": "https://varnam.my/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://varnam.my/"
+    },
+    {
+        "link": "https://meldingen.nl",
+        "Heading": "112 Meldingen & P2000 Meldingen - Meldingen.nl",
+        "Abstract": "Overzicht van 112 Meldingen en P2000 Meldingen uit heel Nederland afkomstig van politie, brandweer, ambulance en traumacentra.",
+        "Official Site": "https://meldingen.nl/",
+        "Icon": "https://i.imgur.com/P0xgWRX.jpg",
+        "Redirect": "https://meldingen.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://meldingen.nl/"
     },
     {
         "link": "https://impactsphere.xyz",
