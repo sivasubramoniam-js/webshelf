@@ -203,11 +203,11 @@
         "link": "https://orsancobranzas.cl",
         "Heading": "Inicio - Orsan Cobranzas",
         "Abstract": null,
-        "Official Site": "http://orsancobranzas.cl/",
+        "Official Site": "http:///",
         "Icon": "https://orsancobranzas.cl/wp-content/uploads/2022/01/cropped-logo_isotype_large-1-32x32.png",
-        "Redirect": "http://orsancobranzas.cl/",
+        "Redirect": "http:///",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://orsancobranzas.cl/"
+        "AbstractURL": "http:///"
     },
     {
         "link": "https://osara.com.au",
@@ -254,20 +254,20 @@
         "Heading": "Ultralight Outdoor Gear in Europe Since 2012 | Outdoorline",
         "Abstract": "Largest cottage ultralight gear selection in Europe since 2012. Zpacks, HMG, Durston & 40+ brands. In stock, customs-free across the EU. 4.94\u2605 (6,700+ reviews). For thru-hiking, bikepacking & camping.",
         "Official Site": "https://www.outdoorline.eu/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0791/5130/0875/files/social_sharing_2b7452c9-a2c0-4f87-b3ab-8bbc1c71d874.jpg?crop=center&height=1200&v=1751376378&width=1200",
+        "Icon": "http://www.outdoorline.eu/cdn/shop/files/social_sharing_2b7452c9-a2c0-4f87-b3ab-8bbc1c71d874.jpg?crop=center&height=1200&v=1751376378&width=1200",
         "Redirect": "https://www.outdoorline.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.outdoorline.eu/"
     },
     {
         "link": "https://ozcanopies.com.au",
-        "Heading": "Ute and 4x4 Accessories Sydney, Australia | Best Prices & Huge Range",
-        "Abstract": "Explore our huge range of high-quality ute accessories, ute canopies, roller shutters, hard lids, roof racks, bullbars, towbars & more.",
-        "Official Site": "https://www.ozcanopies.com.au/",
-        "Icon": "https://www.ozcanopies.com.au/wp-content/uploads/2024/10/about-team-scaled-1.jpg",
-        "Redirect": "https://www.ozcanopies.com.au/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ozcanopies.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://ozcanopies.com.au",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ozcanopies.com.au/"
+        "AbstractURL": "https://ozcanopies.com.au"
     },
     {
         "link": "https://paccosmetics.com",
@@ -278,16 +278,6 @@
         "Redirect": "https://www.paccosmetics.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.paccosmetics.com/"
-    },
-    {
-        "link": "https://pagan-records.com",
-        "Heading": "Pagan Records - Sklep Internetowy",
-        "Abstract": "",
-        "Official Site": "https://www.pagan-records.com/",
-        "Icon": "/skins/user/rwd_shoper_5/images/favicon.png",
-        "Redirect": "https://www.pagan-records.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.pagan-records.com/"
     },
     {
         "link": "https://pandaloo.ch",

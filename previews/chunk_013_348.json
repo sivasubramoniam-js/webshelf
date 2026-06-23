@@ -10,16 +10,6 @@
         "AbstractURL": "https://vietrade.gov.vn"
     },
     {
-        "link": "https://greenwebhabitat.com",
-        "Heading": "Green Web Habitat",
-        "Abstract": null,
-        "Official Site": "https://greenwebhabitat.com",
-        "Icon": "N/A",
-        "Redirect": "https://greenwebhabitat.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://greenwebhabitat.com"
-    },
-    {
         "link": "https://avtoparts27.ru",
         "Heading": null,
         "Abstract": null,
@@ -28,16 +18,6 @@
         "Redirect": "https://avtoparts27.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://avtoparts27.ru"
-    },
-    {
-        "link": "https://autostartransport.com",
-        "Heading": "#1 Nationwide Vehicle Shipping Auto Transport Company",
-        "Abstract": "AutoStar Transport Express: Vehicle shipping & auto transport services nationwide since 2007. 500K+ cars shipped, BBB Top Rated, Inc. 5000, 50 States. Get Quote",
-        "Official Site": "https://www.autostartransport.com/",
-        "Icon": "https://www.autostartransport.com/wp-content/uploads/2025/01/car-shipping-company.webp",
-        "Redirect": "https://www.autostartransport.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.autostartransport.com/"
     },
     {
         "link": "https://skipcr.cz",
@@ -100,16 +80,6 @@
         "AbstractURL": "https://thejaps.org.pk"
     },
     {
-        "link": "https://nifdi.org",
-        "Heading": "NIFDI - National Institute for Direct Instruction",
-        "Abstract": "NIFDI - National Institute for Direct Instruction",
-        "Official Site": "https://nifdi.org",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://nifdi.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nifdi.org"
-    },
-    {
         "link": "https://sasquatchbooks.com",
         "Heading": "Sasquatch Books - Sasquatch Books is an American book publishing company based in Seattle, Washington.",
         "Abstract": "Based in Seattle for over 30 years, Sasquatch Books, together with our children\u2019s imprint, Little Bigfoot, publishes books by the most gifted writers, artists, chefs, naturalists, and thought leaders in the Pacific Northwest and on the West Coast, and brings their talents to a national audience.",
@@ -121,7 +91,7 @@
     },
     {
         "link": "https://paralleltext.io",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://paralleltext.io",
         "Icon": "N/A",
@@ -208,6 +178,16 @@
         "Redirect": "https://fr.lemarquier.com/fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fr.lemarquier.com/fr/"
+    },
+    {
+        "link": "https://davesrunning.com",
+        "Heading": "Dave's Running Shop \u2013 Daves Running Shop",
+        "Abstract": "Since 1973, they have been providing the community with top-quality running shoes, lifestyle footgear, apparel, and technology. Priding itself on fitting customers with the perfect gear for their needs. With locations in Sylvania, Perrysburg, Findlay, and Delta, they are dedicated to serving runners of all levels.",
+        "Official Site": "https://davesrunning.com/",
+        "Icon": "http://davesrunning.com/cdn/shop/files/Social-assets-Daves-13.png?v=1755197424",
+        "Redirect": "https://davesrunning.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://davesrunning.com/"
     },
     {
         "link": "https://game-factory.net",

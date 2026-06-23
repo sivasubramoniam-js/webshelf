@@ -291,22 +291,12 @@
     },
     {
         "link": "https://mehriban-aliyeva.az",
-        "Heading": "Mehriban \u018fliyeva - Az\u0259rbaycan\u0131n birinci xan\u0131m\u0131 - Site",
+        "Heading": "Mehriban \u018fliyeva - Az\u0259rbaycan\u0131n birinci xan\u0131m\u0131",
         "Abstract": null,
         "Official Site": "https://mehriban-aliyeva.az",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://mehriban-aliyeva.az",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mehriban-aliyeva.az"
-    },
-    {
-        "link": "https://schd.ws",
-        "Heading": "Blab Tech - Blab Tech",
-        "Abstract": "Blab Tech covers the latest technology headlines, innovations, AI, hardware, and general tech news.",
-        "Official Site": "https://schd.ws",
-        "Icon": "https://www.blab.com/icons/android-icon-192x192.png",
-        "Redirect": "https://schd.ws",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://schd.ws"
     }
 ]

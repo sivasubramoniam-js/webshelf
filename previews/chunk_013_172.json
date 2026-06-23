@@ -10,16 +10,6 @@
         "AbstractURL": "https://mygametables.com/"
     },
     {
-        "link": "https://solucionesinnova.net",
-        "Heading": "Innova Soluciones \u2013 \u00a1Expertos en tecnolog\u00eda!",
-        "Abstract": null,
-        "Official Site": "https://solucionesinnova.net",
-        "Icon": "https://solucionesinnova.net/wp-content/uploads/2021/04/INN.png",
-        "Redirect": "https://solucionesinnova.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://solucionesinnova.net"
-    },
-    {
         "link": "https://facehaveby.com",
         "Heading": null,
         "Abstract": null,
@@ -100,16 +90,6 @@
         "AbstractURL": "https://joyapproach.ee"
     },
     {
-        "link": "https://ceedmusic.com",
-        "Heading": "Home - Ceed Music",
-        "Abstract": "Your Sound. Your Story. We don't listen to Music anymore. We Ceed Music",
-        "Official Site": "https://ceedmusic.com",
-        "Icon": "https://ceedmusic.com/themes/default/img/logo.png",
-        "Redirect": "https://ceedmusic.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ceedmusic.com"
-    },
-    {
         "link": "https://weilaiyunxiao.com",
         "Heading": "\u7f51\u6821\u7cfb\u7edf-\u5728\u7ebf\u7f51\u6821\u7cfb\u7edf\u5f00\u53d1-\u7f51\u6821\u642d\u5efa\u5e73\u53f0-\u63d0\u4f9b\u5728\u7ebf\u6559\u80b2\u89e3\u51b3\u65b9\u6848-\u672a\u6765\u4e91\u6821",
         "Abstract": "\u672a\u6765\u4e91\u6821\u6559\u80b2\u673a\u6784\u4e00\u7ad9\u5f0f\u670d\u52a1\u5e73\u53f0,\u6559\u80b2\u57f9\u8bad\u884c\u4e1a\u4e13\u4e1aSaaS\u670d\u52a1\u5546,\u63d0\u4f9b\u6559\u80b2\u884c\u4e1a\u4f4e\u6210\u672c\u5728\u7ebf\u6559\u80b2\u89e3\u51b3\u65b9\u6848, \u5305\u542b\u7f51\u6821\u7cfb\u7edf\u642d\u5efa,\u7f51\u6821\u8bfe\u7a0b,\u7f51\u8bfe\u5b9a\u5236,\u7f51\u6821\u7cfb\u7edf\u5b9a\u5236.\u81f4\u529b\u4e8e\u597d\u7684\u4ea7\u54c1\u4e0e\u670d\u52a1,\u4ee5\u4e13\u4e1a\u80fd\u529b\u6ee1\u8db3\u60a8\u7684\u9700\u6c42.",
@@ -131,23 +111,13 @@
     },
     {
         "link": "https://cityartsmagazine.com",
-        "Heading": "City Arts Magazine - Creative minds, compelling stories",
-        "Abstract": "Creative minds, compelling stories",
-        "Official Site": "https://www.cityartsmagazine.com/",
-        "Icon": "N/A",
-        "Redirect": "https://www.cityartsmagazine.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cityartsmagazine.com/"
-    },
-    {
-        "link": "https://amazonere.com",
-        "Heading": "Amazone Re",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://amazonere.com",
-        "Icon": "N/A",
-        "Redirect": "https://amazonere.com",
+        "Official Site": "https://cityartsmagazine.com",
+        "Icon": "data:;",
+        "Redirect": "https://cityartsmagazine.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://amazonere.com"
+        "AbstractURL": "https://cityartsmagazine.com"
     },
     {
         "link": "https://trisuladata.net.id",
@@ -171,23 +141,13 @@
     },
     {
         "link": "https://joachimhofman-it.nl",
-        "Heading": "Wij ontwikkelen de nieuwe generatie online platforms | Joachim Hofman IT",
-        "Abstract": "Joachim Hofman IT ontwikkelt online platforms, klantportalen, community platforms en webapplicaties op maat. Ook voor websites, apps, CRM, automatisering en hosting.",
+        "Heading": "Online platforms, websites en maatwerksoftware laten bouwen | Joachim Hofman IT",
+        "Abstract": "Joachim Hofman IT bouwt online platforms, klantportalen, community platforms, webapplicaties, websites, apps, CRM, automatisering en hosting.",
         "Official Site": "https://joachimhofman-it.nl/",
         "Icon": "https://joachimhofman-it.nl/assets/img/opengraph.jpg",
         "Redirect": "https://joachimhofman-it.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://joachimhofman-it.nl/"
-    },
-    {
-        "link": "https://indexonline.org",
-        "Heading": "What is a bingo? How to play bingo and what are the rules?",
-        "Abstract": "Bingo is one of the most popular games, especially on New Year's Eve. We became Molatik to the bingo. What is a bingo? How to play bingo? T&C apply | 18+",
-        "Official Site": "https://indexonline.org/",
-        "Icon": "https://indexonline.org/wp-content/uploads/2019/04/cropped-lottery-game-32x32.png",
-        "Redirect": "https://indexonline.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://indexonline.org/"
     },
     {
         "link": "https://yunquna.com",
@@ -221,23 +181,13 @@
     },
     {
         "link": "https://chicisimo.com",
-        "Heading": "Chicisimo - Build with fashion shoppers' taste data",
-        "Abstract": "Chicisimo helps fashion retailers build with shoppers' taste-data. Fashion ontologies, fashion taste graph, taste profiles, virtual closets...",
-        "Official Site": "https://chicisimo.com/",
-        "Icon": "https://chicisimo.com/wp-content/uploads/2020/07/cropped-app_icon-1-32x32.jpg",
-        "Redirect": "https://chicisimo.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://chicisimo.com",
+        "Icon": "data:;",
+        "Redirect": "https://chicisimo.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chicisimo.com/"
-    },
-    {
-        "link": "https://counton.org",
-        "Heading": "\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e40\u0e25\u0e48\u0e19\u0e2a\u0e25\u0e47\u0e2d\u0e15 \u0e40\u0e27\u0e47\u0e1a\u0e15\u0e23\u0e07 PG \u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e04\u0e48\u0e32\u0e22 \u0e0b\u0e37\u0e49\u0e2d\u0e1f\u0e23\u0e35\u0e2a\u0e1b\u0e34\u0e19\u0e44\u0e14\u0e49 2026",
-        "Abstract": "\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e40\u0e25\u0e48\u0e19\u0e2a\u0e25\u0e47\u0e2d\u0e15 \u0e1f\u0e23\u0e35 2026 \u0e40\u0e25\u0e48\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e04\u0e48\u0e32\u0e22 PG SLOT, XO, JILI \u0e23\u0e30\u0e1a\u0e1a\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e08\u0e23\u0e34\u0e07 100% \u0e25\u0e2d\u0e07\u0e2a\u0e39\u0e15\u0e23\u0e44\u0e14\u0e49\u0e40\u0e25\u0e22 \u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01 \u0e2a\u0e25\u0e47\u0e2d\u0e15\u0e17\u0e14\u0e25\u0e2d\u0e07 \u0e04\u0e25\u0e34\u0e01\u0e40\u0e25\u0e22!",
-        "Official Site": "https://demoslots.cn.com/",
-        "Icon": "https://demoslots.cn.com/wp-content/uploads/2024/10/cropped-LOGO_PG-\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e40\u0e25\u0e48\u0e19_faicon-32x32.png",
-        "Redirect": "https://demoslots.cn.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://demoslots.cn.com/"
+        "AbstractURL": "https://chicisimo.com"
     },
     {
         "link": "https://sudan.net",
@@ -270,16 +220,6 @@
         "AbstractURL": "https://www.mandalasystem.com/"
     },
     {
-        "link": "https://exampapersplus.co.uk",
-        "Heading": "EPP - Premium Exam Practice Papers including the 11+ Exam",
-        "Abstract": "Welcome to Exam Papers Plus (EPP), Where You Will Find Top-Quality Practice Materials for Various Entry Levels \u25e6 Immediate Access After Purchase.",
-        "Official Site": "https://exampapersplus.co.uk/",
-        "Icon": "https://exampapersplus.co.uk/wp-content/uploads/2022/02/Top-Quality-Practice-Papers-UK-1.jpg",
-        "Redirect": "https://exampapersplus.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://exampapersplus.co.uk/"
-    },
-    {
         "link": "https://mimocook.com",
         "Heading": "Mimocook - Loja online de utens\u00edlios de cozinha",
         "Abstract": "Mimocook loja online portuguesa das melhores marcas de cozinha. Produtos de alta qualidade ao melhor pre\u00e7o! Envios de Portugal em 24-48h. Aproveite as campanhas online. Visite a nossa loja online!",
@@ -291,23 +231,13 @@
     },
     {
         "link": "https://chinawholesalenfljerseysbiz.com",
-        "Heading": "800\u5c0f\u8bf4\u7f51_\u5168\u672c\u5c0f\u8bf4\u65e0\u5f39\u7a97\u514d\u8d39\u9605\u8bfb",
-        "Abstract": "800\u5c0f\u8bf4\u7f51",
-        "Official Site": "https://chinawholesalenfljerseysbiz.com",
-        "Icon": "N/A",
-        "Redirect": "https://chinawholesalenfljerseysbiz.com",
+        "Heading": "NERAKA888 - Platform Toto Paling Oke Sedunia",
+        "Abstract": "NERAKA888 hadir sebagai platform Toto modern yang menawarkan pengalaman bermain lebih nyaman, cepat, dan mudah diakses kapan saja. Dengan sistem yang stabil, tampilan yang ramah pengguna, serta dukungan layanan yang responsif",
+        "Official Site": "https://chinawholesalenfljerseysbiz.com/",
+        "Icon": "https://chinawholesalenfljerseysbiz.com/imgs/banner-fei-5.png",
+        "Redirect": "https://chinawholesalenfljerseysbiz.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chinawholesalenfljerseysbiz.com"
-    },
-    {
-        "link": "https://radiodisneyclub.fr",
-        "Heading": "Disney : L'actualit\u00e9 des films, parcs et de Disneyland Paris",
-        "Abstract": "L'actualit\u00e9 des parcs Disney, des films Disney, Marvel, Star Wars et les bons plans et astuces sur Disneyland Paris ainsi que la musique sur notre Radio. Ne manquez pas nos astuces sur les parcs Disney, les Disney Pixar, Disney Junior, l'actualti\u00e9s des produits d\u00e9riv\u00e9s Disney Store.",
-        "Official Site": "https://radiodisneyclub.fr/",
-        "Icon": "https://radiodisneyclub.fr/wp-content/uploads/2016/04/CLIQUEZ-RADIO-TWITTER.png",
-        "Redirect": "https://radiodisneyclub.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://radiodisneyclub.fr/"
+        "AbstractURL": "https://chinawholesalenfljerseysbiz.com/"
     },
     {
         "link": "https://marvelous-usa.com",

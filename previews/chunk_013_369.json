@@ -20,6 +20,16 @@
         "AbstractURL": "https://itm-service.ru"
     },
     {
+        "link": "https://gigsafe.com",
+        "Heading": "GigSafe | The #1 workforce management solution for delivery companies",
+        "Abstract": "GigSafe cuts onboarding time from weeks to days, saves companies 30-40% on insurance through bulk purchasing, and automates routine back-office work.",
+        "Official Site": "https://www.gigsafe.com/",
+        "Icon": "https://framerusercontent.com/images/bVQ5uNQFBYfaQwxoMF9txasSow.png",
+        "Redirect": "https://www.gigsafe.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gigsafe.com/"
+    },
+    {
         "link": "https://jeremyjordan.me",
         "Heading": "Jeremy Jordan",
         "Abstract": "Thoughts, ideas, and new things I've learned.",
@@ -170,16 +180,6 @@
         "AbstractURL": "https://scgb.org"
     },
     {
-        "link": "https://orourkemediagroup.com",
-        "Heading": "O'Rourke Media Group",
-        "Abstract": null,
-        "Official Site": "https://orourkemediagroup.com/",
-        "Icon": "https://orourkemediagroup.com/wp-content/uploads/2021/07/ORourke-Media-Logo-Stacked-RGB.png",
-        "Redirect": "https://orourkemediagroup.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://orourkemediagroup.com/"
-    },
-    {
         "link": "https://atlaspro-8k.com",
         "Heading": "Atlas Pro ONTV - Abonnement IPTV 12 Mois Officiel 2026",
         "Abstract": "Atlas Pro ONTV abonnement IPTV 12 mois. Activation rapide, milliers de cha\u00eenes HD/4K et VOD illimit\u00e9. Service fiable et offre mise \u00e0 jour 2026.",
@@ -198,16 +198,6 @@
         "Redirect": "https://www.deltaprogramma.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.deltaprogramma.nl"
-    },
-    {
-        "link": "https://adfstichting.nl",
-        "Heading": "ADFstichting - De Angst, dwang en fobie stichting - Wij zijn er voor jou",
-        "Abstract": "De pati\u00ebnten- en familieorganisatie voor iedereen die te maken heeft met angst- en dwangklachten. Pati\u00ebnten, hun naasten en professionals.",
-        "Official Site": "https://adfstichting.nl/home-concept/",
-        "Icon": "https://adfstichting.nl/wp-content/uploads/2022/10/sitelogo-adf-nhs-combi-logo.png",
-        "Redirect": "https://adfstichting.nl/home-concept/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://adfstichting.nl/home-concept/"
     },
     {
         "link": "https://personaltecnologia.com",
@@ -281,7 +271,7 @@
     },
     {
         "link": "https://ainsinet.fr",
-        "Heading": "Lapel Badges, Acoustic, Island Lights, Martin - AINSINET.FR",
+        "Heading": "Lapel Badges, Other Instruments, Island Lights, Martin - AINSINET.FR",
         "Abstract": null,
         "Official Site": "https://ainsinet.fr",
         "Icon": "https://ainsinet.fr/wp-content/uploads/2024/12/cropped-Artboard-454-32x32.png",

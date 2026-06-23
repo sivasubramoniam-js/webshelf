@@ -61,10 +61,10 @@
     },
     {
         "link": "https://yellostrom.de",
-        "Heading": "Yello \u2013 Strom und mehr gute Energie f\u00fcr zuhause",
+        "Heading": "Yello \u2013 Strom und mehr gute Energie f\u00fcr zuhause | Yello",
         "Abstract": "Dein Stromanbieter, der Energie einfach macht! Yello. Ob \u00d6kostrom, W\u00e4rme oder smarte Tarife \u2705 Faire Preise \u2705 Online per App.",
         "Official Site": "https://www.yello.de/",
-        "Icon": "https://images.ctfassets.net/yyl3o3jbu4gu/2lCwkH79by0bOhyn63e5kP/38e89367f1bf8cefc3f0ddca21428cb5/og-Yello-Logo.png?w=1200&h=630&fit=pad&bg=rgb:ffffff",
+        "Icon": "N/A",
         "Redirect": "https://www.yello.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.yello.de/"
@@ -80,6 +80,16 @@
         "AbstractURL": "https://qromahost.com"
     },
     {
+        "link": "https://fichet-pointfort.com",
+        "Heading": "Site officiel | POINT FORT FICHET",
+        "Abstract": "Point Fort Fichet est le r\u00e9seau r\u00e9f\u00e9rence de la protection de votre domicile, porte blind\u00e9e A2P, s\u00e9curit\u00e9 de la maison et de l'appartement, serrure haute s\u00e9curit\u00e9. Nous prot\u00e9geons ce que vous avez de plus cher ! ",
+        "Official Site": "https://www.fichet-pointfort.com/fr/fr",
+        "Icon": "https://gw-assets.assaabloy.com/is/image/assaabloy/BANNIERE%20HOME%20PAGE%20FICHET%20-%20CROP",
+        "Redirect": "https://www.fichet-pointfort.com/fr/fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fichet-pointfort.com/fr/fr"
+    },
+    {
         "link": "https://utopiverse.net",
         "Heading": "Utopiverse Network",
         "Abstract": "Join today or Herobrine will haunt you",
@@ -90,6 +100,16 @@
         "AbstractURL": "https://utopiverse.net"
     },
     {
+        "link": "https://fxbull.com",
+        "Heading": "fxbull.com\u00a0-\u00a0This website is for sale!\u00a0-\u00a0fx trading Investing Resources and Information.",
+        "Abstract": "This website is for sale! fxbull.com is your first and best source for information about fx trading Investing. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://fxbull.com",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://fxbull.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fxbull.com"
+    },
+    {
         "link": "https://trattoria-dafranco.com",
         "Heading": "Program - Aksi Demo Mahjong PG Soft Gacor Scatter Hitam Dan Pragmatic Play Demo X1000 Zeus Lengkap",
         "Abstract": "Demo mahjong dan demo zeus menjadi primadona sebagai kesultanan demo gacor x1000 scatter hitam dari masing-masing provider yaitu demo pragmatic play demo pg soft. Daftar aksi akun demo gratis, game terlengkap main sepuasnya tanpa batas.",
@@ -98,16 +118,6 @@
         "Redirect": "https://cise2025.org/program/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cise2025.org/program/"
-    },
-    {
-        "link": "https://terzas.es",
-        "Heading": "\n\t\tO Juan de Terzas, Desarrollo web.\n\t",
-        "Abstract": "Terzas es el lugar f\u00edsico y el sitio web donde reside O Juan D Terzas (Juan Carlos Martinez), Desarrollador de aplicaciones con tecnolog\u00eda web, independiente y distinto. Si quieres manejar a fondo tu sitio con conocimientos profundos sobre programacion y desarrollo web, puedo ayudarte: Sigue libremente mi aula abierta sobre programaci\u00f3n html, css y php",
-        "Official Site": "https://www.terzas.es/index.html",
-        "Icon": "https://www.terzas.es/cannis.jpg",
-        "Redirect": "https://www.terzas.es/index.html",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.terzas.es/index.html"
     },
     {
         "link": "https://starastronomy.org",
@@ -131,7 +141,7 @@
     },
     {
         "link": "https://zafaa.org",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://zafaa.org",
         "Icon": "N/A",

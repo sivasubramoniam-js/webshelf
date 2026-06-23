@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://kunstgrasconcurrent.nl",
+        "Heading": "Kunstgras kopen? Beste kunstgras op voorraad",
+        "Abstract": "Kunstgras kopen en laten leggen? \u2705Groot aanbod kunstgras \u2705 Gratis bezorging binnen 24 uur in heel Nederland \u2705Gratis stalen \u270550.000 m2 kunstgras op voorraad ",
+        "Official Site": "https://kunstgrasconcurrent.nl",
+        "Icon": "https://www.kunstgrasconcurrent.nl/media/favicon/stores/1/favicon.png",
+        "Redirect": "https://kunstgrasconcurrent.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kunstgrasconcurrent.nl"
+    },
+    {
         "link": "https://mckoysnews.com",
         "Heading": "mckoysnews | Home | mckoysnews.com",
         "Abstract": "Stay informed with the latest news, events, and updates from mckoysnews Explore articles on a wide range of topics including current affairs",
@@ -80,16 +90,6 @@
         "AbstractURL": "https://hoshinoresorts.com/ja/brands/kai/"
     },
     {
-        "link": "https://kingdom-theology.id",
-        "Heading": "Home | Kingdom Paradigm Restoration",
-        "Abstract": "Sebuah seri pengajaran yang menyingkapkan kebenaran Firman \u2013 Alkitab bukan dalam perspektive doktrinal namun dalam perspektive perjalanan karya pemulihan TUHAN untuk menghadirkan kembali\npemerintahan Kerajaan Sorga dibumi sekaligus penyatuan sorga dan bumi dalam kekekalan.",
-        "Official Site": "https://kingdom-theology.id",
-        "Icon": "https://kingdom-theology.id/store/1021/Kingdom-Theology.png",
-        "Redirect": "https://kingdom-theology.id",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kingdom-theology.id"
-    },
-    {
         "link": "https://shawl-anderson.org",
         "Heading": "SADC (Shawl-Anderson Dance Center)",
         "Abstract": "Shawl-Anderson Dance Center (SADC) is a Berkeley institution, proudly serving the community since 1958. SADC offers inclusive dance classes for all ages and styles, supports local artists, and serves as a rehearsal and performance space, partnering with community organizations to foster creativity.",
@@ -161,13 +161,13 @@
     },
     {
         "link": "https://canadianrockies.net",
-        "Heading": "Canadian Rockies Vacation Guide | Banff National Park | Canmore Banff Live Web Cams",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.canadianrockies.net/",
-        "Icon": "https://www.canadianrockies.net/wp-content/uploads/2016/04/jasper-banff-lake-louise-calgary-shuttle.jpg",
-        "Redirect": "https://www.canadianrockies.net/",
+        "Official Site": "https://canadianrockies.net",
+        "Icon": "data:;",
+        "Redirect": "https://canadianrockies.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.canadianrockies.net/"
+        "AbstractURL": "https://canadianrockies.net"
     },
     {
         "link": "https://fiona.com",
@@ -208,16 +208,6 @@
         "Redirect": "https://fabkom.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fabkom.com"
-    },
-    {
-        "link": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
-        "Icon": "N/A",
-        "Redirect": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://322ffbbc7c1b312c2f9d942f20422f8d.com"
     },
     {
         "link": "https://oncoins.net",
@@ -288,6 +278,16 @@
         "Redirect": "https://mostplay-bds.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mostplay-bds.com"
+    },
+    {
+        "link": "https://tripleareview.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://tripleareview.com",
+        "Icon": "data:;",
+        "Redirect": "https://tripleareview.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tripleareview.com"
     },
     {
         "link": "https://passerelle.or.jp",

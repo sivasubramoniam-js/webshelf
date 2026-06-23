@@ -70,6 +70,16 @@
         "AbstractURL": "https://horsegloss.com/"
     },
     {
+        "link": "https://oficretefc.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://oficretefc.com",
+        "Icon": "data:;",
+        "Redirect": "https://oficretefc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oficretefc.com"
+    },
+    {
         "link": "https://thephilippinestoday.com",
         "Heading": "The Philippines Today - The Philippines Today, Yesterday, And Tomorrow",
         "Abstract": "The Philippines Today is a Blog that come to grips with issues touching the lives of Filipinos in the Philippines and abroad.",
@@ -108,16 +118,6 @@
         "Redirect": "https://vancouverusa.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vancouverusa.com"
-    },
-    {
-        "link": "https://galerie-photo.com",
-        "Heading": "accueil galerie photo",
-        "Abstract": " Autour d'une galerie photographique en ligne, le site Fran\u00e7ais de la Photographie Haute R\u00e9solution vous pr\u00e9sente l'essentiel des adresses et des techniques permettant de r\u00e9aliser la photographie de tr\u00e8s haute qualit\u00e9.",
-        "Official Site": "https://galerie-photo.com",
-        "Icon": "favicon.ico",
-        "Redirect": "https://galerie-photo.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://galerie-photo.com"
     },
     {
         "link": "https://dvdjournal.com",
@@ -160,16 +160,6 @@
         "AbstractURL": "https://villatraful.com.ar/"
     },
     {
-        "link": "https://ms-uk.org",
-        "Heading": "Home | MS-UK | Supporting your multiple sclerosis journey",
-        "Abstract": "MS-UK is here for anyone affected by multiple sclerosis (MS), improving the understanding of MS and providing support where it is needed most.",
-        "Official Site": "https://ms-uk.org/",
-        "Icon": "https://msuk-1f835.kxcdn.com/wp-content/uploads/2021/06/cropped-favicon-ms-uk.jpg",
-        "Redirect": "https://ms-uk.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ms-uk.org/"
-    },
-    {
         "link": "https://pcwhosting.co.uk",
         "Heading": "Sign in to Hosting Control Panel\n    ",
         "Abstract": null,
@@ -188,16 +178,6 @@
         "Redirect": "https://lozovamachinery.com/ua",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lozovamachinery.com/ua"
-    },
-    {
-        "link": "https://redbullstudiosshop.com",
-        "Heading": "redbullstudiosshop.com",
-        "Abstract": null,
-        "Official Site": "https://redbullstudiosshop.com",
-        "Icon": "N/A",
-        "Redirect": "https://redbullstudiosshop.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://redbullstudiosshop.com"
     },
     {
         "link": "https://turborilla.com",
@@ -228,6 +208,16 @@
         "Redirect": "https://hagh-iserv.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hagh-iserv.de"
+    },
+    {
+        "link": "https://skinchanger.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://skinchanger.net",
+        "Icon": "N/A",
+        "Redirect": "https://skinchanger.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://skinchanger.net"
     },
     {
         "link": "https://theotherpalace.co.uk",
@@ -262,7 +252,7 @@
     {
         "link": "https://oshaoutreachcourses.com",
         "Heading": "OSHA Outreach Courses - Leading OSHA-Authorized Online Training Provider",
-        "Abstract": "OSHA-authorized courses, self-paced learning & DOL card included. Trusted by 2M+ workers. Enroll today. Get OSHA 10 & 30 online training.",
+        "Abstract": "OSHA-authorized courses, self-paced learning & DOL card included. Trusted by 2M+ workers. Get OSHA online training. Enroll today.",
         "Official Site": "https://www.oshaoutreachcourses.com",
         "Icon": "https://res.cloudinary.com/elearning-avenue24/image/upload/q_auto/f_auto/v1776350433/OSHAOutreachCourses_Homepage_ikm20l.webp",
         "Redirect": "https://www.oshaoutreachcourses.com",
@@ -288,16 +278,6 @@
         "Redirect": "https://wekconsulting.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wekconsulting.com"
-    },
-    {
-        "link": "https://legal25.ca",
-        "Heading": "Site is undergoing maintenance",
-        "Abstract": "Site will be available soon. Thank you for your patience!",
-        "Official Site": "https://legal25.ca",
-        "Icon": "https://legal25.ca/wp-content/uploads/2024/08/Asset-1dots-upsdf-1.svg",
-        "Redirect": "https://legal25.ca",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://legal25.ca"
     },
     {
         "link": "https://schwarzesbayern.info",

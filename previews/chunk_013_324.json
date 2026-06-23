@@ -131,10 +131,10 @@
     },
     {
         "link": "https://alpertron.com.ar",
-        "Heading": "Sitio de matem\u00e1ticas y assembler de Dario Alpern",
-        "Abstract": "Incluye un programa 3 en 1 escrito en assembler 80x86 que calcula pi, e, ln 2, una calculadora de numeros complejos (Javascript) y mas...",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://alpertron.com.ar",
-        "Icon": "favicon.ico",
+        "Icon": "data:;",
         "Redirect": "https://alpertron.com.ar",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alpertron.com.ar"
@@ -218,6 +218,16 @@
         "Redirect": "https://upcodeteam.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://upcodeteam.com"
+    },
+    {
+        "link": "https://honeypie.eu",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://honeypie.eu",
+        "Icon": "data:;",
+        "Redirect": "https://honeypie.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://honeypie.eu"
     },
     {
         "link": "https://iklanindo4d2.online",

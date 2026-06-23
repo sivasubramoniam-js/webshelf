@@ -51,13 +51,13 @@
     },
     {
         "link": "https://gaillardcenter.org",
-        "Heading": "Charleston Gaillard Center Homepage - Charleston Gaillard Center",
-        "Abstract": "The Charleston Gaillard Center commissions, produces, and presents ambitious, multidisciplinary cultural programming and provides access to the best local, national, and global artists and companies. Deeply rooted in the community, the Gaillard is committed to elevating local and regional voices and partnering with Charleston institutions to reflect the city\u2019s diversity. Through programming on its public",
-        "Official Site": "https://gaillardcenter.org/",
-        "Icon": "https://gaillardcenter.org/wp-content/uploads/Web-imagesGeneral-questions-1.jpg",
-        "Redirect": "https://gaillardcenter.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://gaillardcenter.org",
+        "Icon": "data:;",
+        "Redirect": "https://gaillardcenter.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gaillardcenter.org/"
+        "AbstractURL": "https://gaillardcenter.org"
     },
     {
         "link": "https://memetherapy.io",
@@ -90,24 +90,14 @@
         "AbstractURL": "https://atribecalledquest.com/"
     },
     {
-        "link": "https://skullgirlz.wiki",
-        "Heading": "Welcome to the Skullgirls Wiki Folks - The Skullgirls Wiki",
-        "Abstract": null,
-        "Official Site": "https://skullgirlz.wiki",
-        "Icon": "/resources/favicon.ico",
-        "Redirect": "https://skullgirlz.wiki",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://skullgirlz.wiki"
-    },
-    {
         "link": "https://bestmotori.it",
-        "Heading": "BestMotori.it - News, Test Drive e molto altro, a cura di Bruno Allevi",
-        "Abstract": "News, Test Drive e molto altro, a cura di Bruno Allevi",
-        "Official Site": "https://bestmotori.it/",
-        "Icon": "https://bestmotori.it/wp-content/uploads/2017/03/logo-homepage-bestmotori-01-2.png",
-        "Redirect": "https://bestmotori.it/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bestmotori.it",
+        "Icon": "data:;",
+        "Redirect": "https://bestmotori.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bestmotori.it/"
+        "AbstractURL": "https://bestmotori.it"
     },
     {
         "link": "https://mdeng.ru",
@@ -138,16 +128,6 @@
         "Redirect": "https://thebutlercollegian.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thebutlercollegian.com/"
-    },
-    {
-        "link": "https://coffeeacademy.com.my",
-        "Heading": "Coffee Academy for Barista Courses in Malaysia \u2013 The Wave Academy",
-        "Abstract": "Fuel your passion for coffee and embark on a journey to mastery! Join our Coffee Training Academy today and elevate your skills to new heights. Unleash the barista within \u2013 sign up now and brew the future you crave! Contact your perfect coffee school now!",
-        "Official Site": "https://coffeeacademy.com.my/",
-        "Icon": "https://s.w.org/images/core/emoji/17.0.2/svg/1f44c.svg",
-        "Redirect": "https://coffeeacademy.com.my/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://coffeeacademy.com.my/"
     },
     {
         "link": "https://schmidthaus.com",
@@ -250,6 +230,16 @@
         "AbstractURL": "https://nthosting.net"
     },
     {
+        "link": "https://almusallh.ly",
+        "Heading": "Al-musallh magazine - Home",
+        "Abstract": "Al-musallh magazine is a monthly magazine specialized in defence and strategic affairs. It is issued by the Libyan National Army.",
+        "Official Site": "https://almusallh.ly",
+        "Icon": "/templates/purity_iii/favicon.ico",
+        "Redirect": "https://almusallh.ly",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://almusallh.ly"
+    },
+    {
         "link": "https://dailychive.com",
         "Heading": "Daily Chive | Financially Grow and Thrive",
         "Abstract": null,
@@ -298,16 +288,6 @@
         "Redirect": "https://towelhub.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://towelhub.com"
-    },
-    {
-        "link": "https://gpp-osijek.com",
-        "Heading": "Gradski prijevoz putnika d.o.o. Osijek - To\u010dnost - Sigurnost - Pouzdanost",
-        "Abstract": "Prijevoz putnika od davne 1884. godine odvija na dvije tramvajske linije, te osam autobusnih linija koje povezuju cijeli grad i predgra\u0111a.",
-        "Official Site": "https://web.gpp-osijek.com/",
-        "Icon": "https://web.gpp-osijek.com/wp-content/uploads/2020/07/gpp-logo-hi.png",
-        "Redirect": "https://web.gpp-osijek.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://web.gpp-osijek.com/"
     },
     {
         "link": "https://adapteva.com",

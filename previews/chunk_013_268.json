@@ -90,16 +90,6 @@
         "AbstractURL": "https://www.ourladypeace.com"
     },
     {
-        "link": "https://ja-okinawa.or.jp",
-        "Heading": "\n\t\t\uff2a\uff21\u304a\u304d\u306a\u308f \uff5e\u3042\u306a\u305f\u306e\u66ae\u3089\u3057\u4e38\u3054\u3068\u5fdc\u63f4\uff01\uff5e\t",
-        "Abstract": "\uff2a\uff21\u304a\u304d\u306a\u308f\u306e\u516c\u5f0f\u30db\u30fc\u30e0\u30da\u30fc\u30b8\u3067\u3059\u3002\u6c96\u7e04\u770c\u5358\u4e00\u306e\uff2a\uff21\u3068\u3057\u3066\u3001\u307b\u3068\u3093\u3069\u306e\u96e2\u5cf6\u306b\u652f\u5e97\u30fb\u51fa\u5f35\u6240\u7b49\u304c\u3042\u308a\u307e\u3059\u3002\u5f53\u30b5\u30a4\u30c8\u3067\u306f\u3001\u76f4\u58f2\u6240\u3001\u7279\u7523\u54c1\u3001\u751f\u7523\u8005\u3001\uff2a\uff21\u306e\u6d3b\u52d5\u30fb\u4e8b\u696d\u306b\u3064\u3044\u3066\u7d39\u4ecb\u3057\u3066\u3044\u307e\u3059\u3002\uff2a\uff21\u304a\u304d\u306a\u308f\u306f\u3001\u3042\u306a\u305f\u306e\u66ae\u3089\u3057\u3092\u4e38\u3054\u3068\u5fdc\u63f4\u3057\u307e\u3059\uff01",
-        "Official Site": "https://ja-okinawa.or.jp",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://ja-okinawa.or.jp",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ja-okinawa.or.jp"
-    },
-    {
         "link": "https://jcsites.com",
         "Heading": "JCSites - Cria\u00e7\u00e3o de Sites, Scripts PHP e Hospedagem Profissional",
         "Abstract": "Cria\u00e7\u00e3o de sites prontos, classificados, marketplace, imobili\u00e1ria virtual, portal de not\u00edcias e loja virtual. Hospedagem est\u00e1vel com suporte t\u00e9cnico.",
@@ -161,13 +151,13 @@
     },
     {
         "link": "https://chooseblocks.com",
-        "Heading": "Crypto Casinos 2026: Top 10 Bitcoin Sites \u2014 Expert Reviews",
-        "Abstract": "Explore 2026\u2019s best online crypto casinos. Experts rank the top Bitcoin & altcoin sites for fast payouts, fair games, big bonuses, & privacy.",
-        "Official Site": "https://www.chooseblocks.com/",
-        "Icon": "https://www.chooseblocks.com/wp-content/uploads/2025/11/32x32.png",
-        "Redirect": "https://www.chooseblocks.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://chooseblocks.com",
+        "Icon": "data:;",
+        "Redirect": "https://chooseblocks.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.chooseblocks.com/"
+        "AbstractURL": "https://chooseblocks.com"
     },
     {
         "link": "https://game-haven.com",
@@ -298,15 +288,5 @@
         "Redirect": "https://adapowerinfra.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://adapowerinfra.com"
-    },
-    {
-        "link": "https://croatiaferries.com",
-        "Heading": "Croatia Ferries",
-        "Abstract": "Croatia ferry schedules and all information about Croatia Ferries, including all Croatia ferry ports, Croatia ferry timetables and schedules, Croatia ferry destinations, maps, locations, news, tips and more",
-        "Official Site": "https://www.croatiaferries.com/",
-        "Icon": "N/A",
-        "Redirect": "https://www.croatiaferries.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.croatiaferries.com/"
     }
 ]

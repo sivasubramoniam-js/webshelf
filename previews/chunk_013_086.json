@@ -10,16 +10,6 @@
         "AbstractURL": "https://godwinprof.com"
     },
     {
-        "link": "https://doughmesstic.com",
-        "Heading": "Home - Doughmesstic",
-        "Abstract": "Susan Moss shares recipes to feed your family and travel experiences to feed your soul. Join the Wanderlings around the world and in the kitchen.",
-        "Official Site": "https://doughmesstic.com/",
-        "Icon": "N/A",
-        "Redirect": "https://doughmesstic.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://doughmesstic.com/"
-    },
-    {
         "link": "https://badadventures.com",
         "Heading": "Kayak Trips & Adventure Vacations | Bad Adventures",
         "Abstract": "Don't settle for a life without adventure! Register for a paddling adventure, backpacking trip, or National Park basecamp hiking vacation with Bad Adventures.",
@@ -128,16 +118,6 @@
         "Redirect": "https://sackitshop.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sackitshop.de/"
-    },
-    {
-        "link": "https://oopsla.org",
-        "Heading": "Index of /",
-        "Abstract": null,
-        "Official Site": "https://oopsla.org",
-        "Icon": "N/A",
-        "Redirect": "https://oopsla.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://oopsla.org"
     },
     {
         "link": "https://safestorz.com",
@@ -270,14 +250,14 @@
         "AbstractURL": "https://getsnapmaids.com/"
     },
     {
-        "link": "https://preseli.net",
-        "Heading": "PRESELI DOT NET - silentcar.com, landspeed.org domain names for sale",
-        "Abstract": null,
-        "Official Site": "https://preseli.net",
-        "Icon": "N/A",
-        "Redirect": "https://preseli.net",
+        "link": "https://ncalculators.com",
+        "Heading": "Online Calculators and Work with Steps",
+        "Abstract": "Free calculators, formulas, step by step procedures, practice problems and real world problems to practice and learn math, finance and engineering calculations includes pre-algebra, algebra, geometry, finance, probability & statistics, digital computation, currency conversion, time tables and more.",
+        "Official Site": "https://ncalculators.com/",
+        "Icon": "https://ncalculators.com/og-images/ncalculators.png",
+        "Redirect": "https://ncalculators.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://preseli.net"
+        "AbstractURL": "https://ncalculators.com/"
     },
     {
         "link": "https://farsinama.com",
@@ -308,5 +288,15 @@
         "Redirect": "https://sanjuanregional.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sanjuanregional.com"
+    },
+    {
+        "link": "https://sustainabilityprofessionals.org",
+        "Heading": "\n    \n    International Society of Sustainability Professionals ISSP Home Page\n  \n  ",
+        "Abstract": "The International Society of Sustainability Professionals is the world\u2019s leading network of sustainability professionals. We work together to provide the community, training, and tools needed to meet goals and create sustainable change. ",
+        "Official Site": "https://www.sustainabilityprofessionals.org/",
+        "Icon": "https://lirp.cdn-website.com/8169dea1/dms3rep/multi/opt/Social+network+images-1920w.png",
+        "Redirect": "https://www.sustainabilityprofessionals.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sustainabilityprofessionals.org/"
     }
 ]

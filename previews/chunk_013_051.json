@@ -21,13 +21,13 @@
     },
     {
         "link": "https://epixsystems.co.uk",
-        "Heading": "MARKUS Job Management Software - EPIX Systems",
-        "Abstract": "Job management software for property, electrical, gas and refrigeration & air-conditioning maintenance companies.",
-        "Official Site": "https://www.epixsystems.co.uk/",
-        "Icon": "https://www.epixsystems.co.uk/wp-content/uploads/2024/08/X-LOGO-Blue.png",
-        "Redirect": "https://www.epixsystems.co.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://epixsystems.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://epixsystems.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.epixsystems.co.uk/"
+        "AbstractURL": "https://epixsystems.co.uk"
     },
     {
         "link": "https://eppflower.com",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://fast-imageserver.com"
     },
     {
+        "link": "https://featurit.com",
+        "Heading": "FeaturIT | SaaS solution to manage your Feature Flags",
+        "Abstract": "Launch new features confidently and track user behavior\u2014all in one platform.Ship Features Faster,Track What Matters",
+        "Official Site": "https://featurit.com/",
+        "Icon": "https://featurit.com/wp-content/uploads/2025/03/Group-197.png",
+        "Redirect": "https://featurit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://featurit.com/"
+    },
+    {
         "link": "https://feestfirma.nl",
         "Heading": "Feestartikelen bestellen - Uw online feestwinkel voor feestversiering!",
         "Abstract": "De leukste feestversiering en feestartikelen koopt u natuurlijk bij de meest complete en voordeligste webshop van Nederland en Belgi\u00eb. Van helium en ballonnen tot de meest stijlvolle en trendy producten voor je huwelijk of een babyshower. ",
@@ -228,16 +238,6 @@
         "Redirect": "https://fengniaojianzhan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fengniaojianzhan.com"
-    },
-    {
-        "link": "https://festartikelhaus.de",
-        "Heading": "Vereinsbedarf, Themendekoration, Aktionswaren, Karnevalsbedarf und Partybedarf f\u00fcr Ihre Veranstaltung ...  | Festartikelhaus.de",
-        "Abstract": "Produkte f\u00fcr Ihre Veranstaltungen, Events, Firmenfeier, Abi-Fete, Disco, Geburtstag, Hochzeit, Direkt vom Importeur Trendartikel, Modeaccessoires, Saisonartikel, Party & Karnevalsartikel, Gastrobedarf, Dekoartikel, LED & Leuchtartikel",
-        "Official Site": "https://festartikelhaus.de",
-        "Icon": "templates/YAML-xtc-1-8-0/favicon.ico",
-        "Redirect": "https://festartikelhaus.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://festartikelhaus.de"
     },
     {
         "link": "https://findnile.com",

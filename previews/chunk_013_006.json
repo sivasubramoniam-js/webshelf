@@ -171,13 +171,13 @@
     },
     {
         "link": "https://terramai.com",
-        "Heading": "TerraMai | Sustainable Wood Solutions Architects & Designers",
-        "Abstract": "Discover TerraMai\u2019s premium wood for architects and designers. Sustainably sourced, expertly crafted, and built to inspire. Explore the possibilities.",
-        "Official Site": "https://www.terramai.com/",
-        "Icon": "https://www.terramai.com/wp-content/uploads/cropped-tm-favicon-32x32.png",
-        "Redirect": "https://www.terramai.com/",
+        "Heading": "Please Wait",
+        "Abstract": "Please wait while we process your request",
+        "Official Site": "https://terramai.com",
+        "Icon": "N/A",
+        "Redirect": "https://terramai.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.terramai.com/"
+        "AbstractURL": "https://terramai.com"
     },
     {
         "link": "https://theribbonretreat.com",
@@ -250,16 +250,6 @@
         "AbstractURL": "https://revistaurbanova.com.br/"
     },
     {
-        "link": "https://procloudhost.com",
-        "Heading": "Reliable cloud web hosting made easy since 2008- ProCloudHost.COM",
-        "Abstract": "Professional cloud web hosting with tier 3 dc, top hardware, 24x7 support, improved security and instant setup. Serving customers since 2008!",
-        "Official Site": "https://www.procloudhost.com/",
-        "Icon": "https://www.procloudhost.com/wp-content/uploads/2024/01/cropped-logo-32x32.png",
-        "Redirect": "https://www.procloudhost.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.procloudhost.com/"
-    },
-    {
         "link": "https://fastcows.nl",
         "Heading": "FastCows",
         "Abstract": "FastCows levert, adviseert en integreert uw automatisering op basis van open source software.",
@@ -291,12 +281,22 @@
     },
     {
         "link": "https://gotahm.it",
-        "Heading": "Gotahm.it - Ads,places,shows,transports one click away!",
+        "Heading": "Gotahm.it - ",
         "Abstract": "Addresses,offices,businesses,professionists,ads,shows,events,transports wthin a range of few hundred meters from your position!Submit your ads too!",
         "Official Site": "https://gotahm.it/?l=eng",
         "Icon": "/included/showThumbsearchwide.aspx?IptFl=/immagini/ico/screenshot.jpg",
         "Redirect": "https://gotahm.it/?l=eng",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gotahm.it/?l=eng"
+    },
+    {
+        "link": "https://volnov.org.ua",
+        "Heading": "Dragon Gold \u2014 \u0412\u0445\u043e\u0434 \u043d\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043a\u0430\u0437\u0438\u043d\u043e",
+        "Abstract": "Dragon Gold \u2014 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0430\u0437\u0438\u043d\u043e \u0441 \u043b\u0438\u0446\u0435\u043d\u0437\u0438\u043e\u043d\u043d\u044b\u043c\u0438 \u0441\u043b\u043e\u0442\u0430\u043c\u0438 \u0438 \u043c\u043e\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0432\u044b\u043f\u043b\u0430\u0442\u0430\u043c\u0438. \u0414\u043e 500 \u0433\u0440\u043d \u0438 150 \u0444\u0440\u0438\u0441\u043f\u0438\u043d\u043e\u0432 \u0431\u0435\u0437 \u0434\u0435\u043f\u043e\u0437\u0438\u0442\u0430. \u0418\u0433\u0440\u0430\u0439 \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0439 \u0441 \u043f\u0435\u0440\u0432\u044b\u0445 \u043c\u0438\u043d\u0443\u0442!",
+        "Official Site": "https://volnov.org.ua/",
+        "Icon": "/images/content/dragongold-glavnaya.webp",
+        "Redirect": "https://volnov.org.ua/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://volnov.org.ua/"
     }
 ]

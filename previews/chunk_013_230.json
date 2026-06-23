@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://y01t3o.cn",
-        "Heading": "\u6a31\u6843\u8bd7\u8bcd\u7f51 - \u5510\u8bd7\u5b8b\u8bcd_\u8bd7\u8bcd\u5927\u5168_\u53e4\u8bd7\u540d\u53e5_\u8bd7\u53e5\u8d4f\u6790",
-        "Abstract": "\u6a31\u6843\u8bd7\u8bcd\u7f51\uff08www.y01t3o.cn\uff09\u4e3a\u4f20\u627f\u4e2d\u534e\u5386\u53f2\u6587\u5316\uff0c\u514d\u8d39\u63d0\u4f9b\u53e4\u8bd7\u5927\u5168\u4e09\u767e\u9996\u3001\u5510\u8bd7\u4e09\u767e\u9996\u548c\u53e4\u8bd7\u8bcd\u5927\u5168\u5b66\u4e60\uff0c\u6a31\u6843\u8bd7\u8bcd\u7f51\u6536\u5f55\u4e86\u6570\u5341\u4e07\u91cf\u7ea7\u7684\u5510\u8bd7\u5b8b\u8bcd\u548c\u5b8b\u8bcd\u7cbe\u9009\uff0c\u52aa\u529b\u6253\u9020\u4e00\u4e2a\u53e4\u8bd7\u8bcd\u7231\u597d\u8005\u5bf9\u53e4\u8bd7\u9274\u8d4f\u53ca\u8d4f\u6790\u7684\u6700\u4f73\u5e73\u53f0\uff1b\u6df1\u539a\u7684\u4e2d\u56fd\u6587\u5316\u5e95\u8574\uff0c\u6a31\u6843\u8bd7\u8bcd\u7f51\u81f4\u529b\u6210\u4e3a\u63d0\u4f9b\u53e4\u8bd7\u8d44\u6599\u6700\u5168\u9762\u7684\u7f51\u7ad9\u3002",
-        "Official Site": "https://y01t3o.cn",
-        "Icon": "http://www.y01t3o.cn/favicon.ico",
-        "Redirect": "https://y01t3o.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://y01t3o.cn"
-    },
-    {
         "link": "https://yourapplicanttracker.co.uk",
         "Heading": "Your Applicant Tracker",
         "Abstract": null,
@@ -150,6 +140,16 @@
         "AbstractURL": "https://tubik.pro"
     },
     {
+        "link": "https://ymgk.com",
+        "Heading": "\u6613\u5356\u5de5\u63a7\u7f51 - \u5de5\u4e1a\u81ea\u52a8\u5316\u8bbe\u5907\u4fe1\u606f\u514d\u8d39\u53d1\u5e03\u7684B2B\u5e73\u53f0\u7f51\u7ad9",
+        "Abstract": "\u6613\u5356\u5de5\u63a7\u7f51\u662f\u4e00\u4e2a\u5de5\u4e1a\u81ea\u52a8\u5316\u8bbe\u5907\u4fe1\u606f\u514d\u8d39\u53d1\u5e03\u7684B2B\u5e73\u53f0\u7f51\u7ad9\uff0c\u4e3a\u60a8\u63d0\u4f9b\u4e30\u5bcc\u7684\u5de5\u63a7\u8d44\u8baf\u548c\u8d44\u6599\u4e0b\u8f7d\uff0c\u540c\u65f6\u4e3a\u4f01\u4e1a\u63d0\u4f9b\u4ea7\u54c1\u7f51\u7edc\u63a8\u5e7f\uff0c\u5e2e\u52a9\u6d88\u8d39\u8005\u91c7\u8d2d\u5230\u7269\u7f8e\u4ef7\u5ec9\u7684\u5de5\u4e1a\u54c1\u3002",
+        "Official Site": "https://ymgk.com",
+        "Icon": "N/A",
+        "Redirect": "https://ymgk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ymgk.com"
+    },
+    {
         "link": "https://historiografija.hr",
         "Heading": "Historiografija.hr \u2013 Portal hrvatske historiografije",
         "Abstract": "Sredi\u0161nji portal hrvatske historiografije \u2013 vijesti o knjigama, \u010dasopisima, skupovima, izlo\u017ebama i aktualnim temama iz doma\u0107e i me\u0111unarodne povijesti.",
@@ -168,6 +168,16 @@
         "Redirect": "https://aboutautomobile.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aboutautomobile.com"
+    },
+    {
+        "link": "https://moteam.co",
+        "Heading": "Movember - Changing the face of men's health.  - Movember",
+        "Abstract": "Unite to take on mental health, suicide, prostate cancer and testicular cancer.",
+        "Official Site": "https://us.movember.com/",
+        "Icon": "/uploads/images/resources/6b78a4a5a9e9fa2477f8f623e13eeaac96153fbd-small.webp",
+        "Redirect": "https://us.movember.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://us.movember.com/"
     },
     {
         "link": "https://digiwerft.de",
@@ -221,13 +231,13 @@
     },
     {
         "link": "https://lus.org",
-        "Heading": "Lafayette Utilities System (LUS)",
-        "Abstract": "At Lafayette Utilities System, we keep life moving with reliable electricity, clean water, wastewater services, and support you can count on.",
-        "Official Site": "https://lus.org/",
-        "Icon": "https://lus.org/wp-content/uploads/2026/03/Linemen-bucket-hero.jpg",
-        "Redirect": "https://lus.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lus.org",
+        "Icon": "data:;",
+        "Redirect": "https://lus.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lus.org/"
+        "AbstractURL": "https://lus.org"
     },
     {
         "link": "https://teletracker.net",
@@ -238,16 +248,6 @@
         "Redirect": "/",
         "AbstractSource": "BS4",
         "AbstractURL": "/"
-    },
-    {
-        "link": "https://kellana5060.org",
-        "Heading": "\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0623\u0645\u064a\u0631 \u0641\u0647\u062f \u0628\u0646 \u0633\u0644\u0645\u0627\u0646 \u0627\u0644\u062e\u064a\u0631\u064a\u0629 \u0644\u0631\u0639\u0627\u064a\u0629 \u0645\u0631\u0636\u0649 \u0627\u0644\u0641\u0634\u0644 \u0627\u0644\u0643\u0644\u0648\u064a \"\u0643\u0644\u0627\u0646\u0627\"",
-        "Abstract": "\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u0623\u0645\u064a\u0631 \u0641\u0647\u062f \u0628\u0646 \u0633\u0644\u0645\u0627\u0646 \u0627\u0644\u062e\u064a\u0631\u064a\u0629 \u0644\u0631\u0639\u0627\u064a\u0629 \u0645\u0631\u0636\u0649 \u0627\u0644\u0641\u0634\u0644 \u0627\u0644\u0643\u0644\u0648\u064a \u062a\u0623\u0633\u0633\u062a \u0628\u0645\u0628\u0627\u062f\u0631\u0629 \u0643\u0631\u064a\u0645\u0629 \u0645\u0646 \u062e\u0627\u062f\u0645 \u0627\u0644\u062d\u0631\u0645\u064a\u0646 \u0627\u0644\u0634\u0631\u064a\u0641\u064a\u0646\n\u0627\u0644\u0645\u0644\u0643 \u0633\u0644\u0645\u0627\u0646 \u0628\u0646 \u0639\u0628\u062f \u0627\u0644\u0639\u0632\u064a\u0632 \u2013 \u062d\u0641\u0638\u0647 \u0627\u0644\u0644\u0647 \u2013 \u0639\u0646\u062f\u0645\u0627 \u0643\u0627\u0646 \u0623\u0645\u064a\u0631 \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0631\u064a\u0627\u0636 \u2013 \u0628\u0639\u062f \u0623\u0646 \u0644\u0627\u062d\u0638 \u0623\u064a\u062f\u0647 \u0627\u0644\u0644\u0647 \u2013 \u0627\u0632\u062f\u064a\u0627\u062f \u0623\u0639\u062f\u0627\u062f \u0645\u0631\u0636\u0649\n\u0627\u0644\u0641\u0634\u0644 \u0627\u0644\u0643\u0644\u0648\u064a \u0627\u0644\u0646\u0647\u0627\u0626\u064a \u0628\u0634\u0643\u0644 \u0645\u0637\u0631\u062f \u062d\u064a\u062b \u0648\u0635\u0644 \u0639\u062f\u062f\u0647\u0645 \u0641\u064a \u0639\u0627\u0645 1424\u0647\u0640 \u0625\u0644\u0649 \u0623\u0643\u062b\u0631 \u0645\u0646 (9,600 \u0645\u0631\u064a\u0636)\u060c \u0628\u064a\u0646\u0645\u0627 \u0643\u0627\u0646 \u0639\u062f\u062f\u0647\u0645\n\u062d\u0633\u0628 \u0625\u062d\u0635\u0627\u0626\u064a\u0629 \u0639\u0627\u0645 1401\u0647\u0640 \u0644\u0627 \u064a\u062a\u062c\u0627\u0648\u0632 (83 \u0645\u0631\u064a\u0636)\u060c \u0641\u0643\u0627\u0646\u062a \u0645\u0628\u0627\u062f\u0631\u062a\u0647 \u0627\u0644\u0643\u0631\u064a\u0645\u0629 \u0628\u0625\u0646\u0634\u0627\u0621 \u062c\u0645\u0639\u064a\u0629 \u062e\u064a\u0631\u064a\u0629 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u062e\u062f\u0645\u0629 \u0645\u0631\u0636\u0649\n\u0627\u0644\u0641\u0634\u0644 \u0627\u0644\u0643\u0644\u0648\u064a \u0648\u0645\u0633\u0627\u0639\u062f\u062a\u0647\u0645 \u0635\u062d\u064a\u0627\u064b \u0648\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0627 \u0648\u0628\u0646\u0627\u0621 \u0639\u0644\u0649 \u0630\u0644\u0643 \u0635\u062f\u0631\u062a \u0645\u0648\u0627\u0641\u0642\u0629 \u0645\u0639\u0627\u0644\u064a \u0648\u0632\u064a\u0631 \u0627\u0644\u0645\u0648\u0627\u0631\u062f \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0648\u0627\u0644\u062a\u0646\u0645\u064a\u0629\n\u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629 \u0631\u0642\u0645 19078 \u0648\u062a\u0627\u0631\u064a\u062e 1421/6/19\u0647\u0640 \u0628\u0625\u0646\u0634\u0627\u0621 \u0627\u0644\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u062e\u064a\u0631\u064a\u0629 \u0644\u0631\u0639\u0627\u064a\u0629 \u0645\u0631\u0636\u0649 \u0627\u0644\u0641\u0634\u0644 \u0627\u0644\u0643\u0644\u0648\u064a \u0648\u0627\u0646\u0639\u0642\u062f \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\n\u0627\u0644\u062a\u0623\u0633\u064a\u0633\u064a \u0644\u0644\u062c\u0645\u0639\u064a\u0629 \u0641\u064a \u064a\u0648\u0645 \u0627\u0644\u0623\u062d\u062f \u0627\u0644\u0645\u0648\u0627\u0641\u0642 1422/3/11\u0647\u0640.",
-        "Official Site": "https://www.kellana5060.org/",
-        "Icon": "https://www.kellana5060.org//rafed/uploads/system/cover.png",
-        "Redirect": "https://www.kellana5060.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kellana5060.org/"
     },
     {
         "link": "https://lpapublishing.biz",

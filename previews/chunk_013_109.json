@@ -51,13 +51,33 @@
     },
     {
         "link": "https://fireaviation.com",
-        "Heading": "Wildfire Today \u2013 Wildfire News and Opinions",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://fireaviation.com",
-        "Icon": "https://wildfiretoday.com/wp-content/uploads/2025/01/WTLogoArtboard-1-copy-1-150x150.png",
+        "Icon": "data:;",
         "Redirect": "https://fireaviation.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fireaviation.com"
+    },
+    {
+        "link": "https://magnepan.com",
+        "Heading": "Magnepan \u2013 magneplanar",
+        "Abstract": "Magnepan is the leader in high value, high quality, flat panel audiophile speakers for stereo and multi-channel use.",
+        "Official Site": "https://magnepan.com/",
+        "Icon": "//magnepan.com/cdn/shop/files/favicon-1_32x32.png?v=1640838088",
+        "Redirect": "https://magnepan.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://magnepan.com/"
+    },
+    {
+        "link": "https://euromotiv.com",
+        "Heading": "EUROMOTIV.COM | European Automotive Parts & Accessories \u2014 Euromotiv",
+        "Abstract": "OEM / Performance / Maintenance / Repair / Aftermarket Replacement Parts and kits for Audi, Volkswagen, Porsche",
+        "Official Site": "https://www.euromotiv.com/",
+        "Icon": "//www.euromotiv.com/cdn/shop/files/euro_1_icon_dfa51828-2456-4223-984e-7583c74e534b_32x32.png?v=1761841979",
+        "Redirect": "https://www.euromotiv.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.euromotiv.com/"
     },
     {
         "link": "https://alexmaccaw.com",
@@ -131,13 +151,13 @@
     },
     {
         "link": "https://ibexshow.com",
-        "Heading": "IBEX Show: Where better boats begin in Tampa, Florida",
-        "Abstract": "Keep connected to the products, technology, people, and training that are advancing the industry. No other event gives you so much access to marine industry development.",
-        "Official Site": "https://www.ibexshow.com/",
-        "Icon": "https://www.ibexshow.com/wp-content/uploads/2024/11/IBEXSlide_Showfloor3rd-1024x492.jpg",
-        "Redirect": "https://www.ibexshow.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ibexshow.com",
+        "Icon": "data:;",
+        "Redirect": "https://ibexshow.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ibexshow.com/"
+        "AbstractURL": "https://ibexshow.com"
     },
     {
         "link": "https://ballyrewards.com",
@@ -172,7 +192,7 @@
     {
         "link": "https://audiogo.com",
         "Heading": "Audio Advertising Made Simple | AudioGo",
-        "Abstract": "Get heard on top audio podcasts and streaming platforms Spotify, Pandora, SiriusXM, iHeartRadio and more. ",
+        "Abstract": "Get heard on top podcasts and streaming platforms like Spotify, Pandora, SiriusXM,  iHeartRadio, and more with easy self-serve audio advertising for small businesses.",
         "Official Site": "https://www.audiogo.com",
         "Icon": "https://www.audiogo.com/hubfs/AudioGo-OG-Tags-img.png",
         "Redirect": "https://www.audiogo.com",
@@ -188,16 +208,6 @@
         "Redirect": "https://www.okkervilriver.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.okkervilriver.com"
-    },
-    {
-        "link": "https://sfindie.com",
-        "Heading": "San Francisco IndieFest   \u2013 San Francisco Film Festivals: SF IndieFest, SF DocFest, SF Shorts, Green Film Festival and Another Hole in the Head. Copyright \u00a9 2024 San Francisco IndieFest. All rights reserved.",
-        "Abstract": null,
-        "Official Site": "https://sfindie.com",
-        "Icon": "https://i0.wp.com/sfindie.com/wp-content/uploads/2019/03/cropped-sfindiefest_id_vertical-copy-1.jpg?fit=32%2C32&ssl=1",
-        "Redirect": "https://sfindie.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sfindie.com"
     },
     {
         "link": "https://grailoftheserpent-forum.com",

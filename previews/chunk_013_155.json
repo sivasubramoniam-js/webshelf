@@ -21,23 +21,13 @@
     },
     {
         "link": "https://med-advisor.ru",
-        "Heading": "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430",
-        "Abstract": null,
-        "Official Site": "https://med-advisor.ru",
-        "Icon": "N/A",
-        "Redirect": "https://med-advisor.ru",
+        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d-\u0436\u0443\u0440\u043d\u0430\u043b \u043e \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \"\u041c\u0435\u0434\u0421\u043e\u0432\u0435\u0442\"",
+        "Abstract": "\u041c\u0435\u0434\u0421\u043e\u0432\u0435\u0442 \u2014 \u043e\u043d\u043b\u0430\u0439\u043d \u0436\u0443\u0440\u043d\u0430\u043b \u043e \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u0435 \u0438 \u0437\u0434\u043e\u0440\u043e\u0432\u043e\u043c \u043e\u0431\u0440\u0430\u0437\u0435 \u0436\u0438\u0437\u043d\u0438 \u0434\u043b\u044f \u043a\u0430\u0436\u0434\u043e\u0433\u043e.",
+        "Official Site": "https://med-advisor.ru/",
+        "Icon": "https://med-advisor.ru/wp-content/uploads/2022/05/1614858353_138-p-fon-meditsinskii-158.jpg",
+        "Redirect": "https://med-advisor.ru/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://med-advisor.ru"
-    },
-    {
-        "link": "https://altusfx.com",
-        "Heading": "Online Forex & CFD Trading Platform | AltusFX MT5 Broker.",
-        "Abstract": "Trade Forex, CFDs & crypto with AltusFX. Zero commissions, tight spreads, and fast MT5 execution. Regulated broker trusted by 100,000+ traders. ",
-        "Official Site": "https://altusfx.com",
-        "Icon": "images/00/Favicon.png",
-        "Redirect": "https://altusfx.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://altusfx.com"
+        "AbstractURL": "https://med-advisor.ru/"
     },
     {
         "link": "https://beautwin.xyz",
@@ -58,16 +48,6 @@
         "Redirect": "https://nextelecom.net.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nextelecom.net.br"
-    },
-    {
-        "link": "https://viewconference.it",
-        "Heading": "VIEW Conference 2026 | October 12-16, 2026 | Torino, Italy | Animation, VFX, Games, Art, Film, AI, VR/AR, XR, MR, 2D, 3D, virtual production, realtime & immersive media",
-        "Abstract": "October 12-16, 2026 | Torino, Italy | Animation, VFX, Games, Art, Film, AI, VR/AR, XR, MR, 2D, 3D, virtual production, realtime & immersive media",
-        "Official Site": "https://viewconference.it",
-        "Icon": "/assets/brand/project-logo.png",
-        "Redirect": "https://viewconference.it",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://viewconference.it"
     },
     {
         "link": "https://sigma7.co.jp",
@@ -91,10 +71,10 @@
     },
     {
         "link": "https://prisoninsight.com",
-        "Heading": "Inmate Lookup | Free Nationwide Inmate Search",
-        "Abstract": "Lookup Inmates who are currently imprisoned in the USA. Get jail details, visitation rules, contact details and driving directions.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://prisoninsight.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://prisoninsight.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://prisoninsight.com"

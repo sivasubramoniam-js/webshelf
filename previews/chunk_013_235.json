@@ -12,7 +12,7 @@
     {
         "link": "https://opklopper.nl",
         "Heading": "Shopify Bureau Nederland | Shopify Plus Agency Amsterdam",
-        "Abstract": "Officieel Shopify Plus Partner bureau Nederland. 6+ jaar ervaring, 250+ cases. Specialist in CRO, B2C, B2B & migraties (Magento/WooCommerce). Vanaf \u20ac10.000.",
+        "Abstract": "Officieel Shopify Plus Partner Nederland. 250+ cases in Fashion, Lifestyle & B2B/Gifting. Specialist in custom UX/UI, CRO en complexe migraties (Magento/Woo).",
         "Official Site": "https://opklopper.nl",
         "Icon": "https://api.opklopper.nl/uploads/opklopper_shopify_bureau_amsterdam_cover_photo_5bd5ac20ae.png",
         "Redirect": "https://opklopper.nl",
@@ -100,26 +100,6 @@
         "AbstractURL": "https://iworry.org/"
     },
     {
-        "link": "https://hodhost.com",
-        "Heading": "HodHost \u2013 Affordable, Fast Web Hosting",
-        "Abstract": null,
-        "Official Site": "https://hodhost.com",
-        "Icon": "https://hodhost.com/wp-content/uploads/2020/07/cropped-favicon-32x32.png",
-        "Redirect": "https://hodhost.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hodhost.com"
-    },
-    {
-        "link": "https://3alienswebhosting.com",
-        "Heading": "Professional Web Hosting - We provide solid web hosting & domain registration services!",
-        "Abstract": "Professional web services for businesses and individuals.",
-        "Official Site": "https://www.3alienswebhosting.com/",
-        "Icon": "https://www.3alienswebhosting.com/images/logo.png",
-        "Redirect": "https://www.3alienswebhosting.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.3alienswebhosting.com/"
-    },
-    {
         "link": "https://ballymaloecookeryschool.ie",
         "Heading": "Ballymaloe Cookery School",
         "Abstract": "Ballymaloe Cookery School based in Cork in southern Ireland. We have been proudly delivering a first-class culinary education to students from all over the world since 1983.",
@@ -148,16 +128,6 @@
         "Redirect": "https://newtouchbuff.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://newtouchbuff.com/"
-    },
-    {
-        "link": "https://boatered.com",
-        "Heading": "Boatered",
-        "Abstract": "A boating forum",
-        "Official Site": "https://boatered.com/",
-        "Icon": "https://boatered.com/data/assets/logo/favicon.png",
-        "Redirect": "https://boatered.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://boatered.com/"
     },
     {
         "link": "https://njfuture.org",
@@ -231,13 +201,13 @@
     },
     {
         "link": "https://fridgerepairsbrisbane.com.au",
-        "Heading": "Fridge Repairs Brisbane - Quality Service by Local Experts",
-        "Abstract": "Fridge Repairs Brisbane services all areas of Brisbane, fixing home fridges with over 20+ years of experience. Just one call away. Call us today! (07) 3905 8885.",
-        "Official Site": "https://www.fridgerepairsbrisbane.com.au/",
-        "Icon": "https://www.fridgerepairsbrisbane.com.au/wp-content/uploads/2022/10/ChatGPT-Image-May-21-2025-06_00_53-AM.png",
-        "Redirect": "https://www.fridgerepairsbrisbane.com.au/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://fridgerepairsbrisbane.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://fridgerepairsbrisbane.com.au",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.fridgerepairsbrisbane.com.au/"
+        "AbstractURL": "https://fridgerepairsbrisbane.com.au"
     },
     {
         "link": "https://developingreturnreplica.com",

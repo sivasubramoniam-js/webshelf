@@ -60,16 +60,6 @@
         "AbstractURL": "https://afs-linden.de"
     },
     {
-        "link": "https://cibap.nl",
-        "Heading": "Cibap | Creatieve vakschool voor vormgeving",
-        "Abstract": "Op zoek naar een creatieve mbo-opleiding? Cibap is d\u00e9 creatieve vakschool in Zwolle. Met opleidingen van filmmaker tot meubelontwerper, interieurstylist etc.",
-        "Official Site": "https://www.cibap.nl/",
-        "Icon": "https://www.cibap.nl/wp-content/uploads/2024/02/Cibap-specialist-schilder-home-foto-2-1024x576.png",
-        "Redirect": "https://www.cibap.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cibap.nl/"
-    },
-    {
         "link": "https://zutterdesign.com",
         "Heading": "Zutter Design:",
         "Abstract": null,
@@ -131,13 +121,13 @@
     },
     {
         "link": "https://sakuraofamerica.com",
-        "Heading": "Home - Sakura of America",
-        "Abstract": "We produce quality art supplies and products with only the best materials so that you are able to express yourself and unlock your unique creative potential.",
-        "Official Site": "https://www.sakuraofamerica.com/",
-        "Icon": "https://www.sakuraofamerica.com/wp-content/uploads/2020/06/Thumbnail-Pens-1.jpg",
-        "Redirect": "https://www.sakuraofamerica.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sakuraofamerica.com",
+        "Icon": "data:;",
+        "Redirect": "https://sakuraofamerica.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sakuraofamerica.com/"
+        "AbstractURL": "https://sakuraofamerica.com"
     },
     {
         "link": "https://article29.cc",
@@ -161,13 +151,13 @@
     },
     {
         "link": "https://up2date.ro",
-        "Heading": "Dezvoltare Software Rom\u00e2nia \u2014 Aplica\u021bii Mobile, Web & AI | UP2DATE SOFTWARE",
-        "Abstract": "Dezvolt\u0103m software enterprise care cre\u0219te v\u00e2nz\u0103rile, reduce costurile \u0219i automatizeaz\u0103 procesele. 16 ani experien\u021b\u0103, echip\u0103 100% din Rom\u00e2nia, certificare ISO 27001.",
-        "Official Site": "https://up2date.ro",
-        "Icon": "https://up2date.ro/img/logo_up2date.png",
-        "Redirect": "https://up2date.ro",
+        "Heading": "UP2DATE Software \u2014 Software Development Enhanced with AI",
+        "Abstract": "UP2DATE Software builds custom software, mobile apps and AI-integrated solutions with senior engineers from Romania \u2014 for teams across the EU and US.",
+        "Official Site": "https://up2date.ro/",
+        "Icon": "https://up2date.ro/og-image.png",
+        "Redirect": "https://up2date.ro/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://up2date.ro"
+        "AbstractURL": "https://up2date.ro/"
     },
     {
         "link": "https://etqan.net",
@@ -328,15 +318,5 @@
         "Redirect": "https://apxforx.pro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://apxforx.pro"
-    },
-    {
-        "link": "https://peacediplomacy.org",
-        "Heading": "Home - The Institute for Peace and Diplomacy - l\u2019Institut pour la paix et la diplomatie",
-        "Abstract": "The Next Phase of the Iran War: Infrastructure as the Battlefield? \u201cSystematically weakening state capacities leads not only to a reduction in existing efficiency, but also to a weakening of the institutions [\u2026]",
-        "Official Site": "https://peacediplomacy.org/",
-        "Icon": "https://peacediplomacy.org/wp-content/uploads/2026/06/President_Donald_Trump_updates_members_of_the_media_on_the_rescue_of_missing_U.S._airmen_in_Iran_P20260406DT-2801.jpg",
-        "Redirect": "https://peacediplomacy.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://peacediplomacy.org/"
     }
 ]

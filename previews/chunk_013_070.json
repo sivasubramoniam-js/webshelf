@@ -10,16 +10,6 @@
         "AbstractURL": "https://wigsalon.com"
     },
     {
-        "link": "https://winedos.com",
-        "Heading": "Home | Winedos Store",
-        "Abstract": "Follow us on our wine journey around the world!",
-        "Official Site": "https://winedos.com/",
-        "Icon": "https://winedos.com/wp-content/uploads/compressed_Austin-Hope-2.webp",
-        "Redirect": "https://winedos.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://winedos.com/"
-    },
-    {
         "link": "https://wingercompanies.com",
         "Heading": "Winger Companies - Cedar Rapids, Fort Dodge, Ottumwa, Burlington - Iowa",
         "Abstract": "Winger Companies proudly serves the Midwest with locations in Cedar Rapids, Ottumwa, Burlington, and Fort Dodge, Iowa. As a full-service mechanical contractor, we specialize in HVAC, piping,  fabrication, plumbing, electrical, sheet metal, millwright, data technology, and general contracting service",
@@ -78,16 +68,6 @@
         "Redirect": "https://www.worldodreams.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.worldodreams.com/"
-    },
-    {
-        "link": "https://writinginnorthnorfolk.com",
-        "Heading": "writing in north norfolk \u2013 Writer of children's literature, short stories and poetry",
-        "Abstract": "Writer of children's literature, short stories and poetry",
-        "Official Site": "https://writinginnorthnorfolk.com/",
-        "Icon": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-        "Redirect": "https://writinginnorthnorfolk.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://writinginnorthnorfolk.com/"
     },
     {
         "link": "https://zeusvision.com.br",
@@ -170,6 +150,16 @@
         "AbstractURL": "https://afaw.cn"
     },
     {
+        "link": "https://seegreatart.art",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://seegreatart.art",
+        "Icon": "data:;",
+        "Redirect": "https://seegreatart.art",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seegreatart.art"
+    },
+    {
         "link": "https://mujin.co.jp",
         "Heading": "\u682a\u5f0f\u4f1a\u793eMujin | \u3059\u3079\u3066\u306e\u4eba\u306b\u7523\u696d\u7528\u30ed\u30dc\u30c3\u30c8\u3092",
         "Abstract": "\u3059\u3079\u3066\u306e\u4eba\u306b\u7523\u696d\u7528\u30ed\u30dc\u30c3\u30c8\u3092",
@@ -178,16 +168,6 @@
         "Redirect": "/",
         "AbstractSource": "BS4",
         "AbstractURL": "/"
-    },
-    {
-        "link": "https://herita.be",
-        "Heading": "Samen zorgen voor historische plekken | Herita",
-        "Abstract": "Beleef onze historische plekken. Samen zorgen we ervoor dat ze blijven bestaan!",
-        "Official Site": "https://herita.be",
-        "Icon": "https://www.herita.be/sites/default/files/styles/social_media_image/public/2022-05/%C2%A9LUCID_Herita_Herkenrode_074_verkleind.jpg?h=ee7f09fc&itok=BtkcPx98",
-        "Redirect": "https://herita.be",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://herita.be"
     },
     {
         "link": "https://datingcritic.org",
@@ -213,11 +193,11 @@
         "link": "https://amarbebsha.com",
         "Heading": "Best Digital Marketing Agency in BD | Consultancy | Hospitality & Food",
         "Abstract": "Expert in digital marketing solutions, experienced in the hospitality & food business, and best consultancy services for local and foreign investors.",
-        "Official Site": "https://amarbebsha.com/",
+        "Official Site": "http://amarbebsha.com/",
         "Icon": "https://www.amarbebsha.com/wp-content/uploads/2021/07/amarbebsha-about-us.jpg",
-        "Redirect": "https://amarbebsha.com/",
+        "Redirect": "http://amarbebsha.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://amarbebsha.com/"
+        "AbstractURL": "http://amarbebsha.com/"
     },
     {
         "link": "https://coinvaultexchange.com",
@@ -228,16 +208,6 @@
         "Redirect": "https://www.hugeDomains.com/domain_profile.cfm?d=CoinVaultExchange.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=CoinVaultExchange.com"
-    },
-    {
-        "link": "https://serrasultelecom.com.br",
-        "Heading": "SERRASUL \u2013 Internet 100% Fibra \u00d3ptica",
-        "Abstract": null,
-        "Official Site": "https://serrasultelecom.com.br",
-        "Icon": "https://serrasultelecom.com.br/wp-content/uploads/2023/07/cropped-serrasul-icon-32x32.png",
-        "Redirect": "https://serrasultelecom.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://serrasultelecom.com.br"
     },
     {
         "link": "https://backstageviral.com",

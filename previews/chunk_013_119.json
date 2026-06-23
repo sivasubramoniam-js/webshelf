@@ -14,7 +14,7 @@
         "Heading": "Telegram: Launch @vGroup24VPN_bot",
         "Abstract": "\ud83d\udd12 \u0411\u044b\u0441\u0442\u0440\u044b\u0439 VPN \u2022 3 \u0434\u043d\u044f \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u2022 99 \u20bd/\u043c\u0435\u0441 \u2022 \u0421\u0435\u0440\u0432\u0435\u0440\u044b \u0432 \u0415\u0432\u0440\u043e\u043f\u0435",
         "Official Site": "https://vgroup24.ru",
-        "Icon": "https://cdn4.telesco.pe/file/qciNLaxMCCFJ39QDOSLKpnDym8mK2s1u_DHy0UAmYCl5LjIF9CJkS83oVJc18lq3XAFMdc-WVNJcvdmkIxq6JztyT-hzBGjABn_e3N-s_PaPNATNZFqZhwwgffphVKflTUv4CTkbkc2wwTq_OjhOvs8evdtgkwYtuXHbTwjUuxQboitMHlD48pq_52lPfvL_w_d-g3-toYA7vQrtTvj8xQ6U84gHePUGPgD4GZGhN0a3xKq97um4vfNTOxWFtCOEDIyoxBGR6DkQMWG_ZVaRLQCQuEmAbq5ZVcThUdDZxwiKzrt4mVF0nkj_Hh5-QKlpKs89XM9OmNOyGN4aPLUyIg.jpg",
+        "Icon": "https://cdn4.telesco.pe/file/Fd3YXhO-kshI1SL5jPYGmWlc83PKgPrPDvh3cWkyuLdtS5SnRgnm088S6py3xURohEOC0RqHBRIUP4IIsOYyWIVRaPTEMCDl6Nsz_1BbaJ-WqVkIB-xBNciff5nHCAcDFXQhNFZyT17Pj3ZsGdGed_cA_9Jgv8qxqdPfM99oAHWsHga3sgfgGYVC8F518hxSYCUl_MIE2Rfrr9tpQf_60wk7XsFkPCUoe_v8k_wZn5K2vWOzYM1Ra0nt4bZwz7MTJ6Nx0f7zePvMUggXScpf9JGYufWfMQuzihldM8VrahL2t_GcsUjfyiA5TO1O2q0S4VJ88-DFQc2DjaShSaU-1A.jpg",
         "Redirect": "https://vgroup24.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vgroup24.ru"
@@ -38,16 +38,6 @@
         "Redirect": "https://crazy-time-italia.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://crazy-time-italia.it"
-    },
-    {
-        "link": "https://arahoster.net",
-        "Heading": "WordPress & Web Hosting Company \u2014 Fast from $1/mo",
-        "Abstract": "AraHoster is a hosting company for WordPress and websites: NVMe SSD, free SSL, cPanel, 99.9% uptime. Linux hosting from $12/yr, VPS from $16.99/mo.",
-        "Official Site": "https://arahoster.com/",
-        "Icon": "https://arahoster.com/og-image.webp",
-        "Redirect": "https://arahoster.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://arahoster.com/"
     },
     {
         "link": "https://thedigitallion.com",
@@ -170,16 +160,6 @@
         "AbstractURL": "https://www.educationsuperhighway.org/"
     },
     {
-        "link": "https://stratumreservoir.com",
-        "Heading": "Stratum Reservoir",
-        "Abstract": null,
-        "Official Site": "https://www.stratumreservoir.com/",
-        "Icon": "https://www.stratumreservoir.com/wp-content/uploads/2022/07/cropped-large_logo-150x150.png",
-        "Redirect": "https://www.stratumreservoir.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.stratumreservoir.com/"
-    },
-    {
         "link": "https://tagoreautoparts.com",
         "Heading": "Tagore AutoParts | Used Engines, Transmissions & Turbos",
         "Abstract": "Tagore AutoParts for top-quality used engines and transmissions. Enjoy unbeatable prices, 24/7 support, and fast shipping. Find your perfect part now!",
@@ -220,16 +200,6 @@
         "AbstractURL": "https://elitefundsfinance-inc.com"
     },
     {
-        "link": "https://tanukisoftware.com",
-        "Heading": "Tanuki Software Ltd. - Top Page",
-        "Abstract": null,
-        "Official Site": "https://tanukisoftware.com",
-        "Icon": "../favicon.ico",
-        "Redirect": "https://tanukisoftware.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tanukisoftware.com"
-    },
-    {
         "link": "https://mauritius.net",
         "Heading": "Mauritius Welcomes You: The Official Site for Mauritius",
         "Abstract": "Mauritius Welcomes You - The Official Site for Mauritius",
@@ -248,16 +218,6 @@
         "Redirect": "https://jiaheu.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jiaheu.com"
-    },
-    {
-        "link": "https://freedmensbureau.com",
-        "Heading": "The Freedmen's Bureau Online",
-        "Abstract": null,
-        "Official Site": "https://freedmensbureau.com",
-        "Icon": "/themes/analytic/favicon.ico",
-        "Redirect": "https://freedmensbureau.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://freedmensbureau.com"
     },
     {
         "link": "https://admiralx-us.xyz",
@@ -301,7 +261,7 @@
     },
     {
         "link": "https://mepirtedic.com",
-        "Heading": "Mepirtedic Report \u2014 Semalt News",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://mepirtedic.com",
         "Icon": "N/A",

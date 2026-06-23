@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.v1corp.com/"
     },
     {
-        "link": "https://cortinasalcoba.com",
-        "Heading": "Cortinas Alcoba \u2013 Cortinas Alcoba",
-        "Abstract": null,
-        "Official Site": "https://cortinasalcoba.com",
-        "Icon": "https://www.cortinasalcoba.com/wp-content/uploads/2023/09/cropped-favicon-cortinas-alcoba_-32x32.png",
-        "Redirect": "https://cortinasalcoba.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cortinasalcoba.com"
-    },
-    {
         "link": "https://757pages.com",
         "Heading": "757pages - FREE Classifieds, Businesses, Jobs, Events & More",
         "Abstract": "757pages - FREE Classifieds, Businesses, Jobs, Events & More",
@@ -90,6 +80,16 @@
         "AbstractURL": "https://www.mac-history.net/"
     },
     {
+        "link": "https://kingdomlivingministries.us",
+        "Heading": "Kingdom Living Ministries",
+        "Abstract": null,
+        "Official Site": "https://kingdomlivingministries.us",
+        "Icon": "https://kingdomlivingministries.us/wp-content/uploads/2023/08/cropped-FF-01-32x32.png",
+        "Redirect": "https://kingdomlivingministries.us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kingdomlivingministries.us"
+    },
+    {
         "link": "https://russian-bospor.ru",
         "Heading": "\u0411\u043e\u043d\u0443\u0441\u044b \u0431\u0435\u0437 \u0434\u0435\u043f\u043e\u0437\u0438\u0442\u0430 \u043a\u0430\u0437\u0438\u043d\u043e \u0437\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044e \u0441 \u0432\u044b\u0432\u043e\u0434\u043e\u043c",
         "Abstract": "\u041d\u0430 \u0441\u0430\u0439\u0442\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u044b \u0431\u043e\u043d\u0443\u0441\u044b \u0431\u0435\u0437 \u0434\u0435\u043f\u043e\u0437\u0438\u0442\u0430, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u0440\u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0432 \u043a\u0430\u0437\u0438\u043d\u043e.",
@@ -138,6 +138,16 @@
         "Redirect": "https://rapidsoftsolutions.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rapidsoftsolutions.com/"
+    },
+    {
+        "link": "https://healthcareinsider.com",
+        "Heading": "Expert Healthcare News, Medical Insurance Plan Guides & Reviews by HealthCareInsider.com",
+        "Abstract": "Learn how health insurance works, compare coverage options, and find plans that fit your needs. Healthcare Insider offers expert guides on ACA, Medicare, Medicaid, costs, and health insurance coverage.",
+        "Official Site": "https://healthcareinsider.com/",
+        "Icon": "https://healthcareinsider.com/wp-content/uploads/2025/01/Medicare-Resources-from-Insurance-Experts-a-Healthcare.com-Platform-4.png",
+        "Redirect": "https://healthcareinsider.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://healthcareinsider.com/"
     },
     {
         "link": "https://thebigbang.org.uk",

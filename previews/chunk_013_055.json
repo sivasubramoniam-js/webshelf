@@ -120,16 +120,6 @@
         "AbstractURL": "https://www.koen.com/"
     },
     {
-        "link": "https://korkuteliotokurtarma.com.tr",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://korkuteliotokurtarma.com.tr",
-        "Icon": "N/A",
-        "Redirect": "https://korkuteliotokurtarma.com.tr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://korkuteliotokurtarma.com.tr"
-    },
-    {
         "link": "https://kpbookonline.com",
         "Heading": "Free Books to Read Online - KPBookOnline",
         "Abstract": "KPBookOnline offers users to read or listen complete novels/books online for free. Genres include Romance, Billionaire Romance, Fantasy, Horror, Thriller and more",
@@ -188,6 +178,16 @@
         "Redirect": "https://www.lakelandengineering.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lakelandengineering.com/"
+    },
+    {
+        "link": "https://lamourlife.com",
+        "Heading": "Your Destination for Premium Beauty & Lifestyle Products \u2013 LAMOUR Beauty & Life",
+        "Abstract": "Discover the best products from Korea, Japan and China. Shop top skincare, makeup, and wellness products. Enjoy exclusive offers and fast shipping on all orders!",
+        "Official Site": "https://www.lamourlife.com/",
+        "Icon": "http://www.lamourlife.com/cdn/shop/files/Group_20.png?v=1692654964",
+        "Redirect": "https://www.lamourlife.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lamourlife.com/"
     },
     {
         "link": "https://lateknightbooks.com",
@@ -278,15 +278,5 @@
         "Redirect": "https://libreriamarini.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://libreriamarini.it"
-    },
-    {
-        "link": "https://librerieitaliane.it",
-        "Heading": "Librerie Italiane | LibrerieItaliane.it - Libri Scolastici usati, Libri scolastici online, libri scolastici nuovi scontati, valutazione libri usati",
-        "Abstract": "Benvenuti su LibrerieItaliane.it, leader nel mercato dei libri scolastici nuovi e usati. Siamo specializzati nell'acquisto immediato in contanti dei tuoi libri scolastici usati e offriamo una vasta gamma di libri nuovi scontati. Trova dizionari con sconti fino al 50% e prodotti di cartoleria, dai marchi low cost ai design pi\u00f9 esclusivi.",
-        "Official Site": "https://librerieitaliane.it",
-        "Icon": "https://librerieitaliane.it/public/uploads/all/gxnmbFTNWinh7ATaYzOvuDj3cpXJndospi8ZxJGG.svg",
-        "Redirect": "https://librerieitaliane.it",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://librerieitaliane.it"
     }
 ]
