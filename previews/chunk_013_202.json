@@ -10,6 +10,16 @@
         "AbstractURL": "https://kforum.dk"
     },
     {
+        "link": "https://stie-wikara.ac.id",
+        "Heading": "STIE Wikara - Sekolah Tinggi Ilmu Ekonomi Terbaik di Purwakarta",
+        "Abstract": "STIE Purwakarta adalah Sekolah Tinggi Ilmu Ekonomi di Purwakarta yang unggul dalam pendidikan bisnis & manajemen. Daftar sekarang!",
+        "Official Site": "https://stie-wikara.ac.id/",
+        "Icon": "https://stie-wikara.ac.id/wp-content/uploads/2025/03/logo_stie_wikara_webp.webp",
+        "Redirect": "https://stie-wikara.ac.id/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stie-wikara.ac.id/"
+    },
+    {
         "link": "https://ikkudoichi.com",
         "Heading": "Ikkudo Ichi: Restoran Ramen Dengan Cita Rasa Khas Jepang di Kota Jakarta",
         "Abstract": "Ikkudo Ichi adalah restoran ramen khas Jepang yang menghadirkan cita rasa ramen Jepang yang otentik dan memanjakan lidah. Suasana restorannya yang nyaman serta komitmen pada kualitas menjadikan Ikkudo Ichi tempat yang tepat untuk menikmati semangkuk ramen di kota Jakarta.",
@@ -200,16 +210,6 @@
         "AbstractURL": "https://musee-prehistoire-eyzies.fr"
     },
     {
-        "link": "https://gym-oppenheim.de",
-        "Heading": "Gymnasium zu St. Katharinen Oppenheim - Unsere Schule \u2013 unser Selbstverst\u00e4ndnis",
-        "Abstract": "Gymnasium zu St. Katharinen in Oppenheim \u2013 Ein vielf\u00e4ltiges Angebot aus musischen, sprachlichen und naturwissenschaftlichen Bereichen.",
-        "Official Site": "https://gym-oppenheim.de/",
-        "Icon": "https://gym-oppenheim.de/wp-content/uploads/2019/10/aufmacher-gym_oppenheim.jpg",
-        "Redirect": "https://gym-oppenheim.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gym-oppenheim.de/"
-    },
-    {
         "link": "https://infiniteplanners.com.mx",
         "Heading": "Infinite Planners \u2013 Soluciones a tu medida para todo tipo de proyecto.",
         "Abstract": null,
@@ -218,6 +218,16 @@
         "Redirect": "https://infiniteplanners.com.mx",
         "AbstractSource": "BS4",
         "AbstractURL": "https://infiniteplanners.com.mx"
+    },
+    {
+        "link": "https://soperth.com.au",
+        "Heading": "So Perth | Making Your Perth Day Better",
+        "Abstract": "What's on in Perth \u2014 So Perth provides the latest Perth news & things to do, see, eat & drink in Perth. Join Perth's most engaged community.",
+        "Official Site": "https://soperth.com.au",
+        "Icon": "https://soperth.com.au/wp-content/uploads/2024/09/The-Best-of-Perth-and-WA.jpg",
+        "Redirect": "https://soperth.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soperth.com.au"
     },
     {
         "link": "https://diveindustry.ru",
@@ -240,6 +250,16 @@
         "AbstractURL": "https://gillieandmarc.com/"
     },
     {
+        "link": "https://tag-ad.com",
+        "Heading": "Tag Marketing Agency | Small to Midsized B2B & B2C",
+        "Abstract": "Tag Marketing Agency is the best local marketing company to partner with based on ROI if you're a small to midsize B2B or B2C near Chicago.",
+        "Official Site": "https://www.tag-ad.com/",
+        "Icon": "https://www.tag-ad.com/wp-content/uploads/2023/03/marketing-pain-points.jpg",
+        "Redirect": "https://www.tag-ad.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tag-ad.com/"
+    },
+    {
         "link": "https://anodera.com",
         "Heading": "Anodera.com | Technology Solutions",
         "Abstract": null,
@@ -248,6 +268,16 @@
         "Redirect": "https://anodera.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://anodera.com"
+    },
+    {
+        "link": "https://tsoavic.com.au",
+        "Heading": "Home | Triumph Sports Owners Association Victoria",
+        "Abstract": "Triumph Sports Owners Association Vic Inc. A club for all Triumph enthusiasts.",
+        "Official Site": "https://tsoavic.com.au/",
+        "Icon": "https://tsoavic.com.au/wp-content/uploads/2019/10/TSOA-logo-med-1.png",
+        "Redirect": "https://tsoavic.com.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tsoavic.com.au/"
     },
     {
         "link": "https://banquestgateway.com",
@@ -268,15 +298,5 @@
         "Redirect": "https://tattoos.gallery",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tattoos.gallery"
-    },
-    {
-        "link": "https://cooperativeindividualism.org",
-        "Heading": "The School of Cooperative Individualism",
-        "Abstract": null,
-        "Official Site": "https://hotels-grancanaria.com/",
-        "Icon": "https://hotels-grancanaria.com/favicon.ico",
-        "Redirect": "https://hotels-grancanaria.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hotels-grancanaria.com/"
     }
 ]

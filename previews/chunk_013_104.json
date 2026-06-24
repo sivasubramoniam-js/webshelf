@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.similacrecall.com/us/en/home.html"
     },
     {
-        "link": "https://wert14.de",
-        "Heading": "SkenData | Geb\u00e4udedaten f\u00fcr Versicherungen & Finanzinstitute",
-        "Abstract": "Pr\u00e4zise Geb\u00e4udedaten, Klimarisikoanalyse & energetische Bewertung f\u00fcr Banken, Versicherungen & Finanzdienstleister \u2013 datenbasiert & zuverl\u00e4ssig.",
-        "Official Site": "https://skendata.com/",
-        "Icon": "https://skendata.com/wp-content/uploads/SEO-Image-1-1200x630-1.webp",
-        "Redirect": "https://skendata.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://skendata.com/"
-    },
-    {
         "link": "https://ldcarriers.co.nz",
         "Heading": "LD Carriers | Specialist Movers Auckland",
         "Abstract": null,
@@ -71,13 +61,23 @@
     },
     {
         "link": "https://ourkidthings.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ourkidthings.com",
-        "Icon": "data:;",
-        "Redirect": "https://ourkidthings.com",
+        "Heading": "Our Kid Things | Easy Crafts for Kids",
+        "Abstract": "Welcome to Our Kid Things! We're excited to share with you all of our tried and true easy crafts for kids of all ages",
+        "Official Site": "https://www.ourkidthings.com/",
+        "Icon": "https://www.ourkidthings.com/wp-content/uploads/2023/03/favicon.png",
+        "Redirect": "https://www.ourkidthings.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ourkidthings.com"
+        "AbstractURL": "https://www.ourkidthings.com/"
+    },
+    {
+        "link": "https://idinamenzel.com",
+        "Heading": "IDINA MENZEL | Official Site",
+        "Abstract": "The official website of Idina Menzel, the voice of Elsa in Disney's FROZEN and Tony Award-winning star of WICKED.",
+        "Official Site": "https://idinamenzel.com",
+        "Icon": "https://idinamenzel.com/wp-content/uploads/2023/04/socialshare_Facebook.jpg",
+        "Redirect": "https://idinamenzel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://idinamenzel.com"
     },
     {
         "link": "https://primelineenergy.com",
@@ -94,7 +94,7 @@
         "Heading": "Majorsmoker.com : Boutique en ligne accessoires pour fumeurs. Feuille Slim, Poppers, Filtre Pastique",
         "Abstract": "Tout l'univers d'un bureau tabac : articles fumeur avec des prix bas et une livraison rapide et discr\u00e8te : Feuille \u00e0 rouler OCB, Niko Stop et Tube Cigarette",
         "Official Site": "https://majorsmoker.com/",
-        "Icon": "https://majorsmoker.com/wp-content/uploads/2023/10/feuilles.jpg",
+        "Icon": "https://majorsmoker.com/wp-content/uploads/2023/10/PODS-NOIR.jpg",
         "Redirect": "https://majorsmoker.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://majorsmoker.com/"
@@ -140,6 +140,16 @@
         "AbstractURL": "https://devotepvit.xyz"
     },
     {
+        "link": "https://theprimelimited.com",
+        "Heading": "The Prime Limited",
+        "Abstract": null,
+        "Official Site": "https://theprimelimited.com",
+        "Icon": "images/logo1.png",
+        "Redirect": "https://theprimelimited.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://theprimelimited.com"
+    },
+    {
         "link": "https://budenbergschule.de",
         "Heading": "\n                    IServ - budenbergschule.de\n            ",
         "Abstract": null,
@@ -158,16 +168,6 @@
         "Redirect": "https://www.r-statistics.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.r-statistics.com/"
-    },
-    {
-        "link": "https://bogotafc.com.co",
-        "Heading": "FB88 \ud83c\udf96\ufe0f Trang ch\u1ee7 nh\u00e0 c\u00e1i th\u1ec3 thao uy t\u00edn fb88.com T\u1eb7ng 88k",
-        "Abstract": "FB88 c\u00f3 th\u1ec3 n\u00f3i l\u00e0 m\u1ed9t trong c\u00e1c nh\u00e0 c\u00e1i th\u1ec3 thao n\u1ed5i ti\u1ebfng h\u00e0ng \u0111\u1ea7u t\u1ea1i Ch\u00e2u \u00c1. T\u1ea1i \u0111\u00e2y, b\u1ea1n s\u1ebd b\u1ecb b\u1ea5t ng\u1edd b\u1edfi t\u1ef7 l\u1ec7 c\u01b0\u1ee3c t\u1ed1t, d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 t\u1eadn t\u00ecnh",
-        "Official Site": "https://bracc.io/vi-vn/",
-        "Icon": "https://bracc.io/wp-content/uploads/2024/11/thumb-fb88.webp",
-        "Redirect": "https://bracc.io/vi-vn/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bracc.io/vi-vn/"
     },
     {
         "link": "https://schaper-software.de",
@@ -220,14 +220,14 @@
         "AbstractURL": "https://popstocksenergy.com"
     },
     {
-        "link": "https://educationaltoys.pk",
-        "Heading": "Pakistan's # 1 Educational Toys Store - Buy Learning Materials Online",
-        "Abstract": "Buy Award winning educational toys in Pakistan online. Wide range of learning materials. Flash cards, puzzles, cloth books, STEM, blocks and wooden toys etc.",
-        "Official Site": "https://www.educationaltoys.pk/",
-        "Icon": "https://www.educationaltoys.pk/wp-content/uploads/2020/07/facebook-thumbnail-1.jpg",
-        "Redirect": "https://www.educationaltoys.pk/",
+        "link": "https://majestique.ma",
+        "Heading": "Creation Site Internet Marrakech | SEO, R\u00e9f\u00e9rencement Naturel & Webmarketing au Maroc",
+        "Abstract": "Cr\u00e9ez un site professionnel avec des designs 100% compatibles smartphones et tablettes tactiles \u00e0 moins de prix.",
+        "Official Site": "https://www.majestique.info/",
+        "Icon": "https://www.majestique.info/images/majestique-avatar.png",
+        "Redirect": "https://www.majestique.info/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.educationaltoys.pk/"
+        "AbstractURL": "https://www.majestique.info/"
     },
     {
         "link": "https://51jichuang.com",

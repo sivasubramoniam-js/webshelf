@@ -130,16 +130,6 @@
         "AbstractURL": "https://womanrock.com/"
     },
     {
-        "link": "https://lodgingowners.com",
-        "Heading": "Lodging Business Owners Directory - Find Lodging Business Owners - LodgingOwners.com",
-        "Abstract": "Search the most complete lodging business owners database. Find Lodging Business Owners.",
-        "Official Site": "https://www.lodgingowners.com",
-        "Icon": "https://www.lodgingowners.com/images/fb_banner_lodge_owners.png",
-        "Redirect": "https://www.lodgingowners.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lodgingowners.com"
-    },
-    {
         "link": "https://jevons1.com",
         "Heading": "\u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e, \u0440\u0435\u043c\u043e\u043d\u0442, \u0434\u0438\u0437\u0430\u0439\u043d - jevons1.com",
         "Abstract": null,
@@ -180,6 +170,16 @@
         "AbstractURL": "https://canada-blogs.com"
     },
     {
+        "link": "https://centroniemeyer.es",
+        "Heading": "Portada - Centro Niemeyer",
+        "Abstract": "El Centro Niemeyer una puerta abierta a todas las artes y manifestaciones culturales: m\u00fasica, cine, teatro, danza, exposiciones...",
+        "Official Site": "https://www.centroniemeyer.es/",
+        "Icon": "https://www.centroniemeyer.es/wp-content/themes/niemeyer/favicon/android-icon-192x192.png",
+        "Redirect": "https://www.centroniemeyer.es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.centroniemeyer.es/"
+    },
+    {
         "link": "https://ultrafabricsinc.com",
         "Heading": "Premium Polyurethane Fabrics | Sustainable Upholstery - Ultrafabrics",
         "Abstract": "Providing the perfect blend of comfort, luxury and sustainability, our premium fabrics are designed to push the boundaries of form and function. Explore our selection here. ",
@@ -188,6 +188,16 @@
         "Redirect": "https://www.ultrafabricsinc.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ultrafabricsinc.com/"
+    },
+    {
+        "link": "https://latw.org",
+        "Heading": "L.A. Theatre Works | LATW",
+        "Abstract": null,
+        "Official Site": "https://latw.org",
+        "Icon": "/sites/default/files/LATW_favicon.png",
+        "Redirect": "https://latw.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://latw.org"
     },
     {
         "link": "https://cartfunnels.io",
@@ -218,6 +228,26 @@
         "Redirect": "https://vincke-rs.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vincke-rs.de"
+    },
+    {
+        "link": "https://backofficepro.com",
+        "Heading": "Multi-Industry Outsourcing, AI Automation & Managed Services",
+        "Abstract": "Backoffice Pro provides multi-industry outsourcing and automation services across finance, data management, legal, IT, and insurance with structured delivery models.",
+        "Official Site": "https://backofficepro.com",
+        "Icon": "/assets/images/backofficepro-logo.png",
+        "Redirect": "https://backofficepro.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://backofficepro.com"
+    },
+    {
+        "link": "https://ssarherps.org",
+        "Heading": "Society for the Study of Amphibians and Reptiles \u2013 Research, Conservation, Education",
+        "Abstract": "Research, Conservation, Education",
+        "Official Site": "https://ssarherps.org/",
+        "Icon": "https://i0.wp.com/ssarherps.org/wp-content/uploads/2024/02/cropped-ssarlogo-e1758200504824.jpg?fit=512%2C512&ssl=1",
+        "Redirect": "https://ssarherps.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ssarherps.org/"
     },
     {
         "link": "https://stonotechnology.com",

@@ -80,6 +80,16 @@
         "AbstractURL": "https://gssp-buende.de"
     },
     {
+        "link": "https://soyol.ru",
+        "Heading": " - Soyol.ru",
+        "Abstract": null,
+        "Official Site": "https://soyol.ru",
+        "Icon": "http://soyol.ru/bitrix/templates/soyol-rus/img/logo.png",
+        "Redirect": "https://soyol.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soyol.ru"
+    },
+    {
         "link": "https://aavs.org",
         "Heading": "Home - American Anti-Vivisection Society",
         "Abstract": "Ending the use of animals in science through education, advocacy, and the development of alternative methods.",
@@ -250,6 +260,16 @@
         "AbstractURL": "https://revistaurbanova.com.br/"
     },
     {
+        "link": "https://procloudhost.com",
+        "Heading": "Reliable cloud web hosting made easy since 2008- ProCloudHost.COM",
+        "Abstract": "Professional cloud web hosting with tier 3 dc, top hardware, 24x7 support, improved security and instant setup. Serving customers since 2008!",
+        "Official Site": "https://www.procloudhost.com/",
+        "Icon": "https://www.procloudhost.com/wp-content/uploads/2024/01/cropped-logo-32x32.png",
+        "Redirect": "https://www.procloudhost.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.procloudhost.com/"
+    },
+    {
         "link": "https://fastcows.nl",
         "Heading": "FastCows",
         "Abstract": "FastCows levert, adviseert en integreert uw automatisering op basis van open source software.",
@@ -281,7 +301,7 @@
     },
     {
         "link": "https://gotahm.it",
-        "Heading": "Gotahm.it - ",
+        "Heading": "Gotahm.it - Ads,places,shows,transports one click away!",
         "Abstract": "Addresses,offices,businesses,professionists,ads,shows,events,transports wthin a range of few hundred meters from your position!Submit your ads too!",
         "Official Site": "https://gotahm.it/?l=eng",
         "Icon": "/included/showThumbsearchwide.aspx?IptFl=/immagini/ico/screenshot.jpg",

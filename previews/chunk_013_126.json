@@ -1,13 +1,13 @@
 [
     {
         "link": "https://protistologists.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://protistologists.org",
-        "Icon": "data:;",
-        "Redirect": "https://protistologists.org",
+        "Heading": "Home - International Society of Protistologists",
+        "Abstract": "The International Society of Protistologists (ISOP) is an association of scientists devoted to research on single-celled eukaryotes or protists.",
+        "Official Site": "https://protistologists.org/this-url-is-canonical/",
+        "Icon": "https://protistologists.org/wp-content/uploads/2015/03/ISOP-logo-black-bg-800x800px.png",
+        "Redirect": "https://protistologists.org/this-url-is-canonical/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://protistologists.org"
+        "AbstractURL": "https://protistologists.org/this-url-is-canonical/"
     },
     {
         "link": "https://smarthacklink.xyz",
@@ -90,11 +90,21 @@
         "AbstractURL": "https://lottiewilcox.uk"
     },
     {
+        "link": "https://radiodj.ro",
+        "Heading": "RadioDJ \u2013 Radio Automation Software",
+        "Abstract": null,
+        "Official Site": "https://radiodj.ro",
+        "Icon": "N/A",
+        "Redirect": "https://radiodj.ro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://radiodj.ro"
+    },
+    {
         "link": "https://grandelakes.com",
         "Heading": "Hotels in Orlando, FL | Grande Lakes Orlando",
         "Abstract": "Make your getaway to the sprawling Grande Lakes resort, a unique five star golf and spa retreat featuring The Ritz Carlton JW Marriott Orlando, FL, hotels",
         "Official Site": "https://grandelakes.com",
-        "Icon": "https://www.grandelakes.com/resourcefiles/home-hero-slider/marriott-grande-lakes-orlando-florida.jpg?version=6232026000417",
+        "Icon": "https://www.grandelakes.com/resourcefiles/home-hero-slider/marriott-grande-lakes-orlando-florida.jpg?version=6242026000320",
         "Redirect": "https://grandelakes.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://grandelakes.com"
@@ -111,13 +121,13 @@
     },
     {
         "link": "https://felzmann.de",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://felzmann.de",
-        "Icon": "data:;",
-        "Redirect": "https://felzmann.de",
+        "Heading": "Home - Auktionshaus Felzmann",
+        "Abstract": "Willkommen im Auktionshaus Felzmann - Ihr pers\u00f6nlicher Ansprechpartner f\u00fcr Briefmarken seit 1976.Briefmarken Ankauf und Auktionen.",
+        "Official Site": "https://felzmann.de/",
+        "Icon": "https://felzmann.de/wp-content/uploads/2023/05/nur_logobild-150x150.png",
+        "Redirect": "https://felzmann.de/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://felzmann.de"
+        "AbstractURL": "https://felzmann.de/"
     },
     {
         "link": "https://societyone.com.au",
@@ -160,6 +170,16 @@
         "AbstractURL": "https://jsof-tech.com"
     },
     {
+        "link": "https://radarhost.net",
+        "Heading": "Home - Radarhosting.com",
+        "Abstract": "Unlimited Hosting dengan performa yang bisa diandalkan dengan teknologi SSD terbaru. Dengan kontrol panel cPanel mudahkan manajemen akun hosting & email.",
+        "Official Site": "https://radarhosting.com/",
+        "Icon": "https://radarhosting.com/wp-content/uploads/2025/01/logo-radar-hosting-font-putih-awan-aja.png",
+        "Redirect": "https://radarhosting.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://radarhosting.com/"
+    },
+    {
         "link": "https://cartr.ru",
         "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
         "Abstract": null,
@@ -198,16 +218,6 @@
         "Redirect": "https://isxgames.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://isxgames.com"
-    },
-    {
-        "link": "https://seashoresteel.com",
-        "Heading": "Seashore Steel Qatar -",
-        "Abstract": null,
-        "Official Site": "https://seashoresteel.com/",
-        "Icon": "N/A",
-        "Redirect": "https://seashoresteel.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://seashoresteel.com/"
     },
     {
         "link": "https://pcschmiede.eu",

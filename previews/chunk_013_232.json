@@ -100,6 +100,16 @@
         "AbstractURL": "https://my300c.ru"
     },
     {
+        "link": "https://prouditaliancook.com",
+        "Heading": "Proud Italian Cook - Home Cooking, Italian American Style",
+        "Abstract": "Home Cooking, Italian American Style",
+        "Official Site": "https://www.prouditaliancook.com/",
+        "Icon": "https://www.prouditaliancook.com/wp-content/plugins/genesis-favicon-uploader/favicons/favicon.ico",
+        "Redirect": "https://www.prouditaliancook.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.prouditaliancook.com/"
+    },
+    {
         "link": "https://primalblueprint.com",
         "Heading": "\n      Primal Kitchen: Shop Dressings, Sauces, Supplements & More\n",
         "Abstract": "Our line of sauces, condiments, and pantry staples was made using ingredients with integrity and without high fructose corn syrup, gluten, soy, or canola oils.",
@@ -128,16 +138,6 @@
         "Redirect": "https://rkardersen.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rkardersen.xyz"
-    },
-    {
-        "link": "https://bs2baest.at",
-        "Heading": "Blacksprut",
-        "Abstract": null,
-        "Official Site": "https://bs2baest.at",
-        "Icon": "./images/favicon.ico",
-        "Redirect": "https://bs2baest.at",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bs2baest.at"
     },
     {
         "link": "https://laohosts.la",
@@ -258,6 +258,16 @@
         "Redirect": "https://raulfulgencio.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://raulfulgencio.com.br"
+    },
+    {
+        "link": "https://taxmagic.net",
+        "Heading": "Tax Magic -",
+        "Abstract": null,
+        "Official Site": "https://www.taxmagic.net/",
+        "Icon": "N/A",
+        "Redirect": "https://www.taxmagic.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.taxmagic.net/"
     },
     {
         "link": "https://krestannavidieku.sk",

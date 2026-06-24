@@ -30,6 +30,16 @@
         "AbstractURL": "https://m47.jp"
     },
     {
+        "link": "https://macpartsonline.com",
+        "Heading": "Mac Parts & Apple Parts Store - Macintosh Parts",
+        "Abstract": "Mac Parts Online is an Apple parts store which provides all Macintosh parts.  Mac Parts Online also have mail-in Mac parts repair service. ",
+        "Official Site": "https://macpartsonline.com",
+        "Icon": "https://www.macpartsonline.com/media/favicon/stores/1/favicon.ico",
+        "Redirect": "https://macpartsonline.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://macpartsonline.com"
+    },
+    {
         "link": "https://maierhofergroup.com",
         "Heading": "Explore Prime Real Estate | The Maierhofer Group",
         "Abstract": "Contact The Maierhofer Group, an expert Florida real estate group, for more information and to view homes for sale and other real estate listings in the area.",
@@ -210,6 +220,16 @@
         "AbstractURL": "https://mkpbr.com/en-us"
     },
     {
+        "link": "https://mo-kosan.co.jp",
+        "Heading": "\u5546\u8239\u4e09\u4e95\u8208\u7523\u682a\u5f0f\u4f1a\u793e",
+        "Abstract": "\u30d3\u30eb\u30e1\u30f3\u30c6\u30ca\u30f3\u30b9\u3084\u4e0d\u52d5\u7523\u306e\u7ba1\u7406\u306e\u3053\u3068\u306a\u3089\u5546\u8239\u4e09\u4e95\u8208\u7523\u682a\u5f0f\u4f1a\u793e\u3078\u662f\u975e\u3054\u76f8\u8ac7\u304f\u3060\u3055\u3044\u3002\u5546\u8239\u4e09\u4e95\u304c\u80b2\u3093\u3067\u304d\u305f\u4fe1\u983c\u3068\u3001\u30c0\u30a4\u30d3\u30eb\u304c\u7a4d\u307f\u91cd\u306d\u3066\u304d\u305f\u5b9f\u7e3e\u3067\u3001\u6700\u9069\u306a\u30b5\u30fc\u30d3\u30b9\u3092\u3054\u63d0\u4f9b\u3044\u305f\u3057\u307e\u3059\u3002",
+        "Official Site": "/",
+        "Icon": "/images/og.jpg",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
         "link": "https://modestforever.com",
         "Heading": "\n  Modest Forever | India's Trendiest Modest-Wear Brand.\n",
         "Abstract": "Offers modest Islamic clothing for women. The selection includes Abayas, Hijabs, and other dresses designed with current fashion trends in mind. Products are available in various colors, prints, and fabrics. The focus is on providing a wide range of stylish yet modest options for different occasions.",
@@ -228,5 +248,15 @@
         "Redirect": "https://mojorvandmarine.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mojorvandmarine.com/"
+    },
+    {
+        "link": "https://moonstride.com",
+        "Heading": "Travel CRM Software for Tour Operators & Agencies - moonstride",
+        "Abstract": "moonstride is an all-in-one cloud-based travel technology SaaS platform - integrated CRM, backoffice & booking engine software. Request a free demo today!",
+        "Official Site": "https://www.moonstride.com/",
+        "Icon": "https://www.moonstride.com/wp-content/uploads/2023/02/moonstride-new.png",
+        "Redirect": "https://www.moonstride.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.moonstride.com/"
     }
 ]

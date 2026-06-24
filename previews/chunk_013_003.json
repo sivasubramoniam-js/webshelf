@@ -120,6 +120,16 @@
         "AbstractURL": "/"
     },
     {
+        "link": "https://consorziobrunellodimontalcino.it",
+        "Heading": "Consorzio del vino Brunello di Montalcino Montalcino",
+        "Abstract": null,
+        "Official Site": "https://consorziobrunellodimontalcino.it/it/home/home",
+        "Icon": "/assets/images/icons/favicon.ico",
+        "Redirect": "https://consorziobrunellodimontalcino.it/it/home/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://consorziobrunellodimontalcino.it/it/home/home"
+    },
+    {
         "link": "https://lillian-care.de",
         "Heading": "LillianCare | Menschlich. Modern. Nah.",
         "Abstract": "LillianCare bietet erstklassige Allgemeinmedizin durch ein Team aus \u00c4rzten, Physician Assistants und Fachangestellten, mit Patientenfokus.",
@@ -180,6 +190,16 @@
         "AbstractURL": "https://latinwomanfinder.com/"
     },
     {
+        "link": "https://oposicioneslabfacultativos.com",
+        "Heading": "Oposiciones Laboratorio \u2013 PREPARACI\u00d3N PARA OPOSICIONES Facultativos Especialistas",
+        "Abstract": null,
+        "Official Site": "https://oposicioneslabfacultativos.com",
+        "Icon": "https://www.oposicioneslabfacultativos.com/wp-content/uploads/cropped-logo-oposiciones-Laboratorio-1-32x32.png",
+        "Redirect": "https://oposicioneslabfacultativos.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oposicioneslabfacultativos.com"
+    },
+    {
         "link": "https://spaink.net",
         "Heading": "Karin Spaink - I write, therefore I am",
         "Abstract": null,
@@ -200,6 +220,16 @@
         "AbstractURL": "https://holdgood.ru/"
     },
     {
+        "link": "https://greenberetfoundation.org",
+        "Heading": "Green Beret Foundation - Supporting America\u2019s Special Forces Soldiers and their families",
+        "Abstract": "The Green Beret Foundation supports America\u2019s U.S. Army Special Forces soldiers and their families and is a nonprofit charitable foundation.",
+        "Official Site": "https://greenberetfoundation.org/",
+        "Icon": "https://greenberetfoundation.org/wp-content/uploads/2020/01/grab2-scaled.jpg",
+        "Redirect": "https://greenberetfoundation.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greenberetfoundation.org/"
+    },
+    {
         "link": "https://38gt.ru",
         "Heading": "\u0413\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c - \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442",
         "Abstract": null,
@@ -218,6 +248,16 @@
         "Redirect": "https://hempseed.ie",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hempseed.ie"
+    },
+    {
+        "link": "https://damossoluciones.co",
+        "Heading": "DAMOS | Agencia de Marketing Digital y Dise\u00f1o Web en Bucaramanga",
+        "Abstract": "Soluciones especializadas en Dise\u00f1o Web, Tiendas eCommerce, Marketing Digital, Automatizaciones, Agentes de IA y CRM en Bucaramanga.",
+        "Official Site": "https://www.damos.co",
+        "Icon": "https://www.damos.co/images/seo/seo-metadata-site-742.jpg",
+        "Redirect": "https://www.damos.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.damos.co"
     },
     {
         "link": "https://people-life.com",
@@ -248,5 +288,15 @@
         "Redirect": "https://botanicavirgenmorena.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://botanicavirgenmorena.com/"
+    },
+    {
+        "link": "https://seopro.jp",
+        "Heading": "SEO\u30c4\u30fc\u30eb\u30e9\u30dc",
+        "Abstract": "SEO\u30c4\u30fc\u30eb\u30e9\u30dc\u3067\u306f\u3001\u30a2\u30af\u30bb\u30b9\u30a2\u30c3\u30d7\u3092\u652f\u63f4\u3059\u308bSEO/SEM\u30c4\u30fc\u30eb\u3092\u7121\u6599\u914d\u5e03\u3057\u3066\u3044\u307e\u3059\u3002\u691c\u7d22\u30a8\u30f3\u30b8\u30f3\u9806\u4f4d\u30c1\u30a7\u30c3\u30af\u30c4\u30fc\u30ebGRC\u306f\u30d7\u30ed\u306b\u3082\u5229\u7528\u3055\u308c\u3066\u3044\u308b\u304a\u52e7\u3081\u30c4\u30fc\u30eb\u3067\u3059\u3002",
+        "Official Site": "https://seopro.jp",
+        "Icon": "N/A",
+        "Redirect": "https://seopro.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seopro.jp"
     }
 ]

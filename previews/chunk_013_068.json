@@ -90,16 +90,6 @@
         "AbstractURL": "https://movingintelligence.com/"
     },
     {
-        "link": "https://mydogbreeds.com",
-        "Heading": "All dog breed | MyDogBreeds",
-        "Abstract": "Get information on all the dog breeds in the world. Discover all dog breeds information, History, Pictures, here. View and compare the dog breeds info.",
-        "Official Site": "https://mydogbreeds.com",
-        "Icon": "/favicon_1.ico",
-        "Redirect": "https://mydogbreeds.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mydogbreeds.com"
-    },
-    {
         "link": "https://myhugenaturals.com",
         "Heading": "MyHugeNaturals - the home of big natural tits and large boobs",
         "Abstract": null,
@@ -118,16 +108,6 @@
         "Redirect": "https://mylisting365.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mylisting365.co.uk"
-    },
-    {
-        "link": "https://myscoutshop.org",
-        "Heading": "Scouting America Official Store",
-        "Abstract": "The Official Store for Scouting America Official Store!",
-        "Official Site": "https://www.myscoutshop.org",
-        "Icon": "https://content.bespokelabs.co/images/theme/BSA/favicos/android-chrome-512x512.png",
-        "Redirect": "https://www.myscoutshop.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.myscoutshop.org"
     },
     {
         "link": "https://naturacenter.es",
@@ -210,6 +190,16 @@
         "AbstractURL": "https://oconchemicals.ie/"
     },
     {
+        "link": "https://oldangler.com",
+        "Heading": "Italian Leather Bags | Handmade Leather Goods | Old Angler Firenze",
+        "Abstract": "Discover our collection of italian leather bags, briefcases, messenger bags, leather wallets, leather travel bags and leather golf bags. Full grain Florentine leather.",
+        "Official Site": "https://oldangler.com",
+        "Icon": "https://www.oldangler.com/media/favicon/default/favicon.ico",
+        "Redirect": "https://oldangler.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oldangler.com"
+    },
+    {
         "link": "https://paxvet.com.tr",
         "Heading": "Paxvet.com.tr ~ \u00dccretsiz kargo",
         "Abstract": null,
@@ -240,6 +230,16 @@
         "AbstractURL": "https://platta.jp"
     },
     {
+        "link": "https://portafold.co.uk",
+        "Heading": "portafold.co.uk | The home of the Portafold and Ansfold folding caravan",
+        "Abstract": null,
+        "Official Site": "https://portafold.co.uk",
+        "Icon": "system_files/animated_favicon1.gif",
+        "Redirect": "https://portafold.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://portafold.co.uk"
+    },
+    {
         "link": "https://postads.ph",
         "Heading": "PostAds.ph - Free Classified Ads, Philippines Buy & Sell",
         "Abstract": "Join the Philippines' fastest growing free classified ads, buy and sell site. Find new & used item, best in-class services & deals \u2714 Post FREE Ads today!",
@@ -268,5 +268,15 @@
         "Redirect": "https://premiumplc.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://premiumplc.com/"
+    },
+    {
+        "link": "https://qualityscent.com",
+        "Heading": "qualityscent",
+        "Abstract": null,
+        "Official Site": "https://qualityscent.com",
+        "Icon": "N/A",
+        "Redirect": "https://qualityscent.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://qualityscent.com"
     }
 ]

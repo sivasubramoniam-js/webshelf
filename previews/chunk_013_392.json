@@ -40,6 +40,16 @@
         "AbstractURL": "https://darz.art"
     },
     {
+        "link": "https://agrorom.ru",
+        "Heading": "\u0410\u0433\u0440\u043e\u0441\u043e\u044e\u0437 \u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 - \u0410\u0440\u0431\u0443\u0437\u044b \u0438 \u0434\u044b\u043d\u0438 \u043e\u043f\u0442\u043e\u043c \u043e\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f",
+        "Abstract": "\u041a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0439 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043e\u0432\u043e\u0449\u0435\u0439 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0430\u0440\u0431\u0443\u0437\u044b \u0438 \u0434\u044b\u043d\u0438 \u043e\u043f\u0442\u043e\u043c \u043e\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f \u043f\u0440\u044f\u043c\u0438\u043a\u043e\u043c \u0441 \u043f\u043e\u043b\u044f",
+        "Official Site": "https://agrorom.ru/",
+        "Icon": "N/A",
+        "Redirect": "https://agrorom.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://agrorom.ru/"
+    },
+    {
         "link": "https://putnamyouthfootball.com",
         "Heading": "Rex Putnam Youth Football - TVYFL",
         "Abstract": "A Youth Tackle Football Program Serving the Rex Putnam High School Feeder Schools.",
@@ -68,16 +78,6 @@
         "Redirect": "https://med-pred.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://med-pred.ru/"
-    },
-    {
-        "link": "https://fringetheatre.ca",
-        "Heading": "Fringe Theatre | Edmonton International Fringe Theatre Festival",
-        "Abstract": "North America\u2019s largest, longest-running Fringe Theatre Festival. Fringe with us all year long - and see you August 13 \u2013 23, 2026 for this year\u2019s Festival!",
-        "Official Site": "https://www.fringetheatre.ca/",
-        "Icon": "https://www.fringetheatre.ca/wp-content/uploads/2024/07/OG-Fringe-photo-by-Marc-Chalifoux-Tiger-Lady-MC2_1533_work-scaled-1.jpg",
-        "Redirect": "https://www.fringetheatre.ca/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.fringetheatre.ca/"
     },
     {
         "link": "https://kai-ryokan.jp",
@@ -161,13 +161,13 @@
     },
     {
         "link": "https://canadianrockies.net",
-        "Heading": null,
+        "Heading": "Canadian Rockies Vacation Guide | Banff National Park | Canmore Banff Live Web Cams",
         "Abstract": null,
-        "Official Site": "https://canadianrockies.net",
-        "Icon": "data:;",
-        "Redirect": "https://canadianrockies.net",
+        "Official Site": "https://www.canadianrockies.net/",
+        "Icon": "https://www.canadianrockies.net/wp-content/uploads/2016/04/jasper-banff-lake-louise-calgary-shuttle.jpg",
+        "Redirect": "https://www.canadianrockies.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://canadianrockies.net"
+        "AbstractURL": "https://www.canadianrockies.net/"
     },
     {
         "link": "https://fiona.com",
@@ -208,6 +208,16 @@
         "Redirect": "https://fabkom.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fabkom.com"
+    },
+    {
+        "link": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
+        "Icon": "N/A",
+        "Redirect": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://322ffbbc7c1b312c2f9d942f20422f8d.com"
     },
     {
         "link": "https://oncoins.net",
@@ -281,13 +291,13 @@
     },
     {
         "link": "https://tripleareview.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://tripleareview.com",
-        "Icon": "data:;",
-        "Redirect": "https://tripleareview.com",
+        "Heading": "Top Marketing Stack Reviews | tripleareview.com - Triple A Review",
+        "Abstract": "Expert marketing stack reviews focusing on AI writing, SEO, email marketing, video editing & eCommerce. We guide small businesses on the best platforms & strategies to drive success.",
+        "Official Site": "https://tripleareview.com/",
+        "Icon": "https://tripleareview.com/wp-content/uploads/2025/05/cropped-Original-Logo-full-blue-transp-32x32.png",
+        "Redirect": "https://tripleareview.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tripleareview.com"
+        "AbstractURL": "https://tripleareview.com/"
     },
     {
         "link": "https://passerelle.or.jp",

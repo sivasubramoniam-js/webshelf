@@ -31,13 +31,13 @@
     },
     {
         "link": "https://botanica.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://botanica.org",
-        "Icon": "data:;",
-        "Redirect": "https://botanica.org",
+        "Heading": "Botanica the Wichita Gardens - Wichita, KS",
+        "Abstract": "Botanica was opened to the public in May 1987 to generate enthusiasm for horticulture. Plan your visit today!",
+        "Official Site": "https://botanica.org/",
+        "Icon": "https://botanica.org/wp-content/uploads/2024/07/cropped-BOT-Circle-Fav-Teal-32x32.png",
+        "Redirect": "https://botanica.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://botanica.org"
+        "AbstractURL": "https://botanica.org/"
     },
     {
         "link": "https://azerbaijanmedicaljournal.com",
@@ -298,6 +298,16 @@
         "Redirect": "https://cm88betshoki.biz/vi-vn/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cm88betshoki.biz/vi-vn/"
+    },
+    {
+        "link": "https://achenet.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://achenet.org",
+        "Icon": "N/A",
+        "Redirect": "https://achenet.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://achenet.org"
     },
     {
         "link": "https://upnorthradio.com",

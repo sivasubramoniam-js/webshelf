@@ -91,13 +91,23 @@
     },
     {
         "link": "https://devcurry.com",
-        "Heading": "DevCurry",
+        "Heading": ".NET and Web Development Tutorials for Developers  ",
         "Abstract": "Web Developer Tutorials",
         "Official Site": "https://www.devcurry.com/",
         "Icon": "https://www.devcurry.com/favicon.ico",
         "Redirect": "https://www.devcurry.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.devcurry.com/"
+    },
+    {
+        "link": "https://mountsdentalcare.com",
+        "Heading": "Best Dentist Offices/Clinic North Little Rock AR - Family Dentistry & Dental Care Services at Mounts Dental Care",
+        "Abstract": "Mounts Dental Care \u2013 Best dentist offices in North Little Rock, AR. We offer top-quality dental care & family dentistry services at our clinic for all ages.",
+        "Official Site": "https://www.mountsdentalcare.com/",
+        "Icon": "https://mountsdentalcare.com/wp-content/uploads/2024/03/mountsdentalcare80x80fav.png",
+        "Redirect": "https://www.mountsdentalcare.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mountsdentalcare.com/"
     },
     {
         "link": "https://plicards.com",
@@ -141,8 +151,8 @@
     },
     {
         "link": "https://opetroleo.com.br",
-        "Heading": "A Revista | O que muda no seu bolso",
-        "Abstract": "Not\u00edcias e an\u00e1lises sobre economia, mercados, empresas, investimentos, bancos, consumo, carreira, impostos, neg\u00f3cios e finan\u00e7as pessoais.",
+        "Heading": "A Revista | Intelig\u00eancia em Investimentos",
+        "Abstract": "Not\u00edcias e an\u00e1lises sobre investimentos, renda fixa, a\u00e7\u00f5es, dividendos, fundos imobili\u00e1rios, bancos, impostos e consumo.",
         "Official Site": "https://arevista.com.br/",
         "Icon": "https://arevista.com.br/wp-content/uploads/2025/08/Icone-a-revista.png",
         "Redirect": "https://arevista.com.br/",
@@ -150,14 +160,34 @@
         "AbstractURL": "https://arevista.com.br/"
     },
     {
+        "link": "https://vifaexpo.com",
+        "Heading": "18th VIFA EXPO | 08 - 11 Mar, 2027 | WTC EXPO + SKY EXPO, HCMC | Vietnamese Largest, Oldest and Most Prestigious Export Furniture Trade Show (Since 2008) | 680+ Exhibitors | 2,800+ Booths | 51,000+ sqm",
+        "Abstract": "VIFA EXPO 2026 - Vietnam's Largest & Oldest International Furniture Fair since 2008",
+        "Official Site": "https://vifaexpo.com",
+        "Icon": "https://vifaexpo.com/wp-content/uploads/2026/04/cropped-LOGO-VIFA-EXPO-2027-square-32x32.jpg",
+        "Redirect": "https://vifaexpo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vifaexpo.com"
+    },
+    {
         "link": "https://krassud.ru",
-        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 21.06.2026 ",
+        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 23.06.2026 ",
         "Abstract": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u0417\u0430\u043a\u043e\u043d\u043d\u0430\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0431\u0435\u0437 \u043f\u0440\u043e\u0431\u043b\u0435\u043c.",
         "Official Site": "https://krassud.ru",
         "Icon": "untitled-1.ico",
         "Redirect": "https://krassud.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://krassud.ru"
+    },
+    {
+        "link": "https://bodhiindexes.com",
+        "Heading": "Bodhi Indexes",
+        "Abstract": null,
+        "Official Site": "https://bodhiindexes.com",
+        "Icon": "N/A",
+        "Redirect": "https://bodhiindexes.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bodhiindexes.com"
     },
     {
         "link": "https://rinecloud.net",
@@ -231,7 +261,7 @@
     },
     {
         "link": "https://walmart-pharm.net",
-        "Heading": "Redirecting...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://walmart-pharm.net",
         "Icon": "N/A",

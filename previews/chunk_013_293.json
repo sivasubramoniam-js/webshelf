@@ -60,6 +60,16 @@
         "AbstractURL": "https://volunteerspot.com"
     },
     {
+        "link": "https://generalengineering.co",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://generalengineering.co",
+        "Icon": "N/A",
+        "Redirect": "https://generalengineering.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://generalengineering.co"
+    },
+    {
         "link": "https://kumulhost.com",
         "Heading": "Portal Home - Kumulhost",
         "Abstract": null,
@@ -164,7 +174,7 @@
         "Heading": "\n      Hair by Sam McKnight | Hair Care & Styling Products\n",
         "Abstract": "The UK's Most Talked About Hair Brand 2024. Founded by legendary hair stylist, Sam McKnight. High-performance hair care and styling products with free UK delivery",
         "Official Site": "https://sammcknight.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/2318/2001/files/Logo.webp?height=628&pad_color=fff&v=1663705898&width=1200",
+        "Icon": "http://sammcknight.com/cdn/shop/files/Logo.webp?height=628&pad_color=fff&v=1663705898&width=1200",
         "Redirect": "https://sammcknight.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sammcknight.com/"
@@ -248,5 +258,15 @@
         "Redirect": "https://artstyle.ne.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://artstyle.ne.jp/"
+    },
+    {
+        "link": "https://pusatcloud.com",
+        "Heading": "Welcome to Hi-TechMall.ORG - Go create your Own Group blog event calendar and others",
+        "Abstract": "Hi-Tech Product News, Reviews, and enjoy buy online at our Web-store client",
+        "Official Site": "https://pusatcloud.com",
+        "Icon": "N/A",
+        "Redirect": "https://pusatcloud.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pusatcloud.com"
     }
 ]

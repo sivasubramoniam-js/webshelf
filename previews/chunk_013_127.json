@@ -80,6 +80,16 @@
         "AbstractURL": "https://www.whitesupremacyculture.info/"
     },
     {
+        "link": "https://safefound.xyz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://safefound.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://safefound.xyz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://safefound.xyz"
+    },
+    {
         "link": "https://tempmailbox.net",
         "Heading": "TempMailbox - Temp Mail | TempMailbox",
         "Abstract": "Temp Mail at TempMailbox - get free and instant temporary email for sign-ups, verifications, and more, without hassle or registration.",
@@ -251,13 +261,23 @@
     },
     {
         "link": "https://starlink-soft.ru",
-        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430",
         "Abstract": null,
-        "Official Site": "https://starlink-soft.ru",
-        "Icon": "https://static.tildacdn.com/tild3261-6634-4565-b633-343665643833/152152.ico",
-        "Redirect": "https://starlink-soft.ru",
+        "Official Site": "http://starlink-soft.ru",
+        "Icon": "https://static.tildacdn.com/tild3766-6639-4166-b362-353138366637/favicon.ico",
+        "Redirect": "http://starlink-soft.ru",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://starlink-soft.ru"
+        "AbstractURL": "http://starlink-soft.ru"
+    },
+    {
+        "link": "https://noab.nl",
+        "Heading": "NOAB | Branchevereniging voor administratie- & belastingkantoren",
+        "Abstract": "NOAB is de branchevereniging voor administratie- en belastingkantoren in Nederland. Groei met kennis, ondersteuning en een sterk netwerk.",
+        "Official Site": "https://noab.nl/",
+        "Icon": "https://noab.nl/resources/wij-zoeken-jou-1024x683.png",
+        "Redirect": "https://noab.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://noab.nl/"
     },
     {
         "link": "https://melonslab.cloud",

@@ -31,10 +31,10 @@
     },
     {
         "link": "https://srcsolucoes.inf.br",
-        "Heading": "One moment, please...",
+        "Heading": "SRC Solu\u00e7\u00f5es em Redes",
         "Abstract": null,
         "Official Site": "https://srcsolucoes.inf.br",
-        "Icon": "N/A",
+        "Icon": "https://www.srcsolucoes.inf.br/wp-content/themes/SRC/assets/img/favicon.png",
         "Redirect": "https://srcsolucoes.inf.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://srcsolucoes.inf.br"
@@ -148,6 +148,26 @@
         "Redirect": "https://renjiabari.asia",
         "AbstractSource": "BS4",
         "AbstractURL": "https://renjiabari.asia"
+    },
+    {
+        "link": "https://voipbel.net",
+        "Heading": "VoIPBel Internettelefonie",
+        "Abstract": null,
+        "Official Site": "https://voipbel.net",
+        "Icon": "https://www.voipbel.nl/wp-content/uploads/2021/03/logo-vierkant-150x150.jpg",
+        "Redirect": "https://voipbel.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://voipbel.net"
+    },
+    {
+        "link": "https://pfennigparade.de",
+        "Heading": "Stiftung Pfennigparade \u2013 Die Zukunft z\u00e4hlt auf uns.",
+        "Abstract": "Mehr Inklusion f\u00fcr Menschen mit Behinderung.",
+        "Official Site": "https://www.pfennigparade.de/",
+        "Icon": "https://www.pfennigparade.de/wp-content/uploads/2021/03/pfennigparade-og.jpg",
+        "Redirect": "https://www.pfennigparade.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pfennigparade.de/"
     },
     {
         "link": "https://visitoliver.com",

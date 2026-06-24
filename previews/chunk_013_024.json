@@ -1,13 +1,23 @@
 [
     {
         "link": "https://creationell.de",
-        "Heading": "Werbeagentur Augsburg \u2013 Digital, Print & Marketing",
+        "Heading": "Digitalagentur Augsburg & Werbeagentur",
         "Abstract": "Als rennomierte Werbeagentur und Webagentur tragen wir ma\u00dfgeblich zum Marketing- und Vertriebserfolg Ihres Unternehmens bei. Print & Online. Jetzt anfragen!",
         "Official Site": "https://creationell.de",
         "Icon": "/favicon-32x32.png",
         "Redirect": "https://creationell.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://creationell.de"
+    },
+    {
+        "link": "https://csdma.es",
+        "Heading": "Principal - Conservatorio Superior de Danza Mar\u00eda de \u00c1vila",
+        "Abstract": null,
+        "Official Site": "https://csdma.es",
+        "Icon": "/images/favicon.jpg",
+        "Redirect": "https://csdma.es",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://csdma.es"
     },
     {
         "link": "https://cun-owy.com",
@@ -58,6 +68,16 @@
         "Redirect": "https://damselbyfatima.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://damselbyfatima.com"
+    },
+    {
+        "link": "https://dart15.co.uk",
+        "Heading": "The UK Dart 15 Association",
+        "Abstract": "The UK Dart 15 Association website, where you can find all about sailing the Sprint/Dart 15 catamaran",
+        "Official Site": "https://dart15.co.uk",
+        "Icon": "https://www.dart15.co.uk/images/dart-15-blue.png",
+        "Redirect": "https://dart15.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dart15.co.uk"
     },
     {
         "link": "https://davisequip.com",
@@ -120,6 +140,16 @@
         "AbstractURL": "https://del-par.online"
     },
     {
+        "link": "https://delicutu.ro",
+        "Heading": "Delicu\u021bu \ud83d\udc36|\ud83d\uded2 M\u00e2ncare pentru c\u00e2ini online, multiple magazine",
+        "Abstract": "G\u0103se\u0219ti rapid m\u00e2ncare pentru c\u00e2ini online. Gam\u0103 variat\u0103, reduceri \u0219i oferte. Compari pre\u021buri \u0219i economise\u0219ti f\u0103r\u0103 compromisuri!",
+        "Official Site": "https://delicutu.ro/",
+        "Icon": "https://delicutu.ro/wp-content/uploads/2025/02/ilustratie-hero-delicutu-2.png",
+        "Redirect": "https://delicutu.ro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://delicutu.ro/"
+    },
+    {
         "link": "https://deviestore.com",
         "Heading": "DeviEstore -",
         "Abstract": null,
@@ -141,7 +171,7 @@
     },
     {
         "link": "https://djyydata.com",
-        "Heading": "Matches for 2026-06-23 - DJYY Data",
+        "Heading": "Matches for 2026-06-24 - DJYY Data",
         "Abstract": "Discover next-level soccer stats.",
         "Official Site": "https://djyydata.com",
         "Icon": "/favicon.ico",

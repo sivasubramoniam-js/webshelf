@@ -90,6 +90,16 @@
         "AbstractURL": "https://1.mrbobd.site/"
     },
     {
+        "link": "https://stkipsingkawang.ac.id",
+        "Heading": "STKIP Singkawang",
+        "Abstract": "STKIP Singkawang : STKIP Singkawang",
+        "Official Site": "https://stkipsingkawang.ac.id",
+        "Icon": "https://stkipsingkawang.ac.id/favicon.ico",
+        "Redirect": "https://stkipsingkawang.ac.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stkipsingkawang.ac.id"
+    },
+    {
         "link": "https://northlandgroup.com",
         "Heading": null,
         "Abstract": null,
@@ -118,6 +128,16 @@
         "Redirect": "https://www.arkanalabs.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.arkanalabs.com/"
+    },
+    {
+        "link": "https://sogly.site",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sogly.site",
+        "Icon": "N/A",
+        "Redirect": "https://sogly.site",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sogly.site"
     },
     {
         "link": "https://56m.com",
@@ -171,13 +191,13 @@
     },
     {
         "link": "https://sanjosejazz.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://sanjosejazz.org",
-        "Icon": "data:;",
-        "Redirect": "https://sanjosejazz.org",
+        "Heading": "Home - San Jose Jazz",
+        "Abstract": "Founded in 1986, San Jose Jazz is a public benefit organization celebrating jazz as a dynamic, evolving art form and is producer of the annual San Jose Jazz Summer Fest and Winter Fest.",
+        "Official Site": "https://sanjosejazz.org/",
+        "Icon": "https://sanjosejazz.org/wp-content/uploads/2023/08/SJZ_Social-Image-for-Website.jpg",
+        "Redirect": "https://sanjosejazz.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sanjosejazz.org"
+        "AbstractURL": "https://sanjosejazz.org/"
     },
     {
         "link": "https://rcfoundation.ru",
@@ -188,6 +208,16 @@
         "Redirect": "https://rcfoundation.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rcfoundation.ru/"
+    },
+    {
+        "link": "https://tucanoice.com",
+        "Heading": "Tucano | Ice & Gear",
+        "Abstract": null,
+        "Official Site": "https://tucanoice.com",
+        "Icon": "https://www.tucanoice.com/wp-content/uploads/2019/08/cropped-tucano-logo-min-32x32.png",
+        "Redirect": "https://tucanoice.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tucanoice.com"
     },
     {
         "link": "https://kodakphotoplus.com",
@@ -208,6 +238,16 @@
         "Redirect": "https://visitsugarlandtx.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://visitsugarlandtx.com/"
+    },
+    {
+        "link": "https://nanterre-amandiers.com",
+        "Heading": "Th\u00e9\u00e2tre Nanterre-Amandiers",
+        "Abstract": "Centre dramatique national \u00e0 Nanterre, le Th\u00e9\u00e2tre Nanterre-Amandiers pr\u00e9sente des spectacles de th\u00e9\u00e2tre, danse et cr\u00e9ation contemporaine.",
+        "Official Site": "https://nanterre-amandiers.com",
+        "Icon": "/assets/images/favicon/favicon-96x96.png",
+        "Redirect": "https://nanterre-amandiers.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nanterre-amandiers.com"
     },
     {
         "link": "https://elektrorussia.ru",

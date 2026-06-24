@@ -21,13 +21,23 @@
     },
     {
         "link": "https://yourmoscow.ru",
-        "Heading": "KillBot user verification [20.161.70.162] [Mozilla/5.0 (Macintosh; Intel Mac OS X 14.2; rv:122.0) Gecko/20100101 Firefox/122.0]...",
-        "Abstract": null,
-        "Official Site": "https://yourmoscow.ru",
-        "Icon": "N/A",
-        "Redirect": "https://yourmoscow.ru",
+        "Heading": "\u0422\u0432\u043e\u044f \u041c\u043e\u0441\u043a\u0432\u0430",
+        "Abstract": "\u0422\u0432\u043e\u044f \u041c\u043e\u0441\u043a\u0432\u0430",
+        "Official Site": "https://yourmoscow.ru/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://yourmoscow.ru/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://yourmoscow.ru"
+        "AbstractURL": "https://yourmoscow.ru/"
+    },
+    {
+        "link": "https://actorsulamec.xyz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://actorsulamec.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://actorsulamec.xyz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://actorsulamec.xyz"
     },
     {
         "link": "https://airpodshq.lt",
@@ -40,14 +50,34 @@
         "AbstractURL": "https://airpodshq.lt"
     },
     {
-        "link": "https://vv411.com",
-        "Heading": null,
+        "link": "https://tummath.com",
+        "Heading": "Tum Math",
         "Abstract": null,
-        "Official Site": "https://vv411.com",
-        "Icon": "data:;",
-        "Redirect": "https://vv411.com",
+        "Official Site": "https://tummath.com",
+        "Icon": "N/A",
+        "Redirect": "https://tummath.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vv411.com"
+        "AbstractURL": "https://tummath.com"
+    },
+    {
+        "link": "https://sendai-kousei-hospital.jp",
+        "Heading": "\u4ed9\u53f0\u539a\u751f\u75c5\u9662",
+        "Abstract": "\u4e00\u822c\u8ca1\u56e3\u6cd5\u4eba\u539a\u751f\u4f1a\u3000\u4ed9\u53f0\u539a\u751f\u75c5\u9662\u306f\u5730\u57df\u533b\u7642\u652f\u63f4\u75c5\u9662\u3067\u3059\u3002\u5faa\u74b0\u5668\u3001\u547c\u5438\u5668\u3001\u6d88\u5316\u5668\u3092\u4e2d\u5fc3\u306b\u5fc3\u81d3\u8840\u7ba1\u5916\u79d1\u3001\u653e\u5c04\u7dda\u79d1\u3001\u7cd6\u5c3f\u75c5\u4ee3\u8b1d\u5185\u79d1\u3001\u75c5\u7406\u8a3a\u65ad\u79d1\u306e\u8a3a\u7642\u3084\u4eba\u9593\u30c9\u30c3\u30af\u3001\u6551\u6025\u5916\u6765\u306a\u3069\u3092\u6271\u3063\u3066\u3044\u307e\u3059\u3002\u5bae\u57ce\u770c\u4ed9\u53f0\u5e02\u9752\u8449\u533a\u5824\u901a\u96e8\u5bae\u753a1-20",
+        "Official Site": "https://www.sendai-kousei-hospital.jp",
+        "Icon": "https://www.sendai-kousei-hospital.jp/common/img/ogpimg.jpg",
+        "Redirect": "https://www.sendai-kousei-hospital.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sendai-kousei-hospital.jp"
+    },
+    {
+        "link": "https://vv411.com",
+        "Heading": "VV411 - Victor Valley 411",
+        "Abstract": "Come and join the Victor Valley 411 community. Expand your network and get to know new local people!",
+        "Official Site": "https://vv411.com/",
+        "Icon": "https://vv411.com/wp-content/uploads/2023/01/Dark-Blue-Red-White-Generic-News-General-News-Logo-600-\u00d7-900-px-Facebook-Cover.png",
+        "Redirect": "https://vv411.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vv411.com/"
     },
     {
         "link": "https://evan-roth.com",
@@ -261,13 +291,23 @@
     },
     {
         "link": "https://achology.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://achology.com",
-        "Icon": "data:;",
-        "Redirect": "https://achology.com",
+        "Heading": "Achology: Pioneering a New Way in Psychology-Based Education",
+        "Abstract": "Achology offers 28 insightful, psychology-based e-learning courses designed to deepen self-awareness and foster a greater understanding of other people.",
+        "Official Site": "https://achology.com/",
+        "Icon": "https://cdn.achology.com/wp-content/uploads/20250520144600/Achology-Home-Page-Featured-Image.jpg",
+        "Redirect": "https://achology.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://achology.com"
+        "AbstractURL": "https://achology.com/"
+    },
+    {
+        "link": "https://priligy.me",
+        "Heading": "Media Web PM",
+        "Abstract": null,
+        "Official Site": "https://priligy.me",
+        "Icon": "N/A",
+        "Redirect": "https://priligy.me",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://priligy.me"
     },
     {
         "link": "https://schloss-drachenburg.de",
@@ -278,6 +318,16 @@
         "Redirect": "https://www.schloss-drachenburg.de/de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.schloss-drachenburg.de/de/"
+    },
+    {
+        "link": "https://amaniafrica-et.org",
+        "Heading": "Home - Amani Africa",
+        "Abstract": null,
+        "Official Site": "https://amaniafrica-et.org/",
+        "Icon": "https://amaniafrica-et.org/wp-content/uploads/2021/05/cropped-FavIcon-32x32.png",
+        "Redirect": "https://amaniafrica-et.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amaniafrica-et.org/"
     },
     {
         "link": "https://fxopenaffiliate.com",

@@ -51,10 +51,10 @@
     },
     {
         "link": "https://pobedish.ru",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "\u041f\u043e\u0431\u0435\u0434\u0438\u0448\u044c.\u0440\u0443 - \u041a\u0430\u043a \u0443\u043c\u0435\u0440\u0435\u0442\u044c, \u043f\u043e\u043a\u043e\u043d\u0447\u0438\u0442\u044c \u0436\u0438\u0437\u043d\u044c \u0441\u0430\u043c\u043e\u0443\u0431\u0438\u0439\u0441\u0442\u0432\u043e\u043c, \u0441\u043c\u044b\u0441\u043b \u0436\u0438\u0437\u043d\u0438, \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c\u0441\u044f \u043e\u0442 \u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0438\u0438. \u041b\u0435\u0447\u0435\u043d\u0438\u0435 \u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0438\u0438",
+        "Abstract": "\u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0434\u043b\u044f \u0442\u0435\u0445, \u043a\u0442\u043e \u0445\u043e\u0447\u0435\u0442 \u043f\u043e\u043a\u043e\u043d\u0447\u0438\u0442\u044c \u0436\u0438\u0437\u043d\u044c \u0441\u0430\u043c\u043e\u0443\u0431\u0438\u0439\u0441\u0442\u0432\u043e\u043c. \u0420\u0435\u0446\u0435\u043f\u0442\u044b \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u044c\u0441\u044f \u043e\u0442 \u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0438\u0438 \u0438 \u043e\u0431\u0440\u0435\u0441\u0442\u0438 \u0440\u0430\u0434\u043e\u0441\u0442\u044c \n\u0436\u0438\u0437\u043d\u0438. \u041b\u0435\u0447\u0435\u043d\u0438\u0435 \u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0438\u0438",
         "Official Site": "https://pobedish.ru",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://pobedish.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pobedish.ru"
@@ -68,6 +68,16 @@
         "Redirect": "https://www.brokerdaily.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.brokerdaily.au/"
+    },
+    {
+        "link": "https://sen-gt.com",
+        "Heading": "SEN GLOBAL TECHNOLOGY \u2013 le partenaire de votre transformation digital",
+        "Abstract": null,
+        "Official Site": "https://sen-gt.com",
+        "Icon": "https://sen-gt.com/wp-content/uploads/2020/07/cropped-senglobalt-1-1-32x32.png",
+        "Redirect": "https://sen-gt.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sen-gt.com"
     },
     {
         "link": "https://londoncocktailweek.com",
@@ -88,6 +98,26 @@
         "Redirect": "https://passwords-generator.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://passwords-generator.org"
+    },
+    {
+        "link": "https://fattempte.club",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://fattempte.club",
+        "Icon": "N/A",
+        "Redirect": "https://fattempte.club",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fattempte.club"
+    },
+    {
+        "link": "https://fawe.org",
+        "Heading": "Home - FORUM FOR AFRICAN WOMEN EDUCATIONALISTS (FAWE)",
+        "Abstract": "Our Mission To promote gender responsive policies, practices, and attitudes in education to enhance equal opportunities for African girls and women. Our Vision An equitable and inclusive society where all African girls and women are thriving Our Motto Education for Change Support us About us FAWE\u2019s work is to encourage governments, international organisations and local [\u2026]",
+        "Official Site": "http://fawe.org/en/",
+        "Icon": "https://fawe.org/wp-content/uploads/2025/07/volume-up.png",
+        "Redirect": "http://fawe.org/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://fawe.org/en/"
     },
     {
         "link": "https://elsenutrition.com",
@@ -148,16 +178,6 @@
         "Redirect": "https://search-advisors.freee.co.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://search-advisors.freee.co.jp/"
-    },
-    {
-        "link": "https://verify-365.com",
-        "Heading": "Game Plan Bets",
-        "Abstract": null,
-        "Official Site": "https://verify-365.com/",
-        "Icon": "N/A",
-        "Redirect": "https://verify-365.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://verify-365.com/"
     },
     {
         "link": "https://rakudo.org",
@@ -298,5 +318,15 @@
         "Redirect": "https://x-cazinos-x.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://x-cazinos-x.xyz"
+    },
+    {
+        "link": "https://lordv1.online",
+        "Heading": "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 \u0441\u0435\u0440\u0438\u0430\u043b\u044b \u043e\u043d\u043b\u0430\u0439\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e",
+        "Abstract": "",
+        "Official Site": "https://lordv1.online",
+        "Icon": "/templates/Lord-rip-dark/images/favicon.png",
+        "Redirect": "https://lordv1.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lordv1.online"
     }
 ]

@@ -10,6 +10,16 @@
         "AbstractURL": "https://nexeventa.com"
     },
     {
+        "link": "https://sumy-times.net",
+        "Heading": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438, \u0431\u043b\u043e\u0433\u0438 \u0438 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438, \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0436\u0443\u0440\u043d\u0430\u043b\u0438\u0441\u0442\u043e\u0432 \u0433\u043e\u0440\u043e\u0434\u0430 \u0421\u0443\u043c\u044b | The Sumy Times",
+        "Abstract": "\u041c\u0435\u0434\u0438\u0430-\u043f\u0440\u043e\u0435\u043a\u0442 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u043d\u043e\u0432\u043e\u0441\u0442\u0438, \u0444\u0430\u043a\u0442\u044b, \u043e\u0431\u043e\u0437\u043e\u0440\u044b, \u0430\u043d\u043e\u043d\u0441\u044b \u0441\u043e\u0431\u044b\u0442\u0438\u0439 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0421\u0443\u043c\u044b \u0438 \u0440\u0435\u0433\u0438\u043e\u043d\u0435. \u0411\u043b\u043e\u0433\u0438 \u0438 \u0444\u043e\u0442\u043e\u0440\u0435\u043f\u043e\u0440\u0442\u0430\u0436\u0438 \u0436\u0443\u0440\u043d\u0430\u043b\u0438\u0441\u0442\u043e\u0432. \u0421\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0436\u0438\u0442\u0435\u043b\u0435\u0439 \u0433\u043e\u0440\u043e\u0434\u0430",
+        "Official Site": "https://sumy-times.net",
+        "Icon": "N/A",
+        "Redirect": "https://sumy-times.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sumy-times.net"
+    },
+    {
         "link": "https://g2risksolutions.com",
         "Heading": "G2RS Integrated Risk Management Solutions",
         "Abstract": "G2RS integrated risk management solutions provide comprehensive protection & control for businesses. We can help you mitigate risks, ensure compliance, and achieve sustainable growth.",
@@ -38,6 +48,16 @@
         "Redirect": "https://mates.org.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mates.org.au"
+    },
+    {
+        "link": "https://entreradio.com",
+        "Heading": "Entre Radio",
+        "Abstract": null,
+        "Official Site": "https://entreradio.com",
+        "Icon": "N/A",
+        "Redirect": "https://entreradio.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://entreradio.com"
     },
     {
         "link": "https://scentalle.com",
@@ -151,7 +171,7 @@
     },
     {
         "link": "https://zerkalnye-prava-2y7u.ru",
-        "Heading": "20.161.70.162 23.06.2026 07:30:13",
+        "Heading": "145.132.102.97 24.06.2026 07:34:05",
         "Abstract": null,
         "Official Site": "https://zerkalnye-prava-2y7u.ru",
         "Icon": "data:,",
@@ -231,13 +251,13 @@
     },
     {
         "link": "https://doremientertainment.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://doremientertainment.com",
-        "Icon": "data:;",
-        "Redirect": "https://doremientertainment.com",
+        "Heading": "Homepage - DoReMi Entertainment Events",
+        "Abstract": "Where Fun Meets Every Occasion\u2014Bringing the Party to You! Pfamily owned and operated We specialize in small to medium backyard parties, school and community events Carnival Games Photo Booths Tents, Tables & Chairs Concessions Check Availability Inflatables",
+        "Official Site": "https://doremientertainment.com/",
+        "Icon": "https://doremientertainment.com/wp-content/uploads/2025/02/cropped-DoReMi-1.png",
+        "Redirect": "https://doremientertainment.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://doremientertainment.com"
+        "AbstractURL": "https://doremientertainment.com/"
     },
     {
         "link": "https://oc-start.ru",
@@ -288,5 +308,15 @@
         "Redirect": "https://www.enjoymoviesyourway.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.enjoymoviesyourway.com/"
+    },
+    {
+        "link": "https://websitehostingssd.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://websitehostingssd.com",
+        "Icon": "N/A",
+        "Redirect": "https://websitehostingssd.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://websitehostingssd.com"
     }
 ]

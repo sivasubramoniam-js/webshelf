@@ -1,13 +1,13 @@
 [
     {
-        "link": "https://mizar24.ro",
-        "Heading": "Mizar24.ro",
-        "Abstract": "",
-        "Official Site": "https://mizar24.ro",
-        "Icon": "https://mizar24.ro/img/favicon.ico?1763072326",
-        "Redirect": "https://mizar24.ro",
+        "link": "https://mediatiko.com",
+        "Heading": "Mediatiko - Noticias en espa\u00f1ol de Latinoam\u00e9rica",
+        "Abstract": null,
+        "Official Site": "https://www.mediatiko.com/",
+        "Icon": "https://www.mediatiko.com/wp-content/uploads/2022/12/logo-mediatiko2-e1680531916473.png",
+        "Redirect": "https://www.mediatiko.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mizar24.ro"
+        "AbstractURL": "https://www.mediatiko.com/"
     },
     {
         "link": "https://novegume.si",
@@ -148,6 +148,16 @@
         "Redirect": "https://www.tennisratio.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tennisratio.com/"
+    },
+    {
+        "link": "https://theflooringguys.com.au",
+        "Heading": "The Flooring Guys - Hybrid Flooring & Laminate Flooring Online",
+        "Abstract": "Shop Hybrid Flooring, Engineered Timber Flooring, Vinyl Flooring and Laminate Flooring. See The Flooring Guys range of quality flooring online today!",
+        "Official Site": "https://theflooringguys.com.au/",
+        "Icon": "https://theflooringguys.com.au/wp-content/uploads/2024/06/quick-step-flooring-logo.webp",
+        "Redirect": "https://theflooringguys.com.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://theflooringguys.com.au/"
     },
     {
         "link": "https://tianyabooks.com",
