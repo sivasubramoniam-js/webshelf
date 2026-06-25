@@ -20,16 +20,6 @@
         "AbstractURL": "https://bvhk.de"
     },
     {
-        "link": "https://sportsnutrition.org",
-        "Heading": "Sports Nutrition \u2013 personal trainer, vendita online di integratori, proteine",
-        "Abstract": null,
-        "Official Site": "https://sportsnutrition.org",
-        "Icon": "N/A",
-        "Redirect": "https://sportsnutrition.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sportsnutrition.org"
-    },
-    {
         "link": "https://healthybuddha.in",
         "Heading": "Healthy Buddha - Buy Organic Fruits & Vegetables Online in Bangalore | Organic Store | Free Home Delivery",
         "Abstract": "Order organic fruits, vegetables, exotics, honey, eggs, tea, ghee, A2 milk and poultry from best organic store online in Bangalore. Get free home delivery within 24 hrs.\n",
@@ -58,16 +48,6 @@
         "Redirect": "https://checktav.co.il",
         "AbstractSource": "BS4",
         "AbstractURL": "https://checktav.co.il"
-    },
-    {
-        "link": "https://kasteelwijenburg.nl",
-        "Heading": "Trouwlocatie Kasteel Wijenburg - romantisch en uniek trouwen in ons kasteel",
-        "Abstract": "Kasteel Wijenburg, gelegen in Gelderland - De meest unieke en romantische trouwlocatie van Nederland - Trouwen in ons kasteel is een droombruiloft",
-        "Official Site": "https://www.kasteelwijenburg.nl/",
-        "Icon": "https://www.kasteelwijenburg.nl/wp-content/uploads/2025/02/Kasteel-Wijenburg_Kasteel-Wijenburg-o.webp",
-        "Redirect": "https://www.kasteelwijenburg.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kasteelwijenburg.nl/"
     },
     {
         "link": "https://tidesport.org",
@@ -160,16 +140,6 @@
         "AbstractURL": "https://www.cmtevents.com/"
     },
     {
-        "link": "https://lada-awdm.ru",
-        "Heading": "\u0410\u0432\u0442\u043e\u0441\u0430\u043b\u043e\u043d \u041b\u0410\u0414\u0410 \u0426\u0415\u041d\u0422\u0420 \u041a\u0418\u0420\u041e\u0412, \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442",
-        "Abstract": "\u0410\u0432\u0442\u043e\u0441\u0430\u043b\u043e\u043d \u00ab\u041b\u0410\u0414\u0410 \u0426\u0435\u043d\u0442\u0440 \u041a\u0438\u0440\u043e\u0432\u00bb, \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0430\u0432\u0442\u043e\u0441\u0430\u043b\u043e\u043d\u0430 \u043d\u0430 \u041a\u0430\u0440\u043b\u0430 \u041c\u0430\u0440\u043a\u0441\u0430, 4. \u041a\u0443\u043f\u0438\u0442\u044c \u043d\u043e\u0432\u043e\u0435 \u0430\u0432\u0442\u043e LADA \u0443 \u0434\u0438\u043b\u0435\u0440\u0430 \u043d\u0430 \u0432\u044b\u0433\u043e\u0434\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445. \u0422\u0435\u0441\u0442-\u0434\u0440\u0430\u0439\u0432 \u0432\u0441\u0435\u0445 \u043c\u043e\u0434\u0435\u043b\u0435\u0439.",
-        "Official Site": "https://lada-awdm.ru/",
-        "Icon": "https://lada-awdm.ru/u/f4d9302f403b434c81a016c25bf30f53-16x16.png",
-        "Redirect": "https://lada-awdm.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lada-awdm.ru/"
-    },
-    {
         "link": "https://idrivee2-41.com",
         "Heading": "S3 Compatible Storage - IDrive\u00ae e2",
         "Abstract": "IDrive\u00ae e2 offers low-cost cloud storage infrastructure for developers and businesses. Scale business and development infinitely with global access & availability",
@@ -194,7 +164,7 @@
         "Heading": "\n      Artisan Sausages & Smoked Bacon in Chiang Mai | Chef\u2019s Sausage\n    ",
         "Abstract": "Shop artisan sausages, smoked bacon, and premium meats in Chiang Mai. Same-day delivery and nationwide shipping.",
         "Official Site": "https://chefsausage.com/",
-        "Icon": "http://chefsausage.com/cdn/shop/files/IMG_7953_6d082370-c8d2-4795-b639-e537a633c9ba.png?v=1737952914&width=2048",
+        "Icon": "http://cdn.shopify.com/s/files/1/0898/6388/0994/files/IMG_7953_6d082370-c8d2-4795-b639-e537a633c9ba.png?v=1737952914&width=2048",
         "Redirect": "https://chefsausage.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chefsausage.com/"
@@ -221,13 +191,13 @@
     },
     {
         "link": "https://ibex-ai.com",
-        "Heading": "Ibex Medical Analytics",
-        "Abstract": "Every day, our field-proven, AI-powered diagnostic solutions help pathologists ensure better cancer care for patients around the world",
-        "Official Site": "https://ibex-ai.com/",
-        "Icon": "https://ibex-ai.com/wp-content/uploads/2025/08/cropped-X_Ibex_512x512.png",
-        "Redirect": "https://ibex-ai.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ibex-ai.com",
+        "Icon": "data:;",
+        "Redirect": "https://ibex-ai.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ibex-ai.com/"
+        "AbstractURL": "https://ibex-ai.com"
     },
     {
         "link": "https://jysk-payroll.com",

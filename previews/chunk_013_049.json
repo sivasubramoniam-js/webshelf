@@ -81,13 +81,13 @@
     },
     {
         "link": "https://corkscore.com",
-        "Heading": "Home",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://corkscore.com/",
-        "Icon": "N/A",
-        "Redirect": "https://corkscore.com/",
+        "Official Site": "https://corkscore.com",
+        "Icon": "data:;",
+        "Redirect": "https://corkscore.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://corkscore.com/"
+        "AbstractURL": "https://corkscore.com"
     },
     {
         "link": "https://cornerstonerealtygroupca.com",
@@ -118,6 +118,16 @@
         "Redirect": "https://coronersconnect.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://coronersconnect.co.uk"
+    },
+    {
+        "link": "https://corvette-restoration.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://corvette-restoration.com",
+        "Icon": "data:;",
+        "Redirect": "https://corvette-restoration.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://corvette-restoration.com"
     },
     {
         "link": "https://crisfer.com",
@@ -250,26 +260,6 @@
         "AbstractURL": "https://debulp.com"
     },
     {
-        "link": "https://dennis-blauhut.de",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dennis-blauhut.de",
-        "Icon": "./favicon.ico",
-        "Redirect": "https://dennis-blauhut.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dennis-blauhut.de"
-    },
-    {
-        "link": "https://densonsales.com",
-        "Heading": "Denson Sales - Welcome",
-        "Abstract": "Denson Sales",
-        "Official Site": "https://densonsales.com",
-        "Icon": "http://www.densonsales.com/skin/frontend/densonsales/default/favicon.ico",
-        "Redirect": "https://densonsales.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://densonsales.com"
-    },
-    {
         "link": "https://depilator.net",
         "Heading": "\u4e66\u9601\u7f51 - \u6700\u597d\u770b\u7684\u514d\u8d39\u5c0f\u8bf4\u9605\u8bfb\u7f51",
         "Abstract": "\u4e66\u9601\u7f51\u81f4\u529b\u4e8e\u6253\u9020\u65e0\u5e7f\u544a\u65e0\u5f39\u7a97\u7684\u5728\u7ebf\u5c0f\u8bf4\u9605\u8bfb\u7f51\u7ad9\uff0c\u4e66\u9601\u7f51\u514d\u8d39\u9605\u8bfb\u7f51\u63d0\u4f9b\u5c0f\u8bf4\u5728\u7ebf\u9605\u8bfb\uff0c\u5c0f\u8bf4TXT\u4e0b\u8f7d\uff0c\u7f51\u7ad9\u6ca1\u6709\u5f39\u7a97\u5e7f\u544a\u9875\u9762\u7b80\u6d01\u3002",
@@ -290,6 +280,16 @@
         "AbstractURL": "https://www.derailedcommodity.com/"
     },
     {
+        "link": "https://desagolfhouse.com",
+        "Heading": "Desa Golf House",
+        "Abstract": null,
+        "Official Site": "https://desagolfhouse.com/",
+        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9kZXNhZ29sZmhvdXNlLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMVwvMDFcL2Nyb3BwZWQtRGVzYS1Hb2xmLUxvZ28tMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IkRlc2EgR29sZiBIb3VzZSIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODY2NzEzMTV9.0Gn3gsbOy10YC57pHyh-aXXkE7rnz-9iz5sdMj5OnS4MQ",
+        "Redirect": "https://desagolfhouse.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://desagolfhouse.com/"
+    },
+    {
         "link": "https://deschouxetdesroses.fr",
         "Heading": "Des Choux et des Roses - V\u00eatement enfant, mobilier, Liste de naissance",
         "Abstract": "Des Choux et des Roses \u2013 Boutique de pu\u00e9riculture \u00e0 Ajaccio : articles pour b\u00e9b\u00e9s de 0 \u00e0 3 ans, mobilier et listes de naissance",
@@ -304,7 +304,7 @@
         "Heading": "\u0417\u0430\u043f\u0447\u0430\u0441\u0442\u0438 \u0434\u043b\u044f \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u043f\u043e \u0432\u044b\u0433\u043e\u0434\u043d\u044b\u043c \u0446\u0435\u043d\u0430\u043c \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u0432 \u041b\u0438\u043f\u0435\u0446\u043a\u0435 \u0438 \u043f\u043e \u0420\u043e\u0441\u0441\u0438\u0438 \u2014 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d DG-Trade",
         "Abstract": "\u041f\u0440\u043e\u0434\u0430\u0436\u0430 \u0437\u0430\u043f\u0430\u0441\u043d\u044b\u0445 \u0447\u0430\u0441\u0442\u0435\u0439 \u0434\u043b\u044f \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0438: \u044d\u043a\u0441\u043a\u0430\u0432\u0430\u0442\u043e\u0440\u043e\u0432, \u043f\u043e\u0433\u0440\u0443\u0437\u0447\u0438\u043a\u043e\u0432, \u0431\u0443\u043b\u044c\u0434\u043e\u0437\u0435\u0440\u043e\u0432 \u0438 \u0434\u0440. \u041e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0438 \u0430\u043d\u0430\u043b\u043e\u0433\u043e\u0432\u044b\u0435 \u0437\u0430\u043f\u0447\u0430\u0441\u0442\u0438 \u0434\u043b\u044f JCB, Carraro, Komatsu, Terex, Volvo, New Holland, Caterpillar, Hitachi, Doosan, Hidromek, \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442\u0443\u044e\u0449\u0438\u0435 Perkins, Deutz, Isuzu, Cummins, Iveco.",
         "Official Site": "https://dg-trade.ru/",
-        "Icon": "https://dg-trade.ru/upload/resize_cache/webp/upload/CNext/e67/e67cc8305cb3b8001be7a103f6a02770.webp",
+        "Icon": "https://dg-trade.ru/upload/resize_cache/webp/CNext/e67/e67cc8305cb3b8001be7a103f6a02770.webp",
         "Redirect": "https://dg-trade.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dg-trade.ru/"

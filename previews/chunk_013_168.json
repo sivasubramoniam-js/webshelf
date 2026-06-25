@@ -13,11 +13,11 @@
         "link": "https://komm-passion.de",
         "Heading": "Startseite | komm.passion ",
         "Abstract": "Bei komm.passion verschmelzen Strategie und Kreation. Wir denken komplexe Themen bis zum Kern und verdichten sie zu klaren L\u00f6sungen, die wirklich wirken.",
-        "Official Site": "https://localhost:3000",
+        "Official Site": "https://komm-passion.de",
         "Icon": "https://a.storyblok.com/f/286108612279832/1200x630/6f6e776eeb/komm-passion-og.jpg/m/",
-        "Redirect": "https://localhost:3000",
+        "Redirect": "https://komm-passion.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://localhost:3000"
+        "AbstractURL": "https://komm-passion.de"
     },
     {
         "link": "https://facetshealthcare.com",
@@ -38,6 +38,16 @@
         "Redirect": "https://mylinuxtime.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mylinuxtime.de"
+    },
+    {
+        "link": "https://polimoon.com",
+        "Heading": "polimoon.com",
+        "Abstract": null,
+        "Official Site": "https://polimoon.com",
+        "Icon": "N/A",
+        "Redirect": "https://polimoon.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://polimoon.com"
     },
     {
         "link": "https://direnethosting.com",
@@ -120,16 +130,6 @@
         "AbstractURL": "https://herbsaint.com/"
     },
     {
-        "link": "https://makerswealthmanagement.com",
-        "Heading": "Wealth & Investment Management Services Firm, Retirement & Financial Planning Services Planner & Advisor San Antonio TX - MAKERS Wealth Management",
-        "Abstract": "MAKERS Wealth Management in San Antonio, TX, offers expert financial planning, investment advisory, and wealth management services to help you achieve your financial goals.",
-        "Official Site": "https://www.makerswealthmanagement.com",
-        "Icon": "https://static.wixstatic.com/media/e4d645_404824a9acd44825a1aa548124184329%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4d645_404824a9acd44825a1aa548124184329%7Emv2.jpg",
-        "Redirect": "https://www.makerswealthmanagement.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.makerswealthmanagement.com"
-    },
-    {
         "link": "https://myvariety.net",
         "Heading": "Down for maintenance \u2014 MyVariety",
         "Abstract": null,
@@ -158,6 +158,16 @@
         "Redirect": "https://leckerslaw.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://leckerslaw.com/"
+    },
+    {
+        "link": "https://italie.nl",
+        "Heading": "Itali\u00eb - Vakantie, Italiaanse les, recepten en nog veel meer",
+        "Abstract": "Vakantie, Italiaanse les, recepten en nog veel meer",
+        "Official Site": "https://www.italie.nl/",
+        "Icon": "https://www.italie.nl/wp-content/uploads/favicon-125x125.png",
+        "Redirect": "https://www.italie.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.italie.nl/"
     },
     {
         "link": "https://myabilities.org",
@@ -331,13 +341,13 @@
     },
     {
         "link": "https://willingjobs.com",
-        "Heading": "willingjobs.com \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "WillingJobs.com is a dynamic and versatile domain name that exudes confidence and innovation. This brandable name evokes a sense of enthusiasm and eagerness, making it perfect for a job recruitment platform or career counseling service. Wit",
-        "Official Site": "https://www.atom.com/lpd/name/willingjobs.com",
-        "Icon": "https://img.atom.com/story_images/visual_images/d-logo-3943-81581-willingjobs.jpg?class=show",
-        "Redirect": "https://www.atom.com/lpd/name/willingjobs.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://willingjobs.com",
+        "Icon": "N/A",
+        "Redirect": "https://willingjobs.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/lpd/name/willingjobs.com"
+        "AbstractURL": "https://willingjobs.com"
     },
     {
         "link": "https://claruscare.com",

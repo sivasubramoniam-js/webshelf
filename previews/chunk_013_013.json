@@ -201,13 +201,13 @@
     },
     {
         "link": "https://mwge.org",
-        "Heading": "The Movie Watcher's Guide to Enlightenment (MWGE)",
-        "Abstract": "With movie commentary for over 450 spiritual movies and regular movies alike, MWGE offers a fun and practical path to spiritual enlightenment!",
-        "Official Site": "https://mwge.org/",
-        "Icon": "https://mwge.org/wp-content/uploads/mwge-logo-on-teal-background.jpeg",
-        "Redirect": "https://mwge.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mwge.org",
+        "Icon": "data:;",
+        "Redirect": "https://mwge.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mwge.org/"
+        "AbstractURL": "https://mwge.org"
     },
     {
         "link": "https://tcomlp.com",
@@ -250,9 +250,19 @@
         "AbstractURL": "https://bullbbq.com/"
     },
     {
+        "link": "https://biogartenliving.de",
+        "Heading": "Nachhaltig g\u00e4rtnern & sinnvoll heimwerken | BioGartenLiving",
+        "Abstract": "Praxisnahe DIY-Anleitungen, Naturwissen & ehrliche Produkttests f\u00fcr einen lebendigen Garten \u2013 nachhaltig, verst\u00e4ndlich und direkt umsetzbar.",
+        "Official Site": "https://www.biogartenliving.de/",
+        "Icon": "https://www.biogartenliving.de/wp-content/uploads/2025/06/Naturgarten-Natursteinmauer.webp",
+        "Redirect": "https://www.biogartenliving.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.biogartenliving.de/"
+    },
+    {
         "link": "https://parcheha.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Site is undergoing maintenance",
+        "Abstract": "We are doing some work on our site. Please come back later. We'll be up and running in no time.",
         "Official Site": "https://parcheha.com",
         "Icon": "N/A",
         "Redirect": "https://parcheha.com",

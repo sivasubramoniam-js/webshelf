@@ -200,6 +200,16 @@
         "AbstractURL": "https://opendatastructures.org"
     },
     {
+        "link": "https://tmsmotorgroup.co.uk",
+        "Heading": "TMS Motor Group | Family Run Car Dealer in the Midlands",
+        "Abstract": "TMS Motor Group, a trusted family-run dealer in Coventry, Hinckley, Leicester and Loughborough. We offer friendly guidance, quality new and used cars and helpful aftersales support.",
+        "Official Site": "https://tmsmotorgroup.co.uk",
+        "Icon": "https://images.netdirector.co.uk/gforces-auto/image/upload/q_auto,c_fill,f_auto,fl_lossy,w_1200/auto-client/8e17a33f8062da955a92159b48a9a228/ex30_7.jpg",
+        "Redirect": "https://tmsmotorgroup.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tmsmotorgroup.co.uk"
+    },
+    {
         "link": "https://pharmalibrefrance.com",
         "Heading": "PharmaLibre France \u2013 Kamagra en Ligne Sans Ordonnance et Livraison Discr\u00e8te",
         "Abstract": "Bienvenue sur le site de la Soci\u00e9t\u00e9 Fran\u00e7aise de Cardiologie. D\u00e9couvrez nos congr\u00e8s, publications, formations et actions pour la sant\u00e9 cardiovasculaire.",
@@ -208,6 +218,16 @@
         "Redirect": "#/",
         "AbstractSource": "BS4",
         "AbstractURL": "#/"
+    },
+    {
+        "link": "https://southforkwind.com",
+        "Heading": "Discover NY\u2019s First Offshore Wind Farm| South Fork Wind",
+        "Abstract": "\u00d8rsted's South Fork Wind is New York\u2019s first offshore wind farm and America\u2019s first commercial-scale offshore wind farm in federal waters",
+        "Official Site": "https://southforkwind.com",
+        "Icon": "https://cdn.orsted.com/-/media/www/images/corp/jv/southfork-wind/sfw-revamp-q12024/sfw_home_lookinside.jpg?rev=bb917dffac714c96a7c5f85343a19e1c&hash=DFD026732FDD345FC388CAA53C7DF461",
+        "Redirect": "https://southforkwind.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://southforkwind.com"
     },
     {
         "link": "https://pscoat.de",
@@ -231,13 +251,13 @@
     },
     {
         "link": "https://bigwinpictures.com",
-        "Heading": "Big Win Pictures - BigWinPictures",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://bigwinpictures.com/",
-        "Icon": "https://bigwinpictures.com/wp-content/uploads/BigWinPictures-Logo-subscribers-125x125.jpg",
-        "Redirect": "https://bigwinpictures.com/",
+        "Official Site": "https://bigwinpictures.com",
+        "Icon": "data:;",
+        "Redirect": "https://bigwinpictures.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bigwinpictures.com/"
+        "AbstractURL": "https://bigwinpictures.com"
     },
     {
         "link": "https://zdorovie-vn.ru",

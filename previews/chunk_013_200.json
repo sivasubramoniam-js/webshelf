@@ -11,10 +11,10 @@
     },
     {
         "link": "https://trickysite.com",
-        "Heading": "Tricky | Home",
-        "Abstract": "",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://trickysite.com",
-        "Icon": "https://www.trickysite.com/wp-content/themes/tricky/_assets/img/shareImage.jpg",
+        "Icon": "data:;",
         "Redirect": "https://trickysite.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trickysite.com"
@@ -38,16 +38,6 @@
         "Redirect": "https://pocketoffice.pro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pocketoffice.pro"
-    },
-    {
-        "link": "https://prime-avto.ru",
-        "Heading": "\u042d\u0412\u0410 \u043a\u043e\u0432\u0440\u0438\u043a\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 | \u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u043a\u043e\u0432\u0440\u044b EVA \u043a\u0443\u043f\u0438\u0442\u044c \u0432 \u00abPrime Avto\u00bb",
-        "Abstract": "\u042d\u0412\u0410 \u043a\u043e\u0432\u0440\u0438\u043a\u0438 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 | \u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u043a\u043e\u0432\u0440\u044b EVA \u043a\u0443\u043f\u0438\u0442\u044c \u0432 \u00abPrime Avto\u00bb",
-        "Official Site": "https://www.prime-avto.ru/",
-        "Icon": "https://www.prime-avto.ru/images/logo.png",
-        "Redirect": "https://www.prime-avto.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.prime-avto.ru/"
     },
     {
         "link": "https://koithe.com",
@@ -88,16 +78,6 @@
         "Redirect": "https://armandomipc.com.pe",
         "AbstractSource": "BS4",
         "AbstractURL": "https://armandomipc.com.pe"
-    },
-    {
-        "link": "https://verenigingfas.nl",
-        "Heading": "De vereniging Familie- en erfrecht Advocaten Scheidingsmediators",
-        "Abstract": "Het personen-, familie- en erfrecht is een rechtsgebied dat volop in beweging en in ontwikkeling is. Dat geldt zeker ook voor de vFAS >>>",
-        "Official Site": "https://verenigingfas.nl/",
-        "Icon": "https://verenigingfas.nl/wp-content/uploads/2024/08/Echtscheidingsmediator-vFAS.jpg",
-        "Redirect": "https://verenigingfas.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://verenigingfas.nl/"
     },
     {
         "link": "https://academiaventasdigitales.com",

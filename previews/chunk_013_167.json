@@ -10,16 +10,6 @@
         "AbstractURL": "https://b2chosting.in"
     },
     {
-        "link": "https://els-weiskirchen.de",
-        "Heading": "\n                    IServ - els-weiskirchen.de\n            ",
-        "Abstract": null,
-        "Official Site": "https://els-weiskirchen.de",
-        "Icon": "/iserv/css/static/icons/android-chrome-192x192.fc2f37a3.png",
-        "Redirect": "https://els-weiskirchen.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://els-weiskirchen.de"
-    },
-    {
         "link": "https://hauskonstruktiv.ch",
         "Heading": "Startseite",
         "Abstract": "",
@@ -64,7 +54,7 @@
         "Heading": " Sheffield FC The World's First Football Club ",
         "Abstract": "Established in 1857, Sheffield FC is The World's First Football Club and a worldwide brand",
         "Official Site": "https://sheffieldfc.com",
-        "Icon": "https://sheffieldfc.com/img/social-banner.jpg?6a3b66bec11ca",
+        "Icon": "https://sheffieldfc.com/img/social-banner.jpg?6a3cb915661b6",
         "Redirect": "https://sheffieldfc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sheffieldfc.com"
@@ -248,6 +238,16 @@
         "Redirect": "https://seanetcall.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://seanetcall.com"
+    },
+    {
+        "link": "https://team110.nrw",
+        "Heading": "Team 110 - Arbeiten bei der Polizei NRW",
+        "Abstract": "Arbeiten bei der Polizei NRW: Alle Ausbildungswege und Einstiegsm\u00f6glichkeiten, exklusive Einblicke in den Berufsalltag",
+        "Official Site": "https://www.team110.nrw/",
+        "Icon": "https://www.team110.nrw/wp-content/uploads/2025/09/PolizeiNRW_Komm-ins-Team_Signet_weiss.png",
+        "Redirect": "https://www.team110.nrw/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.team110.nrw/"
     },
     {
         "link": "https://sbscyber.com",

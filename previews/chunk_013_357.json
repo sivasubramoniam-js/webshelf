@@ -100,16 +100,6 @@
         "AbstractURL": "https://adroithost.com"
     },
     {
-        "link": "https://hc-molot.ru",
-        "Heading": "\u0425\u041a \u041c\u043e\u043b\u043e\u0442",
-        "Abstract": "\u0425\u041a \u041c\u043e\u043b\u043e\u0442",
-        "Official Site": "https://hc-molot.ru",
-        "Icon": "N/A",
-        "Redirect": "https://hc-molot.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hc-molot.ru"
-    },
-    {
         "link": "https://complemento.net.br",
         "Heading": "ligerosmart-ai",
         "Abstract": null,
@@ -144,7 +134,7 @@
         "Heading": "SFORGE \u2022 Mixture of Experts: Web Apps, Hosting and More\u2026",
         "Abstract": "Mixture of Experts: Web Apps, Hosting and More\u2026",
         "Official Site": "https://sforge.com/",
-        "Icon": "https://cdn.sforge.com/wp-content/uploads/Vector-Logo.png",
+        "Icon": "https://sforge.com/wp-content/uploads/Vector-Logo.png",
         "Redirect": "https://sforge.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sforge.com/"
@@ -251,13 +241,13 @@
     },
     {
         "link": "https://drdavisinfinitehealth.com",
-        "Heading": "Dr. William Davis | Cardiologist & Author of Wheat Belly Books",
-        "Abstract": "Dr. William Davis, cardiologist, author of the New York Times Bestselling Wheat Belly Books, and health crusader for the wheat-free, grain-free lifestyle",
-        "Official Site": "https://drdavisinfinitehealth.com/",
-        "Icon": "https://drdavisinfinitehealth.com/wp-content/uploads/2022/01/wheat-belly-copy.jpg",
-        "Redirect": "https://drdavisinfinitehealth.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://drdavisinfinitehealth.com",
+        "Icon": "data:;",
+        "Redirect": "https://drdavisinfinitehealth.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://drdavisinfinitehealth.com/"
+        "AbstractURL": "https://drdavisinfinitehealth.com"
     },
     {
         "link": "https://greedyeats.com",

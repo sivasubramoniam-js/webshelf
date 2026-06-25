@@ -51,13 +51,13 @@
     },
     {
         "link": "https://vereniginghomeopathie.nl",
-        "Heading": "Vereniging Homeopathie",
-        "Abstract": "Ontdek de kracht van homeopathie bij de Vereniging Homeopathie. Vind uitgebreide informatie, deskundige behandelaars en alles over homeopathische behandelingen. Sluit je aan bij onze community en ontdek een natuurlijke weg naar gezondheid.",
-        "Official Site": "https://vereniginghomeopathie.nl/",
-        "Icon": "https://vereniginghomeopathie.nl/wp-content/uploads/2023/10/header2-9-1024x314-1.jpeg",
-        "Redirect": "https://vereniginghomeopathie.nl/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://vereniginghomeopathie.nl",
+        "Icon": "data:;",
+        "Redirect": "https://vereniginghomeopathie.nl",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vereniginghomeopathie.nl/"
+        "AbstractURL": "https://vereniginghomeopathie.nl"
     },
     {
         "link": "https://pubmighty.com",
@@ -71,8 +71,8 @@
     },
     {
         "link": "https://ustadbilisim.com",
-        "Heading": "\u00dcstad Bili\u015fim - Bulut Altyap\u0131 ve Y\u00f6netilen BT Hizmetleri",
-        "Abstract": "\u00dcstad Bili\u015fim ile y\u00fcksek standartl\u0131 bulut altyap\u0131s\u0131, kurumsal siber g\u00fcvenlik ve y\u00f6netilen sistem destek hizmetleri.",
+        "Heading": "\u00dcstad Bili\u015fim | Kurumsal Altyap\u0131 ve M\u00fc\u015fteri Operasyon Hizmetleri",
+        "Abstract": "\u00dcstad Bili\u015fim; s\u00f6zle\u015fmeli ve fatural\u0131 m\u00fc\u015fterileri i\u00e7in bulut altyap\u0131, g\u00fcvenlik, m\u00fc\u015fteri portal\u0131 ve operasyon hizmetleri sunar.",
         "Official Site": "https://ustadbilisim.com",
         "Icon": "N/A",
         "Redirect": "https://ustadbilisim.com",
@@ -140,16 +140,6 @@
         "AbstractURL": "https://www.tdlc.cl/"
     },
     {
-        "link": "https://ymerfrisbee.se",
-        "Heading": "Ymer Frisbee",
-        "Abstract": null,
-        "Official Site": "https://ymerfrisbee.se/",
-        "Icon": "https://impro.usercontent.one/appid/oneComWsb/domain/ymerfrisbee.se/media/ymerfrisbee.se/onewebmedia/Ymerlogga_svart_transparent.png?etag=W%2F%2216839-6506cf92%22&sourceContentType=image%2Fpng&quality=85",
-        "Redirect": "https://ymerfrisbee.se/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ymerfrisbee.se/"
-    },
-    {
         "link": "https://cavesa.ch",
         "Heading": "Le Club Des Amateurs de Vins Exquis Cavesa.ch",
         "Abstract": "Depuis plus de trente ans, Le Club Des Amateurs de Vins Exquis sillonne les vignobles du monde entier pour ramener le meilleur du vin",
@@ -198,6 +188,16 @@
         "Redirect": "https://hostiraj.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hostiraj.net"
+    },
+    {
+        "link": "https://buymeblog.com",
+        "Heading": "The Buy Me Blog - Buy Me!",
+        "Abstract": "Buy Me!",
+        "Official Site": "https://buymeblog.com/",
+        "Icon": "N/A",
+        "Redirect": "https://buymeblog.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://buymeblog.com/"
     },
     {
         "link": "https://regio-business.nl",
@@ -268,16 +268,6 @@
         "Redirect": "https://marazultour.com.br/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://marazultour.com.br/"
-    },
-    {
-        "link": "https://estecenter.com",
-        "Heading": "Estecenter Plastic Surgery Center - Istanbul T\u00fcrkiye",
-        "Abstract": "Estecenter offers excellent healthcare services with its many medical staff and doctors who specialize in aesthetics.",
-        "Official Site": "https://estecenter.com/",
-        "Icon": "https://estecenter.com/wp-content/uploads/2024/04/este-site0icon.png",
-        "Redirect": "https://estecenter.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://estecenter.com/"
     },
     {
         "link": "https://techkathosting.com",

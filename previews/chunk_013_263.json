@@ -160,26 +160,6 @@
         "AbstractURL": "https://www.orbitalmarine.com/"
     },
     {
-        "link": "https://windweb.pl",
-        "Heading": "Start",
-        "Abstract": null,
-        "Official Site": "https://windweb.pl",
-        "Icon": "/images/favicon.ico",
-        "Redirect": "https://windweb.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://windweb.pl"
-    },
-    {
-        "link": "https://lumma.de",
-        "Heading": "Nico Lumma - Hamburg, Deutschland | about.me",
-        "Abstract": "I am a public speaker, Entrepreneur, and Author in Hamburg, Deutschland. Sign up for my newsletter.",
-        "Official Site": "https://about.me/lumma",
-        "Icon": "https://about.me/cdn-cgi/image/q=80,dpr=1,f=auto,fit=cover,w=1200,h=630,gravity=face/https://assets.about.me/background/users/l/u/m/lumma_1733666880_343.png",
-        "Redirect": "https://about.me/lumma",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://about.me/lumma"
-    },
-    {
         "link": "https://retromuzsika.hu",
         "Heading": "C\u00edmlap - Retromuzsika.hu",
         "Abstract": null,
@@ -254,7 +234,7 @@
         "Heading": "London Grow - Gardening, Urban Farming & Hydroponics Shop",
         "Abstract": "Huge selection of gardening, urban farming, CEA, grow lights, grow tents & hydroponics equipment. Shop online for fast UK delivery or visit our superstore.",
         "Official Site": "https://www.londongrow.com/",
-        "Icon": "//www.londongrow.com/cdn/shop/files/Favicon3_f9318013-f03d-4977-a15e-3c175cefba6e.png?v=1617353966&width=96",
+        "Icon": "//cdn.shopify.com/s/files/1/0289/9102/9332/files/Favicon3_f9318013-f03d-4977-a15e-3c175cefba6e.png?v=1617353966&width=96",
         "Redirect": "https://www.londongrow.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.londongrow.com/"
@@ -268,16 +248,6 @@
         "Redirect": "https://piau.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://piau.in"
-    },
-    {
-        "link": "https://frrswmem.xyz",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://frrswmem.xyz",
-        "Icon": "N/A",
-        "Redirect": "https://frrswmem.xyz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://frrswmem.xyz"
     },
     {
         "link": "https://mbafibeam.xyz",

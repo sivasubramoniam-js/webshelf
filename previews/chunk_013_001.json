@@ -40,6 +40,16 @@
         "AbstractURL": "https://websdirect.com"
     },
     {
+        "link": "https://bloggerjet.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bloggerjet.com",
+        "Icon": "data:;",
+        "Redirect": "https://bloggerjet.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bloggerjet.com"
+    },
+    {
         "link": "https://awtv.ru",
         "Heading": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043f\u0435\u0440\u0435\u0434\u0430\u0447 \u043d\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f, \u0437\u0430\u0432\u0442\u0440\u0430, \u043d\u0430 \u043d\u0435\u0434\u0435\u043b\u044e. \u0422\u0435\u043b\u0435\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043d\u0430 \u0432\u0441\u0435 \u043a\u0430\u043d\u0430\u043b\u044b - AWTV.ru",
         "Abstract": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043f\u0435\u0440\u0435\u0434\u0430\u0447 \u043d\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f. \u0422\u0435\u043b\u0435\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0432\u0441\u0435\u0445 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0442\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b\u043e\u0432 \u043d\u0430 \u043d\u0435\u0434\u0435\u043b\u044e. \u0423\u0434\u043e\u0431\u043d\u0430\u044f \u0438 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0442\u0435\u043b\u0435\u043f\u0435\u0440\u0435\u0434\u0430\u0447, \u0432\u0441\u0435 \u0444\u0438\u043b\u044c\u043c\u044b \u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0441 \u0432\u0438\u0434\u0435\u043e. \u0420\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043d\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f.",
@@ -180,6 +190,16 @@
         "AbstractURL": "https://openhpsdr.org"
     },
     {
+        "link": "https://nacwebhost.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://nacwebhost.com",
+        "Icon": "N/A",
+        "Redirect": "https://nacwebhost.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nacwebhost.com"
+    },
+    {
         "link": "https://livingcities.org",
         "Heading": "Living Cities",
         "Abstract": null,
@@ -211,7 +231,7 @@
     },
     {
         "link": "https://puretechdsm.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://puretechdsm.com",
         "Icon": "N/A",

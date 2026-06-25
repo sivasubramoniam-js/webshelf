@@ -251,13 +251,13 @@
     },
     {
         "link": "https://rijeka2020.eu",
-        "Heading": "Rijeka 2020 - Europska prijestolnica kulture \u2022 Rijeka 2020",
-        "Abstract": "U 2020. godini u Rijeci se odr\u017eava gotovo 300 kulturnih programa s vi\u0161e od 600 pojedina\u010dnih doga\u0111anja.",
-        "Official Site": "https://rijeka2020.eu/",
-        "Icon": "https://rijeka2020.eu/files/favicon-32x32.png",
-        "Redirect": "https://rijeka2020.eu/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://rijeka2020.eu",
+        "Icon": "data:;",
+        "Redirect": "https://rijeka2020.eu",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rijeka2020.eu/"
+        "AbstractURL": "https://rijeka2020.eu"
     },
     {
         "link": "https://aixzd.com",
@@ -278,6 +278,16 @@
         "Redirect": "https://sarasmichaelcollinssite.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sarasmichaelcollinssite.com"
+    },
+    {
+        "link": "https://creaturecomfortsbeer.com",
+        "Heading": "Creature Comforts",
+        "Abstract": "A purpose-driven, award-winning, craft brewery based in Athens, Georgia named the Official Taproom and Official Craft Beer of the University of Georgia Athletics in 2023.",
+        "Official Site": "https://creaturecomforts.co/",
+        "Icon": "https://creaturecomforts.co/wp-content/themes/ramp3-creature-comforts/img/favicon.png",
+        "Redirect": "https://creaturecomforts.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://creaturecomforts.co/"
     },
     {
         "link": "https://femaflavor.org",

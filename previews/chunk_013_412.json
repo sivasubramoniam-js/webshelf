@@ -331,13 +331,13 @@
     },
     {
         "link": "https://maryuriropainterior.com",
-        "Heading": "Inicio - Maryuri",
-        "Abstract": "Asistencia: 098 187 3849 0 days 00 hr 00 min 00 sc Beneficios Descuentos primera compra Producto del Mes Oferta",
-        "Official Site": "https://maryuriropainterior.com/",
-        "Icon": "https://maryuriropainterior.com/wp-content/uploads/2024/05/carrito-de-compras.png",
-        "Redirect": "https://maryuriropainterior.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://maryuriropainterior.com",
+        "Icon": "data:;",
+        "Redirect": "https://maryuriropainterior.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://maryuriropainterior.com/"
+        "AbstractURL": "https://maryuriropainterior.com"
     },
     {
         "link": "https://mascomintl.com",
@@ -354,7 +354,7 @@
         "Heading": "\n      Mask Queen Nepal\n",
         "Abstract": "\"Explore MQ for exquisite beauty essentials and skincare solutions. Discover our range of luxurious cosmetics, nourishing skincare, and professional-grade tools. Transform your beauty routine with MQ's curated selection of products crafted for elegance and effectiveness.\"",
         "Official Site": "https://maskqueenprofessional.com/",
-        "Icon": "http://maskqueenprofessional.com/cdn/shop/files/WeChat__20230321230520-removebg-preview_ac0e5ef9-3091-4f8a-9700-a833c612ef09.png?v=1679499356",
+        "Icon": "http://cdn.shopify.com/s/files/1/0739/0681/5292/files/WeChat__20230321230520-removebg-preview_ac0e5ef9-3091-4f8a-9700-a833c612ef09.png?v=1679499356",
         "Redirect": "https://maskqueenprofessional.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://maskqueenprofessional.com/"
@@ -398,6 +398,16 @@
         "Redirect": "https://mayoristaelcondor.com.ar/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mayoristaelcondor.com.ar/"
+    },
+    {
+        "link": "https://mazeto.sk",
+        "Heading": "Mazeto.sk \u2013 Autodiely, motorov\u00e9 oleje, ru\u010dn\u00e9ho n\u00e1radie, n\u00e1stroje a potreby pre dom, z\u00e1hradu a diel\u0148u.",
+        "Abstract": "Mazeto.sk \u2013 \u0160irok\u00e1 ponuka kvalitn\u00fdch autodielov, motorov\u00fdch olejov, n\u00e1radia pre dom, diel\u0148u a z\u00e1hradu. R\u00fdchle dodanie, skvel\u00e9 ceny a odborn\u00e9 poradenstvo. Nakupujte u odborn\u00edkov na autodiely!",
+        "Official Site": "https://mazeto.sk/",
+        "Icon": "https://mazeto.sk/assets/default/img/logo.png",
+        "Redirect": "https://mazeto.sk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mazeto.sk/"
     },
     {
         "link": "https://mc-auctions.com",

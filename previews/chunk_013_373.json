@@ -62,7 +62,7 @@
     {
         "link": "https://podiatrym.com",
         "Heading": "Podiatry Management Online",
-        "Abstract": "Podiatry Management is the national practice management and business magazine, reaching over 24,726 podiatrists.",
+        "Abstract": "Podiatry Management is the national practice management and business magazine, reaching over 24,702 podiatrists.",
         "Official Site": "https://podiatrym.com",
         "Icon": "N/A",
         "Redirect": "https://podiatrym.com",
@@ -248,15 +248,5 @@
         "Redirect": "https://cityofwestland.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cityofwestland.com"
-    },
-    {
-        "link": "https://divinitywiki.com",
-        "Heading": "Divinity Wiki",
-        "Abstract": null,
-        "Official Site": "https://divinitywiki.com/index.php/Main_Page",
-        "Icon": "N/A",
-        "Redirect": "https://divinitywiki.com/index.php/Main_Page",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://divinitywiki.com/index.php/Main_Page"
     }
 ]

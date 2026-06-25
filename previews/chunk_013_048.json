@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://calciotel.it",
-        "Heading": "Database Calcio e Risultati: Serie A, B, C, D | CalcioTel",
-        "Abstract": "Archivio storico e statistiche del calcio italiano dal 1994. Segui Serie A, B, C, D e giovanili con tabellini e news in tempo reale. Entra gratis!",
-        "Official Site": "https://www.calciotel.it/",
-        "Icon": "https://www.calciotel.it/logo/logocalciotel.webp",
-        "Redirect": "https://www.calciotel.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.calciotel.it/"
-    },
-    {
         "link": "https://canta-per-me.net",
         "Heading": "canta-per-me.net - A Yuki Kajiura Fansite \n\n\n",
         "Abstract": "",
@@ -60,6 +50,16 @@
         "AbstractURL": "https://capodagli.net/"
     },
     {
+        "link": "https://carflowmanager.com",
+        "Heading": "MotorK SaaS-oplossingen met AI voor de automotive: OEM's, autodealers",
+        "Abstract": "MotorK is de toonaangevende SaaS-onderneming in de auto-industrie in Europa voor innovatieve, ge\u00efntegreerde digitale oplossingen aangedreven door Kunstmatige Intelligentie.",
+        "Official Site": "https://www.motork.ai/nl/",
+        "Icon": "https://framerusercontent.com/images/AITHhG26oLjptitArpcNcHjmM4.png",
+        "Redirect": "https://www.motork.ai/nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.motork.ai/nl/"
+    },
+    {
         "link": "https://carteblanchehobbies.com",
         "Heading": "\n\nCarte Blanche Hobbies\n\n\n\n",
         "Abstract": "Your source for Magic: the Gathering, Yu-Gi-Oh!, WWE: Raw Deal and World of Warcraft trading cards",
@@ -71,13 +71,13 @@
     },
     {
         "link": "https://casani.fi",
-        "Heading": "Kenk\u00e4- ja vaatekauppa Raahessa - Casani",
-        "Abstract": "Casanin raahelainen vaatekauppa tarjoaa laadukkaat naisten vaatteet ja toimii my\u00f6s trendikk\u00e4\u00e4n\u00e4 kenk\u00e4kauppana sek\u00e4 miehille ett\u00e4 naisille.",
-        "Official Site": "https://www.casani.fi/",
-        "Icon": "https://www.casani.fi/wp-content/uploads/2025/10/vaatekauppa-kenkakauppa-casani-raahe.jpg",
-        "Redirect": "https://www.casani.fi/",
+        "Heading": "Casani \u2013 Ihanat naisten vaatteet ja keng\u00e4t",
+        "Abstract": null,
+        "Official Site": "https://casani.fi",
+        "Icon": "https://www.casani.fi/wp-content/uploads/2025/09/casani-pysty-black-scaled.png",
+        "Redirect": "https://casani.fi",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.casani.fi/"
+        "AbstractURL": "https://casani.fi"
     },
     {
         "link": "https://cbluxurybeverlyhills.com",
@@ -252,7 +252,7 @@
     {
         "link": "https://clrmarine.com",
         "Heading": "Marine Supply Store | Boat Parts, Pumps & Electronics | CLR Marine",
-        "Abstract": "Shop marine parts, pumps, safety gear, electronics, and boat supplies from CLR Marine, a veteran-owned marine supply store serving boaters nationwide.",
+        "Abstract": "Shop pumps, pump parts, electronics, and boat supplies from CLR Marine, a veteran-owned marine supply store serving boaters and Industry worldwide.",
         "Official Site": "http://www.clrmarine.com/",
         "Icon": "https://www.clrmarine.com/uploaded/images/clr_logo_revision_2.JPG",
         "Redirect": "http://www.clrmarine.com/",

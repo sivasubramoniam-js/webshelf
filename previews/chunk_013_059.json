@@ -261,13 +261,13 @@
     },
     {
         "link": "https://rdrive.io",
-        "Heading": "Progress Monitoring & Reporting Software | RDrive by SnagR",
-        "Abstract": "RDrive is progress monitoring software that helps teams capture field data and automate reporting for faster, smarter project delivery.",
-        "Official Site": "https://rdrive.io/en/",
-        "Icon": "https://rdrive.io/wp-content/uploads/2025/09/social-share.png",
-        "Redirect": "https://rdrive.io/en/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://rdrive.io",
+        "Icon": "data:;",
+        "Redirect": "https://rdrive.io",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rdrive.io/en/"
+        "AbstractURL": "https://rdrive.io"
     },
     {
         "link": "https://readefined.com",
@@ -288,6 +288,16 @@
         "Redirect": "https://realitypro.eu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://realitypro.eu"
+    },
+    {
+        "link": "https://recipepop.online",
+        "Heading": "recipepop",
+        "Abstract": null,
+        "Official Site": "https://recipepop.online",
+        "Icon": "N/A",
+        "Redirect": "https://recipepop.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://recipepop.online"
     },
     {
         "link": "https://redrosecps.com",

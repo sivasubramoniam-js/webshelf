@@ -64,7 +64,7 @@
         "Heading": "\n      Gibbs Direct Barbados - Affordable Products Direct To You\n    ",
         "Abstract": "Gibbs Direct is Barbados' leading online retailer of the best US, British, European and Far Eastern brands.",
         "Official Site": "https://gibbsdirect.com/",
-        "Icon": "http://gibbsdirect.com/cdn/shop/files/gibbs_directs_SMALL_logo_website_1200x1200.png?v=1655317778",
+        "Icon": "http://cdn.shopify.com/s/files/1/0651/8226/9662/files/gibbs_directs_SMALL_logo_website_1200x1200.png?v=1655317778",
         "Redirect": "https://gibbsdirect.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gibbsdirect.com/"
@@ -228,6 +228,16 @@
         "Redirect": "https://www.greenbeanbuddy.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.greenbeanbuddy.com/"
+    },
+    {
+        "link": "https://greenmedseu.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://greenmedseu.com",
+        "Icon": "data:;",
+        "Redirect": "https://greenmedseu.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greenmedseu.com"
     },
     {
         "link": "https://greentools-russia.ru",

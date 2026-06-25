@@ -70,6 +70,16 @@
         "AbstractURL": "https://jehjewels.com"
     },
     {
+        "link": "https://simplyorg-seminare.de",
+        "Heading": "Seminarverwaltung Software - digital statt Excel",
+        "Abstract": "Seminare einfach planen, verwalten und abrechnen. Die deutsche Seminarverwaltung- Software f\u00fcr Akademien und Bildungstr\u00e4ger. Jetzt Demo vereinbaren.",
+        "Official Site": "https://simplyorg.de/",
+        "Icon": "https://simplyorg.de/wp-content/uploads/favicon-simplyorg-2025-11-19.png",
+        "Redirect": "https://simplyorg.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://simplyorg.de/"
+    },
+    {
         "link": "https://elastoo.com",
         "Heading": "Elastoo Labs - Wallet Infrastructure for Crypto Exchanges & Processors",
         "Abstract": "Self-hosted wallet infrastructure for crypto exchanges, processors, and OTC desks. Ready for the upcoming regulation wave.",
@@ -141,13 +151,13 @@
     },
     {
         "link": "https://mission22.com",
-        "Heading": "Home - Mission 22 - Help for Veterans and Their Families",
-        "Abstract": "United In The War Against Veteran Suicide",
-        "Official Site": "https://mission22.org/",
-        "Icon": "http://mission22.org/wp-content/uploads/2025/07/Copy-of-Classy-Template-1280-x-720-px.png",
-        "Redirect": "https://mission22.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mission22.com",
+        "Icon": "data:;",
+        "Redirect": "https://mission22.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mission22.org/"
+        "AbstractURL": "https://mission22.com"
     },
     {
         "link": "https://americaninstrument.com",

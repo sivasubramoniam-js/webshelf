@@ -40,16 +40,6 @@
         "AbstractURL": "https://www.cgtfinancespubliques.fr/public/"
     },
     {
-        "link": "https://chaodufashi.com",
-        "Heading": "\u9f0e\u706b\u7f51\u7edc\u4fe1\u606f",
-        "Abstract": "\u4e3a\u60a8\u8be6\u7ec6\u89e3\u8bf4\u547d\u7406\u8fd0\u52bf\u8fd0\u7a0b\u3001\u98ce\u6c34\u547d\u7406\u3001\u5a5a\u59fb\u611f\u60c5\u547d\u7406\u3001\u5065\u5eb7\u5e73\u5b89\u547d\u7406\u3001\u516b\u5b57\u6d4b\u7b97\u7b49!",
-        "Official Site": "https://chaodufashi.com",
-        "Icon": "https://www.chaodufashi.com/favicon.ico",
-        "Redirect": "https://chaodufashi.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chaodufashi.com"
-    },
-    {
         "link": "https://chapfoundation.org",
         "Heading": "Chap Foundation",
         "Abstract": null,
@@ -128,6 +118,16 @@
         "Redirect": "https://cocktailored.se/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cocktailored.se/"
+    },
+    {
+        "link": "https://codecblend.com",
+        "Heading": "Home - CodecBlend",
+        "Abstract": "Website And Mobile App Development, Web & Graphic Design",
+        "Official Site": "http://codecblend.com/v3/",
+        "Icon": "http://codecblend.com/v3/images/logos/icon-codecblend-150X150.png",
+        "Redirect": "http://codecblend.com/v3/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://codecblend.com/v3/"
     },
     {
         "link": "https://coh-jaxu.site",

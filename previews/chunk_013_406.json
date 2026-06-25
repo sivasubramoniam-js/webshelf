@@ -111,10 +111,10 @@
     },
     {
         "link": "https://dronline.pt",
-        "Heading": "Tem de ir ao m\u00e9dico? V\u00e1 ao Dr.Online!",
-        "Abstract": "Videoconsultas m\u00e9dicas, urg\u00eancias, especialidades e atestados, sem sair de casa. No seu computador, tablet ou smartphone.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://dronline.pt",
-        "Icon": "https://dronline.pt/wp-content/uploads/2022/11/cropped-DrOnline-fav-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://dronline.pt",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dronline.pt"
@@ -151,8 +151,8 @@
     },
     {
         "link": "https://dymadis.com",
-        "Heading": "Dymadis : Achetez toujours le meilleur,Toujours disponible",
-        "Abstract": "Achats en toute s\u00e9curit\u00e9 sur Dymadis - Votre plateforme de confiance",
+        "Heading": " Dymadis : Achetez toujours le meilleur,Toujours disponible ",
+        "Abstract": "Achats en toute s\u00e9curit\u00e9, paiement \u00e0 la livraison, exp\u00e9dition rapide, excellent service client, service apr\u00e8s-vente, Livraison rapide partout en Alg\u00e9rie ...",
         "Official Site": "https://dymadis.com",
         "Icon": "https://dymadis.com/images/icondymadis.png",
         "Redirect": "https://dymadis.com",
@@ -178,16 +178,6 @@
         "Redirect": "https://e-toptech.gr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://e-toptech.gr/"
-    },
-    {
-        "link": "https://eabags.gr",
-        "Heading": "Elena Athanasiou Bags \u00ae | \u0394\u03b5\u03c1\u03bc\u03ac\u03c4\u03b9\u03bd\u03b5\u03c2 \u03a4\u03c3\u03ac\u03bd\u03c4\u03b5\u03c2 | Leather Bags",
-        "Abstract": "\u0394\u03b5\u03c1\u03bc\u03ac\u03c4\u03b9\u03bd\u03b5\u03c2 \u03a4\u03c3\u03ac\u03bd\u03c4\u03b5\u03c2 | Elena Athanasiou Bags \u00ae | \u03a7\u03b5\u03b9\u03c1\u03bf\u03c0\u03bf\u03af\u03b7\u03c4\u03b5\u03c2 \u03a4\u03c3\u03ac\u03bd\u03c4\u03b5\u03c2 \u0395\u039b\u0395\u039d\u0391 \u0391\u0398\u0391\u039d\u0391\u03a3\u0399\u039f\u03a5 | Handmade Leather Bags",
-        "Official Site": "https://eabags.gr/",
-        "Icon": "https://eabags.gr/wp-content/uploads/2026/04/1300-1.webp",
-        "Redirect": "https://eabags.gr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eabags.gr/"
     },
     {
         "link": "https://ebikestore.shop",
@@ -218,6 +208,16 @@
         "Redirect": "https://eboshealthcare.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eboshealthcare.com.au"
+    },
+    {
+        "link": "https://economicnails.es",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://economicnails.es",
+        "Icon": "data:;",
+        "Redirect": "https://economicnails.es",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://economicnails.es"
     },
     {
         "link": "https://econstrukt.ro",

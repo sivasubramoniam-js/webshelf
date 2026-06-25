@@ -60,16 +60,6 @@
         "AbstractURL": "https://turkiyeisdunyasi.com"
     },
     {
-        "link": "https://perthchildcare.com.au",
-        "Heading": "Perth Child Care - Western Australia ChildCare",
-        "Abstract": "Perth Child Care WA, Directory for finding Perth ChildCare, we also list Day Care for Babies and for Pre School.",
-        "Official Site": "https://perthchildcare.com.au/",
-        "Icon": "https://dirdata.b-cdn.net/img/sites/og/ogmd_desktop_154_efif0828_2111303717.jpg?crop_gravity=center&crop=1200,627",
-        "Redirect": "https://perthchildcare.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://perthchildcare.com.au/"
-    },
-    {
         "link": "https://akdm.link",
         "Heading": "AKADEMIA - E\u011fitim Kurumu Y\u00f6netim Platformu",
         "Abstract": null,
@@ -111,13 +101,13 @@
     },
     {
         "link": "https://epyx.co.uk",
-        "Heading": "epyx - Technology Solutions for the Automotive Sector",
-        "Abstract": "epyx Ltd provide technology solutions enabling the procurement, servicing, repair, hire and sale of more than five million vehicles a year. Learn about our Ecosystem here.",
-        "Official Site": "https://www.epyx.co.uk/",
-        "Icon": "https://epyx.co.uk/wp-content/uploads/2022/06/cropped-Digital.jpg",
-        "Redirect": "https://www.epyx.co.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://epyx.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://epyx.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.epyx.co.uk/"
+        "AbstractURL": "https://epyx.co.uk"
     },
     {
         "link": "https://jornalfax.net",
@@ -188,6 +178,16 @@
         "Redirect": "https://sidesmedia.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sidesmedia.com/"
+    },
+    {
+        "link": "https://waterfordvb.com",
+        "Heading": "New Luxury & Modern 1, 2 & 3 Bedroom Apartments For Rent With Spacious Rental Amenities Like Pool In Virginia Beach - Waterford Apartments",
+        "Abstract": "Discover spacious 1, 2 & 3 bedroom apartments for rent in Virginia Beach at Waterford Apartments, featuring luxury amenities like a pool and modern living spaces",
+        "Official Site": "https://waterfordvb.com/",
+        "Icon": "https://waterfordvb.com/wp-content/uploads/2023/03/6VN5ImqE.png",
+        "Redirect": "https://waterfordvb.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://waterfordvb.com/"
     },
     {
         "link": "https://ettijah.org.sa",
@@ -261,13 +261,13 @@
     },
     {
         "link": "https://jungdaphospital.com",
-        "Heading": "Phim Sex Vi\u1ec7t Nam - Xem Phim Sex M\u1edbi Nh\u1ea5t HD Kh\u00f4ng Che -Viet18",
-        "Abstract": "Xem phim sex Vi\u1ec7t Nam m\u1edbi nh\u1ea5t HD ch\u1ea5t l\u01b0\u1ee3ng cao, kh\u00f4ng che. C\u1eadp nh\u1eadt h\u00e0ng ng\u00e0y c\u00e1c clip sex vi\u1ec7t nam hot girl xinh, JAV v\u00e0 nhi\u1ec1u th\u1ec3 lo\u1ea1i h\u1ea5p d\u1eabn. Xem mi\u1ec5n ph\u00ed nhanh ch\u00f3ng t\u1ea1i \u0111\u00e2y.",
-        "Official Site": "https://dkwcs.com/",
-        "Icon": "https://dkwcs.com/static/uploads/20260602185842_6b43541c-fb5e-4f14-a9e5-9d2eea82a39b.webp",
-        "Redirect": "https://dkwcs.com/",
+        "Heading": "Xem Phim Sex Hay Tr\u1ef1c Tuy\u1ebfn Mi\u1ec5n Ph\u00ed T\u1ea1i Viet69VN",
+        "Abstract": "Xem phim sex hay nh\u1ea5t, phim sex online ch\u1ea5t l\u01b0\u1ee3ng HD t\u1ea1i Viet69VN. H\u00e0ng ngh\u00ecn video phim sex free c\u1eadp nh\u1eadt h\u00e0ng ng\u00e0y. Phim sex vi\u1ec7t nam, sex viet nam, phim sex vietsub \u0111\u1ec9nh nh\u1ea5t t\u1ea1i t-style-spl.com",
+        "Official Site": "https://t-style-spl.com/",
+        "Icon": "/static/images/logo.webp",
+        "Redirect": "https://t-style-spl.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dkwcs.com/"
+        "AbstractURL": "https://t-style-spl.com/"
     },
     {
         "link": "https://ari-motors.com",
@@ -302,7 +302,7 @@
     {
         "link": "https://elementpack.pro",
         "Heading": "Element Pack Pro \u2013 300+ Elementor Widgets & 2700+ Templates",
-        "Abstract": "Enhance your Elementor experience with 300+ advanced widgets, 2,700+ ready-made templates, Live Copy Paste, Mega Menu Builder, Theme Builder, and more. Starts from $49/year.",
+        "Abstract": "Enhance your Elementor experience with 300+ advanced widgets, 2,700+ ready-made templates, Live Copy Paste, Mega Menu Builder, Theme Builder, and more. Starts from $27/year.",
         "Official Site": "https://www.elementpack.pro",
         "Icon": "https://www.elementpack.pro/element-pack-pro-site-thumbnail.webp",
         "Redirect": "https://www.elementpack.pro",

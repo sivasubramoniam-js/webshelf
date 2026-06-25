@@ -34,7 +34,7 @@
         "Heading": "Kinchen Funeral Home, Inc. : Lafayette , Louisiana (LA)",
         "Abstract": "Kinchen Funeral Home, Inc. provides complete funeral and cremation services to Lafayette and Abbeville, Louisiana; as well as the Acadiana area.",
         "Official Site": "https://www.kinchenfuneralhome.com/",
-        "Icon": "https://www.kinchenfuneralhome.com/fh_live/10900/10975/images/premium/share_img.png?cb=0.142385283657",
+        "Icon": "https://www.kinchenfuneralhome.com/fh_live/10900/10975/images/premium/share_img.png?cb=0.392736592895",
         "Redirect": "https://www.kinchenfuneralhome.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.kinchenfuneralhome.com/"
@@ -94,7 +94,7 @@
         "Heading": "\n      Wyj\u0105tkowy sklep z pi\u0119knymi produktami dla dzieci oraz mam\n \u2013 Kokosek",
         "Abstract": "Sklep z artyku\u0142ami dla dzieci \u26a1 akcesoria dzieci\u0119ce, ubranka, zabawki. \u2705 Sprawd\u017a! \u2714\ufe0f",
         "Official Site": "https://kokosek.pl/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0748/2779/2664/files/logo.webp?v=1695383058",
+        "Icon": "http://kokosek.pl/cdn/shop/files/logo.webp?v=1695383058",
         "Redirect": "https://kokosek.pl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kokosek.pl/"
@@ -174,7 +174,7 @@
         "Heading": "Krmen\u00ed a chovatelsk\u00e9 pot\u0159eby pro psy, ko\u010dky, hlodavce - Krmeni.cz",
         "Abstract": "Krmen\u00ed a chovatelsk\u00e9 pot\u0159eby pro psy, ko\u010dky, hlodavce",
         "Official Site": "https://krmeni.cz/",
-        "Icon": "https://krmeni.cz/media/data/banner_hp/ibero-gf-500g-hp-cz_69a7efbaa5742.jpg",
+        "Icon": "https://krmeni.cz/media/data/banner_hp/ibero-gf-senior-hp-pl_6a3be1d19732c.jpg",
         "Redirect": "https://krmeni.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://krmeni.cz/"
@@ -221,13 +221,13 @@
     },
     {
         "link": "https://kulturajih.cz",
-        "Heading": "Kultura Jih",
-        "Abstract": "Po\u0159\u00e1d\u00e1me kulturn\u00ed akce pro ve\u0159ejnost, provozujeme kino, organizujeme pohybov\u00e9, kreativn\u00ed a vzd\u011bl\u00e1vac\u00ed kurzy. Ostrava Jih",
-        "Official Site": "https://www.kulturajih.cz/",
-        "Icon": "https://www.kulturajih.cz/img/kultura-jih-logo.png",
-        "Redirect": "https://www.kulturajih.cz/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://kulturajih.cz",
+        "Icon": "N/A",
+        "Redirect": "https://kulturajih.cz",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kulturajih.cz/"
+        "AbstractURL": "https://kulturajih.cz"
     },
     {
         "link": "https://kush21.com",
@@ -238,6 +238,16 @@
         "Redirect": "https://kush21.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kush21.com/"
+    },
+    {
+        "link": "https://laafsekikkers.be",
+        "Heading": "brebart.be",
+        "Abstract": null,
+        "Official Site": "https://laafsekikkers.be",
+        "Icon": "N/A",
+        "Redirect": "https://laafsekikkers.be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://laafsekikkers.be"
     },
     {
         "link": "https://labarracafallera.com",

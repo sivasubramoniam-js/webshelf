@@ -130,6 +130,16 @@
         "AbstractURL": "https://datawork.sk"
     },
     {
+        "link": "https://theacademyofarts.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://theacademyofarts.org",
+        "Icon": "data:;",
+        "Redirect": "https://theacademyofarts.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://theacademyofarts.org"
+    },
+    {
         "link": "https://sjmed.com",
         "Heading": "Home | Saint Joseph Health System",
         "Abstract": null,
@@ -191,13 +201,13 @@
     },
     {
         "link": "https://aquariumbreeder.com",
-        "Heading": "Home - Shrimp and Snail Breeder",
-        "Abstract": "Expert guides on aquarium setup, shrimp breeding, crayfish, crabs. snail fish care, and plants. Learn how to build a thriving aquarium",
-        "Official Site": "https://aquariumbreeder.com/",
-        "Icon": "https://aquariumbreeder.com/wp-content/uploads/2020/01/Shrimp-guide-care-diet-and-breeding.jpg",
-        "Redirect": "https://aquariumbreeder.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://aquariumbreeder.com",
+        "Icon": "data:;",
+        "Redirect": "https://aquariumbreeder.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://aquariumbreeder.com/"
+        "AbstractURL": "https://aquariumbreeder.com"
     },
     {
         "link": "https://runsociety.com",

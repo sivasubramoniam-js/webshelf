@@ -131,10 +131,10 @@
     },
     {
         "link": "https://myprelovedtiffany.com",
-        "Heading": "MyPrelovedTiffany - Authenticated Preloved Tiffany & Co.",
-        "Abstract": "We are a pre-owned / second-hand branded store specializing in T&Co. jewelries. We have a zero-tolerance policy for counterfeits and we strive to play our part in battling against the counterfeit market. Shop with confidence, pay less for the same product.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://myprelovedtiffany.com",
-        "Icon": "/favicon-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://myprelovedtiffany.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myprelovedtiffany.com"
@@ -254,7 +254,7 @@
         "Heading": "\n      Nguy\u00ean X\u01b0\u01a1ng\n",
         "Abstract": "Nguy\u00ean X\u01b0\u01a1ng",
         "Official Site": "https://nguyenxuong.com/",
-        "Icon": "http://nguyenxuong.com/cdn/shop/files/LOGO_NX.png?height=628&pad_color=ffffff&v=1777536647&width=1200",
+        "Icon": "http://cdn.shopify.com/s/files/1/0993/5450/9594/files/LOGO_NX.png?height=628&pad_color=ffffff&v=1777536647&width=1200",
         "Redirect": "https://nguyenxuong.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nguyenxuong.com/"

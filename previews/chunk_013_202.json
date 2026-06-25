@@ -130,16 +130,6 @@
         "AbstractURL": "https://fasab.gov"
     },
     {
-        "link": "https://newsserviceflorida.com",
-        "Heading": "newsserviceflorida.com | Independent and Indispensable",
-        "Abstract": "",
-        "Official Site": "https://www.newsserviceflorida.com/",
-        "Icon": "https://www.newsserviceflorida.com/content/tncms/site/icon.ico",
-        "Redirect": "https://www.newsserviceflorida.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.newsserviceflorida.com/"
-    },
-    {
         "link": "https://medakahonpo.com",
         "Heading": "SURGA33 - Saksikan Laga Juara Bertahan Prancis Formasi Terbaik",
         "Abstract": "SURGA33 menghadirkan pasaran terlengkap untuk melihat dominasi les bleus di panggung tertinggi sepak bola dunia lewat server anti lelet. Klik link resmi disini dan ayuk bermain!",
@@ -208,6 +198,16 @@
         "Redirect": "https://musee-prehistoire-eyzies.fr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://musee-prehistoire-eyzies.fr"
+    },
+    {
+        "link": "https://gym-oppenheim.de",
+        "Heading": "Gymnasium zu St. Katharinen Oppenheim - Unsere Schule \u2013 unser Selbstverst\u00e4ndnis",
+        "Abstract": "Gymnasium zu St. Katharinen in Oppenheim \u2013 Ein vielf\u00e4ltiges Angebot aus musischen, sprachlichen und naturwissenschaftlichen Bereichen.",
+        "Official Site": "https://gym-oppenheim.de/",
+        "Icon": "https://gym-oppenheim.de/wp-content/uploads/2019/10/aufmacher-gym_oppenheim.jpg",
+        "Redirect": "https://gym-oppenheim.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gym-oppenheim.de/"
     },
     {
         "link": "https://infiniteplanners.com.mx",
@@ -298,5 +298,15 @@
         "Redirect": "https://tattoos.gallery",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tattoos.gallery"
+    },
+    {
+        "link": "https://cooperativeindividualism.org",
+        "Heading": "The School of Cooperative Individualism",
+        "Abstract": null,
+        "Official Site": "https://hotels-grancanaria.com/",
+        "Icon": "https://hotels-grancanaria.com/favicon.ico",
+        "Redirect": "https://hotels-grancanaria.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotels-grancanaria.com/"
     }
 ]

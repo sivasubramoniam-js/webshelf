@@ -51,10 +51,10 @@
     },
     {
         "link": "https://bigredhair.com",
-        "Heading": "Home | Big Red Hair",
-        "Abstract": "Paul Guinan and Anina Bennett are a creative couple who make books and graphic novels. We also teach comic book workshops, speak and write about comics and storytelling, and appear at comic-cons and other public events. www.BigRedHair.com",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://bigredhair.com",
-        "Icon": "https://bigredhair.com/_resources/app/images/BRH_Logo_Large.png",
+        "Icon": "data:;",
         "Redirect": "https://bigredhair.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bigredhair.com"
@@ -68,16 +68,6 @@
         "Redirect": "https://wednesday-2-smotret-onlajn.online",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wednesday-2-smotret-onlajn.online"
-    },
-    {
-        "link": "https://m2m-rzn.ru",
-        "Heading": "M2M \u0413\u043b\u0430\u0432\u043d\u0430\u044f",
-        "Abstract": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
-        "Official Site": "https://m2m-rzn.ru/",
-        "Icon": "gallery/favicons/favicon-120x120.png",
-        "Redirect": "https://m2m-rzn.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://m2m-rzn.ru/"
     },
     {
         "link": "https://boardingpass.ro",
@@ -268,6 +258,16 @@
         "Redirect": "https://movitale.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://movitale.de/"
+    },
+    {
+        "link": "https://winnmediaskn.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://winnmediaskn.com",
+        "Icon": "data:;",
+        "Redirect": "https://winnmediaskn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://winnmediaskn.com"
     },
     {
         "link": "https://themediacollective.com",

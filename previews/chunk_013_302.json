@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://staxi.nl",
+        "Heading": "Taxi nodig? Boek een Staxi! Altijd op tijd, vaste prijs, 24/7",
+        "Abstract": "Boek je taxi bij Staxi & wees zeker van een vaste prijs. Altijd op tijd, betrouwbaar en zonder verrassingen. Zorgeloos van deur tot deur!",
+        "Official Site": "https://www.staxi.nl/",
+        "Icon": "https://www.staxi.nl/wp-content/uploads/2022/08/Staxi_chauffeur_met_Elektrische_Taxi_George_Gershwinplein_1200x630.png",
+        "Redirect": "https://www.staxi.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.staxi.nl/"
+    },
+    {
         "link": "https://edbott.com",
         "Heading": "Ed Bott \u2013 Thanks for coming to my Ed talk",
         "Abstract": "Thanks for coming to my Ed talk",
@@ -131,13 +141,13 @@
     },
     {
         "link": "https://jdonovanlaw.ca",
-        "Heading": "Family, Criminal & Civil Lawyers in NB | J. Donovan Law Group",
-        "Abstract": "J. Donovan Law Group provides family, criminal, real estate, wills, estates, mediation, and civil litigation services across New Brunswick.",
-        "Official Site": "https://www.jdonovanlaw.ca/",
-        "Icon": "https://jdonovanlaw.ca/wp-content/uploads/2020/06/DLG_favicon.png",
-        "Redirect": "https://www.jdonovanlaw.ca/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://jdonovanlaw.ca",
+        "Icon": "data:;",
+        "Redirect": "https://jdonovanlaw.ca",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.jdonovanlaw.ca/"
+        "AbstractURL": "https://jdonovanlaw.ca"
     },
     {
         "link": "https://gringosoysterbar.com",

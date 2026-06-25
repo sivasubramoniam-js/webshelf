@@ -50,16 +50,6 @@
         "AbstractURL": "https://jamuhq.com"
     },
     {
-        "link": "https://smssteel.co.za",
-        "Heading": "404 Not Found",
-        "Abstract": "The SMS Steel team have over 60 years of experience in the steel industry and we are one of the largest Flange manufacturers in Gauteng, South Africa.",
-        "Official Site": "https://www.smssteel.co.za/",
-        "Icon": "https://www.smssteel.co.za/wp-content/uploads/2019/09/header.png",
-        "Redirect": "https://www.smssteel.co.za/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.smssteel.co.za/"
-    },
-    {
         "link": "https://hosting-universal.com",
         "Heading": "Hosting Universal",
         "Abstract": "",
@@ -110,24 +100,24 @@
         "AbstractURL": "https://www.cataniaandcatania.com/"
     },
     {
+        "link": "https://pinpop.us",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pinpop.us",
+        "Icon": "N/A",
+        "Redirect": "https://pinpop.us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pinpop.us"
+    },
+    {
         "link": "https://hilgert.de",
-        "Heading": "Startseite | Grav",
+        "Heading": "Startseite | Unternehmen Hilgert | Hilgert configuration | Hilgert distribution",
         "Abstract": "Startseite Login hero Impressum (c) 1986-2026 Unternehmen Hilgert | Hilgert configuration | Hilgert distribution System Light Dark Startseite Login",
         "Official Site": "https://hilgert.de/",
         "Icon": "https://hilgert.de/seomagic-image.jpg",
         "Redirect": "https://hilgert.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hilgert.de/"
-    },
-    {
-        "link": "https://yeagerspouredsilver.com",
-        "Heading": "Yeager's Poured Silver | 330-299-5239",
-        "Abstract": null,
-        "Official Site": "https://yeagerspouredsilver.com/",
-        "Icon": "https://yeagerspouredsilver.com/wp-content/uploads/2021/07/image2.jpeg",
-        "Redirect": "https://yeagerspouredsilver.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://yeagerspouredsilver.com/"
     },
     {
         "link": "https://beyes-immobilien.de",
@@ -248,16 +238,6 @@
         "Redirect": "https://site.risecodes.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://site.risecodes.com"
-    },
-    {
-        "link": "https://prava-onlinevmig.ru",
-        "Heading": "prava-onlinevmig.ru Global News",
-        "Abstract": "Latest global headlines and breaking stories",
-        "Official Site": "https://prava-onlinevmig.ru",
-        "Icon": "N/A",
-        "Redirect": "https://prava-onlinevmig.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://prava-onlinevmig.ru"
     },
     {
         "link": "https://appgbanking.org.uk",

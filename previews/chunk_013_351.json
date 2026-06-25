@@ -50,16 +50,6 @@
         "AbstractURL": "https://appgods.website"
     },
     {
-        "link": "https://whitemane.org",
-        "Heading": "Whitemane | Hearth Back Home",
-        "Abstract": "Alliance or Horde?! Hearth back home and discover the cult classic MMO and play today for free!",
-        "Official Site": "https://whitemane.gg/en",
-        "Icon": "https://whitemane.gg/img/OG.webp",
-        "Redirect": "https://whitemane.gg/en",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://whitemane.gg/en"
-    },
-    {
         "link": "https://pointepest.com",
         "Heading": "Local Pest Control Services | Pest Free Homes & Businesses",
         "Abstract": "Pointe Pest Control provides effective pest control solutions for your home and business. Contact us today for a free quote and reclaim your space!",
@@ -101,13 +91,13 @@
     },
     {
         "link": "https://greyston.org",
-        "Heading": "Open Hiring Greyston Bakery | Greyston Foundation",
-        "Abstract": "Break through barriers to employment. No interviews, background checks, or resumes mean truly equal opportunity for all.",
-        "Official Site": "https://www.greyston.org/about/",
-        "Icon": "https://www.greyston.org/wp-content/uploads/2021/10/icon-respect-1.png",
-        "Redirect": "https://www.greyston.org/about/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://greyston.org",
+        "Icon": "data:;",
+        "Redirect": "https://greyston.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.greyston.org/about/"
+        "AbstractURL": "https://greyston.org"
     },
     {
         "link": "https://sma-sunny.com",

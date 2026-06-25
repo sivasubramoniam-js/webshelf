@@ -61,10 +61,10 @@
     },
     {
         "link": "https://musserengineering.com",
-        "Heading": "Musser Engineering | Musser Engineering: Shaping Excellence, Engineering Tomorrow.",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://musserengineering.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://musserengineering.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://musserengineering.com"
@@ -108,6 +108,16 @@
         "Redirect": "https://masa-mune.jp",
         "AbstractSource": "BS4",
         "AbstractURL": "https://masa-mune.jp"
+    },
+    {
+        "link": "https://nr1sites.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://nr1sites.com",
+        "Icon": "N/A",
+        "Redirect": "https://nr1sites.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nr1sites.com"
     },
     {
         "link": "https://novaknetworx.com",
@@ -161,10 +171,10 @@
     },
     {
         "link": "https://msafungi.org",
-        "Heading": "Mycological Sociey of America \u2013 Founded 1932",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://msafungi.org",
-        "Icon": "https://msafungi.org/wp-content/uploads/2025/04/2024-MSA-Logo-Main-01-scaled.png",
+        "Icon": "data:;",
         "Redirect": "https://msafungi.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://msafungi.org"

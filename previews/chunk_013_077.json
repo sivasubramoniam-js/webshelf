@@ -150,6 +150,16 @@
         "AbstractURL": "https://sainteg.com"
     },
     {
+        "link": "https://laboitemusicale.com",
+        "Heading": "La Bo\u00eete Musicale - Music Shop, School, Workshop & Studio",
+        "Abstract": "We want to create a harmonious space where music lovers can explore, connect, and bound with their passion for music. We\u2019re committed to provide personalized services and products to engage in our vibrant musical community. RETHINK INSIDE THE BOX.",
+        "Official Site": "https://laboitemusicale.com/",
+        "Icon": "http://laboitemusicale.com/cdn/shop/files/Moog-Matriarch-La-Boite-Musicale.png?v=1722310704&width=2048",
+        "Redirect": "https://laboitemusicale.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://laboitemusicale.com/"
+    },
+    {
         "link": "https://ocamlpro.com",
         "Heading": "Expert Solutions for Complex Challenges | OCamlPro",
         "Abstract": "OCamlPro tackles complex design challenges (Domain Specific Languages, Code Audit and Verification, Optimization) notably with the use of formal methods. For that purpose, we promote the use of state-of-the-art programming languages like OCaml and Rust.\n",
@@ -201,13 +211,13 @@
     },
     {
         "link": "https://pstrust.org",
-        "Heading": "Pipeline Safety Trust",
-        "Abstract": "Credible. Independent. In the public interest.",
-        "Official Site": "https://pstrust.org/",
-        "Icon": "https://pstrust.org/wp-content/uploads/2021/03/PST_Logo_Square_Web.svg",
-        "Redirect": "https://pstrust.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pstrust.org",
+        "Icon": "data:;",
+        "Redirect": "https://pstrust.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pstrust.org/"
+        "AbstractURL": "https://pstrust.org"
     },
     {
         "link": "https://globalvaluebuyingstore.shop",

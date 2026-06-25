@@ -140,6 +140,16 @@
         "AbstractURL": "https://www.hausonline24.com/"
     },
     {
+        "link": "https://healthywealth.blog",
+        "Heading": "Healthy Wealth \u2013 Blog",
+        "Abstract": "Blog",
+        "Official Site": "https://healthywealth.blog/",
+        "Icon": "https://s0.wp.com/i/blank.jpg",
+        "Redirect": "https://healthywealth.blog/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://healthywealth.blog/"
+    },
+    {
         "link": "https://hertz-japan.com",
         "Heading": "\u30cf\u30fc\u30c4\u30ec\u30f3\u30bf\u30ab\u30fc\u3000Hertz Rent-a-Car - Rental Car Discounts, Coupons and Great Rates",
         "Abstract": " \u6d77\u5916\u30ec\u30f3\u30bf\u30ab\u30fc\u226a\u30cf\u30fc\u30c4\u226b\u306e\u516c\u5f0fHP\uff0f\u7c21\u5358\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u4e88\u7d04\u3001\u304a\u5f97\u306a\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u60c5\u5831\u3001\u4fbf\u5229\u306a\u30cf\u30fc\u30c4Gold\u30d7\u30e9\u30b9\u30fb\u30ea\u30ef\u30fc\u30ba\u4f1a\u54e1\u30b5\u30fc\u30d3\u30b9\u3001\u30cf\u30fc\u30c4\u3068\u3044\u3063\u3057\u3087\u306a\u3089\u8ab0\u3082\u77e5\u3089\u306a\u3044\u65c5\u304c\u304d\u3063\u3068\u898b\u3064\u304b\u308b\u3002",
@@ -148,16 +158,6 @@
         "Redirect": "https://hertz-japan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hertz-japan.com"
-    },
-    {
-        "link": "https://hlfwh.com",
-        "Heading": "\u6d77\u91cf\u623f\u2014\u627e\u623f\u7528\u5fc3\u3001\u670d\u52a1\u8d34\u5fc3\u3001\u4e70\u623f\u653e\u5fc3",
-        "Abstract": "\u6d77\u91cf\u623f",
-        "Official Site": "https://hlfwh.com",
-        "Icon": "https://hlfwh.com/uploads/house/2022/06/14/741af1e2c493bbc34ab2d70927f1676e878d9ded.ico",
-        "Redirect": "https://hlfwh.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hlfwh.com"
     },
     {
         "link": "https://hoaphathcm.vn",
@@ -188,15 +188,5 @@
         "Redirect": "https://www.homeassistant-cz.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.homeassistant-cz.cz/"
-    },
-    {
-        "link": "https://homebedroomstylesupply.com",
-        "Heading": "Private Bliss | Curated Intimate Essentials for Self-Care | Adult Enchantments",
-        "Abstract": "A thoughtfully curated space for pleasure and connection. Discover quality intimate essentials, sensual wellness products, and playful accessories designed for your moments of bliss.",
-        "Official Site": "https://www.adultenchantments.com/",
-        "Icon": "http://www.adultenchantments.com/wp-content/uploads/2026/03/banner.jpg",
-        "Redirect": "https://www.adultenchantments.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.adultenchantments.com/"
     }
 ]

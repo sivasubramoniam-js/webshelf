@@ -70,6 +70,16 @@
         "AbstractURL": "https://rolnikeko.pl"
     },
     {
+        "link": "https://roohit.com",
+        "Heading": ":: Roohit Home ::",
+        "Abstract": "Collect & Share highlights - you make - on any web page. Discover interesting highlights made by people you trust.",
+        "Official Site": "http://roohit.com/",
+        "Icon": "http://roohit.com/images/home_page.png",
+        "Redirect": "http://roohit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://roohit.com/"
+    },
+    {
         "link": "https://rrsheth.com",
         "Heading": "Gujarati Books Collection - R R Sheth Books",
         "Abstract": "Gujrati Books Collection",
@@ -78,6 +88,16 @@
         "Redirect": "https://rrsheth.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rrsheth.com/"
+    },
+    {
+        "link": "https://rtcnv.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://rtcnv.com",
+        "Icon": "N/A",
+        "Redirect": "https://rtcnv.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rtcnv.com"
     },
     {
         "link": "https://rubird.ru",
@@ -134,7 +154,7 @@
         "Heading": "Victoria Ferruccio",
         "Abstract": null,
         "Official Site": "https://www.saattravel.com",
-        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=2326",
+        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=8416",
         "Redirect": "https://www.saattravel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.saattravel.com"
@@ -321,10 +341,10 @@
     },
     {
         "link": "https://shopofmagic.com",
-        "Heading": "Home",
-        "Abstract": "The Little Shop of Magic is a full-service specialty store that has been serving the needs of gamers like yourself since 1994.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://shopofmagic.com",
-        "Icon": "/templates/shaper_helix_ii/favicon.ico",
+        "Icon": "data:;",
         "Redirect": "https://shopofmagic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shopofmagic.com"

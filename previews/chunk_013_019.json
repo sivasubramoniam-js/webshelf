@@ -91,13 +91,13 @@
     },
     {
         "link": "https://volunteerscotland.net",
-        "Heading": "Home - Volunteer Scotland",
-        "Abstract": "Volunteer Scotland are the only national centre for volunteering. We exist to help you make a difference through volunteering.",
-        "Official Site": "https://www.volunteerscotland.net/",
-        "Icon": "https://www.volunteerscotland.net/wp-content/uploads/2022/10/cta-vs-green-heart-1.jpg",
-        "Redirect": "https://www.volunteerscotland.net/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://volunteerscotland.net",
+        "Icon": "data:;",
+        "Redirect": "https://volunteerscotland.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.volunteerscotland.net/"
+        "AbstractURL": "https://volunteerscotland.net"
     },
     {
         "link": "https://selectitaly.com",
@@ -148,6 +148,16 @@
         "Redirect": "https://www.ihcrc.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ihcrc.org"
+    },
+    {
+        "link": "https://jjxz103.com",
+        "Heading": "\u4e5d\u4e5d\u661f\u7535\u5f71\u7f51_\u514d\u8d39\u9ad8\u6e05\u7535\u5f71\u7535\u89c6\u5267\u77ed\u5267\u5728\u7ebf\u89c2\u770b\u624b\u673a\u5f71\u89c6\u7ad9 - \u4e5d\u4e5d\u661f\u7535\u5f71\u7f51",
+        "Abstract": "\u4e5d\u4e5d\u661f\u7535\u5f71\u7f51\u4e3a\u60a8\u63d0\u4f9b\u4e00\u4e2a\u624b\u673a\u514d\u8d39\u9ad8\u6e05\u89c2\u770b\u5f71\u89c6\u7f51\u7ad9\uff0c\u6700\u65b0\u7535\u89c6\u5267\uff0c\u70ed\u95e8\u597d\u770b\u7535\u5f71\uff0c\u514d\u8d39\u597d\u770b\u77ed\u5267\uff0c\u6b27\u7f8e\u65e5\u97e9\u7535\u5f71\u7535\u89c6\u5267\u5927\u7247\u5728\u7ebf\u89c2\u770b\u70ed\u7231\u7535\u5f71\u7535\u89c6\u5267\u5c0f\u4f19\u4f34\u4eec\u6536\u85cf\u7684\u5f71\u89c6\u7f51\u7ad9\u3002",
+        "Official Site": "https://jjxz103.com",
+        "Icon": "/template/a_0001/images/favicon.png",
+        "Redirect": "https://jjxz103.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jjxz103.com"
     },
     {
         "link": "https://blesshost.com",

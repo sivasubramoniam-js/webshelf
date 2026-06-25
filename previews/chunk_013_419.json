@@ -40,16 +40,6 @@
         "AbstractURL": "https://www.sprunky.org/"
     },
     {
-        "link": "https://spuntini.be",
-        "Heading": "Spuntini - We deliver food happiness",
-        "Abstract": "Welkom bij Spuntini, de gespecialiseerde groothandel met een uitgebreid assortiment van food en non-food producten voor horeca, catering en fast-service zaken. ",
-        "Official Site": "https://www.spuntini.be/nl-be",
-        "Icon": "/fav/favicon.ico",
-        "Redirect": "https://www.spuntini.be/nl-be",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.spuntini.be/nl-be"
-    },
-    {
         "link": "https://stackedstore.com",
         "Heading": "Shop Online For Trendy Home Decor Items | The Stacked Store",
         "Abstract": "Find designer home decor items, accessories, lamps, drinkware, rugs and furniture from unique brands. House and Room Decoration with style. Shop online!",
@@ -94,7 +84,7 @@
         "Heading": "Sticky Art: Stickere Autocolante, Ceasuri de Perete, Tapet \u0219i Fototapet Personalizate",
         "Abstract": "Descopera colectia noastra de stickere autocolante, ceasuri de perete, tapet si foto tapet la Sticky Art! Personalizeaza, transforma-ti spatiul si exprima-ti creativitatea",
         "Official Site": "https://www.sticky-art.ro",
-        "Icon": "https://s.cdnshm.com/site/1200x1200/sticky-art.ro.jpg?20260624",
+        "Icon": "https://s.cdnshm.com/site/1200x1200/sticky-art.ro.jpg?20260625",
         "Redirect": "https://www.sticky-art.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sticky-art.ro"
@@ -340,24 +330,24 @@
         "AbstractURL": "https://telesalon.pl/"
     },
     {
-        "link": "https://teniesonline.eu",
-        "Heading": "Tenies Online - \u03a4\u03b1\u03b9\u03bd\u03af\u03b5\u03c2 Online \u03bc\u03b5 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03bf\u03c5\u03c2 | \u03a4\u03bf \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf Site \u03b3\u03b9\u03b1 Online \u03c4\u03b1\u03b9\u03bd\u03af\u03b5\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03be\u03b1\u03bd\u03ac \u03bc\u03b1\u03b6\u03af \u03c3\u03b1\u03c2. \u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03b1\u03b9\u03bd\u03af\u03b5\u03c2 Online \u03bc\u03b5 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03bf\u03c5\u03c2.",
-        "Abstract": "\u03a4\u03b1\u03b9\u03bd\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03a3\u03b5\u03b9\u03c1\u03ad\u03c2 \u03b1\u03c0\u03bf Netflix | HBO | PRIME | APPLE | NOVA | HULU | DISNEY",
-        "Official Site": "https://teniesonline.eu/",
-        "Icon": "https://teniesonline.eu/wp-content/uploads/2020/12/favicon-1.ico",
-        "Redirect": "https://teniesonline.eu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://teniesonline.eu/"
-    },
-    {
         "link": "https://tentenresources.co.uk",
-        "Heading": "Ten Ten Resources \u2013 Changing the world with creative Catholic content",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://tentenresources.co.uk",
-        "Icon": "/favicon-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://tentenresources.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tentenresources.co.uk"
+    },
+    {
+        "link": "https://terrateck.com",
+        "Heading": "Terrateck - Sp\u00e9cialiste du mat\u00e9riel de mara\u00eechage diversifi\u00e9",
+        "Abstract": "Conception, fabrication et distribution de mat\u00e9riel adapt\u00e9 \u00e0 la production l\u00e9gumi\u00e8re vous propose une large gamme d\u2019outils adapt\u00e9s \u00e0 votre exploitation et \u00e0 votre besoin",
+        "Official Site": "https://terrateck.com",
+        "Icon": "/img/favicon.ico?1579079445",
+        "Redirect": "https://terrateck.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://terrateck.com"
     },
     {
         "link": "https://texaschildrenspeople.org",
@@ -394,7 +384,7 @@
         "Heading": "\n      The Banyan Tee - Music & TV Show Merch: T-Shirts, Hoodies & More\n",
         "Abstract": "T-shirts, Hoodies, Sippers, Mugs, Posters and a lot more. #1 online brand for Music & TV Show merchandise. 1500 plus Designs on 20 plus products. Explore Now.",
         "Official Site": "https://thebanyantee.com/",
-        "Icon": "http://thebanyantee.com/cdn/shop/files/The_Banyan_Tee_trademark_logo_social_sharing.jpg?v=1660217575",
+        "Icon": "http://cdn.shopify.com/s/files/1/0028/6559/4412/files/The_Banyan_Tee_trademark_logo_social_sharing.jpg?v=1660217575",
         "Redirect": "https://thebanyantee.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thebanyantee.com/"

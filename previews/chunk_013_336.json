@@ -120,6 +120,16 @@
         "AbstractURL": "https://russia-daily.ru"
     },
     {
+        "link": "https://lasvegascitylife.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lasvegascitylife.com",
+        "Icon": "N/A",
+        "Redirect": "https://lasvegascitylife.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lasvegascitylife.com"
+    },
+    {
         "link": "https://yes2broker.in",
         "Heading": "yes2broker",
         "Abstract": null,
@@ -148,6 +158,16 @@
         "Redirect": "https://www.omnescapital.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.omnescapital.com/"
+    },
+    {
+        "link": "https://chipskills.us",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://chipskills.us",
+        "Icon": "data:;",
+        "Redirect": "https://chipskills.us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chipskills.us"
     },
     {
         "link": "https://gtkpod.org",

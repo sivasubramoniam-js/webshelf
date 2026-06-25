@@ -82,17 +82,17 @@
     {
         "link": "https://search-2go.com",
         "Heading": "Search - Microsoft Bing",
-        "Abstract": "Mount Fuji, Japan's highest mountain, rises to 12,",
-        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260623_0700&mkt=en-US",
-        "Icon": "https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_tmb.jpg&rf=",
-        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260623_0700&mkt=en-US",
+        "Abstract": "Zoom in on the small transaction that keeps landsc",
+        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260624_0700&mkt=en-US",
+        "Icon": "https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_tmb.jpg&rf=",
+        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260624_0700&mkt=en-US",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260623_0700&mkt=en-US"
+        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260624_0700&mkt=en-US"
     },
     {
         "link": "https://razny.com",
         "Heading": "\n    Razny Jewelers: Best Engagement Rings & Jewelry Store in Chicago\n  ",
-        "Abstract": "Razny Jewelers is Chicago's source for Rolex, Patek Philippe, Cartier, and Breitling. Jewelry repair onsite. Shop fine jewelry, diamonds, and engagement rings.",
+        "Abstract": "Razny Jewelers is Chicago's home for Rolex, Patek Philippe, Cartier, and Breitling, plus fine jewelry, diamonds, engagement rings, and onsite repair.",
         "Official Site": "https://razny.com/",
         "Icon": "http://razny.com/cdn/shop/files/Razny-2026-PrimaryLogo_0609c6b2-6493-4b6c-9782-d72789436ec6.png?v=1775182459",
         "Redirect": "https://razny.com/",
@@ -141,33 +141,23 @@
     },
     {
         "link": "https://itewiki.fi",
-        "Heading": "ite wiki - Digitalisoi liiketoimintasi",
-        "Abstract": "L\u00f6yd\u00e4 ohjelmistokehitt\u00e4j\u00e4t, konsultit, ohjelmisto- ja laitetarjoajat liiketoiminnan kehitt\u00e4miseksi ja digitalisoimiseksi.",
-        "Official Site": "https://www.itewiki.fi",
-        "Icon": "https://www.itewiki.fi/images/og-images/default.png",
-        "Redirect": "https://www.itewiki.fi",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://itewiki.fi",
+        "Icon": "data:;",
+        "Redirect": "https://itewiki.fi",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.itewiki.fi"
+        "AbstractURL": "https://itewiki.fi"
     },
     {
         "link": "https://bezuidenhout.nl",
-        "Heading": "Bezuidenhout Homepage - Bezuidenhout - 50 jaar wijkberaad",
-        "Abstract": "De website v\u00e1n en v\u00f3\u00f3r bewoners van de Bezuidenhout, met het laatste nieuws, veel informatie over wat er speelt in de wijk en natuurlijk de komende activiteiten.",
-        "Official Site": "https://bezuidenhout.nl/",
-        "Icon": "https://bezuidenhout.nl/wp-content/uploads/sites/15/2025/12/Skyline-Bezuidenhout-with-Fireworks-6-1-scaled.jpg",
-        "Redirect": "https://bezuidenhout.nl/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bezuidenhout.nl",
+        "Icon": "data:;",
+        "Redirect": "https://bezuidenhout.nl",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bezuidenhout.nl/"
-    },
-    {
-        "link": "https://alfa-hobby.ru",
-        "Heading": "\u0410\u043b\u044c\u0444\u0430-\u0425\u043e\u0431\u0431\u0438: \u0444\u0438\u043b\u0430\u0442\u0435\u043b\u0438\u044f, \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0445 \u043c\u0430\u0440\u043e\u043a! \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043c\u0430\u0433\u0430\u0437\u0438\u043d - \u043a\u0443\u043f\u0438\u0442\u044c \u043c\u0430\u0440\u043a\u0438, \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0438 \u0421\u0421\u0421\u0420 \u0438 \u0420\u043e\u0441\u0441\u0438\u0438, \u043f\u043e \u0442\u0435\u043c\u0435 \u0444\u0430\u0443\u043d\u0430 \u0438 \u0444\u0443\u0442\u0431\u043e\u043b, \u0446\u0435\u043d\u044b \u043d\u0430 \u043c\u0430\u0440\u043a\u0438.",
-        "Abstract": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u041e\u041e\u041e \u0410\u043b\u044c\u0444\u0430-\u0425\u043e\u0431\u0431\u0438 - \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0445 \u043c\u0430\u0440\u043e\u043a, \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u043e\u0432 \u043c\u0430\u0440\u043e\u043a, \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u0439, \u0441\u0442\u0430\u0440\u0438\u043d\u043d\u044b\u0445 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u043a \u0438 \u0431\u0430\u043d\u043a\u043d\u043e\u0442.",
-        "Official Site": "https://alfa-hobby.ru",
-        "Icon": "N/A",
-        "Redirect": "https://alfa-hobby.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://alfa-hobby.ru"
+        "AbstractURL": "https://bezuidenhout.nl"
     },
     {
         "link": "https://lnrgov.ru",

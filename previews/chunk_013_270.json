@@ -31,13 +31,13 @@
     },
     {
         "link": "https://totempool.com",
-        "Heading": "Insurance Economics -",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://totempool.com/",
-        "Icon": "https://totempool.com/wp-content/uploads/2026/06/cropped-android-chrome-512x512-1-32x32.png",
-        "Redirect": "https://totempool.com/",
+        "Official Site": "https://totempool.com",
+        "Icon": "data:;",
+        "Redirect": "https://totempool.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://totempool.com/"
+        "AbstractURL": "https://totempool.com"
     },
     {
         "link": "https://lokalo24.de",
@@ -68,6 +68,16 @@
         "Redirect": "https://bezdepp-online.fun",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bezdepp-online.fun"
+    },
+    {
+        "link": "https://wxhsyw.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://wxhsyw.com",
+        "Icon": "N/A",
+        "Redirect": "https://wxhsyw.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wxhsyw.com"
     },
     {
         "link": "https://ixpap.com",
@@ -231,10 +241,10 @@
     },
     {
         "link": "https://ucei.it",
-        "Heading": "UCEI: Unione delle Comunit\u00e0 Ebraiche Italiane",
-        "Abstract": "L\u2019Unione delle Comunit\u00e0 Ebraiche Italiane \u00e8 l\u2019Ente rappresentativo degli ebrei italiani nei confronti dello Stato e delle Istituzioni, a livello nazionale e internazionale",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://ucei.it",
-        "Icon": "https://www.ucei.it/wp-content/uploads/2024/07/cropped-favicon-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://ucei.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ucei.it"

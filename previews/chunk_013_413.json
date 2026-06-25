@@ -4,10 +4,20 @@
         "Heading": "Detsk\u00e9 oble\u010denie a detsk\u00e1 obuv | MD M\u00f3da",
         "Abstract": "Objavte svet m\u00f3dy na MDmoda.sk! \u0160irok\u00fd v\u00fdber oble\u010denia, obuvi a doplnkov od top zna\u010diek. Naj\u0161ir\u0161\u00ed v\u00fdber produktov zna\u010diek Mayoral, Protetika. \u0160t\u00fdlov\u00e9 detsk\u00e9 oble\u010denie a kvalitn\u00e1 detsk\u00e1 obuv zna\u010diek Mayoral a Protetika. R\u00fdchle doru\u010denie, skladom, v\u00fdhodn\u00e9 ceny.",
         "Official Site": "https://www.mdmoda.sk/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.mdmoda.sk/user/front_images/ogImage/hp.png?t=1782290967",
+        "Icon": "https://cdn.myshoptet.com/usr/www.mdmoda.sk/user/front_images/ogImage/hp.png?t=1782377229",
         "Redirect": "https://www.mdmoda.sk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mdmoda.sk/"
+    },
+    {
+        "link": "https://meandb.shop",
+        "Heading": "\n    \n\n    Me&B \u2013 Bold, Trend-Driven Fashion for Every Body | South Africa\n\n  ",
+        "Abstract": "Discover Me&B \u2014 a mother-daughter fashion brand creating bold, colourful styles in sizes 32\u201346. Designed in South Africa for women who love great fabric, standout silhouettes, and expressive everyday dressing. New collections drop weekly online and in-store.",
+        "Official Site": "https://meandb.shop/",
+        "Icon": "http://meandb.shop/cdn/shop/files/kellygrace_77295_a_photograph_of_an_african_american_woman_we_2_1_15b1cc31-b928-489b-822e-3110f8fcc0e6.png?v=1764618338",
+        "Redirect": "https://meandb.shop/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://meandb.shop/"
     },
     {
         "link": "https://medination.lu",
@@ -51,10 +61,10 @@
     },
     {
         "link": "https://mehrajbooks.com.my",
-        "Heading": "Mehraj: Buy books online!",
-        "Abstract": "An online platfrom to buy books from the Malaysia's leading book distributor that offers wide ranges of books.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://mehrajbooks.com.my",
-        "Icon": "https://mehrajbooks.com.my/image/favicon.ico",
+        "Icon": "data:;",
         "Redirect": "https://mehrajbooks.com.my",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mehrajbooks.com.my"
@@ -90,6 +100,16 @@
         "AbstractURL": "https://mesagnesera.it"
     },
     {
+        "link": "https://meta-edc.com",
+        "Heading": "\n      MetaEDC - Exclusive and Premium Fidget Toy\n    ",
+        "Abstract": "We are a unique, online shopping platform that offers exclusive, premium branded fidget spinner, fidget slider, haptic coins fidget toy and titanium made everyday carry items. Shop now at Meta EDC.",
+        "Official Site": "https://meta-edc.com/",
+        "Icon": "//meta-edc.com/cdn/shop/files/logo-5.png?crop=center&v=1761940269&width=96",
+        "Redirect": "https://meta-edc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://meta-edc.com/"
+    },
+    {
         "link": "https://metacityrp.com.br",
         "Heading": "MetaCity - O Melhor RP",
         "Abstract": "Venha fazer parte do MetaCity. RP s\u00e9rio, economia balanceada e staff ativa. Entre agora!",
@@ -110,6 +130,16 @@
         "AbstractURL": "https://metalkitor.com/"
     },
     {
+        "link": "https://mezlan.com",
+        "Heading": "Mezlan Shoes - Men's Designer Shoes, Boots, and Accessories - Mezlan\n",
+        "Abstract": "Mezlan Shoes creates the finest in handmade men\u2019s designer shoes, boots, and accessories with high quality exotic materials. Afterpay and Free Domestic Shipping",
+        "Official Site": "https://www.mezlan.com/",
+        "Icon": "//www.mezlan.com/cdn/shop/files/New_Project_1_32x32.png?v=1614359857",
+        "Redirect": "https://www.mezlan.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mezlan.com/"
+    },
+    {
         "link": "https://mgo2pc.com",
         "Heading": "SaveMGO",
         "Abstract": "SaveMGO provides a service which allows you to play the multiplayer mode of Metal Gear Solid 4: Guns of the Patriots on Playstation 3 or PC using the RPCS3 emulator.",
@@ -118,6 +148,16 @@
         "Redirect": "https://mgo2pc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mgo2pc.com"
+    },
+    {
+        "link": "https://miasangling.co.za",
+        "Heading": "Shop Fishing & Scuba gear Online & In Store | Mia's Angling & Scuba\n \u2013 Mias Angling & Scuba",
+        "Abstract": "Shop fishing & scuba gear online & in-store from Mia\u2019s Angling \u2013 Visit us in Woodmead, Johannesburg. Get top-quality rods, reels, bait, diving equipment & more at great prices!",
+        "Official Site": "https://miasangling.co.za/",
+        "Icon": "//miasangling.co.za/cdn/shop/files/Mias_Logo_Transparent_32x32.png?v=1723571839",
+        "Redirect": "https://miasangling.co.za/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://miasangling.co.za/"
     },
     {
         "link": "https://mid-9.com",
@@ -304,7 +344,7 @@
         "Heading": "Personalised Notebooks, Planners & Sketchbooks | Mossery | Mossery",
         "Abstract": "\n    \n        Personalised notebooks, planners & sketchbooks \u2014 customise in 3 easy steps. Choose from 100+ cover designs, personalise your name, and select your paper. Mossery is on a mission to inspire everyone in the world to create.\n    \n",
         "Official Site": "https://www.mossery.co/",
-        "Icon": "//www.mossery.co/cdn/shop/files/2026-06-16_SCJ-collection_meta-image_1200x600_crop_center.png?v=17545860179575005353",
+        "Icon": "//www.mossery.co/cdn/shop/files/2026-06-feihuasanqian_meta-image_1200x600_crop_center.png?v=12718402383131301444",
         "Redirect": "https://www.mossery.co/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mossery.co/"

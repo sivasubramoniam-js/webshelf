@@ -71,10 +71,10 @@
     },
     {
         "link": "https://malygosc.pl",
-        "Heading": "Ma\u0142y Go\u015b\u0107",
-        "Abstract": "Miesi\u0119cznik dla dzieci i m\u0142odzie\u017cy. Gry, porady, dowcipy, quizy, rozrywka, porady dotycz\u0105ce \u017cycia religijnego.",
+        "Heading": "Ma\u0142y Go\u015b\u0107 - www.malygosc.pl",
+        "Abstract": null,
         "Official Site": "https://malygosc.pl",
-        "Icon": "https://www.malygosc.pl/static/images/base/malygosc.jpg",
+        "Icon": "/static/themes/maly-gosc-mobile-2016/favicon.ico?v=QTRuC4J7NpTgTvjQqzrmA",
         "Redirect": "https://malygosc.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://malygosc.pl"
@@ -88,6 +88,16 @@
         "Redirect": "https://gtmf.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gtmf.org/"
+    },
+    {
+        "link": "https://ccscheme.org.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ccscheme.org.uk",
+        "Icon": "data:;",
+        "Redirect": "https://ccscheme.org.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ccscheme.org.uk"
     },
     {
         "link": "https://vivasoftltd.com",
@@ -274,7 +284,7 @@
         "Heading": "Best Traditional and Natural Healing Services in Grapevine",
         "Abstract": "Natural healing is just a click away in Grapevine because of the different therapy options. Book a free session to relieve your pain and restore balance.",
         "Official Site": "https://ewa-c.com/",
-        "Icon": "https://ewa-c.com/wp-content/uploads/2025/08/hero-section-1024x529.png",
+        "Icon": "https://ewa-c.com/wp-content/uploads/2026/05/cropped-favicon-ewac-32x32.png",
         "Redirect": "https://ewa-c.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ewa-c.com/"

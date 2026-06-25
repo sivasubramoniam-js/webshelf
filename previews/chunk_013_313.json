@@ -120,14 +120,14 @@
         "AbstractURL": "https://subscription.svoboda-news.com/"
     },
     {
-        "link": "https://nladmin.net",
-        "Heading": "Po\u010detna stranica",
-        "Abstract": "",
-        "Official Site": "https://nladmin.net",
-        "Icon": "N/A",
-        "Redirect": "https://nladmin.net",
+        "link": "https://guitarnine.com",
+        "Heading": "Guitar Nine | The Guitar Player's Resource",
+        "Abstract": null,
+        "Official Site": "https://guitarnine.com",
+        "Icon": "https://www.guitarnine.com/sites/default/files/favicon.ico",
+        "Redirect": "https://guitarnine.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nladmin.net"
+        "AbstractURL": "https://guitarnine.com"
     },
     {
         "link": "https://estoeston.space",
@@ -138,16 +138,6 @@
         "Redirect": "https://estoeston.space",
         "AbstractSource": "BS4",
         "AbstractURL": "https://estoeston.space"
-    },
-    {
-        "link": "https://altitcon.com",
-        "Heading": "ALTITCON \u2013 One stop IT Solution Consultant",
-        "Abstract": null,
-        "Official Site": "https://altitcon.com",
-        "Icon": "https://web.altitcon.com/wp-content/uploads/2021/02/cropped-Asset-2@33.33x-32x32.png",
-        "Redirect": "https://altitcon.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://altitcon.com"
     },
     {
         "link": "https://poumon.ca",

@@ -291,12 +291,12 @@
     },
     {
         "link": "https://andreasrecipes.com",
-        "Heading": "Making Life Delicious - Making Life Delicious",
-        "Abstract": "Making Life Delicious with Andrea Meyers is a blog about food, cooking, baking, gardening, and learning how to do new things.",
-        "Official Site": "https://andreasrecipes.com/",
-        "Icon": "https://andreasrecipes.com/wp-content/uploads/2024/05/cropped-MLD_RETINA_LOGO_2024.png",
-        "Redirect": "https://andreasrecipes.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://andreasrecipes.com",
+        "Icon": "data:;",
+        "Redirect": "https://andreasrecipes.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://andreasrecipes.com/"
+        "AbstractURL": "https://andreasrecipes.com"
     }
 ]

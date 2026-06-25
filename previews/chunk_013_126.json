@@ -1,13 +1,13 @@
 [
     {
         "link": "https://protistologists.org",
-        "Heading": "Home - International Society of Protistologists",
-        "Abstract": "The International Society of Protistologists (ISOP) is an association of scientists devoted to research on single-celled eukaryotes or protists.",
-        "Official Site": "https://protistologists.org/this-url-is-canonical/",
-        "Icon": "https://protistologists.org/wp-content/uploads/2015/03/ISOP-logo-black-bg-800x800px.png",
-        "Redirect": "https://protistologists.org/this-url-is-canonical/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://protistologists.org",
+        "Icon": "data:;",
+        "Redirect": "https://protistologists.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://protistologists.org/this-url-is-canonical/"
+        "AbstractURL": "https://protistologists.org"
     },
     {
         "link": "https://smarthacklink.xyz",
@@ -121,13 +121,13 @@
     },
     {
         "link": "https://felzmann.de",
-        "Heading": "Home - Auktionshaus Felzmann",
-        "Abstract": "Willkommen im Auktionshaus Felzmann - Ihr pers\u00f6nlicher Ansprechpartner f\u00fcr Briefmarken seit 1976.Briefmarken Ankauf und Auktionen.",
-        "Official Site": "https://felzmann.de/",
-        "Icon": "https://felzmann.de/wp-content/uploads/2023/05/nur_logobild-150x150.png",
-        "Redirect": "https://felzmann.de/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://felzmann.de",
+        "Icon": "data:;",
+        "Redirect": "https://felzmann.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://felzmann.de/"
+        "AbstractURL": "https://felzmann.de"
     },
     {
         "link": "https://societyone.com.au",
@@ -180,16 +180,6 @@
         "AbstractURL": "https://radarhosting.com/"
     },
     {
-        "link": "https://cartr.ru",
-        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
-        "Abstract": null,
-        "Official Site": "https://cartr.ru",
-        "Icon": "/templates/ot_appoz/favicon.ico",
-        "Redirect": "https://cartr.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cartr.ru"
-    },
-    {
         "link": "https://wyjadaczewisienek.pl",
         "Heading": "Promocje bankowe, lokaty bankowe i konta - prze\u015bwietlamy najlepsze - LiveSmarter.pl",
         "Abstract": "Jak p\u0142aci\u0107 mniej, zyskiwa\u0107 w programach premiowych, zarabia\u0107 na lokatach i kontach",
@@ -218,6 +208,16 @@
         "Redirect": "https://isxgames.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://isxgames.com"
+    },
+    {
+        "link": "https://seashoresteel.com",
+        "Heading": "Seashore Steel Qatar -",
+        "Abstract": null,
+        "Official Site": "https://seashoresteel.com/",
+        "Icon": "N/A",
+        "Redirect": "https://seashoresteel.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seashoresteel.com/"
     },
     {
         "link": "https://pcschmiede.eu",

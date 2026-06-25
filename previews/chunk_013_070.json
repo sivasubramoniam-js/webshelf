@@ -161,13 +161,13 @@
     },
     {
         "link": "https://seegreatart.art",
-        "Heading": "See Great Art - Sharing great art from across North America",
-        "Abstract": "Sharing great art from across North America",
-        "Official Site": "https://www.seegreatart.art/",
-        "Icon": "https://www.seegreatart.art/wp-content/uploads/2020/09/cropped-See-Great-Art-32x32.jpg",
-        "Redirect": "https://www.seegreatart.art/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://seegreatart.art",
+        "Icon": "data:;",
+        "Redirect": "https://seegreatart.art",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.seegreatart.art/"
+        "AbstractURL": "https://seegreatart.art"
     },
     {
         "link": "https://mujin.co.jp",

@@ -110,16 +110,6 @@
         "AbstractURL": "https://dps2protect.com/"
     },
     {
-        "link": "https://elsewherefashion.com",
-        "Heading": "Elsewhere Fashion | Official Webshop | Something Elsewhere",
-        "Abstract": "Discover bold, avant-garde fashion designed in the Netherlands. Sculptural silhouettes, monochrome tones, and effortless style by Elsewhere.",
-        "Official Site": "https://www.elsewherefashion.com/",
-        "Icon": "https://www.elsewherefashion.com/wp-content/uploads/2026/04/2.jpg",
-        "Redirect": "https://www.elsewherefashion.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.elsewherefashion.com/"
-    },
-    {
         "link": "https://l-welse.com",
         "Heading": "L-Welse.com ",
         "Abstract": "L-Welse.com, die Plattform f\u00fcr Wels Liebhaber und Aquarianer die sich mit der Haltung von Welsen befassen. Umfangreiche Informationen im Forum und in der Datenbank.",
@@ -171,13 +161,13 @@
     },
     {
         "link": "https://omarlara.cl",
-        "Heading": "Gran Himalaya - Omar Lara",
-        "Abstract": "Es un hecho que no subir\u00e9 jam\u00e1s a las cumbresdel Gran Himalaya;est\u00e1 escrito que los hombres all\u00ed se vuelvendiosesy el poder temible de la naturaleza disminuye alos seres: sus pasiones,a una blanda indolencia.Pero yo no subir\u00e9 al Gran Himalaya,tropezar\u00e9 con las piedras del camino,me embriagar\u00e9 con deleznables licores,seguir\u00e9 maldici\u00e9ndome con ternura. ",
-        "Official Site": "https://omarlara.cl/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://omarlara.cl",
         "Icon": "N/A",
-        "Redirect": "https://omarlara.cl/",
+        "Redirect": "https://omarlara.cl",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://omarlara.cl/"
+        "AbstractURL": "https://omarlara.cl"
     },
     {
         "link": "https://thedailybriefing.io",

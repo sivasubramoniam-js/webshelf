@@ -94,7 +94,7 @@
         "Heading": "\n      Mustafa Computers | Laptops, PCs, Printers & Electronics in Pakistan\n \u2013 MUSTAFA COMPUTERS",
         "Abstract": "Mustafa Computers is a leading computer and electronics store in Pakistan. Shop laptops, desktops, gaming PCs, monitors, printers, networking devices, and accessories with official warranty and nationwide delivery.",
         "Official Site": "https://mustafacomputers.pk/",
-        "Icon": "http://mustafacomputers.pk/cdn/shop/files/Mustafa-Computers-Logo-01_5a4ea819-adc5-469d-8481-2f2f21b5357a.png?height=628&pad_color=ffffff&v=1713866348&width=1200",
+        "Icon": "http://cdn.shopify.com/s/files/1/0874/3577/2185/files/Mustafa-Computers-Logo-01_5a4ea819-adc5-469d-8481-2f2f21b5357a.png?height=628&pad_color=ffffff&v=1713866348&width=1200",
         "Redirect": "https://mustafacomputers.pk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mustafacomputers.pk/"
@@ -158,6 +158,16 @@
         "Redirect": "https://www.mysundayski.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mysundayski.co.uk/"
+    },
+    {
+        "link": "https://mythess.gr",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mythess.gr",
+        "Icon": "data:;",
+        "Redirect": "https://mythess.gr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mythess.gr"
     },
     {
         "link": "https://naijanowell.com",
@@ -240,6 +250,16 @@
         "AbstractURL": "https://neomacro.in/"
     },
     {
+        "link": "https://nesvizh-news.by",
+        "Heading": "\"\u041d\u044f\u0441\u0432\u0456\u0436\u0441\u043a\u0456\u044f \u043d\u0430\u0432\u0456\u043d\u044b\". \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u041d\u0435\u0441\u0432\u0438\u0436\u0430. \u041d\u0435\u0441\u0432\u0438\u0436. \u041f\u0440\u043e \u041d\u0435\u0441\u0432\u0438\u0436",
+        "Abstract": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u041d\u0435\u0441\u0432\u0438\u0436\u0430 | \u041d\u044f\u0441\u0432\u0456\u0436\u0441\u043a\u0456\u044f \u043d\u0430\u0432\u0456\u043d\u044b |",
+        "Official Site": "https://www.nesvizh-news.by/",
+        "Icon": "https://www.nesvizh-news.by/wp-content/uploads/2022/11/66-45x45.png",
+        "Redirect": "https://www.nesvizh-news.by/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nesvizh-news.by/"
+    },
+    {
         "link": "https://netfinancie.sk",
         "Heading": "Online poistenie - Porovnajte ceny a u\u0161etrite | Netfinancie.sk",
         "Abstract": "Zauj\u00edma v\u00e1s aktu\u00e1lna cena PZP, cestovn\u00e9ho \u010di havarijn\u00e9ho poistenia? Na\u0161a online kalkula\u010dka v\u00e1m vypo\u010d\u00edta najlacnej\u0161ie poistenie a vy si ho m\u00f4\u017eete ihne\u010f aj uzatvori\u0165!",
@@ -260,16 +280,6 @@
         "AbstractURL": "https://netschach.de"
     },
     {
-        "link": "https://neue-gladbecker-zeitung.de",
-        "Heading": "Nachrichten aus Gladbeck - NGZ - Neue Gladbecker Zeitung",
-        "Abstract": "Nachrichten und News aus Gladbeck und Umgebung",
-        "Official Site": "https://neue-gladbecker-zeitung.de/",
-        "Icon": "https://neue-gladbecker-zeitung.de/wp-content/uploads/2023/02/icon.jpg",
-        "Redirect": "https://neue-gladbecker-zeitung.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://neue-gladbecker-zeitung.de/"
-    },
-    {
         "link": "https://neutonic.com",
         "Heading": "\n      Official Neutonic | Research-Backed Performance\n",
         "Abstract": "Improve focus, reduce stress, and beat fatigue with our scientifically formulated nootropic blends. Stay productive all day. Save up to 20% with subscriptions.",
@@ -288,6 +298,16 @@
         "Redirect": "https://newsflash71.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://newsflash71.com"
+    },
+    {
+        "link": "https://nexuscare.me",
+        "Heading": "Buy Authentic Makeup & Cosmetics Online in Lebanon | NexusCare\n",
+        "Abstract": "Discover authentic makeup, cosmetics, skincare and self-care essentials in Lebanon. Shop online with trusted brands, great selection, and fast delivery.",
+        "Official Site": "https://nexuscare.me/",
+        "Icon": "http://nexuscare.me/cdn/shop/files/white.png?v=1728452272",
+        "Redirect": "https://nexuscare.me/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nexuscare.me/"
     },
     {
         "link": "https://nfp-forum.de",

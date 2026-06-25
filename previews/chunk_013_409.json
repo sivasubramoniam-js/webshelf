@@ -180,6 +180,16 @@
         "AbstractURL": "https://homelo.pk/"
     },
     {
+        "link": "https://honda-parts.eu",
+        "Heading": "Honda Parts - Honda Parts",
+        "Abstract": "Honda Parts",
+        "Official Site": "https://www.honda-parts.eu/benl",
+        "Icon": "https://www.honda-parts.eu/files/images/1200x_/honda-parts-background.jpg",
+        "Redirect": "https://www.honda-parts.eu/benl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.honda-parts.eu/benl"
+    },
+    {
         "link": "https://honeywillow.com",
         "Heading": "\n      Meaningful Jewellery, Handmade in Bath England\n \u2013 Honey Willow - handmade jewellery",
         "Abstract": "Honey Willow celebrates life and love: we handcraft jewellery that represents milestone events and meaningful relationships - everyday jewellery that can be worn close to your heart. Free international shipping.",
@@ -191,13 +201,13 @@
     },
     {
         "link": "https://hopespring.org.uk",
-        "Heading": "Hope Spring | Clean Water Charity, Sanitation & Hygiene Africa",
-        "Abstract": "Hope Spring clean water charity UK-based providing clean water, sanitation, and hygiene education to communities in Africa. Donate, partner, change lives.",
-        "Official Site": "https://www.hopespring.org.uk/",
-        "Icon": "https://www.hopespring.org.uk/wp-content/uploads/2017/08/favicon-3.png",
-        "Redirect": "https://www.hopespring.org.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://hopespring.org.uk",
+        "Icon": "data:;",
+        "Redirect": "https://hopespring.org.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hopespring.org.uk/"
+        "AbstractURL": "https://hopespring.org.uk"
     },
     {
         "link": "https://hotlotz.com",

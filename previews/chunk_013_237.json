@@ -80,16 +80,6 @@
         "AbstractURL": "https://postosjarjour.com.br/"
     },
     {
-        "link": "https://libreriablanco.com",
-        "Heading": "Todo en libros, papeler\u00eda, regalo y juguetes. Env\u00edos 24/48h.",
-        "Abstract": "Gran selecci\u00f3n de libros, papeler\u00eda y material de oficina, juguetes y juegos educativos. Compre online y benef\u00edciese de nuestros descuentos.",
-        "Official Site": "https://libreriablanco.com",
-        "Icon": "https://www.libreriablanco.com/es/archivos/45/favicon.png",
-        "Redirect": "https://libreriablanco.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://libreriablanco.com"
-    },
-    {
         "link": "https://msg-life.com",
         "Heading": "\n        msg.Insurance Suite SaaS - Digitalisation for insurers    ",
         "Abstract": "msg.Insurance Suite SaaS is an E2E integrated IT platform for fully digitalised insurance operations for all lines of business.",
@@ -138,6 +128,16 @@
         "Redirect": "https://amrithaa.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://amrithaa.in"
+    },
+    {
+        "link": "https://gainfoxtrade.info",
+        "Heading": "Bot Verification",
+        "Abstract": null,
+        "Official Site": "https://gainfoxtrade.info",
+        "Icon": "N/A",
+        "Redirect": "https://gainfoxtrade.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gainfoxtrade.info"
     },
     {
         "link": "https://getx-play.xyz",
@@ -200,6 +200,16 @@
         "AbstractURL": "https://inthekitch.net/"
     },
     {
+        "link": "https://newyorkspaces.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://newyorkspaces.com",
+        "Icon": "data:;",
+        "Redirect": "https://newyorkspaces.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://newyorkspaces.com"
+    },
+    {
         "link": "https://adrussia.ru",
         "Heading": "Adrussia",
         "Abstract": "AD \u0420\u0443\u0441\u0441 - \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u044c\u044e\u0442\u043e\u0440\u043e\u0432 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u043e\u0432, \u0437\u0430\u043f\u0430\u0441\u043d\u044b\u0445 \u0447\u0430\u0441\u0442\u0435\u0439, \u043c\u043e\u0442\u043e\u0440\u043d\u044b\u0445 \u043c\u0430\u0441\u0435\u043b, \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u0435\u0439 \u0438 \u0441\u043c\u0430\u0437\u043e\u0447\u043d\u044b\u0445 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432, \u0432\u0445\u043e\u0434\u044f\u0449\u0430\u044f \u0432 \u0441\u043e\u0441\u0442\u0430\u0432 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0435\u0439 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u044c\u044e\u0442\u043e\u0440\u043e\u0432 \u0430\u0432\u0442\u043e\u0437\u0430\u043f\u0447\u0430\u0441\u0442\u0435\u0439 - AutoDistribution International.",
@@ -218,16 +228,6 @@
         "Redirect": "https://rpsonline.com.sg/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rpsonline.com.sg/"
-    },
-    {
-        "link": "https://coodi.info",
-        "Heading": "Coodi Info",
-        "Abstract": null,
-        "Official Site": "https://coodi.info",
-        "Icon": "N/A",
-        "Redirect": "https://coodi.info",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://coodi.info"
     },
     {
         "link": "https://structlog.org",

@@ -30,16 +30,6 @@
         "AbstractURL": "https://dealslist.com"
     },
     {
-        "link": "https://hometownnewstc.com",
-        "Heading": "hometownnewstc.com | Your Real Local News & Information Source",
-        "Abstract": "",
-        "Official Site": "https://www.hometownnewstc.com/",
-        "Icon": "https://bloximages.newyork1.vip.townnews.com/hometownnewstc.com/content/tncms/custom/image/cfe1602a-2283-11ef-a31e-4be297bc02f9.png?resize=600%2C315",
-        "Redirect": "https://www.hometownnewstc.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hometownnewstc.com/"
-    },
-    {
         "link": "https://bupack.ru",
         "Heading": "\u0413\u043e\u0444\u0442\u0430\u0440\u0430 \u0438 \u043a\u043e\u0440\u043e\u0431\u043a\u0438 \u043c\u0430\u043b\u044b\u043c \u043e\u043f\u0442\u043e\u043c ",
         "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u0433\u043e\u0444\u0440\u043e\u043a\u0430\u0440\u0442\u043e\u043d \u043d\u0430 \u0441\u043a\u043b\u0430\u0434\u0435 \u041e\u041e\u041e \"\u0411\u0443\u043c\u0430\u0433\u0430 \u0438 \u0443\u043f\u0430\u043a\u043e\u0432\u043a\u0430\"",
@@ -68,6 +58,16 @@
         "Redirect": "https://xn----7sbgj9bdrl.xn--p1ai",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xn----7sbgj9bdrl.xn--p1ai"
+    },
+    {
+        "link": "https://youtube-rank.com",
+        "Heading": "\uc720\ud29c\ube0c \ub7ad\ud0b9",
+        "Abstract": "\uc720\ud29c\ube0c \ub7ad\ud0b9,\uc778\uc2a4\ud0c0 \ub7ad\ud0b9,\uc544\ud504\ub9ac\uce74TV \ub7ad\ud0b9, \ud398\uc774\uc2a4\ubd81 \ub7ad\ud0b9, \ud2b8\uc704\ud130 \ub7ad\ud0b9, \uc21c\uc704, \uad6c\ub3c5\uc790, \ud06c\ub9ac\uc5d0\uc774\ud130, \uc720\ud29c\ubc84, \uc601\uc0c1, \uc870\ud68c\uc218, \uc778\uae30\ub3d9\uc601\uc0c1",
+        "Official Site": "https://www.sns-rank.com",
+        "Icon": "/img/android-chrome-512x512.png",
+        "Redirect": "https://www.sns-rank.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sns-rank.com"
     },
     {
         "link": "https://intercontinental-strings.jp",
@@ -198,16 +198,6 @@
         "Redirect": "https://gregbear.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gregbear.com"
-    },
-    {
-        "link": "https://gamertracking.com",
-        "Heading": "Global Pulse News - Breaking News & Top Stories",
-        "Abstract": "Get the latest breaking news and top stories from around the world",
-        "Official Site": "https://gamertracking.com",
-        "Icon": "N/A",
-        "Redirect": "https://gamertracking.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gamertracking.com"
     },
     {
         "link": "https://guiase.net.br",

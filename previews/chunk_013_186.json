@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://todresrecords.com",
+        "Heading": "Client Challenge",
+        "Abstract": null,
+        "Official Site": "https://todresrecords.com",
+        "Icon": "N/A",
+        "Redirect": "https://todresrecords.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://todresrecords.com"
+    },
+    {
         "link": "https://edise.es",
         "Heading": null,
         "Abstract": null,
@@ -12,12 +22,12 @@
     {
         "link": "https://g1box.eu",
         "Heading": "Twitch",
-        "Abstract": "Hey, hier ist g1box \ud83d\udc7eVariety-Streamer mit nerdigen Vibes, Programmer-Brain und gelegentlichen NULLs.Erwartet Chill und Chaos sowie eine Mischung aus allem dazwischen und au\u00dferhalb.",
-        "Official Site": "https://www.twitch.tv/g1box",
-        "Icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3bd7132-89ee-45c5-ba57-fce42fa7f124-profile_image-300x300.png",
-        "Redirect": "https://www.twitch.tv/g1box",
+        "Abstract": "Twitch is the world's leading video platform and community for gamers.",
+        "Official Site": "https://g1box.eu",
+        "Icon": "https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg",
+        "Redirect": "https://g1box.eu",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.twitch.tv/g1box"
+        "AbstractURL": "https://g1box.eu"
     },
     {
         "link": "https://aloha-corp.com",
@@ -58,6 +68,16 @@
         "Redirect": "https://medien-internet-und-recht.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://medien-internet-und-recht.de"
+    },
+    {
+        "link": "https://beateuhsemovie.com",
+        "Heading": "Beate Uhse Movie",
+        "Abstract": null,
+        "Official Site": "https://beateuhsemovie.com",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://beateuhsemovie.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://beateuhsemovie.com"
     },
     {
         "link": "https://pittsburgusd.net",
@@ -134,7 +154,7 @@
         "Heading": "Home & Kitchen Hardware Store Alsip, IL | Fox Home Center",
         "Abstract": "Fox Home Center located in Alsip, IL is your full service supplier of home hardware including kitchens, bathrooms, bedrooms, & outdoor spaces, stop in today or call to inquire!",
         "Official Site": "https://foxhomecenter.com",
-        "Icon": "/images/favicon.ico?ccid=x445bbb38",
+        "Icon": "/images/favicon.ico?ccid=x310ae87e",
         "Redirect": "https://foxhomecenter.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://foxhomecenter.com"
@@ -153,11 +173,11 @@
         "link": "https://cave9x.net",
         "Heading": "Phim Sex Hay, Sex M\u1edbi, Clip Sex Vi\u1ec7t Nhanh Ch\u1ea5t L\u01b0\u1ee3ng Cao",
         "Abstract": "Phim sex hay c\u1ef1c d\u00e2m nhi\u1ec1u th\u1ec3 lo\u1ea1i xxx kh\u00e1c nhau, clip sex vn hay ch\u1ea5t l\u01b0\u1ee3ng cao t\u1eeb 720p \u0111\u1ebfn 1080p, phim sex m\u1edbi c\u1ef1c n\u00e9t v\u00e0 \u0111\u1eb7c bi\u1ec7t l\u00e0 sex viet nam mi\u1ec5n ph\u00ed.",
-        "Official Site": "https://clip3xhay.net/",
-        "Icon": "https://clip3xhay.net/wp-content/themes/video3x/images/default.png",
-        "Redirect": "https://clip3xhay.net/",
+        "Official Site": "https://websexviet.net/",
+        "Icon": "https://websexviet.net/wp-content/themes/video3x/images/default.png",
+        "Redirect": "https://websexviet.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://clip3xhay.net/"
+        "AbstractURL": "https://websexviet.net/"
     },
     {
         "link": "https://brocloud.fr",
@@ -218,6 +238,16 @@
         "Redirect": "https://www.ridgelinegaragedoor.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ridgelinegaragedoor.com/"
+    },
+    {
+        "link": "https://visitthegambia.gm",
+        "Heading": "Holiday - Visit The Gambia",
+        "Abstract": "Welcome to the Gambia, the Smiling Coast of Africa",
+        "Official Site": "https://visitthegambia.com/",
+        "Icon": "https://visitthegambia.com/wp-content/uploads/2017/08/cropped-gambian_tourist_board_logo_300px1-32x32.png",
+        "Redirect": "https://visitthegambia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://visitthegambia.com/"
     },
     {
         "link": "https://caribbeancovewaterpark.com",

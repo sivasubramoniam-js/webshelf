@@ -20,6 +20,16 @@
         "AbstractURL": "https://stadtsaal.com"
     },
     {
+        "link": "https://yoma-track-trace.com",
+        "Heading": "Yoma Solutions \u2013 Softwarel\u00f6sungen f\u00fcr Autoh\u00e4user & Flotten",
+        "Abstract": null,
+        "Official Site": "https://yoma-track-trace.com",
+        "Icon": "https://yoma-track-trace.com/wp-content/uploads/2023/04/cropped-favicon-32x32.png",
+        "Redirect": "https://yoma-track-trace.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yoma-track-trace.com"
+    },
+    {
         "link": "https://kimberleywalsh.co.uk",
         "Heading": "Home - Kimberley Walsh UK",
         "Abstract": null,
@@ -28,16 +38,6 @@
         "Redirect": "https://kimberleywalsh.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kimberleywalsh.co.uk"
-    },
-    {
-        "link": "https://ao-nk.ru",
-        "Heading": "\u0410\u041e \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438",
-        "Abstract": "\u0410\u041e \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u0432\u0430\u043b\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438",
-        "Official Site": "https://ao-nk.ru",
-        "Icon": "/template/images/favicon.png",
-        "Redirect": "https://ao-nk.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ao-nk.ru"
     },
     {
         "link": "https://imagination-engines.com",
@@ -70,24 +70,14 @@
         "AbstractURL": "https://laola24.com"
     },
     {
-        "link": "https://barrettnetworks.com",
-        "Heading": "Barrett Networks | Barrett Networks is now part of HostGo.com.",
-        "Abstract": null,
-        "Official Site": "https://barrettnetworks.com",
-        "Icon": "https://hostgo.barrettnetworks.com/wp-content/uploads/2024/11/cropped-bn-favicon-32x32.jpg",
-        "Redirect": "https://barrettnetworks.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://barrettnetworks.com"
-    },
-    {
         "link": "https://louisvilleoralsurgery.com",
-        "Heading": "Louisville Oral Surgery and Dental Implants Clinic - Partial & Full Mouth Dental Implants Services Center, Maxillofacial Surgery, Wisdom Tooth Removal, Oral Surgeon & Implant Dentistry Louisville KY",
-        "Abstract": "Explore Louisville Oral Surgery & Dental Implants for expert oral surgery and dental implants wisdom tooth extraction and more in Louisville KY. Book your consultation now.",
-        "Official Site": "https://www.louisvilleoralsurgery.com/",
-        "Icon": "https://www.louisvilleoralsurgery.com/wp-content/uploads/cropped-favicon-32x32.png",
-        "Redirect": "https://www.louisvilleoralsurgery.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://louisvilleoralsurgery.com",
+        "Icon": "data:;",
+        "Redirect": "https://louisvilleoralsurgery.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.louisvilleoralsurgery.com/"
+        "AbstractURL": "https://louisvilleoralsurgery.com"
     },
     {
         "link": "https://nyujilp.org",
@@ -150,6 +140,16 @@
         "AbstractURL": "https://harbour-cloud.com"
     },
     {
+        "link": "https://etheramedia.com",
+        "Heading": "Ethera Media",
+        "Abstract": null,
+        "Official Site": "https://etheramedia.com",
+        "Icon": "images/icon.png",
+        "Redirect": "https://etheramedia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://etheramedia.com"
+    },
+    {
         "link": "https://cavitycolors.com",
         "Heading": "Cavitycolors: Horror & Halloween T-Shirts\n\u2013 CavityColors\n",
         "Abstract": "Officially Licensed Halloween and Horror Movie T-shirts",
@@ -158,6 +158,16 @@
         "Redirect": "https://cavitycolors.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cavitycolors.com/"
+    },
+    {
+        "link": "https://visitzandvoort.nl",
+        "Heading": "Visit Zandvoort - Ontdek, beleef en bezoek Zandvoort",
+        "Abstract": "Ontdek de veelzijdigheid van Zandvoort. Ontdek, beleef en bezoek Zandvoort aan Zee in elk seizoen. Visit Zandvoort is d\u00e9 toeristische website van Zandvoort",
+        "Official Site": "https://visitzandvoort.nl/",
+        "Icon": "https://visitzandvoort.nl/wp-content/uploads/2026/06/dji_fly_20230530_131448_198_1686488782913_photo-2-1024x576.jpg",
+        "Redirect": "https://visitzandvoort.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://visitzandvoort.nl/"
     },
     {
         "link": "https://chestpass.jp",

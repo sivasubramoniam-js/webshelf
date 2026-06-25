@@ -41,13 +41,13 @@
     },
     {
         "link": "https://fridayapp.com",
-        "Heading": "FRIDAY: The Simplest Small Business Payroll Software \ud83d\ude80",
-        "Abstract": "FRIDAY\u2122 is the #1 small business payroll software.\ud83c\udfc6 Run payroll in seconds, track time, onboard, manage PTO, and keep your team connected.\ud83d\udcac",
-        "Official Site": "https://fridayapp.com/",
-        "Icon": "https://fridayapp.com/wp-content/uploads/2025/05/Friday-open-graph.png",
-        "Redirect": "https://fridayapp.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://fridayapp.com",
+        "Icon": "data:;",
+        "Redirect": "https://fridayapp.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fridayapp.com/"
+        "AbstractURL": "https://fridayapp.com"
     },
     {
         "link": "https://froutino.gr",
@@ -98,16 +98,6 @@
         "Redirect": "https://futmal.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://futmal.pl"
-    },
-    {
-        "link": "https://fxms.cn",
-        "Heading": "\u4e50\u5237POS\u673a",
-        "Abstract": null,
-        "Official Site": "https://fxms.cn",
-        "Icon": "N/A",
-        "Redirect": "https://fxms.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fxms.cn"
     },
     {
         "link": "https://gailsfurniture.com",
@@ -328,6 +318,16 @@
         "Redirect": "https://www.groningenmarkt.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.groningenmarkt.nl"
+    },
+    {
+        "link": "https://grossisteturquie.com",
+        "Heading": "GrossisteTurquie.com | Grossiste Abaya et Grossiste Hijab\n",
+        "Abstract": "Votre source de confiance en tant que grossiste abayas et grossiste hijab de qualit\u00e9. Parcourez notre collection en gros, offrant une vari\u00e9t\u00e9 de designs exquis pour satisfaire vos clients. Devenez le vendeur privil\u00e9gi\u00e9 de mode abaya et hijab avec nos offres de gros",
+        "Official Site": "https://grossisteturquie.com/",
+        "Icon": "http://grossisteturquie.com/cdn/shop/files/grossiste-abaya.jpg?v=1693508682",
+        "Redirect": "https://grossisteturquie.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://grossisteturquie.com/"
     },
     {
         "link": "https://grosvenorprints.com",

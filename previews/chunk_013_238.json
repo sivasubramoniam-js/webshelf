@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.fybush.com"
     },
     {
-        "link": "https://diplomtestis.com",
-        "Heading": "diplomtestis.com",
-        "Abstract": null,
-        "Official Site": "https://diplomtestis.com",
-        "Icon": "N/A",
-        "Redirect": "https://diplomtestis.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://diplomtestis.com"
-    },
-    {
         "link": "https://thenotebook.org",
         "Heading": "Chalkbeat - Philadelphia",
         "Abstract": "Chalkbeat is a nonprofit news organization committed to covering one of America's most important stories: the effort to improve schools for all children.",
@@ -228,6 +218,16 @@
         "Redirect": "https://naim.bg",
         "AbstractSource": "BS4",
         "AbstractURL": "https://naim.bg"
+    },
+    {
+        "link": "https://go-oo.org",
+        "Heading": "Your Office Suite",
+        "Abstract": null,
+        "Official Site": "https://go-oo.org",
+        "Icon": "N/A",
+        "Redirect": "https://go-oo.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://go-oo.org"
     },
     {
         "link": "https://kinoaero.cz",

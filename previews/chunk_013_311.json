@@ -51,13 +51,13 @@
     },
     {
         "link": "https://gaillardcenter.org",
-        "Heading": "Charleston Gaillard Center Homepage - Charleston Gaillard Center",
-        "Abstract": "The Charleston Gaillard Center commissions, produces, and presents ambitious, multidisciplinary cultural programming and provides access to the best local, national, and global artists and companies. Deeply rooted in the community, the Gaillard is committed to elevating local and regional voices and partnering with Charleston institutions to reflect the city\u2019s diversity. Through programming on its public",
-        "Official Site": "https://gaillardcenter.org/",
-        "Icon": "https://gaillardcenter.org/wp-content/uploads/Web-imagesGeneral-questions-1.jpg",
-        "Redirect": "https://gaillardcenter.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://gaillardcenter.org",
+        "Icon": "data:;",
+        "Redirect": "https://gaillardcenter.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gaillardcenter.org/"
+        "AbstractURL": "https://gaillardcenter.org"
     },
     {
         "link": "https://memetherapy.io",
@@ -101,13 +101,13 @@
     },
     {
         "link": "https://bestmotori.it",
-        "Heading": "BestMotori.it - News, Test Drive e molto altro, a cura di Bruno Allevi",
-        "Abstract": "News, Test Drive e molto altro, a cura di Bruno Allevi",
-        "Official Site": "https://bestmotori.it/",
-        "Icon": "https://bestmotori.it/wp-content/uploads/2017/03/logo-homepage-bestmotori-01-2.png",
-        "Redirect": "https://bestmotori.it/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bestmotori.it",
+        "Icon": "data:;",
+        "Redirect": "https://bestmotori.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bestmotori.it/"
+        "AbstractURL": "https://bestmotori.it"
     },
     {
         "link": "https://mdeng.ru",
@@ -268,6 +268,16 @@
         "Redirect": "https://dailychive.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dailychive.com"
+    },
+    {
+        "link": "https://springbokagency.com",
+        "Heading": "Where Digital Creativity Meets Modern Marketing | Home",
+        "Abstract": "We transform brands through creativity and data. Discover our award-winning approach to modern marketing challenges (because no one likes boring solutions).",
+        "Official Site": "https://springbokagency.com",
+        "Icon": "https://www.springbokagency.com/sites/default/themes/custom/frontend/assets/medias/images/og-default.png",
+        "Redirect": "https://springbokagency.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://springbokagency.com"
     },
     {
         "link": "https://logiceverything.com",
