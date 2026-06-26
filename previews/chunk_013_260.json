@@ -70,24 +70,14 @@
         "AbstractURL": "https://naturafoundation.nl"
     },
     {
-        "link": "https://jboxd.com",
-        "Heading": "Index of /",
-        "Abstract": null,
-        "Official Site": "https://jboxd.com",
-        "Icon": "N/A",
-        "Redirect": "https://jboxd.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jboxd.com"
-    },
-    {
         "link": "https://search-2go.com",
         "Heading": "Search - Microsoft Bing",
-        "Abstract": "Zoom in on the small transaction that keeps landsc",
-        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260624_0700&mkt=en-US",
-        "Icon": "https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_tmb.jpg&rf=",
-        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260624_0700&mkt=en-US",
+        "Abstract": "Few squares in Belgium wear history as well as the",
+        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260625_0700&mkt=en-US",
+        "Icon": "https://www.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_tmb.jpg&rf=",
+        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260625_0700&mkt=en-US",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260624_0700&mkt=en-US"
+        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260625_0700&mkt=en-US"
     },
     {
         "link": "https://razny.com",
@@ -98,16 +88,6 @@
         "Redirect": "https://razny.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://razny.com/"
-    },
-    {
-        "link": "https://communityrepaint.org.uk",
-        "Heading": "Home - Community RePaint",
-        "Abstract": "We work with community organisations, local authorities, retailers and more to, collect reusable paint and redistribute it to the community.",
-        "Official Site": "https://communityrepaint.org.uk/",
-        "Icon": "https://communityrepaint.org.uk/wp-content/themes/community-repaint/assets/img/favicon.ico",
-        "Redirect": "https://communityrepaint.org.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://communityrepaint.org.uk/"
     },
     {
         "link": "https://satellite-sightseer.com",
@@ -160,6 +140,16 @@
         "AbstractURL": "https://bezuidenhout.nl"
     },
     {
+        "link": "https://alfa-hobby.ru",
+        "Heading": "\u0410\u043b\u044c\u0444\u0430-\u0425\u043e\u0431\u0431\u0438: \u0444\u0438\u043b\u0430\u0442\u0435\u043b\u0438\u044f, \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0445 \u043c\u0430\u0440\u043e\u043a! \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043c\u0430\u0433\u0430\u0437\u0438\u043d - \u043a\u0443\u043f\u0438\u0442\u044c \u043c\u0430\u0440\u043a\u0438, \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0438 \u0421\u0421\u0421\u0420 \u0438 \u0420\u043e\u0441\u0441\u0438\u0438, \u043f\u043e \u0442\u0435\u043c\u0435 \u0444\u0430\u0443\u043d\u0430 \u0438 \u0444\u0443\u0442\u0431\u043e\u043b, \u0446\u0435\u043d\u044b \u043d\u0430 \u043c\u0430\u0440\u043a\u0438.",
+        "Abstract": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u041e\u041e\u041e \u0410\u043b\u044c\u0444\u0430-\u0425\u043e\u0431\u0431\u0438 - \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u043f\u043e\u0447\u0442\u043e\u0432\u044b\u0445 \u043c\u0430\u0440\u043e\u043a, \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u043e\u0432 \u043c\u0430\u0440\u043e\u043a, \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u0439, \u0441\u0442\u0430\u0440\u0438\u043d\u043d\u044b\u0445 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u043a \u0438 \u0431\u0430\u043d\u043a\u043d\u043e\u0442.",
+        "Official Site": "https://alfa-hobby.ru",
+        "Icon": "N/A",
+        "Redirect": "https://alfa-hobby.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alfa-hobby.ru"
+    },
+    {
         "link": "https://lnrgov.ru",
         "Heading": "\u0412\u0445\u043e\u0434 \u0432 \u0432\u0435\u0431-\u043a\u043b\u0438\u0435\u043d\u0442 EPC",
         "Abstract": "EPC : https://epc-lnr.ru.",
@@ -168,16 +158,6 @@
         "Redirect": "https://lnrgov.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lnrgov.ru"
-    },
-    {
-        "link": "https://plsk9.com.br",
-        "Heading": "::...::  Silicom ISP  ::..::",
-        "Abstract": null,
-        "Official Site": "https://plsk9.com.br",
-        "Icon": "N/A",
-        "Redirect": "https://plsk9.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://plsk9.com.br"
     },
     {
         "link": "https://sasin.edu",

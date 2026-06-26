@@ -160,16 +160,6 @@
         "AbstractURL": "https://xn--80ajat4acbm8e.xn--p1ai"
     },
     {
-        "link": "https://cffutures.net",
-        "Heading": "Children and Family Futures",
-        "Abstract": "MISSION\nChildren and Family Futures strives to prevent child abuse and neglect while improving safety, permanency, well-being, and recovery outcomes for all children, parents and families affected by trauma, substance use and mental health disorders.    More About Who We Are  In 2023,",
-        "Official Site": "https://www.cffutures.org/",
-        "Icon": "https://cffutures.b-cdn.net/wp-content/uploads/2025/07/cff-logo-web.svg",
-        "Redirect": "https://www.cffutures.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cffutures.org/"
-    },
-    {
         "link": "https://psp-hacks.com",
         "Heading": "Redirecting...",
         "Abstract": null,
@@ -261,8 +251,8 @@
     },
     {
         "link": "https://parcheha.com",
-        "Heading": "Site is undergoing maintenance",
-        "Abstract": "We are doing some work on our site. Please come back later. We'll be up and running in no time.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://parcheha.com",
         "Icon": "N/A",
         "Redirect": "https://parcheha.com",
@@ -288,15 +278,5 @@
         "Redirect": "https://supercurioso.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://supercurioso.com/"
-    },
-    {
-        "link": "https://ganitiktech.com",
-        "Heading": "Ganitik Tech Limited - Home",
-        "Abstract": null,
-        "Official Site": "https://ganitiktech.com",
-        "Icon": "assets/img/ganitik.png",
-        "Redirect": "https://ganitiktech.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ganitiktech.com"
     }
 ]

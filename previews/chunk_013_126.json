@@ -90,16 +90,6 @@
         "AbstractURL": "https://lottiewilcox.uk"
     },
     {
-        "link": "https://radiodj.ro",
-        "Heading": "RadioDJ \u2013 Radio Automation Software",
-        "Abstract": null,
-        "Official Site": "https://radiodj.ro",
-        "Icon": "N/A",
-        "Redirect": "https://radiodj.ro",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://radiodj.ro"
-    },
-    {
         "link": "https://grandelakes.com",
         "Heading": "Hotels in Orlando, FL | Grande Lakes Orlando",
         "Abstract": "Make your getaway to the sprawling Grande Lakes resort, a unique five star golf and spa retreat featuring The Ritz Carlton JW Marriott Orlando, FL, hotels",
@@ -170,16 +160,6 @@
         "AbstractURL": "https://jsof-tech.com"
     },
     {
-        "link": "https://radarhost.net",
-        "Heading": "Home - Radarhosting.com",
-        "Abstract": "Unlimited Hosting dengan performa yang bisa diandalkan dengan teknologi SSD terbaru. Dengan kontrol panel cPanel mudahkan manajemen akun hosting & email.",
-        "Official Site": "https://radarhosting.com/",
-        "Icon": "https://radarhosting.com/wp-content/uploads/2025/01/logo-radar-hosting-font-putih-awan-aja.png",
-        "Redirect": "https://radarhosting.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://radarhosting.com/"
-    },
-    {
         "link": "https://wyjadaczewisienek.pl",
         "Heading": "Promocje bankowe, lokaty bankowe i konta - prze\u015bwietlamy najlepsze - LiveSmarter.pl",
         "Abstract": "Jak p\u0142aci\u0107 mniej, zyskiwa\u0107 w programach premiowych, zarabia\u0107 na lokatach i kontach",
@@ -211,13 +191,13 @@
     },
     {
         "link": "https://seashoresteel.com",
-        "Heading": "Seashore Steel Qatar -",
-        "Abstract": null,
-        "Official Site": "https://seashoresteel.com/",
-        "Icon": "N/A",
-        "Redirect": "https://seashoresteel.com/",
+        "Heading": "Default page",
+        "Abstract": "Default page",
+        "Official Site": "https://seashoresteel.com",
+        "Icon": "https://hpanel.hostinger.com/favicons/hostinger.png",
+        "Redirect": "https://seashoresteel.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://seashoresteel.com/"
+        "AbstractURL": "https://seashoresteel.com"
     },
     {
         "link": "https://pcschmiede.eu",

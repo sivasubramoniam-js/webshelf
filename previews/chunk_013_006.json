@@ -54,7 +54,7 @@
         "Heading": "Home | Browning Ammunition",
         "Abstract": "Browning Ammunition manufactures ammo for all shooting activities: hunting ammo, shooting, target ammo, and personal defense ammo. Browning offers rifle ammo, shotgun ammo, and handgun ammo.",
         "Official Site": "https://browningammo.com/en",
-        "Icon": "https://localhost/-/media/Project/BrowningAmmo/Social-Images/share-facebook.ashx",
+        "Icon": "https://browningammo.com/-/media/Project/BrowningAmmo/Social-Images/share-facebook.ashx",
         "Redirect": "https://browningammo.com/en",
         "AbstractSource": "BS4",
         "AbstractURL": "https://browningammo.com/en"
@@ -78,6 +78,16 @@
         "Redirect": "https://gssp-buende.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gssp-buende.de"
+    },
+    {
+        "link": "https://soyol.ru",
+        "Heading": " - Soyol.ru",
+        "Abstract": null,
+        "Official Site": "https://soyol.ru",
+        "Icon": "http://soyol.ru/bitrix/templates/soyol-rus/img/logo.png",
+        "Redirect": "https://soyol.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soyol.ru"
     },
     {
         "link": "https://aavs.org",
@@ -248,16 +258,6 @@
         "Redirect": "https://revistaurbanova.com.br/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://revistaurbanova.com.br/"
-    },
-    {
-        "link": "https://procloudhost.com",
-        "Heading": "Reliable cloud web hosting made easy since 2008- ProCloudHost.COM",
-        "Abstract": "Professional cloud web hosting with tier 3 dc, top hardware, 24x7 support, improved security and instant setup. Serving customers since 2008!",
-        "Official Site": "https://www.procloudhost.com/",
-        "Icon": "https://www.procloudhost.com/wp-content/uploads/2024/01/cropped-logo-32x32.png",
-        "Redirect": "https://www.procloudhost.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.procloudhost.com/"
     },
     {
         "link": "https://fastcows.nl",

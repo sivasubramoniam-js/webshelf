@@ -70,34 +70,14 @@
         "AbstractURL": "https://batechnology.org/"
     },
     {
-        "link": "https://healthpedia.live",
-        "Heading": "Adscale",
-        "Abstract": null,
-        "Official Site": "https://healthpedia.live",
-        "Icon": "N/A",
-        "Redirect": "https://healthpedia.live",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://healthpedia.live"
-    },
-    {
         "link": "https://cetpartnership.eu",
-        "Heading": "Clean Energy Transition Partnership",
-        "Abstract": "Multilateral and strategic partnership of national and regional research, development and innovation (RDI) programmes in European Member States and Associated Countries, aiming\u00a0to boost and accelerate the energy transition and to support\u00a0the implementation of the European Strategic Energy Technology Plan (SET Plan)",
-        "Official Site": "https://cetpartnership.eu",
-        "Icon": "/themes/custom/b4subtheme/favicon.ico",
-        "Redirect": "https://cetpartnership.eu",
+        "Heading": "CETPartnership \u2013 Clean Energy Research & Innovation Funding",
+        "Abstract": "CETPartnership: the EU co-funded research and innovation partnership funding clean energy projects across Europe through joint calls.",
+        "Official Site": "https://cetpartnership.eu/",
+        "Icon": "https://cetpartnership.eu/wp-content/themes/cetpartnership/src/img/favicon/favicon.ico",
+        "Redirect": "https://cetpartnership.eu/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cetpartnership.eu"
-    },
-    {
-        "link": "https://digicamcontrol.com",
-        "Heading": "Easy to use, free solution for complex camera control | digiCamControl",
-        "Abstract": "digiCamControl, an opensource camera controlling software with functions such as exposure, focusing, live view, focus stacking and time lampse, etc..",
-        "Official Site": "https://digicamcontrol.com",
-        "Icon": "/user/themes/woo/images/favicon.png",
-        "Redirect": "https://digicamcontrol.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://digicamcontrol.com"
+        "AbstractURL": "https://cetpartnership.eu/"
     },
     {
         "link": "https://myteslamate.com",
@@ -148,16 +128,6 @@
         "Redirect": "https://resetnetwork.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://resetnetwork.com"
-    },
-    {
-        "link": "https://bzqlt.cn",
-        "Heading": "\u65e5\u672c\u70df\u4ee3\u8d2d\u7f51\u7ad9\uff1a\u514d\u7a0e\u5916\u70df\u7206\u73e0\u4e00\u624b\u8d27\u6e90\uff0c\u4e91\u9704\u4ee3\u5de5\u9999\u70df\u6279\u53d1\u603b\u4ed3\u76f4\u9500 - \u6717\u96c5\u9999\u70df\u7f51",
-        "Abstract": "\u4e13\u4e1a\u65e5\u672c\u70df\u4ee3\u8d2d\u7f51\u7ad9\uff0c\u6c47\u805a\u514d\u7a0e\u5916\u70df\u3001\u5916\u70df\u7206\u73e0\u3001\u9ad8\u4eff\u70df\u7ed3\u5408\u4ee3\u5de5\u7b49\u4e00\u624b\u8d27\u6e90\u3002\u6211\u4eec\u662f\u798f\u5efa\u4e91\u9704\u3001\u5e7f\u897f\u8d8a\u5357\u9999\u70df\u7684\u6e90\u5934\u5382\u5bb6\uff0c\u63d0\u4f9b\u4f4e\u4ef7\u6279\u53d1\u76f4\u9500\u670d\u52a1\u3002\u54c1\u7c7b\u6db5\u76d6\u8d8a\u4ee3\u9999\u70df\u3001\u8fdb\u53e3\u9999\u70df\u7b49\uff0c\u603b\u4ed3\u53d1\u8d27\uff0c\u652f\u6301\u4ee3\u7406\u3002\u8bda\u4fe1\u7ecf\u8425\uff0c\u6b22\u8fce\u6dfb\u52a0\u5fae\u4fe1\u8054\u7cfb\u65b9\u5f0f\uff0c\u83b7\u53d6\u6700\u65b0\u9999\u70df\u4ef7\u683c\u8868\u3002",
-        "Official Site": "https://bzqlt.cn",
-        "Icon": "N/A",
-        "Redirect": "https://bzqlt.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bzqlt.cn"
     },
     {
         "link": "https://yavlinsky.ru",
@@ -221,13 +191,13 @@
     },
     {
         "link": "https://tdacg.com",
-        "Heading": "\u5feb\u840cACG - \u5357+\u793e\u533a\uff5c\u8d44\u6e90\u5bfc\u822a\u4e0e\u66f4\u65b0\u7d22\u5f15",
-        "Abstract": "\u5feb\u840cACG - \u5357+\u793e\u533a\u9996\u9875\u805a\u5408\u9875\uff0c\u63d0\u4f9b\u4e3b\u9898\u7b80\u4ecb\u3001\u66f4\u65b0\u7d22\u5f15\u4e0e\u7ad9\u5185\u68c0\u7d22\u5165\u53e3\uff0c\u571f\u8c46\u793e\u533a - \u6b21\u5143\u5c0f\u5c4b\u514d\u8d39\u4e8c\u6b21\u5143\u805a\u96c6\u5730,\u6b22\u8fce\u5206\u4eab\uff01\uff01\u3002",
-        "Official Site": "https://tdacg.com/",
-        "Icon": "https://tdacg.com/logo.png",
-        "Redirect": "https://tdacg.com/",
+        "Heading": "\u5feb\u840cACG - \u5357+\u793e\u533a",
+        "Abstract": "\u571f\u8c46\u793e\u533a - \u6b21\u5143\u5c0f\u5c4b\u514d\u8d39\u4e8c\u6b21\u5143\u805a\u96c6\u5730,\u6b22\u8fce\u5206\u4eab\uff01\uff01",
+        "Official Site": "https://www.tdacg.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.tdacg.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tdacg.com/"
+        "AbstractURL": "https://www.tdacg.com/"
     },
     {
         "link": "https://robertearlkeen.com",
@@ -238,16 +208,6 @@
         "Redirect": "https://www.robertearlkeen.com/welcome",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.robertearlkeen.com/welcome"
-    },
-    {
-        "link": "https://elkskier.com",
-        "Heading": "Home - Elk Mountain",
-        "Abstract": null,
-        "Official Site": "https://www.elkskier.com/",
-        "Icon": "https://www.elkskier.com/wp-content/uploads/2018/11/favicon.png",
-        "Redirect": "https://www.elkskier.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.elkskier.com/"
     },
     {
         "link": "https://bursaguzellikmerkezleri.com",

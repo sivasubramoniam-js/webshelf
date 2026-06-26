@@ -23,11 +23,11 @@
         "link": "https://regionalno.si",
         "Heading": "ADRIA INFO - Regionalno.si ",
         "Abstract": null,
-        "Official Site": "https://www.regionalno.si/sl/?list=boss&date=06-22&key=%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88-%E0%B8%AB%E0%B8%A7%E0%B8%A2-30-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%84%E0%B8%A1-2566-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%81-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%82",
-        "Icon": "https://www.regionalno.si/",
-        "Redirect": "https://www.regionalno.si/sl/?list=boss&date=06-22&key=%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88-%E0%B8%AB%E0%B8%A7%E0%B8%A2-30-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%84%E0%B8%A1-2566-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%81-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%82",
+        "Official Site": "https://regionalno.si/sl/",
+        "Icon": "https://regionalno.si/",
+        "Redirect": "https://regionalno.si/sl/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.regionalno.si/sl/?list=boss&date=06-22&key=%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88-%E0%B8%AB%E0%B8%A7%E0%B8%A2-30-%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%84%E0%B8%A1-2566-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%81-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%82"
+        "AbstractURL": "https://regionalno.si/sl/"
     },
     {
         "link": "https://reinerkan.com",
@@ -38,6 +38,16 @@
         "Redirect": "https://reinerkan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://reinerkan.com"
+    },
+    {
+        "link": "https://reinhardfischerauktionen.de",
+        "Heading": "Auktionshaus Dr. Reinhard Fischer - reinhardfischerauktionen.de - Auktionshaus Dr. Reinhard Fischer - Startseite",
+        "Abstract": "Briefmarkenauktion und Briefmarkenversteigerung: Sie haben Briefmarken geerbt und haben keine Ahnung, was diese Briefmarken wert sind? Wir helfen Ihnen mit einigen Faustregeln",
+        "Official Site": "https://reinhardfischerauktionen.de",
+        "Icon": "/media/favicon.ico",
+        "Redirect": "https://reinhardfischerauktionen.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://reinhardfischerauktionen.de"
     },
     {
         "link": "https://reklamprestij.com.tr",
@@ -68,16 +78,6 @@
         "Redirect": "https://rishipackaging.co.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rishipackaging.co.in"
-    },
-    {
-        "link": "https://rockdirt.com",
-        "Heading": "rockdirt.com",
-        "Abstract": "Dee Snider is out with an acoustic version of the Twisted Sister signature hit 'We're Not Gonna Take It', directed by magician Criss Angel, in an effort to help raise awareness for Angel's HELP (Heal Every Life Possible) charity. The video was shot outside of Las Vegas and features footage of people shaving their heads [\u2026]",
-        "Official Site": "http://rockdirt.com/",
-        "Icon": "https://rockdirt.com/wp-content/uploads/2015/04/favicon.ico",
-        "Redirect": "http://rockdirt.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://rockdirt.com/"
     },
     {
         "link": "https://rolliit.com",
@@ -161,23 +161,13 @@
     },
     {
         "link": "https://section17inc.com",
-        "Heading": "- 9xmovies",
-        "Abstract": "Are you looking for ? Watch 4K Hindi Movies & Web Series Now on 9xmovies",
-        "Official Site": "https://9xmovies.meatsweatsgood.com/category/fantasy/",
-        "Icon": "https://9xmovies.meatsweatsgood.com/wp-content/uploads/2026/05/ChatGPT-Image-May-20-2026-03_36_58-PM1.png",
-        "Redirect": "https://9xmovies.meatsweatsgood.com/category/fantasy/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://9xmovies.meatsweatsgood.com/category/fantasy/"
-    },
-    {
-        "link": "https://seekghana.com",
-        "Heading": "Verifying\u2026",
+        "Heading": "Just a moment...",
         "Abstract": null,
-        "Official Site": "https://seekghana.com",
+        "Official Site": "https://section17inc.com",
         "Icon": "N/A",
-        "Redirect": "https://seekghana.com",
+        "Redirect": "https://section17inc.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://seekghana.com"
+        "AbstractURL": "https://section17inc.com"
     },
     {
         "link": "https://seotaiji-archive.com",
@@ -190,14 +180,14 @@
         "AbstractURL": "https://seotaiji-archive.com"
     },
     {
-        "link": "https://series-flix.com",
-        "Heading": "Parked Domain name on Hostinger DNS system",
-        "Abstract": null,
-        "Official Site": "https://series-flix.com",
+        "link": "https://shawnmendesbrasil.com",
+        "Heading": "Shawn Mendes Brasil \u2013 Sua primeira, maior e melhor fonte de not\u00edcias sobre o cantor e compositor Shawn Mendes no Brasil e Am\u00e9rica Latina!",
+        "Abstract": "Gridlove Home",
+        "Official Site": "https://www.shawnmendesbrasil.com/",
         "Icon": "N/A",
-        "Redirect": "https://series-flix.com",
+        "Redirect": "https://www.shawnmendesbrasil.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://series-flix.com"
+        "AbstractURL": "https://www.shawnmendesbrasil.com/"
     },
     {
         "link": "https://sinadental.net",

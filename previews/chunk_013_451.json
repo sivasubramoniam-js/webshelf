@@ -30,16 +30,6 @@
         "AbstractURL": "https://familymagazine.co/"
     },
     {
-        "link": "https://ellethailand.com",
-        "Heading": "Beauty, Fashion, Trends | ELLE Thailand",
-        "Abstract": null,
-        "Official Site": "https://ellethailand.com/",
-        "Icon": "https://ellethailand.com/wp-content/uploads/2024/01/elle.png",
-        "Redirect": "https://ellethailand.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ellethailand.com/"
-    },
-    {
         "link": "https://antevenio-it.com",
         "Heading": null,
         "Abstract": null,
@@ -141,13 +131,13 @@
     },
     {
         "link": "https://osnova-m.ru",
-        "Heading": "\u0420\u0430\u0431\u043e\u0442\u0430 \u0441\u0430\u0439\u0442\u0430 \u043f\u0440\u0438\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0430",
-        "Abstract": null,
-        "Official Site": "https://osnova-m.ru",
-        "Icon": "N/A",
-        "Redirect": "https://osnova-m.ru",
+        "Heading": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u0431\u0435\u0442\u043e\u043d\u043d\u044b\u0445 \u0431\u043b\u043e\u043a\u043e\u0432 \u0438 \u0431\u043e\u0440\u0434\u044e\u0440\u043e\u0432 | \u041e\u0441\u043d\u043e\u0432\u0430-\u041c",
+        "Abstract": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u0441\u0442\u0435\u043d\u043e\u0432\u044b\u0445 \u0438 \u043f\u0435\u0440\u0435\u0433\u043e\u0440\u043e\u0434\u043e\u0447\u043d\u044b\u0445 \u0431\u043b\u043e\u043a\u043e\u0432 \u0438\u0437 \u043f\u0435\u0441\u043a\u043e\u0446\u0435\u043c\u0435\u043d\u0442\u0430 \u0438 \u043a\u0435\u0440\u0430\u043c\u0437\u0438\u0442\u043e\u0431\u0435\u0442\u043e\u043d\u0430,\u0431\u043e\u0440\u0434\u044e\u0440\u043d\u043e\u0433\u043e \u043a\u0430\u043c\u043d\u044f \u0438 \u0442\u0440\u043e\u0442\u0443\u0430\u0440\u043d\u043e\u0439 \u043f\u043b\u0438\u0442\u043a\u0438. \u0426\u0435\u043d\u044b \u0443\u043a\u0430\u0437\u0430\u043d\u044b \u043d\u0430 \u0441\u0430\u0439\u0442\u0435. \u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u041c\u043e\u0441\u043a\u0432\u0435 \u0438 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438.",
+        "Official Site": "https://osnova-m.ru/",
+        "Icon": "https://osnova-m.ru/wp-content/uploads/2018/03/main-bg.jpeg",
+        "Redirect": "https://osnova-m.ru/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://osnova-m.ru"
+        "AbstractURL": "https://osnova-m.ru/"
     },
     {
         "link": "https://pme-web.com",
@@ -238,5 +228,15 @@
         "Redirect": "https://www.simple-sixpack.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.simple-sixpack.com/"
+    },
+    {
+        "link": "https://webi-whatsapp.com",
+        "Heading": "\u6ca1\u6709\u627e\u5230\u7ad9\u70b9",
+        "Abstract": null,
+        "Official Site": "https://webi-whatsapp.com",
+        "Icon": "N/A",
+        "Redirect": "https://webi-whatsapp.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://webi-whatsapp.com"
     }
 ]

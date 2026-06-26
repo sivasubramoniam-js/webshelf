@@ -130,16 +130,6 @@
         "AbstractURL": "https://www.piege-a-frelon.fr"
     },
     {
-        "link": "https://kradac.com",
-        "Heading": "Kradac | Movilidad Urbana",
-        "Abstract": "Movilidad Urbana",
-        "Official Site": "https://kradac.com/",
-        "Icon": "https://kradac.com/wp-content/uploads/2018/07/favicon.png",
-        "Redirect": "https://kradac.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kradac.com/"
-    },
-    {
         "link": "https://garyjohnson2012.com",
         "Heading": "Gary Johnson 2026",
         "Abstract": "Gary Johnson has been an outspoken advocate for efficient government, balanced budgets, rational drug policy reform, protection of civil liberties, comprehensive tax reform, and personal freedom.",
@@ -148,6 +138,16 @@
         "Redirect": "http://garyjohnson2012.com/front",
         "AbstractSource": "BS4",
         "AbstractURL": "http://garyjohnson2012.com/front"
+    },
+    {
+        "link": "https://ribdom.ru",
+        "Heading": "\u0410\u041a\u0412\u0410\u0420\u0418\u0423\u041c\u041d\u042b\u0415 \u0420\u042b\u0411\u041a\u0418 \u041a\u0423\u041f\u0418\u0422\u042c \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0420\u042b\u0411\u041a\u0410 \u0414\u041e\u041c\u0410.",
+        "Abstract": null,
+        "Official Site": "https://ribdom.ru",
+        "Icon": "favicon.ico",
+        "Redirect": "https://ribdom.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ribdom.ru"
     },
     {
         "link": "https://majortom.com",
@@ -238,6 +238,16 @@
         "Redirect": "https://www.raineit.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.raineit.eu/"
+    },
+    {
+        "link": "https://urbietaoil.com",
+        "Heading": "Tropic Oil Florida - Premium Fuel, Oil & Lubricant Supplier",
+        "Abstract": "Tropic Oil is your top choice for quality fuels, oils and lubricants across Florida. Trusted by industries for reliable service and products.",
+        "Official Site": "https://tropicoil.com/",
+        "Icon": "https://tropicoil.com/wp-content/uploads/sites/3/2026/01/cropped-logo-1-e1768575403781-32x32.png",
+        "Redirect": "https://tropicoil.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tropicoil.com/"
     },
     {
         "link": "https://wellacompany.com",

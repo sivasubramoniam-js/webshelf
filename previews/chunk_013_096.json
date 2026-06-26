@@ -140,16 +140,6 @@
         "AbstractURL": "https://narkologicheskaya-klinika-tyumen10.ru"
     },
     {
-        "link": "https://gadgetheadlines.com",
-        "Heading": "Gadget Headlines - The Tech Ezine",
-        "Abstract": "The Tech Ezine",
-        "Official Site": "https://gadgetheadlines.com/",
-        "Icon": "N/A",
-        "Redirect": "https://gadgetheadlines.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gadgetheadlines.com/"
-    },
-    {
         "link": "https://kzts.ru",
         "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0410\u041e \u00ab\u041a\u0417\u0422\u0421\u00bb",
         "Abstract": null,
@@ -248,5 +238,15 @@
         "Redirect": "https://kupi-prava-7u3g.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kupi-prava-7u3g.ru"
+    },
+    {
+        "link": "https://htbg.com",
+        "Heading": "Homepage - Visit Hawaii Tropical Botanical Garden",
+        "Abstract": "HTBG is a nonprofit botanical garden just north of Hilo. Visit the rainforest to discover rare and endangered plants, visit waterfalls, and enjoy coastal views.",
+        "Official Site": "https://htbg.com/",
+        "Icon": "https://htbg.com/wp-content/uploads/2020/05/Visit_The_Garden-min.jpg",
+        "Redirect": "https://htbg.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://htbg.com/"
     }
 ]

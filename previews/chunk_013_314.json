@@ -50,28 +50,8 @@
         "AbstractURL": "https://mates.org.au"
     },
     {
-        "link": "https://entreradio.com",
-        "Heading": "Entre Radio",
-        "Abstract": null,
-        "Official Site": "https://entreradio.com",
-        "Icon": "N/A",
-        "Redirect": "https://entreradio.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://entreradio.com"
-    },
-    {
-        "link": "https://scentalle.com",
-        "Heading": "scentalle.com\u00a0-\u00a0This website is for sale!\u00a0-\u00a0velas aromaticas Resources and Information.",
-        "Abstract": "This website is for sale! scentalle.com is your first and best source for information about velas aromaticas. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
-        "Official Site": "https://scentalle.com",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://scentalle.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://scentalle.com"
-    },
-    {
         "link": "https://xxxanimemovies.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://xxxanimemovies.com",
         "Icon": "N/A",
@@ -171,7 +151,7 @@
     },
     {
         "link": "https://zerkalnye-prava-2y7u.ru",
-        "Heading": "52.160.149.131 25.06.2026 07:32:37",
+        "Heading": "64.236.200.81 26.06.2026 07:17:56",
         "Abstract": null,
         "Official Site": "https://zerkalnye-prava-2y7u.ru",
         "Icon": "data:,",
@@ -240,6 +220,16 @@
         "AbstractURL": "https://www.janeaustenbooks.net/"
     },
     {
+        "link": "https://doremientertainment.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://doremientertainment.com",
+        "Icon": "data:;",
+        "Redirect": "https://doremientertainment.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://doremientertainment.com"
+    },
+    {
         "link": "https://oc-start.ru",
         "Heading": "OC-START \u2014 \u041f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u043c \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b \u043d\u0430 \u0432\u044b\u0433\u043e\u0434\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 \u0434\u043b\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u0430",
         "Abstract": null,
@@ -288,15 +278,5 @@
         "Redirect": "https://www.enjoymoviesyourway.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.enjoymoviesyourway.com/"
-    },
-    {
-        "link": "https://websitehostingssd.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://websitehostingssd.com",
-        "Icon": "N/A",
-        "Redirect": "https://websitehostingssd.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://websitehostingssd.com"
     }
 ]

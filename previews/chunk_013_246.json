@@ -40,26 +40,6 @@
         "AbstractURL": "https://thewizard.marketing/"
     },
     {
-        "link": "https://ominicoin.com",
-        "Heading": "Home",
-        "Abstract": "Omini Coin Wealth ",
-        "Official Site": "https://ominicoin.com",
-        "Icon": "img/favicon.png",
-        "Redirect": "https://ominicoin.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ominicoin.com"
-    },
-    {
-        "link": "https://tamilandvedas.com",
-        "Heading": "Tamil and Vedas | A blog exploring themes in Tamil and vedic literature",
-        "Abstract": "A blog exploring themes in Tamil and vedic literature",
-        "Official Site": "https://tamilandvedas.com/",
-        "Icon": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-        "Redirect": "https://tamilandvedas.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tamilandvedas.com/"
-    },
-    {
         "link": "https://summitt.com",
         "Heading": "Summitt Trucking",
         "Abstract": "Summitt Redirection",
@@ -291,22 +271,12 @@
     },
     {
         "link": "https://mehriban-aliyeva.az",
-        "Heading": "Mehriban \u018fliyeva - Az\u0259rbaycan\u0131n birinci xan\u0131m\u0131 - Site",
+        "Heading": "Mehriban \u018fliyeva - Az\u0259rbaycan\u0131n birinci xan\u0131m\u0131",
         "Abstract": null,
         "Official Site": "https://mehriban-aliyeva.az",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://mehriban-aliyeva.az",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mehriban-aliyeva.az"
-    },
-    {
-        "link": "https://schd.ws",
-        "Heading": "Blab Tech | Technology, AI & Innovation News | Blab Tech",
-        "Abstract": "Blab Tech covers the latest technology headlines, innovations, AI, hardware, and general tech news.",
-        "Official Site": "https://schd.ws",
-        "Icon": "https://www.blab.com/icons/android-icon-192x192.png",
-        "Redirect": "https://schd.ws",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://schd.ws"
     }
 ]

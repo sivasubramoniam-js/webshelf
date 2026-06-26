@@ -161,7 +161,7 @@
     },
     {
         "link": "https://speedtunedmotorsports.com",
-        "Heading": "\n        Speed Tuned Motorsports, Parts & Accessories\n",
+        "Heading": "\n      Speed Tuned Motorsports, Parts & Accessories\n",
         "Abstract": "Speed Tuned Motorsports \u2014 performance parts for street & race builds. Shop AN fittings, oils, filters, turbo components & more in Norfolk, VA. Driven Racing, K&N, Vibrant Performance, Liqui Moly, AEM, Cometic Gaskets and more.",
         "Official Site": "https://speedtunedmotorsports.com/",
         "Icon": "http://speedtunedmotorsports.com/cdn/shop/files/Website_Logo_settings.jpg?v=1736307884",
@@ -184,7 +184,7 @@
         "Heading": "\n\tSport Radical \u2013 Radical Shop\n\t",
         "Abstract": "Sport Radical a \u00e9t\u00e9 fond\u00e9 en 1992 par des passionn\u00e9s de sport de planche. Le magasin offre une vaste gamme de produits sp\u00e9cialis\u00e9s pour le Snowboard, Ski, Kitesurf, Skateboard, Wakeboard, V\u00eatements, etc! Avec l'\u00e9quipe la plus chaleureuse et qualifi\u00e9e \u00e0 Qu\u00e9bec.",
         "Official Site": "https://sportradical.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0531/3337/7688/files/c4ca4238a0b923820dcc509a6f75849b.jpg?v=1635150021",
+        "Icon": "http://sportradical.com/cdn/shop/files/c4ca4238a0b923820dcc509a6f75849b.jpg?v=1635150021",
         "Redirect": "https://sportradical.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sportradical.com/"
@@ -240,6 +240,16 @@
         "AbstractURL": "https://stefanmoravcik.sk"
     },
     {
+        "link": "https://stellenanzeigen-in-landshut.de",
+        "Heading": "Stellenangebote Landshut - Ihre aktuelle Jobb\u00f6rse f\u00fcr Landshut und Umgebung",
+        "Abstract": "T\u00e4glich aktuelle und neue Stellenangebote f\u00fcr die Region Landshut. Finden Sie aus 5.028 passenden Jobs in Landshut und Umgebung, Ihre neue Stelle. Ihre regionale Jobb\u00f6rse stellenanzeigen-in-landshut.de | 2026",
+        "Official Site": "https://stellenanzeigen-in-landshut.de",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://stellenanzeigen-in-landshut.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stellenanzeigen-in-landshut.de"
+    },
+    {
         "link": "https://sterlingshop.com",
         "Heading": "The Sterling Shop, Inc.",
         "Abstract": null,
@@ -258,6 +268,16 @@
         "Redirect": "https://stock-templates.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://stock-templates.com"
+    },
+    {
+        "link": "https://studiooneforum.com",
+        "Heading": "Studio One & Fender Studio Pro User Forum",
+        "Abstract": "The Studio One User Forum is a community-driven space for Studio One and Fender Studio Pro enthusiasts to share tips, discuss music production with PreSonus Studio One, Notion, explore PreSonus hardware, and Studio One scripts. Connect with fellow users, find support, and deepen your Studio...",
+        "Official Site": "https://studiooneforum.com/",
+        "Icon": "https://studiooneforum.com/images/studio-one-user-forum1.png",
+        "Redirect": "https://studiooneforum.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://studiooneforum.com/"
     },
     {
         "link": "https://surlescheminsdulivre.fr",
@@ -308,15 +328,5 @@
         "Redirect": "https://swissvoip.ch",
         "AbstractSource": "BS4",
         "AbstractURL": "https://swissvoip.ch"
-    },
-    {
-        "link": "https://syndromicsurveillance.org",
-        "Heading": "NSSP Community of Practice",
-        "Abstract": "\"Advancing syndromic surveillance practice by leveraging the expertise and resources of members to strengthen public health surveillance capabilities nationwide.\" New Syndromic Surveillance Resource! Disability Definitions Implementation Toolkit: Enhancing Syndromic Surveillance for Emergency Response CSTE is excited to announce the publication of a new resource, Disability Definitions Implementation Toolkit: Enhancing Syndromic Surveillance for Emergency Response. This",
-        "Official Site": "https://nsspcommunityofpractice.org/",
-        "Icon": "N/A",
-        "Redirect": "https://nsspcommunityofpractice.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nsspcommunityofpractice.org/"
     }
 ]

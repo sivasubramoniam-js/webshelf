@@ -71,10 +71,10 @@
     },
     {
         "link": "https://tomspicky.com",
-        "Heading": "Tom Spicky \u2013 I build things\u2026",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://tomspicky.com",
-        "Icon": "https://tomspicky.com/wp-content/uploads/2026/06/cropped-TS-icon-32x32.jpg",
+        "Icon": "data:;",
         "Redirect": "https://tomspicky.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tomspicky.com"
@@ -108,6 +108,16 @@
         "Redirect": "https://apptecsa.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://apptecsa.com"
+    },
+    {
+        "link": "https://metrolagu76.com",
+        "Heading": "Apache2 Ubuntu Default Page: It works",
+        "Abstract": null,
+        "Official Site": "https://metrolagu76.com",
+        "Icon": "N/A",
+        "Redirect": "https://metrolagu76.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://metrolagu76.com"
     },
     {
         "link": "https://nolajazzmuseum.org",

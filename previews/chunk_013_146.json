@@ -140,16 +140,6 @@
         "AbstractURL": "https://elektrizitaet-berlin.de/?ref=fb"
     },
     {
-        "link": "https://corgidrama.com",
-        "Heading": "Corgi Drama",
-        "Abstract": null,
-        "Official Site": "https://corgidrama.com",
-        "Icon": "N/A",
-        "Redirect": "https://corgidrama.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://corgidrama.com"
-    },
-    {
         "link": "https://learninggroup.cl",
         "Heading": "Learning|Group Curso de Corretaje de Propiedades",
         "Abstract": "Aprende Corretaje de Propiedades y Administraci\u00f3n de Edificios con nuestros cursos online. Certif\u00edcate desde casa y da el primer paso hacia tu futuro inmobiliario. \u00a1Inscr\u00edbete hoy en Learning Group!",
@@ -238,6 +228,16 @@
         "Redirect": "https://romashka-parts.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://romashka-parts.ru"
+    },
+    {
+        "link": "https://wezard.net",
+        "Heading": "ZARD Official Website \u2013 WEZARD.net",
+        "Abstract": "B-Gram RECORDS\u306b\u3088\u308bZARD\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30b5\u30a4\u30c8\u3002",
+        "Official Site": "https://wezard.net/",
+        "Icon": "https://wezard.net/wp-content/themes/zard/assets/images/zard-photo.jpg",
+        "Redirect": "https://wezard.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wezard.net/"
     },
     {
         "link": "https://yoomedia.de",

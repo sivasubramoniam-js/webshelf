@@ -50,6 +50,16 @@
         "AbstractURL": "https://weinstore.net"
     },
     {
+        "link": "https://wardruna.com",
+        "Heading": "Wardruna.com - Official Wardruna Website",
+        "Abstract": null,
+        "Official Site": "https://wardruna.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://wardruna.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wardruna.com"
+    },
+    {
         "link": "https://kodedice.com",
         "Heading": "B2B iGaming Software Provider for Online Casino & Sportsbook | KodeDice",
         "Abstract": "KodeDice offers an AI-powered iGaming ecosystem for casino, sportsbook, and crypto platforms with payments, integrations, and full operational control.",
@@ -124,7 +134,7 @@
         "Heading": "Pro-era.ro",
         "Abstract": "Pro-era.ro - Bine ai venit pe magazinul nostru online,  unde iti propunem o gama completa de produse!",
         "Official Site": "https://www.pro-era.ro",
-        "Icon": "https://s.cdnshm.com/site/1200x1200/pro-era.ro.jpg?20260625",
+        "Icon": "https://s.cdnshm.com/site/1200x1200/pro-era.ro.jpg?20260626",
         "Redirect": "https://www.pro-era.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.pro-era.ro"
@@ -178,16 +188,6 @@
         "Redirect": "https://www.aeksa.de/www/website/index",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.aeksa.de/www/website/index"
-    },
-    {
-        "link": "https://aioshop.ro",
-        "Heading": "International School of Bucharest",
-        "Abstract": "International School of Bucharest offers British-style learning to children aged 2-18. Internationally recognized qualifications, IGCSE and the IB Diploma.",
-        "Official Site": "https://isb.ro/",
-        "Icon": "https://isb.ro/wp-content/uploads/2023/02/isb.png",
-        "Redirect": "https://isb.ro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://isb.ro/"
     },
     {
         "link": "https://xosoquangngai.com.vn",

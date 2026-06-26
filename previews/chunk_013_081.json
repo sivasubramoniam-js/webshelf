@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://mediatiko.com",
-        "Heading": "Mediatiko - Noticias en espa\u00f1ol de Latinoam\u00e9rica",
-        "Abstract": null,
-        "Official Site": "https://www.mediatiko.com/",
-        "Icon": "https://www.mediatiko.com/wp-content/uploads/2022/12/logo-mediatiko2-e1680531916473.png",
-        "Redirect": "https://www.mediatiko.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mediatiko.com/"
-    },
-    {
         "link": "https://mizar24.ro",
         "Heading": "Mizar24.ro",
         "Abstract": "",
@@ -44,7 +34,7 @@
         "Heading": "\u6280\u672f\u6d3e - Java\u6280\u672f\u793e\u533a | RAG+Agent\u5b9e\u6218\u9879\u76ee\u6559\u7a0b+AI\u52a9\u624b",
         "Abstract": "\u6280\u672f\u6d3e,\u4e00\u4e2a\u57fa\u4e8e Spring Boot\u3001MyBatis-Plus\u3001MySQL\u3001Redis\u3001ElasticSearch\u3001MongoDB\u3001Docker\u3001RabbitMQ \u7b49\u6280\u672f\u6808\u5b9e\u73b0\u7684\u793e\u533a\u7cfb\u7edf\uff0c\u91c7\u7528\u4e3b\u6d41\u7684\u4e92\u8054\u7f51\u6280\u672f\u67b6\u6784\u3001\u5168\u65b0\u7684UI\u8bbe\u8ba1\u3001\u652f\u6301\u4e00\u952e\u6e90\u7801\u90e8\u7f72\uff0c\u62e5\u6709\u5b8c\u6574\u7684\u6587\u7ae0&\u6559\u7a0b\u53d1\u5e03/\u641c\u7d22/\u8bc4\u8bba/\u7edf\u8ba1\u6d41\u7a0b\u7b49\uff0c\u4ee3\u7801\u5b8c\u5168\u5f00\u6e90\uff0c\u6ca1\u6709\u4efb\u4f55\u4e8c\u6b21\u5c01\u88c5\uff0c\u662f\u4e00\u4e2a\u975e\u5e38\u9002\u5408\u4e8c\u6b21\u5f00\u53d1/\u5b9e\u6218\u7684\u73b0\u4ee3\u5316\u793e\u533a\u9879\u76ee\u3002\u5b66\u7f16\u7a0b\uff0c\u5c31\u4e0a\u6280\u672f\u6d3e",
         "Official Site": "https://paicoding.com/",
-        "Icon": "https://cdn.paicoding.com/paicodingui0611/static/img/icon.png",
+        "Icon": "https://cdn.paicoding.com/paicodingui0625/static/img/icon.png",
         "Redirect": "https://paicoding.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://paicoding.com/"
@@ -214,7 +204,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://official-mega.shop",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
         "Redirect": "https://official-mega.shop",
         "AbstractSource": "BS4",
         "AbstractURL": "https://official-mega.shop"

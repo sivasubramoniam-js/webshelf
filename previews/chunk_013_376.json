@@ -50,16 +50,6 @@
         "AbstractURL": "https://latarnik-kopice.pl/"
     },
     {
-        "link": "https://newdigitalpoint.com",
-        "Heading": "Home - Newdigitalpoint",
-        "Abstract": "Stay updated with the latest in technology news, smartphone trends, and cutting-edge drone innovations\u2014all in one dynamic tech blog.",
-        "Official Site": "https://newdigitalpoint.com/",
-        "Icon": "https://newdigitalpoint.com/wp-content/uploads/2025/09/airtable_698d6267cc015.webp",
-        "Redirect": "https://newdigitalpoint.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://newdigitalpoint.com/"
-    },
-    {
         "link": "https://calligo.cloud",
         "Heading": "Calligo | Transformative Data Management Services",
         "Abstract": "Calligo is a provider of transformative data services, spanning Data Privacy, Data Insights and Managed Cloud",
@@ -110,16 +100,6 @@
         "AbstractURL": "https://tracesecritesnews.fr"
     },
     {
-        "link": "https://ketabkhun.com",
-        "Heading": "Suspended Working Platform, suspended scaffolding manufacturer_Suspended Working Platform, suspended scaffolding manufacturer",
-        "Abstract": "We are a professional supplier construction machinery equipment. supplies a wide range of suspended scaffold access equipments to the world.It makes us one of the leading suppliers of construction hoist in China.",
-        "Official Site": "https://ketabkhun.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://ketabkhun.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ketabkhun.com"
-    },
-    {
         "link": "https://survivorcorps.com",
         "Heading": "Survivor Corps",
         "Abstract": "",
@@ -128,6 +108,16 @@
         "Redirect": "https://www.survivorcorps.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.survivorcorps.com"
+    },
+    {
+        "link": "https://hawaiianbeachrentals.com",
+        "Heading": "Escape to Paradise with Us | Hawaiian Beach Rentals",
+        "Abstract": "Go ahead and spend vacation with our exclusive Hawaii beach house rentals. Explore luxury, breathtaking views, and the ideal beachfront getaway. Contact (844)...",
+        "Official Site": "https://www.hawaiianbeachrentals.com",
+        "Icon": "https://www.hawaiianbeachrentals.com/img/logo_img.png",
+        "Redirect": "https://www.hawaiianbeachrentals.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hawaiianbeachrentals.com"
     },
     {
         "link": "https://bot-stars.pro",
@@ -191,10 +181,10 @@
     },
     {
         "link": "https://metacreations.com",
-        "Heading": "MetaCreations",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://metacreations.com",
-        "Icon": "https://metacreations.com/wp-content/themes/Avada/assets/images/logo.png",
+        "Icon": "data:;",
         "Redirect": "https://metacreations.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://metacreations.com"

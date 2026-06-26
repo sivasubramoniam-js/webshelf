@@ -21,13 +21,13 @@
     },
     {
         "link": "https://probaseballinsider.com",
-        "Heading": "Pro Baseball Insider - Baseball tips and instruction from the pros",
-        "Abstract": "Free baseball instruction by professional baseball players. Basic to advanced strategy and pro baseball tips for hitting, fielding, pitching, catching, and so much more",
-        "Official Site": "https://probaseballinsider.com/",
-        "Icon": "https://probaseballinsider.com/wp-content/uploads/2012/04/PBI-Logo.jpg",
-        "Redirect": "https://probaseballinsider.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://probaseballinsider.com",
+        "Icon": "data:;",
+        "Redirect": "https://probaseballinsider.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://probaseballinsider.com/"
+        "AbstractURL": "https://probaseballinsider.com"
     },
     {
         "link": "https://printrecipes.net",
@@ -128,16 +128,6 @@
         "Redirect": "https://wehilion.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wehilion.com/"
-    },
-    {
-        "link": "https://rmqkr.net",
-        "Heading": "rmqkr.net",
-        "Abstract": null,
-        "Official Site": "https://rmqkr.net",
-        "Icon": "N/A",
-        "Redirect": "https://rmqkr.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rmqkr.net"
     },
     {
         "link": "https://lwsystems.de",
@@ -288,15 +278,5 @@
         "Redirect": "https://vollbuettel.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vollbuettel.de"
-    },
-    {
-        "link": "https://056999.com",
-        "Heading": "056999.com",
-        "Abstract": null,
-        "Official Site": "https://056999.com",
-        "Icon": "data:;base64,iVBORw0KGgo=",
-        "Redirect": "https://056999.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://056999.com"
     }
 ]

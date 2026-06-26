@@ -10,6 +10,16 @@
         "AbstractURL": "https://kunstgrasconcurrent.nl"
     },
     {
+        "link": "https://mckoysnews.com",
+        "Heading": "mckoysnews | Home | mckoysnews.com",
+        "Abstract": "Stay informed with the latest news, events, and updates from mckoysnews Explore articles on a wide range of topics including current affairs",
+        "Official Site": "https://mckoysnews.com/",
+        "Icon": "https://mckoysnews.com/wp-content/uploads/2024/04/My-Husband-is-a-Control-Freak-300x169.png",
+        "Redirect": "https://mckoysnews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mckoysnews.com/"
+    },
+    {
         "link": "https://labaronia.es",
         "Heading": "Portada | Mancomunitat de La Baronia",
         "Abstract": null,
@@ -28,6 +38,16 @@
         "Redirect": "https://darz.art",
         "AbstractSource": "BS4",
         "AbstractURL": "https://darz.art"
+    },
+    {
+        "link": "https://agrorom.ru",
+        "Heading": "\u0410\u0433\u0440\u043e\u0441\u043e\u044e\u0437 \u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 - \u0410\u0440\u0431\u0443\u0437\u044b \u0438 \u0434\u044b\u043d\u0438 \u043e\u043f\u0442\u043e\u043c \u043e\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f",
+        "Abstract": "\u041a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0439 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043e\u0432\u043e\u0449\u0435\u0439 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0430\u0440\u0431\u0443\u0437\u044b \u0438 \u0434\u044b\u043d\u0438 \u043e\u043f\u0442\u043e\u043c \u043e\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f \u043f\u0440\u044f\u043c\u0438\u043a\u043e\u043c \u0441 \u043f\u043e\u043b\u044f",
+        "Official Site": "https://agrorom.ru/",
+        "Icon": "N/A",
+        "Redirect": "https://agrorom.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://agrorom.ru/"
     },
     {
         "link": "https://putnamyouthfootball.com",
@@ -113,11 +133,11 @@
         "link": "https://kimballelectronics.com",
         "Heading": "\n\tHome\n",
         "Abstract": "Kimball Electronics provides electronics manufacturing and contract manufacturing for the Automotive, Industrial, and Medical markets.",
-        "Official Site": "https://kimballelectronics.com/home",
+        "Official Site": "https://www.kimballelectronics.com/home",
         "Icon": "/AdminApp/assets/icons/KEIFavIcon-50x50.png",
-        "Redirect": "https://kimballelectronics.com/home",
+        "Redirect": "https://www.kimballelectronics.com/home",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://kimballelectronics.com/home"
+        "AbstractURL": "https://www.kimballelectronics.com/home"
     },
     {
         "link": "https://actionaidindia.org",
@@ -270,6 +290,16 @@
         "AbstractURL": "https://acrisurestadium.com/"
     },
     {
+        "link": "https://mostplay-bds.com",
+        "Heading": "Mostplay Cricket Betting & Casino \u2013 Secure Odds, Fast BDT Payouts",
+        "Abstract": "Mostplay Bangladesh offers reliable cricket odds, live betting, and 2 000+ casino titles with swift bKash cash-outs.",
+        "Official Site": "https://mostplay-bds.com",
+        "Icon": "https://mostplay-bds.com/wp-content/uploads/2023/10/cropped-favicon-32x32.png",
+        "Redirect": "https://mostplay-bds.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mostplay-bds.com"
+    },
+    {
         "link": "https://tripleareview.com",
         "Heading": null,
         "Abstract": null,
@@ -298,6 +328,16 @@
         "Redirect": "https://corrector.app/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://corrector.app/"
+    },
+    {
+        "link": "https://phabsalon.dk",
+        "Heading": "Forsiden | Professionsh\u00f8jskolen Absalon",
+        "Abstract": null,
+        "Official Site": "https://phabsalon.dk",
+        "Icon": "/profiles/pha_profile/themes/abbey/favicon.ico",
+        "Redirect": "https://phabsalon.dk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://phabsalon.dk"
     },
     {
         "link": "https://furnation.com",
