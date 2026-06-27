@@ -111,13 +111,13 @@
     },
     {
         "link": "https://epohi.gr",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://epohi.gr",
-        "Icon": "data:;",
-        "Redirect": "https://epohi.gr",
+        "Heading": "\u0395\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03b4\u03b1 \u0397 \u0395\u03c0\u03bf\u03c7\u03ae | \u0397 \u03c6\u03c9\u03bd\u03ae \u03c4\u03b7\u03c2 \u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ac\u03c2 | \u0397 \u03c6\u03c9\u03bd\u03ae \u03c4\u03b7\u03c2 \u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ac\u03c2",
+        "Abstract": "\u0397 \u0395\u03c0\u03bf\u03c7\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03b5\u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b9\u03b1\u03af\u03b1 \u03b5\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03b4\u03b1. \u03a0\u03c1\u03c9\u03c4\u03bf\u03b5\u03ba\u03b4\u03cc\u03b8\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u0391\u03b8\u03ae\u03bd\u03b1 \u03c4\u03bf 1988 \u03ba\u03b1\u03b9 \u03ba\u03c5\u03ba\u03bb\u03bf\u03c6\u03bf\u03c1\u03b5\u03af \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1. \u0397 \u0395\u03a0\u039f\u03a7\u0397, \u03a3\u03a5\u039d \u03a0.\u0395.",
+        "Official Site": "https://epohi.gr/",
+        "Icon": "https://epohi.gr/wp-content/uploads/2025/01/cropped-epohi-1200x1200-1.png",
+        "Redirect": "https://epohi.gr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://epohi.gr"
+        "AbstractURL": "https://epohi.gr/"
     },
     {
         "link": "https://mijnstadmijndorp.nl",
@@ -138,6 +138,16 @@
         "Redirect": "https://nipafx.dev",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nipafx.dev"
+    },
+    {
+        "link": "https://avto-fokus.ru",
+        "Heading": "\u0410\u0437\u0438\u043d\u043e 777 \ud83c\udfc6 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 Azino777 \u2013 \u043e\u043d\u043b\u0430\u0439\u043d \u043a\u0430\u0437\u0438\u043d\u043e, \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+        "Abstract": "Azino777 \u2014 \u043e\u0431\u0437\u043e\u0440 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0430\u0437\u0438\u043d\u043e \u0410\u0437\u0438\u043d\u043e 777: \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442, \u0432\u0445\u043e\u0434, \u0431\u043e\u043d\u0443\u0441\u044b, \u0441\u043b\u043e\u0442\u044b, \u0437\u0435\u0440\u043a\u0430\u043b\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043a\u0430\u043a \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 Azino777 \u043d\u0430 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u0438 \u0438\u0433\u0440\u0430\u0442\u044c \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e \ud83c\udfb0",
+        "Official Site": "https://avto-fokus.ru",
+        "Icon": "https://avto-fokus.ru/favicon.ico",
+        "Redirect": "https://avto-fokus.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://avto-fokus.ru"
     },
     {
         "link": "https://carastana.kz",

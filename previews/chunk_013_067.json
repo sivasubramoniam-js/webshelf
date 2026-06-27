@@ -51,30 +51,30 @@
     },
     {
         "link": "https://fusionoffice.co.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://fusionoffice.co.uk",
-        "Icon": "data:;",
-        "Redirect": "https://fusionoffice.co.uk",
+        "Heading": "Office Supplies, Packaging, Stationery & Printer Ink | Fusion Office",
+        "Abstract": "Office Supplies UK Next Day Delivery | A vast range of great value workplace & packaging supplies | 5 Star Rated Supplier | Fusion Office UK",
+        "Official Site": "https://www.fusionoffice.co.uk/",
+        "Icon": "https://www.fusionoffice.co.uk/wp-content/uploads/2022/02/home.jpg",
+        "Redirect": "https://www.fusionoffice.co.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fusionoffice.co.uk"
+        "AbstractURL": "https://www.fusionoffice.co.uk/"
     },
     {
-        "link": "https://gofst.com",
-        "Heading": "GoFast Solutions \u2013 Premier Mobile Electronics & Motorsport Distributors",
+        "link": "https://glazbena-kutija.hr",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://gofst.com",
-        "Icon": "https://gofst.com/wp-content/uploads/2024/11/GFS_PrimaryLogo_Black.png",
-        "Redirect": "https://gofst.com",
+        "Official Site": "https://www.glazbena-kutija.hr/",
+        "Icon": "https://www.glazbena-kutija.hr/image/catalog/logocircle.png",
+        "Redirect": "https://www.glazbena-kutija.hr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gofst.com"
+        "AbstractURL": "https://www.glazbena-kutija.hr/"
     },
     {
         "link": "https://goldplate.org",
-        "Heading": "Welcome to OpenResty!",
-        "Abstract": null,
+        "Heading": "Goldplate Homelab",
+        "Abstract": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
         "Official Site": "https://goldplate.org",
-        "Icon": "N/A",
+        "Icon": "/homepage.ico",
         "Redirect": "https://goldplate.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://goldplate.org"
@@ -204,7 +204,7 @@
         "Heading": "Jama's Alphabet Soup | An Eclectic Feast of Food, Fiction, Folderol and Chewy Culinary Verse",
         "Abstract": "An Eclectic Feast of Food, Fiction, Folderol and Chewy Culinary Verse",
         "Official Site": "https://jamarattigan.com/",
-        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2VjdXJlLmdyYXZhdGFyLmNvbVwvYmxhdmF0YXJcL2IzM2FmNGRjMmIyYzFjYzFlNGQ5ZDIxOTVlYmI2MGQ1NDcyYTMwZWM1NzRhMjM4MjA1YTQzOWU0MzVjOGM0ODA_cz0yMDAmdHM9MTc4MjQzMDc3OCIsInR4dCI6IkphbWEmIzAzOTtzIEFscGhhYmV0IFNvdXAiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MjQ5NDAyOTV9.qaoS9aRiC9bkIugXXBrorGWW9y_TfE6DSVSlMX_N544MQ",
+        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2VjdXJlLmdyYXZhdGFyLmNvbVwvYmxhdmF0YXJcL2IzM2FmNGRjMmIyYzFjYzFlNGQ5ZDIxOTVlYmI2MGQ1NDcyYTMwZWM1NzRhMjM4MjA1YTQzOWU0MzVjOGM0ODA_cz0yMDAmdHM9MTc4MjUzMTA2MSIsInR4dCI6IkphbWEmIzAzOTtzIEFscGhhYmV0IFNvdXAiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MjQ5NDAyOTV9.5xOzlDL2a_XCk4XwNLpd6a8YWfPrUdoYzM_LVCLEFScMQ",
         "Redirect": "https://jamarattigan.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jamarattigan.com/"

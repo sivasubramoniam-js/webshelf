@@ -1,13 +1,13 @@
 [
     {
         "link": "https://wingamm.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://wingamm.com",
-        "Icon": "data:;",
-        "Redirect": "https://wingamm.com",
+        "Heading": "Wingamm Mini Camper Compatti Monoscocca Vetroresina 5-6m",
+        "Abstract": "I Migliori Camper compatti e mini caravan di qualit\u00e0 top. Camper monoscocca di vetroresina: miglior design, alta qualit\u00e0, comfort, Made in Italy.",
+        "Official Site": "https://www.wingamm.com/it/",
+        "Icon": "https://www.wingamm.com/wp-content/uploads/2020/09/Wingamm_1_post-1.jpg",
+        "Redirect": "https://www.wingamm.com/it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://wingamm.com"
+        "AbstractURL": "https://www.wingamm.com/it/"
     },
     {
         "link": "https://wizardlabels.com",
@@ -48,6 +48,16 @@
         "Redirect": "https://woordsnack1.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://woordsnack1.nl/"
+    },
+    {
+        "link": "https://wowperucken.de",
+        "Heading": "Shop Per\u00fccken, Echthaar Per\u00fccken, Handgebundene Per\u00fccken, Haarteile & Haarverl\u00e4ngerung an Wowperucken.de",
+        "Abstract": "Kaufen verschiedene Per\u00fccken auf wowperucken.de. Echthaar Per\u00fccken, synthetische Per\u00fccken, handgebundene Per\u00fccken sind jetzt am popul\u00e4rsten.",
+        "Official Site": "https://wowperucken.de",
+        "Icon": "https://www.wowperucken.de/media/favicon/default/favicon.ico",
+        "Redirect": "https://wowperucken.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wowperucken.de"
     },
     {
         "link": "https://wtdiesel.com",
@@ -150,14 +160,24 @@
         "AbstractURL": "https://zapakanz.com/"
     },
     {
-        "link": "https://zikaron.it",
-        "Heading": null,
+        "link": "https://zepterit.com",
+        "Heading": "Zepter IT",
         "Abstract": null,
-        "Official Site": "https://zikaron.it",
-        "Icon": "data:;",
-        "Redirect": "https://zikaron.it",
+        "Official Site": "https://zepterit.com",
+        "Icon": "N/A",
+        "Redirect": "https://zepterit.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://zikaron.it"
+        "AbstractURL": "https://zepterit.com"
+    },
+    {
+        "link": "https://zikaron.it",
+        "Heading": "Centro Arredi Sacri Neocatecumenale - ZIKARON ITALIA",
+        "Abstract": null,
+        "Official Site": "https://zikaron.it/",
+        "Icon": "https://zikaron.it/wp-content/uploads/2016/08/dummy-1.jpg",
+        "Redirect": "https://zikaron.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zikaron.it/"
     },
     {
         "link": "https://zoki.com",
@@ -278,15 +298,5 @@
         "Redirect": "https://lhp185.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lhp185.com"
-    },
-    {
-        "link": "https://adventureneverends.com",
-        "Heading": "Adventure Travel for Families Solo Explorers and Luxury Fans",
-        "Abstract": "Join us at Adventure Never Ends on the greatest adventure travel of retirement. Explore hidden gems and local treasures that inspire your love for travel.",
-        "Official Site": "https://adventureneverends.com/",
-        "Icon": "https://cdn.123presto.com/prod/published/adventureneverends/home.png",
-        "Redirect": "https://adventureneverends.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://adventureneverends.com/"
     }
 ]

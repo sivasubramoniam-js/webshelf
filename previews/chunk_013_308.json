@@ -41,13 +41,13 @@
     },
     {
         "link": "https://cypcs.org.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://cypcs.org.uk",
-        "Icon": "data:;",
-        "Redirect": "https://cypcs.org.uk",
+        "Heading": "Home - The Children and Young People's Commissioner Scotland",
+        "Abstract": "The Children and Young People's Commissioner Scotland is Nicola Killean. She works with her team to protect the human rights of children and young people.",
+        "Official Site": "https://www.cypcs.org.uk/",
+        "Icon": "https://www.cypcs.org.uk/wpcypcs/wp-content/uploads/2026/04/climatechange.png",
+        "Redirect": "https://www.cypcs.org.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cypcs.org.uk"
+        "AbstractURL": "https://www.cypcs.org.uk/"
     },
     {
         "link": "https://08331516.com",
@@ -188,6 +188,16 @@
         "Redirect": "https://hubertasarim.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hubertasarim.com"
+    },
+    {
+        "link": "https://phpbbmodders.com",
+        "Heading": "phpBB Modders \u2022 Home",
+        "Abstract": "Modding Communities",
+        "Official Site": "https://www.phpbbmodders.com/",
+        "Icon": "https://www.phpbbmodders.com/community/images/456890.png",
+        "Redirect": "https://www.phpbbmodders.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.phpbbmodders.com/"
     },
     {
         "link": "https://poluchit-prava-9i3r.ru",

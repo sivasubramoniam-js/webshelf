@@ -191,13 +191,13 @@
     },
     {
         "link": "https://ramacoresources.com",
-        "Heading": null,
+        "Heading": "Home - Ramaco Resources",
         "Abstract": null,
-        "Official Site": "https://ramacoresources.com",
-        "Icon": "data:;",
-        "Redirect": "https://ramacoresources.com",
+        "Official Site": "https://ramacoresources.com/",
+        "Icon": "https://ramacoresources.com/wp-content/uploads/2023/11/cropped-simple-r-32x32.png",
+        "Redirect": "https://ramacoresources.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ramacoresources.com"
+        "AbstractURL": "https://ramacoresources.com/"
     },
     {
         "link": "https://sys-integra.de",
@@ -208,16 +208,6 @@
         "Redirect": "https://sys-integra.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sys-integra.de"
-    },
-    {
-        "link": "https://vispo.com",
-        "Heading": "Vispo ~ Langu(im)age: interactive, visual, and sound poetry by Jim Andrews",
-        "Abstract": "Vispo Langu(im)age: experimental visual poetry, literary programming, and essays on new media by Jim Andrews. Dedicated to life, poetry, and the ABCs of a new art.",
-        "Official Site": "https://vispo.com",
-        "Icon": "http://vispo.com/aleph4/images/jim_andrews/alchemy/slidvid8/images/jpg/115.jpg",
-        "Redirect": "https://vispo.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vispo.com"
     },
     {
         "link": "https://bluesecur.app",
@@ -261,10 +251,10 @@
     },
     {
         "link": "https://gongjyuhok.hk",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "\u6e2f\u8a9e\u5b78 | \u634d\u885e\u9999\u6e2f\u4eba\u5b78\u7fd2\u53ca\u4f7f\u7528\u7cb5\u8a9e\u3001\u6b63\u9ad4\u5b57\u5605\u6b0a\u5229\uff0c\u4ee5\u53ca\u50b3\u627f\u7cb5\u8a9e\u6240\u627f\u8f09\u5605\u9999\u6e2f\u6587\u5316\u3002\u8acb\u540c\u6642\u8ffd\u8e64\u655d\u6703\u81c9\u66f8\u5c08\u9801\u53ca YouTube \u983b\u9053\uff0c\u4ee5\u63a5\u6536\u7cb5\u8a9e\u4fdd\u885e\u6230\u6700\u65b0\u6230\u5831\uff01",
+        "Abstract": "\u634d\u885e\u9999\u6e2f\u4eba\u5b78\u7fd2\u53ca\u4f7f\u7528\u7cb5\u8a9e\u3001\u6b63\u9ad4\u5b57\u5605\u6b0a\u5229\uff0c\u4ee5\u53ca\u50b3\u627f\u7cb5\u8a9e\u6240\u627f\u8f09\u5605\u9999\u6e2f\u6587\u5316\u3002\u8acb\u540c\u6642\u8ffd\u8e64\u655d\u6703\u81c9\u66f8\u5c08\u9801\u53ca YouTube \u983b\u9053\uff0c\u4ee5\u63a5\u6536\u7cb5\u8a9e\u4fdd\u885e\u6230\u6700\u65b0\u6230\u5831\uff01",
         "Official Site": "https://gongjyuhok.hk",
-        "Icon": "data:;",
+        "Icon": "https://i0.wp.com/gongjyuhok.hk/wp-content/uploads/2019/01/cropped-site_icon-1.png?fit=32%2C32&ssl=1",
         "Redirect": "https://gongjyuhok.hk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gongjyuhok.hk"

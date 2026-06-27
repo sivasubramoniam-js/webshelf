@@ -60,6 +60,16 @@
         "AbstractURL": "https://www.pixsys.net"
     },
     {
+        "link": "https://pjcyh.com",
+        "Heading": "google",
+        "Abstract": null,
+        "Official Site": "https://pjcyh.com",
+        "Icon": "N/A",
+        "Redirect": "https://pjcyh.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pjcyh.com"
+    },
+    {
         "link": "https://plctoolboxsupply.com",
         "Heading": "Home-Shop - PLC Toolbox Supply",
         "Abstract": "Your Source for Reliable Industrial Automation Equipment and Networking Solutions! Search Shop Now Contact Us Featured Products NEW BURNDY Q2A40-4N LUGS 4 HOLE 60 KCMIL 800 *READ* Buy It NowRequest Quote LOT OF 7 NEW THOMAS & BETTS 268 9P DEG BOX CONNECTOR 1/2\u2033 Buy It NowRequest Quote LOT OF 6 NEW THOMAS & BETTS",
@@ -251,13 +261,13 @@
     },
     {
         "link": "https://rdrive.io",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://rdrive.io",
-        "Icon": "data:;",
-        "Redirect": "https://rdrive.io",
+        "Heading": "Progress Monitoring & Reporting Software | RDrive by SnagR",
+        "Abstract": "RDrive is progress monitoring software that helps teams capture field data and automate reporting for faster, smarter project delivery.",
+        "Official Site": "https://rdrive.io/en/",
+        "Icon": "https://rdrive.io/wp-content/uploads/2025/09/social-share.png",
+        "Redirect": "https://rdrive.io/en/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rdrive.io"
+        "AbstractURL": "https://rdrive.io/en/"
     },
     {
         "link": "https://readefined.com",
@@ -298,16 +308,6 @@
         "Redirect": "https://www.regalautosport.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.regalautosport.com/"
-    },
-    {
-        "link": "https://regalworks.net",
-        "Heading": "\u770b\u4e66\u5566 - \u7ecf\u5178\u5c0f\u8bf4,\u91cd\u6e29\u65e7\u68a6",
-        "Abstract": "\u770b\u4e66\u5566\u7f51\u7b2c\u4e00\u65f6\u95f4\u66f4\u65b0\u6700\u65b0\u5b8c\u7ed3\u5c0f\u8bf4\uff0c\u8ba9\u60a8\u7b2c\u4e00\u65f6\u95f4\u9605\u8bfb\u5230\u6700\u65b0\u5185\u5bb9\u3002",
-        "Official Site": "https://regalworks.net",
-        "Icon": "/static/simple/favicon.ico",
-        "Redirect": "https://regalworks.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://regalworks.net"
     },
     {
         "link": "https://reimers.ca",

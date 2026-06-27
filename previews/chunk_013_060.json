@@ -10,16 +10,6 @@
         "AbstractURL": "https://rezendeconstrucao.com.br"
     },
     {
-        "link": "https://rizeogretmenevi.com.tr",
-        "Heading": "Rizeogretmenevi.com.tr ~ \u00c7evrimi\u00e7i ma\u011faza",
-        "Abstract": null,
-        "Official Site": "https://rizeogretmenevi.com.tr",
-        "Icon": "N/A",
-        "Redirect": "https://rizeogretmenevi.com.tr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rizeogretmenevi.com.tr"
-    },
-    {
         "link": "https://rkslstudios.info",
         "Heading": "RKSL Studios",
         "Abstract": "Addons for Arma3",
@@ -60,6 +50,16 @@
         "AbstractURL": "https://rogerslandscapesupply.com"
     },
     {
+        "link": "https://rolnikeko.pl",
+        "Heading": "Sklep ekologiczny Warszawa - zdrowa \u017cywno\u015b\u0107 bio, produkty eko | RolnikEko.pl",
+        "Abstract": "Eko sklep internetowy - najwi\u0119kszy wyb\u00f3r \u017cywno\u015bci ekologicznej \u2b50 Szybka wysy\u0142ka \u2714\ufe0f Wysoka jako\u015b\u0107 \u2714\ufe0f Odbi\u00f3r osobisty w Warszawie \u26a1 Sprawd\u017a nasz\u0105 ofert\u0119!",
+        "Official Site": "https://rolnikeko.pl",
+        "Icon": "/img/favicon.ico?1595428844",
+        "Redirect": "https://rolnikeko.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rolnikeko.pl"
+    },
+    {
         "link": "https://roohit.com",
         "Heading": ":: Roohit Home ::",
         "Abstract": "Collect & Share highlights - you make - on any web page. Discover interesting highlights made by people you trust.",
@@ -81,7 +81,7 @@
     },
     {
         "link": "https://rtcnv.com",
-        "Heading": "Checking your browser...",
+        "Heading": "ww9.rtcnv.com - Coming Soon",
         "Abstract": null,
         "Official Site": "https://rtcnv.com",
         "Icon": "N/A",
@@ -144,7 +144,7 @@
         "Heading": "Victoria Ferruccio",
         "Abstract": null,
         "Official Site": "https://www.saattravel.com",
-        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=2521",
+        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=8917",
         "Redirect": "https://www.saattravel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.saattravel.com"
@@ -301,10 +301,10 @@
     },
     {
         "link": "https://shopofmagic.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Home",
+        "Abstract": "The Little Shop of Magic is a full-service specialty store that has been serving the needs of gamers like yourself since 1994.",
         "Official Site": "https://shopofmagic.com",
-        "Icon": "data:;",
+        "Icon": "/templates/shaper_helix_ii/favicon.ico",
         "Redirect": "https://shopofmagic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shopofmagic.com"

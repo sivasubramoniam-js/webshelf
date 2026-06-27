@@ -71,13 +71,13 @@
     },
     {
         "link": "https://oficretefc.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://oficretefc.com",
-        "Icon": "data:;",
-        "Redirect": "https://oficretefc.com",
+        "Heading": "OFI CRETE FC | OFFICIAL WEBSITE",
+        "Abstract": "\u03a4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf site \u03c4\u03b7\u03c2 \u03a0\u0391\u0395 \u039f\u03a6\u0397 1925. \u0391\u03b3\u03ce\u03bd\u03b5\u03c2, \u03c0\u03b1\u03af\u03ba\u03c4\u03b5\u03c2, \u03b1\u03c5\u03b8\u03b5\u03bd\u03c4\u03b9\u03ba\u03ac \u03c0\u03c1\u03bf\u03ca\u03cc\u03bd\u03c4\u03b1, \u03b5\u03b9\u03c3\u03b9\u03c4\u03ae\u03c1\u03b9\u03b1, \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ba\u03b1\u03b9 \u03cc\u03bb\u03b1 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03b5\u03be\u03b5\u03bb\u03af\u03be\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03bf\u03bc\u03ac\u03b4\u03b1\u03c2 \u03c4\u03b7\u03c2 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2.",
+        "Official Site": "https://www.oficretefc.com/",
+        "Icon": "https://www.oficretefc.com/wp-content/uploads/share1.png",
+        "Redirect": "https://www.oficretefc.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://oficretefc.com"
+        "AbstractURL": "https://www.oficretefc.com/"
     },
     {
         "link": "https://thephilippinestoday.com",
@@ -178,6 +178,16 @@
         "Redirect": "https://lozovamachinery.com/ua",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lozovamachinery.com/ua"
+    },
+    {
+        "link": "https://redbullstudiosshop.com",
+        "Heading": "redbullstudiosshop.com",
+        "Abstract": null,
+        "Official Site": "https://redbullstudiosshop.com",
+        "Icon": "N/A",
+        "Redirect": "https://redbullstudiosshop.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://redbullstudiosshop.com"
     },
     {
         "link": "https://turborilla.com",

@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://thekitchykitchen.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://thekitchykitchen.com",
-        "Icon": "data:;",
-        "Redirect": "https://thekitchykitchen.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thekitchykitchen.com"
-    },
-    {
         "link": "https://casavieja-restaurant.com",
         "Heading": "Casa Vieja - Canyon Country, Santa Clarita, CA",
         "Abstract": "Built around tradition and everyday comfort, this bar and grill brings people together over a broad menu that reflects both classic house favorites and seafood specialties. Casa Vieja serves...",
@@ -131,13 +121,13 @@
     },
     {
         "link": "https://reasonandmeaning.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://reasonandmeaning.com",
-        "Icon": "data:;",
-        "Redirect": "https://reasonandmeaning.com",
+        "Heading": "Reason and Meaning | Philosophical reflections on life, death, and the  meaning of life",
+        "Abstract": "Philosophical reflections on life, death, and the  meaning of life",
+        "Official Site": "https://reasonandmeaning.com/",
+        "Icon": "https://i0.wp.com/reasonandmeaning.com/wp-content/uploads/2015/01/theThinkerIcon-54b03aa4v1_site_icon.png?fit=512%2C512&ssl=1",
+        "Redirect": "https://reasonandmeaning.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://reasonandmeaning.com"
+        "AbstractURL": "https://reasonandmeaning.com/"
     },
     {
         "link": "https://gokhalemethod.com",
@@ -241,10 +231,10 @@
     },
     {
         "link": "https://mdxczx.com",
-        "Heading": "\u6570\u5b57\u4e61\u6751\u670d\u52a1\u5e73\u53f0",
+        "Heading": "\u5b81\u5fb7\u4e61\u6751\u4ea7\u4e1a\u79d1\u6280\u53d1\u5c55\u6709\u9650\u516c\u53f8",
         "Abstract": null,
         "Official Site": "https://mdxczx.com",
-        "Icon": "./vite.svg",
+        "Icon": "/logo.png",
         "Redirect": "https://mdxczx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mdxczx.com"

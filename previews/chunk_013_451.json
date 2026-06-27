@@ -70,16 +70,6 @@
         "AbstractURL": "https://rokyknih.cz"
     },
     {
-        "link": "https://ifrro.org",
-        "Heading": "IFRRO HOME PAGE",
-        "Abstract": "meta description required to be entered on all pages - describe the site - no more than 160 characters",
-        "Official Site": "https://ifrro.org/",
-        "Icon": "https://ifrro.org/img/icons/favicon-32x32.png",
-        "Redirect": "https://ifrro.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ifrro.org/"
-    },
-    {
         "link": "https://minis.ms",
         "Heading": "Minis.ms \u2013 Shorten Your URLs Instantly",
         "Abstract": "Shorten and manage your links with custom domains, analytics, and secure redirection.",

@@ -110,16 +110,6 @@
         "AbstractURL": "https://mapsus.net"
     },
     {
-        "link": "https://ccsassociation.org",
-        "Heading": "Home - CCSA",
-        "Abstract": "The CCSA is the European trade association accelerating the commercial deployment of carbon capture, utilisation and storage (CCUS).",
-        "Official Site": "https://www.ccsassociation.org/",
-        "Icon": "https://cms.ccsassociation.org/wp-content/uploads/2025/09/Events_banner_web.jpg",
-        "Redirect": "https://www.ccsassociation.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ccsassociation.org/"
-    },
-    {
         "link": "https://talkhelper.com",
         "Heading": "Business Call Recorder for Skype on Windows - TalkHelper",
         "Abstract": "Reliable Skype call recorder on Windows, Professionally designed for both Personal and Business use with 7 Days Free Trial.",
@@ -168,6 +158,16 @@
         "Redirect": "https://jarsbottles.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jarsbottles.com"
+    },
+    {
+        "link": "https://sonntag-sachsen.de",
+        "Heading": "DER SONNTAG (Sachsen) | Wochenzeitung f\u00fcr die Evangelisch-Lutherische Landeskirche Sachsens",
+        "Abstract": "Wochenzeitung f\u00fcr die Evangelisch-Lutherische Landeskirche Sachsens",
+        "Official Site": "https://www.sonntag-sachsen.de/",
+        "Icon": "https://www.sonntag-sachsen.de/sites/all/themes/eva_ns/favicon.ico",
+        "Redirect": "https://www.sonntag-sachsen.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sonntag-sachsen.de/"
     },
     {
         "link": "https://supima.com",

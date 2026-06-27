@@ -120,16 +120,6 @@
         "AbstractURL": "https://apteka79.ru/"
     },
     {
-        "link": "https://makkao.es",
-        "Heading": "Dise\u00f1o Web Barcelona, Agencia de Marketing Digital Barcelona",
-        "Abstract": "Dise\u00f1o Web Barcelona y Marketing Digital Barcelona. Especialistas en SEO y Dise\u00f1o web automatizaciones y conversi\u00f3n. Marketing para empresa.",
-        "Official Site": "https://makkao.com/",
-        "Icon": "https://makkao.com/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-07-a-las-13.10.54-1.webp",
-        "Redirect": "https://makkao.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://makkao.com/"
-    },
-    {
         "link": "https://guadaluperoma.it",
         "Heading": "Basilica di Nostra Signora di Guadalupe e San Filippo Martire",
         "Abstract": "Build an impressive website with the best-rated top-seller WordPress theme",
@@ -250,16 +240,6 @@
         "AbstractURL": "https://www.accordiondoorstore.com/"
     },
     {
-        "link": "https://findandgoseek.net",
-        "Heading": "Family Activities in Vermont \u2014 Find & Go Seek",
-        "Abstract": "Your essential guide to family-oriented activities, events and educational opportunities in Vermont. Plan your next family day out with FindandGoSeek!",
-        "Official Site": "https://findandgoseek.net/",
-        "Icon": "/images/favicons/favicon-32x32.png",
-        "Redirect": "https://findandgoseek.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://findandgoseek.net/"
-    },
-    {
         "link": "https://llresearch.org",
         "Heading": "Home of the Law of One material - L/L Research",
         "Abstract": "Home of The Law of One material, L/L Research is a non-profit organization dedicated to discovering and sharing information to aid in the spiritual evolution of humankind.",
@@ -281,12 +261,12 @@
     },
     {
         "link": "https://andreasrecipes.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://andreasrecipes.com",
-        "Icon": "data:;",
-        "Redirect": "https://andreasrecipes.com",
+        "Heading": "Making Life Delicious - Making Life Delicious",
+        "Abstract": "Making Life Delicious with Andrea Meyers is a blog about food, cooking, baking, gardening, and learning how to do new things.",
+        "Official Site": "https://andreasrecipes.com/",
+        "Icon": "https://andreasrecipes.com/wp-content/uploads/2024/05/cropped-MLD_RETINA_LOGO_2024.png",
+        "Redirect": "https://andreasrecipes.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://andreasrecipes.com"
+        "AbstractURL": "https://andreasrecipes.com/"
     }
 ]

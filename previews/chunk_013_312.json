@@ -154,7 +154,7 @@
         "Heading": "Slekt i midtre Telemark",
         "Abstract": null,
         "Official Site": "https://slekt-i-midt-telemark.no",
-        "Icon": "img/public/android-icon-192x192.png",
+        "Icon": "img/public/favicon.ico",
         "Redirect": "https://slekt-i-midt-telemark.no",
         "AbstractSource": "BS4",
         "AbstractURL": "https://slekt-i-midt-telemark.no"
@@ -208,16 +208,6 @@
         "Redirect": "https://www.globalcardmart.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.globalcardmart.com/"
-    },
-    {
-        "link": "https://4-dosug.com",
-        "Heading": "4-dosug.com",
-        "Abstract": null,
-        "Official Site": "https://4-dosug.com",
-        "Icon": "N/A",
-        "Redirect": "https://4-dosug.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://4-dosug.com"
     },
     {
         "link": "https://marcofellner.at",

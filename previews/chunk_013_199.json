@@ -1,13 +1,13 @@
 [
     {
         "link": "https://staggallery.com",
-        "Heading": null,
+        "Heading": "Home - The Stag Gallery",
         "Abstract": null,
-        "Official Site": "https://staggallery.com",
-        "Icon": "data:;",
-        "Redirect": "https://staggallery.com",
+        "Official Site": "https://staggallery.com/",
+        "Icon": "https://staggallery.com/wp-content/uploads/2025/03/cropped-stag-gallery-icon-32x32.png",
+        "Redirect": "https://staggallery.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://staggallery.com"
+        "AbstractURL": "https://staggallery.com/"
     },
     {
         "link": "https://legendzizou.com",
@@ -82,7 +82,7 @@
     {
         "link": "https://priesters.com",
         "Heading": "Pecans, Candy, Southern Gifts & Baskets Since 1935  | Priester's Pecans",
-        "Abstract": "Up to 20% Off Select Favorites. Family-owned in Fort Deposit, Alabama since 1935. Shop fresh Southern pecans, handmade pralines, candy, and gourmet gift baskets, shipped fresh. Order today.",
+        "Abstract": "Family-owned in Fort Deposit, Alabama since 1935. Shop fresh Southern pecans, handmade pralines, candy, and gourmet gift baskets, shipped fresh. Order today.",
         "Official Site": "https://priesters.com",
         "Icon": "https://cdn11.bigcommerce.com/s-ic5f5z66bm/product_images/Priesters_Favicon.png?t=1715366468",
         "Redirect": "https://priesters.com",

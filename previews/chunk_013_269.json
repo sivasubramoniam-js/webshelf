@@ -71,10 +71,10 @@
     },
     {
         "link": "https://malygosc.pl",
-        "Heading": "Ma\u0142y Go\u015b\u0107",
-        "Abstract": "Miesi\u0119cznik dla dzieci i m\u0142odzie\u017cy. Gry, porady, dowcipy, quizy, rozrywka, porady dotycz\u0105ce \u017cycia religijnego.",
+        "Heading": "Ma\u0142y Go\u015b\u0107 - www.malygosc.pl",
+        "Abstract": null,
         "Official Site": "https://malygosc.pl",
-        "Icon": "https://www.malygosc.pl/static/images/base/malygosc.jpg",
+        "Icon": "/static/themes/maly-gosc-mobile-2016/favicon.ico?v=QTRuC4J7NpTgTvjQqzrmA",
         "Redirect": "https://malygosc.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://malygosc.pl"
@@ -91,23 +91,13 @@
     },
     {
         "link": "https://ccscheme.org.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ccscheme.org.uk",
-        "Icon": "data:;",
-        "Redirect": "https://ccscheme.org.uk",
+        "Heading": "Considerate Constructors Scheme",
+        "Abstract": "The Considerate Constructors Scheme is an independently run organisation supporting and guiding positive change in the construction industry.",
+        "Official Site": "https://www.considerateconstructors.com/",
+        "Icon": "https://www.considerateconstructors.com/wp-content/uploads/2022/11/Home03_1920px.jpg",
+        "Redirect": "https://www.considerateconstructors.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ccscheme.org.uk"
-    },
-    {
-        "link": "https://vivasoftltd.com",
-        "Heading": "Custom Software Development Company | Vivasoft",
-        "Abstract": "Vivasoft is the top software development company in the Asia. We offer exclusive custom software development services to optimize business functions with 300+ talented programmers or extend their existing development teams.",
-        "Official Site": "https://vivasoftltd.com/",
-        "Icon": "https://vivasoftltd.com/wp-content/uploads/2025/10/top-custom-software-development-company-in-bangladesh.jpg",
-        "Redirect": "https://vivasoftltd.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vivasoftltd.com/"
+        "AbstractURL": "https://www.considerateconstructors.com/"
     },
     {
         "link": "https://nicelydone.club",

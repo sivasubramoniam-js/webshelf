@@ -270,16 +270,6 @@
         "AbstractURL": "https://powerindiversityisrael.com"
     },
     {
-        "link": "https://shaheshekar.com",
-        "Heading": "\u062e\u0631\u06cc\u062f \u062a\u0641\u0646\u06af \u0628\u0627\u062f\u06cc \u060c \u062e\u0631\u06cc\u062f \u062a\u067e\u0627\u0646\u0686\u0647 \u0628\u0627\u062f\u06cc \u0648 \u06af\u0627\u0632\u06cc \u060c \u062a\u0639\u0645\u06cc\u0631 \u062a\u0641\u0646\u06af \u0628\u0627\u062f\u06cc \u0648 \u062a\u067e\u0627\u0646\u0686\u0647 \u0628\u0627\u062f\u06cc \u0648 \u06af\u0627\u0632\u06cc",
-        "Abstract": "\u062e\u0631\u06cc\u062f \u062a\u0641\u0646\u06af \u0628\u0627\u062f\u06cc \u060c \u062e\u0631\u06cc\u062f \u062a\u067e\u0627\u0646\u0686\u0647 \u0628\u0627\u062f\u06cc \u0648 \u06af\u0627\u0632\u06cc \u060c \u062a\u0639\u0645\u06cc\u0631 \u062a\u0641\u0646\u06af \u0628\u0627\u062f\u06cc \u0648 \u062a\u067e\u0627\u0646\u0686\u0647 \u0628\u0627\u062f\u06cc \u0648 \u06af\u0627\u0632\u06cc \u0641\u0631\u0648\u0634 \u0645\u0633\u062a\u0642\u06cc\u0645 \u062a\u0641\u0646\u06af \u0628\u0627\u062f\u06cc \u0648 \u06af\u0627\u0632\u06cc \u060c ",
-        "Official Site": "https://shaheshekar.com",
-        "Icon": "http://shaheshekar.com/favicon.png?v=2",
-        "Redirect": "https://shaheshekar.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shaheshekar.com"
-    },
-    {
         "link": "https://vepean.click",
         "Heading": "VPN \u041d\u0430\u0440\u0443\u0436\u0443: \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430",
         "Abstract": "\u041d\u0430\u0434\u0451\u0436\u043d\u044b\u0439 VPN \u0434\u043b\u044f \u0434\u043e\u0441\u0442\u0443\u043f\u0430 \u043a \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u043c \u0441\u0430\u0439\u0442\u0430\u043c. \u0417\u0430\u0449\u0438\u0449\u0430\u0435\u043c \u0432\u0430\u0448\u0443 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u044c, \u043e\u0431\u0445\u043e\u0434\u0438\u043c \u0446\u0435\u043d\u0437\u0443\u0440\u0443. \u041f\u0440\u043e\u0441\u0442\u0430\u044f \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u043d\u0430 \u0432\u0441\u0435\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u0445.",
@@ -298,5 +288,15 @@
         "Redirect": "https://grohe-x.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://grohe-x.com"
+    },
+    {
+        "link": "https://primr.org",
+        "Heading": "Public Responsibility in Medicine and Research (PRIM&R) a 501 (c)(3) nonprofit",
+        "Abstract": "Public Responsibility in Medicine and Research is a nonprofit,\u202ffounded in 1974 that advances the highest ethical standards in the conduct of research by education, certification, membership community.",
+        "Official Site": "http://primr.org/",
+        "Icon": "http://primr.org/__static/ogimage-a93fccdeb603ed0f40273b9fadb73f34/PRIM&R-Logo_transp.png",
+        "Redirect": "http://primr.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://primr.org/"
     }
 ]

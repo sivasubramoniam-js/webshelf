@@ -101,13 +101,23 @@
     },
     {
         "link": "https://grottedicastellana.it",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://grottedicastellana.it",
-        "Icon": "data:;",
-        "Redirect": "https://grottedicastellana.it",
+        "Heading": "Grotte di Castellana",
+        "Abstract": "Le Grotte di Castellana sono, un\u2019imperdibile occasione per ammirare uno dei luoghi naturali pi\u00f9 sorprendenti di una Puglia meravigliosa.",
+        "Official Site": "https://www.grottedicastellana.it/",
+        "Icon": "https://www.grottedicastellana.it/wp-content/uploads/2025/02/a9accc1f150e8a0b35e0a71f46aa81ca.png",
+        "Redirect": "https://www.grottedicastellana.it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://grottedicastellana.it"
+        "AbstractURL": "https://www.grottedicastellana.it/"
+    },
+    {
+        "link": "https://askoe.at",
+        "Heading": "ASK\u00d6 Bundesorganisation",
+        "Abstract": "Die ASK\u00d6 ist die Arbeitsgemeinschaft f\u00fcr Sport und K\u00f6rperkultur in \u00d6sterreich und einer der drei gro\u00dfen Sportdachverb\u00e4nde in \u00d6sterreich.",
+        "Official Site": "https://www.askoe.at",
+        "Icon": "https://www.askoe.at/media/pic/41b27fc4f774f0ac14412856f33a67c0/ASKOe-Bundesorganisation-Webseite.jpg",
+        "Redirect": "https://www.askoe.at",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.askoe.at"
     },
     {
         "link": "https://rodarmor.com",
@@ -300,16 +310,6 @@
         "AbstractURL": "https://narkolog.express"
     },
     {
-        "link": "https://toto5dgas.org",
-        "Heading": "TOTO5D : Saluran Toto 5D Macau Agen Pasaran Togel Online Pasti Narik Wede Setiap Hari",
-        "Abstract": "TOTO5D adalah situs Toto 5D Macau dan pasaran togel online yang menghadirkan berbagai pilihan permainan populer dengan proses transaksi cepat, layanan profesional, serta akses mudah kapan saja. Dengan dukungan pasaran terlengkap dan sistem yang stabil, TOTO5D menjadi pilihan para pemain yang mencari pengalaman bermain togel online yang nyaman setiap hari.",
-        "Official Site": "https://toto5dgas.org",
-        "Icon": "/assets/img/bxr/favicon.png?v=xvqzxepnuyqgdvjmwbos",
-        "Redirect": "https://toto5dgas.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://toto5dgas.org"
-    },
-    {
         "link": "https://netscott.com",
         "Heading": null,
         "Abstract": null,
@@ -321,7 +321,7 @@
     },
     {
         "link": "https://mejane.com",
-        "Heading": "meJane.com",
+        "Heading": "Bekijk de beste en nieuwste films, n\u00e9t uit de bioscoop - meJane.com",
         "Abstract": "Bekijk voordelig de nieuwste films op smartphone en tablet - meJane.com",
         "Official Site": "https://www.mejane.com/",
         "Icon": "/favicon.ico",

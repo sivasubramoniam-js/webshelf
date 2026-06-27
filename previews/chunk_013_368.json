@@ -42,12 +42,12 @@
     {
         "link": "https://intelly-search.com",
         "Heading": "Search - Microsoft Bing",
-        "Abstract": "What does a parliament, a clock tower, and a giant",
-        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260626_0700&mkt=en-US",
-        "Icon": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_tmb.jpg&rf=",
-        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260626_0700&mkt=en-US",
+        "Abstract": "At Boneyard Beach within Hunting Island State Park",
+        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260627_0700&mkt=en-US",
+        "Icon": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_tmb.jpg&rf=",
+        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260627_0700&mkt=en-US",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260626_0700&mkt=en-US"
+        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260627_0700&mkt=en-US"
     },
     {
         "link": "https://shareresearch.us",
@@ -218,6 +218,16 @@
         "Redirect": "https://gcr.csoul.cloud",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gcr.csoul.cloud"
+    },
+    {
+        "link": "https://ba-tk.de",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ba-tk.de",
+        "Icon": "N/A",
+        "Redirect": "https://ba-tk.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ba-tk.de"
     },
     {
         "link": "https://onlinecomplianceexperts.com",

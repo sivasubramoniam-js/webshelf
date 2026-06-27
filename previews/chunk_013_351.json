@@ -91,13 +91,13 @@
     },
     {
         "link": "https://greyston.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://greyston.org",
-        "Icon": "data:;",
-        "Redirect": "https://greyston.org",
+        "Heading": "Open Hiring Greyston Bakery | Greyston Foundation",
+        "Abstract": "Break through barriers to employment. No interviews, background checks, or resumes mean truly equal opportunity for all.",
+        "Official Site": "https://www.greyston.org/about/",
+        "Icon": "https://www.greyston.org/wp-content/uploads/2021/10/icon-respect-1.png",
+        "Redirect": "https://www.greyston.org/about/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://greyston.org"
+        "AbstractURL": "https://www.greyston.org/about/"
     },
     {
         "link": "https://sma-sunny.com",
@@ -273,10 +273,10 @@
         "link": "https://psychedelicstoday.com",
         "Heading": "Expert-informed media and education | Psychedelics Today",
         "Abstract": "Our podcasts, articles and practitioner trainings bring the expertise of groundbreaking psychedelic thinkers into the mainstream.",
-        "Official Site": "https://psychedelicstoday.com/",
+        "Official Site": "https://www.psychedelicstoday.com/",
         "Icon": "https://psychedelicstoday.com/wp-content/uploads/2022/10/PSY_001-Psychedelics-Logo_v1.2_Spore-Gradient-100x100.png",
-        "Redirect": "https://psychedelicstoday.com/",
+        "Redirect": "https://www.psychedelicstoday.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://psychedelicstoday.com/"
+        "AbstractURL": "https://www.psychedelicstoday.com/"
     }
 ]

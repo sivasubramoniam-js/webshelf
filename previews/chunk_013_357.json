@@ -124,7 +124,7 @@
         "Heading": "SFORGE \u2022 Mixture of Experts: Web Apps, Hosting and More\u2026",
         "Abstract": "Mixture of Experts: Web Apps, Hosting and More\u2026",
         "Official Site": "https://sforge.com/",
-        "Icon": "https://sforge.com/wp-content/uploads/Vector-Logo.png",
+        "Icon": "https://cdn.sforge.com/wp-content/uploads/Vector-Logo.png",
         "Redirect": "https://sforge.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sforge.com/"
@@ -180,6 +180,16 @@
         "AbstractURL": "https://www.thebasementnashville.com/"
     },
     {
+        "link": "https://gebeya.com",
+        "Heading": "Gebeya | AI Solutions for Africa with Dala, Jitume & Jenga",
+        "Abstract": "Discover Gebeya and explore Dala, Jitume, and Jenga-AI-powered solutions built to help businesses in Africa scale faster, work smarter, and create real impact.",
+        "Official Site": "https://gebeya.com/",
+        "Icon": "https://gebeya.com/wp-content/uploads/2025/02/117-987x1024.webp",
+        "Redirect": "https://gebeya.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gebeya.com/"
+    },
+    {
         "link": "https://foxboroughma.gov",
         "Heading": "\n\tHome - Town of Foxborough\n",
         "Abstract": null,
@@ -221,13 +231,13 @@
     },
     {
         "link": "https://drdavisinfinitehealth.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://drdavisinfinitehealth.com",
-        "Icon": "data:;",
-        "Redirect": "https://drdavisinfinitehealth.com",
+        "Heading": "Dr. William Davis | Cardiologist & Author of Wheat Belly Books",
+        "Abstract": "Dr. William Davis, cardiologist, author of the New York Times Bestselling Wheat Belly Books, and health crusader for the wheat-free, grain-free lifestyle",
+        "Official Site": "https://drdavisinfinitehealth.com/",
+        "Icon": "https://drdavisinfinitehealth.com/wp-content/uploads/2022/01/wheat-belly-copy.jpg",
+        "Redirect": "https://drdavisinfinitehealth.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://drdavisinfinitehealth.com"
+        "AbstractURL": "https://drdavisinfinitehealth.com/"
     },
     {
         "link": "https://greedyeats.com",
