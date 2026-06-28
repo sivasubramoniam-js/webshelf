@@ -73,11 +73,11 @@
         "link": "https://haeresis.co",
         "Heading": "Haeresis | A Digital Design Studio | Websites, Logos, Videos | Houston TX",
         "Abstract": "Haeresis is a digital design studio based in Houston, TX, specializing in enhancing your digital presence through web design and more.",
-        "Official Site": "http://haeresis.co/",
-        "Icon": "http://haeresis.co/wp-content/uploads/2021/04/fb-bg-1a.jpg",
-        "Redirect": "http://haeresis.co/",
+        "Official Site": "https://haeresis.co/",
+        "Icon": "https://haeresis.co/wp-content/uploads/2021/04/fb-bg-1a.jpg",
+        "Redirect": "https://haeresis.co/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://haeresis.co/"
+        "AbstractURL": "https://haeresis.co/"
     },
     {
         "link": "https://i-fan.jp",
@@ -108,16 +108,6 @@
         "Redirect": "https://www.thefitlondoner.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.thefitlondoner.com/"
-    },
-    {
-        "link": "https://hnh-restoration.com",
-        "Heading": "Certified Emergency Disaster Recovery, Flood & Water Damage Restoration & Cleanup Services For Home, Mold Remediation & Removal Company Lewisville & Carrollton TX - Hands & Hammers Restoration Services",
-        "Abstract": "Hands & Hammers Restoration Services provides expert water, fire, and mold damage restoration in the Dallas-Fort Worth area. Certified team, fast response, call now for 24/7 emergency help!",
-        "Official Site": "https://hnh-restoration.com/",
-        "Icon": "https://hnh-restoration.com/wp-content/uploads/2025/01/logo.webp",
-        "Redirect": "https://hnh-restoration.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hnh-restoration.com/"
     },
     {
         "link": "https://scottishgas.co.uk",
@@ -231,13 +221,13 @@
     },
     {
         "link": "https://scva.org.uk",
-        "Heading": "The Best Non GamStop Casinos for 2026",
-        "Abstract": "Discover the top non GamStop GamStop in %%currentyear%%. Grab great bonuses, play thousands of games, and enjoy a safe online casino environment.",
-        "Official Site": "https://www.scva.org.uk/",
-        "Icon": "https://www.scva.org.uk/wp-content/uploads/2026/01/betfair-casino-outside-gamstop.jpg",
-        "Redirect": "https://www.scva.org.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://scva.org.uk",
+        "Icon": "data:;",
+        "Redirect": "https://scva.org.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.scva.org.uk/"
+        "AbstractURL": "https://scva.org.uk"
     },
     {
         "link": "https://rolandmouret.com",

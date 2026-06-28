@@ -161,8 +161,8 @@
     },
     {
         "link": "https://chefsausage.com",
-        "Heading": "\n      Artisan Sausages & Smoked Bacon in Chiang Mai | Chef\u2019s Sausage\n    ",
-        "Abstract": "Shop artisan sausages, smoked bacon, and premium meats in Chiang Mai. Same-day delivery and nationwide shipping.",
+        "Heading": "\n      Premium Artisan Sausages & Smoked Meats | Chef Sausage Thailand\n    ",
+        "Abstract": "Handcrafted by a Michelin-trained Italian chef with 18+ years in 5-star kitchens. Premium artisan sausages, smoked bacon & gourmet meats. Nationwide delivery across Thailand.",
         "Official Site": "https://chefsausage.com/",
         "Icon": "http://chefsausage.com/cdn/shop/files/IMG_7953_6d082370-c8d2-4795-b639-e537a633c9ba.png?v=1737952914&width=2048",
         "Redirect": "https://chefsausage.com/",
@@ -191,13 +191,13 @@
     },
     {
         "link": "https://ibex-ai.com",
-        "Heading": "Ibex Medical Analytics",
-        "Abstract": "Every day, our field-proven, AI-powered diagnostic solutions help pathologists ensure better cancer care for patients around the world",
-        "Official Site": "https://ibex-ai.com/",
-        "Icon": "https://ibex-ai.com/wp-content/uploads/2025/08/cropped-X_Ibex_512x512.png",
-        "Redirect": "https://ibex-ai.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ibex-ai.com",
+        "Icon": "data:;",
+        "Redirect": "https://ibex-ai.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ibex-ai.com/"
+        "AbstractURL": "https://ibex-ai.com"
     },
     {
         "link": "https://jysk-payroll.com",

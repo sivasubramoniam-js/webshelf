@@ -72,12 +72,12 @@
     {
         "link": "https://search-2go.com",
         "Heading": "Search - Microsoft Bing",
-        "Abstract": "What does a parliament, a clock tower, and a giant",
-        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260626_0700&mkt=en-US",
-        "Icon": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_tmb.jpg&rf=",
-        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260626_0700&mkt=en-US",
+        "Abstract": "'Stick around' takes on a new meaning in the Sonor",
+        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260628_0700&mkt=en-US",
+        "Icon": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_tmb.jpg&rf=",
+        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260628_0700&mkt=en-US",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260626_0700&mkt=en-US"
+        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260628_0700&mkt=en-US"
     },
     {
         "link": "https://razny.com",
@@ -111,7 +111,7 @@
     },
     {
         "link": "https://putlocker123.video",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://putlocker123.video",
         "Icon": "N/A",
@@ -121,13 +121,13 @@
     },
     {
         "link": "https://itewiki.fi",
-        "Heading": "ite wiki - Digitalisoi liiketoimintasi",
-        "Abstract": "L\u00f6yd\u00e4 ohjelmistokehitt\u00e4j\u00e4t, konsultit, ohjelmisto- ja laitetarjoajat liiketoiminnan kehitt\u00e4miseksi ja digitalisoimiseksi.",
-        "Official Site": "https://www.itewiki.fi",
-        "Icon": "https://www.itewiki.fi/images/og-images/default.png",
-        "Redirect": "https://www.itewiki.fi",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://itewiki.fi",
+        "Icon": "data:;",
+        "Redirect": "https://itewiki.fi",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.itewiki.fi"
+        "AbstractURL": "https://itewiki.fi"
     },
     {
         "link": "https://bezuidenhout.nl",

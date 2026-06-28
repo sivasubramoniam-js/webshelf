@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://protistologists.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://protistologists.org",
+        "Icon": "data:;",
+        "Redirect": "https://protistologists.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://protistologists.org"
+    },
+    {
         "link": "https://smarthacklink.xyz",
         "Heading": "smarthacklink.xyz",
         "Abstract": null,
@@ -101,13 +111,13 @@
     },
     {
         "link": "https://felzmann.de",
-        "Heading": "Home - Auktionshaus Felzmann",
-        "Abstract": "Willkommen im Auktionshaus Felzmann - Ihr pers\u00f6nlicher Ansprechpartner f\u00fcr Briefmarken seit 1976.Briefmarken Ankauf und Auktionen.",
-        "Official Site": "https://felzmann.de/",
-        "Icon": "https://felzmann.de/wp-content/uploads/2023/05/nur_logobild-150x150.png",
-        "Redirect": "https://felzmann.de/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://felzmann.de",
+        "Icon": "data:;",
+        "Redirect": "https://felzmann.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://felzmann.de/"
+        "AbstractURL": "https://felzmann.de"
     },
     {
         "link": "https://societyone.com.au",
@@ -188,16 +198,6 @@
         "Redirect": "https://isxgames.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://isxgames.com"
-    },
-    {
-        "link": "https://seashoresteel.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://seashoresteel.com",
-        "Icon": "N/A",
-        "Redirect": "https://seashoresteel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://seashoresteel.com"
     },
     {
         "link": "https://pcschmiede.eu",

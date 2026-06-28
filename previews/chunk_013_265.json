@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://morristourism.org",
-        "Heading": "Welcome to Morris County NJ - Morris County Tourism Bureau",
-        "Abstract": "Explore the best of Morris County NJ with the Morris County Tourism Bureau! Historic sites, vibrant arts, outdoor adventures, and charming towns await.",
-        "Official Site": "https://morristourism.org/",
-        "Icon": "https://morristourism.org/wp-content/uploads/2023/09/5419@2x.jpeg",
-        "Redirect": "https://morristourism.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://morristourism.org/"
-    },
-    {
         "link": "https://redoxxl.de",
         "Heading": "Redo XXL | Ehrliches Essen in gro\u00df \u2013 Burger, Schnitzel und mehr",
         "Abstract": "\ud83c\udf54 Essen in gro\u00df bei Redo XXL. Schnitzel, Burger, Currywurst und Steaks mit Geschmack und guter Laune. Jetzt vorbeikommen und satt werden.",
@@ -31,13 +21,13 @@
     },
     {
         "link": "https://botanica.org",
-        "Heading": "Botanica the Wichita Gardens - Wichita, KS",
-        "Abstract": "Botanica was opened to the public in May 1987 to generate enthusiasm for horticulture. Plan your visit today!",
-        "Official Site": "https://botanica.org/",
-        "Icon": "https://botanica.org/wp-content/uploads/2024/07/cropped-BOT-Circle-Fav-Teal-32x32.png",
-        "Redirect": "https://botanica.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://botanica.org",
+        "Icon": "data:;",
+        "Redirect": "https://botanica.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://botanica.org/"
+        "AbstractURL": "https://botanica.org"
     },
     {
         "link": "https://azerbaijanmedicaljournal.com",
@@ -98,6 +88,16 @@
         "Redirect": "https://potrebkor.ru/index.html",
         "AbstractSource": "BS4",
         "AbstractURL": "https://potrebkor.ru/index.html"
+    },
+    {
+        "link": "https://valleyhospital.net",
+        "Heading": "Welcome To Valley Hospital Medical Center | Las Vegas, NV",
+        "Abstract": "Located in the heart of Las Vegas, Valley Hospital Medical Center is an acute care and teaching hospital that has provided high quality healthcare to residents of Southern Nevada since 1972. The hospital offers a comprehensive range of services, including advanced cardiology, neurology, surgery and more.",
+        "Official Site": "https://www.valleyhospital.net/node/653",
+        "Icon": "https://www.valleyhospital.net/sites/valleyhospital.net/files/vh_vhs_favicon.gif",
+        "Redirect": "https://www.valleyhospital.net/node/653",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.valleyhospital.net/node/653"
     },
     {
         "link": "https://whitepeakdigital.com",

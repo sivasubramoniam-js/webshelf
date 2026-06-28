@@ -70,6 +70,16 @@
         "AbstractURL": "https://med-pred.ru/"
     },
     {
+        "link": "https://fringetheatre.ca",
+        "Heading": "Fringe Theatre | Edmonton International Fringe Theatre Festival",
+        "Abstract": "North America\u2019s largest, longest-running Fringe Theatre Festival. Fringe with us all year long - and see you August 13 \u2013 23, 2026 for this year\u2019s Festival!",
+        "Official Site": "https://www.fringetheatre.ca/",
+        "Icon": "https://www.fringetheatre.ca/wp-content/uploads/2024/07/OG-Fringe-photo-by-Marc-Chalifoux-Tiger-Lady-MC2_1533_work-scaled-1.jpg",
+        "Redirect": "https://www.fringetheatre.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fringetheatre.ca/"
+    },
+    {
         "link": "https://kai-ryokan.jp",
         "Heading": "\u754c KAI\uff5c\u516c\u5f0f\uff5c \u5168\u56fd\u306b\u5c55\u958b\u3059\u308b\u6e29\u6cc9\u65c5\u9928\u30d6\u30e9\u30f3\u30c9",
         "Abstract": "\u300c\u754c\u300d\u306f\u661f\u91ce\u30ea\u30be\u30fc\u30c8\u304c\u5168\u56fd\u306b\u5c55\u958b\u3059\u308b\u6e29\u6cc9\u65c5\u9928\u30d6\u30e9\u30f3\u30c9\u3002\u73fe\u4ee3\u306b\u5408\u3046\u304f\u3064\u308d\u304e\u3092\u8ffd\u6c42\u3057\u305f\u548c\u306e\u7a7a\u9593\u3001\u5730\u57df\u3084\u5b63\u7bc0\u306b\u3053\u3060\u308f\u3063\u305f\u304a\u3082\u3066\u306a\u3057\u3001\u304d\u3081\u7d30\u3084\u304b\u306a\u30b5\u30fc\u30d3\u30b9\u3067\u65c5\u3092\u6f14\u51fa\u3057\u307e\u3059\u3002",
@@ -113,11 +123,11 @@
         "link": "https://kimballelectronics.com",
         "Heading": "\n\tHome\n",
         "Abstract": "Kimball Electronics provides electronics manufacturing and contract manufacturing for the Automotive, Industrial, and Medical markets.",
-        "Official Site": "https://www.kimballelectronics.com/home",
+        "Official Site": "https://kimballelectronics.com/home",
         "Icon": "/AdminApp/assets/icons/KEIFavIcon-50x50.png",
-        "Redirect": "https://www.kimballelectronics.com/home",
+        "Redirect": "https://kimballelectronics.com/home",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kimballelectronics.com/home"
+        "AbstractURL": "https://kimballelectronics.com/home"
     },
     {
         "link": "https://actionaidindia.org",
@@ -151,13 +161,13 @@
     },
     {
         "link": "https://canadianrockies.net",
-        "Heading": "Canadian Rockies Vacation Guide | Banff National Park | Canmore Banff Live Web Cams",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.canadianrockies.net/",
-        "Icon": "https://www.canadianrockies.net/wp-content/uploads/2016/04/jasper-banff-lake-louise-calgary-shuttle.jpg",
-        "Redirect": "https://www.canadianrockies.net/",
+        "Official Site": "https://canadianrockies.net",
+        "Icon": "data:;",
+        "Redirect": "https://canadianrockies.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.canadianrockies.net/"
+        "AbstractURL": "https://canadianrockies.net"
     },
     {
         "link": "https://fiona.com",
@@ -278,6 +288,16 @@
         "Redirect": "https://mostplay-bds.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mostplay-bds.com"
+    },
+    {
+        "link": "https://tripleareview.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://tripleareview.com",
+        "Icon": "data:;",
+        "Redirect": "https://tripleareview.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tripleareview.com"
     },
     {
         "link": "https://passerelle.or.jp",

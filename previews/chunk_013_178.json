@@ -100,16 +100,6 @@
         "AbstractURL": "https://gronax.ru"
     },
     {
-        "link": "https://4brothersappliances.com",
-        "Heading": "Appliances in Perth Amboy, Perth Amboy and Newark NJ | Four Brothers Appliances",
-        "Abstract": "Four Brothers Appliances is a family owned Appliances store located in Perth Amboy, NJ. We offer the best in home Appliances at discount prices.",
-        "Official Site": "https://4brothersappliances.com",
-        "Icon": "N/A",
-        "Redirect": "https://4brothersappliances.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://4brothersappliances.com"
-    },
-    {
         "link": "https://rovm.nl",
         "Heading": "Home - ROVM",
         "Abstract": null,
@@ -221,13 +211,23 @@
     },
     {
         "link": "https://westalliswi.gov",
-        "Heading": "Client Challenge",
-        "Abstract": null,
+        "Heading": "City of West Allis | Home",
+        "Abstract": "The City of West Allis is a community of nearly 60,000 diverse residents. Conveniently located between Milwaukee and lake country.",
         "Official Site": "https://westalliswi.gov",
-        "Icon": "N/A",
+        "Icon": "https://cmsv2-assets.apptegy.net/uploads/25303/logo/28116/City_of_West_Allis_Logo.png",
         "Redirect": "https://westalliswi.gov",
         "AbstractSource": "BS4",
         "AbstractURL": "https://westalliswi.gov"
+    },
+    {
+        "link": "https://selectleaders.com",
+        "Heading": "\n            SelectLeaders | The #1 Commercial Real Estate Job Network\n\n        ",
+        "Abstract": "Search and apply for commercial real estate jobs, from entry-level to executive. Employers can post a job across 12 real estate associations in one click to attract the most qualified candidates.",
+        "Official Site": "https://selectleaders.com",
+        "Icon": "https://www.selectleaders.com/build/assets/favicon-92bd2ef7.png",
+        "Redirect": "https://selectleaders.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://selectleaders.com"
     },
     {
         "link": "https://bents.co.uk",

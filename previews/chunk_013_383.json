@@ -3,11 +3,11 @@
         "link": "https://taxiautofare.com",
         "Heading": "\n\tTaxi Fare Calculator | World Taxi Fares \n",
         "Abstract": "Find taxi fares all across the world. Our taxi fare calculator provides you with estimated cab fare between two different locations anywhere around the world!",
-        "Official Site": "www.taxiautofare.com/taxi-fare/Coimbatore-taxi-fare-from-KG-Campus-to-Valluvar-St/11419965",
+        "Official Site": "www.taxiautofare.com/",
         "Icon": "https://www.taxiautofare.com/Images/taxiautofare_logo_BIG.png",
-        "Redirect": "www.taxiautofare.com/taxi-fare/Coimbatore-taxi-fare-from-KG-Campus-to-Valluvar-St/11419965",
+        "Redirect": "www.taxiautofare.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "www.taxiautofare.com/taxi-fare/Coimbatore-taxi-fare-from-KG-Campus-to-Valluvar-St/11419965"
+        "AbstractURL": "www.taxiautofare.com/"
     },
     {
         "link": "https://weaselmods.net",
@@ -48,16 +48,6 @@
         "Redirect": "https://gourmandize.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gourmandize.com"
-    },
-    {
-        "link": "https://jaredroiger.top",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://jaredroiger.top",
-        "Icon": "N/A",
-        "Redirect": "https://jaredroiger.top",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jaredroiger.top"
     },
     {
         "link": "https://blismo.com",
@@ -121,7 +111,7 @@
     },
     {
         "link": "https://monthlycalendars.in",
-        "Heading": "Today's Hindu Panchangam (June 27, 2026) -  2026 and  2027 Hindu Panchangam Calendars",
+        "Heading": "Today's Hindu Panchangam (June 28, 2026) -  2026 and  2027 Hindu Panchangam Calendars",
         "Abstract": "June 2026 Hindu Panchangam Calendars - 2026 and 2027 Panchangam Calendars in Telugu, Tamil, Hindi - Todays panchangam with Tithi, Nakshtra, Yoga, Karana, Yamagandam, Rahukalam, Varjyam, Amritakalam",
         "Official Site": "https://monthlycalendars.in",
         "Icon": "N/A",
@@ -258,5 +248,15 @@
         "Redirect": "https://canadiandailymeds.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://canadiandailymeds.com"
+    },
+    {
+        "link": "https://softwarevision.de",
+        "Heading": "software vision",
+        "Abstract": null,
+        "Official Site": "https://softwarevision.de",
+        "Icon": "N/A",
+        "Redirect": "https://softwarevision.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://softwarevision.de"
     }
 ]

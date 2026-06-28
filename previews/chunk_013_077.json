@@ -60,16 +60,6 @@
         "AbstractURL": "https://mhfa-ersthelfer.de"
     },
     {
-        "link": "https://prachatice.eu",
-        "Heading": "Prachatice: Tituln\u00ed str\u00e1nka",
-        "Abstract": null,
-        "Official Site": "https://prachatice.eu",
-        "Icon": "/html/images/favicon.ico",
-        "Redirect": "https://prachatice.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://prachatice.eu"
-    },
-    {
         "link": "https://acbcwebhost.org.au",
         "Heading": "Index of /",
         "Abstract": null,
@@ -98,16 +88,6 @@
         "Redirect": "https://pps-eu.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pps-eu.org"
-    },
-    {
-        "link": "https://royalark.net",
-        "Heading": "index",
-        "Abstract": null,
-        "Official Site": "https://royalark.net",
-        "Icon": "N/A",
-        "Redirect": "https://royalark.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://royalark.net"
     },
     {
         "link": "https://operationwearehere.com",
@@ -190,26 +170,6 @@
         "AbstractURL": "https://favorite-games.com"
     },
     {
-        "link": "https://submain.com",
-        "Heading": "\n\tSubMain / Code Quality Tools, Automated Code Review and Refactoring\n",
-        "Abstract": "Code Quality Tools, Automated Code Review and Refactoring",
-        "Official Site": "https://submain.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://submain.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://submain.com"
-    },
-    {
-        "link": "https://dilmilti3-surabaya.go.id",
-        "Heading": "Pengadilan Militer Tinggi III Surabaya",
-        "Abstract": null,
-        "Official Site": "https://dilmilti3-surabaya.go.id",
-        "Icon": "https://dilmilti3-surabaya.go.id/wp-content/uploads/2020/02/SITE-LOGO-1-150x150.png",
-        "Redirect": "https://dilmilti3-surabaya.go.id",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dilmilti3-surabaya.go.id"
-    },
-    {
         "link": "https://phaa.net.au",
         "Heading": "\n\tHome\n",
         "Abstract": null,
@@ -221,13 +181,13 @@
     },
     {
         "link": "https://pstrust.org",
-        "Heading": "Pipeline Safety Trust",
-        "Abstract": "Credible. Independent. In the public interest.",
-        "Official Site": "https://pstrust.org/",
-        "Icon": "https://pstrust.org/wp-content/uploads/2021/03/PST_Logo_Square_Web.svg",
-        "Redirect": "https://pstrust.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pstrust.org",
+        "Icon": "data:;",
+        "Redirect": "https://pstrust.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pstrust.org/"
+        "AbstractURL": "https://pstrust.org"
     },
     {
         "link": "https://globalvaluebuyingstore.shop",

@@ -1,13 +1,13 @@
 [
     {
         "link": "https://staggallery.com",
-        "Heading": "Home - The Stag Gallery",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://staggallery.com/",
-        "Icon": "https://staggallery.com/wp-content/uploads/2025/03/cropped-stag-gallery-icon-32x32.png",
-        "Redirect": "https://staggallery.com/",
+        "Official Site": "https://staggallery.com",
+        "Icon": "data:;",
+        "Redirect": "https://staggallery.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://staggallery.com/"
+        "AbstractURL": "https://staggallery.com"
     },
     {
         "link": "https://legendzizou.com",
@@ -188,16 +188,6 @@
         "Redirect": "https://loknet.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://loknet.com.br"
-    },
-    {
-        "link": "https://infandum.uk",
-        "Heading": "Welcome to Infandvm Universe - Infandvm Digital Solutions",
-        "Abstract": "Evoking the ineffable Welcome to the Dark Side of the web Contact us Results-first digital partner. Conversion-focused design, organic SEO, strategic social, and AI backed by a team that shows up, stands by you, and supports you end-to-end. Phone, WhatsApp, or email your choice. What we do We design fast, conversion-ready websites, grow your organic [\u2026]",
-        "Official Site": "https://infandvm.com/",
-        "Icon": "https://infandvm.com/wp-content/uploads/2025/10/long-exposure-road-at-night-with-a-light-house-in-2022-03-04-05-57-45-utc.png",
-        "Redirect": "https://infandvm.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://infandvm.com/"
     },
     {
         "link": "https://radiotangra.com",

@@ -31,13 +31,13 @@
     },
     {
         "link": "https://cnpa.com",
-        "Heading": "CNPA - California News Publishers Association",
-        "Abstract": "The California News Publishers Association protects members, upholds journalistic ideals, and strengthens communities through a free press.",
-        "Official Site": "https://cnpa.com/",
-        "Icon": "https://cnpa.com/wp-content/uploads/default-social-image-1.png",
-        "Redirect": "https://cnpa.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://cnpa.com",
+        "Icon": "data:;",
+        "Redirect": "https://cnpa.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cnpa.com/"
+        "AbstractURL": "https://cnpa.com"
     },
     {
         "link": "https://playersvoice.com.au",
@@ -81,13 +81,13 @@
     },
     {
         "link": "https://antennasoftware.com",
-        "Heading": "Play Chicken Road Game Casino \u2013 Top Sites for Fast Payouts",
-        "Abstract": "Discover top chicken road game casino sites in 2025 with huge crypto bonuses, fast payouts, and mobile-friendly gameplay.",
-        "Official Site": "https://www.antennasoftware.com/",
-        "Icon": "https://www.antennasoftware.com/wp-content/uploads/2025/05/antenna-pega-logo-150x64.png",
-        "Redirect": "https://www.antennasoftware.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://antennasoftware.com",
+        "Icon": "data:;",
+        "Redirect": "https://antennasoftware.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.antennasoftware.com/"
+        "AbstractURL": "https://antennasoftware.com"
     },
     {
         "link": "https://rouletteforum.cc",
@@ -108,16 +108,6 @@
         "Redirect": "https://gulashgraphics.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gulashgraphics.com/"
-    },
-    {
-        "link": "https://nepgeekstech.com",
-        "Heading": "Nepgeeks Technology - Top Digital Marketing Agency in Nepal",
-        "Abstract": "As the top digital marketing agency in Nepal, we turn your business into a brand with audience-focused, conversion-driven strategies that deliver results.",
-        "Official Site": "https://nepgeekstech.com/",
-        "Icon": "https://nepgeekstech.com/wp-content/uploads/2023/07/NTPLLogo.png",
-        "Redirect": "https://nepgeekstech.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nepgeekstech.com/"
     },
     {
         "link": "https://peniscool.com",
@@ -181,13 +171,13 @@
     },
     {
         "link": "https://ship4wd.com",
-        "Heading": "Digital Freight Forwarding and Sourcing Solution for SMBs | Ship4wd",
-        "Abstract": "Simplify international shipping for SMBs with free quotes, reliable comparisons, and guaranteed ocean container allocation for FCL and LCL shipments.",
-        "Official Site": "https://ship4wd.com/",
-        "Icon": "https://ship4wd.com/wp-content/uploads/2022/05/s4wd-social-share.png",
-        "Redirect": "https://ship4wd.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ship4wd.com",
+        "Icon": "data:;",
+        "Redirect": "https://ship4wd.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ship4wd.com/"
+        "AbstractURL": "https://ship4wd.com"
     },
     {
         "link": "https://feline-nutrition.org",
@@ -208,6 +198,16 @@
         "Redirect": "http://xtermjs.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://xtermjs.org/"
+    },
+    {
+        "link": "https://orangecountyva.gov",
+        "Heading": "Orange County, VA - Official Website | Official Website",
+        "Abstract": "",
+        "Official Site": "https://orangecountyva.gov",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://orangecountyva.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://orangecountyva.gov"
     },
     {
         "link": "https://titanicbranson.com",

@@ -30,16 +30,6 @@
         "AbstractURL": "https://steerwebserver.com"
     },
     {
-        "link": "https://mazatlan-hotels.com",
-        "Heading": "mazatlan-hotels.com\u00a0-\u00a0mazatlan hotels Resources and Information.",
-        "Abstract": "mazatlan-hotels.com is your first and best source for information about mazatlan hotels. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
-        "Official Site": "https://mazatlan-hotels.com",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://mazatlan-hotels.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mazatlan-hotels.com"
-    },
-    {
         "link": "https://4x5y.com",
         "Heading": "\u6c34\u5730\u5bfc\u822a - Powered by 4x5y.com",
         "Abstract": "www.4x5y.com",
@@ -81,13 +71,13 @@
     },
     {
         "link": "https://travelbuddy.mx",
-        "Heading": "TravelBuddy.mx - Your Personal Travel Guide - Flights, Hotels & Local Travel Tips \u2014 All in One Place",
-        "Abstract": "Discover unforgettable adventures with TravelBuddy.mx - Your Personal Travel Guide! Your ultimate guide for travel tips, destination guides, and exclusive deals.",
-        "Official Site": "https://travelbuddy.mx/",
-        "Icon": "https://travelbuddy.mx/wp-content/uploads/2024/06/12686.jpg",
-        "Redirect": "https://travelbuddy.mx/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://travelbuddy.mx",
+        "Icon": "data:;",
+        "Redirect": "https://travelbuddy.mx",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://travelbuddy.mx/"
+        "AbstractURL": "https://travelbuddy.mx"
     },
     {
         "link": "https://coziring.xyz",
@@ -118,16 +108,6 @@
         "Redirect": "https://felloai.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://felloai.com/"
-    },
-    {
-        "link": "https://16366.ee",
-        "Heading": "Infoteenus 16366",
-        "Abstract": "Eesti firmade andmebaas",
-        "Official Site": "https://16366.ee",
-        "Icon": "/16366.ico",
-        "Redirect": "https://16366.ee",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://16366.ee"
     },
     {
         "link": "https://eileenwest.com",
@@ -268,6 +248,16 @@
         "Redirect": "https://www.yuliamoatti.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.yuliamoatti.com/"
+    },
+    {
+        "link": "https://ufo777logi.com",
+        "Heading": "UFO777 : Situs Slot Gacor Resmi dengan RTP Tertinggi",
+        "Abstract": "UFO777 adalah situs slot gacor resmi dengan RTP tertinggi, peluang menang besar, bonus melimpah, dan game mudah jackpot setiap hari!",
+        "Official Site": "https://ufo777logi.com",
+        "Icon": "https://cdn.mixlink.top/global/seamless/28/IDR/favicon/1952672869.png",
+        "Redirect": "https://ufo777logi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ufo777logi.com"
     },
     {
         "link": "https://boise.org",

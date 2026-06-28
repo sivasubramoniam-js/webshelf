@@ -120,6 +120,16 @@
         "AbstractURL": "https://apteka79.ru/"
     },
     {
+        "link": "https://makkao.es",
+        "Heading": "Dise\u00f1o Web Barcelona, Agencia de Marketing Digital Barcelona",
+        "Abstract": "Dise\u00f1o Web Barcelona y Marketing Digital Barcelona. Especialistas en SEO y Dise\u00f1o web automatizaciones y conversi\u00f3n. Marketing para empresa.",
+        "Official Site": "https://makkao.com/",
+        "Icon": "https://makkao.com/wp-content/uploads/2025/01/Captura-de-pantalla-2025-01-07-a-las-13.10.54-1.webp",
+        "Redirect": "https://makkao.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://makkao.com/"
+    },
+    {
         "link": "https://guadaluperoma.it",
         "Heading": "Basilica di Nostra Signora di Guadalupe e San Filippo Martire",
         "Abstract": "Build an impressive website with the best-rated top-seller WordPress theme",
@@ -190,16 +200,6 @@
         "AbstractURL": "https://jinbe.asia"
     },
     {
-        "link": "https://wildserengetiquest.com",
-        "Heading": "Wild Serengeti Quest \u2013 Venture Into the Wilderness, Return with a Story Untold.",
-        "Abstract": null,
-        "Official Site": "https://wildserengetiquest.com",
-        "Icon": "https://wildserengetiquest.com/wp-content/uploads/2024/12/cropped-logo-01-1-32x32.png",
-        "Redirect": "https://wildserengetiquest.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wildserengetiquest.com"
-    },
-    {
         "link": "https://gbhomecollection.com",
         "Heading": "Home decor products including curtain rod brackets - 1337nih",
         "Abstract": "GB Home Collection showcases home d\u00e9cor products including curtain rod brackets , hanging curtains, wall art, candlestick holder, and other home d\u00e9cor products at an affordable price",
@@ -250,23 +250,13 @@
         "AbstractURL": "https://www.llresearch.org"
     },
     {
-        "link": "https://netzeroinvestor.net",
-        "Heading": "Homepage - Net Zero Investor",
-        "Abstract": "Net Zero Investor\u2018s mission is to provide written, streamed and in-person content that will benefit investors\u2019 net-zero journeys.",
-        "Official Site": "https://netzeroinvestor.net",
-        "Icon": "/favicon-32x32.png",
-        "Redirect": "https://netzeroinvestor.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://netzeroinvestor.net"
-    },
-    {
         "link": "https://andreasrecipes.com",
-        "Heading": "Making Life Delicious - Making Life Delicious",
-        "Abstract": "Making Life Delicious with Andrea Meyers is a blog about food, cooking, baking, gardening, and learning how to do new things.",
-        "Official Site": "https://andreasrecipes.com/",
-        "Icon": "https://andreasrecipes.com/wp-content/uploads/2024/05/cropped-MLD_RETINA_LOGO_2024.png",
-        "Redirect": "https://andreasrecipes.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://andreasrecipes.com",
+        "Icon": "data:;",
+        "Redirect": "https://andreasrecipes.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://andreasrecipes.com/"
+        "AbstractURL": "https://andreasrecipes.com"
     }
 ]

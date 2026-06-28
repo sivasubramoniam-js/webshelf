@@ -81,7 +81,7 @@
     },
     {
         "link": "https://vremennaya-reg.ru",
-        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438  \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 23.06.2026 ",
+        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438  \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 27.06.2026 ",
         "Abstract": " \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u043f\u043e \u0440\u0430\u0437\u0443\u043c\u043d\u044b\u043c \u0446\u0435\u043d\u0430\u043c.",
         "Official Site": "https://vremennaya-reg.ru",
         "Icon": "untitled-1.ico",
@@ -308,5 +308,15 @@
         "Redirect": "https://www.ondis24.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ondis24.com/"
+    },
+    {
+        "link": "https://federation-auto-entrepreneur.fr",
+        "Heading": "Bid on the domain federation-auto-entrepreneur.fr now | nicsell",
+        "Abstract": "Bid on the RGP-Domain federation-auto-entrepreneur.fr. Bid now from \u20ac10 and secure the domain at an early stage!",
+        "Official Site": "https://nicsell.com/en/domain/federation-auto-entrepreneur.fr",
+        "Icon": "/assets/img/press/en/logo-slogan-190x54.png",
+        "Redirect": "https://nicsell.com/en/domain/federation-auto-entrepreneur.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nicsell.com/en/domain/federation-auto-entrepreneur.fr"
     }
 ]

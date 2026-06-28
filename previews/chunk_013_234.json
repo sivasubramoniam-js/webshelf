@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://testov-spb.ru",
+        "Heading": "\u1408 \u041a\u0443\u043f\u0438\u0442\u044c \u0441\u0432\u0435\u0436\u0443\u044e \u0432\u044b\u043f\u0435\u0447\u043a\u0443 \u0441 \u0431\u044b\u0441\u0442\u0440\u043e\u0439 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 - \u043f\u0435\u043a\u0430\u0440\u043d\u044f \u0422\u0435\u0441\u0442\u043e\u043b\u044e\u0431 \u0432 \u0421\u041f\u0431",
+        "Abstract": "\u0411\u044b\u0441\u0442\u0440\u0430\u044f \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u0432\u044b\u043f\u0435\u0447\u043a\u0438 \u043f\u043e \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0443. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043f\u0435\u043a\u0430\u0440\u0442\u043d\u0438 \u0422\u0435\u0441\u0442\u043e\u043b\u044e\u0431: \u0443 \u043d\u0430\u0441 \u043c\u043e\u0436\u043d\u043e \u043a\u0443\u043f\u0438\u0442\u044c \u0432\u0435\u0441\u044c \u0430\u0441\u0441\u043e\u0440\u0442\u0438\u043c\u0435\u043d\u0442 \u0432\u044b\u043f\u0435\u0447\u043a\u0438: \u043f\u0440\u043e\u0444\u0438\u0442\u0440\u043e\u043b\u0438, \u043f\u0435\u0440\u0435\u043f\u0435\u0447\u043a\u0438, \u043f\u0438\u0446\u0446\u044b \u0438 \u0434\u0435\u0441\u0435\u0440\u0442\u044b.",
+        "Official Site": "https://testov-spb.ru/",
+        "Icon": "https://testov-spb.ru/images/logo.png",
+        "Redirect": "https://testov-spb.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://testov-spb.ru/"
+    },
+    {
         "link": "https://poliklinikavinca.rs",
         "Heading": "Privatna bolnica Profesional Medic | Specijalisti\u010dki pregledi i dijagnostika",
         "Abstract": "Privatna bolnica Profesional Medic pru\u017ea specijalisti\u010dke preglede, savremenu dijagnostiku i profesionalnu medicinsku negu. Zaka\u017eite pregled brzo i jednostavno.",
@@ -38,16 +48,6 @@
         "Redirect": "https://inouye-eye.or.jp",
         "AbstractSource": "BS4",
         "AbstractURL": "https://inouye-eye.or.jp"
-    },
-    {
-        "link": "https://digitaltrademarketpro.com",
-        "Heading": "Digital Trade Market - Forex and cryptocurrency investment platform",
-        "Abstract": "Forex and crypocurrency investments at its best",
-        "Official Site": "https://digitaltrademarketpro.com",
-        "Icon": "N/A",
-        "Redirect": "https://digitaltrademarketpro.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://digitaltrademarketpro.com"
     },
     {
         "link": "https://cybercoding.cn",
@@ -101,7 +101,7 @@
     },
     {
         "link": "https://propiska-tut.ru",
-        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438  \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 26.06.2026 ",
+        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438  \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 25.06.2026 ",
         "Abstract": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u0417\u0430\u043a\u043e\u043d\u043d\u0430\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u043f\u043e\u0434 \u043a\u043b\u044e\u0447.",
         "Official Site": "https://propiska-tut.ru",
         "Icon": "untitled-1.ico",
@@ -128,6 +128,16 @@
         "Redirect": "https://naadi.io",
         "AbstractSource": "BS4",
         "AbstractURL": "https://naadi.io"
+    },
+    {
+        "link": "https://rajjewels.com",
+        "Heading": "22k Gold & Certified Diamond Jewelry Store | Raj Jewels",
+        "Abstract": "Shop online at USA's most trusted retailer of 22K gold jewelry & diamond jewelry collection including engagement rings & designer bridal jewels.",
+        "Official Site": "https://rajjewels.com",
+        "Icon": "https://www.rajjewels.com/media/favicon/stores/1/Rajjewels-Logo.jpg",
+        "Redirect": "https://rajjewels.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rajjewels.com"
     },
     {
         "link": "https://ekrut.com",

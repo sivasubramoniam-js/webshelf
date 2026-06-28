@@ -51,10 +51,10 @@
     },
     {
         "link": "https://neglectedbooks.com",
-        "Heading": "The Neglected Books Page \u2013 www.NeglectedBooks.com:  Where forgotten books are remembered",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://neglectedbooks.com",
-        "Icon": "https://neglectedbooks.com/wp-content/uploads/2015/10/cropped-nbsiteicon1-32x32.jpg",
+        "Icon": "data:;",
         "Redirect": "https://neglectedbooks.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://neglectedbooks.com"
@@ -88,16 +88,6 @@
         "Redirect": "https://www.oregonbrewfest.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.oregonbrewfest.com/"
-    },
-    {
-        "link": "https://boltcity.com",
-        "Heading": "Bolt City Productions | Bolt City Bulletin",
-        "Abstract": null,
-        "Official Site": "https://boltcity.com",
-        "Icon": "N/A",
-        "Redirect": "https://boltcity.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://boltcity.com"
     },
     {
         "link": "https://bandyshirt.de",
@@ -270,6 +260,16 @@
         "AbstractURL": "https://rspca-act.org.au"
     },
     {
+        "link": "https://atmos-meas-tech.net",
+        "Heading": "AMT - Journal volumes",
+        "Abstract": null,
+        "Official Site": "https://atmos-meas-tech.net",
+        "Icon": "https://www.atmospheric-measurement-techniques.net/favicon_copernicus_16x16_.ico",
+        "Redirect": "https://atmos-meas-tech.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://atmos-meas-tech.net"
+    },
+    {
         "link": "https://yve019.com",
         "Heading": "\u7535\u5f71\u96c6\u6563\u5730",
         "Abstract": "\u5f71\u4f73\u5f71\u9662\u4e3a\u60a8\u63d0\u4f9b\u5168\u7f51\u6700\u65b0\u7535\u5f71\u548c\u5267\u96c6\u8d44\u6e90\uff0c\u9ad8\u6e05\u64ad\u653e\uff0c\u65e0\u5e7f\u544a\uff0c\u514d\u8d39\u89c2\u770b\uff0c\u8f7b\u677e\u4eab\u53d7\u6700\u65b0\u5f71\u7247\u3002",
@@ -278,16 +278,6 @@
         "Redirect": "https://yve019.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yve019.com"
-    },
-    {
-        "link": "https://lancasterlogcabins.com",
-        "Heading": "Lancaster Cabins \u2013 Portable Park Model Homes & Cabins | Real Log Portable Cabins",
-        "Abstract": "Based in Lancaster County, PA, our family-owned company builds premium portable cabins on wheels also known as Park Model Homes or Cabins.",
-        "Official Site": "https://lancasterlogcabins.com/",
-        "Icon": "https://cdn-lancasterlogcabins.b-cdn.net/wp-content/uploads/2022/09/BSV-4-rancher-park-model-1024x682.jpg",
-        "Redirect": "https://lancasterlogcabins.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lancasterlogcabins.com/"
     },
     {
         "link": "https://1brl55.com",

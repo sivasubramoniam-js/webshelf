@@ -10,11 +10,21 @@
         "AbstractURL": "https://closo.co/"
     },
     {
+        "link": "https://eafactory.com",
+        "Heading": "EAfactory - Automated Forex Trading Solutions",
+        "Abstract": "High-performance Expert Advisors (EAs) for MetaTrader. Automate your trading with our proven Forex robots.",
+        "Official Site": "https://eafactory.com",
+        "Icon": "https://www.eafactory.com/favicon.ico",
+        "Redirect": "https://eafactory.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eafactory.com"
+    },
+    {
         "link": "https://trickysite.com",
-        "Heading": "Tricky | Home",
-        "Abstract": "",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://trickysite.com",
-        "Icon": "https://www.trickysite.com/wp-content/themes/tricky/_assets/img/shareImage.jpg",
+        "Icon": "data:;",
         "Redirect": "https://trickysite.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trickysite.com"
@@ -180,16 +190,6 @@
         "AbstractURL": "https://ymzv.ru"
     },
     {
-        "link": "https://dondadatech.com",
-        "Heading": "Don Dada Technologies",
-        "Abstract": "A Digital Agency that is passionate about helping you succeed online.",
-        "Official Site": "https://dondadatech.com",
-        "Icon": "N/A",
-        "Redirect": "https://dondadatech.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dondadatech.com"
-    },
-    {
         "link": "https://abkuerzungen.de",
         "Heading": "abkuerzungen.de - Ihre Adresse f\u00fcr Abk\u00fcrzungen im Internet",
         "Abstract": null,
@@ -241,7 +241,7 @@
     },
     {
         "link": "https://zoobrilka.com",
-        "Heading": "zoobrilka.com - Coming Soon",
+        "Heading": "Checking your browser...",
         "Abstract": null,
         "Official Site": "https://zoobrilka.com",
         "Icon": "N/A",

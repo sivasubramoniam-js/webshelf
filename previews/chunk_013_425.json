@@ -170,16 +170,6 @@
         "AbstractURL": "https://luijten.net"
     },
     {
-        "link": "https://rolandcorp.com.au",
-        "Heading": "\n\tRoland - AU\n",
-        "Abstract": "The website of Roland Corporation, a leading manufacturer and distributor of electronic musical instruments, including keyboards and synthesizers, guitar products, electronic percussion, digital recording equipment, amplifiers, audio processors, and multimedia products.",
-        "Official Site": "https://www.roland.com/au/",
-        "Icon": "http://static.roland.com/global/images/og.png",
-        "Redirect": "https://www.roland.com/au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.roland.com/au/"
-    },
-    {
         "link": "https://danslesyeuxdegaia.com",
         "Heading": "Boutique \u00e9sot\u00e9rique en ligne \u2013 Tarots, Oracles, Lithoth\u00e9rapie & Spiritualit\u00e9 | Dans les Yeux de Ga\u00efa",
         "Abstract": "D\u00e9couvrez plus de 8000 produits \u00e9sot\u00e9riques : tarots, oracles, pierres naturelles et encens pour la spiritualit\u00e9, la guidance et le bien-\u00eatre.",
@@ -198,6 +188,16 @@
         "Redirect": "https://www.cpedv.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cpedv.org/"
+    },
+    {
+        "link": "https://nmvv.nl",
+        "Heading": "Nmvv.nl",
+        "Abstract": "Home",
+        "Official Site": "https://nmvv.nl",
+        "Icon": "N/A",
+        "Redirect": "https://nmvv.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nmvv.nl"
     },
     {
         "link": "https://radiolaser.it",

@@ -61,13 +61,13 @@
     },
     {
         "link": "https://vv411.com",
-        "Heading": "VV411 - Victor Valley 411",
-        "Abstract": "Come and join the Victor Valley 411 community. Expand your network and get to know new local people!",
-        "Official Site": "https://vv411.com/",
-        "Icon": "https://vv411.com/wp-content/uploads/2023/01/Dark-Blue-Red-White-Generic-News-General-News-Logo-600-\u00d7-900-px-Facebook-Cover.png",
-        "Redirect": "https://vv411.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://vv411.com",
+        "Icon": "data:;",
+        "Redirect": "https://vv411.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vv411.com/"
+        "AbstractURL": "https://vv411.com"
     },
     {
         "link": "https://evan-roth.com",
@@ -281,13 +281,13 @@
     },
     {
         "link": "https://achology.com",
-        "Heading": "Achology: Pioneering a New Way in Psychology-Based Education",
-        "Abstract": "Achology offers 28 insightful, psychology-based e-learning courses designed to deepen self-awareness and foster a greater understanding of other people.",
-        "Official Site": "https://achology.com/",
-        "Icon": "https://cdn.achology.com/wp-content/uploads/20250520144600/Achology-Home-Page-Featured-Image.jpg",
-        "Redirect": "https://achology.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://achology.com",
+        "Icon": "data:;",
+        "Redirect": "https://achology.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://achology.com/"
+        "AbstractURL": "https://achology.com"
     },
     {
         "link": "https://schloss-drachenburg.de",
@@ -298,25 +298,5 @@
         "Redirect": "https://www.schloss-drachenburg.de/de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.schloss-drachenburg.de/de/"
-    },
-    {
-        "link": "https://fxopenaffiliate.com",
-        "Heading": "Forex Affiliate & Partnership Program | Become a Forex Affiliate | FXOpen",
-        "Abstract": "Become a Forex Affiliate with FXOpen Forex Broker - Forex Partnership Program. Multilevel Partnership. Partnership Program for PAMM and White Label.",
-        "Official Site": "https://fxopenaffiliate.com/",
-        "Icon": "https://fxopenaffiliate.com/content/images/2025/02/logo-1.jpg",
-        "Redirect": "https://fxopenaffiliate.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fxopenaffiliate.com/"
-    },
-    {
-        "link": "https://ielts-simon.com",
-        "Heading": "IELTS Simon | Homepage",
-        "Abstract": null,
-        "Official Site": "https://ielts-simon.com",
-        "Icon": "https://ielts-simon.com/wp-content/uploads/2025/11/cropped-Logo-1-32x32.png",
-        "Redirect": "https://ielts-simon.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ielts-simon.com"
     }
 ]

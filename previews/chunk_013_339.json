@@ -60,16 +60,6 @@
         "AbstractURL": "https://turkiyeisdunyasi.com"
     },
     {
-        "link": "https://perthchildcare.com.au",
-        "Heading": "Perth Child Care - Western Australia ChildCare",
-        "Abstract": "Perth Child Care WA, Directory for finding Perth ChildCare, we also list Day Care for Babies and for Pre School.",
-        "Official Site": "https://perthchildcare.com.au/",
-        "Icon": "https://dirdata.b-cdn.net/img/sites/og/ogmd_desktop_154_efif0828_2111303717.jpg?crop_gravity=center&crop=1200,627",
-        "Redirect": "https://perthchildcare.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://perthchildcare.com.au/"
-    },
-    {
         "link": "https://akdm.link",
         "Heading": "AKADEMIA - E\u011fitim Kurumu Y\u00f6netim Platformu",
         "Abstract": null,
@@ -111,13 +101,13 @@
     },
     {
         "link": "https://epyx.co.uk",
-        "Heading": "epyx - Technology Solutions for the Automotive Sector",
-        "Abstract": "epyx Ltd provide technology solutions enabling the procurement, servicing, repair, hire and sale of more than five million vehicles a year. Learn about our Ecosystem here.",
-        "Official Site": "https://www.epyx.co.uk/",
-        "Icon": "https://epyx.co.uk/wp-content/uploads/2022/06/cropped-Digital.jpg",
-        "Redirect": "https://www.epyx.co.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://epyx.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://epyx.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.epyx.co.uk/"
+        "AbstractURL": "https://epyx.co.uk"
     },
     {
         "link": "https://jornalfax.net",
@@ -272,12 +262,12 @@
     {
         "link": "https://jungdaphospital.com",
         "Heading": "Xem Phim Sex Hay Tr\u1ef1c Tuy\u1ebfn Mi\u1ec5n Ph\u00ed T\u1ea1i Viet69VN",
-        "Abstract": "Xem phim sex hay nh\u1ea5t, phim sex online ch\u1ea5t l\u01b0\u1ee3ng HD t\u1ea1i Viet69VN. H\u00e0ng ngh\u00ecn video phim sex free c\u1eadp nh\u1eadt h\u00e0ng ng\u00e0y. Phim sex vi\u1ec7t nam, sex viet nam, phim sex vietsub \u0111\u1ec9nh nh\u1ea5t t\u1ea1i saekicamera.com",
-        "Official Site": "https://saekicamera.com/",
+        "Abstract": "Xem phim sex hay nh\u1ea5t, phim sex online ch\u1ea5t l\u01b0\u1ee3ng HD t\u1ea1i Viet69VN. H\u00e0ng ngh\u00ecn video phim sex free c\u1eadp nh\u1eadt h\u00e0ng ng\u00e0y. Phim sex vi\u1ec7t nam, sex viet nam, phim sex vietsub \u0111\u1ec9nh nh\u1ea5t t\u1ea1i otysilveroak.com",
+        "Official Site": "https://otysilveroak.com/",
         "Icon": "/static/images/logo.webp",
-        "Redirect": "https://saekicamera.com/",
+        "Redirect": "https://otysilveroak.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://saekicamera.com/"
+        "AbstractURL": "https://otysilveroak.com/"
     },
     {
         "link": "https://ari-motors.com",
@@ -348,15 +338,5 @@
         "Redirect": "https://dreamsandideas.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dreamsandideas.com"
-    },
-    {
-        "link": "https://quintonpardee.top",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://quintonpardee.top",
-        "Icon": "N/A",
-        "Redirect": "https://quintonpardee.top",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://quintonpardee.top"
     }
 ]

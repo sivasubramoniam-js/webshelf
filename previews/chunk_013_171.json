@@ -20,16 +20,6 @@
         "AbstractURL": "https://owaka.live"
     },
     {
-        "link": "https://newsounds.org",
-        "Heading": "New Sounds | WNYC",
-        "Abstract": "New Sounds\u00a0is New York Public Radio\u2019s home for the musically curious, since 1982.",
-        "Official Site": "https://www.wnyc.org/browse/shows/new-sounds",
-        "Icon": "https://images-prod.gothamist.com/original_images/new_sounds_logo.png",
-        "Redirect": "https://www.wnyc.org/browse/shows/new-sounds",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.wnyc.org/browse/shows/new-sounds"
-    },
-    {
         "link": "https://racingtvschedule.com",
         "Heading": "Motorsports TV Schedule - RacingTvSchedule.com",
         "Abstract": "Motorsports TV Guide For Live Events, Replays, Practice And More. We Cover NASCAR, IndyCar, Formula 1, IMSA, WEC & More. Updated Everyday!",
@@ -61,10 +51,10 @@
     },
     {
         "link": "https://gymratchallenge.com",
-        "Heading": "The GymRat CHALLENGE a test of skill & will where basketball reputations are earned!",
-        "Abstract": "Where today and tomorrow's NCAA, NBA & WNBA stars have EARNED their basketball reputations since 1998",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://gymratchallenge.com",
-        "Icon": "https://gymratchallenge.com/wp-content/uploads/2016/01/cropped-fav-32x32.gif",
+        "Icon": "data:;",
         "Redirect": "https://gymratchallenge.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gymratchallenge.com"
@@ -210,16 +200,6 @@
         "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=AlphaFxhub.com"
     },
     {
-        "link": "https://allrus.news",
-        "Heading": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0441\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438 | allrus.news",
-        "Abstract": null,
-        "Official Site": "https://allrus.news/",
-        "Icon": "https://allrus.news/wp-content/uploads/2023/07/cropped-Advertising_icon-icons.com_54216-32x32.png",
-        "Redirect": "https://allrus.news/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://allrus.news/"
-    },
-    {
         "link": "https://hizirpaket.com",
         "Heading": "Hizir Paket - Kurye Operasyon Y\u00f6netimi",
         "Abstract": "Hizir Paket paket y\u00f6netim sistemi sayesinde, onlarca restoran ve kurye aras\u0131ndaki paket y\u00f6netimi operasyonunu sorunsuzca y\u00f6netebilirsiniz.",
@@ -231,13 +211,13 @@
     },
     {
         "link": "https://oneworldmedia.org.uk",
-        "Heading": "One World Media \u2013 Stories shape our world. It matters who tells them and how they are told. ",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://oneworldmedia.org.uk/",
-        "Icon": "https://oneworldmedia.org.uk/wp-content/uploads/2017/01/favicon-32x32.png",
-        "Redirect": "https://oneworldmedia.org.uk/",
+        "Official Site": "https://oneworldmedia.org.uk",
+        "Icon": "data:;",
+        "Redirect": "https://oneworldmedia.org.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://oneworldmedia.org.uk/"
+        "AbstractURL": "https://oneworldmedia.org.uk"
     },
     {
         "link": "https://amxpress.com",

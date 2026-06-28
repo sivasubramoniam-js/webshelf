@@ -91,13 +91,13 @@
     },
     {
         "link": "https://greyston.org",
-        "Heading": "Open Hiring Greyston Bakery | Greyston Foundation",
-        "Abstract": "Break through barriers to employment. No interviews, background checks, or resumes mean truly equal opportunity for all.",
-        "Official Site": "https://www.greyston.org/about/",
-        "Icon": "https://www.greyston.org/wp-content/uploads/2021/10/icon-respect-1.png",
-        "Redirect": "https://www.greyston.org/about/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://greyston.org",
+        "Icon": "data:;",
+        "Redirect": "https://greyston.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.greyston.org/about/"
+        "AbstractURL": "https://greyston.org"
     },
     {
         "link": "https://sma-sunny.com",
@@ -108,16 +108,6 @@
         "Redirect": "https://www.sma-sunny.com/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sma-sunny.com/en/"
-    },
-    {
-        "link": "https://opavanex.com",
-        "Heading": "Home | Opavanex",
-        "Abstract": "Live Charts with Indicators, Foreign Exchange Market Trading Methods, Hours, Sessions, & Plans, Major and Minor Pairs Currency, Bullish and Bearish Divergence.",
-        "Official Site": "./",
-        "Icon": "./assets/images/favicon.png",
-        "Redirect": "./",
-        "AbstractSource": "BS4",
-        "AbstractURL": "./"
     },
     {
         "link": "https://ifrbanking.ru",
@@ -170,16 +160,6 @@
         "AbstractURL": "https://openbgpd.org"
     },
     {
-        "link": "https://royalelectric.pk",
-        "Heading": "Royal Electric",
-        "Abstract": "Royal Electric",
-        "Official Site": "https://royalelectric.pk/",
-        "Icon": "https://royalelectric.pk/wp-content/uploads/2023/02/farhan2.jpg",
-        "Redirect": "https://royalelectric.pk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://royalelectric.pk/"
-    },
-    {
         "link": "https://wildlandsnetwork.org",
         "Heading": "Home - Wildlands Network",
         "Abstract": "Rewild North America. We\u2019re rebuilding the natural connections that let wildlife roam, ecosystems thrive, and life flourish across a continent.",
@@ -208,16 +188,6 @@
         "Redirect": "https://reticleweb.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://reticleweb.com"
-    },
-    {
-        "link": "https://propertypavilion.co.uk",
-        "Heading": "propertypavilion \u2013 Turning Property into Possibility",
-        "Abstract": null,
-        "Official Site": "https://propertypavilion.co.uk",
-        "Icon": "N/A",
-        "Redirect": "https://propertypavilion.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://propertypavilion.co.uk"
     },
     {
         "link": "https://antilles-info-tourisme.com",

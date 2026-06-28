@@ -60,16 +60,6 @@
         "AbstractURL": "https://zazofficial.com"
     },
     {
-        "link": "https://luvbeinghost.com",
-        "Heading": "Portal Home - LuvBeing Host",
-        "Abstract": null,
-        "Official Site": "https://luvbeinghost.com",
-        "Icon": "/templates/hostx/images/favicon.ico",
-        "Redirect": "https://luvbeinghost.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://luvbeinghost.com"
-    },
-    {
         "link": "https://simas.it",
         "Heading": "Arredo bagno, lavabi e sanitari bagno | Ceramica Simas, dal 1955",
         "Abstract": "Sfoglia il catalogo di Ceramica Simas: collezioni di sanitari bagno, lavabi e arredo bagno made in Italy",
@@ -131,13 +121,13 @@
     },
     {
         "link": "https://jdonovanlaw.ca",
-        "Heading": "Family, Criminal & Civil Lawyers in NB | J. Donovan Law Group",
-        "Abstract": "J. Donovan Law Group provides family, criminal, real estate, wills, estates, mediation, and civil litigation services across New Brunswick.",
-        "Official Site": "https://www.jdonovanlaw.ca/",
-        "Icon": "https://jdonovanlaw.ca/wp-content/uploads/2020/06/DLG_favicon.png",
-        "Redirect": "https://www.jdonovanlaw.ca/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://jdonovanlaw.ca",
+        "Icon": "data:;",
+        "Redirect": "https://jdonovanlaw.ca",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.jdonovanlaw.ca/"
+        "AbstractURL": "https://jdonovanlaw.ca"
     },
     {
         "link": "https://gringosoysterbar.com",

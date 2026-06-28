@@ -80,16 +80,6 @@
         "AbstractURL": "https://spectropop.com"
     },
     {
-        "link": "https://it-people.co.za",
-        "Heading": "CREATING BETTER IT SOLUTIONS - IT People",
-        "Abstract": "We assist companies with their IT support, custom software design, web applications, graphic design & digital marketing.",
-        "Official Site": "https://www.itpeople.co.za/",
-        "Icon": "https://www.itpeople.co.za/wp-content/uploads/2023/06/it-favicon.png",
-        "Redirect": "https://www.itpeople.co.za/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.itpeople.co.za/"
-    },
-    {
         "link": "https://arlingtonschools.org",
         "Heading": "Client Challenge",
         "Abstract": null,
@@ -208,6 +198,16 @@
         "Redirect": "https://www.globalcardmart.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.globalcardmart.com/"
+    },
+    {
+        "link": "https://4-dosug.com",
+        "Heading": "4-dosug.com",
+        "Abstract": null,
+        "Official Site": "https://4-dosug.com",
+        "Icon": "N/A",
+        "Redirect": "https://4-dosug.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://4-dosug.com"
     },
     {
         "link": "https://marcofellner.at",

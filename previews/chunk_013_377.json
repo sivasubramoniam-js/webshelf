@@ -131,10 +131,10 @@
     },
     {
         "link": "https://next14.com",
-        "Heading": "Next Different",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://next14.com",
-        "Icon": "https://nextdifferent.com/wp-content/uploads/2024/10/cropped-favicon-100x100.webp",
+        "Icon": "data:;",
         "Redirect": "https://next14.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://next14.com"
@@ -190,6 +190,16 @@
         "AbstractURL": "https://art-graphic.com"
     },
     {
+        "link": "https://whitepeak.com.au",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://whitepeak.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://whitepeak.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://whitepeak.com.au"
+    },
+    {
         "link": "https://kanetetsu.com",
         "Heading": "\u3068\u30c6\u30c4\u3082\u306a\u3044\u305c\u3002\u30ab\u30cd\u30c6\u30c4\u30c7\u30ea\u30ab\u30d5\u30fc\u30ba\u682a\u5f0f\u4f1a\u793e\n\u2013 \u30ab\u30cd\u30c6\u30c4\u30c7\u30ea\u30ab\u30d5\u30fc\u30ba\u682a\u5f0f\u4f1a\u793e\u30b3\u30fc\u30dd\u30ec\u30fc\u30c8\u30b5\u30a4\u30c8",
         "Abstract": "\u300c\u3066\u3063\u3061\u3083\u3093\u300d\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3067\u304a\u306a\u3058\u307f\u3002\u304b\u307e\u307c\u3053\u3001\u3061\u304f\u308f\u306a\u3069\u306e\u7df4\u308a\u88fd\u54c1\u306e\u5546\u54c1\u7d39\u4ecb\u3092\u306f\u3058\u3081\u3001\u30ab\u30cd\u30c6\u30c4\u88fd\u54c1\u3092\u4f7f\u3063\u305f\u30aa\u30ea\u30b8\u30ca\u30eb\u30ec\u30b7\u30d4\u3092\u7d39\u4ecb\u3057\u3066\u3044\u307e\u3059\u3002\u3068\u30c6\u30c4\u3082\u306a\u3044\u305c\u3002\u30ab\u30cd\u30c6\u30c4\u30c7\u30ea\u30ab\u30d5\u30fc\u30ba\u682a\u5f0f\u4f1a\u793e",
@@ -198,16 +208,6 @@
         "Redirect": "https://www.kanetetsu.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.kanetetsu.com/"
-    },
-    {
-        "link": "https://compassionfatigue.org",
-        "Heading": "Compassion Fatigue Awareness Project - Home",
-        "Abstract": "Compassion fatigue is a broadly defined concept  that can include emotional, physical, and spiritual  distress in those providing care to another. It is  associated with caregiving where people or animals  are experiencing significant emotional or ph",
-        "Official Site": "http://compassionfatigue.org/",
-        "Icon": "http://compassionfatigue.org/uploads/1/3/7/9/137936581/editor/cfap-frontpage.png?1624752317",
-        "Redirect": "http://compassionfatigue.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://compassionfatigue.org/"
     },
     {
         "link": "https://lapagelocale.fr",

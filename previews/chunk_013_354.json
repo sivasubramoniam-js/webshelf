@@ -34,7 +34,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://funkykeel.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://funkykeel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://funkykeel.com"
@@ -98,26 +98,6 @@
         "Redirect": "https://piranha-bytes.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://piranha-bytes.com"
-    },
-    {
-        "link": "https://novawoodcapital.com",
-        "Heading": "Home | Novawood Capital",
-        "Abstract": "Live Charts with Indicators, Foreign Exchange Market Trading Methods, Hours, Sessions, & Plans, Major and Minor Pairs Currency, Bullish and Bearish Divergence.",
-        "Official Site": "./",
-        "Icon": "./assets/images/favicon.png",
-        "Redirect": "./",
-        "AbstractSource": "BS4",
-        "AbstractURL": "./"
-    },
-    {
-        "link": "https://shadeplace.com",
-        "Heading": "Window Treatment Store, Custom Vertical Window Blinds, Roller Shades, Sheer Window Shades, Solar Shades, Woven Wood Shades, Roman Window Shades, Hunter Douglas Blinds, Window Treatments & Vertical Blinds Hoboken NJ - Shade Place by Stephan",
-        "Abstract": "Shade Place by Stephan specializes in custom blinds, shades, and window treatments for every style and space in Hoboken NJ. Visit us today to learn more!",
-        "Official Site": "https://shadeplacebystephan.com/",
-        "Icon": "https://shadeplacebystephan.com/wp-content/uploads/2025/10/Layered-Treatments-with-Hunter-Douglas.webp",
-        "Redirect": "https://shadeplacebystephan.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shadeplacebystephan.com/"
     },
     {
         "link": "https://topbilet.kz",
@@ -221,13 +201,13 @@
     },
     {
         "link": "https://bigwinpictures.com",
-        "Heading": "Big Win Pictures - BigWinPictures",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://bigwinpictures.com/",
-        "Icon": "https://bigwinpictures.com/wp-content/uploads/BigWinPictures-Logo-subscribers-125x125.jpg",
-        "Redirect": "https://bigwinpictures.com/",
+        "Official Site": "https://bigwinpictures.com",
+        "Icon": "data:;",
+        "Redirect": "https://bigwinpictures.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bigwinpictures.com/"
+        "AbstractURL": "https://bigwinpictures.com"
     },
     {
         "link": "https://zdorovie-vn.ru",
@@ -298,15 +278,5 @@
         "Redirect": "https://www.hilaine.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hilaine.com/"
-    },
-    {
-        "link": "https://civiccouncil.info",
-        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f - \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0439 \u0421\u043e\u0432\u0435\u0442",
-        "Abstract": "\u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0439 \u0421\u043e\u0432\u0435\u0442 \u041c\u044b, \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0435 \u0420\u043e\u0441\u0441\u0438\u0438, \u0432\u043e\u044e\u044e\u0449\u0438\u0435 \u043f\u0440\u043e\u0442\u0438\u0432 \u043f\u0443\u0442\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0440\u0435\u0436\u0438\u043c\u0430 \u0437\u0430 \u043b\u0443\u0447\u0448\u0435\u0435 \u0431\u0443\u0434\u0443\u0449\u0435\u0435 \u0434\u043b\u044f \u043d\u0430\u0448\u0435\u0439 \u0440\u043e\u0434\u0438\u043d\u044b. \u041e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u043c \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c, \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u043a, \u043f\u0440\u0430\u0432\u043e\u0441\u0443\u0434\u0438\u0435 \u0438 \u0441\u0432\u043e\u0431\u043e\u0434\u0443 \u043a\u0430\u0436\u0434\u043e\u043c\u0443!\u041d\u0430\u0448\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430: \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u0413\u0432\u0430\u0440\u0434\u0438\u044f, \u0413\u0440\u0430\u0436\u0434\u0430\u043d\u0441\u043a\u0438\u0439 \u0422\u0440\u0438\u0431\u0443\u043d\u0430\u043b, \u0414\u0435\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f, \u0420\u0435\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u044f. \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0421\u0442\u0430\u0442\u044c \u0434\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0446\u0435\u043c \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0421\u0442\u0430\u0442\u044c \u0434\u043e\u0431\u0440\u043e\u0432\u043e\u043b\u044c\u0446\u0435\u043c \u041d\u0430\u0448\u0438 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0412\u0441\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0411\u043e\u0440\u0438\u0441\u044c \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u043d\u0430\u043c\u0438! \u041d\u0435 \u0432\u0441\u0435 \u043c\u043e\u0433\u0443\u0442 \u0441\u0440\u0430\u0436\u0430\u0442\u044c\u0441\u044f \u0441 \u043e\u0440\u0443\u0436\u0438\u0435\u043c \u0432 \u0440\u0443\u043a\u0430\u0445, \u043d\u043e \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u0412\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u043e\u043c [\u2026]",
-        "Official Site": "https://civiccouncil.info/",
-        "Icon": "https://civiccouncil.info/wp-content/uploads/2023/06/\u0413\u0421-\u043b\u043e\u0433\u043e_\u0441\u044c\u044e\u0442\u043a\u0435\u0439\u0441_00-1-150x150.jpg",
-        "Redirect": "https://civiccouncil.info/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://civiccouncil.info/"
     }
 ]

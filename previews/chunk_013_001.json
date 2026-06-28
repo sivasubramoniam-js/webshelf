@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://maxgrup.ro",
-        "Heading": "Max Grup \u2013 Max Grup Company",
-        "Abstract": null,
-        "Official Site": "https://maxgrup.ro",
-        "Icon": "N/A",
-        "Redirect": "https://maxgrup.ro",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://maxgrup.ro"
-    },
-    {
         "link": "https://ccbbu.com",
         "Heading": null,
         "Abstract": null,
@@ -41,13 +31,13 @@
     },
     {
         "link": "https://bloggerjet.com",
-        "Heading": "BloggerJet | Your Hub for Online Marketing Tools",
-        "Abstract": "Your Hub for Online Marketing Tools",
-        "Official Site": "https://bloggerjet.com/",
-        "Icon": "https://bloggerjet.com/img/cropped-bloggerjet-new-favicon-32x32.png",
-        "Redirect": "https://bloggerjet.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bloggerjet.com",
+        "Icon": "data:;",
+        "Redirect": "https://bloggerjet.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bloggerjet.com/"
+        "AbstractURL": "https://bloggerjet.com"
     },
     {
         "link": "https://awtv.ru",
@@ -200,18 +190,8 @@
         "AbstractURL": "https://vivanti.ru"
     },
     {
-        "link": "https://camara-e.net",
-        "Heading": "Home - Camara-e.net",
-        "Abstract": null,
-        "Official Site": "https://camara-e.net/",
-        "Icon": "https://camara-e.net/wp-content/uploads/2025/05/fav-camara.png#15",
-        "Redirect": "https://camara-e.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://camara-e.net/"
-    },
-    {
         "link": "https://puretechdsm.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://puretechdsm.com",
         "Icon": "N/A",
@@ -250,16 +230,6 @@
         "AbstractURL": "http://revclinesp.es/"
     },
     {
-        "link": "https://michuhol.go.kr",
-        "Heading": "\uc778\ucc9c\uad11\uc5ed\uc2dc \ubbf8\ucd94\ud640\uad6c ",
-        "Abstract": "\uc778\ucc9c\uad11\uc5ed\uc2dc \ubbf8\ucd94\ud640\uad6c \ub300\ud45c \ub204\ub9ac\uc9d1\uc785\ub2c8\ub2e4.",
-        "Official Site": "https://www.michuhol.go.kr/main/main.do?",
-        "Icon": "https://www.michuhol.go.kr/main/images/opengraph.png",
-        "Redirect": "https://www.michuhol.go.kr/main/main.do?",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.michuhol.go.kr/main/main.do?"
-    },
-    {
         "link": "https://vilvoorde.be",
         "Heading": "Startpagina - stad Vilvoorde",
         "Abstract": "Offici\u00eble site van de stad Vilvoorde met nieuws, activiteitenkalender, informatie over de diensten en een e-loket.",
@@ -268,16 +238,6 @@
         "Redirect": "https://www.vilvoorde.be",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.vilvoorde.be"
-    },
-    {
-        "link": "https://cashmatters.org",
-        "Heading": "Cash Matters - A Pro-Cash Movement",
-        "Abstract": null,
-        "Official Site": "https://cashmatters.org",
-        "Icon": "/static/favicon.jpg",
-        "Redirect": "https://cashmatters.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cashmatters.org"
     },
     {
         "link": "https://vmasideas.mx",

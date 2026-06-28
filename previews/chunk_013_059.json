@@ -60,16 +60,6 @@
         "AbstractURL": "https://www.pixsys.net"
     },
     {
-        "link": "https://pjcyh.com",
-        "Heading": "google",
-        "Abstract": null,
-        "Official Site": "https://pjcyh.com",
-        "Icon": "N/A",
-        "Redirect": "https://pjcyh.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pjcyh.com"
-    },
-    {
         "link": "https://plctoolboxsupply.com",
         "Heading": "Home-Shop - PLC Toolbox Supply",
         "Abstract": "Your Source for Reliable Industrial Automation Equipment and Networking Solutions! Search Shop Now Contact Us Featured Products NEW BURNDY Q2A40-4N LUGS 4 HOLE 60 KCMIL 800 *READ* Buy It NowRequest Quote LOT OF 7 NEW THOMAS & BETTS 268 9P DEG BOX CONNECTOR 1/2\u2033 Buy It NowRequest Quote LOT OF 6 NEW THOMAS & BETTS",
@@ -261,13 +251,13 @@
     },
     {
         "link": "https://rdrive.io",
-        "Heading": "Progress Monitoring & Reporting Software | RDrive by SnagR",
-        "Abstract": "RDrive is progress monitoring software that helps teams capture field data and automate reporting for faster, smarter project delivery.",
-        "Official Site": "https://rdrive.io/en/",
-        "Icon": "https://rdrive.io/wp-content/uploads/2025/09/social-share.png",
-        "Redirect": "https://rdrive.io/en/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://rdrive.io",
+        "Icon": "data:;",
+        "Redirect": "https://rdrive.io",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rdrive.io/en/"
+        "AbstractURL": "https://rdrive.io"
     },
     {
         "link": "https://readefined.com",
@@ -318,16 +308,6 @@
         "Redirect": "https://reimers.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://reimers.ca/"
-    },
-    {
-        "link": "https://relymedia.com",
-        "Heading": "RELYmedia - Promotional Products",
-        "Abstract": "RELYmedia offers innovative promotional products and exceptional service. Browse our catalog of custom promotional items.",
-        "Official Site": "https://www.relymedia.com",
-        "Icon": "/images/favicon.ico",
-        "Redirect": "https://www.relymedia.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.relymedia.com"
     },
     {
         "link": "https://repaircost.net",

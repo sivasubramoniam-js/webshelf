@@ -50,16 +50,6 @@
         "AbstractURL": "https://ics-embedded.com"
     },
     {
-        "link": "https://ideus.pl",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ideus.pl",
-        "Icon": "./Inc/Layout/Images/Favicons/favicon.ico",
-        "Redirect": "https://ideus.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ideus.pl"
-    },
-    {
         "link": "https://igro24.de",
         "Heading": "igro24",
         "Abstract": null,
@@ -250,16 +240,6 @@
         "AbstractURL": "https://www.iropes.com/"
     },
     {
-        "link": "https://isaacelitetime.com",
-        "Heading": "Isaac Elite Time \u2013 Luxury Watches In Nyc",
-        "Abstract": null,
-        "Official Site": "https://isaacelitetime.com",
-        "Icon": "https://isaacelitetime.com/wp-content/uploads/2022/12/7a8a7df0-0ba0-4c34-a573-917ac706bdca-100x100.jpg",
-        "Redirect": "https://isaacelitetime.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://isaacelitetime.com"
-    },
-    {
         "link": "https://ixm.co.uk",
         "Heading": "ixm.co.uk",
         "Abstract": null,
@@ -331,10 +311,10 @@
     },
     {
         "link": "https://jobs-bayreuth.de",
-        "Heading": "Stellenangebote Bayreuth - Ihre aktuelle Jobb\u00f6rse f\u00fcr Bayreuth und Umgebung",
-        "Abstract": "T\u00e4glich aktuelle und neue Stellenangebote f\u00fcr die Region Bayreuth. Finden Sie aus 7.001 passenden Jobs in Bayreuth und Umgebung, Ihre neue Stelle. Ihre regionale Jobb\u00f6rse jobs-bayreuth.de | 2026",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://jobs-bayreuth.de",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://jobs-bayreuth.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jobs-bayreuth.de"
