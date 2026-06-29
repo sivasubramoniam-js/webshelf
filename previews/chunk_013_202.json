@@ -10,6 +10,16 @@
         "AbstractURL": "https://kforum.dk"
     },
     {
+        "link": "https://stie-wikara.ac.id",
+        "Heading": "STIE Wikara - Sekolah Tinggi Ilmu Ekonomi Terbaik di Purwakarta",
+        "Abstract": "STIE Purwakarta adalah Sekolah Tinggi Ilmu Ekonomi di Purwakarta yang unggul dalam pendidikan bisnis & manajemen. Daftar sekarang!",
+        "Official Site": "https://stie-wikara.ac.id/",
+        "Icon": "https://stie-wikara.ac.id/wp-content/uploads/2025/03/logo_stie_wikara_webp.webp",
+        "Redirect": "https://stie-wikara.ac.id/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stie-wikara.ac.id/"
+    },
+    {
         "link": "https://ikkudoichi.com",
         "Heading": "Ikkudo Ichi: Restoran Ramen Dengan Cita Rasa Khas Jepang di Kota Jakarta",
         "Abstract": "Ikkudo Ichi adalah restoran ramen khas Jepang yang menghadirkan cita rasa ramen Jepang yang otentik dan memanjakan lidah. Suasana restorannya yang nyaman serta komitmen pada kualitas menjadikan Ikkudo Ichi tempat yang tepat untuk menikmati semangkuk ramen di kota Jakarta.",
@@ -32,12 +42,12 @@
     {
         "link": "https://ippodromisnai.it",
         "Heading": "Ippodromi SNAI - Ippodromo SNAI San Siro - Ippodromo SNAI Sesana",
-        "Abstract": "",
-        "Official Site": "https://www.ippodromisnai.it/",
-        "Icon": "https://www.ippodromisnai.it/wp-content/themes/snaitheme18/images/favicon.ico",
-        "Redirect": "https://www.ippodromisnai.it/",
+        "Abstract": "Il sito ufficiale dell'Ippodromo Snai San Siro di Milano e dell'Ippodromo Snai Sesana di Montecatini. Organizziamo corse ippiche di Galoppo e Trotto ed ospitiamo Eventi Business o Privati.",
+        "Official Site": "https://ippodromisnai.it",
+        "Icon": "/favicon.svg",
+        "Redirect": "https://ippodromisnai.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ippodromisnai.it/"
+        "AbstractURL": "https://ippodromisnai.it"
     },
     {
         "link": "https://elbowchocolates.com",
@@ -218,6 +228,16 @@
         "Redirect": "https://infiniteplanners.com.mx",
         "AbstractSource": "BS4",
         "AbstractURL": "https://infiniteplanners.com.mx"
+    },
+    {
+        "link": "https://soperth.com.au",
+        "Heading": "So Perth | Making Your Perth Day Better",
+        "Abstract": "What's on in Perth \u2014 So Perth provides the latest Perth news & things to do, see, eat & drink in Perth. Join Perth's most engaged community.",
+        "Official Site": "https://soperth.com.au",
+        "Icon": "https://soperth.com.au/wp-content/uploads/2024/09/The-Best-of-Perth-and-WA.jpg",
+        "Redirect": "https://soperth.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soperth.com.au"
     },
     {
         "link": "https://diveindustry.ru",

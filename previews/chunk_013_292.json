@@ -61,13 +61,23 @@
     },
     {
         "link": "https://theginisin.com",
-        "Heading": "The GIN is IN\u00e2\u20ac\u201d Expert Gin Reviews since 2009",
+        "Heading": "The GIN is IN, Expert Gin Reviews since 2009",
         "Abstract": "Over 1000 Reviews of gin and gin cocktails. All with their flavors visualized to help you find gins that match your personal taste",
         "Official Site": "https://theginisin.com/",
         "Icon": "https://theginisin.com/wp-content/uploads/2026/02/Screenshot-2026-02-15-at-5.37.09-PM-1024x428.png",
         "Redirect": "https://theginisin.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theginisin.com/"
+    },
+    {
+        "link": "https://hawkwatch.org",
+        "Heading": "HawkWatch International \u2013 Conserving raptors and our shared environment",
+        "Abstract": null,
+        "Official Site": "https://hawkwatch.org",
+        "Icon": "https://hawkwatch.org/wp-content/uploads/2023/03/cropped-Transparent-white-logo-for-beanie-32x32.png",
+        "Redirect": "https://hawkwatch.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hawkwatch.org"
     },
     {
         "link": "https://protectmydevices.net",
@@ -160,6 +170,16 @@
         "AbstractURL": "https://tyronyxtrd.live"
     },
     {
+        "link": "https://hostcubit.com",
+        "Heading": "Servicios web server administrado - alojamiento web - HOSTCUBIT",
+        "Abstract": "Plataformas Web Hosting (VPS, bases de datos MariaDB, relay server, wordpress), configuradas para ofrecer el m\u00e1ximo rendimiento, estabilidad y seguridad.",
+        "Official Site": "https://hostcubit.com",
+        "Icon": "N/A",
+        "Redirect": "https://hostcubit.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hostcubit.com"
+    },
+    {
         "link": "https://cgls.de",
         "Heading": "\n                    IServ - cgls.de\n            ",
         "Abstract": null,
@@ -211,13 +231,23 @@
     },
     {
         "link": "https://freechurch.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://freechurch.org",
-        "Icon": "data:;",
-        "Redirect": "https://freechurch.org",
+        "Heading": "Free Church of Scotland",
+        "Abstract": "God\u2019s message of love and hope shapes all we do as a Reformed Presbyterian denomination, and is our main message to Scotland and the world.",
+        "Official Site": "https://freechurch.org/",
+        "Icon": "https://freechurch.org/wp-content/uploads/2022/01/FCOS_01c.jpg",
+        "Redirect": "https://freechurch.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://freechurch.org"
+        "AbstractURL": "https://freechurch.org/"
+    },
+    {
+        "link": "https://isitio.net",
+        "Heading": "MagicAngel Support Page",
+        "Abstract": "Support and Login Page for MagicAngel.net",
+        "Official Site": "https://isitio.net",
+        "Icon": "N/A",
+        "Redirect": "https://isitio.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://isitio.net"
     },
     {
         "link": "https://defresart.com",

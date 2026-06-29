@@ -30,6 +30,16 @@
         "AbstractURL": "https://altai.travel"
     },
     {
+        "link": "https://cherry-world.com",
+        "Heading": "CHERRY | Welcome to the World of CHERRY - Cherry",
+        "Abstract": "Discover the largest selection of CHERRY products: Mechanical switches \u2713 Gaming \u2713 Office & Home Office \u2713 Industrial \u2713 Cybersecurity \u2713 Healthcare Solutions \u2713 Original CHERRY here!",
+        "Official Site": "https://cherry-world.com",
+        "Icon": "https://www.cherry.de/fileadmin/_processed_/3/d/csm_CHERRY-Enter-Excellence_95169a5331.png",
+        "Redirect": "https://cherry-world.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cherry-world.com"
+    },
+    {
         "link": "https://twistedasian.com",
         "Heading": "Asian Porn Site - 100% asian only | Twistedasian.com",
         "Abstract": "Asian porn tube site focused on 100% asian porn. Japanese, Korean, Thai and other hot asian girls. All videos are in HD and for FREE.",
@@ -140,6 +150,16 @@
         "AbstractURL": "https://vacationtrackingforum.com"
     },
     {
+        "link": "https://progressivebritain.org",
+        "Heading": "Home - Progress",
+        "Abstract": "Progress is the platform for policymaking, political education, and imaginative thinking to rebuild Labour and the Nation.",
+        "Official Site": "https://www.progressonline.org.uk/",
+        "Icon": "https://www.progressonline.org.uk/wp-content/uploads/2026/01/progress-favicon.png",
+        "Redirect": "https://www.progressonline.org.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.progressonline.org.uk/"
+    },
+    {
         "link": "https://clenchinfer.com",
         "Heading": "Google",
         "Abstract": null,
@@ -151,13 +171,23 @@
     },
     {
         "link": "https://abclifeliteracy.ca",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://abclifeliteracy.ca",
-        "Icon": "data:;",
-        "Redirect": "https://abclifeliteracy.ca",
+        "Heading": "ABC Life Literacy Canada | A National Literacy Organization",
+        "Abstract": "ABC Life Literacy Canada is a national charitable organization that champions literacy by empowering adult learners, raising awareness, and supporting the adult learning sector.",
+        "Official Site": "https://abclifeliteracy.ca/",
+        "Icon": "https://abclifeliteracy.ca/wp-content/uploads/Home-Banner-1200x-12.jpg",
+        "Redirect": "https://abclifeliteracy.ca/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://abclifeliteracy.ca"
+        "AbstractURL": "https://abclifeliteracy.ca/"
+    },
+    {
+        "link": "https://mariopeshev.com",
+        "Heading": "Mario Peshev - Fractional Technical Value Creation Advisor",
+        "Abstract": "Building execution systems for PE-backed mid-market companies. Operational efficiency, GTM, risk mitigation via DevriX and Growth Shuttle.",
+        "Official Site": "https://mariopeshev.com/",
+        "Icon": "https://cdn-acojl.nitrocdn.com/mdqikLgfKYGSrbmTldEJjFfznWndiqoY/assets/images/optimized/rev-32ecca7/mariopeshev.com/wp-content/uploads/2018/08/devrix-mario-thinking-avatar-200x200-150x150.jpg",
+        "Redirect": "https://mariopeshev.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mariopeshev.com/"
     },
     {
         "link": "https://getearlybird.io",
@@ -171,13 +201,13 @@
     },
     {
         "link": "https://brokeandchic.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://brokeandchic.com",
-        "Icon": "data:;",
-        "Redirect": "https://brokeandchic.com",
+        "Heading": "Broke and Chic - Budget friendly fashion, beauty and health tips",
+        "Abstract": "Budget friendly fashion, beauty and health tips",
+        "Official Site": "https://brokeandchic.com/",
+        "Icon": "https://brokeandchic.com/wp-content/uploads/2015/03/apple-icon-180x180.png",
+        "Redirect": "https://brokeandchic.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://brokeandchic.com"
+        "AbstractURL": "https://brokeandchic.com/"
     },
     {
         "link": "https://taxi-svoi.ru",
@@ -220,6 +250,16 @@
         "AbstractURL": "https://annubel.com"
     },
     {
+        "link": "https://elkandelk.com",
+        "Heading": "Ohio Personal Injury Lawyers | Elk + Elk, Every Client. Every Day.",
+        "Abstract": "Ohio personal injury lawyers with 50+ years of experience and over $2 billion recovered for clients. Free consultation. Call 1-800-ELK-OHIO.",
+        "Official Site": "https://www.elkandelk.com/",
+        "Icon": "https://www.elkandelk.com/wp-content/uploads/2019/04/favicon-1.png",
+        "Redirect": "https://www.elkandelk.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.elkandelk.com/"
+    },
+    {
         "link": "https://ultimatehackingkeyboard.com",
         "Heading": "Ultimate Hacking Keyboard - The keyboard. For professionals.",
         "Abstract": null,
@@ -248,5 +288,15 @@
         "Redirect": "https://playbovadaus.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://playbovadaus.com"
+    },
+    {
+        "link": "https://ekorol.info",
+        "Heading": "Drukarnia etykiet Pozna\u0144 oraz producent etykiet | Ekorol",
+        "Abstract": "Etykiety samoprzylepne, naklejki samoprzylepne i opakowania z nadrukiem. Atrakcyjne ceny, szybka realizacja i wysoka jako\u015b\u0107. Ekorol.info - zapraszamy",
+        "Official Site": "https://www.ekorol.info/",
+        "Icon": "https://www.ekorol.info/ekorol/img/favicon.png",
+        "Redirect": "https://www.ekorol.info/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ekorol.info/"
     }
 ]

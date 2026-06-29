@@ -31,13 +31,23 @@
     },
     {
         "link": "https://flashfictionmagazine.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://flashfictionmagazine.com",
-        "Icon": "data:;",
-        "Redirect": "https://flashfictionmagazine.com",
+        "Heading": "Flash Fiction Magazine \u2013 Daily Flash Fiction Stories",
+        "Abstract": "We publish one flash fiction story a day. Flash fiction stories are 1000 words or less. Visit our site to read a variety of stories or submit your own.",
+        "Official Site": "https://flashfictionmagazine.com/",
+        "Icon": "https://flashfictionmagazine.com/wp-content/uploads/2019/12/5-minutes.png",
+        "Redirect": "https://flashfictionmagazine.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://flashfictionmagazine.com"
+        "AbstractURL": "https://flashfictionmagazine.com/"
+    },
+    {
+        "link": "https://ville-firminy.fr",
+        "Heading": "Accueil - Ville de Firminy \u2013 Site officiel",
+        "Abstract": "Bienvenue sur le site officiel de Firminy (42). Retrouvez toutes les informations, actualit\u00e9s et services dont vous avez besoin : Site Le Corbusier, d\u00e9marches en ligne et services, actualit\u00e9s\u2026",
+        "Official Site": "https://www.ville-firminy.fr/",
+        "Icon": "https://www.ville-firminy.fr/wp-content/uploads/2019/07/favicon.png",
+        "Redirect": "https://www.ville-firminy.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ville-firminy.fr/"
     },
     {
         "link": "https://signalfoundation.org",
@@ -61,13 +71,13 @@
     },
     {
         "link": "https://couragetoresist.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://couragetoresist.org",
-        "Icon": "data:;",
-        "Redirect": "https://couragetoresist.org",
+        "Heading": "Courage to Resist - Supporting Military War Resisters (2004-2024)",
+        "Abstract": "Courage to Resist was an Oakland CA based organized that supported US military war resisters, conscientious objectors, and truth tellers.",
+        "Official Site": "https://couragetoresist.org/",
+        "Icon": "https://couragetoresist.org/wp-content/uploads/2018/10/didnt-enlist-man3.jpg",
+        "Redirect": "https://couragetoresist.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://couragetoresist.org"
+        "AbstractURL": "https://couragetoresist.org/"
     },
     {
         "link": "https://kenminhall.com",

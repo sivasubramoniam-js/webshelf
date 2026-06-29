@@ -31,10 +31,10 @@
     },
     {
         "link": "https://srcsolucoes.inf.br",
-        "Heading": "One moment, please...",
+        "Heading": "SRC Solu\u00e7\u00f5es em Redes",
         "Abstract": null,
         "Official Site": "https://srcsolucoes.inf.br",
-        "Icon": "N/A",
+        "Icon": "https://www.srcsolucoes.inf.br/wp-content/themes/SRC/assets/img/favicon.png",
         "Redirect": "https://srcsolucoes.inf.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://srcsolucoes.inf.br"
@@ -138,6 +138,16 @@
         "Redirect": "https://renjiabari.asia",
         "AbstractSource": "BS4",
         "AbstractURL": "https://renjiabari.asia"
+    },
+    {
+        "link": "https://voipbel.net",
+        "Heading": "VoIPBel Internettelefonie",
+        "Abstract": null,
+        "Official Site": "https://voipbel.net",
+        "Icon": "https://www.voipbel.nl/wp-content/uploads/2021/03/logo-vierkant-150x150.jpg",
+        "Redirect": "https://voipbel.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://voipbel.net"
     },
     {
         "link": "https://pfennigparade.de",

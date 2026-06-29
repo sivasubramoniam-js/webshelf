@@ -101,13 +101,13 @@
     },
     {
         "link": "https://epyx.co.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://epyx.co.uk",
-        "Icon": "data:;",
-        "Redirect": "https://epyx.co.uk",
+        "Heading": "epyx - Technology Solutions for the Automotive Sector",
+        "Abstract": "epyx Ltd provide technology solutions enabling the procurement, servicing, repair, hire and sale of more than five million vehicles a year. Learn about our Ecosystem here.",
+        "Official Site": "https://www.epyx.co.uk/",
+        "Icon": "https://epyx.co.uk/wp-content/uploads/2022/06/cropped-Digital.jpg",
+        "Redirect": "https://www.epyx.co.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://epyx.co.uk"
+        "AbstractURL": "https://www.epyx.co.uk/"
     },
     {
         "link": "https://jornalfax.net",
@@ -210,6 +210,16 @@
         "AbstractURL": "https://ettijah.org.sa"
     },
     {
+        "link": "https://nelog.jp",
+        "Heading": "\u5bdd\u30ed\u30b0  |  \u5bdd\u306a\u304c\u3089\u51fa\u6765\u308b\u30b3\u30c8\u3084\u4f7f\u3048\u308b\u30e2\u30ce\u3092\u7d39\u4ecb",
+        "Abstract": "\u5bdd\u306a\u304c\u3089\u51fa\u6765\u308b\u30b3\u30c8\u3084\u4f7f\u3048\u308b\u30e2\u30ce\u3092\u7d39\u4ecb",
+        "Official Site": "https://nelog.jp",
+        "Icon": "http://nelog.jp/wp-content/uploads/2016/03/12001060_1133315893363425_2026224785753303593_o.jpg",
+        "Redirect": "https://nelog.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nelog.jp"
+    },
+    {
         "link": "https://manoirsaintemarie.com",
         "Heading": "Vavada Casino Latvija \u2b50 Sa\u0146em 100 bezmaksas griezienus un 1000\u20ac bonusu!",
         "Abstract": "Ofici\u0101l\u0101 Vavada kazino vietne Latvij\u0101 \u2705 re\u0123istr\u0113jies un ieg\u016bsti 100 bezmaksas griezienus + 10% naudas atmaksu katru m\u0113nesi \ud83c\udf81",
@@ -303,11 +313,11 @@
         "link": "https://elementpack.pro",
         "Heading": "Element Pack Pro \u2013 300+ Elementor Widgets & 2700+ Templates",
         "Abstract": "Enhance your Elementor experience with 300+ advanced widgets, 2,700+ ready-made templates, Live Copy Paste, Mega Menu Builder, Theme Builder, and more. Starts from $27/year.",
-        "Official Site": "https://www.elementpack.pro",
+        "Official Site": "https://www.elementpack.pro/",
         "Icon": "https://www.elementpack.pro/element-pack-pro-site-thumbnail.webp",
-        "Redirect": "https://www.elementpack.pro",
+        "Redirect": "https://www.elementpack.pro/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.elementpack.pro"
+        "AbstractURL": "https://www.elementpack.pro/"
     },
     {
         "link": "https://dondiablo.com",
@@ -338,5 +348,15 @@
         "Redirect": "https://dreamsandideas.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dreamsandideas.com"
+    },
+    {
+        "link": "https://quintonpardee.top",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://quintonpardee.top",
+        "Icon": "N/A",
+        "Redirect": "https://quintonpardee.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://quintonpardee.top"
     }
 ]

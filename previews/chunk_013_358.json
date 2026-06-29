@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://thekitchykitchen.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://thekitchykitchen.com",
-        "Icon": "data:;",
-        "Redirect": "https://thekitchykitchen.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thekitchykitchen.com"
-    },
-    {
         "link": "https://casavieja-restaurant.com",
         "Heading": "Casa Vieja - Canyon Country, Santa Clarita, CA",
         "Abstract": "Built around tradition and everyday comfort, this bar and grill brings people together over a broad menu that reflects both classic house favorites and seafood specialties. Casa Vieja serves...",
@@ -48,6 +38,16 @@
         "Redirect": "https://ren-finthra.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ren-finthra.net/"
+    },
+    {
+        "link": "https://zevraen.space",
+        "Heading": "Zevraen",
+        "Abstract": null,
+        "Official Site": "https://zevraen.space",
+        "Icon": "N/A",
+        "Redirect": "https://zevraen.space",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zevraen.space"
     },
     {
         "link": "https://mysterymod.net",
@@ -131,13 +131,13 @@
     },
     {
         "link": "https://reasonandmeaning.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://reasonandmeaning.com",
-        "Icon": "data:;",
-        "Redirect": "https://reasonandmeaning.com",
+        "Heading": "Reason and Meaning | Philosophical reflections on life, death, and the  meaning of life",
+        "Abstract": "Philosophical reflections on life, death, and the  meaning of life",
+        "Official Site": "https://reasonandmeaning.com/",
+        "Icon": "https://i0.wp.com/reasonandmeaning.com/wp-content/uploads/2015/01/theThinkerIcon-54b03aa4v1_site_icon.png?fit=512%2C512&ssl=1",
+        "Redirect": "https://reasonandmeaning.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://reasonandmeaning.com"
+        "AbstractURL": "https://reasonandmeaning.com/"
     },
     {
         "link": "https://gokhalemethod.com",
@@ -180,14 +180,14 @@
         "AbstractURL": "https://blohost.com"
     },
     {
-        "link": "https://webmatrixhosting.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://webmatrixhosting.net",
-        "Icon": "N/A",
-        "Redirect": "https://webmatrixhosting.net",
+        "link": "https://1010job.com",
+        "Heading": "\u5149\u5e74\u8ffd\u5267 - \u9996\u9875",
+        "Abstract": "\u5149\u5e74\u8ffd\u5267\u6574\u5408\u5f00\u64ad\u65f6\u95f4\u8868\u4e0e\u5267\u96c6\u66f4\u65b0\u5bfc\u822a\u5185\u5bb9\uff0c\u6c47\u603b\u6bcf\u65e5\u64ad\u51fa\u5b89\u6392\u4e0e\u4e0a\u7ebf\u4fe1\u606f\uff0c\u5e2e\u52a9\u6e05\u6670\u89c4\u5212\u8ffd\u5267\u65f6\u95f4\u3002",
+        "Official Site": "https://1010job.com/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://1010job.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://webmatrixhosting.net"
+        "AbstractURL": "https://1010job.com/"
     },
     {
         "link": "https://ratesight.com",
@@ -231,12 +231,22 @@
     },
     {
         "link": "https://mdxczx.com",
-        "Heading": "\u6570\u5b57\u4e61\u6751\u670d\u52a1\u5e73\u53f0",
+        "Heading": "\u5b81\u5fb7\u4e61\u6751\u4ea7\u4e1a\u79d1\u6280\u53d1\u5c55\u6709\u9650\u516c\u53f8",
         "Abstract": null,
         "Official Site": "https://mdxczx.com",
-        "Icon": "./vite.svg",
+        "Icon": "/logo.png",
         "Redirect": "https://mdxczx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mdxczx.com"
+    },
+    {
+        "link": "https://crossingsbrewpub.com",
+        "Heading": "TANGANDEWA : Link Situs Slot Gacor Hari Ini Slot88 Maxwin Gampang Menang",
+        "Abstract": "TANGANDEWA merupakan link situs slot gacor gampang menang hari ini ada bocoran dari provider slot88 anti boncos rtp tertinggi rekomendasi slot777 terupdate.",
+        "Official Site": "https://flamingolandings.com/menu/",
+        "Icon": "https://flamingolandings.com/gambar/favi.png",
+        "Redirect": "https://flamingolandings.com/menu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://flamingolandings.com/menu/"
     }
 ]

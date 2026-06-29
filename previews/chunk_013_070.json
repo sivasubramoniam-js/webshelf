@@ -70,16 +70,6 @@
         "AbstractURL": "https://www.worldodreams.com/"
     },
     {
-        "link": "https://writinginnorthnorfolk.com",
-        "Heading": "writing in north norfolk \u2013 Writer of children's literature, short stories and poetry",
-        "Abstract": "Writer of children's literature, short stories and poetry",
-        "Official Site": "https://writinginnorthnorfolk.com/",
-        "Icon": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-        "Redirect": "https://writinginnorthnorfolk.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://writinginnorthnorfolk.com/"
-    },
-    {
         "link": "https://zeusvision.com.br",
         "Heading": "Zeus Vision \u2013 Monitoramento em Nuvem",
         "Abstract": null,
@@ -108,6 +98,16 @@
         "Redirect": "https://paulnicklen.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://paulnicklen.com"
+    },
+    {
+        "link": "https://eaglestonehosting.com",
+        "Heading": "Eaglestone Hosting \u2013 Powerful Hosting, Unmatched Reliability",
+        "Abstract": null,
+        "Official Site": "https://eaglestonehosting.com",
+        "Icon": "https://eaglestonehosting.com/wp-content/uploads/2026/06/cropped-Logo-46-32x32.png",
+        "Redirect": "https://eaglestonehosting.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eaglestonehosting.com"
     },
     {
         "link": "https://valchev-eng.com",
@@ -151,13 +151,13 @@
     },
     {
         "link": "https://seegreatart.art",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://seegreatart.art",
-        "Icon": "data:;",
-        "Redirect": "https://seegreatart.art",
+        "Heading": "See Great Art - Sharing great art from across North America",
+        "Abstract": "Sharing great art from across North America",
+        "Official Site": "https://www.seegreatart.art/",
+        "Icon": "https://www.seegreatart.art/wp-content/uploads/2020/09/cropped-See-Great-Art-32x32.jpg",
+        "Redirect": "https://www.seegreatart.art/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://seegreatart.art"
+        "AbstractURL": "https://www.seegreatart.art/"
     },
     {
         "link": "https://mujin.co.jp",
@@ -168,6 +168,16 @@
         "Redirect": "/",
         "AbstractSource": "BS4",
         "AbstractURL": "/"
+    },
+    {
+        "link": "https://herita.be",
+        "Heading": "Samen zorgen voor historische plekken | Herita",
+        "Abstract": "Beleef onze historische plekken. Samen zorgen we ervoor dat ze blijven bestaan!",
+        "Official Site": "https://herita.be",
+        "Icon": "https://www.herita.be/sites/default/files/styles/social_media_image/public/2022-05/%C2%A9LUCID_Herita_Herkenrode_074_verkleind.jpg?h=ee7f09fc&itok=BtkcPx98",
+        "Redirect": "https://herita.be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://herita.be"
     },
     {
         "link": "https://datingcritic.org",
@@ -190,6 +200,16 @@
         "AbstractURL": "https://adventurama.com.ar"
     },
     {
+        "link": "https://amarbebsha.com",
+        "Heading": "Best Digital Marketing Agency in BD | Consultancy | Hospitality & Food",
+        "Abstract": "Expert in digital marketing solutions, experienced in the hospitality & food business, and best consultancy services for local and foreign investors.",
+        "Official Site": "http://amarbebsha.com/",
+        "Icon": "https://www.amarbebsha.com/wp-content/uploads/2021/07/amarbebsha-about-us.jpg",
+        "Redirect": "http://amarbebsha.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://amarbebsha.com/"
+    },
+    {
         "link": "https://coinvaultexchange.com",
         "Heading": "CoinVaultExchange.com is for sale | HugeDomains",
         "Abstract": "Providing a surprisingly human shopping experience. Trusted and secure. Millions of domains to choose from.",
@@ -198,6 +218,26 @@
         "Redirect": "https://www.hugeDomains.com/domain_profile.cfm?d=CoinVaultExchange.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=CoinVaultExchange.com"
+    },
+    {
+        "link": "https://serrasultelecom.com.br",
+        "Heading": "SERRASUL \u2013 Internet 100% Fibra \u00d3ptica",
+        "Abstract": null,
+        "Official Site": "https://serrasultelecom.com.br",
+        "Icon": "https://serrasultelecom.com.br/wp-content/uploads/2023/07/cropped-serrasul-icon-32x32.png",
+        "Redirect": "https://serrasultelecom.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://serrasultelecom.com.br"
+    },
+    {
+        "link": "https://backstageviral.com",
+        "Heading": "Back Stage Viral - Posts That Gets Viral",
+        "Abstract": "Posts That Gets Viral",
+        "Official Site": "https://backstageviral.com",
+        "Icon": "https://backstageviral.com/wp-content/uploads/2021/09/cropped-Site-Icon-32x32.png",
+        "Redirect": "https://backstageviral.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://backstageviral.com"
     },
     {
         "link": "https://highfivesfoundation.org",
@@ -251,7 +291,7 @@
     },
     {
         "link": "https://stevemapua.net",
-        "Heading": "SEO Company Phoenix | Lead Generation & Visibility | Link Helpers",
+        "Heading": "#1 Phoenix SEO Company | Get More Leads & Sales | LinkHelpers",
         "Abstract": "Unlock Your Local SEO Potential: Discover where you're invisible on Google and how many jobs you're losing. Book a free 10-min Map Growth Call now!",
         "Official Site": "https://linkhelpers.com/",
         "Icon": "https://linkhelpers.com/wp-content/uploads/2026/02/cropped-cropped-fe1c06b13d53553f7c819f67a7315ff4-32x32.png",

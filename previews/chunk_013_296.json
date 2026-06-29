@@ -140,16 +140,6 @@
         "AbstractURL": "https://finantrixforgesoftware.com"
     },
     {
-        "link": "https://vietnamtravelmart.net",
-        "Heading": "Account Suspended",
-        "Abstract": null,
-        "Official Site": "https://vietnamtravelmart.net",
-        "Icon": "N/A",
-        "Redirect": "https://vietnamtravelmart.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vietnamtravelmart.net"
-    },
-    {
         "link": "https://tribunaloaxaca.gob.mx",
         "Heading": "Poder Judicial del Estado de Oaxaca - ",
         "Abstract": null,
@@ -163,11 +153,11 @@
         "link": "https://dn88s.net",
         "Heading": "DN88 - Link Truy C\u1eadp Trang Ch\u1ee7 DN88.COM Ch\u00e0o Xu\u00e2n T\u1eb7ng 99K",
         "Abstract": "dn88s.net hay hi\u1ec7n l\u00e0 trang ch\u1ee7 duy nh\u1ea5t c\u1ee7a h\u1ec7 th\u1ed1ng DN88. Tham gia t\u1ea1i \u0111\u00e2y \u0111\u1ec3 ch\u01a1i nh\u1eadn khuy\u1ebfn m\u00e3i v\u00e0o xu\u00e2n, ch\u01a1i game casino, c\u00e1 \u0111\u1ed9 th\u1ec3 thao, x\u1ed5 s\u1ed1,....",
-        "Official Site": "https://dn88s.net/",
+        "Official Site": "https://dn88s.net/vi-vn/",
         "Icon": "https://dn88s.net/wp-content/uploads/2025/11/dn88-bia-1.webp",
-        "Redirect": "https://dn88s.net/",
+        "Redirect": "https://dn88s.net/vi-vn/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dn88s.net/"
+        "AbstractURL": "https://dn88s.net/vi-vn/"
     },
     {
         "link": "https://dvkf.com.ua",
@@ -178,6 +168,16 @@
         "Redirect": "https://dvkf.com.ua",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dvkf.com.ua"
+    },
+    {
+        "link": "https://ziener.com",
+        "Heading": "ziener.com - Handschuhe, Ski- und Bikebekleidung - ZIENER - Gloves | Skiwear | Bikewear",
+        "Abstract": "Das Familienunternehmen ZIENER steht seit nahezu acht Jahrzehnten f\u00fcr technisch innovative Handschuhe und Bekleidung in den Kategorien Ski, Bike und Teamwear. Als eine der f\u00fchrenden europ\u00e4ischen Marken im Ski- und Bike-Handschuhbereich, verbindet ZIENER Tradition mit Fortschritt \u2013 in der vierten Fam...",
+        "Official Site": "https://ziener.com/",
+        "Icon": "/templates/ziener/favicon.ico",
+        "Redirect": "https://ziener.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ziener.com/"
     },
     {
         "link": "https://pdfyeah.com",

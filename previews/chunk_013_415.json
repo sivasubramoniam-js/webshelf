@@ -130,6 +130,16 @@
         "AbstractURL": "https://www.ondua.de/"
     },
     {
+        "link": "https://ooberpad.com",
+        "Heading": "Premium Home Theatre Packages & Smart Home Solutions | Ooberpad",
+        "Abstract": "Shop at Ooberpad for premium home theatre packages, luxury audio systems, and smart home solutions. Enjoy personalised service, expert recommendations, and elite brands.",
+        "Official Site": "https://www.ooberpad.com/",
+        "Icon": "//www.ooberpad.com/cdn/shop/files/favicon.png?crop=center&height=32&v=1614299785&width=32",
+        "Redirect": "https://www.ooberpad.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ooberpad.com/"
+    },
+    {
         "link": "https://optikshop.hu",
         "Heading": "Dioptri\u00e1s szem\u00fcveg, szem\u00fcvegkeret \u00e9s napszem\u00fcveg \u2013 rendelj online",
         "Abstract": "Rendelj komplett dioptri\u00e1s szem\u00fcveget, szem\u00fcvegkeretet, napszem\u00fcveget \u00e9s kontaktlencs\u00e9t online. Polaroid, Ray-Ban, Carrera, Vogue \u00e9s tov\u00e1bbi m\u00e1rk\u00e1k.",
@@ -158,16 +168,6 @@
         "Redirect": "https://www.orangetree.in/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.orangetree.in/"
-    },
-    {
-        "link": "https://orczy.com",
-        "Heading": "\nKezd\u0151oldal - Orczy Alkatr\u00e9sz \u00c1ruh\u00e1z \u00e9s Szerviz    ",
-        "Abstract": "H\u00e1ztart\u00e1si g\u00e9p alkatr\u00e9szek \u00e9s szerviz. T\u00f6bb, mint 20000 f\u00e9le cikksz\u00e1m rakt\u00e1rr\u00f3l, t\u00f6bb milli\u00f3 rendel\u00e9sre!",
-        "Official Site": "https://orczy.com/",
-        "Icon": "https://orczy.com//images\\shopdesign\\share_logo.png",
-        "Redirect": "https://orczy.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://orczy.com/"
     },
     {
         "link": "https://ore4x4.pl",
@@ -251,13 +251,13 @@
     },
     {
         "link": "https://ozcanopies.com.au",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ozcanopies.com.au",
-        "Icon": "data:;",
-        "Redirect": "https://ozcanopies.com.au",
+        "Heading": "Ute and 4x4 Accessories Sydney, Australia | Best Prices & Huge Range",
+        "Abstract": "Explore our huge range of high-quality ute accessories, ute canopies, roller shutters, hard lids, roof racks, bullbars, towbars & more.",
+        "Official Site": "https://www.ozcanopies.com.au/",
+        "Icon": "https://www.ozcanopies.com.au/wp-content/uploads/2024/10/about-team-scaled-1.jpg",
+        "Redirect": "https://www.ozcanopies.com.au/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ozcanopies.com.au"
+        "AbstractURL": "https://www.ozcanopies.com.au/"
     },
     {
         "link": "https://paccosmetics.com",
@@ -271,13 +271,13 @@
     },
     {
         "link": "https://pagan-records.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://pagan-records.com",
-        "Icon": "N/A",
-        "Redirect": "https://pagan-records.com",
+        "Heading": "Pagan Records - Sklep Internetowy",
+        "Abstract": "",
+        "Official Site": "https://www.pagan-records.com/",
+        "Icon": "/skins/user/rwd_shoper_5/images/favicon.png",
+        "Redirect": "https://www.pagan-records.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pagan-records.com"
+        "AbstractURL": "https://www.pagan-records.com/"
     },
     {
         "link": "https://pandaloo.ch",
@@ -338,6 +338,16 @@
         "Redirect": "https://pg-securitysystems.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pg-securitysystems.nl"
+    },
+    {
+        "link": "https://pharmacyfreak.com",
+        "Heading": "Pharmacy Freak",
+        "Abstract": "Your ultimate resource for pharmacy education and exam prep. Access drug classifications, Mechanisms of Action (MOA), mock tests, Quizzes, MCQs, pharmacy blogs",
+        "Official Site": "https://pharmacyfreak.com/",
+        "Icon": "https://pharmacyfreak.com/wp-content/uploads/2025/08/cropped-Dental-products-Dentifrices-32x32.png",
+        "Redirect": "https://pharmacyfreak.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pharmacyfreak.com/"
     },
     {
         "link": "https://phoenixshaving.com",

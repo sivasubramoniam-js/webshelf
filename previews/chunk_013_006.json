@@ -80,16 +80,6 @@
         "AbstractURL": "https://gssp-buende.de"
     },
     {
-        "link": "https://soyol.ru",
-        "Heading": " - Soyol.ru",
-        "Abstract": null,
-        "Official Site": "https://soyol.ru",
-        "Icon": "http://soyol.ru/bitrix/templates/soyol-rus/img/logo.png",
-        "Redirect": "https://soyol.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://soyol.ru"
-    },
-    {
         "link": "https://aavs.org",
         "Heading": "Home - American Anti-Vivisection Society",
         "Abstract": "Ending the use of animals in science through education, advocacy, and the development of alternative methods.",
@@ -112,7 +102,7 @@
     {
         "link": "https://alfredopiedrafita.com",
         "Heading": "Inicio | alfredopiedrafita",
-        "Abstract": "CONTRATACI\u00d3N:606 08 56 16setlist@setlistproducciones.com Pr\u00f3ximos conciertos M\u00e1s fechas e info:\u00a0www.elmejordetusdias.comFECHACIUDADSALA / LUGAR19/06/2026 -  ...",
+        "Abstract": "CONTRATACI\u00d3N:606 08 56 16setlist@setlistproducciones.com Pr\u00f3ximos conciertos M\u00e1s fechas e info:\u00a0www.elmejordetusdias.com FECHA CIUDAD SALA / LUGAR 17/07/202 ...",
         "Official Site": "https://alfredopiedrafita.com",
         "Icon": "https://www.alfredopiedrafita.com/wp-content/uploads/2025/08/cropped-ALFREDO-PIEDRAFITA_Favicon-32x32.png",
         "Redirect": "https://alfredopiedrafita.com",
@@ -250,6 +240,26 @@
         "AbstractURL": "https://agocfr.com"
     },
     {
+        "link": "https://revistaurbanova.com.br",
+        "Heading": "News - Revista Urbanova",
+        "Abstract": "A Revista Urbanova \u00e9 o \u00fanico ve\u00edculo de comunica\u00e7\u00e3o do bairro e diferencia-se no mercado pela qualidade das reportagens",
+        "Official Site": "https://revistaurbanova.com.br/",
+        "Icon": "https://revistaurbanova.com.br/wp-content/uploads/2021/05/cropped-ICONE-REVISTA-URBANOVA-32x32.png",
+        "Redirect": "https://revistaurbanova.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://revistaurbanova.com.br/"
+    },
+    {
+        "link": "https://procloudhost.com",
+        "Heading": "Reliable cloud web hosting made easy since 2008- ProCloudHost.COM",
+        "Abstract": "Professional cloud web hosting with tier 3 dc, top hardware, 24x7 support, improved security and instant setup. Serving customers since 2008!",
+        "Official Site": "https://www.procloudhost.com/",
+        "Icon": "https://www.procloudhost.com/wp-content/uploads/2024/01/cropped-logo-32x32.png",
+        "Redirect": "https://www.procloudhost.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.procloudhost.com/"
+    },
+    {
         "link": "https://fastcows.nl",
         "Heading": "FastCows",
         "Abstract": "FastCows levert, adviseert en integreert uw automatisering op basis van open source software.",
@@ -281,7 +291,7 @@
     },
     {
         "link": "https://gotahm.it",
-        "Heading": "Gotahm.it - ",
+        "Heading": "Gotahm.it - Ads,places,shows,transports one click away!",
         "Abstract": "Addresses,offices,businesses,professionists,ads,shows,events,transports wthin a range of few hundred meters from your position!Submit your ads too!",
         "Official Site": "https://gotahm.it/?l=eng",
         "Icon": "/included/showThumbsearchwide.aspx?IptFl=/immagini/ico/screenshot.jpg",

@@ -40,6 +40,16 @@
         "AbstractURL": "https://activeplumbing.com"
     },
     {
+        "link": "https://actylis.com",
+        "Heading": "Actylis | Home",
+        "Abstract": "",
+        "Official Site": "https://actylis.com",
+        "Icon": "https://actylis.com/assets/images/Actylis-favicon.svg",
+        "Redirect": "https://actylis.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://actylis.com"
+    },
+    {
         "link": "https://acu-kytaj.store",
         "Heading": null,
         "Abstract": null,
@@ -170,14 +180,24 @@
         "AbstractURL": "https://aldorlea.org"
     },
     {
-        "link": "https://allposterforum.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://allposterforum.com",
-        "Icon": "data:;",
-        "Redirect": "https://allposterforum.com",
+        "link": "https://alisonanddon.com",
+        "Heading": "Adventures in Wonderland \u2013 a pilgrimage of the heart",
+        "Abstract": "a pilgrimage of the heart",
+        "Official Site": "https://alisonanddon.com/",
+        "Icon": "https://secure.gravatar.com/blavatar/d9eb6f460d0fa9d140a1f2af775d879ab8fc48ca597b9a4f4bdac37c42b586dd?s=200&ts=1782683606",
+        "Redirect": "https://alisonanddon.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://allposterforum.com"
+        "AbstractURL": "https://alisonanddon.com/"
+    },
+    {
+        "link": "https://allposterforum.com",
+        "Heading": "All Poster Forum - Index",
+        "Abstract": "All Poster Forum - Index",
+        "Official Site": "https://www.allposterforum.com/index.php",
+        "Icon": "N/A",
+        "Redirect": "https://www.allposterforum.com/index.php",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.allposterforum.com/index.php"
     },
     {
         "link": "https://alu-oquk.store",
