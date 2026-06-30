@@ -1,8 +1,8 @@
 [
     {
         "link": "https://dinozaury.com",
-        "Heading": "Dinozaury.com \u2013 z nami przeniesiesz si\u0119 w czasie\u2026 \u2013 polski serwis internetowy po\u015bwi\u0119cony paleontologii kr\u0119gowc\u00f3w",
-        "Abstract": null,
+        "Heading": "Dinozaury.com - z nami przeniesiesz si\u0119 w czasie\u2026 | polski serwis internetowy po\u015bwi\u0119cony paleontologii kr\u0119gowc\u00f3w",
+        "Abstract": "polski serwis internetowy po\u015bwi\u0119cony paleontologii kr\u0119gowc\u00f3w",
         "Official Site": "https://dinozaury.com",
         "Icon": "N/A",
         "Redirect": "https://dinozaury.com",
@@ -114,7 +114,7 @@
         "Heading": "GitHub - domaframework/doma: DAO oriented database mapping framework for Java \u00b7 GitHub",
         "Abstract": "DAO oriented database mapping framework for Java. Contribute to domaframework/doma development by creating an account on GitHub.",
         "Official Site": "https://github.com/domaframework/doma",
-        "Icon": "https://opengraph.githubassets.com/ce9c69056b998d9eadf113a9e166ca4171ad98dcd23ed4f9374880902ff8161d/domaframework/doma",
+        "Icon": "https://opengraph.githubassets.com/a401bfb29ceddfcded4be1573fd2eb8e534ffcd568ca3f8fe73d1c54d95b4c94/domaframework/doma",
         "Redirect": "https://github.com/domaframework/doma",
         "AbstractSource": "BS4",
         "AbstractURL": "https://github.com/domaframework/doma"
@@ -198,6 +198,16 @@
         "Redirect": "https://dunaevabooks.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dunaevabooks.ru"
+    },
+    {
+        "link": "https://dutchgameboys.com",
+        "Heading": "Dutch Game Boys",
+        "Abstract": "Games & Consoles",
+        "Official Site": "https://dutchgameboys.com",
+        "Icon": "https://www.dutchgameboys.com/wp-content/uploads/2019/06/Favicon.png",
+        "Redirect": "https://dutchgameboys.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dutchgameboys.com"
     },
     {
         "link": "https://easyya.com",

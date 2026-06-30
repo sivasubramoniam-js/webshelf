@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.clarkmhc.com/"
     },
     {
+        "link": "https://mazatlan-hotels.com",
+        "Heading": "mazatlan-hotels.com\u00a0-\u00a0mazatlan hotels Resources and Information.",
+        "Abstract": "mazatlan-hotels.com is your first and best source for information about mazatlan hotels. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://mazatlan-hotels.com",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://mazatlan-hotels.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mazatlan-hotels.com"
+    },
+    {
         "link": "https://4x5y.com",
         "Heading": "\u6c34\u5730\u5bfc\u822a - Powered by 4x5y.com",
         "Abstract": "www.4x5y.com",
@@ -78,6 +88,16 @@
         "Redirect": "https://moebe.dk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://moebe.dk/"
+    },
+    {
+        "link": "https://travelbuddy.mx",
+        "Heading": "TravelBuddy.mx - Your Personal Travel Guide - Flights, Hotels & Local Travel Tips \u2014 All in One Place",
+        "Abstract": "Discover unforgettable adventures with TravelBuddy.mx - Your Personal Travel Guide! Your ultimate guide for travel tips, destination guides, and exclusive deals.",
+        "Official Site": "https://travelbuddy.mx/",
+        "Icon": "https://travelbuddy.mx/wp-content/uploads/2024/06/12686.jpg",
+        "Redirect": "https://travelbuddy.mx/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://travelbuddy.mx/"
     },
     {
         "link": "https://coziring.xyz",
@@ -293,10 +313,10 @@
         "link": "https://boise.org",
         "Heading": "Visit Boise Where downtown energy meets trailside adventure.",
         "Abstract": "Boise offers the best of both worlds\u2014fresh air and open trails coupled with the energy of a vibrant, thriving city. All right outside your door.",
-        "Official Site": "https://visitboise.com/",
-        "Icon": "https://visitboise.com/wp-content/uploads/2022/05/NEWskyline2019v21-scaled.jpg",
-        "Redirect": "https://visitboise.com/",
+        "Official Site": "https://www.visitboise.com/",
+        "Icon": "https://www.visitboise.com/wp-content/uploads/2022/05/NEWskyline2019v21-scaled.jpg",
+        "Redirect": "https://www.visitboise.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://visitboise.com/"
+        "AbstractURL": "https://www.visitboise.com/"
     }
 ]

@@ -50,6 +50,16 @@
         "AbstractURL": "https://ichiba.net/en"
     },
     {
+        "link": "https://ics-embedded.com",
+        "Heading": "ICS-Embedded.com",
+        "Abstract": null,
+        "Official Site": "https://ics-embedded.com",
+        "Icon": "N/A",
+        "Redirect": "https://ics-embedded.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ics-embedded.com"
+    },
+    {
         "link": "https://ideus.pl",
         "Heading": null,
         "Abstract": null,
@@ -103,11 +113,11 @@
         "link": "https://indifocus.kr",
         "Heading": "\uc778\ub514\ud3ec\ucee4\uc2a4",
         "Abstract": "\uc815\uce58,\uacbd\uc81c,\uc0ac\ud68c,\ubb38\ud654,\uad6d\uc81c,\uc5f0\uc608,\uc2a4\ud3ec\uce20,\ud658\uacbd,\uc9c0\uc5ed\uc18c\uc2dd,\uc778\ub514\ud3ec\ucee4\uc2a4",
-        "Official Site": "http://www.indifocus.kr",
+        "Official Site": "http://m.indifocus.kr",
         "Icon": "http://f.xza.co.kr/http://www.indifocus.kr/data/jmbc_tv/upload/sns_thumbnail.jpg?wd=1617071481",
-        "Redirect": "http://www.indifocus.kr",
+        "Redirect": "http://m.indifocus.kr",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://www.indifocus.kr"
+        "AbstractURL": "http://m.indifocus.kr"
     },
     {
         "link": "https://industrialgeneralstore.com",
@@ -174,7 +184,7 @@
         "Heading": "Microbiome Test & Gut Health Test | InnerBuddies Personalised Insights ",
         "Abstract": "Discover your unique microbiome with InnerBuddies&#39; Microbiome Test. Improve your gut health with personalised advice tailored to your needs. Take the first step toward better well-being today!",
         "Official Site": "https://www.innerbuddies.com/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0719/9005/1084/files/thumbnail_d2088185-fc99-4656-8e0f-b8b03f37c8a9.png?v=1710492437&width=1200",
+        "Icon": "https://www.innerbuddies.com/cdn/shop/files/thumbnail_d2088185-fc99-4656-8e0f-b8b03f37c8a9.png?v=1710492437&width=1200",
         "Redirect": "https://www.innerbuddies.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.innerbuddies.com/"
@@ -311,23 +321,23 @@
     },
     {
         "link": "https://jawlessro.com",
-        "Heading": "HOME",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://jawlessro.com/home",
-        "Icon": "https://img1.wsimg.com/isteam/ip/b4d18f0b-6516-4a7e-808c-117d7cbcc022/Untitled%20design%20(28).png",
-        "Redirect": "https://jawlessro.com/home",
+        "Official Site": "https://jawlessro.com",
+        "Icon": "N/A",
+        "Redirect": "https://jawlessro.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jawlessro.com/home"
+        "AbstractURL": "https://jawlessro.com"
     },
     {
         "link": "https://jfi.cz",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://jfi.cz",
-        "Icon": "N/A",
-        "Redirect": "https://jfi.cz",
+        "Heading": "Jakub Fi\u0161er - Senior Systems & Reliability Engineer | LinkedIn",
+        "Abstract": "Senior Systems &amp; Reliability Engineer \u00b7 Versatile Platform Architect, Reliability and Automation Engineer and Systems Integrator with strong affinity for security and 18+ years of professional experience in various IT-related fields mostly involving Linux in some form.\n\nOn speaking terms with Linux since 2003. Troubleshooter with strong teaching, improvisation and investigative skills; a keen explorer who&#39;s not afraid to fail. \u00b7 Experience: Proton \u00b7 Education: \u010cesk\u00e9 vysok\u00e9 u\u010den\u00ed technick\u00e9 v Praze Fakulta elektrotechnick\u00e1 (FEL) \u00b7 Location: Prague \u00b7 388 connections on LinkedIn. View Jakub Fi\u0161er\u2019s profile on LinkedIn, a professional community of 1 billion members.",
+        "Official Site": "https://cz.linkedin.com/in/jficz",
+        "Icon": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q",
+        "Redirect": "https://cz.linkedin.com/in/jficz",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jfi.cz"
+        "AbstractURL": "https://cz.linkedin.com/in/jficz"
     },
     {
         "link": "https://jjggbizkaia.eus",

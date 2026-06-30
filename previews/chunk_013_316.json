@@ -81,23 +81,13 @@
     },
     {
         "link": "https://elubin.pl",
-        "Heading": "Mobilny Lubin (mobi.elubin.pl) - Twoj portal miasta w Twoim telefonie",
+        "Heading": "e Lubin.pl - Portal informacyjny Lubina i okolic  \u2014 Lubin, Wiadomosci, Ogloszenia, Sport, Kultura, Oferty Pracy, Katalog firm",
         "Abstract": null,
         "Official Site": "https://elubin.pl",
-        "Icon": "N/A",
+        "Icon": "theme/default/elubin.ico",
         "Redirect": "https://elubin.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://elubin.pl"
-    },
-    {
-        "link": "https://attinternetvacaville.com",
-        "Heading": "attinternetvacaville.com",
-        "Abstract": null,
-        "Official Site": "https://attinternetvacaville.com",
-        "Icon": "N/A",
-        "Redirect": "https://attinternetvacaville.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://attinternetvacaville.com"
     },
     {
         "link": "https://easyfire.dk",
@@ -168,16 +158,6 @@
         "Redirect": "https://www.vastelastenbond.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.vastelastenbond.nl"
-    },
-    {
-        "link": "https://horseraceinsider.com",
-        "Heading": "Horse Race Insider \u2013 HRI",
-        "Abstract": null,
-        "Official Site": "https://horseraceinsider.com",
-        "Icon": "https://www.horseraceinsider.com/wp-content/uploads/2019/06/cropped-favicon-32x32.png",
-        "Redirect": "https://horseraceinsider.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://horseraceinsider.com"
     },
     {
         "link": "https://aliraqiya-news.com",
@@ -288,5 +268,15 @@
         "Redirect": "https://www.all-funeralhomes.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.all-funeralhomes.com/"
+    },
+    {
+        "link": "https://howlerbox.com",
+        "Heading": "HowlerBox.com is for sale | HugeDomains",
+        "Abstract": "Shop a wide selection of domains at HugeDomains.com. Find the right domain name today.",
+        "Official Site": "https://www.hugeDomains.com/domain_profile.cfm?d=HowlerBox.com",
+        "Icon": "https://static.hugedomains.com/images/hdv3-img/og_hugedomains.png",
+        "Redirect": "https://www.hugeDomains.com/domain_profile.cfm?d=HowlerBox.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=HowlerBox.com"
     }
 ]

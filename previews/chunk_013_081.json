@@ -44,7 +44,7 @@
         "Heading": "\u6280\u672f\u6d3e - Java\u6280\u672f\u793e\u533a | RAG+Agent\u5b9e\u6218\u9879\u76ee\u6559\u7a0b+AI\u52a9\u624b",
         "Abstract": "\u6280\u672f\u6d3e,\u4e00\u4e2a\u57fa\u4e8e Spring Boot\u3001MyBatis-Plus\u3001MySQL\u3001Redis\u3001ElasticSearch\u3001MongoDB\u3001Docker\u3001RabbitMQ \u7b49\u6280\u672f\u6808\u5b9e\u73b0\u7684\u793e\u533a\u7cfb\u7edf\uff0c\u91c7\u7528\u4e3b\u6d41\u7684\u4e92\u8054\u7f51\u6280\u672f\u67b6\u6784\u3001\u5168\u65b0\u7684UI\u8bbe\u8ba1\u3001\u652f\u6301\u4e00\u952e\u6e90\u7801\u90e8\u7f72\uff0c\u62e5\u6709\u5b8c\u6574\u7684\u6587\u7ae0&\u6559\u7a0b\u53d1\u5e03/\u641c\u7d22/\u8bc4\u8bba/\u7edf\u8ba1\u6d41\u7a0b\u7b49\uff0c\u4ee3\u7801\u5b8c\u5168\u5f00\u6e90\uff0c\u6ca1\u6709\u4efb\u4f55\u4e8c\u6b21\u5c01\u88c5\uff0c\u662f\u4e00\u4e2a\u975e\u5e38\u9002\u5408\u4e8c\u6b21\u5f00\u53d1/\u5b9e\u6218\u7684\u73b0\u4ee3\u5316\u793e\u533a\u9879\u76ee\u3002\u5b66\u7f16\u7a0b\uff0c\u5c31\u4e0a\u6280\u672f\u6d3e",
         "Official Site": "https://paicoding.com/",
-        "Icon": "https://cdn.paicoding.com/paicodingui0628/static/img/icon.png",
+        "Icon": "https://cdn.paicoding.com/paicodingui0630/static/img/icon.png",
         "Redirect": "https://paicoding.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://paicoding.com/"
@@ -240,16 +240,6 @@
         "AbstractURL": "https://kasinos-drip.xyz"
     },
     {
-        "link": "https://keelpno.gr",
-        "Heading": "Online Casino \u0395\u03bb\u03bb\u03ac\u03b4\u03b1: \u03a0\u03b1\u03af\u03be\u03c4\u03b5 \u03bc\u03b5 \u03b1\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03c3\u03b9\u03b3\u03bf\u03c5\u03c1\u03b9\u03ac",
-        "Abstract": "\u0391\u03bd\u03b1\u03ba\u03b1\u03bb\u03cd\u03c8\u03c4\u03b5 \u03cc\u03bb\u03b1 \u03c4\u03b1 online \u03ba\u03b1\u03b6\u03af\u03bd\u03bf \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. \ud83c\udfc6 \u0395\u03bb\u03ad\u03b3\u03be\u03b1\u03bc\u03b5 \u03c0\u03c1\u03bf\u03c3\u03b5\u03ba\u03c4\u03b9\u03ba\u03ac \u03b1\u03c5\u03c4\u03ac \u03c4\u03b1 \u03ba\u03b1\u03b6\u03af\u03bd\u03bf \u03ce\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c0\u03b1\u03af\u03be\u03b5\u03c4\u03b5 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b1\u03bc\u03c6\u03b9\u03b2\u03bf\u03bb\u03af\u03b1!",
-        "Official Site": "https://www.indianembassy.gr/",
-        "Icon": "https://www.indianembassy.gr/wp-content/uploads/2025/04/online-casino-attention.webp",
-        "Redirect": "https://www.indianembassy.gr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.indianembassy.gr/"
-    },
-    {
         "link": "https://tridecor.net",
         "Heading": "decoracion y equipamiento y suministro comercio",
         "Abstract": "Chez Tridecor, nous innovons votre fa\u00e7on de faire des achats en ligne pour plus de confort. M\u00eame si vous \u00eates d\u00e9j\u00e0 client, reinscrivez-vous pour ne rater aucune nouveaut\u00e9. Produit hors stock ? Contactez-nous par e-mail ou WhatsApp !",
@@ -268,6 +258,16 @@
         "Redirect": "https://2000w.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://2000w.xyz"
+    },
+    {
+        "link": "https://astromagazin.ro",
+        "Heading": "Telescoape Binocluri Accesorii",
+        "Abstract": "Magazin pentru astronomie - Oferim o gama larga de telescoape, lunete, binocluri si accesorii.",
+        "Official Site": "https://astromagazin.ro/",
+        "Icon": "https://astromagazin.ro/img/logo-1766990065.jpg",
+        "Redirect": "https://astromagazin.ro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://astromagazin.ro/"
     },
     {
         "link": "https://bimpsoft.com",
@@ -308,16 +308,6 @@
         "Redirect": "https://cosyharu.co.kr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cosyharu.co.kr/"
-    },
-    {
-        "link": "https://crazystock.it",
-        "Heading": "CrazyStock: prodotti in stock a prezzi da ingrosso",
-        "Abstract": "CrazyStock \u00e8 il sito che unisce qualit\u00e0 e risparmio! Qui trovi una vasta selezione di prodotti in stock a prezzi da ingrosso. Scopri la nostra gamma di articoli!",
-        "Official Site": "https://crazystock.it",
-        "Icon": "/content/favicon.png",
-        "Redirect": "https://crazystock.it",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://crazystock.it"
     },
     {
         "link": "https://defendagro.ro",

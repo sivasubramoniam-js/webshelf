@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://staggallery.com",
-        "Heading": "Home - The Stag Gallery",
-        "Abstract": null,
-        "Official Site": "https://staggallery.com/",
-        "Icon": "https://staggallery.com/wp-content/uploads/2025/03/cropped-stag-gallery-icon-32x32.png",
-        "Redirect": "https://staggallery.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://staggallery.com/"
-    },
-    {
         "link": "https://legendzizou.com",
         "Heading": null,
         "Abstract": null,
@@ -33,11 +23,11 @@
         "link": "https://pentagonmemorial.org",
         "Heading": "Home - 9/11 Pentagon Memorial",
         "Abstract": "\u00a0 \u00a0 \u00a0",
-        "Official Site": "https://pentagonmemorial.org/",
-        "Icon": "https://pentagonmemorial.org/app/uploads/2021/05/column_left_img.jpg",
-        "Redirect": "https://pentagonmemorial.org/",
+        "Official Site": "https://www.pentagonmemorial.org/",
+        "Icon": "https://www.pentagonmemorial.org/app/uploads/2021/05/column_left_img.jpg",
+        "Redirect": "https://www.pentagonmemorial.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pentagonmemorial.org/"
+        "AbstractURL": "https://www.pentagonmemorial.org/"
     },
     {
         "link": "https://totalrowfitness.com",
@@ -198,6 +188,16 @@
         "Redirect": "https://infandvm.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://infandvm.com/"
+    },
+    {
+        "link": "https://menteseesco.xyz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://menteseesco.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://menteseesco.xyz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://menteseesco.xyz"
     },
     {
         "link": "https://radiotangra.com",

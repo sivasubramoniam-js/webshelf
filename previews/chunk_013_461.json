@@ -72,9 +72,9 @@
     {
         "link": "https://elysian.press",
         "Heading": "The Elysian | Elle Griffin | Substack",
-        "Abstract": "Exploring a utopian future through essay collections & print pamphlets. Join us to reimagine the world for our benefit. Click to read The Elysian, by Elle Griffin, a Substack publication with tens of thousands of subscribers.",
+        "Abstract": "Exploring a utopian future through essay collections & print pamphlets. Join us to take ownership of our land, economies, & governments and create a world that works for our benefit. Click to read The Elysian, by Elle Griffin, a Substack publication with tens of thousands of subscribers.",
         "Official Site": "https://www.elysian.press/",
-        "Icon": "https://substackcdn.com/image/fetch/$s_!oKtR!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fellegriffin.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1926016965%26version%3D9",
+        "Icon": "https://substackcdn.com/image/fetch/$s_!Bn6f!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fellegriffin.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-694094841%26version%3D9",
         "Redirect": "https://www.elysian.press/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.elysian.press/"
@@ -170,6 +170,16 @@
         "AbstractURL": "https://dnsserverindia.com"
     },
     {
+        "link": "https://meermanno.nl",
+        "Heading": "Homepage | Rijksmuseum Meermanno (Huis van het Boek)",
+        "Abstract": "Er is altijd wat te doen, of je nu de tentoonstellingen bezoekt, een workshop volgt of een boek komt lezen in onze prachtige museumtuin.",
+        "Official Site": "https://rijksmuseummeermanno.nl/",
+        "Icon": "https://rijksmuseummeermanno.nl/images/slider/_1200x630_crop_center-center_82_none/boekzaal_d.jpg?mtime=1705493152",
+        "Redirect": "https://rijksmuseummeermanno.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rijksmuseummeermanno.nl/"
+    },
+    {
         "link": "https://puhsd.org",
         "Heading": "Home - Perris Union High School District",
         "Abstract": "Home - Perris Union High School District",
@@ -248,6 +258,16 @@
         "Redirect": "https://rivetbangers.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rivetbangers.com"
+    },
+    {
+        "link": "https://cfverify.com",
+        "Heading": "cfverify.com",
+        "Abstract": null,
+        "Official Site": "https://cfverify.com",
+        "Icon": "N/A",
+        "Redirect": "https://cfverify.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cfverify.com"
     },
     {
         "link": "https://maximumheightsacademy.com",

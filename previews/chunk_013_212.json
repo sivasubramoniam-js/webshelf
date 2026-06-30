@@ -20,16 +20,6 @@
         "AbstractURL": "https://progresso-ict.nl"
     },
     {
-        "link": "https://purecommunion.com",
-        "Heading": "Pure communion",
-        "Abstract": null,
-        "Official Site": "https://purecommunion.com",
-        "Icon": "https://purecommunion.com/wp-content/uploads/2020/11/cropped-Bez-nazvu1-e1599504347165-32x32.png",
-        "Redirect": "https://purecommunion.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://purecommunion.com"
-    },
-    {
         "link": "https://itsistem.ro",
         "Heading": null,
         "Abstract": null,
@@ -38,16 +28,6 @@
         "Redirect": "https://itsistem.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://itsistem.ro"
-    },
-    {
-        "link": "https://obernai.fr",
-        "Heading": "Obernai (67) - Alsace : site officiel de la ville",
-        "Abstract": "Ville d'Obernai - D\u00e9veloppement \u00e9conomique, actualit\u00e9s, agenda, informations pratiques, manifestations, tourisme.",
-        "Official Site": "https://obernai.fr",
-        "Icon": "https://www.obernai.fr/images/logo_desktop.png",
-        "Redirect": "https://obernai.fr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://obernai.fr"
     },
     {
         "link": "https://splatsearch.com",
@@ -68,6 +48,16 @@
         "Redirect": "https://bridgman.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bridgman.co.uk/"
+    },
+    {
+        "link": "https://alray.ps",
+        "Heading": "\u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0631\u0623\u064a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629 \u0644\u0644\u0627\u0639\u0644\u0627\u0645",
+        "Abstract": null,
+        "Official Site": "https://alray.ps",
+        "Icon": "N/A",
+        "Redirect": "https://alray.ps",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alray.ps"
     },
     {
         "link": "https://hugoind.xyz",

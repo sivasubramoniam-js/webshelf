@@ -100,6 +100,16 @@
         "AbstractURL": "https://potrebkor.ru/index.html"
     },
     {
+        "link": "https://valleyhospital.net",
+        "Heading": "Welcome To Valley Hospital Medical Center | Las Vegas, NV",
+        "Abstract": "Located in the heart of Las Vegas, Valley Hospital Medical Center is an acute care and teaching hospital that has provided high quality healthcare to residents of Southern Nevada since 1972. The hospital offers a comprehensive range of services, including advanced cardiology, neurology, surgery and more.",
+        "Official Site": "https://www.valleyhospital.net/node/653",
+        "Icon": "https://www.valleyhospital.net/sites/valleyhospital.net/files/vh_vhs_favicon.gif",
+        "Redirect": "https://www.valleyhospital.net/node/653",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.valleyhospital.net/node/653"
+    },
+    {
         "link": "https://whitepeakdigital.com",
         "Heading": "White Peak Digital | Award-Winning Websites & Marketing",
         "Abstract": "White Peak Digital is an award-winning digital agency helping brands grow through human-centred, high-converting websites and marketing strategies.",
@@ -238,6 +248,16 @@
         "Redirect": "https://dogwifhat.io/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dogwifhat.io/"
+    },
+    {
+        "link": "https://mssoftpc.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mssoftpc.com",
+        "Icon": "N/A",
+        "Redirect": "https://mssoftpc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mssoftpc.com"
     },
     {
         "link": "https://meredithmonk.org",

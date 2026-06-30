@@ -24,7 +24,7 @@
         "Heading": "La Xarxa - Portada",
         "Abstract": "Som una plataforma multim\u00e8dia que proporciona continguts i serveis a m\u00e9s de 200 r\u00e0dios, televisions i mitjans en l\u00ednia locals d\u2019arreu de Catalunya. Treballem perqu\u00e8 aquests mitjans..",
         "Official Site": "https:\\www.laxarxa.cat/",
-        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1782709448379",
+        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1782793212419",
         "Redirect": "https:\\www.laxarxa.cat/",
         "AbstractSource": "BS4",
         "AbstractURL": "https:\\www.laxarxa.cat/"
@@ -38,6 +38,16 @@
         "Redirect": "https://cinefamily.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cinefamily.org"
+    },
+    {
+        "link": "https://kiseido.com",
+        "Heading": "Kiseido's Home Page",
+        "Abstract": null,
+        "Official Site": "https://kiseido.com",
+        "Icon": "N/A",
+        "Redirect": "https://kiseido.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kiseido.com"
     },
     {
         "link": "https://camilastore.top",

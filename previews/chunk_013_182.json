@@ -40,16 +40,6 @@
         "AbstractURL": "https://www.visitporvoo.fi/"
     },
     {
-        "link": "https://fieldscopeint.com",
-        "Heading": "FieldScope",
-        "Abstract": null,
-        "Official Site": "https://fieldscopeint.com",
-        "Icon": "https://i0.wp.com/fieldscopeint.com/wp-content/uploads/2026/02/cropped-CroppedLogo.png?fit=32%2C32&ssl=1",
-        "Redirect": "https://fieldscopeint.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fieldscopeint.com"
-    },
-    {
         "link": "https://velazquezyvilla.es",
         "Heading": "Los mejores Abogados de Incapacidad Permanente en Espa\u00f1a | V&V",
         "Abstract": "\u00a1Vel\u00e1zquez y Villa, abogados especialistas en incapacidad permanente! Te ayudamos a obtener la pensi\u00f3n que mereces con el mejor acompa\u00f1amiento legal en Espa\u00f1a.",
@@ -218,6 +208,16 @@
         "Redirect": "https://tacticalglock.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tacticalglock.ca/"
+    },
+    {
+        "link": "https://edspry.store",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://edspry.store",
+        "Icon": "N/A",
+        "Redirect": "https://edspry.store",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://edspry.store"
     },
     {
         "link": "https://moova.io",

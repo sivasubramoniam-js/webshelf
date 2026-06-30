@@ -34,7 +34,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://funkykeel.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://funkykeel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://funkykeel.com"
@@ -160,16 +160,6 @@
         "AbstractURL": "https://topbilet.kz/ru"
     },
     {
-        "link": "https://kosgroup.com",
-        "Heading": "Gruppo KOS - rete di strutture sanitarie per la cura e la tua salute | KOS",
-        "Abstract": "KOS group: professionisti dedicati alla salute e al tuo benessere: assistenza psichiatrica, riabilitazione e diagnostica, in un sistema di strutture socio-sanitarie.",
-        "Official Site": "https://kosgroup.com",
-        "Icon": "/assets/img/favicon-96x96.png",
-        "Redirect": "https://kosgroup.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kosgroup.com"
-    },
-    {
         "link": "https://123moviesclub.to",
         "Heading": "Loading...",
         "Abstract": null,
@@ -228,16 +218,6 @@
         "Redirect": "#/",
         "AbstractSource": "BS4",
         "AbstractURL": "#/"
-    },
-    {
-        "link": "https://southforkwind.com",
-        "Heading": "Discover NY\u2019s First Offshore Wind Farm| South Fork Wind",
-        "Abstract": "\u00d8rsted's South Fork Wind is New York\u2019s first offshore wind farm and America\u2019s first commercial-scale offshore wind farm in federal waters",
-        "Official Site": "https://southforkwind.com",
-        "Icon": "https://cdn.orsted.com/-/media/www/images/corp/jv/southfork-wind/sfw-revamp-q12024/sfw_home_lookinside.jpg?rev=bb917dffac714c96a7c5f85343a19e1c&extension=webp&hash=72A7A3F342012F96F1D6AB3C60C63DB5",
-        "Redirect": "https://southforkwind.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://southforkwind.com"
     },
     {
         "link": "https://pscoat.de",

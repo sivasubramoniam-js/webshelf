@@ -103,11 +103,11 @@
         "link": "https://sacmigroup.com",
         "Heading": "\n\tSacmi: Industrial Technologies For Ceramics, Packaging And Food | SACMI EN\n",
         "Abstract": "Discover SACMI, a global leader in advanced solutions for ceramics, packaging, food & beverage, metals and innovative materials. Innovation since 1919.",
-        "Official Site": "https://sacmi.it/en-US/",
+        "Official Site": "https://sacmi.com/en-US/",
         "Icon": "https://sharedcontent.sacmi.com/sharedcontent/media/SharedFiles/Logos/sacmi-social-logo.jpg",
-        "Redirect": "https://sacmi.it/en-US/",
+        "Redirect": "https://sacmi.com/en-US/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sacmi.it/en-US/"
+        "AbstractURL": "https://sacmi.com/en-US/"
     },
     {
         "link": "https://introw.io",
@@ -201,13 +201,13 @@
     },
     {
         "link": "https://webpage-maker.com",
-        "Heading": "webpage-maker - webpage-maker",
-        "Abstract": "\ube60\ub974\uace0 \uc548\uc804\ud55c \uc804\uc790 \uc2e0\uace0",
-        "Official Site": "https://webpage-maker.com/",
-        "Icon": "https://webpage-maker.com/wp-content/uploads/2025/09/webpage-maker-\uc2ec\ubcfc.png",
-        "Redirect": "https://webpage-maker.com/",
+        "Heading": "WordPress",
+        "Abstract": null,
+        "Official Site": "https://webpage-maker.com",
+        "Icon": "N/A",
+        "Redirect": "https://webpage-maker.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://webpage-maker.com/"
+        "AbstractURL": "https://webpage-maker.com"
     },
     {
         "link": "https://zenobe.com",
@@ -238,6 +238,16 @@
         "Redirect": "https://defpro.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://defpro.com"
+    },
+    {
+        "link": "https://drugistore.online",
+        "Heading": "Alphixgrid Software: Enterprise Analytics Suite",
+        "Abstract": "Deploy the Alphixgrid analytics suite. Scalable software infrastructure for data management, reporting, and cross-system interoperability.",
+        "Official Site": "https://alphiens.com/",
+        "Icon": "https://alphiens.com/_shared/img/og-image.png",
+        "Redirect": "https://alphiens.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alphiens.com/"
     },
     {
         "link": "https://oslpr.org",

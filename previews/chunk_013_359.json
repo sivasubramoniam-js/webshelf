@@ -110,16 +110,6 @@
         "AbstractURL": "https://turkovrus.ru"
     },
     {
-        "link": "https://quebec-amerique.com",
-        "Heading": "Qu\u00e9bec Am\u00e9rique",
-        "Abstract": "Fond\u00e9es en 1974 par Jacques Fortin, les \u00c9ditions Qu\u00e9bec Am\u00e9rique sont devenues avec les ann\u00e9es une v\u00e9ritable institution culturelle o\u00f9 la rigueur et l'originalit\u00e9 sont des points d'attache.",
-        "Official Site": "https://www.quebec-amerique.com/",
-        "Icon": "https://www.quebec-amerique.com/img/qa.jpg",
-        "Redirect": "https://www.quebec-amerique.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.quebec-amerique.com/"
-    },
-    {
         "link": "https://krilo.hr",
         "Heading": "Krilo Fast Ferries \u2014 Brzi katamarani na Jadranu | Krilo.hr",
         "Abstract": "Krilo brzi katamarani povezuju Split s Hvarom, Visom, Bra\u010dem, Kor\u010dulom i Dubrovnikom. Kupite karte, provjerite plovidbeni red i pratite brodove u\u017eivo.",
@@ -284,7 +274,7 @@
         "Heading": "Inicio | Ajuntament  de Vinar\u00f2s",
         "Abstract": null,
         "Official Site": "https://vinaros.es",
-        "Icon": "https://www.vinaros.es/sites/default/files/FAVICON.PNG",
+        "Icon": "/sites/default/files/FAVICON.PNG",
         "Redirect": "https://vinaros.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vinaros.es"

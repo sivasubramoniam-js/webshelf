@@ -20,6 +20,16 @@
         "AbstractURL": "https://owaka.live"
     },
     {
+        "link": "https://newsounds.org",
+        "Heading": "New Sounds | WNYC",
+        "Abstract": "New Sounds\u00a0is New York Public Radio\u2019s home for the musically curious, since 1982.",
+        "Official Site": "https://www.wnyc.org/browse/shows/new-sounds",
+        "Icon": "https://images-prod.gothamist.com/original_images/new_sounds_logo.png",
+        "Redirect": "https://www.wnyc.org/browse/shows/new-sounds",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wnyc.org/browse/shows/new-sounds"
+    },
+    {
         "link": "https://racingtvschedule.com",
         "Heading": "Motorsports TV Schedule - RacingTvSchedule.com",
         "Abstract": "Motorsports TV Guide For Live Events, Replays, Practice And More. We Cover NASCAR, IndyCar, Formula 1, IMSA, WEC & More. Updated Everyday!",
@@ -98,6 +108,16 @@
         "Redirect": "https://soyuzopttorg.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://soyuzopttorg.com"
+    },
+    {
+        "link": "https://applicoinc.com",
+        "Heading": "Applico Capital",
+        "Abstract": "",
+        "Official Site": "https://www.applicocapital.com",
+        "Icon": "http://static1.squarespace.com/static/6419d581cfb6d7510d21c56f/t/642eeee14972cd4b4d372c52/1680797410032/Applico+logo+capital_one+line.png?format=1500w",
+        "Redirect": "https://www.applicocapital.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.applicocapital.com"
     },
     {
         "link": "https://podarokzaim.ru",

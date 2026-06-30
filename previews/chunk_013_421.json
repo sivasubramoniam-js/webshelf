@@ -160,16 +160,6 @@
         "AbstractURL": "https://videos-xxx.vip"
     },
     {
-        "link": "https://villaggiobarricata.com",
-        "Heading": "Campeggio delta del Po villaggio Porto Tolle | Barricata Holiday Village",
-        "Abstract": null,
-        "Official Site": "https://villaggiobarricata.com",
-        "Icon": "N/A",
-        "Redirect": "https://villaggiobarricata.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://villaggiobarricata.com"
-    },
-    {
         "link": "https://vilohome.com",
         "Heading": "Polski Producent Paneli Pod\u0142ogowych i \u015aciennych, Listew, Lameli - Vilo Home",
         "Abstract": "Vilo Home \u27a4 Producent paneli pod\u0142ogowych, \u015bciennych, listew \u2714\ufe0f Atrakcyjne ceny \u2714\ufe0f Darmowe wysy\u0142ki od 800 z\u0142otych \u2714\ufe0f Polski producent \u2b50 Sprawd\u017a!",
@@ -390,6 +380,16 @@
         "AbstractURL": "https://www.wf3d.shop/"
     },
     {
+        "link": "https://wha-group.com",
+        "Heading": "WHA Corporation PCL. (WHA)",
+        "Abstract": null,
+        "Official Site": "https://wha-group.com",
+        "Icon": "https://www.wha-group.com/storage/logo.svg",
+        "Redirect": "https://wha-group.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wha-group.com"
+    },
+    {
         "link": "https://wheelsbikes.com",
         "Heading": "Wheels Bicycles Store | Trek Bikes official Distributor in KSA ",
         "Abstract": "Wheels Trek Bikes Store offers a wide range of high-quality bicycles, accessories, and components at competitive prices. Shop now within our extensive\u00a0collection.",
@@ -403,11 +403,11 @@
         "link": "https://wiecejnizmatura.pl",
         "Heading": "Wszystko do matury w jednym miejscu. Gwarantujemy TOP15% wynik\u00f3w lub zwrot koszt\u00f3w \ud83e\uddea\ud83c\udf33 \u2014 Wi\u0119cej ni\u017c Matura",
         "Abstract": "Sprawd\u017a nowoczesne kursy maturalne online na Wi\u0119cej ni\u017c Matura. \ud83d\udcaa Gwarantujemy Ci odpowied\u017a na ka\u017cde pytanie, sprawdzenie ka\u017cdego zadania, wyniki TOP15% - pe\u0142ne wsparcie przy nauce! Ucz si\u0119 z nami gdzie chcesz i kiedy chcesz! \ud83e\uddea\ud83e\uddec\ud83c\udf33",
-        "Official Site": "https://wiecejnizmatura.pl/",
-        "Icon": "https://cms.landing.bethink.tech/assets/wiecej-niz-matura/covers/linkimage_wnm_default.png",
-        "Redirect": "https://wiecejnizmatura.pl/",
+        "Official Site": "https://front-wnm.ecommerce.bethink.tech/",
+        "Icon": "https://storage.googleapis.com/bethink-websites-cms-assets-production/assets/wiecej-niz-matura/covers/linkimage_wnm_default.png",
+        "Redirect": "https://front-wnm.ecommerce.bethink.tech/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://wiecejnizmatura.pl/"
+        "AbstractURL": "https://front-wnm.ecommerce.bethink.tech/"
     },
     {
         "link": "https://wiggot.com",

@@ -104,7 +104,7 @@
         "Heading": "CCTools: The Canton Network Community Toolkit",
         "Abstract": "The community toolkit for Canton Network. Explore 486 ecosystem projects, track portfolios, calculate rewards, and discover earning opportunities.",
         "Official Site": "https://cctools.network",
-        "Icon": "https://cctools.network/opengraph-image?2f18ed2cbb1947ca",
+        "Icon": "https://cctools.network/opengraph-image?35b45844a34503d5",
         "Redirect": "https://cctools.network",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cctools.network"
@@ -148,6 +148,16 @@
         "Redirect": "https://www.discmedicine.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.discmedicine.com"
+    },
+    {
+        "link": "https://dpple.net",
+        "Heading": "\ub514\uc060\ub137",
+        "Abstract": "\ub514\uc060\ub137",
+        "Official Site": "http://dpple.net/",
+        "Icon": "http://www.dpple.net/data/apms/background/dpple.jpg",
+        "Redirect": "http://dpple.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://dpple.net/"
     },
     {
         "link": "https://dreamaquarium.com",
@@ -248,16 +258,6 @@
         "Redirect": "https://lunexx.pl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lunexx.pl/"
-    },
-    {
-        "link": "https://mangainn.net",
-        "Heading": "mangainn.net",
-        "Abstract": null,
-        "Official Site": "https://mangainn.net",
-        "Icon": "N/A",
-        "Redirect": "https://mangainn.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mangainn.net"
     },
     {
         "link": "https://mih645.com",

@@ -84,7 +84,7 @@
         "Heading": "EDM Dance Directory \u2014 DJs, Festivals & Clubs Worldwide",
         "Abstract": "Global directory of electronic music events, DJs and venues. Browse artists, festivals and clubs across cities worldwide and find what's on tonight.",
         "Official Site": "https://edmdancedirectory.com/",
-        "Icon": "https://edmdancedirectory.com/api/img?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab6761610000e5eb3b36061d564eb7e61e951460&w=1200",
+        "Icon": "https://edmdancedirectory.com/api/img?url=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab6761610000e5ebcc8343e5affc87c4370bb024&w=1200",
         "Redirect": "https://edmdancedirectory.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://edmdancedirectory.com/"
@@ -228,16 +228,6 @@
         "Redirect": "https://erajo-fapa.online",
         "AbstractSource": "BS4",
         "AbstractURL": "https://erajo-fapa.online"
-    },
-    {
-        "link": "https://eransa.cz",
-        "Heading": "ERANSA s.r.o.",
-        "Abstract": "",
-        "Official Site": "https://eransa.cz/sk/",
-        "Icon": "https://eransa.cz/img/favicon.ico?1780418249",
-        "Redirect": "https://eransa.cz/sk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eransa.cz/sk/"
     },
     {
         "link": "https://espuntik.sk",
