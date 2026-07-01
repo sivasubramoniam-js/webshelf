@@ -20,14 +20,14 @@
         "AbstractURL": "https://triggernovyjsezon.online"
     },
     {
-        "link": "https://todoelectrico.es",
-        "Heading": "Todoelectrico - Tienda Electricidad e Iluminaci\u00f3n",
-        "Abstract": "Comprar material el\u00e9ctrico y en tienda de electricidad, estamos Pol. Ind Canastel calle Yunque 27. env\u00edos 24.TLF 965 670 786",
-        "Official Site": "https://todoelectrico.es/es/",
-        "Icon": "/img/todoelectrico-logo-1622645156.jpg",
-        "Redirect": "https://todoelectrico.es/es/",
+        "link": "https://formrite.com.au",
+        "Heading": "\n    \n    Formrite Group - Pharma Plastic Sydney, Melbourne, Adelaide\n  \n  ",
+        "Abstract": "Formrite Group offers top packaging & POS solutions with 60+ years' expertise in Sydney NSW, Melbourne VIC & Adelaide SA. Benefit from custom designs & fast turnaround! Enquire now.",
+        "Official Site": "https://www.formrite.com.au/",
+        "Icon": "https://irp.cdn-website.com/111de763/site_favicon_16_1746556704166.ico",
+        "Redirect": "https://www.formrite.com.au/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://todoelectrico.es/es/"
+        "AbstractURL": "https://www.formrite.com.au/"
     },
     {
         "link": "https://portables.org",
@@ -70,6 +70,16 @@
         "AbstractURL": "https://www.bartontool.com"
     },
     {
+        "link": "https://armyheritage.org",
+        "Heading": "Home - Army Heritage Center Foundation",
+        "Abstract": "The Military Heritage Foundation doing business as the Army Heritage Center Foundation, is a charitable organization. %",
+        "Official Site": "https://www.armyheritage.org/",
+        "Icon": "https://www.armyheritage.org/wp-content/uploads/2025/10/IMG_1064-2048x1365.jpg",
+        "Redirect": "https://www.armyheritage.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.armyheritage.org/"
+    },
+    {
         "link": "https://coffland.com",
         "Heading": "coffland.com",
         "Abstract": null,
@@ -88,16 +98,6 @@
         "Redirect": "https://consumersresearch.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://consumersresearch.org/"
-    },
-    {
-        "link": "https://franchiseexpo.com",
-        "Heading": "Franchise Expo",
-        "Abstract": "Attend our franchise conferences to find new business opportunities near you. Learn more about our franchise shows across the US and around the world.",
-        "Official Site": "https://www.franchiseexpo.com/",
-        "Icon": "/media/templates/site/portaler_franchiseexpo/images/site-share.jpg",
-        "Redirect": "https://www.franchiseexpo.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.franchiseexpo.com/"
     },
     {
         "link": "https://blusun.shoes",
@@ -194,7 +194,7 @@
         "Heading": "\u00a0\u00a0\u00a0\u00a0",
         "Abstract": null,
         "Official Site": "https://12399.cc",
-        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAP0SURBVHgB7VU7bxtHEJ7ZPSoqjPhSpsqlSS3/Ap+bAEGaqEmRxmITIE0sFUkXiAnyAlKIRApXASUYeXR0KlUBnSZp1bkJEFqFLVsQfDbNh8TbHc/s3h7vaEmtGw60WuJuZr9vvpnZA1ja0pb2mg1/2aeuQkhAAWgEuH//P0Cgve8/f2/3ssDeP/QRbzd5xeFZ9nS41/zwzVpcr0/xFOCWIUjJAhABWHJ7BmNoRuyT8oNEyQuJ4H+oVNra+f9ua+vd7FzwfymxBnrVZ2dnORwenvy9CD4m6DPYWgAGcn8ZZ3mjuY6ZIv/AMZNVCAOwqjbhApvNYNsw0XIZgJOTIUQrUenT3Z8kI0MleFhWwIHB38cD8VO2Ah4IINdER/rWRQQYMLUcGNYpZz8en0IURSU4qkafAMvMC9kHYOBaAPcEKnWxBQGFCIgY/3TnOF0E//Uv2uCYJGQu+7PnYxcrBG73JgmB7qPSiTt3TnTA6d9ofoCD6nmqmoksEHCleFPye3uRQG65ocTXeH+p/ejFlBWLoNFYeUdp7CN6cOcnmTM40qvgnkDFURa67FVBQqc7vafxvK4k0q8JsCnihsOJ6yGtIyGxobROLKla5gjng88VqEgFMo/gshc5QOUrZTNahJu20niyS+0dOC9U3AMYQcieeyNTl4A7NFMAh0OlAT24AnJKRK4Zb+9Twu83QudLzGjks1cMrLRfAXw6PYWjh0fx4eHRdbjElDWVcSKXcyYlIPAKsDrxzz2WfgZpbfQk+9EkC+CSPTFpef782RAeP3rsp0ph+7vuk7WLFaB5RrKzlh0PznXkWpIs4Lk3sJ2bufQct2sJMye7gLP08u7FcHRwcnzswJXS0ksxYKP3w++T5MISSGBe7NH0rM1RmWTjMiKXVepGL/hJ9xvoeABPQBLImdQXn1y5hlrf4zFkAbVkxOR4Kgz1zi+BrSvgr1/VcZ3sFED3PK82n4F7W+t4QEXTiZ+oM8vhgRz6Rk7rTGBQIwF67cc/aOcVAnkxfrkJU8AWqbYFzFhiBkYI0gcSvO85PwHnw0NZbO7DJQnNc09MgrN3PuT9Nr/9jTbrJajUNS8ItJpvsQq6Y8HPc7VETGbw5ce4K36EDbAVhUK8O+OztwdoGutUgFvSQcGd1h1KSwJQuYatrXJbbVuLmVmYewbpBA+nkCfl3tfjmcSnV/jOV1tlIqHc/CVtdSnxBILVvoaiApfAqk4JYIsyzeBu8MnzOjmzQMCfs9omq74OHz3wGDFXts8kYhneP7lMV31K9WBm15Z7gO+lqxLI9/keExuUCliOxSKW3GgewDn2TRNbX3VpwHfcdZey9YfLxQZLW9rSXre9BOiNus7s6qHJAAAAAElFTkSuQmCC",
+        "Icon": "N/A",
         "Redirect": "https://12399.cc",
         "AbstractSource": "BS4",
         "AbstractURL": "https://12399.cc"

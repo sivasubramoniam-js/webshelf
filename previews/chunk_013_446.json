@@ -20,16 +20,6 @@
         "AbstractURL": "https://www.venice-beach.com/"
     },
     {
-        "link": "https://probaseballinsider.com",
-        "Heading": "Pro Baseball Insider - Baseball tips and instruction from the pros",
-        "Abstract": "Free baseball instruction by professional baseball players. Basic to advanced strategy and pro baseball tips for hitting, fielding, pitching, catching, and so much more",
-        "Official Site": "https://probaseballinsider.com/",
-        "Icon": "https://probaseballinsider.com/wp-content/uploads/2012/04/PBI-Logo.jpg",
-        "Redirect": "https://probaseballinsider.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://probaseballinsider.com/"
-    },
-    {
         "link": "https://printrecipes.net",
         "Heading": "Print Recipes - Free New Tab Browser Extension | printrecipes.net",
         "Abstract": "Recipe Search and New Tab Chrome Browser Extension",
@@ -48,6 +38,16 @@
         "Redirect": "https://www.wellgreenxa.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.wellgreenxa.com/"
+    },
+    {
+        "link": "https://mendeswooddm.com",
+        "Heading": "Mendes Wood DM",
+        "Abstract": "Mendes Wood DM was founded in S\u00e3o Paulo in 2010 by Felipe Dmab, Matthew Wood, and Pedro Mendes to exhibit international and Brazilian artists in a context conducive to critical dialogue and the cross-pollination of ideas. Inspired by a belief that artistic practices broaden the scope of human agency and...",
+        "Official Site": "https://mendeswooddm.com",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://mendeswooddm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mendeswooddm.com"
     },
     {
         "link": "https://grupapracuj.pl",
@@ -120,11 +120,21 @@
         "AbstractURL": "https://wehilion.com/"
     },
     {
+        "link": "https://rmqkr.net",
+        "Heading": "rmqkr.net",
+        "Abstract": null,
+        "Official Site": "https://rmqkr.net",
+        "Icon": "N/A",
+        "Redirect": "https://rmqkr.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rmqkr.net"
+    },
+    {
         "link": "https://lwsystems.de",
         "Heading": "Schluss mit IT-Abh\u00e4ngigkeiten! - LWsystems | OPEN SOURCE IT-L\u00f6sungen",
         "Abstract": "Seit mehr als 15 Jahren beraten, betreuen und schulen wir Unternehmen und Organisationen national und international in IT-Angelegenheiten.",
         "Official Site": "https://www.lw-systems.de/",
-        "Icon": "https://www.lw-systems.de/wp-content/uploads/2021/11/grafik-17-server-i.svg",
+        "Icon": "https://www.lw-systems.de/wp-content/uploads/2022/04/Facebook-Post-Image.jpg",
         "Redirect": "https://www.lw-systems.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lw-systems.de/"

@@ -22,12 +22,12 @@
     {
         "link": "https://givebackabroad.org",
         "Heading": "Give Back Abroad \u2014 Free Volunteer Programs Worldwide",
-        "Abstract": "Connect directly with vetted NGOs worldwide. No placement fees, ever. 2,400+ volunteers across 60+ countries.",
-        "Official Site": "https://givebackabroad.org/",
-        "Icon": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?q=80&w=1200&auto=format&fit=crop",
-        "Redirect": "https://givebackabroad.org/",
+        "Abstract": null,
+        "Official Site": "https://givebackabroad.org",
+        "Icon": "/favicon.svg",
+        "Redirect": "https://givebackabroad.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://givebackabroad.org/"
+        "AbstractURL": "https://givebackabroad.org"
     },
     {
         "link": "https://sepet.es",
@@ -228,6 +228,16 @@
         "Redirect": "https://rocketresponder.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rocketresponder.com/"
+    },
+    {
+        "link": "https://flipnet.id",
+        "Heading": "PT. NESINDO INOVASI PRIMA | FLIPNET \u2013 FLiPnet Good Like It Should",
+        "Abstract": null,
+        "Official Site": "https://flipnet.id",
+        "Icon": "https://flipnet.id/wp-content/uploads/2024/10/cropped-icon-32x32.png",
+        "Redirect": "https://flipnet.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://flipnet.id"
     },
     {
         "link": "https://mocfun.vn",

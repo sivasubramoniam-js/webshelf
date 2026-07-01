@@ -40,16 +40,6 @@
         "AbstractURL": "https://mikeabrahamsen.me"
     },
     {
-        "link": "https://misumiller.es",
-        "Heading": "Comprar vinos y licores online | Misumiller",
-        "Abstract": "Tienda online de Vinos y Licores al mejor precio. Ofertas diarias. Env\u00edos en 24 horas. Asesoramiento Gratuito de nuestro Sumiller experto.",
-        "Official Site": "https://misumiller.es/es/",
-        "Icon": "https://misumiller.es/img/bloqueps-logo-1633075523.jpg",
-        "Redirect": "https://misumiller.es/es/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://misumiller.es/es/"
-    },
-    {
         "link": "https://mjj.today",
         "Heading": "MJJ.TODAY - \u514d\u8d39\u56fe\u5e8a \u4e0a\u4f20\u56fe\u7247\u5206\u4eab",
         "Abstract": "\u514d\u8d39\u56fe\u5e8a \u4e0a\u4f20\u56fe\u7247\u5206\u4eab",
@@ -91,20 +81,20 @@
     },
     {
         "link": "https://mondomodelcars.it",
-        "Heading": "Verifica accesso / Security Check",
-        "Abstract": null,
-        "Official Site": "https://mondomodelcars.it",
-        "Icon": "N/A",
-        "Redirect": "https://mondomodelcars.it",
+        "Heading": "Mondomodelcars.it Vendita modellini on-line",
+        "Abstract": "Acquista online al miglior prezzo nel nostro catalogo con oltre 20.000 modellini in pronta consegna per la tua collezione.",
+        "Official Site": "https://www.mondomodelcars.it/",
+        "Icon": "https://www.mondomodelcars.it/ReadySkins/wonder/img/no_image_FB.png",
+        "Redirect": "https://www.mondomodelcars.it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mondomodelcars.it"
+        "AbstractURL": "https://www.mondomodelcars.it/"
     },
     {
         "link": "https://motorcycle4sale.com",
-        "Heading": "Motorcycles for Sale",
+        "Heading": "Motorcycles for sale",
         "Abstract": "Catalog of motorcycles, tips on choosing and buying a motorcycle in United Kingdom and USA. Biggest selection of motorcycles for sale.",
         "Official Site": "https://motorcycle4sale.com",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://motorcycle4sale.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://motorcycle4sale.com"

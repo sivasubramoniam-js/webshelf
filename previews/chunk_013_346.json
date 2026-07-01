@@ -10,6 +10,16 @@
         "AbstractURL": "https://www.vyne.co.uk/"
     },
     {
+        "link": "https://lanestel.net",
+        "Heading": "Op\u00e9rateur t\u00e9l\u00e9com pour entreprises \u00e0 Brest et en Bretagne - LANESTEL",
+        "Abstract": "LANESTEL est un op\u00e9rateur et int\u00e9grateur t\u00e9l\u00e9com sp\u00e9cialis\u00e9 dans les infrastructures r\u00e9seau pour entreprises. Nous concevons et d\u00e9ployons des solutions",
+        "Official Site": "https://www.lanestel.fr/",
+        "Icon": "https://www.lanestel.fr/wp-content/uploads/2022/07/2020-landscape-1.png",
+        "Redirect": "https://www.lanestel.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lanestel.fr/"
+    },
+    {
         "link": "https://proofnews.org",
         "Heading": "Proof",
         "Abstract": "Proof is investigating the social impacts of AI. Join our mailing list for updates.",
@@ -18,6 +28,16 @@
         "Redirect": "https://www.proofnews.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.proofnews.org/"
+    },
+    {
+        "link": "https://cybro.io",
+        "Heading": "CYBRO - Smart Hub for Liquidity Providers | Uniswap V3 & PancakeSwap V3",
+        "Abstract": "Track and manage concentrated liquidity positions across Uniswap V3 and PancakeSwap V3. Fees, APR, IL, and analytics across Ethereum, Base, Arbitrum, Unichain, and BNB Chain.",
+        "Official Site": "https://cybro.io",
+        "Icon": "https://cybro.io/images/token_dark.png",
+        "Redirect": "https://cybro.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cybro.io"
     },
     {
         "link": "https://vihrrussia.ru",
@@ -48,16 +68,6 @@
         "Redirect": "https://feeltiptop.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://feeltiptop.com"
-    },
-    {
-        "link": "https://patronatosscc.cl",
-        "Heading": "PatronatoSSCC \u2013 Fundaci\u00f3n que trabaja para la protecci\u00f3n de derechos de la ni\u00f1ez",
-        "Abstract": null,
-        "Official Site": "https://patronatosscc.cl",
-        "Icon": "https://patronatosscc.cl/wp-content/uploads/2024/05/cropped-Favicon_Mesa-de-trabajo-1-32x32.jpg",
-        "Redirect": "https://patronatosscc.cl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://patronatosscc.cl"
     },
     {
         "link": "https://limelody.cc",
@@ -120,16 +130,6 @@
         "AbstractURL": "https://cityofcripplecreek.com"
     },
     {
-        "link": "https://maxandermas.com",
-        "Heading": "Max & Erma's | The Neighborhood Gathering Place",
-        "Abstract": "Come on in to Max & Erma's for award-winning burgers, locally brewed beer & Erma's fresh-baked Chocolate Chip Cookies. Max & Erma's -- a fun, funky place since 1972. Eat, Drink & Whatever.",
-        "Official Site": "https://maxandermas.com",
-        "Icon": "https://www.maxandermas.com/wp-content/uploads/2026/01/cropped-ME-Favicon-32x32.png",
-        "Redirect": "https://maxandermas.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://maxandermas.com"
-    },
-    {
         "link": "https://enhostdns.com",
         "Heading": null,
         "Abstract": null,
@@ -141,13 +141,13 @@
     },
     {
         "link": "https://senioren-ratgeber.de",
-        "Heading": "Senioren Ratgeber | Apotheken Umschau",
-        "Abstract": "Der Senioren Ratgeber begleitet \u00e4ltere Menschen in ihrem Alltag. Hier finden Sie Tipps rund um Vorsorge, Ern\u00e4hrung, Bewegung, Reise, Partnerschaft und Pflege. Bl\u00e4ttern Sie in der aktuellen Ausgabe des Senioren Ratgeber. Das komplette Magazin erhalten Sie in Ihrer Apotheke",
-        "Official Site": "https://www.apotheken-umschau.de/unsere-marken/senioren-ratgeber/",
-        "Icon": "https://cdn.apotheken-umschau.de/v7/_auirp_/image/04/1/5/2/eyJ3IjoiMTIwMCIsImgiOiI2MzAiLCJmbSI6InBuZyIsInEiOiIxMDAiLCJmaXQiOiJjcm9wLTUwLTUwIiwicyI6IjYyNDg5MjdjNzkwODVjNTAzN2Q1NDVkMzgxNDg3ZDBlIn0=/open_graph_facebook_default_logo-ec8e4d4b62a6cfc8.png",
-        "Redirect": "https://www.apotheken-umschau.de/unsere-marken/senioren-ratgeber/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://senioren-ratgeber.de",
+        "Icon": "N/A",
+        "Redirect": "https://senioren-ratgeber.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.apotheken-umschau.de/unsere-marken/senioren-ratgeber/"
+        "AbstractURL": "https://senioren-ratgeber.de"
     },
     {
         "link": "https://1200bps.xyz",
@@ -181,7 +181,7 @@
     },
     {
         "link": "https://kuwin1.club",
-        "Heading": "KUWIN TRUE - KUWIN.COM - LINK \u0110\u0102NG NH\u1eacP TRANG CH\u1ee6 KU WIN T\u1eb6NG 99K",
+        "Heading": "KUWIN SONGS - KUWIN.COM - LINK \u0110\u0102NG NH\u1eacP TRANG CH\u1ee6 KU WIN T\u1eb6NG 99K",
         "Abstract": "Kuwin \u2013 nh\u00e0 c\u00e1i c\u00e1 c\u01b0\u1ee3c tr\u1ef1c tuy\u1ebfn uy t\u00edn v\u1edbi kho game phong ph\u00fa, b\u1ea3o m\u1eadt an to\u00e0n tuy\u1ec7t \u0111\u1ed1i v\u00e0 d\u1ecbch v\u1ee5 h\u1ed7 tr\u1ee3 24/7, k\u00e8m nhi\u1ec1u \u01b0u \u0111\u00e3i th\u01b0\u1edfng h\u1ea5p d\u1eabn.",
         "Official Site": "https://xclusivesongs.africa/vi-vn/",
         "Icon": "https://xclusivesongs.africa/wp-content/uploads/2025/07/kuwin-thumb.webp",

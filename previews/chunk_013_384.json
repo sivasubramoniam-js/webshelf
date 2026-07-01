@@ -101,10 +101,10 @@
     },
     {
         "link": "https://petrushenko.space",
-        "Heading": "\u0427\u0430\u0441\u0442\u043d\u0430\u044f\u00a0\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f\u00a0\u0441\u0438\u0441\u0442\u0435\u043c\u0430",
-        "Abstract": "Synology NAS provides a full-featured network attached storage (NAS) solution to help you manage, backup and share data among Windows, Mac and Linux easily.",
+        "Heading": "DSM mobile - \u0427\u0430\u0441\u0442\u043d\u0430\u044f\u00a0\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f\u00a0\u0441\u0438\u0441\u0442\u0435\u043c\u0430",
+        "Abstract": null,
         "Official Site": "https://petrushenko.space",
-        "Icon": "webman/favicon.ico?v=40438",
+        "Icon": "webman/favicon.ico?v=86009",
         "Redirect": "https://petrushenko.space",
         "AbstractSource": "BS4",
         "AbstractURL": "https://petrushenko.space"
@@ -150,14 +150,24 @@
         "AbstractURL": "https://kumina.eu/"
     },
     {
-        "link": "https://generalhospitalblog.com",
-        "Heading": "General Hospital Spoilers Comings & Goings Rumors News",
-        "Abstract": "General Hospital Spoilers, Rumors, News, & Updates",
-        "Official Site": "https://www.generalhospitalblog.com/",
-        "Icon": "https://i0.wp.com/www.generalhospitalblog.com/wp-content/uploads/2023/07/cropped-6A8D64AD-48E9-4008-8281-014D3CFB3144.png?fit=512%2C512&ssl=1",
-        "Redirect": "https://www.generalhospitalblog.com/",
+        "link": "https://bonyan-shahd.com",
+        "Heading": "\u0628\u0646\u06cc\u0627\u0646 \u0634\u0647\u062f -",
+        "Abstract": null,
+        "Official Site": "https://bonyan-shahd.com/",
+        "Icon": "https://bonyan-shahd.com/wp-content/uploads/2026/06/favicon.png",
+        "Redirect": "https://bonyan-shahd.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.generalhospitalblog.com/"
+        "AbstractURL": "https://bonyan-shahd.com/"
+    },
+    {
+        "link": "https://nexaweb.ir",
+        "Heading": "\u0646\u06a9\u0633\u0627\u0648\u0628 \u2013 \u0622\u0698\u0627\u0646\u0633 \u062f\u06cc\u062c\u06cc\u062a\u0627\u0644 \u0645\u0627\u0631\u06a9\u062a\u06cc\u0646\u06af",
+        "Abstract": null,
+        "Official Site": "https://nexaweb.ir",
+        "Icon": "https://nexaweb.ir/wp-content/uploads/2025/09/cropped-logo-carp-32x32.png",
+        "Redirect": "https://nexaweb.ir",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nexaweb.ir"
     },
     {
         "link": "https://prayercaresharenetwork.com",

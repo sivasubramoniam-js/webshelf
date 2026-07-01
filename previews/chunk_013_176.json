@@ -170,16 +170,6 @@
         "AbstractURL": "https://www.nixfox.ca"
     },
     {
-        "link": "https://treespot.net",
-        "Heading": "treespot search",
-        "Abstract": "Search within treespot.net",
-        "Official Site": "https://treespot.net",
-        "Icon": "N/A",
-        "Redirect": "https://treespot.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://treespot.net"
-    },
-    {
         "link": "https://srafe7.com.br",
         "Heading": null,
         "Abstract": null,
@@ -251,10 +241,10 @@
     },
     {
         "link": "https://huikao8.cn",
-        "Heading": "\u4f1a\u8003\u5427\u667a\u80fd\u5728\u7ebf\u57f9\u8bad\u5e73\u53f0",
-        "Abstract": null,
+        "Heading": "\u4f1a\u8003\u5427\u667a\u80fd\u5728\u7ebf\u57f9\u8bad\u5e73\u53f0\u2014\u6211\u7684\u7f51\u6821|\u6559\u52a1\u7ba1\u7406|\u7f51\u6821\u642d\u5efa|\u5728\u7ebf\u6559\u80b2\u89e3\u51b3\u65b9\u6848",
+        "Abstract": "\u4f1a\u8003\u5427\u662f\u4e00\u6b3e\u9762\u5411\u6559\u57f9\u673a\u6784\u7684\u5728\u7ebf\u7f51\u6821\u5e73\u53f0\uff0c\u63d0\u4f9b\u62db\u751f\u3001\u6559\u52a1\u3001\u6559\u5b66\u3001\u8003\u8bd5\u3001\u5b66\u4e60\u7b49\u573a\u666f\u7684\u4e00\u7ad9\u5f0f\u670d\u52a1\uff0c\u4e3a\u673a\u6784\u89e3\u51b3\u529e\u5b66\u8fc7\u7a0b\u4e2d\u7684\u5404\u79cd\u96be\u9898\u3002\u529f\u80fd\u5305\u62ec\uff1a\u62db\u751f\u8425\u9500\u3001\u6559\u52a1\u7ba1\u7406\u3001\u7f51\u6821\u642d\u5efa\u3001\u6d77\u91cf\u9898\u5e93\u4ee5\u53ca\u6211\u7684\u7f51\u6821\u5728\u7ebf\u5b66\u4e60app ",
         "Official Site": "https://huikao8.cn",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://huikao8.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://huikao8.cn"

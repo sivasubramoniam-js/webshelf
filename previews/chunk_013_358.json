@@ -40,16 +40,6 @@
         "AbstractURL": "https://ren-finthra.net/"
     },
     {
-        "link": "https://zevraen.space",
-        "Heading": "Zevraen",
-        "Abstract": null,
-        "Official Site": "https://zevraen.space",
-        "Icon": "N/A",
-        "Redirect": "https://zevraen.space",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zevraen.space"
-    },
-    {
         "link": "https://mysterymod.net",
         "Heading": "Login To Manage Your Mail Domains & Accounts",
         "Abstract": null,
@@ -130,6 +120,16 @@
         "AbstractURL": "https://hasslinger.at"
     },
     {
+        "link": "https://reasonandmeaning.com",
+        "Heading": "Reason and Meaning | Philosophical reflections on life, death, and the  meaning of life",
+        "Abstract": "Philosophical reflections on life, death, and the  meaning of life",
+        "Official Site": "https://reasonandmeaning.com/",
+        "Icon": "https://i0.wp.com/reasonandmeaning.com/wp-content/uploads/2015/01/theThinkerIcon-54b03aa4v1_site_icon.png?fit=512%2C512&ssl=1",
+        "Redirect": "https://reasonandmeaning.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://reasonandmeaning.com/"
+    },
+    {
         "link": "https://gokhalemethod.com",
         "Heading": "Gokhale Method\u00ae - Move like you are meant to.",
         "Abstract": "Do you want to learn how to sit, stand, lie, bend, and move with proper posture that is comfortable while preserving your discs and joints? Join us to find out more!",
@@ -151,13 +151,13 @@
     },
     {
         "link": "https://supra-korea.com",
-        "Heading": "SUPRA \uacf5\uc2dd \uc628\ub77c\uc778\ubab0 - \uc54c\uae30 \uc26c\uc6b4 \uac1c\uc778\uc815\ubcf4\ucc98\ub9ac\ubc29\uce68",
+        "Heading": "SUPRA \uacf5\uc2dd \uc628\ub77c\uc778\ubab0",
         "Abstract": "\ud504\ub9ac\ubbf8\uc5c4 \uc544\uc6c3\ub3c4\uc5b4 & \uc2a4\ud2b8\ub9bf \ub77c\uc774\ud504\uc2a4\ud0c0\uc77c \ube0c\ub79c\ub4dc SUPRA\uc758 \uacf5\uc2dd \uc628\ub77c\uc778 \uc2a4\ud1a0\uc5b4",
-        "Official Site": "https://www.supra-korea.com/information/privacy-policy-guide",
+        "Official Site": "https://www.supra-korea.com/",
         "Icon": "https://www.supra-korea.com/images/main-banner.jpg",
-        "Redirect": "https://www.supra-korea.com/information/privacy-policy-guide",
+        "Redirect": "https://www.supra-korea.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.supra-korea.com/information/privacy-policy-guide"
+        "AbstractURL": "https://www.supra-korea.com/"
     },
     {
         "link": "https://blohost.com",
@@ -168,16 +168,6 @@
         "Redirect": "https://blohost.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://blohost.com"
-    },
-    {
-        "link": "https://webmatrixhosting.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://webmatrixhosting.net",
-        "Icon": "N/A",
-        "Redirect": "https://webmatrixhosting.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://webmatrixhosting.net"
     },
     {
         "link": "https://ratesight.com",
@@ -228,15 +218,5 @@
         "Redirect": "https://mdxczx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mdxczx.com"
-    },
-    {
-        "link": "https://crossingsbrewpub.com",
-        "Heading": "TANGANDEWA : Link Situs Slot Gacor Hari Ini Slot88 Maxwin Gampang Menang",
-        "Abstract": "TANGANDEWA merupakan link situs slot gacor gampang menang hari ini ada bocoran dari provider slot88 anti boncos rtp tertinggi rekomendasi slot777 terupdate.",
-        "Official Site": "https://flamingolandings.com/menu/",
-        "Icon": "https://flamingolandings.com/gambar/favi.png",
-        "Redirect": "https://flamingolandings.com/menu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://flamingolandings.com/menu/"
     }
 ]
