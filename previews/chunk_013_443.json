@@ -100,6 +100,16 @@
         "AbstractURL": "https://www.rinky.info/"
     },
     {
+        "link": "https://clumsycrafter.com",
+        "Heading": "Home - Clumsy Crafter",
+        "Abstract": null,
+        "Official Site": "https://www.clumsycrafter.com/",
+        "Icon": "https://www.clumsycrafter.com/wp-content/themes/Pretty%20Chic/images/favicon.ico",
+        "Redirect": "https://www.clumsycrafter.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.clumsycrafter.com/"
+    },
+    {
         "link": "https://thephantomserver.com",
         "Heading": "Website Under Construction - Hosted on The Phantom Server",
         "Abstract": null,
@@ -180,14 +190,24 @@
         "AbstractURL": "https://hindinude.com"
     },
     {
-        "link": "https://ketabejamkaran.ir",
-        "Heading": "\u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc - \u06a9\u062a\u0627\u0628 \u062c\u0645\u06a9\u0631\u0627\u0646",
-        "Abstract": "\u06a9\u062a\u0627\u0628 \u062c\u0645\u06a9\u0631\u0627\u0646 \u0646\u0627\u0634\u0631 \u06a9\u062a\u0627\u0628 \u0647\u0627\u06cc \u0645\u0630\u0647\u0628\u06cc \u0628\u0627 \u062a\u0645\u0631\u06a9\u0632 \u0628\u0631 \u06a9\u062a\u0627\u0628 \u0647\u0627\u06cc \u0645\u0647\u062f\u0648\u06cc \u062f\u0631 \u06af\u0631\u0648\u0647 \u0633\u0646\u06cc \u06a9\u0648\u062f\u06a9 \u0648 \u0646\u0648\u062c\u0648\u0627\u0646 \u0648 \u0628\u0632\u0631\u06af\u0633\u0627\u0644. \u0633\u0627\u06cc\u062a \u06a9\u062a\u0627\u0628 \u062c\u0645\u06a9\u0631\u0627\u0646 \u062f\u0627\u0631\u0627\u06cc \u0628\u06cc\u0634 \u0627\u0632 10000 \u0639\u0646\u0648\u0627\u0646 \u06a9\u062a\u0627\u0628 \u0627\u0632 \u0646\u0627\u0634\u0631\u0627\u0646 \u0628\u0631\u062a\u0631",
-        "Official Site": "https://ketabejamkaran.ir/",
-        "Icon": "https://ketabejamkaran.ir/wp-content/uploads/\u0644\u0648\u06af\u0648-\u06a9\u062a\u0627\u0628-\u062c\u0645\u06a9\u0631\u0627\u0646-02.png",
-        "Redirect": "https://ketabejamkaran.ir/",
+        "link": "https://kediritangguh.co",
+        "Heading": "Kediri Tangguh \u2013 Berita Akurat Terpercaya",
+        "Abstract": "\u00a0 HOT NEWS Mitsubishi Destinator Sambangi Kediri, Premium SUV 7 Penumpang dengan Mesin 1500cc Turbo 9 Agustus 2025 Persatuan Wartawan Indonesia dan Pemuda Pancasila Desak Penindakan Tegas Miras Ilegal 8 Agustus 2025 Bupati Kediri Perintahkan Penertiban Miras Oplosan: Satpol PP Diminta Gencar Operasi 8 Agustus 2025 Bupati Kediri Tanggapi Ramai...",
+        "Official Site": "https://kediritangguh.co/",
+        "Icon": "https://example.com/default-thumbnail.jpg",
+        "Redirect": "https://kediritangguh.co/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ketabejamkaran.ir/"
+        "AbstractURL": "https://kediritangguh.co/"
+    },
+    {
+        "link": "https://ketabejamkaran.ir",
+        "Heading": "Bot Verification",
+        "Abstract": null,
+        "Official Site": "https://ketabejamkaran.ir",
+        "Icon": "N/A",
+        "Redirect": "https://ketabejamkaran.ir",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ketabejamkaran.ir"
     },
     {
         "link": "https://mariana-rosado.site",

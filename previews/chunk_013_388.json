@@ -41,23 +41,23 @@
     },
     {
         "link": "https://zipcube.com",
-        "Heading": "Zipcube | Book Meeting Rooms, Venues & Office Space",
-        "Abstract": "Find and book meeting rooms, conference venues, office space and more. Zipcube offers 27,000+ verified spaces.",
-        "Official Site": "https://www.zipcube.com/uk",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://www.zipcube.com/uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://zipcube.com",
+        "Icon": "N/A",
+        "Redirect": "https://zipcube.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.zipcube.com/uk"
+        "AbstractURL": "https://zipcube.com"
     },
     {
         "link": "https://imagor.net",
-        "Heading": "imagor \u2014 Fast, secure image processing server for modern image pipelines.",
-        "Abstract": "Fast, secure image processing server for modern image pipelines. Explore imagor in a hosted workspace for teams, plus public docs and benchmark-backed technical references.",
-        "Official Site": "https://imagor.net/",
-        "Icon": "/favicon.png",
-        "Redirect": "https://imagor.net/",
+        "Heading": "Imagor Studio",
+        "Abstract": "Self-hosted image processing with built-in browsing and layered editing for your own storage. Save reusable templates and generate URL-based transformations.",
+        "Official Site": "https://imagor.net",
+        "Icon": "favicon.png",
+        "Redirect": "https://imagor.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://imagor.net/"
+        "AbstractURL": "https://imagor.net"
     },
     {
         "link": "https://serveshost.com",
@@ -211,13 +211,33 @@
     },
     {
         "link": "https://cardiffwebdevelopment.co.uk",
-        "Heading": "Cardiff Web Development - Bespoke Website Design & Development Services",
-        "Abstract": "Cardiff Web Development & Website Design Solutions We\u2019re a professional Cardiff website design & web development company who specialise in bespoke web application development and website design for individuals and businesses across the UK. We also provide an array of digital services to help your business thrive. View Our Services Contact Us Request a Callback [\u2026]",
+        "Heading": "Bespoke Web Development & Web Design Agency | Cardiff",
+        "Abstract": "Cardiff web development agency building bespoke websites & web apps for ambitious UK businesses. Custom-built, fast & scalable. Get a quote.",
         "Official Site": "https://cardiffweb.co.uk/",
         "Icon": "https://cardiffweb.co.uk/wp-content/uploads/2024/10/cardiff-stadium-scaled-e1728421742865.jpg",
         "Redirect": "https://cardiffweb.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cardiffweb.co.uk/"
+    },
+    {
+        "link": "https://inred.ro",
+        "Heading": "Tipografie Arad \u2013 Print premium | Inred Business printing",
+        "Abstract": "Tipografie din Arad specializat\u0103 \u00een printuri premium pentru companii. C\u0103r\u021bi de vizit\u0103, flyere, pliante, cataloage, stickere \u0219i materiale comerciale realizate rapid, cu focus pe calitate \u0219i customer service....",
+        "Official Site": "https://www.inred.ro/",
+        "Icon": "https://www.inred.ro/image/cache/Template/inred-business-printing-arad-600x315.png",
+        "Redirect": "https://www.inred.ro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.inred.ro/"
+    },
+    {
+        "link": "https://tecnologiaargentina.com.mx",
+        "Heading": "TECNOLOGIA ARGENTINA - TECNOLOGIA ARGENTINA",
+        "Abstract": "Somos una tienda virtual mexicana que tiene como objetivo llegar a todos los usuarios de internet y poner a su alcance una amplia gama de art\u00edculos con los mejores precios, seguridad y confianza.",
+        "Official Site": "https://tecnologiaargentina.com.mx",
+        "Icon": "/img/favicon.ico?1706317913",
+        "Redirect": "https://tecnologiaargentina.com.mx",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tecnologiaargentina.com.mx"
     },
     {
         "link": "https://i4eye.com",
@@ -261,12 +281,22 @@
     },
     {
         "link": "https://efotolab.net",
-        "Heading": "EFotolab",
-        "Abstract": "EFotolab. The Best free photo and video galleries with beautiful girls",
+        "Heading": "EFotolab | The Best free photo and video galleries with beautiful girls | page 1",
+        "Abstract": null,
         "Official Site": "https://efotolab.net",
         "Icon": "N/A",
         "Redirect": "https://efotolab.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://efotolab.net"
+    },
+    {
+        "link": "https://spacecruft.org",
+        "Heading": "Spacecruft",
+        "Abstract": null,
+        "Official Site": "https://spacecruft.org",
+        "Icon": "N/A",
+        "Redirect": "https://spacecruft.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://spacecruft.org"
     }
 ]

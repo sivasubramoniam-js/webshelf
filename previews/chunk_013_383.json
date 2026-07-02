@@ -30,6 +30,16 @@
         "AbstractURL": "https://groruddalen.no/"
     },
     {
+        "link": "https://pixxelon.net",
+        "Heading": "Pixxelon - Domain - Web Hosting & Business Email Service",
+        "Abstract": "Get seamless access to a wide range of domain for registration, reliable and high-performance web hosting and secured business email solution.",
+        "Official Site": "https://www.pixxelon.com/",
+        "Icon": "https://www.pixxelon.com/pixxelon_con/uploads/2024/05/pixxelon-fb.png",
+        "Redirect": "https://www.pixxelon.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pixxelon.com/"
+    },
+    {
         "link": "https://thathwaa.com",
         "Heading": "Software Agency for Business Services",
         "Abstract": "Thathwaa is one of the best software companies in India. We offer creative network of advertising and branding. Our services include mobile app development, custom software development, web designing and development and digital marketing.",
@@ -121,7 +131,7 @@
     },
     {
         "link": "https://monthlycalendars.in",
-        "Heading": "Today's Hindu Panchangam (July 1, 2026) -  2026 and  2027 Hindu Panchangam Calendars",
+        "Heading": "Today's Hindu Panchangam (July 2, 2026) -  2026 and  2027 Hindu Panchangam Calendars",
         "Abstract": "July 2026 Hindu Panchangam Calendars - 2026 and 2027 Panchangam Calendars in Telugu, Tamil, Hindi - Todays panchangam with Tithi, Nakshtra, Yoga, Karana, Yamagandam, Rahukalam, Varjyam, Amritakalam",
         "Official Site": "https://monthlycalendars.in",
         "Icon": "N/A",
@@ -170,6 +180,16 @@
         "AbstractURL": "https://ambit24.net"
     },
     {
+        "link": "https://raynewater.com",
+        "Heading": "Water Filtration & Softener Systems | Rayne Water",
+        "Abstract": "Protect your home with the best water filtration & softener systems. Whole house solutions for clean, safe & soft water. Contact Rayne Water, Order now!",
+        "Official Site": "https://www.raynewater.com/",
+        "Icon": "https://www.raynewater.com/wp-content/uploads/2025/08/ken.png",
+        "Redirect": "https://www.raynewater.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.raynewater.com/"
+    },
+    {
         "link": "https://allencc.edu",
         "Heading": "Home - Allen Community College",
         "Abstract": "Home - Allen Community College",
@@ -181,13 +201,23 @@
     },
     {
         "link": "https://elielcruz.com.br",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Prof. Eliel Cruz | Desenvolvimento \u00b7 Educa\u00e7\u00e3o \u00b7 Inova\u00e7\u00e3o",
+        "Abstract": "Mestre em Educa\u00e7\u00e3o, Professor Universit\u00e1rio, Desenvolvedor Web e Especialista em EAD. Mais de 20 anos de experi\u00eancia em tecnologia e educa\u00e7\u00e3o.",
         "Official Site": "https://elielcruz.com.br",
         "Icon": "N/A",
         "Redirect": "https://elielcruz.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://elielcruz.com.br"
+    },
+    {
+        "link": "https://cornwallairportnewquay.com",
+        "Heading": "Cornwall Airport Newquay",
+        "Abstract": "Welcome to the Cornwall Airport home page, your gateway to flight information, travel updates, and services in the Cornwall region.",
+        "Official Site": "https://www.cornwallairportnewquay.com/",
+        "Icon": "https://www.cornwallairportnewquay.com/wp-content/uploads/2024/10/social-share.png",
+        "Redirect": "https://www.cornwallairportnewquay.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cornwallairportnewquay.com/"
     },
     {
         "link": "https://em360group.ro",
@@ -248,15 +278,5 @@
         "Redirect": "https://www.angies.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.angies.com"
-    },
-    {
-        "link": "https://softwarevision.de",
-        "Heading": "software vision",
-        "Abstract": null,
-        "Official Site": "https://softwarevision.de",
-        "Icon": "N/A",
-        "Redirect": "https://softwarevision.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://softwarevision.de"
     }
 ]

@@ -11,13 +11,13 @@
     },
     {
         "link": "https://kanogames.com",
-        "Heading": "Addicting Games Online at Kano Games",
-        "Abstract": "Play thousands of Free Addicting Games Online at Kano Games! We have the best selection of bike games, battle games, shooting games and many more!",
-        "Official Site": "https://www.kanogames.com",
-        "Icon": "//cdn.kanogames.com/kanogames/web_assets/images/official/200x200-kanogames-logo.jpg",
-        "Redirect": "https://www.kanogames.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://kanogames.com",
+        "Icon": "N/A",
+        "Redirect": "https://kanogames.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kanogames.com"
+        "AbstractURL": "https://kanogames.com"
     },
     {
         "link": "https://ringmenjewelry.com",
@@ -48,6 +48,16 @@
         "Redirect": "https://leofotousa.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://leofotousa.com/"
+    },
+    {
+        "link": "https://nk-slavonac.com",
+        "Heading": "NE DAJ PRODORA!",
+        "Abstract": null,
+        "Official Site": "https://nk-slavonac.com",
+        "Icon": "N/A",
+        "Redirect": "https://nk-slavonac.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nk-slavonac.com"
     },
     {
         "link": "https://csh-ldk.de",
@@ -118,6 +128,16 @@
         "Redirect": "https://www.adltruckparts.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.adltruckparts.com/"
+    },
+    {
+        "link": "https://ufuq.de",
+        "Heading": "ufuq.de - P\u00e4dagogik, politische Bildung und Pr\u00e4vention",
+        "Abstract": "ufuq.de ist ein anerkannter Tr\u00e4ger der freien Jugendhilfe und arbeitet zu den Themen Islam, Rassismus und Islamismus.",
+        "Official Site": "https://www.ufuq.de/",
+        "Icon": "https://www.ufuq.de/wp-content/uploads/2022/05/ufuq-favicon1.svg",
+        "Redirect": "https://www.ufuq.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ufuq.de/"
     },
     {
         "link": "https://lscomputer.hu",
@@ -204,7 +224,7 @@
         "Heading": "TerranPaintball",
         "Abstract": "TerranPaintball - Bine ai venit pe magazinul nostru online,  unde iti propunem o gama completa de produse!",
         "Official Site": "https://www.terranpaintball.ro",
-        "Icon": "https://s.cdnshm.com/site/1200x1200/terranpaintball.ro.jpg?20260701",
+        "Icon": "https://s.cdnshm.com/site/1200x1200/terranpaintball.ro.jpg?20260702",
         "Redirect": "https://www.terranpaintball.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.terranpaintball.ro"
@@ -228,6 +248,16 @@
         "Redirect": "https://frogserver.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://frogserver.co.uk"
+    },
+    {
+        "link": "https://divinoseas.com",
+        "Heading": "Divino Seas Swimwear |\u00a0Worldwide Shipping \u2013 Divinoseas",
+        "Abstract": "ESSENTIALS, SCULPT, CONTOUR, FLATTER, ELEVATED SWIMWEAR, ELEVATED BIKINIS, LUXURY SWIMWEAR, CONTOUR BIKINIS, SCULPT ONE PIECES, ESSENTIAL ELEVATED SWIMWEAR",
+        "Official Site": "https://divinoseas.com/",
+        "Icon": "http://divinoseas.com/cdn/shop/files/IMG_7927.jpg?v=1780168308",
+        "Redirect": "https://divinoseas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://divinoseas.com/"
     },
     {
         "link": "https://wh-serverpark.com",

@@ -40,6 +40,16 @@
         "AbstractURL": "https://mondaymag.com/"
     },
     {
+        "link": "https://mattrifeofficial.com",
+        "Heading": "Official Matt Rife Comedy | The official website of actor and comedian Matt Rife!",
+        "Abstract": "The official website of comedian and actor Matt Rife!",
+        "Official Site": "https://mattrifeofficial.com",
+        "Icon": "https://mattrifeofficial.com/wp-content/uploads/2024/11/header-matt2.jpg",
+        "Redirect": "https://mattrifeofficial.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mattrifeofficial.com"
+    },
+    {
         "link": "https://10ways.com",
         "Heading": "10ways.com \u2013 10 ways to have more money",
         "Abstract": "",
@@ -101,13 +111,23 @@
     },
     {
         "link": "https://go-openspark.com",
-        "Heading": "One moment, please...",
+        "Heading": "OpenSpark",
         "Abstract": null,
-        "Official Site": "https://go-openspark.com",
-        "Icon": "N/A",
-        "Redirect": "https://go-openspark.com",
+        "Official Site": "https://www.openspark.co/",
+        "Icon": "https://www.openspark.co/misc/favicon.ico",
+        "Redirect": "https://www.openspark.co/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://go-openspark.com"
+        "AbstractURL": "https://www.openspark.co/"
+    },
+    {
+        "link": "https://axmedios.com",
+        "Heading": "INICIO",
+        "Abstract": "",
+        "Official Site": "https://axmedios.com",
+        "Icon": "assets/images/logotipo-final-ax-medios-128x137.png",
+        "Redirect": "https://axmedios.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://axmedios.com"
     },
     {
         "link": "https://swipesum.com",
@@ -200,6 +220,16 @@
         "AbstractURL": "https://prosocial.world"
     },
     {
+        "link": "https://wyl-royal.xyz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://wyl-royal.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://wyl-royal.xyz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wyl-royal.xyz"
+    },
+    {
         "link": "https://twistmyrubberarm.com",
         "Heading": "Latex Clothing & Rubber Fetish Gear - Rubber Hoods, Rubber Clothing, etc.",
         "Abstract": null,
@@ -248,16 +278,6 @@
         "Redirect": "https://www.3plogistics.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.3plogistics.com/"
-    },
-    {
-        "link": "https://certifopac.fr",
-        "Heading": "Certifopac, le sp\u00e9cialiste de la certification Qualiopi",
-        "Abstract": "Obtenez votre certification Qualiopi avec l'organisme certificateur certifopac, accr\u00e9dit\u00e9 et pr\u00e9sent partout en France !",
-        "Official Site": "https://certifopac.fr/",
-        "Icon": "https://certifopac.fr/wp-content/uploads/2021/01/Logo-Certifopac-Officiel-1.jpg",
-        "Redirect": "https://certifopac.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://certifopac.fr/"
     },
     {
         "link": "https://jrias.or.jp",

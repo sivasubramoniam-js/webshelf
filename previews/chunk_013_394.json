@@ -40,6 +40,16 @@
         "AbstractURL": "https://flashfictionmagazine.com/"
     },
     {
+        "link": "https://ville-firminy.fr",
+        "Heading": "Accueil - Ville de Firminy \u2013 Site officiel",
+        "Abstract": "Bienvenue sur le site officiel de Firminy (42). Retrouvez toutes les informations, actualit\u00e9s et services dont vous avez besoin : Site Le Corbusier, d\u00e9marches en ligne et services, actualit\u00e9s\u2026",
+        "Official Site": "https://www.ville-firminy.fr/",
+        "Icon": "https://www.ville-firminy.fr/wp-content/uploads/2019/07/favicon.png",
+        "Redirect": "https://www.ville-firminy.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ville-firminy.fr/"
+    },
+    {
         "link": "https://signalfoundation.org",
         "Heading": "Signal Foundation",
         "Abstract": "Protecting free expression and enabling secure global communication through open source privacy technology.",
@@ -58,6 +68,16 @@
         "Redirect": "https://www.fitnessway.it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.fitnessway.it/"
+    },
+    {
+        "link": "https://couragetoresist.org",
+        "Heading": "Courage to Resist - Supporting Military War Resisters (2004-2024)",
+        "Abstract": "Courage to Resist was an Oakland CA based organized that supported US military war resisters, conscientious objectors, and truth tellers.",
+        "Official Site": "https://couragetoresist.org/",
+        "Icon": "https://couragetoresist.org/wp-content/uploads/2018/10/didnt-enlist-man3.jpg",
+        "Redirect": "https://couragetoresist.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://couragetoresist.org/"
     },
     {
         "link": "https://kenminhall.com",
@@ -128,6 +148,16 @@
         "Redirect": "https://boar.network",
         "AbstractSource": "BS4",
         "AbstractURL": "https://boar.network"
+    },
+    {
+        "link": "https://haaner-tv.de",
+        "Heading": "Haaner Turnverein 1863 e.V. |",
+        "Abstract": null,
+        "Official Site": "https://haaner-tv.de",
+        "Icon": "https://www.haaner-tv.de/wp-content/uploads/sites/2/2019/04/cropped-favicon-1-32x32.png",
+        "Redirect": "https://haaner-tv.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://haaner-tv.de"
     },
     {
         "link": "https://lineartists.in",

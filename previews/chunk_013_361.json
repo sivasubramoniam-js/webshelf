@@ -30,6 +30,16 @@
         "AbstractURL": "https://pumlf.com"
     },
     {
+        "link": "https://mindjack.com",
+        "Heading": "Mindjack \u2013 the beat of digital culture",
+        "Abstract": null,
+        "Official Site": "https://mindjack.com",
+        "Icon": "N/A",
+        "Redirect": "https://mindjack.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mindjack.com"
+    },
+    {
         "link": "https://canvasbutik.de",
         "Heading": null,
         "Abstract": null,
@@ -41,7 +51,7 @@
     },
     {
         "link": "https://trueos.org",
-        "Heading": "TrueOS Discontinuation - TrueNAS",
+        "Heading": "TrueOS Discontinuation | TrueNAS Announcement",
         "Abstract": "Hey TrueOS Community! I just wanted to take a few minutes to address what some of you may have already guessed. With a heavy heart, the TrueOS Project\u2019s core",
         "Official Site": "https://www.truenas.com/trueos-discontinuation/",
         "Icon": "https://www.truenas.com/wp-content/uploads/2023/11/F100_racks_featured.jpg",
@@ -151,10 +161,10 @@
     },
     {
         "link": "https://gama-hotel.ru",
-        "Heading": "Dragon Money \u2013 \u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043d\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0414\u0440\u0430\u0433\u043e\u043d \u041c\u0430\u043d\u0438",
+        "Heading": "Dragon Money \u0437\u0435\u0440\u043a\u0430\u043b\u043e \u2013 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0414\u0440\u0430\u0433\u043e\u043d \u041c\u0430\u043d\u0438",
         "Abstract": "Dragon Money \u2013 \u044d\u0442\u043e \u043b\u0443\u0447\u0448\u0435\u0435 \u043e\u043d\u043b\u0430\u0439\u043d \u043a\u0430\u0437\u0438\u043d\u043e \u043d\u0430 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0435\u043d\u044c\u0433\u0438. \u0423\u0434\u043e\u0431\u043d\u044b\u0439 \u0432\u044b\u0432\u043e\u0434 \u0441\u0440\u0435\u0434\u0441\u0442\u0432, \u0440\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0431\u043e\u043d\u0443\u0441\u044b \u0438 \u043a\u044d\u0448\u0431\u044d\u043a \u0432 \u043a\u0430\u0437\u0438\u043d\u043e \u0414\u0440\u0430\u0433\u043e\u043d \u041c\u0430\u043d\u0438.",
         "Official Site": "https://gama-hotel.ru",
-        "Icon": "/favicon6.ico",
+        "Icon": "/favicon4.ico",
         "Redirect": "https://gama-hotel.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gama-hotel.ru"
@@ -220,24 +230,14 @@
         "AbstractURL": "https://canistream.it"
     },
     {
-        "link": "https://opensuse-guide.org",
-        "Heading": "1. Introduction - Beginner's Guide to openSUSE Leap 15.5 / SUSE Linux",
+        "link": "https://tracieduggar.space",
+        "Heading": "Tracieduggar",
         "Abstract": null,
-        "Official Site": "https://opensuse-guide.org",
+        "Official Site": "https://tracieduggar.space",
         "Icon": "N/A",
-        "Redirect": "https://opensuse-guide.org",
+        "Redirect": "https://tracieduggar.space",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://opensuse-guide.org"
-    },
-    {
-        "link": "https://indiumsoftware.com",
-        "Heading": "Indium",
-        "Abstract": null,
-        "Official Site": "https://indiumsoftware.com",
-        "Icon": "https://www.indium.tech/wp-content/uploads/2026/06/cropped-favicon-3-32x32.png",
-        "Redirect": "https://indiumsoftware.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://indiumsoftware.com"
+        "AbstractURL": "https://tracieduggar.space"
     },
     {
         "link": "https://legemiddelhandboka.no",

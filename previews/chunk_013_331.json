@@ -60,6 +60,16 @@
         "AbstractURL": "https://suiteapp.com"
     },
     {
+        "link": "https://amazonrelayit.com",
+        "Heading": "Amazon Relay IT",
+        "Abstract": null,
+        "Official Site": "https://amazonrelayit.com",
+        "Icon": "N/A",
+        "Redirect": "https://amazonrelayit.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amazonrelayit.com"
+    },
+    {
         "link": "https://thediscourse.ca",
         "Heading": "Home \u2013 The Discourse.",
         "Abstract": null,
@@ -80,14 +90,14 @@
         "AbstractURL": "https://www.cameronsseafood.com/"
     },
     {
-        "link": "https://scarlethotel.co.uk",
-        "Heading": "Luxury Coastal Hotel & Eco-Spa in North Cornwall | Scarlet",
-        "Abstract": "Stay at Scarlet Hotel in Cornwall, an adults-only eco spa retreat in Mawgan Porth. Clifftop hot tubs, sea-view dining and wellness experiences on the coast.",
-        "Official Site": "https://www.scarlethotel.co.uk/",
-        "Icon": "https://www.scarlethotel.co.uk/scarlet/favicon-32x32.png?v=v3",
-        "Redirect": "https://www.scarlethotel.co.uk/",
+        "link": "https://rskm.pro",
+        "Heading": "Ruskompromat",
+        "Abstract": "RUSKOMPROMAT",
+        "Official Site": "https://rskm.pro/",
+        "Icon": "https://ruskompromat.info/ruskompromat.jpg",
+        "Redirect": "https://rskm.pro/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.scarlethotel.co.uk/"
+        "AbstractURL": "https://rskm.pro/"
     },
     {
         "link": "https://bakirkoy.bel.tr",
@@ -138,6 +148,16 @@
         "Redirect": "https://toptanmaviyengec.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://toptanmaviyengec.com/"
+    },
+    {
+        "link": "https://termedeipapi.it",
+        "Heading": "Home Page - Terme dei Papi Viterbo | Terme & Cosmetici Termali",
+        "Abstract": "Scopri le terme storiche di Viterbo e i cosmetici al fango e acqua termale del Bullicame. Made in Italy, dermatologicamente testati.",
+        "Official Site": "https://termedeipapi.it/",
+        "Icon": "https://termedeipapi.it/wp-content/uploads/2021/02/cropped-cropped-Terme-dei-papi-off.-positivo-2-1-32x32.png",
+        "Redirect": "https://termedeipapi.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://termedeipapi.it/"
     },
     {
         "link": "https://summix.biz",

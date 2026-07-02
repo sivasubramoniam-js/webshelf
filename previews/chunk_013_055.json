@@ -1,25 +1,5 @@
 [
     {
-        "link": "https://jobs-herford.de",
-        "Heading": "Stellenangebote Herford - Ihre aktuelle Jobb\u00f6rse f\u00fcr Herford und Umgebung",
-        "Abstract": "T\u00e4glich aktuelle und neue Stellenangebote f\u00fcr die Region Herford. Finden Sie aus 18.129 passenden Jobs in Herford und Umgebung, Ihre neue Stelle. Ihre regionale Jobb\u00f6rse jobs-herford.de | 2026",
-        "Official Site": "https://jobs-herford.de",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://jobs-herford.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jobs-herford.de"
-    },
-    {
-        "link": "https://jobs-in-kiel.info",
-        "Heading": "Stellenangebote Kiel - Ihre aktuelle Jobb\u00f6rse f\u00fcr Kiel und Umgebung",
-        "Abstract": "T\u00e4glich aktuelle und neue Stellenangebote f\u00fcr die Region Kiel. Finden Sie aus 9.351 passenden Jobs in Kiel und Umgebung, Ihre neue Stelle. Ihre regionale Jobb\u00f6rse jobs-in-kiel.info | 2026",
-        "Official Site": "https://jobs-in-kiel.info",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://jobs-in-kiel.info",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jobs-in-kiel.info"
-    },
-    {
         "link": "https://journalmsr.com",
         "Heading": "Journal of Musculoskeletal Surgery and Research - Home",
         "Abstract": "Journal of Musculoskeletal Surgery and Research Review Latest Developments in the field of Musculoskeletal Research & Studies from Orthopedic and Spine Surgery, Rheumatology, Basic Science, Rehabilitation and Physiotherapy, Orthopedic Nursing and Education. ISSN (Print): 2589-1219, ISSN (Online):\u00a02589-1227 Frequency of publication: Bi-Monthly | Language of publication: EnglishStarting year: 2017 | Format of publication: Print + Online [\u2026]",
@@ -58,6 +38,16 @@
         "Redirect": "https://justmytoots.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://justmytoots.com"
+    },
+    {
+        "link": "https://jvsmedicscorner.com",
+        "Heading": "Medic's Corner",
+        "Abstract": null,
+        "Official Site": "https://jvsmedicscorner.com",
+        "Icon": "N/A",
+        "Redirect": "https://jvsmedicscorner.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jvsmedicscorner.com"
     },
     {
         "link": "https://katimy.com",
@@ -110,16 +100,6 @@
         "AbstractURL": "https://www.kjmcobuckle.com/"
     },
     {
-        "link": "https://kleinbahn-museum.de",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://kleinbahn-museum.de",
-        "Icon": "N/A",
-        "Redirect": "https://kleinbahn-museum.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kleinbahn-museum.de"
-    },
-    {
         "link": "https://koen.com",
         "Heading": "Afwisseling en avontuur in je baan - koen. voor jou voorop",
         "Abstract": "Werken bij koen in de techniek of bij de overheid. Uitdagende opdrachten | vast contract | veel opleidingsmogelijkheden",
@@ -158,6 +138,16 @@
         "Redirect": "https://krackeler.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://krackeler.com"
+    },
+    {
+        "link": "https://kwadryga.com",
+        "Heading": "Najwi\u0119kszy Antykwariat i Skup Starych Ksi\u0105\u017cek Online - Antykwariat Kwadryga",
+        "Abstract": "kwadryga.com \u2b50 Najwi\u0119kszy antykwariat online! \u2714\ufe0f Skup ksi\u0105\u017cek online i starych ksi\u0105\u017cek w naszym antykwariacie internetowym \u2714\ufe0f Najlepsze ceny i szeroki wyb\u00f3r ksi\u0105\u017cek!",
+        "Official Site": "https://kwadryga.com/",
+        "Icon": "https://kwadryga.com/wp-content/uploads/2020/07/cropped-kwadryga-favicon-32x32.png",
+        "Redirect": "https://kwadryga.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kwadryga.com/"
     },
     {
         "link": "https://kwant-project.org",
@@ -298,5 +288,15 @@
         "Redirect": "https://libreriamarini.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://libreriamarini.it"
+    },
+    {
+        "link": "https://librerieitaliane.it",
+        "Heading": "Librerie Italiane | LibrerieItaliane.it - Libri Scolastici usati, Libri scolastici online, libri scolastici nuovi scontati, valutazione libri usati",
+        "Abstract": "Benvenuti su LibrerieItaliane.it, leader nel mercato dei libri scolastici nuovi e usati. Siamo specializzati nell'acquisto immediato in contanti dei tuoi libri scolastici usati e offriamo una vasta gamma di libri nuovi scontati. Trova dizionari con sconti fino al 50% e prodotti di cartoleria, dai marchi low cost ai design pi\u00f9 esclusivi.",
+        "Official Site": "https://librerieitaliane.it",
+        "Icon": "https://librerieitaliane.it/public/uploads/all/gxnmbFTNWinh7ATaYzOvuDj3cpXJndospi8ZxJGG.svg",
+        "Redirect": "https://librerieitaliane.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://librerieitaliane.it"
     }
 ]

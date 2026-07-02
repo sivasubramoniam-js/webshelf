@@ -11,13 +11,13 @@
     },
     {
         "link": "https://soeandsoe.com.au",
-        "Heading": "Soe & Soe",
+        "Heading": "\n      Soe & Soe - Fine Stationery\n",
         "Abstract": "Soe & Soe, an Australian fine stationery haven established in 2024, is a treasure trove of exquisite writing instruments and accessories. Indulge in the art of calligraphy with our curated collection of fountain pens, pen holders and inks, or elevate your journaling with their array of specialty papers and ephemera.",
-        "Official Site": "https://soeandsoe.com.au",
+        "Official Site": "https://soeandsoe.com.au/",
         "Icon": "http://soeandsoe.com.au/cdn/shop/files/soe-and-soe-fine-stationery-header-logo.png?height=628&pad_color=ffffff&v=1704427536&width=1200",
-        "Redirect": "https://soeandsoe.com.au",
+        "Redirect": "https://soeandsoe.com.au/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://soeandsoe.com.au"
+        "AbstractURL": "https://soeandsoe.com.au/"
     },
     {
         "link": "https://sskindustry.ru",
@@ -60,6 +60,16 @@
         "AbstractURL": "https://quibids.com"
     },
     {
+        "link": "https://jmbufeteabogados.com",
+        "Heading": "Joana Miranda Bufete de Abogados",
+        "Abstract": null,
+        "Official Site": "https://jmbufeteabogados.com",
+        "Icon": "/images/favicon.png",
+        "Redirect": "https://jmbufeteabogados.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jmbufeteabogados.com"
+    },
+    {
         "link": "https://cowboyway.com",
         "Heading": "Welcome To CowboyWay.com",
         "Abstract": "Western saddles for sale, information on horse colors, horse markings, horse names, horse facts, cowboy dictionary, how-to articles, horse and cowboy memes, and more!",
@@ -68,6 +78,16 @@
         "Redirect": "https://cowboyway.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cowboyway.com"
+    },
+    {
+        "link": "https://arcdog.com",
+        "Heading": "ArcDog \u2013 The Social Network for Architects",
+        "Abstract": null,
+        "Official Site": "https://arcdog.com",
+        "Icon": "https://arcdog.com/wp-content/uploads/2015/11/cropped-favicon-32x32.png",
+        "Redirect": "https://arcdog.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arcdog.com"
     },
     {
         "link": "https://lindtmantrading.com",
@@ -140,6 +160,16 @@
         "AbstractURL": "https://foundrygate.com"
     },
     {
+        "link": "https://celelerestaurante.com",
+        "Heading": "Celele. Restaurante \u2013 Cartagena, Colombia",
+        "Abstract": null,
+        "Official Site": "https://celelerestaurante.com",
+        "Icon": "https://celelerestaurante.com/wp-content/uploads/2023/03/cropped-favicon-2-32x32.png",
+        "Redirect": "https://celelerestaurante.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://celelerestaurante.com"
+    },
+    {
         "link": "https://southkingstownri.com",
         "Heading": "South Kingstown, RI | Official Website",
         "Abstract": "",
@@ -148,6 +178,16 @@
         "Redirect": "https://southkingstownri.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://southkingstownri.com"
+    },
+    {
+        "link": "https://noidabn.com",
+        "Heading": "Noida Portal | Noida Website | Noida Classified | Directory",
+        "Abstract": "We are one of the best\u00a0Noida Portal or Noida\u00a0Website. We are offering the Best online Noida Classified or Noida Directory. online marketing in Noida.",
+        "Official Site": "https://noidabn.com/",
+        "Icon": "https://noidabn.com/wp-content/uploads/2020/10/AllCityLogo_Noida.png",
+        "Redirect": "https://noidabn.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://noidabn.com/"
     },
     {
         "link": "https://qikuxs.com",
@@ -228,15 +268,5 @@
         "Redirect": "https://kop16.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kop16.ru"
-    },
-    {
-        "link": "https://viernheim.de",
-        "Heading": "www.viernheim.de | www.viernheim.de",
-        "Abstract": "Internetseite der Stadt Viernheim - www.viernheim.de",
-        "Official Site": "https://viernheim.de",
-        "Icon": "https://www.viernheim.de/fileadmin/_processed_/b/5/csm_News-Dummy-1_55c3729fe1.jpg",
-        "Redirect": "https://viernheim.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://viernheim.de"
     }
 ]

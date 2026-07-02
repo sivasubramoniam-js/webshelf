@@ -71,23 +71,13 @@
     },
     {
         "link": "https://elubin.pl",
-        "Heading": "e Lubin.pl - Portal informacyjny Lubina i okolic  \u2014 Lubin, Wiadomosci, Ogloszenia, Sport, Kultura, Oferty Pracy, Katalog firm",
+        "Heading": "Mobilny Lubin (mobi.elubin.pl) - Twoj portal miasta w Twoim telefonie",
         "Abstract": null,
         "Official Site": "https://elubin.pl",
-        "Icon": "theme/default/elubin.ico",
+        "Icon": "N/A",
         "Redirect": "https://elubin.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://elubin.pl"
-    },
-    {
-        "link": "https://attinternetvacaville.com",
-        "Heading": "attinternetvacaville.com",
-        "Abstract": null,
-        "Official Site": "https://attinternetvacaville.com",
-        "Icon": "N/A",
-        "Redirect": "https://attinternetvacaville.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://attinternetvacaville.com"
     },
     {
         "link": "https://easyfire.dk",
@@ -188,6 +178,16 @@
         "Redirect": "https://labordesiegel.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://labordesiegel.com/"
+    },
+    {
+        "link": "https://ckcreativedesign.co.uk",
+        "Heading": "Web Design Yeovil Somerset | Logo Design | CK Creative",
+        "Abstract": "Website designer Yeovil, Somerset creating professional websites at affordable prices. Find out more about our Somerset web design in Yeovil.",
+        "Official Site": "https://www.ckcreativedesign.co.uk/",
+        "Icon": "https://www.ckcreativedesign.co.uk/storage/ck-icon.png",
+        "Redirect": "https://www.ckcreativedesign.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ckcreativedesign.co.uk/"
     },
     {
         "link": "https://formatsystem.it",

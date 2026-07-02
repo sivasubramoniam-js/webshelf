@@ -11,13 +11,13 @@
     },
     {
         "link": "https://europarfemy.cz",
-        "Heading": "obchod je uzav\u0159en - EUROPARFEMY.cz",
-        "Abstract": null,
-        "Official Site": "https://europarfemy.cz",
-        "Icon": "N/A",
-        "Redirect": "https://europarfemy.cz",
+        "Heading": "Parf\u00e9my a kosmetika levn\u011b - EUROPARFEMY.cz",
+        "Abstract": "Vyu\u017eijte svou \u0161anci a po\u0159i\u010fte si parf\u00e9my a kosmetiku za bezkonkuren\u010dn\u00ed ceny na Europarfemy.cz. Tis\u00edce polo\u017eek skladem a bleskov\u00e9 dod\u00e1n\u00ed.",
+        "Official Site": "https://www.europarfemy.cz/",
+        "Icon": "https://www.europarfemy.cz/system-images/fb-share-image.png",
+        "Redirect": "https://www.europarfemy.cz/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://europarfemy.cz"
+        "AbstractURL": "https://www.europarfemy.cz/"
     },
     {
         "link": "https://eurosalve.com",
@@ -138,6 +138,16 @@
         "Redirect": "https://fataliiseeds.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fataliiseeds.net"
+    },
+    {
+        "link": "https://fatsforum.nl",
+        "Heading": "Fa(c)ts Forum",
+        "Abstract": "Fa(c)ts Forum | Voor voeding, gezondheid, spiritualiteit en nieuwsachtergronden",
+        "Official Site": "https://www.fatsforum.nl/",
+        "Icon": "https://www.fatsforum.nl/data/assets/logo/fatsforum_favicon-32.png",
+        "Redirect": "https://www.fatsforum.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fatsforum.nl/"
     },
     {
         "link": "https://faynadama.com.ua",
@@ -280,6 +290,16 @@
         "AbstractURL": "https://flore-flore.com/"
     },
     {
+        "link": "https://florencehealthcare.international",
+        "Heading": "Florence Healthcare International",
+        "Abstract": "Experience world-class medical care at Florence Healthcare International. Offering comprehensive services and a skilled team, we prioritize the well-being of our international patients.",
+        "Official Site": "https://florencehealthcare.international/",
+        "Icon": "https://florencehealthcare.international/wp-content/uploads/2024/03/Body-anatomy-1.gif",
+        "Redirect": "https://florencehealthcare.international/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://florencehealthcare.international/"
+    },
+    {
         "link": "https://fmslovakia.com",
         "Heading": "FM Slovakia",
         "Abstract": "Get ready to dive into Football Manager Slovakia. Learn about the new features and improvements that will take your gaming experience to the next level.",
@@ -408,6 +428,16 @@
         "Redirect": "https://www.ganlys.ie/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ganlys.ie/"
+    },
+    {
+        "link": "https://garaze.org.pl",
+        "Heading": "Producent gara\u017cy blaszanych i blaszak\u00f3w - Stalgar",
+        "Abstract": "Producent gara\u017cy blaszanych \u2013 najlepsze ceny, wysoka jako\u015b\u0107. Zadzwo\u0144 i zam\u00f3w konstrukcj\u0119 dopasowan\u0105 do Twoich potrzeb. Transport i monta\u017c - ca\u0142y kraj.",
+        "Official Site": "https://garaze.org.pl/",
+        "Icon": "/images/favicon.png",
+        "Redirect": "https://garaze.org.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://garaze.org.pl/"
     },
     {
         "link": "https://gardenitaliastore.it",

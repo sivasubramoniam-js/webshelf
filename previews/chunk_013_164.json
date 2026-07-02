@@ -40,6 +40,16 @@
         "AbstractURL": "https://rs-aurich.de"
     },
     {
+        "link": "https://arretsurinfo.ch",
+        "Heading": "Arr\u00eat sur Info - Accueil",
+        "Abstract": null,
+        "Official Site": "http://arretsurinfo.ch/",
+        "Icon": "https://arretsurinfo.ch/wp-content/uploads/2015/10/cropped-favicon-3-560d5e1c_site_icon-32x32.png",
+        "Redirect": "http://arretsurinfo.ch/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://arretsurinfo.ch/"
+    },
+    {
         "link": "https://latpro.com",
         "Heading": "Latinx & Hispanic Job Boards - Diversity Jobs - Diversity Jobs",
         "Abstract": "Diveristy Jobs is home to Hispanic and Latino job boards and much more. Begin your search today and find employers focused on diverse hiring practices.",
@@ -61,10 +71,10 @@
     },
     {
         "link": "https://shopaztecs.com",
-        "Heading": "Site is down for maintenance",
-        "Abstract": null,
+        "Heading": "Home | shopaztecs.com",
+        "Abstract": "The latest in official SDSU apparel, textbooks, gifts, and gear. shopaztecs.com is a service of the SDSU Bookstore, a not-for-profit partner of San Diego State University.",
         "Official Site": "https://shopaztecs.com",
-        "Icon": "N/A",
+        "Icon": "https://www.shopaztecs.com/sca-dev-2024-2-0/favicon/img/favicon.ico",
         "Redirect": "https://shopaztecs.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shopaztecs.com"
@@ -130,16 +140,6 @@
         "AbstractURL": "https://searchforfind.com"
     },
     {
-        "link": "https://druckerinstitute.com",
-        "Heading": "Home - The Drucker Institute",
-        "Abstract": "\u201cMan in his social and political existence must have a functioning society just as he must have air to breathe in his biological existence.\u201d Peter F. Drucker Donate The Drucker Institute at Claremont Graduate University At a time when institutions face growing challenges of trust, performance, and purpose, the Drucker Institute works to advance the [\u2026]",
-        "Official Site": "https://drucker.institute/",
-        "Icon": "https://drucker.institute/wp-content/uploads/2026/02/icon-1.png",
-        "Redirect": "https://drucker.institute/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://drucker.institute/"
-    },
-    {
         "link": "https://unss.org",
         "Heading": "Accueil | UNSS",
         "Abstract": "D\u00e9couvrez les objectifs et missions de l'UNSS, la f\u00e9d\u00e9ration du sport scolaire, forte de plus d'un millions de licenci\u00e9s : d\u00e9veloppement de la pratique sportive avec plus de 130 sports propos\u00e9s et apprentissage de l'engagement associatif.\nL'UNSS c'est par les jeunes , pour les jeunes !",
@@ -148,16 +148,6 @@
         "Redirect": "https://www.unss.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.unss.org"
-    },
-    {
-        "link": "https://cultofluna.com",
-        "Heading": "CULT of LUNA - In The Shadow Of Your Shadow",
-        "Abstract": "PRE-ORDERS AVAILABLE NOW. CULT of LUNA new album 'In The Shadow Of Your Shadow' out November 6.",
-        "Official Site": "https://www.cultofluna.com/",
-        "Icon": "https://www.cultofluna.com/wp-content/uploads/2026/06/cultofluna-its-og.png",
-        "Redirect": "https://www.cultofluna.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cultofluna.com/"
     },
     {
         "link": "https://loliware.com",
@@ -258,6 +248,16 @@
         "Redirect": "https://brflex.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://brflex.nl"
+    },
+    {
+        "link": "https://ohelene.services",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ohelene.services",
+        "Icon": "N/A",
+        "Redirect": "https://ohelene.services",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ohelene.services"
     },
     {
         "link": "https://mindyweiss.com",

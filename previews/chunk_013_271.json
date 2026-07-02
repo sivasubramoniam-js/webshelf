@@ -91,10 +91,10 @@
     },
     {
         "link": "https://goldens-funds.com",
-        "Heading": "Bot Verification",
-        "Abstract": null,
+        "Heading": "Goldens Funds | Investment Solution.",
+        "Abstract": "",
         "Official Site": "https://goldens-funds.com",
-        "Icon": "N/A",
+        "Icon": "images/favicon.png",
         "Redirect": "https://goldens-funds.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://goldens-funds.com"
@@ -128,6 +128,16 @@
         "Redirect": "https://tfehosting.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tfehosting.com"
+    },
+    {
+        "link": "https://vicevi.net",
+        "Heading": "Arhiva viceva - vicevi.net",
+        "Abstract": "Arhiva viceva",
+        "Official Site": "https://vicevi.net",
+        "Icon": "http://vicevi.net/img/logo.png",
+        "Redirect": "https://vicevi.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vicevi.net"
     },
     {
         "link": "https://hardwoodbargains.com",

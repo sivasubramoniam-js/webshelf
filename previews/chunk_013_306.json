@@ -40,16 +40,6 @@
         "AbstractURL": "https://orooms.ru"
     },
     {
-        "link": "https://1a-neuware.de",
-        "Heading": "1a-neuware.de - Alles f\u00fcr Tisch und K\u00fcche von WMF, Fissler und mehr.",
-        "Abstract": "1A-Neuware.de - der Onlineshop f\u00fcr Kochliebhaber",
-        "Official Site": "https://www.1a-neuware.de/",
-        "Icon": "https://www.1a-neuware.de/media/6b/b9/d1/1719928604/logo_new_size.png?ts=1720020055",
-        "Redirect": "https://www.1a-neuware.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.1a-neuware.de/"
-    },
-    {
         "link": "https://historiskatlas.dk",
         "Heading": "\n\tHistorisk Atlas\n",
         "Abstract": "G\u00e5 p\u00e5 opdagelse i historiske kort og udforsk din lokale kulturarv.",
@@ -80,6 +70,16 @@
         "AbstractURL": "https://hespul.org/fr/"
     },
     {
+        "link": "https://andersonville.org",
+        "Heading": "Home Page - andersonville",
+        "Abstract": "The 2026 Andersonville Neighborhood Guide is here! The Guide is an annual publication designed to showcase the vibrant businesses, events, and community spirit of Andersonville. Distributed to visitors each year, the guide highlights the district\u2019s diverse selection of locally owned shops, restaurants, bars, and service providers. It features curated recommendations, event listings, and neighborhood maps [\u2026]",
+        "Official Site": "https://andersonville.org/",
+        "Icon": "https://andersonville.org/wp-content/uploads/2021/07/cropped-aville-favicon-32x32.jpg",
+        "Redirect": "https://andersonville.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://andersonville.org/"
+    },
+    {
         "link": "https://teatroolimpico.it",
         "Heading": "Home - Teatro Olimpico",
         "Abstract": null,
@@ -88,6 +88,16 @@
         "Redirect": "https://www.teatroolimpico.it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.teatroolimpico.it/"
+    },
+    {
+        "link": "https://cimformacion.com",
+        "Heading": "CIM Formaci\u00f3n - Cursos de Salud y bienestar, Veterinaria, Sanidad, Deporte y fitness, Est\u00e9tica y belleza",
+        "Abstract": "CIM Formaci\u00f3n: desde 1985 cursos de Terapias Manuales, Veterinaria, Fitness y Est\u00e9tica. En Barcelona, Alicante, Valencia, Murcia y Girona.",
+        "Official Site": "https://cimformacion.com",
+        "Icon": "/assets/img/favicon.png",
+        "Redirect": "https://cimformacion.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cimformacion.com"
     },
     {
         "link": "https://subtitlebee.com",
@@ -128,6 +138,16 @@
         "Redirect": "https://www.izf.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.izf.net/"
+    },
+    {
+        "link": "https://808truck.com",
+        "Heading": "808TRUCKS \ud83c\udfaf | Shop - 808Trucks",
+        "Abstract": "808Trucks Selling All diagnostic software for trucks, cars, Agriculture, Automotive and Forklift",
+        "Official Site": "https://www.808trucks.com/",
+        "Icon": "https://cdn.shopify.com/s/files/1/0660/8453/6497/files/808.png?v=1730736233",
+        "Redirect": "https://www.808trucks.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.808trucks.com/"
     },
     {
         "link": "https://swigdrinks.com",
@@ -198,6 +218,16 @@
         "Redirect": "https://velcomeseo.fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://velcomeseo.fr/"
+    },
+    {
+        "link": "https://puricangguvillas.com",
+        "Heading": "Home - Puri Canggu Villa",
+        "Abstract": "Puri Canggu Residence is a charming property in Bali\u2019s popular lifestyle district of Canggu, an area that attracts carefree travellers from all around the world. It offers affordable accommodation options with a choice of modern deluxe room and private villas along with supporting facilities. Owned by a local family, this boutique property is defined by [\u2026]",
+        "Official Site": "https://puricangguvillas.com/",
+        "Icon": "https://puricangguvillas.com/wp-content/uploads/2018/11/logo1.png",
+        "Redirect": "https://puricangguvillas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://puricangguvillas.com/"
     },
     {
         "link": "https://unicanal.com.py",

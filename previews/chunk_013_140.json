@@ -84,10 +84,20 @@
         "Heading": "\n  200 Degrees Coffee - The Home of Better Coffee\n",
         "Abstract": "We\u2019ve been roasting, brewing, steaming, and serving outstanding, no-nonsense coffee since 2012 with over 20 coffee shops and 7 Barista Schools around the UK.",
         "Official Site": "https://200degs.com/",
-        "Icon": "http://200degs.com/cdn/shop/files/latte_art_3293e794-2fba-40d8-88d1-04eba93ad8ac.jpg?v=1732612628",
+        "Icon": "http://cdn.shopify.com/s/files/1/0378/5880/3757/files/latte_art_3293e794-2fba-40d8-88d1-04eba93ad8ac.jpg?v=1732612628",
         "Redirect": "https://200degs.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://200degs.com/"
+    },
+    {
+        "link": "https://sagopalgo.net",
+        "Heading": "\uc544\ud2c0\ub780\ud0c0 | \uc0ac\uace0\ud314\uace0 | SagoPalgo",
+        "Abstract": null,
+        "Official Site": "https://sagopalgo.net/",
+        "Icon": "https://sagopalgo.net/files/attach/xeicon/favicon.ico",
+        "Redirect": "https://sagopalgo.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sagopalgo.net/"
     },
     {
         "link": "https://videyme.online",
@@ -178,6 +188,16 @@
         "Redirect": "https://clevertrading.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://clevertrading.org"
+    },
+    {
+        "link": "https://vancouverebikeadventures.com",
+        "Heading": "vancouverebikeadventures.com - Test",
+        "Abstract": "vancouverebikeadventures.com",
+        "Official Site": "https://vancouverebikeadventures.com",
+        "Icon": "data:,",
+        "Redirect": "https://vancouverebikeadventures.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vancouverebikeadventures.com"
     },
     {
         "link": "https://rvwa.ru",

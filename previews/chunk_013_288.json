@@ -10,6 +10,16 @@
         "AbstractURL": "https://usualwines.com/"
     },
     {
+        "link": "https://belmar.com",
+        "Heading": "Belmar Municipal - Home",
+        "Abstract": null,
+        "Official Site": "https://belmar.com/",
+        "Icon": "/images/belmar-fav1.png",
+        "Redirect": "https://belmar.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://belmar.com/"
+    },
+    {
         "link": "https://vkusalina.shop",
         "Heading": "\u0412\u041a\u0423\u0421\u0410\u041b\u0418\u041d\u0410 | \u041f\u0440\u0435\u043c\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0444\u0438\u043d\u0438\u043a\u0438",
         "Abstract": null,
@@ -48,6 +58,16 @@
         "Redirect": "https://www.kaligo.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.kaligo.com"
+    },
+    {
+        "link": "https://brianmclaren.net",
+        "Heading": "Brian McLaren",
+        "Abstract": "Author | Speaker | Activist",
+        "Official Site": "http://brianmclaren.net",
+        "Icon": "https://brianmclaren.net/wp-content/uploads/2016/10/cropped-flock-32x32.png",
+        "Redirect": "http://brianmclaren.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://brianmclaren.net"
     },
     {
         "link": "https://gerds-wissen.online",
@@ -248,6 +268,26 @@
         "Redirect": "/",
         "AbstractSource": "BS4",
         "AbstractURL": "/"
+    },
+    {
+        "link": "https://pragmatica.us",
+        "Heading": "Pragmatica | Exceptional solutions for the criminal justice community",
+        "Abstract": "Exceptional solutions for the criminal justice community ",
+        "Official Site": "https://pragmatica.us",
+        "Icon": "N/A",
+        "Redirect": "https://pragmatica.us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pragmatica.us"
+    },
+    {
+        "link": "https://ultimatewebdesigns.co.nz",
+        "Heading": "Website Design in Auckland & Christchurch | Top Web Design Agency NZ Ultimate Web Designs Limited",
+        "Abstract": "Top website design agency in Auckland, New Zealand. Ultimate Web Designs offers the best and most affordable web development services to help businesses grow with custom websites across NZ.",
+        "Official Site": "https://ultimatewebdesigns.co.nz/",
+        "Icon": "https://ultimatewebdesigns.co.nz/wp-content/uploads/2025/04/ultimate-web-designs-website-design-Web-Development.png",
+        "Redirect": "https://ultimatewebdesigns.co.nz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ultimatewebdesigns.co.nz/"
     },
     {
         "link": "https://onewelbeck.com",

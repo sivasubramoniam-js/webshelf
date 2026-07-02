@@ -2,7 +2,7 @@
     {
         "link": "https://notbbc.co.uk",
         "Heading": "Homepage | NOTBBC",
-        "Abstract": "Welcome to NOTBBC Welcome to NOTBBC - Latest forum posts: Misspelt TV Classics started by 'Stinky Finger' ( Playpen ) 1095 posts - latest posting by '",
+        "Abstract": "Welcome to NOTBBC Welcome to NOTBBC - Latest forum posts: Teenwolf's Dark Side started by Teenwolf ( Playpen ) posts - latest posting by Teenwolf on 12:",
         "Official Site": "https://notbbc.co.uk",
         "Icon": "/notbbc.ico",
         "Redirect": "https://notbbc.co.uk",
@@ -70,16 +70,6 @@
         "AbstractURL": "https://www.jwine.com/"
     },
     {
-        "link": "https://otherloops.com",
-        "Heading": "Get Inspired by Modern Knitwear Patterns",
-        "Abstract": "Maja create classic and modern knitwear patterns that suite your needs of long-lasting design. Other Loops put heart into developing precise",
-        "Official Site": "https://www.otherloops.com/",
-        "Icon": "https://i0.wp.com/www.otherloops.com/wp-content/uploads/2023/09/IMG_6863.jpeg?fit=780%2C1042&ssl=1",
-        "Redirect": "https://www.otherloops.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.otherloops.com/"
-    },
-    {
         "link": "https://arecontvision.com",
         "Heading": " AV Costar ",
         "Abstract": " AV Costar is the leading manufacturer of network cameras and megapixel surveillance cameras offering a large selection of megapixel IP cameras. ",
@@ -124,7 +114,7 @@
         "Heading": "Mortgage and Home Loan Brokers | Hunter Galloway",
         "Abstract": "Get expert help from Hunter Galloway, the best mortgage loan broker company in the area. Let our finance brokers help you find the right loan. Call us now!",
         "Official Site": "https://www.huntergalloway.com.au/",
-        "Icon": "https://www.huntergalloway.com.au/pages/get-a-stress-free-first-home-loan/hg-2.webp",
+        "Icon": "/favicon-32x32.png",
         "Redirect": "https://www.huntergalloway.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.huntergalloway.com.au/"
@@ -191,13 +181,13 @@
     },
     {
         "link": "https://bizfina.org",
-        "Heading": "BIZFINA - Empowering Your Financial Future, One Insight at a Time.",
-        "Abstract": "Empowering Your Financial Future, One Insight at a Time.",
-        "Official Site": "https://bizfina.org/",
-        "Icon": "N/A",
-        "Redirect": "https://bizfina.org/",
+        "Heading": "Bizfina \u2014 Independent multilingual magazine",
+        "Abstract": "Independent multilingual business journalism \u2014 original reporting on markets, investing, personal finance and entrepreneurship, written natively in every edition.",
+        "Official Site": "https://bizfina.org/en",
+        "Icon": "https://bizfina.org/assets/og-default-HLM6KSfT.jpg",
+        "Redirect": "https://bizfina.org/en",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bizfina.org/"
+        "AbstractURL": "https://bizfina.org/en"
     },
     {
         "link": "https://r-s-group.com",
@@ -248,6 +238,16 @@
         "Redirect": "https://theartofonlinebusiness.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theartofonlinebusiness.com/"
+    },
+    {
+        "link": "https://3dwebers.com",
+        "Heading": "3D Webers",
+        "Abstract": null,
+        "Official Site": "https://3dwebers.com",
+        "Icon": "N/A",
+        "Redirect": "https://3dwebers.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://3dwebers.com"
     },
     {
         "link": "https://psypress.com",

@@ -40,16 +40,6 @@
         "AbstractURL": "https://www.variahuis.nl/"
     },
     {
-        "link": "https://libreriabahiadeletras.es",
-        "Heading": "Librer\u00eda Bah\u00eda de Letras un cosmo de palabas impresas ",
-        "Abstract": "Libreria siempre cerca de ti con un servicio online 24/48 horas",
-        "Official Site": "https://libreriabahiadeletras.es",
-        "Icon": "https://www.libreriabahiadeletras.es/es/archivos/51/favicon.png",
-        "Redirect": "https://libreriabahiadeletras.es",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://libreriabahiadeletras.es"
-    },
-    {
         "link": "https://kupi-prava-2b6j.ru",
         "Heading": "Success!",
         "Abstract": null,
@@ -68,6 +58,16 @@
         "Redirect": "https://citycenterone.hr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://citycenterone.hr/"
+    },
+    {
+        "link": "https://uberty.org",
+        "Heading": "Uberty",
+        "Abstract": "But it does not contribute to the uberty of reasoning which far more calls for solicitous care.",
+        "Official Site": "https://uberty.org/",
+        "Icon": "http://uberty.org/wp-content/uploads/2015/02/tv-uberty.jpg",
+        "Redirect": "https://uberty.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uberty.org/"
     },
     {
         "link": "https://anapar.com.br",
@@ -108,6 +108,16 @@
         "Redirect": "https://www.ribnitz-damgarten.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ribnitz-damgarten.de"
+    },
+    {
+        "link": "https://lapwinglabs.com",
+        "Heading": "Home - Lapwinglabs",
+        "Abstract": null,
+        "Official Site": "https://lapwinglabs.com/",
+        "Icon": "https://lapwinglabs.com/wp-content/uploads/2023/06/Lapwing-4-150x150.png",
+        "Redirect": "https://lapwinglabs.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lapwinglabs.com/"
     },
     {
         "link": "https://horizondm.com",

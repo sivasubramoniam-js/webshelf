@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://ausgolf.com.au",
+        "Heading": "Australias most informative golf website - ausgolf",
+        "Abstract": "Australia's most informative golf site, Australian golf travel, golf clubs, courses, coaching, holidays, links, Australian golfers and much more...",
+        "Official Site": "https://ausgolf.com.au",
+        "Icon": "https://www.ausgolf.com.au/images/ausgolf-logo-rs.png",
+        "Redirect": "https://ausgolf.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ausgolf.com.au"
+    },
+    {
         "link": "https://forumue.de",
         "Heading": "  Forum Umwelt & Entwicklung   ",
         "Abstract": "Das Forum Umwelt und Entwicklung arbeitet auf nationaler und internationaler Ebene mit deutschen NGOs zu sozial-\u00f6kologischer Nachhaltigkeit und globaler Gerechtigkeit.",
@@ -128,6 +138,16 @@
         "Redirect": "https://coastalgadnr.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://coastalgadnr.org"
+    },
+    {
+        "link": "https://traditionalcatholicpriest.com",
+        "Heading": "catholicpriest",
+        "Abstract": null,
+        "Official Site": "https://example.com",
+        "Icon": "${image-content}",
+        "Redirect": "https://example.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://example.com"
     },
     {
         "link": "https://tfauae.com",
