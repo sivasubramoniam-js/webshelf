@@ -51,13 +51,13 @@
     },
     {
         "link": "https://fusionoffice.co.uk",
-        "Heading": "Office Supplies, Packaging, Stationery & Printer Ink | Fusion Office",
-        "Abstract": "Office Supplies UK Next Day Delivery | A vast range of great value workplace & packaging supplies | 5 Star Rated Supplier | Fusion Office UK",
-        "Official Site": "https://www.fusionoffice.co.uk/",
-        "Icon": "https://www.fusionoffice.co.uk/wp-content/uploads/2022/02/home.jpg",
-        "Redirect": "https://www.fusionoffice.co.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://fusionoffice.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://fusionoffice.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.fusionoffice.co.uk/"
+        "AbstractURL": "https://fusionoffice.co.uk"
     },
     {
         "link": "https://glazbena-kutija.hr",
@@ -248,6 +248,16 @@
         "Redirect": "https://jiemenglao.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jiemenglao.com"
+    },
+    {
+        "link": "https://jobs-in-nuernberg.de",
+        "Heading": "Jobs N\u00fcrnberg und Umgebung | jobs-in-nuernberg.de",
+        "Abstract": "Jobs in N\u00fcrnberg. Starten Sie gleich Ihre Jobsuche in N\u00fcrnberg mit aktuellen Stellenanzeigen aus Ihrer Region.",
+        "Official Site": "https://jobs-in-nuernberg.de",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://jobs-in-nuernberg.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jobs-in-nuernberg.de"
     },
     {
         "link": "https://kinzd.com",

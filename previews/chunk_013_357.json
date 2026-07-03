@@ -190,16 +190,6 @@
         "AbstractURL": "https://www.thebasementnashville.com/"
     },
     {
-        "link": "https://gebeya.com",
-        "Heading": "Gebeya | AI Solutions for Africa with Dala, Jitume & Jenga",
-        "Abstract": "Discover Gebeya and explore Dala, Jitume, and Jenga-AI-powered solutions built to help businesses in Africa scale faster, work smarter, and create real impact.",
-        "Official Site": "https://gebeya.com/",
-        "Icon": "https://gebeya.com/wp-content/uploads/2025/02/117-987x1024.webp",
-        "Redirect": "https://gebeya.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gebeya.com/"
-    },
-    {
         "link": "https://foxboroughma.gov",
         "Heading": "\n\tHome - Town of Foxborough\n",
         "Abstract": null,
@@ -231,23 +221,13 @@
     },
     {
         "link": "https://ncidea.org",
-        "Heading": null,
+        "Heading": "NC IDEA \u2013 Advancing Entrepreneurship",
         "Abstract": null,
         "Official Site": "https://ncidea.org",
-        "Icon": "N/A",
+        "Icon": "https://ncidea.org/wp-content/uploads/2021/08/cropped-favicon2512x512-214x214.png",
         "Redirect": "https://ncidea.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ncidea.org"
-    },
-    {
-        "link": "https://drdavisinfinitehealth.com",
-        "Heading": "Dr. William Davis | Cardiologist & Author of Wheat Belly Books",
-        "Abstract": "Dr. William Davis, cardiologist, author of the New York Times Bestselling Wheat Belly Books, and health crusader for the wheat-free, grain-free lifestyle",
-        "Official Site": "https://drdavisinfinitehealth.com/",
-        "Icon": "https://drdavisinfinitehealth.com/wp-content/uploads/2022/01/wheat-belly-copy.jpg",
-        "Redirect": "https://drdavisinfinitehealth.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://drdavisinfinitehealth.com/"
     },
     {
         "link": "https://greedyeats.com",
@@ -258,15 +238,5 @@
         "Redirect": "https://greedyeats.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://greedyeats.com/"
-    },
-    {
-        "link": "https://little-gamers.com",
-        "Heading": "Little Gamers Comic - Awesome webcomic, updated Monday, Wednesday & Friday",
-        "Abstract": "The internationally acclaimed webcomic about games, life and internets - Updated Monday, Wednesday & Friday - The original webcomic.",
-        "Official Site": "https://little-gamers.com",
-        "Icon": "https://www.little-gamers.com/comics/2025-02-05.jpg",
-        "Redirect": "https://little-gamers.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://little-gamers.com"
     }
 ]

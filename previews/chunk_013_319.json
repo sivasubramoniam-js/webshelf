@@ -130,6 +130,16 @@
         "AbstractURL": "https://www.chronoland.ru"
     },
     {
+        "link": "https://fameklinik.com",
+        "Heading": "Fame Clinic | Malatya Estetik Klinikleri",
+        "Abstract": "Fame Clinic Malatya'da Estetik Klinikleri Aras\u0131nda En \u0130yisi. Dolgu , Botoks , Burun Esteti\u011fi ve Sa\u00e7 Ekimi Hizmetleri sunmaktad\u0131r.",
+        "Official Site": "https://fameklinik.com/",
+        "Icon": "images/favicon.png",
+        "Redirect": "https://fameklinik.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fameklinik.com/"
+    },
+    {
         "link": "https://westfuneralhome.com",
         "Heading": "West Funeral Home | West Fargo ND funeral home and cremation and memorial service",
         "Abstract": "",
@@ -181,10 +191,10 @@
     },
     {
         "link": "https://styles2you.com",
-        "Heading": "Styles 2 You - womens clothing, vintage inspired, boho fashion",
-        "Abstract": "Womens Designer Clothing and Celebrity Fashion Boutique - vintage inspired, bohemian fashion, victorian chic and clothes that are as individual as you are.",
+        "Heading": "Connection Problem",
+        "Abstract": "",
         "Official Site": "https://styles2you.com",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://styles2you.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://styles2you.com"
@@ -341,7 +351,7 @@
     },
     {
         "link": "https://pandagrubu.com.tr",
-        "Heading": "Panda Grup - Anasayfa",
+        "Heading": "Panda Grubu - Anasayfa",
         "Abstract": "",
         "Official Site": "https://pandagrubu.com.tr/tr/anasayfa",
         "Icon": "https://pandagrubu.com.tr/frontend/manifest/images/android-chrome-192x192.png",

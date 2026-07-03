@@ -200,24 +200,14 @@
         "AbstractURL": "https://www.sunrisehealthinfo.com/"
     },
     {
-        "link": "https://tcomlp.com",
-        "Heading": "TCOM \u2013 Global Leader in Persistent Surveillance Aerostats ISR Solutions",
+        "link": "https://mwge.org",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://tcomlp.com",
-        "Icon": "https://tcomlp.b-cdn.net/wp-content/uploads/2026/02/cropped-TCOM_Icon_Blue_RGB-scaled-1-32x32.png",
-        "Redirect": "https://tcomlp.com",
+        "Official Site": "https://mwge.org",
+        "Icon": "data:;",
+        "Redirect": "https://mwge.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tcomlp.com"
-    },
-    {
-        "link": "https://ocularsounds.com",
-        "Heading": "Premium Sound Effects and Music to Make Your Content Unforgettable",
-        "Abstract": "Welcome to Ocular Sounds, a home for modern creators. Crafted for those who want their visuals to resonate deeper \u2013 beyond image, beyond story.",
-        "Official Site": "https://ocularsounds.com/",
-        "Icon": "http://ocularsounds.com/cdn/shop/files/Ocular_Sounds_Logo.jpg?v=1747143564&width=2048",
-        "Redirect": "https://ocularsounds.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ocularsounds.com/"
+        "AbstractURL": "https://mwge.org"
     },
     {
         "link": "https://owoff.xyz",
@@ -238,6 +228,16 @@
         "Redirect": "https://bullbbq.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bullbbq.com/"
+    },
+    {
+        "link": "https://pillfast24.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pillfast24.com",
+        "Icon": "N/A",
+        "Redirect": "https://pillfast24.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pillfast24.com"
     },
     {
         "link": "https://biogartenliving.de",
@@ -278,5 +278,15 @@
         "Redirect": "https://supercurioso.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://supercurioso.com/"
+    },
+    {
+        "link": "https://ganitiktech.com",
+        "Heading": "Ganitik Tech Limited - Home",
+        "Abstract": null,
+        "Official Site": "https://ganitiktech.com",
+        "Icon": "assets/img/ganitik.png",
+        "Redirect": "https://ganitiktech.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ganitiktech.com"
     }
 ]

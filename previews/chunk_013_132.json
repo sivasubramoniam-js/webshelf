@@ -10,16 +10,6 @@
         "AbstractURL": "https://theworcesterjournal.com/"
     },
     {
-        "link": "https://dogear.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dogear.com",
-        "Icon": "N/A",
-        "Redirect": "https://dogear.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dogear.com"
-    },
-    {
         "link": "https://lcmmedia.de",
         "Heading": "LCMmedia",
         "Abstract": "",
@@ -48,6 +38,16 @@
         "Redirect": "https://weinstore.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://weinstore.net"
+    },
+    {
+        "link": "https://wardruna.com",
+        "Heading": "Wardruna.com - Official Wardruna Website",
+        "Abstract": null,
+        "Official Site": "https://wardruna.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://wardruna.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wardruna.com"
     },
     {
         "link": "https://kodedice.com",
@@ -114,7 +114,7 @@
         "Heading": "Pro-era.ro",
         "Abstract": "Pro-era.ro - Bine ai venit pe magazinul nostru online,  unde iti propunem o gama completa de produse!",
         "Official Site": "https://www.pro-era.ro",
-        "Icon": "https://s.cdnshm.com/site/1200x1200/pro-era.ro.jpg?20260702",
+        "Icon": "https://s.cdnshm.com/site/1200x1200/pro-era.ro.jpg?20260703",
         "Redirect": "https://www.pro-era.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.pro-era.ro"

@@ -31,13 +31,13 @@
     },
     {
         "link": "https://marinwater.org",
-        "Heading": "Home - Marin Water",
-        "Abstract": "Reimagine your landscape. Earn cash Get started with our resources \u2013\u00a0landscape design templates,\u00a0a\u00a0qualified\u00a0landscapers list\u00a0and inspiring stories from other customers\u00a0who\u2019ve\u00a0tackled a\u00a0lawn\u00a0transformation.\u00a0 Learn More Water Supply Resiliency: The ARC Project Learn how [\u2026]",
-        "Official Site": "https://marinwater.org/",
-        "Icon": "https://marinwater.org/wp-content/uploads/2025/05/favicon-32x32-1.png",
-        "Redirect": "https://marinwater.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://marinwater.org",
+        "Icon": "data:;",
+        "Redirect": "https://marinwater.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://marinwater.org/"
+        "AbstractURL": "https://marinwater.org"
     },
     {
         "link": "https://writeforme.org",
@@ -248,5 +248,15 @@
         "Redirect": "https://sicurezzaesoccorso.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sicurezzaesoccorso.com"
+    },
+    {
+        "link": "https://tatarenko.org",
+        "Heading": "\u7b2c\u4e5d\u4e2d\u6587\u7f51-\u65e0\u5f39\u7a97\u5c0f\u8bf4\u9605\u8bfb\u7f51",
+        "Abstract": "\u7b2c\u4e5d\u4e2d\u6587\u7f51\u662f\u5e7f\u5927\u4e66\u53cb\u6700\u503c\u5f97\u6536\u85cf\u7684\u70ed\u95e8\u5c0f\u8bf4\u9605\u8bfb\u7f51,\u6536\u5f55\u4e86\u5f53\u524d\u6700\u65b0\u6700\u706b\u70ed\u7684\u7f51\u7edc\u5c0f\u8bf4,\u514d\u8d39\u63d0\u4f9b\u9ad8\u8d28\u91cf\u7684\u5c0f\u8bf4\u6700\u65b0\u7ae0\u8282,\u5168\u6587\u514d\u8d39\u5728\u7ebf\u9605\u8bfb,\u5c0f\u8bf4TXT\u4e0b\u8f7d,\u662f\u5e7f\u5927\u7f51\u7edc\u5c0f\u8bf4\u7231\u597d\u8005\u5fc5\u5907\u7684\u5c0f\u8bf4\u9605\u8bfb\u7f51\u3002",
+        "Official Site": "https://tatarenko.org",
+        "Icon": "/static/simple/favicon.ico",
+        "Redirect": "https://tatarenko.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tatarenko.org"
     }
 ]

@@ -90,16 +90,6 @@
         "AbstractURL": "https://metrodenverluxuryhomes.com/"
     },
     {
-        "link": "https://middlecreekprinting.com",
-        "Heading": "Middle Creek Printing  - Middle Creek Printing",
-        "Abstract": "Middle Creek Printing offers Screen Printing, Embroidery, Promotional Products as well as custom online Stores.",
-        "Official Site": "https://middlecreekprinting.com",
-        "Icon": "https://middlecreekprinting.com/media/favicon/stores/1/MiddleCreekAlt_2.png",
-        "Redirect": "https://middlecreekprinting.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://middlecreekprinting.com"
-    },
-    {
         "link": "https://millenasiaproject.com",
         "Heading": "millenasiaproject.com",
         "Abstract": " Regularly inspect the tire treads for uneven wear patterns and check the sidewalls for any cuts or damage.  I read the classic 1954 book ",
@@ -110,11 +100,21 @@
         "AbstractURL": "http://millenasiaproject.com/"
     },
     {
+        "link": "https://milwaukeew.com",
+        "Heading": "Automotive, Tools & Outdoor \u2013 Heating, Cooling & Electrical Supplies",
+        "Abstract": "Your source for automotive parts, power tools, farm supplies, and outdoor living essentials. Find top brands like Makita and Festool for all your project needs.",
+        "Official Site": "https://www.milwaukeew.com/",
+        "Icon": "https://www.milwaukeew.com/wp-content/uploads/milwaukeew.jpg",
+        "Redirect": "https://www.milwaukeew.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.milwaukeew.com/"
+    },
+    {
         "link": "https://mnmsba.org",
-        "Heading": "Minnesota School Boards Association \u2013 The Minnesota School Boards Association's mission is to support, promote and enhance the work of public school boards and public education",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://mnmsba.org",
-        "Icon": "https://mnmsba.org/wp-content/uploads/2021/11/MSBA_fav-2.jpg",
+        "Icon": "data:;",
         "Redirect": "https://mnmsba.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mnmsba.org"
@@ -160,6 +160,16 @@
         "AbstractURL": "https://www.mortal-kombat.org/"
     },
     {
+        "link": "https://msgermany.de",
+        "Heading": "MSG Dichtungswerk GmbH | Deutsche Gleitringdichtungen",
+        "Abstract": "Gleitringdichtungen auf h\u00f6chstem Niveau - Seit 1993",
+        "Official Site": "https://www.msgermany.de/de/home//#home",
+        "Icon": "https://www.msgermany.de/img/_layout/logo_fb.png",
+        "Redirect": "https://www.msgermany.de/de/home//#home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.msgermany.de/de/home//#home"
+    },
+    {
         "link": "https://msvtimes.com",
         "Heading": "Site is undergoing maintenance",
         "Abstract": "PLEASE AWAIT UPDATES.",
@@ -178,16 +188,6 @@
         "Redirect": "https://music-theory-practice.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://music-theory-practice.com/"
-    },
-    {
-        "link": "https://musicomrecords.com",
-        "Heading": "Musicomrecords \u2013 Venta de discos nuevos y de ocasi\u00f3n",
-        "Abstract": null,
-        "Official Site": "https://musicomrecords.com",
-        "Icon": "https://musicomrecords.com/wp-content/uploads/2025/04/cropped-Recurso-2-1-32x32.png",
-        "Redirect": "https://musicomrecords.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://musicomrecords.com"
     },
     {
         "link": "https://musictt.cn",

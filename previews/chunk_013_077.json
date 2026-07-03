@@ -110,6 +110,16 @@
         "AbstractURL": "https://pps-eu.org"
     },
     {
+        "link": "https://royalark.net",
+        "Heading": "index",
+        "Abstract": null,
+        "Official Site": "https://royalark.net",
+        "Icon": "N/A",
+        "Redirect": "https://royalark.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://royalark.net"
+    },
+    {
         "link": "https://operationwearehere.com",
         "Heading": "Resources for Military & Veteran Families and Military Supporters",
         "Abstract": "Operation We Are Here ~ A clearinghouse of resources for the military community and military supporters.",
@@ -211,13 +221,13 @@
     },
     {
         "link": "https://pstrust.org",
-        "Heading": "Pipeline Safety Trust",
-        "Abstract": "Credible. Independent. In the public interest.",
-        "Official Site": "https://pstrust.org/",
-        "Icon": "https://pstrust.org/wp-content/uploads/2021/03/PST_Logo_Square_Web.svg",
-        "Redirect": "https://pstrust.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pstrust.org",
+        "Icon": "data:;",
+        "Redirect": "https://pstrust.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pstrust.org/"
+        "AbstractURL": "https://pstrust.org"
     },
     {
         "link": "https://globalvaluebuyingstore.shop",
@@ -241,13 +251,13 @@
     },
     {
         "link": "https://skypark.ru",
-        "Heading": "Skypark \u0421\u043e\u0447\u0438 \u2013 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442",
-        "Abstract": "Skypark \u2014 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043c\u0435\u0441\u0442\u043e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438, \u0433\u0434\u0435 \u0432\u044b \u0441\u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0440\u043e\u0439\u0442\u0438\u0441\u044c \u043f\u043e \u0441\u0430\u043c\u043e\u043c\u0443 \u0434\u043b\u0438\u043d\u043d\u043e\u043c\u0443 \u043f\u043e\u0434\u0432\u0435\u0441\u043d\u043e\u043c\u0443 \u043f\u0435\u0448\u0435\u0445\u043e\u0434\u043d\u043e\u043c\u0443 \u043c\u043e\u0441\u0442\u0443, \u043f\u043e\u043b\u0435\u0442\u0430\u0442\u044c \u043d\u0430 \u0441\u0430\u043c\u044b\u0445 \u0432\u044b\u0441\u043e\u043a\u0438\u0445 \u043a\u0430\u0447\u0435\u043b\u044f\u0445 SochiSwing \u0438 \u043e\u043a\u0430\u0437\u0430\u0442\u044c\u0441\u044f \u043d\u0430 \u0441\u0430\u043c\u043e\u0439 \u0432\u044b\u0441\u043e\u043a\u043e\u0439 Bungy 207. Skypark \u0432 \u0421\u043e\u0447\u0438 \u2014 \u043f\u0430\u0440\u043a \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u0435\u043d\u0438\u0439!",
-        "Official Site": "https://skypark.ru",
-        "Icon": "/local/templates/skypark/favicon.svg",
-        "Redirect": "https://skypark.ru",
+        "Heading": "Skypark \u0421\u043e\u0447\u0438 | \u041f\u0430\u0440\u043a \u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0439",
+        "Abstract": "Skypark - \u043f\u0435\u0440\u0432\u044b\u0439 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u044b\u0441\u043e\u0442\u043d\u044b\u0439 \u043f\u0430\u0440\u043a \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u0435\u043d\u0438\u0439 \u043e\u0442 \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044f \u0431\u0430\u043d\u0434\u0436\u0438-\u043f\u0440\u044b\u0436\u043a\u043e\u0432 \u042d\u0439\u0414\u0436\u0435\u0439 \u0425\u0430\u043a\u0435\u0442\u0442\u0430",
+        "Official Site": "https://skypark.ru/",
+        "Icon": "https://skypark.ru/local/templates/skypark/uploads/Skypark_Logo_blue.png",
+        "Redirect": "https://skypark.ru/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://skypark.ru"
+        "AbstractURL": "https://skypark.ru/"
     },
     {
         "link": "https://ejstechc.co.uk",

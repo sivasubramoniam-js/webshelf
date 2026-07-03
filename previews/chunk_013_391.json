@@ -120,16 +120,6 @@
         "AbstractURL": "https://silverpoint.com"
     },
     {
-        "link": "https://fet-ev.eu",
-        "Heading": "Start | FETeV",
-        "Abstract": "Finden Sie wissenschaftliche Updates, Recherche-Tools und hilfreiche Leitf\u00e4den f\u00fcr Ihre t\u00e4gliche Arbeit in der Ern\u00e4hrungstherapie.",
-        "Official Site": "https://fet-ev.eu/",
-        "Icon": "https://fet-ev.eu/wp-content/uploads/2023/11/cropped-cropped-logo-web-klein.png",
-        "Redirect": "https://fet-ev.eu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fet-ev.eu/"
-    },
-    {
         "link": "https://computer-service.com.hk",
         "Heading": "Loading...",
         "Abstract": null,
@@ -181,7 +171,7 @@
     },
     {
         "link": "https://1024kk.com",
-        "Heading": "\u5f20\u7231\u73b2 - \u540d\u4eba\u540d\u8a00",
+        "Heading": "\u53f2\u94c1\u751f - \u540d\u4eba\u540d\u8a00",
         "Abstract": null,
         "Official Site": "https://1024kk.com",
         "Icon": "N/A",
@@ -288,6 +278,16 @@
         "Redirect": "https://cedcssc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cedcssc.com"
+    },
+    {
+        "link": "https://deskplay.ee",
+        "Heading": "Deskplay.ee < m\u00fc\u00fcgihitid",
+        "Abstract": null,
+        "Official Site": "https://deskplay.ee",
+        "Icon": "N/A",
+        "Redirect": "https://deskplay.ee",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deskplay.ee"
     },
     {
         "link": "https://exhibitionstage.com",

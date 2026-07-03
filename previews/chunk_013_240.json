@@ -51,13 +51,13 @@
     },
     {
         "link": "https://vereniginghomeopathie.nl",
-        "Heading": "Vereniging Homeopathie",
-        "Abstract": "Ontdek de kracht van homeopathie bij de Vereniging Homeopathie. Vind uitgebreide informatie, deskundige behandelaars en alles over homeopathische behandelingen. Sluit je aan bij onze community en ontdek een natuurlijke weg naar gezondheid.",
-        "Official Site": "https://vereniginghomeopathie.nl/",
-        "Icon": "https://vereniginghomeopathie.nl/wp-content/uploads/2023/10/header2-9-1024x314-1.jpeg",
-        "Redirect": "https://vereniginghomeopathie.nl/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://vereniginghomeopathie.nl",
+        "Icon": "data:;",
+        "Redirect": "https://vereniginghomeopathie.nl",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vereniginghomeopathie.nl/"
+        "AbstractURL": "https://vereniginghomeopathie.nl"
     },
     {
         "link": "https://pubmighty.com",
@@ -138,6 +138,16 @@
         "Redirect": "https://www.tdlc.cl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tdlc.cl/"
+    },
+    {
+        "link": "https://ymerfrisbee.se",
+        "Heading": "Ymer Frisbee",
+        "Abstract": null,
+        "Official Site": "https://ymerfrisbee.se/",
+        "Icon": "https://impro.usercontent.one/appid/oneComWsb/domain/ymerfrisbee.se/media/ymerfrisbee.se/onewebmedia/Ymerlogga_svart_transparent.png?etag=W%2F%2216839-6506cf92%22&sourceContentType=image%2Fpng&quality=85",
+        "Redirect": "https://ymerfrisbee.se/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ymerfrisbee.se/"
     },
     {
         "link": "https://cavesa.ch",
@@ -268,16 +278,6 @@
         "Redirect": "https://marazultour.com.br/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://marazultour.com.br/"
-    },
-    {
-        "link": "https://estecenter.com",
-        "Heading": "Estecenter Plastic Surgery Center - Istanbul T\u00fcrkiye",
-        "Abstract": "Estecenter offers excellent healthcare services with its many medical staff and doctors who specialize in aesthetics.",
-        "Official Site": "https://estecenter.com/",
-        "Icon": "https://estecenter.com/wp-content/uploads/2024/04/este-site0icon.png",
-        "Redirect": "https://estecenter.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://estecenter.com/"
     },
     {
         "link": "https://techkathosting.com",

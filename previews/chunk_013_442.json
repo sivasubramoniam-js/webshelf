@@ -144,7 +144,7 @@
         "Heading": "Paul B. Cummings Home - Paul B. Cummings",
         "Abstract": null,
         "Official Site": "https://paulbcummings.com/",
-        "Icon": "https://i0.wp.com/paulbcummings.com/wp-content/uploads/2026/07/cropped-Favicon2-32x32.png",
+        "Icon": "https://i0.wp.com/paulbcummings.com/wp-content/uploads/2026/07/Favicon3-150x150.png",
         "Redirect": "https://paulbcummings.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://paulbcummings.com/"
@@ -318,5 +318,15 @@
         "Redirect": "https://mykonos.gr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mykonos.gr/"
+    },
+    {
+        "link": "https://hermosabeach.gov",
+        "Heading": "\n\t\n    City of Hermosa Beach | Home\n\n",
+        "Abstract": "Official City of Hermosa Beach Website",
+        "Official Site": "https://hermosabeach.gov",
+        "Icon": "N/A",
+        "Redirect": "https://hermosabeach.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hermosabeach.gov"
     }
 ]

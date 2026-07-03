@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://hotelonderbergen.be",
+        "Heading": "Hotel Onderbergen - Boutique Hotel Gent - Perfect City Trip Hotel - Affordabel With Deluxe Rooms Available",
+        "Abstract": "Hotel Onderbergen is a modern, but charming 24 room boutique hotel, situated in the heart of the historical Belgian city of Gent. We are a leading choice for city trips of all types, thanks to our central location, competitive rates and multiple room types.",
+        "Official Site": "https://hotelonderbergen.be/",
+        "Icon": "https://hotelonderbergen.be/og-image.jpg",
+        "Redirect": "https://hotelonderbergen.be/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotelonderbergen.be/"
+    },
+    {
         "link": "https://hq-bot.com",
         "Heading": "HQSahamIDX BOT User Manual",
         "Abstract": null,
@@ -48,16 +58,6 @@
         "Redirect": "https://www.idotoshi.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.idotoshi.net/"
-    },
-    {
-        "link": "https://ifoundmydoctor.com",
-        "Heading": "Florida Health Care News | Find a Top Doctor or Dentist Near You",
-        "Abstract": "IFoundMyDoctor.com is a leading source for trustworthy and timely health and medical news. We provide credible health information, doctor reviews, and educational services by our expertise in content provided by real patient testimonials.",
-        "Official Site": "https://www.ifoundmydoctor.com/",
-        "Icon": "https://www.ifoundmydoctor.com/wp-content/uploads/2025/03/default-image-fb-1.png",
-        "Redirect": "https://www.ifoundmydoctor.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ifoundmydoctor.com/"
     },
     {
         "link": "https://illytrilly.com",
@@ -118,6 +118,16 @@
         "Redirect": "https://ip3back.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ip3back.com"
+    },
+    {
+        "link": "https://jakartaaestheticclinic.co.id",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://jakartaaestheticclinic.co.id",
+        "Icon": "data:;",
+        "Redirect": "https://jakartaaestheticclinic.co.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jakartaaestheticclinic.co.id"
     },
     {
         "link": "https://jaminqian.com",

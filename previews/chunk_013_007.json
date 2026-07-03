@@ -90,6 +90,16 @@
         "AbstractURL": "https://vulkanolimpy.xyz"
     },
     {
+        "link": "https://starnetinc.com",
+        "Heading": "starnetinc",
+        "Abstract": null,
+        "Official Site": "https://starnetinc.com",
+        "Icon": "N/A",
+        "Redirect": "https://starnetinc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://starnetinc.com"
+    },
+    {
         "link": "https://balkanist.net",
         "Heading": "Balkanist -",
         "Abstract": "Magazine Traumatic Reckoning on Celluloid: The Case of Post-Yugoslav Film by Dragana Obradovic Magazine War and Holy Water in Ukraine: An Interview with Photographer Christopher Nunn by Lily Lynch Analysis, Magazine The \u201cNational Mothers\u201d of Socialism: From Mother Albania to the Mother of Georgia by Sashenka Lleshaj Arts and culture - April 21, 2022 Quo",
@@ -131,13 +141,13 @@
     },
     {
         "link": "https://wagerlab.app",
-        "Heading": "WagerLab - Friendly Betting App | Bet With Friends App | Social Sportsbook",
-        "Abstract": "WagerLab is a free betting app. Bet for fun against friends, track and tally bets, and download the best social betting app.",
-        "Official Site": "https://www.wagerlab.app/",
-        "Icon": "https://www.wagerlab.app/wp-content/uploads/2021/03/cropped-favicon-1-32x32.png",
-        "Redirect": "https://www.wagerlab.app/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://wagerlab.app",
+        "Icon": "data:;",
+        "Redirect": "https://wagerlab.app",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.wagerlab.app/"
+        "AbstractURL": "https://wagerlab.app"
     },
     {
         "link": "https://ultratradex.com",
@@ -351,12 +361,12 @@
     },
     {
         "link": "https://embat.io",
-        "Heading": "Treasury Management System for Real-Time Control | Embat",
-        "Abstract": "Streamline Corporate Treasury management. Centralise cash, reconcile, execute payments, and forecast liquidity across all your banks and ERP.",
-        "Official Site": "https://www.embat.io/",
-        "Icon": "https://www.embat.io/wp-content/uploads/2026/03/Imagen-landing.png",
-        "Redirect": "https://www.embat.io/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://embat.io",
+        "Icon": "data:;",
+        "Redirect": "https://embat.io",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.embat.io/"
+        "AbstractURL": "https://embat.io"
     }
 ]

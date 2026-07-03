@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://corbero.es",
-        "Heading": "Corber\u00f3",
-        "Abstract": null,
-        "Official Site": "https://corbero.es",
-        "Icon": "https://corbero.es/wp-content/uploads/2026/04/favicon-corbero.png",
-        "Redirect": "https://corbero.es",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://corbero.es"
-    },
-    {
         "link": "https://cosmadic.de",
         "Heading": "K-Beauty, Korean Skincare & Kosmetik | Cosmadic",
         "Abstract": "Entdecke hochwertige K-Beauty-Produkte bei Cosmadic. Koreanische Kosmetik f\u00fcr strahlende Haut. Jetzt shoppen!",
@@ -140,6 +130,16 @@
         "AbstractURL": "https://cutiepi.store/"
     },
     {
+        "link": "https://daborstore.it",
+        "Heading": "Dabor forniture per parrucchieri - DABOR",
+        "Abstract": null,
+        "Official Site": "https://daborstore.it/",
+        "Icon": "https://daborstore.it/wp-content/uploads/2022/07/cropped-favicon-dabor-png-512-32x32.png",
+        "Redirect": "https://daborstore.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://daborstore.it/"
+    },
+    {
         "link": "https://daksshoes.com",
         "Heading": "\ub2e5\uc2a4 \uad6c\ub450 DAKS SHOES MALL",
         "Abstract": "\ud38c\ud504\uc2a4/\ud790, \ubd80\uce20, \ud50c\ub7ab, \uc2a4\ub2c8\ucee4\uc988, \uc0cc\ub4e4, \ubbac/\uc2ac\ub9ac\ud37c \uc2a4\ud0c0\uc77c\uc744 \ub2e4\uc591\ud55c \ud61c\ud0dd\uc73c\ub85c \ub9cc\ub098 \ubcf4\uc138\uc694.",
@@ -204,7 +204,7 @@
         "Heading": "\n    \n    Daytona 73 - Boutique officielle - Blousons en cuir et v\u00eatements\n    \n    \n    \n  ",
         "Abstract": "Boutique en ligne de blousons en cuir et v\u00eatements de caract\u00e8re pour les aventuriers modernes. \u2714\ufe0fHaute Qualit\u00e9 \u2714\ufe0fPaiement s\u00e9curis\u00e9 \u2714\ufe0fSAV \u00e0 l'\u00e9coute",
         "Official Site": "https://daytona73.com/",
-        "Icon": "http://daytona73.com/cdn/shop/files/2025-11-01_Daytona_73_-_Outdoor_-_les_Angles-17-min_2b992a6f-988d-4a07-aea5-ef05e3117409.jpg?v=1764770861",
+        "Icon": "http://cdn.shopify.com/s/files/1/0831/0335/1124/files/2025-11-01_Daytona_73_-_Outdoor_-_les_Angles-17-min_2b992a6f-988d-4a07-aea5-ef05e3117409.jpg?v=1764770861",
         "Redirect": "https://daytona73.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://daytona73.com/"
@@ -218,6 +218,16 @@
         "Redirect": "https://deepbluesub.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://deepbluesub.com/"
+    },
+    {
+        "link": "https://delnext.com",
+        "Heading": "Delnext: Send parcels to anywhere in Europe",
+        "Abstract": "Delnext: Send parcels to anywhere in Europe for the lowest price. Next Delivery, Next Saving!",
+        "Official Site": "https://delnext.com",
+        "Icon": "https://www.delnext.com/images/homepage/favicon.png",
+        "Redirect": "https://delnext.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://delnext.com"
     },
     {
         "link": "https://deltawines.eu",
@@ -261,7 +271,7 @@
     },
     {
         "link": "https://depostore.hu",
-        "Heading": "DepoStore H\u00e1ztart\u00e1si G\u00e9p \u00c1ruh\u00e1z -",
+        "Heading": "DepoStore H\u00e1ztart\u00e1si G\u00e9p \u00c1ruh\u00e1z",
         "Abstract": "H\u00e1ztart\u00e1si g\u00e9p web\u00e1ruh\u00e1z, ahol t\u00f6bb ezer term\u00e9k k\u00f6z\u00fcl v\u00e1laszthat. Bankk\u00e1rty\u00e1s fizet\u00e9s, orsz\u00e1gos h\u00e1zhoz sz\u00e1ll\u00edt\u00e1s \u00e9s fantasztikus \u00e1rak, ez v\u00e1rja az oldalon.",
         "Official Site": "https://depostore.hu",
         "Icon": "https://depostore.hu/media/favicon/default/depo.png",

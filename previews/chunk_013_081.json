@@ -212,9 +212,9 @@
     {
         "link": "https://official-mega.shop",
         "Heading": "Google",
-        "Abstract": null,
+        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
         "Official Site": "https://official-mega.shop",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "N/A",
         "Redirect": "https://official-mega.shop",
         "AbstractSource": "BS4",
         "AbstractURL": "https://official-mega.shop"
@@ -268,16 +268,6 @@
         "Redirect": "https://2000w.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://2000w.xyz"
-    },
-    {
-        "link": "https://astromagazin.ro",
-        "Heading": "Telescoape Binocluri Accesorii",
-        "Abstract": "Magazin pentru astronomie - Oferim o gama larga de telescoape, lunete, binocluri si accesorii.",
-        "Official Site": "https://astromagazin.ro/",
-        "Icon": "https://astromagazin.ro/img/logo-1766990065.jpg",
-        "Redirect": "https://astromagazin.ro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://astromagazin.ro/"
     },
     {
         "link": "https://bimpsoft.com",

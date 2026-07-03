@@ -1,8 +1,8 @@
 [
     {
         "link": "https://haysitour.co.uk",
-        "Heading": "VISTA",
-        "Abstract": "",
+        "Heading": "302 Found",
+        "Abstract": null,
         "Official Site": "https://haysitour.co.uk",
         "Icon": "N/A",
         "Redirect": "https://haysitour.co.uk",
@@ -98,6 +98,16 @@
         "Redirect": "https://hhcfriends.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hhcfriends.de/"
+    },
+    {
+        "link": "https://hifiprestige.it",
+        "Heading": "Hifi Prestige",
+        "Abstract": "",
+        "Official Site": "https://www.hifiprestige.it/it/",
+        "Icon": "https://www.hifiprestige.it/img/logo-1763904164.jpg",
+        "Redirect": "https://www.hifiprestige.it/it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hifiprestige.it/it/"
     },
     {
         "link": "https://hiperzoo.com.br",
@@ -310,16 +320,6 @@
         "AbstractURL": "https://hygienepapier.nl"
     },
     {
-        "link": "https://icbrindle.com",
-        "Heading": "IC Brindle  Worldwide Suppliers of Marine and Land-Based Safety & Rescue Equipment.",
-        "Abstract": "I.C. Brindle & Co Ltd are Global Suppliers of Safety & Rescue Equipment from marine and land based safety to lifesaving products based in the UK. Many of our products complying with or certified by MED, MCA, USCG, UKCA and Red Ensign, Bureau Veritas and SOLAS.",
-        "Official Site": "https://icbrindle.com",
-        "Icon": "https://icbrindle.com/media/og_image/default/icbrindle-logo.png",
-        "Redirect": "https://icbrindle.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://icbrindle.com"
-    },
-    {
         "link": "https://iebmas.com.ar",
         "Heading": "IEB+ Tu app de inversiones",
         "Abstract": null,
@@ -334,7 +334,7 @@
         "Heading": "Best B-School & Law School in Bangalore | IFIM Institutions",
         "Abstract": "Explore our law school, business and tech program and unlock a world of opportunities. Apply now to secure your future at IFIM Institution.",
         "Official Site": "https://ifim.edu.in/",
-        "Icon": "https://ifim.edu.in/wp-content/uploads/2023/02/IFIM-law-home-banner-2-1920x1087-new-1.jpg",
+        "Icon": "https://ifim.edu.in/wp-content/uploads/2026/06/Banner-03-1.webp",
         "Redirect": "https://ifim.edu.in/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ifim.edu.in/"

@@ -170,6 +170,16 @@
         "AbstractURL": "https://insolvenz-radar.de"
     },
     {
+        "link": "https://cynomi.com",
+        "Heading": "Your Security Growth Platform",
+        "Abstract": "MSSPs and consulting firms leverage Cynomi\u2019s vCISO platform to provide full virtual CISO services at scale - without scaling their existing resources.",
+        "Official Site": "https://cynomi.com/",
+        "Icon": "https://cynomi.com/wp-content/uploads/2026/04/Share-image.png",
+        "Redirect": "https://cynomi.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cynomi.com/"
+    },
+    {
         "link": "https://gataria.pt",
         "Heading": "Intro | GATARIA",
         "Abstract": null,
@@ -188,16 +198,6 @@
         "Redirect": "https://kotor-montenegro-weather.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kotor-montenegro-weather.com"
-    },
-    {
-        "link": "https://18teentube.pro",
-        "Heading": "18 teen tube - sex video clips, hot porn videos",
-        "Abstract": null,
-        "Official Site": "https://18teentube.pro/",
-        "Icon": "N/A",
-        "Redirect": "https://18teentube.pro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://18teentube.pro/"
     },
     {
         "link": "https://rtrsports.com",
@@ -241,13 +241,13 @@
     },
     {
         "link": "https://signatureluxurytravel.com.au",
-        "Heading": "Luxury Holidays - Signature Luxury Travel & Style",
-        "Abstract": "Signature Luxury Travel is a publication for a global audience of travellers who seek the finest luxury holidays the world has to offer. Learn more.",
-        "Official Site": "https://www.signatureluxurytravel.com.au/",
-        "Icon": "https://www.signatureluxurytravel.com.au/wp-content/uploads/2017/05/cropped-Favicon-32x32.png",
-        "Redirect": "https://www.signatureluxurytravel.com.au/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://signatureluxurytravel.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://signatureluxurytravel.com.au",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.signatureluxurytravel.com.au/"
+        "AbstractURL": "https://signatureluxurytravel.com.au"
     },
     {
         "link": "https://uralenergotel.ru",

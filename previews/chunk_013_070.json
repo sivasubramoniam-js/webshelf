@@ -161,13 +161,13 @@
     },
     {
         "link": "https://seegreatart.art",
-        "Heading": "See Great Art - Sharing great art from across North America",
-        "Abstract": "Sharing great art from across North America",
-        "Official Site": "https://www.seegreatart.art/",
-        "Icon": "https://www.seegreatart.art/wp-content/uploads/2020/09/cropped-See-Great-Art-32x32.jpg",
-        "Redirect": "https://www.seegreatart.art/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://seegreatart.art",
+        "Icon": "data:;",
+        "Redirect": "https://seegreatart.art",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.seegreatart.art/"
+        "AbstractURL": "https://seegreatart.art"
     },
     {
         "link": "https://mujin.co.jp",
@@ -213,11 +213,11 @@
         "link": "https://amarbebsha.com",
         "Heading": "Best Digital Marketing Agency in BD | Consultancy | Hospitality & Food",
         "Abstract": "Expert in digital marketing solutions, experienced in the hospitality & food business, and best consultancy services for local and foreign investors.",
-        "Official Site": "https://amarbebsha.com/",
+        "Official Site": "http://amarbebsha.com/",
         "Icon": "https://www.amarbebsha.com/wp-content/uploads/2021/07/amarbebsha-about-us.jpg",
-        "Redirect": "https://amarbebsha.com/",
+        "Redirect": "http://amarbebsha.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://amarbebsha.com/"
+        "AbstractURL": "http://amarbebsha.com/"
     },
     {
         "link": "https://coinvaultexchange.com",

@@ -1,13 +1,13 @@
 [
     {
         "link": "https://staggallery.com",
-        "Heading": "Home - The Stag Gallery",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://staggallery.com/",
-        "Icon": "https://staggallery.com/wp-content/uploads/2025/03/cropped-stag-gallery-icon-32x32.png",
-        "Redirect": "https://staggallery.com/",
+        "Official Site": "https://staggallery.com",
+        "Icon": "data:;",
+        "Redirect": "https://staggallery.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://staggallery.com/"
+        "AbstractURL": "https://staggallery.com"
     },
     {
         "link": "https://legendzizou.com",
@@ -200,6 +200,16 @@
         "AbstractURL": "https://infandvm.com/"
     },
     {
+        "link": "https://menteseesco.xyz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://menteseesco.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://menteseesco.xyz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://menteseesco.xyz"
+    },
+    {
         "link": "https://radiotangra.com",
         "Heading": "\u041d\u0430\u0447\u0430\u043b\u043e - Tangra Mega Rock",
         "Abstract": "\u041d\u043e\u0432\u0438\u043d\u0438 \u041e\u0429\u0415 \u041d\u041e\u0412\u0418\u041d\u0418 \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0430\u0442\u0430 \u0421\u0415\u0414\u041c\u0418\u0427\u041d\u0410 \u041f\u0420\u041e\u0413\u0420\u0410\u041c\u0410 \u041e\u0429\u0415 \u041a\u041e\u041d\u0426\u0415\u0420\u0422\u0418 \u0418\u043d\u0442\u0435\u0440\u0432\u044e\u0442\u0430 \u041e\u0429\u0415 \u0418\u041d\u0422\u0415\u0420\u0412\u042e\u0422\u0410 \u0422\u0410\u041d\u0413\u0420\u0410 \u0422\u041e\u041f 40 \u0413\u041b\u0410\u0421\u0423\u0412\u0410\u0419 / \u0412\u0418\u0416 \u0426\u042f\u041b\u0410\u0422\u0410 \u041a\u041b\u0410\u0421\u0410\u0426\u0418\u042f \u041f\u041e\u0414\u041a\u0410\u0421\u0422",
@@ -248,5 +258,15 @@
         "Redirect": "https://davtrades.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://davtrades.com"
+    },
+    {
+        "link": "https://freshenjoyg1.xyz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://freshenjoyg1.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://freshenjoyg1.xyz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://freshenjoyg1.xyz"
     }
 ]

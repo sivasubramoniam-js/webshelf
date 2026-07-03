@@ -111,13 +111,13 @@
     },
     {
         "link": "https://nywhash.net",
-        "Heading": "Bot Verification",
-        "Abstract": null,
-        "Official Site": "https://nywhash.net",
-        "Icon": "N/A",
-        "Redirect": "https://nywhash.net",
+        "Heading": "Nywhash | Bulut, Altyap\u0131 ve Kurumsal Hizmetler",
+        "Abstract": "Nywhash ekosisteminin merkezi kontrol platformu. Nywhash Bulut, Tasar\u0131m, Yaz\u0131l\u0131m ve ana yap\u0131lar\u0131 birle\u015ftirir.",
+        "Official Site": "https://www.nywhash.com",
+        "Icon": "https://static.nywhash.com/partners/nywhash/nywhash_1920x1080_whitebg.png",
+        "Redirect": "https://www.nywhash.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nywhash.net"
+        "AbstractURL": "https://www.nywhash.com"
     },
     {
         "link": "https://metrotix.com",
@@ -150,16 +150,6 @@
         "AbstractURL": "https://hoconinfo.com"
     },
     {
-        "link": "https://capitalmonitor.ai",
-        "Heading": "Capital Monitor - Measuring the real impact of sustainable capital",
-        "Abstract": "Capital Monitor is dedicated to tracking the impact finance and investment has on our environment, our societies and institutions.",
-        "Official Site": "https://www.capitalmonitor.ai/",
-        "Icon": "",
-        "Redirect": "https://www.capitalmonitor.ai/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.capitalmonitor.ai/"
-    },
-    {
         "link": "https://pacast.com",
         "Heading": "\n\tPAcast\n",
         "Abstract": "An Official Pennsylvania Government Website",
@@ -168,6 +158,16 @@
         "Redirect": "https://pacast.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pacast.com/"
+    },
+    {
+        "link": "https://bvdm.de",
+        "Heading": "Bundesverband der Motorradfahrer e.V.",
+        "Abstract": "Politik, Fahrspa\u00df und Sicherheit. - Das ist der Bundesverband der Motorradfahrer e.V.",
+        "Official Site": "https://bvdm.de",
+        "Icon": "https://bvdm.de/bilder/R.MOHR_Artikelbilder/Bayern_Streckensperrungen_2025/Aufruf_Demonstration_Bayern_2025.jpg?m=1776325583",
+        "Redirect": "https://bvdm.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bvdm.de"
     },
     {
         "link": "https://bosqueyjardin.com",
@@ -208,6 +208,16 @@
         "Redirect": "https://www.ozohotels.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ozohotels.com"
+    },
+    {
+        "link": "https://xn-----7kccduufesz6cwj.xn--p1ai",
+        "Heading": "\u042e\u0431\u0438\u043b\u0435\u0439 \u043d\u0430 \u0431\u0438\u0441!",
+        "Abstract": "\u042e\u0431\u0438\u043b\u0435\u0439 \u043d\u0430 \u0431\u0438\u0441! \u2013 \u042d\u0442\u043e \u0441\u0430\u0439\u0442 \u0434\u043b\u044f \u0442\u0435\u0445, \u043a\u0442\u043e \u0445\u043e\u0447\u0435\u0442 \u043f\u0440\u043e\u0432\u0435\u0441\u0442\u0438 \u0441\u0432\u043e\u0439 \u044e\u0431\u0438\u043b\u0435\u0439 \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u0433\u043e\u0441\u0442\u0438 \u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u0435\u043c\u0443 \u2013 \u0445\u043e\u0442\u0438\u043c \u043d\u0430 \u0431\u0438\u0441! \u0412\u0430\u0441 \u0436\u0434\u0443\u0442 \u0441\u0446\u0435\u043d\u043a\u0438 \u0438 \u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0438, \u0438\u0433\u0440\u044b \u0438 \u043a\u043e\u043d\u043a\u0443\u0440\u0441\u044b, \u043f\u0440\u0438\u0433\u043b\u0430\u0448\u0435\u043d\u0438\u044f \u0438\u2026 \u0437\u0430\u0445\u043e\u0434\u0438\u0442\u0435 \u0438 \u0441\u0430\u043c\u0438 \u0432\u0441\u0451 \u0443\u0437\u043d\u0430\u0435\u0442\u0435!",
+        "Official Site": "https://xn-----7kccduufesz6cwj.xn--p1ai",
+        "Icon": "/templates/Site-Portal_red/images/favicon.png",
+        "Redirect": "https://xn-----7kccduufesz6cwj.xn--p1ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xn-----7kccduufesz6cwj.xn--p1ai"
     },
     {
         "link": "https://equityreits-etf.com",
@@ -288,5 +298,15 @@
         "Redirect": "https://rotor-it.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rotor-it.com"
+    },
+    {
+        "link": "https://amerikahaus.de",
+        "Heading": "Das Amerikahaus M\u00fcnchen \u2013 Amerikahaus",
+        "Abstract": "Das Amerikahaus M\u00fcnchen ist Bayerns Zentrum f\u00fcr transatlantische Beziehungen und bietet viele Veranstaltungen und Services zu den USA, Kanada sowie Lateinamerika an. ",
+        "Official Site": "https://amerikahaus.de",
+        "Icon": "https://www.amerikahaus.de/fileadmin/_processed_/6/5/csm_2021-08-12_Fotos_Amerikahaus_Sommer_2021__c__Leonhard_Simon_-_Amerikahaus_Muenchen__19__d701813150.jpg",
+        "Redirect": "https://amerikahaus.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amerikahaus.de"
     }
 ]

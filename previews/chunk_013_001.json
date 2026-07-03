@@ -30,16 +30,6 @@
         "AbstractURL": "https://comfax.com/"
     },
     {
-        "link": "https://propiska-msc.ru",
-        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 \u0431\u0435\u0437 \u043f\u043e\u0441\u0440\u0435\u0434\u043d\u0438\u043a\u043e\u0432, \u043f\u043e\u0440\u044f\u0434\u043e\u043a \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f \u043e\u0442 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u0430",
-        "Abstract": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 \u043e\u0442 6000 \u0440\u0443\u0431\u043b\u0435\u0439 \u0431\u0435\u0437 \u043f\u043e\u0441\u0440\u0435\u0434\u043d\u0438\u043a\u043e\u0432. \u041f\u0440\u0438\u0451\u043c \u0437\u0430\u044f\u0432\u043e\u043a \u043e\u043d\u043b\u0430\u0439\u043d \u0438 \u043f\u043e \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435 \u043e\u0442 \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a \u043f\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0439 \u0446\u0435\u043d\u0435.",
-        "Official Site": "https://propiska-msc.ru",
-        "Icon": "https://propiska-fms.ru/wp-content/uploads/2024/03/logo-black.png",
-        "Redirect": "https://propiska-msc.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://propiska-msc.ru"
-    },
-    {
         "link": "https://websdirect.com",
         "Heading": "Websdirect.com \u2013 Internet Marketing | We solve your marketing problems so that you can make more money!",
         "Abstract": null,
@@ -84,7 +74,7 @@
         "Heading": "IT-Systemhaus aus Lippe | Hereweare . it architecs - Ihr kompetenter IT-Partner",
         "Abstract": "Cloud, Netzwerkadministration, Datensicherheit, IT-Infrastruktur, Managed Servives \u2013 unser Spektrum deckt alles ab, was Unternehmen von einer modernen IT erwarten k\u00f6nnen.",
         "Official Site": "https://www.hereweare.de/",
-        "Icon": "/images/favicon.ico",
+        "Icon": "/templates/zt_femto/images/favicon.ico",
         "Redirect": "https://www.hereweare.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hereweare.de/"
@@ -118,16 +108,6 @@
         "Redirect": "https://medik0ff.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://medik0ff.ru"
-    },
-    {
-        "link": "https://siteburg.com",
-        "Heading": "..",
-        "Abstract": null,
-        "Official Site": "https://siteburg.com",
-        "Icon": "N/A",
-        "Redirect": "https://siteburg.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://siteburg.com"
     },
     {
         "link": "https://ertisdaryn.kz",
@@ -241,7 +221,7 @@
     },
     {
         "link": "https://puretechdsm.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://puretechdsm.com",
         "Icon": "N/A",
@@ -270,16 +250,6 @@
         "AbstractURL": "http://revclinesp.es/"
     },
     {
-        "link": "https://michuhol.go.kr",
-        "Heading": "\uc778\ucc9c\uad11\uc5ed\uc2dc \ubbf8\ucd94\ud640\uad6c ",
-        "Abstract": "\uc778\ucc9c\uad11\uc5ed\uc2dc \ubbf8\ucd94\ud640\uad6c \ub300\ud45c \ub204\ub9ac\uc9d1\uc785\ub2c8\ub2e4.",
-        "Official Site": "https://www.michuhol.go.kr/main/main.do?",
-        "Icon": "https://www.michuhol.go.kr/main/images/opengraph.png",
-        "Redirect": "https://www.michuhol.go.kr/main/main.do?",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.michuhol.go.kr/main/main.do?"
-    },
-    {
         "link": "https://vilvoorde.be",
         "Heading": "Startpagina - stad Vilvoorde",
         "Abstract": "Offici\u00eble site van de stad Vilvoorde met nieuws, activiteitenkalender, informatie over de diensten en een e-loket.",
@@ -298,6 +268,16 @@
         "Redirect": "https://cashmatters.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cashmatters.org"
+    },
+    {
+        "link": "https://33dyy.com",
+        "Heading": "\u4e09\u4e09\u5f71\u9662_\u514d\u8d39\u5728\u7ebf\u7535\u5f71\u7f51\u7ad9_\u5f71\u89c6\u5927\u5168\u5b98\u7f51-\u4e09\u4e09\u7535\u5f71\u7f51",
+        "Abstract": "\u4e09\u4e09\u7535\u5f71\u7f51\u662f\u4e00\u5bb6\u66f4\u65b0\u901f\u5ea6\u6700\u5feb\u7684\u7535\u5f71\u7f51\u7ad9,\u63d0\u4f9b\u6700\u65b0\u7535\u5f71,\u7535\u89c6\u5267,\u52a8\u6f2b,\u7efc\u827a,\u641e\u7b11\u89c6\u9891\u514d\u8d39\u5728\u7ebf\u89c2\u770b,\u65e0\u8bba\u7535\u8111\u8fd8\u662f\u624b\u673a\u90fd\u80fd\u76f4\u63a5\u5728\u7ebf\u89c2\u770b,\u65e0\u4efb\u4f55\u5e7f\u544a,\u5e0c\u671b\u4f60\u80fd\u559c\u6b22\u3002",
+        "Official Site": "https://33dyy.com",
+        "Icon": "N/A",
+        "Redirect": "https://33dyy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://33dyy.com"
     },
     {
         "link": "https://vancouversnorthshore.com",
@@ -323,10 +303,10 @@
         "link": "https://ifistanbul.com",
         "Heading": "\u25b6 Leon Bet Giri\u015f | %10 G\u00fcnl\u00fck Cashback \u2705 En G\u00fcvenilir Bahis ve Casino Platformu T\u00fcrkiye # 2026",
         "Abstract": "\u27a1\ufe0f Leon Bet T\u00fcrkiye\u2019ye g\u00fcvenli giri\u015f yap\u0131n ve spor bahisleri, \u2714\ufe0f canl\u0131 bahisler, slot oyunlar\u0131 ve canl\u0131 casino \u26a1 se\u00e7enekleriyle kazanmaya ba\u015flay\u0131n.",
-        "Official Site": "https://ifistanbul.com/tr/8/",
+        "Official Site": "https://ifistanbul.com/tr/9/",
         "Icon": "https://ifistanbul.com/wp-content/uploads/2025/01/leon-casino-turkey.png",
-        "Redirect": "https://ifistanbul.com/tr/8/",
+        "Redirect": "https://ifistanbul.com/tr/9/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ifistanbul.com/tr/8/"
+        "AbstractURL": "https://ifistanbul.com/tr/9/"
     }
 ]

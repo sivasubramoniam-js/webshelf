@@ -51,7 +51,7 @@
     },
     {
         "link": "https://metaphor.systems",
-        "Heading": "Exa | Web Search API, AI Search Engine, & Website Crawler",
+        "Heading": "Exa | Search API for AI Agents \u2014 Real-Time Web Data",
         "Abstract": "The Exa Web search API retrieves the best, realtime data from the web for your AI",
         "Official Site": "https://exa.ai",
         "Icon": "https://exa.imgix.net/og-image.png/",
@@ -91,10 +91,10 @@
     },
     {
         "link": "https://arrowtradify.info",
-        "Heading": "Bot Verification",
-        "Abstract": null,
+        "Heading": "Arrowtradify | Access a Wealth of Trading Opportunities",
+        "Abstract": "Earn up to 17% interest on your crypto, borrow against it from just 0% APR or swap instantly between 300+ market pairs. Open your account now!",
         "Official Site": "https://arrowtradify.info",
-        "Icon": "N/A",
+        "Icon": "https://arrowtradify.info/storage/app/public/photos/sqJEJOxNlNTeJu5jZ9tWAYcbdSfk8iuc6hE6KEvm.png",
         "Redirect": "https://arrowtradify.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://arrowtradify.info"
@@ -220,16 +220,6 @@
         "AbstractURL": "https://websitenotworking.com"
     },
     {
-        "link": "https://avant-desarrollo.com",
-        "Heading": "Home \u2013 AVANT Desarrollo Inform\u00e1tico y Creativo SL",
-        "Abstract": "El socio estrat\u00e9gico que su empresa necesita en el \u00e1mbito tecnol\u00f3gico y creativo.",
-        "Official Site": "https://www.avant-desarrollo.com/",
-        "Icon": "https://www.avant-desarrollo.com/wp-content/uploads/2008/02/favicon.png",
-        "Redirect": "https://www.avant-desarrollo.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.avant-desarrollo.com/"
-    },
-    {
         "link": "https://donohuefuneralhome.com",
         "Heading": "\n    \n    Funeral & Cremation in West Chester, PA - Donohue Funeral Home\n  \n  ",
         "Abstract": "Donohue Funeral Home is a dedicated provider of funeral and cremation services in Pennsylvania. We've been providing premier services for over 120 years.",
@@ -258,6 +248,16 @@
         "Redirect": "https://goacademica.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://goacademica.com/"
+    },
+    {
+        "link": "https://lamperoglys.dk",
+        "Heading": "Lampelys - Mere end 15000 Lamper at v\u00e6lge imellem",
+        "Abstract": null,
+        "Official Site": "https://lamperoglys.dk/",
+        "Icon": "N/A",
+        "Redirect": "https://lamperoglys.dk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lamperoglys.dk/"
     },
     {
         "link": "https://legalexpert.co.uk",

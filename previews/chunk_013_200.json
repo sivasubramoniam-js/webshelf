@@ -1,20 +1,30 @@
 [
     {
         "link": "https://closo.co",
-        "Heading": "\n      Automated Returns for Brands, AI Growth for Sellers.\n \u2013 CLOSO",
-        "Abstract": "The platform where brands monetize returns and sellers automate growth. Brands get zero-cost reverse logistics; Sellers access inventory and AI tools.",
-        "Official Site": "https://closo.co/",
-        "Icon": "http://closo.co/cdn/shop/files/e0ffff.png?v=1754955089",
-        "Redirect": "https://closo.co/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://closo.co",
+        "Icon": "https://cdn.shopify.com/s/files/1/0714/9571/3047/files/e0ffff.png?v=1754955089",
+        "Redirect": "https://closo.co",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://closo.co/"
+        "AbstractURL": "https://closo.co"
+    },
+    {
+        "link": "https://eafactory.com",
+        "Heading": "EAfactory - Automated Forex Trading Solutions",
+        "Abstract": "High-performance Expert Advisors (EAs) for MetaTrader. Automate your trading with our proven Forex robots.",
+        "Official Site": "https://eafactory.com",
+        "Icon": "https://www.eafactory.com/favicon.ico",
+        "Redirect": "https://eafactory.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eafactory.com"
     },
     {
         "link": "https://trickysite.com",
-        "Heading": "Tricky | Home",
-        "Abstract": "",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://trickysite.com",
-        "Icon": "https://www.trickysite.com/wp-content/themes/tricky/_assets/img/shareImage.jpg",
+        "Icon": "data:;",
         "Redirect": "https://trickysite.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trickysite.com"
@@ -138,6 +148,16 @@
         "Redirect": "https://modiru.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://modiru.com/"
+    },
+    {
+        "link": "https://trustwell.com",
+        "Heading": "Trustwell | Food Industry Software \u2013 From Recipe to Recall",
+        "Abstract": "Start connecting the dots between food and data with food industry software \u2014 from recipe to recall \u2014\u00a0with Trustwell.",
+        "Official Site": "https://www.trustwell.com/",
+        "Icon": "https://www.trustwell.com/wp-content/uploads/2023/09/Image-13-e1744493085814.png",
+        "Redirect": "https://www.trustwell.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.trustwell.com/"
     },
     {
         "link": "https://stnickschristmaslighting.com",

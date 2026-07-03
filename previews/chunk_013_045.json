@@ -30,6 +30,16 @@
         "AbstractURL": "https://aboutwater.gr/el/"
     },
     {
+        "link": "https://abrakmester.com",
+        "Heading": "abrakmester.com",
+        "Abstract": null,
+        "Official Site": "https://abrakmester.com",
+        "Icon": "N/A",
+        "Redirect": "https://abrakmester.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://abrakmester.com"
+    },
+    {
         "link": "https://abraver.com",
         "Heading": "abraver",
         "Abstract": null,
@@ -144,7 +154,7 @@
         "Heading": "Home",
         "Abstract": "Secure\n",
         "Official Site": "https://www.aegisvoip.com/",
-        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUCwM-WniAasObExpB01HJRksJDNS0o2ufhY1tHxt0bDeNQ1zsj2W2hr12p7EzK4-7rO-QYMXTSpZwhSkCSc6dFxFlaFEwNd0Zt3NChmL9tnyK72t-BzlE5-NRbilvFdDloBZZkW8rPCUexv4hvmajikpeMl8DfQ8C8tt_usQBecHRjb_lc_M3p871QDsj4=w1280",
+        "Icon": "https://lh3.googleusercontent.com/sitesv/AA5AbUA75gev7PlRrnXziN5En279T8y8gQ6jEA90FU57p-ogFAE9fHn6Zm0lWcnBQ1IQ72tngzLVjG8Ml4-drOben2xidHIUzDxSy3mUI4P2j-JhsFE2O8-SohsN7yuJH6I78NLQj_WNERuoPR7UFtD3UVcr0a-9hfWCP8gMw6DwwhPF7HujWam5jc-ZlMEvxmM=w1280",
         "Redirect": "https://www.aegisvoip.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.aegisvoip.com/"
@@ -331,12 +341,12 @@
     },
     {
         "link": "https://anthemmanagement.co.uk",
-        "Heading": "Anthem Management | UK Block & Property Management",
-        "Abstract": "At Anthem Management, we utilise technology solutions and nationwide resources to provide clients the attention of a bespoke block management service.",
-        "Official Site": "https://anthemmanagement.co.uk/",
-        "Icon": "https://anthemmanagement.co.uk/wp-content/uploads/2024/01/cropped-favicon-32x32.png",
-        "Redirect": "https://anthemmanagement.co.uk/",
+        "Heading": "Warwick Estates | UK Property Management Experts",
+        "Abstract": "Learn more about Warwick Estates, experienced property professionals, bespoke property management software and award-winning personal service. Contact us today.",
+        "Official Site": "https://we-pm.co.uk/",
+        "Icon": "https://we-pm.co.uk/wp-content/uploads/2025/05/Screenshot-2025-05-27-at-16.51.07.png",
+        "Redirect": "https://we-pm.co.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://anthemmanagement.co.uk/"
+        "AbstractURL": "https://we-pm.co.uk/"
     }
 ]

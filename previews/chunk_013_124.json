@@ -130,6 +130,16 @@
         "AbstractURL": "https://tankmaster.in/"
     },
     {
+        "link": "https://ceresitshop.ru",
+        "Heading": "\u0426\u0435\u0440\u0435\u0437\u0438\u0442. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0434\u0438\u043b\u0435\u0440\u0430 CERESIT \u0432 \u0420\u043e\u0441\u0441\u0438\u0438",
+        "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0434\u0438\u043b\u0435\u0440\u0430 \u0426\u0435\u0440\u0435\u0437\u0438\u0442 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u0412\u0441\u044f \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u044f Ceresit \u0434\u043b\u044f \u0443\u0442\u0435\u043f\u043b\u0435\u043d\u0438\u044f \u0444\u0430\u0441\u0430\u0434\u043e\u0432, \u0448\u0442\u0443\u043a\u0430\u0442\u0443\u0440\u043a\u0438, \u0448\u043f\u0430\u043a\u043b\u0435\u0432\u043a\u0438, \u043a\u043b\u0435\u044f, \u043d\u0430\u043b\u0438\u0432\u043d\u044b\u0435 \u043f\u043e\u043b\u044b, \u0444\u0430\u0441\u0430\u0434\u043d\u044b\u0435 \u043a\u0440\u0430\u0441\u043a\u0438, \u0443\u0442\u0435\u043f\u043b\u0438\u0442\u0435\u043b\u0438, \u0441\u0435\u0442\u043a\u0438 \u0438 \u0434\u0440. \u0417\u0430\u043a\u0430\u0437\u044b\u0432\u0430\u0439\u0442\u0435 \u043f\u043e \u0442\u0435\u043b: +7 (495) 540-56-40.",
+        "Official Site": "https://ceresitshop.ru/",
+        "Icon": "favicon.ico",
+        "Redirect": "https://ceresitshop.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ceresitshop.ru/"
+    },
+    {
         "link": "https://fhchamber.com",
         "Heading": "Fountain Hills Chamber of Commerce | Home Page",
         "Abstract": "Official site of the Fountain Hills Chamber of Commerce. Offers a business and member directory, calendar of events and art festival and fair information.",
@@ -171,13 +181,13 @@
     },
     {
         "link": "https://episcopaldigitalnetwork.com",
-        "Heading": "Episcopal News Service \u2013 The official news service of the Episcopal Church.",
-        "Abstract": "The official news service of the Episcopal Church.",
-        "Official Site": "https://episcopalnewsservice.org/",
-        "Icon": "https://i0.wp.com/episcopalnewsservice.org/wp-content/uploads/2024/05/ENS_placeholder_2024.jpg?fit=600%2C400&ssl=1",
-        "Redirect": "https://episcopalnewsservice.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://episcopaldigitalnetwork.com",
+        "Icon": "data:;",
+        "Redirect": "https://episcopaldigitalnetwork.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://episcopalnewsservice.org/"
+        "AbstractURL": "https://episcopaldigitalnetwork.com"
     },
     {
         "link": "https://crystal-shop-3.biz",
@@ -240,16 +250,6 @@
         "AbstractURL": "https://winn-knits.com/"
     },
     {
-        "link": "https://technischwerken.nl",
-        "Heading": "Technisch Werken",
-        "Abstract": "Informatie over de techniek, innovatie, veiligheid, arbeidsmarkt, duurzaamheid en alle andere aspecten die verbonden zijn met het werken in de techniek.",
-        "Official Site": "https://technischwerken.nl",
-        "Icon": "N/A",
-        "Redirect": "https://technischwerken.nl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://technischwerken.nl"
-    },
-    {
         "link": "https://99nightsforest.io",
         "Heading": "99 Nights In The Forest",
         "Abstract": "Play 99 Nights in the Forest online, a Roblox-style survival horror game, and endure nearly 100 consecutive nights in a scary forest and then rescue all missing children.",
@@ -298,6 +298,16 @@
         "Redirect": "https://dragonicgames.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dragonicgames.com/"
+    },
+    {
+        "link": "https://greenvillemedia.net",
+        "Heading": "Greenville Media Broadcast Church Sound System Audio Video Equipment Intergration Solutions",
+        "Abstract": "Broadcast, video, Audio, Professional Multimedia Equipment: Broadcast equipment, Church Sound Systems, training, intergration, rental - Greenville Media 864-325-2781",
+        "Official Site": "https://greenvillemedia.net",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://greenvillemedia.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greenvillemedia.net"
     },
     {
         "link": "https://parafiasadkowice.pl",

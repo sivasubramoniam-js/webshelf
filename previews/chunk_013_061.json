@@ -70,16 +70,6 @@
         "AbstractURL": "https://www.skerosfurniture.com/"
     },
     {
-        "link": "https://skirtwood.com.au",
-        "Heading": "Timber & Building Supplies Brisbane | Skirtwood Building Supplies",
-        "Abstract": "Looking for quality building supplies in Brisbane? Skirtwood is your local merchant for hardwood, treated pine, structural timber & more. Reliable delivery & wholesale options available.",
-        "Official Site": "https://skirtwood.com.au/",
-        "Icon": "https://skirtwood.com.au/wp-content/uploads/2025/02/cropped-skirtwood-logo-32x32.png",
-        "Redirect": "https://skirtwood.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://skirtwood.com.au/"
-    },
-    {
         "link": "https://smallshi.com",
         "Heading": "SmallShi",
         "Abstract": null,
@@ -230,16 +220,6 @@
         "AbstractURL": "https://starkbank.com/"
     },
     {
-        "link": "https://starsales.com",
-        "Heading": "Star Sales",
-        "Abstract": "Star Sales",
-        "Official Site": "https://starsales.com",
-        "Icon": "https://www.starsales.com/media/favicon/stores/1/_00th-Anniversary_2_.jpg",
-        "Redirect": "https://starsales.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://starsales.com"
-    },
-    {
         "link": "https://stefanmoravcik.sk",
         "Heading": null,
         "Abstract": null,
@@ -248,6 +228,16 @@
         "Redirect": "https://stefanmoravcik.sk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://stefanmoravcik.sk"
+    },
+    {
+        "link": "https://stellenanzeigen-in-landshut.de",
+        "Heading": "Stellenangebote Landshut - Ihre aktuelle Jobb\u00f6rse f\u00fcr Landshut und Umgebung",
+        "Abstract": "T\u00e4glich aktuelle und neue Stellenangebote f\u00fcr die Region Landshut. Finden Sie aus 5.533 passenden Jobs in Landshut und Umgebung, Ihre neue Stelle. Ihre regionale Jobb\u00f6rse stellenanzeigen-in-landshut.de | 2026",
+        "Official Site": "https://stellenanzeigen-in-landshut.de",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://stellenanzeigen-in-landshut.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stellenanzeigen-in-landshut.de"
     },
     {
         "link": "https://sterlingshop.com",

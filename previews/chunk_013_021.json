@@ -31,10 +31,10 @@
     },
     {
         "link": "https://archival-footage.com",
-        "Heading": "Archival Footage \u2013 Timeless Scenes, Timeless Stories \u2013 Your Historical Footage Destination",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://archival-footage.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://archival-footage.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://archival-footage.com"
@@ -58,16 +58,6 @@
         "Redirect": "https://www.arsakademia.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.arsakademia.com/"
-    },
-    {
-        "link": "https://artisport.it",
-        "Heading": "Artisport: Produzione di Impianti Sportivi e Attrezzature",
-        "Abstract": "Artisport produce e vende Impianti per Calcio, Basket, Volley, Atletica. Offre una vasta selezione di attrezzature. Contattaci per un preventivo.",
-        "Official Site": "https://www.artisport.it/it/",
-        "Icon": "https://www.artisport.it/img/favicon.ico?1706786191",
-        "Redirect": "https://www.artisport.it/it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.artisport.it/it/"
     },
     {
         "link": "https://asherycountrystore.com",
@@ -110,16 +100,6 @@
         "AbstractURL": "https://aty-zuwe.online"
     },
     {
-        "link": "https://audiotopia.com",
-        "Heading": "Create - Listen - Play Music. Free Expedited Shipping + 30 Day Returns",
-        "Abstract": "Free Expedited Shipping on most items, 30 Day Returns, Bundled Gear, Discounted Refurbished from Audio-Technica, Shure, TC Electronics, Sennheiser, Mackie, QSC, Tech 21, Dean",
-        "Official Site": "https://www.audiotopia.com/",
-        "Icon": "http://www.audiotopia.com/cdn/shop/files/audiotopia_logo_913a38c0-3888-48c5-90e5-0f7fe10c4634.png?v=1725548803",
-        "Redirect": "https://www.audiotopia.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.audiotopia.com/"
-    },
-    {
         "link": "https://autopartone.com",
         "Heading": "\n      Autopartone\n",
         "Abstract": "Welcome to Autopartone.com. Free shipping on most orders. 30 days return warranty. we accept all major Credit Cards, Paypal, Amazon Pay, Apple Pay & Google Pay.",
@@ -148,16 +128,6 @@
         "Redirect": "https://avanturist.hr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://avanturist.hr"
-    },
-    {
-        "link": "https://avida-oly.online",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://avida-oly.online",
-        "Icon": "N/A",
-        "Redirect": "https://avida-oly.online",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://avida-oly.online"
     },
     {
         "link": "https://avinter.nl",
@@ -228,6 +198,16 @@
         "Redirect": "https://bania24.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bania24.com/"
+    },
+    {
+        "link": "https://baozounovel.com",
+        "Heading": "\u70ed\u95e8\u7f51\u7edc\u5c0f\u8bf4\u4e66\u5e93 - \u66b4\u8d70\u5c0f\u8bf4\u7f51",
+        "Abstract": "\u66b4\u8d70\u5c0f\u8bf4\u7f51\u6c47\u805a\u5168\u7f51\u70ed\u95e8\u7f51\u7edc\u5c0f\u8bf4\u4e0e\u7cbe\u54c1\u63a8\u6587,\u63d0\u4f9b\u514d\u8d39\u5728\u7ebf\u9605\u8bfb,\u7384\u5e7b\u3001\u90fd\u5e02\u3001\u8a00\u60c5\u5e94\u6709\u5c3d\u6709,\u6bcf\u65e5\u66f4\u65b0,\u7545\u4eab\u65e0\u5e7f\u544a\u9605\u8bfb\u4f53\u9a8c\u3002",
+        "Official Site": "http://baozounovel.com/",
+        "Icon": "http://baozounovel.com/assets/logo.png",
+        "Redirect": "http://baozounovel.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://baozounovel.com/"
     },
     {
         "link": "https://barcelonapelucas.com",

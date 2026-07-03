@@ -120,16 +120,6 @@
         "AbstractURL": "https://bloominglabs.org"
     },
     {
-        "link": "https://bluderstore.com.br",
-        "Heading": "Loja em Desenvolvimento",
-        "Abstract": "Bluder Store - Loja online da sua marca preferida: Calvin Klein, Ogochi, Enzo Milano, Arrow e Yatcht. Compre camisas, camisetas, bermudas, polos, cal\u00e7as Jaquetas masculinas estilosas e funcionais para o inverno. Conhe\u00e7a a cole\u00e7\u00e3o da Bluder Store e vista-se com conforto e eleg\u00e2ncia.",
-        "Official Site": "https://bluderstore.com.br",
-        "Icon": "https://bluderstore.com.br/media/favicon/stores/1/favicon.png",
-        "Redirect": "https://bluderstore.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bluderstore.com.br"
-    },
-    {
         "link": "https://blueoutdoors.co",
         "Heading": "Blue Outdoors - Best online store for Marine & Outdoor Gear",
         "Abstract": "Boat Accessories",
@@ -261,13 +251,13 @@
     },
     {
         "link": "https://buttweldingfitting.com",
-        "Heading": "Quality Butt Weld Fittings & Stainless Steel Elbow factory from China",
-        "Abstract": "China leading provider of Butt Weld Fittings and Stainless Steel Elbow, TOBO STEEL GROUP CHINA is Stainless Steel Elbow factory.",
-        "Official Site": "https://www.buttweldingfitting.com/",
-        "Icon": "https://www.buttweldingfitting.com/photo/cl32696004-tobo_steel_group_china.jpg",
-        "Redirect": "https://www.buttweldingfitting.com/",
+        "Heading": "China Butt Weld Fittings & Stainless Steel Elbow factories",
+        "Abstract": "Good quality Butt Weld Fittings from China, Stainless Steel Elbow factories of TOBO STEEL GROUP CHINA.",
+        "Official Site": "https://buttweldingfitting.com",
+        "Icon": "N/A",
+        "Redirect": "https://buttweldingfitting.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.buttweldingfitting.com/"
+        "AbstractURL": "https://buttweldingfitting.com"
     },
     {
         "link": "https://buyoutlet.com",
@@ -298,6 +288,16 @@
         "Redirect": "https://bydlisnami.cz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bydlisnami.cz"
+    },
+    {
+        "link": "https://byrdsbooks.com",
+        "Heading": "Home Page | Byrd's Books",
+        "Abstract": null,
+        "Official Site": "https://byrdsbooks.com/home",
+        "Icon": "https://byrdsbooks.com/sites/default/files/2024-07/clear-crop.png",
+        "Redirect": "https://byrdsbooks.com/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://byrdsbooks.com/home"
     },
     {
         "link": "https://cagliarilivemagazine.it",

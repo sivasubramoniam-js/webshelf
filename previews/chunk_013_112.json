@@ -131,13 +131,13 @@
     },
     {
         "link": "https://disruptorleague.com",
-        "Heading": "Najlep\u0161ie St\u00e1vkov\u00e9 Kancel\u00e1rie 2026 \u2013 Sprievodca pre Slov\u00e1kov",
-        "Abstract": "Zistite, ktor\u00e9 s\u00fa najlep\u0161ie st\u00e1vkov\u00e9 kancel\u00e1rie na Slovensku. Porovnajte platformy a vyberte si t\u00fa, ktor\u00e1 najlep\u0161ie vyhovuje va\u0161im potreb\u00e1m.",
-        "Official Site": "https://www.disruptorleague.com/sk-sk/",
-        "Icon": "https://www.disruptorleague.com/files/wp-content/uploads/2020/06/favicon3-100x100.png",
-        "Redirect": "https://www.disruptorleague.com/sk-sk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://disruptorleague.com",
+        "Icon": "data:;",
+        "Redirect": "https://disruptorleague.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.disruptorleague.com/sk-sk/"
+        "AbstractURL": "https://disruptorleague.com"
     },
     {
         "link": "https://noidea.dog",
@@ -194,10 +194,20 @@
         "Heading": "Asian Film Festivals \u2013 Connecting Asian Film Festivals to the World",
         "Abstract": "Connecting Asian Film Festivals to the World",
         "Official Site": "https://asianfilmfestivals.com/",
-        "Icon": "https://secure.gravatar.com/blavatar/96bc9cc8a70c70551d0abc154c91a49953954633c380451847b4fa8c30f465cd?s=200&ts=1782966075",
+        "Icon": "https://secure.gravatar.com/blavatar/96bc9cc8a70c70551d0abc154c91a49953954633c380451847b4fa8c30f465cd?s=200&ts=1783051121",
         "Redirect": "https://asianfilmfestivals.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://asianfilmfestivals.com/"
+    },
+    {
+        "link": "https://connectedhomeip.com",
+        "Heading": "CSA - Matter, Zigbee & Aliro - Connectivity Standards Alliance",
+        "Abstract": "Building the foundation and future of the IoT. Discover how the CSA creates and certifies open, interoperable smart standards like Matter, Zigbee, and Aliro.",
+        "Official Site": "https://csa-iot.org/",
+        "Icon": "https://csa-iot.org/wp-content/uploads/2025/03/home-hero-superconnector-draft-1-1.png",
+        "Redirect": "https://csa-iot.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://csa-iot.org/"
     },
     {
         "link": "https://bnbarchery.com",
