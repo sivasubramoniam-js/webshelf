@@ -14,7 +14,7 @@
         "Heading": "\n    \n    Accounting Firm | Fremont, CA | Finck, Rudnick & Co\n  \n  ",
         "Abstract": "If you want a reliable accounting firm serving Fremont, CA, contact Finck Rudnick & Company. Our detailed work and experience set us above the rest.\n",
         "Official Site": "https://www.frc-fremont.com/",
-        "Icon": "https://irp.cdn-website.com/f27ba3da/site_favicon_16_1694456729387.ico",
+        "Icon": "N/A",
         "Redirect": "https://www.frc-fremont.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.frc-fremont.com/"
@@ -81,10 +81,10 @@
     },
     {
         "link": "https://goldens-funds.com",
-        "Heading": "Goldens Funds | Investment Solution.",
-        "Abstract": "",
+        "Heading": "Bot Verification",
+        "Abstract": null,
         "Official Site": "https://goldens-funds.com",
-        "Icon": "images/favicon.png",
+        "Icon": "N/A",
         "Redirect": "https://goldens-funds.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://goldens-funds.com"
@@ -118,16 +118,6 @@
         "Redirect": "https://tfehosting.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tfehosting.com"
-    },
-    {
-        "link": "https://vicevi.net",
-        "Heading": "Arhiva viceva - vicevi.net",
-        "Abstract": "Arhiva viceva",
-        "Official Site": "https://vicevi.net",
-        "Icon": "http://vicevi.net/img/logo.png",
-        "Redirect": "https://vicevi.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vicevi.net"
     },
     {
         "link": "https://hardwoodbargains.com",

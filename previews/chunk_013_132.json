@@ -10,6 +10,16 @@
         "AbstractURL": "https://theworcesterjournal.com/"
     },
     {
+        "link": "https://dogear.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://dogear.com",
+        "Icon": "N/A",
+        "Redirect": "https://dogear.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dogear.com"
+    },
+    {
         "link": "https://lcmmedia.de",
         "Heading": "LCMmedia",
         "Abstract": "",
@@ -110,11 +120,21 @@
         "AbstractURL": "https://wealthgainpro.com"
     },
     {
+        "link": "https://f-momiji.com",
+        "Heading": "\u8494\u7d75\u3084\u5bb6\u7d0b\u5165\u308c\u3001\u30b9\u30de\u30db\u30b1\u30fc\u30b9\u30c7\u30b3\u7b49\u306e\u4e8b\u306a\u3089\u3010\u3075\u3067\u5de5\u623f \u691b\u3011\u3078",
+        "Abstract": "\u8494\u7d75\u3084\u5bb6\u7d0b\u5165\u308c\u7b49\u306e\u4e8b\u306a\u3089\u3010\u3075\u3067\u5de5\u623f\u691b\u3011\u3002\u8494\u7d75\u306e\u6280\u6cd5\u3092\u4f7f\u3044\u3001\u4f4d\u724c\u7b49\u306e\u4ecf\u5177\u306f\u3082\u3061\u308d\u3093\u30b9\u30de\u30db\u30b1\u30fc\u30b9\u3084\u8868\u672d\u3001\u30a6\u30a7\u30eb\u30ab\u30e0\u30dc\u30fc\u30c9\u306a\u3069\u304a\u5ba2\u69d8\u3060\u3051\u306e\u30aa\u30ea\u30b8\u30ca\u30eb\u3092\u4f5c\u6210\u81f4\u3057\u307e\u3059\u3002",
+        "Official Site": "https://f-momiji.com/",
+        "Icon": "wp-content/themes/promotionblog/images/sns/fb_ogp.png",
+        "Redirect": "https://f-momiji.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://f-momiji.com/"
+    },
+    {
         "link": "https://pro-era.ro",
         "Heading": "Pro-era.ro",
         "Abstract": "Pro-era.ro - Bine ai venit pe magazinul nostru online,  unde iti propunem o gama completa de produse!",
         "Official Site": "https://www.pro-era.ro",
-        "Icon": "https://s.cdnshm.com/site/1200x1200/pro-era.ro.jpg?20260703",
+        "Icon": "https://s.cdnshm.com/site/1200x1200/pro-era.ro.jpg?20260704",
         "Redirect": "https://www.pro-era.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.pro-era.ro"

@@ -110,16 +110,6 @@
         "AbstractURL": "https://sydneywinecomp.com/"
     },
     {
-        "link": "https://venkateshmultistate.com",
-        "Heading": "Most Trusted Best Multistate in Maharashtra India | Venkatesh Multistate",
-        "Abstract": "Venkatesh is the best multistate in Maharashtra, India and offers top notch banking service to the rural and urban area. offering deposit, loans and smart banking services.",
-        "Official Site": "https://venkateshmultistate.com",
-        "Icon": "logo/fevicon-icon.png",
-        "Redirect": "https://venkateshmultistate.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://venkateshmultistate.com"
-    },
-    {
         "link": "https://semgulf.com",
         "Heading": "Murder Mystery Dinner Train Experience in Fort Myers | SemGulf",
         "Abstract": "Enjoy a live murder mystery dinner train in Fort Myers featuring a five-course meal, interactive theater, and scenic rail ride. Book your experience with SemGulf.",
@@ -230,16 +220,6 @@
         "AbstractURL": "https://www.naca.com/"
     },
     {
-        "link": "https://jobsnavigate.com",
-        "Heading": "Welcome To Jobpilot - Jobs Navigate",
-        "Abstract": "Jobpilot is job portal laravel script designed to create, manage and publish jobs posts. Companies can create their profile and publish jobs posts. Candidate can apply job posts.",
-        "Official Site": "https://jobsnavigate.com",
-        "Icon": "https://jobsnavigate.com/frontend/assets/images/jobpilot.png",
-        "Redirect": "https://jobsnavigate.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jobsnavigate.com"
-    },
-    {
         "link": "https://aeedea.com",
         "Heading": "Premium Motorcycle Accessories Worldwide | AeeDEA",
         "Abstract": "Discover premium motorcycle accessories for riders worldwide. Built for performance and durability.",
@@ -258,6 +238,16 @@
         "Redirect": "https://viacento.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://viacento.com"
+    },
+    {
+        "link": "https://quootz.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://quootz.com",
+        "Icon": "/android-icon-192x192.png",
+        "Redirect": "https://quootz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://quootz.com"
     },
     {
         "link": "https://zorvaxinel-oficial.com",

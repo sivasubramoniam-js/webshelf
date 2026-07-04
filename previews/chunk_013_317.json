@@ -181,13 +181,13 @@
     },
     {
         "link": "https://javascriptobfuscator.com",
-        "Heading": "\n\tJavaScript Obfuscator - The Best Way to Protect JavaScript Before You Publish\n",
-        "Abstract": "The original JavaScript obfuscator, trusted since 2004. Protect JavaScript from copying, tampering, and reverse engineering with an AI-assisted engine tracked against real-world JavaScript library samples. Try it free online.",
-        "Official Site": "<%= Request.Url.GetLeftPart(UriPartial.Path) %>",
+        "Heading": "\n\tJavaScript Obfuscator - Protect JavaScript Before You Publish\n",
+        "Abstract": "Protect browser JavaScript with online testing, desktop/local project workflows, published pricing, runtime evidence, and release-review guidance. Try JavaScript Obfuscator free online.",
+        "Official Site": "https://javascriptobfuscator.com/default.aspx",
         "Icon": "https://javascriptobfuscator.com/images/og-image.png",
-        "Redirect": "<%= Request.Url.GetLeftPart(UriPartial.Path) %>",
+        "Redirect": "https://javascriptobfuscator.com/default.aspx",
         "AbstractSource": "BS4",
-        "AbstractURL": "<%= Request.Url.GetLeftPart(UriPartial.Path) %>"
+        "AbstractURL": "https://javascriptobfuscator.com/default.aspx"
     },
     {
         "link": "https://logo4you.dk",
@@ -204,7 +204,7 @@
         "Heading": "Nyheder",
         "Abstract": "Food Supply g\u00e5r t\u00e6t p\u00e5 f\u00f8devarebranchen. Vi d\u00e6kker f\u00f8devareproducenter, leverand\u00f8rer, messer, fusioner, opk\u00f8b, konkurser, interesseorganisationer og meget mere.",
         "Official Site": "https://www.food-supply.dk/?industryId=6",
-        "Icon": "https://f.nordiskemedier.dk/logo/social/11.png?t=1783022934320",
+        "Icon": "https://f.nordiskemedier.dk/logo/social/11.png?t=1783022616751",
         "Redirect": "https://www.food-supply.dk/?industryId=6",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.food-supply.dk/?industryId=6"
@@ -310,6 +310,16 @@
         "AbstractURL": "https://stasi-mediathek.de"
     },
     {
+        "link": "https://ikusi.com",
+        "Heading": "Ikusi - Servicios de digitalizaci\u00f3n y ciberseguridad",
+        "Abstract": null,
+        "Official Site": "https://ikusi.com",
+        "Icon": "https://www.ikusi.com/wp-content/uploads/2026/03/cropped-favicon-1-32x32.png",
+        "Redirect": "https://ikusi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ikusi.com"
+    },
+    {
         "link": "https://energiesparverband.at",
         "Heading": "Energiesparverband O\u00d6: Energiesparverband Ober\u00f6sterreich",
         "Abstract": "Der O\u00d6 Energiesparverband ist eine Einrichtung des Landes Ober\u00f6sterreich und die zentrale Anlaufstelle f\u00fcr produktunabh\u00e4ngige Energieinformation in Ober\u00f6sterreich.",
@@ -318,6 +328,16 @@
         "Redirect": "https://www.energiesparverband.at/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.energiesparverband.at/"
+    },
+    {
+        "link": "https://maxiasian.com",
+        "Heading": "Free asian babes fucking!",
+        "Abstract": "Hot asian celebrity nude, japanese ass in public",
+        "Official Site": "https://maxiasian.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://maxiasian.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://maxiasian.com"
     },
     {
         "link": "https://schiedam24.nl",

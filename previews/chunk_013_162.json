@@ -1,13 +1,13 @@
 [
     {
         "link": "https://thegamehunter.co.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://thegamehunter.co.uk",
-        "Icon": "data:;",
-        "Redirect": "https://thegamehunter.co.uk",
+        "Heading": "Game Hunter - Casino, Sports Betting & Bingo Guide",
+        "Abstract": "Guides to playing casino games, poker, bingo, fruit machines, and scratch cards. Along with sports betting odds and tips.",
+        "Official Site": "https://www.thegamehunter.co.uk/",
+        "Icon": "https://www.thegamehunter.co.uk/wp-content/uploads/the-game-hunter.jpg",
+        "Redirect": "https://www.thegamehunter.co.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thegamehunter.co.uk"
+        "AbstractURL": "https://www.thegamehunter.co.uk/"
     },
     {
         "link": "https://downloadtik.to",
@@ -68,6 +68,16 @@
         "Redirect": "https://chargemap-test.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chargemap-test.com"
+    },
+    {
+        "link": "https://toimpo.com",
+        "Heading": "Secured Home of toimpo.com",
+        "Abstract": null,
+        "Official Site": "https://toimpo.com",
+        "Icon": "N/A",
+        "Redirect": "https://toimpo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://toimpo.com"
     },
     {
         "link": "https://wangri.net",

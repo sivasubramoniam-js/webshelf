@@ -70,6 +70,16 @@
         "AbstractURL": "https://www.toniguy.com/"
     },
     {
+        "link": "https://hitenism.com",
+        "Heading": "Hitenism is Hiten Shah's blog.",
+        "Abstract": "This is Hiten's blog. He's an entrepreneur who has started two SaaS companies.",
+        "Official Site": "https://hitenism.com/",
+        "Icon": "https://i0.wp.com/hitenism.com/wp-content/uploads/hiten_fb_sharethumb@2x.jpg?fit=320%2C320&ssl=1",
+        "Redirect": "https://hitenism.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hitenism.com/"
+    },
+    {
         "link": "https://dr460nf1r3.org",
         "Heading": "Dragons Lair",
         "Abstract": "Welcome to the dragon's lair! :dragon:",
@@ -78,6 +88,16 @@
         "Redirect": "https://dr460nf1r3.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dr460nf1r3.org/"
+    },
+    {
+        "link": "https://unkaha.ac.id",
+        "Heading": "UNKAHA",
+        "Abstract": "Universitas Karya Husada",
+        "Official Site": "https://unkaha.ac.id",
+        "Icon": "https://unkaha.ac.id/packages/static/images/favicon.png",
+        "Redirect": "https://unkaha.ac.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://unkaha.ac.id"
     },
     {
         "link": "https://inventwell.com",

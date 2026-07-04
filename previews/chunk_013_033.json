@@ -20,6 +20,16 @@
         "AbstractURL": "https://morningstarbookstore.com/"
     },
     {
+        "link": "https://motorcitygmc.com",
+        "Heading": "Motor City Buick GMC In Bakersfield, CA",
+        "Abstract": "Visit Motor City Buick GMC in Bakersfield for your next new or used Buick or GMC vehicle. Contact us today to schedule a test drive!",
+        "Official Site": "https://www.motorcitygmc.com/",
+        "Icon": "/static/v8/global/images/site-favicon-default.ico?r=1782782655000",
+        "Redirect": "https://www.motorcitygmc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.motorcitygmc.com/"
+    },
+    {
         "link": "https://mpchealthcare.com",
         "Heading": "MPC Healthcare \u2013 Integrated Healthcare Solutions",
         "Abstract": null,
@@ -131,10 +141,10 @@
     },
     {
         "link": "https://myprelovedtiffany.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "MyPrelovedTiffany - Authenticated Preloved Tiffany & Co.",
+        "Abstract": "We are a pre-owned / second-hand branded store specializing in T&Co. jewelries. We have a zero-tolerance policy for counterfeits and we strive to play our part in battling against the counterfeit market. Shop with confidence, pay less for the same product.",
         "Official Site": "https://myprelovedtiffany.com",
-        "Icon": "data:;",
+        "Icon": "/favicon-32x32.png",
         "Redirect": "https://myprelovedtiffany.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myprelovedtiffany.com"
@@ -158,6 +168,16 @@
         "Redirect": "https://mytteam.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mytteam.com"
+    },
+    {
+        "link": "https://myzitong.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://myzitong.com",
+        "Icon": "data:image/x-icon;,",
+        "Redirect": "https://myzitong.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://myzitong.com"
     },
     {
         "link": "https://nalvazhiorganic.com",

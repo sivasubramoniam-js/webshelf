@@ -44,7 +44,7 @@
         "Heading": "\u6280\u672f\u6d3e - Java\u6280\u672f\u793e\u533a | RAG+Agent\u5b9e\u6218\u9879\u76ee\u6559\u7a0b+AI\u52a9\u624b",
         "Abstract": "\u6280\u672f\u6d3e,\u4e00\u4e2a\u57fa\u4e8e Spring Boot\u3001MyBatis-Plus\u3001MySQL\u3001Redis\u3001ElasticSearch\u3001MongoDB\u3001Docker\u3001RabbitMQ \u7b49\u6280\u672f\u6808\u5b9e\u73b0\u7684\u793e\u533a\u7cfb\u7edf\uff0c\u91c7\u7528\u4e3b\u6d41\u7684\u4e92\u8054\u7f51\u6280\u672f\u67b6\u6784\u3001\u5168\u65b0\u7684UI\u8bbe\u8ba1\u3001\u652f\u6301\u4e00\u952e\u6e90\u7801\u90e8\u7f72\uff0c\u62e5\u6709\u5b8c\u6574\u7684\u6587\u7ae0&\u6559\u7a0b\u53d1\u5e03/\u641c\u7d22/\u8bc4\u8bba/\u7edf\u8ba1\u6d41\u7a0b\u7b49\uff0c\u4ee3\u7801\u5b8c\u5168\u5f00\u6e90\uff0c\u6ca1\u6709\u4efb\u4f55\u4e8c\u6b21\u5c01\u88c5\uff0c\u662f\u4e00\u4e2a\u975e\u5e38\u9002\u5408\u4e8c\u6b21\u5f00\u53d1/\u5b9e\u6218\u7684\u73b0\u4ee3\u5316\u793e\u533a\u9879\u76ee\u3002\u5b66\u7f16\u7a0b\uff0c\u5c31\u4e0a\u6280\u672f\u6d3e",
         "Official Site": "https://paicoding.com/",
-        "Icon": "https://cdn.paicoding.com/paicodingui0630/static/img/icon.png",
+        "Icon": "https://cdn.paicoding.com/paicodingui0703/static/img/icon.png",
         "Redirect": "https://paicoding.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://paicoding.com/"
@@ -118,16 +118,6 @@
         "Redirect": "https://sneakarts.com/fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sneakarts.com/fr/"
-    },
-    {
-        "link": "https://soccerballofficia.com",
-        "Heading": "Professional sports equipment",
-        "Abstract": "Professional sports equipment",
-        "Official Site": "https://www.soccerballofficia.com/",
-        "Icon": "https://img.staticdj.com/357331860ce997ffe773a5e0151ef95d.png",
-        "Redirect": "https://www.soccerballofficia.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.soccerballofficia.com/"
     },
     {
         "link": "https://surgo.com",
@@ -212,9 +202,9 @@
     {
         "link": "https://official-mega.shop",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://official-mega.shop",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://official-mega.shop",
         "AbstractSource": "BS4",
         "AbstractURL": "https://official-mega.shop"
@@ -338,6 +328,16 @@
         "Redirect": "https://erosnude.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://erosnude.com"
+    },
+    {
+        "link": "https://greencamp.pt",
+        "Heading": "Greencamp Acess\u00f3rios para Autocaravanas e Caravanas",
+        "Abstract": "Na nossa loja encontra tudo o que precisa, desde acess\u00f3rios a equipamentos para autocaravanas, caravanas e campismo",
+        "Official Site": "https://greencamp.pt/",
+        "Icon": "https://greencamp.pt/img/logo-1760700696.jpg",
+        "Redirect": "https://greencamp.pt/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greencamp.pt/"
     },
     {
         "link": "https://hidiff.co.kr",

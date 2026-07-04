@@ -90,16 +90,6 @@
         "AbstractURL": "https://www.euromate.com/group/"
     },
     {
-        "link": "https://mestoncollege.edu.in",
-        "Heading": "\n    Meston College of Education | Premier Teacher Training Institute in Chennai\n  ",
-        "Abstract": "Premier teacher training institution in Chennai dedicated to excellence in education and character formation.",
-        "Official Site": "https://www.mestoncollege.edu.in/",
-        "Icon": "https://www.mestoncollege.edu.in/assets/img/Meston-Logo-f.png",
-        "Redirect": "https://www.mestoncollege.edu.in/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mestoncollege.edu.in/"
-    },
-    {
         "link": "https://museumsilkeborg.dk",
         "Heading": "Museum Silkeborg",
         "Abstract": "G\u00e5 p\u00e5 opdagelse i historien p\u00e5 Museum Silkeborg, m\u00f8d Tollundmanden og Ellingkvinden, lav dit eget papir og bliv klogere p\u00e5 Blicher og Grathe Hede",
@@ -248,6 +238,16 @@
         "Redirect": "https://www.qualitysolution.consulting/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.qualitysolution.consulting/"
+    },
+    {
+        "link": "https://mrips.gov.pl",
+        "Heading": "Ministerstwo Rodziny, Pracy i Polityki Spo\u0142ecznej - Portal Gov.pl",
+        "Abstract": null,
+        "Official Site": "https://www.gov.pl/web/rodzina",
+        "Icon": "https://www.gov.pl/img/fb_share_ogp.jpg",
+        "Redirect": "https://www.gov.pl/web/rodzina",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gov.pl/web/rodzina"
     },
     {
         "link": "https://lediplomatedc.com",

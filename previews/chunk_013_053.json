@@ -20,6 +20,16 @@
         "AbstractURL": "https://growtonia.com/"
     },
     {
+        "link": "https://gunabizau.com",
+        "Heading": "gunabizau.com - Fully AU business directory",
+        "Abstract": "This AU business directory involves the most significant and relevant information about companies located across the country. The website is dedicated to user convenience and ease of search.",
+        "Official Site": "http://gunabizau.com/",
+        "Icon": "http://gunabizau.com/images/logo.png",
+        "Redirect": "http://gunabizau.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://gunabizau.com/"
+    },
+    {
         "link": "https://gundamhk.com",
         "Heading": "  \u6a5f\u52d5\u540c\u76df Gundam HK ",
         "Abstract": "\u6a5f\u52d5\u540c\u76df Gundam HK \u672c\u7ad9\u662f\u4e00\u500b\u70ba\u4e86\u9ad8\u9054\u800c\u5b58\u5728\u7684\u7db2\u7ad9",
@@ -68,16 +78,6 @@
         "Redirect": "https://gurel-fod.online",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gurel-fod.online"
-    },
-    {
-        "link": "https://gwmro.com",
-        "Heading": "\u82f1\u8bed\u7535\u5f71-\u6700\u65b0\u5929\u5929\u7f8e\u5267\u7535\u5f71\u6e2f\u5267\u7f51\u7535\u89c6\u5267-\u534a\u5c9b\u5f71\u9662\u70ed\u95e8\u5f71\u89c6\u514d\u8d39\u5728\u7ebf\u89c2\u770b",
-        "Abstract": "\u82f1\u8bed\u7535\u5f71\uff0c\u5929\u5929\u7f8e\u5267\uff0c\u6e2f\u5267\u7f51\uff0c\u534a\u5c9b\u5f71\u9662\u5206\u4eab\u6700\u65b0\u9ad8\u6e05\u7535\u5f71\u7535\u89c6\u5267\u3001\u4f26\u7406\u7247\u3001\u7efc\u827a\u3001\u7f8e\u5267\u3001\u97e9\u5267\u3001\u82f1\u5267\u3001\u65e5\u5267\u7b49\u8fc5\u96f7\u4e0b\u8f7d\uff0c\u7b49\u8d44\u6e90\u5728\u7ebf\u89c2\u770b\uff01",
-        "Official Site": "https://gwmro.com",
-        "Icon": "/static/favicon.ico",
-        "Redirect": "https://gwmro.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gwmro.com"
     },
     {
         "link": "https://h-nmedia.net",
@@ -180,16 +180,6 @@
         "AbstractURL": "https://hillclimb.org"
     },
     {
-        "link": "https://historicaloptiondata.com",
-        "Heading": "Historical Options Data \u2014 U.S. Equity Options Since 2002",
-        "Abstract": "Access 20 years of options data trusted by MIT, Stanford, and 300+ institutions. Level 3 data with Greeks, implied volatility, intraday feeds. FTP delivery. Download sample files.",
-        "Official Site": "https://historicaloptiondata.com/",
-        "Icon": "https://historicaloptiondata.com/wp-content/uploads/2022/08/joshua-mayo-HASoyURgPMY-unsplash1.jpg",
-        "Redirect": "https://historicaloptiondata.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://historicaloptiondata.com/"
-    },
-    {
         "link": "https://hollysale.com",
         "Heading": "HollySale.com",
         "Abstract": null,
@@ -214,7 +204,7 @@
         "Heading": "Home 4 My",
         "Abstract": "Do you want to buy, sell, rent or investment? Why add borders to your investments? Buy or post on Home 4 My.\nYou can also publish totally free, 0% commissions!\n\nVoulez-vous acheter, vendre, louer, louer ou investir? Pourquoi ajouter des bordures \u00e0 vos investissements? Achetez ou publiez sur Home 4 My.\nVous pouvez \u00e9galement publier gratuitement des commissions de 0%!\n\nQuiere comprar, vender, rentar, alquilar o invertir? Porque agregarle fronteras a sus inversiones? Compre o publique en Home 4 My. \nTambi\u00e9n puedes publicar totalmente gratis, 0% comisiones!",
         "Official Site": "https://home4my.com/",
-        "Icon": "/images/logo/New-Logo-cuadrado.jpg",
+        "Icon": "/templates/shaper_helix3/images/favicon.ico",
         "Redirect": "https://home4my.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://home4my.com/"

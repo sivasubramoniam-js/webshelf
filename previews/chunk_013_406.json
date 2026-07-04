@@ -30,16 +30,6 @@
         "AbstractURL": "https://doubleddie.com"
     },
     {
-        "link": "https://dpmiindia.com",
-        "Heading": "\n    DPMI - Best Paramedical Institute in Delhi NCR , India\n    ",
-        "Abstract": "DPMI is a leading vocational institute offering courses in paramedical health education, hotel management, catering technology and tourism, etc.",
-        "Official Site": "https://www.dpmiindia.com",
-        "Icon": "https://www.dpmiindia.com/public/uploads/page_section_attributes/setting-681322d650bbb-1746084566.svg",
-        "Redirect": "https://www.dpmiindia.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.dpmiindia.com"
-    },
-    {
         "link": "https://draustinmaths.com",
         "Heading": "Maths Teaching Resources | Dr Austin Maths",
         "Abstract": "Dr Austin Maths is a free-to-use Maths teaching resources website, focussing on quality resources for KS4 IGCSE and GCSE Maths.",
@@ -180,6 +170,16 @@
         "AbstractURL": "https://e-toptech.gr/"
     },
     {
+        "link": "https://eabags.gr",
+        "Heading": "Elena Athanasiou Bags \u00ae | \u0394\u03b5\u03c1\u03bc\u03ac\u03c4\u03b9\u03bd\u03b5\u03c2 \u03a4\u03c3\u03ac\u03bd\u03c4\u03b5\u03c2 | Leather Bags",
+        "Abstract": "\u0394\u03b5\u03c1\u03bc\u03ac\u03c4\u03b9\u03bd\u03b5\u03c2 \u03a4\u03c3\u03ac\u03bd\u03c4\u03b5\u03c2 | Elena Athanasiou Bags \u00ae | \u03a7\u03b5\u03b9\u03c1\u03bf\u03c0\u03bf\u03af\u03b7\u03c4\u03b5\u03c2 \u03a4\u03c3\u03ac\u03bd\u03c4\u03b5\u03c2 \u0395\u039b\u0395\u039d\u0391 \u0391\u0398\u0391\u039d\u0391\u03a3\u0399\u039f\u03a5 | Handmade Leather Bags",
+        "Official Site": "https://eabags.gr/",
+        "Icon": "https://eabags.gr/wp-content/uploads/2026/04/1300-1.webp",
+        "Redirect": "https://eabags.gr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eabags.gr/"
+    },
+    {
         "link": "https://ebikestore.shop",
         "Heading": "eBike Store",
         "Abstract": "Negozio di biciclette a pedalata assistita e tradizionali, abbigliamento, accessori, componenti, officina e assistenza.",
@@ -284,7 +284,7 @@
         "Heading": "\n      Elleme Paris Official Site \u2013 Timeless Designer Handbags, Made in Italy\n",
         "Abstract": "Discover Elleme\u2019s timeless Parisian handbags. Made in Italy, each design blends modern lines with refined craftsmanship. Shop now and enjoy free worldwide shipping on our signature pieces.",
         "Official Site": "https://elleme.com/",
-        "Icon": "http://elleme.com/cdn/shop/files/Elleme_Logo_1bc07302-170c-4c64-a093-54f3834bb7ff.png?v=1639489072",
+        "Icon": "http://cdn.shopify.com/s/files/1/1803/8695/files/Elleme_Logo_1bc07302-170c-4c64-a093-54f3834bb7ff.png?v=1639489072",
         "Redirect": "https://elleme.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://elleme.com/"
@@ -414,7 +414,7 @@
         "Heading": "\n      ESBEDA | Stylish Handbags for Women & Men\n",
         "Abstract": "ESBEDA",
         "Official Site": "https://www.esbeda.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0798/1917/8197/files/logow.png?v=1775282766",
+        "Icon": "http://www.esbeda.com/cdn/shop/files/logow.png?v=1775282766",
         "Redirect": "https://www.esbeda.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.esbeda.com/"

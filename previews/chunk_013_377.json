@@ -160,16 +160,6 @@
         "AbstractURL": "https://www.vivaveltoro.com/"
     },
     {
-        "link": "https://next14.com",
-        "Heading": "Next Different",
-        "Abstract": null,
-        "Official Site": "https://next14.com",
-        "Icon": "https://nextdifferent.com/wp-content/uploads/2024/10/cropped-favicon-100x100.webp",
-        "Redirect": "https://next14.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://next14.com"
-    },
-    {
         "link": "https://webdesign-boger.de",
         "Heading": "wedebo - Webdesign, Internetprogrammierung, Webhosting aus Vilsbiburg",
         "Abstract": "WEDEBO unterst\u00fctzt Sie bei der Planung und Konzeption, der Produktion, der Einf\u00fchrung und Pflege Ihrer Website oder Internetanwendung",
@@ -228,6 +218,16 @@
         "Redirect": "https://art-graphic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://art-graphic.com"
+    },
+    {
+        "link": "https://whitepeak.com.au",
+        "Heading": "White Peak Digital | Award-Winning Websites & Marketing",
+        "Abstract": "White Peak Digital is an award-winning digital agency helping brands grow through human-centred, high-converting websites and marketing strategies.",
+        "Official Site": "https://www.whitepeakdigital.com/",
+        "Icon": "https://www.whitepeakdigital.com/wp-content/uploads/White-Peak-Digital-Web-Design-Banner.jpg",
+        "Redirect": "https://www.whitepeakdigital.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.whitepeakdigital.com/"
     },
     {
         "link": "https://kitsonlaw.com",

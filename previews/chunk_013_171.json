@@ -71,10 +71,10 @@
     },
     {
         "link": "https://gymratchallenge.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "The GymRat CHALLENGE a test of skill & will where basketball reputations are earned!",
+        "Abstract": "Where today and tomorrow's NCAA, NBA & WNBA stars have EARNED their basketball reputations since 1998",
         "Official Site": "https://gymratchallenge.com",
-        "Icon": "data:;",
+        "Icon": "https://gymratchallenge.com/wp-content/uploads/2016/01/cropped-fav-32x32.gif",
         "Redirect": "https://gymratchallenge.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gymratchallenge.com"
@@ -118,6 +118,16 @@
         "Redirect": "https://www.applicocapital.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.applicocapital.com"
+    },
+    {
+        "link": "https://anwarpress.com",
+        "Heading": "\u0623\u0646\u0648\u0627\u0631 \u0628\u0631\u064a\u0633 \u2013 \u062c\u0631\u064a\u062f\u0629 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0629 \u062d\u062f\u0627\u062b\u064a\u0629 \u0645\u0633\u062a\u0642\u0644\u0629 \u062a\u062a\u062c\u062f\u062f \u0639\u0644\u0649 \u0645\u062f\u0627\u0631 \u0627\u0644\u0633\u0627\u0639\u0629",
+        "Abstract": null,
+        "Official Site": "https://anwarpress.com",
+        "Icon": "https://anwarpress.com/wp-content/uploads/2026/05/anwarpress_logo_20052026121157.webp",
+        "Redirect": "https://anwarpress.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://anwarpress.com"
     },
     {
         "link": "https://podarokzaim.ru",
@@ -261,13 +271,13 @@
     },
     {
         "link": "https://oneworldmedia.org.uk",
-        "Heading": null,
+        "Heading": "One World Media \u2013 Stories shape our world. It matters who tells them and how they are told. ",
         "Abstract": null,
-        "Official Site": "https://oneworldmedia.org.uk",
-        "Icon": "data:;",
-        "Redirect": "https://oneworldmedia.org.uk",
+        "Official Site": "https://oneworldmedia.org.uk/",
+        "Icon": "https://oneworldmedia.org.uk/wp-content/uploads/2017/01/favicon-32x32.png",
+        "Redirect": "https://oneworldmedia.org.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://oneworldmedia.org.uk"
+        "AbstractURL": "https://oneworldmedia.org.uk/"
     },
     {
         "link": "https://amxpress.com",

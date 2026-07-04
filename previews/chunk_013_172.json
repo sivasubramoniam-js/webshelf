@@ -10,6 +10,16 @@
         "AbstractURL": "https://mygametables.com/"
     },
     {
+        "link": "https://scopesoft.com",
+        "Heading": "Scope Digital \u2014 Yapay Zeka \u00c7a\u011f\u0131n\u0131n Dijital Ajans\u0131",
+        "Abstract": "Scope Agency, markalar ile t\u00fcketicileri aras\u0131nda ko\u015fulsuz bir ba\u011f kurmaya odaklanan \u00f6nde gelen bir dijital ajanst\u0131r.",
+        "Official Site": "https://scope.digital/",
+        "Icon": "https://scope.digital/assets/images/cover.jpg",
+        "Redirect": "https://scope.digital/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://scope.digital/"
+    },
+    {
         "link": "https://solucionesinnova.net",
         "Heading": "Innova Soluciones \u2013 \u00a1Expertos en tecnolog\u00eda!",
         "Abstract": null,
@@ -48,6 +58,16 @@
         "Redirect": "https://yccc.edu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yccc.edu"
+    },
+    {
+        "link": "https://panoramadelart.com",
+        "Heading": "Panorama de l'art | L\u2019histoire de l\u2019art en un seul regard",
+        "Abstract": "Un site exhaustif et p\u00e9dagogique sur l'histoire de l'art, de la pr\u00e9histoire jusqu'\u00e0 l'art moderne : analyse d'\u0153uvres des mus\u00e9es, reproduction en grand format, glossaire ; adapt\u00e9 aux enseignant et \u00e9l\u00e8ves.",
+        "Official Site": "https://panoramadelart.com/",
+        "Icon": "/sites/default/files/favicon.jpg",
+        "Redirect": "https://panoramadelart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://panoramadelart.com/"
     },
     {
         "link": "https://divasplay.com",
@@ -121,13 +141,13 @@
     },
     {
         "link": "https://cityartsmagazine.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://cityartsmagazine.com",
-        "Icon": "data:;",
-        "Redirect": "https://cityartsmagazine.com",
+        "Heading": "City Arts Magazine - Creative minds, compelling stories",
+        "Abstract": "Creative minds, compelling stories",
+        "Official Site": "https://www.cityartsmagazine.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.cityartsmagazine.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cityartsmagazine.com"
+        "AbstractURL": "https://www.cityartsmagazine.com/"
     },
     {
         "link": "https://amazonere.com",
@@ -140,14 +160,14 @@
         "AbstractURL": "https://amazonere.com"
     },
     {
-        "link": "https://autonomiarlp.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://autonomiarlp.org",
-        "Icon": "N/A",
-        "Redirect": "https://autonomiarlp.org",
+        "link": "https://trisuladata.net.id",
+        "Heading": "PT.TRISULA MEDIA DATA",
+        "Abstract": "",
+        "Official Site": "https://trisuladata.net.id",
+        "Icon": "./assets/images/logo.png",
+        "Redirect": "https://trisuladata.net.id",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://autonomiarlp.org"
+        "AbstractURL": "https://trisuladata.net.id"
     },
     {
         "link": "https://financemalta.org",
@@ -188,16 +208,6 @@
         "Redirect": "https://www.yqn.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.yqn.com"
-    },
-    {
-        "link": "https://elcortijoperu.com",
-        "Heading": "Centro de Servicios El Cortijo",
-        "Abstract": null,
-        "Official Site": "https://elcortijoperu.com",
-        "Icon": "https://elcortijoperu.com/wp-content/uploads/cropped-logo-elcortijo-32x32.png",
-        "Redirect": "https://elcortijoperu.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://elcortijoperu.com"
     },
     {
         "link": "https://cutpricepharmacy.com.au",

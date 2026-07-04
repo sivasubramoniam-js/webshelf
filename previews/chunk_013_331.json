@@ -70,14 +70,14 @@
         "AbstractURL": "https://amazonrelayit.com"
     },
     {
-        "link": "https://ms12.ru",
-        "Heading": "Authorization",
+        "link": "https://thediscourse.ca",
+        "Heading": "Home \u2013 The Discourse.",
         "Abstract": null,
-        "Official Site": "https://ms12.ru",
-        "Icon": "/manimg/dragon/default/favicon-ispmgr.ico",
-        "Redirect": "https://ms12.ru",
+        "Official Site": "https://thediscourse.ca/",
+        "Icon": "https://thediscourse.ca/wp-content/uploads/2022/07/The_Discourse_Team-8-scaled-1-1024x683.jpg",
+        "Redirect": "https://thediscourse.ca/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ms12.ru"
+        "AbstractURL": "https://thediscourse.ca/"
     },
     {
         "link": "https://cameronsseafood.com",
@@ -98,6 +98,16 @@
         "Redirect": "https://www.scarlethotel.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.scarlethotel.co.uk/"
+    },
+    {
+        "link": "https://rskm.pro",
+        "Heading": "Ruskompromat",
+        "Abstract": "RUSKOMPROMAT",
+        "Official Site": "https://rskm.pro/",
+        "Icon": "https://ruskompromat.info/ruskompromat.jpg",
+        "Redirect": "https://rskm.pro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rskm.pro/"
     },
     {
         "link": "https://bakirkoy.bel.tr",
@@ -150,6 +160,16 @@
         "AbstractURL": "https://toptanmaviyengec.com/"
     },
     {
+        "link": "https://termedeipapi.it",
+        "Heading": "Home Page - Terme dei Papi Viterbo | Terme & Cosmetici Termali",
+        "Abstract": "Scopri le terme storiche di Viterbo e i cosmetici al fango e acqua termale del Bullicame. Made in Italy, dermatologicamente testati.",
+        "Official Site": "https://termedeipapi.it/",
+        "Icon": "https://termedeipapi.it/wp-content/uploads/2021/02/cropped-cropped-Terme-dei-papi-off.-positivo-2-1-32x32.png",
+        "Redirect": "https://termedeipapi.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://termedeipapi.it/"
+    },
+    {
         "link": "https://summix.biz",
         "Heading": "\u0412\u044b \u043d\u0435 \u0440\u043e\u0431\u043e\u0442?",
         "Abstract": null,
@@ -188,16 +208,6 @@
         "Redirect": "https://whitehorseinn.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://whitehorseinn.org/"
-    },
-    {
-        "link": "https://inter-bat.com",
-        "Heading": "Home - inter-bat.com",
-        "Abstract": "Transformer votre espace en un lieu de vie raffin\u00e9 et moderne, telle est notre mission chez Inter Bat Quelques Avant et Apr\u00e8s de nos r\u00e9alisations 10+ Ans d'activit\u00e9 1000 Clients heureux 2000 Projets termin\u00e9s 10+ Membres d'\u00e9quipe Inter Bat Inter Bat est une entreprise du b\u00e2timent fond\u00e9e en 2018 situer a vallieres-sur-fier en haute Savoie.",
-        "Official Site": "https://inter-bat.com/",
-        "Icon": "https://inter-bat.com/wp-content/uploads/2022/09/cropped-WhatsApp_Image_2022-09-26_at_14.19.04-removebg-preview-1.png",
-        "Redirect": "https://inter-bat.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://inter-bat.com/"
     },
     {
         "link": "https://arnoldpalmer.com",
@@ -254,7 +264,7 @@
         "Heading": "Stosa Cucine | Cucine moderne e classiche da 60 anni",
         "Abstract": "Cucine moderne e classiche firmate Stosa Cucine: qualit\u00e0, innovazione, design. Cura dei dettagli. Entra nel mondo Stosa.",
         "Official Site": "https://www.stosacucine.com/it/",
-        "Icon": "https://www.stosacucine.com/app/themes/sage/dist/images/favicon/favicon-32x32_34d25cd3.png",
+        "Icon": "https://www.stosacucine.com/app/themes/sage/dist/images/favicon/favicon-32x32.png",
         "Redirect": "https://www.stosacucine.com/it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.stosacucine.com/it/"

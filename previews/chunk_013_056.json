@@ -70,6 +70,16 @@
         "AbstractURL": "https://livriz.com/"
     },
     {
+        "link": "https://locallio.nl",
+        "Heading": "Locallio: vind alles in de buurt!",
+        "Abstract": "Op Locallio vind je alles in de buurt: winkels, diensten, restaurants en andere bedrijven. Volg bedrijven en blijf op de hoogte van aanbiedingen en folders!",
+        "Official Site": "https://locallio.nl",
+        "Icon": "http://www.locallio.nl/favicon.png",
+        "Redirect": "https://locallio.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://locallio.nl"
+    },
+    {
         "link": "https://lockonforum.de",
         "Heading": "LockOn Forum Deutschland",
         "Abstract": "",
@@ -228,16 +238,6 @@
         "Redirect": "https://mediaforfreedom.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mediaforfreedom.com"
-    },
-    {
-        "link": "https://medicallasersale.com",
-        "Heading": "HOME - Medical Laser Sale",
-        "Abstract": "Sale Medical Beauty Devices, laser, radio frequency and ultrasound equipment for aesthetic and medical markets at MEDICAL LASER SALE",
-        "Official Site": "https://medicallasersale.com/",
-        "Icon": "https://medicallasersale.com/wp-content/uploads/2022/08/medicallasesale3.jpg",
-        "Redirect": "https://medicallasersale.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://medicallasersale.com/"
     },
     {
         "link": "https://megafengshuishop.com",

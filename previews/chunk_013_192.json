@@ -20,16 +20,6 @@
         "AbstractURL": "https://mypromoteweb.com/"
     },
     {
-        "link": "https://estimators.us",
-        "Heading": "Construction Estimating Services | Construction Estimators in USA",
-        "Abstract": "USA Estimators is a trusted construction estimating services Company. Our estimators provide 100% Accurate & Detailed estimates for your project. Call Us Now.",
-        "Official Site": "https://estimators.us/",
-        "Icon": "https://estimators.us/wp-content/uploads/2024/03/Consultation-and-Bid-Submission.webp",
-        "Redirect": "https://estimators.us/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://estimators.us/"
-    },
-    {
         "link": "https://rokfit.com",
         "Heading": "RokFit | Premium Gym Tees & Active Streetwear",
         "Abstract": "Shop RokFit for premium gym tees, oversized streetwear pump covers, and heavy-duty utility towels. Built for the grind. Fast shipping & free exchanges.",
@@ -138,6 +128,16 @@
         "Redirect": "https://ecommsale.biz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ecommsale.biz"
+    },
+    {
+        "link": "https://marble-institute.com",
+        "Heading": "Natural Stone Institute - Stone Industry Resources From The Leading Association Natural Stone Institute",
+        "Abstract": "Formerly Marble Institute of America and Building Stone Institute. Find resources, education, standards, and technical specifications for the stone industry.",
+        "Official Site": "https://www.naturalstoneinstitute.org/",
+        "Icon": "https://www.naturalstoneinstitute.org/default/cache/file/9E6F1FC4-94FB-7903-1BABF8AFDB437CFE_facebookopengraphimage.jpg",
+        "Redirect": "https://www.naturalstoneinstitute.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.naturalstoneinstitute.org/"
     },
     {
         "link": "https://tecla8.com",
@@ -301,23 +301,13 @@
     },
     {
         "link": "https://letenky.com",
-        "Heading": "Letenky.com | Levn\u00e9 letenky | N\u00edzkon\u00e1kladov\u00e9 lety",
-        "Abstract": "Na Letenky.com vyhled\u00e1te nejlevn\u011bj\u0161\u00ed letenky online. Ji\u017e 17 let nab\u00edz\u00edme levn\u00e9 letenky na n\u00edzkon\u00e1kladov\u00e9 lety do cel\u00e9ho sv\u011bta s rezervac\u00ed zdarma.",
-        "Official Site": "https://www.letenky.com/",
-        "Icon": "http://www.letenky.com/public/images/logo-letenky.png",
-        "Redirect": "https://www.letenky.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.letenky.com/"
-    },
-    {
-        "link": "https://incometaxchandigarh.org",
-        "Heading": "Income Tax NWR",
+        "Heading": "Letenky.com",
         "Abstract": null,
-        "Official Site": "https://incometaxchandigarh.org",
-        "Icon": "favicon.ico",
-        "Redirect": "https://incometaxchandigarh.org",
+        "Official Site": "https://letenky.com",
+        "Icon": "/assets/images/favicon.ico",
+        "Redirect": "https://letenky.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://incometaxchandigarh.org"
+        "AbstractURL": "https://letenky.com"
     },
     {
         "link": "https://azino777-hyr.top",

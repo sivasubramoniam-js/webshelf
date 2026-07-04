@@ -250,21 +250,11 @@
         "AbstractURL": "https://caesareg.com/"
     },
     {
-        "link": "https://energyinformative.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://energyinformative.org",
-        "Icon": "data:;",
-        "Redirect": "https://energyinformative.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://energyinformative.org"
-    },
-    {
         "link": "https://pw-portal.de",
         "Heading": "Portal f\u00fcr Politikwissenschaft \u2013 pw-portal",
         "Abstract": " ",
         "Official Site": "https%3A%2F%2Fpw-portal.de%2F",
-        "Icon": "https://pw-portal.de/images/og-generated/102568aa83ae982dd9ff571d44e61bd0.png?6ece9b3dc21cfe82f32e9a2adcb7eddc",
+        "Icon": "https://pw-portal.de/images/og-generated/102568aa83ae982dd9ff571d44e61bd0.png?744285c0c4a9b78869e9ead01db92d64",
         "Redirect": "https%3A%2F%2Fpw-portal.de%2F",
         "AbstractSource": "BS4",
         "AbstractURL": "https%3A%2F%2Fpw-portal.de%2F"
@@ -308,6 +298,16 @@
         "Redirect": "https://www.esnetwork.ro/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.esnetwork.ro/"
+    },
+    {
+        "link": "https://topskisanvigilio.com",
+        "Heading": "Topski San Vigilio \u2013 Topski San Vigilio",
+        "Abstract": null,
+        "Official Site": "https://www.topskisanvigilio.com",
+        "Icon": "https://www.topskisanvigilio.com/wp-content/uploads/2025/08/3619-1024x684.png",
+        "Redirect": "https://www.topskisanvigilio.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.topskisanvigilio.com"
     },
     {
         "link": "https://advancedbroadband.com",
