@@ -61,13 +61,13 @@
     },
     {
         "link": "https://odbrzuszkadomaluszka.com",
-        "Heading": "Home - Od Brzuszka Do Maluszka",
-        "Abstract": "Wszystko, czego potrzebuje Tw\u00f3j maluch \u2013 akcesoria, wyprawki i zabawki gotowe do wysy\u0142ki! Najlepsze produkty dla niemowl\u0105t, dzieci i mam. Komfort i bezpiecze\u0144stwo w ka\u017cdym zakupie! Szeroki wyb\u00f3r produkt\u00f3w. Bezpieczne dla...",
-        "Official Site": "https://odbrzuszkadomaluszka.com/",
-        "Icon": "https://odbrzuszkadomaluszka.com/wp-content/uploads/2024/10/logo.png",
-        "Redirect": "https://odbrzuszkadomaluszka.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://odbrzuszkadomaluszka.com",
+        "Icon": "data:;",
+        "Redirect": "https://odbrzuszkadomaluszka.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://odbrzuszkadomaluszka.com/"
+        "AbstractURL": "https://odbrzuszkadomaluszka.com"
     },
     {
         "link": "https://oddbirdco.com",
@@ -94,7 +94,7 @@
         "Heading": "Nappy Bags Online | OiOi Baby Bags",
         "Abstract": "All modern parens fall in love with OiOi nappy bags. Designed for practicality and quality in mind. Browse our collection and order online today.",
         "Official Site": "https://oioi.com.au/",
-        "Icon": "https://cdn.shopify.com/s/files/1/2950/5412/files/Website_Image_Preview_1200x630.png?v=1775671300",
+        "Icon": "https://oioi.com.au/cdn/shop/files/Website_Image_Preview_1200x630.png?v=1775671300",
         "Redirect": "https://oioi.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://oioi.com.au/"
@@ -113,11 +113,11 @@
         "link": "https://olimpo-flex.com",
         "Heading": "OlimpoFlex: Materassi, Cuscini e Topper Online",
         "Abstract": "Scegli tra Materassi, Cuscini e Topper, per ogni tipo di riposo;rispecchiando l\u2019alta qualit\u00e0 del Made in Tuscany. Per te 100 notti di prova con tasso 0 anticipo 0 fino a 24 mesi.",
-        "Official Site": "https://olimpo-flex.com",
-        "Icon": "https://cdn.shopify.com/s/files/1/0575/1413/1509/files/OF_logoZZZ_Tavola_disegno_3.jpg?v=1727271832",
-        "Redirect": "https://olimpo-flex.com",
+        "Official Site": "https://olimpo-flex.com/",
+        "Icon": "http://olimpo-flex.com/cdn/shop/files/OF_logoZZZ_Tavola_disegno_3.jpg?v=1727271832&width=2048",
+        "Redirect": "https://olimpo-flex.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://olimpo-flex.com"
+        "AbstractURL": "https://olimpo-flex.com/"
     },
     {
         "link": "https://on3performance.com",
@@ -138,6 +138,16 @@
         "Redirect": "https://www.ondua.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ondua.de/"
+    },
+    {
+        "link": "https://ooberpad.com",
+        "Heading": "Premium Home Theatre Packages & Smart Home Solutions | Ooberpad",
+        "Abstract": "Shop at Ooberpad for premium home theatre packages, luxury audio systems, and smart home solutions. Enjoy personalised service, expert recommendations, and elite brands.",
+        "Official Site": "https://www.ooberpad.com/",
+        "Icon": "//www.ooberpad.com/cdn/shop/files/favicon.png?crop=center&height=32&v=1614299785&width=32",
+        "Redirect": "https://www.ooberpad.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ooberpad.com/"
     },
     {
         "link": "https://optikshop.hu",
@@ -203,11 +213,11 @@
         "link": "https://orsancobranzas.cl",
         "Heading": "Inicio - Orsan Cobranzas",
         "Abstract": null,
-        "Official Site": "http://3.225.174.134/",
+        "Official Site": "http://3.225.174.134:80/",
         "Icon": "https://orsancobranzas.cl/wp-content/uploads/2022/01/cropped-logo_isotype_large-1-32x32.png",
-        "Redirect": "http://3.225.174.134/",
+        "Redirect": "http://3.225.174.134:80/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://3.225.174.134/"
+        "AbstractURL": "http://3.225.174.134:80/"
     },
     {
         "link": "https://osara.com.au",
@@ -254,20 +264,30 @@
         "Heading": "Ultralight Outdoor Gear in Europe Since 2012 | Outdoorline",
         "Abstract": "Largest cottage ultralight gear selection in Europe since 2012. Zpacks, HMG, Durston & 40+ brands. In stock, customs-free across the EU. 4.94\u2605 (6,700+ reviews). For thru-hiking, bikepacking & camping.",
         "Official Site": "https://www.outdoorline.eu/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0791/5130/0875/files/social_sharing_2b7452c9-a2c0-4f87-b3ab-8bbc1c71d874.jpg?crop=center&height=1200&v=1751376378&width=1200",
+        "Icon": "http://www.outdoorline.eu/cdn/shop/files/social_sharing_2b7452c9-a2c0-4f87-b3ab-8bbc1c71d874.jpg?crop=center&height=1200&v=1751376378&width=1200",
         "Redirect": "https://www.outdoorline.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.outdoorline.eu/"
     },
     {
         "link": "https://ozcanopies.com.au",
-        "Heading": "Ute and 4x4 Accessories Sydney, Australia | Best Prices & Huge Range",
-        "Abstract": "Explore our huge range of high-quality ute accessories, ute canopies, roller shutters, hard lids, roof racks, bullbars, towbars & more.",
-        "Official Site": "https://www.ozcanopies.com.au/",
-        "Icon": "https://www.ozcanopies.com.au/wp-content/uploads/2024/10/about-team-scaled-1.jpg",
-        "Redirect": "https://www.ozcanopies.com.au/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ozcanopies.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://ozcanopies.com.au",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ozcanopies.com.au/"
+        "AbstractURL": "https://ozcanopies.com.au"
+    },
+    {
+        "link": "https://paccosmetics.com",
+        "Heading": "\n      PAC Cosmetics | Premium Makeup Products | Makeup Brand\n    ",
+        "Abstract": "India\u2019s trusted premium makeup and beauty brand - PAC Cosmetics. Get all your makeup essentials in one place, from makeup products to tools and more.",
+        "Official Site": "https://www.paccosmetics.com/",
+        "Icon": "http://www.paccosmetics.com/cdn/shop/files/PAC_Cosmetics_Logo.jpg?v=1752474475&width=2048",
+        "Redirect": "https://www.paccosmetics.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.paccosmetics.com/"
     },
     {
         "link": "https://pagan-records.com",

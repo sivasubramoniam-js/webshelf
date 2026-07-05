@@ -40,26 +40,6 @@
         "AbstractURL": "https://fastionline.org"
     },
     {
-        "link": "https://checktav.co.il",
-        "Heading": "\u05d1\u05d3\u05d9\u05e7\u05ea \u05ea\u05d5 \u05e0\u05db\u05d4 \u05dc\u05e8\u05db\u05d1",
-        "Abstract": "\u05e8\u05d5\u05e6\u05d9\u05dd \u05dc\u05d3\u05e2\u05ea \u05d4\u05d0\u05dd \u05dc\u05de\u05e1\u05e4\u05e8 \u05e8\u05db\u05d1 \u05de\u05e1\u05d5\u05d9\u05d9\u05dd \u05de\u05e9\u05d5\u05d9\u05d9\u05da \u05ea\u05d5 \u05e0\u05db\u05d4? \u05d1\u05d9\u05d3\u05e7\u05d5 \u05d5\u05e7\u05d1\u05dc\u05d5 \u05ea\u05e9\u05d5\u05d1\u05d4 \u05de\u05d9\u05d9\u05d3\u05d9\u05ea \u05d4\u05d0\u05dd \u05de\u05e1\u05e4\u05e8 \u05d4\u05e8\u05db\u05d1 \u05d1\u05e2\u05dc \u05ea\u05d5 \u05e0\u05db\u05d4 \u05d1\u05ea\u05d5\u05e7\u05e3. \u05db\u05dc \u05d4\u05de\u05d9\u05d3\u05e2 \u05e2\u05d3\u05db\u05e0\u05d9 \u05d5\u05de\u05ea\u05e7\u05d1\u05dc \u05d9\u05e9\u05d9\u05e8\u05d5\u05ea \u05d5\u05de\u05e1\u05d5\u05e0\u05db\u05e8\u05df \u05de\u05d5\u05dc \u05de\u05e9\u05e8\u05d3 \u05d4\u05ea\u05d7\u05d1\u05d5\u05e8\u05d4. \u05d0\u05d9\u05df \u05e6\u05d5\u05e8\u05da \u05d1\u05d4\u05e8\u05e9\u05de\u05d4 \u05db\u05dc\u05e9\u05d4\u05d9, \u05e8\u05e7 \u05d4\u05e7\u05dc\u05d9\u05d3\u05d5 \u05d0\u05ea \u05de\u05e1\u05e4\u05e8 \u05d4\u05e8\u05db\u05d1 \u05d4\u05de\u05d1\u05d5\u05e7\u05e9 \u05d5\u05e7\u05d1\u05dc\u05d5 \u05ea\u05e9\u05d5\u05d1\u05d4 \u05de\u05d9\u05d9\u05d3\u05d9\u05ea.",
-        "Official Site": "https://checktav.co.il",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://checktav.co.il",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://checktav.co.il"
-    },
-    {
-        "link": "https://kasteelwijenburg.nl",
-        "Heading": "Trouwlocatie Kasteel Wijenburg - romantisch en uniek trouwen in ons kasteel",
-        "Abstract": "Kasteel Wijenburg, gelegen in Gelderland - De meest unieke en romantische trouwlocatie van Nederland - Trouwen in ons kasteel is een droombruiloft",
-        "Official Site": "https://www.kasteelwijenburg.nl/",
-        "Icon": "https://www.kasteelwijenburg.nl/wp-content/uploads/2025/02/Kasteel-Wijenburg_Kasteel-Wijenburg-o.webp",
-        "Redirect": "https://www.kasteelwijenburg.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kasteelwijenburg.nl/"
-    },
-    {
         "link": "https://tidesport.org",
         "Heading": "Home | TIDES",
         "Abstract": null,
@@ -194,7 +174,7 @@
         "Heading": "\n      Premium Artisan Sausages & Smoked Meats | Chef Sausage Thailand\n    ",
         "Abstract": "Handcrafted by a Michelin-trained Italian chef with 18+ years in 5-star kitchens. Premium artisan sausages, smoked bacon & gourmet meats. Nationwide delivery across Thailand.",
         "Official Site": "https://chefsausage.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0898/6388/0994/files/IMG_7953_6d082370-c8d2-4795-b639-e537a633c9ba.png?v=1737952914&width=2048",
+        "Icon": "http://chefsausage.com/cdn/shop/files/IMG_7953_6d082370-c8d2-4795-b639-e537a633c9ba.png?v=1737952914&width=2048",
         "Redirect": "https://chefsausage.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chefsausage.com/"
@@ -221,13 +201,13 @@
     },
     {
         "link": "https://ibex-ai.com",
-        "Heading": "Ibex Medical Analytics",
-        "Abstract": "Every day, our field-proven, AI-powered diagnostic solutions help pathologists ensure better cancer care for patients around the world",
-        "Official Site": "https://ibex-ai.com/",
-        "Icon": "https://ibex-ai.com/wp-content/uploads/2025/08/cropped-X_Ibex_512x512.png",
-        "Redirect": "https://ibex-ai.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ibex-ai.com",
+        "Icon": "data:;",
+        "Redirect": "https://ibex-ai.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ibex-ai.com/"
+        "AbstractURL": "https://ibex-ai.com"
     },
     {
         "link": "https://jysk-payroll.com",

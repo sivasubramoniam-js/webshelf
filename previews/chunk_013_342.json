@@ -1,25 +1,5 @@
 [
     {
-        "link": "https://aevon.space",
-        "Heading": "Aevon",
-        "Abstract": null,
-        "Official Site": "https://aevon.space",
-        "Icon": "N/A",
-        "Redirect": "https://aevon.space",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aevon.space"
-    },
-    {
-        "link": "https://unatc.ro",
-        "Heading": "UNATC",
-        "Abstract": null,
-        "Official Site": "https://unatc.ro",
-        "Icon": "N/A",
-        "Redirect": "https://unatc.ro",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://unatc.ro"
-    },
-    {
         "link": "https://pix-art.de",
         "Heading": "Pix-Art... Fotos und mehr",
         "Abstract": "Startseite",
@@ -38,16 +18,6 @@
         "Redirect": "https://cliffhousemaine.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cliffhousemaine.com"
-    },
-    {
-        "link": "https://s1-p1digital.com.br",
-        "Heading": "Site em Constru\u00e7\u00e3o",
-        "Abstract": null,
-        "Official Site": "https://s1-p1digital.com.br",
-        "Icon": "N/A",
-        "Redirect": "https://s1-p1digital.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://s1-p1digital.com.br"
     },
     {
         "link": "https://rbcarleton.net",
@@ -131,7 +101,7 @@
     },
     {
         "link": "https://one-vv4183.life",
-        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 4970227.467928965",
+        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 8630715.452749718",
         "Abstract": "\u041b\u0443\u0447\u0448\u0435\u0435 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0430\u0437\u0438\u043d\u043e \u0438 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440! \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0441\u044f \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0439 \u0431\u043e\u043d\u0443\u0441 500%. 15 000+ \u0438\u0433\u0440, \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0432\u044b\u043f\u043b\u0430\u0442\u044b, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7.",
         "Official Site": "https://one-vv4183.life",
         "Icon": "/resources/v1/plain/favicons/android-chrome-72x72-v3.png",
@@ -160,16 +130,6 @@
         "AbstractURL": "https://mohawkaustin.com/"
     },
     {
-        "link": "https://voicesfromthebalcony.com",
-        "Heading": "Voices From The Balcony \u2013 Podcast on Life, Culture & Fun",
-        "Abstract": "Voices From The Balcony is a podcast sharing engaging conversations on culture, food, music, politics, and everyday life.",
-        "Official Site": "https://www.voicesfromthebalcony.com/",
-        "Icon": "https://www.voicesfromthebalcony.com/files/wp-content/uploads/2023/02/cropped-site-icon-32x32.jpg",
-        "Redirect": "https://www.voicesfromthebalcony.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.voicesfromthebalcony.com/"
-    },
-    {
         "link": "https://multiserv2.com",
         "Heading": "Index of /",
         "Abstract": null,
@@ -190,24 +150,14 @@
         "AbstractURL": "https://com-part.ru"
     },
     {
-        "link": "https://cloud-tdg.com",
-        "Heading": "Home - Cloud Trading",
-        "Abstract": "Cloud Trading broker",
-        "Official Site": "en/index.php",
-        "Icon": "img/logo_dark.png",
-        "Redirect": "en/index.php",
-        "AbstractSource": "BS4",
-        "AbstractURL": "en/index.php"
-    },
-    {
         "link": "https://equalifieds.com",
-        "Heading": "Supplement Reviews - Quality Health Product for Everyone",
-        "Abstract": "Find Best Supplement for you family, friend and loved one. Equalifieds is a health Care  groups.",
-        "Official Site": "https://equalifieds.com/",
-        "Icon": "https://equalifieds.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=1318&type=play&hash=a7e20eb5253028127b48850c455cdfdd",
-        "Redirect": "https://equalifieds.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://equalifieds.com",
+        "Icon": "data:;",
+        "Redirect": "https://equalifieds.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://equalifieds.com/"
+        "AbstractURL": "https://equalifieds.com"
     },
     {
         "link": "https://bonusweb.cz",
@@ -218,26 +168,6 @@
         "Redirect": "https://bonusweb.cz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bonusweb.cz"
-    },
-    {
-        "link": "https://devyanshfoundation.org",
-        "Heading": "Devyansh Foundation \u2013 Serving The Community\u2026",
-        "Abstract": "Technology and Corporate Bootstrap Theme",
-        "Official Site": "https://devyanshfoundation.org",
-        "Icon": "https://www.devyanshfoundation.org/assets/img/favicon.png",
-        "Redirect": "https://devyanshfoundation.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://devyanshfoundation.org"
-    },
-    {
-        "link": "https://budgettravelbuff.com",
-        "Heading": "Budget Travel Buff - Travel On A Budget",
-        "Abstract": "I opened this Travel Blog to share my personal travel experiences with others and to provide the best Travel Guide and Travel Tips for budget travelers...",
-        "Official Site": "https://budgettravelbuff.com/",
-        "Icon": "https://budgettravelbuff.com/wp-content/uploads/2019/08/cropped-download-1-32x32.jpg",
-        "Redirect": "https://budgettravelbuff.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://budgettravelbuff.com/"
     },
     {
         "link": "https://nobili.it",

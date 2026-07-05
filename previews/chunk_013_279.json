@@ -41,10 +41,10 @@
     },
     {
         "link": "https://viploader.net",
-        "Heading": "\uba39\ud280\uac80\uc99d \uc644\ubcbd \uac00\uc774\ub4dc 2026 | \uc548\uc804\ud55c \ud1a0\ud1a0\uc0ac\uc774\ud2b8 \ud655\uc778 \ubc29\ubc95",
-        "Abstract": "\uc804\ubb38\uac00\uac00 \uc9c1\uc811 \uc6b4\uc601\ud558\ub294 \uba39\ud280\uac80\uc99d \uac00\uc774\ub4dc. \uba39\ud280\uc0ac\uc774\ud2b8 \ud310\ubcc4 \uae30\uc900\uacfc \uc548\uc804\uc0ac\uc774\ud2b8 \ucd94\ucc9c \ubaa9\ub85d \uc81c\uacf5.",
+        "Heading": "2026 \uc628\ub77c\uc778\uce74\uc9c0\ub178 \ucd94\ucc9c & \ubc14\uce74\ub77c \uc804\ub7b5 \uac00\uc774\ub4dc",
+        "Abstract": "2026\ub144 \ucd5c\uc2e0 \uc628\ub77c\uc778\uce74\uc9c0\ub178 \ucd94\ucc9c \uc21c\uc704, \uce74\uc9c0\ub178\uc0ac\uc774\ud2b8 \ube44\uad50 \ubd84\uc11d, \ubc14\uce74\ub77c \uc804\ub7b5 \uac00\uc774\ub4dc\uc640 \uc548\uc804\ud55c \uc2ac\ub86f\uba38\uc2e0 \ucd94\ucc9c \uc815\ubcf4\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4.",
         "Official Site": "https://matlabtips.com/",
-        "Icon": "N/A",
+        "Icon": "/favicon.svg",
         "Redirect": "https://matlabtips.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://matlabtips.com/"
@@ -141,13 +141,13 @@
     },
     {
         "link": "https://greenkeyglobal.com",
-        "Heading": "Home - Green Key Global",
-        "Abstract": "Green Key Global Partners with Al\u014d Index Hotels can now turn their sustainability achievements into a competitive commercial advantage, increasing visibility, strengthening RFP responses, and creating more opportunities for qualified corporate travel demand. Explore This Sustainability Initiative Eco-Rating Core Criteria\u2026",
-        "Official Site": "https://greenkeyglobal.com/",
-        "Icon": "https://greenkeyglobal.com/wp-content/uploads/alo-index.png",
-        "Redirect": "https://greenkeyglobal.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://greenkeyglobal.com",
+        "Icon": "data:;",
+        "Redirect": "https://greenkeyglobal.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://greenkeyglobal.com/"
+        "AbstractURL": "https://greenkeyglobal.com"
     },
     {
         "link": "https://1c-services.pro",
@@ -171,8 +171,8 @@
     },
     {
         "link": "https://openacessjournal.com",
-        "Heading": "20,464 Free Open Access Journals (2026 Directory) \u00b7 OpenAccessJournal",
-        "Abstract": "Browse 20,464 peer-reviewed open access journals \u2014 search by subject, publisher, country, APC, and indexing.",
+        "Heading": "20,473 Free Open Access Journals (2026 Directory) \u00b7 OpenAccessJournal",
+        "Abstract": "Browse 20,473 peer-reviewed open access journals \u2014 search by subject, publisher, country, APC, and indexing.",
         "Official Site": "https://openacessjournal.com",
         "Icon": "https://openacessjournal.com/open-access-journals.png",
         "Redirect": "https://openacessjournal.com",
@@ -200,6 +200,16 @@
         "AbstractURL": "https://cinaki.biz"
     },
     {
+        "link": "https://tadart.com.pl",
+        "Heading": "Loading...",
+        "Abstract": null,
+        "Official Site": "https://tadart.com.pl",
+        "Icon": "N/A",
+        "Redirect": "https://tadart.com.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tadart.com.pl"
+    },
+    {
         "link": "https://ago-outsourcing.com",
         "Heading": "Best Betting Sites UK 2026 | Top 8 Bookmakers",
         "Abstract": "Learn more about the Best Sports Betting Sites in the UK available for players as of 2026. Discover how to safely choose the best platform.",
@@ -208,16 +218,6 @@
         "Redirect": "https://best-sports-betting-sites.it.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://best-sports-betting-sites.it.com/"
-    },
-    {
-        "link": "https://drywallmasters.net",
-        "Heading": "Drywall Masters",
-        "Abstract": null,
-        "Official Site": "https://drywallmasters.net",
-        "Icon": "N/A",
-        "Redirect": "https://drywallmasters.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://drywallmasters.net"
     },
     {
         "link": "https://armysurpluswarehouse.com",
@@ -280,16 +280,6 @@
         "AbstractURL": "https://qgjkvquz.xyz"
     },
     {
-        "link": "https://bleu-sistemasinteractivos.com",
-        "Heading": "bleu.mx",
-        "Abstract": null,
-        "Official Site": "https://bleu-sistemasinteractivos.com",
-        "Icon": "/favicons/favicon-32x32.png",
-        "Redirect": "https://bleu-sistemasinteractivos.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bleu-sistemasinteractivos.com"
-    },
-    {
         "link": "https://taitotalo.fi",
         "Heading": "Taitotalo",
         "Abstract": "Taitotalo on Suomen johtava aikuiskouluttaja ja ty\u00f6el\u00e4m\u00e4n kehitt\u00e4j\u00e4.",
@@ -318,15 +308,5 @@
         "Redirect": "https://worlddayofremembrance.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://worlddayofremembrance.org/"
-    },
-    {
-        "link": "https://allthingslinguistic.com",
-        "Heading": "All Things Linguistic",
-        "Abstract": "A blog about all things linguistic by Gretchen McCulloch. I cohost Lingthusiasm, a podcast that's enthusiastic about linguistics. I'm the author of Because Internet, a book about internet language!",
-        "Official Site": "https://allthingslinguistic.com",
-        "Icon": "https://static.tumblr.com/a9a96ab465988841c0c86998e2fb5aa0/pyb4ved/Fk9npi89r/tumblr_static_c2ewu7dz7i0wwkg8k0kcok0k8.png",
-        "Redirect": "https://allthingslinguistic.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://allthingslinguistic.com"
     }
 ]

@@ -31,13 +31,13 @@
     },
     {
         "link": "https://botanica.org",
-        "Heading": "Botanica the Wichita Gardens - Wichita, KS",
-        "Abstract": "Botanica was opened to the public in May 1987 to generate enthusiasm for horticulture. Plan your visit today!",
-        "Official Site": "https://botanica.org/",
-        "Icon": "https://botanica.org/wp-content/uploads/2024/07/cropped-BOT-Circle-Fav-Teal-32x32.png",
-        "Redirect": "https://botanica.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://botanica.org",
+        "Icon": "data:;",
+        "Redirect": "https://botanica.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://botanica.org/"
+        "AbstractURL": "https://botanica.org"
     },
     {
         "link": "https://azerbaijanmedicaljournal.com",
@@ -120,16 +120,6 @@
         "AbstractURL": "https://mediahouse-it.com"
     },
     {
-        "link": "https://carepositive.com",
-        "Heading": "Care Positive \u2013 Home Health Care Agency",
-        "Abstract": "Everything you need to support you in your efforts as a family caregiver \nA residential service agency that provides skilled and non-skilled nursing, and autism respite services in home or on site. Also providing staffing for outside organizations: nursing homes, assisted living, personal homes and other facilities.",
-        "Official Site": "https://carepositive.com/",
-        "Icon": "https://carepositive.com/wp-content/uploads/2021/05/CarePositiveLogo-2.jpg",
-        "Redirect": "https://carepositive.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://carepositive.com/"
-    },
-    {
         "link": "https://dein-echo.de",
         "Heading": "Echo: Premium-H\u00f6rger\u00e4te online kaufen \u2b50\ufe0f 30 Tage Testen",
         "Abstract": "Echo: Premiumklasse-H\u00f6rger\u00e4te zum Nulltarif Online Bestellen \u00bb Bestnote \"SEHR GUT \u2713 5/5 Sterne von Kunden \u2713 Jetzt 30 Tage testen \u00bb",
@@ -148,16 +138,6 @@
         "Redirect": "https://www.chilliremovals.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.chilliremovals.com.au"
-    },
-    {
-        "link": "https://wosoft.ru",
-        "Heading": "Hi-Tech \u043d\u043e\u0432\u043e\u0441\u0442\u0438, \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438, \u043d\u0430\u0443\u043a\u0430, \u043c\u0438\u0440\u043e\u0432\u044b\u0435 \u043d\u043e\u043e\u0432\u0441\u0442\u0438 \u043d\u0430 WOSOFT.RU",
-        "Abstract": "\u0421\u0430\u043c\u044b\u0435 \u0441\u0432\u0435\u0436\u0438\u0435 Hi-Tech \u043d\u043e\u0432\u043e\u0441\u0442\u0438, \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u043d\u0430\u0443\u043a\u0438 \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439, \u043f\u0440\u043e\u0447\u0438\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438, \u0447\u0438\u0442\u0430\u0439\u0442\u0435 \u043d\u0430 WOSOFT.RU.",
-        "Official Site": "https://wosoft.ru",
-        "Icon": "//wosoft.ru/favicon.ico",
-        "Redirect": "https://wosoft.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wosoft.ru"
     },
     {
         "link": "https://golftroop.com",
@@ -298,16 +278,6 @@
         "Redirect": "https://wiebiedtermeer.nl/vi-vn/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wiebiedtermeer.nl/vi-vn/"
-    },
-    {
-        "link": "https://achenet.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://achenet.org",
-        "Icon": "N/A",
-        "Redirect": "https://achenet.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://achenet.org"
     },
     {
         "link": "https://upnorthradio.com",

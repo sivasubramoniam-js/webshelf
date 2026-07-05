@@ -70,16 +70,6 @@
         "AbstractURL": "https://cartedipagamento.com"
     },
     {
-        "link": "https://californiabankofcommerce.com",
-        "Heading": "We Bank on Business - home page - California Bank of Commerce",
-        "Abstract": "We Mean Business Yours We Built Our Business Around Serving Yours Your Business Our Priority We Mean Business Yours We Built Our Business Around Serving Yours Your Business Our Priority Welcome At California Bank of Commerce, N.A., we believe the most successful business banking relationships are built on mutual trust, focused expertise and deeply tailored [\u2026]",
-        "Official Site": "https://californiabankofcommerce.com/",
-        "Icon": "https://californiabankofcommerce.com/wp-content/uploads/2022/11/CBC-Logo-CMYK-scaled.jpg",
-        "Redirect": "https://californiabankofcommerce.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://californiabankofcommerce.com/"
-    },
-    {
         "link": "https://dfact.xyz",
         "Heading": "Domain Default page",
         "Abstract": null,
@@ -88,26 +78,6 @@
         "Redirect": "https://dfact.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dfact.xyz"
-    },
-    {
-        "link": "https://woozulu.de",
-        "Heading": "woozulu | Online-Marketing aus echter Praxiserfahrung",
-        "Abstract": "woozulu hilft lokalen Unternehmen online sichtbar zu werden. Website-Erstellung, SEO & strategische Beratung.",
-        "Official Site": "https://woozulu.de",
-        "Icon": "https://www.woozulu.de/og-woozulu.webp",
-        "Redirect": "https://woozulu.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://woozulu.de"
-    },
-    {
-        "link": "https://mariovittone.com",
-        "Heading": "Mario Vittone \u2013 A fair estimation of the encountered peril.",
-        "Abstract": null,
-        "Official Site": "https://mariovittone.com",
-        "Icon": "https://mariovittone.com/wp-content/uploads/2024/03/Header-Logo.svg",
-        "Redirect": "https://mariovittone.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mariovittone.com"
     },
     {
         "link": "https://viledaprof.ru",
@@ -128,6 +98,16 @@
         "Redirect": "https://eldoradosfun.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eldoradosfun.xyz"
+    },
+    {
+        "link": "https://disruptorleague.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://disruptorleague.com",
+        "Icon": "data:;",
+        "Redirect": "https://disruptorleague.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://disruptorleague.com"
     },
     {
         "link": "https://noidea.dog",
@@ -184,10 +164,20 @@
         "Heading": "Asian Film Festivals \u2013 Connecting Asian Film Festivals to the World",
         "Abstract": "Connecting Asian Film Festivals to the World",
         "Official Site": "https://asianfilmfestivals.com/",
-        "Icon": "https://secure.gravatar.com/blavatar/96bc9cc8a70c70551d0abc154c91a49953954633c380451847b4fa8c30f465cd?s=200&ts=1783136478",
+        "Icon": "https://secure.gravatar.com/blavatar/96bc9cc8a70c70551d0abc154c91a49953954633c380451847b4fa8c30f465cd?s=200&ts=1783199053",
         "Redirect": "https://asianfilmfestivals.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://asianfilmfestivals.com/"
+    },
+    {
+        "link": "https://connectedhomeip.com",
+        "Heading": "CSA - Matter, Zigbee & Aliro - Connectivity Standards Alliance",
+        "Abstract": "Building the foundation and future of the IoT. Discover how the CSA creates and certifies open, interoperable smart standards like Matter, Zigbee, and Aliro.",
+        "Official Site": "https://csa-iot.org/",
+        "Icon": "https://csa-iot.org/wp-content/uploads/2025/03/home-hero-superconnector-draft-1-1.png",
+        "Redirect": "https://csa-iot.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://csa-iot.org/"
     },
     {
         "link": "https://bnbarchery.com",

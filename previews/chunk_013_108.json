@@ -30,16 +30,6 @@
         "AbstractURL": "https://tennents.com"
     },
     {
-        "link": "https://eightymphmom.com",
-        "Heading": "Home New - Eighty MPH Mom",
-        "Abstract": "Eighty MPH Mom is a modern mommy blog recipes for busy women who do it all. Explore easy recipes, product reviews, money and shopping.",
-        "Official Site": "https://eightymphmom.com/",
-        "Icon": "https://eightymphmom.com/wp-content/uploads/2025/06/cropped-New-80mphmom-logo.png",
-        "Redirect": "https://eightymphmom.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eightymphmom.com/"
-    },
-    {
         "link": "https://purenow.com",
         "Heading": "Premium Hemp & Wellness Products Since 2014 | Pure Now",
         "Abstract": "Shop top-rated CBD and Delta 8 products for health.",
@@ -230,14 +220,24 @@
         "AbstractURL": "https://www.nolapro.com/"
     },
     {
+        "link": "https://oshatraining.com",
+        "Heading": "OSHA Training",
+        "Abstract": "Obtain OSHA training certification. OSHA 10-hour and 30-hour courses, confined space, competent person. On-site classes or online courses.",
+        "Official Site": "https://oshatraining.com/",
+        "Icon": "https://oshatraining.com/wp-content/uploads/OSHA-Authorized-Training.jpg",
+        "Redirect": "https://oshatraining.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oshatraining.com/"
+    },
+    {
         "link": "https://gadgetraffle.com",
         "Heading": "Gadget Raffle | Gadget Raffle and inspirations",
         "Abstract": "Gadget Raffle and inspirations.",
-        "Official Site": "https://gadgetraffle.com/",
+        "Official Site": "http://gadgetraffle.com/",
         "Icon": "/wp-content/uploads/2026/02/Final-01.png",
-        "Redirect": "https://gadgetraffle.com/",
+        "Redirect": "http://gadgetraffle.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gadgetraffle.com/"
+        "AbstractURL": "http://gadgetraffle.com/"
     },
     {
         "link": "https://holypals.com",

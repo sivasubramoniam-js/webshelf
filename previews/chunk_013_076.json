@@ -71,13 +71,13 @@
     },
     {
         "link": "https://brooks-re.com",
-        "Heading": "Property Management & Real Estate in Williamsburg, VA | Brooks Real Estate",
-        "Abstract": "Experience a personalized approach to Williamsburg property management, HOA management, and real estate in Hampton Roads.",
-        "Official Site": "https://brooks-re.com/",
-        "Icon": "https://brooks-re.com/wp-content/uploads/2024/09/bre-logo-horizontal.png",
-        "Redirect": "https://brooks-re.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://brooks-re.com",
+        "Icon": "data:;",
+        "Redirect": "https://brooks-re.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://brooks-re.com/"
+        "AbstractURL": "https://brooks-re.com"
     },
     {
         "link": "https://suicide-ecoute.fr",
@@ -90,16 +90,6 @@
         "AbstractURL": "https://www.suicide-ecoute.fr/"
     },
     {
-        "link": "https://shepleybulfinch.com",
-        "Heading": "Shepley Bulfinch - National Architecture Firm",
-        "Abstract": "National Architecture Firm in Boston, MA, Durham, NC, Hartford, CT, Houston, TX, and Phoenix, AZ",
-        "Official Site": "https://shepleybulfinch.com/",
-        "Icon": "https://shepleybulfinch.com/wp-content/uploads/2021/12/04557_000_N116_1954x2070_acf_cropped-6-977x1035-c-default.jpg",
-        "Redirect": "https://shepleybulfinch.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shepleybulfinch.com/"
-    },
-    {
         "link": "https://ctbe.fr",
         "Heading": "Betify France \u2013 Casino en ligne, paris sportifs et application mobile",
         "Abstract": "D\u00e9couvrez Betify France \ud83c\uddeb\ud83c\uddf7 : casino en ligne, paris sportifs, bonus exclusifs et application mobile. Inscrivez-vous, utilisez un code promo Betify et profitez de retraits rapides et s\u00e9curis\u00e9s.",
@@ -110,16 +100,6 @@
         "AbstractURL": "https://cycle-volt.fr/"
     },
     {
-        "link": "https://resumemaker.online",
-        "Heading": "Resume Maker Online: Free Resume Maker (Powered by AI \u2727)",
-        "Abstract": "Turn hours of work into just minutes with AI \u2013 less typing, more applying!",
-        "Official Site": "https://www.resumemaker.online/",
-        "Icon": "https://www.resumemaker.online/img/twittercard.jpg",
-        "Redirect": "https://www.resumemaker.online/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.resumemaker.online/"
-    },
-    {
         "link": "https://audio-transcoder.com",
         "Heading": "Audio Transcoder: Audio Converter, CDA to MP3 Converter",
         "Abstract": "Audio Converter, CD Ripper, Audio Grabber, MP3 Converter",
@@ -128,6 +108,16 @@
         "Redirect": "https://audio-transcoder.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://audio-transcoder.com"
+    },
+    {
+        "link": "https://navacenter.com",
+        "Heading": "Functional Medicine & Longevity Wellness Centers \u2013 Nava Health",
+        "Abstract": "Nava Health connects you to functional medicine doctors who treat the whole you, not just your symptoms. Click here to learn more.",
+        "Official Site": "https://navacenter.com/",
+        "Icon": "https://navacenter.com/wp-content/uploads/2025/12/favicon.png",
+        "Redirect": "https://navacenter.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://navacenter.com/"
     },
     {
         "link": "https://johnholland.com.au",
@@ -178,16 +168,6 @@
         "Redirect": "https://raredisease.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://raredisease.cn"
-    },
-    {
-        "link": "https://willcookforfriends.com",
-        "Heading": "A2 Hosting, Inc. \u00bb Web Hosting Grown Up",
-        "Abstract": null,
-        "Official Site": "https://willcookforfriends.com",
-        "Icon": "N/A",
-        "Redirect": "https://willcookforfriends.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://willcookforfriends.com"
     },
     {
         "link": "https://finglobalapp.com",
@@ -258,16 +238,6 @@
         "Redirect": "https://delivery-manager.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://delivery-manager.ru"
-    },
-    {
-        "link": "https://maplisting.co.uk",
-        "Heading": "Leading Digital Marketing Agency Hayes,West London,Google Maps Management Company Hayes | Maplisting",
-        "Abstract": "Maplisting is a leading Digital Marketing Agency Hayes, West London and Best Google Maps Management Company Hayes based in West London. Grow Online via ,Google Maplisting.",
-        "Official Site": "https://www.maplisting.co.uk/",
-        "Icon": "https://www.maplisting.co.uk/wp-content/uploads/2020/05/cropped-favicon-32x32.png",
-        "Redirect": "https://www.maplisting.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.maplisting.co.uk/"
     },
     {
         "link": "https://nul20.nl",

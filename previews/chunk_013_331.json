@@ -60,14 +60,14 @@
         "AbstractURL": "https://suiteapp.com"
     },
     {
-        "link": "https://amazonrelayit.com",
-        "Heading": "Amazon Relay IT",
+        "link": "https://ms12.ru",
+        "Heading": "Authorization",
         "Abstract": null,
-        "Official Site": "https://amazonrelayit.com",
-        "Icon": "N/A",
-        "Redirect": "https://amazonrelayit.com",
+        "Official Site": "https://ms12.ru",
+        "Icon": "/manimg/dragon/default/favicon-ispmgr.ico",
+        "Redirect": "https://ms12.ru",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://amazonrelayit.com"
+        "AbstractURL": "https://ms12.ru"
     },
     {
         "link": "https://thediscourse.ca",
@@ -98,16 +98,6 @@
         "Redirect": "https://www.scarlethotel.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.scarlethotel.co.uk/"
-    },
-    {
-        "link": "https://rskm.pro",
-        "Heading": "Ruskompromat",
-        "Abstract": "RUSKOMPROMAT",
-        "Official Site": "https://rskm.pro/",
-        "Icon": "https://ruskompromat.info/ruskompromat.jpg",
-        "Redirect": "https://rskm.pro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rskm.pro/"
     },
     {
         "link": "https://bakirkoy.bel.tr",
@@ -158,16 +148,6 @@
         "Redirect": "https://toptanmaviyengec.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://toptanmaviyengec.com/"
-    },
-    {
-        "link": "https://termedeipapi.it",
-        "Heading": "Home Page - Terme dei Papi Viterbo | Terme & Cosmetici Termali",
-        "Abstract": "Scopri le terme storiche di Viterbo e i cosmetici al fango e acqua termale del Bullicame. Made in Italy, dermatologicamente testati.",
-        "Official Site": "https://termedeipapi.it/",
-        "Icon": "https://termedeipapi.it/wp-content/uploads/2021/02/cropped-cropped-Terme-dei-papi-off.-positivo-2-1-32x32.png",
-        "Redirect": "https://termedeipapi.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://termedeipapi.it/"
     },
     {
         "link": "https://summix.biz",

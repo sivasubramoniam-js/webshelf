@@ -20,16 +20,6 @@
         "AbstractURL": "https://morningstarbookstore.com/"
     },
     {
-        "link": "https://motorcitygmc.com",
-        "Heading": "Motor City Buick GMC In Bakersfield, CA",
-        "Abstract": "Visit Motor City Buick GMC in Bakersfield for your next new or used Buick or GMC vehicle. Contact us today to schedule a test drive!",
-        "Official Site": "https://www.motorcitygmc.com/",
-        "Icon": "/static/v8/global/images/site-favicon-default.ico?r=1782782655000",
-        "Redirect": "https://www.motorcitygmc.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.motorcitygmc.com/"
-    },
-    {
         "link": "https://mpchealthcare.com",
         "Heading": "MPC Healthcare \u2013 Integrated Healthcare Solutions",
         "Abstract": null,
@@ -58,16 +48,6 @@
         "Redirect": "https://mumoh-wol.store",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mumoh-wol.store"
-    },
-    {
-        "link": "https://musicalheritage.org",
-        "Heading": "MUSICAL HERITAGE ORGANIZATION",
-        "Abstract": null,
-        "Official Site": "https://musicalheritage.org",
-        "Icon": "/images/favicon.ico",
-        "Redirect": "https://musicalheritage.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://musicalheritage.org"
     },
     {
         "link": "https://mustome.com",
@@ -141,10 +121,10 @@
     },
     {
         "link": "https://myprelovedtiffany.com",
-        "Heading": "MyPrelovedTiffany - Authenticated Preloved Tiffany & Co.",
-        "Abstract": "We are a pre-owned / second-hand branded store specializing in T&Co. jewelries. We have a zero-tolerance policy for counterfeits and we strive to play our part in battling against the counterfeit market. Shop with confidence, pay less for the same product.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://myprelovedtiffany.com",
-        "Icon": "/favicon-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://myprelovedtiffany.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myprelovedtiffany.com"
@@ -208,16 +188,6 @@
         "Redirect": "https://www.natalianeverko.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.natalianeverko.com/"
-    },
-    {
-        "link": "https://natural-e.co.jp",
-        "Heading": "\u65e5\u672c\u81ea\u7136\u30a8\u30cd\u30eb\u30ae\u30fc\u682a\u5f0f\u4f1a\u793e",
-        "Abstract": null,
-        "Official Site": "https://www.natural-e.co.jp/",
-        "Icon": "http://natural-e.co.jp/wp-content/uploads/2025/11/ogp.png",
-        "Redirect": "https://www.natural-e.co.jp/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.natural-e.co.jp/"
     },
     {
         "link": "https://nautiluspuzzles.com",

@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://thekitchykitchen.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://thekitchykitchen.com",
+        "Icon": "data:;",
+        "Redirect": "https://thekitchykitchen.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thekitchykitchen.com"
+    },
+    {
         "link": "https://casavieja-restaurant.com",
         "Heading": "Casa Vieja - Canyon Country, Santa Clarita, CA",
         "Abstract": "Built around tradition and everyday comfort, this bar and grill brings people together over a broad menu that reflects both classic house favorites and seafood specialties. Casa Vieja serves...",
@@ -38,16 +48,6 @@
         "Redirect": "https://ren-finthra.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ren-finthra.net/"
-    },
-    {
-        "link": "https://zevraen.space",
-        "Heading": "Zevraen",
-        "Abstract": null,
-        "Official Site": "https://zevraen.space",
-        "Icon": "N/A",
-        "Redirect": "https://zevraen.space",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zevraen.space"
     },
     {
         "link": "https://clesana.com",
@@ -121,13 +121,13 @@
     },
     {
         "link": "https://reasonandmeaning.com",
-        "Heading": "Reason and Meaning | Philosophical reflections on life, death, and the  meaning of life",
-        "Abstract": "Philosophical reflections on life, death, and the  meaning of life",
-        "Official Site": "https://reasonandmeaning.com/",
-        "Icon": "https://i0.wp.com/reasonandmeaning.com/wp-content/uploads/2015/01/theThinkerIcon-54b03aa4v1_site_icon.png?fit=512%2C512&ssl=1",
-        "Redirect": "https://reasonandmeaning.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://reasonandmeaning.com",
+        "Icon": "data:;",
+        "Redirect": "https://reasonandmeaning.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://reasonandmeaning.com/"
+        "AbstractURL": "https://reasonandmeaning.com"
     },
     {
         "link": "https://gokhalemethod.com",
@@ -228,15 +228,5 @@
         "Redirect": "https://mdxczx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mdxczx.com"
-    },
-    {
-        "link": "https://crossingsbrewpub.com",
-        "Heading": "TANGANDEWA: Situs Link Slot Gacor Slot88 Banyak Scatter Hari Ini Slot777 Maxwin",
-        "Abstract": "TANGANDEWA adalah situs link slot gacor terpercaya di Indonesia telah diakui ribuan pengguna slot88 menghadirkan fitur terbaru dari slot777 gampang scatter hari ini.",
-        "Official Site": "https://flamingolandings.com/menu/",
-        "Icon": "https://flamingolandings.com/gambar/favi.png",
-        "Redirect": "https://flamingolandings.com/menu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://flamingolandings.com/menu/"
     }
 ]

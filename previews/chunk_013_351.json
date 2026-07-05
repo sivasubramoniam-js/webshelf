@@ -100,6 +100,16 @@
         "AbstractURL": "https://0225.ru"
     },
     {
+        "link": "https://greyston.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://greyston.org",
+        "Icon": "data:;",
+        "Redirect": "https://greyston.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greyston.org"
+    },
+    {
         "link": "https://sma-sunny.com",
         "Heading": "SMA Blog",
         "Abstract": "Sunny ist der Blog der SMA Solar Technology AG. Als Spezialist f\u00fcr solare Systemtechnik schreiben wir \u00fcber den Einsatz unserer Produkte, geben Tipps f\u00fcr eine autarke solare Stromversorgung und gew\u00e4hren Blicke hinter die Kulissen des Unternehmens.",
@@ -108,16 +118,6 @@
         "Redirect": "https://www.sma-sunny.com/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sma-sunny.com/en/"
-    },
-    {
-        "link": "https://opavanex.com",
-        "Heading": "Home | Opavanex",
-        "Abstract": "Live Charts with Indicators, Foreign Exchange Market Trading Methods, Hours, Sessions, & Plans, Major and Minor Pairs Currency, Bullish and Bearish Divergence.",
-        "Official Site": "./",
-        "Icon": "./assets/images/favicon.png",
-        "Redirect": "./",
-        "AbstractSource": "BS4",
-        "AbstractURL": "./"
     },
     {
         "link": "https://ifrbanking.ru",
@@ -170,16 +170,6 @@
         "AbstractURL": "https://openbgpd.org"
     },
     {
-        "link": "https://royalelectric.pk",
-        "Heading": "Royal Electric",
-        "Abstract": "Royal Electric",
-        "Official Site": "https://royalelectric.pk/",
-        "Icon": "https://royalelectric.pk/wp-content/uploads/2023/02/farhan2.jpg",
-        "Redirect": "https://royalelectric.pk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://royalelectric.pk/"
-    },
-    {
         "link": "https://wildlandsnetwork.org",
         "Heading": "Home - Wildlands Network",
         "Abstract": "Rewild North America. We\u2019re rebuilding the natural connections that let wildlife roam, ecosystems thrive, and life flourish across a continent.",
@@ -188,16 +178,6 @@
         "Redirect": "https://wildlandsnetwork.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wildlandsnetwork.org/"
-    },
-    {
-        "link": "https://creamosel.com",
-        "Heading": "Inicio",
-        "Abstract": null,
-        "Official Site": "https://creamosel.com",
-        "Icon": "N/A",
-        "Redirect": "https://creamosel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://creamosel.com"
     },
     {
         "link": "https://global-reparatur.de",
@@ -248,16 +228,6 @@
         "Redirect": "https://skywarn.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://skywarn.org"
-    },
-    {
-        "link": "https://duecker.com",
-        "Heading": "D\u00fccker - Experten f\u00fcr innovative und zuverl\u00e4ssige F\u00f6rdersysteme",
-        "Abstract": "D\u00fccker conveyor systems \u2013 Experten f\u00fcr vollautomatisierte Intralogistikl\u00f6sungen. Wir entwickeln innovative Konzepte und optimierte L\u00f6sungen f\u00fcr jede Branche.",
-        "Official Site": "https://www.duecker.com/de/",
-        "Icon": "https://www.duecker.com/files/bilder/favicon.png",
-        "Redirect": "https://www.duecker.com/de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.duecker.com/de/"
     },
     {
         "link": "https://koukalgroupe.fr",

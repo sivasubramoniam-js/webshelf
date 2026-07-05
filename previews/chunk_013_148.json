@@ -30,16 +30,6 @@
         "AbstractURL": "https://yourmoscow.ru/"
     },
     {
-        "link": "https://actorsulamec.xyz",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://actorsulamec.xyz",
-        "Icon": "N/A",
-        "Redirect": "https://actorsulamec.xyz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://actorsulamec.xyz"
-    },
-    {
         "link": "https://airpodshq.lt",
         "Heading": "Top parduotuv\u0117 ~ Airpodshq.lt",
         "Abstract": null,
@@ -48,16 +38,6 @@
         "Redirect": "https://airpodshq.lt",
         "AbstractSource": "BS4",
         "AbstractURL": "https://airpodshq.lt"
-    },
-    {
-        "link": "https://tummath.com",
-        "Heading": "Tum Math",
-        "Abstract": null,
-        "Official Site": "https://tummath.com",
-        "Icon": "N/A",
-        "Redirect": "https://tummath.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tummath.com"
     },
     {
         "link": "https://sendai-kousei-hospital.jp",
@@ -71,13 +51,13 @@
     },
     {
         "link": "https://vv411.com",
-        "Heading": "VV411 - Victor Valley 411",
-        "Abstract": "Come and join the Victor Valley 411 community. Expand your network and get to know new local people!",
-        "Official Site": "https://vv411.com/",
-        "Icon": "https://vv411.com/wp-content/uploads/2023/01/Dark-Blue-Red-White-Generic-News-General-News-Logo-600-\u00d7-900-px-Facebook-Cover.png",
-        "Redirect": "https://vv411.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://vv411.com",
+        "Icon": "data:;",
+        "Redirect": "https://vv411.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vv411.com/"
+        "AbstractURL": "https://vv411.com"
     },
     {
         "link": "https://evan-roth.com",
@@ -220,16 +200,6 @@
         "AbstractURL": "https://aicafe.ru"
     },
     {
-        "link": "https://urbanecafe.com",
-        "Heading": "Urbane Cafe",
-        "Abstract": "Visit Urbane Cafe for lunch or dinner and you'll discover a fast, affordable restaurant serving delicious gourmet sandwiches and fresh, healthy salads.",
-        "Official Site": "https://urbanecafe.com/",
-        "Icon": "https://urbanecafe.com/wp-content/uploads/2019/12/19_Urbane_TableFlatLay-1759_web.jpg",
-        "Redirect": "https://urbanecafe.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://urbanecafe.com/"
-    },
-    {
         "link": "https://workwithpride.jp",
         "Heading": "work with Pride - Home",
         "Abstract": "work with Pride\u306f\u3001\u4f01\u696d\u7b49\u306e\u67a0\u7d44\u307f\u3092\u8d85\u3048\u3066\u3001LGBT\u304c\u50cd\u304d\u3084\u3059\u3044\u8077\u5834\u3065\u304f\u308a\u3092\u76ee\u6307\u3057\u307e\u3059\u3002",
@@ -281,23 +251,13 @@
     },
     {
         "link": "https://achology.com",
-        "Heading": "Achology: Pioneering a New Way in Psychology-Based Education",
-        "Abstract": "Achology offers 28 insightful, psychology-based e-learning courses designed to deepen self-awareness and foster a greater understanding of other people.",
-        "Official Site": "https://achology.com/",
-        "Icon": "https://cdn.achology.com/wp-content/uploads/20250520144600/Achology-Home-Page-Featured-Image.jpg",
-        "Redirect": "https://achology.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://achology.com/"
-    },
-    {
-        "link": "https://priligy.me",
-        "Heading": "Media Web PM",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://priligy.me",
-        "Icon": "N/A",
-        "Redirect": "https://priligy.me",
+        "Official Site": "https://achology.com",
+        "Icon": "data:;",
+        "Redirect": "https://achology.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://priligy.me"
+        "AbstractURL": "https://achology.com"
     },
     {
         "link": "https://schloss-drachenburg.de",
@@ -310,16 +270,6 @@
         "AbstractURL": "https://www.schloss-drachenburg.de/de/"
     },
     {
-        "link": "https://amaniafrica-et.org",
-        "Heading": "Home - Amani Africa",
-        "Abstract": null,
-        "Official Site": "https://amaniafrica-et.org/",
-        "Icon": "https://amaniafrica-et.org/wp-content/uploads/2021/05/cropped-FavIcon-32x32.png",
-        "Redirect": "https://amaniafrica-et.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://amaniafrica-et.org/"
-    },
-    {
         "link": "https://fxopenaffiliate.com",
         "Heading": "Forex Affiliate & Partnership Program | Become a Forex Affiliate | FXOpen",
         "Abstract": "Become a Forex Affiliate with FXOpen Forex Broker - Forex Partnership Program. Multilevel Partnership. Partnership Program for PAMM and White Label.",
@@ -328,15 +278,5 @@
         "Redirect": "https://fxopenaffiliate.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fxopenaffiliate.com/"
-    },
-    {
-        "link": "https://ielts-simon.com",
-        "Heading": "IELTS Simon | Homepage",
-        "Abstract": null,
-        "Official Site": "https://ielts-simon.com",
-        "Icon": "https://ielts-simon.com/wp-content/uploads/2025/11/cropped-Logo-1-32x32.png",
-        "Redirect": "https://ielts-simon.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ielts-simon.com"
     }
 ]

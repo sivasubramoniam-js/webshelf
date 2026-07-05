@@ -10,16 +10,6 @@
         "AbstractURL": "https://banca-transilvania.com/"
     },
     {
-        "link": "https://worldgate.com",
-        "Heading": "The Internet Centre | Internet, Phone, Hosting & Wholesale in Edmonton",
-        "Abstract": "Edmonton's locally owned internet, phone, web hosting and wholesale provider, with real local support. See our plans and pricing.",
-        "Official Site": "https://incentre.net/",
-        "Icon": "https://incentre.net/wp-content/uploads/2026/06/incentre-og-card.png",
-        "Redirect": "https://incentre.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://incentre.net/"
-    },
-    {
         "link": "https://medsprawo4ka.ru",
         "Heading": "\u0411\u0430\u0437\u0430 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439",
         "Abstract": "\u0411\u0430\u0437\u0430 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439. \u041a\u0430\u0442\u0430\u043b\u043e\u0433 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0439 \u0441 \u043a\u043e\u043d\u0442\u0430\u043a\u0442\u043d\u044b\u043c\u0438 \u0434\u0430\u043d\u043d\u044b\u043c\u0438.",
@@ -98,6 +88,16 @@
         "Redirect": "https://bankzweiplus.ch",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bankzweiplus.ch"
+    },
+    {
+        "link": "https://elcastillodelamas.com",
+        "Heading": "El Castillo de Lamas \u2013 Bienvenidos al Castillo de Lamas",
+        "Abstract": null,
+        "Official Site": "https://elcastillodelamas.com",
+        "Icon": "https://elcastillodelamas.com/wp-content/uploads/2021/04/cropped-LOGO-CASTILLO-DE-LAMAS-32x32.png",
+        "Redirect": "https://elcastillodelamas.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elcastillodelamas.com"
     },
     {
         "link": "https://cbkps.com",
@@ -191,10 +191,10 @@
     },
     {
         "link": "https://gdairmechanical.com",
-        "Heading": "GD AIR MECHANICAL  \u2013 Fair rates. Quality work. Outstanding heating, cooling and plumbing services.",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://gdairmechanical.com",
-        "Icon": "//gdairmechanical.com/wp-content/uploads/2022/03/logo-preview.png",
+        "Icon": "N/A",
         "Redirect": "https://gdairmechanical.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gdairmechanical.com"
@@ -218,16 +218,6 @@
         "Redirect": "https://artstyle.ne.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://artstyle.ne.jp/"
-    },
-    {
-        "link": "https://pusatcloud.com",
-        "Heading": "Welcome to Hi-TechMall.ORG - Go create your Own Group blog event calendar and others",
-        "Abstract": "Hi-Tech Product News, Reviews, and enjoy buy online at our Web-store client",
-        "Official Site": "https://pusatcloud.com",
-        "Icon": "N/A",
-        "Redirect": "https://pusatcloud.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pusatcloud.com"
     },
     {
         "link": "https://totallyfurniture.com",

@@ -24,7 +24,7 @@
         "Heading": "La Xarxa - Portada",
         "Abstract": "Som una plataforma multim\u00e8dia que proporciona continguts i serveis a m\u00e9s de 200 r\u00e0dios, televisions i mitjans en l\u00ednia locals d\u2019arreu de Catalunya. Treballem perqu\u00e8 aquests mitjans..",
         "Official Site": "https:\\www.laxarxa.cat/",
-        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1783138224516",
+        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1783225099174",
         "Redirect": "https:\\www.laxarxa.cat/",
         "AbstractSource": "BS4",
         "AbstractURL": "https:\\www.laxarxa.cat/"
@@ -98,16 +98,6 @@
         "Redirect": "https://www.crystalmissions.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.crystalmissions.com/"
-    },
-    {
-        "link": "https://ilass.com.br",
-        "Heading": "Ilass \u2013 Instituto Latino Americano de Sexologia Som\u00e1tica",
-        "Abstract": null,
-        "Official Site": "https://ilass.com.br",
-        "Icon": "https://ilass.com.br/wp-content/uploads/2025/04/cropped-logo_ilass-32x32.png",
-        "Redirect": "https://ilass.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ilass.com.br"
     },
     {
         "link": "https://caktusgroup.com",
@@ -251,13 +241,13 @@
     },
     {
         "link": "https://freecoursefunding.co.uk",
-        "Heading": "Home -",
-        "Abstract": "Discover opportunities for free course funding in London. Explore options for financial support to help you advance your education.",
-        "Official Site": "https://freecoursefunding.co.uk/",
-        "Icon": "http://freecoursefunding.co.uk/wp-content/uploads/2024/04/manager-free-img-1.png",
-        "Redirect": "https://freecoursefunding.co.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://freecoursefunding.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://freecoursefunding.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://freecoursefunding.co.uk/"
+        "AbstractURL": "https://freecoursefunding.co.uk"
     },
     {
         "link": "https://basenczluchow.pl",

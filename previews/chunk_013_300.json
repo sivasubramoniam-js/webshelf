@@ -60,14 +60,14 @@
         "AbstractURL": "https://afs-linden.de"
     },
     {
-        "link": "https://cibap.nl",
-        "Heading": "Cibap | Creatieve vakschool voor vormgeving",
-        "Abstract": "Op zoek naar een creatieve mbo-opleiding? Cibap is d\u00e9 creatieve vakschool in Zwolle. Met opleidingen van filmmaker tot meubelontwerper, interieurstylist etc.",
-        "Official Site": "https://www.cibap.nl/",
-        "Icon": "https://www.cibap.nl/wp-content/uploads/2024/02/Cibap-specialist-schilder-home-foto-2-1024x576.png",
-        "Redirect": "https://www.cibap.nl/",
+        "link": "https://zutterdesign.com",
+        "Heading": "Zutter Design:",
+        "Abstract": null,
+        "Official Site": "https://zutterdesign.com",
+        "Icon": "/images/tabicon.png",
+        "Redirect": "https://zutterdesign.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cibap.nl/"
+        "AbstractURL": "https://zutterdesign.com"
     },
     {
         "link": "https://depaulcharity.org",
@@ -90,6 +90,16 @@
         "AbstractURL": "http://localhost:8080/"
     },
     {
+        "link": "https://yunasoft.com",
+        "Heading": "YunaSoft",
+        "Abstract": "Are you super busy? Calendar King is the most powerful you'll ever have in a calendar app and makes your daily calendar come alive. It also supports powerful features like Checklist, Notes app, Stickers for iMessage, Designed Marker and Stickers, Widget, Class Time-Table, Custom icon and theme color and so on. \"STICK IT\" ON THE\u2026",
+        "Official Site": "https://yunasoft.com/",
+        "Icon": "https://yunasoft.com/wp-content/uploads/2020/07/computer-2982270_1920.jpg",
+        "Redirect": "https://yunasoft.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yunasoft.com/"
+    },
+    {
         "link": "https://dpservicesfl.com",
         "Heading": "Emergency Plumbing Company, HVAC Repair, AC Maintenance & Installation Services in Fort Myers, Cape Coral, Daytona Beach, FL - Diversified Plumbing Services of SW Florida",
         "Abstract": "Diversified Plumbing Services provides complete plumbing and rooter services for residential and commercial properties throughout Lee County, Collier, Volusia and Flagler. Schedule a service or call us today!",
@@ -101,13 +111,13 @@
     },
     {
         "link": "https://sakuraofamerica.com",
-        "Heading": "Home - Sakura of America",
-        "Abstract": "We produce quality art supplies and products with only the best materials so that you are able to express yourself and unlock your unique creative potential.",
-        "Official Site": "https://www.sakuraofamerica.com/",
-        "Icon": "https://www.sakuraofamerica.com/wp-content/uploads/2020/06/Thumbnail-Pens-1.jpg",
-        "Redirect": "https://www.sakuraofamerica.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sakuraofamerica.com",
+        "Icon": "data:;",
+        "Redirect": "https://sakuraofamerica.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sakuraofamerica.com/"
+        "AbstractURL": "https://sakuraofamerica.com"
     },
     {
         "link": "https://article29.cc",
@@ -191,23 +201,13 @@
     },
     {
         "link": "https://houseofcarmen.app",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "House of Carmen",
+        "Abstract": "House of Carmen",
         "Official Site": "https://houseofcarmen.app",
         "Icon": "N/A",
         "Redirect": "https://houseofcarmen.app",
         "AbstractSource": "BS4",
         "AbstractURL": "https://houseofcarmen.app"
-    },
-    {
-        "link": "https://affi-search.com",
-        "Heading": "\u63d0\u643a\u5148\u306e\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8ASP\u3092\u63a2\u3059\u306a\u3089\u300c\u30a2\u30d5\u30a3\u30b5\u30fc\u30c1\u300d",
-        "Abstract": "",
-        "Official Site": "https://affi-search.com/",
-        "Icon": "https://affi-search.com/wp-content/uploads/2022/01/affisearchogp.jpg",
-        "Redirect": "https://affi-search.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://affi-search.com/"
     },
     {
         "link": "https://puertosdetenerife.org",
@@ -288,25 +288,5 @@
         "Redirect": "https://hornymaturefuck.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hornymaturefuck.com"
-    },
-    {
-        "link": "https://apxforx.pro",
-        "Heading": "Apex forex",
-        "Abstract": "Sign up With Apex forex to join thousands of traders currently benefiting from high leveraged full STP/ECN CFD trading with zero conflict of interest through tier one liquidity.",
-        "Official Site": "https://apxforx.pro",
-        "Icon": "https://apxforx.pro/storage/app/public/photos/weYBvjIkd7FHiVThiIdLVMXvpmlrBLfbwYESz6g5.png",
-        "Redirect": "https://apxforx.pro",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://apxforx.pro"
-    },
-    {
-        "link": "https://peacediplomacy.org",
-        "Heading": "Home - The Institute for Peace and Diplomacy - l\u2019Institut pour la paix et la diplomatie",
-        "Abstract": "The Next Phase of the Iran War: Infrastructure as the Battlefield? \u201cSystematically weakening state capacities leads not only to a reduction in existing efficiency, but also to a weakening of the institutions [\u2026]",
-        "Official Site": "https://peacediplomacy.org/",
-        "Icon": "https://peacediplomacy.org/wp-content/uploads/2026/06/President_Donald_Trump_updates_members_of_the_media_on_the_rescue_of_missing_U.S._airmen_in_Iran_P20260406DT-2801.jpg",
-        "Redirect": "https://peacediplomacy.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://peacediplomacy.org/"
     }
 ]
