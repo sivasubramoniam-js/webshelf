@@ -80,14 +80,24 @@
         "AbstractURL": "https://www.fermedubec.com/"
     },
     {
-        "link": "https://spectropop.com",
-        "Heading": "Spectropop! The website about Phil Spector, Wall of Sound, Brill Building, \nGirl Groups, West Coast",
-        "Abstract": "All the great pop music of the 60s, and home\nof the mailing list for fans of 60s pop music",
-        "Official Site": "https://spectropop.com",
-        "Icon": "N/A",
-        "Redirect": "https://spectropop.com",
+        "link": "https://it-people.co.za",
+        "Heading": "CREATING BETTER IT SOLUTIONS - IT People",
+        "Abstract": "We assist companies with their IT support, custom software design, web applications, graphic design & digital marketing.",
+        "Official Site": "https://www.itpeople.co.za/",
+        "Icon": "https://www.itpeople.co.za/wp-content/uploads/2023/06/it-favicon.png",
+        "Redirect": "https://www.itpeople.co.za/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://spectropop.com"
+        "AbstractURL": "https://www.itpeople.co.za/"
+    },
+    {
+        "link": "https://reddalfsresorts.com",
+        "Heading": "Reddalfsresorts",
+        "Abstract": null,
+        "Official Site": "https://reddalfsresorts.com",
+        "Icon": "https://www.reddalfsresorts.com/wp-content/uploads/2022/03/cropped-Logo-Final-01-32x32.png",
+        "Redirect": "https://reddalfsresorts.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://reddalfsresorts.com"
     },
     {
         "link": "https://arlingtonschools.org",
@@ -108,16 +118,6 @@
         "Redirect": "https://notatrace.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://notatrace.com.au"
-    },
-    {
-        "link": "https://semiconductorstore.com",
-        "Heading": "Symmetry Electronics Authorized Distributor | Homepage | Symmetry Electronics",
-        "Abstract": "Symmetry Electronics is a supplier-authorized distributor of industry-leading wireless, video, and embedded semiconductor products and engineering tech support.",
-        "Official Site": "https://semiconductorstore.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://semiconductorstore.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://semiconductorstore.com"
     },
     {
         "link": "https://wiking-laden.de",
@@ -190,16 +190,6 @@
         "AbstractURL": "https://loloappspro.com/"
     },
     {
-        "link": "https://globalcardmart.com",
-        "Heading": "Vintage Anime Cards - 90s & Early 2000s Collectibles | Global Card Mart",
-        "Abstract": "Your ultimate destination for anime and gaming cards. Find Pok\u00e9mon, Magic: The Gathering, Yu-Gi-Oh, and other TCG/CCG collectibles. Rare finds and new releases available!",
-        "Official Site": "https://www.globalcardmart.com/",
-        "Icon": "http://www.globalcardmart.com/wp-content/uploads/2025/10/banner.jpg",
-        "Redirect": "https://www.globalcardmart.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.globalcardmart.com/"
-    },
-    {
         "link": "https://4-dosug.com",
         "Heading": "4-dosug.com",
         "Abstract": null,
@@ -238,5 +228,25 @@
         "Redirect": "https://donaureisen.at",
         "AbstractSource": "BS4",
         "AbstractURL": "https://donaureisen.at"
+    },
+    {
+        "link": "https://rhslilygroup.org",
+        "Heading": "RHS Lily Group - RHS Lily Group",
+        "Abstract": "RHS Lily Group \u00a0 \u00a0 \u00a0Welcome to the Lily Group: for everyone who wants to grow lilies.",
+        "Official Site": "https://rhslilygroup.org/",
+        "Icon": "https://rhslilygroup.org/wp-content/uploads/2023/12/Yellow-Butterfly.jpg",
+        "Redirect": "https://rhslilygroup.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rhslilygroup.org/"
+    },
+    {
+        "link": "https://riverraisinstainedglass.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://riverraisinstainedglass.com",
+        "Icon": "N/A",
+        "Redirect": "https://riverraisinstainedglass.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://riverraisinstainedglass.com"
     }
 ]

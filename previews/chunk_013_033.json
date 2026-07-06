@@ -50,6 +50,16 @@
         "AbstractURL": "https://mumoh-wol.store"
     },
     {
+        "link": "https://musicalheritage.org",
+        "Heading": "MUSICAL HERITAGE ORGANIZATION",
+        "Abstract": null,
+        "Official Site": "https://musicalheritage.org",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://musicalheritage.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://musicalheritage.org"
+    },
+    {
         "link": "https://mustome.com",
         "Heading": null,
         "Abstract": null,
@@ -121,10 +131,10 @@
     },
     {
         "link": "https://myprelovedtiffany.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "MyPrelovedTiffany - Authenticated Preloved Tiffany & Co.",
+        "Abstract": "We are a pre-owned / second-hand branded store specializing in T&Co. jewelries. We have a zero-tolerance policy for counterfeits and we strive to play our part in battling against the counterfeit market. Shop with confidence, pay less for the same product.",
         "Official Site": "https://myprelovedtiffany.com",
-        "Icon": "data:;",
+        "Icon": "/favicon-32x32.png",
         "Redirect": "https://myprelovedtiffany.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myprelovedtiffany.com"
@@ -148,16 +158,6 @@
         "Redirect": "https://mytteam.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mytteam.com"
-    },
-    {
-        "link": "https://myzitong.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://myzitong.com",
-        "Icon": "data:image/x-icon;,",
-        "Redirect": "https://myzitong.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://myzitong.com"
     },
     {
         "link": "https://nalvazhiorganic.com",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://www.natalianeverko.com/"
     },
     {
+        "link": "https://natural-e.co.jp",
+        "Heading": "\u65e5\u672c\u81ea\u7136\u30a8\u30cd\u30eb\u30ae\u30fc\u682a\u5f0f\u4f1a\u793e",
+        "Abstract": null,
+        "Official Site": "https://www.natural-e.co.jp/",
+        "Icon": "http://natural-e.co.jp/wp-content/uploads/2025/11/ogp.png",
+        "Redirect": "https://www.natural-e.co.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.natural-e.co.jp/"
+    },
+    {
         "link": "https://nautiluspuzzles.com",
         "Heading": "Wooden Jigsaw Puzzles For Adults - Made in the USA",
         "Abstract": "Nautilus Wooden Jigsaw Puzzles for Adults are creatively designed by a team of artists and jigsaw puzzle enthusiasts in California. The unique cuts in every puzzle reflect the imagination and mischievousness of our designers who throw in funky whimsical shapes, to make each puzzle a challenging and fun experience.",
@@ -200,16 +210,6 @@
         "AbstractURL": "https://nautiluspuzzles.com/"
     },
     {
-        "link": "https://nealfrisby.eu",
-        "Heading": "Home - Neal Frisby with a message of faith and power",
-        "Abstract": "Brother Neal Frisby has been preaching the gospel of our Lord Jesus Christ since 1960, during that time God worked great miracles through him...",
-        "Official Site": "https://nealfrisby.eu/",
-        "Icon": "https://nealfrisby.eu/wp-content/uploads/2024/12/cropped-cropped-neal-frisby-logo-eagle-300-32x32.png",
-        "Redirect": "https://nealfrisby.eu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nealfrisby.eu/"
-    },
-    {
         "link": "https://neurahealth.co",
         "Heading": "Neura Health | Virtual Neurology Clinic",
         "Abstract": "Expert neurological care at your fingertips",
@@ -218,6 +218,16 @@
         "Redirect": "https://neurahealth.co",
         "AbstractSource": "BS4",
         "AbstractURL": "https://neurahealth.co"
+    },
+    {
+        "link": "https://nextchat.ru",
+        "Heading": "Live Sexcams: XXX Adult Shows - Free Porn Chat - nextchat.ru",
+        "Abstract": "Create Your 100% Free Account. 100+ models are currently available for Live Sex Webcams - Live Cams Sex. Join the largest worldwide webcam community!",
+        "Official Site": "https://en.nextchat.ru/",
+        "Icon": "https://i.bgicdn.com/favicon/wl/og-image.png",
+        "Redirect": "https://en.nextchat.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://en.nextchat.ru/"
     },
     {
         "link": "https://nextsds.com",

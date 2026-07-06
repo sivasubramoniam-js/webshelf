@@ -80,6 +80,26 @@
         "AbstractURL": "https://carasutra.com/"
     },
     {
+        "link": "https://infonorwegia.pl",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://infonorwegia.pl",
+        "Icon": "N/A",
+        "Redirect": "https://infonorwegia.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://infonorwegia.pl"
+    },
+    {
+        "link": "https://2bguide.com",
+        "Heading": "2bguide - Dein Guide f\u00fcr IT und Internet Business",
+        "Abstract": "Dein Guide f\u00fcr IT und Internet Business",
+        "Official Site": "https://www.2bguide.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.2bguide.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.2bguide.com/"
+    },
+    {
         "link": "https://e-h-group.com",
         "Heading": "Startseite | Ebert HERA Esser Group",
         "Abstract": "Als mittelst\u00e4ndisches Familienunternehmen und gewachsener Firmenverbund ist die Ebert HERA Esser Group seit Jahrzehnten erfolgreich am nationalen und internationalen Markt t\u00e4tig. Mit mehr als 1.000 hochqualifizierten Mitarbeiterinnen und Mitarbeitern decken wir die gesamte Wertsch\u00f6pfungskette industrieller Dienstleistungen ab.",
@@ -88,6 +108,16 @@
         "Redirect": "https://e-h-group.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://e-h-group.com"
+    },
+    {
+        "link": "https://kicosbbq.com",
+        "Heading": "Home | Kico's BBQ",
+        "Abstract": "Let Kico\u2019s Barbecue cater your next special day. Book Now! Let Kico\u2019s Barbecue handle the food. Kico\u2019s offers catering and special event services to Eugene ...",
+        "Official Site": "https://kicosbbq.com/",
+        "Icon": "https://kicosbbq.com/wp-content/uploads/2023/03/resta-img20.png",
+        "Redirect": "https://kicosbbq.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kicosbbq.com/"
     },
     {
         "link": "https://case-cs-open.ru",
@@ -230,14 +260,24 @@
         "AbstractURL": "https://onlinemuziekacademie.nl"
     },
     {
-        "link": "https://collierparks.com",
-        "Heading": "Home Collier County Parks",
-        "Abstract": null,
-        "Official Site": "https://www.collierparks.com/Home",
-        "Icon": "/files/ocfavicon/Parks/favicon-96x96.png",
-        "Redirect": "https://www.collierparks.com/Home",
+        "link": "https://budgetroofingservice.com",
+        "Heading": "Budget Roofing Service \u2013 Roofing Company in Winter Haven FL",
+        "Abstract": "Family owned roofing company in Winter Haven FL since 1952. Roof repairs, replacements, shingle, metal, tile, flat roofing and exterior services in Polk County.",
+        "Official Site": "https://www.budgetroofingservice.com/",
+        "Icon": "https://www.budgetroofingservice.com/wp-content/uploads/2025/12/BUDGET-YARD-SIGN.png",
+        "Redirect": "https://www.budgetroofingservice.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.collierparks.com/Home"
+        "AbstractURL": "https://www.budgetroofingservice.com/"
+    },
+    {
+        "link": "https://premierleagueheroes.com",
+        "Heading": "Ex Footballers | Former Football Players | Where Are They Now",
+        "Abstract": "Welcome to Premier League Heroes, a where are they now football blog with information and statistics on your favourite ex footballers.",
+        "Official Site": "https://www.premierleagueheroes.com/",
+        "Icon": "https://i0.wp.com/www.premierleagueheroes.com/wp-content/uploads/2025/08/cropped-TM-04367-Manchester-City-FC-Plush-Football-1.jpg?fit=32%2C32&ssl=1",
+        "Redirect": "https://www.premierleagueheroes.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.premierleagueheroes.com/"
     },
     {
         "link": "https://sweetass.al",

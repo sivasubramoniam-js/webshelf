@@ -60,6 +60,16 @@
         "AbstractURL": "https://www.kaligo.com"
     },
     {
+        "link": "https://brianmclaren.net",
+        "Heading": "Brian McLaren",
+        "Abstract": "Author | Speaker | Activist",
+        "Official Site": "http://brianmclaren.net",
+        "Icon": "https://brianmclaren.net/wp-content/uploads/2016/10/cropped-flock-32x32.png",
+        "Redirect": "http://brianmclaren.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://brianmclaren.net"
+    },
+    {
         "link": "https://gerds-wissen.online",
         "Heading": "Wiki",
         "Abstract": null,
@@ -260,6 +270,16 @@
         "AbstractURL": "/"
     },
     {
+        "link": "https://ultimatewebdesigns.co.nz",
+        "Heading": "Website Design in Auckland & Christchurch | Top Web Design Agency NZ Ultimate Web Designs Limited",
+        "Abstract": "Top website design agency in Auckland, New Zealand. Ultimate Web Designs offers the best and most affordable web development services to help businesses grow with custom websites across NZ.",
+        "Official Site": "https://ultimatewebdesigns.co.nz/",
+        "Icon": "https://ultimatewebdesigns.co.nz/wp-content/uploads/2025/04/ultimate-web-designs-website-design-Web-Development.png",
+        "Redirect": "https://ultimatewebdesigns.co.nz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ultimatewebdesigns.co.nz/"
+    },
+    {
         "link": "https://onewelbeck.com",
         "Heading": "Welbeck | Beyond Better | Leaders in UK Private Healthcare",
         "Abstract": "Welbeck is a leading private healthcare provider in the UK, delivering advanced diagnostics, the latest treatments, and minimally invasive surgery.",
@@ -278,5 +298,15 @@
         "Redirect": "https://www.theoxfordhotel.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.theoxfordhotel.com/"
+    },
+    {
+        "link": "https://albatest.com",
+        "Heading": "Centro de Psicolog\u00eda en Albacete - Albatest",
+        "Abstract": "Centro de psicolog\u00eda en Albacete. Tratamos los trastornos de ansiedad y depresi\u00f3n, fobias, terapia de pareja, trastornos alimentarios,...",
+        "Official Site": "https://albatest.com/",
+        "Icon": "https://albatest.com/wp-content/uploads/2025/06/LogoAlbatestRed.webp",
+        "Redirect": "https://albatest.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://albatest.com/"
     }
 ]

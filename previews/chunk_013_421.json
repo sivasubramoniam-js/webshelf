@@ -161,13 +161,13 @@
     },
     {
         "link": "https://vilohome.com",
-        "Heading": "Polski Producent Paneli Pod\u0142ogowych i \u015aciennych, Listew, Lameli - Vilo Home",
-        "Abstract": "Vilo Home \u27a4 Producent paneli pod\u0142ogowych, \u015bciennych, listew \u2714\ufe0f Atrakcyjne ceny \u2714\ufe0f Darmowe wysy\u0142ki od 800 z\u0142otych \u2714\ufe0f Polski producent \u2b50 Sprawd\u017a!",
-        "Official Site": "https://vilohome.com/pl/",
-        "Icon": "https://vilohome.com/img/favicon.ico?1733468034",
-        "Redirect": "https://vilohome.com/pl/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://vilohome.com",
+        "Icon": "N/A",
+        "Redirect": "https://vilohome.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vilohome.com/pl/"
+        "AbstractURL": "https://vilohome.com"
     },
     {
         "link": "https://violentdelights.co.uk",
@@ -378,6 +378,16 @@
         "Redirect": "https://www.wf3d.shop/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.wf3d.shop/"
+    },
+    {
+        "link": "https://wha-group.com",
+        "Heading": "WHA Corporation PCL. (WHA)",
+        "Abstract": null,
+        "Official Site": "https://wha-group.com",
+        "Icon": "https://www.wha-group.com/storage/logo.svg",
+        "Redirect": "https://wha-group.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wha-group.com"
     },
     {
         "link": "https://wheelsbikes.com",

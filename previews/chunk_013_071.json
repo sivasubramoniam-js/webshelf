@@ -31,13 +31,13 @@
     },
     {
         "link": "https://eipcore.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://eipcore.net",
-        "Icon": "data:;",
-        "Redirect": "https://eipcore.net",
+        "Heading": "Embedded Insurance Solutions Provider | EIP",
+        "Abstract": "EIP is the industry-leading Embedded Insurance provider for insurers, brokers, telcos, banks, retailers, telcos and others",
+        "Official Site": "https://eip.tech/",
+        "Icon": "http://eip.tech/wp-content/uploads/2024/05/Screenshot-2024-05-06-160850.png",
+        "Redirect": "https://eip.tech/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://eipcore.net"
+        "AbstractURL": "https://eip.tech/"
     },
     {
         "link": "https://makergot.com",
@@ -110,14 +110,54 @@
         "AbstractURL": "https://pneumaticspro.ca/"
     },
     {
+        "link": "https://greencubes.org",
+        "Heading": "GreenCubes",
+        "Abstract": null,
+        "Official Site": "https://greencubes.org",
+        "Icon": "https://greencubes.org/templates/new/img/logo.png",
+        "Redirect": "https://greencubes.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greencubes.org"
+    },
+    {
+        "link": "https://alojamientowordpress.es",
+        "Heading": "AlojamientoWordpress \u2013 Hosting para wordpress en espa\u00f1ol",
+        "Abstract": null,
+        "Official Site": "https://alojamientowordpress.es",
+        "Icon": "N/A",
+        "Redirect": "https://alojamientowordpress.es",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alojamientowordpress.es"
+    },
+    {
+        "link": "https://electricstyle.online",
+        "Heading": "Home - Electric Style",
+        "Abstract": "UP TO 40% OFF CHARGERS AND MORE.",
+        "Official Site": "https://electricstyle.online/",
+        "Icon": "https://i0.wp.com/electricstyle.online/wp-content/uploads/2021/02/cropped-Herbs-by-Tifah-Logo-smallfor-web.jpg",
+        "Redirect": "https://electricstyle.online/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://electricstyle.online/"
+    },
+    {
         "link": "https://prava-2h6k.ru",
-        "Heading": "20.161.60.16 05.07.2026 03:35:35",
+        "Heading": "40.76.117.243 06.07.2026 03:35:34",
         "Abstract": null,
         "Official Site": "https://prava-2h6k.ru",
         "Icon": "data:,",
         "Redirect": "https://prava-2h6k.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://prava-2h6k.ru"
+    },
+    {
+        "link": "https://dndlabs.io",
+        "Heading": "Portal Home - DnD Labs",
+        "Abstract": null,
+        "Official Site": "https://dndlabs.io",
+        "Icon": "templates/antler-update/assets/img/favicon.ico",
+        "Redirect": "https://dndlabs.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dndlabs.io"
     },
     {
         "link": "https://bayouvermiliondistrict.org",
@@ -171,13 +211,13 @@
     },
     {
         "link": "https://jesusalive.cc",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://jesusalive.cc",
-        "Icon": "data:;",
-        "Redirect": "https://jesusalive.cc",
+        "Heading": "Home - JesusAlive.cc",
+        "Abstract": "JesusAlive.cc is dedicated to witnessing to the lost, discipling those in Christ, and equipping Christians to share their faith with others.",
+        "Official Site": "https://jesusalive.cc/",
+        "Icon": "https://jesusalive.cc/wp-content/uploads/elementor/thumbs/Zoom-Bible-Study-4-qpm5on2x2bhahxkv94azghklihwmy9c0reodbwdg1w.jpg",
+        "Redirect": "https://jesusalive.cc/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jesusalive.cc"
+        "AbstractURL": "https://jesusalive.cc/"
     },
     {
         "link": "https://farsight.org",
@@ -198,6 +238,16 @@
         "Redirect": "https://wonderlandlife.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wonderlandlife.xyz"
+    },
+    {
+        "link": "https://funcage.com",
+        "Heading": "Random Funny Pics - FunCage",
+        "Abstract": "FunCage has more than 10000 funny pics. Just refresh the page to get random pics...hilarious pics!",
+        "Official Site": "https://funcage.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://funcage.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://funcage.com"
     },
     {
         "link": "https://razvlekalovo.com",
@@ -260,6 +310,16 @@
         "AbstractURL": "https://colectivo.com/"
     },
     {
+        "link": "https://pathofscience.org",
+        "Heading": "Path of Science",
+        "Abstract": "Peer-reviewed Scientific Journal",
+        "Official Site": "https://pathofscience.org",
+        "Icon": "https://pathofscience.org/public/journals/1/journalFavicon_en_US.png",
+        "Redirect": "https://pathofscience.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pathofscience.org"
+    },
+    {
         "link": "https://bertone.it",
         "Heading": "The Timeless Icon is reborn | Bertone",
         "Abstract": "Since 1912, the ingenuity and attention to detail of Bertone's artisanal engineers have made it a cornerstone of automotive history. Now under new ownership, it embodies an excitingly modern vision while still maintaining the values upon which its rich and respected history has been built.",
@@ -268,6 +328,16 @@
         "Redirect": "https://bertone.it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bertone.it/"
+    },
+    {
+        "link": "https://wingsofamerica.org",
+        "Heading": "Wings of America",
+        "Abstract": null,
+        "Official Site": "https://wingsofamerica.org",
+        "Icon": "N/A",
+        "Redirect": "https://wingsofamerica.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wingsofamerica.org"
     },
     {
         "link": "https://moiremarketing.com",

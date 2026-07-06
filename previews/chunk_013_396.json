@@ -10,6 +10,26 @@
         "AbstractURL": "https://www.vaticangift.com/"
     },
     {
+        "link": "https://blackforestclassicgaming.com",
+        "Heading": null,
+        "Abstract": "",
+        "Official Site": "https://blackforestclassicgaming.com/",
+        "Icon": "https://blackforestclassicgaming.com/bilder/intern/shoplogo/Logo-BFCG-01-lang-01_small.png",
+        "Redirect": "https://blackforestclassicgaming.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://blackforestclassicgaming.com/"
+    },
+    {
+        "link": "https://primafelicitas.com",
+        "Heading": "Top Web3 & Blockchain Software Development Company",
+        "Abstract": "Top Web3 & Blockchain Software Development Company based in San Francisco, London helping startups and enterprises with dApps, DeFi, NFT Marketplace, and Wallets.",
+        "Official Site": "https://www.primafelicitas.com/",
+        "Icon": "https://www.primafelicitas.com/wp-content/uploads/2021/09/PrimaFelicitas-logo.ico",
+        "Redirect": "https://www.primafelicitas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.primafelicitas.com/"
+    },
+    {
         "link": "https://curveins.com",
         "Heading": "Curveins | Your Go-To Destination for Plus Size Dresses",
         "Abstract": "Curveins offers stylish plus size clothing and special occasion dresses in sizes 12-30. Find flattering party outfits and accessories for every event.",
@@ -18,6 +38,26 @@
         "Redirect": "https://curveins.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://curveins.com/"
+    },
+    {
+        "link": "https://polendomain.com",
+        "Heading": "Polen Domain",
+        "Abstract": "Polen Domain",
+        "Official Site": "https://polendomain.com",
+        "Icon": "https://www.polendomain.com/image/catalog/favicon.png",
+        "Redirect": "https://polendomain.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://polendomain.com"
+    },
+    {
+        "link": "https://200sx.name",
+        "Heading": "sxoc.de - Index page",
+        "Abstract": null,
+        "Official Site": "https://200sx.name",
+        "Icon": "N/A",
+        "Redirect": "https://200sx.name",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://200sx.name"
     },
     {
         "link": "https://dopingtechcomponents.work",
@@ -71,8 +111,8 @@
     },
     {
         "link": "https://xn--usugi24-ojb.pl",
-        "Heading": "Us\u0142ugi24.pl - katalog firm, og\u0142oszenia",
-        "Abstract": "Platforma zlece\u0144, por\u00f3wnywarka cen ofert us\u0142ug i najwi\u0119ksza baza bezp\u0142atnych og\u0142osze\u0144 - og\u0142oszenia  - zlecenia, przetargi - Us\u0142ugi24.PL",
+        "Heading": "Us\u0142ugi - aukcje internetowe - bezp\u0142atne og\u0142oszenia",
+        "Abstract": null,
         "Official Site": "https://xn--usugi24-ojb.pl",
         "Icon": "N/A",
         "Redirect": "https://xn--usugi24-ojb.pl",
@@ -88,6 +128,16 @@
         "Redirect": "https://metamask-wallet-web3.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://metamask-wallet-web3.com/"
+    },
+    {
+        "link": "https://hostingenbolivia.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://hostingenbolivia.com",
+        "Icon": "N/A",
+        "Redirect": "https://hostingenbolivia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hostingenbolivia.com"
     },
     {
         "link": "https://terravivagrants.org",
@@ -108,6 +158,16 @@
         "Redirect": "https://familyissuesonline.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://familyissuesonline.com/"
+    },
+    {
+        "link": "https://hamq.jp",
+        "Heading": "HAMQ",
+        "Abstract": null,
+        "Official Site": "https://hamq.jp",
+        "Icon": "N/A",
+        "Redirect": "https://hamq.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hamq.jp"
     },
     {
         "link": "https://compare-le-net.com",
@@ -190,6 +250,16 @@
         "AbstractURL": "https://xn--b1adaeba5bdflcgnh4bv.xn--p1ai"
     },
     {
+        "link": "https://afroserver.com",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://afroserver.com",
+        "Icon": "N/A",
+        "Redirect": "https://afroserver.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://afroserver.com"
+    },
+    {
         "link": "https://trs-80.com",
         "Heading": "TRS-80 News",
         "Abstract": "Complete archive of TRS-80 emulators, programs, manuals, books, and games for Tandy Radio Shack TRS-80 computers.",
@@ -208,5 +278,15 @@
         "Redirect": "https://lupusinforum.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lupusinforum.it"
+    },
+    {
+        "link": "https://danamadeit.com",
+        "Heading": "MADE EVERYDAY -",
+        "Abstract": null,
+        "Official Site": "https://www.madeeveryday.com/",
+        "Icon": "https://www.madeeveryday.com/wp-content/uploads/2020/04/Made-LOGO-preview-2-08.png",
+        "Redirect": "https://www.madeeveryday.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.madeeveryday.com/"
     }
 ]

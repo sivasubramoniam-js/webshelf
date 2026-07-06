@@ -41,7 +41,7 @@
     },
     {
         "link": "https://uslugi-spravka.ru",
-        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438  \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 01.07.2026 ",
+        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043a\u043b.VPN !!! \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 01.07.2026 ",
         "Abstract": " \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u0430\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0441 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0435\u0439.",
         "Official Site": "https://uslugi-spravka.ru",
         "Icon": "untitled-1.ico",
@@ -110,11 +110,21 @@
         "AbstractURL": "https://maysham.com"
     },
     {
-        "link": "https://alpertron.com.ar",
-        "Heading": null,
+        "link": "https://toos.co.jp",
+        "Heading": "TOOS Corporation",
         "Abstract": null,
+        "Official Site": "https://toos.co.jp",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://toos.co.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://toos.co.jp"
+    },
+    {
+        "link": "https://alpertron.com.ar",
+        "Heading": "Sitio de matem\u00e1ticas y assembler de Dario Alpern",
+        "Abstract": "Incluye un programa 3 en 1 escrito en assembler 80x86 que calcula pi, e, ln 2, una calculadora de numeros complejos (Javascript) y mas...",
         "Official Site": "https://alpertron.com.ar",
-        "Icon": "data:;",
+        "Icon": "favicon.ico",
         "Redirect": "https://alpertron.com.ar",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alpertron.com.ar"
@@ -211,13 +221,23 @@
     },
     {
         "link": "https://honeypie.eu",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://honeypie.eu",
-        "Icon": "data:;",
-        "Redirect": "https://honeypie.eu",
+        "Heading": "Beste Casino Zonder Cruks 2026 - Veilig Gokken Zonder Cruks",
+        "Abstract": "Overzicht van casino zonder Cruks 2026. Onafhankelijke reviews, actuele promoties en veilige stortingsopties voor Nederlandse spelers die verantwoord willen gokken.",
+        "Official Site": "https://www.honeypie.eu/menu.html",
+        "Icon": "https://www.honeypie.eu/wp-content/uploads/2025/11/honeypie-fav-150x150.png",
+        "Redirect": "https://www.honeypie.eu/menu.html",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://honeypie.eu"
+        "AbstractURL": "https://www.honeypie.eu/menu.html"
+    },
+    {
+        "link": "https://iklanindo4d2.online",
+        "Heading": "Indo4D: Main Slot Gacor Sekali Spin \u2013 Auto Cuan Tanpa tandingan!",
+        "Abstract": "Indo4D adalah tempat bermain slot online gacor hari ini, di Indo 4D sudah di lengkapi dengan game pragmatic dan pg soft terbaru dan paling update. Situs Game Online MPOPlay Resmi & Terpercaya",
+        "Official Site": "https://iklanindo4d2.online",
+        "Icon": "https://images.linkcdn.cloud/V2/598/favicon/favicon-483718550.png",
+        "Redirect": "https://iklanindo4d2.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iklanindo4d2.online"
     },
     {
         "link": "https://rxexpressmexico.com",

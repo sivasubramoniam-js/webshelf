@@ -1,8 +1,8 @@
 [
     {
         "link": "https://023002.com",
-        "Heading": "\u8bba\u575b -  Powered by Discuz!",
-        "Abstract": "\u8bba\u575b ",
+        "Heading": "\u8bba\u575b -  \u624b\u673a\u7248 - Powered by Discuz!",
+        "Abstract": "\u8bba\u575b ,Discuz! Board",
         "Official Site": "https://023002.com",
         "Icon": "N/A",
         "Redirect": "https://023002.com",
@@ -41,10 +41,10 @@
     },
     {
         "link": "https://trafficltd.com.au",
-        "Heading": null,
+        "Heading": "Traffic Technologies Ltd \u2013 Traffic Signals, LED street lights, smart city solutions, traffic signs & safety solutions",
         "Abstract": null,
         "Official Site": "https://trafficltd.com.au",
-        "Icon": "data:;",
+        "Icon": "https://www.trafficltd.com.au/wp-content/uploads/2019/09/cropped-Fav_TTL-1-32x32.png",
         "Redirect": "https://trafficltd.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trafficltd.com.au"
@@ -170,6 +170,16 @@
         "AbstractURL": "https://healthpulse-pharmacy.com"
     },
     {
+        "link": "https://radiocottbus.de",
+        "Heading": "Radio Cottbus - Willkommen zu Hause!",
+        "Abstract": "Willkommen zu Hause!",
+        "Official Site": "https://www.radiocottbus.de/",
+        "Icon": "https://www.radiocottbus.de/wp-json/og-image-proxy/2897",
+        "Redirect": "https://www.radiocottbus.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.radiocottbus.de/"
+    },
+    {
         "link": "https://peertechzpublications.com",
         "Heading": "International Open Access Journals | Peertechz Publications",
         "Abstract": "Peertechz is a leading Open Access publisher with over a decade of experience in Science, Medicine, and Engineering journals. Driven by expert editors, reviewers, and authors, Peertechz delivers high-quality, peer-reviewed research and is recognized as a trusted name in scholarly publishing.",
@@ -242,7 +252,7 @@
     {
         "link": "https://xocdia.games",
         "Heading": "Ch\u01a1i X\u00f3c \u0110\u0129a Online - Game \u0110\u1ed5i Th\u01b0\u1edfng T\u1ef7 L\u1ec7 1 \u0102n 2,5 Ti\u1ec1n",
-        "Abstract": "X\u00f3c \u0111\u0129a online - Game \u0111\u1ed5i th\u01b0\u1edfng hot nh\u1ea5t Vi\u1ec7t Nam v\u1edbi t\u1ef7 l\u1ec7 \u0103n th\u01b0\u1edfng 1 \u0103n 2,5 l\u1ea7n ti\u1ec1n \u0111\u1eb7t c\u01b0\u1ee3c. T\u1ea3i app x\u00f3c \u0111\u0129a m\u1edbi nh\u1ea5t Th\u00e1ng 7 5, 2026 ngay h\u00f4m nay!",
+        "Abstract": "X\u00f3c \u0111\u0129a online - Game \u0111\u1ed5i th\u01b0\u1edfng hot nh\u1ea5t Vi\u1ec7t Nam v\u1edbi t\u1ef7 l\u1ec7 \u0103n th\u01b0\u1edfng 1 \u0103n 2,5 l\u1ea7n ti\u1ec1n \u0111\u1eb7t c\u01b0\u1ee3c. T\u1ea3i app x\u00f3c \u0111\u0129a m\u1edbi nh\u1ea5t Th\u00e1ng 7 6, 2026 ngay h\u00f4m nay!",
         "Official Site": "https://louping.me/vi-vn/",
         "Icon": "https://louping.me/wp-content/uploads/2025/06/top-app-xoc-dia-online-uy-tin-thuong-lon-moi-ngay.webp",
         "Redirect": "https://louping.me/vi-vn/",
@@ -280,14 +290,14 @@
         "AbstractURL": "https://wiegel-kulmbach.de"
     },
     {
-        "link": "https://visitcalistoga.com",
-        "Heading": "Visit Calistoga California | Official Visitor Guide",
-        "Abstract": "Plan your trip with Visit Calistoga, the Calistoga Chamber of Commerce guide to Calistoga California, lodging, dining, spas, and events.",
-        "Official Site": "https://visitcalistoga.com/",
-        "Icon": "https://visitcalistoga.com/wp-content/uploads/2024/03/cropped-newlogo.png",
-        "Redirect": "https://visitcalistoga.com/",
+        "link": "https://captns.ch",
+        "Heading": "Konzept und Gestaltung - Captns",
+        "Abstract": "Captns eine kollektiv gef\u00fchrte Agentur aus Bern mit vielf\u00e4ltigen Kompetenzen rund um Identit\u00e4ten, Konzept, Gestaltung, Web und Fotografie",
+        "Official Site": "https://www.captns.ch/",
+        "Icon": "/app/uploads/2020/12/cropped-favicon-32x32.png",
+        "Redirect": "https://www.captns.ch/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://visitcalistoga.com/"
+        "AbstractURL": "https://www.captns.ch/"
     },
     {
         "link": "https://clearsourcerealty.com",

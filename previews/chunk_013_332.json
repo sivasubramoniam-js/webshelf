@@ -30,14 +30,24 @@
         "AbstractURL": "https://www.v1corp.com/"
     },
     {
-        "link": "https://757pages.com",
-        "Heading": "757pages - FREE Classifieds, Businesses, Jobs, Events & More",
-        "Abstract": "757pages - FREE Classifieds, Businesses, Jobs, Events & More",
-        "Official Site": "https://www.757pages.com",
-        "Icon": "https://www.757pages.com/images/757pages-logo432x111.png",
-        "Redirect": "https://www.757pages.com",
+        "link": "https://cortinasalcoba.com",
+        "Heading": "Cortinas Alcoba \u2013 Cortinas Alcoba",
+        "Abstract": null,
+        "Official Site": "https://cortinasalcoba.com",
+        "Icon": "https://www.cortinasalcoba.com/wp-content/uploads/2023/09/cropped-favicon-cortinas-alcoba_-32x32.png",
+        "Redirect": "https://cortinasalcoba.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.757pages.com"
+        "AbstractURL": "https://cortinasalcoba.com"
+    },
+    {
+        "link": "https://ijpbs.net",
+        "Heading": "\n\t\tInternational Journal of Pharma and Bio Sciences\n\t\t\t\t\t",
+        "Abstract": null,
+        "Official Site": "https://ijpbs.net",
+        "Icon": "N/A",
+        "Redirect": "https://ijpbs.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ijpbs.net"
     },
     {
         "link": "https://zerkalnye-prava-39.ru",
@@ -148,6 +158,16 @@
         "Redirect": "https://tribehotels.com/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tribehotels.com/en/"
+    },
+    {
+        "link": "https://ark-survival.net",
+        "Heading": "Ark: Survival Evolved",
+        "Abstract": null,
+        "Official Site": "https://ark-survival.net",
+        "Icon": "https://www.ark-survival.net/wp-content/uploads/sites/10/2026/01/ARKLOGO_klein.png",
+        "Redirect": "https://ark-survival.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ark-survival.net"
     },
     {
         "link": "https://rkm.kz",

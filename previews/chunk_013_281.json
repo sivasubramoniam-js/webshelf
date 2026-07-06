@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://stomavereniging.nl",
+        "Heading": "Samen sterker - Stomavereniging",
+        "Abstract": "De Stomavereniging is er voor jou. Samen zorgen we ervoor dat jij de best passende zorg en hulpmiddelen krijgt.",
+        "Official Site": "https://www.stomavereniging.nl/",
+        "Icon": "https://www.stomavereniging.nl/app/uploads/2026/04/Heel-de-stomavereniging-beweegt-v2.webp",
+        "Redirect": "https://www.stomavereniging.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.stomavereniging.nl/"
+    },
+    {
         "link": "https://kiesundco.de",
         "Heading": "Haus & Garten - Baustoffe, Streugut und Gartenartikel | kiesundco.de",
         "Abstract": "kiesundco ist Fachh\u00e4ndler f\u00fcr Baustoffe, Werkzeuge und Bauzubeh\u00f6r rund um Haus & Garten. Gro\u00dfe Sortimentsauswahl zu g\u00fcnstigen Preisen!",
@@ -28,16 +38,6 @@
         "Redirect": "https://jaya9-bd.co/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jaya9-bd.co/"
-    },
-    {
-        "link": "https://jefferydeaver.com",
-        "Heading": "Home - Jeffery Deaver - No. 1 International Bestselling Author",
-        "Abstract": "A former journalist, folksinger and attorney, Jeffery Deaver is an international number-one bestselling author. His novels have appeared on bestseller lists around the world, including The New York Times, The Times of London, Italy\u2019s Corriere della Sera, The Sydney Morning Herald and The Los Angeles Times. His books are sold in 150 countries and translated into 25 languages.",
-        "Official Site": "https://www.jefferydeaver.com/",
-        "Icon": "https://www.jefferydeaver.com/wp-content/uploads/2021/03/Niko-Giovanni-Coniglio-200x300.png",
-        "Redirect": "https://www.jefferydeaver.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.jefferydeaver.com/"
     },
     {
         "link": "https://mailapi.icu",
@@ -100,6 +100,16 @@
         "AbstractURL": "https://www.windlass.com/"
     },
     {
+        "link": "https://infomaco.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://infomaco.com",
+        "Icon": "N/A",
+        "Redirect": "https://infomaco.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://infomaco.com"
+    },
+    {
         "link": "https://baseballholics.net",
         "Heading": "Home - Baseballholics",
         "Abstract": "Your Baseball News Destination",
@@ -138,6 +148,26 @@
         "Redirect": "https://bitgn.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bitgn.com"
+    },
+    {
+        "link": "https://lightparty.com",
+        "Heading": "The Light Party New Political Paradigm and Health Care",
+        "Abstract": null,
+        "Official Site": "https://lightparty.com",
+        "Icon": "N/A",
+        "Redirect": "https://lightparty.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lightparty.com"
+    },
+    {
+        "link": "https://khankabob.com",
+        "Heading": "Khan Kabob | Authentic Indian & Pakistani Cuisine | 100% Halal Food -",
+        "Abstract": null,
+        "Official Site": "https://khankabob.com/",
+        "Icon": "https://khankabob.com/wp-content/uploads/2025/10/khan-bg.jpg",
+        "Redirect": "https://khankabob.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://khankabob.com/"
     },
     {
         "link": "https://leadclient.com",
@@ -208,6 +238,16 @@
         "Redirect": "https://stones4gardens.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://stones4gardens.co.uk/"
+    },
+    {
+        "link": "https://bdcvendas.com.br",
+        "Heading": "BDC Vendas | Latarias Automotivas",
+        "Abstract": "Na BDC Vendas voc\u00ea encontra uma grande v\u00e1riedade de pe\u00e7as e lataria de carros de v\u00e1rias marcas e modelos!",
+        "Official Site": "http://bdcvendas.com.br",
+        "Icon": "http://bdcvendas.com.br/img/logo.png",
+        "Redirect": "http://bdcvendas.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://bdcvendas.com.br"
     },
     {
         "link": "https://wennabe.com",

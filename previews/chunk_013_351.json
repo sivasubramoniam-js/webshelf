@@ -40,16 +40,6 @@
         "AbstractURL": "https://webhostingprotocol.com"
     },
     {
-        "link": "https://appgods.website",
-        "Heading": "App Gods Inc. \u2013 The God Of Apps, Websites, & More",
-        "Abstract": null,
-        "Official Site": "https://appgods.website",
-        "Icon": "https://appgods.website/wp-content/uploads/2021/07/cropped-APP-GODS-Inc-32x32.png",
-        "Redirect": "https://appgods.website",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://appgods.website"
-    },
-    {
         "link": "https://whitemane.org",
         "Heading": "Whitemane | Hearth Back Home",
         "Abstract": "Alliance or Horde?! Hearth back home and discover the cult classic MMO and play today for free!",
@@ -101,13 +91,13 @@
     },
     {
         "link": "https://greyston.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://greyston.org",
-        "Icon": "data:;",
-        "Redirect": "https://greyston.org",
+        "Heading": "Open Hiring Greyston Bakery | Greyston Foundation",
+        "Abstract": "Break through barriers to employment. No interviews, background checks, or resumes mean truly equal opportunity for all.",
+        "Official Site": "https://www.greyston.org/about/",
+        "Icon": "https://www.greyston.org/wp-content/uploads/2021/10/icon-respect-1.png",
+        "Redirect": "https://www.greyston.org/about/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://greyston.org"
+        "AbstractURL": "https://www.greyston.org/about/"
     },
     {
         "link": "https://sma-sunny.com",
@@ -120,6 +110,16 @@
         "AbstractURL": "https://www.sma-sunny.com/en/"
     },
     {
+        "link": "https://opavanex.com",
+        "Heading": "Home | Opavanex",
+        "Abstract": "Live Charts with Indicators, Foreign Exchange Market Trading Methods, Hours, Sessions, & Plans, Major and Minor Pairs Currency, Bullish and Bearish Divergence.",
+        "Official Site": "./",
+        "Icon": "./assets/images/favicon.png",
+        "Redirect": "./",
+        "AbstractSource": "BS4",
+        "AbstractURL": "./"
+    },
+    {
         "link": "https://ifrbanking.ru",
         "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 ",
         "Abstract": "\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0440\u0435\u0448\u0435\u043d\u0438\u0439 \u043f\u043e \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0445 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0432",
@@ -128,16 +128,6 @@
         "Redirect": "https://ifrbanking.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ifrbanking.ru"
-    },
-    {
-        "link": "https://rampantgames.com",
-        "Heading": "Rampant Games - Top Indie Games - Roleplaying, Strategy, Action, and \nMore!",
-        "Abstract": "Rampant Games - home of indie RPGs, Adventure Games, Strategy, and Action Games",
-        "Official Site": "https://rampantgames.com",
-        "Icon": "N/A",
-        "Redirect": "https://rampantgames.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rampantgames.com"
     },
     {
         "link": "https://gidroizolyaciya-cena-8.ru",
@@ -180,6 +170,16 @@
         "AbstractURL": "https://wildlandsnetwork.org/"
     },
     {
+        "link": "https://creamosel.com",
+        "Heading": "Inicio",
+        "Abstract": null,
+        "Official Site": "https://creamosel.com",
+        "Icon": "N/A",
+        "Redirect": "https://creamosel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://creamosel.com"
+    },
+    {
         "link": "https://global-reparatur.de",
         "Heading": "Global Reparaturservice | Haushaltsger\u00e4te Reparatur vor Ort",
         "Abstract": "Reparaturservice f\u00fcr Waschmaschine, Geschirrsp\u00fcler, Trockner, Backofen & mehr. Schnelle Vor-Ort-Diagnose, transparente Preisfreigabe. Berlin, Potsdam & Brandenburg.",
@@ -198,6 +198,16 @@
         "Redirect": "https://reticleweb.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://reticleweb.com"
+    },
+    {
+        "link": "https://propertypavilion.co.uk",
+        "Heading": "propertypavilion \u2013 Turning Property into Possibility",
+        "Abstract": null,
+        "Official Site": "https://propertypavilion.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://propertypavilion.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://propertypavilion.co.uk"
     },
     {
         "link": "https://antilles-info-tourisme.com",
@@ -228,6 +238,16 @@
         "Redirect": "https://skywarn.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://skywarn.org"
+    },
+    {
+        "link": "https://duecker.com",
+        "Heading": "D\u00fccker - Experten f\u00fcr innovative und zuverl\u00e4ssige F\u00f6rdersysteme",
+        "Abstract": "D\u00fccker conveyor systems \u2013 Experten f\u00fcr vollautomatisierte Intralogistikl\u00f6sungen. Wir entwickeln innovative Konzepte und optimierte L\u00f6sungen f\u00fcr jede Branche.",
+        "Official Site": "https://www.duecker.com/de/",
+        "Icon": "https://www.duecker.com/files/bilder/favicon.png",
+        "Redirect": "https://www.duecker.com/de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.duecker.com/de/"
     },
     {
         "link": "https://koukalgroupe.fr",
