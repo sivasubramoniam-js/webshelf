@@ -31,13 +31,13 @@
     },
     {
         "link": "https://cardonemarkets.com",
-        "Heading": "Bot Verification",
-        "Abstract": null,
-        "Official Site": "https://cardonemarkets.com",
-        "Icon": "N/A",
-        "Redirect": "https://cardonemarkets.com",
+        "Heading": "Home - Cardone Markets",
+        "Abstract": "Cardone Markets is a group of financial experts. We carefully examine the volatility of cryptocurrencies, invest and make good profits.",
+        "Official Site": "index.html",
+        "Icon": "https://aprobitcapitals.com/image/preview.png",
+        "Redirect": "index.html",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cardonemarkets.com"
+        "AbstractURL": "index.html"
     },
     {
         "link": "https://mentalpowerinsports.at",
@@ -104,10 +104,20 @@
         "Heading": "\ubb34\ubc31 MOO1OO \uacf5\uc2dd \uc628\ub77c\uc778 \uc2a4\ud1a0\uc5b4",
         "Abstract": "\ub35c\uc5b4\ub0bc\uc218\ub85d \uc644\ubcbd\ud574\uc9c0\ub2e4 \uc804\uad6d \ubbf8\uc6a9\uc2e4 \uc785\uc810 \uac74\uac15\ud55c \ud5e4\uc5b4\ucf00\uc5b4 \ube0c\ub79c\ub4dc \ubb34\ubc31 \uc785\ub2c8\ub2e4.",
         "Official Site": "https://moo100.com",
-        "Icon": "https://starhills11.cafe24.com/web/upload/2022moo100_main.jpg",
+        "Icon": "https://m.moo100.com/web/upload/share-image-1-8c50ab4753d047c70ae75f05d5fd7123.jpg",
         "Redirect": "https://moo100.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://moo100.com"
+    },
+    {
+        "link": "https://woodway.com",
+        "Heading": "Homepage - Woodway",
+        "Abstract": "Whether you're outfitting your home gym or a professional fitness facility, choose Woodway for top-tier gym equipment and treadmills that prioritize performance, durability, and comfort.",
+        "Official Site": "https://www.woodway.com/",
+        "Icon": "https://www.woodway.com/wp-content/uploads/2024/02/cropped-Woodway-W_site-icon-32x32.png",
+        "Redirect": "https://www.woodway.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.woodway.com/"
     },
     {
         "link": "https://lodashjs.com",

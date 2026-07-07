@@ -31,10 +31,10 @@
     },
     {
         "link": "https://archival-footage.com",
-        "Heading": "Archival Footage \u2013 Timeless Scenes, Timeless Stories \u2013 Your Historical Footage Destination",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://archival-footage.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://archival-footage.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://archival-footage.com"
@@ -78,16 +78,6 @@
         "Redirect": "https://www.asherycountrystore.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.asherycountrystore.com/"
-    },
-    {
-        "link": "https://aspaco.ru",
-        "Heading": "Access Denied",
-        "Abstract": null,
-        "Official Site": "https://aspaco.ru",
-        "Icon": "N/A",
-        "Redirect": "https://aspaco.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aspaco.ru"
     },
     {
         "link": "https://atiofny.com",
@@ -150,16 +140,6 @@
         "AbstractURL": "https://www.avinter.nl/"
     },
     {
-        "link": "https://avto-zone.com",
-        "Heading": "Access Denied",
-        "Abstract": null,
-        "Official Site": "https://avto-zone.com",
-        "Icon": "N/A",
-        "Redirect": "https://avto-zone.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://avto-zone.com"
-    },
-    {
         "link": "https://avy-ytep.store",
         "Heading": null,
         "Abstract": null,
@@ -194,7 +174,7 @@
         "Heading": "\u00c9quipement Outdoor pour randonn\u00e9es",
         "Abstract": "Sp\u00e9cialiste de l'\u00e9quipement outdoor, bivouac, survie.",
         "Official Site": "https://azimut-nature.com",
-        "Icon": "https://www.azimut-nature.com/static/version1776673639/frontend/Boeki/Azimut/fr_FR/Magento_Theme/favicon.ico",
+        "Icon": "https://www.azimut-nature.com/static/version1783327800/frontend/Boeki/Azimut/fr_FR/Magento_Theme/favicon.ico",
         "Redirect": "https://azimut-nature.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://azimut-nature.com"
@@ -208,6 +188,16 @@
         "Redirect": "https://bania24.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bania24.com/"
+    },
+    {
+        "link": "https://baofuniao.cn",
+        "Heading": "\u65e5\u5386\u548c\u65f6\u95f4",
+        "Abstract": null,
+        "Official Site": "https://baofuniao.cn",
+        "Icon": "N/A",
+        "Redirect": "https://baofuniao.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://baofuniao.cn"
     },
     {
         "link": "https://baozounovel.com",

@@ -100,16 +100,6 @@
         "AbstractURL": "https://saidthegramophone.com"
     },
     {
-        "link": "https://irisservers.com",
-        "Heading": "V",
-        "Abstract": null,
-        "Official Site": "https://irisservers.com",
-        "Icon": "N/A",
-        "Redirect": "https://irisservers.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://irisservers.com"
-    },
-    {
         "link": "https://tracesecritesnews.fr",
         "Heading": "Traces Ecrites News | L'actualit\u00e9 \u00e9conomique du Grand Est et de Bourgogne Franche-Comt\u00e9",
         "Abstract": "Agence de presse install\u00e9e \u00e0 Dijon depuis 1991, la connaissance du terrain de ses journalistes et la pertinence d\u2019un territoire en devenir, sur l\u2019axe Rhin-Rh\u00f4ne, donne naissance \u00e0 cette lettre d\u2019informations \u00e9conomiques sur le Grand Est et la Bourgogne Franche-Comt\u00e9.",
@@ -148,16 +138,6 @@
         "Redirect": "https://zhxg.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zhxg.com"
-    },
-    {
-        "link": "https://hawaiianbeachrentals.com",
-        "Heading": "Escape to Paradise with Us | Hawaiian Beach Rentals",
-        "Abstract": "Go ahead and spend vacation with our exclusive Hawaii beach house rentals. Explore luxury, breathtaking views, and the ideal beachfront getaway. Contact (844)...",
-        "Official Site": "https://www.hawaiianbeachrentals.com",
-        "Icon": "https://www.hawaiianbeachrentals.com/img/logo_img.png",
-        "Redirect": "https://www.hawaiianbeachrentals.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hawaiianbeachrentals.com"
     },
     {
         "link": "https://bot-stars.pro",
@@ -221,10 +201,10 @@
     },
     {
         "link": "https://metacreations.com",
-        "Heading": "MetaCreations",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://metacreations.com",
-        "Icon": "https://metacreations.com/wp-content/themes/Avada/assets/images/logo.png",
+        "Icon": "data:;",
         "Redirect": "https://metacreations.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://metacreations.com"
@@ -314,7 +294,7 @@
         "Heading": "\ud83d\udcda \u041a\u0443\u043f\u0438\u0442\u044c \u0434\u0438\u043f\u043b\u043e\u043c \u0412\u0423\u0417\u0430 \u0431\u0435\u0437 \u043f\u0440\u0435\u0434\u043e\u043f\u043b\u0430\u0442\u044b",
         "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u0434\u0438\u043f\u043b\u043e\u043c \u043e \u0432\u044b\u0441\u0448\u0435\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u0432 \u041a\u0438\u0435\u0432\u0435, \u0423\u043a\u0440\u0430\u0438\u043d\u0430. \u041e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u043b\u0430\u043d\u043a, 100% \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u044f \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430. \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u043e\u043f\u044b\u0442, \u0441\u043e\u0442\u043d\u0438 \u043e\u0442\u0437\u044b\u0432\u043e\u0432 \u0434\u043e\u0432\u043e\u043b\u044c\u043d\u044b\u0445 \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432.",
         "Official Site": "https://kyplu-diplom.net/",
-        "Icon": "https://kyplu-diplom.net/wp-content/themes/eduma/images/favicon.png",
+        "Icon": "https://kyplu-diplom.net/wp-content/uploads/2018/08/logo-1.png",
         "Redirect": "https://kyplu-diplom.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kyplu-diplom.net/"

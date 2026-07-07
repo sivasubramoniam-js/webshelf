@@ -181,13 +181,13 @@
     },
     {
         "link": "https://sanjosejazz.org",
-        "Heading": "Home - San Jose Jazz",
-        "Abstract": "Founded in 1986, San Jose Jazz is a public benefit organization celebrating jazz as a dynamic, evolving art form and is producer of the annual San Jose Jazz Summer Fest and Winter Fest.",
-        "Official Site": "https://sanjosejazz.org/",
-        "Icon": "https://sanjosejazz.org/wp-content/uploads/2023/08/SJZ_Social-Image-for-Website.jpg",
-        "Redirect": "https://sanjosejazz.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sanjosejazz.org",
+        "Icon": "data:;",
+        "Redirect": "https://sanjosejazz.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sanjosejazz.org/"
+        "AbstractURL": "https://sanjosejazz.org"
     },
     {
         "link": "https://rcfoundation.ru",
@@ -228,16 +228,6 @@
         "Redirect": "https://nanterre-amandiers.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nanterre-amandiers.com"
-    },
-    {
-        "link": "https://elektrorussia.ru",
-        "Heading": "ELEKTROSTANDARD - \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0421\u0430\u0439\u0442 ELEKTROSTANDARD \u0432 \u0420\u043e\u0441\u0441\u0438\u0438.",
-        "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u2705 ELEKTROSTANDARD (\u042d\u041b\u0415\u041a\u0422\u0420\u041e\u0421\u0422\u0410\u041d\u0414\u0410\u0420\u0422) \u2764\ufe0f \u043f\u043e \u043d\u0438\u0437\u043a\u043e\u0439 \u0446\u0435\u043d\u0435 \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u2757 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u0421\u0430\u0439\u0442\u0435 ELEKTROSTANDARD \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u2708\ufe0f \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438.",
-        "Official Site": "https://elektrorussia.ru",
-        "Icon": "favicon-192x192.png",
-        "Redirect": "https://elektrorussia.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://elektrorussia.ru"
     },
     {
         "link": "https://jespersen.zip",
@@ -283,10 +273,10 @@
         "link": "https://sunwin-games.com",
         "Heading": "Sunwin \ud83c\udfc6 Link T\u1ea3i Sunwin Uy T\u00edn, M\u1edbi Nh\u1ea5t N\u0103m 2026",
         "Abstract": "Sunwin m\u1edf ra kh\u00f4ng gian gi\u1ea3i tr\u00ed \u0111\u1ec9nh cao online, cung \u1ee9ng d\u1ecbch v\u1ee5 \u0111\u1eb7t c\u01b0\u1ee3c an to\u00e0n, n\u1ea1p r\u00fat si\u00eau t\u1ed1c k\u00e8m c\u01a1 ch\u1ebf b\u1ea3o m\u1eadt t\u1ed1i t\u00e2n b\u1ea3o v\u1ec7 quy\u1ec1n l\u1ee3i ng\u01b0\u1eddi ch\u01a1i.",
-        "Official Site": "https://sunwin-games.com/",
+        "Official Site": "https://filosolize.nl/",
         "Icon": "/wp-content/uploads/2026/04/logo.sunwin.webp",
-        "Redirect": "https://sunwin-games.com/",
+        "Redirect": "https://filosolize.nl/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sunwin-games.com/"
+        "AbstractURL": "https://filosolize.nl/"
     }
 ]

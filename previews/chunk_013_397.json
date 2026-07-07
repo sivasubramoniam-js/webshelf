@@ -70,16 +70,6 @@
         "AbstractURL": "https://peachpass.com/"
     },
     {
-        "link": "https://saveservices.org",
-        "Heading": "Home - Save - Leading The Policy Movement For Fairness and Due Process On Campus",
-        "Abstract": null,
-        "Official Site": "https://www.saveservices.org/",
-        "Icon": "https://www.saveservices.org/wp-content/uploads/2021/08/fb-logo.jpg",
-        "Redirect": "https://www.saveservices.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.saveservices.org/"
-    },
-    {
         "link": "https://acpcongo.com",
         "Heading": "Acp Congo",
         "Abstract": null,
@@ -104,7 +94,7 @@
         "Heading": "Prefeitura de Canind\u00e9",
         "Abstract": "Portal Oficial da Prefeitura Municipal de Canind\u00e9, que traz para o cidad\u00e3o a transpar\u00eancia, diversos servi\u00e7os prestados e not\u00edcias sobre tudo o que acontece no Munic\u00edpio.",
         "Official Site": "https://caninde.ce.gov.br",
-        "Icon": "http://caninde.ce.gov.br/imagens/TopoTimbre.png?time=1783320494",
+        "Icon": "http://caninde.ce.gov.br/imagens/TopoTimbre.png?time=1783407390",
         "Redirect": "https://caninde.ce.gov.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://caninde.ce.gov.br"
@@ -258,6 +248,16 @@
         "Redirect": "https://beldibiesco.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://beldibiesco.xyz"
+    },
+    {
+        "link": "https://o-c-r.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://o-c-r.org",
+        "Icon": "data:;",
+        "Redirect": "https://o-c-r.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://o-c-r.org"
     },
     {
         "link": "https://vesoul.fr",

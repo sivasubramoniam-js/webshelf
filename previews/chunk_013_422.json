@@ -1,13 +1,13 @@
 [
     {
         "link": "https://wingamm.com",
-        "Heading": "Wingamm Mini Camper Compatti Monoscocca Vetroresina 5-6m",
-        "Abstract": "I Migliori Camper compatti e mini caravan di qualit\u00e0 top. Camper monoscocca di vetroresina: miglior design, alta qualit\u00e0, comfort, Made in Italy.",
-        "Official Site": "https://www.wingamm.com/it/",
-        "Icon": "https://www.wingamm.com/wp-content/uploads/2020/09/Wingamm_1_post-1.jpg",
-        "Redirect": "https://www.wingamm.com/it/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://wingamm.com",
+        "Icon": "data:;",
+        "Redirect": "https://wingamm.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.wingamm.com/it/"
+        "AbstractURL": "https://wingamm.com"
     },
     {
         "link": "https://wizardlabels.com",
@@ -171,13 +171,13 @@
     },
     {
         "link": "https://zikaron.it",
-        "Heading": "Centro Arredi Sacri Neocatecumenale - ZIKARON ITALIA",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://zikaron.it/",
-        "Icon": "https://zikaron.it/wp-content/uploads/2016/08/dummy-1.jpg",
-        "Redirect": "https://zikaron.it/",
+        "Official Site": "https://zikaron.it",
+        "Icon": "data:;",
+        "Redirect": "https://zikaron.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://zikaron.it/"
+        "AbstractURL": "https://zikaron.it"
     },
     {
         "link": "https://zoki.com",
@@ -328,15 +328,5 @@
         "Redirect": "https://lhp185.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lhp185.com"
-    },
-    {
-        "link": "https://adventureneverends.com",
-        "Heading": "Adventure Travel for Families Solo Explorers and Luxury Fans",
-        "Abstract": "Join us at Adventure Never Ends on the greatest adventure travel of retirement. Explore hidden gems and local treasures that inspire your love for travel.",
-        "Official Site": "https://adventureneverends.com/",
-        "Icon": "https://cdn.123presto.com/prod/published/adventureneverends/home.png",
-        "Redirect": "https://adventureneverends.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://adventureneverends.com/"
     }
 ]

@@ -60,16 +60,6 @@
         "AbstractURL": "https://greenrocktradespro.com"
     },
     {
-        "link": "https://ajmohan.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ajmohan.com",
-        "Icon": "https://ajmohan.com/wp-content/uploads/2023/12/CA-India-Logo-2-150x150.png",
-        "Redirect": "https://ajmohan.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ajmohan.com"
-    },
-    {
         "link": "https://solid-block.net",
         "Heading": "Solid Blockchain -     Home\n",
         "Abstract": "Solid Blockchain",
@@ -98,6 +88,16 @@
         "Redirect": "https://www.ecoonline.com/ehs-software/lone-worker/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ecoonline.com/ehs-software/lone-worker/"
+    },
+    {
+        "link": "https://drogheriacrivellini.com",
+        "Heading": "Drogheria Crivellini",
+        "Abstract": "Negozio creato usando PrestaShop",
+        "Official Site": "https://drogheriacrivellini.com/it/",
+        "Icon": "https://drogheriacrivellini.com/img/drogheria-crivellini-logo-1630418348.jpg",
+        "Redirect": "https://drogheriacrivellini.com/it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://drogheriacrivellini.com/it/"
     },
     {
         "link": "https://xxxtubeblowjob.com",
@@ -221,10 +221,10 @@
     },
     {
         "link": "https://smithchason.edu",
-        "Heading": "Smith Chason College | Imaging and Nursing Degree Programs",
-        "Abstract": "Formerly West Coast Ultrasound Institute (WCUI), Smith Chason College provides imaging and nursing degree programs at four campuses.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://smithchason.edu",
-        "Icon": "https://smithchason.edu/wp-content/themes/smithchason/assets/images/ogp.jpg",
+        "Icon": "data:;",
         "Redirect": "https://smithchason.edu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://smithchason.edu"
@@ -301,10 +301,10 @@
     },
     {
         "link": "https://heelgainers.com",
-        "Heading": "Heel Gainers | Certified Broker Platform",
-        "Abstract": "",
+        "Heading": "Bot Verification",
+        "Abstract": null,
         "Official Site": "https://heelgainers.com",
-        "Icon": "assets/img/LO.png",
+        "Icon": "N/A",
         "Redirect": "https://heelgainers.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://heelgainers.com"
@@ -341,7 +341,7 @@
     },
     {
         "link": "https://zerkalnye-prava-8q2y.ru",
-        "Heading": "40.76.117.243 06.07.2026 04:41:42",
+        "Heading": "48.214.53.67 07.07.2026 04:38:48",
         "Abstract": null,
         "Official Site": "https://zerkalnye-prava-8q2y.ru",
         "Icon": "data:,",

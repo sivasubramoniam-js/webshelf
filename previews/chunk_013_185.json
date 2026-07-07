@@ -50,6 +50,16 @@
         "AbstractURL": "https://smartcold.shop/"
     },
     {
+        "link": "https://csspta.com",
+        "Heading": "Center Street School PTA | El Segundo, CA",
+        "Abstract": "El Segundo, CA",
+        "Official Site": "https://csspta.com/",
+        "Icon": "https://csspta.com/wp-content/uploads/2018/08/PTA_FullColor.jpg",
+        "Redirect": "https://csspta.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://csspta.com/"
+    },
+    {
         "link": "https://northlife.ro",
         "Heading": "Untitled Document",
         "Abstract": null,
@@ -144,7 +154,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://gravelsemesterflourish.com",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
         "Redirect": "https://gravelsemesterflourish.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gravelsemesterflourish.com"

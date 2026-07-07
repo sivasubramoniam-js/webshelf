@@ -91,13 +91,13 @@
     },
     {
         "link": "https://semaxpolska.com",
-        "Heading": "Peptydy i odczynniki najwy\u017cszej jako\u015bci | SEMAX POLSKA",
-        "Abstract": "Odkryj szerok\u0105 ofert\u0119 SEMAX Polska - peptydy i odczynniki chemiczne. Wiedza i jako\u015b\u0107 w zasi\u0119gu r\u0119ki!",
-        "Official Site": "https://semaxpolska.com/",
-        "Icon": "https://semaxpolska.com/wp-content/uploads/2023/05/cropped-Logo-Semax.png",
-        "Redirect": "https://semaxpolska.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://semaxpolska.com",
+        "Icon": "data:;",
+        "Redirect": "https://semaxpolska.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://semaxpolska.com/"
+        "AbstractURL": "https://semaxpolska.com"
     },
     {
         "link": "https://versoli.com",
@@ -153,11 +153,11 @@
         "link": "https://etmcollection.co.uk",
         "Heading": "Home - ETM Collection",
         "Abstract": "Explore ETM Collection's prestigious London venues, offering luxurious spaces for any event. From rooftop terraces to elegant dining rooms, enjoy exceptional cuisine, extensive drink menus, and tailored event packages, all delivered with impeccable service.",
-        "Official Site": "https:///",
+        "Official Site": "https://etmcollection.co.uk/",
         "Icon": "https://etmcollection.co.uk/app/uploads/2024/08/Wagtail-JustinDeSouza-16-1024x683.jpg",
-        "Redirect": "https:///",
+        "Redirect": "https://etmcollection.co.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https:///"
+        "AbstractURL": "https://etmcollection.co.uk/"
     },
     {
         "link": "https://web4gujarat.com",
@@ -243,11 +243,11 @@
         "link": "https://postgraduatecenter.at",
         "Heading": "Postgraduate Center der Universit\u00e4t Wien",
         "Abstract": "Zukunftsorientierte Weiterbildung mit akademischem Abschluss. Fachwissen vertiefen und neue Perspektiven er\u00f6ffnen.",
-        "Official Site": "https://postgraduatecenter.univie.ac.at/?gad_campaignid=22217324327&gad_source=5&mtm_campaign=WiSe%202025%2F26_GAds_Recht%20allgemein_Deutsch",
+        "Official Site": "https://postgraduatecenter.univie.ac.at/",
         "Icon": "https://postgraduatecenter.univie.ac.at/fileadmin/_processed_/0/b/csm_Campus__C_Universitaet_Wien_765158ef21.jpg",
-        "Redirect": "https://postgraduatecenter.univie.ac.at/?gad_campaignid=22217324327&gad_source=5&mtm_campaign=WiSe%202025%2F26_GAds_Recht%20allgemein_Deutsch",
+        "Redirect": "https://postgraduatecenter.univie.ac.at/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://postgraduatecenter.univie.ac.at/?gad_campaignid=22217324327&gad_source=5&mtm_campaign=WiSe%202025%2F26_GAds_Recht%20allgemein_Deutsch"
+        "AbstractURL": "https://postgraduatecenter.univie.ac.at/"
     },
     {
         "link": "https://adanawebhizmet.com",
@@ -288,6 +288,16 @@
         "Redirect": "https://scxdjzs.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://scxdjzs.com"
+    },
+    {
+        "link": "https://chubbycattle.com",
+        "Heading": "Chubby Cattle",
+        "Abstract": "Our mission is to change the way you enjoy each hotpot dip, shabu shabu swish, and yakiniku sear. With traditional recipes and global influence, Chubby Cattle",
+        "Official Site": "https://www.chubbycattle.com/",
+        "Icon": "https://www.chubbycattle.com/wp-content/uploads/2023/05/NikuX-Los-Angeles-Grand-Opening-Bryan-Miraflor-Photography-202302-059-min-1024x683.jpg",
+        "Redirect": "https://www.chubbycattle.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.chubbycattle.com/"
     },
     {
         "link": "https://onepercenterbikers.com",

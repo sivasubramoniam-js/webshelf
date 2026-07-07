@@ -113,11 +113,11 @@
         "link": "https://indifocus.kr",
         "Heading": "\uc778\ub514\ud3ec\ucee4\uc2a4",
         "Abstract": "\uc815\uce58,\uacbd\uc81c,\uc0ac\ud68c,\ubb38\ud654,\uad6d\uc81c,\uc5f0\uc608,\uc2a4\ud3ec\uce20,\ud658\uacbd,\uc9c0\uc5ed\uc18c\uc2dd,\uc778\ub514\ud3ec\ucee4\uc2a4",
-        "Official Site": "http://www.indifocus.kr",
+        "Official Site": "http://m.indifocus.kr",
         "Icon": "http://f.xza.co.kr/http://www.indifocus.kr/data/jmbc_tv/upload/sns_thumbnail.jpg?wd=1617071481",
-        "Redirect": "http://www.indifocus.kr",
+        "Redirect": "http://m.indifocus.kr",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://www.indifocus.kr"
+        "AbstractURL": "http://m.indifocus.kr"
     },
     {
         "link": "https://industrialgeneralstore.com",
@@ -331,13 +331,13 @@
     },
     {
         "link": "https://jfi.cz",
-        "Heading": "Jakub Fi\u0161er - Senior Systems & Reliability Engineer | LinkedIn",
-        "Abstract": "Senior Systems &amp; Reliability Engineer \u00b7 Versatile Platform Architect, Reliability and Automation Engineer and Systems Integrator with strong affinity for security and 18+ years of professional experience in various IT-related fields mostly involving Linux in some form.\n\nOn speaking terms with Linux since 2003. Troubleshooter with strong teaching, improvisation and investigative skills; a keen explorer who&#39;s not afraid to fail. \u00b7 Experience: Proton \u00b7 Education: \u010cesk\u00e9 vysok\u00e9 u\u010den\u00ed technick\u00e9 v Praze Fakulta elektrotechnick\u00e1 (FEL) \u00b7 Location: Prague \u00b7 389 connections on LinkedIn. View Jakub Fi\u0161er\u2019s profile on LinkedIn, a professional community of 1 billion members.",
-        "Official Site": "https://cz.linkedin.com/in/jficz",
-        "Icon": "https://static.licdn.com/aero-v1/sc/h/1c5u578iilxfi4m4dvc4q810q",
-        "Redirect": "https://cz.linkedin.com/in/jficz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://jfi.cz",
+        "Icon": "N/A",
+        "Redirect": "https://jfi.cz",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cz.linkedin.com/in/jficz"
+        "AbstractURL": "https://jfi.cz"
     },
     {
         "link": "https://jjggbizkaia.eus",
@@ -368,5 +368,15 @@
         "Redirect": "https://joanshome.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://joanshome.com"
+    },
+    {
+        "link": "https://jobs-bayreuth.de",
+        "Heading": "Stellenangebote Bayreuth - Ihre aktuelle Jobb\u00f6rse f\u00fcr Bayreuth und Umgebung",
+        "Abstract": "T\u00e4glich aktuelle und neue Stellenangebote f\u00fcr die Region Bayreuth. Finden Sie aus 6.936 passenden Jobs in Bayreuth und Umgebung, Ihre neue Stelle. Ihre regionale Jobb\u00f6rse jobs-bayreuth.de | 2026",
+        "Official Site": "https://jobs-bayreuth.de",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://jobs-bayreuth.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jobs-bayreuth.de"
     }
 ]

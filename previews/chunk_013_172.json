@@ -131,13 +131,13 @@
     },
     {
         "link": "https://cityartsmagazine.com",
-        "Heading": "City Arts Magazine - Creative minds, compelling stories",
-        "Abstract": "Creative minds, compelling stories",
-        "Official Site": "https://www.cityartsmagazine.com/",
-        "Icon": "N/A",
-        "Redirect": "https://www.cityartsmagazine.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://cityartsmagazine.com",
+        "Icon": "data:;",
+        "Redirect": "https://cityartsmagazine.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cityartsmagazine.com/"
+        "AbstractURL": "https://cityartsmagazine.com"
     },
     {
         "link": "https://amazonere.com",
@@ -211,13 +211,13 @@
     },
     {
         "link": "https://chicisimo.com",
-        "Heading": "Chicisimo - Build with fashion shoppers' taste data",
-        "Abstract": "Chicisimo helps fashion retailers build with shoppers' taste-data. Fashion ontologies, fashion taste graph, taste profiles, virtual closets...",
-        "Official Site": "https://chicisimo.com/",
-        "Icon": "https://chicisimo.com/wp-content/uploads/2020/07/cropped-app_icon-1-32x32.jpg",
-        "Redirect": "https://chicisimo.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://chicisimo.com",
+        "Icon": "data:;",
+        "Redirect": "https://chicisimo.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chicisimo.com/"
+        "AbstractURL": "https://chicisimo.com"
     },
     {
         "link": "https://counton.org",

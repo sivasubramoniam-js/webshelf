@@ -218,5 +218,15 @@
         "Redirect": "https://rspcaassured.org.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rspcaassured.org.uk"
+    },
+    {
+        "link": "https://archivaria.ca",
+        "Heading": "\n\t\tArchivaria\n\t\t\t\t\t",
+        "Abstract": "Archivaria - The Journal of the Association of Canadian Archivists",
+        "Official Site": "https://archivaria.ca",
+        "Icon": "https://archivaria.ca/public/journals/5/favicon_en_US.png",
+        "Redirect": "https://archivaria.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://archivaria.ca"
     }
 ]

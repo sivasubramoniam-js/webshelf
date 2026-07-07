@@ -130,16 +130,6 @@
         "AbstractURL": "https://plantdetectives.com/"
     },
     {
-        "link": "https://plataforma925.com.mx",
-        "Heading": "Plataforma 925",
-        "Abstract": null,
-        "Official Site": "https://plataforma925.com.mx",
-        "Icon": "https://plataforma925.com.mx/wp-content/uploads/2025/06/cropped-icon-logo-32x32.png",
-        "Redirect": "https://plataforma925.com.mx",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://plataforma925.com.mx"
-    },
-    {
         "link": "https://pozadavek.cz",
         "Heading": null,
         "Abstract": null,
@@ -164,7 +154,7 @@
         "Heading": "Protein Ontology ",
         "Abstract": null,
         "Official Site": "https://proconsortium.org",
-        "Icon": "N/A",
+        "Icon": "favicon.ico",
         "Redirect": "https://proconsortium.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://proconsortium.org"

@@ -31,13 +31,13 @@
     },
     {
         "link": "https://skirt.com",
-        "Heading": "Skirt Magazine | Fun Things to Do in Charleston, SC",
-        "Abstract": "Discover fun things to do in Charleston, SC with Skirt Magazine, from trendy events and whiskey tastings to top tourist attractions and local experiences.",
-        "Official Site": "https://www.skirt.com/",
-        "Icon": "https://www.skirt.com/wp-content/uploads/2026/05/Charleston-Bourbon-Tasting-Classes-1024x1024.png",
-        "Redirect": "https://www.skirt.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://skirt.com",
+        "Icon": "data:;",
+        "Redirect": "https://skirt.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.skirt.com/"
+        "AbstractURL": "https://skirt.com"
     },
     {
         "link": "https://sumillionaires.com",
@@ -101,10 +101,10 @@
     },
     {
         "link": "https://xiaotujizhang.com",
-        "Heading": "SpinBoss Casino: up to 400% Welcome Bonus + 400 Free Spins",
-        "Abstract": "SpinBoss Casino (launched 2026, Anjouan-licensed): 8,000+ games, live dealers, crypto payments and a welcome package up to 400% across your first deposits.",
+        "Heading": "SpinBoss Casino: 100% up to \u20ac500 Bonus",
+        "Abstract": "SpinBoss Casino: 3500+ slots and live dealer tables from Pragmatic Play and Evolution Gaming, instant crypto withdrawals on a fully licensed platform.",
         "Official Site": "https://spinboss.net/",
-        "Icon": "/img/58d01ea0c53d4a88962ba9ac880b2d36.webp",
+        "Icon": "/img/609b55d4014845859d19729f2107eac2.png",
         "Redirect": "https://spinboss.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://spinboss.net/"
@@ -198,16 +198,6 @@
         "Redirect": "https://geneseecountyparks.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://geneseecountyparks.org/"
-    },
-    {
-        "link": "https://seniorenbueros.org",
-        "Heading": "Startseite - BaS",
-        "Abstract": "Wir sind dabei!",
-        "Official Site": "https://seniorenbueros.org/",
-        "Icon": "https://seniorenbueros.org/wp-content/uploads/2019/10/starseite-600x400-1.jpg",
-        "Redirect": "https://seniorenbueros.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://seniorenbueros.org/"
     },
     {
         "link": "https://jaecoo-forwardauto.ru",

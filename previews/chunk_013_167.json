@@ -10,16 +10,6 @@
         "AbstractURL": "https://b2chosting.in"
     },
     {
-        "link": "https://els-weiskirchen.de",
-        "Heading": "\n                    IServ - els-weiskirchen.de\n            ",
-        "Abstract": null,
-        "Official Site": "https://els-weiskirchen.de",
-        "Icon": "/iserv/css/static/icons/android-chrome-192x192.fc2f37a3.png",
-        "Redirect": "https://els-weiskirchen.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://els-weiskirchen.de"
-    },
-    {
         "link": "https://hauskonstruktiv.ch",
         "Heading": "Startseite",
         "Abstract": "",
@@ -102,7 +92,7 @@
     {
         "link": "https://theeohsees.com",
         "Heading": "Shows - Osees",
-        "Abstract": "July 3rd L\u2019EPICERIE MODERNE \u2013 LYON / FEYZIN \u2013 FRANCE July 4th NOUMATROUFF MULHOUSE FRANCE\u00a0 July 5th \u2013 FRI-SON \u2013 FRIBOURG \u2013 SWITZERLAND July 7th: \u2013 VERA \u2013 GRONINGEN \u2013 THE NETHERLANDS July 9th: PAARD \u2013 THE HAGUE \u2013 THE \u2026 Continue reading \u2192",
+        "Abstract": "July 7th: \u2013 VERA \u2013 GRONINGEN \u2013 THE NETHERLANDS July 9th: PAARD \u2013 THE HAGUE \u2013 THE NETHERLANDS July 10th: \u2013 EFFENAAR \u2013 EINDHOVEN \u2013 THE NETHERLANDS JULY 11TH : Sjock festival \u2013 Belgium\u00a0 July 12th: \u2013 CACTUS FESTIVAL \u2013 \u2026 Continue reading \u2192",
         "Official Site": "https://www.theeohsees.com/",
         "Icon": "N/A",
         "Redirect": "https://www.theeohsees.com/",
@@ -128,6 +118,16 @@
         "Redirect": "https://digitalfreedomfund.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://digitalfreedomfund.org/"
+    },
+    {
+        "link": "https://abcauto.com",
+        "Heading": "ABC Auto Parts - Car & Truck Replacement Auto Parts - abcauto",
+        "Abstract": "Your local source for quality auto parts. Find a store near you or shop online for car, truck, and SUV replacement parts. Now offering FREE Home Delivery with qualifying purchase! abcauto",
+        "Official Site": "https://abcauto.com",
+        "Icon": "/resources/images/ABC_Auto_Favikon_2.jpg",
+        "Redirect": "https://abcauto.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://abcauto.com"
     },
     {
         "link": "https://priceoutlet.co.uk",
@@ -158,16 +158,6 @@
         "Redirect": "https://olaylar.az",
         "AbstractSource": "BS4",
         "AbstractURL": "https://olaylar.az"
-    },
-    {
-        "link": "https://proboards85.com",
-        "Heading": "Redirecting...",
-        "Abstract": null,
-        "Official Site": "https://proboards85.com",
-        "Icon": "N/A",
-        "Redirect": "https://proboards85.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://proboards85.com"
     },
     {
         "link": "https://programmatic-engine.ru",

@@ -1,13 +1,13 @@
 [
     {
         "link": "https://protistologists.org",
-        "Heading": "Home - International Society of Protistologists",
-        "Abstract": "The International Society of Protistologists (ISOP) is an association of scientists devoted to research on single-celled eukaryotes or protists.",
-        "Official Site": "https://protistologists.org/this-url-is-canonical/",
-        "Icon": "https://protistologists.org/wp-content/uploads/2015/03/ISOP-logo-black-bg-800x800px.png",
-        "Redirect": "https://protistologists.org/this-url-is-canonical/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://protistologists.org",
+        "Icon": "data:;",
+        "Redirect": "https://protistologists.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://protistologists.org/this-url-is-canonical/"
+        "AbstractURL": "https://protistologists.org"
     },
     {
         "link": "https://smarthacklink.xyz",
@@ -114,7 +114,7 @@
         "Heading": "Hotels in Orlando, FL | Grande Lakes Orlando",
         "Abstract": "Make your getaway to the sprawling Grande Lakes resort, a unique five star golf and spa retreat featuring The Ritz Carlton JW Marriott Orlando, FL, hotels",
         "Official Site": "https://grandelakes.com",
-        "Icon": "https://www.grandelakes.com/resourcefiles/home-hero-slider/marriott-grande-lakes-orlando-florida.jpg?version=7062026000213",
+        "Icon": "https://www.grandelakes.com/resourcefiles/home-hero-slider/marriott-grande-lakes-orlando-florida.jpg?version=7072026000301",
         "Redirect": "https://grandelakes.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://grandelakes.com"
@@ -128,6 +128,16 @@
         "Redirect": "https://mahalungeproject.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mahalungeproject.com"
+    },
+    {
+        "link": "https://felzmann.de",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://felzmann.de",
+        "Icon": "data:;",
+        "Redirect": "https://felzmann.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://felzmann.de"
     },
     {
         "link": "https://societyone.com.au",

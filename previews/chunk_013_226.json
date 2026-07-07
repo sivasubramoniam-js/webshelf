@@ -11,10 +11,10 @@
     },
     {
         "link": "https://nugen-rx.com",
-        "Heading": "Nugen-Rx is medical and aesthetic focused",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://nugen-rx.com",
-        "Icon": "https://nugen-rx.com/wp-content/uploads/2023/04/cropped-Nugen-Rx-logo-retina-001-32x32.jpg",
+        "Icon": "data:;",
         "Redirect": "https://nugen-rx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nugen-rx.com"
@@ -64,7 +64,7 @@
         "Heading": "One-KVM - \u8f7b\u91cf\u7ea7 IP-KVM \u8fdc\u7a0b\u7ba1\u7406\u89e3\u51b3\u65b9\u6848",
         "Abstract": "\u57fa\u4e8e Rust \u6784\u5efa\u7684\u8f7b\u91cf\u7ea7 IP-KVM \u89e3\u51b3\u65b9\u6848\uff0c\u901a\u8fc7\u7f51\u7edc\u8fdc\u7a0b\u7ba1\u7406\u670d\u52a1\u5668\u548c\u5de5\u4f5c\u7ad9\uff0c\u5b9e\u73b0 BIOS \u7ea7\u8fdc\u7a0b\u63a7\u5236\u3002",
         "Official Site": "https://one-kvm.cn",
-        "Icon": "N/A",
+        "Icon": "/favicon.png",
         "Redirect": "https://one-kvm.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://one-kvm.cn"
@@ -181,13 +181,13 @@
     },
     {
         "link": "https://passionhome.sg",
-        "Heading": "Home - PassionHome.sg",
-        "Abstract": "Singapore home essentials \u2014 since 2017",
-        "Official Site": "https://passionhome.sg/",
-        "Icon": "https://passionhome.sg/wp-content/uploads/2022/05/cropped-PH-Logo-200px-32x32.avif",
-        "Redirect": "https://passionhome.sg/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://passionhome.sg",
+        "Icon": "data:;",
+        "Redirect": "https://passionhome.sg",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://passionhome.sg/"
+        "AbstractURL": "https://passionhome.sg"
     },
     {
         "link": "https://pisani.com.co",
@@ -201,7 +201,7 @@
     },
     {
         "link": "https://pixexpert.com",
-        "Heading": null,
+        "Heading": "Just a moment...",
         "Abstract": null,
         "Official Site": "https://pixexpert.com",
         "Icon": "N/A",
@@ -268,6 +268,16 @@
         "Redirect": "https://procurenet.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://procurenet.com"
+    },
+    {
+        "link": "https://proinstrumentshop.com",
+        "Heading": "Pro Instrument Shop\u00b7 Ihr professioneller Online-Shop f\u00fcr Instrumente & Zubeh\u00f6r",
+        "Abstract": "Gro\u00dfe Auswahl an Musikinstrumenten: Gitarren, Drums, Keyboards & mehr \u2013 online bestellen!",
+        "Official Site": "https://www.proinstrumentshop.com/",
+        "Icon": "http://www.proinstrumentshop.com/wp-content/uploads/2025/08/ban.png",
+        "Redirect": "https://www.proinstrumentshop.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.proinstrumentshop.com/"
     },
     {
         "link": "https://prosoccershirts.com",

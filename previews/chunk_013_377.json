@@ -40,16 +40,6 @@
         "AbstractURL": "https://revolucionstyle.com/"
     },
     {
-        "link": "https://stlouispark.org",
-        "Heading": "\n\t\n    St. Louis Park, MN | Home\n\n",
-        "Abstract": "",
-        "Official Site": "https://stlouispark.org",
-        "Icon": "N/A",
-        "Redirect": "https://stlouispark.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stlouispark.org"
-    },
-    {
         "link": "https://briteweb.com",
         "Heading": "Nonprofit Branding and Website Agency - Briteweb",
         "Abstract": "Briteweb is an award-winning creative agency that offers design, brand, and web services that empower organizations committed to social change.",
@@ -170,6 +160,16 @@
         "AbstractURL": "https://www.vivaveltoro.com/"
     },
     {
+        "link": "https://next14.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://next14.com",
+        "Icon": "data:;",
+        "Redirect": "https://next14.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://next14.com"
+    },
+    {
         "link": "https://webdesign-boger.de",
         "Heading": "wedebo - Webdesign, Internetprogrammierung, Webhosting aus Vilsbiburg",
         "Abstract": "WEDEBO unterst\u00fctzt Sie bei der Planung und Konzeption, der Produktion, der Einf\u00fchrung und Pflege Ihrer Website oder Internetanwendung",
@@ -228,6 +228,16 @@
         "Redirect": "https://art-graphic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://art-graphic.com"
+    },
+    {
+        "link": "https://whitepeak.com.au",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://whitepeak.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://whitepeak.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://whitepeak.com.au"
     },
     {
         "link": "https://kitsonlaw.com",

@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://morfansub.com.tr",
-        "Heading": "Morfansub.com.tr < En iyi ma\u011faza",
-        "Abstract": null,
-        "Official Site": "https://morfansub.com.tr",
-        "Icon": "N/A",
-        "Redirect": "https://morfansub.com.tr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://morfansub.com.tr"
-    },
-    {
         "link": "https://morningstarbookstore.com",
         "Heading": "American Express",
         "Abstract": "Morning Star Bookstore offers a diverse selection of Christian bibles, books, supplies, gifts, and resources to enhance your spiritual journey. From Bibles to devotionals to church supplies, our online store has everything you need to deepen your faith. Visit us today and explore our collection!",
@@ -131,10 +121,10 @@
     },
     {
         "link": "https://myprelovedtiffany.com",
-        "Heading": "MyPrelovedTiffany - Authenticated Preloved Tiffany & Co.",
-        "Abstract": "We are a pre-owned / second-hand branded store specializing in T&Co. jewelries. We have a zero-tolerance policy for counterfeits and we strive to play our part in battling against the counterfeit market. Shop with confidence, pay less for the same product.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://myprelovedtiffany.com",
-        "Icon": "/favicon-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://myprelovedtiffany.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myprelovedtiffany.com"

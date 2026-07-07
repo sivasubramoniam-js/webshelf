@@ -71,10 +71,10 @@
     },
     {
         "link": "https://musserengineering.com",
-        "Heading": "Musser Engineering | Musser Engineering: Shaping Excellence, Engineering Tomorrow.",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://musserengineering.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://musserengineering.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://musserengineering.com"
@@ -170,11 +170,21 @@
         "AbstractURL": "https://www.sademedia.com/"
     },
     {
+        "link": "https://shorenewstoday.com",
+        "Heading": "Local News | Atlantic City, NJ | pressofatlanticcity.com",
+        "Abstract": "Read today's Atlantic City headlines. Get breaking news, events, and information for New Jersey sports, crime, politics and education.",
+        "Official Site": "https://pressofatlanticcity.com/news/local/",
+        "Icon": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg?resize=600%2C315",
+        "Redirect": "https://pressofatlanticcity.com/news/local/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pressofatlanticcity.com/news/local/"
+    },
+    {
         "link": "https://msafungi.org",
-        "Heading": "Mycological Sociey of America \u2013 Founded 1932",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://msafungi.org",
-        "Icon": "https://msafungi.org/wp-content/uploads/2025/04/2024-MSA-Logo-Main-01-scaled.png",
+        "Icon": "data:;",
         "Redirect": "https://msafungi.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://msafungi.org"
@@ -238,6 +248,16 @@
         "Redirect": "https://hsedays.com/ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hsedays.com/ru"
+    },
+    {
+        "link": "https://griffithfoods.com",
+        "Heading": "Griffith Foods | Global Food Product Development & Innovation",
+        "Abstract": "At Griffith Foods, we specialize in product development for foods that consumers love and our partners can take pride in. Let's create better together.",
+        "Official Site": "https://griffithfoods.com/zh/",
+        "Icon": "https://griffithfoods.b-cdn.net/wp-content/uploads/2020/07/cropped-GF-Fav-32x32.png",
+        "Redirect": "https://griffithfoods.com/zh/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://griffithfoods.com/zh/"
     },
     {
         "link": "https://carbonrev.com",

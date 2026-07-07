@@ -61,10 +61,10 @@
     },
     {
         "link": "https://tomspicky.com",
-        "Heading": "Tom Spicky \u2013 I build things\u2026",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://tomspicky.com",
-        "Icon": "https://tomspicky.com/wp-content/uploads/2026/06/cropped-TS-icon-32x32.jpg",
+        "Icon": "data:;",
         "Redirect": "https://tomspicky.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tomspicky.com"
@@ -120,6 +120,16 @@
         "AbstractURL": "https://activator.ai"
     },
     {
+        "link": "https://themoneypages.com",
+        "Heading": "The Money Pages: Personal Finance News, Features and Opinions",
+        "Abstract": "Read about the latest personal finance news and opinion. The Money Pages offers advice on banking, debt, insurance, investments, retirement and savings.",
+        "Official Site": "https://www.themoneypages.com/",
+        "Icon": "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/3/2017/02/mp-favicon-150x150.png",
+        "Redirect": "https://www.themoneypages.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.themoneypages.com/"
+    },
+    {
         "link": "https://diamantbrev.se",
         "Heading": "Diamantbrev | Vi k\u00f6per ditt guld och dina diamanter",
         "Abstract": "S\u00e4lja diamanter och guld till diamantbrev \u00e4r b\u00e5de s\u00e4kert och smidigt. F\u00e5 erbjuder sina kunder att s\u00e4lja diamanter och guld p\u00e5 samma g\u00e5ng, det g\u00f6r vi.",
@@ -138,16 +148,6 @@
         "Redirect": "https://prompolit.info/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://prompolit.info/"
-    },
-    {
-        "link": "https://theclaiborne.com",
-        "Heading": "Claiborne Senior Living | Boutique senior living communities",
-        "Abstract": null,
-        "Official Site": "https://theclaiborne.com/",
-        "Icon": "https://theclaiborne.com/wp-content/uploads/2022/08/claiborne-c-only-white-Brooke-Saxon-Spencer.png",
-        "Redirect": "https://theclaiborne.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://theclaiborne.com/"
     },
     {
         "link": "https://deletselschaderaad.nl",

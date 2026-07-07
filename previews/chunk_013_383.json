@@ -3,11 +3,11 @@
         "link": "https://taxiautofare.com",
         "Heading": "\n\tTaxi Fare Calculator | World Taxi Fares \n",
         "Abstract": "Find taxi fares all across the world. Our taxi fare calculator provides you with estimated cab fare between two different locations anywhere around the world!",
-        "Official Site": "www.taxiautofare.com/ru/metro-fare-card/Las-Vegas-Metro-fare-for-student/22-4",
+        "Official Site": "www.taxiautofare.com/",
         "Icon": "https://www.taxiautofare.com/Images/taxiautofare_logo_BIG.png",
-        "Redirect": "www.taxiautofare.com/ru/metro-fare-card/Las-Vegas-Metro-fare-for-student/22-4",
+        "Redirect": "www.taxiautofare.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "www.taxiautofare.com/ru/metro-fare-card/Las-Vegas-Metro-fare-for-student/22-4"
+        "AbstractURL": "www.taxiautofare.com/"
     },
     {
         "link": "https://weaselmods.net",
@@ -51,13 +51,13 @@
     },
     {
         "link": "https://gourmandize.com",
-        "Heading": "Application placeholder",
-        "Abstract": null,
-        "Official Site": "https://gourmandize.com",
-        "Icon": "N/A",
-        "Redirect": "https://gourmandize.com",
+        "Heading": "Recipes, menus, cooking tips, food and cookbooks - Gourmandize",
+        "Abstract": "Gourmandize is a recipe website fed by our members. Join us, contribute and be rewarded!",
+        "Official Site": "https://www.gourmandize.com/",
+        "Icon": "images/local/logo_gourmandize_facebook.jpg",
+        "Redirect": "https://www.gourmandize.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gourmandize.com"
+        "AbstractURL": "https://www.gourmandize.com/"
     },
     {
         "link": "https://jaredroiger.top",
@@ -131,7 +131,7 @@
     },
     {
         "link": "https://monthlycalendars.in",
-        "Heading": "Today's Hindu Panchangam (July 6, 2026) -  2026 and  2027 Hindu Panchangam Calendars",
+        "Heading": "Today's Hindu Panchangam (July 7, 2026) -  2026 and  2027 Hindu Panchangam Calendars",
         "Abstract": "July 2026 Hindu Panchangam Calendars - 2026 and 2027 Panchangam Calendars in Telugu, Tamil, Hindi - Todays panchangam with Tithi, Nakshtra, Yoga, Karana, Yamagandam, Rahukalam, Varjyam, Amritakalam",
         "Official Site": "https://monthlycalendars.in",
         "Icon": "N/A",
@@ -278,5 +278,15 @@
         "Redirect": "https://www.angies.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.angies.com"
+    },
+    {
+        "link": "https://softwarevision.de",
+        "Heading": "software vision",
+        "Abstract": null,
+        "Official Site": "https://softwarevision.de",
+        "Icon": "N/A",
+        "Redirect": "https://softwarevision.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://softwarevision.de"
     }
 ]

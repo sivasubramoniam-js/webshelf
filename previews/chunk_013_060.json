@@ -90,16 +90,6 @@
         "AbstractURL": "https://rubird.ru"
     },
     {
-        "link": "https://rugandkilim.com",
-        "Heading": "Rug & Kilim - Antique, Vintage, Modern & Custom Rugs - NYC",
-        "Abstract": "Rug & Kilim by Josh Nazmiyal is a full-service handmade rug company with Contemporary, Scandinavian, Art Deco, European, Moroccan & Kilim rugs & carpets.",
-        "Official Site": "https://rugandkilim.com/",
-        "Icon": "https://cdn-ijahn.nitrocdn.com/dBdbOyPwNRrMLYmQqLmHzvGFsCpcHbfq/assets/images/optimized/rev-6aae6f2/rugandkilim.com/wp-content/uploads/2025/03/cropped-RK-Favicon-Icon-2000x2000-1-32x32.png",
-        "Redirect": "https://rugandkilim.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rugandkilim.com/"
-    },
-    {
         "link": "https://ruhakeresod.hu",
         "Heading": "Ruha keres\u0151",
         "Abstract": "A Ruha Keres\u0151d.hu weboldal\u00e1n t\u00f6bb mint 500 ezer ruh\u00e1b\u00f3l \u00e9s t\u00f6bb mint 1 milli\u00f3 ruha aj\u00e1nlatb\u00f3l v\u00e1logathatsz.",
@@ -134,7 +124,7 @@
         "Heading": "Victoria Ferruccio",
         "Abstract": null,
         "Official Site": "https://www.saattravel.com",
-        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=4909",
+        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=5298",
         "Redirect": "https://www.saattravel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.saattravel.com"
@@ -314,17 +304,17 @@
         "Heading": "Shepherd Electric Supply",
         "Abstract": "Electrical Supply Distributor based in Maryland and Virginia",
         "Official Site": "https://shepherdelec.com",
-        "Icon": "themes/mobile/images/favicon.ico",
+        "Icon": "themes/shepherd-new/images/favicon.ico",
         "Redirect": "https://shepherdelec.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shepherdelec.com"
     },
     {
         "link": "https://shopofmagic.com",
-        "Heading": "Home",
-        "Abstract": "The Little Shop of Magic is a full-service specialty store that has been serving the needs of gamers like yourself since 1994.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://shopofmagic.com",
-        "Icon": "/templates/shaper_helix_ii/favicon.ico",
+        "Icon": "data:;",
         "Redirect": "https://shopofmagic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shopofmagic.com"

@@ -10,16 +10,6 @@
         "AbstractURL": "https://www.dory-fashion.cz/"
     },
     {
-        "link": "https://dotmarket.rs",
-        "Heading": "DOTmarket | Internet prodavnica sa preko 50.000 artikala",
-        "Abstract": "Kupite tehniku online na DotMarket.rs. Veliki izbor televizora, laptop ra\u010dunara, bele tehnike, ku\u0107nih aparata i IT opreme uz povoljne cene i brzu isporuku.",
-        "Official Site": "https://www.dotmarket.rs/",
-        "Icon": "https://www.dotmarket.rs/image/cache/catalog/dot-zvezdice-sajt-negativ-600x315h.png",
-        "Redirect": "https://www.dotmarket.rs/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.dotmarket.rs/"
-    },
-    {
         "link": "https://doubleddie.com",
         "Heading": "Wexler's Coins and Die Varieties",
         "Abstract": "Die varieties such as doubled dies, Repunched mint marks (RPMs), Over Mint Marks (OMMs), Repunched Dates, Overdates,  coin design varieties, as well as regular coins and error coins.",
@@ -111,10 +101,10 @@
     },
     {
         "link": "https://dronline.pt",
-        "Heading": "Tem de ir ao m\u00e9dico? V\u00e1 ao Dr.Online!",
-        "Abstract": "Videoconsultas m\u00e9dicas, urg\u00eancias, especialidades e atestados, sem sair de casa. No seu computador, tablet ou smartphone.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://dronline.pt",
-        "Icon": "https://dronline.pt/wp-content/uploads/2022/11/cropped-DrOnline-fav-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://dronline.pt",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dronline.pt"
@@ -211,13 +201,13 @@
     },
     {
         "link": "https://economicnails.es",
-        "Heading": "Economic Nails - Productos para U\u00f1as de Gel, U\u00f1as Decoradas, Esmaltes Permanentes, Acr\u00edlicos de Calidad a Precios Economimos",
-        "Abstract": "Economic Nails - Productos para U\u00f1as de Gel, U\u00f1as Decoradas, Esmaltes Permanentes, Acr\u00edlicos de Calidad a Precios Economimos",
-        "Official Site": "https://economicnails.es/",
-        "Icon": "https://economicnails.es/img/favicon-1.ico?1779289618",
-        "Redirect": "https://economicnails.es/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://economicnails.es",
+        "Icon": "data:;",
+        "Redirect": "https://economicnails.es",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://economicnails.es/"
+        "AbstractURL": "https://economicnails.es"
     },
     {
         "link": "https://econstrukt.ro",

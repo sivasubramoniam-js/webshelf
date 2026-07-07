@@ -180,6 +180,16 @@
         "AbstractURL": "https://freelivep.com"
     },
     {
+        "link": "https://legalaidchicago.org",
+        "Heading": "Free Legal Services To People Living In Poverty - Legal Aid Chicago",
+        "Abstract": "Legal Aid Chicago provides free civil legal services to people living in poverty in Cook County. Call us at 312-341-1070.",
+        "Official Site": "https://legalaidchicago.org/",
+        "Icon": "N/A",
+        "Redirect": "https://legalaidchicago.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://legalaidchicago.org/"
+    },
+    {
         "link": "https://jinbe.asia",
         "Heading": "Low Cost, High Performance S3 Compatible Object Storage",
         "Abstract": "Backblaze B2 provides unlimited data storage in the cloud at 1/5th the cost of Amazon S3, Microsoft Azure, and Google Cloud.",
@@ -271,12 +281,12 @@
     },
     {
         "link": "https://andreasrecipes.com",
-        "Heading": "Making Life Delicious - Making Life Delicious",
-        "Abstract": "Making Life Delicious with Andrea Meyers is a blog about food, cooking, baking, gardening, and learning how to do new things.",
-        "Official Site": "https://andreasrecipes.com/",
-        "Icon": "https://andreasrecipes.com/wp-content/uploads/2024/05/cropped-MLD_RETINA_LOGO_2024.png",
-        "Redirect": "https://andreasrecipes.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://andreasrecipes.com",
+        "Icon": "data:;",
+        "Redirect": "https://andreasrecipes.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://andreasrecipes.com/"
+        "AbstractURL": "https://andreasrecipes.com"
     }
 ]

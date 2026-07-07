@@ -100,24 +100,14 @@
         "AbstractURL": "https://magiamarket.ru/ru"
     },
     {
-        "link": "https://lindsfurniture.com",
-        "Heading": "Best Furniture Shop In Bangsar, KL Malaysia - Linds Furniture",
-        "Abstract": "Linds Furniture - KL Bangsar's best destination for designer furniture. Our range of designer furniture incl. dining table, sofa, chair, outdoor furniture & etc. Visit us!",
-        "Official Site": "https://lindsfurniture.com",
-        "Icon": "http://lindsfurniture.com/media/favicon/default/linds_favi.jpg",
-        "Redirect": "https://lindsfurniture.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lindsfurniture.com"
-    },
-    {
         "link": "https://jojotastic.com",
-        "Heading": "Jojotastic, LLC | PNW Lifestyle Blogger | Joanna Hawley-McBride | Home",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://jojotastic.com/",
-        "Icon": "https://i0.wp.com/jojotastic.com/wp-content/uploads/2018/10/logo%402x.png?fit=434%2C154&ssl=1",
-        "Redirect": "https://jojotastic.com/",
+        "Official Site": "https://jojotastic.com",
+        "Icon": "data:;",
+        "Redirect": "https://jojotastic.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jojotastic.com/"
+        "AbstractURL": "https://jojotastic.com"
     },
     {
         "link": "https://mahadalylirboyo.ac.id",
@@ -151,13 +141,13 @@
     },
     {
         "link": "https://navgtr.org",
-        "Heading": "National Academy of Video Game Trade Reviewers - NAVGTR",
-        "Abstract": "Since 2001, this press group has awarded unique GOTY winners, including Minecraft, Prince of Persia, Super Mario Odyssey, and Ghost of Tsushima.",
-        "Official Site": "https://navgtr.org/",
-        "Icon": "https://navgtr.org/wp-content/uploads/2019/08/favicon.png",
-        "Redirect": "https://navgtr.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://navgtr.org",
+        "Icon": "data:;",
+        "Redirect": "https://navgtr.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://navgtr.org/"
+        "AbstractURL": "https://navgtr.org"
     },
     {
         "link": "https://visiopt.com",
@@ -278,6 +268,16 @@
         "Redirect": "https://adyannews.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://adyannews.com/"
+    },
+    {
+        "link": "https://berlindistillery.de",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://berlindistillery.de",
+        "Icon": "data:;",
+        "Redirect": "https://berlindistillery.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://berlindistillery.de"
     },
     {
         "link": "https://phparea.com",

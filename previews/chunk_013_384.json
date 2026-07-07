@@ -101,13 +101,23 @@
     },
     {
         "link": "https://petrushenko.space",
-        "Heading": "DSM mobile - \u0427\u0430\u0441\u0442\u043d\u0430\u044f\u00a0\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f\u00a0\u0441\u0438\u0441\u0442\u0435\u043c\u0430",
-        "Abstract": null,
+        "Heading": "\u0427\u0430\u0441\u0442\u043d\u0430\u044f\u00a0\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f\u00a0\u0441\u0438\u0441\u0442\u0435\u043c\u0430",
+        "Abstract": "Synology NAS provides a full-featured network attached storage (NAS) solution to help you manage, backup and share data among Windows, Mac and Linux easily.",
         "Official Site": "https://petrushenko.space",
-        "Icon": "webman/favicon.ico?v=86009",
+        "Icon": "webman/favicon.ico?v=40438",
         "Redirect": "https://petrushenko.space",
         "AbstractSource": "BS4",
         "AbstractURL": "https://petrushenko.space"
+    },
+    {
+        "link": "https://geads.com.es",
+        "Heading": "Anuncios Clasificados en Espa\u00f1a. Avisos gratis Geads.",
+        "Abstract": "\u00a1Publica en Espa\u00f1a tus anuncios clasificados gratis 100% gratis y simple! Miles de avisos de la zona de Espa\u00f1a y alrededores.",
+        "Official Site": "https://www.geads.com.es/",
+        "Icon": "https://static.evisos.com/favicon-geads.ico",
+        "Redirect": "https://www.geads.com.es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.geads.com.es/"
     },
     {
         "link": "https://datieke.com",
@@ -150,6 +160,16 @@
         "AbstractURL": "https://kumina.eu/"
     },
     {
+        "link": "https://generalhospitalblog.com",
+        "Heading": "General Hospital Spoilers Comings & Goings Rumors News",
+        "Abstract": "General Hospital Spoilers, Rumors, News, & Updates",
+        "Official Site": "https://www.generalhospitalblog.com/",
+        "Icon": "https://i0.wp.com/www.generalhospitalblog.com/wp-content/uploads/2023/07/cropped-6A8D64AD-48E9-4008-8281-014D3CFB3144.png?fit=512%2C512&ssl=1",
+        "Redirect": "https://www.generalhospitalblog.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.generalhospitalblog.com/"
+    },
+    {
         "link": "https://bonyan-shahd.com",
         "Heading": "\u0628\u0646\u06cc\u0627\u0646 \u0634\u0647\u062f -",
         "Abstract": null,
@@ -158,6 +178,16 @@
         "Redirect": "https://bonyan-shahd.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bonyan-shahd.com/"
+    },
+    {
+        "link": "https://theladbiblegroup.com",
+        "Heading": "Welcome to LADbible Group",
+        "Abstract": "Our\u00a0mission\u00a0is to give the youth generation a\u00a0voice\u00a0by building\u00a0communities\u00a0that\u00a0laugh, think\u00a0and\u00a0act.",
+        "Official Site": "https://www.ladbiblegroup.com/",
+        "Icon": "https://www.ladbiblegroup.com/app/uploads/2020/06/home-page.jpg",
+        "Redirect": "https://www.ladbiblegroup.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ladbiblegroup.com/"
     },
     {
         "link": "https://prayercaresharenetwork.com",
@@ -191,7 +221,7 @@
     },
     {
         "link": "https://gennexium40.com",
-        "Heading": "\u062e\u0631\u06cc\u062f \u0644\u0627\u06cc\u0633\u0646\u0633 \u0646\u0648\u062f 32 | \u0647\u0645\u06cc\u0627\u0631\u0646\u0648\u062f 32 |\u062e\u0631\u06cc\u062f \u0622\u0646\u062a\u06cc \u0648\u06cc\u0631\u0648\u0633 eset \u0627\u0631\u0632\u0627\u0646",
+        "Heading": "\u0647\u0645\u06cc\u0627\u0631 \u0646\u0648\u062f 32 : \u062e\u0631\u06cc\u062f \u0644\u0627\u06cc\u0633\u0646\u0633 \u0646\u0648\u062f 32 \u062a\u062d\u0648\u06cc\u0644 \u0641\u0648\u0631\u06cc (\u062a\u0645\u062f\u06cc\u062f \u0628\u0627 \u062a\u062e\u0641\u06cc\u0641)",
         "Abstract": "\u062e\u0631\u06cc\u062f \u0644\u0627\u06cc\u0633\u0646\u0633  ESET \u0628\u0627 \u062a\u062d\u0648\u06cc\u0644 \u0622\u0646\u06cc\u060c \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0633\u0631\u06cc\u0639 \u0648 \u0642\u06cc\u0645\u062a \u0631\u0642\u0627\u0628\u062a\u06cc \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u062e\u0627\u0646\u06af\u06cc \u0648 \u06a9\u0633\u0628\u200c\u0648\u06a9\u0627\u0631.",
         "Official Site": "/index.php",
         "Icon": "/assets/pics/logo.png",
@@ -258,5 +288,25 @@
         "Redirect": "https://www.miss-international.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.miss-international.org/"
+    },
+    {
+        "link": "https://ranitac.top",
+        "Heading": "BET88 [ranitac]\u2b50\ufe0fTrang BET88.COM t\u1eb7ng +88K vui World Cup 2026",
+        "Abstract": "BET88 mang \u0111\u1ebfn kh\u00f4ng kh\u00ed World Cup s\u00f4i \u0111\u1ed9ng v\u1edbi nhi\u1ec1u l\u1ef1a ch\u1ecdn th\u1ec3 thao v\u00e0 \u01b0u \u0111\u00e3i \u0111\u0103ng k\u00fd nh\u1eadn ngay 88K cho th\u00e0nh vi\u00ean m\u1edbi.",
+        "Official Site": "https://ranitac.top/vi-vn/",
+        "Icon": "https://ranitac.top/wp-content/uploads/2025/06/bet88-dan-dau-xu-huong-ca-cuoc-truc-tuyen-tai-viet-nam.webp",
+        "Redirect": "https://ranitac.top/vi-vn/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ranitac.top/vi-vn/"
+    },
+    {
+        "link": "https://seehdfilm.com",
+        "Heading": "Seehdfilm - \u0e04\u0e27\u0e32\u0e21\u0e2a\u0e19\u0e38\u0e01\u0e41\u0e25\u0e30\u0e04\u0e27\u0e32\u0e21\u0e15\u0e37\u0e48\u0e19\u0e40\u0e15\u0e49\u0e19\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07 - Seehdfilm - \u0e04\u0e27\u0e32\u0e21\u0e2a\u0e19\u0e38\u0e01\u0e41\u0e25\u0e30\u0e04\u0e27\u0e32\u0e21\u0e15\u0e37\u0e48\u0e19\u0e40\u0e15\u0e49\u0e19\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07. \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e2b\u0e19\u0e31\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48!",
+        "Abstract": "Tagline",
+        "Official Site": "https://seehdfilm.com/",
+        "Icon": "N/A",
+        "Redirect": "https://seehdfilm.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seehdfilm.com/"
     }
 ]

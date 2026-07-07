@@ -121,13 +121,13 @@
     },
     {
         "link": "https://stk-retail.ru",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://stk-retail.ru",
-        "Icon": "N/A",
-        "Redirect": "https://stk-retail.ru",
+        "Heading": "\n    \u0414\u043e\u043c\u0435\u043d stk-retail.ru: \u043a\u0443\u043f\u0438\u0442\u044c \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u0434\u043e\u043c\u0435\u043d\u043d\u044b\u0445 \u0438\u043c\u0435\u043d \u0420\u0435\u0433.\u0440\u0443\n",
+        "Abstract": "\u0414\u043e\u043c\u0435\u043d stk-retail.ru \u043f\u0440\u043e\u0434\u0430\u0451\u0442\u0441\u044f. \u0426\u0435\u043d\u0430: \u0414\u043e\u0433\u043e\u0432\u043e\u0440\u043d\u0430\u044f. \u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438: \u0420\u0430\u0437\u043d\u043e\u0435 - \u0420\u0430\u0437\u043d\u043e\u0435 (\u0434\u0440\u0443\u0433\u043e\u0435). \u0412\u0441\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043e \u0434\u043e\u043c\u0435\u043d\u0435 \u0432 \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u0434\u043e\u043c\u0435\u043d\u043e\u0432 \u0420\u0435\u0433.\u0440\u0443.",
+        "Official Site": "https://www.reg.ru/domain/shop/lot/stk-retail.ru",
+        "Icon": "https://img.reg.ru/news/og-regru.png?fit=cover&width=1200&height=630",
+        "Redirect": "https://www.reg.ru/domain/shop/lot/stk-retail.ru",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://stk-retail.ru"
+        "AbstractURL": "https://www.reg.ru/domain/shop/lot/stk-retail.ru"
     },
     {
         "link": "https://galeon1.com",
@@ -270,6 +270,16 @@
         "AbstractURL": "https://hwoyxrri.com"
     },
     {
+        "link": "https://45cali.com",
+        "Heading": "taptap\u5b98\u65b9\u4e0b\u88c5-taptap\u5b98\u65b9\u4e0b\u8f7d\u5b89\u88c5\u94fe\u63a5",
+        "Abstract": "TapTap\u5b98\u65b9\u4e0b\u88c5\u5165\u53e3\u63d0\u4f9b\u6b63\u7248\u4e0b\u8f7d\u5b89\u88c5\u94fe\u63a5\uff0c\u652f\u6301\u5b89\u5353\u4e0eiOS\uff0c\u8f7b\u677e\u83b7\u53d6\u70ed\u95e8\u624b\u6e38\u4e0e\u6e38\u620f\u8d44\u8baf\u3002",
+        "Official Site": "https://45cali.com",
+        "Icon": "N/A",
+        "Redirect": "https://45cali.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://45cali.com"
+    },
+    {
         "link": "https://longandshortreviews.com",
         "Heading": "Long and Short Reviews \u2014 Reviewing Fiction One Happy Ever After at a Time",
         "Abstract": "Reviewing Fiction One Happy Ever After at a Time",
@@ -301,10 +311,10 @@
     },
     {
         "link": "https://boomservicestaffing.com",
-        "Heading": "The Best Way to Work",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://boomservicestaffing.com",
-        "Icon": "https://boomservicestaffing.com/wp-content/uploads/2025/08/cropped-boom-logo-blue-2-e1756078041772-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://boomservicestaffing.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://boomservicestaffing.com"

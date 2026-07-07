@@ -40,16 +40,6 @@
         "AbstractURL": "https://neuevisionen.de"
     },
     {
-        "link": "https://user-mail.ru",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://user-mail.ru",
-        "Icon": "N/A",
-        "Redirect": "https://user-mail.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://user-mail.ru"
-    },
-    {
         "link": "https://kagelink.me",
         "Heading": "Kagelink - Best Shortener link service - Kagelink - best shortener link service",
         "Abstract": "Kagelink - best shortener link service",
@@ -130,6 +120,16 @@
         "AbstractURL": "https://smartcitytelecom.com/business/"
     },
     {
+        "link": "https://zachrankaapp.cz",
+        "Heading": "Z\u00e1chranka",
+        "Abstract": null,
+        "Official Site": "https://www.zachrankaapp.cz/",
+        "Icon": "/themes/zachranka/images/ico/favicon.png",
+        "Redirect": "https://www.zachrankaapp.cz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.zachrankaapp.cz/"
+    },
+    {
         "link": "https://marketmedical.ma",
         "Heading": "Le confort commence ici,des solutions de sant\u00e9 innovantes sign\u00e9es Beurer",
         "Abstract": "D\u00e9couvrez des produits de sant\u00e9 et de bien-\u00eatre de haute qualit\u00e9, con\u00e7us pour allier pr\u00e9cision et confort. Offrez-vous d\u00e9tente, soulagement et meilleure sant\u00e9 avec la fiabilit\u00e9 des produits Beurer",
@@ -191,13 +191,13 @@
     },
     {
         "link": "https://cribsforkids.org",
-        "Heading": "Home - Cribs for Kids",
-        "Abstract": "our missionThe mission of Cribs for Kids\u00ae is to prevent infant sleep-related deaths by educating parents and caregivers on the importance of practicing safe",
-        "Official Site": "https://cribsforkids.org/",
-        "Icon": "https://cribsforkids.org/wp-content/uploads/0Z7_1564.jpg",
-        "Redirect": "https://cribsforkids.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://cribsforkids.org",
+        "Icon": "data:;",
+        "Redirect": "https://cribsforkids.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cribsforkids.org/"
+        "AbstractURL": "https://cribsforkids.org"
     },
     {
         "link": "https://knitting.co.nz",
@@ -238,16 +238,6 @@
         "Redirect": "https://streampixels.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://streampixels.net"
-    },
-    {
-        "link": "https://seger.cz",
-        "Heading": "Ing. Ji\u0159\u00ed Seger",
-        "Abstract": "Ing. Ji\u0159\u00ed Seger",
-        "Official Site": "https://seger.cz",
-        "Icon": "N/A",
-        "Redirect": "https://seger.cz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://seger.cz"
     },
     {
         "link": "https://techblast.xyz",

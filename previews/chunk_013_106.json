@@ -51,10 +51,10 @@
     },
     {
         "link": "https://neglectedbooks.com",
-        "Heading": "The Neglected Books Page \u2013 www.NeglectedBooks.com:  Where forgotten books are remembered",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://neglectedbooks.com",
-        "Icon": "https://neglectedbooks.com/wp-content/uploads/2015/10/cropped-nbsiteicon1-32x32.jpg",
+        "Icon": "data:;",
         "Redirect": "https://neglectedbooks.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://neglectedbooks.com"
@@ -88,6 +88,16 @@
         "Redirect": "https://www.oregonbrewfest.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.oregonbrewfest.com/"
+    },
+    {
+        "link": "https://boltcity.com",
+        "Heading": "Bolt City Productions | Bolt City Bulletin",
+        "Abstract": null,
+        "Official Site": "https://boltcity.com",
+        "Icon": "N/A",
+        "Redirect": "https://boltcity.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://boltcity.com"
     },
     {
         "link": "https://bandyshirt.de",

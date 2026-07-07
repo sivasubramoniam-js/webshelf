@@ -80,6 +80,16 @@
         "AbstractURL": "https://www.fermedubec.com/"
     },
     {
+        "link": "https://spectropop.com",
+        "Heading": "Spectropop! The website about Phil Spector, Wall of Sound, Brill Building, \nGirl Groups, West Coast",
+        "Abstract": "All the great pop music of the 60s, and home\nof the mailing list for fans of 60s pop music",
+        "Official Site": "https://spectropop.com",
+        "Icon": "N/A",
+        "Redirect": "https://spectropop.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://spectropop.com"
+    },
+    {
         "link": "https://it-people.co.za",
         "Heading": "CREATING BETTER IT SOLUTIONS - IT People",
         "Abstract": "We assist companies with their IT support, custom software design, web applications, graphic design & digital marketing.",
@@ -120,6 +130,16 @@
         "AbstractURL": "https://notatrace.com.au"
     },
     {
+        "link": "https://semiconductorstore.com",
+        "Heading": "Symmetry Electronics Authorized Distributor | Homepage | Symmetry Electronics",
+        "Abstract": "Symmetry Electronics is a supplier-authorized distributor of industry-leading wireless, video, and embedded semiconductor products and engineering tech support.",
+        "Official Site": "https://semiconductorstore.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://semiconductorstore.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://semiconductorstore.com"
+    },
+    {
         "link": "https://wiking-laden.de",
         "Heading": "Der kleine Wiking-Laden",
         "Abstract": "Wiking Exklusiv Sondermodelle",
@@ -144,7 +164,7 @@
         "Heading": "Slekt i midtre Telemark",
         "Abstract": null,
         "Official Site": "https://slekt-i-midt-telemark.no",
-        "Icon": "img/public/favicon.ico",
+        "Icon": "img/public/android-icon-192x192.png",
         "Redirect": "https://slekt-i-midt-telemark.no",
         "AbstractSource": "BS4",
         "AbstractURL": "https://slekt-i-midt-telemark.no"
@@ -188,6 +208,16 @@
         "Redirect": "https://loloappspro.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://loloappspro.com/"
+    },
+    {
+        "link": "https://globalcardmart.com",
+        "Heading": "Vintage Anime Cards - 90s & Early 2000s Collectibles | Global Card Mart",
+        "Abstract": "Your ultimate destination for anime and gaming cards. Find Pok\u00e9mon, Magic: The Gathering, Yu-Gi-Oh, and other TCG/CCG collectibles. Rare finds and new releases available!",
+        "Official Site": "https://www.globalcardmart.com/",
+        "Icon": "http://www.globalcardmart.com/wp-content/uploads/2025/10/banner.jpg",
+        "Redirect": "https://www.globalcardmart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.globalcardmart.com/"
     },
     {
         "link": "https://4-dosug.com",

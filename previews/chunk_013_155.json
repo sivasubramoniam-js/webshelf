@@ -91,10 +91,10 @@
     },
     {
         "link": "https://prisoninsight.com",
-        "Heading": "Inmate Lookup | Free Nationwide Inmate Search",
-        "Abstract": "Lookup Inmates who are currently imprisoned in the USA. Get jail details, visitation rules, contact details and driving directions.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://prisoninsight.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://prisoninsight.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://prisoninsight.com"
@@ -220,16 +220,6 @@
         "AbstractURL": "https://card81.ru"
     },
     {
-        "link": "https://throngtalk.com",
-        "Heading": "ThrongTalk Global Network - A unified digital ecosystem for learning, networking, streaming, collaboration, research, and global commerce.",
-        "Abstract": "The Home Of Free Courses, Advertising, Industry Insights, and Social Networking!",
-        "Official Site": "https://throngtalk.com/",
-        "Icon": "https://i0.wp.com/throngtalk.com/wp-content/uploads/2025/11/cropped-mail-logo-1.png?fit=32%2C32&ssl=1",
-        "Redirect": "https://throngtalk.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://throngtalk.com/"
-    },
-    {
         "link": "https://aviator-game-deposit.com",
         "Heading": "Aviator Game India: Play Online & Win Big in 2026 \ud83d\ude80 | Official Guide",
         "Abstract": "Dive into Aviator Game India and secure your big wins in 2026. Enjoy exclusive bonuses and proven strategies for top results. Start your winning journey now!. Updated official guide for international players.",
@@ -238,15 +228,5 @@
         "Redirect": "https://sandiego-aviator.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sandiego-aviator.com/"
-    },
-    {
-        "link": "https://autoru.online",
-        "Heading": "\u0424\u041a\u0430\u0440\u0441 \u0441\u0431\u043e\u0440 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0439 - \u0440\u0430\u0431\u043e\u0447\u0430\u044f \u043f\u0430\u043d\u0435\u043b\u044c",
-        "Abstract": null,
-        "Official Site": "https://autoru.online",
-        "Icon": "N/A",
-        "Redirect": "https://autoru.online",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://autoru.online"
     }
 ]

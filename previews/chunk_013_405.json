@@ -1,10 +1,10 @@
 [
     {
         "link": "https://corbero.es",
-        "Heading": "Corber\u00f3",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://corbero.es",
-        "Icon": "https://corbero.es/wp-content/uploads/2026/04/favicon-corbero.png",
+        "Icon": "data:;",
         "Redirect": "https://corbero.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://corbero.es"
@@ -141,13 +141,13 @@
     },
     {
         "link": "https://daborstore.it",
-        "Heading": "Dabor forniture per parrucchieri - DABOR",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://daborstore.it/",
-        "Icon": "https://daborstore.it/wp-content/uploads/2022/07/cropped-favicon-dabor-png-512-32x32.png",
-        "Redirect": "https://daborstore.it/",
+        "Official Site": "https://daborstore.it",
+        "Icon": "data:;",
+        "Redirect": "https://daborstore.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://daborstore.it/"
+        "AbstractURL": "https://daborstore.it"
     },
     {
         "link": "https://daksshoes.com",
@@ -191,13 +191,13 @@
     },
     {
         "link": "https://davidcullenjewellers.com",
-        "Heading": "Luxury Jewellery, Diamonds, Watches | David Cullen Jewellers\u2122",
-        "Abstract": "Amazing prices on men's & women's jewellery & watches from all the top brands: Michael Kors, Boss, Armani. Worldwide Shipping Click & collect",
-        "Official Site": "https://davidcullenjewellers.com/",
-        "Icon": "https://davidcullenjewellers.com/wp-content/uploads/2025/04/cropped-David-Cullen-Logo-Outlined-white-32x32.png",
-        "Redirect": "https://davidcullenjewellers.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://davidcullenjewellers.com",
+        "Icon": "data:;",
+        "Redirect": "https://davidcullenjewellers.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://davidcullenjewellers.com/"
+        "AbstractURL": "https://davidcullenjewellers.com"
     },
     {
         "link": "https://davostackle.com.au",
@@ -271,10 +271,10 @@
     },
     {
         "link": "https://depodental.cl",
-        "Heading": "Depodental \u2013 Insumos dentales de alta calidad",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://depodental.cl",
-        "Icon": "https://depodental.cl/wp-content/uploads/2026/02/cropped-favic-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://depodental.cl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://depodental.cl"
@@ -288,6 +288,16 @@
         "Redirect": "https://depostore.hu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://depostore.hu"
+    },
+    {
+        "link": "https://devleutbouwmaterialen.nl",
+        "Heading": "Bouwmaterialen Best | De Vleut - Home",
+        "Abstract": "Voor bouwmaterialen nieuw en gebruikt moet u bij 'De Vleut' zijn.",
+        "Official Site": "https://devleutbouwmaterialen.nl",
+        "Icon": "https://www.devleutbouwmaterialen.nl/media/favicon/stores/1/ICON-devleut.png",
+        "Redirect": "https://devleutbouwmaterialen.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://devleutbouwmaterialen.nl"
     },
     {
         "link": "https://dezin.in",

@@ -61,13 +61,13 @@
     },
     {
         "link": "https://pingco.com.au",
-        "Heading": "PingCo - Transforming Telecommunications Through Automation",
-        "Abstract": "At PingCo, we're transforming how the global voice network is deployed, managed, and serviced with cutting-edge automation and a customer-first approach.",
-        "Official Site": "https://pingco.cloud/",
-        "Icon": "https://pingco.cloud/wp-content/uploads/2024/11/P-IMGE035_Cityscape_Tech_Manager.jpg",
-        "Redirect": "https://pingco.cloud/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pingco.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://pingco.com.au",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pingco.cloud/"
+        "AbstractURL": "https://pingco.com.au"
     },
     {
         "link": "https://reactive-executive.com",
@@ -93,11 +93,11 @@
         "link": "https://reactable.com",
         "Heading": "Welcome |Reactable Legacy",
         "Abstract": "The Reactable was conceived and developed in Barcelona by Sergi Jord\u00e0, Martin Kaltenbrunner, G\u00fcnter Geiger and Marcos Alonso.",
-        "Official Site": "http://reactable.com/",
+        "Official Site": "https://reactable.com/",
         "Icon": "http://reactable.com/wp-content/uploads/2015/09/Icono.png",
-        "Redirect": "http://reactable.com/",
+        "Redirect": "https://reactable.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://reactable.com/"
+        "AbstractURL": "https://reactable.com/"
     },
     {
         "link": "https://webclientes.com",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://ojshostng.com"
     },
     {
+        "link": "https://chuguevsky.ru",
+        "Heading": "\u0421\u0430\u0439\u0442 \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0427\u0443\u0433\u0443\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
+        "Abstract": "\u0421\u0430\u0439\u0442 \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0427\u0443\u0433\u0443\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
+        "Official Site": "https://chuguevsky.ru",
+        "Icon": "/bitrix/templates/chmr/favicon2.ico",
+        "Redirect": "https://chuguevsky.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chuguevsky.ru"
+    },
+    {
         "link": "https://txstatebobcats.com",
         "Heading": "\n\tTexas State Athletics - Official Athletics Website\n",
         "Abstract": "The official athletics website for the Texas State University Bobcats",
@@ -201,10 +211,10 @@
     },
     {
         "link": "https://filterwater.com",
-        "Heading": "REFUSED",
-        "Abstract": null,
+        "Heading": "Water Filters",
+        "Abstract": "Water Filter Superstore is your leading source for Water Filters and Filtration Systems. Every filter we sell has been lab-tested and evaluated against the highest standards in the industry. Free shipping over $99!",
         "Official Site": "https://filterwater.com",
-        "Icon": "N/A",
+        "Icon": "favicon.ico",
         "Redirect": "https://filterwater.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://filterwater.com"
@@ -281,13 +291,13 @@
     },
     {
         "link": "https://businesscycle.com",
-        "Heading": "Economic and Inflation Cycle Forecasting Research",
-        "Abstract": "ECRI helps investment managers, corporations, and central banks anticipate economic growth and inflation cycle turning points \u2014 with a track record spanning 100 years.",
-        "Official Site": "https://www.businesscycle.com",
-        "Icon": "https://www.businesscycle.com/wp-content/uploads/2023/06/Logo-PNG-copia-e1686925240924.png",
-        "Redirect": "https://www.businesscycle.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://businesscycle.com",
+        "Icon": "data:;",
+        "Redirect": "https://businesscycle.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.businesscycle.com"
+        "AbstractURL": "https://businesscycle.com"
     },
     {
         "link": "https://cybergear2.com",

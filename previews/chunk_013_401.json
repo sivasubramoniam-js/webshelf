@@ -200,6 +200,16 @@
         "AbstractURL": "https://antojoentucocina.com/"
     },
     {
+        "link": "https://anytimeonline.com.cy",
+        "Heading": "\u0391\u03c1\u03c7\u03b9\u03ba\u03ae",
+        "Abstract": null,
+        "Official Site": "https://anytimeonline.com.cy",
+        "Icon": "/online/contenthandler/!ut/p/digest!dbZHTbivT8o7t3exJ39EyA/war/cy-theme-static/themes/anytime.cy/images/favicon.ico",
+        "Redirect": "https://anytimeonline.com.cy",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://anytimeonline.com.cy"
+    },
+    {
         "link": "https://apollostore.com",
         "Heading": "Apollo store",
         "Abstract": "Everything in one place - quality, style and shopping pleasure!\n Discover a world of carefully selected goods that will make your everyday life more enjoyable.\n At Apollo store, you'll find everything you need for home, garden, leisure and personal care \u2013 from elegant decorations and modern electronics to c ...",
@@ -361,10 +371,10 @@
     },
     {
         "link": "https://atsafetytraining.ca",
-        "Heading": "AT Safety Training \u2013 Sherwood Park, AB, Canada",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://atsafetytraining.ca",
-        "Icon": "https://atsafetytraining.ca/wp-content/uploads/2025/07/cropped-at-safety-logo-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://atsafetytraining.ca",
         "AbstractSource": "BS4",
         "AbstractURL": "https://atsafetytraining.ca"

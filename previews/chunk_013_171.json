@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.wnyc.org/browse/shows/new-sounds"
     },
     {
-        "link": "https://racingtvschedule.com",
-        "Heading": "Motorsports TV Schedule - RacingTvSchedule.com",
-        "Abstract": "Motorsports TV Guide For Live Events, Replays, Practice And More. We Cover NASCAR, IndyCar, Formula 1, IMSA, WEC & More. Updated Everyday!",
-        "Official Site": "http://www.racingtvschedule.com/usa.html",
-        "Icon": "https://nebula.wsimg.com/dc40b8d02a3b60ee3bada686fd31f96d?AccessKeyId=057F57347F85927AD570&disposition=0&alloworigin=1",
-        "Redirect": "http://www.racingtvschedule.com/usa.html",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://www.racingtvschedule.com/usa.html"
-    },
-    {
         "link": "https://pekcuralabs.com",
         "Heading": "Quality Peptides Store | PekCura Labs",
         "Abstract": "PekCura is your trusted source for research-grade peptides delivered to your office or front door. Purchase your peptides today.",
@@ -71,10 +61,10 @@
     },
     {
         "link": "https://gymratchallenge.com",
-        "Heading": "The GymRat CHALLENGE a test of skill & will where basketball reputations are earned!",
-        "Abstract": "Where today and tomorrow's NCAA, NBA & WNBA stars have EARNED their basketball reputations since 1998",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://gymratchallenge.com",
-        "Icon": "https://gymratchallenge.com/wp-content/uploads/2016/01/cropped-fav-32x32.gif",
+        "Icon": "data:;",
         "Redirect": "https://gymratchallenge.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gymratchallenge.com"
@@ -271,13 +261,13 @@
     },
     {
         "link": "https://oneworldmedia.org.uk",
-        "Heading": "One World Media \u2013 Stories shape our world. It matters who tells them and how they are told. ",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://oneworldmedia.org.uk/",
-        "Icon": "https://oneworldmedia.org.uk/wp-content/uploads/2017/01/favicon-32x32.png",
-        "Redirect": "https://oneworldmedia.org.uk/",
+        "Official Site": "https://oneworldmedia.org.uk",
+        "Icon": "data:;",
+        "Redirect": "https://oneworldmedia.org.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://oneworldmedia.org.uk/"
+        "AbstractURL": "https://oneworldmedia.org.uk"
     },
     {
         "link": "https://amxpress.com",

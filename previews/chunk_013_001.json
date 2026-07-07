@@ -41,13 +41,13 @@
     },
     {
         "link": "https://bloggerjet.com",
-        "Heading": "BloggerJet | Your Hub for Online Marketing Tools",
-        "Abstract": "Your Hub for Online Marketing Tools",
-        "Official Site": "https://bloggerjet.com/",
-        "Icon": "https://bloggerjet.com/img/cropped-bloggerjet-new-favicon-32x32.png",
-        "Redirect": "https://bloggerjet.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bloggerjet.com",
+        "Icon": "data:;",
+        "Redirect": "https://bloggerjet.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bloggerjet.com/"
+        "AbstractURL": "https://bloggerjet.com"
     },
     {
         "link": "https://awtv.ru",
@@ -74,7 +74,7 @@
         "Heading": "IT-Systemhaus aus Lippe | Hereweare . it architecs - Ihr kompetenter IT-Partner",
         "Abstract": "Cloud, Netzwerkadministration, Datensicherheit, IT-Infrastruktur, Managed Servives \u2013 unser Spektrum deckt alles ab, was Unternehmen von einer modernen IT erwarten k\u00f6nnen.",
         "Official Site": "https://www.hereweare.de/",
-        "Icon": "/templates/zt_femto/images/favicon.ico",
+        "Icon": "/images/favicon.ico",
         "Redirect": "https://www.hereweare.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hereweare.de/"
@@ -221,7 +221,7 @@
     },
     {
         "link": "https://puretechdsm.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://puretechdsm.com",
         "Icon": "N/A",

@@ -82,32 +82,22 @@
     {
         "link": "https://malygosc.pl",
         "Heading": "Ma\u0142y Go\u015b\u0107",
-        "Abstract": null,
+        "Abstract": "Miesi\u0119cznik dla dzieci i m\u0142odzie\u017cy. Gry, porady, dowcipy, quizy, rozrywka, porady dotycz\u0105ce \u017cycia religijnego.",
         "Official Site": "https://malygosc.pl",
-        "Icon": "/static/themes/mgn-2017/touch-icons/touch-icon-192x192.png",
+        "Icon": "https://www.malygosc.pl/static/images/base/malygosc.jpg",
         "Redirect": "https://malygosc.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://malygosc.pl"
     },
     {
-        "link": "https://gtmf.org",
-        "Heading": "Grand Teton Music Festival, Classical Music in Jackson Hole, WY",
-        "Abstract": "Experience the Grand Teton Music Festival in Jackson Hole, Wyoming\u2014celebrating over 60 years of exceptional classical performances by renowned musicians from around the world. Discover concerts, events, and tickets today.",
-        "Official Site": "https://gtmf.org/",
-        "Icon": "/wp-content/themes/gtmf/assets/images/favicon.svg",
-        "Redirect": "https://gtmf.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gtmf.org/"
-    },
-    {
         "link": "https://ccscheme.org.uk",
-        "Heading": "Considerate Constructors Scheme",
-        "Abstract": "The Considerate Constructors Scheme is an independently run organisation supporting and guiding positive change in the construction industry.",
-        "Official Site": "https://www.considerateconstructors.com/",
-        "Icon": "https://www.considerateconstructors.com/wp-content/uploads/2022/11/Home03_1920px.jpg",
-        "Redirect": "https://www.considerateconstructors.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ccscheme.org.uk",
+        "Icon": "data:;",
+        "Redirect": "https://ccscheme.org.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.considerateconstructors.com/"
+        "AbstractURL": "https://ccscheme.org.uk"
     },
     {
         "link": "https://vivasoftltd.com",

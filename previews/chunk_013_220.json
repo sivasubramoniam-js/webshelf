@@ -41,7 +41,7 @@
     },
     {
         "link": "https://chiefsustainabilityofficer.net",
-        "Heading": null,
+        "Heading": "Just a moment...",
         "Abstract": null,
         "Official Site": "https://chiefsustainabilityofficer.net",
         "Icon": "N/A",
@@ -100,6 +100,16 @@
         "AbstractURL": "http://communitychevy.com/"
     },
     {
+        "link": "https://comparus.co.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://comparus.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://comparus.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://comparus.co.uk"
+    },
+    {
         "link": "https://connectpropm.com",
         "Heading": null,
         "Abstract": null,
@@ -118,16 +128,6 @@
         "Redirect": "https://coralfarm.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://coralfarm.ro"
-    },
-    {
-        "link": "https://courchevelvillas.com",
-        "Heading": "Luxury Courchevel Villa Rentals | Alpine Villas in the French Alps",
-        "Abstract": "Discover exquisite villa rentals in Courchevel, nestled in the French Alps. Perfect for ski seasons or summer escapes, enjoy unmatched comfort, privacy, and breathtaking mountain views.",
-        "Official Site": "https://courchevelvillas.com/",
-        "Icon": "https://cdn.123presto.com/prod/published/courchevelvillas/home.jpg",
-        "Redirect": "https://courchevelvillas.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://courchevelvillas.com/"
     },
     {
         "link": "https://cravenow24.com",
@@ -268,15 +268,5 @@
         "Redirect": "https://directlybook.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://directlybook.net"
-    },
-    {
-        "link": "https://domanalyze.com",
-        "Heading": "QM\u7403\u76df\u4f1a\u00b7(\u4e2d\u56fd)-\u5b98\u65b9\u7f51\u7ad9",
-        "Abstract": "\u2705\u300c\u5bcc\u4e50\u86c7\u5e74\u300d\u27057\ufe0f\u20e3\u662f\u56e0\u4e3aqm\u7403\u76df\u4f1a\u53ef\u4ee5\u6559\u4f1a\u5e7f\u5927\u73a9\u5bb6\u5f88\u591a\u4ece\u524d\u5e76\u4e0d\u77e5\u9053\u7684\u4e8b\u60c5,\u7403\u76df\u4f1a\u4e00\u76f4\u4ee5\u6765\u5c31\u5728\u73a9\u5bb6\u4e2d\u6709\u53e3\u7686\u7891,qm\u7403\u76df\u4f1a\u662f\u4e2d\u56fd\u9886\u5148\u7684\u7f51\u7edc\u6e38 \u620f\u5f00\u53d1\u5546\u3001\u8fd0\u8425\u5546\u548c\u53d1\u884c\u5546,\u4eab\u53d7\u8fd9\u4e2a\u6e38\u620f\u5e26\u7ed9\u4f60\u7684\u65e0\u9650\u4e50\u8da3\u3002",
-        "Official Site": "https://domanalyze.com",
-        "Icon": "N/A",
-        "Redirect": "https://domanalyze.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://domanalyze.com"
     }
 ]
