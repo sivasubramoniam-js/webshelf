@@ -10,16 +10,6 @@
         "AbstractURL": "https://hotelonderbergen.be/"
     },
     {
-        "link": "https://hq-bot.com",
-        "Heading": "HQSahamIDX BOT User Manual",
-        "Abstract": null,
-        "Official Site": "https://hq-bot.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://hq-bot.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hq-bot.com"
-    },
-    {
         "link": "https://hunterbootsitalia.it",
         "Heading": "Stivali Hunter Italia Outlet - Hunter Boots Saldi Online Shop",
         "Abstract": "Comprare Nel Negozio Scarpe Hunter Outlet. Stivali Hunter Italia Outlet - Hunter Boots Saldi Online Shop\u2713 Spedizione Della Merce Entro 24 Ore \u2713 Fino Al 50% Di Sconto Nel Punto Vendita.",
@@ -90,16 +80,6 @@
         "AbstractURL": "https://imhwatch.com"
     },
     {
-        "link": "https://infobeautry.xyz",
-        "Heading": "infobeautry.xyz",
-        "Abstract": null,
-        "Official Site": "https://infobeautry.xyz",
-        "Icon": "N/A",
-        "Redirect": "https://infobeautry.xyz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://infobeautry.xyz"
-    },
-    {
         "link": "https://innovatnow.com",
         "Heading": "innovatnow.com",
         "Abstract": "Play The Best Free Online Games",
@@ -131,13 +111,13 @@
     },
     {
         "link": "https://jakartaaestheticclinic.co.id",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://jakartaaestheticclinic.co.id",
-        "Icon": "data:;",
-        "Redirect": "https://jakartaaestheticclinic.co.id",
+        "Heading": "Klinik Estetika Non-Bedah Standar Internasional - JAC",
+        "Abstract": "Spesialis Estetika dan Anti-Aging tanpa bedah",
+        "Official Site": "https://jakartaaestheticclinic.co.id/",
+        "Icon": "https://jakartaaestheticclinic.co.id/wp-content/uploads/2016/02/header-slimming-program.jpg",
+        "Redirect": "https://jakartaaestheticclinic.co.id/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jakartaaestheticclinic.co.id"
+        "AbstractURL": "https://jakartaaestheticclinic.co.id/"
     },
     {
         "link": "https://jaminqian.com",
@@ -198,5 +178,15 @@
         "Redirect": "https://jpmaior.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jpmaior.com"
+    },
+    {
+        "link": "https://justemachine.com",
+        "Heading": "Pad Printer & Screen Printing Machine Manufacturer | Justemachine",
+        "Abstract": "Factory-direct pad printers, silk screen & UV printing machines. CE certified, 1-year warranty, ships to 146+ countries. Get a free quote from JusteMachine today.",
+        "Official Site": "https://www.justemachine.com",
+        "Icon": "https://www.justemachine.com/jst/wp-content/uploads/2022/11/Shenzhen-Juste-Machine-Co.-Ltd.-Company-Logo-100x100.png",
+        "Redirect": "https://www.justemachine.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.justemachine.com"
     }
 ]

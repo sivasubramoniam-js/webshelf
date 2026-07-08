@@ -10,16 +10,6 @@
         "AbstractURL": "https://borouge.com"
     },
     {
-        "link": "https://solarak.shop",
-        "Heading": "solarak.shop",
-        "Abstract": null,
-        "Official Site": "https://solarak.shop",
-        "Icon": "N/A",
-        "Redirect": "https://solarak.shop",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://solarak.shop"
-    },
-    {
         "link": "https://hcmf.co.uk",
         "Heading": "hcmf// | Huddersfield Contemporary Music Festival | UK",
         "Abstract": "Huddersfield Contemporary Music Festival - hcmf/ - is the UK's largest international festival of new and experimental music. Fri 17 \u2013 Sun 26 November 2017.",
@@ -190,16 +180,6 @@
         "AbstractURL": "https://gataria.pt/"
     },
     {
-        "link": "https://kotor-montenegro-weather.com",
-        "Heading": "Default page",
-        "Abstract": "Default page",
-        "Official Site": "https://kotor-montenegro-weather.com",
-        "Icon": "https://hpanel.hostinger.com/favicons/hostinger.png",
-        "Redirect": "https://kotor-montenegro-weather.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kotor-montenegro-weather.com"
-    },
-    {
         "link": "https://18teentube.pro",
         "Heading": "18 teen tube - sex video clips, hot porn videos",
         "Abstract": null,
@@ -230,16 +210,6 @@
         "AbstractURL": "https://www.kindermuseum-online.de/"
     },
     {
-        "link": "https://intrust.com.bd",
-        "Heading": "InTrust \u2013 Make Life Automated & Easy",
-        "Abstract": null,
-        "Official Site": "https://intrust.com.bd/",
-        "Icon": "https://intrust.com.bd/wp-content/uploads/2020/04/cropped-InTrust-l-1-32x32.png",
-        "Redirect": "https://intrust.com.bd/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://intrust.com.bd/"
-    },
-    {
         "link": "https://turbohost30.ru",
         "Heading": null,
         "Abstract": null,
@@ -251,13 +221,13 @@
     },
     {
         "link": "https://signatureluxurytravel.com.au",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://signatureluxurytravel.com.au",
-        "Icon": "data:;",
-        "Redirect": "https://signatureluxurytravel.com.au",
+        "Heading": "Luxury Holidays - Signature Luxury Travel & Style",
+        "Abstract": "Signature Luxury Travel is a publication for a global audience of travellers who seek the finest luxury holidays the world has to offer. Learn more.",
+        "Official Site": "https://www.signatureluxurytravel.com.au/",
+        "Icon": "https://www.signatureluxurytravel.com.au/wp-content/uploads/2017/05/cropped-Favicon-32x32.png",
+        "Redirect": "https://www.signatureluxurytravel.com.au/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://signatureluxurytravel.com.au"
+        "AbstractURL": "https://www.signatureluxurytravel.com.au/"
     },
     {
         "link": "https://uralenergotel.ru",
@@ -278,6 +248,16 @@
         "Redirect": "https://www.buymyname.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.buymyname.com/"
+    },
+    {
+        "link": "https://gwiddle.co.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://gwiddle.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://gwiddle.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gwiddle.co.uk"
     },
     {
         "link": "https://knopman.com",

@@ -280,16 +280,6 @@
         "AbstractURL": "https://rufiller.ru/"
     },
     {
-        "link": "https://everthammink.com",
-        "Heading": "Evert Hammink",
-        "Abstract": null,
-        "Official Site": "https://everthammink.com",
-        "Icon": "https://www.everthammink.com/media/favicon/stores/1/_EBEA1264EE45A24AB664A503EF2FE7CE0B0EED0BE95262CEEB_pimgpsh_fullsize_distr.png",
-        "Redirect": "https://everthammink.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://everthammink.com"
-    },
-    {
         "link": "https://slaapkamerweb.nl",
         "Heading": "Slaapkamerweb.nl | Uw online slaapkamerspecialist!",
         "Abstract": "Slaapkamerweb.nl is specialist in het bezorgen en monteren van uw slaapkamer meubilair. Wij bezorgen en monteren dan ook GRATIS uw kledingkasten, bedden en boxsprings door heel Nederland! - Kwaliteit en service voor scherpe webshop prijzen. Slaapkamerweb al 35 jaar de specialist voor uw slaapkamer!",
@@ -328,5 +318,15 @@
         "Redirect": "https://www.completepayroll.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.completepayroll.com"
+    },
+    {
+        "link": "https://cyklo-vondracek.cz",
+        "Heading": "Cyklo Vondr\u00e1\u010dek | Specialized Concept Store",
+        "Abstract": "Milujeme cyklistiku a v\u0161e kolem n\u00ed - proto jsme tu my - Cyklo Vondr\u00e1\u010dek a Specialized Concept Store! Jsme zna\u010dkov\u00e1 prodejna j\u00edzdn\u00edch kol a profi servis v Plzni, Sokolov\u011b a Karlov\u00fdch Varech a r\u00e1di v\u00e1m pom\u016f\u017eeme s v\u00fdb\u011brem va\u0161eho kola i cyklodopl\u0148k\u016f.",
+        "Official Site": "https://www.cyklo-vondracek.cz/",
+        "Icon": "https://www.cyklo-vondracek.cz/front/favicon.ico",
+        "Redirect": "https://www.cyklo-vondracek.cz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cyklo-vondracek.cz/"
     }
 ]

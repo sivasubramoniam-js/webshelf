@@ -110,6 +110,16 @@
         "AbstractURL": "https://videoaktiv.tv"
     },
     {
+        "link": "https://dvdpascher.net",
+        "Heading": "DVDpasCher - Le comparateur DVD et Blu-ray de r\u00e9f\u00e9rence",
+        "Abstract": null,
+        "Official Site": "https://dvdpascher.net",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://dvdpascher.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dvdpascher.net"
+    },
+    {
         "link": "https://apteka79.ru",
         "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 \u041f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u044f \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0438. \u041e\u043d\u043b\u0430\u0439\u043d \u0430\u043f\u0442\u0435\u043a\u0430 79.",
         "Abstract": null,
@@ -281,12 +291,12 @@
     },
     {
         "link": "https://andreasrecipes.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://andreasrecipes.com",
-        "Icon": "data:;",
-        "Redirect": "https://andreasrecipes.com",
+        "Heading": "Making Life Delicious - Making Life Delicious",
+        "Abstract": "Making Life Delicious with Andrea Meyers is a blog about food, cooking, baking, gardening, and learning how to do new things.",
+        "Official Site": "https://andreasrecipes.com/",
+        "Icon": "https://andreasrecipes.com/wp-content/uploads/2024/05/cropped-MLD_RETINA_LOGO_2024.png",
+        "Redirect": "https://andreasrecipes.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://andreasrecipes.com"
+        "AbstractURL": "https://andreasrecipes.com/"
     }
 ]

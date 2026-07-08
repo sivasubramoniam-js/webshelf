@@ -81,13 +81,23 @@
     },
     {
         "link": "https://babygirlboutique.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://babygirlboutique.com",
         "Icon": "N/A",
         "Redirect": "https://babygirlboutique.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://babygirlboutique.com"
+    },
+    {
+        "link": "https://golfstuff.ca",
+        "Heading": "Golf Stuff",
+        "Abstract": "Everything for golf! Golf clubs, golf bags, push carts, golf gloves, golf shoes, apparel, grips and club repairs. In store hitting net with launch monitor and Ping Fitting cart - custom fit golf clubs. We take trade ins of clubs, bags, & carts - and stock lots of both new and used clubs & more!",
+        "Official Site": "https://www.golfstuff.ca/",
+        "Icon": "http://www.golfstuff.ca/cdn/shop/files/Untitled_design_10.png?crop=center&height=1200&v=1716318446&width=1200",
+        "Redirect": "https://www.golfstuff.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.golfstuff.ca/"
     },
     {
         "link": "https://ciscosecurityworkshop.com",
@@ -214,7 +224,7 @@
         "Heading": "\n    \n    Insurance Agency | Lincoln, NE | Advantage Insurance Agency\n  \n  ",
         "Abstract": "Are you looking for a top-rated insurance agency in Lincoln, NE? Advantage Insurance Agency has got you covered. Call us at 402-484-5454 today!",
         "Official Site": "https://www.advantageinsagents.com/",
-        "Icon": "N/A",
+        "Icon": "https://irp.cdn-website.com/500e9ad1/site_favicon_16_1660872873514.ico",
         "Redirect": "https://www.advantageinsagents.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.advantageinsagents.com/"
@@ -238,16 +248,6 @@
         "Redirect": "https://www.isola-group.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.isola-group.com/"
-    },
-    {
-        "link": "https://edriveauto.com",
-        "Heading": "E-Drive Auto",
-        "Abstract": null,
-        "Official Site": "https://edriveauto.com",
-        "Icon": "/favicon-32x32.png",
-        "Redirect": "https://edriveauto.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://edriveauto.com"
     },
     {
         "link": "https://goldys-cazinoz.xyz",
@@ -278,15 +278,5 @@
         "Redirect": "https://neweditionfashion.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://neweditionfashion.com"
-    },
-    {
-        "link": "https://renovamaq.com.br",
-        "Heading": "Home - RENOVAMAQ (41)3092-7302 \u00e9 uma empresa que presta servi\u00e7os de cortes e furos em concreto e loca\u00e7\u00e3o de equipamentos tais como: lixadeiras, esmerilhadeiras, furadeiras, marteletes, martelo perfurador, martelo rompedor, retifica, Serra circular, serra tico-tico, serra m\u00e1rmore, lavadora de alta press\u00e3o, aspirador de p\u00f3, compactador, vibrador de concreto, transformador e guincho de coluna.",
-        "Abstract": "Nossa empresa \u00e9 especializada em perfura\u00e7\u00f5es e cortes em concreto, \u00e9 reconhecida no ramo da constru\u00e7\u00e3o civil como empresa s\u00f3lida e com experi\u00eancia em",
-        "Official Site": "https://renovamaq.com.br/",
-        "Icon": "https://renovamaq.com.br/wp-content/uploads/2025/07/cropped-RENOVAMAQ-11144.png",
-        "Redirect": "https://renovamaq.com.br/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://renovamaq.com.br/"
     }
 ]

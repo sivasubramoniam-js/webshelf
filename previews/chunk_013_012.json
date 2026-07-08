@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.norfolkwrenthamnews.com/"
     },
     {
-        "link": "https://lecinemaclub.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://lecinemaclub.com",
-        "Icon": "data:;",
-        "Redirect": "https://lecinemaclub.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lecinemaclub.com"
-    },
-    {
         "link": "https://kumiuniversity.ac.ug",
         "Heading": "Kumi University \u2013 Godliness & Excellence for Servanthood",
         "Abstract": null,
@@ -93,11 +83,11 @@
         "link": "https://auto-nix.de",
         "Heading": "Autohaus NIX",
         "Abstract": "Zufriedenheit, Kontinuit\u00e4t und Innovation, Autohaus NIX, Toyota, Lexus, Volkswagen Nutzfahrzeuge, Gebrauchtwagen, Neuwagen, Tageszulassungen",
-        "Official Site": "https://www.auto-nix.de/",
+        "Official Site": "https://www.auto-nix.de/?gad_source=5&gad_campaignid=20574794866&gclid=EAIaIQobChMIo9P33tjAlQMVnsGxBx3fRhKrEAEYASAAEgKxJvD_BwE",
         "Icon": "https://www.auto-nix.de/fileadmin/_processed_/b/b/csm_nix-og_981d4794a4.jpg",
-        "Redirect": "https://www.auto-nix.de/",
+        "Redirect": "https://www.auto-nix.de/?gad_source=5&gad_campaignid=20574794866&gclid=EAIaIQobChMIo9P33tjAlQMVnsGxBx3fRhKrEAEYASAAEgKxJvD_BwE",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.auto-nix.de/"
+        "AbstractURL": "https://www.auto-nix.de/?gad_source=5&gad_campaignid=20574794866&gclid=EAIaIQobChMIo9P33tjAlQMVnsGxBx3fRhKrEAEYASAAEgKxJvD_BwE"
     },
     {
         "link": "https://belgraviadent.ru",
@@ -168,6 +158,16 @@
         "Redirect": "https://gik-team.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gik-team.com"
+    },
+    {
+        "link": "https://barradasweb01.com",
+        "Heading": "BarradasWeb01",
+        "Abstract": "",
+        "Official Site": "https://barradasweb01.com",
+        "Icon": "img/bw.png",
+        "Redirect": "https://barradasweb01.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://barradasweb01.com"
     },
     {
         "link": "https://myfreepokies.com",
@@ -318,15 +318,5 @@
         "Redirect": "https://www.citizen.co.za/lowvelder/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.citizen.co.za/lowvelder/"
-    },
-    {
-        "link": "https://almustaqbalpress.com",
-        "Heading": "Al Mustaqbal Press |  printing industry in Sharjah | Technical innovation",
-        "Abstract": "Events Management, Exhibitions, Conferences, Concerts, Entertainment",
-        "Official Site": "https://almustaqbalpress.com",
-        "Icon": "images/favicon.png",
-        "Redirect": "https://almustaqbalpress.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://almustaqbalpress.com"
     }
 ]

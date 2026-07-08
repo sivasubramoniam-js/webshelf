@@ -131,13 +131,13 @@
     },
     {
         "link": "https://cityartsmagazine.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://cityartsmagazine.com",
-        "Icon": "data:;",
-        "Redirect": "https://cityartsmagazine.com",
+        "Heading": "City Arts Magazine - Creative minds, compelling stories",
+        "Abstract": "Creative minds, compelling stories",
+        "Official Site": "https://www.cityartsmagazine.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.cityartsmagazine.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cityartsmagazine.com"
+        "AbstractURL": "https://www.cityartsmagazine.com/"
     },
     {
         "link": "https://amazonere.com",
@@ -148,6 +148,16 @@
         "Redirect": "https://amazonere.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://amazonere.com"
+    },
+    {
+        "link": "https://autonomiarlp.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://autonomiarlp.org",
+        "Icon": "N/A",
+        "Redirect": "https://autonomiarlp.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://autonomiarlp.org"
     },
     {
         "link": "https://financemalta.org",
@@ -190,16 +200,6 @@
         "AbstractURL": "https://www.yqn.com"
     },
     {
-        "link": "https://elcortijoperu.com",
-        "Heading": "Centro de Servicios El Cortijo",
-        "Abstract": null,
-        "Official Site": "https://elcortijoperu.com",
-        "Icon": "https://elcortijoperu.com/wp-content/uploads/cropped-logo-elcortijo-32x32.png",
-        "Redirect": "https://elcortijoperu.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://elcortijoperu.com"
-    },
-    {
         "link": "https://cutpricepharmacy.com.au",
         "Heading": "\n      CutPrice Pharmacy: The Leading Online Pharmacy in Australia\n \u2013 CutPricePharmacy.com.au - Cut the price of your medications!",
         "Abstract": "The chemist online in Australia with all of your pharmaceutical needs. CutPrice Pharmacy offers a wide range of premium products for an affordable price.",
@@ -208,16 +208,6 @@
         "Redirect": "https://www.cutpricepharmacy.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cutpricepharmacy.com.au/"
-    },
-    {
-        "link": "https://chicisimo.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://chicisimo.com",
-        "Icon": "data:;",
-        "Redirect": "https://chicisimo.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chicisimo.com"
     },
     {
         "link": "https://counton.org",

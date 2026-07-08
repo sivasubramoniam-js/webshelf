@@ -32,9 +32,9 @@
     {
         "link": "https://funkykeel.com",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://funkykeel.com",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://funkykeel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://funkykeel.com"
@@ -218,16 +218,6 @@
         "Redirect": "#/",
         "AbstractSource": "BS4",
         "AbstractURL": "#/"
-    },
-    {
-        "link": "https://southforkwind.com",
-        "Heading": "Discover NY\u2019s First Offshore Wind Farm| South Fork Wind",
-        "Abstract": "\u00d8rsted's South Fork Wind is New York\u2019s first offshore wind farm and America\u2019s first commercial-scale offshore wind farm in federal waters",
-        "Official Site": "https://southforkwind.com",
-        "Icon": "https://cdn.orsted.com/-/media/www/images/corp/jv/southfork-wind/sfw-revamp-q12024/sfw_home_lookinside.jpg?rev=bb917dffac714c96a7c5f85343a19e1c&hash=DFD026732FDD345FC388CAA53C7DF461",
-        "Redirect": "https://southforkwind.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://southforkwind.com"
     },
     {
         "link": "https://pscoat.de",

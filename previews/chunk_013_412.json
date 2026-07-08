@@ -80,14 +80,24 @@
         "AbstractURL": "https://localscannabis.com/"
     },
     {
-        "link": "https://lokkio.it",
-        "Heading": null,
+        "link": "https://lok-forum.com",
+        "Heading": "\"Gleis 66\" - Foren-\u00dcbersicht",
         "Abstract": null,
-        "Official Site": "https://lokkio.it",
-        "Icon": "data:;",
-        "Redirect": "https://lokkio.it",
+        "Official Site": "https://lok-forum.com",
+        "Icon": "N/A",
+        "Redirect": "https://lok-forum.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lokkio.it"
+        "AbstractURL": "https://lok-forum.com"
+    },
+    {
+        "link": "https://lokkio.it",
+        "Heading": "Home - Lokkio",
+        "Abstract": "Immergiti nell'atmosfera vibrante di Savona e dintorni, esplorando la cultura, le bellezze naturali e le sue fantastiche manifestazioni! Con Lokkio, sarai costantemente informato su tutto ci\u00f2 che accade nella nostra provincia.I nostri giornalisti esperti garantiscono una copertura tempestiva e approfondita, offrendoti notizie aggiornate e approfondimenti su sport, cultura, arte, eventi e attualit\u00e0.",
+        "Official Site": "https://lokkio.it/",
+        "Icon": "https://lokkio.it/wp-content/uploads/2023/05/cropped-Favicon-1-Lokkio-32x32.png",
+        "Redirect": "https://lokkio.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lokkio.it/"
     },
     {
         "link": "https://looev.com",
@@ -170,16 +180,6 @@
         "AbstractURL": "https://m-mowbray.com"
     },
     {
-        "link": "https://mabajoyas.com.ar",
-        "Heading": "\n\t\t\t\tMaba Joyas\n\t",
-        "Abstract": "Maba Joyas - Joyas de plata",
-        "Official Site": "https://mabajoyas.com.ar",
-        "Icon": "https://www.mabajoyas.com.ar/assets/estatico/banner1.jpg",
-        "Redirect": "https://mabajoyas.com.ar",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mabajoyas.com.ar"
-    },
-    {
         "link": "https://machaikhouston.com",
         "Heading": "Voted #1 Best Jeep Ram Dodge Chrysler Dealership in Houston, TX. Near Me",
         "Abstract": "832-462-6907 - Voted #1 in Houston to Buy New Jeep, Ram, Dodge, or Chrysler The best near me. Buy or Lease a new Ram 1500, Jeep Wrangler, Grand Cherokee, Cherokee, Renegade, Charger, Challenger, Journey, Chrysler 300, or Chrysler Pacifica. The cheapest dealership in Houston, Ram Dealership, Dodge Dealership, Jeep Dealership, Chrysler Dealership, Near me. Ram service, Jeep Service, Chrysler Service, Dodge Service, Mopar, Express Lube, Oil Change.",
@@ -234,7 +234,7 @@
         "Heading": "\n      Maison Crivelli\n",
         "Abstract": "Le parfum est une exp\u00e9rience vivante.",
         "Official Site": "https://maisoncrivelli.com/fr-fr",
-        "Icon": "http://maisoncrivelli.com/cdn/shop/files/SHOPIFY_SEO_BANNER_1200x630_4989bdb0-7cb9-4c1b-b5f8-20b241be8904.png?v=1775568613",
+        "Icon": "http://cdn.shopify.com/s/files/1/0948/6018/1769/files/SHOPIFY_SEO_BANNER_1200x630_4989bdb0-7cb9-4c1b-b5f8-20b241be8904.png?v=1775568613",
         "Redirect": "https://maisoncrivelli.com/fr-fr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://maisoncrivelli.com/fr-fr"
@@ -321,13 +321,13 @@
     },
     {
         "link": "https://maryuriropainterior.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://maryuriropainterior.com",
-        "Icon": "data:;",
-        "Redirect": "https://maryuriropainterior.com",
+        "Heading": "Inicio - Maryuri",
+        "Abstract": "Asistencia: 098 187 3849 0 days 00 hr 00 min 00 sc Beneficios Descuentos primera compra Producto del Mes Oferta",
+        "Official Site": "https://maryuriropainterior.com/",
+        "Icon": "https://maryuriropainterior.com/wp-content/uploads/2024/05/carrito-de-compras.png",
+        "Redirect": "https://maryuriropainterior.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://maryuriropainterior.com"
+        "AbstractURL": "https://maryuriropainterior.com/"
     },
     {
         "link": "https://mascomintl.com",
@@ -388,16 +388,6 @@
         "Redirect": "https://mayoristaelcondor.com.ar/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mayoristaelcondor.com.ar/"
-    },
-    {
-        "link": "https://mazeto.sk",
-        "Heading": "Mazeto.sk \u2013 Autodiely, motorov\u00e9 oleje, ru\u010dn\u00e9ho n\u00e1radie, n\u00e1stroje a potreby pre dom, z\u00e1hradu a diel\u0148u.",
-        "Abstract": "Mazeto.sk \u2013 \u0160irok\u00e1 ponuka kvalitn\u00fdch autodielov, motorov\u00fdch olejov, n\u00e1radia pre dom, diel\u0148u a z\u00e1hradu. R\u00fdchle dodanie, skvel\u00e9 ceny a odborn\u00e9 poradenstvo. Nakupujte u odborn\u00edkov na autodiely!",
-        "Official Site": "https://mazeto.sk/",
-        "Icon": "https://mazeto.sk/assets/default/img/logo.png",
-        "Redirect": "https://mazeto.sk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mazeto.sk/"
     },
     {
         "link": "https://mc-auctions.com",

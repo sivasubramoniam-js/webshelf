@@ -70,16 +70,6 @@
         "AbstractURL": "https://www.arable.com/"
     },
     {
-        "link": "https://musserengineering.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://musserengineering.com",
-        "Icon": "data:;",
-        "Redirect": "https://musserengineering.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://musserengineering.com"
-    },
-    {
         "link": "https://flowersfestival.taipei",
         "Heading": "\u53f0\u5317\u82b1\u5b63 \u82b1IN\u53f0\u5317",
         "Abstract": "\u7acb\u523b\u66b8\u89e3\u5373\u6642\u8cde\u82b1\u8cc7\u8a0a\uff01\u5c31\u4e0a\u82b1in\u53f0\u5317\u5b98\u7db2\uff01\u7e7d\u7d1b\u53f0\u5317\u5168\u5e74\u7121\u4f11\uff01",
@@ -181,10 +171,10 @@
     },
     {
         "link": "https://msafungi.org",
-        "Heading": null,
+        "Heading": "Mycological Sociey of America \u2013 Founded 1932",
         "Abstract": null,
         "Official Site": "https://msafungi.org",
-        "Icon": "data:;",
+        "Icon": "https://msafungi.org/wp-content/uploads/2025/04/2024-MSA-Logo-Main-01-scaled.png",
         "Redirect": "https://msafungi.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://msafungi.org"
@@ -253,11 +243,11 @@
         "link": "https://griffithfoods.com",
         "Heading": "Griffith Foods | Global Food Product Development & Innovation",
         "Abstract": "At Griffith Foods, we specialize in product development for foods that consumers love and our partners can take pride in. Let's create better together.",
-        "Official Site": "https://griffithfoods.com/zh/",
+        "Official Site": "https://griffithfoods.com/",
         "Icon": "https://griffithfoods.b-cdn.net/wp-content/uploads/2020/07/cropped-GF-Fav-32x32.png",
-        "Redirect": "https://griffithfoods.com/zh/",
+        "Redirect": "https://griffithfoods.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://griffithfoods.com/zh/"
+        "AbstractURL": "https://griffithfoods.com/"
     },
     {
         "link": "https://carbonrev.com",

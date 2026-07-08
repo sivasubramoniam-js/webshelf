@@ -61,10 +61,10 @@
     },
     {
         "link": "https://tomspicky.com",
-        "Heading": null,
+        "Heading": "Tom Spicky \u2013 I build things\u2026",
         "Abstract": null,
         "Official Site": "https://tomspicky.com",
-        "Icon": "data:;",
+        "Icon": "https://tomspicky.com/wp-content/uploads/2026/06/cropped-TS-icon-32x32.jpg",
         "Redirect": "https://tomspicky.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tomspicky.com"
@@ -148,6 +148,16 @@
         "Redirect": "https://prompolit.info/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://prompolit.info/"
+    },
+    {
+        "link": "https://theclaiborne.com",
+        "Heading": "Claiborne Senior Living | Boutique senior living communities",
+        "Abstract": null,
+        "Official Site": "https://theclaiborne.com/",
+        "Icon": "https://theclaiborne.com/wp-content/uploads/2022/08/claiborne-c-only-white-Brooke-Saxon-Spencer.png",
+        "Redirect": "https://theclaiborne.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://theclaiborne.com/"
     },
     {
         "link": "https://deletselschaderaad.nl",

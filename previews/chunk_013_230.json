@@ -40,16 +40,6 @@
         "AbstractURL": "https://zakki.store/"
     },
     {
-        "link": "https://zestcreative.in",
-        "Heading": "Zest Creative",
-        "Abstract": null,
-        "Official Site": "https://zestcreative.in/",
-        "Icon": "https://zestcreative.in/wp-content/uploads/2026/02/ZEST-FAVICON-512X512.png",
-        "Redirect": "https://zestcreative.in/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zestcreative.in/"
-    },
-    {
         "link": "https://zhfmd.com",
         "Heading": "\u8bf7\u9a8c\u8bc1... / Please verify...",
         "Abstract": null,
@@ -180,26 +170,6 @@
         "AbstractURL": "https://ymgk.com"
     },
     {
-        "link": "https://historiografija.hr",
-        "Heading": "Historiografija.hr \u2013 Portal hrvatske historiografije",
-        "Abstract": "Sredi\u0161nji portal hrvatske historiografije \u2013 vijesti o knjigama, \u010dasopisima, skupovima, izlo\u017ebama i aktualnim temama iz doma\u0107e i me\u0111unarodne povijesti.",
-        "Official Site": "https://historiografija.hr/",
-        "Icon": "https://historiografija.hr/wp-content/uploads/2026/05/Historiografija.hr-SEO-Image.webp",
-        "Redirect": "https://historiografija.hr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://historiografija.hr/"
-    },
-    {
-        "link": "https://aboutautomobile.com",
-        "Heading": "Car TSBs, DTCs, Complaints, Recalls, Maintenance Schedule, Fuel Economy",
-        "Abstract": "Owner's Manual, Maintenance Schedule, Warranty Manual, Troubleshooting Guide, Technical Service Bulletins, Theft Rate, Tire Ratings, Safety Ratings, Diagnostic Trouble Code, Consumer Complaints, Safety Recalls, Vehicle Identification Number, Fuel Economy, Car Price, Defect Investigations",
-        "Official Site": "https://aboutautomobile.com",
-        "Icon": "https://www.aboutautomobile.com/favicon.ico",
-        "Redirect": "https://aboutautomobile.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aboutautomobile.com"
-    },
-    {
         "link": "https://moteam.co",
         "Heading": "Movember",
         "Abstract": null,
@@ -251,13 +221,13 @@
     },
     {
         "link": "https://lus.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://lus.org",
-        "Icon": "data:;",
-        "Redirect": "https://lus.org",
+        "Heading": "Lafayette Utilities System (LUS)",
+        "Abstract": "At Lafayette Utilities System, we keep life moving with reliable electricity, clean water, wastewater services, and support you can count on.",
+        "Official Site": "https://lus.org/",
+        "Icon": "https://lus.org/wp-content/uploads/2026/03/Linemen-bucket-hero.jpg",
+        "Redirect": "https://lus.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lus.org"
+        "AbstractURL": "https://lus.org/"
     },
     {
         "link": "https://teletracker.net",

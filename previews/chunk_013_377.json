@@ -40,6 +40,16 @@
         "AbstractURL": "https://revolucionstyle.com/"
     },
     {
+        "link": "https://stlouispark.org",
+        "Heading": "\n\t\n    St. Louis Park, MN | Home\n\n",
+        "Abstract": "",
+        "Official Site": "https://stlouispark.org",
+        "Icon": "N/A",
+        "Redirect": "https://stlouispark.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stlouispark.org"
+    },
+    {
         "link": "https://briteweb.com",
         "Heading": "Nonprofit Branding and Website Agency - Briteweb",
         "Abstract": "Briteweb is an award-winning creative agency that offers design, brand, and web services that empower organizations committed to social change.",
@@ -161,10 +171,10 @@
     },
     {
         "link": "https://next14.com",
-        "Heading": null,
+        "Heading": "Next Different",
         "Abstract": null,
         "Official Site": "https://next14.com",
-        "Icon": "data:;",
+        "Icon": "https://nextdifferent.com/wp-content/uploads/2024/10/cropped-favicon-100x100.webp",
         "Redirect": "https://next14.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://next14.com"
@@ -231,13 +241,13 @@
     },
     {
         "link": "https://whitepeak.com.au",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://whitepeak.com.au",
-        "Icon": "data:;",
-        "Redirect": "https://whitepeak.com.au",
+        "Heading": "White Peak Digital | Award-Winning Websites & Marketing",
+        "Abstract": "White Peak Digital is an award-winning digital agency helping brands grow through human-centred, high-converting websites and marketing strategies.",
+        "Official Site": "https://www.whitepeakdigital.com/",
+        "Icon": "https://www.whitepeakdigital.com/wp-content/uploads/White-Peak-Digital-Web-Design-Banner.jpg",
+        "Redirect": "https://www.whitepeakdigital.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://whitepeak.com.au"
+        "AbstractURL": "https://www.whitepeakdigital.com/"
     },
     {
         "link": "https://kitsonlaw.com",

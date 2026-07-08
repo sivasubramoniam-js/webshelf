@@ -114,7 +114,7 @@
         "Heading": "Stil-Ambiente.de | Onlineshop f\u00fcr Designer M\u00f6bel Luxus Wohnaccessoires",
         "Abstract": "Designerm\u00f6bel & Luxusm\u00f6bel f\u00fcr Zuhause und B\u00fcro\u2714\ufe0f Edle Wohnaccessories\u2714\ufe0f Qualit\u00e4t\u2714\ufe0f hochwertige Marken\u2714\ufe0f g\u00fcnstige Preise\u2714\ufe0f Gartenm\u00f6bel\u2714\ufe0f Richmond Interiors, Riviera Maison, Eichholtz, Flamant, Lambert, Fink Living, Edzard, Grattoni, Hazenkamp.",
         "Official Site": "https://www.stil-ambiente.de/",
-        "Icon": "http://www.stil-ambiente.de/cdn/shop/files/Stil_Ambiente_Logo_4b66c53b-ee9d-44f8-b07d-4c2444a24562.png?v=1667872354",
+        "Icon": "http://cdn.shopify.com/s/files/1/0667/0073/8795/files/Stil_Ambiente_Logo_4b66c53b-ee9d-44f8-b07d-4c2444a24562.png?v=1667872354",
         "Redirect": "https://www.stil-ambiente.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.stil-ambiente.de/"
@@ -124,7 +124,7 @@
         "Heading": "\n    Strathroy | London Free Press\n",
         "Abstract": "\n    Category page for Strathroy\n",
         "Official Site": "https://strathroyagedispatch.com",
-        "Icon": "https://dcs-static.gprod.postmedia.digital/21.5.0/websites/images/broadsheets/ogimage-lfp.png",
+        "Icon": "https://dcs-static.gprod.postmedia.digital/21.6.1/websites/images/broadsheets/ogimage-lfp.png",
         "Redirect": "https://strathroyagedispatch.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://strathroyagedispatch.com"
@@ -228,15 +228,5 @@
         "Redirect": "https://www.teestore.pro/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.teestore.pro/"
-    },
-    {
-        "link": "https://tempcontrolpack.com",
-        "Heading": "Tempk: Supplier of Cold Chain Packaging Solutions",
-        "Abstract": "Tempk supplies cold chain packaging solutions, including gel ice packs, dry ice packs, insulated thermal bags, insulin coolers and EPP cold shipping boxes.",
-        "Official Site": "https://www.tempcontrolpack.com/",
-        "Icon": "https://www.tempcontrolpack.com/wp-content/uploads/2024/10/logo1.png",
-        "Redirect": "https://www.tempcontrolpack.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.tempcontrolpack.com/"
     }
 ]

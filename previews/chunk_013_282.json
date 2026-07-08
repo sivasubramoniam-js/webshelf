@@ -81,7 +81,7 @@
     },
     {
         "link": "https://nocensor.rest",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://nocensor.rest",
         "Icon": "N/A",
@@ -151,23 +151,13 @@
     },
     {
         "link": "https://yxhsm.net",
-        "Heading": "\u8bba\u575b -  Powered by Discuz!",
-        "Abstract": "\u8bba\u575b ",
+        "Heading": "\u8bba\u575b -  \u624b\u673a\u7248 - Powered by Discuz!",
+        "Abstract": "\u8bba\u575b ,\u76d0\u82af\u8f89\u87f9\u574a",
         "Official Site": "https://yxhsm.net",
         "Icon": "N/A",
         "Redirect": "https://yxhsm.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yxhsm.net"
-    },
-    {
-        "link": "https://fischerfurniture.com",
-        "Heading": "Mattresses, Furniture, Appliances and Electronics in Rapid City, SD. | Fischer Furniture | Rapid City, SD",
-        "Abstract": "We offer South Dakota's lowest pricing, service and delivery on appliances, furniture, mattresses and electronics. ",
-        "Official Site": "https://www.fischerfurniture.com/",
-        "Icon": "https://cdn.avbportal.com/assets/OG_Images/ffis1.png",
-        "Redirect": "https://www.fischerfurniture.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.fischerfurniture.com/"
     },
     {
         "link": "https://yavalera.xyz",
@@ -203,11 +193,11 @@
         "link": "https://shtooka.net",
         "Heading": "Xoilac TV - Tr\u1ef1c ti\u1ebfp World Cup 2026 - Link XoilacZ ch\u00ednh th\u1ee9c",
         "Abstract": "Xoilac TV ch\u00ednh th\u1ee9c - Tr\u1ef1c ti\u1ebfp b\u00f3ng \u0111\u00e1 World Cup 2026 HD. XoilacZ c\u1eadp nh\u1eadt link xem b\u00f3ng \u0111\u00e1, l\u1ecbch thi \u0111\u1ea5u, b\u1ea3ng x\u1ebfp h\u1ea1ng, k\u1ebft qu\u1ea3 b\u00f3ng \u0111\u00e1 nhanh v\u00e0 ch\u00ednh x\u00e1c nh\u1ea5t.",
-        "Official Site": "https://jon2012.com/",
-        "Icon": "https://cdn.jon2012.com/2024/10/logo-xoilac-tv.png",
-        "Redirect": "https://jon2012.com/",
+        "Official Site": "https://forwardpartners.com/",
+        "Icon": "https://cdn.forwardpartners.com/2024/10/logo-xoilac-tv.png",
+        "Redirect": "https://forwardpartners.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jon2012.com/"
+        "AbstractURL": "https://forwardpartners.com/"
     },
     {
         "link": "https://desiethnicity.com",
