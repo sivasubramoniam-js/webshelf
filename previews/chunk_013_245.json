@@ -120,16 +120,6 @@
         "AbstractURL": "https://harnaispourchien.com/"
     },
     {
-        "link": "https://kupitcheki.shop",
-        "Heading": "kupitcheki.shop",
-        "Abstract": null,
-        "Official Site": "https://kupitcheki.shop",
-        "Icon": "N/A",
-        "Redirect": "https://kupitcheki.shop",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kupitcheki.shop"
-    },
-    {
         "link": "https://iconbird.com",
         "Heading": "\u0418\u043a\u043e\u043d\u043a\u0438. \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0438\u043a\u043e\u043d\u043a\u0438. \u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0438\u043a\u043e\u043d\u043a\u0438 \u0434\u043b\u044f \u0441\u0430\u0439\u0442\u0430. \u041f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0438\u043a\u043e\u043d\u043e\u043a - IconBird",
         "Abstract": "\u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u0430\u044f \u043f\u043e\u0438\u0441\u043a\u043e\u0432\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0438\u043a\u043e\u043d\u043e\u043a, \u0441\u043a\u0430\u0447\u0430\u0439\u0442\u0435 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u0442\u044b\u0441\u044f\u0447\u0438 \u0438\u043a\u043e\u043d\u043e\u043a. \u0423 \u043d\u0430\u0441 \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u0439\u0442\u0438 \u043f\u0438\u043a\u0442\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 PNG \u0438 ICO, \u0430 \u0442\u0430\u043a\u0436\u0435 SVG",
@@ -168,6 +158,16 @@
         "Redirect": "https://www.meladio.gr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.meladio.gr/"
+    },
+    {
+        "link": "https://visitkotkahamina.fi",
+        "Heading": "Visit Kotka-Hamina - It\u00e4rannikon matkailu - It\u00e4rannikon eli Loviisan, Pyht\u00e4\u00e4n, Kotkan, Haminan, Virolahden ja Miehikk\u00e4l\u00e4n matkailukohteet",
+        "Abstract": "Tutustu Loviisan, Kotkan ja Haminan merelliseen It\u00e4rannikkoon. Luontoa, tapahtumia ja n\u00e4ht\u00e4vyyksi\u00e4 ymp\u00e4ri vuoden, l\u00e4hell\u00e4 Helsinki\u00e4.",
+        "Official Site": "https://www.visitkotkahamina.fi/",
+        "Icon": "https://www.visitkotkahamina.fi/app/uploads/2026/06/East-Coast-of-Finland-scaled.jpg",
+        "Redirect": "https://www.visitkotkahamina.fi/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.visitkotkahamina.fi/"
     },
     {
         "link": "https://caffevita.com",

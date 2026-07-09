@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://tepia.jp",
-        "Heading": "TEPIA \u4e00\u822c\u8ca1\u56e3\u6cd5\u4eba \u9ad8\u5ea6\u6280\u8853\u793e\u4f1a\u63a8\u9032\u5354\u4f1a",
-        "Abstract": "\u4e00\u822c\u8ca1\u56e3\u6cd5\u4eba \u9ad8\u5ea6\u6280\u8853\u793e\u4f1a\u63a8\u9032\u5354\u4f1a\uff08TEPIA\uff09\u306f\u3001\u6a5f\u68b0\u7523\u696d\u30fb\u60c5\u5831\u7523\u696d\u306e\u6280\u8853\u7684\u6210\u679c\u3092\u3072\u308d\u304f\u77e5\u3063\u3066\u3044\u305f\u3060\u304d\u3001\u307e\u305f\u4f53\u9a13\u3057\u3066\u3044\u305f\u3060\u304f\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u3053\u308c\u3089\u7523\u696d\u306e\u793e\u4f1a\u3068\u8abf\u548c\u3057\u305f\u767a\u5c55\u306b\u5bc4\u4e0e\u3059\u308b\u3053\u3068\u3092\u76ee\u6307\u3057\u3066\u8a2d\u7acb\u3055\u308c\u305f\u8ca1\u56e3\u3067\u3059\u3002",
-        "Official Site": "https://tepia.jp",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://tepia.jp",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tepia.jp"
-    },
-    {
         "link": "https://northadviser.com",
         "Heading": "Things to do in Norway - Info and tips for adventures - Northadviser",
         "Abstract": "Travelling in Norway? Find activities Safari Hiking Activities Aurora Lights in Norway Find tips for things to do in Norway and become an expert on the",
@@ -150,11 +140,21 @@
         "AbstractURL": "https://6mmbr.com"
     },
     {
+        "link": "https://arnoldspark.com",
+        "Heading": "Arnolds Park Amusement Park \u22c6 Home",
+        "Abstract": "Arnolds Park Amusement Park is one of the longest operating amusement parks in the world. Located on the shores of West Lake Okoboji, the Park is one of the most treasured destinations in the Iowa Great Lakes region.",
+        "Official Site": "https://arnoldspark.com/",
+        "Icon": "https://arnoldspark.com/wp-content/uploads/2017/10/AP_LargeLogo-150x150.png",
+        "Redirect": "https://arnoldspark.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arnoldspark.com/"
+    },
+    {
         "link": "https://tyronyxtrd.live",
-        "Heading": "Bot Verification",
-        "Abstract": null,
+        "Heading": " Tyronyxtrd",
+        "Abstract": "Sign up With Tyronyxtrd to join thousands of traders currently benefiting from high leveraged full STP/ECN CFD trading with zero conflict of interest through tier one liquidity.",
         "Official Site": "https://tyronyxtrd.live",
-        "Icon": "N/A",
+        "Icon": "favicon.ico",
         "Redirect": "https://tyronyxtrd.live",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tyronyxtrd.live"

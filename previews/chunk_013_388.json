@@ -80,16 +80,6 @@
         "AbstractURL": "https://scrapgoods.ru"
     },
     {
-        "link": "https://ncmahealth.com",
-        "Heading": "Loading...",
-        "Abstract": null,
-        "Official Site": "https://ncmahealth.com",
-        "Icon": "N/A",
-        "Redirect": "https://ncmahealth.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ncmahealth.com"
-    },
-    {
         "link": "https://78316.com",
         "Heading": "78316.com",
         "Abstract": null,
@@ -168,16 +158,6 @@
         "Redirect": "http://itton.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://itton.ru/"
-    },
-    {
-        "link": "https://osoko.ru",
-        "Heading": "\u0410\u0432\u0442\u043e\u043f\u043e\u0440\u0442\u0430\u043b Osoko.ru - \u0441\u0430\u0439\u0442 \u0434\u043b\u044f \u0442\u0435\u0445 \u043a\u0442\u043e \u0440\u0443\u043b\u0438\u0442",
-        "Abstract": null,
-        "Official Site": "https://osoko.ru",
-        "Icon": "N/A",
-        "Redirect": "https://osoko.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://osoko.ru"
     },
     {
         "link": "https://redenetbrasil.com.br",
@@ -308,5 +288,15 @@
         "Redirect": "https://efotolab.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://efotolab.net"
+    },
+    {
+        "link": "https://spacecruft.org",
+        "Heading": "Spacecruft",
+        "Abstract": null,
+        "Official Site": "https://spacecruft.org",
+        "Icon": "N/A",
+        "Redirect": "https://spacecruft.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://spacecruft.org"
     }
 ]

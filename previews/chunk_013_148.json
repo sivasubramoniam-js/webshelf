@@ -21,7 +21,7 @@
     },
     {
         "link": "https://yourmoscow.ru",
-        "Heading": "KillBot user verification [132.196.80.209] [Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36]...",
+        "Heading": "KillBot user verification [172.203.196.226] [Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0]...",
         "Abstract": null,
         "Official Site": "https://yourmoscow.ru",
         "Icon": "N/A",
@@ -290,6 +290,16 @@
         "AbstractURL": "https://priligy.me"
     },
     {
+        "link": "https://schloss-drachenburg.de",
+        "Heading": "Schloss Drachenburg",
+        "Abstract": "Schloss Drachenburg, eine Ikone der Rheinromantik",
+        "Official Site": "https://www.schloss-drachenburg.de/de/",
+        "Icon": "/images/logos/Favicon Schloss.ico",
+        "Redirect": "https://www.schloss-drachenburg.de/de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.schloss-drachenburg.de/de/"
+    },
+    {
         "link": "https://amaniafrica-et.org",
         "Heading": "Home - Amani Africa",
         "Abstract": null,
@@ -310,13 +320,13 @@
         "AbstractURL": "https://fxopenaffiliate.com/"
     },
     {
-        "link": "https://lukasbudinsky.cz",
-        "Heading": null,
+        "link": "https://ielts-simon.com",
+        "Heading": "IELTS Simon | Homepage",
         "Abstract": null,
-        "Official Site": "https://lukasbudinsky.cz",
-        "Icon": "N/A",
-        "Redirect": "https://lukasbudinsky.cz",
+        "Official Site": "https://ielts-simon.com",
+        "Icon": "https://ielts-simon.com/wp-content/uploads/2025/11/cropped-Logo-1-32x32.png",
+        "Redirect": "https://ielts-simon.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lukasbudinsky.cz"
+        "AbstractURL": "https://ielts-simon.com"
     }
 ]

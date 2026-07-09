@@ -210,8 +210,18 @@
         "AbstractURL": "https://vivanti.ru"
     },
     {
+        "link": "https://camara-e.net",
+        "Heading": "Home - Camara-e.net",
+        "Abstract": null,
+        "Official Site": "https://camara-e.net/",
+        "Icon": "https://camara-e.net/wp-content/uploads/2025/05/fav-camara.png#15",
+        "Redirect": "https://camara-e.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://camara-e.net/"
+    },
+    {
         "link": "https://puretechdsm.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://puretechdsm.com",
         "Icon": "N/A",
@@ -258,6 +268,16 @@
         "Redirect": "https://www.vilvoorde.be",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.vilvoorde.be"
+    },
+    {
+        "link": "https://cashmatters.org",
+        "Heading": "Cash Matters - A Pro-Cash Movement",
+        "Abstract": null,
+        "Official Site": "https://cashmatters.org",
+        "Icon": "/static/favicon.jpg",
+        "Redirect": "https://cashmatters.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cashmatters.org"
     },
     {
         "link": "https://33dyy.com",

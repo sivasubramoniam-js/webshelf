@@ -91,13 +91,13 @@
     },
     {
         "link": "https://dundalkfc.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dundalkfc.com",
-        "Icon": "https://static.wixstatic.com/media/e244d4_3446a6a15753441293d9a319262d49a4%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/e244d4_3446a6a15753441293d9a319262d49a4%7Emv2.png",
-        "Redirect": "https://dundalkfc.com",
+        "Heading": "Official Website of Dundalk FC | Home | Dundalk Football Club",
+        "Abstract": "The Official Dundalk F.C. Website \u2013 Get the latest Dundalk FC news, fixtures, results, and ticket info. Follow the Lilywhites on their journey in the League of Ireland and much more!",
+        "Official Site": "https://www.dundalkfc.com",
+        "Icon": "https://static.wixstatic.com/media/052bb2_f53d9602cd554fda9daa8e283b393acd%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/052bb2_f53d9602cd554fda9daa8e283b393acd%7Emv2.jpg",
+        "Redirect": "https://www.dundalkfc.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dundalkfc.com"
+        "AbstractURL": "https://www.dundalkfc.com"
     },
     {
         "link": "https://copytalk.com",
@@ -108,6 +108,16 @@
         "Redirect": "https://copytalk.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://copytalk.com"
+    },
+    {
+        "link": "https://pafi-jombang.org",
+        "Heading": "Bot Verification",
+        "Abstract": null,
+        "Official Site": "https://pafi-jombang.org",
+        "Icon": "N/A",
+        "Redirect": "https://pafi-jombang.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pafi-jombang.org"
     },
     {
         "link": "https://gsrahden.de",
@@ -171,7 +181,7 @@
     },
     {
         "link": "https://zerkalnye-prava-2y7u.ru",
-        "Heading": "132.196.80.209 08.07.2026 06:47:54",
+        "Heading": "172.203.196.226 09.07.2026 06:47:15",
         "Abstract": null,
         "Official Site": "https://zerkalnye-prava-2y7u.ru",
         "Icon": "data:,",

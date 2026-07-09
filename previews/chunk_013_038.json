@@ -114,7 +114,7 @@
         "Heading": "Stil-Ambiente.de | Onlineshop f\u00fcr Designer M\u00f6bel Luxus Wohnaccessoires",
         "Abstract": "Designerm\u00f6bel & Luxusm\u00f6bel f\u00fcr Zuhause und B\u00fcro\u2714\ufe0f Edle Wohnaccessories\u2714\ufe0f Qualit\u00e4t\u2714\ufe0f hochwertige Marken\u2714\ufe0f g\u00fcnstige Preise\u2714\ufe0f Gartenm\u00f6bel\u2714\ufe0f Richmond Interiors, Riviera Maison, Eichholtz, Flamant, Lambert, Fink Living, Edzard, Grattoni, Hazenkamp.",
         "Official Site": "https://www.stil-ambiente.de/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0667/0073/8795/files/Stil_Ambiente_Logo_4b66c53b-ee9d-44f8-b07d-4c2444a24562.png?v=1667872354",
+        "Icon": "http://www.stil-ambiente.de/cdn/shop/files/Stil_Ambiente_Logo_4b66c53b-ee9d-44f8-b07d-4c2444a24562.png?v=1667872354",
         "Redirect": "https://www.stil-ambiente.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.stil-ambiente.de/"
@@ -151,8 +151,8 @@
     },
     {
         "link": "https://sunlandspain.com",
-        "Heading": "Sunland | Homes on Costa Blanca",
-        "Abstract": "Welcome to \u00abThe Land of The Sun\u00bb Sunland is the best place to get help finding your dream home in the \u201cLand of the Sun\u201d - the Costa Blanca coast of Spain, where the sun s",
+        "Heading": "inicio",
+        "Abstract": "Welcome to \u00abThe Land of The Sun\u00bb At Sunland, we help you find your dream home on the beautiful Costa Blanca \u2014 Spain\u2019s famous \u201cLand of the Sun\u201d, where you can enjoy more t",
         "Official Site": "https://sunlandspain.com/",
         "Icon": "https://sunlandspain.com/media/images/website/no-image.png",
         "Redirect": "https://sunlandspain.com/",
@@ -228,5 +228,15 @@
         "Redirect": "https://www.teestore.pro/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.teestore.pro/"
+    },
+    {
+        "link": "https://tempcontrolpack.com",
+        "Heading": "Tempk: Supplier of Cold Chain Packaging Solutions",
+        "Abstract": "Tempk supplies cold chain packaging solutions, including gel ice packs, dry ice packs, insulated thermal bags, insulin coolers and EPP cold shipping boxes.",
+        "Official Site": "https://www.tempcontrolpack.com/",
+        "Icon": "https://www.tempcontrolpack.com/wp-content/uploads/2024/10/logo1.png",
+        "Redirect": "https://www.tempcontrolpack.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tempcontrolpack.com/"
     }
 ]

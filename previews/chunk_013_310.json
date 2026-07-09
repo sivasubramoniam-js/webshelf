@@ -20,6 +20,16 @@
         "AbstractURL": "{{ canonical_url() }}"
     },
     {
+        "link": "https://kushalmetal.com",
+        "Heading": "Tool Steel Suppliers, Importer and Exporter in India - Kushal Metal & Steel Industries",
+        "Abstract": "Kushal Metal & Steel Industries is a tool steel supplier, trading & stock holding company dealing in all kinds of high speed steel, cold work steel, hot work steel, plastic mould steel, beryllium copper, cutting tools & more.",
+        "Official Site": "https://kushalmetal.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://kushalmetal.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kushalmetal.com"
+    },
+    {
         "link": "https://eaaze.cloud",
         "Heading": "OperationsUI",
         "Abstract": null,
@@ -150,6 +160,16 @@
         "AbstractURL": "https://scionir.com/"
     },
     {
+        "link": "https://villatraful.com.ar",
+        "Heading": "villatraful.com.ar - Todo lo que necesit\u00e1s para tu viaje.",
+        "Abstract": "Alojamiento, gastronom\u00eda, actividades y atracciones de Villa Traful. Toda la info que necesit\u00e1s para tu viaje. Reserv\u00e1 directo...",
+        "Official Site": "https://villatraful.com.ar/",
+        "Icon": "https://villatraful.com.ar/wp-content/uploads/2021/11/JFA_villatraful-25.jpg",
+        "Redirect": "https://villatraful.com.ar/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://villatraful.com.ar/"
+    },
+    {
         "link": "https://ms-uk.org",
         "Heading": "Home | MS-UK | Supporting your multiple sclerosis journey",
         "Abstract": "MS-UK is here for anyone affected by multiple sclerosis (MS), improving the understanding of MS and providing support where it is needed most.",
@@ -180,16 +200,6 @@
         "AbstractURL": "https://lozovamachinery.com/ua"
     },
     {
-        "link": "https://redbullstudiosshop.com",
-        "Heading": "Loading...",
-        "Abstract": null,
-        "Official Site": "https://redbullstudiosshop.com",
-        "Icon": "N/A",
-        "Redirect": "https://redbullstudiosshop.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://redbullstudiosshop.com"
-    },
-    {
         "link": "https://turborilla.com",
         "Heading": "Turborilla | Makers of the Mad Skills Franchise",
         "Abstract": "Makers of the Mad Skills franchise, Turborilla is a mobile action-sports game studio headquartered in Ume\u00e5, Sweden.",
@@ -218,6 +228,16 @@
         "Redirect": "https://hagh-iserv.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hagh-iserv.de"
+    },
+    {
+        "link": "https://skinchanger.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://skinchanger.net",
+        "Icon": "N/A",
+        "Redirect": "https://skinchanger.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://skinchanger.net"
     },
     {
         "link": "https://theotherpalace.co.uk",

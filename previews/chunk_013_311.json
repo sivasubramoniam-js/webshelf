@@ -230,16 +230,6 @@
         "AbstractURL": "https://www.cambodiapostalcode.com"
     },
     {
-        "link": "https://splidejs.com",
-        "Heading": "Splide - The lightweight, flexible and accessible slider/carousel",
-        "Abstract": "Splide is a lightweight, flexible and accessible slider/carousel, written in TypeScript. No dependencies, no Lighthouse errors",
-        "Official Site": "https://splidejs.com/",
-        "Icon": "https://splidejs.com/images/site/banner.jpg",
-        "Redirect": "https://splidejs.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://splidejs.com/"
-    },
-    {
         "link": "https://nthosting.net",
         "Heading": "Domain Default page",
         "Abstract": null,
@@ -248,6 +238,16 @@
         "Redirect": "https://nthosting.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nthosting.net"
+    },
+    {
+        "link": "https://almusallh.ly",
+        "Heading": "Al-musallh magazine - Home",
+        "Abstract": "Al-musallh magazine is a monthly magazine specialized in defence and strategic affairs. It is issued by the Libyan National Army.",
+        "Official Site": "https://almusallh.ly",
+        "Icon": "/templates/purity_iii/favicon.ico",
+        "Redirect": "https://almusallh.ly",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://almusallh.ly"
     },
     {
         "link": "https://dailychive.com",

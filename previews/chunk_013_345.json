@@ -50,16 +50,6 @@
         "AbstractURL": "https://www.gerstbau.de/"
     },
     {
-        "link": "https://axessnet.com",
-        "Heading": "HispaSat | Operador de sat\u00e9lites de telecomunicaci\u00f3n",
-        "Abstract": "Somos un operador de sat\u00e9lites de comunicaciones que ofrece conectividad a Internet, transmisi\u00f3n de televisi\u00f3n y soluciones de comunicaci\u00f3n en zonas remotas",
-        "Official Site": "https://www.hispasat.com/es/",
-        "Icon": "https://www.hispasat.com/imagenes/logo-og.jpg",
-        "Redirect": "https://www.hispasat.com/es/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hispasat.com/es/"
-    },
-    {
         "link": "https://pingco.com.au",
         "Heading": "PingCo - Transforming Telecommunications Through Automation",
         "Abstract": "At PingCo, we're transforming how the global voice network is deployed, managed, and serviced with cutting-edge automation and a customer-first approach.",
@@ -190,6 +180,16 @@
         "AbstractURL": "https://ojshostng.com"
     },
     {
+        "link": "https://tojqi.net",
+        "Heading": "\n\t\tTurkish Online Journal of Qualitative Inquiry\n\t\t\t\t\t",
+        "Abstract": "Turkish Online Journal of Qualitative Inquiry",
+        "Official Site": "https://tojqi.net",
+        "Icon": "N/A",
+        "Redirect": "https://tojqi.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tojqi.net"
+    },
+    {
         "link": "https://chuguevsky.ru",
         "Heading": "\u0421\u0430\u0439\u0442 \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0427\u0443\u0433\u0443\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
         "Abstract": "\u0421\u0430\u0439\u0442 \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0427\u0443\u0433\u0443\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u043c\u0443\u043d\u0438\u0446\u0438\u043f\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
@@ -270,14 +270,24 @@
         "AbstractURL": "https://linklist.bio/userslotid"
     },
     {
-        "link": "https://growandbrew.co.nz",
-        "Heading": "\n      Home Brew Supplies | Growing Equipment\n \u2013 Grow & Brew",
-        "Abstract": "Grow & Brew is your one-stop shop for growing and brewing supplies and equipment. NZ owned & operated, they sell gear, nutrients and offer expert advice. Known for great brand variety and competitive pricing. Find them in 3 locations: Waipapa, Silverdale & Henderson or shop online!",
-        "Official Site": "https://www.growandbrew.co.nz/",
-        "Icon": "http://www.growandbrew.co.nz/cdn/shop/files/logo_b43b6951-7827-4e92-9241-dc4b7f5bb600.png?height=628&pad_color=fff&v=1662930845&width=1200",
-        "Redirect": "https://www.growandbrew.co.nz/",
+        "link": "https://thezaurus.com",
+        "Heading": "Webzine - thezaurus.com",
+        "Abstract": null,
+        "Official Site": "https://thezaurus.com/",
+        "Icon": "N/A",
+        "Redirect": "https://thezaurus.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.growandbrew.co.nz/"
+        "AbstractURL": "https://thezaurus.com/"
+    },
+    {
+        "link": "https://businesscycle.com",
+        "Heading": "Economic and Inflation Cycle Forecasting Research",
+        "Abstract": "ECRI helps investment managers, corporations, and central banks anticipate economic growth and inflation cycle turning points \u2014 with a track record spanning 100 years.",
+        "Official Site": "https://www.businesscycle.com",
+        "Icon": "https://www.businesscycle.com/wp-content/uploads/2023/06/Logo-PNG-copia-e1686925240924.png",
+        "Redirect": "https://www.businesscycle.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.businesscycle.com"
     },
     {
         "link": "https://cybergear2.com",

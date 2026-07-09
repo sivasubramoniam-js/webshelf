@@ -210,16 +210,6 @@
         "AbstractURL": "https://qassimtoys.com"
     },
     {
-        "link": "https://qconinternational.com",
-        "Heading": "Home, Building Construction Materials, Tools & Equipment Suppliers in UAE",
-        "Abstract": "Qcon, Fosroc, Master Builders Solutions, Weber, Gyproc, Keiser, Fila, BASF Construction Chemicals and Concrete Repair in Al Quoz 4, Dubai.\n",
-        "Official Site": "https://qconinternational.com",
-        "Icon": "https://qconinternational.com/media/favicon/stores/1/QCON_favicon_icon.png",
-        "Redirect": "https://qconinternational.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://qconinternational.com"
-    },
-    {
         "link": "https://qryma.com",
         "Heading": "Qryma AI Search - Intelligent Search Engine",
         "Abstract": "AI-powered search engine delivering precise, fast information retrieval.",
@@ -250,6 +240,16 @@
         "AbstractURL": "https://www.qwalis.com/fr/"
     },
     {
+        "link": "https://radyoduble.com.tr",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://radyoduble.com.tr",
+        "Icon": "N/A",
+        "Redirect": "https://radyoduble.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://radyoduble.com.tr"
+    },
+    {
         "link": "https://ramseier-normteile.at",
         "Heading": "Home - Ramseier Normteile GmbH",
         "Abstract": "Die Ramseier GmbH aus \u00d6sterreich bietet Ihnen hochqualitative Normalien und Normteile f\u00fcr alle Anforderungen im Gesamtbereich Werkzeugbau & Maschinenbau, Stanzwerkbau, Vorrichtungsbau, Maschinenbau, Apparatebau, Formenbau sowie diverse F\u00fchrungen, Sonderteile, Bedienteile, Lochstempel und pr\u00e4zise Zeichnungsteile.",
@@ -268,6 +268,16 @@
         "Redirect": "https://rcworst.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rcworst.com/"
+    },
+    {
+        "link": "https://rdrive.io",
+        "Heading": "Progress Monitoring & Reporting Software | RDrive by SnagR",
+        "Abstract": "RDrive is progress monitoring software that helps teams capture field data and automate reporting for faster, smarter project delivery.",
+        "Official Site": "https://rdrive.io/en/",
+        "Icon": "https://rdrive.io/wp-content/uploads/2025/09/social-share.png",
+        "Redirect": "https://rdrive.io/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rdrive.io/en/"
     },
     {
         "link": "https://readefined.com",
@@ -330,6 +340,16 @@
         "AbstractURL": "https://reimers.ca/"
     },
     {
+        "link": "https://relymedia.com",
+        "Heading": "RELYmedia - Promotional Products",
+        "Abstract": "RELYmedia offers innovative promotional products and exceptional service. Browse our catalog of custom promotional items.",
+        "Official Site": "https://www.relymedia.com",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://www.relymedia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.relymedia.com"
+    },
+    {
         "link": "https://repaircost.net",
         "Heading": "Home Repair and Services Reviews & Complaints \u2014 Real Ratings Across United States (2026) | RepairCost.Net",
         "Abstract": "Read real customer reviews, complaints and ratings for home repair and services across United States. 5,265 businesses rated by actual customers. Find trustworthy home repair and services near you \u2014 free & independent.",
@@ -338,5 +358,15 @@
         "Redirect": "https://repaircost.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://repaircost.net/"
+    },
+    {
+        "link": "https://rescover.com",
+        "Heading": "Rescover - Best in Class Tools for Investors, Agents, & Asset Managers",
+        "Abstract": "Rescover is an investment property search engine, calculator and analysis tool",
+        "Official Site": "https://www.rescover.com",
+        "Icon": "https://www.rescover.com/hubfs/sharing-homepage.png",
+        "Redirect": "https://www.rescover.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rescover.com"
     }
 ]

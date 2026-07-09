@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://cefimslp.gob.mx",
+        "Heading": "\n    Inicio\n  ",
+        "Abstract": "\n  None\n  ",
+        "Official Site": "https://cefimslp.gob.mx",
+        "Icon": "https://d3dac9gdq8t83x.cloudfront.net/media/static/images/favicons/logo-verde.png",
+        "Redirect": "https://cefimslp.gob.mx",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cefimslp.gob.mx"
+    },
+    {
         "link": "https://centown.net",
         "Heading": null,
         "Abstract": null,
@@ -90,16 +100,6 @@
         "AbstractURL": "http://communitychevy.com/"
     },
     {
-        "link": "https://comparus.co.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://comparus.co.uk",
-        "Icon": "N/A",
-        "Redirect": "https://comparus.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://comparus.co.uk"
-    },
-    {
         "link": "https://connectpropm.com",
         "Heading": null,
         "Abstract": null,
@@ -118,6 +118,16 @@
         "Redirect": "https://coralfarm.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://coralfarm.ro"
+    },
+    {
+        "link": "https://courchevelvillas.com",
+        "Heading": "Luxury Courchevel Villa Rentals | Alpine Villas in the French Alps",
+        "Abstract": "Discover exquisite villa rentals in Courchevel, nestled in the French Alps. Perfect for ski seasons or summer escapes, enjoy unmatched comfort, privacy, and breathtaking mountain views.",
+        "Official Site": "https://courchevelvillas.com/",
+        "Icon": "https://cdn.123presto.com/prod/published/courchevelvillas/home.jpg",
+        "Redirect": "https://courchevelvillas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://courchevelvillas.com/"
     },
     {
         "link": "https://cravenow24.com",
@@ -218,6 +228,26 @@
         "Redirect": "https://diderichsen.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://diderichsen.com"
+    },
+    {
+        "link": "https://digitalgpl.com",
+        "Heading": "Digital GPL",
+        "Abstract": null,
+        "Official Site": "https://digitalgpl.com",
+        "Icon": "https://digitalgpl.com/wp-content/uploads/2026/06/cropped-digital-gpl-square-logo-32x32.jpg",
+        "Redirect": "https://digitalgpl.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://digitalgpl.com"
+    },
+    {
+        "link": "https://digitelpro.co.za",
+        "Heading": "Home - DigitelPro",
+        "Abstract": "Shop Digitelpro for the iPhone 15 Pro Max with titanium design, advanced Pro features, and the latest Samsung Galaxy phones. Premium tech, unbeatable deals.",
+        "Official Site": "https://digitelpro.co.za/",
+        "Icon": "https://digitelpro.co.za/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-28-at-15.54.41-576x1024.jpeg",
+        "Redirect": "https://digitelpro.co.za/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://digitelpro.co.za/"
     },
     {
         "link": "https://dillduck24.info",

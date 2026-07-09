@@ -41,10 +41,10 @@
     },
     {
         "link": "https://fasnewsng.com",
-        "Heading": "Fasnews | news delivery at it best !",
-        "Abstract": "news delivery at it best ! | Fasnews",
+        "Heading": "Bot Verification",
+        "Abstract": null,
         "Official Site": "https://fasnewsng.com",
-        "Icon": "https://fasnewsng.com/wp-content/uploads/2024/08/cropped-fasnewsng-logo-1-32x32.jpg",
+        "Icon": "N/A",
         "Redirect": "https://fasnewsng.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fasnewsng.com"
@@ -68,6 +68,16 @@
         "Redirect": "/jahia/cms/render/live/en/sites/QVW/home.html",
         "AbstractSource": "BS4",
         "AbstractURL": "/jahia/cms/render/live/en/sites/QVW/home.html"
+    },
+    {
+        "link": "https://famouspets.ae",
+        "Heading": "Aquariums, Live Fish & Pet Supplies UAE | Famous Pets Dubai",
+        "Abstract": "Famous Pets offers aquariums, live fish, aquarium accessories, custom tanks, installation, maintenance services and pet supplies across UAE.",
+        "Official Site": "https://famouspets.ae/",
+        "Icon": "https://famouspets.ae/wp-content/uploads/2026/02/cropped-logo-1-32x32.png",
+        "Redirect": "https://famouspets.ae/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://famouspets.ae/"
     },
     {
         "link": "https://screwerk.com",
@@ -234,7 +244,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://developingreturnreplica.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://developingreturnreplica.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://developingreturnreplica.com"

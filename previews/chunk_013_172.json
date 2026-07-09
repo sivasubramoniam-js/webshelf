@@ -150,14 +150,14 @@
         "AbstractURL": "https://amazonere.com"
     },
     {
-        "link": "https://autonomiarlp.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://autonomiarlp.org",
-        "Icon": "N/A",
-        "Redirect": "https://autonomiarlp.org",
+        "link": "https://trisuladata.net.id",
+        "Heading": "PT.TRISULA MEDIA DATA",
+        "Abstract": "",
+        "Official Site": "https://trisuladata.net.id",
+        "Icon": "./assets/images/logo.png",
+        "Redirect": "https://trisuladata.net.id",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://autonomiarlp.org"
+        "AbstractURL": "https://trisuladata.net.id"
     },
     {
         "link": "https://financemalta.org",
@@ -191,13 +191,23 @@
     },
     {
         "link": "https://yunquna.com",
-        "Heading": "\u8de8\u5883\u7535\u5546\u7269\u6d41_\u5317\u7f8e\u6d77\u5916\u4ed3_\u56fd\u9645\u7269\u6d41\u5e73\u53f0-\u8fd0\u53bb\u54ea\u8d27\u4ee3\u5e73\u53f0",
-        "Abstract": "\u4f5c\u4e3a\u5168\u7403\u6570\u5b57\u5316\u7269\u6d41\u670d\u52a1\u4e13\u5bb6\uff0c\u8fd0\u53bb\u54ea\u4f9d\u6258\u9886\u5148\u7684\u7269\u6d41\u79d1\u6280\u6280\u672f\uff0c\u4e3a\u5168\u7403\u51fa\u6d77\u5ba2\u6237\u63d0\u4f9b\u987e\u95ee\u5f0f\u7684\u56fd\u9645\u7269\u6d41\u670d\u52a1\u53ca\u4e13\u4e1a\u7ec6\u81f4\u7684\u7269\u6d41\u89e3\u51b3\u65b9\u6848\u3002\u505a\u4e3a\u4e00\u4e2a\u56fd\u9645\u8d27\u4ee3\u5e73\u53f0\uff0c\u8fd0\u53bb\u54ea\u5e73\u53f0\u63d0\u4f9b\u56fd\u9645\u7269\u6d41\u89e3\u51b3\u65b9\u6848\u3001\u7f8e\u56fd\u3001\u52a0\u62ff\u5927\u3001\u58a8\u897f\u54e5\u6d77\u5916\u4ed3\u670d\u52a1\u4ee5\u53ca\u8de8\u5883\u7535\u5546\u7269\u6d41\u670d\u52a1\u3002",
-        "Official Site": "https://www.yqn.com",
+        "Heading": "\u7f8e\u56fd\u6d77\u5916\u4ed3\u63a8\u8350_\u7f8e\u56fd\u8de8\u5883\u7535\u5546\u6d77\u5916\u4ed3_\u8de8\u5883\u7269\u6d41\u5e73\u53f0-\u8fd0\u53bb\u54ea\u5317\u7f8e\u6d77\u5916\u4ed3",
+        "Abstract": "\u8fd0\u53bb\u54ea\u4e13\u6ce8\u7f8e\u56fd\u6d77\u5916\u4ed3\u670d\u52a1\uff0c\u63d0\u4f9b\u7f8e\u56fd\u6d77\u5916\u4ed3\u4e00\u4ef6\u4ee3\u53d1\u3001\u6d77\u5916\u4ed3\u63a8\u8350\u3001\u8de8\u5883\u7535\u5546\u6d77\u5916\u4ed3\u7b49\u4e00\u7ad9\u5f0f\u89e3\u51b3\u65b9\u6848\uff0c\u8986\u76d6\u7f8e\u897f\u7f8e\u4e1c\u591a\u4ed3\uff0c\u52a9\u529b\u8de8\u5883\u5356\u5bb6\u9ad8\u6548\u5c65\u7ea6\u3002",
+        "Official Site": "https://www.yqn.com/cn/",
         "Icon": "https://srfiles.yqn.com/fe/63001/18a8edfa-691b-4578-b790-43e8dd4f089f/LinkedIn%20Thumbnail.png",
-        "Redirect": "https://www.yqn.com",
+        "Redirect": "https://www.yqn.com/cn/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.yqn.com"
+        "AbstractURL": "https://www.yqn.com/cn/"
+    },
+    {
+        "link": "https://elcortijoperu.com",
+        "Heading": "Centro de Servicios El Cortijo",
+        "Abstract": null,
+        "Official Site": "https://elcortijoperu.com",
+        "Icon": "https://elcortijoperu.com/wp-content/uploads/cropped-logo-elcortijo-32x32.png",
+        "Redirect": "https://elcortijoperu.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elcortijoperu.com"
     },
     {
         "link": "https://cutpricepharmacy.com.au",
@@ -208,6 +218,16 @@
         "Redirect": "https://www.cutpricepharmacy.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cutpricepharmacy.com.au/"
+    },
+    {
+        "link": "https://chicisimo.com",
+        "Heading": "Chicisimo - Build with fashion shoppers' taste data",
+        "Abstract": "Chicisimo helps fashion retailers build with shoppers' taste-data. Fashion ontologies, fashion taste graph, taste profiles, virtual closets...",
+        "Official Site": "https://chicisimo.com/",
+        "Icon": "https://chicisimo.com/wp-content/uploads/2020/07/cropped-app_icon-1-32x32.jpg",
+        "Redirect": "https://chicisimo.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chicisimo.com/"
     },
     {
         "link": "https://counton.org",
