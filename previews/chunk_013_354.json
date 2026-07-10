@@ -32,9 +32,9 @@
     {
         "link": "https://funkykeel.com",
         "Heading": "Google",
-        "Abstract": null,
+        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
         "Official Site": "https://funkykeel.com",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://funkykeel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://funkykeel.com"
@@ -128,26 +128,6 @@
         "Redirect": "https://piranha-bytes.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://piranha-bytes.com"
-    },
-    {
-        "link": "https://novawoodcapital.com",
-        "Heading": "Home | Novawood Capital",
-        "Abstract": "Live Charts with Indicators, Foreign Exchange Market Trading Methods, Hours, Sessions, & Plans, Major and Minor Pairs Currency, Bullish and Bearish Divergence.",
-        "Official Site": "./",
-        "Icon": "./assets/images/favicon.png",
-        "Redirect": "./",
-        "AbstractSource": "BS4",
-        "AbstractURL": "./"
-    },
-    {
-        "link": "https://shadeplace.com",
-        "Heading": "Window Treatment Store, Custom Vertical Window Blinds, Roller Shades, Sheer Window Shades, Solar Shades, Woven Wood Shades, Roman Window Shades, Hunter Douglas Blinds, Window Treatments & Vertical Blinds Hoboken NJ - Shade Place by Stephan",
-        "Abstract": "Shade Place by Stephan specializes in custom blinds, shades, and window treatments for every style and space in Hoboken NJ. Visit us today to learn more!",
-        "Official Site": "https://shadeplacebystephan.com/",
-        "Icon": "https://shadeplacebystephan.com/wp-content/uploads/2025/10/Layered-Treatments-with-Hunter-Douglas.webp",
-        "Redirect": "https://shadeplacebystephan.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shadeplacebystephan.com/"
     },
     {
         "link": "https://topbilet.kz",

@@ -70,16 +70,6 @@
         "AbstractURL": "https://linkpatenkita.com"
     },
     {
-        "link": "https://stelarc.org",
-        "Heading": "STELARC",
-        "Abstract": "This is the official website of STELARC. Stelarc is a performance artist who has visually probed and acoustically amplified his body. Between 1976-1988 he completed 25 body suspension performances with hooks into his skin. He has used medical instruments, prosthetics, robotics, Virtual Reality systems, the Internet and biotechnology to explore alternate, intimate and involuntary interfaces with the body. He has performed with a THIRD HAND, a VIRTUAL ARM, a STOMACH SCULPTURE and EXOSKELETON, a 6-legged walking robot and more.",
-        "Official Site": "https://stelarc.org",
-        "Icon": "N/A",
-        "Redirect": "https://stelarc.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stelarc.org"
-    },
-    {
         "link": "https://kopp.eu",
         "Heading": "Heinrich Kopp GmbH | Schalterprogramme, Stromverteilung, Smart Home",
         "Abstract": "Kopp bietet \u00fcber 7.000 Artikel, von einfachen Steckern, \u00fcber Schalterprogramme, Adapter und Steckdosenleisten, bis hin zu Smart Home L\u00f6sungen an.",
@@ -150,6 +140,16 @@
         "AbstractURL": "https://www.guadaluperoma.it"
     },
     {
+        "link": "https://hotstuff-cp.co.jp",
+        "Heading": " | \u30db\u30c3\u30c8\u30b9\u30bf\u30c3\u30d5\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3",
+        "Abstract": "Just another WordPress site",
+        "Official Site": "https://www.hotstuff-cp.co.jp/",
+        "Icon": "https://www.hotstuff-cp.co.jp/wp-content/uploads/2021/09/8300ee8e91ad87046969a5b51619836f.ico",
+        "Redirect": "https://www.hotstuff-cp.co.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hotstuff-cp.co.jp/"
+    },
+    {
         "link": "https://homeopathy-soh.org",
         "Heading": "Home - Society of Homeopaths",
         "Abstract": "Welcome to the Society of Homeopaths.The Society of Homeopaths is the largest register of professional homeopaths in the UK. We are a member",
@@ -158,6 +158,16 @@
         "Redirect": "https://www.homeopathy-soh.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.homeopathy-soh.org/"
+    },
+    {
+        "link": "https://mauihawaii.org",
+        "Heading": "Maui Vacations - Jon's Maui info | Maui Hawaii Organization",
+        "Abstract": "Maui Hawaii hotels, condos, restaurants, sights, activities, reviews, photos, and everything you need to know to plan your Maui vacation.",
+        "Official Site": "https://www.mauihawaii.org/",
+        "Icon": "https://www.mauihawaii.org/wp-content/uploads/2021/09/maui-hawaii-now.jpg",
+        "Redirect": "https://www.mauihawaii.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mauihawaii.org/"
     },
     {
         "link": "https://freelivep.com",

@@ -81,7 +81,7 @@
     },
     {
         "link": "https://dailymovieshub.com",
-        "Heading": "Redirecting...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://dailymovieshub.com",
         "Icon": "N/A",
@@ -98,16 +98,6 @@
         "Redirect": "https://www.clarionwest.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.clarionwest.org/"
-    },
-    {
-        "link": "https://itcorporacion.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://itcorporacion.com",
-        "Icon": "N/A",
-        "Redirect": "https://itcorporacion.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://itcorporacion.com"
     },
     {
         "link": "https://timessquareball.net",
@@ -151,17 +141,17 @@
     },
     {
         "link": "https://ipconsultinginc.com",
-        "Heading": "Managed IT Service Provider & Cybersecurity | IP Consulting",
-        "Abstract": "IP Consulting is a managed IT service provider offering proactive IT support, cybersecurity & compliance for growing businesses.",
-        "Official Site": "https://www.ipconsultinginc.com/",
-        "Icon": "https://www.ipconsultinginc.com/wp-content/uploads/2025/07/IP-CONSULTING-WEB-IMAGES-4-1-1.png",
-        "Redirect": "https://www.ipconsultinginc.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ipconsultinginc.com",
+        "Icon": "N/A",
+        "Redirect": "https://ipconsultinginc.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ipconsultinginc.com/"
+        "AbstractURL": "https://ipconsultinginc.com"
     },
     {
         "link": "https://gemmasmith.co.uk",
-        "Heading": "gemmasmith.co.uk \u2013 For Sale at \u00a3495 | Platinum Domains",
+        "Heading": "Platinum Domains \u2013 Premium Domain Names For Sale",
         "Abstract": "Buy premium, brandable domain names with fast transfer. Secure card payments via Square. Transfer completes in minutes. Chat 9am\u20139pm daily.",
         "Official Site": "https://gemmasmith.co.uk",
         "Icon": "/favicon.ico",
@@ -178,6 +168,16 @@
         "Redirect": "https://icme2017.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://icme2017.org/"
+    },
+    {
+        "link": "https://facilityaxs.net",
+        "Heading": "Member Directory - Find Members - My New Website",
+        "Abstract": "Search the most complete member database. Find Member.",
+        "Official Site": "https://pingdirapp48.directoryup.com",
+        "Icon": "https://pingdirapp48.directoryup.com/images/freshbg.jpg",
+        "Redirect": "https://pingdirapp48.directoryup.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pingdirapp48.directoryup.com"
     },
     {
         "link": "https://sos-webhosting.com",

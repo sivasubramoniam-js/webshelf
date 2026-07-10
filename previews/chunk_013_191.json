@@ -32,9 +32,9 @@
     {
         "link": "https://madarray.net",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://madarray.net",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://madarray.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://madarray.net"
@@ -48,16 +48,6 @@
         "Redirect": "https://kupi-prava-5w2h.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kupi-prava-5w2h.ru"
-    },
-    {
-        "link": "https://livewritethrive.com",
-        "Heading": "Home - C. S. Lakin",
-        "Abstract": "Are you ready to write a terrific novel? It\u2019s time to get the experienced help you need to achieve your writing goals!",
-        "Official Site": "https://www.livewritethrive.com/",
-        "Icon": "https://www.livewritethrive.com/wp-content/uploads/2024/01/CS_Lakin_Home_opengraph.jpg",
-        "Redirect": "https://www.livewritethrive.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.livewritethrive.com/"
     },
     {
         "link": "https://novostroikivrayone.ru",
@@ -158,16 +148,6 @@
         "Redirect": "https://trafficanalytics.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trafficanalytics.info"
-    },
-    {
-        "link": "https://clichy-sous-bois.fr",
-        "Heading": "Site Officiel de la ville de Clichy-sous-Bois",
-        "Abstract": "Bienvenue sur le site officiel de la ville de\u00a0Clichy-sous-Bois. Toutes les informations, actualit\u00e9s et services dont vous avez besoin vous y attendent : pr\u00e9sentation de la ville, services publics, d\u00e9marches en lignes, actualit\u00e9s, kiosque, phototh\u00e8que, newsletter\u2026",
-        "Official Site": "https://www.clichy-sous-bois.fr/",
-        "Icon": "https://www.clichy-sous-bois.fr/wp-content/uploads/2019/05/favicon.png",
-        "Redirect": "https://www.clichy-sous-bois.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.clichy-sous-bois.fr/"
     },
     {
         "link": "https://cyclingcols.com",

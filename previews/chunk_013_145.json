@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://sat-tel.com",
+        "Heading": "Home",
+        "Abstract": "Satellite Communication Services, Veteran Owned Small Business, Satellite, Transport, Secure Networks, Private Network, Telecommunications, Digital Content Broadcast, Disaster Recovery, Encrypted Networks",
+        "Official Site": "https://sat-tel.com",
+        "Icon": "img/favicon.ico",
+        "Redirect": "https://sat-tel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sat-tel.com"
+    },
+    {
         "link": "https://wildswimming.co.uk",
         "Heading": "Wild Swimming - outdoors in rivers, lakes and the sea",
         "Abstract": "Join the wild swimming community. The definitive source of information on wild swimming, outdoor swimming, river and lake swimming, and exploring the secret.",
@@ -170,16 +180,6 @@
         "AbstractURL": "https://primetyne.top"
     },
     {
-        "link": "https://zavify.co.uk",
-        "Heading": "ZAVIFY \u2013 Your Digital Growth Partner.",
-        "Abstract": "Zavify is a full-stack digital marketing agency delivering SEO, ads, content, and link-building solutions. We serve ambitious brands worldwide.",
-        "Official Site": "https://zavify.co.uk/",
-        "Icon": "https://zavify.co.uk/wp-content/uploads/2026/01/Zavify-Featured-IMG-4.webp",
-        "Redirect": "https://zavify.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zavify.co.uk/"
-    },
-    {
         "link": "https://dominionherbal.com",
         "Heading": "Online Herbal Medicine Programs from Dominion Herbal College",
         "Abstract": "Join thousands of graduates with online herbal programs from Dominion Herbal College and start your journey in Herbal Medicine.",
@@ -190,14 +190,14 @@
         "AbstractURL": "https://www.dominionherbalcollege.com/"
     },
     {
-        "link": "https://knownsec.com",
-        "Heading": "\u77e5\u9053\u521b\u5b87",
-        "Abstract": "\u5317\u4eac\u77e5\u9053\u521b\u5b87\u4fe1\u606f\u6280\u672f\u80a1\u4efd\u6709\u9650\u516c\u53f8\uff0c\u7f51\u7edc\u7a7a\u95f4\u5b89\u5168\u4e13\u5bb6\uff0c\u957f\u671f\u81f4\u529b\u4e8e\u4e3a\u653f\u5e9c\u3001\u4f01\u4e1a\u7c7b\u5ba2\u6237\u63d0\u4f9b\u5b8c\u5584\u7684\u4e91\u5b89\u5168\u89e3\u51b3\u65b9\u6848\u3002\u88ab\u8bc4\u4e3a\u4e9a\u6d3220\u5bb6\u6781\u5177\u4ef7\u503c\u4f01\u4e1a\u3001\u4e2d\u56fd\u6700\u9177\u7f51\u7edc\u5b89\u5168\u516c\u53f8\u3002",
-        "Official Site": "https://knownsec.com",
-        "Icon": "/static/favicon.ico",
-        "Redirect": "https://knownsec.com",
+        "link": "https://adnakayama.com",
+        "Heading": "\u30a2\u30c9\u4e2d\u5c71\u682a\u5f0f\u4f1a\u793e | \u5927\u962a\u5e9c\u8c4a\u4e2d\u5e02\u306e\u770b\u677f\u88fd\u4f5c\u4f1a\u793e",
+        "Abstract": "\u30a2\u30c9\u4e2d\u5c71\u682a\u5f0f\u4f1a\u793e\u306f\u5927\u962a\u5e9c\u8c4a\u4e2d\u5e02\u306b\u3042\u308b\u770b\u677f\u88fd\u4f5c\u4f1a\u793e\u3067\u3059\u3002\u770b\u677f\u30fb\u30b7\u30e3\u30c3\u30bf\u30fc\u30fb\u96fb\u98fe\u30b5\u30a4\u30f3\u306a\u3069\u3001\u4f01\u696d\u30fb\u5e97\u8217\u306b\u5fc5\u8981\u306a\u30c4\u30fc\u30eb\u306e\u88fd\u4f5c\u3092\u884c\u306a\u3063\u3066\u304a\u308a\u307e\u3059\u3002\u30c7\u30b6\u30a4\u30f3\u30fb\u4f01\u753b\u30fb\u8a2d\u8a08\u30fb\u88fd\u4f5c\u30fb\u65bd\u5de5\u307e\u3067\u3042\u3089\u3086\u308b\u3054\u76f8\u8ac7\u306b\u8fc5\u901f\u306b\u5bfe\u5fdc\u3044\u305f\u3057\u307e\u3059\u3002",
+        "Official Site": "https://adnakayama.com/",
+        "Icon": "https://adnakayama.com/wp-content/uploads/2023/09/logo03.png",
+        "Redirect": "https://adnakayama.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://knownsec.com"
+        "AbstractURL": "https://adnakayama.com/"
     },
     {
         "link": "https://garydanko.com",
@@ -248,15 +248,5 @@
         "Redirect": "https://www.naba369.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.naba369.com/"
-    },
-    {
-        "link": "https://childrensbookstore.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://childrensbookstore.com",
-        "Icon": "N/A",
-        "Redirect": "https://childrensbookstore.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://childrensbookstore.com"
     }
 ]

@@ -20,16 +20,6 @@
         "AbstractURL": "https://rizeogretmenevi.com.tr"
     },
     {
-        "link": "https://rkslstudios.info",
-        "Heading": "RKSL Studios | Arma assets built for serious operations",
-        "Abstract": "Arma assets built for serious operations.",
-        "Official Site": "https://rkslstudios.info",
-        "Icon": "assets/images/AW159_01.jpg",
-        "Redirect": "https://rkslstudios.info",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rkslstudios.info"
-    },
-    {
         "link": "https://robertmorrellhomes.com",
         "Heading": "Robert Morrell | California Real Estate Specialist ",
         "Abstract": "Looking to buy or sell California real estate? Look no further than Robert Morrell - your trusted partner in finding your dream property in the Golden State.",
@@ -40,6 +30,16 @@
         "AbstractURL": "https://robertmorrellhomes.com/"
     },
     {
+        "link": "https://rogerplevin.com",
+        "Heading": "\n         Roger Plevin | The Keyes Company - Real Estate Web Site with active MLS Listings\n    ",
+        "Abstract": "Search the MLS for Properties for Sale and for Rent plus New Developments with floor plans.\nNow it\u2019s easy to search the MLS for active Properties for Sale, for Rent, and view New Developments with floor plans. All active listings with photos and details.",
+        "Official Site": "https://rogerplevin.com",
+        "Icon": "https://www.rogerplevin.com/uploads/default_template/847485241.jpg",
+        "Redirect": "https://rogerplevin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rogerplevin.com"
+    },
+    {
         "link": "https://rogerslandscapesupply.com",
         "Heading": "Tree Trimming Near Me - Find Tree Removal in USA",
         "Abstract": "Looking for Tree Trimming services near you? Find reliable and experienced Tree Removal in the USA.",
@@ -48,16 +48,6 @@
         "Redirect": "https://rogerslandscapesupply.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rogerslandscapesupply.com"
-    },
-    {
-        "link": "https://rolnikeko.pl",
-        "Heading": "Sklep ekologiczny Warszawa - zdrowa \u017cywno\u015b\u0107 bio, produkty eko | RolnikEko.pl",
-        "Abstract": "Eko sklep internetowy - najwi\u0119kszy wyb\u00f3r \u017cywno\u015bci ekologicznej \u2b50 Szybka wysy\u0142ka \u2714\ufe0f Wysoka jako\u015b\u0107 \u2714\ufe0f Odbi\u00f3r osobisty w Warszawie \u26a1 Sprawd\u017a nasz\u0105 ofert\u0119!",
-        "Official Site": "https://rolnikeko.pl",
-        "Icon": "/img/favicon.ico?1595428844",
-        "Redirect": "https://rolnikeko.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rolnikeko.pl"
     },
     {
         "link": "https://roohit.com",
@@ -124,7 +114,7 @@
         "Heading": "Victoria Ferruccio",
         "Abstract": null,
         "Official Site": "https://www.saattravel.com",
-        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=9079",
+        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=1190",
         "Redirect": "https://www.saattravel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.saattravel.com"

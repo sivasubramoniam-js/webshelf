@@ -24,7 +24,7 @@
         "Heading": "Norfolk/Wrentham - Local Town Pages | The Voice of Your Community",
         "Abstract": "LocalTownPages Norfolk/Wrentham is your community-based newspaper, direct mailed to 8,181 residents and businesses, providing local news, sports, and services into the Norfolk/Wrentham area.",
         "Official Site": "https://www.norfolkwrenthamnews.com/",
-        "Icon": "//cdn3.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
+        "Icon": "//cdn2.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
         "Redirect": "https://www.norfolkwrenthamnews.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.norfolkwrenthamnews.com/"
@@ -221,8 +221,8 @@
     },
     {
         "link": "https://guinee-camions.com",
-        "Heading": "Camions d'occasion, 240 000 annonces de poids lourds d'occasion",
-        "Abstract": "Guinee-Camions.com - N\u00b01 des annonces poids lourds en France. 240 000 annonces de camions, semi-remorques, tracteurs routier, autocars\u2026",
+        "Heading": "Camions d'occasion, 250 000 annonces de poids lourds d'occasion",
+        "Abstract": "Guinee-Camions.com - N\u00b01 des annonces poids lourds en France. 250 000 annonces de camions, semi-remorques, tracteurs routier, autocars\u2026",
         "Official Site": "https://www.guinee-camions.com",
         "Icon": "https://www.guinee-camions.com/themes/ico/1/favicon-205x205.png",
         "Redirect": "https://www.guinee-camions.com",
@@ -308,25 +308,5 @@
         "Redirect": "https://www.sevenstarsgracebay.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sevenstarsgracebay.com"
-    },
-    {
-        "link": "https://lowvelder.co.za",
-        "Heading": "Lowvelder | The watchdog of the Lowveld",
-        "Abstract": null,
-        "Official Site": "https://www.citizen.co.za/lowvelder/",
-        "Icon": "https://images.caxton.co.za/wp-content/uploads/sites/44/2020/08/site-icon-70x70.png",
-        "Redirect": "https://www.citizen.co.za/lowvelder/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.citizen.co.za/lowvelder/"
-    },
-    {
-        "link": "https://almustaqbalpress.com",
-        "Heading": "Al Mustaqbal Press |  printing industry in Sharjah | Technical innovation",
-        "Abstract": "Events Management, Exhibitions, Conferences, Concerts, Entertainment",
-        "Official Site": "https://almustaqbalpress.com",
-        "Icon": "images/favicon.png",
-        "Redirect": "https://almustaqbalpress.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://almustaqbalpress.com"
     }
 ]

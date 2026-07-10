@@ -21,7 +21,7 @@
     },
     {
         "link": "https://crystal3tech.com",
-        "Heading": "Crystal3Tech.com",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://crystal3tech.com",
         "Icon": "N/A",
@@ -108,16 +108,6 @@
         "Redirect": "https://yunasoft.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yunasoft.com/"
-    },
-    {
-        "link": "https://knowyourself.pk",
-        "Heading": "Knowyourself \u2013 knowyourself",
-        "Abstract": "KNOW YOURSELF \nwill help you to discover the real you Join Now      \nKNOW YOURSELF \nwill help you to discover the real you Join Now    \nmake your happy life  Who am I? What is my purpose in life? What does my future hold? Will I ever",
-        "Official Site": "https://knowyourself.pk/",
-        "Icon": "https://knowyourself.pk/wp-content/uploads/2022/04/WhatsApp_Image_2021-12-16_at_4.13.38_PM-removebg-preview.png",
-        "Redirect": "https://knowyourself.pk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://knowyourself.pk/"
     },
     {
         "link": "https://dpservicesfl.com",
@@ -230,6 +220,16 @@
         "AbstractURL": "https://houseofcarmen.app"
     },
     {
+        "link": "https://affi-search.com",
+        "Heading": "\u63d0\u643a\u5148\u306e\u30a2\u30d5\u30a3\u30ea\u30a8\u30a4\u30c8ASP\u3092\u63a2\u3059\u306a\u3089\u300c\u30a2\u30d5\u30a3\u30b5\u30fc\u30c1\u300d",
+        "Abstract": "",
+        "Official Site": "https://affi-search.com/",
+        "Icon": "https://affi-search.com/wp-content/uploads/2022/01/affisearchogp.jpg",
+        "Redirect": "https://affi-search.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://affi-search.com/"
+    },
+    {
         "link": "https://puertosdetenerife.org",
         "Heading": "Inicio - Autoridad Portuaria de Santa Cruz de Tenerife",
         "Abstract": "Autoridad Portuaria de Santa Cruz de Tenerife. Informaciones sobre los Puertos, tarifas, promociones y actividades socioculturales.",
@@ -310,21 +310,11 @@
         "AbstractURL": "https://hornymaturefuck.com"
     },
     {
-        "link": "https://apxforx.pro",
-        "Heading": "Apex forex",
-        "Abstract": "Sign up With Apex forex to join thousands of traders currently benefiting from high leveraged full STP/ECN CFD trading with zero conflict of interest through tier one liquidity.",
-        "Official Site": "https://apxforx.pro",
-        "Icon": "https://apxforx.pro/storage/app/public/photos/weYBvjIkd7FHiVThiIdLVMXvpmlrBLfbwYESz6g5.png",
-        "Redirect": "https://apxforx.pro",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://apxforx.pro"
-    },
-    {
         "link": "https://peacediplomacy.org",
         "Heading": "Home - The Institute for Peace and Diplomacy - l\u2019Institut pour la paix et la diplomatie",
-        "Abstract": "The Next Phase of the Iran War: Infrastructure as the Battlefield? \u201cSystematically weakening state capacities leads not only to a reduction in existing efficiency, but also to a weakening of the institutions [\u2026]",
+        "Abstract": "Pressure Without Order: How U.S. Iran Policy Undermines Its Great-Power Strategy The United States does not need to trust Iran, embrace Iran, or make Iran an ally. It needs to stop organizing [\u2026]",
         "Official Site": "https://peacediplomacy.org/",
-        "Icon": "https://peacediplomacy.org/wp-content/uploads/2026/06/President_Donald_Trump_updates_members_of_the_media_on_the_rescue_of_missing_U.S._airmen_in_Iran_P20260406DT-2801.jpg",
+        "Icon": "https://peacediplomacy.org/wp-content/uploads/2026/07/HLgpfd0XMAA0Ne7.jpg",
         "Redirect": "https://peacediplomacy.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://peacediplomacy.org/"

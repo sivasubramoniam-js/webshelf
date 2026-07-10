@@ -70,16 +70,6 @@
         "AbstractURL": "https://www.allthingspaper.net/"
     },
     {
-        "link": "https://fvolchek.com",
-        "Heading": "\u0411\u0443\u043b\u043e\u0447\u043d\u044b\u0435 \u0424. \u0412\u043e\u043b\u044c\u0447\u0435\u043a\u0430",
-        "Abstract": "\u0411\u0443\u043b\u043e\u0447\u043d\u044b\u0435 \u0424. \u0412\u043e\u043b\u044c\u0447\u0435\u043a\u0430 - \u041f\u0435\u043a\u0430\u0440\u043d\u044f \u0424. \u0412\u043e\u043b\u044c\u0447\u0435\u043a\u0430",
-        "Official Site": "https://fvolchek.com",
-        "Icon": "images/fvlogo.png",
-        "Redirect": "https://fvolchek.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fvolchek.com"
-    },
-    {
         "link": "https://itechnologypr.com",
         "Heading": "ITEK Technology PR",
         "Abstract": null,
@@ -190,6 +180,16 @@
         "AbstractURL": "https://lillo.org.ar"
     },
     {
+        "link": "https://bbsnow.net",
+        "Heading": "Loading...",
+        "Abstract": null,
+        "Official Site": "https://bbsnow.net",
+        "Icon": "N/A",
+        "Redirect": "https://bbsnow.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bbsnow.net"
+    },
+    {
         "link": "https://gustavomata.com",
         "Heading": "El blog de Gustavo Mata \u2013 Estrategia: Las reglas del juego en los negocios",
         "Abstract": null,
@@ -208,16 +208,6 @@
         "Redirect": "https://phosphogliv.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://phosphogliv.ru"
-    },
-    {
-        "link": "https://salisburymuseum.org.uk",
-        "Heading": "Home - The Salisbury Museum",
-        "Abstract": "Discover Our History Explore Salisbury Museum Today! \u2018It is without a doubt the best city/town museum I have visited in the UK.\u2019 Tripadvisor March 2026 Plan Your Visit Upcoming Events Discover finds from Stonehenge Our Collections New Galleries Open: Visit Now Learn More Family activities for every visit Things To Do Discover finds from Stonehenge [\u2026]",
-        "Official Site": "https://salisburymuseum.org.uk/",
-        "Icon": "https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2025_LL.png",
-        "Redirect": "https://salisburymuseum.org.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://salisburymuseum.org.uk/"
     },
     {
         "link": "https://cvctechnologies.com",
@@ -288,15 +278,5 @@
         "Redirect": "https://grohe-x.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://grohe-x.com"
-    },
-    {
-        "link": "https://primr.org",
-        "Heading": "Public Responsibility in Medicine and Research (PRIM&R) a 501 (c)(3) nonprofit",
-        "Abstract": "Public Responsibility in Medicine and Research is a nonprofit,\u202ffounded in 1974 that advances the highest ethical standards in the conduct of research by education, certification, membership community.",
-        "Official Site": "http://primr.org/",
-        "Icon": "http://primr.org/__static/ogimage-a93fccdeb603ed0f40273b9fadb73f34/PRIM&R-Logo_transp.png",
-        "Redirect": "http://primr.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://primr.org/"
     }
 ]

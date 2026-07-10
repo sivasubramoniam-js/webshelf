@@ -20,16 +20,6 @@
         "AbstractURL": "{{ canonical_url() }}"
     },
     {
-        "link": "https://kushalmetal.com",
-        "Heading": "Tool Steel Suppliers, Importer and Exporter in India - Kushal Metal & Steel Industries",
-        "Abstract": "Kushal Metal & Steel Industries is a tool steel supplier, trading & stock holding company dealing in all kinds of high speed steel, cold work steel, hot work steel, plastic mould steel, beryllium copper, cutting tools & more.",
-        "Official Site": "https://kushalmetal.com",
-        "Icon": "favicon.ico",
-        "Redirect": "https://kushalmetal.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kushalmetal.com"
-    },
-    {
         "link": "https://eaaze.cloud",
         "Heading": "OperationsUI",
         "Abstract": null,
@@ -150,26 +140,6 @@
         "AbstractURL": "https://meetingsint.com/"
     },
     {
-        "link": "https://consumerphysics.com",
-        "Heading": "Instant Material Analysis Solutions for Agricultural & Food | SCiO",
-        "Abstract": "SCIO Provides Real-Time, On-the-Spot Analysis for Smarter Agricultural & Food Decisions.",
-        "Official Site": "https://scionir.com/",
-        "Icon": "https://scionir.com/wp-content/uploads/2024/11/Frame-1948758342-1-1024x422.jpg",
-        "Redirect": "https://scionir.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://scionir.com/"
-    },
-    {
-        "link": "https://villatraful.com.ar",
-        "Heading": "villatraful.com.ar - Todo lo que necesit\u00e1s para tu viaje.",
-        "Abstract": "Alojamiento, gastronom\u00eda, actividades y atracciones de Villa Traful. Toda la info que necesit\u00e1s para tu viaje. Reserv\u00e1 directo...",
-        "Official Site": "https://villatraful.com.ar/",
-        "Icon": "https://villatraful.com.ar/wp-content/uploads/2021/11/JFA_villatraful-25.jpg",
-        "Redirect": "https://villatraful.com.ar/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://villatraful.com.ar/"
-    },
-    {
         "link": "https://ms-uk.org",
         "Heading": "Home | MS-UK | Supporting your multiple sclerosis journey",
         "Abstract": "MS-UK is here for anyone affected by multiple sclerosis (MS), improving the understanding of MS and providing support where it is needed most.",
@@ -180,14 +150,14 @@
         "AbstractURL": "https://ms-uk.org/"
     },
     {
-        "link": "https://pcwhosting.co.uk",
-        "Heading": "Sign in to Hosting Control Panel\n    ",
+        "link": "https://seascout.org",
+        "Heading": "Site is offline",
         "Abstract": null,
-        "Official Site": "https://pcwhosting.co.uk",
-        "Icon": "/brandFavicon?size=ico",
-        "Redirect": "https://pcwhosting.co.uk",
+        "Official Site": "https://seascout.org",
+        "Icon": "N/A",
+        "Redirect": "https://seascout.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pcwhosting.co.uk"
+        "AbstractURL": "https://seascout.org"
     },
     {
         "link": "https://lozovamachinery.com",
@@ -198,6 +168,16 @@
         "Redirect": "https://lozovamachinery.com/ua",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lozovamachinery.com/ua"
+    },
+    {
+        "link": "https://redbullstudiosshop.com",
+        "Heading": "Loading...",
+        "Abstract": null,
+        "Official Site": "https://redbullstudiosshop.com",
+        "Icon": "N/A",
+        "Redirect": "https://redbullstudiosshop.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://redbullstudiosshop.com"
     },
     {
         "link": "https://turborilla.com",

@@ -30,16 +30,6 @@
         "AbstractURL": "https://nomicom.xyz"
     },
     {
-        "link": "https://nudi-esymu.site",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://nudi-esymu.site",
-        "Icon": "N/A",
-        "Redirect": "https://nudi-esymu.site",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nudi-esymu.site"
-    },
-    {
         "link": "https://obcas.pl",
         "Heading": "Czego nie wiemy o naszych idolach? Nieznane fakty z \u017cycia gwiazd! - Obcas.pl",
         "Abstract": "Plotki, newsy, lifestyle!",
@@ -131,7 +121,7 @@
     },
     {
         "link": "https://onlineparts.dk",
-        "Heading": "Kvalitets MC Reservedele & Tilbeh\u00f8r. ",
+        "Heading": "Kvalitets MC Reservedele & Tilbeh\u00f8r -",
         "Abstract": "Stort udvalg af motorcykelreservedele, tilbeh\u00f8r og udstyr fra topm\u00e6rker som Honda, Kawasaki og Ducati. Hurtig levering hos Onlineparts.dk",
         "Official Site": "https://onlineparts.dk",
         "Icon": "/icons/icons_0/favicon-32x32.png?v=4.40",
@@ -158,15 +148,5 @@
         "Redirect": "https://ophoacit.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ophoacit.com"
-    },
-    {
-        "link": "https://originalo.ro",
-        "Heading": "Originalo \u2013 cadouri personalizate",
-        "Abstract": null,
-        "Official Site": "https://originalo.ro",
-        "Icon": "https://originalo.ro/wp-content/themes/elessi-theme/favicon.ico",
-        "Redirect": "https://originalo.ro",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://originalo.ro"
     }
 ]

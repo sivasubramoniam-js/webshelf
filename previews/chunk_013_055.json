@@ -12,7 +12,7 @@
     {
         "link": "https://jobs-in-kiel.info",
         "Heading": "Stellenangebote Kiel - Ihre aktuelle Jobb\u00f6rse f\u00fcr Kiel und Umgebung",
-        "Abstract": "T\u00e4glich aktuelle und neue Stellenangebote f\u00fcr die Region Kiel. Finden Sie aus 9.318 passenden Jobs in Kiel und Umgebung, Ihre neue Stelle. Ihre regionale Jobb\u00f6rse jobs-in-kiel.info | 2026",
+        "Abstract": "T\u00e4glich aktuelle und neue Stellenangebote f\u00fcr die Region Kiel. Finden Sie aus 9.220 passenden Jobs in Kiel und Umgebung, Ihre neue Stelle. Ihre regionale Jobb\u00f6rse jobs-in-kiel.info | 2026",
         "Official Site": "https://jobs-in-kiel.info",
         "Icon": "/favicon.ico",
         "Redirect": "https://jobs-in-kiel.info",
@@ -170,16 +170,6 @@
         "AbstractURL": "https://krackeler.com"
     },
     {
-        "link": "https://kwadryga.com",
-        "Heading": "Najwi\u0119kszy Antykwariat i Skup Starych Ksi\u0105\u017cek Online - Antykwariat Kwadryga",
-        "Abstract": "kwadryga.com \u2b50 Najwi\u0119kszy antykwariat online! \u2714\ufe0f Skup ksi\u0105\u017cek online i starych ksi\u0105\u017cek w naszym antykwariacie internetowym \u2714\ufe0f Najlepsze ceny i szeroki wyb\u00f3r ksi\u0105\u017cek!",
-        "Official Site": "https://kwadryga.com/",
-        "Icon": "https://kwadryga.com/wp-content/uploads/2020/07/cropped-kwadryga-favicon-32x32.png",
-        "Redirect": "https://kwadryga.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kwadryga.com/"
-    },
-    {
         "link": "https://kwant-project.org",
         "Heading": "Quantum transport simulations made easy | Kwant",
         "Abstract": "kwant-workflow.svgz\nKwant is a free (open source),\npowerful, and easy to use Python package for numerical calculations on tight-binding\nmodels with a strong focus on quantum transport.\n\n Recent blog p",
@@ -261,13 +251,13 @@
     },
     {
         "link": "https://lecomptoirdespharmacies.fr",
-        "Heading": "Le Comptoir Des Pharmacies\u2122 - La marketplace au service des Pharmacies",
+        "Heading": "\n    Le Comptoir Des Pharmacies\u2122 - La marketplace au service des Pharmacies\n  ",
         "Abstract": "Optimisez la tr\u00e9sorerie de votre pharmacie gr\u00e2ce \u00e0 une gestion intelligente des achats et des stocks : invendus, gaspillage, ruptures\u2026 LCDP agit",
-        "Official Site": "https://www.lecomptoirdespharmacies.fr/",
-        "Icon": "https://lcdp-marketing.s3.eu-west-3.amazonaws.com/Website/website_preview.jpg",
-        "Redirect": "https://www.lecomptoirdespharmacies.fr/",
+        "Official Site": "https://lecomptoirdespharmacies.fr",
+        "Icon": "N/A",
+        "Redirect": "https://lecomptoirdespharmacies.fr",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lecomptoirdespharmacies.fr/"
+        "AbstractURL": "https://lecomptoirdespharmacies.fr"
     },
     {
         "link": "https://legendlines.com",

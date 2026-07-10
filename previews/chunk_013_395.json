@@ -140,16 +140,6 @@
         "AbstractURL": "https://expireddomains.com/domain/molodezhka-lordfilm.online"
     },
     {
-        "link": "https://redhot.org",
-        "Heading": "Red Hot Org",
-        "Abstract": "Red Hot Organization is a not-for-profit, international organization dedicated to fighting AIDS through pop culture.",
-        "Official Site": "https://redhot.org/",
-        "Icon": "https://redhot.org/assets/RH.jpg",
-        "Redirect": "https://redhot.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://redhot.org/"
-    },
-    {
         "link": "https://vibhaait.com",
         "Heading": "Vibhaa Technologies Hosting Solutions",
         "Abstract": null,
@@ -181,10 +171,10 @@
     },
     {
         "link": "https://assemblyfestival.com",
-        "Heading": null,
+        "Heading": "Home | Assembly Festival",
         "Abstract": null,
         "Official Site": "https://assemblyfestival.com",
-        "Icon": "N/A",
+        "Icon": "https://assemblyfestival.com/img/og-image.jpg",
         "Redirect": "https://assemblyfestival.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://assemblyfestival.com"

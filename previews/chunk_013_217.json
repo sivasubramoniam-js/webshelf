@@ -20,16 +20,6 @@
         "AbstractURL": "https://triggernovyjsezon.online"
     },
     {
-        "link": "https://formrite.com.au",
-        "Heading": "\n    \n    Formrite Group - Pharma Plastic Sydney, Melbourne, Adelaide\n  \n  ",
-        "Abstract": "Formrite Group offers top packaging & POS solutions with 60+ years' expertise in Sydney NSW, Melbourne VIC & Adelaide SA. Benefit from custom designs & fast turnaround! Enquire now.",
-        "Official Site": "https://www.formrite.com.au/",
-        "Icon": "https://irp.cdn-website.com/111de763/site_favicon_16_1746556704166.ico",
-        "Redirect": "https://www.formrite.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.formrite.com.au/"
-    },
-    {
         "link": "https://todoelectrico.es",
         "Heading": "Todoelectrico - Tienda Electricidad e Iluminaci\u00f3n",
         "Abstract": "Comprar material el\u00e9ctrico y en tienda de electricidad, estamos Pol. Ind Canastel calle Yunque 27. env\u00edos 24.TLF 965 670 786",
@@ -48,16 +38,6 @@
         "Redirect": "https://portables.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://portables.org"
-    },
-    {
-        "link": "https://rencontrefemmecougar.org",
-        "Heading": "Redirecting...",
-        "Abstract": null,
-        "Official Site": "https://rencontrefemmecougar.org",
-        "Icon": "N/A",
-        "Redirect": "https://rencontrefemmecougar.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rencontrefemmecougar.org"
     },
     {
         "link": "https://onco360.com",
@@ -124,7 +104,7 @@
         "Heading": "BLUSUN \u2013 Barfu\u00dfschuhe, die nicht aussehen wie Barfu\u00dfschuhe!\n",
         "Abstract": "Sie sehen nicht aus wie typische Barfu\u00dfschuhe, bieten aber maximales Barfu\u00dfgef\u00fchl und nat\u00fcrliche Bewegungsfreiheit. BLUSUNs werden unter fairen und nachhaltigen Bedingungen in Portugal gefertigt \u2013 aus hochwertigen europ\u00e4ischen Materialien, mit breiter Zehenbox, weichem Obermaterial und extrem d\u00fcnner, flexibler Sohle.",
         "Official Site": "https://blusun.shoes/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0755/2647/1947/files/barfussschuhe-damen-herren-blusun.jpg?v=1748850381",
+        "Icon": "http://blusun.shoes/cdn/shop/files/barfussschuhe-damen-herren-blusun.jpg?v=1748850381",
         "Redirect": "https://blusun.shoes/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://blusun.shoes/"
@@ -214,7 +194,7 @@
         "Heading": "\u00a0\u00a0\u00a0\u00a0",
         "Abstract": null,
         "Official Site": "https://12399.cc",
-        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAP0SURBVHgB7VU7bxtHEJ7ZPSoqjPhSpsqlSS3/Ap+bAEGaqEmRxmITIE0sFUkXiAnyAlKIRApXASUYeXR0KlUBnSZp1bkJEFqFLVsQfDbNh8TbHc/s3h7vaEmtGw60WuJuZr9vvpnZA1ja0pb2mg1/2aeuQkhAAWgEuH//P0Cgve8/f2/3ssDeP/QRbzd5xeFZ9nS41/zwzVpcr0/xFOCWIUjJAhABWHJ7BmNoRuyT8oNEyQuJ4H+oVNra+f9ua+vd7FzwfymxBnrVZ2dnORwenvy9CD4m6DPYWgAGcn8ZZ3mjuY6ZIv/AMZNVCAOwqjbhApvNYNsw0XIZgJOTIUQrUenT3Z8kI0MleFhWwIHB38cD8VO2Ah4IINdER/rWRQQYMLUcGNYpZz8en0IURSU4qkafAMvMC9kHYOBaAPcEKnWxBQGFCIgY/3TnOF0E//Uv2uCYJGQu+7PnYxcrBG73JgmB7qPSiTt3TnTA6d9ofoCD6nmqmoksEHCleFPye3uRQG65ocTXeH+p/ejFlBWLoNFYeUdp7CN6cOcnmTM40qvgnkDFURa67FVBQqc7vafxvK4k0q8JsCnihsOJ6yGtIyGxobROLKla5gjng88VqEgFMo/gshc5QOUrZTNahJu20niyS+0dOC9U3AMYQcieeyNTl4A7NFMAh0OlAT24AnJKRK4Zb+9Twu83QudLzGjks1cMrLRfAXw6PYWjh0fx4eHRdbjElDWVcSKXcyYlIPAKsDrxzz2WfgZpbfQk+9EkC+CSPTFpef782RAeP3rsp0ph+7vuk7WLFaB5RrKzlh0PznXkWpIs4Lk3sJ2bufQct2sJMye7gLP08u7FcHRwcnzswJXS0ksxYKP3w++T5MISSGBe7NH0rM1RmWTjMiKXVepGL/hJ9xvoeABPQBLImdQXn1y5hlrf4zFkAbVkxOR4Kgz1zi+BrSvgr1/VcZ3sFED3PK82n4F7W+t4QEXTiZ+oM8vhgRz6Rk7rTGBQIwF67cc/aOcVAnkxfrkJU8AWqbYFzFhiBkYI0gcSvO85PwHnw0NZbO7DJQnNc09MgrN3PuT9Nr/9jTbrJajUNS8ItJpvsQq6Y8HPc7VETGbw5ce4K36EDbAVhUK8O+OztwdoGutUgFvSQcGd1h1KSwJQuYatrXJbbVuLmVmYewbpBA+nkCfl3tfjmcSnV/jOV1tlIqHc/CVtdSnxBILVvoaiApfAqk4JYIsyzeBu8MnzOjmzQMCfs9omq74OHz3wGDFXts8kYhneP7lMV31K9WBm15Z7gO+lqxLI9/keExuUCliOxSKW3GgewDn2TRNbX3VpwHfcdZey9YfLxQZLW9rSXre9BOiNus7s6qHJAAAAAElFTkSuQmCC",
+        "Icon": "N/A",
         "Redirect": "https://12399.cc",
         "AbstractSource": "BS4",
         "AbstractURL": "https://12399.cc"
@@ -241,8 +221,8 @@
     },
     {
         "link": "https://42okok.com",
-        "Heading": "\u0e08\u0e33\u0e2b\u0e19\u0e48\u0e32\u0e22\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 \u0e40\u0e2a\u0e37\u0e49\u0e2d \u0e1a\u0e23\u0e23\u0e08\u0e38\u0e20\u0e31\u0e13\u0e11\u0e4c \u0e23\u0e31\u0e1a\u0e1c\u0e25\u0e34\u0e15\u0e04\u0e23\u0e35\u0e21 \u0e40\u0e04\u0e21\u0e35 \u0e41\u0e25\u0e30\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e08\u0e31\u0e01\u0e23",
-        "Abstract": "\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 Archive - \u0e08\u0e33\u0e2b\u0e19\u0e48\u0e32\u0e22\u0e2a\u0e34\u0e19\u0e04\u0e49\u0e32 \u0e40\u0e2a\u0e37\u0e49\u0e2d \u0e1a\u0e23\u0e23\u0e08\u0e38\u0e20\u0e31\u0e13\u0e11\u0e4c \u0e23\u0e31\u0e1a\u0e1c\u0e25\u0e34\u0e15\u0e04\u0e23\u0e35\u0e21 \u0e40\u0e04\u0e21\u0e35 \u0e41\u0e25\u0e30\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e08\u0e31\u0e01\u0e23",
+        "Heading": "\u0e23\u0e31\u0e1a\u0e1c\u0e25\u0e34\u0e15\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2a\u0e33\u0e2d\u0e32\u0e07 OEM \u0e04\u0e23\u0e1a\u0e27\u0e07\u0e08\u0e23 \u0e0a\u0e38\u0e14\u0e17\u0e33 \u0e40\u0e1a\u0e2a \u0e04\u0e23\u0e35\u0e21 \u0e1a\u0e23\u0e23\u0e08\u0e38\u0e20\u0e31\u0e13\u0e11\u0e4c | 42okok",
+        "Abstract": "\u0e42\u0e23\u0e07\u0e07\u0e32\u0e19\u0e23\u0e31\u0e1a\u0e1c\u0e25\u0e34\u0e15\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2a\u0e33\u0e2d\u0e32\u0e07 OEM/ODM \u0e04\u0e23\u0e1a\u0e27\u0e07\u0e08\u0e23 \u0e0a\u0e38\u0e14\u0e17\u0e33\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2a\u0e33\u0e2d\u0e32\u0e07 \u0e40\u0e1a\u0e2a\u0e04\u0e23\u0e35\u0e21 \u0e04\u0e23\u0e35\u0e21 \u0e40\u0e0b\u0e23\u0e31\u0e48\u0e21 \u0e01\u0e31\u0e19\u0e41\u0e14\u0e14 \u0e41\u0e25\u0e30\u0e1a\u0e23\u0e23\u0e08\u0e38\u0e20\u0e31\u0e13\u0e11\u0e4c\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2a\u0e33\u0e2d\u0e32\u0e07\u0e23\u0e32\u0e04\u0e32\u0e2a\u0e48\u0e07 \u0e2a\u0e23\u0e49\u0e32\u0e07\u0e41\u0e1a\u0e23\u0e19\u0e14\u0e4c\u0e2a\u0e01\u0e34\u0e19\u0e41\u0e04\u0e23\u0e4c\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13 \u0e2a\u0e31\u0e48\u0e07\u0e02\u0e31\u0e49\u0e19\u0e15\u0e48\u0e33\u0e19\u0e49\u0e2d\u0e22 \u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e1f\u0e23\u0e35 LINE @pycm",
         "Official Site": "https://42okok.com/",
         "Icon": "https://i0.wp.com/42okok.com/wp-content/uploads/2025/01/cropped-images.jpg?fit=32%2C32&ssl=1",
         "Redirect": "https://42okok.com/",

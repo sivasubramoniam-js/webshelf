@@ -1,7 +1,7 @@
 [
     {
         "link": "https://franimo.com",
-        "Heading": "60483 properties and real estate for sale in France | Franimo",
+        "Heading": "62477 properties and real estate for sale in France | Franimo",
         "Abstract": "Find a property, real estate or a house for sale in France. We have cheap property for sale in France, in Brittany and Normandy and also luxury villas in the south of France. Search for French castles, barn conversions and farms from private sellers and real estate agents.",
         "Official Site": "https://franimo.com",
         "Icon": "/favicon.ico",
@@ -68,6 +68,16 @@
         "Redirect": "https://newzbin.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://newzbin.com"
+    },
+    {
+        "link": "https://entrelect.co.jp",
+        "Heading": "\u682a\u5f0f\u4f1a\u793e\u30a2\u30f3\u30c6\u30ec\u30af\u30c8",
+        "Abstract": "\u30ca\u30ec\u30c3\u30b8\u30ad\u30e3\u30d4\u30bf\u30eb\u30ab\u30f3\u30d1\u30cb\u30fc\u3068\u3057\u3066\u3001\u30a2\u30f3\u30c8\u30ec\u30d7\u30ec\u30ca\u30fc\u6559\u80b2\u3092\u4e2d\u6838\u306b\u3001\u69d8\u3005\u306a\u30b5\u30fc\u30d3\u30b9\u3092\u63d0\u4f9b\u3059\u308b\u3053\u3068\u306b\u3088\u308a\u3001\u30a2\u30f3\u30c6\u30ec\u30af\u30c8\u578b\u4eba\u6750\u3092\u80b2\u6210\u3057\u307e\u3059",
+        "Official Site": "https://www.entrelect.co.jp/",
+        "Icon": "https://www.entrelect.co.jp/img/ogimage.png",
+        "Redirect": "https://www.entrelect.co.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.entrelect.co.jp/"
     },
     {
         "link": "https://alpaca-onlineshop.com",
@@ -140,16 +150,6 @@
         "AbstractURL": "https://centaurihosting.org"
     },
     {
-        "link": "https://amphorahotel.com",
-        "Heading": "Amphora Hotel | Ka\u015f | Antalya | Antalya Butik Otel | Ka\u015f Butik Otel \u2013 Amphora Otel, Antalya Ka\u015f Otel, Ka\u015f Butik Otel",
-        "Abstract": null,
-        "Official Site": "https://www.amphorahotel.com/",
-        "Icon": "https://www.amphorahotel.com/wp-content/uploads/2020/06/favicon1.png",
-        "Redirect": "https://www.amphorahotel.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.amphorahotel.com/"
-    },
-    {
         "link": "https://colognepride.de",
         "Heading": "ColognePride 2026",
         "Abstract": "Anmeldung CSD-Demo 2026",
@@ -178,16 +178,6 @@
         "Redirect": "https://mixlifeweb.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mixlifeweb.com"
-    },
-    {
-        "link": "https://expertsmi.com",
-        "Heading": "Tech Experts \u2013 IT Support in Monroe MI   Tech Experts",
-        "Abstract": "IT Support in Monroe MI || Tech Experts",
-        "Official Site": "https://expertsmi.com",
-        "Icon": "https://i0.wp.com/mytechexperts.com/wp-content/uploads/2024/12/TE_Wide_with_tagline_color_transparent_TM.png?fit=2758%2C1123&ssl=1",
-        "Redirect": "https://expertsmi.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://expertsmi.com"
     },
     {
         "link": "https://ospsouz.online",

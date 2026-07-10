@@ -10,6 +10,16 @@
         "AbstractURL": "https://kunstgrasconcurrent.nl"
     },
     {
+        "link": "https://mckoysnews.com",
+        "Heading": "mckoysnews | Home | mckoysnews.com",
+        "Abstract": "Stay informed with the latest news, events, and updates from mckoysnews Explore articles on a wide range of topics including current affairs",
+        "Official Site": "https://mckoysnews.com/",
+        "Icon": "https://mckoysnews.com/wp-content/uploads/2024/04/My-Husband-is-a-Control-Freak-300x169.png",
+        "Redirect": "https://mckoysnews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mckoysnews.com/"
+    },
+    {
         "link": "https://labaronia.es",
         "Heading": "Portada | Mancomunitat de La Baronia",
         "Abstract": null,
@@ -28,16 +38,6 @@
         "Redirect": "https://darz.art",
         "AbstractSource": "BS4",
         "AbstractURL": "https://darz.art"
-    },
-    {
-        "link": "https://agrorom.ru",
-        "Heading": "\u0410\u0433\u0440\u043e\u0441\u043e\u044e\u0437 \u0420\u043e\u043c\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 - \u0410\u0440\u0431\u0443\u0437\u044b \u0438 \u0434\u044b\u043d\u0438 \u043e\u043f\u0442\u043e\u043c \u043e\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f",
-        "Abstract": "\u041a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0439 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043e\u0432\u043e\u0449\u0435\u0439 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0430\u0440\u0431\u0443\u0437\u044b \u0438 \u0434\u044b\u043d\u0438 \u043e\u043f\u0442\u043e\u043c \u043e\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f \u043f\u0440\u044f\u043c\u0438\u043a\u043e\u043c \u0441 \u043f\u043e\u043b\u044f",
-        "Official Site": "https://agrorom.ru/",
-        "Icon": "N/A",
-        "Redirect": "https://agrorom.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://agrorom.ru/"
     },
     {
         "link": "https://putnamyouthfootball.com",
@@ -123,11 +123,21 @@
         "link": "https://kimballelectronics.com",
         "Heading": "\n\tHome\n",
         "Abstract": "Kimball Electronics provides electronics manufacturing and contract manufacturing for the Automotive, Industrial, and Medical markets.",
-        "Official Site": "https://www.kimballelectronics.com/home",
+        "Official Site": "https://kimballelectronics.com/home",
         "Icon": "/AdminApp/assets/icons/KEIFavIcon-50x50.png",
-        "Redirect": "https://www.kimballelectronics.com/home",
+        "Redirect": "https://kimballelectronics.com/home",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kimballelectronics.com/home"
+        "AbstractURL": "https://kimballelectronics.com/home"
+    },
+    {
+        "link": "https://actionaidindia.org",
+        "Heading": "ActionAid India \u2013Best NGO in India working for Children Health, Safety, Education, Women\u2019s rights as well as Violence against Women",
+        "Abstract": "ActionAid Association most trusted NGO working for children, ecological justice, women against violence, women empowerment, gender based inequality and fight against the patriarchy system in India.",
+        "Official Site": "https://www.actionaidindia.org/",
+        "Icon": "logo.png",
+        "Redirect": "https://www.actionaidindia.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.actionaidindia.org/"
     },
     {
         "link": "https://bureau-ice.nl",
@@ -200,16 +210,6 @@
         "AbstractURL": "https://fabkom.com"
     },
     {
-        "link": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
-        "Icon": "N/A",
-        "Redirect": "https://322ffbbc7c1b312c2f9d942f20422f8d.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://322ffbbc7c1b312c2f9d942f20422f8d.com"
-    },
-    {
         "link": "https://oncoins.net",
         "Heading": "\u041f\u043e\u0440\u0442\u0430\u043b \u043e \u041d\u0443\u043c\u0438\u0437\u043c\u0430\u0442\u0438\u043a\u0435",
         "Abstract": "\u041f\u043e\u0440\u0442\u0430\u043b \u041e \u043d\u0443\u043c\u0438\u0437\u043c\u0430\u0442\u0438\u043a\u0435. \u041c\u043e\u043d\u0435\u0442\u044b \u0440\u0430\u0437\u043d\u044b\u0445 \u043b\u0435\u0442. \u0421\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043e \u0442\u0438\u0440\u0430\u0436\u0430\u0445. \u041d\u0443\u043c\u0438\u0437\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0441\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0438\u043a. \u0421\u0442\u0430\u0442\u044c\u0438, \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u043c\u0430\u044f \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430. \u0424\u043e\u0440\u0443\u043c",
@@ -228,6 +228,16 @@
         "Redirect": "https://www.chapmanspeakdrive.co.za/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.chapmanspeakdrive.co.za/"
+    },
+    {
+        "link": "https://susanbaileycounselling.co.uk",
+        "Heading": "GVUI - Link \u0110\u0103ng Nh\u1eadp Gvui.com M\u1edbi Nh\u1ea5t Th\u00e1ng 7/2026",
+        "Abstract": "GVUI c\u1eadp nh\u1eadt link \u0111\u0103ng nh\u1eadp Gvui.com m\u1edbi nh\u1ea5t th\u00e1ng 7/2026, theo d\u00f5i \u0111\u00e1 g\u00e0 Thomo tr\u1ef1c ti\u1ebfp, livestream HD c\u00f9ng l\u1ecbch \u0111\u1ea5u v\u00e0 t\u1ef7 l\u1ec7 c\u01b0\u1ee3c m\u1edbi nh\u1ea5t.",
+        "Official Site": "https://www.mrssylviasecrets.net/vi-vn/",
+        "Icon": "https://www.mrssylviasecrets.net/wp-content/uploads/2025/12/gvui-trang-chu-chinh-thuc.jpg",
+        "Redirect": "https://www.mrssylviasecrets.net/vi-vn/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mrssylviasecrets.net/vi-vn/"
     },
     {
         "link": "https://steampunker.ru",

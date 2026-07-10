@@ -30,24 +30,14 @@
         "AbstractURL": "https://celticstudio.shop/"
     },
     {
-        "link": "https://cgtfinancespubliques.fr",
-        "Heading": "CGT Finances publiques | Public",
-        "Abstract": "La CGT, syndicat au service des agents des Finances publiques",
-        "Official Site": "https://www.cgtfinancespubliques.fr/public/",
-        "Icon": "xskel-fip/assets/images/facebook.png",
-        "Redirect": "https://www.cgtfinancespubliques.fr/public/",
+        "link": "https://chaodufashi.com",
+        "Heading": "\u9f0e\u706b\u7f51\u7edc\u4fe1\u606f",
+        "Abstract": "\u4e3a\u60a8\u8be6\u7ec6\u89e3\u8bf4\u547d\u7406\u8fd0\u52bf\u8fd0\u7a0b\u3001\u98ce\u6c34\u547d\u7406\u3001\u5a5a\u59fb\u611f\u60c5\u547d\u7406\u3001\u5065\u5eb7\u5e73\u5b89\u547d\u7406\u3001\u516b\u5b57\u6d4b\u7b97\u7b49!",
+        "Official Site": "https://chaodufashi.com",
+        "Icon": "https://www.chaodufashi.com/favicon.ico",
+        "Redirect": "https://chaodufashi.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cgtfinancespubliques.fr/public/"
-    },
-    {
-        "link": "https://chapfoundation.org",
-        "Heading": "Chap Foundation",
-        "Abstract": null,
-        "Official Site": "https://chapfoundation.org",
-        "Icon": "https://chapfoundation.org/wp-content/uploads/2024/04/Icon-150x150.png",
-        "Redirect": "https://chapfoundation.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chapfoundation.org"
+        "AbstractURL": "https://chaodufashi.com"
     },
     {
         "link": "https://chat-ruletka24.ru",
@@ -90,16 +80,6 @@
         "AbstractURL": "https://ciplawyer.cn"
     },
     {
-        "link": "https://ciso-kux.store",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ciso-kux.store",
-        "Icon": "N/A",
-        "Redirect": "https://ciso-kux.store",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ciso-kux.store"
-    },
-    {
         "link": "https://cityandurbaninternational.com",
         "Heading": "City and Urban International | Estate Agents in Marylebone and Shoreditch  ",
         "Abstract": "City and Urban are estate agents and letting agents based in Marylebone, Londonand Shoreditch, specialising in property sales, lettings and property management.",
@@ -121,13 +101,13 @@
     },
     {
         "link": "https://codecblend.com",
-        "Heading": "Account Suspended",
-        "Abstract": null,
-        "Official Site": "https://codecblend.com",
-        "Icon": "N/A",
-        "Redirect": "https://codecblend.com",
+        "Heading": "Home - CodecBlend",
+        "Abstract": "Website And Mobile App Development, Web & Graphic Design",
+        "Official Site": "http://codecblend.com/v3/",
+        "Icon": "http://codecblend.com/v3/images/logos/icon-codecblend-150X150.png",
+        "Redirect": "http://codecblend.com/v3/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://codecblend.com"
+        "AbstractURL": "http://codecblend.com/v3/"
     },
     {
         "link": "https://coinbusinessfinder.com",

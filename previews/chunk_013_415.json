@@ -291,13 +291,13 @@
     },
     {
         "link": "https://pagan-records.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://pagan-records.com",
-        "Icon": "N/A",
-        "Redirect": "https://pagan-records.com",
+        "Heading": "Pagan Records - Sklep Internetowy",
+        "Abstract": "",
+        "Official Site": "https://www.pagan-records.com/",
+        "Icon": "/skins/user/rwd_shoper_5/images/favicon.png",
+        "Redirect": "https://www.pagan-records.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pagan-records.com"
+        "AbstractURL": "https://www.pagan-records.com/"
     },
     {
         "link": "https://pandaloo.ch",
@@ -358,16 +358,6 @@
         "Redirect": "https://pg-securitysystems.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pg-securitysystems.nl"
-    },
-    {
-        "link": "https://pharmacyfreak.com",
-        "Heading": "Pharmacy Freak",
-        "Abstract": "Your ultimate resource for pharmacy education and exam prep. Access drug classifications, Mechanisms of Action (MOA), mock tests, Quizzes, MCQs, pharmacy blogs",
-        "Official Site": "https://pharmacyfreak.com/",
-        "Icon": "https://pharmacyfreak.com/wp-content/uploads/2025/08/cropped-Dental-products-Dentifrices-32x32.png",
-        "Redirect": "https://pharmacyfreak.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pharmacyfreak.com/"
     },
     {
         "link": "https://phoenixshaving.com",
