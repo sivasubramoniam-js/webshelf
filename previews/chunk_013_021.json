@@ -60,16 +60,6 @@
         "AbstractURL": "https://www.arsakademia.com/"
     },
     {
-        "link": "https://artisport.it",
-        "Heading": "Artisport: Produzione di Impianti Sportivi e Attrezzature",
-        "Abstract": "Artisport produce e vende Impianti per Calcio, Basket, Volley, Atletica. Offre una vasta selezione di attrezzature. Contattaci per un preventivo.",
-        "Official Site": "https://www.artisport.it/it/",
-        "Icon": "https://www.artisport.it/img/favicon.ico?1706786191",
-        "Redirect": "https://www.artisport.it/it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.artisport.it/it/"
-    },
-    {
         "link": "https://asherycountrystore.com",
         "Heading": "Ashery Country Store - Amish Grocery & Bulk Foods | Mt. Hope",
         "Abstract": "Ashery Country Store is located in Mt. Hope, OH. We carry bulk foods, deli meats & cheeses, fresh produce, & lots of other goodies.",
@@ -130,6 +120,16 @@
         "AbstractURL": "https://www.autopartone.com/"
     },
     {
+        "link": "https://autozentrum-acker.de",
+        "Heading": "\n\tAutozentrum Acker | Ford, Renault, Dacia, Peugeot, Citro\u00ebn, Fiat \u2013 Marburg, Biedenkopf, Bad Berleburg & Fernwald\n",
+        "Abstract": "Ihr Autohaus in Mittelhessen: Neuwagen, Gebrauchtwagen & Werkstattservice f\u00fcr Ford, Renault, Dacia, Peugeot, Citro\u00ebn, Fiat & mehr. 4 Standorte: Marburg, Biedenkopf, Bad Berleburg und Fernwald.",
+        "Official Site": "https://autozentrum-acker.de",
+        "Icon": "N/A",
+        "Redirect": "https://autozentrum-acker.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://autozentrum-acker.de"
+    },
+    {
         "link": "https://avanturist.hr",
         "Heading": "Security check required",
         "Abstract": "Please pass the captcha check to continue",
@@ -148,6 +148,36 @@
         "Redirect": "https://www.avinter.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.avinter.nl/"
+    },
+    {
+        "link": "https://avto-zone.com",
+        "Heading": "Access Denied",
+        "Abstract": null,
+        "Official Site": "https://avto-zone.com",
+        "Icon": "N/A",
+        "Redirect": "https://avto-zone.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://avto-zone.com"
+    },
+    {
+        "link": "https://avy-ytep.store",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://avy-ytep.store",
+        "Icon": "N/A",
+        "Redirect": "https://avy-ytep.store",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://avy-ytep.store"
+    },
+    {
+        "link": "https://awyba-esa.online",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://awyba-esa.online",
+        "Icon": "N/A",
+        "Redirect": "https://awyba-esa.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://awyba-esa.online"
     },
     {
         "link": "https://axsconsultoria.com.br",

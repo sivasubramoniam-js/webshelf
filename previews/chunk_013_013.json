@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.neco-republic.jp/"
     },
     {
-        "link": "https://riguan.nl",
-        "Heading": "Cloudformatie Welkom bij Cloudformatie Riguan",
-        "Abstract": "Jouw Vertrouwde Partner in Volledige ICT-oplossingen",
-        "Official Site": "https://cloudformatie.com/",
-        "Icon": "https://cloudformatie.com/wp-content/uploads/2024/12/cropped-icon-transparent-1-32x32.webp",
-        "Redirect": "https://cloudformatie.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cloudformatie.com/"
-    },
-    {
         "link": "https://dacenews.site",
         "Heading": "dacenews",
         "Abstract": null,
@@ -108,6 +98,16 @@
         "Redirect": "https://xxxtube-asian.com/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xxxtube-asian.com/en/"
+    },
+    {
+        "link": "https://unnatipharmax.com",
+        "Heading": "Pharma Exporter India | Bulk Medicines Online\u2013Unnati Pharmax",
+        "Abstract": "Order WHO-GMP certified generic and specialty medicines from Unnati Pharmax. Trusted pharma exporter India for bulk medicine supply and global shipping.",
+        "Official Site": "https://unnatipharmax.com/",
+        "Icon": "https://unnatipharmax.com/wp-content/uploads/2025/07/Hiv-Banner-Homepage.png",
+        "Redirect": "https://unnatipharmax.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://unnatipharmax.com/"
     },
     {
         "link": "https://keratoconus-group.org.uk",
@@ -200,16 +200,6 @@
         "AbstractURL": "https://www.sunrisehealthinfo.com/"
     },
     {
-        "link": "https://mwge.org",
-        "Heading": "The Movie Watcher's Guide to Enlightenment (MWGE)",
-        "Abstract": "With movie commentary for over 450 spiritual movies and regular movies alike, MWGE offers a fun and practical path to spiritual enlightenment!",
-        "Official Site": "https://mwge.org/",
-        "Icon": "https://mwge.org/wp-content/uploads/mwge-logo-on-teal-background.jpeg",
-        "Redirect": "https://mwge.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mwge.org/"
-    },
-    {
         "link": "https://tcomlp.com",
         "Heading": "TCOM \u2013 Global Leader in Persistent Surveillance Aerostats ISR Solutions",
         "Abstract": null,
@@ -298,15 +288,5 @@
         "Redirect": "https://supercurioso.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://supercurioso.com/"
-    },
-    {
-        "link": "https://ganitiktech.com",
-        "Heading": "Ganitik Tech Limited - Home",
-        "Abstract": null,
-        "Official Site": "https://ganitiktech.com",
-        "Icon": "assets/img/ganitik.png",
-        "Redirect": "https://ganitiktech.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ganitiktech.com"
     }
 ]

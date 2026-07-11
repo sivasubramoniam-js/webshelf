@@ -30,6 +30,16 @@
         "AbstractURL": "https://campdigital.com/"
     },
     {
+        "link": "https://bosai-kokutai.jp",
+        "Heading": "\u307c\u3046\u3055\u3044\u3053\u304f\u305f\u30442026",
+        "Abstract": "\u307c\u3046\u3055\u3044\u3053\u304f\u305f\u30442026\u306f\u300110\u670817\u65e5\uff08\u571f\uff09\u30fb18\u65e5\uff08\u65e5\uff09\u9ce5\u53d6\u3067\u958b\u50ac\u3057\u307e\u3059",
+        "Official Site": "http://bosai-kokutai.jp/",
+        "Icon": "html/favicon.ico",
+        "Redirect": "http://bosai-kokutai.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://bosai-kokutai.jp/"
+    },
+    {
         "link": "https://homeprotectionexpert.com",
         "Heading": " | ",
         "Abstract": null,
@@ -41,13 +51,13 @@
     },
     {
         "link": "https://higiaclinic.com.br",
-        "Heading": "Higia \u2013 Sa\u00fade e Beleza",
+        "Heading": "home - Higia",
         "Abstract": null,
-        "Official Site": "https://higiaclinic.com.br",
+        "Official Site": "https://higiaclinic.com.br/",
         "Icon": "https://higiaclinic.com.br/wp-content/uploads/2021/01/favicon.png",
-        "Redirect": "https://higiaclinic.com.br",
+        "Redirect": "https://higiaclinic.com.br/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://higiaclinic.com.br"
+        "AbstractURL": "https://higiaclinic.com.br/"
     },
     {
         "link": "https://batechnology.org",
@@ -248,16 +258,6 @@
         "Redirect": "https://sharkroad.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sharkroad.com/"
-    },
-    {
-        "link": "https://modishtips.com",
-        "Heading": "ModishTips - The stories everyone's talking about",
-        "Abstract": "The stories everyone's talking about",
-        "Official Site": "https://modishtips.com",
-        "Icon": "https://i0.wp.com/modishtips.com/wp-content/uploads/2025/03/cropped-cropped-M-favicon-2018-1.webp?fit=32%2C32&ssl=1",
-        "Redirect": "https://modishtips.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://modishtips.com"
     },
     {
         "link": "https://eclecticrecipes.com",

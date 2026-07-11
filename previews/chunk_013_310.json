@@ -20,6 +20,16 @@
         "AbstractURL": "{{ canonical_url() }}"
     },
     {
+        "link": "https://kushalmetal.com",
+        "Heading": "Tool Steel Suppliers, Importer and Exporter in India - Kushal Metal & Steel Industries",
+        "Abstract": "Kushal Metal & Steel Industries is a tool steel supplier, trading & stock holding company dealing in all kinds of high speed steel, cold work steel, hot work steel, plastic mould steel, beryllium copper, cutting tools & more.",
+        "Official Site": "https://kushalmetal.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://kushalmetal.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kushalmetal.com"
+    },
+    {
         "link": "https://eaaze.cloud",
         "Heading": "OperationsUI",
         "Abstract": null,
@@ -140,6 +150,26 @@
         "AbstractURL": "https://meetingsint.com/"
     },
     {
+        "link": "https://consumerphysics.com",
+        "Heading": "Instant Material Analysis Solutions for Agricultural & Food | SCiO",
+        "Abstract": "SCIO Provides Real-Time, On-the-Spot Analysis for Smarter Agricultural & Food Decisions.",
+        "Official Site": "https://scionir.com/",
+        "Icon": "https://scionir.com/wp-content/uploads/2024/11/Frame-1948758342-1-1024x422.jpg",
+        "Redirect": "https://scionir.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://scionir.com/"
+    },
+    {
+        "link": "https://villatraful.com.ar",
+        "Heading": "villatraful.com.ar - Todo lo que necesit\u00e1s para tu viaje.",
+        "Abstract": "Alojamiento, gastronom\u00eda, actividades y atracciones de Villa Traful. Toda la info que necesit\u00e1s para tu viaje. Reserv\u00e1 directo...",
+        "Official Site": "https://villatraful.com.ar/",
+        "Icon": "https://villatraful.com.ar/wp-content/uploads/2021/11/JFA_villatraful-25.jpg",
+        "Redirect": "https://villatraful.com.ar/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://villatraful.com.ar/"
+    },
+    {
         "link": "https://ms-uk.org",
         "Heading": "Home | MS-UK | Supporting your multiple sclerosis journey",
         "Abstract": "MS-UK is here for anyone affected by multiple sclerosis (MS), improving the understanding of MS and providing support where it is needed most.",
@@ -150,14 +180,24 @@
         "AbstractURL": "https://ms-uk.org/"
     },
     {
-        "link": "https://seascout.org",
-        "Heading": "Site is offline",
+        "link": "https://pcwhosting.co.uk",
+        "Heading": "Sign in to Hosting Control Panel\n    ",
         "Abstract": null,
-        "Official Site": "https://seascout.org",
-        "Icon": "N/A",
-        "Redirect": "https://seascout.org",
+        "Official Site": "https://pcwhosting.co.uk",
+        "Icon": "/brandFavicon?size=ico",
+        "Redirect": "https://pcwhosting.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://seascout.org"
+        "AbstractURL": "https://pcwhosting.co.uk"
+    },
+    {
+        "link": "https://seascout.org",
+        "Heading": "Sea Scouts - Scouting America | Adventure In, On, Around, and Under the Water",
+        "Abstract": "Adventure In, On, Around, and Under the Water",
+        "Official Site": "https://seascout.org/",
+        "Icon": "https://seascout.org/wp-content/uploads/2026/06/fleur-de-lis-2024-logo-4-c-bc-1@3x.avif",
+        "Redirect": "https://seascout.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seascout.org/"
     },
     {
         "link": "https://lozovamachinery.com",
@@ -171,7 +211,7 @@
     },
     {
         "link": "https://redbullstudiosshop.com",
-        "Heading": "Loading...",
+        "Heading": "Continue...",
         "Abstract": null,
         "Official Site": "https://redbullstudiosshop.com",
         "Icon": "N/A",
@@ -222,9 +262,9 @@
     {
         "link": "https://theotherpalace.co.uk",
         "Heading": "Homepage - The Other Palace Theatre",
-        "Abstract": "Hot Mess: A New Musical13 June \u2013 6 September | Main HouseClick HereWrap-Around Events for Hot Mess: A New Musical26 June, 7 July, 18 July and 28 July | Main House & StudioClick HereEcholocationFri 26 June | Main HouseClick HereSPACE DOGS28 July \u2013 9 August | StudioClick HereDEEP-HEAT RIVALRY11 September \u2013 11 October | StudioClick ... Read more",
+        "Abstract": "Hot Mess: A New Musical13 June \u2013 6 September | Main HouseClick HereWrap-Around Events for Hot Mess: A New Musical26 June, 7 July, 18 July and 28 July | Main House & StudioClick HereSPACE DOGS28 July \u2013 9 August | StudioClick HereDEEP-HEAT RIVALRY11 September \u2013 11 October | StudioClick HereJanet Street-Porter is Still Off The ... Read more",
         "Official Site": "https://theotherpalace.co.uk/",
-        "Icon": "https://system.spektrix.com/theotherpalace/files/285a0353-aefc-4dd4-903c-861b1c77848b.jpg",
+        "Icon": "https://system.spektrix.com/theotherpalace/files/6ebe4187-4bc0-4ef1-a4fe-42c9966ba637.jpg",
         "Redirect": "https://theotherpalace.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theotherpalace.co.uk/"

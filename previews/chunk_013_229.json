@@ -190,16 +190,6 @@
         "AbstractURL": "https://webescence.com"
     },
     {
-        "link": "https://webvod.pl",
-        "Heading": "Darmowe Filmy i Seriale Online - Bez Rejestracji, Limitu i Reklam!",
-        "Abstract": "Ogl\u0105daj bez limitu! Seriale i filmy online bez logowania i rejestracji! Ju\u017c teraz skorzystaj i ogl\u0105daj darmowe filmy online bez limitu!",
-        "Official Site": "https://webvod.pl",
-        "Icon": "https://frce8xp4ye4n.compat.objectstorage.eu-frankfurt-1.oraclecloud.com/vod-assets/logo/034f6bcbde88221cfb986f92dfd5ace8/e781a2ed119cadd4a37214f1eebf0423.svg",
-        "Redirect": "https://webvod.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://webvod.pl"
-    },
-    {
         "link": "https://weightlossagents.com",
         "Heading": "Medical Weight Loss & Bariatric Surgery | Weight Loss Agents",
         "Abstract": "Doctor-prescribed GLP-1 weight loss medication shipped to your door, plus bariatric surgery from a team trusted for over 15 years. Start your online visit.",
@@ -208,6 +198,16 @@
         "Redirect": "https://www.weightlossagents.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.weightlossagents.com/"
+    },
+    {
+        "link": "https://werenotthat.net",
+        "Heading": "Just a moment...",
+        "Abstract": null,
+        "Official Site": "https://werenotthat.net",
+        "Icon": "N/A",
+        "Redirect": "https://werenotthat.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://werenotthat.net"
     },
     {
         "link": "https://wivipedia.org",

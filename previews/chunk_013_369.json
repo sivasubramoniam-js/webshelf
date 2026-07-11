@@ -50,16 +50,6 @@
         "AbstractURL": "https://www.cia-landlords.co.uk/"
     },
     {
-        "link": "https://geekwithlaptop.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://geekwithlaptop.com",
-        "Icon": "N/A",
-        "Redirect": "https://geekwithlaptop.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://geekwithlaptop.com"
-    },
-    {
         "link": "https://tirnakdunya.com",
         "Heading": "istanbul Escort | Escort Bayan | Eskort | Escort \u0130stanbul",
         "Abstract": "\u0130stanbul ilinin en b\u00fcy\u00fck ve en kalite kokan istanbul escort sitesi kaliteli escort bayan ilanlar\u0131 ile sizlere kusursuz bir hizmet sunuyor.",
@@ -90,6 +80,16 @@
         "AbstractURL": "https://milanomedien.com"
     },
     {
+        "link": "https://cacb.org.br",
+        "Heading": "Confedera\u00e7\u00e3o das Associa\u00e7\u00f5es Comerciais e Empresariais do Brasil -",
+        "Abstract": null,
+        "Official Site": "https://cacb.org.br/",
+        "Icon": "https://cacb.org.br/wp-content/uploads/2023/03/cropped-favicon-cacb-novo-32x32.png",
+        "Redirect": "https://cacb.org.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cacb.org.br/"
+    },
+    {
         "link": "https://hachettechildrens.co.uk",
         "Heading": "Hachette Children\u2019s Group | Hachette Childrens UK",
         "Abstract": "Visit the post for more.",
@@ -98,6 +98,16 @@
         "Redirect": "https://www.hachettechildrens.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hachettechildrens.co.uk/"
+    },
+    {
+        "link": "https://wipi.com.br",
+        "Heading": "Internet Fibra \u00d3ptica para Empresas e Resid\u00eancias | WIPI",
+        "Abstract": "Internet fibra \u00f3ptica para empresas e resid\u00eancias com alta velocidade e estabilidade. Conhe\u00e7a a WIPI M\u00f3vel e nossas solu\u00e7\u00f5es completas.",
+        "Official Site": "https://wipi.com.br/",
+        "Icon": "https://wipi.com.br/wp-content/uploads/2023/06/logo-1.png",
+        "Redirect": "https://wipi.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wipi.com.br/"
     },
     {
         "link": "https://cortland-co.org",
@@ -170,6 +180,16 @@
         "AbstractURL": "https://orourkemediagroup.com/"
     },
     {
+        "link": "https://atlaspro-8k.com",
+        "Heading": "Atlas Pro ONTV - Abonnement IPTV 12 Mois Officiel 2026",
+        "Abstract": "Atlas Pro ONTV abonnement IPTV 12 mois. Activation rapide, milliers de cha\u00eenes HD/4K et VOD illimit\u00e9. Service fiable et offre mise \u00e0 jour 2026.",
+        "Official Site": "https://atlaspro-8k.com/",
+        "Icon": "https://atlaspro-8k.com/wp-content/uploads/2026/03/Atlas-Pro-ONTV-\u2013-Abonnement-Atlas-Pro-IPTV-Officiel-a-35Ean.png",
+        "Redirect": "https://atlaspro-8k.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://atlaspro-8k.com/"
+    },
+    {
         "link": "https://deltaprogramma.nl",
         "Heading": "Home | Deltaprogramma",
         "Abstract": "Het Nationaal Deltaprogramma beschermt Nederland tegen overstromingen, zorgt voor voldoende zoetwater en draagt bij aan een klimaatbestendige en waterrobuuste inrichting.",
@@ -191,10 +211,10 @@
     },
     {
         "link": "https://personaltecnologia.com",
-        "Heading": "Verifica\u00e7\u00e3o de seguran\u00e7a",
+        "Heading": "Personal Tecnologia",
         "Abstract": null,
         "Official Site": "https://personaltecnologia.com",
-        "Icon": "N/A",
+        "Icon": "https://personaltecnologia.com/wp-content/uploads/2025/09/cropped-favicon-personal-tecnologia-32x32.png",
         "Redirect": "https://personaltecnologia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://personaltecnologia.com"
@@ -261,8 +281,8 @@
     },
     {
         "link": "https://ainsinet.fr",
-        "Heading": "Piping Accessories, Sporrans, Schoolwear, Bracelets - AINSINET.FR",
-        "Abstract": "Piping Accessories, Sporrans, Schoolwear, Bracelets",
+        "Heading": "Earrings, Bangles, Mangalsutra, Collections - AINSINET.FR",
+        "Abstract": "Earrings, Bangles, Mangalsutra, Collections",
         "Official Site": "https://ainsinet.fr",
         "Icon": "https://ainsinet.fr/wp-content/uploads/2023/07/cropped-Glass-4-Classics-logo-100x100-1-e1692668550158-32x32.jpg",
         "Redirect": "https://ainsinet.fr",
@@ -278,5 +298,15 @@
         "Redirect": "https://serverguate.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://serverguate.com"
+    },
+    {
+        "link": "https://revoada.net",
+        "Heading": "Revoada | Best Place For Trending Multi-Niche Blogs",
+        "Abstract": "Revoada is the best place to read trending multi-niche blogs on Health, Business, Lifestyle, Technology, Travel, Home & Garden, etc. Review them now!",
+        "Official Site": "https://www.revoada.net/",
+        "Icon": "https://www.revoada.net/wp-content/uploads/2020/03/cropped-fav-icon-32x32.png",
+        "Redirect": "https://www.revoada.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.revoada.net/"
     }
 ]

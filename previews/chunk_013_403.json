@@ -4,7 +4,7 @@
         "Heading": "Fountain Pens Canada - 40+ Brands, Inks & Stationery | Blesket",
         "Abstract": "Canada's authorized fountain pen shop - Lamy, Pilot, TWSBI, Pelikan & 40+ brands, plus inks and Japanese stationery. Fast shipping from Ontario.",
         "Official Site": "https://blesket.com/",
-        "Icon": "//cdn.shopify.com/s/files/1/0244/5557/7664/files/logo_112fedd8-d772-42a9-bc2f-07c3e53a6b2a.png?v=1636229492&width=32",
+        "Icon": "//blesket.com/cdn/shop/files/logo_112fedd8-d772-42a9-bc2f-07c3e53a6b2a.png?v=1636229492&width=32",
         "Redirect": "https://blesket.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://blesket.com/"
@@ -20,21 +20,11 @@
         "AbstractURL": "https://bleurodbeattie.com/"
     },
     {
-        "link": "https://blindparts.com",
-        "Heading": "Blind Parts | Blinds & Shades Parts for DIY Blind Repair | BlindParts.com",
-        "Abstract": "We offer thousands of repair parts & string for window blinds & shades. Our low cost and fast shipping will get you the parts you need today!",
-        "Official Site": "https://blindparts.com/shop-by-window-covering-type/",
-        "Icon": "https://blindparts.com/wp-content/uploads/2018/01/WebsiteScreenShot.png",
-        "Redirect": "https://blindparts.com/shop-by-window-covering-type/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://blindparts.com/shop-by-window-covering-type/"
-    },
-    {
         "link": "https://blu-shop.cz",
         "Heading": "Kvalitn\u00ed dom\u00e1c\u00ed kino je \u017eivotn\u00ed styl | Blu-shop.cz",
         "Abstract": "Dom\u00e1c\u00ed kino jako lifestyle \u2705 A/V technika \u2705 Tis\u00edce film\u016f na 4k Ultra HD, Blu-ray i DVD skladem \u2705 Merchandising a filmov\u00e9 d\u00e1rky \u2705 Nejv\u011bt\u0161\u00ed experti oboru",
         "Official Site": "https://www.blu-shop.cz/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.blu-shop.cz/user/logos/blushopnewlogo.png?t=1783671782",
+        "Icon": "https://cdn.myshoptet.com/usr/www.blu-shop.cz/user/logos/blushopnewlogo.png?t=1783755964",
         "Redirect": "https://www.blu-shop.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.blu-shop.cz/"
@@ -158,6 +148,16 @@
         "Redirect": "https://bowlingovaliga.cz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bowlingovaliga.cz"
+    },
+    {
+        "link": "https://bracom.ba",
+        "Heading": "Bracom.ba - Sve za sport, outdoor i aktivan \u017eivot",
+        "Abstract": "Bracom nudi sve za outdoor i fitness. Sportska oprema, suplementi, skija\u0161ka i biciklisti\u010dka oprema najboljih brendova za aktivan \u017eivot.",
+        "Official Site": "https://bracom.ba/",
+        "Icon": "https://bracom.ba/wp-content/uploads/2025/05/bracom-pocetna-2.webp",
+        "Redirect": "https://bracom.ba/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bracom.ba/"
     },
     {
         "link": "https://bravalingerie.com.au",
@@ -318,6 +318,16 @@
         "Redirect": "https://canalcursos.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://canalcursos.com"
+    },
+    {
+        "link": "https://capilarglobal.cl",
+        "Heading": "Productos capilares profesionales para sal\u00f3n y hogar",
+        "Abstract": "Encuentra en Capilar Global productos capilares profesionales para sal\u00f3n y hogar. Tinturas, tratamientos, champ\u00fas, styling y herramientas con resultados de nivel profesional.",
+        "Official Site": "https://capilarglobal.cl/",
+        "Icon": "https://capilarglobal.cl/wp-content/uploads/2024/07/cropped-GG-fondo-negro-32x32.png",
+        "Redirect": "https://capilarglobal.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://capilarglobal.cl/"
     },
     {
         "link": "https://carabinsnicois.fr",

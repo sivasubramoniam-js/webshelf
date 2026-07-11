@@ -134,7 +134,7 @@
         "Heading": "\u767b\u5f55",
         "Abstract": "",
         "Official Site": "https://fc0377.com",
-        "Icon": "https://www.fc0377.com/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://fc0377.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fc0377.com"
@@ -320,6 +320,16 @@
         "AbstractURL": "/"
     },
     {
+        "link": "https://yorkertoolscentre.com",
+        "Heading": "Yorker Tools Centre \u2013 Power Tools & Hand Tools Manufacturer in Delhi",
+        "Abstract": "Yorker Tools Centre offers power tools, hand tools, cutting wheels, drill bits & measuring tools. Trusted manufacturer & supplier in Delhi, India",
+        "Official Site": "https://yorkertoolscentre.com/",
+        "Icon": "https://yorkertoolscentre.com/wp-content/uploads/2025/11/banner-5-nov.png",
+        "Redirect": "https://yorkertoolscentre.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yorkertoolscentre.com/"
+    },
+    {
         "link": "https://foxycom.com",
         "Heading": "Home - Foxycom Adobe Commerce - Magento Development team",
         "Abstract": "Adobe Commerce - Magento Development team specializing in complex integrations, optimization, and scalable enterprise ecommerce architecture.",
@@ -351,10 +361,10 @@
     },
     {
         "link": "https://opticasantotomas.com",
-        "Heading": "P\u00e1gina no encontrada \u2013 Optica Santo Tomas",
+        "Heading": " Login Historias Clinicas ",
         "Abstract": null,
         "Official Site": "https://opticasantotomas.com",
-        "Icon": "N/A",
+        "Icon": "images/favicon.ico",
         "Redirect": "https://opticasantotomas.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://opticasantotomas.com"

@@ -10,6 +10,16 @@
         "AbstractURL": "https://www.accr.org.au/"
     },
     {
+        "link": "https://oscorm.com",
+        "Heading": "Oscorm - Scalable Workforce Automation Solutions",
+        "Abstract": "Oscorm delivers next-gen remote teams with AI oversight. Hire pre-vetted experts in engineering, AI, design, marketing, and more with rapid deployment.",
+        "Official Site": "https://oscorm.com",
+        "Icon": "/favicon.ico?favicon.b32c6fc5.ico",
+        "Redirect": "https://oscorm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oscorm.com"
+    },
+    {
         "link": "https://climbingtechnology.com",
         "Heading": "CLIMBING TECHNOLOGY: arrampicata e lavoro su fune",
         "Abstract": "CLIMBING TECHNOLOGY realizza prodotti per l'ambito outdoor (arrampicata, alpinismo etc.) e per l'ambito professional (lavoro in fune, soccorso etc.)",
@@ -270,6 +280,16 @@
         "AbstractURL": "https://o-c-r.org/"
     },
     {
+        "link": "https://vesoul.fr",
+        "Heading": "CAV & Ville de Vesoul - Agglom\u00e9ration et Ville de Vesoul",
+        "Abstract": "Site internet de l'Agglom\u00e9ration et Ville de Vesoul (70)",
+        "Official Site": "https://www.vesoul.fr/",
+        "Icon": "/images/demo/favicon.png",
+        "Redirect": "https://www.vesoul.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.vesoul.fr/"
+    },
+    {
         "link": "https://enezdemircelik.com.tr",
         "Heading": "Anasayfa | Enez Demir \u00c7elik",
         "Abstract": "Enez Demir \u00c7elik",
@@ -338,5 +358,15 @@
         "Redirect": "https://pinewoodsocial.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pinewoodsocial.com/"
+    },
+    {
+        "link": "https://fopea.org",
+        "Heading": "FOPEA \u2013 Foro de periodismo argentino",
+        "Abstract": null,
+        "Official Site": "https://fopea.org",
+        "Icon": "https://fopea.org/wp-content/uploads/2023/11/cropped-fopea-favicon_v02-32x32.png",
+        "Redirect": "https://fopea.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fopea.org"
     }
 ]

@@ -210,6 +210,16 @@
         "AbstractURL": "https://loloappspro.com/"
     },
     {
+        "link": "https://globalcardmart.com",
+        "Heading": "Vintage Anime Cards - 90s & Early 2000s Collectibles | Global Card Mart",
+        "Abstract": "Your ultimate destination for anime and gaming cards. Find Pok\u00e9mon, Magic: The Gathering, Yu-Gi-Oh, and other TCG/CCG collectibles. Rare finds and new releases available!",
+        "Official Site": "https://www.globalcardmart.com/",
+        "Icon": "http://www.globalcardmart.com/wp-content/uploads/2025/10/banner.jpg",
+        "Redirect": "https://www.globalcardmart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.globalcardmart.com/"
+    },
+    {
         "link": "https://4-dosug.com",
         "Heading": "4-dosug.com",
         "Abstract": null,
@@ -258,15 +268,5 @@
         "Redirect": "https://rhslilygroup.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rhslilygroup.org/"
-    },
-    {
-        "link": "https://riverraisinstainedglass.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://riverraisinstainedglass.com",
-        "Icon": "N/A",
-        "Redirect": "https://riverraisinstainedglass.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://riverraisinstainedglass.com"
     }
 ]

@@ -24,20 +24,20 @@
         "Heading": "Norfolk/Wrentham - Local Town Pages | The Voice of Your Community",
         "Abstract": "LocalTownPages Norfolk/Wrentham is your community-based newspaper, direct mailed to 8,181 residents and businesses, providing local news, sports, and services into the Norfolk/Wrentham area.",
         "Official Site": "https://www.norfolkwrenthamnews.com/",
-        "Icon": "//cdn2.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
+        "Icon": "//cdn1.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
         "Redirect": "https://www.norfolkwrenthamnews.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.norfolkwrenthamnews.com/"
     },
     {
-        "link": "https://kumiuniversity.ac.ug",
-        "Heading": "Kumi University \u2013 Godliness & Excellence for Servanthood",
-        "Abstract": null,
-        "Official Site": "https://kumiuniversity.ac.ug",
-        "Icon": "https://www.kumiuniversity.ac.ug/wp-content/uploads/2017/03/cropped-Kumi-University-logo-round-32x32.png",
-        "Redirect": "https://kumiuniversity.ac.ug",
+        "link": "https://lecinemaclub.com",
+        "Heading": "Le Cin\u00e9ma Club",
+        "Abstract": "A free, curated platform streaming one film every week.",
+        "Official Site": "https://www.lecinemaclub.com/",
+        "Icon": "https://www.lecinemaclub.com/wp-content/themes/cinemaclub/img/lecinemaclub.png",
+        "Redirect": "https://www.lecinemaclub.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://kumiuniversity.ac.ug"
+        "AbstractURL": "https://www.lecinemaclub.com/"
     },
     {
         "link": "https://317d.net",
@@ -308,5 +308,25 @@
         "Redirect": "https://www.sevenstarsgracebay.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sevenstarsgracebay.com"
+    },
+    {
+        "link": "https://lowvelder.co.za",
+        "Heading": "Lowvelder | The watchdog of the Lowveld",
+        "Abstract": null,
+        "Official Site": "https://www.citizen.co.za/lowvelder/",
+        "Icon": "https://images.caxton.co.za/wp-content/uploads/sites/44/2020/08/site-icon-70x70.png",
+        "Redirect": "https://www.citizen.co.za/lowvelder/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.citizen.co.za/lowvelder/"
+    },
+    {
+        "link": "https://almustaqbalpress.com",
+        "Heading": "Al Mustaqbal Press |  printing industry in Sharjah | Technical innovation",
+        "Abstract": "Events Management, Exhibitions, Conferences, Concerts, Entertainment",
+        "Official Site": "https://almustaqbalpress.com",
+        "Icon": "images/favicon.png",
+        "Redirect": "https://almustaqbalpress.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://almustaqbalpress.com"
     }
 ]

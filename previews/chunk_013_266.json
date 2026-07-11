@@ -81,7 +81,7 @@
     },
     {
         "link": "https://dailymovieshub.com",
-        "Heading": null,
+        "Heading": "Redirecting...",
         "Abstract": null,
         "Official Site": "https://dailymovieshub.com",
         "Icon": "N/A",
@@ -98,6 +98,16 @@
         "Redirect": "https://www.clarionwest.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.clarionwest.org/"
+    },
+    {
+        "link": "https://itcorporacion.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://itcorporacion.com",
+        "Icon": "N/A",
+        "Redirect": "https://itcorporacion.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://itcorporacion.com"
     },
     {
         "link": "https://timessquareball.net",
@@ -168,6 +178,16 @@
         "Redirect": "https://icme2017.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://icme2017.org/"
+    },
+    {
+        "link": "https://greenwichvillagevabeach.com",
+        "Heading": "Spacious Rental & Luxury Pet Friendly Apartments For Rent in Virginia Beach - Greenwich Village",
+        "Abstract": "Discover luxury 1 & 2 bedroom apartments for rent in Virginia Beach at Greenwich Village. Spacious, pet-friendly homes with world-class amenities near Town Center",
+        "Official Site": "https://greenwichvillagevabeach.com/",
+        "Icon": "https://greenwichvillagevabeach.com/wp-content/uploads/2024/12/favicon-32x32-1.png",
+        "Redirect": "https://greenwichvillagevabeach.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greenwichvillagevabeach.com/"
     },
     {
         "link": "https://facilityaxs.net",

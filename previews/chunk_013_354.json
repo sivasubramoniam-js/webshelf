@@ -32,9 +32,9 @@
     {
         "link": "https://funkykeel.com",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://funkykeel.com",
-        "Icon": "N/A",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
         "Redirect": "https://funkykeel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://funkykeel.com"
@@ -130,6 +130,26 @@
         "AbstractURL": "https://piranha-bytes.com"
     },
     {
+        "link": "https://novawoodcapital.com",
+        "Heading": "Home | Novawood Capital",
+        "Abstract": "Live Charts with Indicators, Foreign Exchange Market Trading Methods, Hours, Sessions, & Plans, Major and Minor Pairs Currency, Bullish and Bearish Divergence.",
+        "Official Site": "./",
+        "Icon": "./assets/images/favicon.png",
+        "Redirect": "./",
+        "AbstractSource": "BS4",
+        "AbstractURL": "./"
+    },
+    {
+        "link": "https://shadeplace.com",
+        "Heading": "Window Treatment Store, Custom Vertical Window Blinds, Roller Shades, Sheer Window Shades, Solar Shades, Woven Wood Shades, Roman Window Shades, Hunter Douglas Blinds, Window Treatments & Vertical Blinds Hoboken NJ - Shade Place by Stephan",
+        "Abstract": "Shade Place by Stephan specializes in custom blinds, shades, and window treatments for every style and space in Hoboken NJ. Visit us today to learn more!",
+        "Official Site": "https://shadeplacebystephan.com/",
+        "Icon": "https://shadeplacebystephan.com/wp-content/uploads/2025/10/Layered-Treatments-with-Hunter-Douglas.webp",
+        "Redirect": "https://shadeplacebystephan.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shadeplacebystephan.com/"
+    },
+    {
         "link": "https://topbilet.kz",
         "Heading": "\u0410\u0444\u0438\u0448\u0430 \u0410\u043b\u043c\u0430\u0442\u044b: \u0432\u0441\u0435 \u043c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u044f, \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0438 \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f | Topbilet.kz",
         "Abstract": "\u0418\u0449\u0435\u0442\u0435 \u043a\u0443\u0434\u0430 \u0441\u0445\u043e\u0434\u0438\u0442\u044c? \u041f\u043e\u043b\u043d\u0430\u044f \u0430\u0444\u0438\u0448\u0430 \u0410\u043b\u043c\u0430\u0442\u044b: \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0435 \u043c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u044f, \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f, \u0432\u044b\u0441\u0442\u0430\u0432\u043a\u0438 \u0438 \u0448\u043e\u0443. \u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u0438 \u043d\u0430 \u0432\u044b\u0445\u043e\u0434\u043d\u044b\u0445. \u0411\u0438\u043b\u0435\u0442\u044b \u043e\u043d\u043b\u0430\u0439\u043d!",
@@ -198,16 +218,6 @@
         "Redirect": "#/",
         "AbstractSource": "BS4",
         "AbstractURL": "#/"
-    },
-    {
-        "link": "https://southforkwind.com",
-        "Heading": "Discover NY\u2019s First Offshore Wind Farm| South Fork Wind",
-        "Abstract": "\u00d8rsted's South Fork Wind is New York\u2019s first offshore wind farm and America\u2019s first commercial-scale offshore wind farm in federal waters",
-        "Official Site": "https://southforkwind.com",
-        "Icon": "https://cdn.orsted.com/-/media/www/images/corp/jv/southfork-wind/sfw-revamp-q12024/sfw_home_lookinside.jpg?rev=bb917dffac714c96a7c5f85343a19e1c&hash=DFD026732FDD345FC388CAA53C7DF461",
-        "Redirect": "https://southforkwind.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://southforkwind.com"
     },
     {
         "link": "https://pscoat.de",

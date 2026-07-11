@@ -20,6 +20,16 @@
         "AbstractURL": "https://attrip.jp/"
     },
     {
+        "link": "https://ericfawcett.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ericfawcett.com",
+        "Icon": "N/A",
+        "Redirect": "https://ericfawcett.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ericfawcett.com"
+    },
+    {
         "link": "https://gettyimagesgallery.com",
         "Heading": "\n      gettyimagesgallery\n \u2013 Getty Images Gallery",
         "Abstract": "Getty Images Gallery",
@@ -58,16 +68,6 @@
         "Redirect": "https://www.arable.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.arable.com/"
-    },
-    {
-        "link": "https://musserengineering.com",
-        "Heading": "Musser Engineering | Musser Engineering: Shaping Excellence, Engineering Tomorrow.",
-        "Abstract": null,
-        "Official Site": "https://musserengineering.com",
-        "Icon": "N/A",
-        "Redirect": "https://musserengineering.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://musserengineering.com"
     },
     {
         "link": "https://flowersfestival.taipei",
@@ -148,16 +148,6 @@
         "Redirect": "https://www.radiozikox.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.radiozikox.com/"
-    },
-    {
-        "link": "https://sademedia.com",
-        "Heading": "Web Tasar\u0131m Ajans\u0131 Sademedia - Web Tasar\u0131m Antalya",
-        "Abstract": "Sademedia, profesyonel bir web tasar\u0131m ajans\u0131d\u0131r. Modern tasar\u0131m anlay\u0131\u015f\u0131yla web sitenizi ve i\u015fletmenizi dijital d\u00fcnyada \u00f6ne \u00e7\u0131kar\u0131yoruz.",
-        "Official Site": "https://www.sademedia.com/",
-        "Icon": "https://www.sademedia.com/wp-content/uploads/2023/12/favicon.png",
-        "Redirect": "https://www.sademedia.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sademedia.com/"
     },
     {
         "link": "https://shorenewstoday.com",

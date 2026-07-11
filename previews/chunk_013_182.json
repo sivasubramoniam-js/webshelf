@@ -20,16 +20,6 @@
         "AbstractURL": "https://fpaceforum.com"
     },
     {
-        "link": "https://vigorcrestflow.com",
-        "Heading": "\n    Vigor Crest Flow | Home  ",
-        "Abstract": "Empowering traders worldwide with innovative tools and resources for a confident and successful forex trading journey. \n offers top-tier tools, raw pricing, and ultra-fast execution, giving you the same precision and transparency trusted by institutional traders.",
-        "Official Site": "https://vigorcrestflow.com",
-        "Icon": "https://vigorcrestflow.com/public/uploads/icon1.png",
-        "Redirect": "https://vigorcrestflow.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vigorcrestflow.com"
-    },
-    {
         "link": "https://visitporvoo.fi",
         "Heading": "Ainoa laatuaan, monta syyt\u00e4 palata",
         "Abstract": "Tervetuloa Porvooseen. Tule yksin, kaksin tai isommalla porukalla. Porvoosta l\u00f6ytyy jokaiselle jotain - ymp\u00e4ri vuoden!",
@@ -38,6 +28,16 @@
         "Redirect": "https://www.visitporvoo.fi/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.visitporvoo.fi/"
+    },
+    {
+        "link": "https://fieldscopeint.com",
+        "Heading": "FieldScope",
+        "Abstract": null,
+        "Official Site": "https://fieldscopeint.com",
+        "Icon": "https://i0.wp.com/fieldscopeint.com/wp-content/uploads/2026/02/cropped-CroppedLogo.png?fit=32%2C32&ssl=1",
+        "Redirect": "https://fieldscopeint.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fieldscopeint.com"
     },
     {
         "link": "https://velazquezyvilla.es",
@@ -101,8 +101,8 @@
     },
     {
         "link": "https://equitytrusted-return.com",
-        "Heading": "equitytrusted-return.com",
-        "Abstract": null,
+        "Heading": "Welcome -\n        Equity Trusted Return\n    ",
+        "Abstract": "Equity Trusted Return - The trust aims to grow your capital and income over the long term.",
         "Official Site": "https://equitytrusted-return.com",
         "Icon": "N/A",
         "Redirect": "https://equitytrusted-return.com",
@@ -138,6 +138,16 @@
         "Redirect": "https://miamisuperhero.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://miamisuperhero.com/"
+    },
+    {
+        "link": "https://coocoocom.fr",
+        "Heading": "COOCOO | Agence Web et Communication",
+        "Abstract": "Agence Web, Communication, Graphisme : Cr\u00e9ation et gestion de site Web, identit\u00e9 graphique, logos, communication 360\u00b0 de A \u00e0 Z.",
+        "Official Site": "https://coocoocom.fr/",
+        "Icon": "https://coocoocom.fr/wp-content/uploads/2021/11/coocoo_favicon-03.svg",
+        "Redirect": "https://coocoocom.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://coocoocom.fr/"
     },
     {
         "link": "https://getdocumentsnow.com",
@@ -248,5 +258,15 @@
         "Redirect": "https://drinkgaragebeer.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://drinkgaragebeer.com/"
+    },
+    {
+        "link": "https://healing-crystals-for-you.com",
+        "Heading": "Find The Best Healing Crystals For You ",
+        "Abstract": "Discover Healing Crystals For You To Use Learn meanings, powers, uses & healing properties for self healing & to develop psychic gifts & see many crystal pics.",
+        "Official Site": "https://www.healing-crystals-for-you.com/",
+        "Icon": "https://www.healing-crystals-for-you.com/images/magneta-lithium-quartz-point-wide-1.jpg",
+        "Redirect": "https://www.healing-crystals-for-you.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.healing-crystals-for-you.com/"
     }
 ]

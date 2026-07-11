@@ -60,6 +60,16 @@
         "AbstractURL": "https://funeralportal.ru/"
     },
     {
+        "link": "https://wisebridge.world",
+        "Heading": "Wisebridge Limited",
+        "Abstract": "",
+        "Official Site": "https://wisebridge.world",
+        "Icon": "logo/logo-icon.png",
+        "Redirect": "https://wisebridge.world",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wisebridge.world"
+    },
+    {
         "link": "https://thepatterncollective.com",
         "Heading": "A Fabric and Wallpaper Shop\n\u2013 The Pattern Collective\n",
         "Abstract": "BY APPOINTMENT ONLY: M-F, 10AM-5PM We are a woman owned, woman operated wallpaper studio that specializes in artisan wallpapers, fabrics and home accessories",
@@ -244,7 +254,7 @@
         "Heading": "King and Moffatt Retail | Buy Appliances, TV & Audio",
         "Abstract": "Discover a wide range of quality home appliances, TVs, audio gear and small electronics at King and Moffatt in Carrick-on-Shannon. Shop now!",
         "Official Site": "https://kingandmoffattretail.com/",
-        "Icon": "//kingandmoffattretail.com/cdn/shop/files/fav-km_96x96.png?v=1739454546",
+        "Icon": "//cdn.shopify.com/s/files/1/0924/6284/2197/files/fav-km_96x96.png?v=1739454546",
         "Redirect": "https://kingandmoffattretail.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kingandmoffattretail.com/"

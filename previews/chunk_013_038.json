@@ -60,16 +60,6 @@
         "AbstractURL": "https://www.sn2.eu/"
     },
     {
-        "link": "https://snphomes.com",
-        "Heading": "Reno Real Estate - Sierra Nevada Properties",
-        "Abstract": "Search 27094 homes for sale in Reno. Find Reno Real Estate with Sierra Nevada Properties.",
-        "Official Site": "https://www.snphomes.com/",
-        "Icon": "https://s3.us-west-1.wasabisys.com/bay/cust/iq_sierra_nevada/agent-images/SNPHOMES/2026-snphomes-hero-favuloso-rear.jpg",
-        "Redirect": "https://www.snphomes.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.snphomes.com/"
-    },
-    {
         "link": "https://soevrthpoetry.com",
         "Heading": null,
         "Abstract": null,
@@ -78,6 +68,16 @@
         "Redirect": "https://soevrthpoetry.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://soevrthpoetry.com"
+    },
+    {
+        "link": "https://sovuw-hony.online",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sovuw-hony.online",
+        "Icon": "N/A",
+        "Redirect": "https://sovuw-hony.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sovuw-hony.online"
     },
     {
         "link": "https://speedoforum.org",
@@ -238,5 +238,15 @@
         "Redirect": "https://www.teestore.pro/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.teestore.pro/"
+    },
+    {
+        "link": "https://tempcontrolpack.com",
+        "Heading": "Tempk: Supplier of Cold Chain Packaging Solutions",
+        "Abstract": "Tempk supplies cold chain packaging solutions, including gel ice packs, dry ice packs, insulated thermal bags, insulin coolers and EPP cold shipping boxes.",
+        "Official Site": "https://www.tempcontrolpack.com/",
+        "Icon": "https://www.tempcontrolpack.com/wp-content/uploads/2024/10/logo1.png",
+        "Redirect": "https://www.tempcontrolpack.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tempcontrolpack.com/"
     }
 ]

@@ -90,16 +90,6 @@
         "AbstractURL": "https://fateswarning.com/"
     },
     {
-        "link": "https://peterbjornandjohn.com",
-        "Heading": "Peter Bjorn and John | Official Website",
-        "Abstract": null,
-        "Official Site": "https://www.peterbjornandjohn.com/",
-        "Icon": "https://www.peterbjornandjohn.com/wp-content/uploads/2024/07/PBJ_Johan_Bergmark-1-scaled.webp",
-        "Redirect": "https://www.peterbjornandjohn.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.peterbjornandjohn.com/"
-    },
-    {
         "link": "https://profus.online",
         "Heading": "profus",
         "Abstract": null,
@@ -304,7 +294,7 @@
         "Heading": "Inicio | Ajuntament  de Vinar\u00f2s",
         "Abstract": null,
         "Official Site": "https://vinaros.es",
-        "Icon": "/sites/default/files/FAVICON.PNG",
+        "Icon": "https://www.vinaros.es/sites/default/files/FAVICON.PNG",
         "Redirect": "https://vinaros.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vinaros.es"

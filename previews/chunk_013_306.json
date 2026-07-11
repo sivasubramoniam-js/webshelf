@@ -140,16 +140,6 @@
         "AbstractURL": "https://www.izf.net/"
     },
     {
-        "link": "https://808truck.com",
-        "Heading": "808TRUCKS \ud83c\udfaf | Shop - 808Trucks",
-        "Abstract": "808Trucks Selling All diagnostic software for trucks, cars, Agriculture, Automotive and Forklift",
-        "Official Site": "https://www.808trucks.com/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0660/8453/6497/files/808.png?v=1730736233",
-        "Redirect": "https://www.808trucks.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.808trucks.com/"
-    },
-    {
         "link": "https://swigdrinks.com",
         "Heading": "Swig Drinks \u2014 Soda Shop Near You",
         "Abstract": "Swig is your go-to soda shop for dirty soda, refreshers, energy drinks, and cookies. Browse the menu, find a location, and order ahead near you.",
@@ -188,6 +178,16 @@
         "Redirect": "https://pizdenki.one",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pizdenki.one"
+    },
+    {
+        "link": "https://data-mania.com",
+        "Heading": "Fractional CMO for Data & AI Startups | Lillian Pierson | Data-Mania",
+        "Abstract": "Fractional CMO for data & AI startups and B2B SaaS. Lillian Pierson builds AI-native growth systems for predictable pipeline and scalable revenue.",
+        "Official Site": "https://www.data-mania.com/",
+        "Icon": "https://www.data-mania.com/wp-content/uploads/2025/02/fractional-CMO-for-tech-startups-1024x518.png",
+        "Redirect": "https://www.data-mania.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.data-mania.com/"
     },
     {
         "link": "https://beryl-wells.co.uk",

@@ -20,6 +20,26 @@
         "AbstractURL": "https://monto.com.ua"
     },
     {
+        "link": "https://pagebin.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pagebin.com",
+        "Icon": "N/A",
+        "Redirect": "https://pagebin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pagebin.com"
+    },
+    {
+        "link": "https://kekuk.com",
+        "Heading": "Kekuk \u2013 Tech News, Apps, Reviews and More!",
+        "Abstract": null,
+        "Official Site": "https://kekuk.com",
+        "Icon": "https://kekuk.com/wp-content/uploads/2021/09/cropped-cropped-letter-k-logo-transparent-png-images-download-20-116183917757pxi7dpcpm-32x32.png",
+        "Redirect": "https://kekuk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kekuk.com"
+    },
+    {
         "link": "https://roqenqjv.cc",
         "Heading": null,
         "Abstract": null,
@@ -111,13 +131,13 @@
     },
     {
         "link": "https://welcmpass.info",
-        "Heading": "WELCMpass Your tourism tax solution",
-        "Abstract": "With our WELCMpass app, we offer a digital solution of the tourism tax including registration form for municipalities, landlords and vacation guests. Overnight guests and day visitors can securely and conveniently purchase the spa tax online already before their trip or on site.",
-        "Official Site": "https://www.welcmpass.info/en/home/",
-        "Icon": "https://ip212-132-67-111.pbiaas.com/wp-content/uploads/2019/12/cropped-Favicon-32x32.jpg",
-        "Redirect": "https://www.welcmpass.info/en/home/",
+        "Heading": "WELCMpass - Die G\u00e4stekarten-App",
+        "Abstract": "Mit unserer WELCMpass-App bieten wir eine digitale L\u00f6sung der Kurabgabe inklusive Meldeschein f\u00fcr Kommunen, Vermieter und Urlaubsg\u00e4ste an.",
+        "Official Site": "https://www.welcmpass.info/",
+        "Icon": "https://www.welcmpass.info/wp-content/uploads/2019/12/cropped-Favicon-32x32.jpg",
+        "Redirect": "https://www.welcmpass.info/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.welcmpass.info/en/home/"
+        "AbstractURL": "https://www.welcmpass.info/"
     },
     {
         "link": "https://coincazinoz.xyz",
@@ -240,6 +260,16 @@
         "AbstractURL": "https://uri-geller.com"
     },
     {
+        "link": "https://palmcenter.org",
+        "Heading": "Palm Center - independent, non-partisan research institute",
+        "Abstract": "Promoting the study of lesbian, gay, bisexual, and transgender people in the armed forces through conferences, research and fellowships.",
+        "Official Site": "https://palmcenterlegacy.org/",
+        "Icon": "https://palmcenterlegacy.org/wp-content/uploads/palmcenter_favicon-150x150.png",
+        "Redirect": "https://palmcenterlegacy.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://palmcenterlegacy.org/"
+    },
+    {
         "link": "https://linndom.de",
         "Heading": "www.linndom.de",
         "Abstract": null,
@@ -258,15 +288,5 @@
         "Redirect": "https://internet-expert.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://internet-expert.ru/"
-    },
-    {
-        "link": "https://thomaslawoffices.com",
-        "Heading": "Personal Injury Lawyer, Car Accident Attorneys - Thomas Law Offices",
-        "Abstract": "Injured in the USA? We're standing by for your call. Our personal injury lawyers from Thomas Law Offices can help. Contact us today!",
-        "Official Site": "https://www.thomaslawoffices.com/",
-        "Icon": "https://www.thomaslawoffices.com/nitropack_static/YjYjJNElEKzjTAGbeFdhvWeONIGLTMvY/assets/images/optimized/rev-2c0374f/www.thomaslawoffices.com/favicon.ico",
-        "Redirect": "https://www.thomaslawoffices.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.thomaslawoffices.com/"
     }
 ]

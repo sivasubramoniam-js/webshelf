@@ -60,6 +60,26 @@
         "AbstractURL": "https://autohaus-ahnefeld.de/"
     },
     {
+        "link": "https://kit23.ru",
+        "Heading": "\u041a\u0418\u0422 - \u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+        "Abstract": "\u041a\u0418\u0422, \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442",
+        "Official Site": "/",
+        "Icon": "/logo.png",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
+        "link": "https://seoexpertebamberg.de",
+        "Heading": "SEO Experte Bamberg - seoexpertebamberg.de",
+        "Abstract": "Ma\u00dfgeschneiderte Strategien f\u00fcr maximale Sichtbarkeit in Bamberg und dar\u00fcber hinaus.",
+        "Official Site": "https://seoexpertebamberg.de/",
+        "Icon": "N/A",
+        "Redirect": "https://seoexpertebamberg.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seoexpertebamberg.de/"
+    },
+    {
         "link": "https://mtoweb.it",
         "Heading": "MTOweb - Web agency a Borgomanero - Novara",
         "Abstract": null,
@@ -228,6 +248,16 @@
         "Redirect": "https://speedsupplies.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://speedsupplies.com"
+    },
+    {
+        "link": "https://indianfoundry.org",
+        "Heading": "The Institute of Indian Foundrymen",
+        "Abstract": "IIF, since 1950, is India's apex foundry association comprising foundries, equipment & material suppliers and others, promoting education, research and business",
+        "Official Site": "https://www.indianfoundry.org/",
+        "Icon": "https://www.indianfoundry.org/upload/fckimg/IIF%20Logo%20(1).jpg",
+        "Redirect": "https://www.indianfoundry.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.indianfoundry.org/"
     },
     {
         "link": "https://somlivre.com.br",
