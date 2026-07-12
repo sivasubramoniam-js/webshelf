@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.neco-republic.jp/"
     },
     {
+        "link": "https://riguan.nl",
+        "Heading": "Cloudformatie Welkom bij Cloudformatie Riguan",
+        "Abstract": "Jouw Vertrouwde Partner in Volledige ICT-oplossingen",
+        "Official Site": "https://cloudformatie.com/",
+        "Icon": "https://cloudformatie.com/wp-content/uploads/2024/12/cropped-icon-transparent-1-32x32.webp",
+        "Redirect": "https://cloudformatie.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cloudformatie.com/"
+    },
+    {
         "link": "https://dacenews.site",
         "Heading": "dacenews",
         "Abstract": null,
@@ -200,6 +210,16 @@
         "AbstractURL": "https://www.sunrisehealthinfo.com/"
     },
     {
+        "link": "https://mwge.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mwge.org",
+        "Icon": "data:;",
+        "Redirect": "https://mwge.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mwge.org"
+    },
+    {
         "link": "https://tcomlp.com",
         "Heading": "TCOM \u2013 Global Leader in Persistent Surveillance Aerostats ISR Solutions",
         "Abstract": null,
@@ -288,5 +308,15 @@
         "Redirect": "https://supercurioso.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://supercurioso.com/"
+    },
+    {
+        "link": "https://ganitiktech.com",
+        "Heading": "Ganitik Tech Limited - Home",
+        "Abstract": null,
+        "Official Site": "https://ganitiktech.com",
+        "Icon": "assets/img/ganitik.png",
+        "Redirect": "https://ganitiktech.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ganitiktech.com"
     }
 ]

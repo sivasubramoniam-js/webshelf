@@ -180,6 +180,16 @@
         "AbstractURL": "https://www.chorostco.com/"
     },
     {
+        "link": "https://viewall.eu",
+        "Heading": "ViewAll | Scorebord en presentatie systeem",
+        "Abstract": null,
+        "Official Site": "https://viewall.eu",
+        "Icon": "N/A",
+        "Redirect": "https://viewall.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://viewall.eu"
+    },
+    {
         "link": "https://slidepresenter.com",
         "Heading": "Omnora",
         "Abstract": "Omnora: Einfaches Erstellen von Lerninhalten. Sichern und vermitteln Sie Wissen mit interaktiven, nutzerfreundlichen L\u00f6sungen f\u00fcr Unternehmen.",
@@ -231,13 +241,23 @@
     },
     {
         "link": "https://nftb.io",
-        "Heading": "Best Crypto Casinos & Bitcoin Gambling Sites Ranked for 2026",
-        "Abstract": "Find the best crypto casinos in 2026. Compare no KYC casinos by coins, withdrawal speed, bonuses, and verification requirements.",
-        "Official Site": "https://nftb.io/",
-        "Icon": "https://nftb.io/wp-content/uploads/2026/04/cropped-crypto_casino_favicon-32x32.png",
-        "Redirect": "https://nftb.io/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://nftb.io",
+        "Icon": "data:;",
+        "Redirect": "https://nftb.io",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nftb.io/"
+        "AbstractURL": "https://nftb.io"
+    },
+    {
+        "link": "https://bid-dimad.org",
+        "Heading": "Inicio - Bienal Iberoamericana de Dise\u00f1o",
+        "Abstract": null,
+        "Official Site": "https://www.bid-dimad.org/",
+        "Icon": "https://www.bid-dimad.org/wp-content/uploads/2020/07/logo-mini.png",
+        "Redirect": "https://www.bid-dimad.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bid-dimad.org/"
     },
     {
         "link": "https://cottonandsteelfabrics.com",

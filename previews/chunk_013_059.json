@@ -250,16 +250,6 @@
         "AbstractURL": "https://www.qwalis.com/fr/"
     },
     {
-        "link": "https://radyoduble.com.tr",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://radyoduble.com.tr",
-        "Icon": "N/A",
-        "Redirect": "https://radyoduble.com.tr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://radyoduble.com.tr"
-    },
-    {
         "link": "https://ramseier-normteile.at",
         "Heading": "Home - Ramseier Normteile GmbH",
         "Abstract": "Die Ramseier GmbH aus \u00d6sterreich bietet Ihnen hochqualitative Normalien und Normteile f\u00fcr alle Anforderungen im Gesamtbereich Werkzeugbau & Maschinenbau, Stanzwerkbau, Vorrichtungsbau, Maschinenbau, Apparatebau, Formenbau sowie diverse F\u00fchrungen, Sonderteile, Bedienteile, Lochstempel und pr\u00e4zise Zeichnungsteile.",
@@ -281,13 +271,13 @@
     },
     {
         "link": "https://rdrive.io",
-        "Heading": "Progress Monitoring & Reporting Software | RDrive by SnagR",
-        "Abstract": "RDrive is progress monitoring software that helps teams capture field data and automate reporting for faster, smarter project delivery.",
-        "Official Site": "https://rdrive.io/en/",
-        "Icon": "https://rdrive.io/wp-content/uploads/2025/09/social-share.png",
-        "Redirect": "https://rdrive.io/en/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://rdrive.io",
+        "Icon": "data:;",
+        "Redirect": "https://rdrive.io",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rdrive.io/en/"
+        "AbstractURL": "https://rdrive.io"
     },
     {
         "link": "https://readefined.com",

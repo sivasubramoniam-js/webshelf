@@ -21,7 +21,7 @@
     },
     {
         "link": "https://kupi-prava-42.ru",
-        "Heading": "68.154.117.33 11.07.2026 03:55:22",
+        "Heading": "135.232.200.18 12.07.2026 03:59:45",
         "Abstract": null,
         "Official Site": "https://kupi-prava-42.ru",
         "Icon": "data:,",
@@ -38,6 +38,16 @@
         "Redirect": "https://maxi-booking.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://maxi-booking.ru/"
+    },
+    {
+        "link": "https://audiofriend.cz",
+        "Heading": "Audio obchod | Audiofriend.cz",
+        "Abstract": "Audiofriend.cz nab\u00edz\u00ed kamenn\u00e9 z\u00e1zem\u00ed, mo\u017enost vyzvednut\u00ed objednan\u00e9ho zbo\u017e\u00ed",
+        "Official Site": "https://audiofriend.cz",
+        "Icon": "N/A",
+        "Redirect": "https://audiofriend.cz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://audiofriend.cz"
     },
     {
         "link": "https://carolines.com",
@@ -118,6 +128,16 @@
         "Redirect": "https://www.berufliche-schule-riedlingen.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.berufliche-schule-riedlingen.de/"
+    },
+    {
+        "link": "https://oxfambelgie.be",
+        "Heading": "Homepage | Oxfam Belgi\u00eb",
+        "Abstract": null,
+        "Official Site": "https://oxfambelgie.be",
+        "Icon": "/themes/custom/oxfam/favicon.ico",
+        "Redirect": "https://oxfambelgie.be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oxfambelgie.be"
     },
     {
         "link": "https://atmkm.com",
@@ -221,10 +241,10 @@
     },
     {
         "link": "https://laurelandwolf.com",
-        "Heading": "Online Interior Design and Decorating Services - Laurel & Wolf",
-        "Abstract": "At Laurel & Wolf, our interior designers can help create your dream space. Our service matches you with a certified designer who will design your space on time, on budget, and all online.",
+        "Heading": "AI Interior Design App for Your Real Rooms | Laurel & Wolf",
+        "Abstract": "Laurel & Wolf is the AI interior design app that restages photos of your real rooms in 13 designer styles, in about 2 minutes. First photo free, no card.",
         "Official Site": "https://laurelandwolf.com/",
-        "Icon": "http://laurelandwolf.com/wp-content/uploads/2021/01/5e907945c248f528dcdba49c_The-New-York-Times-vector-logo-footer_300x300-3.png",
+        "Icon": "http://laurelandwolf.com/wp-content/uploads/2026/07/before.avif",
         "Redirect": "https://laurelandwolf.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://laurelandwolf.com/"
@@ -271,13 +291,13 @@
     },
     {
         "link": "https://omy.sg",
-        "Heading": "OMY Singapore Finance & Business News Magazine - OMY Singapore",
-        "Abstract": "OMY Singapore - Always Going The Extra Mile In Personal Finance! Learning personal finance in Singapore is surprisingly easy. Stay ahead of your finances news today! OMY Singapore will make every complex personal finance information easy to understand.",
-        "Official Site": "https://omy.sg/",
-        "Icon": "https://omy.sg/wp-content/uploads/2022/03/omy-sg-favicon.svg",
-        "Redirect": "https://omy.sg/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://omy.sg",
+        "Icon": "data:;",
+        "Redirect": "https://omy.sg",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://omy.sg/"
+        "AbstractURL": "https://omy.sg"
     },
     {
         "link": "https://redvetka.ru",

@@ -1,13 +1,13 @@
 [
     {
         "link": "https://staggallery.com",
-        "Heading": "Home - The Stag Gallery",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://staggallery.com/",
-        "Icon": "https://staggallery.com/wp-content/uploads/2025/03/cropped-stag-gallery-icon-32x32.png",
-        "Redirect": "https://staggallery.com/",
+        "Official Site": "https://staggallery.com",
+        "Icon": "data:;",
+        "Redirect": "https://staggallery.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://staggallery.com/"
+        "AbstractURL": "https://staggallery.com"
     },
     {
         "link": "https://legendzizou.com",
@@ -18,6 +18,16 @@
         "Redirect": "https://legendzizou.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://legendzizou.com"
+    },
+    {
+        "link": "https://bitpidia.com",
+        "Heading": "Bitpidia | Every Skill Made Simple",
+        "Abstract": "Our platform is dedicated to simplifying the learning process and teaching everything that matters online.",
+        "Official Site": "https://www.bitpidia.com/",
+        "Icon": "https://www.bitpidia.com/wp-content/uploads/2025/07/prayer-business-friend-success-intercession-featured-420x280.webp",
+        "Redirect": "https://www.bitpidia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bitpidia.com/"
     },
     {
         "link": "https://pentagonmemorial.org",

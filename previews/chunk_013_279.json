@@ -131,23 +131,13 @@
     },
     {
         "link": "https://greenkeyglobal.com",
-        "Heading": "Home - Green Key Global",
-        "Abstract": "Green Key Global Partners with Al\u014d Index Hotels can now turn their sustainability achievements into a competitive commercial advantage, increasing visibility, strengthening RFP responses, and creating more opportunities for qualified corporate travel demand. Explore This Sustainability Initiative Eco-Rating Core Criteria\u2026",
-        "Official Site": "https://greenkeyglobal.com/",
-        "Icon": "https://greenkeyglobal.com/wp-content/uploads/alo-index.png",
-        "Redirect": "https://greenkeyglobal.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://greenkeyglobal.com",
+        "Icon": "data:;",
+        "Redirect": "https://greenkeyglobal.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://greenkeyglobal.com/"
-    },
-    {
-        "link": "https://1c-services.pro",
-        "Heading": "1C Services",
-        "Abstract": "\u0421\u043b\u043e\u0436\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u0438 1\u0421: \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438, \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430, \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u0432 \u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d\u0435.",
-        "Official Site": "https://1c-services.pro/",
-        "Icon": "https://1c-services.pro/images/og.png",
-        "Redirect": "https://1c-services.pro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://1c-services.pro/"
+        "AbstractURL": "https://greenkeyglobal.com"
     },
     {
         "link": "https://fewcents.co",
@@ -178,6 +168,16 @@
         "Redirect": "https://masoxigeno.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://masoxigeno.com"
+    },
+    {
+        "link": "https://cinaki.biz",
+        "Heading": "cinaki.biz\u00a0-\u00a0This website is for sale!\u00a0-\u00a0cinaki Resources and Information.",
+        "Abstract": "This website is for sale! cinaki.biz is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, cinaki.biz has it all. We hope you find what you are searching for!",
+        "Official Site": "https://cinaki.biz",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://cinaki.biz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cinaki.biz"
     },
     {
         "link": "https://tadart.com.pl",
@@ -308,5 +308,15 @@
         "Redirect": "https://worlddayofremembrance.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://worlddayofremembrance.org/"
+    },
+    {
+        "link": "https://allthingslinguistic.com",
+        "Heading": "All Things Linguistic",
+        "Abstract": "A blog about all things linguistic by Gretchen McCulloch. I cohost Lingthusiasm, a podcast that's enthusiastic about linguistics. I'm the author of Because Internet, a book about internet language!",
+        "Official Site": "https://allthingslinguistic.com",
+        "Icon": "https://static.tumblr.com/a9a96ab465988841c0c86998e2fb5aa0/pyb4ved/Fk9npi89r/tumblr_static_c2ewu7dz7i0wwkg8k0kcok0k8.png",
+        "Redirect": "https://allthingslinguistic.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://allthingslinguistic.com"
     }
 ]

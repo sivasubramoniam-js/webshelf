@@ -31,13 +31,13 @@
     },
     {
         "link": "https://totempool.com",
-        "Heading": "Insurance Economics -",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://totempool.com/",
-        "Icon": "https://totempool.com/wp-content/uploads/2026/06/cropped-android-chrome-512x512-1-32x32.png",
-        "Redirect": "https://totempool.com/",
+        "Official Site": "https://totempool.com",
+        "Icon": "data:;",
+        "Redirect": "https://totempool.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://totempool.com/"
+        "AbstractURL": "https://totempool.com"
     },
     {
         "link": "https://lokalo24.de",
@@ -58,16 +58,6 @@
         "Redirect": "https://www.saintjohnscancer.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.saintjohnscancer.org/"
-    },
-    {
-        "link": "https://bezdepp-online.fun",
-        "Heading": "bezdepp-online.fun\u00a0-\u00a0This website is for sale!\u00a0-\u00a0bezdepp online Resources and Information.",
-        "Abstract": "This website is for sale! bezdepp-online.fun is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, bezdepp-online.fun has it all. We hope you find what you are searching for!",
-        "Official Site": "https://bezdepp-online.fun",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://bezdepp-online.fun",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bezdepp-online.fun"
     },
     {
         "link": "https://wxhsyw.com",
@@ -231,10 +221,10 @@
     },
     {
         "link": "https://ucei.it",
-        "Heading": "UCEI: Unione delle Comunit\u00e0 Ebraiche Italiane",
-        "Abstract": "L\u2019Unione delle Comunit\u00e0 Ebraiche Italiane \u00e8 l\u2019Ente rappresentativo degli ebrei italiani nei confronti dello Stato e delle Istituzioni, a livello nazionale e internazionale",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://ucei.it",
-        "Icon": "https://www.ucei.it/wp-content/uploads/2024/07/cropped-favicon-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://ucei.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ucei.it"

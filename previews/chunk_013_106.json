@@ -51,10 +51,10 @@
     },
     {
         "link": "https://neglectedbooks.com",
-        "Heading": "The Neglected Books Page \u2013 www.NeglectedBooks.com:  Where forgotten books are remembered",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://neglectedbooks.com",
-        "Icon": "https://neglectedbooks.com/wp-content/uploads/2015/10/cropped-nbsiteicon1-32x32.jpg",
+        "Icon": "data:;",
         "Redirect": "https://neglectedbooks.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://neglectedbooks.com"
@@ -210,16 +210,6 @@
         "AbstractURL": "https://gardenstyleliving.com/"
     },
     {
-        "link": "https://nhaccutiendat.vn",
-        "Heading": "Nh\u1ea1c c\u1ee5 Ti\u1ebfn \u0110\u1ea1t: H\u01a1n 20 n\u0103m ph\u00e2n ph\u1ed1i \u0111\u00e0n Organ, Piano, Guitar",
-        "Abstract": "TI\u1ebeN \u0110\u1ea0T ph\u00e2n ph\u1ed1i c\u00e1c lo\u1ea1i \u0110\u00c0N CH\u00cdNH H\u00c3NG \u0110\u00e0n Organ, Guitar, Guitar, Piano, Ukulele, tr\u1ed1ng, ph\u1ee5 ki\u1ec7n c\u00e1c h\u00e3ng Yamaha, Casio, Roland, Kawai...GI\u00c1 T\u1ed0T, giao ngay trong ng\u00e0y",
-        "Official Site": "https://nhaccutiendat.vn",
-        "Icon": "https://nhaccutiendat.vn/wp-content/uploads/2025/09/nhac-cu-tien-dat-1.jpg",
-        "Redirect": "https://nhaccutiendat.vn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nhaccutiendat.vn"
-    },
-    {
         "link": "https://platzcart.com",
         "Heading": "Language page",
         "Abstract": null,
@@ -260,6 +250,16 @@
         "AbstractURL": "https://bluetunisia.com/"
     },
     {
+        "link": "https://medivision360.net",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://medivision360.net",
+        "Icon": "N/A",
+        "Redirect": "https://medivision360.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://medivision360.net"
+    },
+    {
         "link": "https://belupo.su",
         "Heading": "Outlook",
         "Abstract": null,
@@ -268,6 +268,16 @@
         "Redirect": "https://belupo.su",
         "AbstractSource": "BS4",
         "AbstractURL": "https://belupo.su"
+    },
+    {
+        "link": "https://drivewyze.com",
+        "Heading": "Drivewyze: The Weigh Station Bypass, Safety and Compliance Ecosystem",
+        "Abstract": "Bypass weigh stations, improve fleet safety and reduce risks. Drivewyze PreClear, Safety+ and Smart Roadways solutions reward your hard work. Drive On.",
+        "Official Site": "https://drivewyze.com/",
+        "Icon": "https://drivewyze.com/wp-content/uploads/2024/06/Drivewyze-Background-1-1-1024x741.jpg",
+        "Redirect": "https://drivewyze.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://drivewyze.com/"
     },
     {
         "link": "https://rspca-act.org.au",

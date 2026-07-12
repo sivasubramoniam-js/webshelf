@@ -10,16 +10,6 @@
         "AbstractURL": "https://canta-per-me.net"
     },
     {
-        "link": "https://cantinbeaute.com",
-        "Heading": "Cantin Beaut\u00e9 - Coiffure, esth\u00e9tique et mobilier de coiffure au Qu\u00e9bec",
-        "Abstract": "Cantin Beaut\u00e9 vous accompagne dans vos besoin de produits de coiffure de qualit\u00e9, de mobilier de salon ainsi que de tous vos besoins esth\u00e9tiques.",
-        "Official Site": "https://www.cantinbeaute.com/",
-        "Icon": "https://www.cantinbeaute.com/media/default/default/cantin-og_fr.png",
-        "Redirect": "https://www.cantinbeaute.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cantinbeaute.com/"
-    },
-    {
         "link": "https://capitolscientific.com",
         "Heading": "Capitol Scientific - Lab Chemicals - Laboratory Supply",
         "Abstract": "Discover top lab products and solutions from 300+ manufacturers. Capitol Scientific: building trust through partnership. Visit us to know more!",
@@ -132,9 +122,9 @@
     {
         "link": "https://charmingpoliteinjunction.com",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://charmingpoliteinjunction.com",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://charmingpoliteinjunction.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://charmingpoliteinjunction.com"

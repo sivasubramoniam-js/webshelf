@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://rezendeconstrucao.com.br",
+        "Heading": "Materiais para Constru\u00e7\u00e3o | Rezende Constru\u00e7\u00e3o",
+        "Abstract": "Rezende Constru\u00e7\u00e3o: Sin\u00f4nimo de qualidade, variedade e bom atendimento\nVenha conferir nossos departamentos: Pintura, Ilumina\u00e7\u00e3o, Metais e acess\u00f3rios, El\u00e9trica, Hidr\u00e1ulica, Aquecedores, Argamassa e rejunte, Ferramentas e muito mais!",
+        "Official Site": "https://rezendeconstrucao.com.br",
+        "Icon": "https://rezendeconstrucao.com.br/image/catalog/site/rezende-fav.jpeg",
+        "Redirect": "https://rezendeconstrucao.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rezendeconstrucao.com.br"
+    },
+    {
         "link": "https://rizeogretmenevi.com.tr",
         "Heading": "Rizeogretmenevi.com.tr ~ \u00c7evrimi\u00e7i ma\u011faza",
         "Abstract": null,
@@ -60,16 +70,6 @@
         "AbstractURL": "https://rolnikeko.pl"
     },
     {
-        "link": "https://roohit.com",
-        "Heading": ":: Roohit Home ::",
-        "Abstract": "Collect & Share highlights - you make - on any web page. Discover interesting highlights made by people you trust.",
-        "Official Site": "http://roohit.com/",
-        "Icon": "http://roohit.com/images/home_page.png",
-        "Redirect": "http://roohit.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://roohit.com/"
-    },
-    {
         "link": "https://rubird.ru",
         "Heading": null,
         "Abstract": null,
@@ -78,16 +78,6 @@
         "Redirect": "https://rubird.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rubird.ru"
-    },
-    {
-        "link": "https://rugandkilim.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://rugandkilim.com",
-        "Icon": "N/A",
-        "Redirect": "https://rugandkilim.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rugandkilim.com"
     },
     {
         "link": "https://ruhakeresod.hu",
@@ -124,7 +114,7 @@
         "Heading": "Victoria Ferruccio",
         "Abstract": null,
         "Official Site": "https://www.saattravel.com",
-        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=3216",
+        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=8948",
         "Redirect": "https://www.saattravel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.saattravel.com"
@@ -290,16 +280,6 @@
         "AbstractURL": "https://serviciodenoticias.net/"
     },
     {
-        "link": "https://sheenupholstery.com",
-        "Heading": "Upholstery Fabric Shops \u2013 Fabric Suppliers and Upholsterers in London\n\u2013 Sheen Upholstery\n",
-        "Abstract": "Sheen Upholstery is one of the best upholstery fabric stores in London. We provide fabric for upholstery, curtains, cushions, outdoor sofas, chairs and furniture.",
-        "Official Site": "https://www.sheenupholstery.com/",
-        "Icon": "N/A",
-        "Redirect": "https://www.sheenupholstery.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sheenupholstery.com/"
-    },
-    {
         "link": "https://shepherdelec.com",
         "Heading": "Shepherd Electric Supply",
         "Abstract": "Electrical Supply Distributor based in Maryland and Virginia",
@@ -311,10 +291,10 @@
     },
     {
         "link": "https://shopofmagic.com",
-        "Heading": "Home",
-        "Abstract": "The Little Shop of Magic is a full-service specialty store that has been serving the needs of gamers like yourself since 1994.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://shopofmagic.com",
-        "Icon": "/templates/shaper_helix_ii/favicon.ico",
+        "Icon": "data:;",
         "Redirect": "https://shopofmagic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shopofmagic.com"

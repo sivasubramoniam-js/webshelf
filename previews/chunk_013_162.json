@@ -1,13 +1,13 @@
 [
     {
         "link": "https://thegamehunter.co.uk",
-        "Heading": "Game Hunter - Casino, Sports Betting & Bingo Guide",
-        "Abstract": "Guides to playing casino games, poker, bingo, fruit machines, and scratch cards. Along with sports betting odds and tips.",
-        "Official Site": "https://www.thegamehunter.co.uk/",
-        "Icon": "https://www.thegamehunter.co.uk/wp-content/uploads/the-game-hunter.jpg",
-        "Redirect": "https://www.thegamehunter.co.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://thegamehunter.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://thegamehunter.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.thegamehunter.co.uk/"
+        "AbstractURL": "https://thegamehunter.co.uk"
     },
     {
         "link": "https://downloadtik.to",
@@ -108,6 +108,16 @@
         "Redirect": "https://saascredit.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://saascredit.ru"
+    },
+    {
+        "link": "https://ob-ultrasound.net",
+        "Heading": "Obstetric Ultrasound History Web",
+        "Abstract": "History of the development of Ultrasound scanning in Obstetrics and Gynecology",
+        "Official Site": "https://ob-ultrasound.net",
+        "Icon": "N/A",
+        "Redirect": "https://ob-ultrasound.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ob-ultrasound.net"
     },
     {
         "link": "https://silvertradecm.com",

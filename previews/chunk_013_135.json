@@ -10,16 +10,6 @@
         "AbstractURL": "https://borouge.com"
     },
     {
-        "link": "https://solarak.shop",
-        "Heading": "solarak shop",
-        "Abstract": null,
-        "Official Site": "https://solarak.shop",
-        "Icon": "N/A",
-        "Redirect": "https://solarak.shop",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://solarak.shop"
-    },
-    {
         "link": "https://hcmf.co.uk",
         "Heading": "hcmf// | Huddersfield Contemporary Music Festival | UK",
         "Abstract": "Huddersfield Contemporary Music Festival - hcmf/ - is the UK's largest international festival of new and experimental music. Fri 17 \u2013 Sun 26 November 2017.",
@@ -190,16 +180,6 @@
         "AbstractURL": "https://gataria.pt/"
     },
     {
-        "link": "https://colleyville.com",
-        "Heading": "\n\t\n    Colleyville, TX | Home\n\n",
-        "Abstract": "",
-        "Official Site": "https://colleyville.com",
-        "Icon": "N/A",
-        "Redirect": "https://colleyville.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://colleyville.com"
-    },
-    {
         "link": "https://kotor-montenegro-weather.com",
         "Heading": "Default page",
         "Abstract": "Default page",
@@ -261,13 +241,13 @@
     },
     {
         "link": "https://signatureluxurytravel.com.au",
-        "Heading": "Luxury Holidays - Signature Luxury Travel & Style",
-        "Abstract": "Signature Luxury Travel is a publication for a global audience of travellers who seek the finest luxury holidays the world has to offer. Learn more.",
-        "Official Site": "https://www.signatureluxurytravel.com.au/",
-        "Icon": "https://www.signatureluxurytravel.com.au/wp-content/uploads/2017/05/cropped-Favicon-32x32.png",
-        "Redirect": "https://www.signatureluxurytravel.com.au/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://signatureluxurytravel.com.au",
+        "Icon": "data:;",
+        "Redirect": "https://signatureluxurytravel.com.au",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.signatureluxurytravel.com.au/"
+        "AbstractURL": "https://signatureluxurytravel.com.au"
     },
     {
         "link": "https://uralenergotel.ru",
@@ -321,7 +301,7 @@
     },
     {
         "link": "https://euclidmanagement.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://euclidmanagement.com",
         "Icon": "N/A",

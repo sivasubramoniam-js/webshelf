@@ -20,6 +20,16 @@
         "AbstractURL": "https://bvhk.de"
     },
     {
+        "link": "https://sportsnutrition.org",
+        "Heading": "Sports Nutrition \u2013 personal trainer, vendita online di integratori, proteine",
+        "Abstract": null,
+        "Official Site": "https://sportsnutrition.org",
+        "Icon": "N/A",
+        "Redirect": "https://sportsnutrition.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sportsnutrition.org"
+    },
+    {
         "link": "https://healthybuddha.in",
         "Heading": "Healthy Buddha - Buy Organic Fruits & Vegetables Online in Bangalore | Organic Store | Free Home Delivery",
         "Abstract": "Order organic fruits, vegetables, exotics, honey, eggs, tea, ghee, A2 milk and poultry from best organic store online in Bangalore. Get free home delivery within 24 hrs.\n",
@@ -241,13 +251,13 @@
     },
     {
         "link": "https://ibex-ai.com",
-        "Heading": "Ibex Medical Analytics",
-        "Abstract": "Every day, our field-proven, AI-powered diagnostic solutions help pathologists ensure better cancer care for patients around the world",
-        "Official Site": "https://ibex-ai.com/",
-        "Icon": "https://ibex-ai.com/wp-content/uploads/2025/08/cropped-X_Ibex_512x512.png",
-        "Redirect": "https://ibex-ai.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ibex-ai.com",
+        "Icon": "data:;",
+        "Redirect": "https://ibex-ai.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ibex-ai.com/"
+        "AbstractURL": "https://ibex-ai.com"
     },
     {
         "link": "https://jysk-payroll.com",

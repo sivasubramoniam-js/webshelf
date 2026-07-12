@@ -181,13 +181,13 @@
     },
     {
         "link": "https://kirche-heute.ch",
-        "Heading": "Casino ohne Verifizierung Schweiz [cur_year]: Top Anbieter",
-        "Abstract": "Die besten Casino ohne Verifizierung Schweiz entdecken. Schnell anmelden, sicher spielen, Infos zu Legalit\u00e4t und Risiken. Jetzt lesen!",
-        "Official Site": "https://www.kirche-heute.ch/",
-        "Icon": "https://www.kirche-heute.ch/wp-content/uploads/2026/02/cleobetra-hp.jpg",
-        "Redirect": "https://www.kirche-heute.ch/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://kirche-heute.ch",
+        "Icon": "data:;",
+        "Redirect": "https://kirche-heute.ch",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kirche-heute.ch/"
+        "AbstractURL": "https://kirche-heute.ch"
     },
     {
         "link": "https://ilborro.it",
@@ -268,6 +268,16 @@
         "Redirect": "https://poplaninigori.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://poplaninigori.com/"
+    },
+    {
+        "link": "https://xowcomics.com",
+        "Heading": "XOWComics.com - Home",
+        "Abstract": "Free online comic books database and comic books collection management resource.",
+        "Official Site": "https://www.xowcomics.com/",
+        "Icon": "https://www.xowcomics.com/images/xow_logo_xlarge_fb_1200px0630p.jpg",
+        "Redirect": "https://www.xowcomics.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.xowcomics.com/"
     },
     {
         "link": "https://gladyspalmera.com",

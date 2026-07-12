@@ -151,13 +151,23 @@
     },
     {
         "link": "https://tfauae.com",
-        "Heading": "Football Academy in Dubai for Kids & Teens | TFA UAE",
-        "Abstract": "Join a top football academy in Dubai for ages 3\u201318+. Build skills, confidence, and pathways with expert coaching. Enroll at TFA UAE today.",
-        "Official Site": "https://www.tfauae.com/",
-        "Icon": "https://www.tfauae.com/wp-content/uploads/2024/12/ELITE-COVER-PAGE-1-scaled.jpg",
-        "Redirect": "https://www.tfauae.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://tfauae.com",
+        "Icon": "data:;",
+        "Redirect": "https://tfauae.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.tfauae.com/"
+        "AbstractURL": "https://tfauae.com"
+    },
+    {
+        "link": "https://museumaacm.org",
+        "Heading": "Home | Museum of the American Arts & Crafts Movement",
+        "Abstract": "Museum of the American Arts and Crafts Movement - Home of the world's premier collection of art and objects from the American Arts and Crafts Movement on public display. The mission of the museum is to promote an understanding of the American Arts & Crafts movement through the acquisition, conservation, preservation, exhibition, and interpretation of the decorative and fine arts.",
+        "Official Site": "https://museumaacm.org",
+        "Icon": "https://www.museumaacm.org/images/maacmFavIcon.ico",
+        "Redirect": "https://museumaacm.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://museumaacm.org"
     },
     {
         "link": "https://digitaleweltmagazin.de",

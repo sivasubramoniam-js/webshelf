@@ -24,20 +24,30 @@
         "Heading": "Norfolk/Wrentham - Local Town Pages | The Voice of Your Community",
         "Abstract": "LocalTownPages Norfolk/Wrentham is your community-based newspaper, direct mailed to 8,181 residents and businesses, providing local news, sports, and services into the Norfolk/Wrentham area.",
         "Official Site": "https://www.norfolkwrenthamnews.com/",
-        "Icon": "//cdn1.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
+        "Icon": "//cdn3.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
         "Redirect": "https://www.norfolkwrenthamnews.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.norfolkwrenthamnews.com/"
     },
     {
         "link": "https://lecinemaclub.com",
-        "Heading": "Le Cin\u00e9ma Club",
-        "Abstract": "A free, curated platform streaming one film every week.",
-        "Official Site": "https://www.lecinemaclub.com/",
-        "Icon": "https://www.lecinemaclub.com/wp-content/themes/cinemaclub/img/lecinemaclub.png",
-        "Redirect": "https://www.lecinemaclub.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lecinemaclub.com",
+        "Icon": "data:;",
+        "Redirect": "https://lecinemaclub.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lecinemaclub.com/"
+        "AbstractURL": "https://lecinemaclub.com"
+    },
+    {
+        "link": "https://kumiuniversity.ac.ug",
+        "Heading": "Kumi University \u2013 Godliness & Excellence for Servanthood",
+        "Abstract": null,
+        "Official Site": "https://kumiuniversity.ac.ug",
+        "Icon": "https://www.kumiuniversity.ac.ug/wp-content/uploads/2017/03/cropped-Kumi-University-logo-round-32x32.png",
+        "Redirect": "https://kumiuniversity.ac.ug",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kumiuniversity.ac.ug"
     },
     {
         "link": "https://317d.net",
@@ -83,11 +93,11 @@
         "link": "https://auto-nix.de",
         "Heading": "Autohaus NIX",
         "Abstract": "Zufriedenheit, Kontinuit\u00e4t und Innovation, Autohaus NIX, Toyota, Lexus, Volkswagen Nutzfahrzeuge, Gebrauchtwagen, Neuwagen, Tageszulassungen",
-        "Official Site": "https://www.auto-nix.de/",
+        "Official Site": "https://www.auto-nix.de/?utm_source=google&utm_medium=search&utm_campaign=ort&gad_source=1&gad_campaignid=16211556366&gclid=CjwKCAjw08fSBhA7EiwAfbQTsAIoEHjELgndZcImyC3utnM-cq8gX_O7LqPgeQ6oUknWvP2XvThwLhoCZq8QAvD_BwE",
         "Icon": "https://www.auto-nix.de/fileadmin/_processed_/b/b/csm_nix-og_981d4794a4.jpg",
-        "Redirect": "https://www.auto-nix.de/",
+        "Redirect": "https://www.auto-nix.de/?utm_source=google&utm_medium=search&utm_campaign=ort&gad_source=1&gad_campaignid=16211556366&gclid=CjwKCAjw08fSBhA7EiwAfbQTsAIoEHjELgndZcImyC3utnM-cq8gX_O7LqPgeQ6oUknWvP2XvThwLhoCZq8QAvD_BwE",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.auto-nix.de/"
+        "AbstractURL": "https://www.auto-nix.de/?utm_source=google&utm_medium=search&utm_campaign=ort&gad_source=1&gad_campaignid=16211556366&gclid=CjwKCAjw08fSBhA7EiwAfbQTsAIoEHjELgndZcImyC3utnM-cq8gX_O7LqPgeQ6oUknWvP2XvThwLhoCZq8QAvD_BwE"
     },
     {
         "link": "https://belgraviadent.ru",
@@ -221,8 +231,8 @@
     },
     {
         "link": "https://guinee-camions.com",
-        "Heading": "Camions d'occasion, 250 000 annonces de poids lourds d'occasion",
-        "Abstract": "Guinee-Camions.com - N\u00b01 des annonces poids lourds en France. 250 000 annonces de camions, semi-remorques, tracteurs routier, autocars\u2026",
+        "Heading": "Camions d'occasion, 240 000 annonces de poids lourds d'occasion",
+        "Abstract": "Guinee-Camions.com - N\u00b01 des annonces poids lourds en France. 240 000 annonces de camions, semi-remorques, tracteurs routier, autocars\u2026",
         "Official Site": "https://www.guinee-camions.com",
         "Icon": "https://www.guinee-camions.com/themes/ico/1/favicon-205x205.png",
         "Redirect": "https://www.guinee-camions.com",
@@ -288,16 +298,6 @@
         "Redirect": "https://migescolar.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://migescolar.com.br"
-    },
-    {
-        "link": "https://solucioneshosteleras.com",
-        "Heading": "Maquinaria, Equipamiento y Mobiliario de Hosteler\u00eda - Soluciones Hosteleras",
-        "Abstract": "Visita nuestra tienda online en Burgos con m\u00e1s de 5000 art\u00edculos de material y maquinaria para hosteler\u00eda. Env\u00edos a Espa\u00f1a y Portugal con total garant\u00eda.",
-        "Official Site": "https://www.solucioneshosteleras.com/",
-        "Icon": "https://www.solucioneshosteleras.com/img/logo.jpg",
-        "Redirect": "https://www.solucioneshosteleras.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.solucioneshosteleras.com/"
     },
     {
         "link": "https://sevenstarsgracebay.com",

@@ -4,7 +4,7 @@
         "Heading": "Detsk\u00e9 oble\u010denie a detsk\u00e1 obuv | MD M\u00f3da",
         "Abstract": "Objavte svet m\u00f3dy na MDmoda.sk! \u0160irok\u00fd v\u00fdber oble\u010denia, obuvi a doplnkov od top zna\u010diek. Naj\u0161ir\u0161\u00ed v\u00fdber produktov zna\u010diek Mayoral, Protetika. \u0160t\u00fdlov\u00e9 detsk\u00e9 oble\u010denie a kvalitn\u00e1 detsk\u00e1 obuv zna\u010diek Mayoral a Protetika. R\u00fdchle doru\u010denie, skladom, v\u00fdhodn\u00e9 ceny.",
         "Official Site": "https://www.mdmoda.sk/",
-        "Icon": "https://cdn.myshoptet.com/usr/www.mdmoda.sk/user/front_images/ogImage/hp.png?t=1783756248",
+        "Icon": "https://cdn.myshoptet.com/usr/www.mdmoda.sk/user/front_images/ogImage/hp.png?t=1783842689",
         "Redirect": "https://www.mdmoda.sk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mdmoda.sk/"
@@ -58,6 +58,16 @@
         "Redirect": "https://www.megasecondhand.cz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.megasecondhand.cz"
+    },
+    {
+        "link": "https://mehrajbooks.com.my",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mehrajbooks.com.my",
+        "Icon": "data:;",
+        "Redirect": "https://mehrajbooks.com.my",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mehrajbooks.com.my"
     },
     {
         "link": "https://mein-tuergriff.de",
@@ -308,16 +318,6 @@
         "Redirect": "https://montivo.pk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://montivo.pk/"
-    },
-    {
-        "link": "https://mooui.com.br",
-        "Heading": "MOOUI | Decora\u00e7\u00e3o para quarto Infantil, enxoval de beb\u00ea e mais!  \u2013 Mooui",
-        "Abstract": "A MOOUI \u00e9 a sua loja completa para decora\u00e7\u00e3o infantil, enxoval de beb\u00ea, artigos infantis e muito mais! Acesse agora e conhe\u00e7a o mundo MOOUI!",
-        "Official Site": "https://mooui.com.br/",
-        "Icon": "//mooui.com.br/cdn/shop/files/logo_ok_32x32.png?v=1764764370",
-        "Redirect": "https://mooui.com.br/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mooui.com.br/"
     },
     {
         "link": "https://morningcroissant.fr",

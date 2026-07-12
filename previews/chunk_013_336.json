@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://ufcw1059.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ufcw1059.com",
-        "Icon": "N/A",
-        "Redirect": "https://ufcw1059.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ufcw1059.com"
-    },
-    {
         "link": "https://raimersoft.com",
         "Heading": null,
         "Abstract": null,
@@ -48,16 +38,6 @@
         "Redirect": "https://changview.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://changview.com"
-    },
-    {
-        "link": "https://quelliv.com",
-        "Heading": "Laser Wellness Center St. Petersburg- Medical Spa -Quelliv Medical Spa",
-        "Abstract": "Quelliv provides an effective, non-invasive therapeutic alternative to ease pain, reduce inflammation, enhance skin health, and support your well-being",
-        "Official Site": "https://quelliv.com/",
-        "Icon": "https://quelliv.com/wp-content/uploads/2024/01/favicon.png",
-        "Redirect": "https://quelliv.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://quelliv.com/"
     },
     {
         "link": "https://jasawebbandung.com",
@@ -164,10 +144,20 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://chipskills.us",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://chipskills.us",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chipskills.us"
+    },
+    {
+        "link": "https://koreacdn.com",
+        "Heading": "google",
+        "Abstract": null,
+        "Official Site": "https://koreacdn.com",
+        "Icon": "N/A",
+        "Redirect": "https://koreacdn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://koreacdn.com"
     },
     {
         "link": "https://gtkpod.org",

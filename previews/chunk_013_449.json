@@ -20,16 +20,6 @@
         "AbstractURL": "https://downloadsoftware.ir"
     },
     {
-        "link": "https://vchca.org",
-        "Heading": "Ventura County Health Care Agency",
-        "Abstract": null,
-        "Official Site": "https://vchca.org",
-        "Icon": "https://s47353.pcdn.co/wp-content/uploads/2024/07/HCAMain-favicon-150x150.png",
-        "Redirect": "https://vchca.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vchca.org"
-    },
-    {
         "link": "https://consent-bist.de",
         "Heading": "consent-bist.de",
         "Abstract": null,
@@ -38,6 +28,16 @@
         "Redirect": "https://consent-bist.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://consent-bist.de"
+    },
+    {
+        "link": "https://psiskolagoda.cz",
+        "Heading": "Ps\u00ed \u0161kola GODA \u2013 V\u00fdcvik ps\u016f metodou pozitivn\u00ed motivace",
+        "Abstract": null,
+        "Official Site": "https://psiskolagoda.cz",
+        "Icon": "https://psiskolagoda.cz/wp-content/uploads/2021/02/cropped-LogoMakr-1bwHHn-32x32.png",
+        "Redirect": "https://psiskolagoda.cz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://psiskolagoda.cz"
     },
     {
         "link": "https://digitalmatters.gr",
@@ -124,7 +124,7 @@
         "Heading": "\u0645\u0631\u062c\u0639 \u062a\u062e\u0635\u0635\u06cc \u0642\u0644\u0645 \u06af\u06cc\u0641\u062a \u0633\u062a",
         "Abstract": null,
         "Official Site": "https://giftset.ir",
-        "Icon": "/theme/mobiletheme/images/favicon.png",
+        "Icon": "/theme/img/favicon.png",
         "Redirect": "https://giftset.ir",
         "AbstractSource": "BS4",
         "AbstractURL": "https://giftset.ir"
@@ -188,6 +188,16 @@
         "Redirect": "https://www.sweetyonline.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sweetyonline.com/"
+    },
+    {
+        "link": "https://btm.hu",
+        "Heading": "Budapesti T\u00f6rt\u00e9neti M\u00fazeum",
+        "Abstract": null,
+        "Official Site": "https://btm.hu",
+        "Icon": "https://btm.hu/wp-content/uploads/2024/10/cropped-btm-512x512-1-32x32.png",
+        "Redirect": "https://btm.hu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://btm.hu"
     },
     {
         "link": "https://synxtrade.com",

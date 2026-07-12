@@ -21,7 +21,7 @@
     },
     {
         "link": "https://yourmoscow.ru",
-        "Heading": "KillBot user verification [68.154.117.33] [Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36]...",
+        "Heading": "KillBot user verification [135.232.200.18] [Mozilla/5.0 (Macintosh; Intel Mac OS X 14.2; rv:122.0) Gecko/20100101 Firefox/122.0]...",
         "Abstract": null,
         "Official Site": "https://yourmoscow.ru",
         "Icon": "N/A",
@@ -58,6 +58,16 @@
         "Redirect": "https://www.sendai-kousei-hospital.jp",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sendai-kousei-hospital.jp"
+    },
+    {
+        "link": "https://vv411.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://vv411.com",
+        "Icon": "data:;",
+        "Redirect": "https://vv411.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vv411.com"
     },
     {
         "link": "https://evan-roth.com",
@@ -240,16 +250,6 @@
         "AbstractURL": "https://windmesse.de"
     },
     {
-        "link": "https://jammydodgers.co.uk",
-        "Heading": "Jammie Dodgers - Britain's Favourite Jam Filled Biscuits - FBC UK",
-        "Abstract": "Discover the playful world of Jammie Dodgers, the UK's most-loved jam-filled biscuits. From classic strawberry to special editions, find your perfect jammy treat made by FBC since 1960",
-        "Official Site": "https://jammydodgers.co.uk",
-        "Icon": "/themes/fbc/favicon/favicon.svg",
-        "Redirect": "https://jammydodgers.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jammydodgers.co.uk"
-    },
-    {
         "link": "https://tudigo.co",
         "Heading": "Tudigo | Investir dans des entreprises et startups fran\u00e7aises, simplement",
         "Abstract": "Des entreprises fran\u00e7aises soigneusement s\u00e9lectionn\u00e9es, accessibles d\u00e8s 500\u20ac. Rejoignez la plateforme d'investissement non cot\u00e9 agr\u00e9\u00e9e AMF.",
@@ -261,13 +261,13 @@
     },
     {
         "link": "https://achology.com",
-        "Heading": "Achology: Pioneering a New Way in Psychology-Based Education",
-        "Abstract": "Achology offers 28 insightful, psychology-based e-learning courses designed to deepen self-awareness and foster a greater understanding of other people.",
-        "Official Site": "https://achology.com/",
-        "Icon": "https://cdn.achology.com/wp-content/uploads/20250520144600/Achology-Home-Page-Featured-Image.jpg",
-        "Redirect": "https://achology.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://achology.com",
+        "Icon": "data:;",
+        "Redirect": "https://achology.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://achology.com/"
+        "AbstractURL": "https://achology.com"
     },
     {
         "link": "https://priligy.me",
@@ -308,6 +308,16 @@
         "Redirect": "https://fxopenaffiliate.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fxopenaffiliate.com/"
+    },
+    {
+        "link": "https://lukasbudinsky.cz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lukasbudinsky.cz",
+        "Icon": "N/A",
+        "Redirect": "https://lukasbudinsky.cz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lukasbudinsky.cz"
     },
     {
         "link": "https://ielts-simon.com",

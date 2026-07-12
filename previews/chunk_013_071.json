@@ -31,13 +31,13 @@
     },
     {
         "link": "https://eipcore.net",
-        "Heading": "Embedded Insurance Solutions Provider | EIP",
-        "Abstract": "EIP is the industry-leading Embedded Insurance provider for insurers, brokers, telcos, banks, retailers, telcos and others",
-        "Official Site": "https://eip.tech/",
-        "Icon": "http://eip.tech/wp-content/uploads/2024/05/Screenshot-2024-05-06-160850.png",
-        "Redirect": "https://eip.tech/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://eipcore.net",
+        "Icon": "data:;",
+        "Redirect": "https://eipcore.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://eip.tech/"
+        "AbstractURL": "https://eipcore.net"
     },
     {
         "link": "https://makergot.com",
@@ -141,7 +141,7 @@
     },
     {
         "link": "https://prava-2h6k.ru",
-        "Heading": "68.154.117.33 11.07.2026 03:07:06",
+        "Heading": "135.232.200.18 12.07.2026 03:11:10",
         "Abstract": null,
         "Official Site": "https://prava-2h6k.ru",
         "Icon": "data:,",
@@ -211,13 +211,13 @@
     },
     {
         "link": "https://jesusalive.cc",
-        "Heading": "Home - JesusAlive.cc",
-        "Abstract": "JesusAlive.cc is dedicated to witnessing to the lost, discipling those in Christ, and equipping Christians to share their faith with others.",
-        "Official Site": "https://jesusalive.cc/",
-        "Icon": "https://jesusalive.cc/wp-content/uploads/elementor/thumbs/Zoom-Bible-Study-4-qpm5on2x2bhahxkv94azghklihwmy9c0reodbwdg1w.jpg",
-        "Redirect": "https://jesusalive.cc/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://jesusalive.cc",
+        "Icon": "data:;",
+        "Redirect": "https://jesusalive.cc",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jesusalive.cc/"
+        "AbstractURL": "https://jesusalive.cc"
     },
     {
         "link": "https://farsight.org",
@@ -318,6 +318,16 @@
         "Redirect": "https://pathofscience.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pathofscience.org"
+    },
+    {
+        "link": "https://bertone.it",
+        "Heading": "The Timeless Icon is reborn | Bertone",
+        "Abstract": "Since 1912, the ingenuity and attention to detail of Bertone's artisanal engineers have made it a cornerstone of automotive history. Now under new ownership, it embodies an excitingly modern vision while still maintaining the values upon which its rich and respected history has been built.",
+        "Official Site": "https://bertone.it/",
+        "Icon": "https://bertone.it/wp-content/uploads/2025/04/Bertone-meta-img.png",
+        "Redirect": "https://bertone.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bertone.it/"
     },
     {
         "link": "https://wingsofamerica.org",

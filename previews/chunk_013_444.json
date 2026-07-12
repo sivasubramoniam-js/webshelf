@@ -61,10 +61,10 @@
     },
     {
         "link": "https://tomspicky.com",
-        "Heading": "Tom Spicky \u2013 I build things\u2026",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://tomspicky.com",
-        "Icon": "https://tomspicky.com/wp-content/uploads/2026/06/cropped-TS-icon-32x32.jpg",
+        "Icon": "data:;",
         "Redirect": "https://tomspicky.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tomspicky.com"

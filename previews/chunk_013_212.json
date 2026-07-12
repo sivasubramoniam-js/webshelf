@@ -20,6 +20,16 @@
         "AbstractURL": "https://progresso-ict.nl"
     },
     {
+        "link": "https://purecommunion.com",
+        "Heading": "Pure communion",
+        "Abstract": null,
+        "Official Site": "https://purecommunion.com",
+        "Icon": "https://purecommunion.com/wp-content/uploads/2020/11/cropped-Bez-nazvu1-e1599504347165-32x32.png",
+        "Redirect": "https://purecommunion.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://purecommunion.com"
+    },
+    {
         "link": "https://itsistem.ro",
         "Heading": null,
         "Abstract": null,
@@ -28,6 +38,16 @@
         "Redirect": "https://itsistem.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://itsistem.ro"
+    },
+    {
+        "link": "https://obernai.fr",
+        "Heading": "Obernai (67) - Alsace : site officiel de la ville",
+        "Abstract": "Ville d'Obernai - D\u00e9veloppement \u00e9conomique, actualit\u00e9s, agenda, informations pratiques, manifestations, tourisme.",
+        "Official Site": "https://obernai.fr",
+        "Icon": "https://www.obernai.fr/images/logo_desktop.png",
+        "Redirect": "https://obernai.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://obernai.fr"
     },
     {
         "link": "https://splatsearch.com",
@@ -181,10 +201,10 @@
     },
     {
         "link": "https://goteborgskonstmuseum.se",
-        "Heading": "G\u00f6teborgs konstmuseum",
-        "Abstract": null,
+        "Heading": "G\u00f6teborgs Stad blocksida",
+        "Abstract": "G\u00f6teborgs Stad ",
         "Official Site": "https://goteborgskonstmuseum.se",
-        "Icon": "https://goteborgskonstmuseum.se/wp-content/themes/gkm-2-0-22/i/favicon-196x196.png?2.0.22",
+        "Icon": "N/A",
         "Redirect": "https://goteborgskonstmuseum.se",
         "AbstractSource": "BS4",
         "AbstractURL": "https://goteborgskonstmuseum.se"

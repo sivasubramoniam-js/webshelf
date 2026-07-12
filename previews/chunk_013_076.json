@@ -71,13 +71,13 @@
     },
     {
         "link": "https://brooks-re.com",
-        "Heading": "Property Management & Real Estate in Williamsburg, VA | Brooks Real Estate",
-        "Abstract": "Experience a personalized approach to Williamsburg property management, HOA management, and real estate in Hampton Roads.",
-        "Official Site": "https://brooks-re.com/",
-        "Icon": "https://brooks-re.com/wp-content/uploads/2024/09/bre-logo-horizontal.png",
-        "Redirect": "https://brooks-re.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://brooks-re.com",
+        "Icon": "data:;",
+        "Redirect": "https://brooks-re.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://brooks-re.com/"
+        "AbstractURL": "https://brooks-re.com"
     },
     {
         "link": "https://suicide-ecoute.fr",
@@ -210,16 +210,6 @@
         "AbstractURL": "https://www.HugeDomains.com/domain_profile.cfm?d=FinGlobalApp.com"
     },
     {
-        "link": "https://xn--e1adivfhak.xn--p1ai",
-        "Heading": "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430",
-        "Abstract": null,
-        "Official Site": "https://xn--e1adivfhak.xn--p1ai",
-        "Icon": "N/A",
-        "Redirect": "https://xn--e1adivfhak.xn--p1ai",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://xn--e1adivfhak.xn--p1ai"
-    },
-    {
         "link": "https://liveliferehab.org",
         "Heading": "Drug & Alcohol Rehabilitation Centre in Gujarat, India | Live Life Rehab",
         "Abstract": "Live Life Rehab is a residential de-addiction and rehabilitation centre in Nadiad, Gujarat. Medically supervised detox, individual therapy, and family counselling for alcohol, drug, and behavioural addiction. 2000+ recoveries. Call today.",
@@ -268,6 +258,16 @@
         "Redirect": "https://barinet.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://barinet.com.br"
+    },
+    {
+        "link": "https://teatrobellini.it",
+        "Heading": "Teatro Bellini | Teatro di Napoli",
+        "Abstract": "Benvenuto nel sito ufficiale del Teatro Bellini di Napoli! Sfoglia gli spettacoli, il programma della stagione e il calendario!",
+        "Official Site": "https://www.teatrobellini.it/",
+        "Icon": "https://www.teatrobellini.it/wp-content/uploads/2025/05/invito_festa_instagram-scaled.jpg",
+        "Redirect": "https://www.teatrobellini.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.teatrobellini.it/"
     },
     {
         "link": "https://delivery-manager.ru",

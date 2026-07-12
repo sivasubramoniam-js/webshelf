@@ -30,8 +30,18 @@
         "AbstractURL": "https://spinozagrp.com"
     },
     {
+        "link": "https://jensen-souders.net",
+        "Heading": "Jensen-Souders Assoc. | Welcome to our Chemical Warehouse in Chicago",
+        "Abstract": "Jensen-Souders Assoc. | Welcome to our Chemical Warehouse in Chicago",
+        "Official Site": "https://jensen-souders.net",
+        "Icon": "https://jensen-souders.net/wp-content/uploads/2019/09/cropped-Jensen-Souders-Favicon-New-32x32.png",
+        "Redirect": "https://jensen-souders.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jensen-souders.net"
+    },
+    {
         "link": "https://wesellhost.net",
-        "Heading": "WeSellHost - Coming Soon",
+        "Heading": "Account Suspended",
         "Abstract": null,
         "Official Site": "https://wesellhost.net",
         "Icon": "N/A",
@@ -60,6 +70,16 @@
         "AbstractURL": "https://texasmilitaryforcesmuseum.org"
     },
     {
+        "link": "https://hpicken.com.au",
+        "Heading": "Sample Page - Hold Site",
+        "Abstract": "This is an example page. It\u2019s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I\u2019m a bike messenger [\u2026]",
+        "Official Site": "https://hpicken.com.au/",
+        "Icon": "N/A",
+        "Redirect": "https://hpicken.com.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hpicken.com.au/"
+    },
+    {
         "link": "https://hunto.com",
         "Heading": "Hunto \u2014 Wear What You Imagine",
         "Abstract": "Design custom t-shirts, hoodies, polos, and more with AI. No minimums. Free shipping. Premium in-house printing.",
@@ -71,10 +91,10 @@
     },
     {
         "link": "https://malygosc.pl",
-        "Heading": "Ma\u0142y Go\u015b\u0107",
-        "Abstract": "Miesi\u0119cznik dla dzieci i m\u0142odzie\u017cy. Gry, porady, dowcipy, quizy, rozrywka, porady dotycz\u0105ce \u017cycia religijnego.",
+        "Heading": "Ma\u0142y Go\u015b\u0107 - www.malygosc.pl",
+        "Abstract": null,
         "Official Site": "https://malygosc.pl",
-        "Icon": "https://www.malygosc.pl/static/images/base/malygosc.jpg",
+        "Icon": "/static/themes/maly-gosc-mobile-2016/favicon.ico?v=QTRuC4J7NpTgTvjQqzrmA",
         "Redirect": "https://malygosc.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://malygosc.pl"
@@ -91,13 +111,13 @@
     },
     {
         "link": "https://ccscheme.org.uk",
-        "Heading": "Considerate Constructors Scheme",
-        "Abstract": "The Considerate Constructors Scheme is an independently run organisation supporting and guiding positive change in the construction industry.",
-        "Official Site": "https://www.considerateconstructors.com/",
-        "Icon": "https://www.considerateconstructors.com/wp-content/uploads/2022/11/Home03_1920px.jpg",
-        "Redirect": "https://www.considerateconstructors.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ccscheme.org.uk",
+        "Icon": "data:;",
+        "Redirect": "https://ccscheme.org.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.considerateconstructors.com/"
+        "AbstractURL": "https://ccscheme.org.uk"
     },
     {
         "link": "https://vivasoftltd.com",

@@ -40,6 +40,16 @@
         "AbstractURL": "https://thewizard.marketing/"
     },
     {
+        "link": "https://tamilandvedas.com",
+        "Heading": "Tamil and Vedas | A blog exploring themes in Tamil and vedic literature",
+        "Abstract": "A blog exploring themes in Tamil and vedic literature",
+        "Official Site": "https://tamilandvedas.com/",
+        "Icon": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+        "Redirect": "https://tamilandvedas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tamilandvedas.com/"
+    },
+    {
         "link": "https://summitt.com",
         "Heading": "Summitt Trucking",
         "Abstract": "Summitt Redirection",
@@ -58,6 +68,16 @@
         "Redirect": "https://nitservice.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nitservice.ru"
+    },
+    {
+        "link": "https://anachron.com",
+        "Heading": "About Billtrust, automated accounts receivable | Billtrust",
+        "Abstract": "Info about Billtrust and its 20+ year mission to transform accounts receivable processes through technology, automation, and innovation.",
+        "Official Site": "https://www.billtrust.com/about",
+        "Icon": "https://www.billtrust.com/wp-content/uploads/2025/04/image-184.webp",
+        "Redirect": "https://www.billtrust.com/about",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.billtrust.com/about"
     },
     {
         "link": "https://lipovka-kursovki.info",
@@ -138,6 +158,16 @@
         "Redirect": "https://rb88.one/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rb88.one/"
+    },
+    {
+        "link": "https://pasayigit.company",
+        "Heading": "Mehmet Pa\u015fayi\u011fit - Senior Webmaster & Web Developer",
+        "Abstract": "10 y\u0131ll\u0131k tecr\u00fcbem ile k\u0131demli front-end web geli\u015ftirici olarak tamamen mobil uyumlu g\u00fcvenilir responsive websiteler, wordpress, e-ticaret, arama motoru optimizasyonu (SEO), kurumsal mail, hosting ve domain y\u00f6netimi hizmetleri konusunda uzman\u0131m.",
+        "Official Site": "https://pasayigit.company",
+        "Icon": "assets/img/favicon.png",
+        "Redirect": "https://pasayigit.company",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pasayigit.company"
     },
     {
         "link": "https://cimlearn.com",
@@ -291,10 +321,10 @@
     },
     {
         "link": "https://mehriban-aliyeva.az",
-        "Heading": "Mehriban \u018fliyeva - Az\u0259rbaycan\u0131n birinci xan\u0131m\u0131 - Site",
+        "Heading": "Mehriban \u018fliyeva - Az\u0259rbaycan\u0131n birinci xan\u0131m\u0131",
         "Abstract": null,
         "Official Site": "https://mehriban-aliyeva.az",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://mehriban-aliyeva.az",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mehriban-aliyeva.az"

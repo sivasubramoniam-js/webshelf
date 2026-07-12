@@ -34,7 +34,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://funkykeel.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://funkykeel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://funkykeel.com"
@@ -220,6 +220,16 @@
         "AbstractURL": "#/"
     },
     {
+        "link": "https://southforkwind.com",
+        "Heading": "Discover NY\u2019s First Offshore Wind Farm| South Fork Wind",
+        "Abstract": "\u00d8rsted's South Fork Wind is New York\u2019s first offshore wind farm and America\u2019s first commercial-scale offshore wind farm in federal waters",
+        "Official Site": "https://southforkwind.com",
+        "Icon": "https://cdn.orsted.com/-/media/www/images/corp/jv/southfork-wind/sfw-revamp-q12024/sfw_home_lookinside.jpg?rev=bb917dffac714c96a7c5f85343a19e1c&hash=DFD026732FDD345FC388CAA53C7DF461",
+        "Redirect": "https://southforkwind.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://southforkwind.com"
+    },
+    {
         "link": "https://pscoat.de",
         "Heading": "PScoat D-A-CH | Smart coat for smart people.",
         "Abstract": "Nanod\u00e4mmung aus Raumfahrt und Industrie f\u00fcr Ihr Geb\u00e4ude - 1mm dick, 300x st\u00e4rker als Styropor, atmungsaktiv und feuerbest\u00e4ndig",
@@ -238,16 +248,6 @@
         "Redirect": "https://photofed.world",
         "AbstractSource": "BS4",
         "AbstractURL": "https://photofed.world"
-    },
-    {
-        "link": "https://bigwinpictures.com",
-        "Heading": "Big Win Pictures - BigWinPictures",
-        "Abstract": null,
-        "Official Site": "https://bigwinpictures.com/",
-        "Icon": "https://bigwinpictures.com/wp-content/uploads/BigWinPictures-Logo-subscribers-125x125.jpg",
-        "Redirect": "https://bigwinpictures.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bigwinpictures.com/"
     },
     {
         "link": "https://zdorovie-vn.ru",

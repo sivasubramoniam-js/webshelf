@@ -30,6 +30,16 @@
         "AbstractURL": "https://outlaw-hobbies.com/"
     },
     {
+        "link": "https://ozrodders.com",
+        "Heading": "Web Hosting from HostPapa",
+        "Abstract": null,
+        "Official Site": "https://ozrodders.com",
+        "Icon": "https://www.hostpapa.ca/themes/hostpapaV4/img/favicon.png",
+        "Redirect": "https://ozrodders.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ozrodders.com"
+    },
+    {
         "link": "https://paldo.org",
         "Heading": "paldo - GNU/Linux Distribution",
         "Abstract": null,
@@ -128,6 +138,16 @@
         "Redirect": "https://plataforma925.com.mx",
         "AbstractSource": "BS4",
         "AbstractURL": "https://plataforma925.com.mx"
+    },
+    {
+        "link": "https://pozadavek.cz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pozadavek.cz",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://pozadavek.cz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pozadavek.cz"
     },
     {
         "link": "https://pro-aqua.com.br",

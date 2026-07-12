@@ -21,7 +21,7 @@
     },
     {
         "link": "https://chinesenewsnet.com",
-        "Heading": "Checking your browser...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://chinesenewsnet.com",
         "Icon": "N/A",
@@ -118,6 +118,16 @@
         "Redirect": "https://wanjunzuche.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wanjunzuche.com"
+    },
+    {
+        "link": "https://fugusau.edu.ng",
+        "Heading": "Federal University Gusau \u2013 Knowledge, Innovation and Service",
+        "Abstract": null,
+        "Official Site": "https://fugusau.edu.ng",
+        "Icon": "https://www.fugusau.edu.ng/wp-content/uploads/2020/05/fugus-70x70.png",
+        "Redirect": "https://fugusau.edu.ng",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fugusau.edu.ng"
     },
     {
         "link": "https://aepro.com",
@@ -240,24 +250,14 @@
         "AbstractURL": "https://www.soliantconsulting.com/"
     },
     {
-        "link": "https://qjxxlsw.xyz",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://qjxxlsw.xyz",
-        "Icon": "N/A",
-        "Redirect": "https://qjxxlsw.xyz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://qjxxlsw.xyz"
-    },
-    {
         "link": "https://kjc88.io",
-        "Heading": "KJC \u2013 KJC L\u00e0 G\u00ec \u2013 Li\u00ean Minh Qu\u1ed1c T\u1ebf D\u1eabn \u0110\u1ea7u Xu Th\u1ebf",
+        "Heading": "KJC \u2b50\ufe0fdijitalkarma KJC C\u1ed5ng Game Tr\u1ef1c Tuy\u1ebfn H\u1ea5p D\u1eabn S\u1ed1 1",
         "Abstract": "KJC \u2013 Li\u00ean Minh KJC v\u1edbi nh\u1eefng s\u1ef1 ki\u1ec7n n\u1ed5i b\u1eadt c\u1ee7a t\u1eadp \u0111o\u00e0n n\u0103m 2025. C\u1eadp nh\u1eadt tin t\u1ee9c, ho\u1ea1t \u0111\u1ed9ng, chi\u1ebfn l\u01b0\u1ee3c v\u00e0 c\u01a1 h\u1ed9i h\u1ee3p t\u00e1c c\u00f9ng KJC.",
-        "Official Site": "https://hometextile.co.in/vi-vn",
-        "Icon": "https://hometextile.co.in/wp-content/uploads/2025/08/tap-doan-kjc.webp",
-        "Redirect": "https://hometextile.co.in/vi-vn",
+        "Official Site": "https://dijitalkarma.us/vi-vn",
+        "Icon": "https://dijitalkarma.us/wp-content/uploads/2025/08/tap-doan-kjc.webp",
+        "Redirect": "https://dijitalkarma.us/vi-vn",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hometextile.co.in/vi-vn"
+        "AbstractURL": "https://dijitalkarma.us/vi-vn"
     },
     {
         "link": "https://tayra.ru",

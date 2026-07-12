@@ -91,13 +91,13 @@
     },
     {
         "link": "https://nysrpa.org",
-        "Heading": "NYSRPA | New York State Rifle and Pistol Association | NYS Firearms Advocacy",
-        "Abstract": "NYSRPA is the New York State Rifle and Pistol Association. NYSRPA is your NYS Firearms Advocacy Organization. Fighting for your rights in New York State.",
-        "Official Site": "https://www.nysrpa.org/",
-        "Icon": "https://www.nysrpa.org/wp-content/uploads/2018/10/favicon.png",
-        "Redirect": "https://www.nysrpa.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://nysrpa.org",
+        "Icon": "data:;",
+        "Redirect": "https://nysrpa.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.nysrpa.org/"
+        "AbstractURL": "https://nysrpa.org"
     },
     {
         "link": "https://fbiradio.com",
@@ -138,16 +138,6 @@
         "Redirect": "https://teakkereste.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://teakkereste.com"
-    },
-    {
-        "link": "https://cigrjournal.org",
-        "Heading": "\n\t\tCIGR Journal\n\t\t\t\t\t",
-        "Abstract": null,
-        "Official Site": "https://cigrjournal.org",
-        "Icon": "N/A",
-        "Redirect": "https://cigrjournal.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cigrjournal.org"
     },
     {
         "link": "https://maewang.com",

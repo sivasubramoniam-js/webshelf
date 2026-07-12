@@ -91,10 +91,10 @@
     },
     {
         "link": "https://prisoninsight.com",
-        "Heading": "Inmate Lookup | Free Nationwide Inmate Search",
-        "Abstract": "Lookup Inmates who are currently imprisoned in the USA. Get jail details, visitation rules, contact details and driving directions.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://prisoninsight.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://prisoninsight.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://prisoninsight.com"

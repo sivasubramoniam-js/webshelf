@@ -161,13 +161,13 @@
     },
     {
         "link": "https://seegreatart.art",
-        "Heading": "See Great Art - Sharing great art from across North America",
-        "Abstract": "Sharing great art from across North America",
-        "Official Site": "https://www.seegreatart.art/",
-        "Icon": "https://www.seegreatart.art/wp-content/uploads/2020/09/cropped-See-Great-Art-32x32.jpg",
-        "Redirect": "https://www.seegreatart.art/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://seegreatart.art",
+        "Icon": "data:;",
+        "Redirect": "https://seegreatart.art",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.seegreatart.art/"
+        "AbstractURL": "https://seegreatart.art"
     },
     {
         "link": "https://mujin.co.jp",
@@ -301,8 +301,8 @@
     },
     {
         "link": "https://stevemapua.net",
-        "Heading": "SEO Company Phoenix | Lead Generation & Visibility | Link Helpers",
-        "Abstract": "Unlock Your Local SEO Potential: Discover where you're invisible on Google and how many jobs you're losing. Book a free 10-min Map Growth Call now!",
+        "Heading": "Link Helpers SEO & Web Design | Local SEO & Lead Generation",
+        "Abstract": "Unlock Your Local SEO Potential: Discover where you're invisible on Google and how many leads you're losing. Book a free 10-min Map Growth Call now!",
         "Official Site": "https://linkhelpers.com/",
         "Icon": "https://storage.readdy-site.link/project_files/3517145e-93db-40d8-a9f2-55ba13605045/80b9b81c-e86f-4dab-9d3b-ca76a9473f3c_compressed_Link-Helpers-OG-Preview-Get-Found-Before-Competitors.webp",
         "Redirect": "https://linkhelpers.com/",

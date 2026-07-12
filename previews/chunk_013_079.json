@@ -121,13 +121,13 @@
     },
     {
         "link": "https://vecindia.es",
-        "Heading": "Abogados Comunidades de Propietarios \u25b7Paga a Plazos",
-        "Abstract": "Abogados especialistas en comunidades de propietarios: Conf\u00eda en m\u00e1s de 10 a\u00f1os de experiencia. Cons\u00faltanos Gratis ahora.",
-        "Official Site": "https://vecindia.es/",
-        "Icon": "https://vecindia.es/wp-content/uploads/2023/04/abogados-comunidades-de-propietarios-derecho-inmobiliario-derecho-hipotecario-y-urbanistico.jpg",
-        "Redirect": "https://vecindia.es/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://vecindia.es",
+        "Icon": "data:;",
+        "Redirect": "https://vecindia.es",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vecindia.es/"
+        "AbstractURL": "https://vecindia.es"
     },
     {
         "link": "https://employmentguide.com",
@@ -298,6 +298,16 @@
         "Redirect": "https://inspirationhut.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://inspirationhut.net"
+    },
+    {
+        "link": "https://usmegastore.com",
+        "Heading": "MRO Products, Industrial Equipment, Tools, Instruments & More - Mega Depot",
+        "Abstract": "Mega Depot offers over 1,000 000 MRO items, industrial products, tools, supplies & more at the lowest prices! Free shipping on applicable products.",
+        "Official Site": "https://usmegastore.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://usmegastore.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://usmegastore.com"
     },
     {
         "link": "https://kicdo.com",

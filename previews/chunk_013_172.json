@@ -10,6 +10,16 @@
         "AbstractURL": "https://mygametables.com/"
     },
     {
+        "link": "https://scopesoft.com",
+        "Heading": "Scope Digital \u2014 Yapay Zeka \u00c7a\u011f\u0131n\u0131n Dijital Ajans\u0131",
+        "Abstract": "Scope Agency, markalar ile t\u00fcketicileri aras\u0131nda ko\u015fulsuz bir ba\u011f kurmaya odaklanan \u00f6nde gelen bir dijital ajanst\u0131r.",
+        "Official Site": "https://scope.digital/",
+        "Icon": "https://scope.digital/assets/images/cover.jpg",
+        "Redirect": "https://scope.digital/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://scope.digital/"
+    },
+    {
         "link": "https://solucionesinnova.net",
         "Heading": "Innova Soluciones \u2013 \u00a1Expertos en tecnolog\u00eda!",
         "Abstract": null,
@@ -38,16 +48,6 @@
         "Redirect": "https://yccc.edu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yccc.edu"
-    },
-    {
-        "link": "https://panoramadelart.com",
-        "Heading": "Panorama de l'art | L\u2019histoire de l\u2019art en un seul regard",
-        "Abstract": "Un site exhaustif et p\u00e9dagogique sur l'histoire de l'art, de la pr\u00e9histoire jusqu'\u00e0 l'art moderne : analyse d'\u0153uvres des mus\u00e9es, reproduction en grand format, glossaire ; adapt\u00e9 aux enseignant et \u00e9l\u00e8ves.",
-        "Official Site": "https://panoramadelart.com/",
-        "Icon": "/sites/default/files/favicon.jpg",
-        "Redirect": "https://panoramadelart.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://panoramadelart.com/"
     },
     {
         "link": "https://divasplay.com",
@@ -111,13 +111,13 @@
     },
     {
         "link": "https://cityartsmagazine.com",
-        "Heading": "City Arts Magazine - Creative minds, compelling stories",
-        "Abstract": "Creative minds, compelling stories",
-        "Official Site": "https://www.cityartsmagazine.com/",
-        "Icon": "N/A",
-        "Redirect": "https://www.cityartsmagazine.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://cityartsmagazine.com",
+        "Icon": "data:;",
+        "Redirect": "https://cityartsmagazine.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cityartsmagazine.com/"
+        "AbstractURL": "https://cityartsmagazine.com"
     },
     {
         "link": "https://amazonere.com",
@@ -201,13 +201,13 @@
     },
     {
         "link": "https://chicisimo.com",
-        "Heading": "Chicisimo - Build with fashion shoppers' taste data",
-        "Abstract": "Chicisimo helps fashion retailers build with shoppers' taste-data. Fashion ontologies, fashion taste graph, taste profiles, virtual closets...",
-        "Official Site": "https://chicisimo.com/",
-        "Icon": "https://chicisimo.com/wp-content/uploads/2020/07/cropped-app_icon-1-32x32.jpg",
-        "Redirect": "https://chicisimo.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://chicisimo.com",
+        "Icon": "data:;",
+        "Redirect": "https://chicisimo.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chicisimo.com/"
+        "AbstractURL": "https://chicisimo.com"
     },
     {
         "link": "https://counton.org",

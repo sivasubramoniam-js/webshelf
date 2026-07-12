@@ -20,6 +20,16 @@
         "AbstractURL": "https://wetten-tipps-expert.com"
     },
     {
+        "link": "https://jozsefvarosujsag.hu",
+        "Heading": "J\u00f3zsefv\u00e1ros \u00dajs\u00e1g",
+        "Abstract": "A VIII. ker\u00fclet k\u00f6zszolg\u00e1lati lapja - k\u00f6z\u00e9let, arcok, \u00edzek, sz\u00ednek, szagok, m\u00falt \u00e9s jelen, vide\u00f3k, gal\u00e9ri\u00e1k a Ny\u00f3ckerb\u0151l, minden, ami az itt lak\u00f3kat \u00e9rinti",
+        "Official Site": "https://jozsefvarosujsag.hu/",
+        "Icon": "https://jozsefvarosujsag.hu/wp-content/uploads/2021/09/social-share.jpg",
+        "Redirect": "https://jozsefvarosujsag.hu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jozsefvarosujsag.hu/"
+    },
+    {
         "link": "https://tomoplanner.com",
         "Heading": "TomoPlanner",
         "Abstract": "Plan and showcase your Tomodachi Life island cast!",
@@ -201,10 +211,10 @@
     },
     {
         "link": "https://metacreations.com",
-        "Heading": "MetaCreations",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://metacreations.com",
-        "Icon": "https://metacreations.com/wp-content/themes/Avada/assets/images/logo.png",
+        "Icon": "data:;",
         "Redirect": "https://metacreations.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://metacreations.com"
@@ -238,6 +248,16 @@
         "Redirect": "https://localsistemas.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://localsistemas.com.br"
+    },
+    {
+        "link": "https://desmazes.com",
+        "Heading": "Desmazes - Stores, menuiseries, pergolas et chapiteaux...",
+        "Abstract": "Desmazes des id\u00e9es sur-mesures depuis 1985 \u00e0 THIVIERS, D\u00e9couvrez nos cr\u00e9ations de stores, menuiseries, pergolas, chapiteaux",
+        "Official Site": "https://www.desmazes.com/",
+        "Icon": "https://www.desmazes.com/wp-content/uploads/2017/03/desmazes.png",
+        "Redirect": "https://www.desmazes.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.desmazes.com/"
     },
     {
         "link": "https://forumarmstrade.org",

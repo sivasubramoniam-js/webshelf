@@ -20,16 +20,6 @@
         "AbstractURL": "https://architype.ma/"
     },
     {
-        "link": "https://pyrocms.com",
-        "Heading": "\n    PyroCMS\n    \u203a\n    The PHP CMS built for Laravel.\n",
-        "Abstract": "",
-        "Official Site": "https://pyrocms.com",
-        "Icon": "/app/pyrocms/assets/addons/pyrocms/pyrocms/pyrocms-theme/resources/img/banner.png?v=1698592135",
-        "Redirect": "https://pyrocms.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pyrocms.com"
-    },
-    {
         "link": "https://datagran.io",
         "Heading": "Datagran | Human-Led AI Cells",
         "Abstract": "Datagran helps companies rebuild work around human-led cells powered by AI agents, enterprise intelligence, Groovy, and Persona360.",
@@ -158,6 +148,16 @@
         "Redirect": "https://cryptorevoltpro.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cryptorevoltpro.com"
+    },
+    {
+        "link": "https://marketmemoea.com",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://marketmemoea.com",
+        "Icon": "N/A",
+        "Redirect": "https://marketmemoea.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://marketmemoea.com"
     },
     {
         "link": "https://gullahgeecheecorridor.org",

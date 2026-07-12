@@ -271,13 +271,13 @@
     },
     {
         "link": "https://keyword-hero.com",
-        "Heading": "Keyword Hero - Match organic keywords to sessions in Google Analytics 4",
-        "Abstract": "The Keyword Hero shows you the exact keywords your customers search for, in your Google Analytics account. He saves you from (not provided)!",
-        "Official Site": "https://keyword-hero.com/",
-        "Icon": "http://keyword-hero.com/wp-content/uploads/2017/04/Cart-Hero.png",
-        "Redirect": "https://keyword-hero.com/",
+        "Heading": "Keyword Hero - See the Keywords Behind Your Organic Traffic",
+        "Abstract": "Keyword Hero restores your (not provided) keywords in Google Analytics and connects every search to sessions, intent and conversions.",
+        "Official Site": "https://new.keyword-hero.com/",
+        "Icon": "https://new.keyword-hero.com/wp-content/uploads/2026/03/herofliegtwirklich.svg",
+        "Redirect": "https://new.keyword-hero.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://keyword-hero.com/"
+        "AbstractURL": "https://new.keyword-hero.com/"
     },
     {
         "link": "https://naughtytalk.com",
@@ -368,6 +368,16 @@
         "Redirect": "https://willingjobs.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://willingjobs.com"
+    },
+    {
+        "link": "https://claruscare.com",
+        "Heading": "AI-Powered Patient Communication Platform | Clarus",
+        "Abstract": "AI-powered patient communication platform for healthcare organizations. Clarus helps manage inbound and outbound calls to improve communication and efficiency.",
+        "Official Site": "https://claruscare.com/",
+        "Icon": "https://claruscare.com/wp-content/uploads/2026/03/Clarus-Favicon-Logo-120x120.webp",
+        "Redirect": "https://claruscare.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://claruscare.com/"
     },
     {
         "link": "https://vulkan-apparaty.xyz",

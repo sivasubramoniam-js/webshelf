@@ -24,7 +24,7 @@
         "Heading": "La Xarxa - Portada",
         "Abstract": "Som una plataforma multim\u00e8dia que proporciona continguts i serveis a m\u00e9s de 200 r\u00e0dios, televisions i mitjans en l\u00ednia locals d\u2019arreu de Catalunya. Treballem perqu\u00e8 aquests mitjans..",
         "Official Site": "https:\\www.laxarxa.cat/",
-        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1783741828909",
+        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1783828495087",
         "Redirect": "https:\\www.laxarxa.cat/",
         "AbstractSource": "BS4",
         "AbstractURL": "https:\\www.laxarxa.cat/"
@@ -271,13 +271,13 @@
     },
     {
         "link": "https://freecoursefunding.co.uk",
-        "Heading": "Home -",
-        "Abstract": "Discover opportunities for free course funding in London. Explore options for financial support to help you advance your education.",
-        "Official Site": "https://freecoursefunding.co.uk/",
-        "Icon": "http://freecoursefunding.co.uk/wp-content/uploads/2024/04/manager-free-img-1.png",
-        "Redirect": "https://freecoursefunding.co.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://freecoursefunding.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://freecoursefunding.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://freecoursefunding.co.uk/"
+        "AbstractURL": "https://freecoursefunding.co.uk"
     },
     {
         "link": "https://basenczluchow.pl",

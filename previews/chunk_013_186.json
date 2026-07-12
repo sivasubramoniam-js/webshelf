@@ -13,11 +13,11 @@
         "link": "https://xn--pizzanrd-b5a.dk",
         "Heading": "PizzaN\u00f8rd.dk - Alle kan lave god pizza! Her n\u00f8rder vi med pizza p\u00e5 alle m\u00e5der: i k\u00f8kkenet, i almindelig ovn, p\u00e5 bageplade, i br\u00e6ndefyret ovn, i pizzaovn, p\u00e5 grill og hvad vi ellers kan finde p\u00e5 :-)",
         "Abstract": "Alle kan lave god pizza! Her n\u00f8rder vi med pizza p\u00e5 alle m\u00e5der: i k\u00f8kkenet, i almindelig ovn, p\u00e5 bageplade, i br\u00e6ndefyret ovn, i pizzaovn, p\u00e5 grill og hvad vi ellers kan finde p\u00e5 :-)",
-        "Official Site": "https://pizzanoerd.dk/",
+        "Official Site": "http://pizzanoerd.dk/",
         "Icon": "http://pizzanoerd.dk/wp-content/uploads/2021/08/cropped-webstedsikon_pizzanoerd-32x32.png",
-        "Redirect": "https://pizzanoerd.dk/",
+        "Redirect": "http://pizzanoerd.dk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pizzanoerd.dk/"
+        "AbstractURL": "http://pizzanoerd.dk/"
     },
     {
         "link": "https://edise.es",
@@ -31,13 +31,13 @@
     },
     {
         "link": "https://g1box.eu",
-        "Heading": "g1box - Twitch",
-        "Abstract": "Hey, hier ist g1box \ud83d\udc7eVariety-Streamer mit nerdigen Vibes, Programmer-Brain und gelegentlichen NULLs.Erwartet Chill und Chaos sowie eine Mischung aus allem dazwischen und au\u00dferhalb.",
-        "Official Site": "https://www.twitch.tv/g1box",
-        "Icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/a3bd7132-89ee-45c5-ba57-fce42fa7f124-profile_image-300x300.png",
-        "Redirect": "https://www.twitch.tv/g1box",
+        "Heading": "Twitch",
+        "Abstract": "Twitch is the world's leading video platform and community for gamers.",
+        "Official Site": "https://g1box.eu",
+        "Icon": "https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg",
+        "Redirect": "https://g1box.eu",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.twitch.tv/g1box"
+        "AbstractURL": "https://g1box.eu"
     },
     {
         "link": "https://aloha-corp.com",
@@ -78,6 +78,16 @@
         "Redirect": "https://medien-internet-und-recht.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://medien-internet-und-recht.de"
+    },
+    {
+        "link": "https://beateuhsemovie.com",
+        "Heading": "Beate Uhse Movie",
+        "Abstract": null,
+        "Official Site": "https://beateuhsemovie.com",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://beateuhsemovie.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://beateuhsemovie.com"
     },
     {
         "link": "https://pittsburgusd.net",
@@ -163,11 +173,11 @@
         "link": "https://cave9x.net",
         "Heading": "Phim Sex Hay, Sex M\u1edbi, Clip Sex Vi\u1ec7t Nhanh Ch\u1ea5t L\u01b0\u1ee3ng Cao",
         "Abstract": "Phim sex hay c\u1ef1c d\u00e2m nhi\u1ec1u th\u1ec3 lo\u1ea1i xxx kh\u00e1c nhau, clip sex vn hay ch\u1ea5t l\u01b0\u1ee3ng cao t\u1eeb 720p \u0111\u1ebfn 1080p, phim sex m\u1edbi c\u1ef1c n\u00e9t v\u00e0 \u0111\u1eb7c bi\u1ec7t l\u00e0 sex viet nam mi\u1ec5n ph\u00ed.",
-        "Official Site": "https://goctoi.com/",
-        "Icon": "https://goctoi.com/wp-content/themes/video3x/images/default.png",
-        "Redirect": "https://goctoi.com/",
+        "Official Site": "https://sexmoi.mobi/",
+        "Icon": "https://sexmoi.mobi/wp-content/themes/video3x/images/default.png",
+        "Redirect": "https://sexmoi.mobi/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://goctoi.com/"
+        "AbstractURL": "https://sexmoi.mobi/"
     },
     {
         "link": "https://brocloud.fr",
@@ -240,16 +250,6 @@
         "AbstractURL": "https://www.ridgelinegaragedoor.com/"
     },
     {
-        "link": "https://visitthegambia.gm",
-        "Heading": "Holiday - Visit The Gambia",
-        "Abstract": "Welcome to the Gambia, the Smiling Coast of Africa",
-        "Official Site": "https://visitthegambia.com/",
-        "Icon": "https://visitthegambia.com/wp-content/uploads/2017/08/cropped-gambian_tourist_board_logo_300px1-32x32.png",
-        "Redirect": "https://visitthegambia.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://visitthegambia.com/"
-    },
-    {
         "link": "https://athomenet.com",
         "Heading": "Community Management Software | FRONTSTEPS",
         "Abstract": "Discover the best HOA software with FRONTSTEPS. Manage accounting, payments, communication, and community operations in one powerful platform.",
@@ -258,6 +258,16 @@
         "Redirect": "https://frontsteps.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://frontsteps.com/"
+    },
+    {
+        "link": "https://caribbeancovewaterpark.com",
+        "Heading": "Loading...",
+        "Abstract": null,
+        "Official Site": "https://caribbeancovewaterpark.com",
+        "Icon": "N/A",
+        "Redirect": "https://caribbeancovewaterpark.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://caribbeancovewaterpark.com"
     },
     {
         "link": "https://dynipropips.com",
