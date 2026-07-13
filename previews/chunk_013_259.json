@@ -200,16 +200,6 @@
         "AbstractURL": "http://www.webbie.org.uk"
     },
     {
-        "link": "https://languagebuddy.eu",
-        "Heading": "Language Buddy",
-        "Abstract": null,
-        "Official Site": "https://languagebuddy.eu",
-        "Icon": "https://www.languagebuddy.eu/wp-content/uploads/2024/06/Language_Buddy_favicon-150x150.png",
-        "Redirect": "https://languagebuddy.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://languagebuddy.eu"
-    },
-    {
         "link": "https://labutic.ro",
         "Heading": "Articole Cas\u0103, Gr\u0103din\u0103, Camping \u0219i Sport \u2013 LaButic.ro",
         "Abstract": "Magazin online cu articole cas\u0103, gr\u0103din\u0103, camping \u0219i sport. Corturi, mobilier gr\u0103din\u0103, anti-d\u0103un\u0103tori, articole menaj. Livrare gratuit\u0103 peste 600 RON.",
@@ -261,13 +251,13 @@
     },
     {
         "link": "https://otheus.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://otheus.com",
-        "Icon": "data:;",
-        "Redirect": "https://otheus.com",
+        "Heading": "Otheus Agency - Sydney\u2019s Leading Digital Marketing Agency",
+        "Abstract": "We are a full-service digital marketing agency that focuses on building brands, solving business problems and developing results-focused strategies.",
+        "Official Site": "https://otheus.com/",
+        "Icon": "https://otheus.com/wp-content/uploads/2021/07/cropped-FaviconV1-32x32.png",
+        "Redirect": "https://otheus.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://otheus.com"
+        "AbstractURL": "https://otheus.com/"
     },
     {
         "link": "https://floorlife.com",

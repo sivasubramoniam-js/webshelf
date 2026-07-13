@@ -50,16 +50,6 @@
         "AbstractURL": "https://lisbonpubliclaw.pt/"
     },
     {
-        "link": "https://thedrivefm.ca",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://thedrivefm.ca",
-        "Icon": "data:;",
-        "Redirect": "https://thedrivefm.ca",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thedrivefm.ca"
-    },
-    {
         "link": "https://cb-soft.de",
         "Heading": "it-service Germering \u2013 Christian B\u00f6hm",
         "Abstract": null,
@@ -121,13 +111,13 @@
     },
     {
         "link": "https://massdivision.com",
-        "Heading": "Digital Marketing Services | Web Design, SEO, & PPC",
-        "Abstract": "Mass Division is your full service marketing team specializing in Web Design, Development, SEO, and PPC. Separate from the masses!",
-        "Official Site": "https://massdivision.com/",
-        "Icon": "https://massdivision.com/wp-content/uploads/2019/09/favicon.png",
-        "Redirect": "https://massdivision.com/",
+        "Heading": "Digital Marketing Services | Web Design, SEO, & PPC | Mass Division",
+        "Abstract": "Full service marketing team specializing in Web Design, Development, SEO, and PPC.",
+        "Official Site": "https://massdivision.com",
+        "Icon": "https://massdivision.com/opengraph-image?ab2e6c8a5603d8ef",
+        "Redirect": "https://massdivision.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://massdivision.com/"
+        "AbstractURL": "https://massdivision.com"
     },
     {
         "link": "https://doorjames.app",
@@ -258,16 +248,6 @@
         "Redirect": "https://spacelabshealthcare.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://spacelabshealthcare.com/"
-    },
-    {
-        "link": "https://cocktailgames.com",
-        "Heading": "Jeux de cartes et de soci\u00e9t\u00e9 en famille et entre amis",
-        "Abstract": "La mission de Cocktail Games ? Editer des jeux de soci\u00e9t\u00e9 fun, simples et malins pour jouer en famille ou entre amis. Alors, pr\u00eats \u00e0 s'amuser ?",
-        "Official Site": "https://www.cocktailgames.com/",
-        "Icon": "https://www.cocktailgames.com/wp-content/uploads/2016/02/cocktailgames-logo.png",
-        "Redirect": "https://www.cocktailgames.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cocktailgames.com/"
     },
     {
         "link": "https://wholeplanetfoundation.org",

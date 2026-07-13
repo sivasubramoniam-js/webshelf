@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.santaluziaarthotel.com/santa-luzia-arthotel"
     },
     {
-        "link": "https://cnpa.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://cnpa.com",
-        "Icon": "data:;",
-        "Redirect": "https://cnpa.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cnpa.com"
-    },
-    {
         "link": "https://playersvoice.com.au",
         "Heading": "Best Online Casinos in Australia 2026 | Top Sites Reviewed",
         "Abstract": "Looking for the best online casinos in Australia for 2026? Discover top sites with online pokies, instant withdrawals, and rewarding bonuses.",
@@ -78,16 +68,6 @@
         "Redirect": "https://www.postflex.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.postflex.de/"
-    },
-    {
-        "link": "https://antennasoftware.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://antennasoftware.com",
-        "Icon": "data:;",
-        "Redirect": "https://antennasoftware.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://antennasoftware.com"
     },
     {
         "link": "https://rouletteforum.cc",
@@ -150,6 +130,16 @@
         "AbstractURL": "https://hasbeenz.com"
     },
     {
+        "link": "https://sandnes.kommune.no",
+        "Heading": "Sandnes kommune - Forside",
+        "Abstract": "",
+        "Official Site": "https://sandnes.kommune.no",
+        "Icon": "/external/ssp/assets/favicon.ico",
+        "Redirect": "https://sandnes.kommune.no",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sandnes.kommune.no"
+    },
+    {
         "link": "https://cloud9ms.com",
         "Heading": "Home - Cloud9 Marketing Solutions",
         "Abstract": "Business Website Create a stong online presence for your company with a modem,proffesional design that builds trust and drives growth. E-Commerce Store Sell products online with ease using a secure,user-friendly store that\u2019s optimized for performance and conversions. Personal Blog Share your thoughts,stories,or expertise with a beautifully designed blog that reflects your personality and passion Creative\u2026\u00a0",
@@ -181,10 +171,10 @@
     },
     {
         "link": "https://ship4wd.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Digital Freight Forwarding and Sourcing Solution for SMBs | Ship4wd",
+        "Abstract": "Simplify international shipping for SMBs with free quotes, reliable comparisons, and guaranteed ocean container allocation for FCL and LCL shipments.",
         "Official Site": "https://ship4wd.com",
-        "Icon": "data:;",
+        "Icon": "https://ship4wd.com/wp-content/themes/sfwd/assets/img/favicons/android-icon-192x192.png",
         "Redirect": "https://ship4wd.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ship4wd.com"

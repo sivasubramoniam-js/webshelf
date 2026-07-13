@@ -101,7 +101,7 @@
     },
     {
         "link": "https://vremennaya-reg.ru",
-        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043a\u043b.VPN !!! \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 07.07.2026 ",
+        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043a\u043b.VPN !!! \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 10.07.2026 ",
         "Abstract": " \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u043f\u043e \u0440\u0430\u0437\u0443\u043c\u043d\u044b\u043c \u0446\u0435\u043d\u0430\u043c.",
         "Official Site": "https://vremennaya-reg.ru",
         "Icon": "untitled-1.ico",
@@ -198,6 +198,16 @@
         "Redirect": "https://www.pefoc.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.pefoc.ro"
+    },
+    {
+        "link": "https://omega-day.com",
+        "Heading": "OMEGA-DAY 2.0",
+        "Abstract": null,
+        "Official Site": "https://omega-day.com",
+        "Icon": "N/A",
+        "Redirect": "https://omega-day.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://omega-day.com"
     },
     {
         "link": "https://dangillmor.com",
@@ -318,6 +328,16 @@
         "Redirect": "https://signalroad.co/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://signalroad.co/"
+    },
+    {
+        "link": "https://fipeco.fr",
+        "Heading": "FIPECO - Finances Publiques et \u00c9conomie",
+        "Abstract": "Site d'informations sur les finances publiques par Fran\u00e7ois Ecalle.",
+        "Official Site": "https://www.fipeco.fr/",
+        "Icon": "https://www.fipeco.fr/images/FIPECO.png",
+        "Redirect": "https://www.fipeco.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fipeco.fr/"
     },
     {
         "link": "https://ondis24.com",

@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://ufcw1059.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ufcw1059.com",
+        "Icon": "N/A",
+        "Redirect": "https://ufcw1059.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ufcw1059.com"
+    },
+    {
         "link": "https://raimersoft.com",
         "Heading": null,
         "Abstract": null,
@@ -38,6 +48,16 @@
         "Redirect": "https://changview.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://changview.com"
+    },
+    {
+        "link": "https://quelliv.com",
+        "Heading": "Laser Wellness Center St. Petersburg- Medical Spa -Quelliv Medical Spa",
+        "Abstract": "Quelliv provides an effective, non-invasive therapeutic alternative to ease pain, reduce inflammation, enhance skin health, and support your well-being",
+        "Official Site": "https://quelliv.com/",
+        "Icon": "https://quelliv.com/wp-content/uploads/2024/01/favicon.png",
+        "Redirect": "https://quelliv.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://quelliv.com/"
     },
     {
         "link": "https://jasawebbandung.com",
@@ -144,20 +164,10 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://chipskills.us",
-        "Icon": "data:;",
+        "Icon": "N/A",
         "Redirect": "https://chipskills.us",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chipskills.us"
-    },
-    {
-        "link": "https://koreacdn.com",
-        "Heading": "google",
-        "Abstract": null,
-        "Official Site": "https://koreacdn.com",
-        "Icon": "N/A",
-        "Redirect": "https://koreacdn.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://koreacdn.com"
     },
     {
         "link": "https://gtkpod.org",
@@ -308,25 +318,5 @@
         "Redirect": "https://helmna.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://helmna.com"
-    },
-    {
-        "link": "https://catholicwoodworker.com",
-        "Heading": "\n      The Catholic Woodworker - Spiritual Weapons Built for Battle\n    ",
-        "Abstract": "The Catholic Woodworker exists to equip families for battle in the modern world. We do this by creating beautiful spiritual weapons that inspire a continuous conversion in the hearts of men.",
-        "Official Site": "https://catholicwoodworker.com/",
-        "Icon": "http://catholicwoodworker.com/cdn/shop/files/full-logo-blue-background_543ae7be-656e-4c17-8063-1936d8b72355.jpg?v=1591215137&width=2048",
-        "Redirect": "https://catholicwoodworker.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://catholicwoodworker.com/"
-    },
-    {
-        "link": "https://caputoflour.com",
-        "Heading": "Caputo Flour \u2013 Premium Italian Flour for Pizza, Bread & More",
-        "Abstract": "From Neapolitan pizza to artisan bread, Caputo delivers world-class flour made in Italy. Discover our story, products, and the art of baking with Caputo.",
-        "Official Site": "https://caputoflour.com/",
-        "Icon": "http:",
-        "Redirect": "https://caputoflour.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://caputoflour.com/"
     }
 ]

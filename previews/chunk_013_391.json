@@ -111,13 +111,13 @@
     },
     {
         "link": "https://fet-ev.eu",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://fet-ev.eu",
-        "Icon": "data:;",
-        "Redirect": "https://fet-ev.eu",
+        "Heading": "Start | FETeV",
+        "Abstract": "Finden Sie wissenschaftliche Updates, Recherche-Tools und hilfreiche Leitf\u00e4den f\u00fcr Ihre t\u00e4gliche Arbeit in der Ern\u00e4hrungstherapie.",
+        "Official Site": "https://fet-ev.eu/",
+        "Icon": "https://fet-ev.eu/wp-content/uploads/2023/11/cropped-cropped-logo-web-klein.png",
+        "Redirect": "https://fet-ev.eu/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fet-ev.eu"
+        "AbstractURL": "https://fet-ev.eu/"
     },
     {
         "link": "https://mercerstreetsalon.com",
@@ -161,13 +161,23 @@
     },
     {
         "link": "https://freestudentloanadvice.org",
-        "Heading": null,
+        "Heading": "TISLA \u2013 Fair, Free, Student Loan Advice",
         "Abstract": null,
         "Official Site": "https://freestudentloanadvice.org",
-        "Icon": "data:;",
+        "Icon": "N/A",
         "Redirect": "https://freestudentloanadvice.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://freestudentloanadvice.org"
+    },
+    {
+        "link": "https://seamlessflooring.com",
+        "Heading": "Seamless Flooring",
+        "Abstract": null,
+        "Official Site": "https://seamlessflooring.com",
+        "Icon": "https://seamlessflooring.com/wp-content/uploads/2023/08/cropped-Seamless_Flooring_Favicon-32x32.png",
+        "Redirect": "https://seamlessflooring.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seamlessflooring.com"
     },
     {
         "link": "https://marketplaceportal.com",
@@ -181,7 +191,7 @@
     },
     {
         "link": "https://1024kk.com",
-        "Heading": "\u8427\u4f2f\u7eb3 - \u540d\u4eba\u540d\u8a00",
+        "Heading": "\u74e6\u96f7\u91cc - \u540d\u4eba\u540d\u8a00",
         "Abstract": null,
         "Official Site": "https://1024kk.com",
         "Icon": "N/A",
@@ -288,6 +298,16 @@
         "Redirect": "https://cedcssc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cedcssc.com"
+    },
+    {
+        "link": "https://deskplay.ee",
+        "Heading": "Deskplay.ee < m\u00fc\u00fcgihitid",
+        "Abstract": null,
+        "Official Site": "https://deskplay.ee",
+        "Icon": "N/A",
+        "Redirect": "https://deskplay.ee",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deskplay.ee"
     },
     {
         "link": "https://exhibitionstage.com",

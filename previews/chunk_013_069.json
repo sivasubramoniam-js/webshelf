@@ -80,6 +80,16 @@
         "AbstractURL": "https://sectolin.com"
     },
     {
+        "link": "https://sensrtrx.com",
+        "Heading": "Mingo Smart Factory | Production Monitoring",
+        "Abstract": "Mingo Smart Factory, out of the box smart factory platform that gives manufacturers real time visibility into their operations and OEE.",
+        "Official Site": "https://www.mingosmartfactory.com/",
+        "Icon": "https://www.mingosmartfactory.com/wp-content/uploads/2024/02/Website-Header-1.png",
+        "Redirect": "https://www.mingosmartfactory.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mingosmartfactory.com/"
+    },
+    {
         "link": "https://sfomall.co.kr",
         "Heading": "SFO MALL",
         "Abstract": "\uc138\uc815 \ud329\ud1a0\ub9ac \uc544\uc6b8\ub81b",
@@ -114,7 +124,7 @@
         "Heading": "Steenhauer Sleutels | Silca Selected Partner. Steenhauer Silca Sleutels",
         "Abstract": "Specialistische groothandel in Silca sleutels en Sleutelmachines",
         "Official Site": "https://steenhauer.nl",
-        "Icon": "//steenhauer.nl/media/110/content/favicon.ico?v=6.0",
+        "Icon": "//www.steenhauer.nl/media/110/content/favicon.ico?v=6.0",
         "Redirect": "https://steenhauer.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://steenhauer.nl"
@@ -228,6 +238,16 @@
         "Redirect": "https://vertuhonda.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vertuhonda.com"
+    },
+    {
+        "link": "https://viniferaenoteca.it",
+        "Heading": "Homepage - Vinifera Enoteca",
+        "Abstract": "cerca tra i nostri vini",
+        "Official Site": "https://viniferaenoteca.it/",
+        "Icon": "https://viniferaenoteca.it/wp-content/uploads/2025/01/favicon.png",
+        "Redirect": "https://viniferaenoteca.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://viniferaenoteca.it/"
     },
     {
         "link": "https://wakenbakeyeg.ca",

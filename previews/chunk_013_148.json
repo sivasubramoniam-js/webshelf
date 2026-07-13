@@ -21,7 +21,7 @@
     },
     {
         "link": "https://yourmoscow.ru",
-        "Heading": "KillBot user verification [135.232.200.18] [Mozilla/5.0 (Macintosh; Intel Mac OS X 14.2; rv:122.0) Gecko/20100101 Firefox/122.0]...",
+        "Heading": "KillBot user verification [172.184.191.164] [Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36]...",
         "Abstract": null,
         "Official Site": "https://yourmoscow.ru",
         "Icon": "N/A",
@@ -61,13 +61,13 @@
     },
     {
         "link": "https://vv411.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://vv411.com",
-        "Icon": "data:;",
-        "Redirect": "https://vv411.com",
+        "Heading": "VV411 - Victor Valley 411",
+        "Abstract": "Come and join the Victor Valley 411 community. Expand your network and get to know new local people!",
+        "Official Site": "https://vv411.com/",
+        "Icon": "https://vv411.com/wp-content/uploads/2023/01/Dark-Blue-Red-White-Generic-News-General-News-Logo-600-\u00d7-900-px-Facebook-Cover.png",
+        "Redirect": "https://vv411.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vv411.com"
+        "AbstractURL": "https://vv411.com/"
     },
     {
         "link": "https://evan-roth.com",
@@ -250,6 +250,16 @@
         "AbstractURL": "https://windmesse.de"
     },
     {
+        "link": "https://jammydodgers.co.uk",
+        "Heading": "Jammie Dodgers - Britain's Favourite Jam Filled Biscuits - FBC UK",
+        "Abstract": "Discover the playful world of Jammie Dodgers, the UK's most-loved jam-filled biscuits. From classic strawberry to special editions, find your perfect jammy treat made by FBC since 1960",
+        "Official Site": "https://jammydodgers.co.uk",
+        "Icon": "/themes/fbc/favicon/favicon.svg",
+        "Redirect": "https://jammydodgers.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jammydodgers.co.uk"
+    },
+    {
         "link": "https://tudigo.co",
         "Heading": "Tudigo | Investir dans des entreprises et startups fran\u00e7aises, simplement",
         "Abstract": "Des entreprises fran\u00e7aises soigneusement s\u00e9lectionn\u00e9es, accessibles d\u00e8s 500\u20ac. Rejoignez la plateforme d'investissement non cot\u00e9 agr\u00e9\u00e9e AMF.",
@@ -261,13 +271,13 @@
     },
     {
         "link": "https://achology.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://achology.com",
-        "Icon": "data:;",
-        "Redirect": "https://achology.com",
+        "Heading": "Achology: Pioneering a New Way in Psychology-Based Education",
+        "Abstract": "Achology offers 28 insightful, psychology-based e-learning courses designed to deepen self-awareness and foster a greater understanding of other people.",
+        "Official Site": "https://achology.com/",
+        "Icon": "https://cdn.achology.com/wp-content/uploads/20250520144600/Achology-Home-Page-Featured-Image.jpg",
+        "Redirect": "https://achology.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://achology.com"
+        "AbstractURL": "https://achology.com/"
     },
     {
         "link": "https://priligy.me",

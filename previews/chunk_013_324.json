@@ -41,7 +41,7 @@
     },
     {
         "link": "https://uslugi-spravka.ru",
-        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043a\u043b.VPN !!! \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 08.07.2026 ",
+        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043a\u043b.VPN !!! \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 10.07.2026 ",
         "Abstract": " \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u0430\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0441 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0435\u0439.",
         "Official Site": "https://uslugi-spravka.ru",
         "Icon": "untitled-1.ico",
@@ -121,10 +121,10 @@
     },
     {
         "link": "https://alpertron.com.ar",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Sitio de matem\u00e1ticas y assembler de Dario Alpern",
+        "Abstract": "Incluye un programa 3 en 1 escrito en assembler 80x86 que calcula pi, e, ln 2, una calculadora de numeros complejos (Javascript) y mas...",
         "Official Site": "https://alpertron.com.ar",
-        "Icon": "data:;",
+        "Icon": "favicon.ico",
         "Redirect": "https://alpertron.com.ar",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alpertron.com.ar"
@@ -218,16 +218,6 @@
         "Redirect": "https://ayuntamientofuentes.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ayuntamientofuentes.com"
-    },
-    {
-        "link": "https://honeypie.eu",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://honeypie.eu",
-        "Icon": "data:;",
-        "Redirect": "https://honeypie.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://honeypie.eu"
     },
     {
         "link": "https://iklanindo4d2.online",

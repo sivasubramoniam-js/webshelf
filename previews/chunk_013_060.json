@@ -70,6 +70,16 @@
         "AbstractURL": "https://rolnikeko.pl"
     },
     {
+        "link": "https://roohit.com",
+        "Heading": ":: Roohit Home ::",
+        "Abstract": "Collect & Share highlights - you make - on any web page. Discover interesting highlights made by people you trust.",
+        "Official Site": "http://roohit.com/",
+        "Icon": "http://roohit.com/images/home_page.png",
+        "Redirect": "http://roohit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://roohit.com/"
+    },
+    {
         "link": "https://rubird.ru",
         "Heading": null,
         "Abstract": null,
@@ -78,6 +88,16 @@
         "Redirect": "https://rubird.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rubird.ru"
+    },
+    {
+        "link": "https://rugandkilim.com",
+        "Heading": "Rug & Kilim - Antique, Vintage, Modern & Custom Rugs - NYC",
+        "Abstract": "Rug & Kilim by Josh Nazmiyal is a full-service handmade rug company with Contemporary, Scandinavian, Art Deco, European, Moroccan & Kilim rugs & carpets.",
+        "Official Site": "https://rugandkilim.com/",
+        "Icon": "https://cdn-ijahn.nitrocdn.com/dBdbOyPwNRrMLYmQqLmHzvGFsCpcHbfq/assets/images/optimized/rev-6aae6f2/rugandkilim.com/wp-content/uploads/2025/03/cropped-RK-Favicon-Icon-2000x2000-1-32x32.png",
+        "Redirect": "https://rugandkilim.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rugandkilim.com/"
     },
     {
         "link": "https://ruhakeresod.hu",
@@ -114,7 +134,7 @@
         "Heading": "Victoria Ferruccio",
         "Abstract": null,
         "Official Site": "https://www.saattravel.com",
-        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=8948",
+        "Icon": "http://www.saattravel.com/images/site-background-default.jpg?rand=41",
         "Redirect": "https://www.saattravel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.saattravel.com"
@@ -280,6 +300,16 @@
         "AbstractURL": "https://serviciodenoticias.net/"
     },
     {
+        "link": "https://sheenupholstery.com",
+        "Heading": "Upholstery Fabric Shops \u2013 Fabric Suppliers and Upholsterers in London\n\u2013 Sheen Upholstery\n",
+        "Abstract": "Sheen Upholstery is one of the best upholstery fabric stores in London. We provide fabric for upholstery, curtains, cushions, outdoor sofas, chairs and furniture.",
+        "Official Site": "https://www.sheenupholstery.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.sheenupholstery.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sheenupholstery.com/"
+    },
+    {
         "link": "https://shepherdelec.com",
         "Heading": "Shepherd Electric Supply",
         "Abstract": "Electrical Supply Distributor based in Maryland and Virginia",
@@ -291,10 +321,10 @@
     },
     {
         "link": "https://shopofmagic.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Home",
+        "Abstract": "The Little Shop of Magic is a full-service specialty store that has been serving the needs of gamers like yourself since 1994.",
         "Official Site": "https://shopofmagic.com",
-        "Icon": "data:;",
+        "Icon": "/templates/shaper_helix_ii/favicon.ico",
         "Redirect": "https://shopofmagic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shopofmagic.com"

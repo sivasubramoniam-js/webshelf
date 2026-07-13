@@ -81,13 +81,13 @@
     },
     {
         "link": "https://corkscore.com",
-        "Heading": null,
+        "Heading": "Home",
         "Abstract": null,
-        "Official Site": "https://corkscore.com",
-        "Icon": "data:;",
-        "Redirect": "https://corkscore.com",
+        "Official Site": "https://corkscore.com/",
+        "Icon": "N/A",
+        "Redirect": "https://corkscore.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://corkscore.com"
+        "AbstractURL": "https://corkscore.com/"
     },
     {
         "link": "https://cornerstonerealtygroupca.com",
@@ -111,10 +111,10 @@
     },
     {
         "link": "https://corvette-restoration.com",
-        "Heading": null,
+        "Heading": "The Corvette Restoration Page \u2013 A site devoted to documenting the completion of a frame-off restoration on a classic 1971 Corvette Stingray.",
         "Abstract": null,
         "Official Site": "https://corvette-restoration.com",
-        "Icon": "data:;",
+        "Icon": "N/A",
         "Redirect": "https://corvette-restoration.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://corvette-restoration.com"
@@ -148,6 +148,16 @@
         "Redirect": "https://culturedworks.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://culturedworks.com"
+    },
+    {
+        "link": "https://customizeaf.com",
+        "Heading": "\n      CustomizeAF | Personalized Gift Store For Pet Lovers, Campers, etc.\n    ",
+        "Abstract": "Create personalized gifts with your own design! Transform days with our high-quality, custom items. Enjoy fast, secure delivery, free returns, and 24/7 customer service. Our range includes Apparel,...",
+        "Official Site": "https://customizeaf.com/",
+        "Icon": "https://customizeaf.com/cdn/shop/files/3d_logo.png?v=1772310039&width=1200",
+        "Redirect": "https://customizeaf.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://customizeaf.com/"
     },
     {
         "link": "https://cuvora.com",
@@ -238,6 +248,16 @@
         "Redirect": "https://dennis-blauhut.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dennis-blauhut.de"
+    },
+    {
+        "link": "https://densonsales.com",
+        "Heading": "Denson Sales - Welcome",
+        "Abstract": "Denson Sales",
+        "Official Site": "https://densonsales.com",
+        "Icon": "http://www.densonsales.com/skin/frontend/densonsales/default/favicon.ico",
+        "Redirect": "https://densonsales.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://densonsales.com"
     },
     {
         "link": "https://depilator.net",

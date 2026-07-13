@@ -62,7 +62,7 @@
     {
         "link": "https://podiatrym.com",
         "Heading": "Podiatry Management Online",
-        "Abstract": "Podiatry Management is the national practice management and business magazine, reaching over 24,442 podiatrists.",
+        "Abstract": "Podiatry Management is the national practice management and business magazine, reaching over 24,440 podiatrists.",
         "Official Site": "https://podiatrym.com",
         "Icon": "N/A",
         "Redirect": "https://podiatrym.com",
@@ -98,6 +98,16 @@
         "Redirect": "https://www.saffronroad.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.saffronroad.com/"
+    },
+    {
+        "link": "https://panmuhendislik.com",
+        "Heading": "Pan M\u00fchendislik",
+        "Abstract": null,
+        "Official Site": "https://panmuhendislik.com",
+        "Icon": "https://renovation.thememove.com/data/images/favicon.ico",
+        "Redirect": "https://panmuhendislik.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://panmuhendislik.com"
     },
     {
         "link": "https://trgcc.net",

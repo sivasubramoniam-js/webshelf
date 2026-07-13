@@ -64,7 +64,7 @@
         "Heading": "\n      Gibbs Direct Barbados - Affordable Products Direct To You\n    ",
         "Abstract": "Gibbs Direct is Barbados' leading online retailer of the best US, British, European and Far Eastern brands.",
         "Official Site": "https://gibbsdirect.com/",
-        "Icon": "http://gibbsdirect.com/cdn/shop/files/gibbs_directs_SMALL_logo_website_1200x1200.png?v=1655317778",
+        "Icon": "http://cdn.shopify.com/s/files/1/0651/8226/9662/files/gibbs_directs_SMALL_logo_website_1200x1200.png?v=1655317778",
         "Redirect": "https://gibbsdirect.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gibbsdirect.com/"
@@ -84,7 +84,7 @@
         "Heading": "Glarefusion - Innovative Lighting Designs for Every Space. \u2013 Glare Fusion",
         "Abstract": "Discover elegant chandeliers, versatile wall lights, and innovative lighting designs to transform your spaces. With a blend of style and functionality, we bring brilliance to every corner of your home or business.",
         "Official Site": "https://glarefusion.com/",
-        "Icon": "http://glarefusion.com/cdn/shop/files/ChatGPT_Image_2026_6_15_16_53_49_1.webp?v=1782991632",
+        "Icon": "http://cdn.shopify.com/s/files/1/0897/6701/8867/files/ChatGPT_Image_2026_6_15_16_53_49_1.webp?v=1782991632",
         "Redirect": "https://glarefusion.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://glarefusion.com/"
@@ -104,7 +104,7 @@
         "Heading": "Glossop Awnings - Caravan Awnings, Motorhome Awnings and Accessories",
         "Abstract": "Glossop Awnings supplies caravan, motorhome and campervan awnings, backed by one of the UK\u2019s largest indoor awning displays. Discover leading brands, expert guidance, and a comprehensive range of awnings and accessories designed to help you find the ideal fit for your adventures.",
         "Official Site": "https://www.glossopawnings.com/",
-        "Icon": "//www.glossopawnings.com/cdn/shop/files/favicon.png?crop=center&height=32&v=1773157667&width=32",
+        "Icon": "//cdn.shopify.com/s/files/1/0989/9252/1547/files/favicon.png?crop=center&height=32&v=1773157667&width=32",
         "Redirect": "https://www.glossopawnings.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.glossopawnings.com/"
@@ -200,6 +200,16 @@
         "AbstractURL": "https://granaventura.com/"
     },
     {
+        "link": "https://granmenaje.com",
+        "Heading": "\u25b7 Menaje de cocina y utensilios para cocinar \u00ae",
+        "Abstract": "llll\u27a4 Utensilios de cocina pr\u00e1cticos y elegantes para cocinar de forma saludable. \u2713 Compra y ahorra hasta un 25% \u271a ENV\u00cdO R\u00c1PIDO",
+        "Official Site": "https://www.granmenaje.com/",
+        "Icon": "https://www.granmenaje.com/img/logo-1723924941.jpg",
+        "Redirect": "https://www.granmenaje.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.granmenaje.com/"
+    },
+    {
         "link": "https://grassmen.com",
         "Heading": "Global Agriculture Brand | GRASSMEN ",
         "Abstract": "Global agriculture brand GRASSMEN offering a range of clothing, films and TV downloads as well as a range of merchandise.",
@@ -221,13 +231,13 @@
     },
     {
         "link": "https://greenmedseu.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://greenmedseu.com",
-        "Icon": "data:;",
-        "Redirect": "https://greenmedseu.com",
+        "Heading": "Buy Marijuana Online Europe | THC & CBD Edibles | Vape Carts",
+        "Abstract": "Buy Marijuana Online Europe@ Green Meds Weed Dispensary EU | Buy Cannabis Online France & UK | Order THC Vape Cartridges & Pens Italy! Marijuana Pre-rolled joints & Cones for sale Online EU, Buy Weed Online EU - THC & CBD Weed strains, Buy Weed Edibles Online Europe. Buy Marijuana Concentrates UK & Germany, Shatter, budder, distillates, phoenix tears, Wax, Live Resin & 100% Hash oil. Best Medical Marijuana strains For Sleep & Pain Relief. Shop THC & CBD Cannabis Oil Sweden & Netherlands",
+        "Official Site": "https://greenmedseu.com/",
+        "Icon": "https://greenmedseu.com/wp-content/uploads/2022/05/cropped-Untitled-13-32x32.png",
+        "Redirect": "https://greenmedseu.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://greenmedseu.com"
+        "AbstractURL": "https://greenmedseu.com/"
     },
     {
         "link": "https://greentools-russia.ru",

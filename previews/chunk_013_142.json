@@ -130,16 +130,6 @@
         "AbstractURL": "https://plantmuseum.com"
     },
     {
-        "link": "https://orlitzky.com",
-        "Heading": "\n      Michael Orlitzky\n    ",
-        "Abstract": null,
-        "Official Site": "https://orlitzky.com",
-        "Icon": "./images/lock.png",
-        "Redirect": "https://orlitzky.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://orlitzky.com"
-    },
-    {
         "link": "https://zamek-kromeriz.cz",
         "Heading": "Arcibiskupsk\u00fd z\u00e1mek v Krom\u011b\u0159\u00ed\u017ei",
         "Abstract": null,
@@ -153,11 +143,11 @@
         "link": "https://prava-spb-n5e5.ru",
         "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u043f\u0440\u0430\u0432\u0430 \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435 \u2014 \u043e\u0431\u043c\u0435\u043d\u044f\u0442\u044c \u043f\u0440\u0430\u0432\u0430, \u0412\u0423 \u0447\u0435\u0440\u0435\u0437 \u0444\u0438\u0440\u043c\u0443, \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 A B C D E, \u0413\u0418\u041c\u0421, \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0430",
         "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u043f\u0440\u0430\u0432\u0430 \u043b\u044e\u0431\u043e\u0439 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438, \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u043d\u0435 \u0434\u043e\u0440\u043e\u0433\u043e \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435. \u041f\u0440\u0430\u0432\u0430 \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c, \u0442\u0440\u0430\u043a\u0442\u043e\u0440, \u0413\u0418\u041c\u0421 \u0438 \u0434\u0440\u0443\u0433\u0443\u044e \u0442\u0435\u0445\u043d\u0438\u043a\u0443.",
-        "Official Site": "https://prava-spb-ku.ru/",
-        "Icon": "https://prava-spb-ku.ru/theme/img/top.webp",
-        "Redirect": "https://prava-spb-ku.ru/",
+        "Official Site": "https://prava-spb-df.ru/",
+        "Icon": "https://prava-spb-df.ru/theme/img/top.webp",
+        "Redirect": "https://prava-spb-df.ru/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://prava-spb-ku.ru/"
+        "AbstractURL": "https://prava-spb-df.ru/"
     },
     {
         "link": "https://merehosting.co.uk",
@@ -178,6 +168,16 @@
         "Redirect": "https://hopnxt.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hopnxt.com/"
+    },
+    {
+        "link": "https://hyip.biz",
+        "Heading": "HYIP monitor - Check the best HYIPs on all HYIP monitors",
+        "Abstract": "As the largest HYIP monitoring hub and database, HYIP.BIZ collects all HYIPs at the most popular monitors so you can view analysis, project scores, and investment reports in one place.",
+        "Official Site": "https://hyip.biz",
+        "Icon": "/favicon/hyip.biz.png",
+        "Redirect": "https://hyip.biz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hyip.biz"
     },
     {
         "link": "https://eilkorea.or.kr",
@@ -230,6 +230,16 @@
         "AbstractURL": "https://meridenk12.org"
     },
     {
+        "link": "https://elitenicheresearch.com",
+        "Heading": "Loading...",
+        "Abstract": null,
+        "Official Site": "https://elitenicheresearch.com",
+        "Icon": "N/A",
+        "Redirect": "https://elitenicheresearch.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elitenicheresearch.com"
+    },
+    {
         "link": "https://bikini-bielizna.pl",
         "Heading": "NV Casino: Oficjalne Kasyno Online \ud83c\udfb0 Bonus do 9000 PLN",
         "Abstract": "Graj w najlepsze automaty w NV Casino! \ud83c\udfb0 Du\u017cy wyb\u00f3r gier, szybkie wyp\u0142aty i fantastyczne bonusy czekaj\u0105 na Ciebie. \ud83e\udd11",
@@ -241,13 +251,13 @@
     },
     {
         "link": "https://corrosion-group.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://corrosion-group.com",
-        "Icon": "data:;",
-        "Redirect": "https://corrosion-group.com",
+        "Heading": "Corrosion Group - Cathodic Protection 2025",
+        "Abstract": "Globally recognized experts in cathodic protection - offering comprehensive solutions that prevent corrosion across diverse industries.",
+        "Official Site": "https://corrosion-group.com/",
+        "Icon": "https://corrosion-group.com/wp-content/uploads/2024/12/cropped-Corrosion-Group-Logo-Registered-logo-843x300-3-1-300x107-1-32x32.png",
+        "Redirect": "https://corrosion-group.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://corrosion-group.com"
+        "AbstractURL": "https://corrosion-group.com/"
     },
     {
         "link": "https://supacare-drycleaning.co.uk",

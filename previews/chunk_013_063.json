@@ -70,16 +70,6 @@
         "AbstractURL": "https://txszjzx.com"
     },
     {
-        "link": "https://ulsannews.net",
-        "Heading": "\uc6b8\uc0b0\ub274\uc2a4\ub137",
-        "Abstract": "\uc815\uce58, \uacbd\uc81c, \uc0ac\ud68c, \ubb38\ud654, \uc624\ud53c\ub2c8\uc5b8, \ub178\ub3d9/\ud658\uacbd, \uad50\uc721, IT/\uacfc\ud559, \uc2a4\ud3ec\uce20, \uc0ac\ub78c\ub4e4, \ud3ec\ud1a0&\uc601\uc0c1",
-        "Official Site": "https://www.ulsannews.net",
-        "Icon": "https://f.xza.co.kr/https://www.ulsannews.net/data/ulsannews_net/upload/sns_thumbnail.jpg?wd=1729229203",
-        "Redirect": "https://www.ulsannews.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ulsannews.net"
-    },
-    {
         "link": "https://unpublished.ca",
         "Heading": "Welcome to Unpublished",
         "Abstract": "Unpublished is an innovative web tool and forum where you can publish and share letters with your friends, colleagues, and community.",
@@ -258,6 +248,16 @@
         "Redirect": "https://vobamobile.co",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vobamobile.co"
+    },
+    {
+        "link": "https://vogany.com",
+        "Heading": "\n      VOGANY\n",
+        "Abstract": "VOGANY",
+        "Official Site": "https://vogany.com/",
+        "Icon": "http://vogany.com/cdn/shop/files/vogany_1200_x_628_px.png?v=1739346409",
+        "Redirect": "https://vogany.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vogany.com/"
     },
     {
         "link": "https://volkswagenclub.net",

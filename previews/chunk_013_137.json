@@ -110,16 +110,6 @@
         "AbstractURL": "https://videoaktiv.tv"
     },
     {
-        "link": "https://apteka79.ru",
-        "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 \u041f\u0440\u0435\u043f\u0430\u0440\u0430\u0442\u044b \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u044f \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0438. \u041e\u043d\u043b\u0430\u0439\u043d \u0430\u043f\u0442\u0435\u043a\u0430 79.",
-        "Abstract": null,
-        "Official Site": "https://apteka79.ru/",
-        "Icon": "/templates/18/images/favicon.ico",
-        "Redirect": "https://apteka79.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://apteka79.ru/"
-    },
-    {
         "link": "https://makkao.es",
         "Heading": "Dise\u00f1o Web Barcelona, Agencia de Marketing Digital Barcelona",
         "Abstract": "Dise\u00f1o Web Barcelona y Marketing Digital Barcelona. Especialistas en SEO y Dise\u00f1o web automatizaciones y conversi\u00f3n. Marketing para empresa.",
@@ -188,16 +178,6 @@
         "Redirect": "https://legalaidchicago.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://legalaidchicago.org/"
-    },
-    {
-        "link": "https://jinbe.asia",
-        "Heading": "Low Cost, High Performance S3 Compatible Object Storage",
-        "Abstract": "Backblaze B2 provides unlimited data storage in the cloud at 1/5th the cost of Amazon S3, Microsoft Azure, and Google Cloud.",
-        "Official Site": "https://jinbe.asia",
-        "Icon": "https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64b1b1605e73b516e5712f82_Backblaze_Social-Card.webp",
-        "Redirect": "https://jinbe.asia",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jinbe.asia"
     },
     {
         "link": "https://resal.me",
@@ -278,15 +258,5 @@
         "Redirect": "https://netzeroinvestor.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://netzeroinvestor.net"
-    },
-    {
-        "link": "https://andreasrecipes.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://andreasrecipes.com",
-        "Icon": "data:;",
-        "Redirect": "https://andreasrecipes.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://andreasrecipes.com"
     }
 ]

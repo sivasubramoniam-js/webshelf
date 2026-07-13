@@ -50,6 +50,26 @@
         "AbstractURL": "https://yccc.edu"
     },
     {
+        "link": "https://panoramadelart.com",
+        "Heading": "Panorama de l'art | L\u2019histoire de l\u2019art en un seul regard",
+        "Abstract": "Un site exhaustif et p\u00e9dagogique sur l'histoire de l'art, de la pr\u00e9histoire jusqu'\u00e0 l'art moderne : analyse d'\u0153uvres des mus\u00e9es, reproduction en grand format, glossaire ; adapt\u00e9 aux enseignant et \u00e9l\u00e8ves.",
+        "Official Site": "https://panoramadelart.com/",
+        "Icon": "/sites/default/files/favicon.jpg",
+        "Redirect": "https://panoramadelart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://panoramadelart.com/"
+    },
+    {
+        "link": "https://vandergrifftoyota.com",
+        "Heading": "Arlington Toyota Dealer | Vandergriff Toyota | near Mansfield & Fort Worth TX",
+        "Abstract": "Buy a Toyota from home! Vandergriff Toyota has a wide selection of new & used Toyota cars, trucks, and SUVs, including an excellent auto repair shop!",
+        "Official Site": "https://www.vandergrifftoyota.com/",
+        "Icon": "/static/v9/variations/oem-toyota/0004/v1/images/toyota-logo.svg",
+        "Redirect": "https://www.vandergrifftoyota.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.vandergrifftoyota.com/"
+    },
+    {
         "link": "https://divasplay.com",
         "Heading": "DivasPlay",
         "Abstract": "Divasplay es la red social de mayor crecimiento en latinoam\u00e9rica en 2022.\n    Puedes conectar con tus fans y monetizar tus contenidos de manera simple y efectiva.",
@@ -58,6 +78,16 @@
         "Redirect": "https://divasplay.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://divasplay.com"
+    },
+    {
+        "link": "https://ruffedgrousesociety.org",
+        "Heading": "RGS \u2013 Healthy Forests, Abundant Wildlife, Conservation Ethic",
+        "Abstract": "Healthy Forests, Abundant Wildlife, Conservation Ethic",
+        "Official Site": "https://ruffedgrousesociety.org",
+        "Icon": "https://ruffedgrousesociety.org/wp-content/uploads/2019/06/cropped-RGS.AWS-Dual-Transparent-32x32.png",
+        "Redirect": "https://ruffedgrousesociety.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ruffedgrousesociety.org"
     },
     {
         "link": "https://mauiunitedway.org",
@@ -111,13 +141,13 @@
     },
     {
         "link": "https://cityartsmagazine.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://cityartsmagazine.com",
-        "Icon": "data:;",
-        "Redirect": "https://cityartsmagazine.com",
+        "Heading": "City Arts Magazine - Creative minds, compelling stories",
+        "Abstract": "Creative minds, compelling stories",
+        "Official Site": "https://www.cityartsmagazine.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.cityartsmagazine.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cityartsmagazine.com"
+        "AbstractURL": "https://www.cityartsmagazine.com/"
     },
     {
         "link": "https://amazonere.com",
@@ -194,20 +224,20 @@
         "Heading": "\n      CutPrice Pharmacy: The Leading Online Pharmacy in Australia\n \u2013 CutPricePharmacy.com.au - Cut the price of your medications!",
         "Abstract": "The chemist online in Australia with all of your pharmaceutical needs. CutPrice Pharmacy offers a wide range of premium products for an affordable price.",
         "Official Site": "https://www.cutpricepharmacy.com.au/",
-        "Icon": "//www.cutpricepharmacy.com.au/cdn/shop/files/favicon.png?crop=center&height=32&v=1750916990&width=32",
+        "Icon": "//cdn.shopify.com/s/files/1/0818/2657/files/favicon.png?crop=center&height=32&v=1750916990&width=32",
         "Redirect": "https://www.cutpricepharmacy.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cutpricepharmacy.com.au/"
     },
     {
         "link": "https://chicisimo.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://chicisimo.com",
-        "Icon": "data:;",
-        "Redirect": "https://chicisimo.com",
+        "Heading": "Chicisimo - Build with fashion shoppers' taste data",
+        "Abstract": "Chicisimo helps fashion retailers build with shoppers' taste-data. Fashion ontologies, fashion taste graph, taste profiles, virtual closets...",
+        "Official Site": "https://chicisimo.com/",
+        "Icon": "https://chicisimo.com/wp-content/uploads/2020/07/cropped-app_icon-1-32x32.jpg",
+        "Redirect": "https://chicisimo.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chicisimo.com"
+        "AbstractURL": "https://chicisimo.com/"
     },
     {
         "link": "https://counton.org",
@@ -288,15 +318,5 @@
         "Redirect": "https://radiodisneyclub.fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://radiodisneyclub.fr/"
-    },
-    {
-        "link": "https://marvelous-usa.com",
-        "Heading": "Home | Marvelous USA",
-        "Abstract": "Delivering unique, innovative titles across multiple platforms and genres, XSEED Games is dedicated to publishing products that appeal to and enrich the North American market.",
-        "Official Site": "https://marvelous-usa.com/",
-        "Icon": "https://marvelous-usa.com/wp-content/uploads/2024/08/MARVELOUS_Favicon_192x192-100x100.png",
-        "Redirect": "https://marvelous-usa.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://marvelous-usa.com/"
     }
 ]

@@ -41,7 +41,7 @@
     },
     {
         "link": "https://wesellhost.net",
-        "Heading": "Account Suspended",
+        "Heading": "WeSellHost - Coming Soon",
         "Abstract": null,
         "Official Site": "https://wesellhost.net",
         "Icon": "N/A",
@@ -91,10 +91,10 @@
     },
     {
         "link": "https://malygosc.pl",
-        "Heading": "Ma\u0142y Go\u015b\u0107 - www.malygosc.pl",
+        "Heading": "Ma\u0142y Go\u015b\u0107",
         "Abstract": null,
         "Official Site": "https://malygosc.pl",
-        "Icon": "/static/themes/maly-gosc-mobile-2016/favicon.ico?v=QTRuC4J7NpTgTvjQqzrmA",
+        "Icon": "/static/themes/mgn-2017/touch-icons/touch-icon-192x192.png",
         "Redirect": "https://malygosc.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://malygosc.pl"
@@ -111,13 +111,13 @@
     },
     {
         "link": "https://ccscheme.org.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ccscheme.org.uk",
-        "Icon": "data:;",
-        "Redirect": "https://ccscheme.org.uk",
+        "Heading": "Considerate Constructors Scheme",
+        "Abstract": "The Considerate Constructors Scheme is an independently run organisation supporting and guiding positive change in the construction industry.",
+        "Official Site": "https://www.considerateconstructors.com/",
+        "Icon": "https://www.considerateconstructors.com/wp-content/uploads/2022/11/Home03_1920px.jpg",
+        "Redirect": "https://www.considerateconstructors.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ccscheme.org.uk"
+        "AbstractURL": "https://www.considerateconstructors.com/"
     },
     {
         "link": "https://vivasoftltd.com",

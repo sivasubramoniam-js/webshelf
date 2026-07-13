@@ -123,11 +123,11 @@
         "link": "https://prava-spb-3.ru",
         "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u043f\u0440\u0430\u0432\u0430 \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435 \u2014 \u043e\u0431\u043c\u0435\u043d\u044f\u0442\u044c \u043f\u0440\u0430\u0432\u0430, \u0412\u0423 \u0447\u0435\u0440\u0435\u0437 \u0444\u0438\u0440\u043c\u0443, \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 A B C D E, \u0413\u0418\u041c\u0421, \u0441\u043f\u0435\u0446\u0442\u0435\u0445\u043d\u0438\u043a\u0430",
         "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u043f\u0440\u0430\u0432\u0430 \u043b\u044e\u0431\u043e\u0439 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438, \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u043d\u0435 \u0434\u043e\u0440\u043e\u0433\u043e \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435. \u041f\u0440\u0430\u0432\u0430 \u043d\u0430 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c, \u0442\u0440\u0430\u043a\u0442\u043e\u0440, \u0413\u0418\u041c\u0421 \u0438 \u0434\u0440\u0443\u0433\u0443\u044e \u0442\u0435\u0445\u043d\u0438\u043a\u0443.",
-        "Official Site": "https://prava-spb-ku.ru/",
-        "Icon": "https://prava-spb-ku.ru/theme/img/top.webp",
-        "Redirect": "https://prava-spb-ku.ru/",
+        "Official Site": "https://prava-spb-df.ru/",
+        "Icon": "https://prava-spb-df.ru/theme/img/top.webp",
+        "Redirect": "https://prava-spb-df.ru/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://prava-spb-ku.ru/"
+        "AbstractURL": "https://prava-spb-df.ru/"
     },
     {
         "link": "https://ajfm.ru",
@@ -250,6 +250,16 @@
         "AbstractURL": "https://personaldienstleister.de/"
     },
     {
+        "link": "https://nupureshop.com",
+        "Heading": "\n      Nupure | Better life through microbiome science\n \u2013 Nupure Shop ",
+        "Abstract": "Nupure ist eine Mikrobiom-Wissenschaftsmarke mit einer propriet\u00e4ren und klinisch erprobten Bakterienstammmischung. Einzigartige probiotische, postbiotische und pr\u00e4biotische Produkte, die Ihren Darm, Mund, Ihre Haut, Ihren Stoffwechsel, Ihren Hormonhaushalt und Ihre allgemeine Gesundheit unterst\u00fctzen.",
+        "Official Site": "https://nupureshop.com/",
+        "Icon": "http://nupureshop.com/cdn/shop/files/NU_primary_logo_main_colour__aed000_cd831b01-bc80-4cb4-821f-2ee32f87e27d.png?v=1756124461",
+        "Redirect": "https://nupureshop.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nupureshop.com/"
+    },
+    {
         "link": "https://everintelconsulting.com",
         "Heading": "::: \uc5d0\ubc84\uc778\ud154\ucee8\uc124\ud305 :::",
         "Abstract": "\uc5d0\ubc84\uc778\ud154\ucee8\uc124\ud305\uc740 \ucc44\uc6a9\uc815\ubcf4 \ubc0f \uacbd\uc601/\uc778\uc0ac \ucee8\uc124\ud305\uc744 \uc81c\uacf5\ud558\ub294 \ucee8\uc124\ud305 \uc804\ubb38 \ud68c\uc0ac\uc785\ub2c8\ub2e4.",
@@ -281,7 +291,7 @@
     },
     {
         "link": "https://helplife.biz",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://helplife.biz",
         "Icon": "N/A",

@@ -74,7 +74,7 @@
         "Heading": "\n    Australian Online Skate Shop | Zippay & AfterPay Available | 50-50 Skate Shop\n  ",
         "Abstract": "Shop 50-50 Skate's impressive range of footwear, skateboards, hardware, clothing & accessories. Buy from Australia's favourite online skate store. We have the best range of skateboards Australia has to offer.",
         "Official Site": "https://50-50.com.au",
-        "Icon": "http://50-50.com.au/cdn/shop/t/32/assets/logo.png?v=24688",
+        "Icon": "http://50-50.com.au/cdn/shop/t/32/assets/logo.png?v=24689",
         "Redirect": "https://50-50.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://50-50.com.au"
@@ -150,6 +150,16 @@
         "AbstractURL": "https://archeenergy.com.au/"
     },
     {
+        "link": "https://infomercado.pe",
+        "Heading": "Infomercado - Noticias sobre Negocios y Emprendimientos",
+        "Abstract": "Noticias sobre lo \u00faltimo en Negocios y Emprendimientos del Per\u00fa y el mundo - INFOMERCADO",
+        "Official Site": "https://infomercado.pe/",
+        "Icon": "https://infomercado.pe/wp-content/uploads/2019/06/cropped-infomercadoredondo-32x32.png",
+        "Redirect": "https://infomercado.pe/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://infomercado.pe/"
+    },
+    {
         "link": "https://tuchtcollege-gezondheidszorg.nl",
         "Heading": "Home | Tuchtcolleges voor de gezondheidszorg",
         "Abstract": "Het doel van het tuchtrecht is om de kwaliteit in de gezondheidszorg op niveau te houden. De Tuchtcolleges voor de Gezondheidszorg behandelen klachten over het handelen van individuele zorgverleners.",
@@ -204,7 +214,7 @@
         "Heading": "Home | Pattymo, Oostakker, Gent | Pattymo",
         "Abstract": "Immobili\u00ebnkantoor Pattymo uit Oostakker is in regio Gent, Sint-Amandsberg, Lochristi uw erkend vastgoedmakelaar. Contacteer ons voor meer info!",
         "Official Site": "https://pattymo.be",
-        "Icon": "/images/favicon.ico?v=9633",
+        "Icon": "/images/favicon.ico?v=7999",
         "Redirect": "https://pattymo.be",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pattymo.be"
@@ -218,16 +228,6 @@
         "Redirect": "https://sembrandomexico.com.mx/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sembrandomexico.com.mx/"
-    },
-    {
-        "link": "https://morsystem.com",
-        "Heading": "morSystem - Innovative Softwarel\u00f6sungen",
-        "Abstract": "morSystem \u2013 Ihre Quelle f\u00fcr innovative Softwarel\u00f6sungen. Entdecken Sie unsere intuitive Terminmanagement-Software f\u00fcr die effiziente Verwaltung von Terminen und Klienten, speziell angepasst f\u00fcr Therapeuten und Coaches.",
-        "Official Site": "https://morsystem.com",
-        "Icon": "/icon.png",
-        "Redirect": "https://morsystem.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://morsystem.com"
     },
     {
         "link": "https://dpdt.gov.bd",

@@ -100,16 +100,6 @@
         "AbstractURL": "http://communitychevy.com/"
     },
     {
-        "link": "https://connectpropm.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://connectpropm.com",
-        "Icon": "N/A",
-        "Redirect": "https://connectpropm.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://connectpropm.com"
-    },
-    {
         "link": "https://coralfarm.ro",
         "Heading": "CoralFarm.ro - Importator, Distribuitor de Corali, Pesti exotici, Nevertebrate, produse si echipamente de acvaristica, petshop",
         "Abstract": "Magazin de Pesti marini, Corali, Nevertebrate, Pesti Exotici si Plante de apa sarata, Acvarii marine si Echipamente pentru Acvaristica; Distributie echipamente pentru acvarii, amenajarea si mentenanta, intretinerea a acvariilor de apa sarata si apa dulce ",
@@ -118,6 +108,16 @@
         "Redirect": "https://coralfarm.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://coralfarm.ro"
+    },
+    {
+        "link": "https://courchevelvillas.com",
+        "Heading": "Luxury Courchevel Villa Rentals | Alpine Villas in the French Alps",
+        "Abstract": "Discover exquisite villa rentals in Courchevel, nestled in the French Alps. Perfect for ski seasons or summer escapes, enjoy unmatched comfort, privacy, and breathtaking mountain views.",
+        "Official Site": "https://courchevelvillas.com/",
+        "Icon": "https://cdn.123presto.com/prod/published/courchevelvillas/home.jpg",
+        "Redirect": "https://courchevelvillas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://courchevelvillas.com/"
     },
     {
         "link": "https://cravenow24.com",

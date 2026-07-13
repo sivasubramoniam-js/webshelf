@@ -71,7 +71,7 @@
     },
     {
         "link": "https://chinababe.net",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://chinababe.net",
         "Icon": "N/A",
@@ -178,16 +178,6 @@
         "Redirect": "https://kruuna-fi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kruuna-fi.com"
-    },
-    {
-        "link": "https://eurpizza.net",
-        "Heading": "EPG",
-        "Abstract": "",
-        "Official Site": "https://www.europeanpizzagroup.com",
-        "Icon": "//v.fastcdn.co/u/5ca9bc40/64700786-0-logo-buitoni-1.png",
-        "Redirect": "https://www.europeanpizzagroup.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.europeanpizzagroup.com"
     },
     {
         "link": "https://provexpress.com.co",

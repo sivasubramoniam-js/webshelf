@@ -54,7 +54,7 @@
         "Heading": "\n      Shop Viral Japanese Hair Products\n \u2013 Hair Everyday",
         "Abstract": "We ship out the best trending hair products from Japan via Hair Everyday. Competitive prices and shipping rates!",
         "Official Site": "https://hair-everyday.com/",
-        "Icon": "//hair-everyday.com/cdn/shop/files/Hair-everyday-2.png?crop=center&height=32&v=1713498346&width=32",
+        "Icon": "//cdn.shopify.com/s/files/1/0873/2858/8083/files/Hair-everyday-2.png?crop=center&height=32&v=1713498346&width=32",
         "Redirect": "https://hair-everyday.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hair-everyday.com/"
@@ -88,16 +88,6 @@
         "Redirect": "https://coxandkings.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://coxandkings.co.uk"
-    },
-    {
-        "link": "https://obuchenie-onli.xyz",
-        "Heading": "Loading...",
-        "Abstract": null,
-        "Official Site": "https://obuchenie-onli.xyz",
-        "Icon": "N/A",
-        "Redirect": "https://obuchenie-onli.xyz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://obuchenie-onli.xyz"
     },
     {
         "link": "https://resul.io",
@@ -141,13 +131,13 @@
     },
     {
         "link": "https://redhot.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://redhot.org",
-        "Icon": "data:;",
-        "Redirect": "https://redhot.org",
+        "Heading": "Red Hot Org",
+        "Abstract": "Red Hot Organization is a not-for-profit, international organization dedicated to fighting AIDS through pop culture.",
+        "Official Site": "https://redhot.org/",
+        "Icon": "https://redhot.org/assets/RH.jpg",
+        "Redirect": "https://redhot.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://redhot.org"
+        "AbstractURL": "https://redhot.org/"
     },
     {
         "link": "https://vibhaait.com",
@@ -181,10 +171,10 @@
     },
     {
         "link": "https://assemblyfestival.com",
-        "Heading": null,
+        "Heading": "Home | Assembly Festival",
         "Abstract": null,
         "Official Site": "https://assemblyfestival.com",
-        "Icon": "N/A",
+        "Icon": "https://assemblyfestival.com/img/og-image.jpg",
         "Redirect": "https://assemblyfestival.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://assemblyfestival.com"
@@ -238,16 +228,6 @@
         "Redirect": "https://ocialisshop.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ocialisshop.com"
-    },
-    {
-        "link": "https://yesmap.net",
-        "Heading": "About | Yesmap",
-        "Abstract": "Yesmap is the communications hub of Newgon Organization, an activist group founded in 2007",
-        "Official Site": "https://www.yesmap.net/",
-        "Icon": "https://www.yesmap.net/user/pages/01.home/pexels-olly-920381.jpg",
-        "Redirect": "https://www.yesmap.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.yesmap.net/"
     },
     {
         "link": "https://javafilms.fr",

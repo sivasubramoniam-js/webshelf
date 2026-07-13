@@ -111,10 +111,10 @@
     },
     {
         "link": "https://dronline.pt",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Tem de ir ao m\u00e9dico? V\u00e1 ao Dr.Online!",
+        "Abstract": "Videoconsultas m\u00e9dicas, urg\u00eancias, especialidades e atestados, sem sair de casa. No seu computador, tablet ou smartphone.",
         "Official Site": "https://dronline.pt",
-        "Icon": "data:;",
+        "Icon": "https://dronline.pt/wp-content/uploads/2022/11/cropped-DrOnline-fav-32x32.png",
         "Redirect": "https://dronline.pt",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dronline.pt"
@@ -151,8 +151,8 @@
     },
     {
         "link": "https://dymadis.com",
-        "Heading": " Dymadis : Achetez toujours le meilleur,Toujours disponible ",
-        "Abstract": "Dymadis est une plateforme e-commerce en Alg\u00e9rie proposant plus de 10 000 produits avec paiement \u00e0 la livraison, livraison dans les 58 wilayas et service apr\u00e8s-vente.",
+        "Heading": "Dymadis : Achetez toujours le meilleur,Toujours disponible",
+        "Abstract": "Achats en toute s\u00e9curit\u00e9 sur Dymadis - Votre plateforme de confiance",
         "Official Site": "https://dymadis.com",
         "Icon": "https://dymadis.com/images/icondymadis.png",
         "Redirect": "https://dymadis.com",
@@ -221,13 +221,13 @@
     },
     {
         "link": "https://economicnails.es",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://economicnails.es",
-        "Icon": "data:;",
-        "Redirect": "https://economicnails.es",
+        "Heading": "Economic Nails - Productos para U\u00f1as de Gel, U\u00f1as Decoradas, Esmaltes Permanentes, Acr\u00edlicos de Calidad a Precios Economimos",
+        "Abstract": "Economic Nails - Productos para U\u00f1as de Gel, U\u00f1as Decoradas, Esmaltes Permanentes, Acr\u00edlicos de Calidad a Precios Economimos",
+        "Official Site": "https://economicnails.es/",
+        "Icon": "https://economicnails.es/img/favicon-1.ico?1779289618",
+        "Redirect": "https://economicnails.es/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://economicnails.es"
+        "AbstractURL": "https://economicnails.es/"
     },
     {
         "link": "https://econstrukt.ro",
@@ -294,7 +294,7 @@
         "Heading": "\n      Elleme Paris Official Site \u2013 Timeless Designer Handbags, Made in Italy\n",
         "Abstract": "Discover Elleme\u2019s timeless Parisian handbags. Made in Italy, each design blends modern lines with refined craftsmanship. Shop now and enjoy free worldwide shipping on our signature pieces.",
         "Official Site": "https://elleme.com/",
-        "Icon": "http://elleme.com/cdn/shop/files/Elleme_Logo_1bc07302-170c-4c64-a093-54f3834bb7ff.png?v=1639489072",
+        "Icon": "http://cdn.shopify.com/s/files/1/1803/8695/files/Elleme_Logo_1bc07302-170c-4c64-a093-54f3834bb7ff.png?v=1639489072",
         "Redirect": "https://elleme.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://elleme.com/"
@@ -424,7 +424,7 @@
         "Heading": "\n      ESBEDA | Stylish Handbags for Women & Men\n",
         "Abstract": "ESBEDA",
         "Official Site": "https://www.esbeda.com/",
-        "Icon": "http://www.esbeda.com/cdn/shop/files/logow.png?v=1775282766",
+        "Icon": "http://cdn.shopify.com/s/files/1/0798/1917/8197/files/logow.png?v=1775282766",
         "Redirect": "https://www.esbeda.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.esbeda.com/"

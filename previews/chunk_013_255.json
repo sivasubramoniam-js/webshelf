@@ -60,6 +60,16 @@
         "AbstractURL": "https://zoomout.hu"
     },
     {
+        "link": "https://avrev.com",
+        "Heading": "\n        4k Movie, Streaming, Blu-Ray Disc, and Home Theater Product Reviews & News | High Def Digest\n        ",
+        "Abstract": "",
+        "Official Site": "https://avrev.com",
+        "Icon": "N/A",
+        "Redirect": "https://avrev.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://avrev.com"
+    },
+    {
         "link": "https://wcys8.com",
         "Heading": "\u62b1\u6b49\uff0c\u7ad9\u70b9\u5df2\u6682\u505c",
         "Abstract": null,
@@ -318,5 +328,15 @@
         "Redirect": "https://www.completepayroll.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.completepayroll.com"
+    },
+    {
+        "link": "https://cyklo-vondracek.cz",
+        "Heading": "Cyklo Vondr\u00e1\u010dek | Specialized Concept Store",
+        "Abstract": "Milujeme cyklistiku a v\u0161e kolem n\u00ed - proto jsme tu my - Cyklo Vondr\u00e1\u010dek a Specialized Concept Store! Jsme zna\u010dkov\u00e1 prodejna j\u00edzdn\u00edch kol a profi servis v Plzni, Sokolov\u011b a Karlov\u00fdch Varech a r\u00e1di v\u00e1m pom\u016f\u017eeme s v\u00fdb\u011brem va\u0161eho kola i cyklodopl\u0148k\u016f.",
+        "Official Site": "https://www.cyklo-vondracek.cz/",
+        "Icon": "https://www.cyklo-vondracek.cz/front/favicon.ico",
+        "Redirect": "https://www.cyklo-vondracek.cz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cyklo-vondracek.cz/"
     }
 ]

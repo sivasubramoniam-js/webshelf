@@ -70,16 +70,6 @@
         "AbstractURL": "https://www.bundeswehr-journal.de/"
     },
     {
-        "link": "https://newtonhq.com",
-        "Heading": "Newton - Supercharged emailing on iOS, Android, Mac & Windows",
-        "Abstract": "Newton supercharges your email with powerful features like Read Receipts, Send Later, Snooze & more. Works with Gmail, Google Apps, Exchange, Outlook, Office365, iCloud, Yahoo & IMAP.",
-        "Official Site": "https://newtonhq.com",
-        "Icon": "https://cdn.prod.website-files.com/5fdb219862bb064897f59768/6957624f49b114cd18049d9d_OG%20image.png",
-        "Redirect": "https://newtonhq.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://newtonhq.com"
-    },
-    {
         "link": "https://ddrlawyers.com",
         "Heading": "Florida Personal Injury Attorneys | Dolan Dobrinsky Rosenblum Bluestein, LLP",
         "Abstract": "Our Florida personal injury attorneys have secured some of the largest injury recoveries and settlements. Call today for a FREE case evaluation (305) 371-2692.",
@@ -243,11 +233,11 @@
         "link": "https://lakshmisri.com",
         "Heading": "Leading Law Firm in India | Lakshmikumaran & Sridharan | LKS",
         "Abstract": "Lakshmikumaran & Sridharan is a premier full service law firm in India with 40+ years' experience in providing comprehensive legal solutions.",
-        "Official Site": "https://lakshmisri.com",
-        "Icon": "/icon.jpg",
-        "Redirect": "https://lakshmisri.com",
+        "Official Site": "https://www.lkslaw.com/",
+        "Icon": "https://www.lkslaw.com/og-image.png",
+        "Redirect": "https://www.lkslaw.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lakshmisri.com"
+        "AbstractURL": "https://www.lkslaw.com/"
     },
     {
         "link": "https://valleysleepcenter.com",
@@ -258,6 +248,16 @@
         "Redirect": "https://valleysleepcenter.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://valleysleepcenter.com/"
+    },
+    {
+        "link": "https://wentor.pl",
+        "Heading": "Wentor - Najwi\u0119kszy w Polsce importer urz\u0105dze\u0144 grzewczych",
+        "Abstract": "Wentor to najwi\u0119kszy importer urz\u0105dze\u0144 grzewczych w Polsce. Kominki, piecyki (kozy), kot\u0142y, piece co. Najlepsi producenci kot\u0142\u00f3w i komink\u00f3w na pellet.",
+        "Official Site": "https://www.wentor.pl/",
+        "Icon": "https://www.wentor.pl/wp-content/uploads/2023/01/baner-gl_m_02.jpg",
+        "Redirect": "https://www.wentor.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wentor.pl/"
     },
     {
         "link": "https://spirou.com",
