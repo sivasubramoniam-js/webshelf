@@ -40,14 +40,14 @@
         "AbstractURL": "https://kuweb.ru"
     },
     {
-        "link": "https://viploader.net",
-        "Heading": "2026 \uc628\ub77c\uc778\uce74\uc9c0\ub178 \ucd94\ucc9c & \ubc14\uce74\ub77c \uc804\ub7b5 \uac00\uc774\ub4dc",
-        "Abstract": "2026\ub144 \ucd5c\uc2e0 \uc628\ub77c\uc778\uce74\uc9c0\ub178 \ucd94\ucc9c \uc21c\uc704, \uce74\uc9c0\ub178\uc0ac\uc774\ud2b8 \ube44\uad50 \ubd84\uc11d, \ubc14\uce74\ub77c \uc804\ub7b5 \uac00\uc774\ub4dc\uc640 \uc548\uc804\ud55c \uc2ac\ub86f\uba38\uc2e0 \ucd94\ucc9c \uc815\ubcf4\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4.",
-        "Official Site": "https://matlabtips.com/",
-        "Icon": "/favicon.svg",
-        "Redirect": "https://matlabtips.com/",
+        "link": "https://awjxpad.xyz",
+        "Heading": "\u8bf7\u8f93\u5165\u5bc6\u7801\u8bbf\u95ee",
+        "Abstract": null,
+        "Official Site": "https://awjxpad.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://awjxpad.xyz",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://matlabtips.com/"
+        "AbstractURL": "https://awjxpad.xyz"
     },
     {
         "link": "https://managepath8.com",
@@ -140,6 +140,16 @@
         "AbstractURL": "https://greenkeyglobal.com/"
     },
     {
+        "link": "https://1c-services.pro",
+        "Heading": "1C Services",
+        "Abstract": "\u0421\u043b\u043e\u0436\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u0438 1\u0421: \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438, \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430, \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u0432 \u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d\u0435.",
+        "Official Site": "https://1c-services.pro/",
+        "Icon": "https://1c-services.pro/images/og.png",
+        "Redirect": "https://1c-services.pro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://1c-services.pro/"
+    },
+    {
         "link": "https://fewcents.co",
         "Heading": null,
         "Abstract": null,
@@ -151,8 +161,8 @@
     },
     {
         "link": "https://openacessjournal.com",
-        "Heading": "20,519 Free Open Access Journals (2026 Directory) \u00b7 OpenAccessJournal",
-        "Abstract": "Browse 20,519 peer-reviewed open access journals \u2014 search by subject, publisher, country, APC, and indexing.",
+        "Heading": "20,522 Free Open Access Journals (2026 Directory) \u00b7 OpenAccessJournal",
+        "Abstract": "Browse 20,522 peer-reviewed open access journals \u2014 search by subject, publisher, country, APC, and indexing.",
         "Official Site": "https://openacessjournal.com",
         "Icon": "https://openacessjournal.com/open-access-journals.png",
         "Redirect": "https://openacessjournal.com",
@@ -308,5 +318,15 @@
         "Redirect": "https://worlddayofremembrance.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://worlddayofremembrance.org/"
+    },
+    {
+        "link": "https://allthingslinguistic.com",
+        "Heading": "All Things Linguistic",
+        "Abstract": "A blog about all things linguistic by Gretchen McCulloch. I cohost Lingthusiasm, a podcast that's...",
+        "Official Site": "https://allthingslinguistic.com/?og=1",
+        "Icon": "https://64.media.tumblr.com/avatar_7d5e7d4fbc96_128.pnj",
+        "Redirect": "https://allthingslinguistic.com/?og=1",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://allthingslinguistic.com/?og=1"
     }
 ]

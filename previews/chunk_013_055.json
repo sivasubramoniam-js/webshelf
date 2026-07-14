@@ -120,16 +120,6 @@
         "AbstractURL": "https://www.koen.com/"
     },
     {
-        "link": "https://korkuteliotokurtarma.com.tr",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://korkuteliotokurtarma.com.tr",
-        "Icon": "N/A",
-        "Redirect": "https://korkuteliotokurtarma.com.tr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://korkuteliotokurtarma.com.tr"
-    },
-    {
         "link": "https://kpbookonline.com",
         "Heading": "Free Books to Read Online - KPBookOnline",
         "Abstract": "KPBookOnline offers users to read or listen complete novels/books online for free. Genres include Romance, Billionaire Romance, Fantasy, Horror, Thriller and more",
@@ -208,6 +198,16 @@
         "Redirect": "https://www.lamourlife.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lamourlife.com/"
+    },
+    {
+        "link": "https://lateknightbooks.com",
+        "Heading": "\n  Late Knight Books\n \u2013 Late Knight Books and Services, LLC",
+        "Abstract": "Image of a knight in armor, reading a book, with a cat peering over his shoulder.",
+        "Official Site": "https://lateknightbooks.com/",
+        "Icon": "http://lateknightbooks.com/cdn/shop/files/Knight_logo_122d04ee-8052-47d0-8c54-25f5124455f6.png?v=1753109066",
+        "Redirect": "https://lateknightbooks.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lateknightbooks.com/"
     },
     {
         "link": "https://lavinialingerie.com",

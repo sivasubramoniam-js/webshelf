@@ -24,7 +24,7 @@
         "Heading": "La Xarxa - Portada",
         "Abstract": "Som una plataforma multim\u00e8dia que proporciona continguts i serveis a m\u00e9s de 200 r\u00e0dios, televisions i mitjans en l\u00ednia locals d\u2019arreu de Catalunya. Treballem perqu\u00e8 aquests mitjans..",
         "Official Site": "https:\\www.laxarxa.cat/",
-        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1783915014799",
+        "Icon": "http://www.laxarxa.cat/images/500_laxarxa.jpg?d=1783999944099",
         "Redirect": "https:\\www.laxarxa.cat/",
         "AbstractSource": "BS4",
         "AbstractURL": "https:\\www.laxarxa.cat/"
@@ -38,26 +38,6 @@
         "Redirect": "https://cinefamily.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cinefamily.org"
-    },
-    {
-        "link": "https://kiseido.com",
-        "Heading": "Kiseido's Home Page",
-        "Abstract": null,
-        "Official Site": "https://kiseido.com",
-        "Icon": "N/A",
-        "Redirect": "https://kiseido.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kiseido.com"
-    },
-    {
-        "link": "https://camilastore.top",
-        "Heading": "camilastore.top\u00a0-\u00a0This website is for sale!\u00a0-\u00a0camilastore Resources and Information.",
-        "Abstract": "This website is for sale! camilastore.top is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, camilastore.top has it all. We hope you find what you are searching for!",
-        "Official Site": "https://camilastore.top",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://camilastore.top",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://camilastore.top"
     },
     {
         "link": "https://exacqvision.com",
@@ -128,6 +108,16 @@
         "Redirect": "https://traceform.ai",
         "AbstractSource": "BS4",
         "AbstractURL": "https://traceform.ai"
+    },
+    {
+        "link": "https://ekhva.fi",
+        "Heading": "Etel\u00e4-Karjalan hyvinvointialue | Etusivu - Etel\u00e4-Karjalan hyvinvointialue",
+        "Abstract": "Me huolehdimme sinusta. Kuinka voimme auttaa? Etel\u00e4-Karjalan hyvinvointialue tuottaa julkiset sosiaali-, terveys- ja pelastuspalvelut Etel\u00e4-Karjalan yhdeks\u00e4n kunnan noin 129 000 asukkaalle.",
+        "Official Site": "https://www.ekhva.fi/",
+        "Icon": "https://www.ekhva.fi/wp-content/uploads/2024/12/aiti_poika_perhe-1024x1024-1.jpg",
+        "Redirect": "https://www.ekhva.fi/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ekhva.fi/"
     },
     {
         "link": "https://k-tuned.com",

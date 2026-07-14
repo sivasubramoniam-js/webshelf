@@ -24,7 +24,7 @@
         "Heading": "Norfolk/Wrentham - Local Town Pages | The Voice of Your Community",
         "Abstract": "LocalTownPages Norfolk/Wrentham is your community-based newspaper, direct mailed to 8,181 residents and businesses, providing local news, sports, and services into the Norfolk/Wrentham area.",
         "Official Site": "https://www.norfolkwrenthamnews.com/",
-        "Icon": "//cdn0.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
+        "Icon": "//cdn3.locable.com/uploads/favicon_img/file/174/LTP_Favicon.png",
         "Redirect": "https://www.norfolkwrenthamnews.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.norfolkwrenthamnews.com/"
@@ -38,16 +38,6 @@
         "Redirect": "https://www.lecinemaclub.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lecinemaclub.com/"
-    },
-    {
-        "link": "https://kumiuniversity.ac.ug",
-        "Heading": "Kumi University \u2013 Godliness & Excellence for Servanthood",
-        "Abstract": null,
-        "Official Site": "https://kumiuniversity.ac.ug",
-        "Icon": "https://www.kumiuniversity.ac.ug/wp-content/uploads/2017/03/cropped-Kumi-University-logo-round-32x32.png",
-        "Redirect": "https://kumiuniversity.ac.ug",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kumiuniversity.ac.ug"
     },
     {
         "link": "https://317d.net",
@@ -298,6 +288,16 @@
         "Redirect": "https://migescolar.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://migescolar.com.br"
+    },
+    {
+        "link": "https://solucioneshosteleras.com",
+        "Heading": "Maquinaria, Equipamiento y Mobiliario de Hosteler\u00eda - Soluciones Hosteleras",
+        "Abstract": "Visita nuestra tienda online en Burgos con m\u00e1s de 5000 art\u00edculos de material y maquinaria para hosteler\u00eda. Env\u00edos a Espa\u00f1a y Portugal con total garant\u00eda.",
+        "Official Site": "https://www.solucioneshosteleras.com/",
+        "Icon": "https://www.solucioneshosteleras.com/img/logo.jpg",
+        "Redirect": "https://www.solucioneshosteleras.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.solucioneshosteleras.com/"
     },
     {
         "link": "https://sevenstarsgracebay.com",

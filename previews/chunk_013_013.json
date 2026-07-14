@@ -100,16 +100,6 @@
         "AbstractURL": "https://www.modelon.com/"
     },
     {
-        "link": "https://xxxtube-asian.com",
-        "Heading": "Hot asian porn, malaysian sex, hot asian",
-        "Abstract": "We present superior sets - hot asian girl porn, hot chinese girl, horny asian women from Xxx tube asian. You will be very surprised to find amazing free sexy asian girls content which is free and waits for you to be watched.",
-        "Official Site": "https://xxxtube-asian.com/en/",
-        "Icon": "N/A",
-        "Redirect": "https://xxxtube-asian.com/en/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://xxxtube-asian.com/en/"
-    },
-    {
         "link": "https://unnatipharmax.com",
         "Heading": "Pharma Exporter India | Bulk Medicines Online\u2013Unnati Pharmax",
         "Abstract": "Order WHO-GMP certified generic and specialty medicines from Unnati Pharmax. Trusted pharma exporter India for bulk medicine supply and global shipping.",
@@ -134,7 +124,7 @@
         "Heading": "\u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u041a\u041e\u0411 - \u0413\u043b\u0430\u0432\u043d\u0430\u044f",
         "Abstract": "\u0421\u043e\u0431\u044b\u0442\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0432 \u043c\u0438\u0440\u0435 \u0441 \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u041a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u0438 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438. \u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u041a\u041e\u0411 - \u0413\u043b\u0430\u0432\u043d\u0430\u044f",
         "Official Site": "https://www.planet-kob.ru/",
-        "Icon": "https://www.planet-kob.ru/ob/pic/happy-future.jpg",
+        "Icon": "http://www.planet-kob.ru/ob/pic/400x240.jpg",
         "Redirect": "https://www.planet-kob.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.planet-kob.ru/"
@@ -198,6 +188,16 @@
         "Redirect": "https://www.ankerwatch.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ankerwatch.ru/"
+    },
+    {
+        "link": "https://kapslen.dk",
+        "Heading": "Kapslen - Kvalitetskapsler til din kaffemaskine",
+        "Abstract": "Kapslen.dk \u2013 Kvalitetskapsler, hurtig levering! \u2615 Bionedbrydelige, \u00f8kologiske og aluminiumskapsler + kakao og te. Bestil nemt p\u00e5 Kapslen.dk",
+        "Official Site": "https://kapslen.dk/",
+        "Icon": "https://kapslen.dk/storage/2024/09/Kapslen-1024x576.jpg",
+        "Redirect": "https://kapslen.dk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kapslen.dk/"
     },
     {
         "link": "https://sunrisehealthinfo.com",
@@ -281,10 +281,10 @@
     },
     {
         "link": "https://parcheha.com",
-        "Heading": "Site is undergoing maintenance",
-        "Abstract": "We are doing some work on our site. Please come back later. We'll be up and running in no time.",
+        "Heading": null,
+        "Abstract": "",
         "Official Site": "https://parcheha.com",
-        "Icon": "https://parcheha.com/wp-content/uploads/2026/06/favicon-150x150.png",
+        "Icon": "https://parcheha.com/wp-content/uploads/2026/06/favicon.png",
         "Redirect": "https://parcheha.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://parcheha.com"

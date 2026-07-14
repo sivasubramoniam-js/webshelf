@@ -40,6 +40,16 @@
         "AbstractURL": "https://www.idweek.org/"
     },
     {
+        "link": "https://hplapidary.com",
+        "Heading": "Lapidary Equipment | Lapidary Store | Highland Park Lapidary",
+        "Abstract": "Shop with confidence at Highland Park Lapidary. Explore lapidary equipment for sale, beginner-friendly tools, and rockhounding equipment built to last.",
+        "Official Site": "https://hplapidary.com/",
+        "Icon": "https://hplapidary.com/wp-content/uploads/2026/02/2-1024x576.png",
+        "Redirect": "https://hplapidary.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hplapidary.com/"
+    },
+    {
         "link": "https://graftonarchitects.ie",
         "Heading": "Grafton Architects",
         "Abstract": "Grafton Architects is an international architecture studio based in Dublin, Ireland. From this base, the practice has completed many significant and prestigious buildings in Ireland and internationally. With projects spanning from Milford to Milan, and from Lima to London; Grafton Architects embeds each project, within its own unique context.",
@@ -131,13 +141,13 @@
     },
     {
         "link": "https://meleven.de",
-        "Heading": "Home | SHOPMACHER",
-        "Abstract": "Wir bauen Online-Shops, Produkt-Plattformen, Marktpl\u00e4tze und andere transaktionsorientierte Anwendungen. Doch unsere eigentliche Mission ist der Betrieb und",
-        "Official Site": "https://www.shopmacher.de/",
-        "Icon": "https://www.shopmacher.de/wp-content/uploads/2020/10/badge-heart_v2_black.png",
-        "Redirect": "https://www.shopmacher.de/",
+        "Heading": "E-Commerce-Plattformen f\u00fcr Marken und H\u00e4ndler | SHOPMACHER",
+        "Abstract": "Wir entwickeln, betreiben und skalieren E-Commerce-Plattformen f\u00fcr Marken und H\u00e4ndler. Composable Commerce, MACH-Architektur, Best-of-Breed, KPI-getrieben.",
+        "Official Site": "https://meleven.de",
+        "Icon": "https://a.storyblok.com/f/291083497292476/2415x1262/917e9cabb1/startseite-banner.jpg/m/1200x630/smart/filters:quality(80)",
+        "Redirect": "https://meleven.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.shopmacher.de/"
+        "AbstractURL": "https://meleven.de"
     },
     {
         "link": "https://hostnacionalnet2.com.br",
@@ -272,11 +282,11 @@
     {
         "link": "https://dusit-international.com",
         "Heading": "\n        Dusit Thani\n    ",
-        "Abstract": "Dusit Thani",
-        "Official Site": "https://www.dusit-international.com/intro-page",
-        "Icon": "https://www.dusit-international.com/glide/assets/images/default/opengraph.webp?h=350&fit=max&fm=jpg&t=1783914010",
-        "Redirect": "https://www.dusit-international.com/intro-page",
+        "Abstract": "Proud of our Thai heritage, uniquely delivering  gracious hospitality to the world.                75+   Years in hospitality business       300+   Properties in operation  *Including villa management contracts        60+   Hotel management contracts in pipeline       30+   Years in hospitality education business                   Discover   Our Latest Stories                            Announcements and Statements   Clarification Regarding Technical Issues During the Annual General Meeting of Shareholders        Explore More                                View Full Video                     Focus   Dusit Businesses               Hotels and Resorts         Hotels and Resorts   Dusit international&rsquo;s property portfolio currently comprises more than 300 properties operating under eight brands across 19 countries.                          Explore More           Hospitality Education         Hospitality Education   Our education division continues to develop and expand, delivering innovative pedagogy in Thailand and overseas.                Explore More           Real Estate Development         Real Estate Development   To meet the evolving needs of our customers and deliver sustainable value far into the future.              Explore More           Foods         Foods   Dusit&rsquo;s vision to uniquely deliver gracious Thai-inspired hospitality to the world, Dusit Foods aims to &lsquo;Bring Asia to the World&rsquo;                    Explore More           Other Businesses         Other Businesses   To offer a comprehensive range of wellness services and support the operation of Dusit ecosystem, Dusit Hospitality Services provides.                  Explore More                                          Investor Relations        Explore More                      Corporate Governance        Explore More                      Sustainability  at Dusit         Explore More",
+        "Official Site": "https://www.dusit-international.com/en/home",
+        "Icon": "https://www.dusit-international.com/glide/assets/images/default/opengraph.webp?h=350&fit=max&fm=jpg&t=1783999056",
+        "Redirect": "https://www.dusit-international.com/en/home",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.dusit-international.com/intro-page"
+        "AbstractURL": "https://www.dusit-international.com/en/home"
     }
 ]

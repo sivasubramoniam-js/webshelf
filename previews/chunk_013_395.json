@@ -54,7 +54,7 @@
         "Heading": "\n      Shop Viral Japanese Hair Products\n \u2013 Hair Everyday",
         "Abstract": "We ship out the best trending hair products from Japan via Hair Everyday. Competitive prices and shipping rates!",
         "Official Site": "https://hair-everyday.com/",
-        "Icon": "//cdn.shopify.com/s/files/1/0873/2858/8083/files/Hair-everyday-2.png?crop=center&height=32&v=1713498346&width=32",
+        "Icon": "//hair-everyday.com/cdn/shop/files/Hair-everyday-2.png?crop=center&height=32&v=1713498346&width=32",
         "Redirect": "https://hair-everyday.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hair-everyday.com/"
@@ -210,16 +210,6 @@
         "AbstractURL": "https://www.nopasf.com"
     },
     {
-        "link": "https://kristinamanakova.cz",
-        "Heading": "portfolio \u2013 kristina manakova",
-        "Abstract": null,
-        "Official Site": "https://kristinamanakova.cz",
-        "Icon": "https://kristinamanakova.cz/wp-content/uploads/2024/10/cropped-kuzel_foto-Libor-StavjanikkSIROKO-32x32.jpg",
-        "Redirect": "https://kristinamanakova.cz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kristinamanakova.cz"
-    },
-    {
         "link": "https://ocialisshop.com",
         "Heading": null,
         "Abstract": null,
@@ -228,6 +218,16 @@
         "Redirect": "https://ocialisshop.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ocialisshop.com"
+    },
+    {
+        "link": "https://yesmap.net",
+        "Heading": "About | Yesmap",
+        "Abstract": "Yesmap is the communications hub of Newgon Organization, an activist group founded in 2007",
+        "Official Site": "https://www.yesmap.net/",
+        "Icon": "https://www.yesmap.net/user/pages/01.home/pexels-olly-920381.jpg",
+        "Redirect": "https://www.yesmap.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.yesmap.net/"
     },
     {
         "link": "https://javafilms.fr",

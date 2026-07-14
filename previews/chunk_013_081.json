@@ -204,7 +204,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://official-mega.shop",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
         "Redirect": "https://official-mega.shop",
         "AbstractSource": "BS4",
         "AbstractURL": "https://official-mega.shop"
@@ -260,6 +260,16 @@
         "AbstractURL": "https://2000w.xyz"
     },
     {
+        "link": "https://astromagazin.ro",
+        "Heading": "Telescoape Binocluri Accesorii",
+        "Abstract": "Magazin pentru astronomie - Oferim o gama larga de telescoape, lunete, binocluri si accesorii.",
+        "Official Site": "https://astromagazin.ro/",
+        "Icon": "https://astromagazin.ro/img/logo-1766990065.jpg",
+        "Redirect": "https://astromagazin.ro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://astromagazin.ro/"
+    },
+    {
         "link": "https://bimpsoft.com",
         "Heading": "ERP \u0434\u043b\u044f \u0432\u0438\u0440\u043e\u0431\u043d\u0438\u0447\u0438\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u0439: \u0441\u0435\u0440\u0456\u0457 \u0456 \u0441\u043e\u0431\u0456\u0432\u0430\u0440\u0442\u0456\u0441\u0442\u044c | Bimp",
         "Abstract": "ERP \u0434\u043b\u044f \u0432\u0438\u0440\u043e\u0431\u043d\u0438\u0447\u0438\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u0439. \u0421\u043f\u0435\u0446\u0438\u0444\u0456\u043a\u0430\u0446\u0456\u0457, \u0441\u0435\u0440\u0456\u0439\u043d\u0438\u0439 \u043e\u0431\u043b\u0456\u043a, \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043f\u0430\u0440\u0442\u0456\u0439, \u0440\u0435\u0430\u043b\u044c\u043d\u0430 \u0441\u043e\u0431\u0456\u0432\u0430\u0440\u0442\u0456\u0441\u0442\u044c \u0432\u0438\u0440\u043e\u0431\u0443. \u0414\u043b\u044f \u0434\u0440\u043e\u043d\u0456\u0432, \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0456\u043a\u0438 \u0442\u0430 \u043c\u0435\u0431\u043b\u0456\u0432.",
@@ -298,16 +308,6 @@
         "Redirect": "https://cosyharu.co.kr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cosyharu.co.kr/"
-    },
-    {
-        "link": "https://crazystock.it",
-        "Heading": "CrazyStock: prodotti in stock a prezzi da ingrosso",
-        "Abstract": "CrazyStock \u00e8 il sito che unisce qualit\u00e0 e risparmio! Qui trovi una vasta selezione di prodotti in stock a prezzi da ingrosso. Scopri la nostra gamma di articoli!",
-        "Official Site": "https://crazystock.it",
-        "Icon": "/content/favicon.png",
-        "Redirect": "https://crazystock.it",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://crazystock.it"
     },
     {
         "link": "https://defendagro.ro",

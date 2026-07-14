@@ -174,7 +174,7 @@
         "Heading": "\nSTATIONGOSSIP\n",
         "Abstract": "Your Daily Station of Entertainment !!",
         "Official Site": "https://www.stationgossip.com/",
-        "Icon": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sDKSTZ40zJ82SHLQADAHU9q0CmFTUCLjvKjb3b9FwZyA12DMIJOAw8enKdtkg3jw6l2BUytOnjNpE53ubW72lmipkdsAoh2Okv0AARcCqOpDGLpkAJhbfLdyGHag2h8hgWS6Lhg8I60jtyRGJA6bA1xAw=w1200-h630-p-k-no-nu",
+        "Icon": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_s7tvYSB9kSwrdv27efRkByOEduqj513UUl4EI08hwHt9wE_f4TYW1W3rTTrRJBbA_r7xcapweQivbavbsLZwF888bv7Z8BalId40_EGSQZradArhP3kwKy-KqwgUPy785cQXtT_EYQNT2ZjkduTASSAtQ=w1200-h630-p-k-no-nu",
         "Redirect": "https://www.stationgossip.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.stationgossip.com/"
@@ -220,11 +220,21 @@
         "AbstractURL": "https://jncjgp.com"
     },
     {
+        "link": "https://wallawallaclothing.com",
+        "Heading": "\n  Walla Walla Clothing Co.\n  ",
+        "Abstract": "A unique boutique with locations in Walla Walla, Kirkland, and Kennewick",
+        "Official Site": "https://wallawallaclothing.com/",
+        "Icon": "http://wallawallaclothing.com/cdn/shop/files/Unknown_1200x1200.png?v=1613769593",
+        "Redirect": "https://wallawallaclothing.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wallawallaclothing.com/"
+    },
+    {
         "link": "https://smartextrading.com",
-        "Heading": "Bot Verification",
-        "Abstract": null,
+        "Heading": "Smartex Trading",
+        "Abstract": "We provide investment products and solutions to our clients across the world.",
         "Official Site": "https://smartextrading.com",
-        "Icon": "N/A",
+        "Icon": "assets/images/favicons/favicon-32x32.png",
         "Redirect": "https://smartextrading.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://smartextrading.com"
@@ -308,5 +318,15 @@
         "Redirect": "https://poluchit-prava-5k2w.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://poluchit-prava-5k2w.ru"
+    },
+    {
+        "link": "https://walnutstudiolo.com",
+        "Heading": "Original Modern Designs | Handcrafted Leather Goods | Made in Oregon",
+        "Abstract": "Walnut Studiolo crafts original modern designs by hand in our Oregon workshop using only natural materials, and specializing in vegetable-tanned natural leather. We are a family run company on a mission to design durable, unique, and functional (awesome) products that reflect our values and that we use ourselves.",
+        "Official Site": "https://walnutstudiolo.com/",
+        "Icon": "https://walnutstudiolo.com/cdn/shop/files/vlcsnap-2013-08-30-10h51m09s254-1600x900_b5cc0468-78ce-401b-b9eb-39d600cea8b8_1200x.jpg?v=1742830014",
+        "Redirect": "https://walnutstudiolo.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://walnutstudiolo.com/"
     }
 ]

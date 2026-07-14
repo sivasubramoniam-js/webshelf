@@ -64,7 +64,7 @@
         "Heading": "\u017deny.cz - Magaz\u00edn pro \u017eeny, kter\u00e9 h\u00fdbou sv\u011btem | \u017deny.cz",
         "Abstract": "Bu\u010fte sv\u00e1 a \u017eijte po sv\u00e9m. Zaj\u00edm\u00e1 v\u00e1s psychologie, design, cestov\u00e1n\u00ed, dobr\u00e9 j\u00eddlo, m\u00f3da a mnohem v\u00edc? U n\u00e1s najdete chytr\u00e9 \u010dten\u00ed s nadhledem.",
         "Official Site": "https://www.zeny.cz/",
-        "Icon": "https://1958898586.rsc.cdn77.org/dist/assets/zeny/meta/zeny-og-image.png",
+        "Icon": "https://1958898586.rsc.cdn77.org/dist/assets/zeny2026/meta/zeny-og-image.png",
         "Redirect": "https://www.zeny.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.zeny.cz/"
@@ -98,26 +98,6 @@
         "Redirect": "https://hikayeniyaz.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hikayeniyaz.com"
-    },
-    {
-        "link": "https://allianceinstructionals.com",
-        "Heading": "\n\tAllianceInstructionals.com - Romero \"Jacare\" Cavalcanti & Fabio \"The General\" Gurgel - Brazilian Jiu-Jitsu Training Curriculum\n",
-        "Abstract": null,
-        "Official Site": "https://allianceinstructionals.com",
-        "Icon": "images/AI_Icon.ico",
-        "Redirect": "https://allianceinstructionals.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://allianceinstructionals.com"
-    },
-    {
-        "link": "https://re-natur.de",
-        "Heading": "re-natur -  Profi-Beratung und Produkte f\u00fcr H\u00e4ndler, Verarbeiter und Privatpersonen",
-        "Abstract": "Dachbegr\u00fcnung, Schwimmteich, Teich und Pool, Erosionsschutz, Naturz\u00e4une und biologischer Pflanzenschutz. ",
-        "Official Site": "https://www.re-natur.de/",
-        "Icon": "https://www.re-natur.de/media/favicon/default/favicon.ico",
-        "Redirect": "https://www.re-natur.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.re-natur.de/"
     },
     {
         "link": "https://saumur.com",
@@ -158,6 +138,16 @@
         "Redirect": "https://www.outtengolden.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.outtengolden.com/"
+    },
+    {
+        "link": "https://heliodorkids.com.tr",
+        "Heading": "Heliodorkids.com.tr ~ H\u0131zl\u0131 teslimat",
+        "Abstract": null,
+        "Official Site": "https://heliodorkids.com.tr",
+        "Icon": "N/A",
+        "Redirect": "https://heliodorkids.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://heliodorkids.com.tr"
     },
     {
         "link": "https://rx-diet.com",

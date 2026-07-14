@@ -51,7 +51,7 @@
     },
     {
         "link": "https://ipos-data.de",
-        "Heading": "IIS Windows Server-WB30",
+        "Heading": "IIS Windows Server-WB31",
         "Abstract": null,
         "Official Site": "https://ipos-data.de",
         "Icon": "N/A",
@@ -218,6 +218,16 @@
         "Redirect": "https://animalhero.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://animalhero.ru"
+    },
+    {
+        "link": "https://staiku.ac.id",
+        "Heading": "Kampus Pelopor Transformatif - STAIKU",
+        "Abstract": "Berangkat dari sebuah mimpi dan harapan agar STAIKU menjadi tempat bagi mahasiswa untuk belajar membentuk paradigma dan karakter sukses",
+        "Official Site": "https://staiku.ac.id/",
+        "Icon": "https://staiku.ac.id/wp-content/uploads/2025/02/Logo-Staiku-Kesamping-FIX.png",
+        "Redirect": "https://staiku.ac.id/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://staiku.ac.id/"
     },
     {
         "link": "https://mobilization.guide",

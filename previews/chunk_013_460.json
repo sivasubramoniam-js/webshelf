@@ -214,7 +214,7 @@
         "Heading": "Home | Pattymo, Oostakker, Gent | Pattymo",
         "Abstract": "Immobili\u00ebnkantoor Pattymo uit Oostakker is in regio Gent, Sint-Amandsberg, Lochristi uw erkend vastgoedmakelaar. Contacteer ons voor meer info!",
         "Official Site": "https://pattymo.be",
-        "Icon": "/images/favicon.ico?v=7999",
+        "Icon": "/images/favicon.ico?v=4588",
         "Redirect": "https://pattymo.be",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pattymo.be"
@@ -228,6 +228,16 @@
         "Redirect": "https://sembrandomexico.com.mx/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sembrandomexico.com.mx/"
+    },
+    {
+        "link": "https://morsystem.com",
+        "Heading": "morSystem - Innovative Softwarel\u00f6sungen",
+        "Abstract": "morSystem \u2013 Ihre Quelle f\u00fcr innovative Softwarel\u00f6sungen. Entdecken Sie unsere intuitive Terminmanagement-Software f\u00fcr die effiziente Verwaltung von Terminen und Klienten, speziell angepasst f\u00fcr Therapeuten und Coaches.",
+        "Official Site": "https://morsystem.com",
+        "Icon": "/icon.png",
+        "Redirect": "https://morsystem.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://morsystem.com"
     },
     {
         "link": "https://dpdt.gov.bd",

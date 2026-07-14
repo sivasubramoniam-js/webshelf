@@ -20,16 +20,6 @@
         "AbstractURL": "https://progresso-ict.nl"
     },
     {
-        "link": "https://purecommunion.com",
-        "Heading": "Pure communion",
-        "Abstract": null,
-        "Official Site": "https://purecommunion.com",
-        "Icon": "https://purecommunion.com/wp-content/uploads/2020/11/cropped-Bez-nazvu1-e1599504347165-32x32.png",
-        "Redirect": "https://purecommunion.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://purecommunion.com"
-    },
-    {
         "link": "https://itsistem.ro",
         "Heading": null,
         "Abstract": null,
@@ -54,7 +44,7 @@
         "Heading": "\n      Bridgman | Luxury Home & Garden Furniture\n      \n      \n      \n    ",
         "Abstract": "Fall in love with the UK's favourite luxury furniture and accessories. Transforming homes and gardens with quality, comfort and style since 1977.",
         "Official Site": "https://bridgman.co.uk/",
-        "Icon": "https://bridgman.co.uk/cdn/shop/files/Bridgman-Luxury-Furniture.jpg?crop=center&height=1200&v=1643641180&width=1200",
+        "Icon": "https://cdn.shopify.com/s/files/1/0441/7870/2504/files/Bridgman-Luxury-Furniture.jpg?crop=center&height=1200&v=1643641180&width=1200",
         "Redirect": "https://bridgman.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bridgman.co.uk/"
@@ -68,6 +58,16 @@
         "Redirect": "https://alray.ps",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alray.ps"
+    },
+    {
+        "link": "https://timsilver.me.uk",
+        "Heading": "\n            Tim Silver's ancestry & extended family                            \u2013 Tim Silver's ancestry & extended family                    ",
+        "Abstract": "Tim Silver's ancestry & extended family",
+        "Official Site": "https://timsilver.me.uk",
+        "Icon": "https://www.timsilver.me.uk/public/favicon-32.png?v=2.1.20",
+        "Redirect": "https://timsilver.me.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://timsilver.me.uk"
     },
     {
         "link": "https://hugoind.xyz",

@@ -60,16 +60,6 @@
         "AbstractURL": "https://panoramadelart.com/"
     },
     {
-        "link": "https://vandergrifftoyota.com",
-        "Heading": "Arlington Toyota Dealer | Vandergriff Toyota | near Mansfield & Fort Worth TX",
-        "Abstract": "Buy a Toyota from home! Vandergriff Toyota has a wide selection of new & used Toyota cars, trucks, and SUVs, including an excellent auto repair shop!",
-        "Official Site": "https://www.vandergrifftoyota.com/",
-        "Icon": "/static/v9/variations/oem-toyota/0004/v1/images/toyota-logo.svg",
-        "Redirect": "https://www.vandergrifftoyota.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.vandergrifftoyota.com/"
-    },
-    {
         "link": "https://divasplay.com",
         "Heading": "DivasPlay",
         "Abstract": "Divasplay es la red social de mayor crecimiento en latinoam\u00e9rica en 2022.\n    Puedes conectar con tus fans y monetizar tus contenidos de manera simple y efectiva.",
@@ -224,7 +214,7 @@
         "Heading": "\n      CutPrice Pharmacy: The Leading Online Pharmacy in Australia\n \u2013 CutPricePharmacy.com.au - Cut the price of your medications!",
         "Abstract": "The chemist online in Australia with all of your pharmaceutical needs. CutPrice Pharmacy offers a wide range of premium products for an affordable price.",
         "Official Site": "https://www.cutpricepharmacy.com.au/",
-        "Icon": "//cdn.shopify.com/s/files/1/0818/2657/files/favicon.png?crop=center&height=32&v=1750916990&width=32",
+        "Icon": "//www.cutpricepharmacy.com.au/cdn/shop/files/favicon.png?crop=center&height=32&v=1750916990&width=32",
         "Redirect": "https://www.cutpricepharmacy.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cutpricepharmacy.com.au/"
@@ -318,5 +308,15 @@
         "Redirect": "https://radiodisneyclub.fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://radiodisneyclub.fr/"
+    },
+    {
+        "link": "https://marvelous-usa.com",
+        "Heading": "Home | Marvelous USA",
+        "Abstract": "Delivering unique, innovative titles across multiple platforms and genres, XSEED Games is dedicated to publishing products that appeal to and enrich the North American market.",
+        "Official Site": "https://marvelous-usa.com/",
+        "Icon": "https://marvelous-usa.com/wp-content/uploads/2024/08/MARVELOUS_Favicon_192x192-100x100.png",
+        "Redirect": "https://marvelous-usa.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://marvelous-usa.com/"
     }
 ]
