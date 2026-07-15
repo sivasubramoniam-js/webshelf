@@ -30,6 +30,16 @@
         "AbstractURL": "https://aosc.io/"
     },
     {
+        "link": "https://atebion.es",
+        "Heading": "ATEBION Soluciones Integrales S.L.",
+        "Abstract": "Tienda creada con PrestaShop",
+        "Official Site": "https://www.atebion.es/",
+        "Icon": "https://www.atebion.es/img/favicon.ico?1500986504",
+        "Redirect": "https://www.atebion.es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.atebion.es/"
+    },
+    {
         "link": "https://atlasfiriem.info",
         "Heading": "Atlasfiriem.info - katal\u00f3g firiem a odkazov, mapy, obr\u00e1zky",
         "Abstract": "Preh\u013eadn\u00fd katal\u00f3g firiem a odkazov pre Slovensko i \u010cesk\u00fa republiku obsahuj\u00faci inform\u00e1cie o slu\u017eb\u00e1ch, cestovaniu, stavebn\u00edctve a in\u00e9.",
@@ -71,13 +81,13 @@
     },
     {
         "link": "https://benzshops.com",
-        "Heading": "BenzShops.com",
-        "Abstract": null,
-        "Official Site": "https://benzshops.com",
-        "Icon": "N/A",
-        "Redirect": "https://benzshops.com",
+        "Heading": "Mercedes-Benz Repair Shops - Find a Mercedes-Benz Mechanic | BenzShops",
+        "Abstract": "Looking for Mercedes-Benz Repair? Find thousands of independent repair shops specializing in Mercedes-Benz vehicles. We\u2019ll help you find a shop to service your Mercedes-Benz.",
+        "Official Site": "https://www.benzshops.com",
+        "Icon": "https://cdn.bimmershops.com/images/i/mercedes/favicon.ico",
+        "Redirect": "https://www.benzshops.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://benzshops.com"
+        "AbstractURL": "https://www.benzshops.com"
     },
     {
         "link": "https://bep365haiphong.vn",
@@ -98,26 +108,6 @@
         "Redirect": "https://bidtoart.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bidtoart.com"
-    },
-    {
-        "link": "https://bit-tween.ch",
-        "Heading": "Bit-Tween \u2014 VoIP, PBX, r\u00e9seau & s\u00e9curit\u00e9 IT en Suisse romande",
-        "Abstract": "Bit-Tween S\u00e0rl : int\u00e9grateur t\u00e9l\u00e9com et IT en Suisse romande depuis 1986. Sp\u00e9cialiste PBX (PBXware, 3CX, Yeastar), VoIP, infrastructure r\u00e9seau Ubiquiti, pare-feu Sonicwall, vid\u00e9osurveillance Hikvision. Devis gratuit.",
-        "Official Site": "https://www.bit-tween.ch/",
-        "Icon": "https://www.bit-tween.ch/images/og-bittween.jpg",
-        "Redirect": "https://www.bit-tween.ch/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bit-tween.ch/"
-    },
-    {
-        "link": "https://blpneumatic.com",
-        "Heading": "Professional Pneumatic Component Manufacturer - BLCH Pneumatic",
-        "Abstract": "BLCH is a non-regional enterprise specializing in R&D, production, sales and service maintenance of pneumatic components.",
-        "Official Site": "https://www.blpneumatic.com/",
-        "Icon": "https://www.blpneumatic.com/wp-content/uploads/2024/10/cropped-BLCH-logo-32x32.jpg",
-        "Redirect": "https://www.blpneumatic.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.blpneumatic.com/"
     },
     {
         "link": "https://bluefink.com",
@@ -248,26 +238,6 @@
         "Redirect": "https://culture360.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://culture360.org"
-    },
-    {
-        "link": "https://dailyprabhat.com",
-        "Heading": "Daily PRABHAT \u2013 Legacy of unbiased news",
-        "Abstract": "Legacy of unbiased news",
-        "Official Site": "https://www.dailyprabhat.com",
-        "Icon": "https://s0.wp.com/i/blank.jpg",
-        "Redirect": "https://www.dailyprabhat.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.dailyprabhat.com"
-    },
-    {
-        "link": "https://deandev.com",
-        "Heading": " M.Atef - Personal Blog & Portfolio",
-        "Abstract": "Personal Blog & Portfolio",
-        "Official Site": "https://deandev.com",
-        "Icon": "N/A",
-        "Redirect": "https://deandev.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://deandev.com"
     },
     {
         "link": "https://demountablecampergroup.com",

@@ -110,36 +110,6 @@
         "AbstractURL": "https://utopiverse.net"
     },
     {
-        "link": "https://fxbull.com",
-        "Heading": "fxbull.com\u00a0-\u00a0This website is for sale!\u00a0-\u00a0fx trading Investing Resources and Information.",
-        "Abstract": "This website is for sale! fxbull.com is your first and best source for information about fx trading Investing. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
-        "Official Site": "https://fxbull.com",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://fxbull.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fxbull.com"
-    },
-    {
-        "link": "https://trattoria-dafranco.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://trattoria-dafranco.com",
-        "Icon": "N/A",
-        "Redirect": "https://trattoria-dafranco.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://trattoria-dafranco.com"
-    },
-    {
-        "link": "https://terzas.es",
-        "Heading": "\n\t\tO Juan de Terzas, Desarrollo web.\n\t",
-        "Abstract": "Terzas es el lugar f\u00edsico y el sitio web donde reside O Juan D Terzas (Juan Carlos Martinez), Desarrollador de aplicaciones con tecnolog\u00eda web, independiente y distinto. Si quieres manejar a fondo tu sitio con conocimientos profundos sobre programacion y desarrollo web, puedo ayudarte: Sigue libremente mi aula abierta sobre programaci\u00f3n html, css y php",
-        "Official Site": "https://www.terzas.es/index.html",
-        "Icon": "https://www.terzas.es/cannis.jpg",
-        "Redirect": "https://www.terzas.es/index.html",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.terzas.es/index.html"
-    },
-    {
         "link": "https://starastronomy.org",
         "Heading": "Welcome to STAR Astronomy | STAR Astronomy",
         "Abstract": null,
@@ -181,13 +151,13 @@
     },
     {
         "link": "https://lofar.org",
-        "Heading": "LOFAR | ASTRON",
+        "Heading": "LOFAR \u2013 ASTRON",
         "Abstract": null,
-        "Official Site": "https://www.astron.nl/telescopes/lofar/",
-        "Icon": "https://www.astron.nl/wp-content/uploads/2020/05/header_lofar-scaled-e1589880886578.jpg",
-        "Redirect": "https://www.astron.nl/telescopes/lofar/",
+        "Official Site": "https://lofar.org",
+        "Icon": "https://www.astron.nl/wp-content/uploads/2020/02/favicon.ico",
+        "Redirect": "https://lofar.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.astron.nl/telescopes/lofar/"
+        "AbstractURL": "https://lofar.org"
     },
     {
         "link": "https://mainegraphics.com",

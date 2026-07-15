@@ -100,16 +100,6 @@
         "AbstractURL": "https://www.kjmcobuckle.com/"
     },
     {
-        "link": "https://kleinbahn-museum.de",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://kleinbahn-museum.de",
-        "Icon": "N/A",
-        "Redirect": "https://kleinbahn-museum.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kleinbahn-museum.de"
-    },
-    {
         "link": "https://koen.com",
         "Heading": "Afwisseling en avontuur in je baan - koen. voor jou voorop",
         "Abstract": "Werken bij koen in de techniek of bij de overheid. Uitdagende opdrachten | vast contract | veel opleidingsmogelijkheden",
@@ -118,6 +108,16 @@
         "Redirect": "https://www.koen.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.koen.com/"
+    },
+    {
+        "link": "https://korkuteliotokurtarma.com.tr",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://korkuteliotokurtarma.com.tr",
+        "Icon": "N/A",
+        "Redirect": "https://korkuteliotokurtarma.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://korkuteliotokurtarma.com.tr"
     },
     {
         "link": "https://kpbookonline.com",
@@ -198,16 +198,6 @@
         "Redirect": "https://www.lamourlife.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.lamourlife.com/"
-    },
-    {
-        "link": "https://lateknightbooks.com",
-        "Heading": "\n  Late Knight Books\n \u2013 Late Knight Books and Services, LLC",
-        "Abstract": "Image of a knight in armor, reading a book, with a cat peering over his shoulder.",
-        "Official Site": "https://lateknightbooks.com/",
-        "Icon": "http://lateknightbooks.com/cdn/shop/files/Knight_logo_122d04ee-8052-47d0-8c54-25f5124455f6.png?v=1753109066",
-        "Redirect": "https://lateknightbooks.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lateknightbooks.com/"
     },
     {
         "link": "https://lavinialingerie.com",
@@ -298,15 +288,5 @@
         "Redirect": "https://libreriamarini.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://libreriamarini.it"
-    },
-    {
-        "link": "https://librerieitaliane.it",
-        "Heading": "Librerie Italiane | LibrerieItaliane.it - Libri Scolastici usati, Libri scolastici online, libri scolastici nuovi scontati, valutazione libri usati",
-        "Abstract": "Benvenuti su LibrerieItaliane.it, leader nel mercato dei libri scolastici nuovi e usati. Siamo specializzati nell'acquisto immediato in contanti dei tuoi libri scolastici usati e offriamo una vasta gamma di libri nuovi scontati. Trova dizionari con sconti fino al 50% e prodotti di cartoleria, dai marchi low cost ai design pi\u00f9 esclusivi.",
-        "Official Site": "https://librerieitaliane.it",
-        "Icon": "https://librerieitaliane.it/public/uploads/all/gxnmbFTNWinh7ATaYzOvuDj3cpXJndospi8ZxJGG.svg",
-        "Redirect": "https://librerieitaliane.it",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://librerieitaliane.it"
     }
 ]

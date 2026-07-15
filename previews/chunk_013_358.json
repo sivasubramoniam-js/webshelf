@@ -40,16 +40,6 @@
         "AbstractURL": "https://ren-finthra.net/"
     },
     {
-        "link": "https://zevraen.space",
-        "Heading": "Zevraen",
-        "Abstract": null,
-        "Official Site": "https://zevraen.space",
-        "Icon": "N/A",
-        "Redirect": "https://zevraen.space",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zevraen.space"
-    },
-    {
         "link": "https://clesana.com",
         "Heading": "Verschwei\u00df-Toiletten aus der Schweiz - Clesana",
         "Abstract": "Verschwei\u00df-Toiletten mit Hochbarriere-Folie aus der Schweiz. Sicher, hygienisch, komfortabel & unabh\u00e4ngig - Clesana.",
@@ -221,10 +211,10 @@
     },
     {
         "link": "https://mdxczx.com",
-        "Heading": "\u5b81\u5fb7\u4e61\u6751\u4ea7\u4e1a\u79d1\u6280\u53d1\u5c55\u6709\u9650\u516c\u53f8",
+        "Heading": "\u6570\u5b57\u4e61\u6751\u670d\u52a1\u5e73\u53f0",
         "Abstract": null,
         "Official Site": "https://mdxczx.com",
-        "Icon": "/logo.png",
+        "Icon": "./vite.svg",
         "Redirect": "https://mdxczx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mdxczx.com"

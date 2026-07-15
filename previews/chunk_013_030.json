@@ -50,14 +50,24 @@
         "AbstractURL": "https://www.jewelrykg.com"
     },
     {
-        "link": "https://jjgmbh.de",
-        "Heading": "JJ GmbH | Fahrzeugteile online kaufen",
-        "Abstract": "Egal ob sie Alufelgen oder Z\u00fcndkerzen f\u00fcr ihr Fahrzeug suchen, bei und finden sie eine Vielzahl an Ersatz und Zubeh\u00f6rteilen f\u00fcr ihr Fahrzeug.",
-        "Official Site": "https://jjgmbh.de/",
-        "Icon": "https://jjgmbh.de/bilder/intern/shoplogo/JJ GmbH schriftzug WEB.png",
-        "Redirect": "https://jjgmbh.de/",
+        "link": "https://jj-lapp.com",
+        "Heading": "\n    LAPP Singapore |  Cables, Connectors & Cable Solutions Provider\n    ",
+        "Abstract": "LAPP offers 40,000+ cable products including cables, connectors, glands, assemblies, and industrial solutions for renewable energy, robotics, and more..",
+        "Official Site": "https://lapp.com.sg/",
+        "Icon": "//cdn.shopify.com/s/files/1/0991/7844/7157/files/fevicon_1.png?crop=center&height=32&v=1776920669&width=32",
+        "Redirect": "https://lapp.com.sg/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jjgmbh.de/"
+        "AbstractURL": "https://lapp.com.sg/"
+    },
+    {
+        "link": "https://jjmusicsales.com",
+        "Heading": "Music Instrument Store Canada & USA | JJ Music Sales & Repairs",
+        "Abstract": "Shop at Music Instrument Store in Canada & USA for quality guitars, pianos, amplifiers, and drums. Your top choice for best musical gears.",
+        "Official Site": "https://www.jjmusicsales.com/",
+        "Icon": "http://www.jjmusicsales.com/cdn/shop/files/logo_1d1e209c-bb49-4ee6-b910-25524b1a5bef.png?v=1631887163",
+        "Redirect": "https://www.jjmusicsales.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.jjmusicsales.com/"
     },
     {
         "link": "https://joesnydereurope.com",

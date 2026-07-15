@@ -31,10 +31,10 @@
     },
     {
         "link": "https://alphabasecoin.com",
-        "Heading": "Bot Verification",
-        "Abstract": null,
+        "Heading": "Alpha Base Coin",
+        "Abstract": "Alpha Base Coin \u2013 Your gateway to smart trading and secure investing. Access a range of portfolios, expert strategies, and real-time insights. Begin building your financial future today!",
         "Official Site": "https://alphabasecoin.com",
-        "Icon": "N/A",
+        "Icon": "https://alphabasecoin.com/styles/logo.png",
         "Redirect": "https://alphabasecoin.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alphabasecoin.com"
@@ -80,24 +80,14 @@
         "AbstractURL": "https://bc-berlin-nord.com"
     },
     {
-        "link": "https://addictivepoints.com",
-        "Heading": "Home - Addictivepoints",
-        "Abstract": "Discover expert guides, tips & news on FIFA, Skyrim & WoW from trusted gamers at AddictivePoints.",
-        "Official Site": "https://addictivepoints.com/",
-        "Icon": "https://addictivepoints.com/wp-content/uploads/2026/03/airtable_69c4c591a4a7d-1.jpeg",
-        "Redirect": "https://addictivepoints.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://addictivepoints.com/"
-    },
-    {
         "link": "https://jdland.com",
-        "Heading": "JDLand.com: Near Southeast DC Redevelopment",
-        "Abstract": "The latest news on the neighborhood by Nationals Park and the Navy Yard, on the Anacostia River.",
-        "Official Site": "/dc/index.cfm",
-        "Icon": "/dc/images/graphics/twitterprofile14.jpg",
-        "Redirect": "/dc/index.cfm",
+        "Heading": "Error - JDLand.com",
+        "Abstract": null,
+        "Official Site": "https://jdland.com",
+        "Icon": "N/A",
+        "Redirect": "https://jdland.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "/dc/index.cfm"
+        "AbstractURL": "https://jdland.com"
     },
     {
         "link": "https://airforcemuseum.co.nz",
@@ -218,15 +208,5 @@
         "Redirect": "https://kobilis.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kobilis.com"
-    },
-    {
-        "link": "https://modernautomation.ca",
-        "Heading": "Modern Automation \u2013 Modern Automation Home / Smart House solutions",
-        "Abstract": null,
-        "Official Site": "https://modernautomation.ca",
-        "Icon": "/wp-content/themes/quake/assets/images/favicon.png",
-        "Redirect": "https://modernautomation.ca",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://modernautomation.ca"
     }
 ]

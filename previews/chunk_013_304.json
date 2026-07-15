@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://andweknow.com",
-        "Heading": "Home - And We Know",
-        "Abstract": "And We Know Romans 8:28 LT's Podcast about the news and current events through a biblical lens.",
-        "Official Site": "https://andweknow.com/",
-        "Icon": "https://andweknow.com/wp-content/uploads/2023/11/d0a303a5ba1f814e.jpeg",
-        "Redirect": "https://andweknow.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://andweknow.com/"
-    },
-    {
         "link": "https://amcbmidwife.org",
         "Heading": "\n\tHome\n",
         "Abstract": null,
@@ -120,16 +110,6 @@
         "AbstractURL": "https://www.auto108.ru/"
     },
     {
-        "link": "https://nisccloud.com",
-        "Heading": "Web Hosting & Digital Marketing Agency in Kenya | Nisc Cloud",
-        "Abstract": "Nisc Cloud provides fast web hosting, domain registration, SEO, PPC, Media buying and creative marketing services in Kenya. Nairobi-based team, 99.9% uptime, expert support.",
-        "Official Site": "https://nisccloud.com",
-        "Icon": "/templates/nisccloud/images/NISCLOGO.png",
-        "Redirect": "https://nisccloud.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nisccloud.com"
-    },
-    {
         "link": "https://istlsfastyet.com",
         "Heading": "Is TLS Fast Yet?",
         "Abstract": "TLS has exactly one performance problem: it is not used widely enough. Everything else can be optimized.",
@@ -190,16 +170,6 @@
         "AbstractURL": "https://scuffeduno.online/"
     },
     {
-        "link": "https://crosscountryskier.com",
-        "Heading": "Cross Country Skier | The Journal of Nordic Skiing - Cross Country Skier",
-        "Abstract": "Gear Competition & news Destinations Tips & techniques Latest Issues",
-        "Official Site": "https://www.crosscountryskier.com/",
-        "Icon": "https://www.crosscountryskier.com/wp-content/uploads/2022/08/thomas-dils-ZEraBEoSRSw-unsplash-2-scaled.jpg",
-        "Redirect": "https://www.crosscountryskier.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.crosscountryskier.com/"
-    },
-    {
         "link": "https://bonbonbody.it",
         "Heading": "Ice Fishing Game Italia 2026 \u2013 App, Casino, Bet e Versione Live",
         "Abstract": "Guida completa a ice fishing game in Italia: how to play ice fishing game, ice fishing game app, bet, live, money e casino online. Analisi aggiornata 2026.",
@@ -218,6 +188,16 @@
         "Redirect": "https://dmww.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dmww.com"
+    },
+    {
+        "link": "https://traveltacoma.com",
+        "Heading": "Visit Tacoma-Pierce County | Trip Planning & Itineraries",
+        "Abstract": "Make your next trip unforgettable and see what Tacoma and the rest of Pierce County have to offer. From the forest trails of Mount Rainier to the crisp waters of Puget Sound, planning your vacation to the Tacoma area will be easy, but picking what to do first will be the hard part!",
+        "Official Site": "https://www.visitpiercecounty.com/",
+        "Icon": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/tacoma/Travel_Tacoma_Mt_Rainier_Mountain_City_Sea_e8cca7c4-d8af-4a64-90fe-0e1376bd6a59.jpg",
+        "Redirect": "https://www.visitpiercecounty.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.visitpiercecounty.com/"
     },
     {
         "link": "https://sunvalleycc.com",

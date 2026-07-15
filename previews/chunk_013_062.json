@@ -20,14 +20,14 @@
         "AbstractURL": "https://www.tanzweb.org/"
     },
     {
-        "link": "https://teehelen.com",
+        "link": "https://tarimnalbur.com.tr",
         "Heading": null,
         "Abstract": null,
-        "Official Site": "https://teehelen.com",
+        "Official Site": "https://tarimnalbur.com.tr",
         "Icon": "N/A",
-        "Redirect": "https://teehelen.com",
+        "Redirect": "https://tarimnalbur.com.tr",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://teehelen.com"
+        "AbstractURL": "https://tarimnalbur.com.tr"
     },
     {
         "link": "https://templecitywaterdamage.com",
@@ -38,16 +38,6 @@
         "Redirect": "https://templecitywaterdamage.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://templecitywaterdamage.com"
-    },
-    {
-        "link": "https://testus.mx",
-        "Heading": "TESTUS M\u00e9xico",
-        "Abstract": null,
-        "Official Site": "https://testus.mx",
-        "Icon": "N/A",
-        "Redirect": "https://testus.mx",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://testus.mx"
     },
     {
         "link": "https://thecope.ie",
@@ -174,7 +164,7 @@
         "Heading": "Thrash Metal Band Death Metal Albums Videos NWOBHM OldSchool Download",
         "Abstract": null,
         "Official Site": "https://thrashmageddon.org",
-        "Icon": "https://www.thrashmageddon.org/favicon.ico?v=2",
+        "Icon": "https://www.thrashmageddon.org/favicon.ico",
         "Redirect": "https://thrashmageddon.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thrashmageddon.org"
@@ -208,25 +198,5 @@
         "Redirect": "https://toapis.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://toapis.com"
-    },
-    {
-        "link": "https://tokolemone.com",
-        "Heading": "Tokolemone - Pusat Grosir & Reseller Resmi Produk Lemone Indonesia",
-        "Abstract": "Gabung sebagai reseller Lemone dan mulai bisnis tanpa modal besar. Produk berkualitas, harga grosir, dan sistem support yang terbukti menghasilkan.",
-        "Official Site": "https://tokolemone.com/",
-        "Icon": "https://tokolemone.com/wp-content/uploads/2026/04/Voucher-Join-Lemone-1-scaled-1.webp",
-        "Redirect": "https://tokolemone.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tokolemone.com/"
-    },
-    {
-        "link": "https://tokooshop.com",
-        "Heading": "Tokoo",
-        "Abstract": "",
-        "Official Site": "https://tokooshop.com/en/",
-        "Icon": "https://tokooshop.com/img/favicon.ico?1768328949",
-        "Redirect": "https://tokooshop.com/en/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tokooshop.com/en/"
     }
 ]

@@ -50,16 +50,6 @@
         "AbstractURL": "https://www.dystar.com/"
     },
     {
-        "link": "https://premiumserver1.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://premiumserver1.net",
-        "Icon": "N/A",
-        "Redirect": "https://premiumserver1.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://premiumserver1.net"
-    },
-    {
         "link": "https://pronosticobarcelona.com",
         "Heading": "Pron\u00f3stico Barcelona Hoy: Cuotas y Predicciones FC Barcelona",
         "Abstract": "Pron\u00f3sticos del FC Barcelona con cuotas actualizadas, estad\u00edsticas clave y mercados de apuestas para La Liga y Champions League.",
@@ -270,6 +260,16 @@
         "AbstractURL": "https://www.buymyname.com/"
     },
     {
+        "link": "https://gwiddle.co.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://gwiddle.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://gwiddle.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gwiddle.co.uk"
+    },
+    {
         "link": "https://knopman.com",
         "Heading": "Knopman Marks | Securities Exam Prep & Beyond",
         "Abstract": "For 30 years, Knopman Marks\u2019 world-class faculty, data-driven methodology, and flexible learning model have helped hundreds of thousands of students walk confidently out our doors, into their securities exams, and onto the next stage of their careers.",
@@ -301,7 +301,7 @@
     },
     {
         "link": "https://euclidmanagement.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://euclidmanagement.com",
         "Icon": "N/A",

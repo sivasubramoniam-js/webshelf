@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://thewebdev.info",
-        "Heading": "The Web Dev - A site all about web development.",
-        "Abstract": "A site all about web development.",
-        "Official Site": "https://thewebdev.info/",
-        "Icon": "https://thewebdev.info/wp-content/uploads/2020/03/2m71l9fa6mg.jpg",
-        "Redirect": "https://thewebdev.info/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thewebdev.info/"
-    },
-    {
         "link": "https://jimgonder.xyz",
         "Heading": null,
         "Abstract": null,
@@ -60,16 +50,6 @@
         "AbstractURL": "https://roysproperty.com"
     },
     {
-        "link": "https://australianextravirgin.com.au",
-        "Heading": "Australian Extra Virgin Olive Oil | EVOO | Healthy, Tasty, Fresh, Every day",
-        "Abstract": "Australian EVOO is fresh, tasty and healthy. Find recipes and everything you need to know about Australian Extra Virgin Olive Oil (AEVOO).",
-        "Official Site": "https://australianextravirgin.com.au/",
-        "Icon": "https://australianextravirgin.com.au/wp-content/uploads/2016/10/australian-olive-oil-everyday-small.png",
-        "Redirect": "https://australianextravirgin.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://australianextravirgin.com.au/"
-    },
-    {
         "link": "https://adroithost.com",
         "Heading": "Adroit Host internet Hizmetleri - Adroithost.com",
         "Abstract": null,
@@ -100,16 +80,6 @@
         "AbstractURL": "https://igwindkraft.at"
     },
     {
-        "link": "https://sedatio.net",
-        "Heading": "Home",
-        "Abstract": "Sedatio",
-        "Official Site": "https://sedatio.net",
-        "Icon": "/templates/protostar/favicon.ico",
-        "Redirect": "https://sedatio.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sedatio.net"
-    },
-    {
         "link": "https://sforge.com",
         "Heading": "SFORGE \u2022 Mixture of Experts: Web Apps, Hosting and More\u2026",
         "Abstract": "Mixture of Experts: Web Apps, Hosting and More\u2026",
@@ -138,6 +108,16 @@
         "Redirect": "https://www.ostseelive.tv/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ostseelive.tv/"
+    },
+    {
+        "link": "https://visitbgky.com",
+        "Heading": "Visit Bowling Green, KY | Hotels, Events, and Things to Do",
+        "Abstract": "Bowling Green, KY offers a great blend of outdoor activities, car festivals, races, great places to eat, and southern hospitality. Visit us today!",
+        "Official Site": "https://www.visitbgky.com/",
+        "Icon": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/bgky/Downtown_BG_MrGupton_blog_4f1d9ef9-c351-4bbd-9745-1c044a076987.jpg",
+        "Redirect": "https://www.visitbgky.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.visitbgky.com/"
     },
     {
         "link": "https://modellgarazs.hu",
@@ -214,7 +194,7 @@
         "Heading": "Dr. William Davis | Cardiologist & Author of Wheat Belly Books",
         "Abstract": "Dr. William Davis, cardiologist, author of the New York Times Bestselling Wheat Belly Books, and health crusader for the wheat-free, grain-free lifestyle",
         "Official Site": "https://drdavisinfinitehealth.com/",
-        "Icon": "https://drdavisinfinitehealth.com/wp-content/uploads/2022/01/wheat-belly-copy.jpg",
+        "Icon": "https://i0.wp.com/drdavisinfinitehealth.com/wp-content/uploads/2023/05/1.png?w=1080&ssl=1",
         "Redirect": "https://drdavisinfinitehealth.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://drdavisinfinitehealth.com/"

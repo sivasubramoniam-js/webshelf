@@ -100,16 +100,6 @@
         "AbstractURL": "https://78316.com"
     },
     {
-        "link": "https://dochoisukien.com",
-        "Heading": "\u0110\u1ed2 CH\u01a0I S\u1ef0 KI\u1ec6N, \u0110\u1ed2 CH\u01a0I TEAM BUILDING B\u01a0M H\u01a0I",
-        "Abstract": "Thi\u1ebft k\u1ebf, s\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m s\u1ef1 ki\u1ec7n, \u0111\u1ed3 ch\u01a1i s\u1ef1 ki\u1ec7n, \u0111\u1ed3 ch\u01a1i team building b\u01a1m h\u01a1i tr\u00ean c\u1ea1n v\u00e0 d\u01b0\u1edbi n\u01b0\u1edbc, gi\u00e1 c\u1ea1nh tranh th\u01b0\u01a1ng hi\u1ec7u Hitex \u0110\u00f4ng D\u01b0\u01a1ng",
-        "Official Site": "https://dochoisukien.com/",
-        "Icon": "https://dochoisukien.com/wp-content/uploads/2017/08/logo-dochoisukien.png",
-        "Redirect": "https://dochoisukien.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dochoisukien.com/"
-    },
-    {
         "link": "https://gorilla-auto.com",
         "Heading": "The Industry Leader for Automotive Accessories  | Gorilla Automotive",
         "Abstract": "Protecting the world's finest wheels.",
@@ -128,6 +118,16 @@
         "Redirect": "https://ddsmediapro.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ddsmediapro.com/"
+    },
+    {
+        "link": "https://shinjuku-omoide.com",
+        "Heading": "\u65b0\u5bbf\u897f\u53e3\u601d\u3044\u51fa\u6a2a\u4e01",
+        "Abstract": "\u6226\u5f8c\u304b\u3089\u7d9a\u304f\u662d\u548c\u30ec\u30c8\u30ed\u306a\u540d\u5e97\u8857\u30fb\u65b0\u5bbf\u897f\u53e3\u601d\u3044\u51fa\u6a2a\u4e01\u306e\u516c\u5f0f\u30b5\u30a4\u30c8",
+        "Official Site": "https://shinjuku-omoide.com",
+        "Icon": "https://shinjuku-omoide.com/wordpress/jp/wp-content/uploads/2021/02/favicon-1.png",
+        "Redirect": "https://shinjuku-omoide.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shinjuku-omoide.com"
     },
     {
         "link": "https://un1verse.com",
@@ -210,36 +210,6 @@
         "AbstractURL": "https://cardiffweb.co.uk/"
     },
     {
-        "link": "https://inred.ro",
-        "Heading": "Tipografie Arad \u2013 Print premium | Inred Business printing",
-        "Abstract": "Tipografie din Arad specializat\u0103 \u00een printuri premium pentru companii. C\u0103r\u021bi de vizit\u0103, flyere, pliante, cataloage, stickere \u0219i materiale comerciale realizate rapid, cu focus pe calitate \u0219i customer service....",
-        "Official Site": "https://www.inred.ro/",
-        "Icon": "https://www.inred.ro/image/cache/Template/inred-business-printing-arad-600x315.png",
-        "Redirect": "https://www.inred.ro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.inred.ro/"
-    },
-    {
-        "link": "https://tecnologiaargentina.com.mx",
-        "Heading": "TECNOLOGIA ARGENTINA - TECNOLOGIA ARGENTINA",
-        "Abstract": "Somos una tienda virtual mexicana que tiene como objetivo llegar a todos los usuarios de internet y poner a su alcance una amplia gama de art\u00edculos con los mejores precios, seguridad y confianza.",
-        "Official Site": "https://tecnologiaargentina.com.mx",
-        "Icon": "/img/favicon.ico?1706317913",
-        "Redirect": "https://tecnologiaargentina.com.mx",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tecnologiaargentina.com.mx"
-    },
-    {
-        "link": "https://cniel.com",
-        "Heading": "Bienvenue sur le site de l'interprofession laiti\u00e8re | Cniel",
-        "Abstract": null,
-        "Official Site": "https://cniel.com",
-        "Icon": "/themes/cniel/favicon.ico",
-        "Redirect": "https://cniel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cniel.com"
-    },
-    {
         "link": "https://i4eye.com",
         "Heading": "Index of /",
         "Abstract": null,
@@ -281,8 +251,8 @@
     },
     {
         "link": "https://efotolab.net",
-        "Heading": "EFotolab",
-        "Abstract": "EFotolab. The Best free photo and video galleries with beautiful girls",
+        "Heading": "EFotolab | The Best free photo and video galleries with beautiful girls | page 1",
+        "Abstract": null,
         "Official Site": "https://efotolab.net",
         "Icon": "N/A",
         "Redirect": "https://efotolab.net",

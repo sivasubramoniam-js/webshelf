@@ -10,16 +10,6 @@
         "AbstractURL": "https://splendith.nl/"
     },
     {
-        "link": "https://sporteque.ca",
-        "Heading": "Sport\u00e8que Drummondville | Sporteque",
-        "Abstract": "Sport\u00e8que sells firearms scuba diving equipment, hunting, fishing, outdoor gear, skis, snowboards, snowshoes, climbing, kayaks & running.",
-        "Official Site": "https://sporteque.ca/en/",
-        "Icon": "https://sporteque.ca/img/favicon.ico?1727467751",
-        "Redirect": "https://sporteque.ca/en/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sporteque.ca/en/"
-    },
-    {
         "link": "https://springcopenhagen.com",
         "Heading": "Spring Copenhagen | Boliginteri\u00f8r | Inspire to better everyday living",
         "Abstract": "Elsker du indretning og dansk design? Vi skaber unikt, dekorativt og funktionelt interi\u00f8r til dit hjem. Se vores store udvalg af boliginteri\u00f8r her.",
@@ -84,7 +74,7 @@
         "Heading": "Sticky Art: Stickere Autocolante, Ceasuri de Perete, Tapet \u0219i Fototapet Personalizate",
         "Abstract": "Descopera colectia noastra de stickere autocolante, ceasuri de perete, tapet si foto tapet la Sticky Art! Personalizeaza, transforma-ti spatiul si exprima-ti creativitatea",
         "Official Site": "https://www.sticky-art.ro",
-        "Icon": "https://s.cdnshm.com/site/1200x1200/sticky-art.ro.jpg?20260714",
+        "Icon": "https://s.cdnshm.com/site/1200x1200/sticky-art.ro.jpg?20260715",
         "Redirect": "https://www.sticky-art.ro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sticky-art.ro"
@@ -220,16 +210,6 @@
         "AbstractURL": "https://svitovederevo.ua/"
     },
     {
-        "link": "https://swiss-fittings.com",
-        "Heading": "Rohrleitungstechnik aus Edelstahl  - SWISS FITTINGS",
-        "Abstract": "Ihr Experte f\u00fcr Industriearamturen und Fittings: Von Edelstahl-Gewindefittings, Pressfittings, Flanschen bis zu Edelstahlarmaturen und Edelstahlrohre.",
-        "Official Site": "https://swiss-fittings.com",
-        "Icon": "https://www.swiss-fittings.com/media/favicon/default/fav.ico",
-        "Redirect": "https://swiss-fittings.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://swiss-fittings.com"
-    },
-    {
         "link": "https://syrow.com",
         "Heading": "AI + Human based Omnichannel Customer Experience Management Company :: Syrow",
         "Abstract": "Syrow a CSaaS Omnichannel 24x7 customer support services for your Business to improve Customer Experience by outsourcing at best price. Call or Chat with Syrow Team Now!",
@@ -241,13 +221,13 @@
     },
     {
         "link": "https://szczoteczki24.pl",
-        "Heading": "Szczoteczki Elektryczne do Z\u0119b\u00f3w, Higiena Jamy Ustnej i Ma\u0142e AGD - Szczoteczki24",
-        "Abstract": "\u2713 Najwi\u0119kszy wyb\u00f3r szczoteczek elektrycznych Oral-B, Philips, Braun \u2713 Pasty do z\u0119b\u00f3w, irygatory, AGD \u2713 Darmowa dostawa od 150PLN \u2713 Sprawd\u017a ofert\u0119!",
-        "Official Site": "https://szczoteczki24.pl/",
-        "Icon": "https://szczoteczki24.pl/skins/user/rwd_primary_16/images/logo.png",
-        "Redirect": "https://szczoteczki24.pl/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://szczoteczki24.pl",
+        "Icon": "N/A",
+        "Redirect": "https://szczoteczki24.pl",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://szczoteczki24.pl/"
+        "AbstractURL": "https://szczoteczki24.pl"
     },
     {
         "link": "https://taifilefree.com",
@@ -284,7 +264,7 @@
         "Heading": "American Express",
         "Abstract": "Huge discounts on quality furniture for your home - Save now at Tasker Online Store, Liverpool & Manchester",
         "Official Site": "https://www.taskersonline.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0248/0242/6966/files/Taskers-Logo-2024-Black-_Transparent_34fee3ec-6b5a-494a-8b4c-14c9cede9e3b.png?height=628&pad_color=ffffff&v=1738513223&width=1200",
+        "Icon": "http://www.taskersonline.com/cdn/shop/files/Taskers-Logo-2024-Black-_Transparent_34fee3ec-6b5a-494a-8b4c-14c9cede9e3b.png?height=628&pad_color=ffffff&v=1738513223&width=1200",
         "Redirect": "https://www.taskersonline.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.taskersonline.com/"
@@ -351,13 +331,13 @@
     },
     {
         "link": "https://texaschildrenspeople.org",
-        "Heading": "Best Children's Hospital in Texas",
-        "Abstract": "We invite you to Be The Difference at the best children\u2019s hospital in Texas and the nation for pediatric cardiology and heart surgery.",
-        "Official Site": "https://www.texaschildrenspeople.org/",
-        "Icon": "https://www.texaschildrenspeople.org/wp-content/uploads/2023/04/texas_childrens_hospital_share_8K_UHD-scaled.jpg",
-        "Redirect": "https://www.texaschildrenspeople.org/",
+        "Heading": "Texas Children\u2019s Careers | Healthcare Careers with Purpose",
+        "Abstract": "We are always looking for qualified individuals to join our team. Get to know us, search our open positions and begin exploring all the possibilities for your Texas Children\u2019s future today.",
+        "Official Site": "https://www.texaschildrens.org/careers",
+        "Icon": "/themes/custom/tc/favicon.ico",
+        "Redirect": "https://www.texaschildrens.org/careers",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.texaschildrenspeople.org/"
+        "AbstractURL": "https://www.texaschildrens.org/careers"
     },
     {
         "link": "https://text-verification.net",

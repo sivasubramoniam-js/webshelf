@@ -74,7 +74,7 @@
         "Heading": "mundizio - Reinigungs- und Hygienebedarf online kaufen",
         "Abstract": "Deutschlands gro\u00dfer Online-Shop f\u00fcr Reinigungs- und Hygieneartikel. Bestellen Sie aus \u00fcber 10.000 Artikel - Glasreinigungszubeh\u00f6r, Reinigungsmittel, Desinfektionsmittel, Hygienepapiere und vieles Mehr.",
         "Official Site": "https://www.mundizio.de/",
-        "Icon": "//www.mundizio.de/cdn/shop/files/favicon.png?crop=center&height=48&v=1753442481&width=48",
+        "Icon": "//cdn.shopify.com/s/files/1/0853/8351/2395/files/favicon.png?crop=center&height=48&v=1753442481&width=48",
         "Redirect": "https://www.mundizio.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mundizio.de/"
@@ -84,7 +84,7 @@
         "Heading": "Vinyl Records Online: Get Your Rare Classics & New Releases  \u2013 MusicCircle",
         "Abstract": "Over 36,000 Vinyl Records for Sale: Shop the best selection of new and used vinyl records at our store. Our staff can help you find the perfect addition to your record collection.",
         "Official Site": "https://musiccircle.co.in/",
-        "Icon": "//musiccircle.co.in/cdn/shop/files/musiccircle_siteicon_b3ee4fab-31d5-4ff6-aa1d-9a88c84ffaf0_32x32.png?v=1723723694",
+        "Icon": "//cdn.shopify.com/s/files/1/0674/4617/8082/files/musiccircle_siteicon_b3ee4fab-31d5-4ff6-aa1d-9a88c84ffaf0_32x32.png?v=1723723694",
         "Redirect": "https://musiccircle.co.in/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://musiccircle.co.in/"
@@ -200,6 +200,16 @@
         "AbstractURL": "https://nayasa.com/"
     },
     {
+        "link": "https://nazomori.net",
+        "Heading": "\u306a\u305e\u306a\u305e\u306e\u68ee\u30d7\u30e9\u30b9\uff0d\u304a\u3044\u3067\u3088\uff01 \u8a00\u306e\u8449\u3055\u304c\u3057\u306b\uff0d\uff08\u554f\u984c\u96c6\u3068\u9593\u9055\u3044\u63a2\u3057\uff09",
+        "Abstract": "\u697d\u3057\u3044\u306a\u305e\u306a\u305e\u554f\u984c\u96c6\u3001\u9593\u9055\u3044\u63a2\u3057\u30df\u30cb\u30b2\u30fc\u30e0\u3001\u304a\u3082\u3057\u308d\u30c0\u30b8\u30e3\u30ec\u602a\u8ac7\u30023\u6b73\u304b\u3089\u5927\u4eba\u307e\u30673000\u554f\u3002\u7b54\u3048\u304b\u3089\u63a2\u3059\u304a\u3046\u3061\u5b9d\u63a2\u3057\u7528\u306a\u305e\u306a\u305e\u3001\u30aa\u30ea\u30b8\u30ca\u30eb\u65b0\u4f5c\u3082\u30a2\u30c3\u30d7\u3002\u9762\u767d\u3060\u3058\u3083\u308c\u3001\u3072\u3063\u304b\u3051\u610f\u5730\u60aa\u3001\u4eca\u65e5\u306f\u4f55\u306e\u65e5\u3001\u5e7c\u5150\u5c0f\u5b66\u751f\u5411\u3051\u306e\u7c21\u5358\u30bf\u30a4\u30d7\u304b\u3089\u4e0a\u7d1a\u8005\u5411\u3051\u306e\u96e3\u89e3\u30bf\u30a4\u30d7\u307e\u3067\u3002\u7d75\u672c\u3082\u3042\u308b\u3088\u3002\u4f5c\u6210\u3084\u4f5c\u308a\u65b9\u306e\u30ec\u30af\u30c1\u30e3\u30fc\u3082\u8acb\u8ca0\u3002\u306a\u305e\u306a\u305e\u4f5c\u5bb6\u306b\u306a\u308d\u3046\uff01",
+        "Official Site": "https://nazomori.net",
+        "Icon": "https://nazomori.net/favicon/favicon.ico",
+        "Redirect": "https://nazomori.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nazomori.net"
+    },
+    {
         "link": "https://neelamfoodlandmumbai.com",
         "Heading": "Neelam Foodland Mumbai",
         "Abstract": "Founded in 1980 by a truly enthusiastic Mr. Nanji Shah, Neelam Foodland is a premium and retailer of a wide range of snacks, namkeen and other food items which not only gives you the satisfaction of full stomach but also carries with it the authentic taste and flavours of India to the diverse parts of the world.",
@@ -208,16 +218,6 @@
         "Redirect": "https://neelamfoodlandmumbai.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://neelamfoodlandmumbai.com/"
-    },
-    {
-        "link": "https://nemetorszagi-magyarok.de",
-        "Heading": "Home | N\u00e9metorsz\u00e1gi Magyarok",
-        "Abstract": null,
-        "Official Site": "https://nemetorszagi-magyarok.de",
-        "Icon": "/sites/default/files/favicon_517_transp_exp.png",
-        "Redirect": "https://nemetorszagi-magyarok.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nemetorszagi-magyarok.de"
     },
     {
         "link": "https://neodoll.com",
@@ -268,16 +268,6 @@
         "Redirect": "https://netschach.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://netschach.de"
-    },
-    {
-        "link": "https://neue-gladbecker-zeitung.de",
-        "Heading": "Nachrichten aus Gladbeck - NGZ - Neue Gladbecker Zeitung",
-        "Abstract": "Nachrichten und News aus Gladbeck und Umgebung",
-        "Official Site": "https://neue-gladbecker-zeitung.de/",
-        "Icon": "https://2dc1a6e6.delivery.rocketcdn.me/wp-content/uploads/2023/02/icon-381x381.jpg",
-        "Redirect": "https://neue-gladbecker-zeitung.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://neue-gladbecker-zeitung.de/"
     },
     {
         "link": "https://neutonic.com",
@@ -388,16 +378,6 @@
         "Redirect": "https://novaoflondon.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://novaoflondon.com/"
-    },
-    {
-        "link": "https://novenadimension.com",
-        "Heading": "La Novena Dimensi\u00f3n",
-        "Abstract": "Foro sobre C\u00f3mics en Espa\u00f1ol- Nos gustan los c\u00f3mics",
-        "Official Site": "https://foro.novenadimension.com/",
-        "Icon": "/pix/favicon.png",
-        "Redirect": "https://foro.novenadimension.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://foro.novenadimension.com/"
     },
     {
         "link": "https://np-enterprises.in",

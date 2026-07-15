@@ -20,16 +20,6 @@
         "AbstractURL": "https://andyfiord.com/"
     },
     {
-        "link": "https://levinevino.com",
-        "Heading": "Levinevino - Bits of Life, One Entry at a Time",
-        "Abstract": "Bits of Life, One Entry at a Time",
-        "Official Site": "https://levinevino.com/",
-        "Icon": "https://levinevino.com/wp-content/uploads/2025/10/cropped-images-5-32x32.png",
-        "Redirect": "https://levinevino.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://levinevino.com/"
-    },
-    {
         "link": "https://vinylflooringdirect.co.uk",
         "Heading": "LVT Flooring Online | Free Samples | Vinyl Flooring Direct",
         "Abstract": "Shop high-quality LVT flooring at competitive prices. Order free samples and use our room visualiser before you buy.",
@@ -50,16 +40,6 @@
         "AbstractURL": "https://www.pinnaclethemes.net/"
     },
     {
-        "link": "https://hitroplin.hr",
-        "Heading": "Naslovna - Hitro Plin",
-        "Abstract": null,
-        "Official Site": "https://hitroplin.hr/",
-        "Icon": "https://hitroplin.hr/wp-content/uploads/2020/06/favicon.png",
-        "Redirect": "https://hitroplin.hr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hitroplin.hr/"
-    },
-    {
         "link": "https://safetybrowsing.com",
         "Heading": "Safer Search",
         "Abstract": null,
@@ -74,7 +54,7 @@
         "Heading": "Strona G\u0142\u00f3wna | Nowy Dw\u00f3r Mazowiecki",
         "Abstract": "Oficjalny serwis internetowy Miasta",
         "Official Site": "https://nowydwormaz.pl",
-        "Icon": "favicon.ico?21991f9454887eca07ae92e9371bc923",
+        "Icon": "favicon.ico",
         "Redirect": "https://nowydwormaz.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nowydwormaz.pl"
@@ -88,6 +68,16 @@
         "Redirect": "https://www.panteergroup.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.panteergroup.de/"
+    },
+    {
+        "link": "https://thericatholic.com",
+        "Heading": "Rhode Island Catholic",
+        "Abstract": null,
+        "Official Site": "https://thericatholic.com/",
+        "Icon": "/images/favicon.png",
+        "Redirect": "https://thericatholic.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thericatholic.com/"
     },
     {
         "link": "https://venkateshmultistate.com",
@@ -138,16 +128,6 @@
         "Redirect": "https://mercurylang.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mercurylang.org"
-    },
-    {
-        "link": "https://serversc.com.br",
-        "Heading": "Server SC",
-        "Abstract": null,
-        "Official Site": "https://serversc.com.br",
-        "Icon": "N/A",
-        "Redirect": "https://serversc.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://serversc.com.br"
     },
     {
         "link": "https://winpure.com",
@@ -221,33 +201,13 @@
     },
     {
         "link": "https://aeedea.com",
-        "Heading": "Premium Motorcycle Accessories Worldwide | AeeDEA",
-        "Abstract": "Discover premium motorcycle accessories for riders worldwide. Built for performance and durability.",
+        "Heading": "Premium Adventure Motorcycle Accessories | AeeDEA",
+        "Abstract": "Shop premium motorcycle accessories for BMW GS, Harley-Davidson, Royal Enfield and Triumph. Explore footpegs, panniers, rider backrests, luggage systems and touring upgrades with worldwide shipping.",
         "Official Site": "https://www.aeedea.com/",
         "Icon": "//www.aeedea.com/cdn/shop/files/logo.png?crop=center&height=32&v=1742383403&width=32",
         "Redirect": "https://www.aeedea.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.aeedea.com/"
-    },
-    {
-        "link": "https://viacento.com",
-        "Heading": "Index of /",
-        "Abstract": null,
-        "Official Site": "https://viacento.com",
-        "Icon": "N/A",
-        "Redirect": "https://viacento.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://viacento.com"
-    },
-    {
-        "link": "https://quootz.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://quootz.com",
-        "Icon": "/android-icon-192x192.png",
-        "Redirect": "https://quootz.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://quootz.com"
     },
     {
         "link": "https://zorvaxinel-oficial.com",

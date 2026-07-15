@@ -140,26 +140,6 @@
         "AbstractURL": "https://itzonapparel.kr/"
     },
     {
-        "link": "https://ivnshop.ro",
-        "Heading": "Acas\u0103 - IVN Shop",
-        "Abstract": "IvnShop este un magazin online specializat pe accesorii auto de calitate cu pre\u021buri mici si transport gratuit pentru cump\u0103raturile de peste 500 de lei.",
-        "Official Site": "https://ivnshop.ro/",
-        "Icon": "https://ivnshop.ro/wp-content/uploads/2018/09/logo2.jpg",
-        "Redirect": "https://ivnshop.ro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ivnshop.ro/"
-    },
-    {
-        "link": "https://iwork4sindh.com",
-        "Heading": "    I Work 4 Sindh | Latest Sindh Government & Private Jobs Portal 2025\n - I Work 4 Sindh",
-        "Abstract": "        Explore Sindh government and private jobs on IWork4Sindh. Find new vacancies across Karachi and Sindh. Stay updated with top jobs in Pakistan.\n",
-        "Official Site": "https://iwork4sindh.com",
-        "Icon": "    https://iwork4sindh.com/frontend/assets/images/jobpilot.png\n",
-        "Redirect": "https://iwork4sindh.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://iwork4sindh.com"
-    },
-    {
         "link": "https://izoolabs.com",
         "Heading": "iZOOlabs - Incident Management Portal - Anti-Phishing",
         "Abstract": null,
@@ -191,8 +171,8 @@
     },
     {
         "link": "https://japaning.co.kr",
-        "Heading": "\uc77c\ubcf8\uc625\uc158\uad6c\ub9e4\ub300\ud589 - \uc7ac\ud32c\uc789",
-        "Abstract": "\uc77c\ubcf8\uad6c\ub9e4\ub300\ud589, \uc77c\ubcf8\uc9c1\uad6c, \uc77c\ubcf8\uc625\uc158, \uc77c\ubcf8 JDirectItems Auction, \uc544\ub9c8\uc874\uc7ac\ud32c, \ub77c\ucfe0\ud150 \ubc0f \uc77c\ubcf8\uc0c1\ud488 \uad6c\ub9e4\ub300\ud589 \ubc0f \uacbd\ub9e4\ub300\ud589\uc744 \uc81c\uacf5\ud558\ub294 \uc0ac\uc774\ud2b8 \uc1fc\ud551\ubab0\uc785\ub2c8\ub2e4.",
+        "Heading": "\uc77c\ubcf8 \uad6c\ub9e4\ub300\ud589, \uc77c\ubcf8 \uc9c1\uad6c, \uba54\ub8e8\uce74\ub9ac \uad6c\ub9e4\ub300\ud589 \uc7ac\ud32c\uc789",
+        "Abstract": "\uc77c\ubcf8 JDirectItems Auction, \uc77c\uc625, \ub77c\ucfe0\ud150, JDirectItems Shopping, \uc544\ub9c8\uc874, \uc870\uc870\ud0c0\uc6b4, \uba54\ub8e8\uce74\ub9ac \uad6c\ub9e4\ub300\ud589 \ub4f1 \uc77c\ubcf8 \uad6c\ub9e4\ub300\ud589 \uc0ac\uc774\ud2b8 \uc804\ubb38, \uc7ac\ud32c \uc9c1\uad6c\ub300\ud589 \ub610\ub294 \uc77c\ubcf8 \uacbd\ub9e4\ub300\ud589 \uc1fc\ud551\ubab0",
         "Official Site": "https://japaning.co.kr/",
         "Icon": "https://japaning.co.kr/images/japaning_og.png",
         "Redirect": "https://japaning.co.kr/",
@@ -200,11 +180,21 @@
         "AbstractURL": "https://japaning.co.kr/"
     },
     {
+        "link": "https://japexpressja.com",
+        "Heading": "Jamaica Auto Parts Express - Your one stop parts supermarket",
+        "Abstract": "Since 2018, Jamaica Auto Parts Express has been your one-stop solution for automotive needs, providing Online/In-Store New & Used Auto Parts, Full Service Garage, and quality Garage Equipment/Tool Supplies. Explore our latest offerings: Key Programming, Rent-A-Car services, and a wide range of Windshields for major brands. JapExpress - Your first choice in the largest online auto parts catalog in Jamaica.",
+        "Official Site": "https://japexpressja.com/",
+        "Icon": "https://japexpressja.com/wp-content/uploads/2023/04/cropped-LOGO.jpeg",
+        "Redirect": "https://japexpressja.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://japexpressja.com/"
+    },
+    {
         "link": "https://jardinforestier.com.tw",
         "Heading": "Jardin Forestier \u68ee\u6797\u6709\u584a\u7530-\u5b98\u65b9\u7db2\u7ad9",
         "Abstract": "\u63a2\u7d22\u68ee\u6797\u6709\u584a\u7530\u7684\u5404\u5f0f\u7642\u7652\u690d\u683d\uff0c\u5f9e\u5bf5\u7269\u53cb\u5584\u5230\u8fa6\u516c\u5ba4\u7da0\u5316\uff0c\u63d0\u4f9b\u6700\u512a\u8cea\u7684\u690d\u7269\u8207\u5712\u85dd\u7528\u54c1\u3002\u7acb\u5373\u9078\u8cfc\uff0c\u70ba\u751f\u6d3b\u6dfb\u4e00\u62b9\u7da0\u610f\uff01",
         "Official Site": "https://jardinforestier.com.tw/",
-        "Icon": "http://jardinforestier.com.tw/cdn/shop/files/Logo.jpg?v=1753622486",
+        "Icon": "http://cdn.shopify.com/s/files/1/0942/0803/3082/files/Logo.jpg?v=1753622486",
         "Redirect": "https://jardinforestier.com.tw/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jardinforestier.com.tw/"

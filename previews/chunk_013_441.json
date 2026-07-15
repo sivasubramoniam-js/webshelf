@@ -70,6 +70,16 @@
         "AbstractURL": "https://www.zaffrani.co.uk/"
     },
     {
+        "link": "https://port-broker.ru",
+        "Heading": "\u0422\u0430\u043c\u043e\u0436\u0435\u043d\u043d\u044b\u0439 \u0431\u0440\u043e\u043a\u0435\u0440",
+        "Abstract": null,
+        "Official Site": "https://port-broker.ru",
+        "Icon": "/templates/modern/images/favicons/favicon.ico",
+        "Redirect": "https://port-broker.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://port-broker.ru"
+    },
+    {
         "link": "https://urbisoft.co.uk",
         "Heading": "Custom Software Development Company London | Urbisoft",
         "Abstract": "Custom software development company in London. 20+ years building mobile, web, desktop, AI/ML and ERP/CRM systems for B2B \u2014 trusted by Stellantis & Fintecnic.",
@@ -78,16 +88,6 @@
         "Redirect": "https://urbisoft.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://urbisoft.co.uk/"
-    },
-    {
-        "link": "https://scansglobal.com",
-        "Heading": "Scans Global",
-        "Abstract": null,
-        "Official Site": "https://scansglobal.com",
-        "Icon": "N/A",
-        "Redirect": "https://scansglobal.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://scansglobal.com"
     },
     {
         "link": "https://atoiz.com",
@@ -118,16 +118,6 @@
         "Redirect": "https://budu5y.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://budu5y.ru"
-    },
-    {
-        "link": "https://canadianthoroughbred.com",
-        "Heading": "Canadian Thoroughbred \u2013 Canada's Horse Racing News",
-        "Abstract": "Canadian Thoroughbred horse racing news is the best place to get race reports and detailed news stories concerning horse racing in Canada.",
-        "Official Site": "https://canadianthoroughbred.com/",
-        "Icon": "https://canadianthoroughbred.s3.ca-central-1.amazonaws.com/wp-content/uploads/2020/04/06170155/cropped-favicon-32x32.png",
-        "Redirect": "https://canadianthoroughbred.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://canadianthoroughbred.com/"
     },
     {
         "link": "https://hyper88ways.com",
@@ -268,16 +258,6 @@
         "Redirect": "https://irthsolutions.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://irthsolutions.com"
-    },
-    {
-        "link": "https://genomebc.ca",
-        "Heading": "Genome BC - Genomics, health science, proteomics",
-        "Abstract": "Genome British Columbia leads genomics innovation on Canada\u2019s West Coast and facilitates the integration of genomics into society.",
-        "Official Site": "https://www.genomebc.ca/",
-        "Icon": "https://www.genomebc.ca/wp-content/uploads/2026/03/cropped-G-32x32.webp",
-        "Redirect": "https://www.genomebc.ca/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.genomebc.ca/"
     },
     {
         "link": "https://wandpdesign.com",

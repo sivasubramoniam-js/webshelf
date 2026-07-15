@@ -70,6 +70,16 @@
         "AbstractURL": "https://litrong.com/"
     },
     {
+        "link": "https://vni.lv",
+        "Heading": "Valsts nekustamie \u012bpa\u0161umi",
+        "Abstract": "",
+        "Official Site": "https://www.vni.lv/valsts-nekustamie-ipasumi",
+        "Icon": "https://www.vni.lv/uploads/2020/12/large-images/VNIpeleksJPG-large.jpg",
+        "Redirect": "https://www.vni.lv/valsts-nekustamie-ipasumi",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.vni.lv/valsts-nekustamie-ipasumi"
+    },
+    {
         "link": "https://middleeastkr.com",
         "Heading": "Middle East \u2013 Trading Company",
         "Abstract": null,
@@ -108,16 +118,6 @@
         "Redirect": "https://kaunasin.lt/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kaunasin.lt/"
-    },
-    {
-        "link": "https://bluesmart.com",
-        "Heading": "Bluesmart",
-        "Abstract": "Smart Luggage",
-        "Official Site": "https://bluesmart.com",
-        "Icon": "N/A",
-        "Redirect": "https://bluesmart.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bluesmart.com"
     },
     {
         "link": "https://theiguides.org",
