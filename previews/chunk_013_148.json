@@ -21,23 +21,13 @@
     },
     {
         "link": "https://yourmoscow.ru",
-        "Heading": "KillBot user verification [52.159.227.192] [Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36]...",
+        "Heading": "KillBot user verification [135.232.201.234] [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36]...",
         "Abstract": null,
         "Official Site": "https://yourmoscow.ru",
         "Icon": "N/A",
         "Redirect": "https://yourmoscow.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yourmoscow.ru"
-    },
-    {
-        "link": "https://actorsulamec.xyz",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://actorsulamec.xyz",
-        "Icon": "N/A",
-        "Redirect": "https://actorsulamec.xyz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://actorsulamec.xyz"
     },
     {
         "link": "https://airpodshq.lt",
@@ -50,6 +40,16 @@
         "AbstractURL": "https://airpodshq.lt"
     },
     {
+        "link": "https://tummath.com",
+        "Heading": "Tum Math",
+        "Abstract": null,
+        "Official Site": "https://tummath.com",
+        "Icon": "N/A",
+        "Redirect": "https://tummath.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tummath.com"
+    },
+    {
         "link": "https://sendai-kousei-hospital.jp",
         "Heading": "\u4ed9\u53f0\u539a\u751f\u75c5\u9662",
         "Abstract": "\u4e00\u822c\u8ca1\u56e3\u6cd5\u4eba\u539a\u751f\u4f1a\u3000\u4ed9\u53f0\u539a\u751f\u75c5\u9662\u306f\u5730\u57df\u533b\u7642\u652f\u63f4\u75c5\u9662\u3067\u3059\u3002\u5faa\u74b0\u5668\u3001\u547c\u5438\u5668\u3001\u6d88\u5316\u5668\u3092\u4e2d\u5fc3\u306b\u5fc3\u81d3\u8840\u7ba1\u5916\u79d1\u3001\u653e\u5c04\u7dda\u79d1\u3001\u7cd6\u5c3f\u75c5\u4ee3\u8b1d\u5185\u79d1\u3001\u75c5\u7406\u8a3a\u65ad\u79d1\u306e\u8a3a\u7642\u3084\u4eba\u9593\u30c9\u30c3\u30af\u3001\u6551\u6025\u5916\u6765\u306a\u3069\u3092\u6271\u3063\u3066\u3044\u307e\u3059\u3002\u5bae\u57ce\u770c\u4ed9\u53f0\u5e02\u9752\u8449\u533a\u5824\u901a\u96e8\u5bae\u753a1-20",
@@ -58,6 +58,16 @@
         "Redirect": "https://www.sendai-kousei-hospital.jp",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sendai-kousei-hospital.jp"
+    },
+    {
+        "link": "https://vv411.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://vv411.com",
+        "Icon": "data:;",
+        "Redirect": "https://vv411.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vv411.com"
     },
     {
         "link": "https://evan-roth.com",
@@ -200,6 +210,16 @@
         "AbstractURL": "https://aicafe.ru"
     },
     {
+        "link": "https://urbanecafe.com",
+        "Heading": "Urbane Cafe",
+        "Abstract": "Visit Urbane Cafe for lunch or dinner and you'll discover a fast, affordable restaurant serving delicious gourmet sandwiches and fresh, healthy salads.",
+        "Official Site": "https://urbanecafe.com/",
+        "Icon": "https://urbanecafe.com/wp-content/uploads/2019/12/19_Urbane_TableFlatLay-1759_web.jpg",
+        "Redirect": "https://urbanecafe.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://urbanecafe.com/"
+    },
+    {
         "link": "https://workwithpride.jp",
         "Heading": "work with Pride - Home",
         "Abstract": "work with Pride\u306f\u3001\u4f01\u696d\u7b49\u306e\u67a0\u7d44\u307f\u3092\u8d85\u3048\u3066\u3001LGBT\u304c\u50cd\u304d\u3084\u3059\u3044\u8077\u5834\u3065\u304f\u308a\u3092\u76ee\u6307\u3057\u307e\u3059\u3002",
@@ -250,6 +270,26 @@
         "AbstractURL": "https://www.tudigo.com/"
     },
     {
+        "link": "https://achology.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://achology.com",
+        "Icon": "data:;",
+        "Redirect": "https://achology.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://achology.com"
+    },
+    {
+        "link": "https://priligy.me",
+        "Heading": "Media Web PM",
+        "Abstract": null,
+        "Official Site": "https://priligy.me",
+        "Icon": "N/A",
+        "Redirect": "https://priligy.me",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://priligy.me"
+    },
+    {
         "link": "https://schloss-drachenburg.de",
         "Heading": "Schloss Drachenburg",
         "Abstract": "Schloss Drachenburg, eine Ikone der Rheinromantik",
@@ -260,6 +300,16 @@
         "AbstractURL": "https://www.schloss-drachenburg.de/de/"
     },
     {
+        "link": "https://amaniafrica-et.org",
+        "Heading": "Home - Amani Africa",
+        "Abstract": null,
+        "Official Site": "https://amaniafrica-et.org/",
+        "Icon": "https://amaniafrica-et.org/wp-content/uploads/2021/05/cropped-FavIcon-32x32.png",
+        "Redirect": "https://amaniafrica-et.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amaniafrica-et.org/"
+    },
+    {
         "link": "https://fxopenaffiliate.com",
         "Heading": "Forex Affiliate & Partnership Program | Become a Forex Affiliate | FXOpen",
         "Abstract": "Become a Forex Affiliate with FXOpen Forex Broker - Forex Partnership Program. Multilevel Partnership. Partnership Program for PAMM and White Label.",
@@ -268,5 +318,15 @@
         "Redirect": "https://fxopenaffiliate.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fxopenaffiliate.com/"
+    },
+    {
+        "link": "https://ielts-simon.com",
+        "Heading": "IELTS Simon | Homepage",
+        "Abstract": null,
+        "Official Site": "https://ielts-simon.com",
+        "Icon": "https://ielts-simon.com/wp-content/uploads/2025/11/cropped-Logo-1-32x32.png",
+        "Redirect": "https://ielts-simon.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ielts-simon.com"
     }
 ]

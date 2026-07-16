@@ -10,16 +10,6 @@
         "AbstractURL": "https://www.rungoapp.com"
     },
     {
-        "link": "https://rebenok.cn.ua",
-        "Heading": "\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0444\u043e\u0440\u0443\u043c \u043f\u0440\u043e \u0434\u0456\u0442\u0435\u0439 - \u0413\u043e\u043b\u043e\u0432\u043d\u0430 \u0444\u043e\u0440\u0443\u043c\u0430",
-        "Abstract": "\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0444\u043e\u0440\u0443\u043c \u043f\u0440\u043e \u0434\u0456\u0442\u0435\u0439 - \u0413\u043e\u043b\u043e\u0432\u043d\u0430 \u0444\u043e\u0440\u0443\u043c\u0430",
-        "Official Site": "https://rebenok.cn.ua",
-        "Icon": "N/A",
-        "Redirect": "https://rebenok.cn.ua",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rebenok.cn.ua"
-    },
-    {
         "link": "https://publimarcas.cl",
         "Heading": " Publimarcas - Dise\u00f1o Inteligente",
         "Abstract": "Somos una empresa de publicidad que naci\u00f3 hace m\u00e1s de 15 a\u00f1os en la Regi\u00f3n del B\u00edobio. otorgando las mejores soluciones digitales a nuestros clientes de todo el mundo",
@@ -190,6 +180,16 @@
         "AbstractURL": "https://brennan.io/"
     },
     {
+        "link": "https://britsoccrim.org",
+        "Heading": "British Society of Criminology",
+        "Abstract": null,
+        "Official Site": "https://britsoccrim.org",
+        "Icon": "N/A",
+        "Redirect": "https://britsoccrim.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://britsoccrim.org"
+    },
+    {
         "link": "https://louisianarecord.com",
         "Heading": "Louisiana Record | legalnewsline.com",
         "Abstract": "Get the latest legal news in Louisiana from the Louisiana Record. In-depth coverage of lawsuits, courts, legislation, and more.",
@@ -298,5 +298,15 @@
         "Redirect": "https://indowebhost.co.id/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://indowebhost.co.id/"
+    },
+    {
+        "link": "https://envitect.com",
+        "Heading": "ACP Sheet Manufacturer in India | Aluminium Composite Panels",
+        "Abstract": "Leading ACP Sheet Manufacturer in India offering Aluminium Composite Panels, ACP Boards & facade solutions for modern architectural projects.",
+        "Official Site": "https://envitect.com/",
+        "Icon": "https://envitect.com/wp-content/uploads/2024/04/about-bg.webp",
+        "Redirect": "https://envitect.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://envitect.com/"
     }
 ]

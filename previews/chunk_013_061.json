@@ -80,6 +80,16 @@
         "AbstractURL": "https://www.skerosfurniture.com/"
     },
     {
+        "link": "https://skirtwood.com.au",
+        "Heading": "Timber & Building Supplies Brisbane | Skirtwood Building Supplies",
+        "Abstract": "Looking for quality building supplies in Brisbane? Skirtwood is your local merchant for hardwood, treated pine, structural timber & more. Reliable delivery & wholesale options available.",
+        "Official Site": "https://skirtwood.com.au/",
+        "Icon": "https://skirtwood.com.au/wp-content/uploads/2025/02/cropped-skirtwood-logo-32x32.png",
+        "Redirect": "https://skirtwood.com.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://skirtwood.com.au/"
+    },
+    {
         "link": "https://smallshi.com",
         "Heading": "SmallShi",
         "Abstract": null,
@@ -104,7 +114,7 @@
         "Heading": "\n      Smith's Compounding Pharmacy - Drugstore, Health Beauty\n",
         "Abstract": "Provides you with the finest and the most professional supplement offering along with herbs, homeopathics, body care products.",
         "Official Site": "https://smithspharmacy.ca/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0545/1287/7767/files/imageedit_3_7338913493.png?v=1735934350",
+        "Icon": "http://smithspharmacy.ca/cdn/shop/files/imageedit_3_7338913493.png?v=1735934350",
         "Redirect": "https://smithspharmacy.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://smithspharmacy.ca/"
@@ -158,6 +168,16 @@
         "Redirect": "https://spa-plus.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://spa-plus.eu/"
+    },
+    {
+        "link": "https://spawebshop.com",
+        "Heading": "Spawebshop.com",
+        "Abstract": "De specialistische webshop met meer dan 1200 artikelen, levering in Nederland en Belgi\u00eb! U kunt bij Spawebshop.com eenvoudig uw filters, onderhoudsmiddelen en andere benodigdheden voor uw spa of sauna aanschaffen. Wij leveren alle bekende merken zoals Balboa, Gecko, Aquafinesse, SpaLine, Life, SPA Line, Melpool productenlijnen.",
+        "Official Site": "https://spawebshop.com",
+        "Icon": "/image/favicon.ico",
+        "Redirect": "https://spawebshop.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://spawebshop.com"
     },
     {
         "link": "https://speedmark.com",
@@ -240,16 +260,6 @@
         "AbstractURL": "https://starsales.com"
     },
     {
-        "link": "https://stefanmoravcik.sk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://stefanmoravcik.sk",
-        "Icon": "N/A",
-        "Redirect": "https://stefanmoravcik.sk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stefanmoravcik.sk"
-    },
-    {
         "link": "https://sterlingshop.com",
         "Heading": "The Sterling Shop, Inc.",
         "Abstract": null,
@@ -328,5 +338,15 @@
         "Redirect": "https://swissvoip.ch",
         "AbstractSource": "BS4",
         "AbstractURL": "https://swissvoip.ch"
+    },
+    {
+        "link": "https://syndromicsurveillance.org",
+        "Heading": "NSSP Community of Practice",
+        "Abstract": "\"Advancing syndromic surveillance practice by leveraging the expertise and resources of members to strengthen public health surveillance capabilities nationwide.\" New Syndromic Surveillance Resource! Disability Definitions Implementation Toolkit: Enhancing Syndromic Surveillance for Emergency Response CSTE is excited to announce the publication of a new resource, Disability Definitions Implementation Toolkit: Enhancing Syndromic Surveillance for Emergency Response. This",
+        "Official Site": "https://nsspcommunityofpractice.org/",
+        "Icon": "N/A",
+        "Redirect": "https://nsspcommunityofpractice.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nsspcommunityofpractice.org/"
     }
 ]

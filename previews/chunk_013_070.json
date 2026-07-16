@@ -161,13 +161,13 @@
     },
     {
         "link": "https://seegreatart.art",
-        "Heading": "See Great Art - Sharing great art from across North America",
-        "Abstract": "Sharing great art from across North America",
-        "Official Site": "https://www.seegreatart.art/",
-        "Icon": "https://www.seegreatart.art/wp-content/uploads/2020/09/cropped-See-Great-Art-32x32.jpg",
-        "Redirect": "https://www.seegreatart.art/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://seegreatart.art",
+        "Icon": "data:;",
+        "Redirect": "https://seegreatart.art",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.seegreatart.art/"
+        "AbstractURL": "https://seegreatart.art"
     },
     {
         "link": "https://mujin.co.jp",
@@ -210,6 +210,16 @@
         "AbstractURL": "https://adventurama.com.ar"
     },
     {
+        "link": "https://amarbebsha.com",
+        "Heading": "Best Digital Marketing Agency in BD | Consultancy | Hospitality & Food",
+        "Abstract": "Expert in digital marketing solutions, experienced in the hospitality & food business, and best consultancy services for local and foreign investors.",
+        "Official Site": "https://amarbebsha.com/",
+        "Icon": "https://www.amarbebsha.com/wp-content/uploads/2021/07/amarbebsha-about-us.jpg",
+        "Redirect": "https://amarbebsha.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amarbebsha.com/"
+    },
+    {
         "link": "https://coinvaultexchange.com",
         "Heading": "CoinVaultExchange.com is for sale | HugeDomains",
         "Abstract": "Providing a surprisingly human shopping experience. Trusted and secure. Millions of domains to choose from.",
@@ -218,6 +228,16 @@
         "Redirect": "https://www.hugeDomains.com/domain_profile.cfm?d=CoinVaultExchange.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=CoinVaultExchange.com"
+    },
+    {
+        "link": "https://serrasultelecom.com.br",
+        "Heading": "SERRASUL \u2013 Internet 100% Fibra \u00d3ptica",
+        "Abstract": null,
+        "Official Site": "https://serrasultelecom.com.br",
+        "Icon": "https://serrasultelecom.com.br/wp-content/uploads/2023/07/cropped-serrasul-icon-32x32.png",
+        "Redirect": "https://serrasultelecom.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://serrasultelecom.com.br"
     },
     {
         "link": "https://backstageviral.com",

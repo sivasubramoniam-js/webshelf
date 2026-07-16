@@ -30,6 +30,16 @@
         "AbstractURL": "https://steerwebserver.com"
     },
     {
+        "link": "https://clarkmhc.com",
+        "Heading": "CLARK Material Handling Company | New Forklifts for Sale",
+        "Abstract": "Discover CLARK, a top material handling company. From lifting equipment & forklifts to innovative handling systems, we offer the best products for your needs.",
+        "Official Site": "https://www.clarkmhc.com/",
+        "Icon": "https://www.clarkmhc.com/wp-content/uploads/2024/05/social-share.jpg",
+        "Redirect": "https://www.clarkmhc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.clarkmhc.com/"
+    },
+    {
         "link": "https://4x5y.com",
         "Heading": "\u6c34\u5730\u5bfc\u822a - Powered by 4x5y.com",
         "Abstract": "www.4x5y.com",
@@ -48,6 +58,16 @@
         "Redirect": "https://xanthir.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xanthir.com"
+    },
+    {
+        "link": "https://hashmanis.com.pk",
+        "Heading": "Hashmanis Group of Hospital",
+        "Abstract": "Hashmanis Group of Hospital is a leading eye care hospital in Pakistan, offering advanced ophthalmology treatments, expert doctors, and trusted vision care services.",
+        "Official Site": "https://hashmanis.com.pk/",
+        "Icon": "https://hashmanis.com.pk/wp-content/uploads/2021/04/hash-fav.png",
+        "Redirect": "https://hashmanis.com.pk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hashmanis.com.pk/"
     },
     {
         "link": "https://harshdesigns.com",
@@ -71,13 +91,13 @@
     },
     {
         "link": "https://travelbuddy.mx",
-        "Heading": "TravelBuddy.mx - Your Personal Travel Guide - Flights, Hotels & Local Travel Tips \u2014 All in One Place",
-        "Abstract": "Discover unforgettable adventures with TravelBuddy.mx - Your Personal Travel Guide! Your ultimate guide for travel tips, destination guides, and exclusive deals.",
-        "Official Site": "https://travelbuddy.mx/",
-        "Icon": "https://travelbuddy.mx/wp-content/uploads/2024/06/12686.jpg",
-        "Redirect": "https://travelbuddy.mx/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://travelbuddy.mx",
+        "Icon": "data:;",
+        "Redirect": "https://travelbuddy.mx",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://travelbuddy.mx/"
+        "AbstractURL": "https://travelbuddy.mx"
     },
     {
         "link": "https://34mag.net",
@@ -98,16 +118,6 @@
         "Redirect": "https://felloai.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://felloai.com/"
-    },
-    {
-        "link": "https://16366.ee",
-        "Heading": "Infoteenus 16366",
-        "Abstract": "Eesti firmade andmebaas",
-        "Official Site": "https://16366.ee",
-        "Icon": "/16366.ico",
-        "Redirect": "https://16366.ee",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://16366.ee"
     },
     {
         "link": "https://eileenwest.com",
@@ -158,6 +168,16 @@
         "Redirect": "https://rv4investimentos.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rv4investimentos.com.br"
+    },
+    {
+        "link": "https://appa-mtc.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://appa-mtc.org",
+        "Icon": "data:;",
+        "Redirect": "https://appa-mtc.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://appa-mtc.org"
     },
     {
         "link": "https://seeger-werbung.de",
@@ -260,6 +280,16 @@
         "AbstractURL": "https://www.yuliamoatti.com/"
     },
     {
+        "link": "https://sharewarejunkies.com",
+        "Heading": "The Oldest Software Review Site",
+        "Abstract": "A1 Shareware Evaluations  - The Internets oldest Software Review site 6000 + pages, downloads, News, Links, shareware and freeware",
+        "Official Site": "https://sharewarejunkies.com",
+        "Icon": "N/A",
+        "Redirect": "https://sharewarejunkies.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sharewarejunkies.com"
+    },
+    {
         "link": "https://ufo777logi.com",
         "Heading": "UFO777 : Situs Slot Gacor Resmi dengan RTP Tertinggi",
         "Abstract": "UFO777 adalah situs slot gacor resmi dengan RTP tertinggi, peluang menang besar, bonus melimpah, dan game mudah jackpot setiap hari!",
@@ -268,5 +298,15 @@
         "Redirect": "https://ufo777logi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ufo777logi.com"
+    },
+    {
+        "link": "https://boise.org",
+        "Heading": "Visit Boise Where downtown energy meets trailside adventure.",
+        "Abstract": "Boise offers the best of both worlds\u2014fresh air and open trails coupled with the energy of a vibrant, thriving city. All right outside your door.",
+        "Official Site": "https://visitboise.com/",
+        "Icon": "https://visitboise.com/wp-content/uploads/2022/05/NEWskyline2019v21-scaled.jpg",
+        "Redirect": "https://visitboise.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://visitboise.com/"
     }
 ]

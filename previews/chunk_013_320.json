@@ -30,6 +30,16 @@
         "AbstractURL": "https://provenceshop.com.ua"
     },
     {
+        "link": "https://ineskohl.info",
+        "Heading": "InesKohl Kitchen",
+        "Abstract": "Easy & Tasty Recipes",
+        "Official Site": "https://ineskohl.info/",
+        "Icon": "https://i0.wp.com/ineskohl.info/wp-content/uploads/cropped-spatula.png?fit=32%2C32&ssl=1",
+        "Redirect": "https://ineskohl.info/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ineskohl.info/"
+    },
+    {
         "link": "https://vipbook.info",
         "Heading": null,
         "Abstract": null,
@@ -98,6 +108,16 @@
         "Redirect": "https://www.ecanopy.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ecanopy.com/"
+    },
+    {
+        "link": "https://momandmore.com",
+        "Heading": "Mom and More- Hosting Fabulous Giveaways and Product Reviews",
+        "Abstract": "Hosting Fabulous Giveaways and Product Reviews",
+        "Official Site": "https://momandmore.com/",
+        "Icon": "https://momandmore.com/wp-content/uploads/2017/04/cropped-mom-and-more-1-1-32x32.png",
+        "Redirect": "https://momandmore.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://momandmore.com/"
     },
     {
         "link": "https://rooibosbeautiq.co.za",

@@ -10,16 +10,6 @@
         "AbstractURL": "https://njsubu.com"
     },
     {
-        "link": "https://noizefield.com",
-        "Heading": "Noizefield - Music and Sound Design Blog",
-        "Abstract": "Noizefield.com is an independent music production and sound design blog about making music, offering exclusive downloads of free vst plugins, audio samples and presets.",
-        "Official Site": "https://www.noizefield.com/",
-        "Icon": "https://www.noizefield.com/wp-content/uploads/2022/11/Noizefield_AMP_Logo.webp",
-        "Redirect": "https://www.noizefield.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.noizefield.com/"
-    },
-    {
         "link": "https://nomicom.xyz",
         "Heading": "Welcome to nginx!",
         "Abstract": null,
@@ -38,6 +28,16 @@
         "Redirect": "https://nudi-esymu.site",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nudi-esymu.site"
+    },
+    {
+        "link": "https://obcas.pl",
+        "Heading": "Czego nie wiemy o naszych idolach? Nieznane fakty z \u017cycia gwiazd! - Obcas.pl",
+        "Abstract": "Plotki, newsy, lifestyle!",
+        "Official Site": "https://obcas.pl/",
+        "Icon": "https://obcas.pl/wp-content/uploads/2019/02/hhh-4.png",
+        "Redirect": "https://obcas.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://obcas.pl/"
     },
     {
         "link": "https://oberkochen-heimatverein.de",

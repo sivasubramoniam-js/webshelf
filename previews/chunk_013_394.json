@@ -31,13 +31,13 @@
     },
     {
         "link": "https://flashfictionmagazine.com",
-        "Heading": "Flash Fiction Magazine \u2013 Daily Flash Fiction Stories",
-        "Abstract": "We publish one flash fiction story a day. Flash fiction stories are 1000 words or less. Visit our site to read a variety of stories or submit your own.",
-        "Official Site": "https://flashfictionmagazine.com/",
-        "Icon": "https://flashfictionmagazine.com/wp-content/uploads/2019/12/5-minutes.png",
-        "Redirect": "https://flashfictionmagazine.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://flashfictionmagazine.com",
+        "Icon": "data:;",
+        "Redirect": "https://flashfictionmagazine.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://flashfictionmagazine.com/"
+        "AbstractURL": "https://flashfictionmagazine.com"
     },
     {
         "link": "https://ville-firminy.fr",
@@ -81,13 +81,13 @@
     },
     {
         "link": "https://couragetoresist.org",
-        "Heading": "Courage to Resist - Supporting Military War Resisters (2004-2024)",
-        "Abstract": "Courage to Resist was an Oakland CA based organized that supported US military war resisters, conscientious objectors, and truth tellers.",
-        "Official Site": "https://couragetoresist.org/",
-        "Icon": "https://couragetoresist.org/wp-content/uploads/2018/10/didnt-enlist-man3.jpg",
-        "Redirect": "https://couragetoresist.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://couragetoresist.org",
+        "Icon": "data:;",
+        "Redirect": "https://couragetoresist.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://couragetoresist.org/"
+        "AbstractURL": "https://couragetoresist.org"
     },
     {
         "link": "https://kenminhall.com",
@@ -158,6 +158,16 @@
         "Redirect": "https://boar.network",
         "AbstractSource": "BS4",
         "AbstractURL": "https://boar.network"
+    },
+    {
+        "link": "https://haaner-tv.de",
+        "Heading": "Haaner Turnverein 1863 e.V. |",
+        "Abstract": null,
+        "Official Site": "https://haaner-tv.de",
+        "Icon": "https://www.haaner-tv.de/wp-content/uploads/sites/2/2019/04/cropped-favicon-1-32x32.png",
+        "Redirect": "https://haaner-tv.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://haaner-tv.de"
     },
     {
         "link": "https://lineartists.in",

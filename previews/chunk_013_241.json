@@ -211,7 +211,7 @@
     },
     {
         "link": "https://propiska-zakaz.ru",
-        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043a\u043b.VPN !!!  15.07.2026 ",
+        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043a\u043b.VPN !!!  11.07.2026 ",
         "Abstract": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u041b\u0435\u0433\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u043d\u0430\u0434\u0435\u0436\u043d\u043e.",
         "Official Site": "https://propiska-zakaz.ru",
         "Icon": "untitled-1.ico",
@@ -224,7 +224,7 @@
         "Heading": "Wikipedia, the free encyclopedia",
         "Abstract": null,
         "Official Site": "https://energyforum.net",
-        "Icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sega-SG-1000-Console-Set.jpg/1280px-Sega-SG-1000-Console-Set.jpg",
+        "Icon": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kiara_St._James_-_49451186443_%28cropped%29.jpg",
         "Redirect": "https://energyforum.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://energyforum.net"
@@ -258,5 +258,15 @@
         "Redirect": "https://www.boisechamber.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.boisechamber.org/"
+    },
+    {
+        "link": "https://foghat.com",
+        "Heading": "Foghat Official | On Tour Now!",
+        "Abstract": null,
+        "Official Site": "https://foghat.com",
+        "Icon": "https://foghat.com/wp-content/uploads/2022/04/cropped-FAV4-32x32.png",
+        "Redirect": "https://foghat.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://foghat.com"
     }
 ]

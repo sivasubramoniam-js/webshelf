@@ -40,6 +40,16 @@
         "AbstractURL": "https://mondaymag.com/"
     },
     {
+        "link": "https://mattrifeofficial.com",
+        "Heading": "Official Matt Rife Comedy | The official website of actor and comedian Matt Rife!",
+        "Abstract": "The official website of comedian and actor Matt Rife!",
+        "Official Site": "https://mattrifeofficial.com",
+        "Icon": "https://mattrifeofficial.com/wp-content/uploads/2024/11/header-matt2.jpg",
+        "Redirect": "https://mattrifeofficial.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mattrifeofficial.com"
+    },
+    {
         "link": "https://10ways.com",
         "Heading": "10ways.com \u2013 10 ways to have more money",
         "Abstract": "",
@@ -101,13 +111,23 @@
     },
     {
         "link": "https://go-openspark.com",
-        "Heading": "One moment, please...",
+        "Heading": "OpenSpark",
         "Abstract": null,
-        "Official Site": "https://go-openspark.com",
-        "Icon": "N/A",
-        "Redirect": "https://go-openspark.com",
+        "Official Site": "https://www.openspark.co/",
+        "Icon": "https://www.openspark.co/misc/favicon.ico",
+        "Redirect": "https://www.openspark.co/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://go-openspark.com"
+        "AbstractURL": "https://www.openspark.co/"
+    },
+    {
+        "link": "https://axmedios.com",
+        "Heading": "INICIO",
+        "Abstract": "",
+        "Official Site": "https://axmedios.com",
+        "Icon": "assets/images/logotipo-final-ax-medios-128x137.png",
+        "Redirect": "https://axmedios.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://axmedios.com"
     },
     {
         "link": "https://swipesum.com",
@@ -158,16 +178,6 @@
         "Redirect": "https://pafikeckragilan.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pafikeckragilan.org/"
-    },
-    {
-        "link": "https://marine-jbia.or.jp",
-        "Heading": "\u4e00\u822c\u793e\u56e3\u6cd5\u4eba\u3000\u65e5\u672c\u30de\u30ea\u30f3\u4e8b\u696d\u5354\u4f1a",
-        "Abstract": "\u4e00\u822c\u793e\u56e3\u6cd5\u4eba\u3000\u65e5\u672c\u30de\u30ea\u30f3\u4e8b\u696d\u5354\u4f1a\u306f\u30e2\u30fc\u30bf\u30fc\u30dc\u30fc\u30c8\u30fb\u30e8\u30c3\u30c8\u30fbPWC\u30fb\u30de\u30ea\u30f3\u30a8\u30f3\u30b8\u30f3\u53ca\u3073\u95a2\u9023\u6a5f\u5668\u7b49\u306e\u88fd\u9020\u4e8b\u696d\u8005\u3001\u6574\u5099\u4e8b\u696d\u8005\u3001\u8ca9\u58f2\u4e8b\u696d\u8005\u4e26\u3073\u306b\u3053\u308c\u3089\u306e\u95a2\u9023\u4e8b\u696d\u8005\u304b\u3089\u69cb\u6210\u3055\u308c\u308b\u696d\u754c\u56e3\u4f53\u3067\u3059\u3002",
-        "Official Site": "https://marine-jbia.or.jp",
-        "Icon": "https://www.marine-jbia.or.jp/favicon.ico",
-        "Redirect": "https://marine-jbia.or.jp",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://marine-jbia.or.jp"
     },
     {
         "link": "https://cnacollege.com",
@@ -258,6 +268,16 @@
         "Redirect": "https://www.3plogistics.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.3plogistics.com/"
+    },
+    {
+        "link": "https://certifopac.fr",
+        "Heading": "Certifopac, le sp\u00e9cialiste de la certification Qualiopi",
+        "Abstract": "Obtenez votre certification Qualiopi avec l'organisme certificateur certifopac, accr\u00e9dit\u00e9 et pr\u00e9sent partout en France !",
+        "Official Site": "https://certifopac.fr/",
+        "Icon": "https://certifopac.fr/wp-content/uploads/2021/01/Logo-Certifopac-Officiel-1.jpg",
+        "Redirect": "https://certifopac.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://certifopac.fr/"
     },
     {
         "link": "https://jrias.or.jp",

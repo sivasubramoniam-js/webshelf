@@ -10,6 +10,16 @@
         "AbstractURL": "https://zgrmhmqi.com"
     },
     {
+        "link": "https://hsa-haiku.org",
+        "Heading": "Welcome to the Haiku Society of America Web Site",
+        "Abstract": "The Haiku Society of America is a not-for-profit organization founded in 1968 to promote the writing and appreciation of haiku in English.",
+        "Official Site": "https://hsa-haiku.org",
+        "Icon": "favicon.ico",
+        "Redirect": "https://hsa-haiku.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hsa-haiku.org"
+    },
+    {
         "link": "https://idrivee2-49.com",
         "Heading": "S3 Compatible Storage - IDrive\u00ae e2",
         "Abstract": "IDrive\u00ae e2 offers low-cost cloud storage infrastructure for developers and businesses. Scale business and development infinitely with global access & availability",
@@ -71,13 +81,23 @@
     },
     {
         "link": "https://arrowheadclinic.com",
-        "Heading": "Arrowhead Clinic - Georgia's Top Ranked Chiropractor & Auto Accident Clinic",
-        "Abstract": "Arrowhead Clinic Is Your Top Choice For Chiropractic Personal Injury Clinics in Georgia and South Carolina with over 48+ years of experience. We Have Car Crash Doctors and Chiropractors on-site. Call now!",
-        "Official Site": "https://www.arrowheadclinic.com",
-        "Icon": "https://www.arrowheadclinic.com/wp-content/uploads/2025/03/DSC0474-819x1024.jpg",
-        "Redirect": "https://www.arrowheadclinic.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://arrowheadclinic.com",
+        "Icon": "data:;",
+        "Redirect": "https://arrowheadclinic.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.arrowheadclinic.com"
+        "AbstractURL": "https://arrowheadclinic.com"
+    },
+    {
+        "link": "https://gsv-wadersloh.de",
+        "Heading": "\n                    IServ - gsv-wadersloh.de\n            ",
+        "Abstract": null,
+        "Official Site": "https://gsv-wadersloh.de",
+        "Icon": "/iserv/css/static/icons/android-chrome-192x192.fc2f37a3.png",
+        "Redirect": "https://gsv-wadersloh.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gsv-wadersloh.de"
     },
     {
         "link": "https://luxcanva.ro",
@@ -208,6 +228,16 @@
         "Redirect": "https://antibodypedia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://antibodypedia.com"
+    },
+    {
+        "link": "https://criasitecampinas.com.br",
+        "Heading": "Cria\u00e7\u00e3o de Sites em Campinas - Web Designer Bruno Gontijo",
+        "Abstract": "Cria\u00e7\u00e3o de Sites e Lojas Virtuais responsivos para pequenas, m\u00e9dias e grandes empresas",
+        "Official Site": "https://www.criasitecampinas.com.br/",
+        "Icon": "https://www.criasitecampinas.com.br/wp-content/uploads/2020/12/eu.jpeg",
+        "Redirect": "https://www.criasitecampinas.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.criasitecampinas.com.br/"
     },
     {
         "link": "https://pol83.ru",

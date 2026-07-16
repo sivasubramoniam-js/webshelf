@@ -10,6 +10,16 @@
         "AbstractURL": "https://mfcit.uk"
     },
     {
+        "link": "https://mfparis.vn",
+        "Heading": "MF Paris - N\u01b0\u1edbc Hoa, M\u1ef9 Ph\u1ea9m, TPCN, H\u00e0ng N\u1ed9i \u0111\u1ecba Ph\u00e1p",
+        "Abstract": "Chuy\u00ean Cung C\u1ea5p N\u01b0\u1edbc Hoa, M\u1ef9 Ph\u1ea9m, TPCN Ch\u00ednh H\u00e3ng Cao C\u1ea5p To\u00e0n Qu\u1ed1c. Cam k\u1ebft ch\u00ednh h\u00e3ng 100%, giao h\u00e0ng si\u00eau t\u1ed1c...",
+        "Official Site": "https://mfparis.vn/",
+        "Icon": "https://mfparis.vn/wp-content/uploads/2024/08/logo-mfparis-512x512-2.png",
+        "Redirect": "https://mfparis.vn/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mfparis.vn/"
+    },
+    {
         "link": "https://mgear.kr",
         "Heading": "\ubc00\ub9ac\ud130\ub9ac\uae30\uc5b4",
         "Abstract": "\uc544\uc6c3\ub3c4\uc5b4 \ucde8\ubbf8\uc6a9\ud488, \ud0dd\ud2f0\uceec, \ucea0\ud551, \ubc00\ub9ac\ud130\ub9ac, \ub4f1\uc0b0, \ud074\ub77c\uc774\ubc0d \uba40\ud2f0\uc0f5",
@@ -101,10 +111,10 @@
     },
     {
         "link": "https://motorcycle4sale.com",
-        "Heading": "Motorcycles for Sale",
+        "Heading": "Motorcycles for sale",
         "Abstract": "Catalog of motorcycles, tips on choosing and buying a motorcycle in United Kingdom and USA. Biggest selection of motorcycles for sale.",
         "Official Site": "https://motorcycle4sale.com",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://motorcycle4sale.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://motorcycle4sale.com"
@@ -121,13 +131,13 @@
     },
     {
         "link": "https://mr-bills.com",
-        "Heading": "Mr. Bill's - Las Vegas Smoke Shop - Cigars - Pipes - Tobacco",
-        "Abstract": "Las Vegas Smoke Shop - Mr. Bill\u2019s Pipe & Tobacco Co. specializes in Premium Cigars, with large Walk-In Humidors, Traditional Pipes and Tobaccos, Glass and Metal Hand Pipes, Vaporizers, Lighters and more",
-        "Official Site": "https://mr-bills.com/",
-        "Icon": "https://mr-bills.com/wp-content/uploads/2025/10/Zippo-Pipe-Lighter-Insert.jpg",
-        "Redirect": "https://mr-bills.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mr-bills.com",
+        "Icon": "data:;",
+        "Redirect": "https://mr-bills.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mr-bills.com/"
+        "AbstractURL": "https://mr-bills.com"
     },
     {
         "link": "https://mrandmrsdesigner.com",
@@ -158,16 +168,6 @@
         "Redirect": "https://msvvu.cc",
         "AbstractSource": "BS4",
         "AbstractURL": "https://msvvu.cc"
-    },
-    {
-        "link": "https://muanxh.cn",
-        "Heading": "\u6728\u5b89\u65b0\u53f7 - \u6728\u5b89\u65b0\u53f7 - \u6d41\u91cf\u5361\u77e5\u8bc6\u95ee\u7b54 - \u79fb\u52a8\u8054\u901a\u7535\u4fe1\u7535\u8bdd\u5361\u653b\u7565",
-        "Abstract": "\u6728\u5b89\u65b0\u53f7 - \u6d41\u91cf\u5361\u77e5\u8bc6\u95ee\u7b54 - \u79fb\u52a8\u8054\u901a\u7535\u4fe1\u7535\u8bdd\u5361\u653b\u7565",
-        "Official Site": "https://muanxh.cn",
-        "Icon": "N/A",
-        "Redirect": "https://muanxh.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://muanxh.cn"
     },
     {
         "link": "https://musaartgallery.com",

@@ -20,6 +20,16 @@
         "AbstractURL": "https://robertstephens.co.uk/"
     },
     {
+        "link": "https://architectonik.ru",
+        "Heading": "My WordPress Site",
+        "Abstract": null,
+        "Official Site": "https://architectonik.ru",
+        "Icon": "N/A",
+        "Redirect": "https://architectonik.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://architectonik.ru"
+    },
+    {
         "link": "https://testax.com.tr",
         "Heading": "Testax.com.tr | B\u00fcy\u00fck indirimler",
         "Abstract": null,
@@ -52,7 +62,7 @@
     {
         "link": "https://podiatrym.com",
         "Heading": "Podiatry Management Online",
-        "Abstract": "Podiatry Management is the national practice management and business magazine, reaching over 24,412 podiatrists.",
+        "Abstract": "Podiatry Management is the national practice management and business magazine, reaching over 24,408 podiatrists.",
         "Official Site": "https://podiatrym.com",
         "Icon": "N/A",
         "Redirect": "https://podiatrym.com",
@@ -88,6 +98,16 @@
         "Redirect": "https://www.saffronroad.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.saffronroad.com/"
+    },
+    {
+        "link": "https://panmuhendislik.com",
+        "Heading": "Pan M\u00fchendislik",
+        "Abstract": null,
+        "Official Site": "https://panmuhendislik.com",
+        "Icon": "https://renovation.thememove.com/data/images/favicon.ico",
+        "Redirect": "https://panmuhendislik.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://panmuhendislik.com"
     },
     {
         "link": "https://trgcc.net",
@@ -228,5 +248,15 @@
         "Redirect": "https://cityofwestland.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cityofwestland.com"
+    },
+    {
+        "link": "https://divinitywiki.com",
+        "Heading": "Divinity Wiki",
+        "Abstract": null,
+        "Official Site": "https://divinitywiki.com/index.php/Main_Page",
+        "Icon": "N/A",
+        "Redirect": "https://divinitywiki.com/index.php/Main_Page",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://divinitywiki.com/index.php/Main_Page"
     }
 ]

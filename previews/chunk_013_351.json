@@ -50,14 +50,14 @@
         "AbstractURL": "https://appgods.website"
     },
     {
-        "link": "https://pointepest.com",
-        "Heading": "Local Pest Control Services | Pest Free Homes & Businesses",
-        "Abstract": "Pointe Pest Control provides effective pest control solutions for your home and business. Contact us today for a free quote and reclaim your space!",
-        "Official Site": "https://pointepest.com/",
-        "Icon": "https://pointepest.com/wp-content/uploads/2025/02/cropped-pointe-favicon-32x32.png",
-        "Redirect": "https://pointepest.com/",
+        "link": "https://whitemane.org",
+        "Heading": "Whitemane | Hearth Back Home",
+        "Abstract": "Alliance or Horde?! Hearth back home and discover the cult classic MMO and play today for free!",
+        "Official Site": "https://whitemane.gg/en",
+        "Icon": "https://whitemane.gg/img/OG.webp",
+        "Redirect": "https://whitemane.gg/en",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pointepest.com/"
+        "AbstractURL": "https://whitemane.gg/en"
     },
     {
         "link": "https://ahahockey.com",
@@ -88,6 +88,16 @@
         "Redirect": "https://0225.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://0225.ru"
+    },
+    {
+        "link": "https://greyston.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://greyston.org",
+        "Icon": "data:;",
+        "Redirect": "https://greyston.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greyston.org"
     },
     {
         "link": "https://sma-sunny.com",
@@ -178,6 +188,16 @@
         "Redirect": "https://wildlandsnetwork.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wildlandsnetwork.org/"
+    },
+    {
+        "link": "https://creamosel.com",
+        "Heading": "Inicio",
+        "Abstract": null,
+        "Official Site": "https://creamosel.com",
+        "Icon": "N/A",
+        "Redirect": "https://creamosel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://creamosel.com"
     },
     {
         "link": "https://global-reparatur.de",

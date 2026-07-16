@@ -80,6 +80,16 @@
         "AbstractURL": "https://plctoolboxsupply.com/"
     },
     {
+        "link": "https://plwd.se",
+        "Heading": "Plywood till IKEA\u2019s k\u00f6k och f\u00f6rvaring - PLWD",
+        "Abstract": "Plywood till IKEA'S k\u00f6k och f\u00f6rvaring. Passar IKEA'S serier METOD, FAKTUM, BEST\u00c5, PAX och PLATSA.",
+        "Official Site": "https://www.plwd.se/",
+        "Icon": "https://www.plwd.se/wp-content/uploads/2023/07/ply2.png",
+        "Redirect": "https://www.plwd.se/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.plwd.se/"
+    },
+    {
         "link": "https://portugalcolonial.pt",
         "Heading": "Portugal Colonial - as \u00faltimas not\u00edcias, 24 horas por dia, em seis l\u00ednguas, de todo o mundo",
         "Abstract": "Portugal Colonial: 24/7 not\u00edcias di\u00e1rias, portugu\u00eas, alem\u00e3o, ingl\u00eas, espanhol, franc\u00eas e italiano, sobre pol\u00edtica, economia, desporto, tecnologia, autom\u00f3veis, boulevard",
@@ -148,16 +158,6 @@
         "Redirect": "https://primoends.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://primoends.com/"
-    },
-    {
-        "link": "https://pro-latex.com",
-        "Heading": "PRO-LATEX: Premium Latex Balloons | High-Quality Balloon Manufacturing - Official website",
-        "Abstract": "PRO-LATEX offers top-quality latex balloons for events, decorators, and professional courses. Discover vibrant colors, exceptional durability, and professional balloon solutions.",
-        "Official Site": "https://pro-latex.com",
-        "Icon": "https://pro-latex.com/media/favicon/default/favicon-32x32.png",
-        "Redirect": "https://pro-latex.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pro-latex.com"
     },
     {
         "link": "https://projektorhd.pl",
@@ -230,16 +230,6 @@
         "AbstractURL": "https://www.qwalis.com/fr/"
     },
     {
-        "link": "https://radyoduble.com.tr",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://radyoduble.com.tr",
-        "Icon": "N/A",
-        "Redirect": "https://radyoduble.com.tr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://radyoduble.com.tr"
-    },
-    {
         "link": "https://ramseier-normteile.at",
         "Heading": "Home - Ramseier Normteile GmbH",
         "Abstract": "Die Ramseier GmbH aus \u00d6sterreich bietet Ihnen hochqualitative Normalien und Normteile f\u00fcr alle Anforderungen im Gesamtbereich Werkzeugbau & Maschinenbau, Stanzwerkbau, Vorrichtungsbau, Maschinenbau, Apparatebau, Formenbau sowie diverse F\u00fchrungen, Sonderteile, Bedienteile, Lochstempel und pr\u00e4zise Zeichnungsteile.",
@@ -261,13 +251,13 @@
     },
     {
         "link": "https://rdrive.io",
-        "Heading": "Progress Monitoring & Reporting Software | RDrive by SnagR",
-        "Abstract": "RDrive is progress monitoring software that helps teams capture field data and automate reporting for faster, smarter project delivery.",
-        "Official Site": "https://rdrive.io/en/",
-        "Icon": "https://rdrive.io/wp-content/uploads/2025/09/social-share.png",
-        "Redirect": "https://rdrive.io/en/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://rdrive.io",
+        "Icon": "data:;",
+        "Redirect": "https://rdrive.io",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rdrive.io/en/"
+        "AbstractURL": "https://rdrive.io"
     },
     {
         "link": "https://readefined.com",

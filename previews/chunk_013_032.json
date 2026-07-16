@@ -10,14 +10,14 @@
         "AbstractURL": "https://lynnblakegolf.com"
     },
     {
-        "link": "https://m47.jp",
-        "Heading": "m47.jp - \u5168\u56fd\u30de\u30c3\u30d7\u60c5\u5831 - 47\u90fd\u9053\u5e9c\u770c",
-        "Abstract": "",
-        "Official Site": "https://m47.jp",
-        "Icon": "N/A",
-        "Redirect": "https://m47.jp",
+        "link": "https://macpartsonline.com",
+        "Heading": "Mac Parts & Apple Parts Store - Macintosh Parts",
+        "Abstract": "Mac Parts Online is an Apple parts store which provides all Macintosh parts.  Mac Parts Online also have mail-in Mac parts repair service. ",
+        "Official Site": "https://macpartsonline.com",
+        "Icon": "https://www.macpartsonline.com/media/favicon/stores/1/favicon.ico",
+        "Redirect": "https://macpartsonline.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://m47.jp"
+        "AbstractURL": "https://macpartsonline.com"
     },
     {
         "link": "https://maierhofergroup.com",
@@ -218,5 +218,15 @@
         "Redirect": "https://mojorvandmarine.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mojorvandmarine.com/"
+    },
+    {
+        "link": "https://moonstride.com",
+        "Heading": "Travel CRM Software for Tour Operators & Agencies - moonstride",
+        "Abstract": "moonstride is an all-in-one cloud-based travel technology SaaS platform - integrated CRM, backoffice & booking engine software. Request a free demo today!",
+        "Official Site": "https://www.moonstride.com/",
+        "Icon": "https://www.moonstride.com/wp-content/uploads/2023/02/moonstride-new.png",
+        "Redirect": "https://www.moonstride.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.moonstride.com/"
     }
 ]

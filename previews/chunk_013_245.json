@@ -80,6 +80,16 @@
         "AbstractURL": "https://www.vraweb.org"
     },
     {
+        "link": "https://e-area.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://e-area.net",
+        "Icon": "N/A",
+        "Redirect": "https://e-area.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://e-area.net"
+    },
+    {
         "link": "https://gpl555.co.uk",
         "Heading": "Domain Default page",
         "Abstract": null,
@@ -300,13 +310,23 @@
         "AbstractURL": "https://nexuswiki.com"
     },
     {
+        "link": "https://creativeunit.com.au",
+        "Heading": "Digital Brand Agency Melbourne - Website design and online stores - CU Digital",
+        "Abstract": "Branding, Websites, Web design, Portals, Online stores",
+        "Official Site": "https://cudigital.com.au",
+        "Icon": "https://wip.creativeunit.com.au/wp-content/uploads/2019/08/cu.png",
+        "Redirect": "https://cudigital.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cudigital.com.au"
+    },
+    {
         "link": "https://rustvcom.com",
         "Heading": "CIMAX21 - Nonton Film Streaming Download Sub Indo Terbaru",
         "Abstract": "CIMAX21 - Nonton Film Sub Indo dan Streaming Download Film Movie Indonesia Drakor China TV Series Season Barat Rebahin xxi Lk21 CGVINDO Gratis Terbaru.",
-        "Official Site": "https://cimax21.today/",
-        "Icon": "https://cimax21.today/wp-content/uploads/2022/02/cropped-logo-film-32x32.jpg",
-        "Redirect": "https://cimax21.today/",
+        "Official Site": "https://cimax21.biz/",
+        "Icon": "https://cimax21.biz/wp-content/uploads/2022/02/cropped-logo-film-32x32.jpg",
+        "Redirect": "https://cimax21.biz/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cimax21.today/"
+        "AbstractURL": "https://cimax21.biz/"
     }
 ]

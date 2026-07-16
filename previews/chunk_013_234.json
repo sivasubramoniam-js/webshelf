@@ -40,16 +40,6 @@
         "AbstractURL": "https://inouye-eye.or.jp"
     },
     {
-        "link": "https://digitaltrademarketpro.com",
-        "Heading": "Bot Verification",
-        "Abstract": null,
-        "Official Site": "https://digitaltrademarketpro.com",
-        "Icon": "N/A",
-        "Redirect": "https://digitaltrademarketpro.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://digitaltrademarketpro.com"
-    },
-    {
         "link": "https://cybercoding.cn",
         "Heading": "\u8d5b\u535a\u7f16\u7a0b - \u767b\u5f55",
         "Abstract": null,
@@ -84,7 +74,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://veintones.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://veintones.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://veintones.com"
@@ -101,7 +91,7 @@
     },
     {
         "link": "https://propiska-tut.ru",
-        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043a\u043b.VPN !!! \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 12.07.2026 ",
+        "Heading": "\u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043a\u043b.VPN !!! \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e 16.07.2026 ",
         "Abstract": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432 \u0420\u043e\u0441\u0441\u0438\u0438. \u0417\u0430\u043a\u043e\u043d\u043d\u0430\u044f \u043f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u043f\u043e\u0434 \u043a\u043b\u044e\u0447.",
         "Official Site": "https://propiska-tut.ru",
         "Icon": "untitled-1.ico",
@@ -148,6 +138,16 @@
         "Redirect": "https://b24sofp.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://b24sofp.ru"
+    },
+    {
+        "link": "https://ptrnca.ch",
+        "Heading": "ptrnca.ch",
+        "Abstract": "ptrnca.ch Hier entsteht eine neue Webpr\u00e4senz.",
+        "Official Site": "https://ptrnca.ch",
+        "Icon": "favicon.ico",
+        "Redirect": "https://ptrnca.ch",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ptrnca.ch"
     },
     {
         "link": "https://greencompassglobal.com",
@@ -258,5 +258,15 @@
         "Redirect": "https://arcadiacreativestudio.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://arcadiacreativestudio.com"
+    },
+    {
+        "link": "https://lopezdeheredia.com",
+        "Heading": "R. L\u00f3pez de Heredia Vi\u00f1a Tondonia, S.A.",
+        "Abstract": null,
+        "Official Site": "https://lopezdeheredia.com",
+        "Icon": "images/favicon.ico",
+        "Redirect": "https://lopezdeheredia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lopezdeheredia.com"
     }
 ]

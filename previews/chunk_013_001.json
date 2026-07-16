@@ -41,13 +41,13 @@
     },
     {
         "link": "https://bloggerjet.com",
-        "Heading": "BloggerJet | Your Hub for Online Marketing Tools",
-        "Abstract": "Your Hub for Online Marketing Tools",
-        "Official Site": "https://bloggerjet.com/",
-        "Icon": "https://bloggerjet.com/img/cropped-bloggerjet-new-favicon-32x32.png",
-        "Redirect": "https://bloggerjet.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bloggerjet.com",
+        "Icon": "data:;",
+        "Redirect": "https://bloggerjet.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bloggerjet.com/"
+        "AbstractURL": "https://bloggerjet.com"
     },
     {
         "link": "https://awtv.ru",
@@ -211,7 +211,7 @@
     },
     {
         "link": "https://puretechdsm.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://puretechdsm.com",
         "Icon": "N/A",

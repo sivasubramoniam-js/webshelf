@@ -20,14 +20,14 @@
         "AbstractURL": "https://cordi-i.com/"
     },
     {
-        "link": "https://bosai-kokutai.jp",
-        "Heading": "\u307c\u3046\u3055\u3044\u3053\u304f\u305f\u30442026",
-        "Abstract": "\u307c\u3046\u3055\u3044\u3053\u304f\u305f\u30442026\u306f\u300110\u670817\u65e5\uff08\u571f\uff09\u30fb18\u65e5\uff08\u65e5\uff09\u9ce5\u53d6\u3067\u958b\u50ac\u3057\u307e\u3059",
-        "Official Site": "http://bosai-kokutai.jp/",
-        "Icon": "html/favicon.ico",
-        "Redirect": "http://bosai-kokutai.jp/",
+        "link": "https://campdigital.com",
+        "Heading": "Home Service Digital Marketing | CAMP Digital",
+        "Abstract": "CAMP Digital is the #1 digital marketing agency for the trades, specializing in PPC, LSA, SEO, Lead Gen and filling your 3 day call board.",
+        "Official Site": "https://campdigital.com/",
+        "Icon": "https://campdigital.com/wp-content/uploads/2023/06/goog.png",
+        "Redirect": "https://campdigital.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://bosai-kokutai.jp/"
+        "AbstractURL": "https://campdigital.com/"
     },
     {
         "link": "https://homeprotectionexpert.com",
@@ -60,6 +60,16 @@
         "AbstractURL": "https://batechnology.org/"
     },
     {
+        "link": "https://healthpedia.live",
+        "Heading": "Adscale",
+        "Abstract": null,
+        "Official Site": "https://healthpedia.live",
+        "Icon": "N/A",
+        "Redirect": "https://healthpedia.live",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://healthpedia.live"
+    },
+    {
         "link": "https://cetpartnership.eu",
         "Heading": "CETPartnership \u2013 Clean Energy Research & Innovation Funding",
         "Abstract": "CETPartnership: the EU co-funded research and innovation partnership funding clean energy projects across Europe through joint calls.",
@@ -68,6 +78,16 @@
         "Redirect": "https://cetpartnership.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cetpartnership.eu/"
+    },
+    {
+        "link": "https://digicamcontrol.com",
+        "Heading": "Easy to use, free solution for complex camera control | digiCamControl",
+        "Abstract": "digiCamControl, an opensource camera controlling software with functions such as exposure, focusing, live view, focus stacking and time lampse, etc..",
+        "Official Site": "https://digicamcontrol.com",
+        "Icon": "/user/themes/woo/images/favicon.png",
+        "Redirect": "https://digicamcontrol.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://digicamcontrol.com"
     },
     {
         "link": "https://myteslamate.com",
@@ -198,6 +218,16 @@
         "Redirect": "https://www.robertearlkeen.com/welcome",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.robertearlkeen.com/welcome"
+    },
+    {
+        "link": "https://elkskier.com",
+        "Heading": "Home - Elk Mountain",
+        "Abstract": null,
+        "Official Site": "https://www.elkskier.com/",
+        "Icon": "https://www.elkskier.com/wp-content/uploads/2018/11/favicon.png",
+        "Redirect": "https://www.elkskier.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.elkskier.com/"
     },
     {
         "link": "https://bursaguzellikmerkezleri.com",

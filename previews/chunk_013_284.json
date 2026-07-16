@@ -21,10 +21,10 @@
     },
     {
         "link": "https://freedomfest.com",
-        "Heading": "FreedomFest \u2013 FreedomFest",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://freedomfest.com",
-        "Icon": "https://freedomfest.com/wp-content/uploads/2019/07/cropped-FF21-Website-logo-1-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://freedomfest.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://freedomfest.com"
@@ -120,16 +120,6 @@
         "AbstractURL": "https://kupi-prava-6j7w.ru"
     },
     {
-        "link": "https://dtfdallas.com",
-        "Heading": "\n      \nDTF Dallas | Same-Day DTF Transfers + 24/7 Pickup DFW\n      \n",
-        "Abstract": "Ready-to-press DTF transfers, UV DTF cup wraps & gang sheets - order by 2PM for same-day shipping. 24/7 pickup in Richardson, TX. Free shipping over $100.",
-        "Official Site": "https://dtfdallas.com/",
-        "Icon": "https://dtfdallas.com/cdn/shop/files/logo-square_0d111509-654f-440b-9fdd-f3da63c8a906.png?v=1728975858",
-        "Redirect": "https://dtfdallas.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dtfdallas.com/"
-    },
-    {
         "link": "https://corlutasarim.com",
         "Heading": "\u00c7orlu web Tasar\u0131m | \u00c7orlu web yaz\u0131l\u0131m | \u00c7orlu reklam",
         "Abstract": "\u00c7orlu Web tasar\u0131m \u2014 Arama motorlar\u0131 ile uyumlu, t\u00fcm cihazlarda sorunsuz g\u00f6r\u00fcnt\u00fclenme, \u00c7orluda Profesyonel Web tasar\u0131m Firmas\u0131 \u0130le Tan\u0131\u015f\u0131n",
@@ -160,14 +150,24 @@
         "AbstractURL": "https://fsiblogy.com/"
     },
     {
-        "link": "https://bcmfofnm.org",
-        "Heading": "\uce74\uc9c0\ub178\uc0ac\uc774\ud2b8 \uc644\ubcbd \uac00\uc774\ub4dc | 2025\ub144 \ucd5c\uace0\uc758 \uc548\uc804\ud55c \uce74\uc9c0\ub178\uc0ac\uc774\ud2b8 \ucd94\ucc9c",
-        "Abstract": "2025\ub144 \ucd5c\uc2e0 \uce74\uc9c0\ub178\uc0ac\uc774\ud2b8 \uc644\ubcbd \uac00\uc774\ub4dc! \uc548\uc804\ud558\uace0 \uc2e0\ub8b0\ud560 \uc218 \uc788\ub294 \uce74\uc9c0\ub178\uc0ac\uc774\ud2b8 \ucd94\ucc9c, \uc120\ud0dd\ubc95, \ubcf4\ub108\uc2a4 \uc815\ubcf4, \uac8c\uc784 \uac00\uc774\ub4dc\uae4c\uc9c0 \ubaa8\ub4e0 \uc815\ubcf4\ub97c \ud55c\uacf3\uc5d0\uc11c \ud655\uc778\ud558\uc138\uc694.",
-        "Official Site": "http://bcmfofnm.org/",
-        "Icon": "https://ext.same-assets.com/1213512886/1816226755.webp",
-        "Redirect": "http://bcmfofnm.org/",
+        "link": "https://asa19.com",
+        "Heading": "Master \u2013 ASAIN",
+        "Abstract": null,
+        "Official Site": "https://asa19.com",
+        "Icon": "N/A",
+        "Redirect": "https://asa19.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://bcmfofnm.org/"
+        "AbstractURL": "https://asa19.com"
+    },
+    {
+        "link": "https://bcmfofnm.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bcmfofnm.org",
+        "Icon": "data:;",
+        "Redirect": "https://bcmfofnm.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bcmfofnm.org"
     },
     {
         "link": "https://buergerkarte.at",
@@ -218,6 +218,16 @@
         "Redirect": "https://doganholding.com.tr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://doganholding.com.tr"
+    },
+    {
+        "link": "https://danelectro.com",
+        "Heading": "Danelectro Guitars",
+        "Abstract": null,
+        "Official Site": "https://danelectro.com",
+        "Icon": "https://danelectro.com/favicon.ico",
+        "Redirect": "https://danelectro.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://danelectro.com"
     },
     {
         "link": "https://up-shop.org",

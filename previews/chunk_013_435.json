@@ -31,10 +31,10 @@
     },
     {
         "link": "https://theecommerce.club",
-        "Heading": "Home Page - The eCommerce Club",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://theecommerce.club",
-        "Icon": "https://theecommerce.club/wp-content/uploads/2024/10/EXPERT-2-150x150.png",
+        "Icon": "data:;",
         "Redirect": "https://theecommerce.club",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theecommerce.club"
@@ -90,6 +90,16 @@
         "AbstractURL": "https://metita.net"
     },
     {
+        "link": "https://islandnow.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://islandnow.net",
+        "Icon": "data:;",
+        "Redirect": "https://islandnow.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://islandnow.net"
+    },
+    {
         "link": "https://anewal.co.uk",
         "Heading": "Anewal",
         "Abstract": null,
@@ -100,14 +110,14 @@
         "AbstractURL": "https://anewal.co.uk"
     },
     {
-        "link": "https://e-kda.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://e-kda.org",
-        "Icon": "N/A",
-        "Redirect": "https://e-kda.org",
+        "link": "https://oneminuteenglish.org",
+        "Heading": "Home - One Minute English",
+        "Abstract": "About me\u00a0I am from Dublin, IrelandI have a degree in French and EconomicsI have been an English teacher for 10 years and have the CELTA certificate.I love travelling, music and\u2026",
+        "Official Site": "https://oneminuteenglish.org/",
+        "Icon": "https://oneminuteenglish.org/wp-content/uploads/2023/03/Language.png",
+        "Redirect": "https://oneminuteenglish.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://e-kda.org"
+        "AbstractURL": "https://oneminuteenglish.org/"
     },
     {
         "link": "https://convoy-security.de",

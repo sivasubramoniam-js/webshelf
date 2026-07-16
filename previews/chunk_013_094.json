@@ -10,6 +10,16 @@
         "AbstractURL": "https://operah.com"
     },
     {
+        "link": "https://attrip.jp",
+        "Heading": "attrip",
+        "Abstract": "\uff08\u30a2\u30c3\u30c8\u30c8\u30ea\u30c3\u30d7\uff09",
+        "Official Site": "https://attrip.jp/",
+        "Icon": "https://attrip.jp/wp-content/uploads/2019/07/attripogp.jpg",
+        "Redirect": "https://attrip.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://attrip.jp/"
+    },
+    {
         "link": "https://ericfawcett.com",
         "Heading": null,
         "Abstract": null,
@@ -61,23 +71,23 @@
     },
     {
         "link": "https://musserengineering.com",
-        "Heading": "Musser Engineering | Musser Engineering: Shaping Excellence, Engineering Tomorrow.",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://musserengineering.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://musserengineering.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://musserengineering.com"
     },
     {
         "link": "https://flowersfestival.taipei",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://flowersfestival.taipei",
+        "Heading": "\u53f0\u5317\u82b1\u5b63 \u82b1IN\u53f0\u5317",
+        "Abstract": "\u7acb\u523b\u66b8\u89e3\u5373\u6642\u8cde\u82b1\u8cc7\u8a0a\uff01\u5c31\u4e0a\u82b1in\u53f0\u5317\u5b98\u7db2\uff01\u7e7d\u7d1b\u53f0\u5317\u5168\u5e74\u7121\u4f11\uff01",
+        "Official Site": "https://flowersfestival.taipei/new/",
         "Icon": "N/A",
-        "Redirect": "https://flowersfestival.taipei",
+        "Redirect": "https://flowersfestival.taipei/new/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://flowersfestival.taipei"
+        "AbstractURL": "https://flowersfestival.taipei/new/"
     },
     {
         "link": "https://techukraine.org",
@@ -114,7 +124,7 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://nr1sites.com",
-        "Icon": "https://storage.googleapis.com/landing_pager_public/favicons/7np2.ico",
+        "Icon": "N/A",
         "Redirect": "https://nr1sites.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nr1sites.com"
@@ -140,6 +150,26 @@
         "AbstractURL": "https://banglejs.com"
     },
     {
+        "link": "https://zikox.com",
+        "Heading": "Inicio - Radio Zikox dise\u00f1o web",
+        "Abstract": "Creamos tu p\u00e1gina web para radio o empres, Aplicaciones de radio publicadas en 24 horas para Android e iOS.",
+        "Official Site": "https://www.radiozikox.com/",
+        "Icon": "https://www.radiozikox.com/wp-content/uploads/2024/09/cat-radio3.png",
+        "Redirect": "https://www.radiozikox.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.radiozikox.com/"
+    },
+    {
+        "link": "https://sademedia.com",
+        "Heading": "Web Tasar\u0131m Ajans\u0131 Sademedia - Web Tasar\u0131m Antalya",
+        "Abstract": "Sademedia, profesyonel bir web tasar\u0131m ajans\u0131d\u0131r. Modern tasar\u0131m anlay\u0131\u015f\u0131yla web sitenizi ve i\u015fletmenizi dijital d\u00fcnyada \u00f6ne \u00e7\u0131kar\u0131yoruz.",
+        "Official Site": "https://www.sademedia.com/",
+        "Icon": "https://www.sademedia.com/wp-content/uploads/2023/12/favicon.png",
+        "Redirect": "https://www.sademedia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sademedia.com/"
+    },
+    {
         "link": "https://shorenewstoday.com",
         "Heading": "Local News | Atlantic City, NJ | pressofatlanticcity.com",
         "Abstract": "Read today's Atlantic City headlines. Get breaking news, events, and information for New Jersey sports, crime, politics and education.",
@@ -151,10 +181,10 @@
     },
     {
         "link": "https://msafungi.org",
-        "Heading": "Mycological Sociey of America \u2013 Founded 1932",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://msafungi.org",
-        "Icon": "https://msafungi.org/wp-content/uploads/2025/04/2024-MSA-Logo-Main-01-scaled.png",
+        "Icon": "data:;",
         "Redirect": "https://msafungi.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://msafungi.org"
@@ -180,6 +210,16 @@
         "AbstractURL": "https://scandal-4.com"
     },
     {
+        "link": "https://cloudworx.agency",
+        "Heading": "cloudworx | Salesforce Partner | Beratung & Implementierung | cloudworx",
+        "Abstract": "cloudworx - zertifizierter Salesforce Partner aus M\u00fcnchen. Salesforce Beratung, Implementierung & Prozessautomatisierung f\u00fcr KMU im DACH-Raum. Mit Festpreisen.",
+        "Official Site": "https://cloudworx.agency",
+        "Icon": "/assets/favicon/favicon-32x32.png",
+        "Redirect": "https://cloudworx.agency",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cloudworx.agency"
+    },
+    {
         "link": "https://apexfxmarkets.com",
         "Heading": "ApexFxMarkets.com is for sale | HugeDomains",
         "Abstract": "This domain is for sale! Fast and easy shopping. Trusted and secure since 2005.",
@@ -188,16 +228,6 @@
         "Redirect": "https://www.hugeDomains.com/domain_profile.cfm?d=ApexFxMarkets.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=ApexFxMarkets.com"
-    },
-    {
-        "link": "https://zoshindo.co.jp",
-        "Heading": "\u99ac\u306e\u30de\u30fc\u30af\u306e\u5897\u9032\u5802\u30fb\u53d7\u9a13\u7814\u7a76\u793e",
-        "Abstract": "\u53c2\u8003\u66f8\u3001\u554f\u984c\u96c6\u3001\u53d7\u9a13\u5bfe\u7b56\u306e\u5897\u9032\u5802\u30fb\u53d7\u9a13\u7814\u7a76\u793e",
-        "Official Site": "https://zoshindo.co.jp",
-        "Icon": "/favicon_w.ico",
-        "Redirect": "https://zoshindo.co.jp",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zoshindo.co.jp"
     },
     {
         "link": "https://hsedays.ru",
@@ -218,6 +248,26 @@
         "Redirect": "https://griffithfoods.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://griffithfoods.com/"
+    },
+    {
+        "link": "https://carbonrev.com",
+        "Heading": "Carbon Revolution | High Performance Carbon Fiber Wheels",
+        "Abstract": "Carbon Revolution is a global technology company, which supplies lightweight carbon fibre wheels to the global automotive industry.",
+        "Official Site": "https://www.carbonrev.com/",
+        "Icon": "https://www.carbonrev.com/wp-content/uploads/2022/09/default-scaled.jpg",
+        "Redirect": "https://www.carbonrev.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.carbonrev.com/"
+    },
+    {
+        "link": "https://staticad.net",
+        "Heading": "StatiCAD - Yap\u0131sal Analiz ve Tasar\u0131m Yaz\u0131l\u0131m\u0131",
+        "Abstract": "StatiCAD; betonarme, y\u0131\u011fma ve ah\u015fap binalar\u0131n deprem y\u00f6netmeli\u011fine g\u00f6re statik analizi ve tasar\u0131m\u0131 i\u00e7in profesyonel yaz\u0131l\u0131m.",
+        "Official Site": "https://www.staticad.com/tr/",
+        "Icon": "https://www.staticad.com/assets/images/products/anaekran.png",
+        "Redirect": "https://www.staticad.com/tr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.staticad.com/tr/"
     },
     {
         "link": "https://bonsy.com",

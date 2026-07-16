@@ -31,13 +31,13 @@
     },
     {
         "link": "https://cnpa.com",
-        "Heading": "CNPA - California News Publishers Association",
-        "Abstract": "The California News Publishers Association protects members, upholds journalistic ideals, and strengthens communities through a free press.",
-        "Official Site": "https://cnpa.com/",
-        "Icon": "https://cnpa.com/wp-content/uploads/default-social-image-1.png",
-        "Redirect": "https://cnpa.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://cnpa.com",
+        "Icon": "data:;",
+        "Redirect": "https://cnpa.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cnpa.com/"
+        "AbstractURL": "https://cnpa.com"
     },
     {
         "link": "https://playersvoice.com.au",
@@ -78,6 +78,16 @@
         "Redirect": "https://www.postflex.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.postflex.de/"
+    },
+    {
+        "link": "https://antennasoftware.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://antennasoftware.com",
+        "Icon": "data:;",
+        "Redirect": "https://antennasoftware.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://antennasoftware.com"
     },
     {
         "link": "https://rouletteforum.cc",
@@ -130,6 +140,16 @@
         "AbstractURL": "https://barnahost.com"
     },
     {
+        "link": "https://hasbeenz.com",
+        "Heading": "Hasbeenz",
+        "Abstract": null,
+        "Official Site": "https://hasbeenz.com",
+        "Icon": "https://hasbeenz.com/wp-content/uploads/2023/03/favicon2.png",
+        "Redirect": "https://hasbeenz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hasbeenz.com"
+    },
+    {
         "link": "https://sandnes.kommune.no",
         "Heading": "Sandnes kommune - Forside",
         "Abstract": "",
@@ -171,10 +191,10 @@
     },
     {
         "link": "https://ship4wd.com",
-        "Heading": "Digital Freight Forwarding and Sourcing Solution for SMBs | Ship4wd",
-        "Abstract": "Simplify international shipping for SMBs with free quotes, reliable comparisons, and guaranteed ocean container allocation for FCL and LCL shipments.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://ship4wd.com",
-        "Icon": "https://ship4wd.com/wp-content/themes/sfwd/assets/img/favicons/android-icon-192x192.png",
+        "Icon": "data:;",
         "Redirect": "https://ship4wd.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ship4wd.com"
@@ -238,6 +258,16 @@
         "Redirect": "https://dggeriatrie.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dggeriatrie.de"
+    },
+    {
+        "link": "https://ecowipes.com.vn",
+        "Heading": "Home - Ecowipes",
+        "Abstract": null,
+        "Official Site": "https://ecowipes.com.vn/",
+        "Icon": "https://ecowipes.com.vn/wp-content/uploads/2025/06/faviconV2-100x100.png",
+        "Redirect": "https://ecowipes.com.vn/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ecowipes.com.vn/"
     },
     {
         "link": "https://diariodelcesar.com",

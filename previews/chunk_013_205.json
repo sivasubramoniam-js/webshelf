@@ -1,13 +1,13 @@
 [
     {
         "link": "https://baratunde.com",
-        "Heading": "baratunde.com | Engage Now \u2014 Inspire Action",
-        "Abstract": "Explore Baratunde Thurston, a storyteller, speaker, and thought leader addressing human, environmental, and technological interdependence with actionable insights.",
-        "Official Site": "https://www.baratunde.com",
-        "Icon": "https://images.squarespace-cdn.com/content/v1/6882c54a4130e71283f62332/85063552-de8e-43e5-963f-edface3c74e4/favicon.ico?format=100w",
-        "Redirect": "https://www.baratunde.com",
+        "Heading": "Baratunde Thurston | Writer, Host, and Speaker",
+        "Abstract": "Baratunde Thurston is a writer, host, and speaker exploring how we live well with technology, with each other, and with the planet.",
+        "Official Site": "https://baratunde.com/",
+        "Icon": "https://baratunde.com/_astro/Baratunde%20On%20Stage%20-%20Obama%20Foundation%20-%202.DcoooPF6_1kauKG.jpeg",
+        "Redirect": "https://baratunde.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.baratunde.com"
+        "AbstractURL": "https://baratunde.com/"
     },
     {
         "link": "https://akademimag.com",
@@ -18,6 +18,16 @@
         "Redirect": "https://akademimag.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://akademimag.com"
+    },
+    {
+        "link": "https://soporteblinkit.com",
+        "Heading": "Home | Ticketing Blinkit",
+        "Abstract": null,
+        "Official Site": "https://soporteblinkit.com",
+        "Icon": "/web_favicon/favicon",
+        "Redirect": "https://soporteblinkit.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soporteblinkit.com"
     },
     {
         "link": "https://simkisgood.ru",
@@ -118,6 +128,16 @@
         "Redirect": "https://e-h-group.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://e-h-group.com"
+    },
+    {
+        "link": "https://kicosbbq.com",
+        "Heading": "Home | Kico's BBQ",
+        "Abstract": "Let Kico\u2019s Barbecue cater your next special day. Book Now! Let Kico\u2019s Barbecue handle the food. Kico\u2019s offers catering and special event services to Eugene ...",
+        "Official Site": "https://kicosbbq.com/",
+        "Icon": "https://kicosbbq.com/wp-content/uploads/2023/03/resta-img20.png",
+        "Redirect": "https://kicosbbq.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kicosbbq.com/"
     },
     {
         "link": "https://case-cs-open.ru",

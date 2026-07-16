@@ -71,7 +71,7 @@
     },
     {
         "link": "https://forum-gold.fr",
-        "Heading": "Forum-Gold.fr \u2022 Information",
+        "Heading": "Forum-Gold.fr \u2022 Page d\u2019index",
         "Abstract": "Forum-gold.fr est un forum consacr\u00e9 \u00e0 l'investissement sur l'or et l'argent. Faut-il acheter de l'or, ou peut-on acheter de l'argent, faut-il acheter des napoleons, des louis d or ou des lingots ?",
         "Official Site": "https://forum-gold.fr",
         "Icon": "N/A",
@@ -151,13 +151,13 @@
     },
     {
         "link": "https://dn88s.net",
-        "Heading": "DN88 KRA - Link V\u00e0o Trang Ch\u1ee7 DN88.COM Ch\u00ednh Ch\u1ee7 | T\u1eb7ng 99k",
-        "Abstract": "krasnoe.info hi\u1ec7n t\u1ea1i l\u00e0 c\u1ed5ng game v\u00e0o ch\u00ednh th\u1ee9c c\u1ee7a DN88, n\u01a1i ng\u01b0\u1eddi ch\u01a1i c\u00f3 th\u1ec3 nh\u1eadn \u01b0u \u0111\u1ea3i 99k ch\u00e0o t\u00e2n th\u1ee7, ch\u01a1i casino, th\u1ec3 thao, x\u1ed5 s\u1ed1 c\u00f9ng nhi\u1ec1u tr\u00f2 kh\u00e1c.",
-        "Official Site": "https://krasnoe.info/vi-vn/",
-        "Icon": "https://krasnoe.info/wp-content/uploads/2025/11/dn88-bia-1.webp",
-        "Redirect": "https://krasnoe.info/vi-vn/",
+        "Heading": "DN88 RENO - Link V\u00e0o Trang Ch\u1ee7 DN88.COM Ch\u00ednh Th\u1ee9c | H\u00fap +99k",
+        "Abstract": "renoleap.io hi\u1ec7n l\u00e0 trang ch\u00ednh c\u1ee7a n\u1ec1n t\u1ea3ng DN88. B\u1eafm tham gia t\u1ea1i \u0111\u00e2y \u0111\u1ec3 c\u01a1 h\u1ed9i nh\u1eadn ngay 99k ch\u00e0o t\u00e2n th\u1ee7, ch\u01a1i c\u00e1c tr\u00f2 nh\u01b0 casino, th\u1ec3 thao, x\u1ed5 s\u1ed1, b\u1eafn c\u00e1,,,",
+        "Official Site": "https://renoleap.io/vi-vn/",
+        "Icon": "https://renoleap.io/wp-content/uploads/2025/11/dn88-bia-1.webp",
+        "Redirect": "https://renoleap.io/vi-vn/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://krasnoe.info/vi-vn/"
+        "AbstractURL": "https://renoleap.io/vi-vn/"
     },
     {
         "link": "https://dvkf.com.ua",
@@ -168,6 +168,16 @@
         "Redirect": "https://dvkf.com.ua",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dvkf.com.ua"
+    },
+    {
+        "link": "https://ziener.com",
+        "Heading": "ziener.com - Handschuhe, Ski- und Bikebekleidung - ZIENER - Gloves | Skiwear | Bikewear",
+        "Abstract": "Das Familienunternehmen ZIENER steht seit nahezu acht Jahrzehnten f\u00fcr technisch innovative Handschuhe und Bekleidung in den Kategorien Ski, Bike und Teamwear. Als eine der f\u00fchrenden europ\u00e4ischen Marken im Ski- und Bike-Handschuhbereich, verbindet ZIENER Tradition mit Fortschritt \u2013 in der vierten Fam...",
+        "Official Site": "https://ziener.com/",
+        "Icon": "/templates/ziener/favicon.ico",
+        "Redirect": "https://ziener.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ziener.com/"
     },
     {
         "link": "https://pdfyeah.com",

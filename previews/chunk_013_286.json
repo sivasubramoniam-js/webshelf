@@ -21,13 +21,13 @@
     },
     {
         "link": "https://lightlab.io",
-        "Heading": "Agence de communication Saint-Etienne | LightLab.io",
-        "Abstract": "LightLab.io est une agence de communication innovante bas\u00e9e \u00e0 Saint-\u00c9tienne, sp\u00e9cialis\u00e9e dans la cr\u00e9ation d'exp\u00e9riences visuelles et immersives.",
-        "Official Site": "https://lightlab.io/",
-        "Icon": "https://lightlab.io/wp-content/uploads/2025/12/Open-graph-Lightlab.png",
-        "Redirect": "https://lightlab.io/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lightlab.io",
+        "Icon": "data:;",
+        "Redirect": "https://lightlab.io",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lightlab.io/"
+        "AbstractURL": "https://lightlab.io"
     },
     {
         "link": "https://creject.com",
@@ -68,6 +68,16 @@
         "Redirect": "https://trustyourjourney.com/products/beautiful-things-necklace",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trustyourjourney.com/products/beautiful-things-necklace"
+    },
+    {
+        "link": "https://petrotag.com",
+        "Heading": "Petrotag Technologies",
+        "Abstract": "We are a Canadian company that designs and manufactures precision tank gauging and liquid level monitoring solutions.",
+        "Official Site": "https://petrotag.com",
+        "Icon": "https://www.petrotag.com/wp-content/themes/petrotag/favicon.ico",
+        "Redirect": "https://petrotag.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://petrotag.com"
     },
     {
         "link": "https://lustrobiblioteki.pl",
@@ -250,16 +260,6 @@
         "AbstractURL": "https://parsedev.ir"
     },
     {
-        "link": "https://worldnewlive.com",
-        "Heading": "worldnewlive.com",
-        "Abstract": null,
-        "Official Site": "https://worldnewlive.com",
-        "Icon": "N/A",
-        "Redirect": "https://worldnewlive.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://worldnewlive.com"
-    },
-    {
         "link": "https://milkywaysoft.com",
         "Heading": null,
         "Abstract": null,
@@ -268,6 +268,16 @@
         "Redirect": "https://milkywaysoft.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://milkywaysoft.com"
+    },
+    {
+        "link": "https://thebugman.com",
+        "Heading": "Pest & Termite Control in SoCal | the bugman",
+        "Abstract": "Looking for exterminators in Southern California? We offer same-day pest and termite control services and satisfaction guarantees in the area. Contact us today and receive $50 off.",
+        "Official Site": "https://thebugman.com",
+        "Icon": "https://www.thebugman.com/sites/bugman-s3--live/files/images/cta-join-bugman.webp",
+        "Redirect": "https://thebugman.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thebugman.com"
     },
     {
         "link": "https://pommicket.com",

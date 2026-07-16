@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.bumbal.eu/"
     },
     {
+        "link": "https://sco-media.online",
+        "Heading": "SCO MEDIA",
+        "Abstract": null,
+        "Official Site": "https://sco-media.online",
+        "Icon": "N/A",
+        "Redirect": "https://sco-media.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sco-media.online"
+    },
+    {
         "link": "https://szamoldki.hu",
         "Heading": "A legt\u00f6bb kalkul\u00e1tor egy helyen - Sz\u00e1moldki.hu",
         "Abstract": "A legt\u00f6bb kalkul\u00e1tor egy helyen - Sz\u00e1moldki.hu",
@@ -41,10 +51,10 @@
     },
     {
         "link": "https://neglectedbooks.com",
-        "Heading": "The Neglected Books Page \u2013 www.NeglectedBooks.com:  Where forgotten books are remembered",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://neglectedbooks.com",
-        "Icon": "https://neglectedbooks.com/wp-content/uploads/2015/10/cropped-nbsiteicon1-32x32.jpg",
+        "Icon": "data:;",
         "Redirect": "https://neglectedbooks.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://neglectedbooks.com"
@@ -78,6 +88,16 @@
         "Redirect": "https://www.oregonbrewfest.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.oregonbrewfest.com/"
+    },
+    {
+        "link": "https://boltcity.com",
+        "Heading": "Bolt City Productions | Bolt City Bulletin",
+        "Abstract": null,
+        "Official Site": "https://boltcity.com",
+        "Icon": "N/A",
+        "Redirect": "https://boltcity.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://boltcity.com"
     },
     {
         "link": "https://bandyshirt.de",
@@ -180,6 +200,26 @@
         "AbstractURL": "https://kingshotoptimizer.com/"
     },
     {
+        "link": "https://deceuninck-quickstep.com",
+        "Heading": "UFABET \u0e40\u0e27\u0e47\u0e1a\u0e1e\u0e19\u0e31\u0e19\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c \u0e22\u0e39\u0e1f\u0e48\u0e32\u0e40\u0e1a\u0e17 \u0e1d\u0e32\u0e01\u0e16\u0e2d\u0e19\u0e2d\u0e2d\u0e42\u0e15\u0e49 \u0e04\u0e37\u0e19\u0e22\u0e2d\u0e14\u0e40\u0e2a\u0e35\u0e22\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19",
+        "Abstract": "\u0e15\u0e31\u0e27\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a 1 \u0e02\u0e2d\u0e07\u0e1c\u0e39\u0e49\u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e40\u0e25\u0e48\u0e19\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c UFABET \u0e23\u0e27\u0e21\u0e04\u0e48\u0e32\u0e22\u0e0a\u0e31\u0e49\u0e19\u0e19\u0e33\u0e25\u0e34\u0e02\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e41\u0e17\u0e49 2025 \u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22 \u0e23\u0e30\u0e14\u0e31\u0e1a\u0e2a\u0e32\u0e01\u0e25",
+        "Official Site": "https://gardenstyleliving.com/",
+        "Icon": "https://gardenstyleliving.com/wp-content/uploads/2024/07/k9-athleic-bilbao-girona-fc_0-1024x1024.jpg",
+        "Redirect": "https://gardenstyleliving.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gardenstyleliving.com/"
+    },
+    {
+        "link": "https://nhaccutiendat.vn",
+        "Heading": "Nh\u1ea1c c\u1ee5 Ti\u1ebfn \u0110\u1ea1t: H\u01a1n 20 n\u0103m ph\u00e2n ph\u1ed1i \u0111\u00e0n Organ, Piano, Guitar",
+        "Abstract": "TI\u1ebeN \u0110\u1ea0T ph\u00e2n ph\u1ed1i c\u00e1c lo\u1ea1i \u0110\u00c0N CH\u00cdNH H\u00c3NG \u0110\u00e0n Organ, Guitar, Guitar, Piano, Ukulele, tr\u1ed1ng, ph\u1ee5 ki\u1ec7n c\u00e1c h\u00e3ng Yamaha, Casio, Roland, Kawai...GI\u00c1 T\u1ed0T, giao ngay trong ng\u00e0y",
+        "Official Site": "https://nhaccutiendat.vn",
+        "Icon": "https://nhaccutiendat.vn/wp-content/uploads/2025/09/nhac-cu-tien-dat-1.jpg",
+        "Redirect": "https://nhaccutiendat.vn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nhaccutiendat.vn"
+    },
+    {
         "link": "https://platzcart.com",
         "Heading": "Language page",
         "Abstract": null,
@@ -198,6 +238,16 @@
         "Redirect": "https://vulkan-all-sites.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vulkan-all-sites.xyz"
+    },
+    {
+        "link": "https://dcwebdesign.ro",
+        "Heading": "DC WEB DESIGN Agentie Web Design Bucuresti",
+        "Abstract": "Din 2010 oferim servicii web design complete \u27ad creare site premium \u27ad mentenanta web \u27ad promovare online \u27ad optimizare SEO. Garantie 24 de luni.",
+        "Official Site": "https://dcwebdesign.ro/",
+        "Icon": "https://dcwebdesign.ro/wp-content/uploads/2020/06/dreamteam.jpg",
+        "Redirect": "https://dcwebdesign.ro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dcwebdesign.ro/"
     },
     {
         "link": "https://bluetunisia.com",
@@ -258,6 +308,16 @@
         "Redirect": "https://atmos-meas-tech.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://atmos-meas-tech.net"
+    },
+    {
+        "link": "https://yve019.com",
+        "Heading": "\u7535\u5f71\u96c6\u6563\u5730",
+        "Abstract": "\u5f71\u4f73\u5f71\u9662\u4e3a\u60a8\u63d0\u4f9b\u5168\u7f51\u6700\u65b0\u7535\u5f71\u548c\u5267\u96c6\u8d44\u6e90\uff0c\u9ad8\u6e05\u64ad\u653e\uff0c\u65e0\u5e7f\u544a\uff0c\u514d\u8d39\u89c2\u770b\uff0c\u8f7b\u677e\u4eab\u53d7\u6700\u65b0\u5f71\u7247\u3002",
+        "Official Site": "https://yve019.com",
+        "Icon": "/template/stui_tpl/statics/img/favicon.ico",
+        "Redirect": "https://yve019.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yve019.com"
     },
     {
         "link": "https://lancasterlogcabins.com",
