@@ -20,16 +20,6 @@
         "AbstractURL": "https://uptownstars.com"
     },
     {
-        "link": "https://culturepics.org",
-        "Heading": "CulturePics",
-        "Abstract": "CulturePics - an experimental tool creating custom images from cultural collections.",
-        "Official Site": "https://culturepics.org/?x=&y=",
-        "Icon": "https://culturepics.org/pics/icon.jpg",
-        "Redirect": "https://culturepics.org/?x=&y=",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://culturepics.org/?x=&y="
-    },
-    {
         "link": "https://nationalunderwriter.com",
         "Heading": "National Underwriter Resource Center",
         "Abstract": null,
@@ -68,16 +58,6 @@
         "Redirect": "https://swingpoint.golf/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://swingpoint.golf/"
-    },
-    {
-        "link": "https://firedoorhanging.co.uk",
-        "Heading": "Professional Fire Door Installation united kingdom",
-        "Abstract": "Expert Fire Door Installation services across the UK. Safe, certified, and compliant solutions for residential and commercial properties.",
-        "Official Site": "https://firedoorhanging.co.uk/",
-        "Icon": "https://firedoorhanging.co.uk/wp-content/uploads/2025/06/00-01.jpg",
-        "Redirect": "https://firedoorhanging.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://firedoorhanging.co.uk/"
     },
     {
         "link": "https://cookeatgo.com",
@@ -161,13 +141,13 @@
     },
     {
         "link": "https://couscousfest.it",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://couscousfest.it",
-        "Icon": "data:;",
-        "Redirect": "https://couscousfest.it",
+        "Heading": "Cous Cous Fest | Festival dell\u2019Integrazione Culturale",
+        "Abstract": "18.27 Sept 2026 | Il Cous Cous Fest \u00e8 un\u2019alchimia | Un evento che fa incontrare mondi diversi, mette insieme buon cibo, divertimento e grandi emozioni. Una miscela di ingredienti che trova in un lembo di terra, circondato da due riserve naturali, il suo scenario ideale. San Vito Lo Capo, il luogo dove il cous cous incontra il mondo, dove si sceglie la pace e si d\u00e0 il benvenuto alla diversit\u00e0.",
+        "Official Site": "https://couscousfest.it/",
+        "Icon": "https://couscousfest.it/wp-content/uploads/2024/10/ccf-2025-1002x628-1.jpg",
+        "Redirect": "https://couscousfest.it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://couscousfest.it"
+        "AbstractURL": "https://couscousfest.it/"
     },
     {
         "link": "https://flamingoos.com",
@@ -178,16 +158,6 @@
         "Redirect": "https://flamingoos.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://flamingoos.com"
-    },
-    {
-        "link": "https://e-resellers.gr",
-        "Heading": "WordPress \u03a6\u03b9\u03bb\u03bf\u03be\u03b5\u03bd\u03af\u03b1 \u0399\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03c9\u03bd - Web Hosting - E-esellers.gr - Web Hosting | Domain Names Registration | Reseller Hosting | Dedicated & DNS Servers | E-Resellers.gr",
-        "Abstract": "H E-Resellers \u03c0\u03b1\u03c1\u03ad\u03c7\u03b5\u03b9 Web hosting \u03bc\u03b5 unlimited traffic \u03ba\u03b1\u03b9 \u03c7\u03ce\u03c1\u03bf \u03c3\u03b5 \u03b9\u03b4\u03b9\u03cc\u03ba\u03c4\u03b7\u03c4\u03bf\u03c5\u03c2 servers \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b7 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1.",
-        "Official Site": "https://e-resellers.gr",
-        "Icon": "/templates/bt_cloudhost/favicon.ico",
-        "Redirect": "https://e-resellers.gr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://e-resellers.gr"
     },
     {
         "link": "https://ai-news.ru",
@@ -231,10 +201,10 @@
     },
     {
         "link": "https://spotonarkansas.com",
-        "Heading": "Arkansas News",
-        "Abstract": "News articles in the category Arkansas, collected from various, curated news outlets.",
+        "Heading": "Spot On Arkansas \u2014 Local News & Weather",
+        "Abstract": "Latest local news, headlines and weather from across Arkansas. Aggregated from trusted Arkansas news sources.",
         "Official Site": "https://spotonarkansas.com/",
-        "Icon": "https://spotonarkansas.com/images/cards/ar.png",
+        "Icon": "https://spotonarkansas.com/assets/og/ar.png",
         "Redirect": "https://spotonarkansas.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://spotonarkansas.com/"

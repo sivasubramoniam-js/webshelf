@@ -20,16 +20,6 @@
         "AbstractURL": "https://coffeecuattro.ru"
     },
     {
-        "link": "https://danteonline.it",
-        "Heading": "Danteonline versione beta 2020",
-        "Abstract": null,
-        "Official Site": "https://danteonline.it/index.html",
-        "Icon": "N/A",
-        "Redirect": "https://danteonline.it/index.html",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://danteonline.it/index.html"
-    },
-    {
         "link": "https://tmx67.com",
         "Heading": "tmx67.com",
         "Abstract": null,
@@ -144,7 +134,7 @@
         "Heading": "Experian Academy - Data, Analytics & Decisioning Insights",
         "Abstract": "Data, Analytics & Decisioning Insights",
         "Official Site": "https://experianacademy.com/",
-        "Icon": "https://experianacademy.com/wp-content/uploads/2023/05/exp-icon.png?w=32",
+        "Icon": "https://experianacademy.com/wp-content/uploads/2026/07/social-experian-generic.jpg",
         "Redirect": "https://experianacademy.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://experianacademy.com/"
@@ -248,15 +238,5 @@
         "Redirect": "https://it-volna.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://it-volna.com/"
-    },
-    {
-        "link": "https://ststo.top",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ststo.top",
-        "Icon": "N/A",
-        "Redirect": "https://ststo.top",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ststo.top"
     }
 ]

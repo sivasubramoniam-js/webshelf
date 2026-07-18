@@ -1,13 +1,13 @@
 [
     {
         "link": "https://digitalexpertstocknetwork.live",
-        "Heading": "Sign in - Website Name",
-        "Abstract": "Welcome to Website Name, the game-changing platform meticulously crafted to revolutionize trading business. With its sleek and modern design, Website Name provides a cutting-edge platform to showcase your expertise, attract good profits, and stay ahead in the competitive trading markets.",
-        "Official Site": "index",
-        "Icon": "assets/images/favicon.png",
-        "Redirect": "index",
+        "Heading": "digitalexpertstocknetwork.live",
+        "Abstract": null,
+        "Official Site": "https://digitalexpertstocknetwork.live",
+        "Icon": "N/A",
+        "Redirect": "https://digitalexpertstocknetwork.live",
         "AbstractSource": "BS4",
-        "AbstractURL": "index"
+        "AbstractURL": "https://digitalexpertstocknetwork.live"
     },
     {
         "link": "https://banqware.com",
@@ -18,6 +18,16 @@
         "Redirect": "https://banqware.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://banqware.com"
+    },
+    {
+        "link": "https://spins-castle.com",
+        "Heading": "SpinsCastle Casino \u2013 Claim 400% Bonus up to \u00a32,000",
+        "Abstract": "SpinsCastle Casino offers a generous 400% welcome bonus up to \u00a32,000 plus 145 free spins, thousands of slots, live dealer tables, and fast payouts. Read our full review and join today!",
+        "Official Site": "https://spins-castle.com/",
+        "Icon": "/spinscastle-main-image.webp",
+        "Redirect": "https://spins-castle.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://spins-castle.com/"
     },
     {
         "link": "https://workwithjoshua.com",
@@ -38,16 +48,6 @@
         "Redirect": "https://www.uktoukraine.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.uktoukraine.com"
-    },
-    {
-        "link": "https://solidsteel.it",
-        "Heading": "Solidsteel | Hi-Fi Racks, Speaker Stands, AV Furniture",
-        "Abstract": "Solidsteel is manufacturer of Hi-Fi racks, speaker stands and wall-shelves for audio equipment, High-End AV and Pro Audio systems, made in Italy since 1990.",
-        "Official Site": "https://solidsteel.it/",
-        "Icon": "https://solidsteel.it/wp-content/uploads/2022/07/Solidsteel_logo_website_countries.png",
-        "Redirect": "https://solidsteel.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://solidsteel.it/"
     },
     {
         "link": "https://firstpagellc.com",
@@ -80,16 +80,6 @@
         "AbstractURL": "https://parrucchieredemartis.com/"
     },
     {
-        "link": "https://b3host.com",
-        "Heading": "B3 Host Communications",
-        "Abstract": "B3 Host provides reliable business phone, SMS texting, and professional email solutions to keep you connected.",
-        "Official Site": "https://b3host.com/",
-        "Icon": "https://b3host.com/wp-content/uploads/2026/03/Untitled-design-4.webp",
-        "Redirect": "https://b3host.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://b3host.com/"
-    },
-    {
         "link": "https://cyberconnect.me",
         "Heading": "Cyber.co | Ethereum Layer 2 Solutions  for Web3 Social",
         "Abstract": "Explore Cyber.co for innovative Ethereum Layer 2 solutions to build web3 social applications. Cyber offers crypto staking and restaking for users to bootstrap the security of the new network.",
@@ -101,10 +91,10 @@
     },
     {
         "link": "https://mbog.nl",
-        "Heading": "MBOG \u2013 De beroepsvereniging integrale, leefstijl, PNI en orthomoleculaire geneeskunde.",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://mbog.nl",
-        "Icon": "https://mbog.nl/wp-content/uploads/2021/06/MBOG_logo1.2.png",
+        "Icon": "data:;",
         "Redirect": "https://mbog.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mbog.nl"
@@ -128,16 +118,6 @@
         "Redirect": "https://disuria.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://disuria.ru"
-    },
-    {
-        "link": "https://biketekusa.com",
-        "Heading": "Bike Tek - Manhattan and Salina Bike Shops",
-        "Abstract": "Since opening in 1986, Bike Tek has had one mission: being committed to our customers. Whether you are an avid biker or starting out for the first time, Bike",
-        "Official Site": "https://biketekusa.com/",
-        "Icon": "N/A",
-        "Redirect": "https://biketekusa.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://biketekusa.com/"
     },
     {
         "link": "https://qvh.nhs.uk",
@@ -188,26 +168,6 @@
         "Redirect": "https://88sport88m.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://88sport88m.com/"
-    },
-    {
-        "link": "https://addroid.com",
-        "Heading": "Addroid",
-        "Abstract": null,
-        "Official Site": "https://addroid.com",
-        "Icon": "N/A",
-        "Redirect": "https://addroid.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://addroid.com"
-    },
-    {
-        "link": "https://uniquip.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://uniquip.com",
-        "Icon": "N/A",
-        "Redirect": "https://uniquip.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://uniquip.com"
     },
     {
         "link": "https://malbongolf.com",

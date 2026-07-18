@@ -140,16 +140,6 @@
         "AbstractURL": "https://vandyou.com"
     },
     {
-        "link": "https://geezit.com",
-        "Heading": "geezit \u2013 information technology consulting",
-        "Abstract": null,
-        "Official Site": "https://geezit.com",
-        "Icon": "https://www.geezit.com/wp-content/themes/enterprise/images/favicon.ico",
-        "Redirect": "https://geezit.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://geezit.com"
-    },
-    {
         "link": "https://ukr-dns.name",
         "Heading": "Index of /",
         "Abstract": null,
@@ -161,8 +151,8 @@
     },
     {
         "link": "https://stfyc.com",
-        "Heading": "Public Home - St. Francis Yacht Club",
-        "Abstract": null,
+        "Heading": "Home - St. Francis Yacht Club",
+        "Abstract": "St. Francis Yacht Club",
         "Official Site": "https://stfyc.com",
         "Icon": "favicon-32x32.png",
         "Redirect": "https://stfyc.com",
@@ -198,15 +188,5 @@
         "Redirect": "https://rcas.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rcas.org"
-    },
-    {
-        "link": "https://martinkramer.org",
-        "Heading": "Martin Kramer on the Middle East",
-        "Abstract": "Martin Kramer is a historian and analyst of the Middle East and Israel. This website is home to his weblog Sandbox and a large selection of his published work.",
-        "Official Site": "https://martinkramer.org/",
-        "Icon": "https://martinkramer.org/wp-content/uploads/2020/06/image.jpg",
-        "Redirect": "https://martinkramer.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://martinkramer.org/"
     }
 ]

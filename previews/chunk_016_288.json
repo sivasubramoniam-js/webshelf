@@ -171,10 +171,10 @@
     },
     {
         "link": "https://red17.co.uk",
-        "Heading": "You are being redirected...",
-        "Abstract": null,
+        "Heading": "Red17 - Signage, Print and Display Products",
+        "Abstract": "Red17 is the UK's leading online supplier of sign, print and display products. With thousands of products available to buy online, visit our store today.",
         "Official Site": "https://red17.co.uk",
-        "Icon": "N/A",
+        "Icon": "https://www.red17.co.uk/media/favicon/default/favicon.ico",
         "Redirect": "https://red17.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://red17.co.uk"
@@ -200,16 +200,6 @@
         "AbstractURL": "https://www.netzerowatch.com"
     },
     {
-        "link": "https://playradios.com.ar",
-        "Heading": "Noticias de las Flores",
-        "Abstract": null,
-        "Official Site": "https://playradios.com.ar",
-        "Icon": "https://playradios.com.ar/wp-content/uploads/2022/01/favicon.ico",
-        "Redirect": "https://playradios.com.ar",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://playradios.com.ar"
-    },
-    {
         "link": "https://contemposuits.com",
         "Heading": "Shop Modern Men's Fashion & Dress Clothing | ContempoSuits",
         "Abstract": "Shop modern men\u2019s suits, designer hats, tuxedos, and dress clothes online at Contempo Suits. Affordable, stylish looks for weddings, church, and special events.",
@@ -228,16 +218,6 @@
         "Redirect": "https://musicsonglyrics.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://musicsonglyrics.com"
-    },
-    {
-        "link": "https://bicentennial-of-photography.org",
-        "Heading": "Nic\u00e9phore Ni\u00e9pce House Photo Museum - Nic\u00e9phore Ni\u00e9pce's House Museum",
-        "Abstract": "Maison Nic\u00e9phore Ni\u00e9pce \u2013 200 Years of Photography The Nic\u00e9phore Ni\u00e9pce House Photo Museum is the place where the very first photograph in the world was taken by Nic\u00e9phore Ni\u00e9pce, the inventor of photography, in 1824. Among other things, the House contains the oldest photographic studio and laboratory existing today. This world heritage is labelled...",
-        "Official Site": "https://bicentennial-of-photography.org/",
-        "Icon": "https://bicentennial-of-photography.org/wp-content/uploads/2019/06/Maison_des_illustres-2019.png",
-        "Redirect": "https://bicentennial-of-photography.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bicentennial-of-photography.org/"
     },
     {
         "link": "https://fjax.gov.cn",
@@ -278,15 +258,5 @@
         "Redirect": "https://komvos.edu.gr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://komvos.edu.gr"
-    },
-    {
-        "link": "https://qotile.net",
-        "Heading": "\n     Paul Slocum's website\n  ",
-        "Abstract": null,
-        "Official Site": "https://qotile.net",
-        "Icon": "N/A",
-        "Redirect": "https://qotile.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://qotile.net"
     }
 ]

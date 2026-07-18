@@ -50,16 +50,6 @@
         "AbstractURL": "https://www.onefinwanderer.com/"
     },
     {
-        "link": "https://arcticonlinehosting.com",
-        "Heading": "UK-Based Bespoke Website Design & Branding Services | Arctic Online",
-        "Abstract": "Arctic Online provides bespoke website design and professional branding services for smaller UK organisations, including charities and NGOs. We specialise in creating modern, impactful designs that help all our clients\u2014whether nonprofits or businesses\u2014stand out and achieve their goals effectively.",
-        "Official Site": "https://arcticonline.com/",
-        "Icon": "https://arcticonline.com/wp-content/uploads/2019/04/logo-arcticonline-design-wp.png",
-        "Redirect": "https://arcticonline.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://arcticonline.com/"
-    },
-    {
         "link": "https://shopicar.com",
         "Heading": "Shopicar | Sell Your Car Quickly",
         "Abstract": "Get a free vehicle evaluation in just minutes. Transparent offer, home pickup, and secure payment.",
@@ -78,6 +68,16 @@
         "Redirect": "https://www.conmassupply.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.conmassupply.com/"
+    },
+    {
+        "link": "https://help247.us",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://help247.us",
+        "Icon": "N/A",
+        "Redirect": "https://help247.us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://help247.us"
     },
     {
         "link": "https://889992282.xyz",
@@ -118,26 +118,6 @@
         "Redirect": "https://pin-up-site.cl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pin-up-site.cl/"
-    },
-    {
-        "link": "https://hotelmewarinn.com",
-        "Heading": "Hotel Mewar Inn, Udaipur",
-        "Abstract": null,
-        "Official Site": "https://hotelmewarinn.com",
-        "Icon": "images/favicon.ico",
-        "Redirect": "https://hotelmewarinn.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hotelmewarinn.com"
-    },
-    {
-        "link": "https://greenbusinessca.org",
-        "Heading": "Home - California Green Business Network",
-        "Abstract": "The California Green Business Network leads the nation in working with hard-to-reach businesses to create a vibrant, green economy.",
-        "Official Site": "https://greenbusinessca.org/",
-        "Icon": "https://greenbusinessca.org/wp-content/uploads/2024/03/home-top-image-1.jpg",
-        "Redirect": "https://greenbusinessca.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://greenbusinessca.org/"
     },
     {
         "link": "https://plainfieldnj.gov",
@@ -181,23 +161,13 @@
     },
     {
         "link": "https://covidlive.com.au",
-        "Heading": "12,302,646 Coronavirus cases in Australia - COVID Live",
+        "Heading": "12,302,936 Coronavirus cases in Australia - COVID Live",
         "Abstract": "Live tracking of coronavirus cases, active, tests, deaths, ICU, hospitalisations and vaccinations in Australia",
         "Official Site": "https://covidlive.com.au/",
         "Icon": "https://www.covidlive.com.au/images/preview/index.png",
         "Redirect": "https://covidlive.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://covidlive.com.au/"
-    },
-    {
-        "link": "https://johnmiehler.de",
-        "Heading": "Rechtsanwaltskanzlei Miehler",
-        "Abstract": null,
-        "Official Site": "https://johnmiehler.de",
-        "Icon": "N/A",
-        "Redirect": "https://johnmiehler.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://johnmiehler.de"
     },
     {
         "link": "https://uu88moc.com",

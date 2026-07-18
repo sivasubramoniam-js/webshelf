@@ -10,16 +10,6 @@
         "AbstractURL": "https://health-splash.org"
     },
     {
-        "link": "https://pnr-queyras.fr",
-        "Heading": "Accueil - Parc naturel r\u00e9gional du Queyras",
-        "Abstract": "Un parc naturel r\u00e9gional fran\u00e7ais cr\u00e9\u00e9 sur dix communes du massif du Queyras, du massif d'Escreins et des Alpes cottiennes, au nord-est des Hautes-Alpes.",
-        "Official Site": "https://www.pnr-queyras.fr/",
-        "Icon": "https://www.pnr-queyras.fr/ecmedias/2017/10/favicon.png",
-        "Redirect": "https://www.pnr-queyras.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.pnr-queyras.fr/"
-    },
-    {
         "link": "https://albstadt.de",
         "Heading": "Albstadt. Leben weit \u00fcber normal.",
         "Abstract": "Herzlich willkommen auf der Internetseite der Stadt Albstadt! Hier finden Sie Informationen zu Kommunalpolitik und Dienstleistungen.",
@@ -38,16 +28,6 @@
         "Redirect": "https://modernconquest.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://modernconquest.de"
-    },
-    {
-        "link": "https://vulgarisphaseolus.com",
-        "Heading": "Capvis - Leading Entrepreneurial Mid-Market Investor",
-        "Abstract": "Capvis - We are a leading entrepreneurial mid-market investor. We want to develop companies and write success stories together with management teams.",
-        "Official Site": "https://vulgarisphaseolus.com",
-        "Icon": "img/core-img/favicon.png",
-        "Redirect": "https://vulgarisphaseolus.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vulgarisphaseolus.com"
     },
     {
         "link": "https://bankgiroloterij.nl",
@@ -78,16 +58,6 @@
         "Redirect": "https://intrasoft.com.ar",
         "AbstractSource": "BS4",
         "AbstractURL": "https://intrasoft.com.ar"
-    },
-    {
-        "link": "https://ifamilykc.com",
-        "Heading": "Homepage",
-        "Abstract": "We are KC parents\u2019 guide to fun things to do, kids eat free spots, and kids activities around the metro. Explore the best things to now!",
-        "Official Site": "https://ifamilykc.com/",
-        "Icon": "https://ifamilykc.com/wp-content/uploads/2026/07/cropped-Favicon-Sun-NEW-Logo-w_blue-400-x-400-80x80.jpg",
-        "Redirect": "https://ifamilykc.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ifamilykc.com/"
     },
     {
         "link": "https://lafibredutri.fr",
@@ -130,16 +100,6 @@
         "AbstractURL": "https://virchowbund.de"
     },
     {
-        "link": "https://dazzleandbloom.co.uk",
-        "Heading": "Dazzle and Bloom \u2013 Pre-Loved Asian Clothes & Jewellery UK",
-        "Abstract": null,
-        "Official Site": "https://dazzleandbloom.co.uk",
-        "Icon": "https://dazzleandbloom.co.uk/wp-content/uploads/2023/05/cropped-Dazzleandbloom-1-100x100.jpg.webp",
-        "Redirect": "https://dazzleandbloom.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dazzleandbloom.co.uk"
-    },
-    {
         "link": "https://eldorado-templin.de",
         "Heading": "Startseite - www.eldorado-templin.de",
         "Abstract": "Sommerhighlights im El Dorado Saloon Nights und ein Juli-Special f\u00fcr TemplinerNews20 Jahre El Dorado TemplinDie Jubil\u00e4umsparty am 15.08.2026Hier klicken20 Jahre El Dorado TemplinDie gro\u00dfe Party geht weiter. Treffen der ehemaligen Mitarbeiter*innenHier klickenDie Hauptsaison wird hei\u00dfVom 07.07. bis 22.08. t\u00e4glich ge\u00f6ffnetHier klicken TICKETS & Gutscheine jetzt online kaufenSpare bei den Onlinetickets Geld und Zeitzum Online ShopTicketinfosHier [\u2026]",
@@ -158,16 +118,6 @@
         "Redirect": "tabitisrael.co.il",
         "AbstractSource": "BS4",
         "AbstractURL": "tabitisrael.co.il"
-    },
-    {
-        "link": "https://acueductoaguasclaras.com",
-        "Heading": "Acueducto de Aguas Claras \u2013 Gota a gota, mejoramos tu calidad de vida",
-        "Abstract": null,
-        "Official Site": "https://acueductoaguasclaras.com",
-        "Icon": "https://acueductoaguasclaras.com/wp-content/uploads/2019/08/cropped-favicon-32x32.png",
-        "Redirect": "https://acueductoaguasclaras.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://acueductoaguasclaras.com"
     },
     {
         "link": "https://goldy-klubs.xyz",
@@ -214,7 +164,7 @@
         "Heading": "HERO-ERA | Historic Car Rallying - HERO-ERA",
         "Abstract": "A one stop shop platform for historic motoring that is friendly, professional and delivers real value",
         "Official Site": "https://hero-era.com",
-        "Icon": "https://www.hero-era.com/media/1nqprgqm/1200x630-paai-24-wb-al0w5570jpg.jpg?width=1200",
+        "Icon": "https://heroera-web.azurewebsites.net/media/1nqprgqm/1200x630-paai-24-wb-al0w5570jpg.jpg?width=1200",
         "Redirect": "https://hero-era.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hero-era.com"
@@ -228,16 +178,6 @@
         "Redirect": "https://techbrains.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://techbrains.ru/"
-    },
-    {
-        "link": "https://vodnymir.top",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://vodnymir.top",
-        "Icon": "N/A",
-        "Redirect": "https://vodnymir.top",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vodnymir.top"
     },
     {
         "link": "https://nolarotrustee.bond",

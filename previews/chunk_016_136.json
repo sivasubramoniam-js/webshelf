@@ -40,16 +40,6 @@
         "AbstractURL": "https://www.waterbarsf.com/"
     },
     {
-        "link": "https://prime-caps.com",
-        "Heading": "Prime-caps - Home",
-        "Abstract": "Prime-caps  is a company that offers its clients a stake in a professionally managed and diversified investment portfolio. This portfolio is assembled by investing in four fields: Forex Markets, Bitcoin Mining, Venture Capital and the Digital Exchange.",
-        "Official Site": "https://prime-caps.com",
-        "Icon": "https://prime-caps.com/assets/images/seo/67eb2f57b96a01743466327.png",
-        "Redirect": "https://prime-caps.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://prime-caps.com"
-    },
-    {
         "link": "https://lattehub.com",
         "Heading": "Lattehub - The platform commerce is built on",
         "Abstract": "Lattehub is trusted by over a thousand of the world's most successful enterprises to sell, ship, and process payments anywhere.",
@@ -58,6 +48,16 @@
         "Redirect": "https://lattehub.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lattehub.com"
+    },
+    {
+        "link": "https://officialjanis.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://officialjanis.com",
+        "Icon": "N/A",
+        "Redirect": "https://officialjanis.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://officialjanis.com"
     },
     {
         "link": "https://nttsrl.net",
@@ -122,7 +122,7 @@
     {
         "link": "https://cashinpills.com",
         "Heading": "We are the Global Conversion Experts",
-        "Abstract": "Sprawd\u017a najlepszy program partnerski dzi\u0119ki kt\u00f3remu zarabianie przez internet jest jeszcze \u0142atwiejsze. ",
+        "Abstract": "",
         "Official Site": "https://cashinpills.com",
         "Icon": "/static/rwd/favicon.ico",
         "Redirect": "https://cashinpills.com",
@@ -158,16 +158,6 @@
         "Redirect": "https://tlccu.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tlccu.org"
-    },
-    {
-        "link": "https://ti-san.net",
-        "Heading": "Tisan \u0130n\u015faat Ticaret ve Sanayi A.\u015e.",
-        "Abstract": null,
-        "Official Site": "https://ti-san.net",
-        "Icon": "N/A",
-        "Redirect": "https://ti-san.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ti-san.net"
     },
     {
         "link": "https://ehtnh2d4.com",

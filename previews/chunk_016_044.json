@@ -50,16 +50,6 @@
         "AbstractURL": "https://therealgrit.com"
     },
     {
-        "link": "https://tierravivahoteles.com",
-        "Heading": "Tierra Viva Hoteles en Cusco, Lima, Arequipa, Puno y Machu Picchu",
-        "Abstract": "Conoce el Per\u00fa sin tener que pensar en nada m\u00e1s que disfrutar y compartir. Tierra Viva Hoteles es una nueva generaci\u00f3n de hoteles creados para ti.",
-        "Official Site": "https://tierravivahoteles.com/",
-        "Icon": "https://tierravivahoteles.com/wp-content/uploads/2017/06/favicon-tv.png",
-        "Redirect": "https://tierravivahoteles.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tierravivahoteles.com/"
-    },
-    {
         "link": "https://unequal.com",
         "Heading": "Unequal\u00ae Technologies",
         "Abstract": "UNEQUAL\u00ae reduces impact acceleration which can help reduce the risk of  football, baseball, hockey, lacrosse, soccer and action sports injuries.",
@@ -78,16 +68,6 @@
         "Redirect": "https://veteranbusinessowners.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://veteranbusinessowners.com"
-    },
-    {
-        "link": "https://vivotvhd.com",
-        "Heading": "Sitio no disponible en este momento. Intente m\u00e1s tarde.",
-        "Abstract": null,
-        "Official Site": "https://vivotvhd.com",
-        "Icon": "N/A",
-        "Redirect": "https://vivotvhd.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vivotvhd.com"
     },
     {
         "link": "https://wc90.com",
@@ -160,16 +140,6 @@
         "AbstractURL": "https://identitychallenge.com"
     },
     {
-        "link": "https://artsencollectief.nl",
-        "Heading": "Stichting Artsen Collectief",
-        "Abstract": "Wij zijn een groep artsen en medisch professionals die zich zorgen maakt over de enorme negatieve effecten en schade van het huidige coronabeleid in Nederland.",
-        "Official Site": "https://artsencollectief.nl/",
-        "Icon": "https://artsencollectief.nl/wp-content/uploads/2023/04/SAC.png",
-        "Redirect": "https://artsencollectief.nl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://artsencollectief.nl/"
-    },
-    {
         "link": "https://learnlaughspeak.com",
         "Heading": "Home - Learn Laugh Speak",
         "Abstract": "33,000 lessons & 12 levels Make Working In English Easy! Personalized Learning, Any Level, Anytime LEARN MORE Why Learn laugh speak? Take Control Get real-time updates on the participation and progress of employees across multiple key performance indicators with LLS Manager. Ensure that your staff are learning with efficiency by analysing data reports on entire [...]",
@@ -218,5 +188,15 @@
         "Redirect": "https://climabit.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://climabit.com"
+    },
+    {
+        "link": "https://diyixinde.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://diyixinde.com",
+        "Icon": "data:image/x-icon;,",
+        "Redirect": "https://diyixinde.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://diyixinde.com"
     }
 ]

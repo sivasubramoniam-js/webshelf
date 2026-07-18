@@ -40,16 +40,6 @@
         "AbstractURL": "https://exitoeducativo.net/"
     },
     {
-        "link": "https://hrmco.ma",
-        "Heading": "Cabinet de formation Casablanca \u2013 HRMCO Partners",
-        "Abstract": "HRMCO Partners, cabinet de formation Casablanca, propose des solutions sur-mesure en recrutement, formation professionnelle et conseil strat\u00e9gique.",
-        "Official Site": "https://hrmco.ma/",
-        "Icon": "https://hrmco.ma/wp-content/uploads/2025/06/cropped-HRMCO_favicon-32x32.png",
-        "Redirect": "https://hrmco.ma/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hrmco.ma/"
-    },
-    {
         "link": "https://globalgenealogy.com",
         "Heading": "\n      Global Genealogy, Canada's history & genealogy store\n \u2013 Global Genealogy, Canada's history & genealogy store",
         "Abstract": "Global Genealogy, Canada's history & genealogy store",
@@ -58,6 +48,16 @@
         "Redirect": "https://globalgenealogy.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://globalgenealogy.ca/"
+    },
+    {
+        "link": "https://citycenterdc.com",
+        "Heading": "Home - CityCenterDC",
+        "Abstract": "CityCenterDC is DC\u2019s Downtown Destination for Luxury Expression",
+        "Official Site": "https://www.citycenterdc.com/",
+        "Icon": "https://www.citycenterdc.com/wp-content/uploads/2025/09/CityCenterDC_General_image.jpg",
+        "Redirect": "https://www.citycenterdc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.citycenterdc.com/"
     },
     {
         "link": "https://photometrics.com",
@@ -150,6 +150,16 @@
         "AbstractURL": "https://nittygritty.com"
     },
     {
+        "link": "https://diplomsj6.cfd",
+        "Heading": "diploms.info-\u041a\u0443\u043f\u0438\u0442\u044c \u0434\u0438\u043f\u043b\u043e\u043c|\u0441\u043f\u0440\u0430\u0432\u043a\u0443|\u0443\u0434\u043e\u0441\u0442\u043e\u0432\u0435\u0440\u0435\u043d\u0438\u0435|\u0430\u0442\u0442\u0435\u0441\u0442\u0430\u0442|\u041c\u043e\u0441\u043a\u0432\u0430|\u041f\u0438\u0442\u0435\u0440|",
+        "Abstract": "\u041f\u043e\u043c\u043e\u0449\u044c \u0432 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0438",
+        "Official Site": "https://diplomss7.cfd/",
+        "Icon": "https://diplomss7.cfd/favicon.ico",
+        "Redirect": "https://diplomss7.cfd/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://diplomss7.cfd/"
+    },
+    {
         "link": "https://nbthk-ab2.org",
         "Heading": "NBTHK - American Branch",
         "Abstract": "NBTHK America is an organization to promote the preservation and education of Japanese Art Sword and fittings (Nihonto and Tosogu)",
@@ -228,15 +238,5 @@
         "Redirect": "https://www.wayshot.ai",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.wayshot.ai"
-    },
-    {
-        "link": "https://leo-hillinger.com",
-        "Heading": "Leo Hillinger - more than wine - Leo Hillinger",
-        "Abstract": null,
-        "Official Site": "https://www.leo-hillinger.com/",
-        "Icon": "https://www.leo-hillinger.com/wp-content/uploads/2024/10/cropped-Favicon-HILL-32x32.jpg",
-        "Redirect": "https://www.leo-hillinger.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.leo-hillinger.com/"
     }
 ]

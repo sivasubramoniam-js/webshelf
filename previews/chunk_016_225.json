@@ -100,16 +100,6 @@
         "AbstractURL": "https://www.restapiexample.com/"
     },
     {
-        "link": "https://resultate.com.br",
-        "Heading": "Resultate \u2013 Ag\u00eancia de marketing e tecnologia full service",
-        "Abstract": null,
-        "Official Site": "https://resultate.com.br",
-        "Icon": "https://resultate.com.br/wp-content/uploads/2024/11/R.-Pequena-150x150.png",
-        "Redirect": "https://resultate.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://resultate.com.br"
-    },
-    {
         "link": "https://retweetgroup.com",
         "Heading": "Retweet Group - Retweet Groups on Twitter",
         "Abstract": "Join New Retweet Groups on Twitter at @retweet_groups or visit retweetgroup.com to see if you qualify to join our new limited beta group.",
@@ -130,6 +120,16 @@
         "AbstractURL": "https://www.eltiempo.com/don-juan"
     },
     {
+        "link": "https://rgmnow.com",
+        "Heading": "Ratings Game Music | RGM",
+        "Abstract": "Ratings Game Music (RGM) is a well-established music site that has been serving readers with honest music news, song, movie, and album reviews since 2017.",
+        "Official Site": "https://ratingsgamemusic.com/",
+        "Icon": "https://ratingsgamemusic.com/wp-content/uploads/2024/11/Ratings-game-music.1-1.jpg",
+        "Redirect": "https://ratingsgamemusic.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ratingsgamemusic.com/"
+    },
+    {
         "link": "https://ringcaptcha.com",
         "Heading": "RingCaptcha - Real Users, Real Contact",
         "Abstract": "Onboard & engage users in 90s with phone identity, verification, OTP & SMS notification. Send reliable voice/SMS OTP with Twillio, MessageBird, Nexmo, Infobip, etc. from 1 API.",
@@ -148,16 +148,6 @@
         "Redirect": "https://roboticscats.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://roboticscats.com"
-    },
-    {
-        "link": "https://rockwellmed.com",
-        "Heading": "Rockwell Medical | Driven to Deliver Life-Sustaining Solutions",
-        "Abstract": "Driven to Deliver Life-Sustaining Dialysis Solutions.",
-        "Official Site": "https://rockwellmed.com/",
-        "Icon": "/site/templates/_assets/img/favicon/favicon-32x32.png",
-        "Redirect": "https://rockwellmed.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rockwellmed.com/"
     },
     {
         "link": "https://roguewavereport.com",

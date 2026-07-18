@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://andsinfo.com.br",
-        "Heading": "ANDS",
-        "Abstract": null,
-        "Official Site": "https://andsinfo.com.br",
-        "Icon": "N/A",
-        "Redirect": "https://andsinfo.com.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://andsinfo.com.br"
-    },
-    {
         "link": "https://countyofcolusa.org",
         "Heading": "Colusa County, CA - Official Website | Official Website",
         "Abstract": "",
@@ -28,26 +18,6 @@
         "Redirect": "https://varmrus.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://varmrus.com"
-    },
-    {
-        "link": "https://royaloakcare.com.au",
-        "Heading": "RoyalOak Care",
-        "Abstract": null,
-        "Official Site": "https://royaloakcare.com.au",
-        "Icon": "https://royaloakcare.com.au/wp-content/uploads/2026/02/cropped-1-32x32.webp",
-        "Redirect": "https://royaloakcare.com.au",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://royaloakcare.com.au"
-    },
-    {
-        "link": "https://cgoncology.com",
-        "Heading": "CG Oncology | Focused on the Future of Bladder Cancer",
-        "Abstract": "CG Oncology is a late-stage pharmaceutical company that is passionate about developing and delivering bladder-sparing immunotherapies.",
-        "Official Site": "https://cgoncology.com/",
-        "Icon": "https://cgoncology.com/wp-content/uploads/2025/12/OG_Homepage.jpg",
-        "Redirect": "https://cgoncology.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cgoncology.com/"
     },
     {
         "link": "https://fallible.com",
@@ -110,14 +80,14 @@
         "AbstractURL": "https://smartlindung.com"
     },
     {
-        "link": "https://icidevents.org",
-        "Heading": "Domain Default page",
-        "Abstract": null,
-        "Official Site": "https://icidevents.org",
-        "Icon": "favicon.ico",
-        "Redirect": "https://icidevents.org",
+        "link": "https://caymannetnews.com",
+        "Heading": "Best Pool Pump & Cleaner Comparisons and Reviews",
+        "Abstract": "Find the best pool pumps and robotic cleaners with our in-depth comparisons and expert reviews. Make the right choice for your pool with IntexPoolPumps!",
+        "Official Site": "https://intexpoolpumps.org/",
+        "Icon": "path/to/image.jpg",
+        "Redirect": "https://intexpoolpumps.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://icidevents.org"
+        "AbstractURL": "https://intexpoolpumps.org/"
     },
     {
         "link": "https://mxpublishing.com",

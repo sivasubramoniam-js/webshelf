@@ -10,16 +10,6 @@
         "AbstractURL": "https://ourhenhouse.org"
     },
     {
-        "link": "https://digitalmediawomen.de",
-        "Heading": "Home - Digital Media Women e.V.",
-        "Abstract": "Werde sichtbar als Supporter*in der Digital Media Women und f\u00fcr Diversity mit unseren neunen Merchartikeln.",
-        "Official Site": "https://digitalmediawomen.de/",
-        "Icon": "https://digitalmediawomen.de/wp-content/uploads/2023/04/graffiti.webp",
-        "Redirect": "https://digitalmediawomen.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://digitalmediawomen.de/"
-    },
-    {
         "link": "https://losglaciares.com",
         "Heading": "Patagonia austral: Parque Nacional Los Glaciares, Torres del Paine, y El Chalt\u00e9n - Southern Patagonia: Los Glaciares National Park, Torres del Paine and El Chalt\u00e9n",
         "Abstract": "Patagonia austral: Parque Nacional Los Glaciares, Torres del Paine, El Calafate, El Chalt\u00e9n y las estancias turisticas, reunidos en la gu\u00eda m\u00e1s completa para conocerlas y planificar el viaje a la patagonia austral.",
@@ -51,33 +41,13 @@
     },
     {
         "link": "https://aginsk-pravda.ru",
-        "Heading": "\u0410\u0440\u0445\u0438\u0432 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u043e\u0432 - \"\u0410\u0433\u0438\u043d\u0441\u043a\u0430\u044f \u043f\u0440\u0430\u0432\u0434\u0430\"",
+        "Heading": "\"\u0410\u0433\u0438\u043d\u0441\u043a\u0430\u044f \u043f\u0440\u0430\u0432\u0434\u0430\"",
         "Abstract": null,
         "Official Site": "https://aginsk-pravda.ru",
         "Icon": "N/A",
         "Redirect": "https://aginsk-pravda.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aginsk-pravda.ru"
-    },
-    {
-        "link": "https://shakepavest.com",
-        "Heading": "shakepavest - Build Your Future Investments",
-        "Abstract": null,
-        "Official Site": "https://shakepavest.com",
-        "Icon": "#",
-        "Redirect": "https://shakepavest.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shakepavest.com"
-    },
-    {
-        "link": "https://bricktrustcap.com",
-        "Heading": "Brick Trust Capital",
-        "Abstract": null,
-        "Official Site": "https://bricktrustcap.com",
-        "Icon": "assets/images/favicons/favicon-16x16.png",
-        "Redirect": "https://bricktrustcap.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bricktrustcap.com"
     },
     {
         "link": "https://payson.se",
@@ -88,6 +58,16 @@
         "Redirect": "https://www.svea.com/sv-se/foretag/betallosningar/e-handel/payson-checkout",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.svea.com/sv-se/foretag/betallosningar/e-handel/payson-checkout"
+    },
+    {
+        "link": "https://brandveda.in",
+        "Heading": "Best Digital Marketing Course in Ahmedabad | Brandveda",
+        "Abstract": "Best Digital Marketing Course in Ahmedabad | 100% Job Assistance | 15+ years of experience | 50000+ Students Trained | 5000+ Placements.",
+        "Official Site": "https://brandveda.in",
+        "Icon": "https://cdn.prod.website-files.com/676aad5a4491ef25f56a9c71/678f537ccb1a245c9d0345ac_Favicon.png",
+        "Redirect": "https://brandveda.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://brandveda.in"
     },
     {
         "link": "https://personnelsolutionsplus.net",
@@ -130,16 +110,6 @@
         "AbstractURL": "https://asermed.com"
     },
     {
-        "link": "https://instrukcja.pl",
-        "Heading": "Portal Praktycznej Wiedzy \u2013 Najwi\u0119ksza Baza Instrukcji, instrukcje obs\u0142ugi, poradniki, filmy instrukta\u017cowe, animacje i wiele, wiele wi\u0119cej... - Instrukcja.pl",
-        "Abstract": "Instrukcja.pl - najwi\u0119ksza i najlepsza baza praktycznej wiedzy. U nas znajdziesz interaktywne, multimedialne instrukcje do wszystkiego. Instrukcje obs\u0142ugi do wszystkiego.",
-        "Official Site": "https://instrukcja.pl",
-        "Icon": "/media/img/favicon.ico",
-        "Redirect": "https://instrukcja.pl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://instrukcja.pl"
-    },
-    {
         "link": "https://larkmidtable.com",
         "Heading": "Checking your browser...",
         "Abstract": null,
@@ -173,11 +143,11 @@
         "link": "https://workweave.ai",
         "Heading": "Weave - AI to measure engineers and agents",
         "Abstract": " Weave combines LLMs and domain-specific machine learning to understand engineering work. We understand how much work was done by AI vs. humans. How much AI is helping your team ship faster, if it's having an impact on code quality and code reviews.",
-        "Official Site": "https://workweave.dev/",
+        "Official Site": "https://weaveos.com/",
         "Icon": "https://framerusercontent.com/images/UAWlBqgQ9KQljrpb3ruIUgMqBEE.png",
-        "Redirect": "https://workweave.dev/",
+        "Redirect": "https://weaveos.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://workweave.dev/"
+        "AbstractURL": "https://weaveos.com/"
     },
     {
         "link": "https://oplichting.com",
