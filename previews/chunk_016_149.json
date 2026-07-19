@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://aiassetgrowth.com",
+        "Heading": "Ai Assets Growth - Innovative solutions for institutional investors.    ",
+        "Abstract": "Comprehensive financial advice and investment services that are tailored to meet your individual needs.",
+        "Official Site": "index-2.html",
+        "Icon": "temp/wp-content/uploads/sites/56/elementor/thumbs/favicon.png",
+        "Redirect": "index-2.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "index-2.html"
+    },
+    {
         "link": "https://eldenringci.shop",
         "Heading": "Forte Rendovale Software: la Suite di analisi operativa",
         "Abstract": "The Forte Rendovale analytics suite fornisce informazioni operative. Traccia metriche, visualizza le tendenze dei dati e gestisci i flussi di lavoro dell'account attraverso la piattaforma software centrale.",
@@ -228,5 +238,15 @@
         "Redirect": "https://pclindia.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pclindia.com/"
+    },
+    {
+        "link": "https://domainzguru.com",
+        "Heading": "This site is brand new",
+        "Abstract": null,
+        "Official Site": "https://domainzguru.com",
+        "Icon": "N/A",
+        "Redirect": "https://domainzguru.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://domainzguru.com"
     }
 ]

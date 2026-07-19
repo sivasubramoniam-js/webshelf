@@ -21,10 +21,10 @@
     },
     {
         "link": "https://nas224.ru",
-        "Heading": "DSM mobile - SamofalovNAS",
-        "Abstract": null,
+        "Heading": "SamofalovNAS\u00a0-\u00a0Synology\u00a0NAS",
+        "Abstract": "Synology NAS provides a full-featured network attached storage (NAS) solution to help you manage, backup and share data among Windows, Mac and Linux easily.",
         "Official Site": "https://nas224.ru",
-        "Icon": "webman/favicon.ico?v=86009",
+        "Icon": "webman/favicon.ico?v=40438",
         "Redirect": "https://nas224.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nas224.ru"
@@ -48,6 +48,26 @@
         "Redirect": "https://tobermorytech.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tobermorytech.com"
+    },
+    {
+        "link": "https://stachelorthodonticsnyc.com",
+        "Heading": "stachelorthodonticsnyc.com",
+        "Abstract": null,
+        "Official Site": "https://stachelorthodonticsnyc.com",
+        "Icon": "N/A",
+        "Redirect": "https://stachelorthodonticsnyc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stachelorthodonticsnyc.com"
+    },
+    {
+        "link": "https://nieuwslog.nl",
+        "Heading": "Nieuwslog.nl - Het laatste nieuws over casino's, gokken en wedden",
+        "Abstract": null,
+        "Official Site": "https://www.nieuwslog.nl/",
+        "Icon": "https://cdn.nieuwslog.nl/media/cropped-512x512-favicon-32x32.png",
+        "Redirect": "https://www.nieuwslog.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nieuwslog.nl/"
     },
     {
         "link": "https://memoiredencrier.com",
@@ -90,14 +110,44 @@
         "AbstractURL": "https://podisplus.com"
     },
     {
-        "link": "https://honestdog.de",
-        "Heading": "Der bessere Weg, deinen Hund zu finden | HonestDog",
-        "Abstract": "Erkunde Welpen, geplante W\u00fcrfe und Tierheimhunde von vertrauensw\u00fcrdigen Z\u00fcchtern. Finde deinen perfekten Hund mit HonestDog.",
-        "Official Site": "https://www.honestdog.de/de",
-        "Icon": "https://www.honestdog.de/images/og-default.png",
-        "Redirect": "https://www.honestdog.de/de",
+        "link": "https://tigeraspect.co.uk",
+        "Heading": "Home - Tiger Aspect",
+        "Abstract": null,
+        "Official Site": "https://www.tigeraspect.co.uk/",
+        "Icon": "https://www.tigeraspect.co.uk/wp-content/themes/designdough/assets/svg/tiger-aspect-favicon.png",
+        "Redirect": "https://www.tigeraspect.co.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.honestdog.de/de"
+        "AbstractURL": "https://www.tigeraspect.co.uk/"
+    },
+    {
+        "link": "https://datauphost.com.br",
+        "Heading": "DataUP - Hospedagem de Sites, E-mails e Registro de Dom\u00ednios",
+        "Abstract": "",
+        "Official Site": "https://datauphost.com.br",
+        "Icon": "imagens/icons/favicon.png",
+        "Redirect": "https://datauphost.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://datauphost.com.br"
+    },
+    {
+        "link": "https://honestdog.de",
+        "Heading": "A Better Way to Find Your Dog | HonestDog",
+        "Abstract": "Explore puppies, planned litters, and shelter dogs from vetted breeders and official shelters. Find your perfect dog with HonestDog.",
+        "Official Site": "https://www.honestdog.de/en",
+        "Icon": "https://www.honestdog.de/images/og-default.png",
+        "Redirect": "https://www.honestdog.de/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.honestdog.de/en"
+    },
+    {
+        "link": "https://delhipostnews.com",
+        "Heading": "Delhi Post News | Politics | Democracy | Development",
+        "Abstract": "Delhi Post News is a digital media start-up. The Delhi Post is published by the Institute of Poverty and Governance (IPG) \u2013 a multidisciplinary think-tank.",
+        "Official Site": "https://delhipostnews.com/",
+        "Icon": "https://delhipostnews.com/wp-content/uploads/2018/02/DP-Logo.png",
+        "Redirect": "https://delhipostnews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://delhipostnews.com/"
     },
     {
         "link": "https://coconutcommunity.org",
@@ -108,6 +158,16 @@
         "Redirect": "https://coconutcommunity.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://coconutcommunity.org"
+    },
+    {
+        "link": "https://quantum-flowmarkets.info",
+        "Heading": "Quantum-flowmarkets | CFD Trading \u2014 Trading on Stocks, Gold, Oil, Indices",
+        "Abstract": "CFD Trading with Quantum-flowmarkets. Trading on Stocks, Gold, Oil, Indices with ultra-fast execution & spreads from 0.0 pips. News, articles and training materials for experienced and novice traders.",
+        "Official Site": "https://quantum-flowmarkets.info",
+        "Icon": "img/share.jpg",
+        "Redirect": "https://quantum-flowmarkets.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://quantum-flowmarkets.info"
     },
     {
         "link": "https://cruechone.com",
@@ -128,6 +188,16 @@
         "Redirect": "https://www.putneyschool.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.putneyschool.org/"
+    },
+    {
+        "link": "https://proudhappymama.com",
+        "Heading": "Proud Happy Mama | Quotes, Traditions & Activities to Celebrate Motherhood",
+        "Abstract": "Find heartfelt quotes, fun activities & family traditions that celebrate motherhood - one beautiful memory at a time.",
+        "Official Site": "https://proudhappymama.com/",
+        "Icon": "https://proudhappymama.com/wp-content/uploads/2021/06/Proud-Happy-Mama-Post-Cover.jpg",
+        "Redirect": "https://proudhappymama.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://proudhappymama.com/"
     },
     {
         "link": "https://dohaupvc.com",
@@ -158,6 +228,16 @@
         "Redirect": "https://dcabtc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dcabtc.com"
+    },
+    {
+        "link": "https://stageone.ch",
+        "Heading": "Design & Webagentur Thun \u00b7 Stageone Kommunikation",
+        "Abstract": "Wir k\u00fcmmern uns um Ihre Website, vom Konzept \u00fcber Design und Programmierung bis zur Wartung.",
+        "Official Site": "https://www.stageone.ch/",
+        "Icon": "https://www.stageone.ch/themes/stageone/assets/images/webagentur-programmierung.jpg",
+        "Redirect": "https://www.stageone.ch/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.stageone.ch/"
     },
     {
         "link": "https://phrusa.org",

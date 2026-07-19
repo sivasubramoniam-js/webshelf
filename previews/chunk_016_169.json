@@ -70,6 +70,16 @@
         "AbstractURL": "https://greenergrass.games"
     },
     {
+        "link": "https://supertrips.nl",
+        "Heading": "Supertrips, Bijzondere Overnachtingen & Hotels | Ontdek Supertrips",
+        "Abstract": "Ontdek de leukste en meest bijzondere overnachtingen in Europa! \u2713Boomhutten \u2713Glampings \u2713Lodges \u2713Vuurtorens \u2713Yurts \u2713Slapen op het water en veel meer.",
+        "Official Site": "https://supertrips.nl/",
+        "Icon": "https://supertrips.nl/wp-content/uploads/2016/11/cropped-logo-supertrips.png",
+        "Redirect": "https://supertrips.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://supertrips.nl/"
+    },
+    {
         "link": "https://qnovum.com",
         "Heading": "Qnovum \u2014 Qnovum.com",
         "Abstract": "Shop refurbished laptops, mobile phones, desktops, tablets at affordable prices.",
@@ -90,6 +100,16 @@
         "AbstractURL": "https://lostrealm.ca"
     },
     {
+        "link": "https://eminentinvestmentsfx.com",
+        "Heading": "Eminent Investment \u2013 Trade Safe and Secure",
+        "Abstract": null,
+        "Official Site": "https://eminentinvestmentsfx.com",
+        "Icon": "https://eminentinvestmentsfx.com/wp-content/uploads/2024/05/Asset-4464eminentfx-150x150.png",
+        "Redirect": "https://eminentinvestmentsfx.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eminentinvestmentsfx.com"
+    },
+    {
         "link": "https://waslacash.com",
         "Heading": "Wasla Cash - Easy Money Transfer with QR Code",
         "Abstract": "Wasla Cash offers a comprehensive solution for seamless money transfers using QR codes, catering to Android and iOS platforms, along with a user-friendly website and efficient admin panels. The system comprises three distinct interfaces: User Panel, Agent Panel, Merchant Panel. Key features encompass effortless money transfers through QR codes, swift payment processing, mobile top-up services, bill payment functionalities, streamlined remittance solutions, virtual card options, a secure payment checkout page, versatile payment gateway integration, and an accessible Developer API. Our commitment is in delivering exceptional solution, empowering you to capitalize on opportunities and excel in this dynamic industry. Embrace the opportunity to elevate ordinary operations into extraordinary accomplishments with Wasla Cash.",
@@ -101,13 +121,13 @@
     },
     {
         "link": "https://snead.edu",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://snead.edu",
-        "Icon": "data:;",
-        "Redirect": "https://snead.edu",
+        "Heading": "your story - Snead State Community College",
+        "Abstract": "Our students demonstrate the potential to be motivators, leaders, and world-changers. Snead State is the place for you, but don\u2019t solely take our word for it. SCHEDULE A TOUR and [\u2026]",
+        "Official Site": "https://snead.edu/",
+        "Icon": "https://snead.edu/wp-content/uploads/2020/03/main-image-scaled.jpg",
+        "Redirect": "https://snead.edu/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://snead.edu"
+        "AbstractURL": "https://snead.edu/"
     },
     {
         "link": "https://dizipal47.live",
@@ -180,16 +200,6 @@
         "AbstractURL": "https://vsxmail.de"
     },
     {
-        "link": "https://umarexrussia.ru",
-        "Heading": "UMAREX - \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0421\u0430\u0439\u0442 UMAREX \u0432 \u0420\u043e\u0441\u0441\u0438\u0438.",
-        "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u2705 UMAREX (\u0423\u041c\u0410\u0420\u0415\u041a\u0421) \u2764\ufe0f \u043f\u043e \u043d\u0438\u0437\u043a\u043e\u0439 \u0446\u0435\u043d\u0435 \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u2757 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u0421\u0430\u0439\u0442\u0435 UMAREX \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u2708\ufe0f \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438.",
-        "Official Site": "https://umarexrussia.ru",
-        "Icon": "favicon-192x192.png",
-        "Redirect": "https://umarexrussia.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://umarexrussia.ru"
-    },
-    {
         "link": "https://ohdaughter.com",
         "Heading": "Daughter | Official Website",
         "Abstract": "The official website of Daughter (4AD & Glassnote Records)",
@@ -208,5 +218,15 @@
         "Redirect": "https://varikoz-kzn.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://varikoz-kzn.ru"
+    },
+    {
+        "link": "https://digitavserver1.co.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://digitavserver1.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://digitavserver1.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://digitavserver1.co.uk"
     }
 ]

@@ -50,6 +50,16 @@
         "AbstractURL": "https://www.hyundai-avilon.ru/"
     },
     {
+        "link": "https://ltgawards.com",
+        "Heading": "Luxury Travel Guide Awards  - Luxury Travel Guide",
+        "Abstract": "LTG celebrate and awards the best hotels around the world and present a luxury travel awards gala every year. Our Travel and Hospitality awards are recognised by media globally",
+        "Official Site": "https://ltgawards.com",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://ltgawards.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ltgawards.com"
+    },
+    {
         "link": "https://klinika-almaz.ru",
         "Heading": "404 Not Found",
         "Abstract": null,
@@ -130,16 +140,6 @@
         "AbstractURL": "https://kinofilmprogramm.de"
     },
     {
-        "link": "https://bcgame-espana.com",
-        "Heading": "BC.Game Espa\u00f1a - Casino y Apuestas Cripto Seguras",
-        "Abstract": "Descubre BC.Game Espa\u00f1a, la plataforma de criptocasinos y apuestas con miles de juegos y bonos. \u00a1Reg\u00edstrate y empieza a jugar hoy mismo!",
-        "Official Site": "https://chic2chic.es/es-es/",
-        "Icon": "https://chic2chic.es/wp-content/uploads/2025/01/main-1.webp",
-        "Redirect": "https://chic2chic.es/es-es/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chic2chic.es/es-es/"
-    },
-    {
         "link": "https://288t.site",
         "Heading": "288T \u2013 Casa De Apostas Europeia Com Licen\u00e7a Oficial",
         "Abstract": "288T se destaca como uma das casas de apostas mais confi\u00e1veis do mercado europeu, de qualidade superior. Com sistema moderno e suporte dedicado, membros em todo o continente.",
@@ -160,14 +160,44 @@
         "AbstractURL": "https://hot-peaches.com"
     },
     {
-        "link": "https://onemindpsyberguide.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://onemindpsyberguide.org",
-        "Icon": "data:;",
-        "Redirect": "https://onemindpsyberguide.org",
+        "link": "https://capsulenz.com",
+        "Heading": "Home - Capsule NZ",
+        "Abstract": "The ultimate curated collection of smart stories and relatable rants, brought to you by former editors and writers of New Zealand\u2019s best magazines.",
+        "Official Site": "https://capsulenz.com/",
+        "Icon": "https://capsulenz.com/wp-content/uploads/2020/06/CapsuleCommunicationsNZ.jpg",
+        "Redirect": "https://capsulenz.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://onemindpsyberguide.org"
+        "AbstractURL": "https://capsulenz.com/"
+    },
+    {
+        "link": "https://profinexglobal.com",
+        "Heading": "PROFINEX GLOBAL | CFD Trading \u2014 Trading on Stocks, Gold, Oil, Indices",
+        "Abstract": "CFD Trading with PROFINEX GLOBAL. Trading on Stocks, Gold, Oil, Indices with ultra-fast execution & spreads from 0.0 pips. News, articles and training materials for experienced and novice traders.",
+        "Official Site": "https://profinexglobal.com",
+        "Icon": "img/share.jpg",
+        "Redirect": "https://profinexglobal.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://profinexglobal.com"
+    },
+    {
+        "link": "https://onemindpsyberguide.org",
+        "Heading": "One Mind PsyberGuide | A Mental Health App Guide",
+        "Abstract": "Psyberguide Brain Health And Mind Optimization Based On Science. We're dedicated to helping people understand the science of brain health, cognitive function, brain chemistry and nootropics.",
+        "Official Site": "https://onemindpsyberguide.org/",
+        "Icon": "https://onemindpsyberguide.org/wp-content/uploads/2025/01/cropped-Psyberguide-Logo.png",
+        "Redirect": "https://onemindpsyberguide.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onemindpsyberguide.org/"
+    },
+    {
+        "link": "https://castleofgoodhope.co.za",
+        "Heading": "Home",
+        "Abstract": null,
+        "Official Site": "https://castleofgoodhope.co.za",
+        "Icon": "/media/templates/site/cassiopeia/images/joomla-favicon.svg",
+        "Redirect": "https://castleofgoodhope.co.za",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://castleofgoodhope.co.za"
     },
     {
         "link": "https://eautoseller.de",
@@ -178,6 +208,16 @@
         "Redirect": "index.html",
         "AbstractSource": "BS4",
         "AbstractURL": "index.html"
+    },
+    {
+        "link": "https://zadexglobals.com",
+        "Heading": "Zadex - Gateway to the worlds market.",
+        "Abstract": "Zadex offers you the best trading conditions with zero fees. Navigate the market with advanced AI trading technology.",
+        "Official Site": "https://zadexglobals.com",
+        "Icon": "https://zadexglobals.com/temp/image/favicon.png",
+        "Redirect": "https://zadexglobals.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zadexglobals.com"
     },
     {
         "link": "https://thegrandwilmington.org",
@@ -198,6 +238,26 @@
         "Redirect": "https://priceapi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://priceapi.com"
+    },
+    {
+        "link": "https://guncelkibris.com",
+        "Heading": "G\u00fcncel K\u0131br\u0131s, K\u0131br\u0131s'\u0131n En G\u00fcncel Haber Sitesi\u00a0| guncelkibris.com",
+        "Abstract": "Son dakika haberler, en g\u00fcncel haber ba\u015fl\u0131klar\u0131 ve \u00e7ok daha fazlas\u0131n\u0131 an be an guncelkibris.com adresinden takip edebilirsiniz. G\u00fcncel K\u0131br\u0131s",
+        "Official Site": "https://www.guncelkibris.com/",
+        "Icon": "https://www.guncelkibris.com/wp-content/uploads/2019/12/gk-favv.png",
+        "Redirect": "https://www.guncelkibris.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.guncelkibris.com/"
+    },
+    {
+        "link": "https://unternehmeredition.de",
+        "Heading": "Unternehmeredition.de - Online- und Printmagazin f\u00fcr Familienunternehmen",
+        "Abstract": "Im Mittelpunkt steht der Unternehmer. In gro\u00dfen Geschichten, Interviews, Fallstudien und pers\u00f6nlichen Vortr\u00e4gen berichtet dieser von seinen Erfahrungen",
+        "Official Site": "https://unternehmeredition.de",
+        "Icon": "https://www.unternehmeredition.de/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png",
+        "Redirect": "https://unternehmeredition.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://unternehmeredition.de"
     },
     {
         "link": "https://kinderstarkmachen.de",

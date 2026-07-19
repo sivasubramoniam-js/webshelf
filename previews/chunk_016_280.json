@@ -20,6 +20,16 @@
         "AbstractURL": "https://coffeecuattro.ru"
     },
     {
+        "link": "https://danteonline.it",
+        "Heading": "Danteonline versione beta 2020",
+        "Abstract": null,
+        "Official Site": "https://danteonline.it/index.html",
+        "Icon": "N/A",
+        "Redirect": "https://danteonline.it/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://danteonline.it/index.html"
+    },
+    {
         "link": "https://tmx67.com",
         "Heading": "tmx67.com",
         "Abstract": null,
@@ -71,13 +81,13 @@
     },
     {
         "link": "https://harperstrail.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://harperstrail.com",
-        "Icon": "data:;",
-        "Redirect": "https://harperstrail.com",
+        "Heading": "Best Online Casinos Canada - Top Online Casino Picks 2026",
+        "Abstract": "List of 30+ best online casinos in Canada: Reviews and comparisons of casino sites for real money gaming with the best bonuses.",
+        "Official Site": "https://www.harperstrail.com/",
+        "Icon": "https://www.harperstrail.com/wp-content/uploads/2026/02/logo3.png",
+        "Redirect": "https://www.harperstrail.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://harperstrail.com"
+        "AbstractURL": "https://www.harperstrail.com/"
     },
     {
         "link": "https://keepup.com.au",
@@ -238,5 +248,15 @@
         "Redirect": "https://it-volna.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://it-volna.com/"
+    },
+    {
+        "link": "https://ststo.top",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ststo.top",
+        "Icon": "N/A",
+        "Redirect": "https://ststo.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ststo.top"
     }
 ]

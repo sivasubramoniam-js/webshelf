@@ -30,6 +30,26 @@
         "AbstractURL": "https://bhpcompany.pl/"
     },
     {
+        "link": "https://wildbieneundpartner.de",
+        "Heading": "\n    Wildbiene + Partner \u2013 Wildbiene - Partner GmbH\n  ",
+        "Abstract": "A buzzing world for all - Bring die Natur zum Summen: Mit Wildbienen und der richtigen Bepflanzung. F\u00fcr mehr Biodiversit\u00e4t in Deutschland.",
+        "Official Site": "https://wildbieneundpartner.de/",
+        "Icon": "http://wildbieneundpartner.de/cdn/shopifycloud/storefront/assets/no-image-2048-a2addb12_1200x1200.gif",
+        "Redirect": "https://wildbieneundpartner.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wildbieneundpartner.de/"
+    },
+    {
+        "link": "https://grands-meres.net",
+        "Heading": "Grands-M\u00e8res, leurs rem\u00e8des, recettes et astuces les plus efficaces",
+        "Abstract": "Rem\u00e8des, Astuces et Recettes",
+        "Official Site": "https://grands-meres.net/",
+        "Icon": "https://www.grands-meres.net/wp-content/uploads/2024/04/logo-gm-v3.png",
+        "Redirect": "https://grands-meres.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://grands-meres.net/"
+    },
+    {
         "link": "https://assistenzadigitale.it",
         "Heading": "Assistenzadigitale.it \u2013 Cloud, Network and Security",
         "Abstract": null,
@@ -61,13 +81,13 @@
     },
     {
         "link": "https://goodwin-soft.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://goodwin-soft.com",
-        "Icon": "data:;",
-        "Redirect": "https://goodwin-soft.com",
+        "Heading": "Goodwin \u2014 Travel Business Operating System",
+        "Abstract": "Goodwin is an all-in-one operating system for profitable travel businesses. Control pricing, access global suppliers, and scale distribution from one unified platform.",
+        "Official Site": "https://goodwin.tech/",
+        "Icon": "https://goodwin.tech/wp-content/uploads/2023/11/logo-vector.svg",
+        "Redirect": "https://goodwin.tech/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://goodwin-soft.com"
+        "AbstractURL": "https://goodwin.tech/"
     },
     {
         "link": "https://thebeautyholic.com",
@@ -120,6 +140,16 @@
         "AbstractURL": "https://eldow-games.xyz"
     },
     {
+        "link": "https://fit-theme.com",
+        "Heading": "WordPress\u30c6\u30fc\u30de\u306e\u304a\u3059\u3059\u3081\u306fFIT THEME(\u30d5\u30a3\u30c3\u30c8\u30c6\u30fc\u30de) \u2013 \u6700\u9ad8\u306e\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u3092\u5b9f\u73fe\u3059\u308b\u56fd\u7523WordPress\u30c6\u30fc\u30de",
+        "Abstract": null,
+        "Official Site": "https://fit-theme.com",
+        "Icon": "N/A",
+        "Redirect": "https://fit-theme.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fit-theme.com"
+    },
+    {
         "link": "https://radio-seefunk.de",
         "Heading": "Radio Seefunk",
         "Abstract": "IMS\u00dcDEN.de | Das Nachrichten- und Lifestyle-Portal f\u00fcr die lokalen Radio- & TV-Sender in S\u00fcddeutschland",
@@ -168,5 +198,25 @@
         "Redirect": "https://clarum.ai",
         "AbstractSource": "BS4",
         "AbstractURL": "https://clarum.ai"
+    },
+    {
+        "link": "https://dr-entrup.de",
+        "Heading": "Kieferorthop\u00e4die Hannover - KFO Behandlung Dr. Entrup & Kollegen",
+        "Abstract": "Kieferorthop\u00e4die Hannover - KFO Behandlungen bei BALANCE - Kieferorthop\u00e4den Dres. W. & J. Entrup & Dr. T. Altvater - F\u00fcr Kinder und Erwachsene - Feste und lose Zahnspangen - Kompetentes und einf\u00fchlsames Team - Modernen Praxis. Jetzt informieren!",
+        "Official Site": "https://www.dr-entrup.de/",
+        "Icon": "https://www.dr-entrup.de/wp-content/uploads/2023/10/1603_BALANCE_ENTWURF_LOGO_01_FINAL_EXPORT-150x150.jpg",
+        "Redirect": "https://www.dr-entrup.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dr-entrup.de/"
+    },
+    {
+        "link": "https://fivedeeps.com",
+        "Heading": "The Five Deeps Expedition",
+        "Abstract": "Relive The Five Deeps Expedition        \nMISSION COMPLETE \nAfter travelling 47,000 miles and completing 39 dives, the Five Deeps Expedition has reached its successful conclusion: the first manned descent to the bottom of each of the world's five oceans.",
+        "Official Site": "https://fivedeeps.com/",
+        "Icon": "https://fivedeeps.com/wp-content/uploads/2018/07/FiveDeepsExpedition_MicroLogo.png",
+        "Redirect": "https://fivedeeps.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fivedeeps.com/"
     }
 ]

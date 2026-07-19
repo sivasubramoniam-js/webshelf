@@ -170,16 +170,6 @@
         "AbstractURL": "https://aventurauniversal.com/"
     },
     {
-        "link": "https://millicanpecan.com",
-        "Heading": "Pecans \u2013 Shelled, Halves, In Shell & Bulk | Millican Pecan Co",
-        "Abstract": "Shop Millican Pecan for premium Texas pecan nuts! Find PECANS FOR SALE. Perfect for recipes or gifts, our pecans bring the rich flavor to your table.",
-        "Official Site": "https://millicanpecan.com/",
-        "Icon": "http://millicanpecan.com/cdn/shop/files/Millican_Pecan_logo_High_Rez_1200x1200.png?v=1744808248",
-        "Redirect": "https://millicanpecan.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://millicanpecan.com/"
-    },
-    {
         "link": "https://soapaid.org",
         "Heading": "Soap Aid",
         "Abstract": null,
@@ -248,5 +238,25 @@
         "Redirect": "https://badacsony200.hu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://badacsony200.hu"
+    },
+    {
+        "link": "https://kathmanduwater.org",
+        "Heading": "Kathmandu Upatyaka Khanepani Limited (KUKL) \u2013 Water",
+        "Abstract": null,
+        "Official Site": "https://kathmanduwater.org",
+        "Icon": "https://kathmanduwater.org/wp-content/uploads/2017/03/fav_icon.png",
+        "Redirect": "https://kathmanduwater.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kathmanduwater.org"
+    },
+    {
+        "link": "https://alfa-direkt.de",
+        "Heading": "Alfa Direkt - Qualit\u00e4t f\u00fcr's Handwerk - unsere neuen Produkte",
+        "Abstract": " Qualit\u00e4t f\u00fcr's Handwerk! 25.000 zufriedene Handwerker - Keine Versandkosten mit Alfa Plus - Bis 17 Uhr bestellt, morgen geliefert.\n",
+        "Official Site": "https://alfa-direkt.de",
+        "Icon": "https://media.alfa-direkt.de/favicon/default/favicon.ico",
+        "Redirect": "https://alfa-direkt.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alfa-direkt.de"
     }
 ]

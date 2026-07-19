@@ -1,13 +1,23 @@
 [
     {
         "link": "https://legionariesofchrist.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://legionariesofchrist.org",
-        "Icon": "data:;",
-        "Redirect": "https://legionariesofchrist.org",
+        "Heading": "Home - Legionaries of Christ",
+        "Abstract": "The Legionaries of Christ are a religious order of Pontifical Rite and part of the Regnum Christi spiritual family.",
+        "Official Site": "https://legionariesofchrist.org/",
+        "Icon": "https://legionariesofchrist.org/wp-content/uploads/2024/12/LC-default-feature.webp",
+        "Redirect": "https://legionariesofchrist.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://legionariesofchrist.org"
+        "AbstractURL": "https://legionariesofchrist.org/"
+    },
+    {
+        "link": "https://crossingthehorizonbook.com",
+        "Heading": "Home - Crossingthehorizonbook",
+        "Abstract": "Build better habits, get inspired by real success stories, and strengthen connections with practical relationship advice",
+        "Official Site": "https://crossingthehorizonbook.com/",
+        "Icon": "https://crossingthehorizonbook.com/wp-content/uploads/2026/01/airtable_6958d5446c8ee-1.webp",
+        "Redirect": "https://crossingthehorizonbook.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://crossingthehorizonbook.com/"
     },
     {
         "link": "https://justmaththings.de",
@@ -18,6 +28,16 @@
         "Redirect": "https://www.justmaththings.de/de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.justmaththings.de/de/"
+    },
+    {
+        "link": "https://omoik.com",
+        "Heading": "Omoik \u2013 User Feedback & Website Survey Tool",
+        "Abstract": "Collect real-time user feedback with Omoik. Lightweight website surveys that improve conversions. Privacy-first, no cookies, easy to set up.",
+        "Official Site": "https://omoik.com/",
+        "Icon": "https://omoik.com/wp-content/uploads/2025/09/cropped-omoik-logo-small-32x32.png",
+        "Redirect": "https://omoik.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://omoik.com/"
     },
     {
         "link": "https://defabrique.nl",
@@ -38,6 +58,16 @@
         "Redirect": "https://kumarrobotics.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kumarrobotics.org"
+    },
+    {
+        "link": "https://humanconstanta.by",
+        "Heading": "Human Constanta - \u041f\u0440\u0430\u0432\u043e\u0437\u0430\u0449\u0438\u0442\u043d\u0430\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f",
+        "Abstract": null,
+        "Official Site": "https://humanconstanta.org/",
+        "Icon": "https://humanconstanta.org/wp-content/themes/humanconstanta/assets/favicons/android-icon-192x192.png",
+        "Redirect": "https://humanconstanta.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://humanconstanta.org/"
     },
     {
         "link": "https://aihumanizer.ai",
@@ -148,5 +178,35 @@
         "Redirect": "https://zhilianlj.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zhilianlj.com"
+    },
+    {
+        "link": "https://tachukadi.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://tachukadi.com",
+        "Icon": "N/A",
+        "Redirect": "https://tachukadi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tachukadi.com"
+    },
+    {
+        "link": "https://samedaytradeframes.com",
+        "Heading": "Home - Samedaytradeframes",
+        "Abstract": "Explore Sameday Trade Frames for insights on tiny homes, smart house hacking tips, and affordable rural housing options.",
+        "Official Site": "https://samedaytradeframes.com/",
+        "Icon": "https://samedaytradeframes.com/wp-content/uploads/2026/04/airtable_69e85cac5d869-1.jpg",
+        "Redirect": "https://samedaytradeframes.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://samedaytradeframes.com/"
+    },
+    {
+        "link": "https://emergy.de",
+        "Heading": "Emergy: Wir sind EMERGY! Gemeinsam gestalten wir die Energiezukunft.",
+        "Abstract": "EMERGY \u2013 Ihr Partner f\u00fcr nachhaltige Energiel\u00f6sungen: Beratung, Technik & Service aus einer Hand. Jetzt starten und Energiezukunft gestalten!",
+        "Official Site": "https://emergy.de",
+        "Icon": "/_assets/525d9cd7f295c390e29c1943efb79560/Favicons/Default/favicon.ico?1784200827",
+        "Redirect": "https://emergy.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://emergy.de"
     }
 ]

@@ -10,16 +10,6 @@
         "AbstractURL": "https://avacta.com/"
     },
     {
-        "link": "https://oocss.org",
-        "Heading": "OOCSS.ORG - Learn Code By Playing Games",
-        "Abstract": "Play fun, interactive CSS games and challenges to boost your web design skills directly in your browser. Learn by doing!",
-        "Official Site": "https://oocss.org/",
-        "Icon": "https://wordpress.vecurosoft.com/playrex/wp-content/uploads/2023/01/logo-2-1.svg",
-        "Redirect": "https://oocss.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://oocss.org/"
-    },
-    {
         "link": "https://briterbridges.com",
         "Heading": "Briter (formerly Briter Bridges): Intelligence for emerging markets",
         "Abstract": "Discover investment opportunities, track funding trends, and analyze startup ecosystems in emerging markets",
@@ -58,6 +48,16 @@
         "Redirect": "https://jaxstatesports.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jaxstatesports.com/"
+    },
+    {
+        "link": "https://progeny-system.com",
+        "Heading": "Progeny: System",
+        "Abstract": null,
+        "Official Site": "https://progeny-system.com",
+        "Icon": "images/Icons/favicon.ico",
+        "Redirect": "https://progeny-system.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://progeny-system.com"
     },
     {
         "link": "https://churnsolution.com",
@@ -120,6 +120,16 @@
         "AbstractURL": "https://hummerstudio.com"
     },
     {
+        "link": "https://apex-aiz.com",
+        "Heading": "APEX GROUP |  Global Top-tier Awards-Winning Investors ",
+        "Abstract": "APEX GROUP is an investment firm committed to exceptional returns for investors through actively managed portfolios of these blockchain assets.",
+        "Official Site": "https://apex-aiz.com",
+        "Icon": "front/asset/images/favicon_1641545418.png",
+        "Redirect": "https://apex-aiz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://apex-aiz.com"
+    },
+    {
         "link": "https://eblv51wsmb.com",
         "Heading": "porkbun.com | domain for sale",
         "Abstract": "",
@@ -131,13 +141,13 @@
     },
     {
         "link": "https://trilateralresearch.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://trilateralresearch.com",
-        "Icon": "data:;",
-        "Redirect": "https://trilateralresearch.com",
+        "Heading": "Trilateral Research",
+        "Abstract": "We help organisations innovate responsibly with AI that\u2019s human-centred, compliant by design, and proven to reduce risk and deliver results.",
+        "Official Site": "https://trilateralresearch.com/",
+        "Icon": "https://trilateralresearch.com/wp-content/uploads/2025/11/Image-427@2x.png",
+        "Redirect": "https://trilateralresearch.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://trilateralresearch.com"
+        "AbstractURL": "https://trilateralresearch.com/"
     },
     {
         "link": "https://kidslab.dev",

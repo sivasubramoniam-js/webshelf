@@ -40,14 +40,14 @@
         "AbstractURL": "https://www.vgcheat.com/"
     },
     {
-        "link": "https://onefinwanderer.com",
-        "Heading": "Home - One Fin Wanderer",
-        "Abstract": "All things diving and travel from one girl and her one fin exploring the world...",
-        "Official Site": "https://www.onefinwanderer.com/",
-        "Icon": "https://www.onefinwanderer.com/wp-content/uploads/2020/10/img_8598.jpg",
-        "Redirect": "https://www.onefinwanderer.com/",
+        "link": "https://arcticonlinehosting.com",
+        "Heading": "UK-Based Bespoke Website Design & Branding Services | Arctic Online",
+        "Abstract": "Arctic Online provides bespoke website design and professional branding services for smaller UK organisations, including charities and NGOs. We specialise in creating modern, impactful designs that help all our clients\u2014whether nonprofits or businesses\u2014stand out and achieve their goals effectively.",
+        "Official Site": "https://arcticonline.com/",
+        "Icon": "https://arcticonline.com/wp-content/uploads/2019/04/logo-arcticonline-design-wp.png",
+        "Redirect": "https://arcticonline.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.onefinwanderer.com/"
+        "AbstractURL": "https://arcticonline.com/"
     },
     {
         "link": "https://shopicar.com",
@@ -120,6 +120,26 @@
         "AbstractURL": "https://pin-up-site.cl/"
     },
     {
+        "link": "https://hotelmewarinn.com",
+        "Heading": "Hotel Mewar Inn, Udaipur",
+        "Abstract": null,
+        "Official Site": "https://hotelmewarinn.com",
+        "Icon": "images/favicon.ico",
+        "Redirect": "https://hotelmewarinn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotelmewarinn.com"
+    },
+    {
+        "link": "https://greenbusinessca.org",
+        "Heading": "Home - California Green Business Network",
+        "Abstract": "The California Green Business Network leads the nation in working with hard-to-reach businesses to create a vibrant, green economy.",
+        "Official Site": "https://greenbusinessca.org/",
+        "Icon": "https://greenbusinessca.org/wp-content/uploads/2024/03/home-top-image-1.jpg",
+        "Redirect": "https://greenbusinessca.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greenbusinessca.org/"
+    },
+    {
         "link": "https://plainfieldnj.gov",
         "Heading": "City of Plainfield",
         "Abstract": null,
@@ -161,13 +181,23 @@
     },
     {
         "link": "https://covidlive.com.au",
-        "Heading": "12,302,936 Coronavirus cases in Australia - COVID Live",
+        "Heading": "12,303,016 Coronavirus cases in Australia - COVID Live",
         "Abstract": "Live tracking of coronavirus cases, active, tests, deaths, ICU, hospitalisations and vaccinations in Australia",
         "Official Site": "https://covidlive.com.au/",
         "Icon": "https://www.covidlive.com.au/images/preview/index.png",
         "Redirect": "https://covidlive.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://covidlive.com.au/"
+    },
+    {
+        "link": "https://johnmiehler.de",
+        "Heading": "Rechtsanwaltskanzlei Miehler",
+        "Abstract": null,
+        "Official Site": "https://johnmiehler.de",
+        "Icon": "N/A",
+        "Redirect": "https://johnmiehler.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://johnmiehler.de"
     },
     {
         "link": "https://uu88moc.com",
@@ -188,15 +218,5 @@
         "Redirect": "https://stickerp.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://stickerp.com"
-    },
-    {
-        "link": "https://lilinguas.com",
-        "Heading": "Li Linguas",
-        "Abstract": "Art\u00edculos",
-        "Official Site": "https://lilinguas.com",
-        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
-        "Redirect": "https://lilinguas.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lilinguas.com"
     }
 ]

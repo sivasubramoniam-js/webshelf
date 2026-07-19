@@ -71,13 +71,13 @@
     },
     {
         "link": "https://startupo.fr",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://startupo.fr",
-        "Icon": "data:;",
-        "Redirect": "https://startupo.fr",
+        "Heading": "Sites web complets gratuits \u00e0 t\u00e9l\u00e9charger | Startupo.fr",
+        "Abstract": "Parcourez notre collection de sites web complets et pr\u00eats \u00e0 l'emploi, 100 % gratuits, avec panneau d'administration. Pas des th\u00e8mes, pas des templates : de vrais sites finis. Installez et lancez votre activit\u00e9.",
+        "Official Site": "https://freewebsite.fr/sites",
+        "Icon": "N/A",
+        "Redirect": "https://freewebsite.fr/sites",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://startupo.fr"
+        "AbstractURL": "https://freewebsite.fr/sites"
     },
     {
         "link": "https://valsana.it",
@@ -98,6 +98,16 @@
         "Redirect": "https://narkolog.express",
         "AbstractSource": "BS4",
         "AbstractURL": "https://narkolog.express"
+    },
+    {
+        "link": "https://companyrescue.co.uk",
+        "Heading": "Free Insolvency Advice For Business and Companies",
+        "Abstract": "Free online insolvency advice for companies and business people, written by experts and licensed insolvency practitioners.",
+        "Official Site": "https://www.companyrescue.co.uk/",
+        "Icon": "https://www.companyrescue.co.uk/wp-content/uploads/2023/08/Company-Rescue-04-1.jpg",
+        "Redirect": "https://www.companyrescue.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.companyrescue.co.uk/"
     },
     {
         "link": "https://dirtsimple.org",

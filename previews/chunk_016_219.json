@@ -190,6 +190,16 @@
         "AbstractURL": "https://www.impact-advisors.com/"
     },
     {
+        "link": "https://incouragecf.org",
+        "Heading": "Home - Incourage Community Foundation",
+        "Abstract": "We connect your ideas and resources to help create a community that works well for all in the South Wood County area",
+        "Official Site": "https://incouragecf.org/",
+        "Icon": "https://incouragecf.org/wp-content/uploads/2025/06/Incourage-Building-April-2019-full-view-edited-2.webp",
+        "Redirect": "https://incouragecf.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://incouragecf.org/"
+    },
+    {
         "link": "https://indoorway.com",
         "Heading": "JupyterHub",
         "Abstract": "JupyterHub",
@@ -278,5 +288,15 @@
         "Redirect": "https://www.mindwalkai.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mindwalkai.com"
+    },
+    {
+        "link": "https://ipsos-retailperformance.com",
+        "Heading": "Retail Strategy & Retail Analysis | Ipsos Retail",
+        "Abstract": "To understand your consumers you need a cutting edge retail strategy. Ipsos provides this as part of a data led approach to improving in store experiences.",
+        "Official Site": "https://www.ipsos-retailperformance.com/",
+        "Icon": "https://www.ipsos-retailperformance.com/wp-content/uploads/2014/10/retail-consultants-banner-mh.jpg",
+        "Redirect": "https://www.ipsos-retailperformance.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ipsos-retailperformance.com/"
     }
 ]

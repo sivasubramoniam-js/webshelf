@@ -100,6 +100,16 @@
         "AbstractURL": "https://www.restapiexample.com/"
     },
     {
+        "link": "https://resultate.com.br",
+        "Heading": "Resultate \u2013 Ag\u00eancia de marketing e tecnologia full service",
+        "Abstract": null,
+        "Official Site": "https://resultate.com.br",
+        "Icon": "https://resultate.com.br/wp-content/uploads/2024/11/R.-Pequena-150x150.png",
+        "Redirect": "https://resultate.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://resultate.com.br"
+    },
+    {
         "link": "https://retweetgroup.com",
         "Heading": "Retweet Group - Retweet Groups on Twitter",
         "Abstract": "Join New Retweet Groups on Twitter at @retweet_groups or visit retweetgroup.com to see if you qualify to join our new limited beta group.",
@@ -130,6 +140,16 @@
         "AbstractURL": "https://ratingsgamemusic.com/"
     },
     {
+        "link": "https://rhhotelamenities.com",
+        "Heading": "Amenities, Zapatillas y Suministros para Hoteles | RH Hotel Amenities",
+        "Abstract": "Especialistas en amenities y zapatillas para hoteles. Calidad premium, stock permanente y env\u00edos r\u00e1pidos. \u00a1Equipa tu hotel con RH Hotel Amenities!",
+        "Official Site": "https://www.rhhotelamenities.com/es/",
+        "Icon": "https://www.rhhotelamenities.com/img/logo-1773075403.jpg",
+        "Redirect": "https://www.rhhotelamenities.com/es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rhhotelamenities.com/es/"
+    },
+    {
         "link": "https://ringcaptcha.com",
         "Heading": "RingCaptcha - Real Users, Real Contact",
         "Abstract": "Onboard & engage users in 90s with phone identity, verification, OTP & SMS notification. Send reliable voice/SMS OTP with Twillio, MessageBird, Nexmo, Infobip, etc. from 1 API.",
@@ -141,13 +161,23 @@
     },
     {
         "link": "https://roboticscats.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://roboticscats.com",
-        "Icon": "data:;",
-        "Redirect": "https://roboticscats.com",
+        "Heading": "AI Wildfire Detection System to save lives and cut loss | RoboticsCats",
+        "Abstract": "Leading ClimateTech from Hong Kong providing fully automated 24/7 AI wildfire detection system with highest accuracy settings combined with GIS-based data to provide early wildfire alert.",
+        "Official Site": "https://roboticscats.com/",
+        "Icon": "http://roboticscats.com/wp-content/uploads/2020/01/Feature1_Dual_Sensor.png",
+        "Redirect": "https://roboticscats.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://roboticscats.com"
+        "AbstractURL": "https://roboticscats.com/"
+    },
+    {
+        "link": "https://rockwellmed.com",
+        "Heading": "Rockwell Medical | Driven to Deliver Life-Sustaining Solutions",
+        "Abstract": "Driven to Deliver Life-Sustaining Dialysis Solutions.",
+        "Official Site": "https://rockwellmed.com/",
+        "Icon": "/site/templates/_assets/img/favicon/favicon-32x32.png",
+        "Redirect": "https://rockwellmed.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rockwellmed.com/"
     },
     {
         "link": "https://roguewavereport.com",

@@ -11,13 +11,13 @@
     },
     {
         "link": "https://ecogripzone.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ecogripzone.com",
-        "Icon": "data:;",
-        "Redirect": "https://ecogripzone.com",
+        "Heading": "The #1 Eco-Friendly tennis product!",
+        "Abstract": "The #1 Eco-Friendly tennis product!",
+        "Official Site": "https://ecogripzone.com/home/",
+        "Icon": "https://ecogripzone.com/wp-content/uploads/2020/04/TR-Gold-Award.png",
+        "Redirect": "https://ecogripzone.com/home/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ecogripzone.com"
+        "AbstractURL": "https://ecogripzone.com/home/"
     },
     {
         "link": "https://kdbp2.cfd",
@@ -30,6 +30,16 @@
         "AbstractURL": "https://kupitdiplommj.cfd/"
     },
     {
+        "link": "https://appar.io",
+        "Heading": "Coming Soon",
+        "Abstract": null,
+        "Official Site": "https://appar.io",
+        "Icon": "N/A",
+        "Redirect": "https://appar.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://appar.io"
+    },
+    {
         "link": "https://digantara.in",
         "Heading": null,
         "Abstract": null,
@@ -38,6 +48,16 @@
         "Redirect": "https://digantara.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://digantara.in"
+    },
+    {
+        "link": "https://glycocare-us.site",
+        "Heading": "GlycoCare",
+        "Abstract": null,
+        "Official Site": "https://glycocare-us.site",
+        "Icon": "N/A",
+        "Redirect": "https://glycocare-us.site",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://glycocare-us.site"
     },
     {
         "link": "https://occasionalrant.com",
@@ -58,6 +78,16 @@
         "Redirect": "https://jacksontwpnj.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jacksontwpnj.net"
+    },
+    {
+        "link": "https://filtech.de",
+        "Heading": "FILTECH 2027 - The Filtration Event",
+        "Abstract": "The FILTECH Show is the largest and most important filtration event world-wide featuring 600+ Exhibitors and a major international Conference with 200 technical papers. ",
+        "Official Site": "https://filtech.de/",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://filtech.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://filtech.de/"
     },
     {
         "link": "https://gridinfo.com",
@@ -208,5 +238,15 @@
         "Redirect": "https://uralcable.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://uralcable.ru"
+    },
+    {
+        "link": "https://dynafish.co.uk",
+        "Heading": "Algarve websites - WordPress - SEO - Algarve web designers",
+        "Abstract": "Dynafish build Algarve websites. Over the years we\u2019ve helped dozens of Algarve businesses to thrive online. Find out how we can help you too.",
+        "Official Site": "https://www.dynafish.net/",
+        "Icon": "https://www.dynafish.net/wp-content/uploads/2014/05/laughing-fish-fb.png",
+        "Redirect": "https://www.dynafish.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dynafish.net/"
     }
 ]

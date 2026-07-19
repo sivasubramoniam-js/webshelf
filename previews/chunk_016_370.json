@@ -21,13 +21,13 @@
     },
     {
         "link": "https://hoder.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://hoder.com",
-        "Icon": "data:;",
-        "Redirect": "https://hoder.com",
+        "Heading": "Biography - Hossein Derakhshan",
+        "Abstract": "Hossein Derakhshan is an Iranian-Canadian author, researcher, and public speaker, as well as the pioneer of blogging, podcasts and tech journalism in Iran. He is currently completing a PhD at the department of media and communications at London School of Economics and Political Science (LSE)",
+        "Official Site": "https://hoder.com/",
+        "Icon": "https://hoder.com/wp-content/uploads/sites/3/2023/03/IMG_7387-682x1024.jpeg",
+        "Redirect": "https://hoder.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hoder.com"
+        "AbstractURL": "https://hoder.com/"
     },
     {
         "link": "https://theweereview.com",
@@ -201,10 +201,10 @@
     },
     {
         "link": "https://dailyearning.live",
-        "Heading": "Bot Verification",
-        "Abstract": null,
+        "Heading": "Daily Earning | CFD Trading \u2014 Trading on Stocks, Gold, Oil, Indices",
+        "Abstract": "CFD Trading with Daily Earning. Trading on Stocks, Gold, Oil, Indices with ultra-fast execution & spreads from 0.0 pips. News, articles and training materials for experienced and novice traders.",
         "Official Site": "https://dailyearning.live",
-        "Icon": "N/A",
+        "Icon": "img/share.jpg",
         "Redirect": "https://dailyearning.live",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dailyearning.live"
@@ -258,5 +258,15 @@
         "Redirect": "https://awareuw.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://awareuw.cn"
+    },
+    {
+        "link": "https://metasmartsignals.com",
+        "Heading": " Meta Smart Signals",
+        "Abstract": "Sign up with MetaSmartSginals to join millions of traders currently benefiting from high leveraged full STP/ECN CFD trading with zero conflict of interest through tier\u00a0one\u00a0liquidity.",
+        "Official Site": "https://metasmartsignals.com",
+        "Icon": "https://metasmartsignals.com/img/marketlogo.png",
+        "Redirect": "https://metasmartsignals.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://metasmartsignals.com"
     }
 ]

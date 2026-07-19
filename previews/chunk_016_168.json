@@ -11,7 +11,7 @@
     },
     {
         "link": "https://cncaprc.gov.cn",
-        "Heading": "\u4e2d\u56fd\u8001\u9f84\u534f\u4f1a",
+        "Heading": "\u94f6\u9f84\u5728\u7ebf - \u4e2d\u56fd\u8001\u9f84\u534f\u4f1a",
         "Abstract": null,
         "Official Site": "https://cncaprc.gov.cn",
         "Icon": "N/A",
@@ -121,13 +121,13 @@
     },
     {
         "link": "https://prolim.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://prolim.com",
-        "Icon": "data:;",
-        "Redirect": "https://prolim.com",
+        "Heading": "PROLIM: Product Lifecycle Management Solutions & Services",
+        "Abstract": "PROLIM is a leading provider of end-to-end PLM and Engineering Solutions to Global Fortune 1000 companies. We put the life in product lifecycle management.",
+        "Official Site": "https://www.prolim.com/",
+        "Icon": "https://www.prolim.com/wp-content/uploads/2023/01/prolim-favicon.png",
+        "Redirect": "https://www.prolim.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://prolim.com"
+        "AbstractURL": "https://www.prolim.com/"
     },
     {
         "link": "https://clikpals.com",
@@ -158,6 +158,16 @@
         "Redirect": "https://www.king999casino.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.king999casino.com/"
+    },
+    {
+        "link": "https://translation-guide.com",
+        "Heading": "Translation Guide",
+        "Abstract": "Translation companies, free online translators, translation software and language identification tools.",
+        "Official Site": "https://translation-guide.com",
+        "Icon": "N/A",
+        "Redirect": "https://translation-guide.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://translation-guide.com"
     },
     {
         "link": "https://nightscout4u.com",
@@ -228,6 +238,16 @@
         "Redirect": "https://www.tzzadar.hr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tzzadar.hr/"
+    },
+    {
+        "link": "https://trustexchangecapital.world",
+        "Heading": "Trust Exchange Capital",
+        "Abstract": null,
+        "Official Site": "https://trustexchangecapital.world",
+        "Icon": "http://www.trustexchangecapital.world/wp-content/uploads/2025/12/fav.png",
+        "Redirect": "https://trustexchangecapital.world",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trustexchangecapital.world"
     },
     {
         "link": "https://seenice.com",

@@ -24,10 +24,20 @@
         "Heading": "Club Sweethearts Official Site! Premium porn since 1975",
         "Abstract": null,
         "Official Site": "https://clubseventeen.com",
-        "Icon": "https://cdnstatic.imctransfer.com/static_01/club-sweethearts/favicon.png",
+        "Icon": "/favicon.ico",
         "Redirect": "https://clubseventeen.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://clubseventeen.com"
+    },
+    {
+        "link": "https://civicresearchinstitute.com",
+        "Heading": "Civic Research Institute - Criminal Justice, Health, Social Services, Behavioral Health, Law",
+        "Abstract": "Civic Research Institute is a leading publisher of reference information for professionals in criminal justice, health, social services, behavioral health and law.",
+        "Official Site": "https://civicresearchinstitute.com",
+        "Icon": "N/A",
+        "Redirect": "https://civicresearchinstitute.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://civicresearchinstitute.com"
     },
     {
         "link": "https://ablforpeople.com",
@@ -51,13 +61,13 @@
     },
     {
         "link": "https://ublocal.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ublocal.com",
-        "Icon": "data:;",
-        "Redirect": "https://ublocal.com",
+        "Heading": "Union Bank of Vermont & New Hampshire | Stay Local. Go Far.",
+        "Abstract": "Established in 1891, we're a true community bank dedicated to serving the people and businesses of Vermont and New Hampshire.",
+        "Official Site": "https://www.ublocal.com/",
+        "Icon": "https://www.ublocal.com/wp-content/uploads/2026/06/135-web-banner3.jpg",
+        "Redirect": "https://www.ublocal.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ublocal.com"
+        "AbstractURL": "https://www.ublocal.com/"
     },
     {
         "link": "https://vendict.com",
@@ -128,6 +138,26 @@
         "Redirect": "https://tegro.money/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tegro.money/"
+    },
+    {
+        "link": "https://rodnolespropertymanagement.com",
+        "Heading": "Rod Noles  Property Management, Inc.",
+        "Abstract": "Rod Noles Property Management is Central Louisiana's leading property management company. With over 40 years experience in the Real Estate industry...",
+        "Official Site": "https://rodnolespropertymanagement.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://rodnolespropertymanagement.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rodnolespropertymanagement.com"
+    },
+    {
+        "link": "https://france-hydrogene.org",
+        "Heading": "\n\t\t\t\t\t\t\tAgir pour acc\u00e9l\u00e9rer le d\u00e9veloppement de l'hydrog\u00e8ne \u2013 France Hydrog\u00e8ne - France Hydrog\u00e8ne\n\t\t\t\t\t",
+        "Abstract": null,
+        "Official Site": "https://www.france-hydrogene.org/",
+        "Icon": "https://www.france-hydrogene.org/app/themes/france-hydrogene.org/static/images/favicons/favicon.ico",
+        "Redirect": "https://www.france-hydrogene.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.france-hydrogene.org/"
     },
     {
         "link": "https://metadogs.com",

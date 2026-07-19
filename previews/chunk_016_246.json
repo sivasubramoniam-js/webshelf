@@ -1,13 +1,33 @@
 [
     {
         "link": "https://newburyport.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://newburyport.com",
-        "Icon": "data:;",
-        "Redirect": "https://newburyport.com",
+        "Heading": "Newburyport MA | Restaurants, Shopping, Events, Things to Do",
+        "Abstract": "Facebook.com/NewburyportVIP: A Coastal & Lifestyle Destination Site Dedicated to Supporting the Restaurants, Shops & Businesses in Greater Newburyport, Massachusetts. Now when you use your Newburyport.com VIP Card or Mobile App, you'll receive discounts & savings at all participating locations. Support Local, Shop Small, GO VIP! Newburyport.com/Order-VIP-Card",
+        "Official Site": "https://newburyport.com/",
+        "Icon": "https://newburyport.com/wp-content/uploads/newburyport_logo_fb.jpg",
+        "Redirect": "https://newburyport.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://newburyport.com"
+        "AbstractURL": "https://newburyport.com/"
+    },
+    {
+        "link": "https://laurencariscooks.com",
+        "Heading": "Healthy Green Kitchen - Simple Foods, from Garden to Table",
+        "Abstract": "We see clean eating as something that\u2019s timeless, simple, and accessible. Follow along for delicious healthy recipes and nutrition tips.",
+        "Official Site": "https://www.healthygreenkitchen.com/",
+        "Icon": "https://www.healthygreenkitchen.com/wp-content/uploads/2021/09/cropped-hgk-favicon-32x32.png",
+        "Redirect": "https://www.healthygreenkitchen.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.healthygreenkitchen.com/"
+    },
+    {
+        "link": "https://bjkyzyy.com",
+        "Heading": "\u9177\u732b\u5f71\u9662-2026\u6700\u65b0\u7535\u89c6\u5267\u89c2\u770b\u6392\u884c\u699c-\u514d\u8d39\u9ad8\u6e05\u7535\u5f71\u548c\u52a8\u6f2b\u5728\u7ebf\u89c2\u770b",
+        "Abstract": "\u9177\u732b\u5f71\u9662\uff08www.bjkyzyy.com\uff09\u662f\u4e00\u4e2a\u514d\u8d39\u624b\u673a\u5728\u7ebf\u89c2\u770b\uff0c\u6db5\u76d6\u5927\u91cf\u514d\u8d39\u7684VIP\u7535\u89c6\u5267\u8d44\u6e90\u3001\u6700\u65b0\u4e0a\u6620\u5927\u7247\u3001\u597d\u770b\u7684\u7efc\u827a\u8282\u76ee\u53ca\u52a8\u6f2b\u89c6\u9891\uff0c\u662f\u4e00\u4e2a\u64ad\u653e\u901f\u5ea6\u5feb\uff0c\u4e0d\u5361\u987f\u7684\u9ad8\u6e05\u5728\u7ebf\u5f71\u9662\u3002",
+        "Official Site": "https://bjkyzyy.com",
+        "Icon": "N/A",
+        "Redirect": "https://bjkyzyy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bjkyzyy.com"
     },
     {
         "link": "https://eyedefinition.be",
@@ -18,6 +38,16 @@
         "Redirect": "https://eyedefinition.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eyedefinition.eu/"
+    },
+    {
+        "link": "https://patriotinsurancebrokers.com",
+        "Heading": "\n    \n    Find Local Insurance Agency, Insurance Broker & Agent Company, Commercial & Business Insurance Agency St. Cloud, Elk River & Waite Park MN - Patriot Insurance Brokers\n  \n  ",
+        "Abstract": "Patriot Insurance Brokers provides local insurance solutions in St. Cloud, Elk River & Waite Park, MN. Expert agents offer commercial & business insurance. Get a quote today!",
+        "Official Site": "https://www.patriotinsurancebrokers.com/",
+        "Icon": "https://lirp.cdn-website.com/7c3f95f8/dms3rep/multi/opt/open-graph-1920w.jpg",
+        "Redirect": "https://www.patriotinsurancebrokers.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.patriotinsurancebrokers.com/"
     },
     {
         "link": "https://hottest-tube.com",
@@ -41,13 +71,13 @@
     },
     {
         "link": "https://thegoldenstar.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://thegoldenstar.net",
-        "Icon": "data:;",
-        "Redirect": "https://thegoldenstar.net",
+        "Heading": "Welcome to the Golden Star | Golden News",
+        "Abstract": "We at the Golden Star are proud to present to you, Golden News. We are your local community resource for events happening in Golden BC.",
+        "Official Site": "https://thegoldenstar.net/",
+        "Icon": "https://thegoldenstar.net/wp-content/uploads/2023/12/golden-this-week-2000-x-2000-px-1-75x75.png",
+        "Redirect": "https://thegoldenstar.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thegoldenstar.net"
+        "AbstractURL": "https://thegoldenstar.net/"
     },
     {
         "link": "https://bobrik.su",
@@ -88,6 +118,16 @@
         "Redirect": "https://www.hhloans.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hhloans.com/"
+    },
+    {
+        "link": "https://crocca.dk",
+        "Heading": "Brugskunst | K\u00f8b Brugskunst online her hos Crocca.dk \u2713",
+        "Abstract": "Brugskunst som er sp\u00e6ndende, tidsvarende og anderledes finder du hos Crocca brugskunst online. Vi har b\u00e5de webshop og fysisk forretning.",
+        "Official Site": "https://crocca.dk/",
+        "Icon": "https://crocca.dk/wp-content/uploads/2021/11/MOSS-GREEN-1-1-1-1-1.jpeg",
+        "Redirect": "https://crocca.dk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://crocca.dk/"
     },
     {
         "link": "https://indieshortsmag.com",
@@ -168,6 +208,16 @@
         "Redirect": "https://ta3leem.dev",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ta3leem.dev"
+    },
+    {
+        "link": "https://focusassetsminings.com",
+        "Heading": "Focus Asset Limited Building your future with digital assests",
+        "Abstract": null,
+        "Official Site": "https://focusassetsminings.com",
+        "Icon": "asset/favicon.png",
+        "Redirect": "https://focusassetsminings.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://focusassetsminings.com"
     },
     {
         "link": "https://laike9m.com",

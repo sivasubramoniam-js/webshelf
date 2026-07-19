@@ -70,6 +70,16 @@
         "AbstractURL": "https://www.horsholm.dk"
     },
     {
+        "link": "https://integratedcapitals.com",
+        "Heading": "Bot Verification",
+        "Abstract": null,
+        "Official Site": "https://integratedcapitals.com",
+        "Icon": "N/A",
+        "Redirect": "https://integratedcapitals.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://integratedcapitals.com"
+    },
+    {
         "link": "https://lastikportal.com.tr",
         "Heading": "\u0130\u015f Makinas\u0131 ve Forklift Lastikleri | Ta\u015f\u0131mac\u0131l\u0131k ve A\u011f\u0131r Sanayinin \u0130htiyac\u0131 Olan; Forklift ve Di\u011fer \u0130\u015f Makinas\u0131 Lastik \u0130htiya\u00e7lar\u0131n\u0131z\u0131 Hemen \u00c7\u00f6zelim! T\u00fcrkiye&#39;nin En Profesyonel \u0130\u015f Makineleri Lastik Sat\u0131\u015f Sitesi",
         "Abstract": "Ta\u015f\u0131mac\u0131l\u0131k ve A\u011f\u0131r Sanayinin \u0130htiyac\u0131 Olan; Forklift ve Di\u011fer \u0130\u015f Makinas\u0131 Lastik \u0130htiya\u00e7lar\u0131n\u0131z\u0131 Hemen \u00c7\u00f6zelim! T\u00fcrkiye'nin En Profesyonel \u0130\u015f Makineleri Lastik Sat\u0131\u015f Sitesi",
@@ -141,13 +151,13 @@
     },
     {
         "link": "https://floridahumanities.org",
-        "Heading": null,
+        "Heading": "Florida Humanities | Florida Humanities",
         "Abstract": null,
-        "Official Site": "https://floridahumanities.org",
-        "Icon": "data:;",
-        "Redirect": "https://floridahumanities.org",
+        "Official Site": "https://floridahumanities.org/",
+        "Icon": "https://floridahumanities.org/wp-content/uploads/2026/06/America-250-Homepage-2.png",
+        "Redirect": "https://floridahumanities.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://floridahumanities.org"
+        "AbstractURL": "https://floridahumanities.org/"
     },
     {
         "link": "https://edaclub.xyz",
@@ -208,5 +218,15 @@
         "Redirect": "https://debtcamel.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://debtcamel.co.uk/"
+    },
+    {
+        "link": "https://kingsland.pk",
+        "Heading": "Kingsland",
+        "Abstract": null,
+        "Official Site": "https://kingsland.pk",
+        "Icon": "https://www.kingsland.pk/wp-content/uploads/2022/11/Untitled-1.png",
+        "Redirect": "https://kingsland.pk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kingsland.pk"
     }
 ]

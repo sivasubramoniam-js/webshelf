@@ -20,16 +20,6 @@
         "AbstractURL": "https://twokokkonat13.sbs"
     },
     {
-        "link": "https://bistrotduboucher.fr",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://bistrotduboucher.fr",
-        "Icon": "data:;",
-        "Redirect": "https://bistrotduboucher.fr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bistrotduboucher.fr"
-    },
-    {
         "link": "https://mathtv.com",
         "Heading": "MathTV \u2014 Free Math Video Lessons from Arithmetic to Calculus",
         "Abstract": "10,000+ free math video lessons from arithmetic to calculus. Taught by instructors and peer tutors. Available in Spanish. Founded by Charles ",
@@ -101,23 +91,23 @@
     },
     {
         "link": "https://aea365.org",
-        "Heading": null,
+        "Heading": "AEA365 \u2013 A Tip-a-Day by and for Evaluators",
         "Abstract": null,
         "Official Site": "https://aea365.org",
-        "Icon": "data:;",
+        "Icon": "N/A",
         "Redirect": "https://aea365.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aea365.org"
     },
     {
         "link": "https://lugo-vina.com",
-        "Heading": "My Blog \u2013 My WordPress Blog",
-        "Abstract": null,
-        "Official Site": "https://lugo-vina.com",
-        "Icon": "N/A",
-        "Redirect": "https://lugo-vina.com",
+        "Heading": "Computer repair | Lugo-Vi\u00f1a Sucesores, Inc.",
+        "Abstract": "Computer Technicians, IT Support, Repairs, Network, POS Systems, Accounting software, Time Control management, service agreements. Lugo-Vi\u00f1a Sucesores, Inc. LVS, Lugo-Vina, LugoVina",
+        "Official Site": "https://www.lugo-vina.com",
+        "Icon": "https://static.wixstatic.com/media/adbdd2_f2a7c9aba7c34815a9414dd1b21b533a%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/adbdd2_f2a7c9aba7c34815a9414dd1b21b533a%7Emv2.jpg",
+        "Redirect": "https://www.lugo-vina.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lugo-vina.com"
+        "AbstractURL": "https://www.lugo-vina.com"
     },
     {
         "link": "https://styleai.art",
@@ -138,6 +128,16 @@
         "Redirect": "https://vandyou.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vandyou.com"
+    },
+    {
+        "link": "https://geezit.com",
+        "Heading": "geezit \u2013 information technology consulting",
+        "Abstract": null,
+        "Official Site": "https://geezit.com",
+        "Icon": "https://www.geezit.com/wp-content/themes/enterprise/images/favicon.ico",
+        "Redirect": "https://geezit.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://geezit.com"
     },
     {
         "link": "https://ukr-dns.name",
@@ -188,5 +188,15 @@
         "Redirect": "https://rcas.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rcas.org"
+    },
+    {
+        "link": "https://martinkramer.org",
+        "Heading": "Martin Kramer on the Middle East",
+        "Abstract": "Martin Kramer is a historian and analyst of the Middle East and Israel. This website is home to his weblog Sandbox and a large selection of his published work.",
+        "Official Site": "https://martinkramer.org/",
+        "Icon": "https://martinkramer.org/wp-content/uploads/2020/06/image.jpg",
+        "Redirect": "https://martinkramer.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://martinkramer.org/"
     }
 ]

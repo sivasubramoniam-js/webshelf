@@ -30,16 +30,6 @@
         "AbstractURL": "#/"
     },
     {
-        "link": "https://alsana.com",
-        "Heading": "Eating Disorder Treatment Programs | Alsana\u00ae",
-        "Abstract": "Looking for eating disorder treatment near you? Alsana\u00ae offers in-person and virtual eating disorder treatment for adults and adolescents. Learn more!",
-        "Official Site": "https://www.alsana.com/",
-        "Icon": "https://www.alsana.com/wp-content/uploads/2026/01/Alsana-Hero-26-scaled.jpg",
-        "Redirect": "https://www.alsana.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.alsana.com/"
-    },
-    {
         "link": "https://situshalal.com",
         "Heading": "situshalal.com | Unstoppable Domains | Unstoppable Domains",
         "Abstract": "situshalal.com \u2014 a premium domain name. Visit Unstoppable Domains for domain availability and pricing.",
@@ -100,6 +90,16 @@
         "AbstractURL": "https://liberaforms.org"
     },
     {
+        "link": "https://cosasmuchascosas.com",
+        "Heading": "Puericultura y moda infantil al mejor precio - CosasMuchasCosas",
+        "Abstract": "Ropa infantil y puericultura al mejor precio. Carritos, bolsos, pantalones, sudaderas... Realizamos en\u00edios en 48 horas a bajo coste",
+        "Official Site": "https://www.cosasmuchascosas.com/",
+        "Icon": "https://www.cosasmuchascosas.com/wp-content/uploads/2025/09/icono_envio.png",
+        "Redirect": "https://www.cosasmuchascosas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cosasmuchascosas.com/"
+    },
+    {
         "link": "https://millennianet.com",
         "Heading": "How to Navigate Online Education Opportunities in Australia | Millenia Net",
         "Abstract": "Discover how online education can offer flexible learning opportunities, enhance career prospects, and provide skills necessary for thriving in today's fast-paced professional environments.",
@@ -150,6 +150,16 @@
         "AbstractURL": "https://frankdenneman.ai/"
     },
     {
+        "link": "https://dermophil.fr",
+        "Heading": "Soin des l\u00e8vres & soin des mains | Dermophil",
+        "Abstract": "Dermophil, expert en soins des l\u00e8vres et mains, vous propose des baumes \u00e0 l\u00e8vres et cr\u00e8mes mains 100% fran\u00e7ais issus de son laboratoire pharmaceutique.",
+        "Official Site": "https://www.dermophil-indien.com/",
+        "Icon": "https://www.dermophil-indien.com/wp-content/themes/dermophil/favicon.ico",
+        "Redirect": "https://www.dermophil-indien.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dermophil-indien.com/"
+    },
+    {
         "link": "https://guideline4web.com",
         "Heading": "Guideline for Web - Your Web Guide",
         "Abstract": null,
@@ -181,10 +191,10 @@
     },
     {
         "link": "https://purpleday.org",
-        "Heading": null,
+        "Heading": "Purple Day \u2013 Supporting Epilepsy Around The World!",
         "Abstract": null,
         "Official Site": "https://purpleday.org",
-        "Icon": "data:;",
+        "Icon": "https://purpleday.org/wp-content/uploads/2020/08/cropped-favicon-purple-day-32x32.png",
         "Redirect": "https://purpleday.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://purpleday.org"
@@ -210,6 +220,16 @@
         "AbstractURL": "index.html"
     },
     {
+        "link": "https://holyfamilyhospitals.com",
+        "Heading": "Holyfamily Hospital",
+        "Abstract": null,
+        "Official Site": "https://holyfamilyhospitals.com",
+        "Icon": "https://holyfamilyhospitals.com/wp-content/uploads/2025/04/cropped-logo-grey-1-32x32.png",
+        "Redirect": "https://holyfamilyhospitals.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://holyfamilyhospitals.com"
+    },
+    {
         "link": "https://heidepark.nl",
         "Heading": "Ontdek Charme Camping Heidepark in Lemelerveld \ud83c\udfd5\ufe0f",
         "Abstract": "In het mooie Lemelerveld ontdekt u onze kindvriendelijke camping in Overijssel: Charme Camping Heidepark. Vakantieplezier voor jong en oud!",
@@ -228,5 +248,15 @@
         "Redirect": "https://rodantech.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rodantech.com/"
+    },
+    {
+        "link": "https://nhwatersport.nl",
+        "Heading": "Sloep kopen? NH Watersport de sloepen specialist van NH",
+        "Abstract": "Per direct een nieuwe of gebruikte sloep kopen? Ontdek de kracht van NH Watersport \u2713Groot aanbod \u2713 Gratis advies op maat. \u2713 3 jaar garantie",
+        "Official Site": "https://nhwatersport.nl/",
+        "Icon": "https://nhwatersport.nl/wp-content/uploads/2023/03/NH-Watersport-favicon-cirkel.svg",
+        "Redirect": "https://nhwatersport.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nhwatersport.nl/"
     }
 ]

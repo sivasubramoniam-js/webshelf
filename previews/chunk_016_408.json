@@ -44,7 +44,7 @@
         "Heading": "\n  \n  \n    Centre for Aging + Brain Health Innovation (CABHI)\n  \n",
         "Abstract": null,
         "Official Site": "https://www.cabhi.com/en/",
-        "Icon": "https://apos-aka-cabhi-prod.s3.ca-central-1.amazonaws.com/apos-frontend/releases/005818376589054963/default/modules/theme-default/images/default_og_image.jpg",
+        "Icon": "https://apos-aka-cabhi-prod.s3.ca-central-1.amazonaws.com/apos-frontend/releases/09286538242929798/default/modules/theme-default/images/default_og_image.jpg",
         "Redirect": "https://www.cabhi.com/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cabhi.com/en/"
@@ -83,11 +83,11 @@
         "link": "https://chisox.com",
         "Heading": "Official Chicago White Sox Website | MLB.com",
         "Abstract": "The official website of the Chicago White Sox with the most up-to-date information on news, tickets, schedule, stadium, roster, rumors, scores, and stats.",
-        "Official Site": "https://www.mlb.com/whitesox/?c_id=cws&tcid=mm_tex_sitelist&clubSlug=whitesox",
+        "Official Site": "https://www.mlb.com/whitesox/?clubSlug=whitesox",
         "Icon": "https://www.mlbstatic.com/team-logos/share/145.jpg",
-        "Redirect": "https://www.mlb.com/whitesox/?c_id=cws&tcid=mm_tex_sitelist&clubSlug=whitesox",
+        "Redirect": "https://www.mlb.com/whitesox/?clubSlug=whitesox",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mlb.com/whitesox/?c_id=cws&tcid=mm_tex_sitelist&clubSlug=whitesox"
+        "AbstractURL": "https://www.mlb.com/whitesox/?clubSlug=whitesox"
     },
     {
         "link": "https://contentfries.com",

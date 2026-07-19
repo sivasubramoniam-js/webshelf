@@ -20,16 +20,6 @@
         "AbstractURL": "https://comprayvendeenflorida.com"
     },
     {
-        "link": "https://modernpastry.com",
-        "Heading": "Modern Pastry Shop | Boston's Italian Family Owned Bakery",
-        "Abstract": "Nestled in the North End (Little Italy) and Medford. We are one of Boston's favorite Italian bakery. Family owned and operated for over 80 years. Offering Italian, American, and other European desserts for all occasions. From cakes, cannoli, cookies, pastries, and more!",
-        "Official Site": "https://modernpastry.com/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0268/2824/2986/files/mp-logo_with_f6d5751b-192a-4b74-90e9-dab89374a43f.png?height=628&pad_color=f7f7f7&v=1670075282&width=1200",
-        "Redirect": "https://modernpastry.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://modernpastry.com/"
-    },
-    {
         "link": "https://pipeflare.io",
         "Heading": "Crypto Tools: Converters, Calculators & More | PipeFlare",
         "Abstract": "Free crypto tools in one friendly hub. Convert sats to USD, calculate gwei fees, find free crypto, and fix stuck transfers. No signup, live rates.",
@@ -78,6 +68,16 @@
         "Redirect": "https://osijek-airport.hr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://osijek-airport.hr/"
+    },
+    {
+        "link": "https://tsbstn.com",
+        "Heading": "\n    \n    Commercial Industrial Office Floor and Janitorial Cleaning Service Company Clarksville, Nashville, Knoxville, Morristown & Oak Ridge TN\n  \n  ",
+        "Abstract": "Trusted cleaning experts for offices, warehouses, and facilities throughout Tennessee. Experience spotless results from Tri State Building Services.",
+        "Official Site": "https://www.tsbstn.com/",
+        "Icon": "https://lirp.cdn-website.com/16aaa0a9/dms3rep/multi/opt/TriOpenGraph-1920w.png",
+        "Redirect": "https://www.tsbstn.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tsbstn.com/"
     },
     {
         "link": "https://aslrra.org",
@@ -200,6 +200,16 @@
         "AbstractURL": "https://bdftradeoptions.com"
     },
     {
+        "link": "https://metakingglobals.com",
+        "Heading": "MKG- Meta Kings Global",
+        "Abstract": null,
+        "Official Site": "https://metakingglobals.com",
+        "Icon": "assets/images/favicon.png",
+        "Redirect": "https://metakingglobals.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://metakingglobals.com"
+    },
+    {
         "link": "https://dfb6-001.xyz",
         "Heading": null,
         "Abstract": null,
@@ -231,13 +241,13 @@
     },
     {
         "link": "https://dondeestudiar.eu",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dondeestudiar.eu",
-        "Icon": "data:;",
-        "Redirect": "https://dondeestudiar.eu",
+        "Heading": "\u25b7 DondeEstudiar: Buscador de Cursos, Masters y Grados",
+        "Abstract": "Encuentra en DondeEstudiar.eu los mejores centros donde estudiar cursos, m\u00e1sters, oposiciones, formaci\u00f3n profesional y grados de Espa\u00f1a.",
+        "Official Site": "https://dondeestudiar.eu/",
+        "Icon": "https://dondeestudiar.eu/wp-content/uploads/2023/12/dest-de.png",
+        "Redirect": "https://dondeestudiar.eu/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dondeestudiar.eu"
+        "AbstractURL": "https://dondeestudiar.eu/"
     },
     {
         "link": "https://kanpoo.jp",

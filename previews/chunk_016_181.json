@@ -110,6 +110,16 @@
         "AbstractURL": "https://www.srilankatravelguides.com/"
     },
     {
+        "link": "https://pafisumutprov.co.id",
+        "Heading": "My Blog \u2013 My WordPress Blog",
+        "Abstract": null,
+        "Official Site": "https://pafisumutprov.co.id",
+        "Icon": "N/A",
+        "Redirect": "https://pafisumutprov.co.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pafisumutprov.co.id"
+    },
+    {
         "link": "https://edgecombecountync.gov",
         "Heading": "Welcome to Edgecombe County",
         "Abstract": null,
@@ -118,6 +128,16 @@
         "Redirect": "https://edgecombecountync.gov",
         "AbstractSource": "BS4",
         "AbstractURL": "https://edgecombecountync.gov"
+    },
+    {
+        "link": "https://digitaledge360.in",
+        "Heading": "Digital Edge 360 \u2013 DEVELOPMENT | BRANDING | MARKETING | E-COMMERCE",
+        "Abstract": null,
+        "Official Site": "https://digitaledge360.in",
+        "Icon": "https://digitaledge360.in/wp-content/uploads/2025/02/Full-Logo-Gradient-1-1-150x150.png",
+        "Redirect": "https://digitaledge360.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://digitaledge360.in"
     },
     {
         "link": "https://getvamo.de",
@@ -211,13 +231,13 @@
     },
     {
         "link": "https://teenline.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://teenline.org",
-        "Icon": "data:;",
-        "Redirect": "https://teenline.org",
+        "Heading": "Teen Line: Confidential Teen Crisis Hotline & Support",
+        "Abstract": "Connect with Teen Line at Didi Hirsch for peer-to-peer mental health support. Teens helping teens navigate challenges with understanding and care.",
+        "Official Site": "https://didihirsch.org/teenline/",
+        "Icon": "https://didihirsch.org/wp-content/uploads/2025/08/Group-of-four-teen-smiling-and-taking-a-selfie-outdoors-showing-peace-sign-v2.webp",
+        "Redirect": "https://didihirsch.org/teenline/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://teenline.org"
+        "AbstractURL": "https://didihirsch.org/teenline/"
     },
     {
         "link": "https://jamecs.net",

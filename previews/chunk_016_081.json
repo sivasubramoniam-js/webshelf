@@ -10,6 +10,16 @@
         "AbstractURL": "https://accesalabs.com"
     },
     {
+        "link": "https://edgecoiflux.live",
+        "Heading": "Home \u2013 Edgecoiflux",
+        "Abstract": null,
+        "Official Site": "https://edgecoiflux.live",
+        "Icon": "https://Edgecoiflux.live/wp-content/uploads/2024/03/Asset-2587capitalfxtraders-150x150.png",
+        "Redirect": "https://edgecoiflux.live",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://edgecoiflux.live"
+    },
+    {
         "link": "https://datalite.cz",
         "Heading": " DataLite | \u010cesk\u00fd specialista na v\u00fdvoj softwaru pro TELCO a energetiku ",
         "Abstract": "DataLite je \u010desk\u00e1 softwarov\u00e1 spole\u010dnost s 28letou tradic\u00ed, specializuj\u00edc\u00ed se na v\u00fdvoj firemn\u00edch syst\u00e9m\u016f na m\u00edru pro telekomunikace a energetiku. Nab\u00edz\u00edme \u0159e\u0161en\u00ed pro digitalizaci proces\u016f a automatizaci workflow.",
@@ -100,6 +110,16 @@
         "AbstractURL": "https://burgers-shakes.ch/"
     },
     {
+        "link": "https://itworkdesk.com",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://itworkdesk.com",
+        "Icon": "N/A",
+        "Redirect": "https://itworkdesk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://itworkdesk.com"
+    },
+    {
         "link": "https://yashica.com",
         "Heading": "Yashica Official Global Website | Retro & DigiFilm Cameras Worldwide",
         "Abstract": "Discover YASHICA, a renowned Japanese camera brand since 1949, and start your photography journey today.",
@@ -108,6 +128,16 @@
         "Redirect": "https://www.yashica.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.yashica.com"
+    },
+    {
+        "link": "https://ceoreviewmagazine.com",
+        "Heading": "CEO Review Global | Inspiring The Business Community",
+        "Abstract": "CEO Review Global is a global media company covering business news, startups, technology, entrepreneurship, and industry insights worldwide.",
+        "Official Site": "https://ceoreviewmagazine.com/",
+        "Icon": "https://ceoreviewmagazine.com/wp-content/uploads/2026/06/cropped-CEO-Review-Magazine-150x150.jpg",
+        "Redirect": "https://ceoreviewmagazine.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ceoreviewmagazine.com/"
     },
     {
         "link": "https://alfadpo.ru",
@@ -160,6 +190,16 @@
         "AbstractURL": "https://www.zestpayment.com"
     },
     {
+        "link": "https://dianasdesserts.com",
+        "Heading": "Welcome to Diana's Desserts | DianasDesserts.com",
+        "Abstract": null,
+        "Official Site": "https://dianasdesserts.com",
+        "Icon": "N/A",
+        "Redirect": "https://dianasdesserts.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dianasdesserts.com"
+    },
+    {
         "link": "https://luxury-motors.ch",
         "Heading": "Luxus Blog - Sportwagen Uhren & Hotels",
         "Abstract": "Luxus Blog - Sportwagen & Luxus Auto Blog veredelt mit Beitr\u00e4gen \u00fcber Luxus-Uhren und Luxus Hotel. Luxus Blog mit den edelsten Tipps aus der Schweiz. Luxury Motors ist deine Plattform f\u00fcr neuste Technik aus der Auto und Uhren-Welt",
@@ -171,13 +211,23 @@
     },
     {
         "link": "https://audiopro-living.de",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://audiopro-living.de",
-        "Icon": "data:;",
-        "Redirect": "https://audiopro-living.de",
+        "Heading": "Wettanbieter ohne OASIS 2026: Top 5 im Vergleich!",
+        "Abstract": "Wettanbieter ohne OASIS: 5 Seiten im Vergleich mit Bonus, Auswahl und schnellen Krypto-Auszahlungen f\u00fcr Sportwetten und Casino.",
+        "Official Site": "https://audiopro-living.de/",
+        "Icon": "https://audiopro-living.de/wp-content/uploads/2026/04/zoccer-online-casino-deutschland.jpg",
+        "Redirect": "https://audiopro-living.de/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://audiopro-living.de"
+        "AbstractURL": "https://audiopro-living.de/"
+    },
+    {
+        "link": "https://e-bike-only.de",
+        "Heading": "\n      E-BIKE ONLY - Deutschlands gro\u00dfer E-Bike Spezialist\n",
+        "Abstract": "\u2705 E-Bikes von \u2705 von Top-Marken von 1.178,- bis 14.499,- jetzt beim E-Bike Spezialisten kaufen: \u2705 Unschlagbare Preise \u2705 Gigantische Auswahl \u2705 Expertenberatung.",
+        "Official Site": "https://e-bike-only.de/",
+        "Icon": "http://e-bike-only.de/cdn/shop/files/EBike_Logo_big_300dpi_RGB.jpg?v=1614334953",
+        "Redirect": "https://e-bike-only.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://e-bike-only.de/"
     },
     {
         "link": "https://kayashree.co",
@@ -238,5 +288,15 @@
         "Redirect": "https://trading-option.ng/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trading-option.ng/"
+    },
+    {
+        "link": "https://scidoc.org",
+        "Heading": "SciDoc Publishers | Open Access | Science, Technology and Medicine Journals | Media Partner",
+        "Abstract": "SciDoc Publishers is an Open Access publisher established with a sole motive to disseminate knowledge among the scientific community.",
+        "Official Site": "https://scidoc.org",
+        "Icon": "N/A",
+        "Redirect": "https://scidoc.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://scidoc.org"
     }
 ]

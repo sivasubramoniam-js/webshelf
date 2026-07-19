@@ -70,14 +70,14 @@
         "AbstractURL": "https://totalgrowth.org"
     },
     {
-        "link": "https://townofcharlton.net",
-        "Heading": "Charlton, MA | Official Website",
-        "Abstract": "backup",
-        "Official Site": "https://townofcharlton.net",
-        "Icon": "/images/favicon.ico",
-        "Redirect": "https://townofcharlton.net",
+        "link": "https://trainersvault.com",
+        "Heading": "TrainersVault",
+        "Abstract": "TrainersVault \u2014 the go-to resource for personal trainers and fitness professionals. Master the business of training, earn more, and transform more lives.",
+        "Official Site": "https://trainersvault.com/",
+        "Icon": "https://trainersvault.com/images/og-default.jpg",
+        "Redirect": "https://trainersvault.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://townofcharlton.net"
+        "AbstractURL": "https://trainersvault.com/"
     },
     {
         "link": "https://trayn.com",
@@ -110,14 +110,14 @@
         "AbstractURL": "https://udpop.com"
     },
     {
-        "link": "https://ui-bao.com",
-        "Heading": "\u4f18\u5821\u7535\u5f71\u7f51 - \u9996\u9875",
-        "Abstract": "\u4f18\u5821\u7535\u5f71\u7f51[www.ui-bao.com]\u5206\u4eab\u5168\u7f51\u6700\u65b0\u9ad8\u6e05\u7535\u5f71\u7535\u89c6\u5267\u3001\u4f26\u7406\u7247\u3001\u7efc\u827a\u3001\u7f8e\u5267\u3001\u97e9\u5267\u3001\u82f1\u5267\u3001\u65e5\u5267\u7b49\u8fc5\u96f7\u4e0b\u8f7d\uff0c\u7b49\u8d44\u6e90\u5728\u7ebf\u89c2\u770b\uff01",
-        "Official Site": "https://ui-bao.com/",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://ui-bao.com/",
+        "link": "https://uk-electronic.de",
+        "Heading": "UK-electronic",
+        "Abstract": null,
+        "Official Site": "https://uk-electronic.de",
+        "Icon": "N/A",
+        "Redirect": "https://uk-electronic.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ui-bao.com/"
+        "AbstractURL": "https://uk-electronic.de"
     },
     {
         "link": "https://ultimatevapedeals.com",
@@ -178,5 +178,25 @@
         "Redirect": "https://global.fujitsu/en-global",
         "AbstractSource": "BS4",
         "AbstractURL": "https://global.fujitsu/en-global"
+    },
+    {
+        "link": "https://valinge.se",
+        "Heading": "V\u00e4linge Innovation AB | We are innovators",
+        "Abstract": "At V\u00e4linge Innovation, we create the future and continue to revolutionise the industry with our patented flooring and furniture technologies.",
+        "Official Site": "https://valinge.com/",
+        "Icon": "https://valinge.com/wp-content/uploads/2026/04/FL_Optimise_resilient_flooring_easy_panels-kopiera-1024x576.webp",
+        "Redirect": "https://valinge.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://valinge.com/"
+    },
+    {
+        "link": "https://vapeplug.ca",
+        "Heading": "Buy Vaporizers Online At Vape Plug",
+        "Abstract": "Vape Plug is an online vape store\u00a0that specializes in authentic vaporizer products\u00a0so that you can buy premium e juice and e cigarettes! Vape Plug aims to",
+        "Official Site": "https://vapeplug.ca/",
+        "Icon": "https://vapeplug.ca/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=14766&type=play&hash=2d5d48fba38799364eb62deb574c8ddd",
+        "Redirect": "https://vapeplug.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vapeplug.ca/"
     }
 ]

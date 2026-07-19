@@ -120,16 +120,6 @@
         "AbstractURL": "https://majkilde.dk"
     },
     {
-        "link": "https://nurseamerica.us",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://nurseamerica.us",
-        "Icon": "data:;",
-        "Redirect": "https://nurseamerica.us",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nurseamerica.us"
-    },
-    {
         "link": "https://nichesblog.com",
         "Heading": "Loading...",
         "Abstract": null,
@@ -168,6 +158,16 @@
         "Redirect": "https://www.meatheadmovers.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.meatheadmovers.com/"
+    },
+    {
+        "link": "https://uatime.net",
+        "Heading": "\u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 \u0441\u044c\u043e\u0433\u043e\u0434\u043d\u0456 \u2013 \u041f\u043e\u043b\u0456\u0442\u0438\u043a\u0430, \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u044f \u043d\u0430 \u0444\u0440\u043e\u043d\u0442\u0456, \u043d\u043e\u0432\u0438\u043d\u0438 \u043e\u043d\u043b\u0430\u0439\u043d 24 \u043d\u0430 7",
+        "Abstract": "\u041f\u043e\u043b\u0456\u0442\u0438\u043a\u0430, \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u044f \u043d\u0430 \u0444\u0440\u043e\u043d\u0442\u0456, \u043d\u043e\u0432\u0438\u043d\u0438 \u043e\u043d\u043b\u0430\u0439\u043d 24 \u043d\u0430 7",
+        "Official Site": "https://uatime.net",
+        "Icon": "https://uatime.net/wp-content/uploads/2023/09/favicon.ico",
+        "Redirect": "https://uatime.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uatime.net"
     },
     {
         "link": "https://deadbyqueue.com",

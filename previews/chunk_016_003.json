@@ -40,6 +40,16 @@
         "AbstractURL": "https://exitoeducativo.net/"
     },
     {
+        "link": "https://hrmco.ma",
+        "Heading": "Cabinet de formation Casablanca \u2013 HRMCO Partners",
+        "Abstract": "HRMCO Partners, cabinet de formation Casablanca, propose des solutions sur-mesure en recrutement, formation professionnelle et conseil strat\u00e9gique.",
+        "Official Site": "https://hrmco.ma/",
+        "Icon": "https://hrmco.ma/wp-content/uploads/2025/06/cropped-HRMCO_favicon-32x32.png",
+        "Redirect": "https://hrmco.ma/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hrmco.ma/"
+    },
+    {
         "link": "https://globalgenealogy.com",
         "Heading": "\n      Global Genealogy, Canada's history & genealogy store\n \u2013 Global Genealogy, Canada's history & genealogy store",
         "Abstract": "Global Genealogy, Canada's history & genealogy store",
@@ -141,10 +151,10 @@
     },
     {
         "link": "https://nittygritty.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Nitty Gritty Dirt Band",
+        "Abstract": "Welcome to the official site of the legendary Nitty Gritty Dirt Band.  Get all the latest news, music, merchandise and more.",
         "Official Site": "https://nittygritty.com",
-        "Icon": "data:;",
+        "Icon": "https://nittygritty.com/wp-content/uploads/2022/04/cropped-278018425_568404107983579_2125550969356399221_n-32x32.jpeg",
         "Redirect": "https://nittygritty.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nittygritty.com"
@@ -238,5 +248,15 @@
         "Redirect": "https://www.wayshot.ai",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.wayshot.ai"
+    },
+    {
+        "link": "https://leo-hillinger.com",
+        "Heading": "Leo Hillinger - more than wine - Leo Hillinger",
+        "Abstract": null,
+        "Official Site": "https://www.leo-hillinger.com/",
+        "Icon": "https://www.leo-hillinger.com/wp-content/uploads/2024/10/cropped-Favicon-HILL-32x32.jpg",
+        "Redirect": "https://www.leo-hillinger.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.leo-hillinger.com/"
     }
 ]

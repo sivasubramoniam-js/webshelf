@@ -31,13 +31,13 @@
     },
     {
         "link": "https://vabook.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://vabook.org",
-        "Icon": "data:;",
-        "Redirect": "https://vabook.org",
+        "Heading": "Home - Virginia Center for the Book",
+        "Abstract": "Working across the Commonwealth to unite communities of readers, writers, artists, and book lovers.",
+        "Official Site": "https://www.vabook.org/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.vabook.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vabook.org"
+        "AbstractURL": "https://www.vabook.org/"
     },
     {
         "link": "https://passportonline.top",
@@ -78,6 +78,26 @@
         "Redirect": "https://floraincognita.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://floraincognita.com"
+    },
+    {
+        "link": "https://keasy.de",
+        "Heading": "Startseite - Keasy - Dein Maklerverwaltungsprogramm",
+        "Abstract": "Mit Keasy bekommen Versicherungsmakler, die Wert auf schlanke Prozesse und Automatisierung legen, eine umfassende All-Inclusive-L\u00f6sung.",
+        "Official Site": "https://www.keasy.de/",
+        "Icon": "https://www.keasy.de/wp-content/uploads/2024/10/keasy-header-gif-tablet.webp",
+        "Redirect": "https://www.keasy.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.keasy.de/"
+    },
+    {
+        "link": "https://kathysteinemann.com",
+        "Heading": "KathySteinemann.com: Free Resources for Writers | Word lists, cheat sheets, and sometimes irreverent reviews of writing rules. Kathy Steinemann is the author of the Writer's Lexicon series.",
+        "Abstract": "Word lists, cheat sheets, and sometimes irreverent reviews of writing rules. Kathy Steinemann is the author of the Writer's Lexicon series.",
+        "Official Site": "https://kathysteinemann.com/Musings/",
+        "Icon": "https://s0.wp.com/i/blank.jpg",
+        "Redirect": "https://kathysteinemann.com/Musings/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kathysteinemann.com/Musings/"
     },
     {
         "link": "https://21xsw.com",
@@ -160,6 +180,16 @@
         "AbstractURL": "https://www.thulatula.com/pages/about-us/"
     },
     {
+        "link": "https://kuttysoft.com",
+        "Heading": " KuttySoft InfoTech Private Limited - Home",
+        "Abstract": "Ultimate solution for web hosting management and billing",
+        "Official Site": "https://kuttysoft.com",
+        "Icon": "https://kuttysoft.com/assets/images/seo/65dc9a2359caf1708956195.jpg",
+        "Redirect": "https://kuttysoft.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kuttysoft.com"
+    },
+    {
         "link": "https://archivesystems.com",
         "Heading": "Access | Modern Records Management Solutions | Store, Scan, and Shred",
         "Abstract": "Manage records, data, and compliance with Access Unify\u00ae. Secure storage, digital transformation, fast retrieval, and automated governance in one unified experience.",
@@ -190,6 +220,16 @@
         "AbstractURL": "https://omkar.com"
     },
     {
+        "link": "https://fowdwebs.com",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://fowdwebs.com",
+        "Icon": "N/A",
+        "Redirect": "https://fowdwebs.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fowdwebs.com"
+    },
+    {
         "link": "https://peterbroderick.net",
         "Heading": "Peter Broderick",
         "Abstract": null,
@@ -198,6 +238,26 @@
         "Redirect": "https://peterbroderick.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://peterbroderick.net"
+    },
+    {
+        "link": "https://hipermedula.org",
+        "Heading": "::Hipermedula.org | Plataforma cultural Iberoamericana",
+        "Abstract": null,
+        "Official Site": "https://hipermedula.org",
+        "Icon": "N/A",
+        "Redirect": "https://hipermedula.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hipermedula.org"
+    },
+    {
+        "link": "https://nityafoods.in",
+        "Heading": "Nitya \u2013 Flavours of South Indian Daily Food",
+        "Abstract": null,
+        "Official Site": "https://nityafoods.in",
+        "Icon": "https://nityafoods.in/wp-content/uploads/2024/01/cropped-Untitled-design-55-32x32.png",
+        "Redirect": "https://nityafoods.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nityafoods.in"
     },
     {
         "link": "https://pronuncian.com",

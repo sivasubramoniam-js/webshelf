@@ -81,13 +81,13 @@
     },
     {
         "link": "https://governmenteuropa.eu",
-        "Heading": "EU Politics, Policy, Defence and Energy News | Government Europa",
-        "Abstract": "Government Europa provides up to the minute news and developments from across the European Union (EU) covering EU Government Policy, European Politics, EU Defence and Security, Energy and Environment, Smart Futures, EU Transport Policy as well as EU Maritime and Fisheries news.",
-        "Official Site": "https://governmenteuropa.eu/",
-        "Icon": "/wp-content/uploads/2018/01/government-europa-logo-favicon-01.png",
-        "Redirect": "https://governmenteuropa.eu/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://governmenteuropa.eu",
+        "Icon": "N/A",
+        "Redirect": "https://governmenteuropa.eu",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://governmenteuropa.eu/"
+        "AbstractURL": "https://governmenteuropa.eu"
     },
     {
         "link": "https://w2hostng.com.br",
@@ -138,16 +138,6 @@
         "Redirect": "https://jcjc.edu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jcjc.edu"
-    },
-    {
-        "link": "https://bcmgh.com",
-        "Heading": "Loading...",
-        "Abstract": null,
-        "Official Site": "https://bcmgh.com",
-        "Icon": "N/A",
-        "Redirect": "https://bcmgh.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bcmgh.com"
     },
     {
         "link": "https://womenarts.org",

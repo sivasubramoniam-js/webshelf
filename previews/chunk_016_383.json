@@ -21,13 +21,13 @@
     },
     {
         "link": "https://themade.org",
-        "Heading": "Museum of Art and Digital Entertainment: Oakland's Video Game Museum",
-        "Abstract": "Museum of Art and Digital Entertainment: Oakland's Video Game Museum",
-        "Official Site": "https://themade.org",
-        "Icon": "/favicon.svg",
-        "Redirect": "https://themade.org",
+        "Heading": "Home | Museum of Art and Digital Entertainment",
+        "Abstract": "The MADE is a playable video game museum with a mission to inspire the next generation of digital creators through playable preservation.",
+        "Official Site": "https://themade.org/en",
+        "Icon": "https://images.ctfassets.net/cgxqg7gc43zp/2UQ5XjCn1t7RCgtE663ssH/0657279aa8639f5c110b021ad433c7ed/921_grand_opening.webp",
+        "Redirect": "https://themade.org/en",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://themade.org"
+        "AbstractURL": "https://themade.org/en"
     },
     {
         "link": "https://eivans.com",
@@ -68,6 +68,16 @@
         "Redirect": "https://best-schools.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://best-schools.info"
+    },
+    {
+        "link": "https://pgdz.info",
+        "Heading": "PG\u7535\u5b50\u5b98\u7f51\uff5cPG\u7535\u5b50\u6e38\u620f\u8bd5\u73a9\u5e73\u53f0\uff5c\u70ed\u95e8PG\u8001\u864e\u673a\u63a8\u8350 - PG\u7535\u5b50",
+        "Abstract": "\u6b22\u8fce\u8bbf\u95ee PG\u7535\u5b50\u5b98\u7f51\uff0c\u8fd9\u91cc\u4e3a\u5e7f\u5927\u73a9\u5bb6\u63d0\u4f9b\u4e30\u5bcc\u591a\u6837\u7684 PG\u7535\u5b50\u6e38\u620f \u4e0e\u70ed\u95e8 PG\u8001\u864e\u673a \u73a9\u6cd5\u5185\u5bb9\u3002\u4f5c\u4e3a\u6df1\u53d7\u6b22\u8fce\u7684\u6e38\u620f\u5382\u5546\u4e4b\u4e00\uff0cPG\u7535\u5b50\u51ed\u501f\u9ad8\u5ea6\u6e05\u6670\u7684\u753b\u9762\u8bbe\u8ba1\u3001\u521b\u65b0\u73a9\u6cd5\u673a\u5236\u4ee5\u53ca\u7a33\u5b9a\u6d41\u7545\u7684\u8fd0\u884c\u4f53\u9a8c\uff0c\u6210\u4e3a\u4f17\u591a\u7528\u6237\u6240\u559c\u7231\u7684\u6e38\u620f\u5382\u5bb6\u3002",
+        "Official Site": "https://pgdz.info/",
+        "Icon": "https://pgdz.info/wp-content/uploads/2026/02/pg\u7535\u5b50\u7684banner.webp",
+        "Redirect": "https://pgdz.info/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pgdz.info/"
     },
     {
         "link": "https://o3004.top",
@@ -178,16 +188,6 @@
         "Redirect": "https://jipemania.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jipemania.com"
-    },
-    {
-        "link": "https://map2key.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://map2key.com",
-        "Icon": "data:;",
-        "Redirect": "https://map2key.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://map2key.com"
     },
     {
         "link": "https://reuphost.com",

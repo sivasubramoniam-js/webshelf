@@ -61,8 +61,8 @@
     },
     {
         "link": "https://rarefoot.com",
-        "Heading": "Rarefoot | Premium Sneakers",
-        "Abstract": "Shop the best premium sneakers at Rarefoot. Unbeatable quality, fast US shipping, and guaranteed satisfaction on top brands like Air Jordan and Yeezy.",
+        "Heading": "RareFoot Sneakers | Air Jordan, Nike, adidas & Yeezy",
+        "Abstract": "Browse current sneakers from Air Jordan, Nike, adidas, Yeezy, and more. Shop available sizes with free US shipping and clear delivery details.",
         "Official Site": "https://rarefoot.com",
         "Icon": "https://rarefoot.com/wp-content/uploads/cropped-fav-32x32.png",
         "Redirect": "https://rarefoot.com",
@@ -120,6 +120,16 @@
         "AbstractURL": "https://carygrant.net"
     },
     {
+        "link": "https://gbpatent.com",
+        "Heading": "Intellectual Property Lawyers | Greenblum & Bernstein, P.L.C.",
+        "Abstract": "-2811",
+        "Official Site": "https://www.gbpatent.com/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.gbpatent.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gbpatent.com/"
+    },
+    {
         "link": "https://ecogenomic.org",
         "Heading": "Australian Centre for Ecogenomics - School of Chemistry and Molecular Biosciences - University of Queensland",
         "Abstract": null,
@@ -130,14 +140,24 @@
         "AbstractURL": "https://ecogenomic.org"
     },
     {
-        "link": "https://loreenamckennitt.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://loreenamckennitt.com",
-        "Icon": "data:;",
-        "Redirect": "https://loreenamckennitt.com",
+        "link": "https://jeremiahproject.com",
+        "Heading": "Bible Prophecy and the End Times - Jeremiah Project",
+        "Abstract": "Learn more in this explorative study of Bible prophecy, end times, and the New World Order.",
+        "Official Site": "https://www.jeremiahproject.com/",
+        "Icon": "http://www.jeremiahproject.com/wp-content/uploads/2017/01/bible-1200-2.jpg",
+        "Redirect": "https://www.jeremiahproject.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://loreenamckennitt.com"
+        "AbstractURL": "https://www.jeremiahproject.com/"
+    },
+    {
+        "link": "https://loreenamckennitt.com",
+        "Heading": "Home - Loreena McKennitt",
+        "Abstract": "Welcome to the Official Loreena McKennitt Site \n\nLoreena McKennitt\u2019s \u2018eclectic Celtic\u2019 music has won critical acclaim worldwide and gold, platinum and multi-platinum sales awards in 15 countries across four continents.\n\nJoin the LM Community\nReceive email updates about future releases, tour dates and appearances.",
+        "Official Site": "https://loreenamckennitt.com/",
+        "Icon": "https://loreenamckennitt.com/wp-content/uploads/2021/06/logo.png",
+        "Redirect": "https://loreenamckennitt.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://loreenamckennitt.com/"
     },
     {
         "link": "https://diplomsxl.cfd",
@@ -148,6 +168,16 @@
         "Redirect": "https://diplomss7.cfd/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://diplomss7.cfd/"
+    },
+    {
+        "link": "https://scottymccreery.com",
+        "Heading": "Scotty McCreery :: Rise and Fall - Available now",
+        "Abstract": null,
+        "Official Site": "https://scottymccreery.com",
+        "Icon": "https://www.scottymccreery.com/images/splash/favicon.ico",
+        "Redirect": "https://scottymccreery.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://scottymccreery.com"
     },
     {
         "link": "https://burlingameccwnc.com",
@@ -238,15 +268,5 @@
         "Redirect": "https://generationspace.co.ke/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://generationspace.co.ke/"
-    },
-    {
-        "link": "https://gobackgaming.com",
-        "Heading": "GoBack Gaming",
-        "Abstract": "Gobackgaming",
-        "Official Site": "https://www.gobackgaming.com/",
-        "Icon": "N/A",
-        "Redirect": "https://www.gobackgaming.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.gobackgaming.com/"
     }
 ]

@@ -20,16 +20,6 @@
         "AbstractURL": "https://kinvolk.io/"
     },
     {
-        "link": "https://kuntongjd.com",
-        "Heading": "\u4e0a\u6d77\u5803\u901a\u673a\u7535\u8bbe\u5907\u6709\u9650\u516c\u53f8",
-        "Abstract": "\u4e0a\u6d77\u5803\u901a\u673a\u7535\u8bbe\u5907\u6709\u9650\u516c\u53f8",
-        "Official Site": "https://kuntongjd.com",
-        "Icon": "N/A",
-        "Redirect": "https://kuntongjd.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kuntongjd.com"
-    },
-    {
         "link": "https://milwaukeerecreation.net",
         "Heading": "Milwaukee Recreation",
         "Abstract": "Milwaukee Recreation strives to enrich and strengthen the community by promoting healthy lifestyles, personal development, and fun through memorable recreational and educational experiences for people of all ages and abilities.",
@@ -58,6 +48,16 @@
         "Redirect": "https://armeriashooterstore.it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://armeriashooterstore.it/"
+    },
+    {
+        "link": "https://ispirt.in",
+        "Heading": "iSPIRT - Indian Software Product Industry RoundTable",
+        "Abstract": "A mission-oriented, nonprofit, think and do tank, driving 30 years orbit shifts. Powered by no greed-no glory volunteering.",
+        "Official Site": "https://ispirt.in/",
+        "Icon": "N/A",
+        "Redirect": "https://ispirt.in/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ispirt.in/"
     },
     {
         "link": "https://housewives-online.co.uk",
@@ -130,6 +130,16 @@
         "AbstractURL": "https://prcch.com"
     },
     {
+        "link": "https://optimalxm.com",
+        "Heading": "Blockchain Investment Company",
+        "Abstract": null,
+        "Official Site": "https://optimalxm.com",
+        "Icon": "https://optimalxm.com/wp-content/uploads/2022/10/cropped-Untitled-design-10-32x32.png",
+        "Redirect": "https://optimalxm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://optimalxm.com"
+    },
+    {
         "link": "https://freegraphics.com",
         "Heading": null,
         "Abstract": null,
@@ -138,6 +148,16 @@
         "Redirect": "https://freegraphics.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://freegraphics.com"
+    },
+    {
+        "link": "https://dharmadigitalmarketingagency.com",
+        "Heading": "Digital Marketing Agency Near Me | Digital Marketing Agency South Florida",
+        "Abstract": "Looking for a top Digital Marketing Agency Near Me in South Florida? Our expert team at Digital Marketing Agency South Florida delivers SEO, social media, PPC, and advertising strategies to grow your business, increase leads, and boost online visibility.",
+        "Official Site": "https://dharmadigitalmarketingagency.com/",
+        "Icon": "https://dharmadigitalmarketingagency.com/wp-content/uploads/2025/09/cropped-DHARMA-NUEVO-03-scaled-1.png",
+        "Redirect": "https://dharmadigitalmarketingagency.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dharmadigitalmarketingagency.com/"
     },
     {
         "link": "https://element12.com",
@@ -154,7 +174,7 @@
         "Heading": "Puppies for Sale, Puppy Ads & Breeder Profiles | Pawbe",
         "Abstract": "Browse puppies for sale, puppy ads, trusted breeder profiles, puppy alerts, dog breeds, and breed match tools on Pawbe across the U.S.",
         "Official Site": "https://pawbe.com/",
-        "Icon": "https://pawbe.com/wp-content/themes/pawbe-clean-lcp-theme-v2.10.6-puppy-alert-location-fix/assets/img/pawbe-default-og-card-v2065.jpg?ogv=2065",
+        "Icon": "https://pawbe.com/wp-content/themes/pawbe-clean-lcp-theme-v2.10.10-contest-paused-fresh-puppies/assets/img/pawbe-default-og-card-v2065.jpg?ogv=2065",
         "Redirect": "https://pawbe.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pawbe.com/"
@@ -188,5 +208,25 @@
         "Redirect": "https://wulkanizacjalegnica.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wulkanizacjalegnica.pl"
+    },
+    {
+        "link": "https://wfmultimidia.com.br",
+        "Heading": "\n\t\tWF Multim\u00eddia \u2013 Cria\u00e7\u00e3o de sites \u2013 Pindamonhangaba e Taubat\u00e9-SP\t",
+        "Abstract": "Cria\u00e7\u00e3o de sites, sistemas, landing pages, e-commerce (loja virtual), SEO, Hospedagem e APIs/integra\u00e7\u00f5es. Em Taubat\u00e9, Pindamonhangaba e regi\u00e3o do Vale do Para\u00edba.",
+        "Official Site": "https://wfmultimidia.com.br/",
+        "Icon": "https://wfmultimidia.com.br/wf/wp-content/uploads/2024/03/bgmidle-2.jpg",
+        "Redirect": "https://wfmultimidia.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wfmultimidia.com.br/"
+    },
+    {
+        "link": "https://akilliafacanlar.com",
+        "Heading": "Ak\u0131ll\u0131 Afacanlar Anaokulu",
+        "Abstract": null,
+        "Official Site": "https://akilliafacanlar.com",
+        "Icon": "https://akilliafacanlar.com/wp-content/uploads/2025/03/Adsiz-tasarim-21-150x150.png",
+        "Redirect": "https://akilliafacanlar.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://akilliafacanlar.com"
     }
 ]
