@@ -43,11 +43,11 @@
         "link": "https://refaccionesdecelulares.com.mx",
         "Heading": "REFACCIONES DE CELULARES - REFACCIONES DE CELULARES",
         "Abstract": "Somos una tienda virtual mexicana que tiene como objetivo llegar a todos los usuarios de internet y poner a su alcance una amplia gama de art\u00edculos con los mejores precios, seguridad y confianza.",
-        "Official Site": "https://refaccionesdecelulares.com.mx",
-        "Icon": "/img/favicon.ico?1700588955",
-        "Redirect": "https://refaccionesdecelulares.com.mx",
+        "Official Site": "https://refaccionesdecelulares.com.mx/",
+        "Icon": "https://refaccionesdecelulares.com.mx/img/my-store-logo-1700588954.jpg",
+        "Redirect": "https://refaccionesdecelulares.com.mx/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://refaccionesdecelulares.com.mx"
+        "AbstractURL": "https://refaccionesdecelulares.com.mx/"
     },
     {
         "link": "https://tesadvancedhub.com",
@@ -170,16 +170,6 @@
         "AbstractURL": "https://www.scjustice.org/"
     },
     {
-        "link": "https://dreamylily.com",
-        "Heading": "Shine brilliantly on your special day\n  \n  \n   \u2013 Dreamylily",
-        "Abstract": "At Dreamylily, we\u2019ve dedicated ourselves to mastering the art of \"Mother of the Bride & Groom Dresses\" for years. Our expert tailors and designers are committed to crafting the perfect dress for you, ensuring you shine brilliantly on your special day. Every mother deserves to glow as radiantly as her daughter",
-        "Official Site": "https://www.dreamylily.com/",
-        "Icon": "//www.dreamylily.com/cdn/shop/files/1_fea821fb-5d14-4fc2-bb0c-581e793bcdd4_32x32.jpg?v=1767150007",
-        "Redirect": "https://www.dreamylily.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.dreamylily.com/"
-    },
-    {
         "link": "https://thebosshoss.com",
         "Heading": "The BossHoss Tickets & neues Album zum besten Preis \u2014 The BossHoss",
         "Abstract": "Zum Jubil\u00e4um gehen die Cowboys auf exklusive Clubtour 2025 \u2013 laut, direkt und ganz nah dran. Kleine B\u00fchnen, gro\u00dfe Show \u2013 wie fr\u00fcher, nur noch besser.",
@@ -188,6 +178,16 @@
         "Redirect": "https://thebosshoss.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thebosshoss.com"
+    },
+    {
+        "link": "https://youraccommodation.com",
+        "Heading": "Your Accommodation",
+        "Abstract": "Your Accommodation, book special deals online, compare hundreds of Accommodation options such as hotels, resorts and Accommodation Find apartments.",
+        "Official Site": "https://youraccommodation.com/",
+        "Icon": "https://dirdata.b-cdn.net/img/sites/565/desktop_565_nfol0500_2210201000.jpg?crop_gravity=center&crop=1200,627",
+        "Redirect": "https://youraccommodation.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://youraccommodation.com/"
     },
     {
         "link": "https://bahgorsovet.org.ua",

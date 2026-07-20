@@ -20,14 +20,24 @@
         "AbstractURL": "https://comprayvendeenflorida.com"
     },
     {
+        "link": "https://modernpastry.com",
+        "Heading": "Modern Pastry Shop | Boston's Italian Family Owned Bakery",
+        "Abstract": "Nestled in the North End (Little Italy) and Medford. We are one of Boston's favorite Italian bakery. Family owned and operated for over 80 years. Offering Italian, American, and other European desserts for all occasions. From cakes, cannoli, cookies, pastries, and more!",
+        "Official Site": "https://modernpastry.com/",
+        "Icon": "https://cdn.shopify.com/s/files/1/0268/2824/2986/files/mp-logo_with_f6d5751b-192a-4b74-90e9-dab89374a43f.png?height=628&pad_color=f7f7f7&v=1670075282&width=1200",
+        "Redirect": "https://modernpastry.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://modernpastry.com/"
+    },
+    {
         "link": "https://pipeflare.io",
         "Heading": "Crypto Tools: Converters, Calculators & More | PipeFlare",
-        "Abstract": "Free crypto tools in one friendly hub. Convert sats to USD, calculate gwei fees, find free crypto, and fix stuck transfers. No signup, live rates.",
-        "Official Site": "https://pipeflare.io",
-        "Icon": "N/A",
-        "Redirect": "https://pipeflare.io",
+        "Abstract": "Convert sats, gwei, and wei to USD. Find free crypto, claim sign-up bonuses, and fix transfers \u2014 without the headache.",
+        "Official Site": "https://www.pipeflare.io",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.pipeflare.io",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pipeflare.io"
+        "AbstractURL": "https://www.pipeflare.io"
     },
     {
         "link": "https://quickpageapp.com",
@@ -168,16 +178,6 @@
         "Redirect": "https://bad-saulgau.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bad-saulgau.de"
-    },
-    {
-        "link": "https://shabrangmobile.com",
-        "Heading": "\u00a0\u0634\u0628\u0631\u0646\u06af \u0645\u0648\u0628\u0627\u06cc\u0644",
-        "Abstract": "\u0628\u0627 \u0634\u0628\u0631\u0646\u06af \u0645\u0648\u0628\u0627\u06cc\u0644 \u0628\u0627 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0633\u0631\u0627\u0633\u0631 \u062c\u0647\u0627\u0646 \u0622\u0646\u0644\u0627\u06cc\u0646 \u0628\u0627\u0632\u06cc \u06a9\u0646\u06cc\u062f.",
-        "Official Site": "https://shabrangmobile.com/",
-        "Icon": "http://shabrangmobile.com/blog/shabrang.png",
-        "Redirect": "https://shabrangmobile.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shabrangmobile.com/"
     },
     {
         "link": "https://dubaiclassifieds.org",

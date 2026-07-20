@@ -84,17 +84,17 @@
         "Heading": "\u5fe0\u53bf\u4fe1\u606f\u7f51_\u5fe0\u53bf\u540c\u57ce\u4fbf\u6c11\u7f51_\u5fe0\u53bf\u672c\u5730\u751f\u6d3b\u7f51_\u5fe0\u53bf\u4fe1\u606f\u53d1\u5e03_\u5fe0\u53bf\u57ce\u5e02\u5206\u7c7b\u7f51",
         "Abstract": "\u5fe0\u53bf\u4fe1\u606f\u7f51-www.wfycjd.cn\u5728\u7ebf\u53d1\u5e03\u5fe0\u53bf\u540c\u57ce\u4eba\u624d\u3001\u62db\u8058\u3001\u623f\u4ea7\u3001\u8f66\u8f86\u3001\u4e8c\u624b\u3001\u4fbf\u6c11\u3001\u5bb6\u653f\u3001\u5546\u52a1\u3001\u62db\u5546\u4fe1\u606f\uff0c\u81f4\u529b\u6253\u9020\u5fe0\u53bf\u514d\u8d39\u53d1\u5e03\u4fe1\u606f\u7684\u672c\u5730\u540c\u57ce\u751f\u6d3b\u4fbf\u6c11\u5e73\u53f0\uff01",
         "Official Site": "https://wfycjd.cn",
-        "Icon": "N/A",
+        "Icon": "/static/favicon.ico",
         "Redirect": "https://wfycjd.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wfycjd.cn"
     },
     {
         "link": "https://thejournalish.com",
-        "Heading": null,
+        "Heading": "The Journalish",
         "Abstract": null,
         "Official Site": "https://thejournalish.com",
-        "Icon": "N/A",
+        "Icon": "https://thejournalish.com/wp-content/uploads/2023/01/cropped-logo_favicon_journalism-32x32.png",
         "Redirect": "https://thejournalish.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thejournalish.com"
@@ -108,6 +108,16 @@
         "Redirect": "https://saakuru.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://saakuru.com/"
+    },
+    {
+        "link": "https://pugliapositiva.it",
+        "Heading": "Migliori Casino Online in Italia 2026 - Siti Casin\u00f2 Sicuri",
+        "Abstract": "Scopri i migliori casino online. Bonus senza deposito, recensioni dettagliate e tanti giochi. Scegli il tuo preferito e gioca responsabilmente.",
+        "Official Site": "https://www.pugliapositiva.it/it-it/",
+        "Icon": "https://www.pugliapositiva.it/wp-content/uploads/2026/02/migliori-casino-online.jpg",
+        "Redirect": "https://www.pugliapositiva.it/it-it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pugliapositiva.it/it-it/"
     },
     {
         "link": "https://boxscores.site",

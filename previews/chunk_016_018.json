@@ -41,10 +41,10 @@
     },
     {
         "link": "https://grands-meres.net",
-        "Heading": "Grands-M\u00e8res, leurs rem\u00e8des, recettes et astuces les plus efficaces",
-        "Abstract": "Rem\u00e8des, Astuces et Recettes",
+        "Heading": "Grands-M\u00e8res.net \u2014 Rem\u00e8des, Astuces et Recettes de Grand-M\u00e8re",
+        "Abstract": "Depuis plus de 15 ans, des articles pratiques et accessibles \u00e0 tous : rem\u00e8des naturels, astuces de grand-m\u00e8re et recettes simples pour vous faciliter la vie.",
         "Official Site": "https://grands-meres.net/",
-        "Icon": "https://www.grands-meres.net/wp-content/uploads/2024/04/logo-gm-v3.png",
+        "Icon": "/favicon.png",
         "Redirect": "https://grands-meres.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://grands-meres.net/"
@@ -148,6 +148,16 @@
         "Redirect": "https://fit-theme.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fit-theme.com"
+    },
+    {
+        "link": "https://madamedeals.com",
+        "Heading": "Home - Real Advice Gal",
+        "Abstract": "18103104521",
+        "Official Site": "https://realadvicegal.com/",
+        "Icon": "https://realadvicegal.com/wp-content/uploads/2020/07/cropped-rag-lips-65x65.png",
+        "Redirect": "https://realadvicegal.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://realadvicegal.com/"
     },
     {
         "link": "https://radio-seefunk.de",

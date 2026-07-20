@@ -40,6 +40,16 @@
         "AbstractURL": "https://appar.io"
     },
     {
+        "link": "https://cic-webpro.com",
+        "Heading": "CIC Web Programming",
+        "Abstract": "",
+        "Official Site": "https://cic-webpro.com",
+        "Icon": "N/A",
+        "Redirect": "https://cic-webpro.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cic-webpro.com"
+    },
+    {
         "link": "https://digantara.in",
         "Heading": null,
         "Abstract": null,
@@ -148,16 +158,6 @@
         "Redirect": "https://openaps.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://openaps.org"
-    },
-    {
-        "link": "https://wave-assets.ltd",
-        "Heading": "wave-assets.ltd  ",
-        "Abstract": "",
-        "Official Site": "https://wave-assets.ltd",
-        "Icon": "N/A",
-        "Redirect": "https://wave-assets.ltd",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wave-assets.ltd"
     },
     {
         "link": "https://govodka.xyz",

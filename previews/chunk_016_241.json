@@ -43,11 +43,11 @@
         "link": "https://intermaxs.com",
         "Heading": "Insignia Financial Group",
         "Abstract": "Asesor\u00eda financiera estrat\u00e9gica y corporativa, enfocada en la creaci\u00f3n de valor.",
-        "Official Site": "http://www.intermaxs.com/es/sitemap.xml",
+        "Official Site": "https://intermaxs.com/es/",
         "Icon": "/images/favicone.png",
-        "Redirect": "http://www.intermaxs.com/es/sitemap.xml",
+        "Redirect": "https://intermaxs.com/es/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://www.intermaxs.com/es/sitemap.xml"
+        "AbstractURL": "https://intermaxs.com/es/"
     },
     {
         "link": "https://66bdbajee.com",
@@ -128,16 +128,6 @@
         "Redirect": "https://pablogomes.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pablogomes.com.br"
-    },
-    {
-        "link": "https://passportrus.top",
-        "Heading": "passportrus.top",
-        "Abstract": null,
-        "Official Site": "https://passportrus.top",
-        "Icon": "N/A",
-        "Redirect": "https://passportrus.top",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://passportrus.top"
     },
     {
         "link": "https://osthoff.com",

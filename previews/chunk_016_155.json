@@ -310,21 +310,11 @@
         "AbstractURL": "https://cloudsipy.es"
     },
     {
-        "link": "https://refena.es",
-        "Heading": "403 Forbidden",
-        "Abstract": null,
-        "Official Site": "https://refena.es",
-        "Icon": "N/A",
-        "Redirect": "https://refena.es",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://refena.es"
-    },
-    {
         "link": "https://bizhostnc.com",
-        "Heading": null,
+        "Heading": "BizHostNC \u2013 Professional Web Hosting for North Carolina Business Owners",
         "Abstract": null,
         "Official Site": "https://bizhostnc.com",
-        "Icon": "N/A",
+        "Icon": "https://bizhostnc.com/wp-content/themes/getleads/assets/images/ico/favicon.png",
         "Redirect": "https://bizhostnc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bizhostnc.com"

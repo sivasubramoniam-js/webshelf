@@ -10,16 +10,6 @@
         "AbstractURL": "https://www.dommia.com/es"
     },
     {
-        "link": "https://eliltec.cz",
-        "Heading": "ELILTEC",
-        "Abstract": null,
-        "Official Site": "https://eliltec.cz",
-        "Icon": "N/A",
-        "Redirect": "https://eliltec.cz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eliltec.cz"
-    },
-    {
         "link": "https://mochamber.com",
         "Heading": "Missouri Chamber of Commerce and Industry",
         "Abstract": "Explore health insurance for small businesses and discover how the Missouri Chamber supports members statewide to make Missouri a better place to live & work.",
@@ -104,7 +94,7 @@
         "Heading": "\u664b\u6e90\u4fe1\u606f\u7f51_\u664b\u6e90\u540c\u57ce\u4fbf\u6c11\u7f51_\u664b\u6e90\u672c\u5730\u751f\u6d3b\u7f51_\u664b\u6e90\u4fe1\u606f\u53d1\u5e03_\u664b\u6e90\u57ce\u5e02\u5206\u7c7b\u7f51",
         "Abstract": "\u664b\u6e90\u4fe1\u606f\u7f51-www.sjblny.cn\u5728\u7ebf\u53d1\u5e03\u664b\u6e90\u540c\u57ce\u4eba\u624d\u3001\u62db\u8058\u3001\u623f\u4ea7\u3001\u8f66\u8f86\u3001\u4e8c\u624b\u3001\u4fbf\u6c11\u3001\u5bb6\u653f\u3001\u5546\u52a1\u3001\u62db\u5546\u4fe1\u606f\uff0c\u81f4\u529b\u6253\u9020\u664b\u6e90\u514d\u8d39\u53d1\u5e03\u4fe1\u606f\u7684\u672c\u5730\u540c\u57ce\u751f\u6d3b\u4fbf\u6c11\u5e73\u53f0\uff01",
         "Official Site": "https://sjblny.cn",
-        "Icon": "N/A",
+        "Icon": "/static/favicon.ico",
         "Redirect": "https://sjblny.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sjblny.cn"
@@ -148,16 +138,6 @@
         "Redirect": "https://downck.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://downck.com"
-    },
-    {
-        "link": "https://harrysliquor.com.au",
-        "Heading": "\n  \n    Harry's Liquor Store: Buy Beer, Wine, Spirits Online & More!\n    \n  \n",
-        "Abstract": "Harry's Liquor store delivers the best selection of wines, beers, ciders, & spirits straight to your door. Order online or select a pickup from our store near you.",
-        "Official Site": "https://www.harrysliquor.com.au/",
-        "Icon": "http://www.harrysliquor.com.au/cdn/shop/files/Screen_Shot_2022-11-06_at_11.17.30_pm.png?v=1667738172",
-        "Redirect": "https://www.harrysliquor.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.harrysliquor.com.au/"
     },
     {
         "link": "https://conradantiquario.de",
