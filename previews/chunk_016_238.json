@@ -20,6 +20,16 @@
         "AbstractURL": "https://twokokkonat13.sbs"
     },
     {
+        "link": "https://bistrotduboucher.fr",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bistrotduboucher.fr",
+        "Icon": "data:;",
+        "Redirect": "https://bistrotduboucher.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bistrotduboucher.fr"
+    },
+    {
         "link": "https://mathtv.com",
         "Heading": "MathTV \u2014 Free Math Video Lessons from Arithmetic to Calculus",
         "Abstract": "10,000+ free math video lessons from arithmetic to calculus. Taught by instructors and peer tutors. Available in Spanish. Founded by Charles ",
@@ -91,23 +101,23 @@
     },
     {
         "link": "https://aea365.org",
-        "Heading": "AEA365 \u2013 A Tip-a-Day by and for Evaluators",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://aea365.org",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://aea365.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aea365.org"
     },
     {
         "link": "https://lugo-vina.com",
-        "Heading": "Computer repair | Lugo-Vi\u00f1a Sucesores, Inc.",
-        "Abstract": "Computer Technicians, IT Support, Repairs, Network, POS Systems, Accounting software, Time Control management, service agreements. Lugo-Vi\u00f1a Sucesores, Inc. LVS, Lugo-Vina, LugoVina",
-        "Official Site": "https://www.lugo-vina.com",
-        "Icon": "https://static.wixstatic.com/media/adbdd2_f2a7c9aba7c34815a9414dd1b21b533a%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/adbdd2_f2a7c9aba7c34815a9414dd1b21b533a%7Emv2.jpg",
-        "Redirect": "https://www.lugo-vina.com",
+        "Heading": "My Blog \u2013 My WordPress Blog",
+        "Abstract": null,
+        "Official Site": "https://lugo-vina.com",
+        "Icon": "N/A",
+        "Redirect": "https://lugo-vina.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lugo-vina.com"
+        "AbstractURL": "https://lugo-vina.com"
     },
     {
         "link": "https://styleai.art",
@@ -168,6 +178,16 @@
         "Redirect": "{{ogurl}}",
         "AbstractSource": "BS4",
         "AbstractURL": "{{ogurl}}"
+    },
+    {
+        "link": "https://vacationland.net",
+        "Heading": "Vacationland",
+        "Abstract": "RV Sales, Storage, Service, Parts & Rentals Since 1967",
+        "Official Site": "https://vacationland.net/",
+        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC92YWNhdGlvbmxhbmQubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMlwvY3JvcHBlZC1mYXZpY29uLTEucG5nP2ZpdD01MTIlMkM1MTImcXVhbGl0eT04MCZzc2w9MSIsInR4dCI6IlZhY2F0aW9ubGFuZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoyNDEwMjE3MTR9.8DRnBcPafRytHqQqT8014nCDUlBHyNtf-hZrAAdL-TUMQ",
+        "Redirect": "https://vacationland.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vacationland.net/"
     },
     {
         "link": "https://vbryanske.com",

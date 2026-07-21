@@ -151,13 +151,13 @@
     },
     {
         "link": "https://loreenamckennitt.com",
-        "Heading": "Home - Loreena McKennitt",
-        "Abstract": "Welcome to the Official Loreena McKennitt Site \n\nLoreena McKennitt\u2019s \u2018eclectic Celtic\u2019 music has won critical acclaim worldwide and gold, platinum and multi-platinum sales awards in 15 countries across four continents.\n\nJoin the LM Community\nReceive email updates about future releases, tour dates and appearances.",
-        "Official Site": "https://loreenamckennitt.com/",
-        "Icon": "https://loreenamckennitt.com/wp-content/uploads/2021/06/logo.png",
-        "Redirect": "https://loreenamckennitt.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://loreenamckennitt.com",
+        "Icon": "data:;",
+        "Redirect": "https://loreenamckennitt.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://loreenamckennitt.com/"
+        "AbstractURL": "https://loreenamckennitt.com"
     },
     {
         "link": "https://diplomsxl.cfd",
@@ -201,8 +201,8 @@
     },
     {
         "link": "https://allmix.pl",
-        "Heading": "ALLMIX - Dystrybutor papieru, artyku\u0142\u00f3w biurowych i szkolnych",
-        "Abstract": "Wiod\u00b1cy dystrybutor papieru, artyku\u0142\u00f3w biurowych i szkolnych, napoj\u00f3w i artyku\u0142\u00f3w spo\u017cywczych, \u00b6rodk\u00f3w czysto\u00b6ci oraz materia\u0142\u00f3w eksploatacyjnych.",
+        "Heading": "ALLMIX - Dystrybutor papieru, artyku\u00b3\u00f3w biurowych i szkolnych",
+        "Abstract": "Wiod\u00b1cy dystrybutor papieru, artyku\u00b3\u00f3w biurowych i szkolnych, napoj\u00f3w i artyku\u00b3\u00f3w spo\u00bfywczych, \u00b6rodk\u00f3w czysto\u00b6ci oraz materia\u00b3\u00f3w eksploatacyjnych.",
         "Official Site": "https://www.allmix.pl",
         "Icon": "https://www.allmix.pl/logotypes/1.png",
         "Redirect": "https://www.allmix.pl",
@@ -258,16 +258,6 @@
         "Redirect": "https://driveway-ideas.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://driveway-ideas.co.uk"
-    },
-    {
-        "link": "https://generationspace.co.ke",
-        "Heading": "Home - Generation Space",
-        "Abstract": "In stock",
-        "Official Site": "https://generationspace.co.ke/",
-        "Icon": "https://generationspace.co.ke/wp-content/uploads/2026/04/AP361-2.png",
-        "Redirect": "https://generationspace.co.ke/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://generationspace.co.ke/"
     },
     {
         "link": "https://gobackgaming.com",

@@ -91,13 +91,13 @@
     },
     {
         "link": "https://socialists.nyc",
-        "Heading": "New York City Democratic Socialists of America (NYC-DSA)",
-        "Abstract": "We are NYC's leading socialist organization, winning electoral and legislative fights for the multiracial working class. Join our movement today!",
-        "Official Site": "https://socialists.nyc/",
-        "Icon": "https://socialists.nyc/wp-content/uploads/2024/11/NYC-DSA_ShareImage.png",
-        "Redirect": "https://socialists.nyc/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://socialists.nyc",
+        "Icon": "data:;",
+        "Redirect": "https://socialists.nyc",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://socialists.nyc/"
+        "AbstractURL": "https://socialists.nyc"
     },
     {
         "link": "https://docsrf-xxpyfiv.top",
@@ -108,16 +108,6 @@
         "Redirect": "https://docsrf-xxpyfiv.top",
         "AbstractSource": "BS4",
         "AbstractURL": "https://docsrf-xxpyfiv.top"
-    },
-    {
-        "link": "https://poschitat.online",
-        "Heading": "\u041f\u043e\u0441\u0447\u0438\u0442\u0430\u0442\u044c \u043e\u043d\u043b\u0430\u0439\u043d \u2013 \u043a\u0430\u043b\u044c\u043a\u0443\u043b\u044f\u0442\u043e\u0440\u044b \u043d\u0430 \u0432\u0441\u0435 \u0441\u043b\u0443\u0447\u0430\u0438 \u0436\u0438\u0437\u043d\u0438",
-        "Abstract": "\u0423 \u043d\u0430\u0441 \u0432\u044b \u043d\u0430\u0439\u0434\u0451\u0442\u0435 \u043a\u0430\u043b\u044c\u043a\u0443\u043b\u044f\u0442\u043e\u0440\u044b \u043d\u0430 \u0432\u0441\u0435 \u0441\u043b\u0443\u0447\u0430\u0438 \u0436\u0438\u0437\u043d\u0438",
-        "Official Site": "https://poschitat.online",
-        "Icon": "/favicon.svg",
-        "Redirect": "https://poschitat.online",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://poschitat.online"
     },
     {
         "link": "https://quindata.com",

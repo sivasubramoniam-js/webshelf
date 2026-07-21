@@ -11,13 +11,13 @@
     },
     {
         "link": "https://mayland.edu",
-        "Heading": "Mayland Community College | Mayland Community College",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.mayland.edu/",
-        "Icon": "https://www.mayland.edu/wp-content/uploads/2021/03/MCCLogoNoCat-Converted-3.png",
-        "Redirect": "https://www.mayland.edu/",
+        "Official Site": "https://mayland.edu",
+        "Icon": "data:;",
+        "Redirect": "https://mayland.edu",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mayland.edu/"
+        "AbstractURL": "https://mayland.edu"
     },
     {
         "link": "https://revenued.com",
@@ -58,16 +58,6 @@
         "Redirect": "https://xiweikang.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xiweikang.net"
-    },
-    {
-        "link": "https://sowexotic.com",
-        "Heading": "Sow Exotic | Rare Fruiting & Medicinal Plants\n",
-        "Abstract": "Shop rare tropical fruit trees, exotic medicinal herbs, and unique edible plants for your food forest and edible landscape. Delivered to your door in plantable biodegradable pots and plastic-free compostable packaging. Order now!",
-        "Official Site": "https://sowexotic.com/",
-        "Icon": "https://cdn.shopify.com/s/files/1/2858/6430/files/sow_exotic_logo.png?height=628&pad_color=ffffff&v=1613161402&width=1200",
-        "Redirect": "https://sowexotic.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sowexotic.com/"
     },
     {
         "link": "https://twinkelingsieraden.nl",

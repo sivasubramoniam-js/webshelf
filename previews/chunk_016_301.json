@@ -141,10 +141,10 @@
     },
     {
         "link": "https://samentegenvoedselverspilling.nl",
-        "Heading": "Samen Tegen Voedselverspilling | Samen maken we Nederland verspillingsvrij.",
-        "Abstract": "Stichting Samen Tegen Voedselverspilling verbindt bedrijven en publieke organisaties om voedselverspilling in Nederland te halveren in 2030. Samen naar een verspillingsvrij Nederland.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://samentegenvoedselverspilling.nl",
-        "Icon": "https://samentegenvoedselverspilling.nl/media/pages/medialibrary/33ec2d359f-1773666081/stv-meta-afbeelding_1080x1080-1200x-q85.jpg",
+        "Icon": "data:;",
         "Redirect": "https://samentegenvoedselverspilling.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://samentegenvoedselverspilling.nl"
@@ -168,6 +168,16 @@
         "Redirect": "https://zerenesystems.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zerenesystems.com"
+    },
+    {
+        "link": "https://tsuriko-1.asia",
+        "Heading": "Low Cost, High Performance S3 Compatible Object Storage",
+        "Abstract": "Backblaze B2 provides unlimited data storage in the cloud at 1/5th the cost of Amazon S3, Microsoft Azure, and Google Cloud.",
+        "Official Site": "https://tsuriko-1.asia",
+        "Icon": "https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64b1b1605e73b516e5712f82_Backblaze_Social-Card.webp",
+        "Redirect": "https://tsuriko-1.asia",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tsuriko-1.asia"
     },
     {
         "link": "https://aydinonat.com",
@@ -208,15 +218,5 @@
         "Redirect": "https://fruitfarm.biz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fruitfarm.biz"
-    },
-    {
-        "link": "https://hardandware.com",
-        "Heading": "Home \u2013 Hard & Ware \u2013 Designers of manufactured objects",
-        "Abstract": "Hard & Ware is a design brand focused on high quality design and manufactured products.",
-        "Official Site": "https://www.hardandware.com/",
-        "Icon": "https://assets.hardandware.com/wp-content/uploads/2021/03/hard-and-ware-hwc-006-thumb.jpg",
-        "Redirect": "https://www.hardandware.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hardandware.com/"
     }
 ]

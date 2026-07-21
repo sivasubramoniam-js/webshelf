@@ -31,13 +31,13 @@
     },
     {
         "link": "https://provana.com",
-        "Heading": "Provana | Tech-Driven Managed Services",
-        "Abstract": "Provana is the smarter choice for outsourcing, delivering tech-enabled solutions to the legal, healthcare revenue cycle management, and credit and collections sectors.",
-        "Official Site": "https://provana.com/",
-        "Icon": "https://provana.com/wp-content/uploads/2024/08/Mask-Group-7@2x-min.png",
-        "Redirect": "https://provana.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://provana.com",
+        "Icon": "data:;",
+        "Redirect": "https://provana.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://provana.com/"
+        "AbstractURL": "https://provana.com"
     },
     {
         "link": "https://downloadthemefree.com",
@@ -78,6 +78,16 @@
         "Redirect": "https://united-kingdom-visa.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://united-kingdom-visa.com"
+    },
+    {
+        "link": "https://fisternet.net",
+        "Heading": "apps fisternet.com",
+        "Abstract": "\u00a0\n\nPortal de aplicaciones demostrativas de fisternet comunicaci\u00f3n.\n\nPara visitar la web comercial por favor visite : https://www.fisternet.com\n\nNuevo Servicio NextCloud disponible, consultar aqu\u00ed.\n\n\u00a0\n\nGracias\n\n\u00a0",
+        "Official Site": "https://fisternet.net",
+        "Icon": "https://fisternet.net/wp-content/uploads/2021/09/fisBNportada.png",
+        "Redirect": "https://fisternet.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fisternet.net"
     },
     {
         "link": "https://outadventures.com",

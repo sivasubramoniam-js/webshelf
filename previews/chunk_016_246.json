@@ -1,13 +1,13 @@
 [
     {
         "link": "https://newburyport.com",
-        "Heading": "Newburyport MA | Restaurants, Shopping, Events, Things to Do",
-        "Abstract": "Facebook.com/NewburyportVIP: A Coastal & Lifestyle Destination Site Dedicated to Supporting the Restaurants, Shops & Businesses in Greater Newburyport, Massachusetts. Now when you use your Newburyport.com VIP Card or Mobile App, you'll receive discounts & savings at all participating locations. Support Local, Shop Small, GO VIP! Newburyport.com/Order-VIP-Card",
-        "Official Site": "https://newburyport.com/",
-        "Icon": "https://newburyport.com/wp-content/uploads/newburyport_logo_fb.jpg",
-        "Redirect": "https://newburyport.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://newburyport.com",
+        "Icon": "data:;",
+        "Redirect": "https://newburyport.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://newburyport.com/"
+        "AbstractURL": "https://newburyport.com"
     },
     {
         "link": "https://laurencariscooks.com",
@@ -60,14 +60,24 @@
         "AbstractURL": "https://hottest-tube.com"
     },
     {
-        "link": "https://thegoldenstar.net",
-        "Heading": "Welcome to the Golden Star | Golden News",
-        "Abstract": "We at the Golden Star are proud to present to you, Golden News. We are your local community resource for events happening in Golden BC.",
-        "Official Site": "https://thegoldenstar.net/",
-        "Icon": "https://thegoldenstar.net/wp-content/uploads/2023/12/golden-this-week-2000-x-2000-px-1-75x75.png",
-        "Redirect": "https://thegoldenstar.net/",
+        "link": "https://tradersjourneys.live",
+        "Heading": "Traders-journ - Best Trading Platform ",
+        "Abstract": "Welcome to Traders-journ, the game-changing platform meticulously crafted to revolutionize trading business. With its sleek and modern design, Traders-journ provides a cutting-edge platform to showcase your expertise, attract good profits, and stay ahead in the competitive trading markets.",
+        "Official Site": "index",
+        "Icon": "assets/images/favicon.png",
+        "Redirect": "index",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thegoldenstar.net/"
+        "AbstractURL": "index"
+    },
+    {
+        "link": "https://thegoldenstar.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://thegoldenstar.net",
+        "Icon": "data:;",
+        "Redirect": "https://thegoldenstar.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thegoldenstar.net"
     },
     {
         "link": "https://bobrik.su",

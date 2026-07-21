@@ -81,13 +81,13 @@
     },
     {
         "link": "https://securepreferred.com",
-        "Heading": " - YouTube",
-        "Abstract": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-        "Official Site": "https://securepreferred.com",
-        "Icon": "https://www.youtube.com/s/desktop/e2e75771/img/favicon.ico",
-        "Redirect": "https://securepreferred.com",
+        "Heading": "YouTube",
+        "Abstract": "Share your videos with friends, family, and the world",
+        "Official Site": "https://www.youtube.com/watch?v=6FLUNQB41wM",
+        "Icon": "https://m.youtube.com/static/favicon.ico",
+        "Redirect": "https://www.youtube.com/watch?v=6FLUNQB41wM",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://securepreferred.com"
+        "AbstractURL": "https://www.youtube.com/watch?v=6FLUNQB41wM"
     },
     {
         "link": "https://vurut.com",
@@ -183,11 +183,11 @@
         "link": "https://taylorworks.net",
         "Heading": "Managed IT Services and IT Support | Florida | TaylorWorks",
         "Abstract": "TaylorWorks provides managed IT services and IT support for businesses across Central Florida, including cybersecurity, cloud solutions, network management, and proactive IT consulting since 1999.",
-        "Official Site": "https://taylorworks.net/",
+        "Official Site": "https://www.taylorworks.com/",
         "Icon": "/images/favicons/favicon.png",
-        "Redirect": "https://taylorworks.net/",
+        "Redirect": "https://www.taylorworks.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://taylorworks.net/"
+        "AbstractURL": "https://www.taylorworks.com/"
     },
     {
         "link": "https://zn7.net",
@@ -223,10 +223,10 @@
         "link": "https://diplatteh.cfd",
         "Heading": "\u0414\u0438\u043f\u043b\u0430\u0442\u0442\u0435 - \u0441\u0435\u0440\u0432\u0438\u0441 \u0437\u0430\u043a\u0430\u0437\u0430 \u043b\u044e\u0431\u044b\u0445 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0438 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e",
         "Abstract": "\u0414\u0438\u043f\u043b\u0430\u0442\u0442\u0435 - \u043c\u044b \u0434\u0435\u043b\u0430\u0435\u043c \u0434\u0438\u043f\u043b\u043e\u043c\u044b, \u0430\u0442\u0442\u0435\u0441\u0442\u0430\u0442\u044b, \u0443\u0434\u043e\u0441\u0442\u043e\u0432\u0435\u0440\u0435\u043d\u0438\u044f, \u0441\u043f\u0440\u0430\u0432\u043a\u0438, \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0432\u044b\u0441\u0448\u0435\u0433\u043e \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430. \u0417\u0430\u043a\u0430\u0437 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u043e\u043d\u043b\u0430\u0439\u043d. \u041e\u0442 1 \u0440\u0430\u0431\u043e\u0447\u0435\u0433\u043e \u0434\u043d\u044f.",
-        "Official Site": "https://diplattevw.cfd/",
-        "Icon": "https://diplattevw.cfd/wp-content/uploads/opengraph-200-1.png",
-        "Redirect": "https://diplattevw.cfd/",
+        "Official Site": "https://diplatte1j.cfd/",
+        "Icon": "https://diplatte1j.cfd/wp-content/uploads/opengraph-200-1.png",
+        "Redirect": "https://diplatte1j.cfd/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://diplattevw.cfd/"
+        "AbstractURL": "https://diplatte1j.cfd/"
     }
 ]

@@ -51,13 +51,13 @@
     },
     {
         "link": "https://mensvariety.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://mensvariety.com",
-        "Icon": "N/A",
-        "Redirect": "https://mensvariety.com",
+        "Heading": "Men's Variety - Lifestyle Website For The Modern Man",
+        "Abstract": "Men's lifestyle, fashion, gadgets, dating, news, fitness and entertainment. Leading men's website with grooming tips, health advice and men's topics. ",
+        "Official Site": "https://mensvariety.com/",
+        "Icon": "https://i0.wp.com/mensvariety.com/wp-content/uploads/2019/02/About-Us.jpg?fit=800%2C500&ssl=1",
+        "Redirect": "https://mensvariety.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mensvariety.com"
+        "AbstractURL": "https://mensvariety.com/"
     },
     {
         "link": "https://iwild.it",
@@ -150,6 +150,16 @@
         "AbstractURL": "https://shortformblog.com"
     },
     {
+        "link": "https://pricepond.com.au",
+        "Heading": "PricePond | Australia's Best Online Shopping & Price Comparison Site",
+        "Abstract": "PricePond Best Australian Online Shopping Engine makes comparison shopping easy with Deal Alerts & Coupons. Great Deals & Huge Savings made easy at Pricepond.com.au.",
+        "Official Site": "https://pricepond.com.au",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://pricepond.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pricepond.com.au"
+    },
+    {
         "link": "https://cryptchain.de",
         "Heading": "CryptChain - IT-Sicherheit, Beratung & Webdesign aus Bad Kreuznach",
         "Abstract": "CryptChain ist Ihr IT-Dienstleister aus Bad Kreuznach. IT-Sicherheit, Webdesign, Hosting, Penetrationstests, Drohnenservice und professionelle IT-Beratung.",
@@ -208,5 +218,15 @@
         "Redirect": "https://study-dock.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://study-dock.com"
+    },
+    {
+        "link": "https://guynoviello.top",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://guynoviello.top",
+        "Icon": "N/A",
+        "Redirect": "https://guynoviello.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://guynoviello.top"
     }
 ]

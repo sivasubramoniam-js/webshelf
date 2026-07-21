@@ -2,7 +2,7 @@
     {
         "link": "https://hochiminh-top-hotels.com",
         "Heading": "Hotels in Ho Chi Minh City \u2014 Best Prices and Free Cancellation",
-        "Abstract": "Discover Ho Chi Minh City hotels for every taste and budget. \ud83c\udfe8 7000 properties. \ud83d\udece\ufe0f Flexible cancellation policy. \ud83d\udcb0\ufe0f No extra fees. \ud83d\udd11\ufe0f Book your dream stay now.",
+        "Abstract": "Discover Ho Chi Minh City hotels for every taste and budget. \ud83c\udfe8 7001 properties. \ud83d\udece\ufe0f Flexible cancellation policy. \ud83d\udcb0\ufe0f No extra fees. \ud83d\udd11\ufe0f Book your dream stay now.",
         "Official Site": "https://hochiminh-top-hotels.com",
         "Icon": "N/A",
         "Redirect": "https://hochiminh-top-hotels.com",
@@ -50,6 +50,16 @@
         "AbstractURL": "https://itmoose.pl"
     },
     {
+        "link": "https://zfidf.cn",
+        "Heading": "\u798f\u5efa\u9999\u70df\u6279\u53d1\u4e00\u624b\u8d27\u6e90\u6279\u53d1\u7f51_\u4e13\u4f9b\u9ad8\u54c1\u8d28\u8d27\u6e90_\u5229\u6da6\u7a7a\u95f4\u5927 - \u67d4\u51e4\u5e84\u9999\u70df\u6279\u53d1",
+        "Abstract": "\u6b22\u8fce\u6765\u5230\u798f\u5efa\u9999\u70df\u6279\u53d1\u4e00\u624b\u8d27\u6e90\u5b98\u65b9\u5e73\u53f0\u3002\u6211\u4eec\u6df1\u8015\u884c\u4e1a\u591a\u5e74\uff0c\u4e3a\u60a8\u63d0\u4f9b\u7a33\u5b9a\u3001\u9760\u8c31\u7684\u4e00\u624b\u8d27\u6e90\u6e20\u9053\u3002\u6240\u6709\u4ea7\u54c1\u652f\u6301\u4e00\u4ef6\u4ee3\u53d1\uff0c\u4e0d\u8bba\u60a8\u662f\u5fae\u5546\u8fd8\u662f\u5b9e\u4f53\u5e97\u4e3b\uff0c\u90fd\u80fd\u5728\u8fd9\u91cc\u627e\u5230\u6700\u6ee1\u610f\u7684\u5408\u4f5c\u65b9\u6848\u3002",
+        "Official Site": "http://zfidf.cn",
+        "Icon": "https://zfidf.cn/favicon.ico",
+        "Redirect": "http://zfidf.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://zfidf.cn"
+    },
+    {
         "link": "https://pinenutsdev.net",
         "Heading": "FastNews - The best Free News app",
         "Abstract": null,
@@ -58,6 +68,16 @@
         "Redirect": "https://pinenutsdev.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pinenutsdev.net"
+    },
+    {
+        "link": "https://dochara.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://dochara.com",
+        "Icon": "data:;",
+        "Redirect": "https://dochara.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dochara.com"
     },
     {
         "link": "https://sinergiatel.it",
@@ -178,5 +198,15 @@
         "Redirect": "https://nathalielawhead.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nathalielawhead.com"
+    },
+    {
+        "link": "https://ifpda.org",
+        "Heading": "IFPDA",
+        "Abstract": null,
+        "Official Site": "https://ifpda.org/",
+        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaWZwZGEub3JnXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8wMlwvY3JvcHBlZC1mYXZpY29uLTEucG5nIiwidHh0IjoiSUZQREEiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTgxMTc0MTc3fQ.jtNA3NmbKInT8f76B89ceugnd3mTUf-j0g5s7WEXm7wMQ",
+        "Redirect": "https://ifpda.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ifpda.org/"
     }
 ]

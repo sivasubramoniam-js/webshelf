@@ -111,10 +111,10 @@
     },
     {
         "link": "https://mbog.nl",
-        "Heading": "MBOG \u2013 De beroepsvereniging integrale, leefstijl, PNI en orthomoleculaire geneeskunde.",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://mbog.nl",
-        "Icon": "https://mbog.nl/wp-content/uploads/2021/06/MBOG_logo1.2.png",
+        "Icon": "data:;",
         "Redirect": "https://mbog.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mbog.nl"
@@ -208,16 +208,6 @@
         "Redirect": "https://addroid.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://addroid.com"
-    },
-    {
-        "link": "https://uniquip.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://uniquip.com",
-        "Icon": "N/A",
-        "Redirect": "https://uniquip.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://uniquip.com"
     },
     {
         "link": "https://malbongolf.com",

@@ -151,10 +151,10 @@
     },
     {
         "link": "https://nittygritty.com",
-        "Heading": "Nitty Gritty Dirt Band",
-        "Abstract": "Welcome to the official site of the legendary Nitty Gritty Dirt Band.  Get all the latest news, music, merchandise and more.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://nittygritty.com",
-        "Icon": "https://nittygritty.com/wp-content/uploads/2022/04/cropped-278018425_568404107983579_2125550969356399221_n-32x32.jpeg",
+        "Icon": "data:;",
         "Redirect": "https://nittygritty.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nittygritty.com"

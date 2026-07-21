@@ -161,13 +161,13 @@
     },
     {
         "link": "https://roboticscats.com",
-        "Heading": "AI Wildfire Detection System to save lives and cut loss | RoboticsCats",
-        "Abstract": "Leading ClimateTech from Hong Kong providing fully automated 24/7 AI wildfire detection system with highest accuracy settings combined with GIS-based data to provide early wildfire alert.",
-        "Official Site": "https://roboticscats.com/",
-        "Icon": "http://roboticscats.com/wp-content/uploads/2020/01/Feature1_Dual_Sensor.png",
-        "Redirect": "https://roboticscats.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://roboticscats.com",
+        "Icon": "data:;",
+        "Redirect": "https://roboticscats.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://roboticscats.com/"
+        "AbstractURL": "https://roboticscats.com"
     },
     {
         "link": "https://rockwellmed.com",
@@ -228,6 +228,16 @@
         "Redirect": "https://rud-sgm.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rud-sgm.de"
+    },
+    {
+        "link": "https://runmoore.com",
+        "Heading": "Run Moore Home Page | Run Moore",
+        "Abstract": null,
+        "Official Site": "https://runmoore.com/",
+        "Icon": "https://runmoore.com/wp-content/uploads/2022/05/Run-Moore-Store-Inside-1.jpg",
+        "Redirect": "https://runmoore.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://runmoore.com/"
     },
     {
         "link": "https://sabonbar.com",

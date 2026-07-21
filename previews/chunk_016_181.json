@@ -150,6 +150,16 @@
         "AbstractURL": "https://getvamo.de"
     },
     {
+        "link": "https://rbt-bel-100.com",
+        "Heading": "\u0420\u0438\u043e\u0431\u0435\u0442 \u0441asino official",
+        "Abstract": " Play for free and for money in the slot machines in the online casino Riobet.",
+        "Official Site": "https://rbt-bel-100.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://rbt-bel-100.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rbt-bel-100.com"
+    },
+    {
         "link": "https://f4k.de",
         "Heading": "Fantasie4Kids | Startseite | Der Onlineshop f\u00fcr Spielzeugh\u00e4ndler",
         "Abstract": "Fantasie4Kids OHG ist der deutsche Gro\u00dfhandel f\u00fcr ausgesuchte Spielwaren im Bereich Holzspielzeug und Kreativspielwaren. Exklusiv verkaufen wir deutschlandweit bekannte Marken wie Djeco, Moulin Roty, Classic World und die niederl\u00e4ndischen Marken Global Affairs und Makii.",
@@ -241,13 +251,13 @@
     },
     {
         "link": "https://teenline.org",
-        "Heading": "Teen Line: Confidential Teen Crisis Hotline & Support",
-        "Abstract": "Connect with Teen Line at Didi Hirsch for peer-to-peer mental health support. Teens helping teens navigate challenges with understanding and care.",
-        "Official Site": "https://didihirsch.org/teenline/",
-        "Icon": "https://didihirsch.org/wp-content/uploads/2025/08/Group-of-four-teen-smiling-and-taking-a-selfie-outdoors-showing-peace-sign-v2.webp",
-        "Redirect": "https://didihirsch.org/teenline/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://teenline.org",
+        "Icon": "data:;",
+        "Redirect": "https://teenline.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://didihirsch.org/teenline/"
+        "AbstractURL": "https://teenline.org"
     },
     {
         "link": "https://jamecs.net",

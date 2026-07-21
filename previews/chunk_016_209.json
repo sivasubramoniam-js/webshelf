@@ -10,16 +10,6 @@
         "AbstractURL": "https://fnzox.cn"
     },
     {
-        "link": "https://probonoeconomics.com",
-        "Heading": "Home | PBE",
-        "Abstract": "We use economics to improve lives. Using economic analysis and unique insight from our connection to the social sector, we help charities, funders, firms and policymakers tackle the causes and consequences of low wellbeing in the UK. We are a charity think tank.",
-        "Official Site": "https://pbe.co.uk/",
-        "Icon": "https://pbe.co.uk/wp-content/uploads/2025/03/Support-us-block-1.png",
-        "Redirect": "https://pbe.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pbe.co.uk/"
-    },
-    {
         "link": "https://16winsaring.com",
         "Heading": "16WINS A RING | Basketball Blog & Reviews",
         "Abstract": "Review perlengkapan basket terbaik, tips bermain, dan panduan memilih hoop, sepatu, dan bola basket.",
@@ -220,6 +210,16 @@
         "AbstractURL": "https://sgsports.shop"
     },
     {
+        "link": "https://sitecompany.nl",
+        "Heading": "Sitecompany | Digital agency met een focus op groei",
+        "Abstract": "Online marketing diensten voor zzp'ers en het MKB. Samen werken aan online groei middels software en datagedreven strategie\u00ebn.",
+        "Official Site": "https://sitecompany.nl",
+        "Icon": "https://sitecompany.nl/content/favicon.ico",
+        "Redirect": "https://sitecompany.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sitecompany.nl"
+    },
+    {
         "link": "https://smokershome.de",
         "Heading": "Tabak Online Shop | Smokershome Tabakwaren kaufen",
         "Abstract": "Tabak Online Shop f\u00fcr Zigaretten, Zigarillos, E-Zigaretten & Liquids. Sicher bestellen mit Alterspr\u00fcfung & gratis Versand ab 100 \u20ac.",
@@ -261,12 +261,12 @@
     },
     {
         "link": "https://terryfator.com",
-        "Heading": "Terry Fator",
-        "Abstract": "Terry Fator Official Site",
-        "Official Site": "https://terryfator.com/",
-        "Icon": "https://terryfator.com/wp-content/uploads/2024/04/cropped-favicon-new-32x32.png",
-        "Redirect": "https://terryfator.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://terryfator.com",
+        "Icon": "data:;",
+        "Redirect": "https://terryfator.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://terryfator.com/"
+        "AbstractURL": "https://terryfator.com"
     }
 ]

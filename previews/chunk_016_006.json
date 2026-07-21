@@ -30,6 +30,16 @@
         "AbstractURL": "#/"
     },
     {
+        "link": "https://alsana.com",
+        "Heading": "Eating Disorder Treatment Programs | Alsana\u00ae",
+        "Abstract": "Looking for eating disorder treatment near you? Alsana\u00ae offers in-person and virtual eating disorder treatment for adults and adolescents. Learn more!",
+        "Official Site": "https://www.alsana.com/",
+        "Icon": "https://www.alsana.com/wp-content/uploads/2026/01/Alsana-Hero-26-scaled.jpg",
+        "Redirect": "https://www.alsana.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.alsana.com/"
+    },
+    {
         "link": "https://situshalal.com",
         "Heading": "situshalal.com | Unstoppable Domains | Unstoppable Domains",
         "Abstract": "situshalal.com \u2014 a premium domain name. Visit Unstoppable Domains for domain availability and pricing.",
@@ -191,10 +201,10 @@
     },
     {
         "link": "https://purpleday.org",
-        "Heading": "Purple Day \u2013 Supporting Epilepsy Around The World!",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://purpleday.org",
-        "Icon": "https://purpleday.org/wp-content/uploads/2020/08/cropped-favicon-purple-day-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://purpleday.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://purpleday.org"

@@ -31,10 +31,10 @@
     },
     {
         "link": "https://bootcamprankings.com",
-        "Heading": "Top Destination for Coding Bootcamp Rankings & Reviews | BootcampRankings",
-        "Abstract": "Discover best bootcamp reviews and rankings near you by skill and location. The most comprehesive list of bootcamps and job training programs.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://bootcamprankings.com",
-        "Icon": "https://bootcamprankings.com/wp-content/uploads/2022/06/favicon.png",
+        "Icon": "data:;",
         "Redirect": "https://bootcamprankings.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bootcamprankings.com"
@@ -150,6 +150,16 @@
         "AbstractURL": "https://goclicknext.com"
     },
     {
+        "link": "https://paintedbird.nz",
+        "Heading": "Distinctive, Original European Vintage Clothing and Accessories \u2013 Painted Bird Vintage Boutique & The Aviary",
+        "Abstract": "Discover rare original vintage clothing sourced from Europe and beyond. You'll find dresses, skirts, coats and jackets, handbags, accessories, jewelry, knitwear and more, all in new or near-new condition.",
+        "Official Site": "https://paintedbird.nz/",
+        "Icon": "http://paintedbird.nz/cdn/shop/files/SocialImage_0ba65083-3bc0-4a33-b043-7b8429d475ca_1200x630.jpg?v=1613780821",
+        "Redirect": "https://paintedbird.nz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://paintedbird.nz/"
+    },
+    {
         "link": "https://jeunes-agriculteurs.fr",
         "Heading": "Jeunes Agriculteurs - syndicat agricole",
         "Abstract": "JA est le seul syndicat agricole dont les responsables sont des agriculteurs \u00e2g\u00e9s de moins de 40 ans.",
@@ -171,13 +181,13 @@
     },
     {
         "link": "https://sgdrny.com",
-        "Heading": "DB\u89c6\u8baf\u00b7(\u4e2d\u56fd\u533a)\u5b98\u65b9\u7f51\u7ad9",
-        "Abstract": "DB\u89c6\u8baf\u00b7(\u4e2d\u56fd\u533a)\u5b98\u65b9\u7f51\u7ad9\u7cbe\u673a\uff08\u4e0a\u6d77\uff09\u6709\u9650\u516c\u53f8\u662fDB\u89c6\u8baf\u00b7(\u4e2d\u56fd\u533a)\u5b98\u65b9\u7f51\u7ad9\u96c6\u56e2\u65d7\u4e0b\u4f01\u4e1a\b\u0007\u0007\u0005\u0007\uff0c\u51ed\u501f\u4eab\u8a89\u5168\u7403\u7684\u5149\u5229\u7528\u6280\u672f\u548c\u7cbe\u5bc6\u6280\u672f\u0006\u0006\u0005\uff0c\u4e3a\u60a8\u63d0\u4f9b\u9002\u5408\u7684\u89e3\u51b3\u65b9\u6848\u548c\u670d\u52a1\u0006\b\u0006\u0005\u3002",
-        "Official Site": "/",
-        "Icon": "http://preprod.nikon-precision.com.cn/wp-content/uploads/og-nikon-logo.jpg",
-        "Redirect": "/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sgdrny.com",
+        "Icon": "N/A",
+        "Redirect": "https://sgdrny.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "/"
+        "AbstractURL": "https://sgdrny.com"
     },
     {
         "link": "https://visualslim.com.br",

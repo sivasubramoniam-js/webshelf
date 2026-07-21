@@ -181,23 +181,33 @@
     },
     {
         "link": "https://muskokabrewery.com",
-        "Heading": "Muskoka Brewery - Muskoka Brewery crafts beverages as refreshing as the region we\u2019re from.",
-        "Abstract": "Our signature lineup! Explore our collection of best-selling easy drinking beers crafted with the spirit of the outdoors. ... Crafted for any occasion. Refreshing ...",
-        "Official Site": "https://muskokabrewery.com/",
-        "Icon": "https://muskokabrewery.com/app/themes/muskoka/public/images/favicon-32x32.png",
-        "Redirect": "https://muskokabrewery.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://muskokabrewery.com",
+        "Icon": "data:;",
+        "Redirect": "https://muskokabrewery.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://muskokabrewery.com/"
+        "AbstractURL": "https://muskokabrewery.com"
     },
     {
         "link": "https://starfootspa.com",
         "Heading": "Welcome to Star Spa - Star Foot Spa - Las Vegas largest Foot Spa Center",
         "Abstract": "Imagine stepping into a world of pure relaxation, where every stress and tension in your body melts away. At Star Spa, we offer the perfect trio for total",
         "Official Site": "https://starfootspa.com/",
-        "Icon": "N/A",
+        "Icon": "https://starfootspa.com/wp-content/uploads/2026/07/cropped-Actions-rating-icon-32x32.png",
         "Redirect": "https://starfootspa.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://starfootspa.com/"
+    },
+    {
+        "link": "https://cosmopart.ru",
+        "Heading": "Access Denied",
+        "Abstract": null,
+        "Official Site": "https://cosmopart.ru",
+        "Icon": "N/A",
+        "Redirect": "https://cosmopart.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cosmopart.ru"
     },
     {
         "link": "https://videomuseum.fr",

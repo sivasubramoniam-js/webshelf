@@ -140,16 +140,6 @@
         "AbstractURL": "https://cktc.edu"
     },
     {
-        "link": "https://der-deutsche-innovationspreis.de",
-        "Heading": "Der Deutsche Innovationspreis \u2013 Preisverleihung 2026 - Der Deutsche Innovationspreis",
-        "Abstract": "Der Deutsche Innovationspreis wird seit 2010 an erfolgreiche Unternehmen vergeben, die mit ihrer Innovationskraft zur Unabh\u00e4ngigkeit Deutschlands und Europas im globalen Wettbewerb beitragen.",
-        "Official Site": "https://der-deutsche-innovationspreis.de/",
-        "Icon": "https://der-deutsche-innovationspreis.de/wp-content/uploads/2024/03/favicon.png",
-        "Redirect": "https://der-deutsche-innovationspreis.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://der-deutsche-innovationspreis.de/"
-    },
-    {
         "link": "https://x3-shadow.sbs",
         "Heading": "Loading...",
         "Abstract": null,
@@ -178,6 +168,16 @@
         "Redirect": "https://bad-saulgau.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bad-saulgau.de"
+    },
+    {
+        "link": "https://shabrangmobile.com",
+        "Heading": "\u00a0\u0634\u0628\u0631\u0646\u06af \u0645\u0648\u0628\u0627\u06cc\u0644",
+        "Abstract": "\u0628\u0627 \u0634\u0628\u0631\u0646\u06af \u0645\u0648\u0628\u0627\u06cc\u0644 \u0628\u0627 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u0633\u0631\u0627\u0633\u0631 \u062c\u0647\u0627\u0646 \u0622\u0646\u0644\u0627\u06cc\u0646 \u0628\u0627\u0632\u06cc \u06a9\u0646\u06cc\u062f.",
+        "Official Site": "https://shabrangmobile.com/",
+        "Icon": "http://shabrangmobile.com/blog/shabrang.png",
+        "Redirect": "https://shabrangmobile.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shabrangmobile.com/"
     },
     {
         "link": "https://dubaiclassifieds.org",
@@ -241,13 +241,13 @@
     },
     {
         "link": "https://dondeestudiar.eu",
-        "Heading": "\u25b7 DondeEstudiar: Buscador de Cursos, Masters y Grados",
-        "Abstract": "Encuentra en DondeEstudiar.eu los mejores centros donde estudiar cursos, m\u00e1sters, oposiciones, formaci\u00f3n profesional y grados de Espa\u00f1a.",
-        "Official Site": "https://dondeestudiar.eu/",
-        "Icon": "https://dondeestudiar.eu/wp-content/uploads/2023/12/dest-de.png",
-        "Redirect": "https://dondeestudiar.eu/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://dondeestudiar.eu",
+        "Icon": "data:;",
+        "Redirect": "https://dondeestudiar.eu",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dondeestudiar.eu/"
+        "AbstractURL": "https://dondeestudiar.eu"
     },
     {
         "link": "https://kanpoo.jp",

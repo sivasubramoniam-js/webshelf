@@ -60,16 +60,6 @@
         "AbstractURL": "https://www.jejoue.com/"
     },
     {
-        "link": "https://home-download-kering.com",
-        "Heading": "home-download-kering.com",
-        "Abstract": null,
-        "Official Site": "https://home-download-kering.com",
-        "Icon": "N/A",
-        "Redirect": "https://home-download-kering.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://home-download-kering.com"
-    },
-    {
         "link": "https://webnettel.com.br",
         "Heading": "Webnet \u2013 AGORA VOC\u00ca TEM A MELHOR INTERNET COM MAIS VELOCIDADE E PAGANDO MENOS!",
         "Abstract": null,
@@ -101,13 +91,23 @@
     },
     {
         "link": "https://penguinpoint.com",
-        "Heading": "\n        ALEXISTOGEL : Live Draw HK Lotto | Togel Hongkong Pools | Live Result Data Pengeluaran HK 2026\n    ",
-        "Abstract": "Pantau informasi Live Draw HK Lotto, hasil Hongkong Pools, Live Result HK, serta arsip Data Pengeluaran HK 2026 melalui halaman ALEXISTOGEL yang tersusun rapi, mudah dibaca, dan diperbarui secara berkala.",
-        "Official Site": "https://talizat.net/",
-        "Icon": "https://kilat.digital/images/2026/06/29/8d30ad4376637bedd68dbb084310cc00.jpg",
-        "Redirect": "https://talizat.net/",
+        "Heading": "ALEXISTOGEL > Live Draw HK Lotto Hari Ini & Data Result Togel Hongkong Pools Terbaru\n    ",
+        "Abstract": "ALEXISTOGEL menghadirkan Live Draw HK Lotto Hari Ini & Data Result Togel Hongkong Pools Terbaru dengan informasi hasil Hongkong terkini, data keluaran lengkap, jadwal live draw, dan tampilan responsif yang mudah diakses melalui desktop maupun perangkat mobile.",
+        "Official Site": "https://www.schubert-motors-giro.de/",
+        "Icon": "https://www.schubert-motors-giro.de/img/live-draw-hk-lotto.png",
+        "Redirect": "https://www.schubert-motors-giro.de/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://talizat.net/"
+        "AbstractURL": "https://www.schubert-motors-giro.de/"
+    },
+    {
+        "link": "https://swarm-intelligence.app",
+        "Heading": "Swarm Intelligence",
+        "Abstract": null,
+        "Official Site": "https://swarm-intelligence.app",
+        "Icon": "/icon.png",
+        "Redirect": "https://swarm-intelligence.app",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://swarm-intelligence.app"
     },
     {
         "link": "https://scoutbee.com",

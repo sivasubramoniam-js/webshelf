@@ -61,10 +61,10 @@
     },
     {
         "link": "https://grupocompumas.com.mx",
-        "Heading": "Grupo Compumas",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://grupocompumas.com.mx",
-        "Icon": "images/logo_solo_trans-P1.png",
+        "Icon": "data:;",
         "Redirect": "https://grupocompumas.com.mx",
         "AbstractSource": "BS4",
         "AbstractURL": "https://grupocompumas.com.mx"
@@ -178,6 +178,16 @@
         "Redirect": "https://cmcelectronics.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cmcelectronics.ca/"
+    },
+    {
+        "link": "https://mairie-chateaubriant.fr",
+        "Heading": "Mairie de Ch\u00e2teaubriant",
+        "Abstract": "Site officiel de la mairie de Ch\u00e2teaubriant",
+        "Official Site": "https://mairie-chateaubriant.fr",
+        "Icon": "https://www.mairie-chateaubriant.fr/wp-content/themes/chateaubriant/images/favicon.png",
+        "Redirect": "https://mairie-chateaubriant.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mairie-chateaubriant.fr"
     },
     {
         "link": "https://nextwebplus.com",

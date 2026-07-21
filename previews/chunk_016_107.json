@@ -104,7 +104,7 @@
         "Heading": "Why Australia Is Leading in Sustainable Educational Practices | Sock Raina",
         "Abstract": "Explore Australia's educational innovations in sustainability, project-based learning, and technology integration, fostering eco-conscious, critical thinkers prepared for future challenges through hands-on experiences.",
         "Official Site": "https://www.sockraina.com/",
-        "Icon": "1108",
+        "Icon": "125",
         "Redirect": "https://www.sockraina.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sockraina.com/"
@@ -210,6 +210,26 @@
         "AbstractURL": "https://jeuxx-gratuit.fr/"
     },
     {
+        "link": "https://onimaru-1.asia",
+        "Heading": "Low Cost, High Performance S3 Compatible Object Storage",
+        "Abstract": "Backblaze B2 provides unlimited data storage in the cloud at 1/5th the cost of Amazon S3, Microsoft Azure, and Google Cloud.",
+        "Official Site": "https://onimaru-1.asia",
+        "Icon": "https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64b1b1605e73b516e5712f82_Backblaze_Social-Card.webp",
+        "Redirect": "https://onimaru-1.asia",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onimaru-1.asia"
+    },
+    {
+        "link": "https://bighatstore.com",
+        "Heading": "\n      Big Hats | Shop the Best Big Hats for Big Heads in All Sizes\n \u2013 BigHatStore",
+        "Abstract": "Shop big hats for big heads (2XL\u20135XL). Find baseball, golf, fedora, bucket & more. Comfortable, stylish fits from size 7 \u00bd to 9.",
+        "Official Site": "https://bighatstore.com/",
+        "Icon": "//bighatstore.com/cdn/shop/files/favicon.png?crop=center&height=32&v=1613708448&width=32",
+        "Redirect": "https://bighatstore.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bighatstore.com/"
+    },
+    {
         "link": "https://emotionalaffair.org",
         "Heading": "Emotional Affair Journey",
         "Abstract": "Emotional Affair Journey is here to support your recovery and healing after an affair with real-life practical advice and support.",
@@ -241,13 +261,23 @@
     },
     {
         "link": "https://sabhlokcity.com",
-        "Heading": "Sanjeev Sabhlok's blog \u2013 Thoughts on economics and liberty",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://sabhlokcity.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://sabhlokcity.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sabhlokcity.com"
+    },
+    {
+        "link": "https://julesborel.com",
+        "Heading": "Jules Borel & Co. | Serving Watchmakers & Jewelers",
+        "Abstract": "Jules Borel & Co. is your source for high-end watch and jewelry equipment and supplies. We offer a comprehensive supply of watch materials including movements, crystals, case parts and watch materials, plus findings and batteries. We offer you the most advanced tools and equipment in the watchmaking industry.",
+        "Official Site": "https://julesborel.com/",
+        "Icon": "https://julesborel.com/cdn/shop/files/jb-social-share-tinified_1200x.png?v=1759853433",
+        "Redirect": "https://julesborel.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://julesborel.com/"
     },
     {
         "link": "https://amethystrecovery.org",
@@ -288,15 +318,5 @@
         "Redirect": "https://bitcapitalholding.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bitcapitalholding.com"
-    },
-    {
-        "link": "https://butthun.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://butthun.com",
-        "Icon": "N/A",
-        "Redirect": "https://butthun.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://butthun.com"
     }
 ]

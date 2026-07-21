@@ -40,6 +40,16 @@
         "AbstractURL": "https://cehuibbs.com/"
     },
     {
+        "link": "https://tradesphereinternational.com",
+        "Heading": "Trade Sphere International",
+        "Abstract": "Trade Sphere International LIMITED???\nINVEST IN A LEADING\nTRADE AND INVESTMENT\nCOMPANY, OPERATING IN\nTHE UK. \nSERVICES INCLUDE: FOREX TRADING\nCRYPTOCURRENCIES, STOCKS & COMMODITIES INVESTMENTS. OIL & GAS, REAL ESTATE INVESTMENTS, MARKET\nRESEARCH AND ANALYSIS:\nASSISTING BOTH INDIVIDUALS & COMPANIES INVEST IN THE \nCOMMERCIAL MARKET.TRAINING CLIENTS & INVESTORS TO BECOME\nEXPERTISE.???",
+        "Official Site": "https://tradesphereinternational.com",
+        "Icon": "https://tradesphereinternational.com/storage/app/public/photos/jlJZ3JaN5Dy3VpbUzvww99NkWZkURBcFNOF3ruR8.png",
+        "Redirect": "https://tradesphereinternational.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tradesphereinternational.com"
+    },
+    {
         "link": "https://fly-foto.de",
         "Heading": "FLY-FOTO.de: Online-Luftbildarchiv und Luftbildservice",
         "Abstract": "Profi-Luftbildservice und Online-Luftbildarchiv FLY-FOTO",
@@ -71,13 +81,13 @@
     },
     {
         "link": "https://motoskills.it",
-        "Heading": "Motoskills \u2013 Corsi di guida sicura per moto e scooter",
-        "Abstract": "Corsi di guida sicura per moto e scooter, tecnica, cultura motociclistica e approfondimenti per guidare meglio e in modo consapevole.",
-        "Official Site": "https://motoskills.it/",
-        "Icon": "https://motoskills.it/wp-content/uploads/2020/01/cropped-faviconMotoSkills_2-01-1-32x32.png",
-        "Redirect": "https://motoskills.it/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://motoskills.it",
+        "Icon": "data:;",
+        "Redirect": "https://motoskills.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://motoskills.it/"
+        "AbstractURL": "https://motoskills.it"
     },
     {
         "link": "https://gavb79.com",
@@ -108,16 +118,6 @@
         "Redirect": "https://wearecascais.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wearecascais.com"
-    },
-    {
-        "link": "https://fkino.fun",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://fkino.fun",
-        "Icon": "N/A",
-        "Redirect": "https://fkino.fun",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fkino.fun"
     },
     {
         "link": "https://vintnersdaughter.com",
@@ -261,12 +261,12 @@
     },
     {
         "link": "https://lasercleaner.com",
-        "Heading": "Laser Cleaning Machines \u2013 Portable & Industrial | LaserCleaner",
-        "Abstract": "Explore high-performance laser cleaning machines for rust, paint & oil removal. Portable & industrial models by lasercleaner. Shop now.",
-        "Official Site": "https://www.lasercleaner.com/",
-        "Icon": "https://www.lasercleaner.com/wp-content/uploads/2023/11/cropped-LASER-CLEANER-ICON-32x32.jpg",
-        "Redirect": "https://www.lasercleaner.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lasercleaner.com",
+        "Icon": "data:;",
+        "Redirect": "https://lasercleaner.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lasercleaner.com/"
+        "AbstractURL": "https://lasercleaner.com"
     }
 ]
