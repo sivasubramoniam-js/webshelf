@@ -80,6 +80,16 @@
         "AbstractURL": "https://68winhu.com/"
     },
     {
+        "link": "https://bison-studio.com",
+        "Heading": "Bison Studio | Web Design, Development & Automation Agency Malta",
+        "Abstract": "Bison studio is an award-winning digital agency in Malta. We are experts in website design, web development, eCommerce and digital marketing.",
+        "Official Site": "https://bison.studio/",
+        "Icon": "https://bison.studio/wp-content/uploads/2021/11/Sharing-image-1.jpg",
+        "Redirect": "https://bison.studio/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bison.studio/"
+    },
+    {
         "link": "https://fslaser.com",
         "Heading": "Laser Engravers, Cutters & Marking Systems | FSL",
         "Abstract": "Full Spectrum Laser designs and builds professional laser cutting, engraving, and marking systems in Las Vegas, USA \u2014 CO2, fiber, and UV galvo lasers with USA-based support.",
@@ -101,30 +111,20 @@
     },
     {
         "link": "https://nbrcxv.cn",
-        "Heading": "\u8acb\u622a\u5716\u4fdd\u5b58\u5230\u76f8\u518a-\u65b0\u7db2\u5740",
-        "Abstract": null,
-        "Official Site": "https://nbrcxv.cn",
-        "Icon": "N/A",
-        "Redirect": "https://nbrcxv.cn",
+        "Heading": "\u542b\u7f9e\u8349\u4f20\u5a92 - \u9ad8\u6e05\u5f71\u89c6\u89c6\u9891\u5206\u4eab\u5e73\u53f0\uff5c\u77ed\u5267\u5408\u96c6\uff5c\u539f\u521b\u5185\u5bb9\u63a8\u8350",
+        "Abstract": "\u6b22\u8fce\u8bbf\u95ee(www.nbrcxv.cn)\u542b\u7f9e\u8349\u4f20\u5a92\u4e13\u6ce8\u4e8e\u9ad8\u6e05\u5f71\u89c6\u4e0e\u539f\u521b\u89c6\u9891\u5185\u5bb9\u5206\u4eab\uff0c\u63d0\u4f9b\u70ed\u95e8\u77ed\u5267\u3001\u7cbe\u54c1\u89c6\u9891\u3001\u539f\u521b\u5f71\u50cf\u53ca\u591a\u7c7b\u578b\u89c6\u9891\u5408\u96c6\uff0c\u652f\u6301\u591a\u7aef\u6d41\u7545\u64ad\u653e\u4e0e\u5feb\u901f\u8bbf\u95ee\uff0c\u5185\u5bb9\u6301\u7eed\u66f4\u65b0\uff0c\u4e3a\u7528\u6237\u5e26\u6765\u7a33\u5b9a\u4fbf\u6377\u7684\u5728\u7ebf\u89c2\u5f71\u4f53\u9a8c\u3002",
+        "Official Site": "https://www.nbrcxv.cn/",
+        "Icon": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'><circle cx='20' cy='20' r='18' fill='#ffb648'/></svg>",
+        "Redirect": "https://www.nbrcxv.cn/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nbrcxv.cn"
-    },
-    {
-        "link": "https://pken.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://pken.com",
-        "Icon": "N/A",
-        "Redirect": "https://pken.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pken.com"
+        "AbstractURL": "https://www.nbrcxv.cn/"
     },
     {
         "link": "https://46kua.com",
-        "Heading": "\u98d8\u82b1\u7535\u5f71\u7f51-\u98d8\u82b1\u8fc5\u96f7\u7535\u5f71\u4e0b\u8f7d\u7f51,2026\u6700\u65b0\u98d8\u82b1\u7535\u5f71\u9662\u624b\u673a\u7f51\u5728\u7ebf\u89c2\u770b",
+        "Heading": "\u98d8\u82b1\u7535\u5f71\u7f51-\u98d8\u82b1\u8fc5\u96f7\u7535\u5f71\u4e0b\u8f7d\u7f51,2026\u98d8\u82b1\u7535\u5f71\u9662\u624b\u673a\u7f51\u5728\u7ebf\u89c2\u770b",
         "Abstract": "\u63d0\u4f9b\u6700\u65b0\u6700\u5feb\u7684\u5f71\u89c6\u8d44\u8baf\u548c\u5728\u7ebf\u64ad\u653e",
         "Official Site": "https://46kua.com",
-        "Icon": "N/A",
+        "Icon": "favicon.ico",
         "Redirect": "https://46kua.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://46kua.com"

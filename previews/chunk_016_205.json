@@ -1,13 +1,13 @@
 [
     {
         "link": "https://ourhenhouse.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ourhenhouse.org",
-        "Icon": "data:;",
-        "Redirect": "https://ourhenhouse.org",
+        "Heading": "Our Hen House \u2013 Change the World for Animals",
+        "Abstract": "Change the World for Animals",
+        "Official Site": "https://www.ourhenhouse.org",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://www.ourhenhouse.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ourhenhouse.org"
+        "AbstractURL": "https://www.ourhenhouse.org"
     },
     {
         "link": "https://digitalmediawomen.de",
@@ -174,7 +174,7 @@
         "Heading": "Weave - AI to measure engineers and agents",
         "Abstract": " Weave combines LLMs and domain-specific machine learning to understand engineering work. We understand how much work was done by AI vs. humans. How much AI is helping your team ship faster, if it's having an impact on code quality and code reviews.",
         "Official Site": "https://weaveos.com/",
-        "Icon": "https://framerusercontent.com/images/UAWlBqgQ9KQljrpb3ruIUgMqBEE.png",
+        "Icon": "https://framerusercontent.com/images/p5qMgz1CNoSEwTYZY4MVjlBRZg.png",
         "Redirect": "https://weaveos.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://weaveos.com/"

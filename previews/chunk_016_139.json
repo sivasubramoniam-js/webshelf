@@ -70,16 +70,6 @@
         "AbstractURL": "https://a-gems.com/"
     },
     {
-        "link": "https://transrisk.net",
-        "Heading": "TransRisk - A Market Risk Management Software ",
-        "Abstract": "TransRisk, risk management software and a decision-enabling business intelligence tool helps measure and manage risk of the enterprises.",
-        "Official Site": "https://transrisk.net",
-        "Icon": "images/logo_tst.png",
-        "Redirect": "https://transrisk.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://transrisk.net"
-    },
-    {
         "link": "https://oddpp.com",
         "Heading": "\u6e38\u620f\u6dd8\u5b9d\u6e7e\u7f51\u6e38\u4ea4\u6d41\u793e\u533a | \u6e38\u620f\u6dd8\u5b9d\u6e7e\u7f51\u6e38\u5355\u673a\u67b6\u8bbe\u8bba\u575b",
         "Abstract": "\u6e38\u620f\u6dd8\u5b9d\u6e7e\u7f51\u6e38\u4ea4\u6d41\u793e\u533a\u662f\u6700\u4e13\u4e1a\u7684\u7f51\u5355\u8bba\u575b,\u4e2d\u56fd\u7684\u7f51\u5355\u53d1\u6e90\u5730,\u62e5\u6709\u6570\u767e\u79cd\u79cd\u7c7b\u7e41\u591a\u7684\u7f51\u7edc\u6e38\u620f\u5355\u673a\u7248\u8d44\u6e90,\u5e76\u63d0\u4f9b\u6e38\u620f\u67b6\u8bbe\u5b89\u88c5\u5e2e\u52a9\u4ee5\u53ca\u8ba8\u8bba\u7b49! ",
@@ -151,13 +141,13 @@
     },
     {
         "link": "https://insighto.ai",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://insighto.ai",
-        "Icon": "data:;",
-        "Redirect": "https://insighto.ai",
+        "Heading": "Automate Calls & Chat with Insighto AI Agents",
+        "Abstract": "Never miss a customer with Insighto's 24/7 AI phone call & chat agents. Lower support costs significantly. Quick setup, no coding required. Get Start Free",
+        "Official Site": "https://insighto.ai/",
+        "Icon": "https://insighto.ai/wp-content/uploads/2024/09/Insighto.ai_.webp",
+        "Redirect": "https://insighto.ai/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://insighto.ai"
+        "AbstractURL": "https://insighto.ai/"
     },
     {
         "link": "https://centralsquarerecords.com",

@@ -90,16 +90,6 @@
         "AbstractURL": "https://disabilitystatistics.org"
     },
     {
-        "link": "https://websequel.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://websequel.com",
-        "Icon": "https://websequel.com/wp-content/uploads/2024/01/2.png",
-        "Redirect": "https://websequel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://websequel.com"
-    },
-    {
         "link": "https://roaditsolutions.com",
         "Heading": "Road IT Solutions \u2013 IT Solutions",
         "Abstract": null,
@@ -128,16 +118,6 @@
         "Redirect": "https://audience2media.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://audience2media.com"
-    },
-    {
-        "link": "https://tashsultana.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://tashsultana.com",
-        "Icon": "data:;",
-        "Redirect": "https://tashsultana.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tashsultana.com"
     },
     {
         "link": "https://lopinionista.it",
@@ -181,13 +161,13 @@
     },
     {
         "link": "https://gardenandgreenhouse.net",
-        "Heading": null,
+        "Heading": "Home \u00bb Garden & Greenhouse",
         "Abstract": null,
-        "Official Site": "https://gardenandgreenhouse.net",
-        "Icon": "data:;",
-        "Redirect": "https://gardenandgreenhouse.net",
+        "Official Site": "https://www.gardenandgreenhouse.net/",
+        "Icon": "https://www.gardenandgreenhouse.net/wp-content/uploads/2023/07/dreamstime_l_182244679-1024x683.jpg",
+        "Redirect": "https://www.gardenandgreenhouse.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gardenandgreenhouse.net"
+        "AbstractURL": "https://www.gardenandgreenhouse.net/"
     },
     {
         "link": "https://my-stim.ru",

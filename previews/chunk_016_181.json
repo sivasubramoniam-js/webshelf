@@ -190,16 +190,6 @@
         "AbstractURL": "https://www.uryde.de/"
     },
     {
-        "link": "https://meisei-yamada.jp",
-        "Heading": "\u307f\u3093\u306a\u306eFX\u306e\u7279\u5fb4\u3068\u8a55\u5224\u3092\u5fb9\u5e95\u89e3\u8aac",
-        "Abstract": "\u307f\u3093\u306a\u306eFX\u306e\u53d6\u5f15\u74b0\u5883\u3084\u30b9\u30d7\u30ec\u30c3\u30c9\u3001\u30b9\u30ef\u30c3\u30d7\u30dd\u30a4\u30f3\u30c8\u3001\u53d6\u5f15\u30c4\u30fc\u30eb\u3001\u81ea\u52d5\u58f2\u8cb7\u30b5\u30fc\u30d3\u30b9\u307e\u3067\u3092\u8a73\u3057\u304f\u89e3\u8aac\u3057\u307e\u3059\u3002\u521d\u5fc3\u8005\u3067\u3082\u5b89\u5fc3\u3057\u3066\u59cb\u3081\u3089\u308c\u308b\u7406\u7531\u3084\u3001\u53e3\u5ea7\u958b\u8a2d\u306e\u6d41\u308c\u3001\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u30fb\u7279\u5178\u60c5\u5831\u3002",
-        "Official Site": "https://meisei-yamada.jp/",
-        "Icon": "https://meisei-yamada.jp/wp-content/uploads/2025/12/topmv_pc.webp",
-        "Redirect": "https://meisei-yamada.jp/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://meisei-yamada.jp/"
-    },
-    {
         "link": "https://gerster.eu",
         "Heading": "Domain Default Page",
         "Abstract": null,
@@ -251,13 +241,13 @@
     },
     {
         "link": "https://teenline.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://teenline.org",
-        "Icon": "data:;",
-        "Redirect": "https://teenline.org",
+        "Heading": "Teen Line: Confidential Teen Crisis Hotline & Support",
+        "Abstract": "Connect with Teen Line at Didi Hirsch for peer-to-peer mental health support. Teens helping teens navigate challenges with understanding and care.",
+        "Official Site": "https://didihirsch.org/teenline/",
+        "Icon": "https://didihirsch.org/wp-content/uploads/2025/08/Group-of-four-teen-smiling-and-taking-a-selfie-outdoors-showing-peace-sign-v2.webp",
+        "Redirect": "https://didihirsch.org/teenline/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://teenline.org"
+        "AbstractURL": "https://didihirsch.org/teenline/"
     },
     {
         "link": "https://jamecs.net",

@@ -130,21 +130,11 @@
         "AbstractURL": "https://xn--90aciaj4ak4bd5ao.xn--p1ai"
     },
     {
-        "link": "https://codethemes.co",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://codethemes.co",
-        "Icon": "data:;",
-        "Redirect": "https://codethemes.co",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://codethemes.co"
-    },
-    {
         "link": "https://smartglobalinc.com",
-        "Heading": "smartglobalinc.com",
+        "Heading": "Human verification",
         "Abstract": null,
         "Official Site": "https://smartglobalinc.com",
-        "Icon": "styles/assets/images/favicon.png",
+        "Icon": "N/A",
         "Redirect": "https://smartglobalinc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://smartglobalinc.com"
@@ -200,16 +190,6 @@
         "AbstractURL": "https://www.thekennedyforum.org/"
     },
     {
-        "link": "https://kbpnn.cn",
-        "Heading": "\u67ec\u57d4\u5be8\u4ee3\u5de5\u70df\u662f\u771f\u70df\u561b\u4f9b\u5e94\u4e2d\u5fc3_\u63d0\u4f9b\u4f18\u8d28\u514d\u7a0e\u5916\u70df\u53ca\u56fd\u70df\u76f4\u9500 - \u540d\u77f3\u523b\u9999\u70df\u7f51",
-        "Abstract": "\u6b22\u8fce\u6765\u5230\u67ec\u57d4\u5be8\u4ee3\u5de5\u70df\u662f\u771f\u70df\u561b\u5b98\u65b9\u5e73\u53f0\u3002\u6211\u4eec\u6df1\u8015\u884c\u4e1a\u591a\u5e74\uff0c\u4e3a\u60a8\u63d0\u4f9b\u7a33\u5b9a\u3001\u9760\u8c31\u7684\u4e00\u624b\u8d27\u6e90\u6e20\u9053\u3002\u6240\u6709\u4ea7\u54c1\u652f\u6301\u4e00\u4ef6\u4ee3\u53d1\uff0c\u4e0d\u8bba\u60a8\u662f\u5fae\u5546\u8fd8\u662f\u5b9e\u4f53\u5e97\u4e3b\uff0c\u90fd\u80fd\u5728\u8fd9\u91cc\u627e\u5230\u6700\u6ee1\u610f\u7684\u5408\u4f5c\u65b9\u6848\u3002",
-        "Official Site": "http://kbpnn.cn",
-        "Icon": "https://kbpnn.cn/favicon.ico",
-        "Redirect": "http://kbpnn.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://kbpnn.cn"
-    },
-    {
         "link": "https://accentguinee.com",
         "Heading": "Accentguinee \u2013 L'info c'est ici",
         "Abstract": null,
@@ -248,6 +228,16 @@
         "Redirect": "https://www.dmmverlag.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.dmmverlag.de"
+    },
+    {
+        "link": "https://biomas.it",
+        "Heading": "Home - BIOMAS",
+        "Abstract": "BIOMAS offre soluzioni IT avanzate per aziende. Specializzati in cybersecurity, integrazione di sistemi, assistenza remota e backup, garantiamo servizi efficienti e sicuri. Affidati alla nostra solida esperienza nel settore per potenziare la tua infrastruttura IT",
+        "Official Site": "https://www.biomas.it/",
+        "Icon": "https://www.biomas.it/wp-content/uploads/2022/08/Home.jpg",
+        "Redirect": "https://www.biomas.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.biomas.it/"
     },
     {
         "link": "https://amtelserv.ru",

@@ -31,10 +31,10 @@
     },
     {
         "link": "https://papanlesat.com",
-        "Heading": "papanlesat.com",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://papanlesat.com",
-        "Icon": "/favicon.ico?favicon.1rn0psfgx4iz_.ico",
+        "Icon": "N/A",
         "Redirect": "https://papanlesat.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://papanlesat.com"
@@ -48,16 +48,6 @@
         "Redirect": "https://pathfindersji.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pathfindersji.org/"
-    },
-    {
-        "link": "https://patioandpizza.com",
-        "Heading": "Best Wood Fired Pizza Ovens & Outdoor Pizza Oven Kits",
-        "Abstract": "Best Outdoor Pizza Ovens, Gas Pizza Ovens, Outdoor DIY Oven Kits, and Commercial Pizza Ovens at Patio & Pizza in Jacksonville, Florida. Free US shipping!",
-        "Official Site": "https://www.patioandpizza.com/",
-        "Icon": "https://www.patioandpizza.com/cdn/shop/files/Patio_Pizza_1200_618a2983-b6ec-4b4b-985c-560f17290365_1200x.jpg?v=1738912354",
-        "Redirect": "https://www.patioandpizza.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.patioandpizza.com/"
     },
     {
         "link": "https://petronesia.co.id",
@@ -88,16 +78,6 @@
         "Redirect": "https://pigeonfi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pigeonfi.com"
-    },
-    {
-        "link": "https://pjkaisidun.com",
-        "Heading": "\u97e9\u5267TV\u7f51 - \u9996\u9875",
-        "Abstract": "\u97e9\u5267TV\u7f51\uff0c\u9752\u67e0\u5f71\u9662\uff0c\u5c0f\u5c0f\u5f71\u89c6\uff0c\u65e5\u5267\u7f51\u5206\u4eab\u6700\u65b0\u9ad8\u6e05\u7535\u5f71\u7535\u89c6\u5267\u3001\u4f26\u7406\u7247\u3001\u7efc\u827a\u3001\u7f8e\u5267\u3001\u97e9\u5267\u3001\u82f1\u5267\u3001\u65e5\u5267\u7b49\u8fc5\u96f7\u4e0b\u8f7d\uff0c\u7b49\u8d44\u6e90\u5728\u7ebf\u89c2\u770b\uff01",
-        "Official Site": "http://pjkaisidun.com/",
-        "Icon": "/favicon.ico",
-        "Redirect": "http://pjkaisidun.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://pjkaisidun.com/"
     },
     {
         "link": "https://plgestatesinc.com",
@@ -160,16 +140,6 @@
         "AbstractURL": "https://waltersmithgroup.info/"
     },
     {
-        "link": "https://predictive-oncology.com",
-        "Heading": "Home - Predictive Oncology",
-        "Abstract": "Welcome to Predictive Oncology The leading edge of a new frontier in drug discovery Integrating scientific rigor with machine learning \u2022 Overcoming challenges of clinical trials \u2022 Improving the probability of success \u2022 Collaborating with partners in biopharma \u2022 Advancing molecules to medicine with confidence and accuracy Connect with us Changing the game in drug [\u2026]",
-        "Official Site": "https://predictive-oncology.com/",
-        "Icon": "https://predictive-oncology.com/wp-content/uploads/2021/06/Virus-more-blur-e1622754667427.png",
-        "Redirect": "https://predictive-oncology.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://predictive-oncology.com/"
-    },
-    {
         "link": "https://pritishpurav.in",
         "Heading": "Pritish Purav",
         "Abstract": "Software Developer with 5+ years of experience in tech, 430+ open-source contributions. Specializing in web development, databases, AI/ML, and cloud computing.",
@@ -191,12 +161,12 @@
     },
     {
         "link": "https://prokidney.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://prokidney.com",
-        "Icon": "data:;",
-        "Redirect": "https://prokidney.com",
+        "Heading": "ProKidney - Pioneers in the Treatment of Chronic Kidney Disease",
+        "Abstract": "Transforming the Future of Chronic Kidney Disease Treatment Preserving Kidney Function in Patients at High Risk of Kidney Failure LEARN MORE ProKidney (NASDAQ: PROK) is a late-clinical-stage biotechnology company pioneering a novel autologous cell therapy designed to preserve kidney function in patients with advanced chronic kidney disease (CKD) at high risk of kidney failure, a ... Read more",
+        "Official Site": "https://prokidney.com/",
+        "Icon": "https://prokidney.com/wp-content/uploads/Home-Hero-old-man-v5.jpg",
+        "Redirect": "https://prokidney.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://prokidney.com"
+        "AbstractURL": "https://prokidney.com/"
     }
 ]

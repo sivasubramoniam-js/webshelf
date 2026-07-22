@@ -94,7 +94,7 @@
         "Heading": "Loading... Please wait.",
         "Abstract": null,
         "Official Site": "https://redirect104.com",
-        "Icon": "/uploads/upload/favicon-vstar.png?v=c168a614e5809bdb1a73974b225af22720cebde5",
+        "Icon": "/uploads/upload/favicon-vstar.png?v=00225aae58b4c02b7ec4cc4b0601c297de16c61e",
         "Redirect": "https://redirect104.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://redirect104.com"
@@ -108,6 +108,16 @@
         "Redirect": "https://nauchka.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nauchka.ru"
+    },
+    {
+        "link": "https://tileprosource.com",
+        "Heading": "Tile ProSource | Best Tile Tools Store & Tiling Materials",
+        "Abstract": "At Tile ProSource, We Offer a Wide Selection of Tile Tools Including Leveling Systems, Blades, Spacers, Cutters & More. Shop Tile Tools Online Today!",
+        "Official Site": "https://www.tileprosource.com/",
+        "Icon": "https://www.tileprosource.com/cdn/shop/files/Logo_512x512_-_Alt_250x250_3dab2b2d-0ba3-4361-b8ea-42adabec9774_1200x1200.svg?v=1753722867",
+        "Redirect": "https://www.tileprosource.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tileprosource.com/"
     },
     {
         "link": "https://bituproof.com.tr",
@@ -170,16 +180,6 @@
         "AbstractURL": "https://tshirtatlowprice.com/"
     },
     {
-        "link": "https://mdou15.ru",
-        "Heading": "Just a moment...",
-        "Abstract": null,
-        "Official Site": "https://mdou15.ru",
-        "Icon": "N/A",
-        "Redirect": "https://mdou15.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mdou15.ru"
-    },
-    {
         "link": "https://wherebly.com",
         "Heading": "Wherebly \u2013 Friendly Dining & Food Reviews",
         "Abstract": "Find welcoming restaurants and caf\u00e9s with Wherebly. Share reviews, discover friendly spots, and enjoy food experiences made for comfort and community.",
@@ -201,13 +201,13 @@
     },
     {
         "link": "https://greatyorkshireshow.co.uk",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://greatyorkshireshow.co.uk",
-        "Icon": "data:;",
-        "Redirect": "https://greatyorkshireshow.co.uk",
+        "Heading": "Great Yorkshire Show - Official Website",
+        "Abstract": "Welcome to the Great Yorkshire Show website. An iconic four-day event and one of the biggest agricultural events in the English calendar.",
+        "Official Site": "https://greatyorkshireshow.co.uk/",
+        "Icon": "https://greatyorkshireshow.co.uk/wp-content/uploads/2020/02/favicon.ico",
+        "Redirect": "https://greatyorkshireshow.co.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://greatyorkshireshow.co.uk"
+        "AbstractURL": "https://greatyorkshireshow.co.uk/"
     },
     {
         "link": "https://automatalabs.io",

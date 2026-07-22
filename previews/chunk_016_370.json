@@ -21,13 +21,13 @@
     },
     {
         "link": "https://hoder.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://hoder.com",
-        "Icon": "data:;",
-        "Redirect": "https://hoder.com",
+        "Heading": "Biography - Hossein Derakhshan",
+        "Abstract": "Hossein Derakhshan is an Iranian-Canadian author, researcher, and public speaker, as well as the pioneer of blogging, podcasts and tech journalism in Iran. He is currently completing a PhD at the department of media and communications at London School of Economics and Political Science (LSE)",
+        "Official Site": "https://hoder.com/",
+        "Icon": "https://hoder.com/wp-content/uploads/sites/3/2023/03/IMG_7387-682x1024.jpeg",
+        "Redirect": "https://hoder.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hoder.com"
+        "AbstractURL": "https://hoder.com/"
     },
     {
         "link": "https://theweereview.com",
@@ -60,16 +60,6 @@
         "AbstractURL": "https://mlssaz.com/"
     },
     {
-        "link": "https://trainingintnagar.in",
-        "Heading": "Training in T. Nagar- Java, Dot Net, Php, Cloud Computing, Hadoop, SEO",
-        "Abstract": "Training in T. Nagar is the best training institute for Java Training, Php Training, Dot Net Training, Hadoop Training, SEO Training, Web Designing Training, Android Training and more trainings with a placements in well reputed organization. Master your career with FITA Academy Certifications with the highly qualified working professional.",
-        "Official Site": "https://www.trainingintnagar.in/",
-        "Icon": "https://www.trainingintnagar.in/wp-content/uploads/2021/06/training-in-tnagar.jpg",
-        "Redirect": "https://www.trainingintnagar.in/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.trainingintnagar.in/"
-    },
-    {
         "link": "https://nanocomposix.com",
         "Heading": "nanoComposix",
         "Abstract": "Providing nanoparticles, contract development, and scaled manufacturing to help customers bring nanotechnology-enabled products to market. Now a part of Fortis Life Sciences.",
@@ -98,6 +88,16 @@
         "Redirect": "https://typographie.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://typographie.org"
+    },
+    {
+        "link": "https://zuiaixs.net",
+        "Heading": "\u9189\u7231\u5c0f\u8bf4\u7f51\u624b\u673a\u7248_\u597d\u770b\u7684\u5c0f\u8bf4TXT\u4e0b\u8f7d,\u65e0\u5f39\u7a97\u624b\u673a\u5c0f\u8bf4\u7f51_(m.zuiaixs.net)",
+        "Abstract": "\u9189\u7231\u5c0f\u8bf4\u7f51\u6536\u5f55\u4e86\u5f53\u524d\u6700\u706b\u70ed\u7684\u7f51\u7edc\u5c0f\u8bf4\uff0c\u514d\u8d39\u63d0\u4f9b\u9ad8\u8d28\u91cf\u7684\u5c0f\u8bf4\u6700\u65b0\u7ae0\u8282\uff0c\u662f\u5e7f\u5927\u7f51\u7edc\u5c0f\u8bf4\u7231\u597d\u8005\u6700\u503c\u5f97\u6536\u85cf\u7684\u7f51\u7edc\u5c0f\u8bf4\u9605\u8bfb\u7f51,\u7cbe\u5f69\u5c0f\u8bf4\u5c3d\u5728\u9189\u7231\u5c0f\u8bf4\u7f51(\u65e0\u5f39\u7a97\u5c0f\u8bf4\u7f51)\u3002",
+        "Official Site": "https://zuiaixs.net",
+        "Icon": "N/A",
+        "Redirect": "https://zuiaixs.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zuiaixs.net"
     },
     {
         "link": "https://dcisuporte.com.br",
@@ -201,10 +201,10 @@
     },
     {
         "link": "https://dailyearning.live",
-        "Heading": "Daily Earning | CFD Trading \u2014 Trading on Stocks, Gold, Oil, Indices",
-        "Abstract": "CFD Trading with Daily Earning. Trading on Stocks, Gold, Oil, Indices with ultra-fast execution & spreads from 0.0 pips. News, articles and training materials for experienced and novice traders.",
+        "Heading": "Human verification",
+        "Abstract": null,
         "Official Site": "https://dailyearning.live",
-        "Icon": "img/share.jpg",
+        "Icon": "N/A",
         "Redirect": "https://dailyearning.live",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dailyearning.live"

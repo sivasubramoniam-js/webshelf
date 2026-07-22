@@ -54,7 +54,7 @@
         "Heading": "Our Family History",
         "Abstract": null,
         "Official Site": "https://myfamilysearch.net",
-        "Icon": "N/A",
+        "Icon": "img/public/android-icon-192x192.png",
         "Redirect": "https://myfamilysearch.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myfamilysearch.net"
@@ -171,8 +171,8 @@
     },
     {
         "link": "https://pptsu.ru",
-        "Heading": "Selector \u041a\u0430\u0437\u0438\u043d\u043e \u1408 \u0417\u0435\u0440\u043a\u0430\u043b\u043e \u0438 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0421\u0430\u0439\u0442 | \u0412\u0445\u043e\u0434 2026",
-        "Abstract": "\u0421\u0435\u043b\u0435\u043a\u0442\u043e\u0440 \u043a\u0430\u0437\u0438\u043d\u043e \u2014 \u0438\u0433\u0440\u0430\u0442\u044c \u0432 \u043b\u0438\u0446\u0435\u043d\u0437\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u043b\u043e\u0442\u044b. \u0411\u043e\u043d\u0443\u0441\u044b \u043d\u0430 \u0434\u0435\u043f\u043e\u0437\u0438\u0442 \u0438 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0432\u044b\u0432\u043e\u0434.",
+        "Heading": "Jetton & \u0414\u0436\u0435\u0442\u0442\u043e\u043d \u043a\u0430\u0437\u0438\u043d\u043e 2026 \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442, \u0432\u0445\u043e\u0434 \u0438 \u0437\u0435\u0440\u043a\u0430\u043b\u043e \u1408 \u0438\u0433\u0440\u0430\u0442\u044c \u043d\u0430 \u0441\u043b\u043e\u0442\u0430\u0445",
+        "Abstract": "Jetton casino \u2014 \u0414\u0436\u0435\u0442\u0442\u043e\u043d \u043a\u0430\u0437\u0438\u043d\u043e 2026: \u043e\u0431\u0437\u043e\u0440 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430, \u0432\u0445\u043e\u0434 \u0447\u0435\u0440\u0435\u0437 \u0437\u0435\u0440\u043a\u0430\u043b\u043e, \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f, \u0431\u043e\u043d\u0443\u0441\u044b \u0438 \u0442\u043e\u043f \u0441\u043b\u043e\u0442\u043e\u0432 \u043e\u0442 Pragmatic, Hacksaw, Nolimit City. \ud83c\udfb0 \u0411\u044b\u0441\u0442\u0440\u044b\u0435 \u0432\u044b\u043f\u043b\u0430\u0442\u044b, \u043a\u0440\u0443\u0442\u044b\u0435 \u0430\u043a\u0446\u0438\u0438. \u0418\u0433\u0440\u0430\u0442\u044c \u043d\u0430 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0435\u043d\u044c\u0433\u0438.",
         "Official Site": "https://pptsu.ru",
         "Icon": "/favicon.png",
         "Redirect": "https://pptsu.ru",
@@ -211,8 +211,8 @@
     },
     {
         "link": "https://ychangers.com",
-        "Heading": "YChangers - Bitcoin and electronic money exchangers",
-        "Abstract": "YChangers is the best in quality online exchange services. It is very easy to carry out a fast and profitable exchange in our service. Best course.",
+        "Heading": "YChangers Crypto Exchange: USDT, BTC exchange to card and SBP",
+        "Abstract": "Reliable cryptocurrency exchanger. Instant exchange of Bitcoin, USDT, ETH for bank cards, SBP and Kaspi. Favorable rate, anonymity and 24/7 support!",
         "Official Site": "https://ychangers.com",
         "Icon": "https://ychangers.com/res/ychangers/img/baners/192x192.png",
         "Redirect": "https://ychangers.com",
@@ -221,13 +221,23 @@
     },
     {
         "link": "https://worldwhiskyday.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://worldwhiskyday.com",
-        "Icon": "data:;",
-        "Redirect": "https://worldwhiskyday.com",
+        "Heading": "Home - World Whisky Day",
+        "Abstract": "A day of global whisky celebration World Whisky Day invites everyone to try a dram and celebrate the water of life. Events are taking place all over the",
+        "Official Site": "https://www.worldwhiskyday.com/",
+        "Icon": "https://www.worldwhiskyday.com/wp-content/uploads/2015/11/copy-logo-150x117.png",
+        "Redirect": "https://www.worldwhiskyday.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://worldwhiskyday.com"
+        "AbstractURL": "https://www.worldwhiskyday.com/"
+    },
+    {
+        "link": "https://labluepartnersuche.de",
+        "Heading": "Der Domainname labluepartnersuche.de steht zum Verkauf",
+        "Abstract": "Sichern Sie sich jetzt Ihre Wunschdomain! \u2713 Sichere Zahlungsabwicklung \u2713 Kompetentes Serviceteam \u2713 Treuh\u00e4ndische Abwicklung \u2713",
+        "Official Site": "https://labluepartnersuche.de/",
+        "Icon": "https://ts.domainname.de/img/canberra/dn-og.png",
+        "Redirect": "https://labluepartnersuche.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://labluepartnersuche.de/"
     },
     {
         "link": "https://hotelcasadelrefugio.com",
@@ -241,13 +251,13 @@
     },
     {
         "link": "https://albertasoccer.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://albertasoccer.com",
-        "Icon": "data:;",
-        "Redirect": "https://albertasoccer.com",
+        "Heading": "Alberta Soccer | More than a game, it's a community",
+        "Abstract": "Welcome to Alberta Soccer Whether you're a player, coach, referee, volunteer, or supporter, you're part of something bigger. Alberta Soccer connec ...",
+        "Official Site": "https://albertasoccer.com/",
+        "Icon": "https://albertasoccer.com/wp-content/uploads/2025/05/alberta-feature-.jpg",
+        "Redirect": "https://albertasoccer.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://albertasoccer.com"
+        "AbstractURL": "https://albertasoccer.com/"
     },
     {
         "link": "https://rupavahini.lk",

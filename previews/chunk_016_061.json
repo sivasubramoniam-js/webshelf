@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://advoretto.com",
+        "Heading": "\u65e5\u5386\u548c\u65f6\u95f4",
+        "Abstract": null,
+        "Official Site": "https://advoretto.com",
+        "Icon": "N/A",
+        "Redirect": "https://advoretto.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://advoretto.com"
+    },
+    {
         "link": "https://rocawear.com",
         "Heading": "Rocawear",
         "Abstract": null,
@@ -61,13 +71,13 @@
     },
     {
         "link": "https://muellex.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://muellex.com",
-        "Icon": "data:;",
-        "Redirect": "https://muellex.com",
+        "Heading": "M\u00fcllex-Umwelt-S\u00e4uberung-GmbH",
+        "Abstract": "M\u00fcllex-Umwelt-S\u00e4uberung-GmbH, Abfall, Entsorgung, Recycling, Container. Entsorger, Dienstleistungspartner f\u00fcr Gewerbe, Industrie und Privatkunden",
+        "Official Site": "https://www.muellex.com/index.php",
+        "Icon": "https://www.muellex.com/resources/muklein.webp",
+        "Redirect": "https://www.muellex.com/index.php",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://muellex.com"
+        "AbstractURL": "https://www.muellex.com/index.php"
     },
     {
         "link": "https://classyquote.com",
@@ -78,16 +88,6 @@
         "Redirect": "https://classyquote.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://classyquote.com"
-    },
-    {
-        "link": "https://tancaments.es",
-        "Heading": "Home - Tancaments",
-        "Abstract": "Sistemas de Cerramientos y Carpinteria, Pvc y Aluminio, P\u00e9rgolas, Toldos, Puertas seccionales de garaje, Cortinas T\u00e9cnicas, Motorizaci\u00f3n, Ventanas.",
-        "Official Site": "https://tancaments.es/",
-        "Icon": "https://tancaments.es/wp-content/uploads/2024/06/Empresa-Home.jpg",
-        "Redirect": "https://tancaments.es/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tancaments.es/"
     },
     {
         "link": "https://etiket.ca",

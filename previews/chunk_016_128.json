@@ -10,16 +10,6 @@
         "AbstractURL": "https://ewebcart.com"
     },
     {
-        "link": "https://comprayvendeenflorida.com",
-        "Heading": "\u5b64\u6ce8\u4e00\u63b7\u7f51",
-        "Abstract": "\u5b64\u6ce8\u4e00\u63b7\u7f51",
-        "Official Site": "https://comprayvendeenflorida.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://comprayvendeenflorida.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://comprayvendeenflorida.com"
-    },
-    {
         "link": "https://modernpastry.com",
         "Heading": "Modern Pastry Shop | Boston's Italian Family Owned Bakery",
         "Abstract": "Nestled in the North End (Little Italy) and Medford. We are one of Boston's favorite Italian bakery. Family owned and operated for over 80 years. Offering Italian, American, and other European desserts for all occasions. From cakes, cannoli, cookies, pastries, and more!",
@@ -140,6 +130,16 @@
         "AbstractURL": "https://cktc.edu"
     },
     {
+        "link": "https://der-deutsche-innovationspreis.de",
+        "Heading": "Der Deutsche Innovationspreis \u2013 Preisverleihung 2026 - Der Deutsche Innovationspreis",
+        "Abstract": "Der Deutsche Innovationspreis wird seit 2010 an erfolgreiche Unternehmen vergeben, die mit ihrer Innovationskraft zur Unabh\u00e4ngigkeit Deutschlands und Europas im globalen Wettbewerb beitragen.",
+        "Official Site": "https://der-deutsche-innovationspreis.de/",
+        "Icon": "https://der-deutsche-innovationspreis.de/wp-content/uploads/2024/03/favicon.png",
+        "Redirect": "https://der-deutsche-innovationspreis.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://der-deutsche-innovationspreis.de/"
+    },
+    {
         "link": "https://x3-shadow.sbs",
         "Heading": "Loading...",
         "Abstract": null,
@@ -241,13 +241,13 @@
     },
     {
         "link": "https://dondeestudiar.eu",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dondeestudiar.eu",
-        "Icon": "data:;",
-        "Redirect": "https://dondeestudiar.eu",
+        "Heading": "\u25b7 DondeEstudiar: Buscador de Cursos, Masters y Grados",
+        "Abstract": "Encuentra en DondeEstudiar.eu los mejores centros donde estudiar cursos, m\u00e1sters, oposiciones, formaci\u00f3n profesional y grados de Espa\u00f1a.",
+        "Official Site": "https://dondeestudiar.eu/",
+        "Icon": "https://dondeestudiar.eu/wp-content/uploads/2023/12/dest-de.png",
+        "Redirect": "https://dondeestudiar.eu/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dondeestudiar.eu"
+        "AbstractURL": "https://dondeestudiar.eu/"
     },
     {
         "link": "https://kanpoo.jp",

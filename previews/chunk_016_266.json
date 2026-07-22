@@ -111,13 +111,23 @@
     },
     {
         "link": "https://thegoteam.co.uk",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "The Go! Team | Home",
+        "Abstract": "Home of the The Go! Team",
         "Official Site": "https://thegoteam.co.uk",
-        "Icon": "data:;",
+        "Icon": "images/favicon.png",
         "Redirect": "https://thegoteam.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thegoteam.co.uk"
+    },
+    {
+        "link": "https://fast-furious.lat",
+        "Heading": "fast-furious.lat\u00a0-\u00a0This website is for sale!\u00a0-\u00a0fast furious Resources and Information.",
+        "Abstract": "This website is for sale! fast-furious.lat is your first and best source for information about fast furious. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://fast-furious.lat",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://fast-furious.lat",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fast-furious.lat"
     },
     {
         "link": "https://zollie.com.br",

@@ -70,16 +70,6 @@
         "AbstractURL": "https://eight-media.co.jp/"
     },
     {
-        "link": "https://sosmahuva.com",
-        "Heading": "The School of Science",
-        "Abstract": "",
-        "Official Site": "https://sosmahuva.com",
-        "Icon": "img/logo/logo_circle.png",
-        "Redirect": "https://sosmahuva.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sosmahuva.com"
-    },
-    {
         "link": "https://andersonvilleguesthouse.com",
         "Heading": "The Andersonville Guesthouse - A Small Operation on Clark Street \u2014 Stay Notes, Neighbourhood Dispatches, and the Andersonville Guide",
         "Abstract": "A Small Operation on Clark Street \u2014 Stay Notes, Neighbourhood Dispatches, and the Andersonville Guide",
@@ -138,6 +128,16 @@
         "Redirect": "https://plutux.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://plutux.info"
+    },
+    {
+        "link": "https://rgbhosting.com",
+        "Heading": "RGB Hosting | Web Hosting and Development",
+        "Abstract": null,
+        "Official Site": "https://rgbhosting.com",
+        "Icon": "https://www.rgbhosting.com/wp-content/uploads/2024/04/cropped-rgb-top-logo-512-upscaled-1-32x32.png",
+        "Redirect": "https://rgbhosting.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rgbhosting.com"
     },
     {
         "link": "https://synaxon-services.com",

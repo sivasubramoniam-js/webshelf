@@ -10,16 +10,6 @@
         "AbstractURL": "https://swagger-bros.com"
     },
     {
-        "link": "https://risegardens.com",
-        "Heading": "Rise Hydroponic Garden: Grow Vegetables, Fruits, and Herbs Year-Round",
-        "Abstract": "With 4 different indoor garden options, you can grow your own produce year round with Rise Gardens. Shop now!",
-        "Official Site": "https://risegardens.com/",
-        "Icon": "https://cdn.shopify.com/s/files/1/0245/4614/8404/files/rise-gardens-cover.png?v=1732204115",
-        "Redirect": "https://risegardens.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://risegardens.com/"
-    },
-    {
         "link": "https://glucosmartrx.com",
         "Heading": "Buy Rybelsus (Semaglutide) Online \u2013 No Rx, Fast U.S. Delivery\n",
         "Abstract": "Order Rybelsus (Semaglutide) online without prescription at GlucoSmart RX. Effective diabetes control & weight management shipped fast & discreetly to your door.",
@@ -41,13 +31,13 @@
     },
     {
         "link": "https://situshalal.com",
-        "Heading": "situshalal.com | Unstoppable Domains | Unstoppable Domains",
-        "Abstract": "situshalal.com \u2014 a premium domain name. Visit Unstoppable Domains for domain availability and pricing.",
-        "Official Site": "https://unstoppabledomains.com/d/situshalal.com",
-        "Icon": "https://storage.googleapis.com/unstoppable-client-assets/images/unstoppable-logos/unstoppable-logo-1200x630.png",
-        "Redirect": "https://unstoppabledomains.com/d/situshalal.com",
+        "Heading": "situshalal.com | Unstoppable Domains",
+        "Abstract": null,
+        "Official Site": "https://situshalal.com",
+        "Icon": "https://storage.googleapis.com/unstoppable-client-assets/images/favicon/favicon-v3.ico",
+        "Redirect": "https://situshalal.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://unstoppabledomains.com/d/situshalal.com"
+        "AbstractURL": "https://situshalal.com"
     },
     {
         "link": "https://mbaocai.com",
@@ -124,10 +114,20 @@
         "Heading": "Loading... Please wait.",
         "Abstract": null,
         "Official Site": "https://redirect148.com",
-        "Icon": "/uploads/upload/favicon-vstar.png?v=c168a614e5809bdb1a73974b225af22720cebde5",
+        "Icon": "/uploads/upload/favicon-vstar.png?v=00225aae58b4c02b7ec4cc4b0601c297de16c61e",
         "Redirect": "https://redirect148.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://redirect148.com"
+    },
+    {
+        "link": "https://ucthefashion.com",
+        "Heading": "ucthefashion.com\u00a0-\u00a0ucthefashion Resources and Information.",
+        "Abstract": "ucthefashion.com is your first and best source for information about ucthefashion. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://ucthefashion.com",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://ucthefashion.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ucthefashion.com"
     },
     {
         "link": "https://aufbix.org",
@@ -190,21 +190,11 @@
         "AbstractURL": "https://spikeatschool.co.nz"
     },
     {
-        "link": "https://strollmag.com",
-        "Heading": "Stroll | Neighborhood Magazine Publisher",
-        "Abstract": "Stroll magazines deliver neighborhood connections to 550+ established, desirable communities across the U.S.",
-        "Official Site": "https://www.strollmag.com/",
-        "Icon": "https://www.strollmag.com/assets/images/miscellaneous/opengraph-logo.png",
-        "Redirect": "https://www.strollmag.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.strollmag.com/"
-    },
-    {
         "link": "https://purpleday.org",
-        "Heading": null,
+        "Heading": "Purple Day \u2013 Supporting Epilepsy Around The World!",
         "Abstract": null,
         "Official Site": "https://purpleday.org",
-        "Icon": "data:;",
+        "Icon": "https://purpleday.org/wp-content/uploads/2020/08/cropped-favicon-purple-day-32x32.png",
         "Redirect": "https://purpleday.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://purpleday.org"

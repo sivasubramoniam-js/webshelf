@@ -40,16 +40,6 @@
         "AbstractURL": "https://vaytiiennhanh.com/"
     },
     {
-        "link": "https://nactechlab.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://nactechlab.com",
-        "Icon": "N/A",
-        "Redirect": "https://nactechlab.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nactechlab.com"
-    },
-    {
         "link": "https://globalcompactnetwork.org",
         "Heading": "Home - UN Global Compact Network Italia",
         "Abstract": "Il Global Compact delle Nazioni Unite opera in Italia attraverso la Fondazione Global Compact Network Italia, organizzazione istituita nel giugno 2013 dopo dieci anni di attivit\u00e0 del Network Italiano del Global Compact (GCNI) come gruppo informale.public $MetaDesc = ",
@@ -143,21 +133,31 @@
         "link": "https://chelseawolfe.net",
         "Heading": "Official Site - CHELSEA WOLFE",
         "Abstract": "New Album, \u201cThe Dark\u201d, Out August 21 2026.",
-        "Official Site": "https://chelseawolfe.com/",
-        "Icon": "https://chelseawolfe.com/wp-content/uploads/2026/07/cw-the-dark-main-magdalena-wosinska.jpg",
-        "Redirect": "https://chelseawolfe.com/",
+        "Official Site": "http://chelseawolfe.com/",
+        "Icon": "http://chelseawolfe.com/wp-content/uploads/2026/07/cw-the-dark-main-magdalena-wosinska.jpg",
+        "Redirect": "http://chelseawolfe.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chelseawolfe.com/"
+        "AbstractURL": "http://chelseawolfe.com/"
     },
     {
         "link": "https://londonnews247.com",
         "Heading": "LondonNews247 - Breaking News!",
         "Abstract": "Your go-to source for London news, sports, and politics. We offer 24/7 coverage of the stories that matter to Londoners and beyond.",
         "Official Site": "https://www.londonnews247.com/",
-        "Icon": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_srfLXIhFB1Mup8ntYHuhFjNoFY7XHE-e_a1gsRP4wRePg-lwVyO73b-ijueuc2dwO-2Oywy8SaV3RR_wloZjHIdBgZmQcALNfEoH8j_j-dApZvOmC-av1nY439ZWwQg9rzLS-YWgvl3fAflG5SpToOfPBfmY4oz5aSB8AlwxVklyE0FDwZnuyrOQ=w1600",
+        "Icon": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tJW58c9h-LNldCPuYL2gaZ5DefknlutqXuMf8tmrQ4tZCkRcWwO-i4b5h3kMl6WrZy3_-4s6Cv4Z-x8Sg3zBSlt73_I8JWpVfWMER_2j7tTrQPXKW9ECc5iXTLgeO_WrcI-ddYp3IQHlAuR9ZyBdPjtuBj4ngpMRhZUUuLx9npYGktxwVNo79zWQ=w1600",
         "Redirect": "https://www.londonnews247.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.londonnews247.com/"
+    },
+    {
+        "link": "https://valoriza.io",
+        "Heading": "Loading...",
+        "Abstract": null,
+        "Official Site": "https://valoriza.io",
+        "Icon": "N/A",
+        "Redirect": "https://valoriza.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://valoriza.io"
     },
     {
         "link": "https://smarterbusiness.co.uk",
@@ -178,15 +178,5 @@
         "Redirect": "https://artobia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://artobia.com"
-    },
-    {
-        "link": "https://unicohotels.com",
-        "Heading": "\u00danico Hotels | Hoteles de lujo en Espa\u00f1a",
-        "Abstract": "Hoteles 5 estrellas en Espa\u00f1a: Madrid, Mallorca y la Costa Brava. \u00danico Hotels, estilo de vida centrado en la calidad y la sofisticaci\u00f3n.",
-        "Official Site": "https://www.unicohotels.com/es/",
-        "Icon": "https://www.unicohotels.com/wp-content/uploads/2026/03/cropped-favicon-unico-32x32.png",
-        "Redirect": "https://www.unicohotels.com/es/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.unicohotels.com/es/"
     }
 ]
