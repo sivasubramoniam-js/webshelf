@@ -151,8 +151,8 @@
     },
     {
         "link": "https://stfyc.com",
-        "Heading": "Home - St. Francis Yacht Club",
-        "Abstract": "St. Francis Yacht Club",
+        "Heading": "Public Home - St. Francis Yacht Club",
+        "Abstract": null,
         "Official Site": "https://stfyc.com",
         "Icon": "favicon-32x32.png",
         "Redirect": "https://stfyc.com",
@@ -170,16 +170,6 @@
         "AbstractURL": "{{ogurl}}"
     },
     {
-        "link": "https://vacationland.net",
-        "Heading": "Vacationland",
-        "Abstract": "RV Sales, Storage, Service, Parts & Rentals Since 1967",
-        "Official Site": "https://vacationland.net/",
-        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC92YWNhdGlvbmxhbmQubmV0XC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8xMlwvY3JvcHBlZC1mYXZpY29uLTEucG5nP2ZpdD01MTIlMkM1MTImcXVhbGl0eT04MCZzc2w9MSIsInR4dCI6IlZhY2F0aW9ubGFuZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoyNDEwMjE3MTR9.8DRnBcPafRytHqQqT8014nCDUlBHyNtf-hZrAAdL-TUMQ",
-        "Redirect": "https://vacationland.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vacationland.net/"
-    },
-    {
         "link": "https://vbryanske.com",
         "Heading": "\u0411\u0440\u044f\u043d\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u00abvBryanske\u00bb: \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438",
         "Abstract": "\u0421\u0435\u0440\u0432\u0438\u0441\u044b \u0411\u0440\u044f\u043d\u0441\u043a\u043e\u0433\u043e \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u0440\u0442\u0430\u043b\u0430 \u043f\u043e\u043c\u043e\u0433\u0430\u044e\u0442 \u043e\u0431\u043b\u0435\u0433\u0447\u0438\u0442\u044c \u043f\u043e\u0438\u0441\u043a \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0435, \u043a\u0430\u0441\u0430\u044e\u0449\u0435\u0439\u0441\u044f \u0433\u043e\u0440\u043e\u0434\u0430 \u0411\u0440\u044f\u043d\u0441\u043a. \u041c\u044b \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u0438\u043c \u0441\u0432\u0435\u0436\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e \u043e \u0433\u043e\u0440\u043e\u0434\u0435 \u0411\u0440\u044f\u043d\u0441\u043a: \u043f\u043e\u0433\u043e\u0434\u0430, \u0430\u0444\u0438\u0448\u0430, \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0438 \u043c\u043d\u043e\u0433\u043e\u0435 \u0434\u0440\u0443\u0433\u043e\u0435",
@@ -191,10 +181,10 @@
     },
     {
         "link": "https://rcas.org",
-        "Heading": "Client Challenge",
-        "Abstract": null,
+        "Heading": "Home | Rapid City Area Schools",
+        "Abstract": "",
         "Official Site": "https://rcas.org",
-        "Icon": "N/A",
+        "Icon": "https://cmsv2-assets.apptegy.net/uploads/26074/logo/28887/Rapid_City_Area_Schools_Logo.png",
         "Redirect": "https://rcas.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rcas.org"

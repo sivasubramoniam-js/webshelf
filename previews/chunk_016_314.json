@@ -170,16 +170,6 @@
         "AbstractURL": "https://www.righilaw.com/"
     },
     {
-        "link": "https://orlandowomenmag.xyz",
-        "Heading": "This is a Social Network - My Jcow Network",
-        "Abstract": null,
-        "Official Site": "https://orlandowomenmag.xyz",
-        "Icon": "http://bayareawomenmag.xyz/themes/default/ico.gif",
-        "Redirect": "https://orlandowomenmag.xyz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://orlandowomenmag.xyz"
-    },
-    {
         "link": "https://nikonsportoptics.com",
         "Heading": "Shop All Nikon Sport Optics | Nikon USA",
         "Abstract": "Nikon Sport Optics include binoculars, fieldscopes and rangefinders.",
@@ -198,5 +188,15 @@
         "Redirect": "https://express-diplomiu.top",
         "AbstractSource": "BS4",
         "AbstractURL": "https://express-diplomiu.top"
+    },
+    {
+        "link": "https://appliedcomposites.com",
+        "Heading": "Applied Composites - Specializing in complex composite assemblies for the Aerospace, Defense and Space Industries",
+        "Abstract": "Global leader in providing composite solutions for airframes, engines, defense & mission systems, as well as launch vehicles and satellite structures.",
+        "Official Site": "https://www.appliedcomposites.com/",
+        "Icon": "https://www.appliedcomposites.com/wp-content/uploads/2022/12/trade-show-booth-design.jpg",
+        "Redirect": "https://www.appliedcomposites.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.appliedcomposites.com/"
     }
 ]

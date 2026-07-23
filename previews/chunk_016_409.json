@@ -21,13 +21,13 @@
     },
     {
         "link": "https://omothermix.com",
-        "Heading": "\u25b7 193 recipes  thermomix with the TM31, TM5 et TM6 from Vorwerk",
-        "Abstract": "How to cook recipes thermomix with the TM31, TM5 et TM6 from Vorwerk ? Find 193 example of recipes to cook",
-        "Official Site": "https://www.omothermix.com/en/thermomix/",
+        "Heading": "\u25b7 385 recettes  thermomix au TM31, TM5 et TM6 de Vorwerk",
+        "Abstract": "Comment cuisiner des recettes thermomix au TM31, TM5 et TM6 de Vorwerk ? Retrouvez 385 exemple de recettes \u00e0 cuisiner",
+        "Official Site": "https://www.omothermix.com/fr/thermomix/",
         "Icon": "https://www.omothermix.com/images/icon.png",
-        "Redirect": "https://www.omothermix.com/en/thermomix/",
+        "Redirect": "https://www.omothermix.com/fr/thermomix/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.omothermix.com/en/thermomix/"
+        "AbstractURL": "https://www.omothermix.com/fr/thermomix/"
     },
     {
         "link": "https://samoliot.ru",
@@ -158,6 +158,16 @@
         "Redirect": "https://ko66app.town/vi-vn/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ko66app.town/vi-vn/"
+    },
+    {
+        "link": "https://jobweb.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://jobweb.com",
+        "Icon": "N/A",
+        "Redirect": "https://jobweb.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jobweb.com"
     },
     {
         "link": "https://fdatingpartnersuche.de",

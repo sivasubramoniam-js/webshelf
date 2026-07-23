@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://contentstripe.com",
-        "Heading": "Jeeng | Monetization and Personalization Solutions for Publishers",
-        "Abstract": "With Jeeng, publishers can accurately curate content and ads and deliver them directly to subscribers at the right time, on the right channel.",
-        "Official Site": "https://www.jeeng.com/",
-        "Icon": "https://www.jeeng.com/wp-content/uploads/2021/03/JeengSocialShare.jpg",
-        "Redirect": "https://www.jeeng.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.jeeng.com/"
-    },
-    {
         "link": "https://coreweb.de",
         "Heading": "coreweb | Creating Consumer Relevance \u2013 coreweb",
         "Abstract": "Digitales Consumer Marketing \u2013 wirksam und messbar.",
@@ -140,16 +130,6 @@
         "AbstractURL": "https://www.cutoutimage.com/"
     },
     {
-        "link": "https://cvapor.com",
-        "Heading": "Electronic Cigarette, E-cigarette Retail Wholesale Store  - Cvapor.com",
-        "Abstract": "As the leading electronic cigarette supplier, we have the most popular e-cigarette brand, such as Aspire, Kanger and Innokin. All series of e-cig starter kits, Atomizers / Clearomizers, Batteries for you to choose.",
-        "Official Site": "https://cvapor.com",
-        "Icon": "skin/frontend/default/newcigaret/favicon.ico",
-        "Redirect": "https://cvapor.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cvapor.com"
-    },
-    {
         "link": "https://dalinnovates.ca",
         "Heading": "A hub for world-leading research, innovation and entrepreneurship | Dal Innovates",
         "Abstract": "Dal Innovates provides opportunities to develop knowledge, skills, and attitudes necessary to translate new ideas into innovations.",
@@ -158,6 +138,16 @@
         "Redirect": "https://dalinnovates.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dalinnovates.ca/"
+    },
+    {
+        "link": "https://datanutsbedrijf.be",
+        "Heading": "Vertrouwen in datasamenwerking | Athumi",
+        "Abstract": "Athumi laat data samenwerken via data spaces en data collaboration platforms. Dat zorgt voor vertrouwen, veiligheid en innovatie. Lees meer.",
+        "Official Site": "https://athumi.eu/",
+        "Icon": "https://athumi.eu/assets/uploads/LOGOS/_1200x630_crop_center-center_82_none/athumi-logo.png?mtime=1754047468",
+        "Redirect": "https://athumi.eu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://athumi.eu/"
     },
     {
         "link": "https://davibooks.vn",
@@ -261,8 +251,8 @@
     },
     {
         "link": "https://developurs.com",
-        "Heading": "SAP Software Consulting with SAP Consultants in Kennebunk",
-        "Abstract": "Premier SAP consulting in Kennebunk with local SAP consultants in Kennebunk. Great competitive SAP rates.",
+        "Heading": "Staffing Firm providing PeopleSoft Consultants in Falls Church",
+        "Abstract": null,
         "Official Site": "https://developurs.com",
         "Icon": "N/A",
         "Redirect": "https://developurs.com",
@@ -298,15 +288,5 @@
         "Redirect": "https://dicsa.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dicsa.es"
-    },
-    {
-        "link": "https://didactopia.ro",
-        "Heading": "Didactopia \u2022 Juc\u0103rii, Jocuri Educative, Dot\u0103ri \u015fi Material Didactic Premium",
-        "Abstract": "Platforma ta pentru juc\u0103rii, jocuri educative \u015fi material didactic premium - un singur loc pentru tot ce ai nevoie \u00een procesul educa\u0163ional al copiilor.",
-        "Official Site": "https://didactopia.ro/",
-        "Icon": "https://didactopia.ro/wp-content/uploads/2019/05/Didactopia-by-Evertoys-generic-v2.jpg",
-        "Redirect": "https://didactopia.ro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://didactopia.ro/"
     }
 ]

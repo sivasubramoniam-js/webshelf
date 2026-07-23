@@ -144,7 +144,7 @@
         "Heading": "sunsus GmbH \u00bb\u00a0Home\u00a0- International ",
         "Abstract": null,
         "Official Site": "https://sunsus.net",
-        "Icon": "http://sunsus.net/fileadmin/template/favicon.ico",
+        "Icon": "https://sunsus.net/fileadmin/template/favicon.ico",
         "Redirect": "https://sunsus.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sunsus.net"
@@ -188,6 +188,16 @@
         "Redirect": "https://odintsovskie-kvartaly.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://odintsovskie-kvartaly.ru"
+    },
+    {
+        "link": "https://capecodchips.com",
+        "Heading": "Home - Cape Cod Chips",
+        "Abstract": null,
+        "Official Site": "https://www.capecodchips.com/",
+        "Icon": "https://www.capecodchips.com/wp-content/uploads/2020/05/Footer_Images_Desktop_LightHouse-1024x427.jpg",
+        "Redirect": "https://www.capecodchips.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.capecodchips.com/"
     },
     {
         "link": "https://verticelearning.com",

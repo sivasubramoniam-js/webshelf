@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://cn-official-lanjing.com",
-        "Heading": "\u62a5\u9053\u7eb8\u5c3f\u88e4\u7684\u8bb0\u8005\u4ee5\u4e3a\u53d1\u73b0\u4e86\u53c8\u4e00\u4e2a\u201c\u4e09\u805a\u6c30\u80fa\u201d\u9634\u8c0b",
-        "Abstract": "\u62a5\u9053\u7eb8\u5c3f\u88e4\u7684\u8bb0\u8005\u4ee5\u4e3a\u53d1\u73b0\u4e86\u53c8\u4e00\u4e2a\u201c\u4e09\u805a\u6c30\u80fa\u201d\u9634\u8c0b",
-        "Official Site": "http://cn-official-lanjing.com/",
-        "Icon": "https://ts2.mm.bing.net/th?q=\u62a5\u9053\u7eb8\u5c3f\u88e4\u7684\u8bb0\u8005\u4ee5\u4e3a\u53d1\u73b0\u4e86\u53c8\u4e00\u4e2a\u201c\u4e09\u805a\u6c30\u80fa\u201d\u9634\u8c0b",
-        "Redirect": "http://cn-official-lanjing.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://cn-official-lanjing.com/"
-    },
-    {
         "link": "https://995hope.org",
         "Heading": "995Hope Your Partner in Housing | A GreenPath Company",
         "Abstract": "995Hope envisions a nation where everyone has a place to call home and can achieve their dreams. Let us help you overcome financial stress.",
@@ -32,7 +22,7 @@
     {
         "link": "https://via905.fm",
         "Heading": "Accueil - VIA 90.5",
-        "Abstract": "NOUVELLES Parc industriel de B\u00e9cancour | L\u2019air est jug\u00e9 de \u00ab bonne qualit\u00e9 \u00bb 21 juillet 2026 \u00e0 11:36 L\u2019air est jug\u00e9 de \u00ab bonne qualit\u00e9 \u00bb dans le parc industriel et portuaire de B\u00e9cancour. Lire Sant\u00e9 Qu\u00e9bec Mauricie-et-Centre-du-Qu\u00e9bec-Universitaire | Horacio Arruda nomm\u00e9 officiellement au poste de directeur de sant\u00e9 publique 21 juillet 2026 \u00e0 12:41 Sant\u00e9",
+        "Abstract": "NOUVELLES Odanak | L\u2019ouverture du Foyer d\u2019h\u00e9bergement pour femmes autochtones victimes de violence se fera cet automne 22 juillet 2026 \u00e0 4:31 Apr\u00e8s des ann\u00e9es d\u2019attente, le Foyer d\u2019h\u00e9bergement pour femmes autochtones victimes de violence \u00e0 Odanak ouvrira finalement ses portes cet automne. Lire Deschaillons-sur-Saint-Laurent | D\u00e9but d\u2019incendie rapidement ma\u00eetris\u00e9 au Metro Dubuc 22 juillet",
         "Official Site": "https://www.via905.fm",
         "Icon": "https://www.via905.fm/wp-content/uploads/2022/05/cropped-VIA-Icone-Site-web-2022-32x32.png",
         "Redirect": "https://www.via905.fm",
@@ -58,6 +48,16 @@
         "Redirect": "https://ltgawards.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ltgawards.com"
+    },
+    {
+        "link": "https://klinika-almaz.ru",
+        "Heading": "404 Not Found",
+        "Abstract": null,
+        "Official Site": "https://klinika-almaz.ru",
+        "Icon": "N/A",
+        "Redirect": "https://klinika-almaz.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://klinika-almaz.ru"
     },
     {
         "link": "https://lylysdoghouse.com",
@@ -180,6 +180,16 @@
         "AbstractURL": "https://profinexglobal.com"
     },
     {
+        "link": "https://onemindpsyberguide.org",
+        "Heading": "One Mind PsyberGuide | A Mental Health App Guide",
+        "Abstract": "Psyberguide Brain Health And Mind Optimization Based On Science. We're dedicated to helping people understand the science of brain health, cognitive function, brain chemistry and nootropics.",
+        "Official Site": "https://onemindpsyberguide.org/",
+        "Icon": "https://onemindpsyberguide.org/wp-content/uploads/2025/01/cropped-Psyberguide-Logo.png",
+        "Redirect": "https://onemindpsyberguide.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onemindpsyberguide.org/"
+    },
+    {
         "link": "https://castleofgoodhope.co.za",
         "Heading": "Home",
         "Abstract": null,
@@ -231,13 +241,13 @@
     },
     {
         "link": "https://guncelkibris.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://guncelkibris.com",
-        "Icon": "N/A",
-        "Redirect": "https://guncelkibris.com",
+        "Heading": "G\u00fcncel K\u0131br\u0131s, K\u0131br\u0131s'\u0131n En G\u00fcncel Haber Sitesi\u00a0| guncelkibris.com",
+        "Abstract": "Son dakika haberler, en g\u00fcncel haber ba\u015fl\u0131klar\u0131 ve \u00e7ok daha fazlas\u0131n\u0131 an be an guncelkibris.com adresinden takip edebilirsiniz. G\u00fcncel K\u0131br\u0131s",
+        "Official Site": "https://www.guncelkibris.com/",
+        "Icon": "https://www.guncelkibris.com/wp-content/uploads/2019/12/gk-favv.png",
+        "Redirect": "https://www.guncelkibris.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://guncelkibris.com"
+        "AbstractURL": "https://www.guncelkibris.com/"
     },
     {
         "link": "https://unternehmeredition.de",

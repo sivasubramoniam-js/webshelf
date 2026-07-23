@@ -10,16 +10,6 @@
         "AbstractURL": "https://server-014.com"
     },
     {
-        "link": "https://camaralicante.com",
-        "Heading": "Home - C\u00e1mara Alicante",
-        "Abstract": "C\u00e1mara de Comercio de Alicante somos la corporaci\u00f3n de derecho p\u00fablico que representa y defiende los intereses generales de la Industria, el Comercio, la Navegaci\u00f3n y los Servicios",
-        "Official Site": "https://www.camaralicante.com/",
-        "Icon": "https://www.camaralicante.com/wp-content/uploads/elementor/thumbs/formacion_home-rq5817barsfgt082etco8idyqxlg1e4jbrtm1w29ds.jpg",
-        "Redirect": "https://www.camaralicante.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.camaralicante.com/"
-    },
-    {
         "link": "https://bispebroen.dk",
         "Heading": "Forside - L\u00e6gerne Bispebroen 2b, 2.sal",
         "Abstract": "Velkommen til klinikken Er du ny patient? Log p\u00e5 selvbetjeningen Hold dig opdateret p\u00e5 nyheder i klinikken l\u00e6s mere Du kan l\u00e6se om klinikken lige her l\u00e6s mere Nyttige links Find vej til klinikken",
@@ -68,6 +58,16 @@
         "Redirect": "https://hotelvor9.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hotelvor9.de"
+    },
+    {
+        "link": "https://startupo.fr",
+        "Heading": "Sites web complets gratuits \u00e0 t\u00e9l\u00e9charger | Startupo.fr",
+        "Abstract": "Parcourez notre collection de sites web complets et pr\u00eats \u00e0 l'emploi, 100 % gratuits, avec panneau d'administration. Pas des th\u00e8mes, pas des templates : de vrais sites finis. Installez et lancez votre activit\u00e9.",
+        "Official Site": "https://freewebsite.fr/sites",
+        "Icon": "N/A",
+        "Redirect": "https://freewebsite.fr/sites",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://freewebsite.fr/sites"
     },
     {
         "link": "https://valsana.it",
@@ -194,7 +194,7 @@
         "Heading": "A1 Coffee | UK Supplier & Roaster | Artisan Coffee Beans\n",
         "Abstract": "High Quality Coffee Supplier. Freshly roasted coffees with free delivery over \u00a375. Huge range of syrups, takeaway cups plus vegan and organic options in stock.",
         "Official Site": "https://a1coffee.net/",
-        "Icon": "//a1coffee.net/cdn/shop/files/Untitled_052f473f-ce49-40a5-917a-7c7f18d80b72.png?crop=center&height=48&v=1681476739&width=48",
+        "Icon": "//cdn.shopify.com/s/files/1/0737/5595/1414/files/Untitled_052f473f-ce49-40a5-917a-7c7f18d80b72.png?crop=center&height=48&v=1681476739&width=48",
         "Redirect": "https://a1coffee.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://a1coffee.net/"

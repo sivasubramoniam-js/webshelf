@@ -10,16 +10,6 @@
         "AbstractURL": "https://asiz.ru/"
     },
     {
-        "link": "https://marcmax.de",
-        "Heading": "Hochwertige Elektronik- & Technik-Produkte \u2013 MarcMax Shop",
-        "Abstract": "In unserem Online-Shop f\u00fcr Qualit\u00e4tsprodukte finden Sie hochwertige Technik- und Elektronikprodukte, die von Fachexperten sorgf\u00e4ltig ausgew\u00e4hlt wurden. Alle Produkte sind auf Lager und versandbereit.",
-        "Official Site": "https://marcmax.de/",
-        "Icon": "http://marcmax.de/cdn/shop/files/ms-icon-310x310.png?v=1670369323",
-        "Redirect": "https://marcmax.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://marcmax.de/"
-    },
-    {
         "link": "https://cryptopheresinv.com",
         "Heading": "CryptoSphere | CFD Trading \u2014 Trading on Stocks, Gold, Oil, Indices",
         "Abstract": "CFD Trading with CryptoSphere. Trading on Stocks, Gold, Oil, Indices with ultra-fast execution & spreads from 0.0 pips. News, articles and training materials for experienced and novice traders.",
@@ -130,6 +120,16 @@
         "AbstractURL": "https://katershik.top"
     },
     {
+        "link": "https://stomatologia-krakowska.pl",
+        "Heading": "Nowe Kasyna Online 2026 \u2013 TOP 10 Kasyn dla Polak\u00f3w",
+        "Abstract": "Szukasz nowego kasyna online? Sprawd\u017a nasz ranking TOP 10 nowych kasyn 2026 z bonusami za rejestracj\u0119, szybkimi wyp\u0142atami i licencj\u0105 MGA/UKGC\u2705",
+        "Official Site": "https://chickenmystake.org/",
+        "Icon": "https://chickenmystake.org/wp-content/uploads/Nowe-Kasyno-dla-Polakow-1024x506.png",
+        "Redirect": "https://chickenmystake.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chickenmystake.org/"
+    },
+    {
         "link": "https://crodabeauty.com",
         "Heading": "Personal Care Innovation | Croda Beauty",
         "Abstract": "Our mission is clear: to pioneer smart science that enhances lives. With a relentless commitment to innovation, we craft ingredients that redefine beauty standards, setting trends and surpassing expectations worldwide.\n",
@@ -138,16 +138,6 @@
         "Redirect": "https://www.crodabeauty.com/en-gb",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.crodabeauty.com/en-gb"
-    },
-    {
-        "link": "https://superstellar.nl",
-        "Heading": "iDEAL Wero",
-        "Abstract": null,
-        "Official Site": "https://superstellar.nl",
-        "Icon": "https://cdn.shopify.com/s/files/1/0748/8362/9338/files/superstellar-logo.jpg?v=1682071324",
-        "Redirect": "https://superstellar.nl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://superstellar.nl"
     },
     {
         "link": "https://wimastergardener.org",

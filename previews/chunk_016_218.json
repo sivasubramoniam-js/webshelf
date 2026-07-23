@@ -54,7 +54,7 @@
         "Heading": "GNL - Made for Walking | Offizieller Shop\n\u2013 GNL Footwear\n",
         "Abstract": "GNL's Mission ist es, die Menschen zu einem gl\u00fccklichen und gesunden Lebensstil zu inspirieren, indem sie t\u00e4glich mehr Gehen.",
         "Official Site": "https://gnlfootwear.com/",
-        "Icon": "http://cdn.shopify.com/s/files/1/0072/5431/0975/files/GNL_Logo_Final_RGB_pos_25.png?v=1715669318",
+        "Icon": "http://gnlfootwear.com/cdn/shop/files/GNL_Logo_Final_RGB_pos_25.png?v=1715669318",
         "Redirect": "https://gnlfootwear.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gnlfootwear.com/"
@@ -268,6 +268,16 @@
         "Redirect": "https://hintro.ai",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hintro.ai"
+    },
+    {
+        "link": "https://historichansard.net",
+        "Heading": "Home :: Historic Hansard",
+        "Abstract": "Debates in the Australian parliament from 1901 to 1980, presented in an easily readable form for lovers of political speech.",
+        "Official Site": "http://historichansard.net/",
+        "Icon": "http://historichansard.net/images/historic-hansard.png",
+        "Redirect": "http://historichansard.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://historichansard.net/"
     },
     {
         "link": "https://historischcentrumlimburg.nl",

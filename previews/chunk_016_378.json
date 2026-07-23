@@ -120,6 +120,16 @@
         "AbstractURL": "https://purolat.com"
     },
     {
+        "link": "https://driver-fixer.com",
+        "Heading": "Driver Fixer",
+        "Abstract": null,
+        "Official Site": "https://driver-fixer.com",
+        "Icon": "N/A",
+        "Redirect": "https://driver-fixer.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://driver-fixer.com"
+    },
+    {
         "link": "https://tntgrowth.io",
         "Heading": "TNT Growth | INC5000 Growth Marketing Agency",
         "Abstract": "Experience explosive growth with TNT Growth. Data-driven digital marketing services \u2014 we've driven $950M+ in revenue with over $250M in ad spend managed.",
@@ -203,11 +213,11 @@
         "link": "https://vavada-antares.space",
         "Heading": "\u0412\u0430\u0432\u0430\u0434\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 - \u0432\u0445\u043e\u0434 \u0432 \u043a\u0430\u0437\u0438\u043d\u043e Vavada | \u0417\u0435\u0440\u043a\u0430\u043b\u043e",
         "Abstract": "\u0412\u0445\u043e\u0434 \u043d\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 Vavada \u0447\u0435\u0440\u0435\u0437 \u0437\u0435\u0440\u043a\u0430\u043b\u043e. \u041a\u0430\u043a \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043f\u043e\u0434\u0430\u0440\u043e\u043a 100 FS \u0438 \u04452 \u043a \u0434\u0435\u043f\u043e\u0437\u0438\u0442\u0443 \u0437\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044e. \u0411\u043e\u043b\u0435\u0435 5000 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u043e\u0432 \u043e\u0442 \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u043e\u0432.",
-        "Official Site": "https://vavada-lux2.it.com",
+        "Official Site": "https://vavada-lux3.it.com",
         "Icon": "./content/decor-img/logo-header.98a38af.svg",
-        "Redirect": "https://vavada-lux2.it.com",
+        "Redirect": "https://vavada-lux3.it.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://vavada-lux2.it.com"
+        "AbstractURL": "https://vavada-lux3.it.com"
     },
     {
         "link": "https://colemanrussia.ru",
@@ -218,5 +228,15 @@
         "Redirect": "https://colemanrussia.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://colemanrussia.ru"
+    },
+    {
+        "link": "https://tingmengkj.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://tingmengkj.com",
+        "Icon": "N/A",
+        "Redirect": "https://tingmengkj.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tingmengkj.com"
     }
 ]

@@ -70,6 +70,16 @@
         "AbstractURL": "https://steelhaus.ro/"
     },
     {
+        "link": "https://azeropunks.com",
+        "Heading": "Azero Punks",
+        "Abstract": "AzeroPunks website",
+        "Official Site": "https://azeropunks.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://azeropunks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://azeropunks.com"
+    },
+    {
         "link": "https://mmbrindes.com.br",
         "Heading": "Grupo MMBrindes",
         "Abstract": "Grupo MMBrindes",
@@ -111,10 +121,10 @@
     },
     {
         "link": "https://pointreyescheese.com",
-        "Heading": "\n      Point Reyes Farmstead Cheese Company\n",
+        "Heading": "Point Reyes Farmstead Cheese Company\n",
         "Abstract": "Point Reyes Farmstead Cheese Company, home artisanal cheeses like original blue cheese, toma, gouda, pimento",
         "Official Site": "https://pointreyescheese.com/",
-        "Icon": "http://pointreyescheese.com/cdn/shop/files/PRF_logo_horz_1.png?v=1631051319",
+        "Icon": "http://pointreyescheese.com/cdn/shop/files/Point-Reyes-Graph-IMage.jpg?v=1784754854",
         "Redirect": "https://pointreyescheese.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pointreyescheese.com/"
