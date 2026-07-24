@@ -70,16 +70,6 @@
         "AbstractURL": "https://aptkhordacollege.org/"
     },
     {
-        "link": "https://med-techinsights.com",
-        "Heading": "Homepage - Med-Tech Insights",
-        "Abstract": "Stay ahead in the world of medical technology with MedTech Insights \u2013 your go-to source for the latest news, expert analysis, and industry trends in medical devices, digital health, AI, and femtech.",
-        "Official Site": "https://med-techinsights.com/",
-        "Icon": "https://med-techinsights.com/wp-content/uploads/2024/11/shutterstock_2214364081.jpg",
-        "Redirect": "https://med-techinsights.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://med-techinsights.com/"
-    },
-    {
         "link": "https://gogologins.com",
         "Heading": "Welcome to nginx!",
         "Abstract": null,
@@ -198,6 +188,16 @@
         "Redirect": "https://seirim.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://seirim.com"
+    },
+    {
+        "link": "https://allartschools.com",
+        "Heading": "Find Accredited Art Schools and Programs | All Art Schools",
+        "Abstract": "Whether you're interested in filmmaking, graphic or game design, interior design or fashion, here's everything you need to find a school.",
+        "Official Site": "https://www.allartschools.com/",
+        "Icon": "https://www.allartschools.com/wp-content/uploads/2014/09/homepage-slide5.jpg",
+        "Redirect": "https://www.allartschools.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.allartschools.com/"
     },
     {
         "link": "https://khw-geschwenda.de",

@@ -72,7 +72,7 @@
     {
         "link": "https://mediuty.com",
         "Heading": null,
-        "Abstract": "",
+        "Abstract": null,
         "Official Site": "https://mediuty.com",
         "Icon": "/fav-ico.svg",
         "Redirect": "https://mediuty.com",
@@ -190,16 +190,6 @@
         "AbstractURL": "https://ceewp.com"
     },
     {
-        "link": "https://muskokabrewery.com",
-        "Heading": "Muskoka Brewery - Muskoka Brewery crafts beverages as refreshing as the region we\u2019re from.",
-        "Abstract": "Our signature lineup! Explore our collection of best-selling easy drinking beers crafted with the spirit of the outdoors. ... Crafted for any occasion. Refreshing ...",
-        "Official Site": "https://muskokabrewery.com/",
-        "Icon": "https://muskokabrewery.com/app/themes/muskoka/public/images/favicon-32x32.png",
-        "Redirect": "https://muskokabrewery.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://muskokabrewery.com/"
-    },
-    {
         "link": "https://starfootspa.com",
         "Heading": "Welcome to Star Spa - Star Foot Spa - Las Vegas largest Foot Spa Center",
         "Abstract": "Imagine stepping into a world of pure relaxation, where every stress and tension in your body melts away. At Star Spa, we offer the perfect trio for total",
@@ -208,16 +198,6 @@
         "Redirect": "https://starfootspa.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://starfootspa.com/"
-    },
-    {
-        "link": "https://cosmopart.ru",
-        "Heading": "Access Denied",
-        "Abstract": null,
-        "Official Site": "https://cosmopart.ru",
-        "Icon": "N/A",
-        "Redirect": "https://cosmopart.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cosmopart.ru"
     },
     {
         "link": "https://videomuseum.fr",
@@ -258,15 +238,5 @@
         "Redirect": "https://magelectric.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://magelectric.ru"
-    },
-    {
-        "link": "https://bitmentorvault.com",
-        "Heading": "Bitmentor vault - Home",
-        "Abstract": "Bitmentor Vault, The financial market for investors",
-        "Official Site": "https://bitmentorvault.com",
-        "Icon": "https://bitmentorvault.com/assets/images/seo/686c39de39ece1751923166.png",
-        "Redirect": "https://bitmentorvault.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bitmentorvault.com"
     }
 ]

@@ -100,16 +100,6 @@
         "AbstractURL": "https://dummersgrain.com"
     },
     {
-        "link": "https://johnbojllctrading.com",
-        "Heading": "Local index - HTTrack Website Copier",
-        "Abstract": "HTTrack is an easy-to-use website mirror utility. It allows you to download a World Wide website from the Internet to a local directory,building recursively all structures, getting html, images, and other files from the server to your computer. Links are rebuiltrelatively so that you can freely browse to the local site (works with any browser). You can mirror several sites together so that you can jump from one toanother. You can, also, update an existing mirror site, or resume an interrupted download. The robot is fully configurable, with an integrated help",
-        "Official Site": "https://johnbojllctrading.com",
-        "Icon": "N/A",
-        "Redirect": "https://johnbojllctrading.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://johnbojllctrading.com"
-    },
-    {
         "link": "https://fundaciorecerca.cat",
         "Heading": "Home - FCRI",
         "Abstract": null,
@@ -158,6 +148,16 @@
         "Redirect": "https://www.arche-warder.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.arche-warder.de/"
+    },
+    {
+        "link": "https://yerbabuenagardens.com",
+        "Heading": "Yerba Buena Gardens | At the Cultural Heart of San Francisco",
+        "Abstract": "Located in the cultural heart of San Francisco, Yerba Buena Gardens is the perfect place to play, dine, shop or just relax.",
+        "Official Site": "https://yerbabuenagardens.org/",
+        "Icon": "https://yerbabuenagardens.org/wp-content/uploads/2024/07/home-hero.jpg",
+        "Redirect": "https://yerbabuenagardens.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yerbabuenagardens.org/"
     },
     {
         "link": "https://spbusinessinsurance.com",

@@ -120,6 +120,16 @@
         "AbstractURL": "https://udpop.com"
     },
     {
+        "link": "https://ui-bao.com",
+        "Heading": "\u4f18\u5821\u7535\u5f71\u7f51 - \u9996\u9875",
+        "Abstract": "\u4f18\u5821\u7535\u5f71\u7f51[www.ui-bao.com]\u5206\u4eab\u5168\u7f51\u6700\u65b0\u9ad8\u6e05\u7535\u5f71\u7535\u89c6\u5267\u3001\u4f26\u7406\u7247\u3001\u7efc\u827a\u3001\u7f8e\u5267\u3001\u97e9\u5267\u3001\u82f1\u5267\u3001\u65e5\u5267\u7b49\u8fc5\u96f7\u4e0b\u8f7d\uff0c\u7b49\u8d44\u6e90\u5728\u7ebf\u89c2\u770b\uff01",
+        "Official Site": "https://ui-bao.com/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://ui-bao.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ui-bao.com/"
+    },
+    {
         "link": "https://uk-electronic.de",
         "Heading": "UK-electronic",
         "Abstract": null,
@@ -161,8 +171,8 @@
     },
     {
         "link": "https://universal-development.com",
-        "Heading": "\nUniversal Development \u2014 Software development products and services\n",
-        "Abstract": "openshift, software, development, engineering, cloud, kubernetes, aws, gcp, java, docker, golang, apk, android",
+        "Heading": "Universal Development",
+        "Abstract": "Software development, cloud engineering, Kubernetes, VPS, private cloud and managed services.",
         "Official Site": "https://universal-development.com/",
         "Icon": "https://universal-development.com/",
         "Redirect": "https://universal-development.com/",

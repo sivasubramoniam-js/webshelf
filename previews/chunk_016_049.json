@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.przystanekkuchnia.pl/"
     },
     {
-        "link": "https://zenvorafx.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://zenvorafx.com",
-        "Icon": "N/A",
-        "Redirect": "https://zenvorafx.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zenvorafx.com"
-    },
-    {
         "link": "https://ultrecoveryboard.com",
         "Heading": "Account Suspended",
         "Abstract": null,
@@ -90,16 +80,6 @@
         "AbstractURL": "https://elsaindustry.eu"
     },
     {
-        "link": "https://dzxinhongji.com",
-        "Heading": "\u65b0\u9e3f\u5f71\u57ce - \u7cbe\u9009\u597d\u7247\u514d\u8d39\u770b",
-        "Abstract": "\u65b0\u9e3f\u5f71\u57ce\u4e13\u6ce8\u5f71\u89c6\u63a8\u8350\uff0c\u6240\u6709\u5f71\u7247\u5747\u53ef\u514d\u8d39\u5728\u7ebf\u89c2\u770b\uff0c\u662f\u60a8\u89c2\u5f71\u5a31\u4e50\u7684\u7406\u60f3\u9009\u62e9\u3002",
-        "Official Site": "https://dzxinhongji.com",
-        "Icon": "N/A",
-        "Redirect": "https://dzxinhongji.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dzxinhongji.com"
-    },
-    {
         "link": "https://freron.com",
         "Heading": "MailMate",
         "Abstract": null,
@@ -108,16 +88,6 @@
         "Redirect": "https://freron.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://freron.com"
-    },
-    {
-        "link": "https://mojs.io",
-        "Heading": "Loading...",
-        "Abstract": null,
-        "Official Site": "https://mojs.io",
-        "Icon": "N/A",
-        "Redirect": "https://mojs.io",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mojs.io"
     },
     {
         "link": "https://bancadedate.ro",
@@ -170,6 +140,16 @@
         "AbstractURL": "https://vsetrack.ru/"
     },
     {
+        "link": "https://mesaparks.com",
+        "Heading": "Parks, Recreation and Community Facilities - City of Mesa",
+        "Abstract": "Parks, Recreation and Community Facilities contributes to a healthy and vibrant community by providing exceptional experiences and services to those who live, work, and play in Mesa.",
+        "Official Site": "https://www.mesaaz.gov/Activities-Culture/Parks-Recreation-and-Community-Facilities",
+        "Icon": "https://www.mesaaz.gov/files/assets/public/v/1/activities-culture/prcf/parks/park-images/eastmark-great-park-decorative.jpg?w=1200",
+        "Redirect": "https://www.mesaaz.gov/Activities-Culture/Parks-Recreation-and-Community-Facilities",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mesaaz.gov/Activities-Culture/Parks-Recreation-and-Community-Facilities"
+    },
+    {
         "link": "https://nbltop100.org",
         "Heading": "Top 100 National Black Lawyers | African American Attorneys",
         "Abstract": "Celebrating & Creating lack History Everyday. The National Black Lawyers is an association comprised of the top African American attorneys across the country.",
@@ -194,7 +174,7 @@
         "Heading": "Telegram: Join Group Chat",
         "Abstract": "\ud83d\udc64 \u0414\u043b\u044f \u0434\u0440\u0443\u0437\u0435\u0439: uwu-net.ru\t\u26d3\ufe0f \u0421\u0442\u0430\u0442\u0443\u0441: uptime.uwu-net.ru\t\u2757 \u041a\u0430\u043d\u0430\u043b \u043d\u0435 \u043f\u0440\u043e \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0443\t\t\ud83e\udea8 \u0417\u0430 \u0433\u0440\u0430\u043c\u0430\u0442\u0438\u043a\u0443 \u0442\u0435\u043a\u0441\u0442\u0430 \u043f\u043e\u0441\u0442\u043e\u0432 \u043d\u0435 \u0440\u0443\u0447\u0430\u044e\u0441\u044c",
         "Official Site": "https://uwu-net.ru",
-        "Icon": "https://cdn4.telesco.pe/file/Ic7qSRsfdofstlzeUVDjVqCJkpRPYgayUD6FAXdLHgvaGQZiMRi5JxJ8sqOBFcWDBczd5x_jmpFt6GBvVY5gWccFGIBwRuaKhFG4xn0HT5NHXKds33RxxbgYyav0rdulz93Q98ZO7Srmuv971R6yiVJqWF9oUPgNLYxAxyFJqrR9R6cRgJLAIJ5MdBksqWAjd0nFUTAf3FIP1BPXtTdm05-vgvX6KnaseScj1YlEk4faZWpU0qaNSNWE8Vy52UpqQYTkfLhzjbBNMfE83MxpiKnpKKhrdrlGPJ0qG0Wac_c3_3ztME1LCUujiMlFTXNAPwr11a2GbHRPdi13HM0BVQ.jpg",
+        "Icon": "https://cdn4.telesco.pe/file/kEfmChqCGttoroVCbQYeMJQeo70RLFA3Il0_9D5okJsmsu1kQDB1RtMiTDpLUrNxTHJV-qd7JX8msGi-_WKLkXADcQOjYoqd-m7LmI-hWkjs19M-ZBkxAgWLKPUpOdH4htPgy0-qb6nj81CyiOH29kzz0YqzKiuZ4VdGlN0cpvbljP01H7fzx2XAklF9jyv5u5diEx0YM6H9X1JoJ6lqJ6VMY_c7-ADxtOAZzN495VILQQVXOoXFo-ELqaRAGhBJgIFHgXqJ2SlWEZm-iaIwUNvbsUfh84d6mXJ8gX2rezX7rupJprZQfSEADfR3AfNIVUVOX2jtn7WdaOY_AChPIA.jpg",
         "Redirect": "https://uwu-net.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://uwu-net.ru"

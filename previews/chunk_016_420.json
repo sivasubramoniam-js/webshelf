@@ -40,6 +40,16 @@
         "AbstractURL": "https://valeenonline.com"
     },
     {
+        "link": "https://stx21.ru",
+        "Heading": "\u041e\u041e\u041e \"\u0421\u0442\u0440\u043e\u0439\u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\"",
+        "Abstract": "\u041e\u041e\u041e \"\u0421\u0442\u0440\u043e\u0439\u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\" \u0433.\u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u044b, \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0440\u0430\u0431\u043e\u0442 \u043f\u043e\u0434 \u043a\u043b\u044e\u0447, \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435, \u0430\u0441\u0443 \u0442\u043f.",
+        "Official Site": "https://stx21.ru",
+        "Icon": "https://www.stx21.ru/themes/main/assets/img/favicon.png",
+        "Redirect": "https://stx21.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stx21.ru"
+    },
+    {
         "link": "https://innbythesea.com",
         "Heading": "Voted Best Resort in Maine | Near Portland, ME | Inn by the Sea",
         "Abstract": "Inn By The Sea Is A Luxury Boutique Oceanfront Beach Resort Near Portland, ME. Our Pet-Friendly Inn Is Perfect For Waterfront Dining, Event Venues, Spa Days And More. Located On A Mile Of Sandy Beach, It's The Best Resort In Maine For Couples And Families. As The Official Website, This Is The Best Rate Guaranteed!",
@@ -58,16 +68,6 @@
         "Redirect": "https://cn-company-hth.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cn-company-hth.com"
-    },
-    {
-        "link": "https://contatoreaccessi.com",
-        "Heading": "Contatore visite e conta pagine. Contatori accessi per il tuo sito.",
-        "Abstract": "Contatore visite e accessi gratuito per le tue pagine. Ottimizzare per migliorare, uno strumento efficacissimo. Gratis per il tuo sito internet.",
-        "Official Site": "https://contatoreaccessi.com",
-        "Icon": "N/A",
-        "Redirect": "https://contatoreaccessi.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://contatoreaccessi.com"
     },
     {
         "link": "https://minicrossword.io",
@@ -231,13 +231,13 @@
     },
     {
         "link": "https://elmofburford.com",
-        "Heading": "Specialists in Country Clothing | Elm of Burford",
-        "Abstract": "Welcome to Elm of Burford! Country clothing specialist, based in Cotswolds. Select from leading quality country clothing brands online today!",
-        "Official Site": "https://elmofburford.com/",
-        "Icon": "https://elmofburford.com/wp-content/uploads/elm.logo_.large_.png",
-        "Redirect": "https://elmofburford.com/",
+        "Heading": "Bot Verification",
+        "Abstract": null,
+        "Official Site": "https://elmofburford.com",
+        "Icon": "N/A",
+        "Redirect": "https://elmofburford.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://elmofburford.com/"
+        "AbstractURL": "https://elmofburford.com"
     },
     {
         "link": "https://edad.org.tr",

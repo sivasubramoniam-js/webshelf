@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://contentstripe.com",
+        "Heading": "Jeeng | Monetization and Personalization Solutions for Publishers",
+        "Abstract": "With Jeeng, publishers can accurately curate content and ads and deliver them directly to subscribers at the right time, on the right channel.",
+        "Official Site": "https://www.jeeng.com/",
+        "Icon": "https://www.jeeng.com/wp-content/uploads/2021/03/JeengSocialShare.jpg",
+        "Redirect": "https://www.jeeng.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.jeeng.com/"
+    },
+    {
         "link": "https://coreweb.de",
         "Heading": "coreweb | Creating Consumer Relevance \u2013 coreweb",
         "Abstract": "Digitales Consumer Marketing \u2013 wirksam und messbar.",
@@ -64,7 +74,7 @@
         "Heading": "3D Printers, Scanners & Engravers South Africa\n          \u2013 Create it 3D\n        ",
         "Abstract": "Shop 3D printers, laser engravers and 3D scanners in South Africa. Fast delivery, expert support and custom 3D printing services from Create It 3D.",
         "Official Site": "https://createit3d.co.za/",
-        "Icon": "http://createit3d.co.za/cdn/shop/files/Createit3D_Logo_Full-JPG_b9ff5619-56b1-4dc1-895e-c58729dbd52d.jpg?v=1773827858",
+        "Icon": "http://createit3d.co.za/cdn/shop/files/Createit3D_Logo_Full-JPG_b9ff5619-56b1-4dc1-895e-c58729dbd52d.jpg?v=1784831206",
         "Redirect": "https://createit3d.co.za/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://createit3d.co.za/"
@@ -140,16 +150,6 @@
         "AbstractURL": "https://dalinnovates.ca/"
     },
     {
-        "link": "https://datanutsbedrijf.be",
-        "Heading": "Vertrouwen in datasamenwerking | Athumi",
-        "Abstract": "Athumi laat data samenwerken via data spaces en data collaboration platforms. Dat zorgt voor vertrouwen, veiligheid en innovatie. Lees meer.",
-        "Official Site": "https://athumi.eu/",
-        "Icon": "https://athumi.eu/assets/uploads/LOGOS/_1200x630_crop_center-center_82_none/athumi-logo.png?mtime=1754047468",
-        "Redirect": "https://athumi.eu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://athumi.eu/"
-    },
-    {
         "link": "https://davibooks.vn",
         "Heading": "Davibooks.vn - \u0110em s\u00e1ch hay v\u1ec1 cho b\u1ea1n",
         "Abstract": "Davibooks - \u0110em s\u00e1ch hay v\u1ec1 cho b\u1ea1n",
@@ -181,10 +181,10 @@
     },
     {
         "link": "https://decaf200.com",
-        "Heading": "decaf200 \u2014 Software Engineering for SEO, Data Automation & Web Tools",
+        "Heading": "decaf200 - Software Engineering for SEO, Data Automation and Web Tools",
         "Abstract": "decaf200 builds custom automation tools, web scrapers, data pipelines, SEO utilities, and crypto integrations. Parsers, ETL jobs, chatbots, proxy checkers, sitemap submitters, and more.",
         "Official Site": "https://decaf200.com/",
-        "Icon": "/favicon.ico",
+        "Icon": "/favicon.svg",
         "Redirect": "https://decaf200.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://decaf200.com/"
@@ -231,10 +231,10 @@
     },
     {
         "link": "https://denis256.dev",
-        "Heading": "denis256 notes and projects",
-        "Abstract": "denis256",
+        "Heading": "denis256",
+        "Abstract": "Software engineer \u2014 notes, open-source, and projects.",
         "Official Site": "https://denis256.dev",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://denis256.dev",
         "AbstractSource": "BS4",
         "AbstractURL": "https://denis256.dev"
@@ -251,7 +251,7 @@
     },
     {
         "link": "https://developurs.com",
-        "Heading": "Staffing Firm providing PeopleSoft Consultants in Falls Church",
+        "Heading": "San Jose Meditech Consulting, Meditech Consultants and Meditech Experts in San Jose",
         "Abstract": null,
         "Official Site": "https://developurs.com",
         "Icon": "N/A",

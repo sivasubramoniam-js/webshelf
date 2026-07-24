@@ -140,6 +140,16 @@
         "AbstractURL": "https://consistentgrowths.com"
     },
     {
+        "link": "https://appflx.com",
+        "Heading": "Login",
+        "Abstract": null,
+        "Official Site": "https://appflx.com",
+        "Icon": "N/A",
+        "Redirect": "https://appflx.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://appflx.com"
+    },
+    {
         "link": "https://pocket-optiony-ru.com",
         "Heading": "\u041f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u041f\u043e\u043a\u0435\u0442 \u043e\u043f\u0448\u0435\u043d: \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430 \u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0431\u0438\u0440\u0436\u0435",
         "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u0441\u0443\u0440\u0441 Pocket Option: \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0431\u0440\u043e\u043a\u0435\u0440\u0430 \u0434\u0435\u0440\u0438\u0432\u0430\u0442\u0438\u0432\u043e\u0432 \u043d\u0435\u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u0441 \u043f\u043e\u0434\u043b\u0438\u043d\u043d\u043e\u0433\u043e \u043f\u043e\u0440\u0442\u0430\u043b\u0430 \u044d\u0442\u043e\u0439 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438, \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u0443\u044e\u0449\u0435\u0439\u0441\u044f \u043d\u0430 \u0431\u0438\u043d\u0430\u0440\u043d\u044b\u0445 \u043e\u043f\u0446\u0438\u043e\u043d\u0430\u0445. \u041d\u0435 \u043e\u0442\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0439\u0442\u0435 \u2013 \u0441\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0443\u0447\u0435\u0442\u043d\u0443\u044e \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0435\u043c\u0435\u0434\u043b\u0435\u043d\u043d\u043e.",
@@ -161,13 +171,13 @@
     },
     {
         "link": "https://restaurant-kritik.de",
-        "Heading": "Berlin Restaurants, Essen, Shopping, Hotels, Wellness, \u00c4rzte - Yelp",
-        "Abstract": "Auf Yelp kannst du alles M\u00f6gliche suchen, vom leckersten Burger deiner Stadt bis zum renommierten Zahnarzt. Welche Gesch\u00e4fte in deiner Nachbarschaft wirst du entdecken?",
-        "Official Site": "https://www.yelp.de/",
+        "Heading": "Restaurants, Essen, Shopping, Hotels, Wellness, \u00c4rzte - Yelp",
+        "Abstract": "Kundenbeitr\u00e4ge und Empfehlungen zu den besten Restaurants, Shopping-Adressen und Nightlife-Locations sowie zu den Themen Essen, Unterhaltung, Aktivit\u00e4ten, Dienstleistungen und mehr auf Yelp",
+        "Official Site": "https://m.yelp.de/",
         "Icon": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_large_assets/a8d26394324f/assets/img/seo_metadata/yelp_og_image.png",
-        "Redirect": "https://www.yelp.de/",
+        "Redirect": "https://m.yelp.de/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.yelp.de/"
+        "AbstractURL": "https://m.yelp.de/"
     },
     {
         "link": "https://watergenics.tech",
