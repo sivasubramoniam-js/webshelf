@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://supermangames.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://supermangames.com",
+        "Icon": "N/A",
+        "Redirect": "https://supermangames.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://supermangames.com"
+    },
+    {
         "link": "https://limerickhayfarms.com",
         "Heading": "Home - Limerick Hay Farms",
         "Abstract": "Limerick Hay Farms Producer of high-quality hay Hay of Extraordinary Quality Delivering the best hay to your door.",
@@ -158,15 +168,5 @@
         "Redirect": "https://www.text2reach.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.text2reach.com/"
-    },
-    {
-        "link": "https://jiacps.xyz",
-        "Heading": "porkbun.com | domain for sale",
-        "Abstract": "",
-        "Official Site": "https://jiacps.xyz",
-        "Icon": "N/A",
-        "Redirect": "https://jiacps.xyz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jiacps.xyz"
     }
 ]
