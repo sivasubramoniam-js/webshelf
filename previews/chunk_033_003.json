@@ -51,13 +51,13 @@
     },
     {
         "link": "https://halat.co.il",
-        "Heading": "\u05d7\u05dc\u05ea \u05e0\u05ea\u05e0\u05d9\u05d4 | \u05d4\u05d7\u05d1\u05e8\u05d4 \u05dc\u05e4\u05d9\u05ea\u05d5\u05d7 \u05e0\u05ea\u05e0\u05d9\u05d4 | \u05d7\u05dc\u05ea \u05e0\u05ea\u05e0\u05d9\u05d4",
-        "Abstract": "\u05d7.\u05dc.\u05ea  \u05d4\u05d9\u05e0\u05d4 \u05ea\u05d0\u05d2\u05d9\u05d3 \u05e2\u05d9\u05e8\u05d5\u05e0\u05d9 \u05db\u05dc\u05db\u05dc\u05d9 \u05d1\u05d1\u05e2\u05dc\u05d5\u05ea \u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05e0\u05ea\u05e0\u05d9\u05d4. \u05d4\u05d7\u05d1\u05e8\u05d4 \u05de\u05e9\u05de\u05e9\u05ea, \u05d1\u05df \u05d4\u05d9\u05ea\u05e8, \u05db\u05d6\u05e8\u05d5\u05e2 \u05d0\u05e8\u05d5\u05db\u05d4 \u05e9\u05dc \u05d4\u05e2\u05d9\u05e8\u05d9\u05d9\u05d4 \u05dc\u05d1\u05d9\u05e6\u05d5\u05e2 \u05e2\u05d1\u05d5\u05d3\u05d5\u05ea \u05e4\u05d9\u05ea\u05d5\u05d7 \u05d5\u05d1\u05d9\u05e0\u05d5\u05d9, \u05e2\u05dc \u05e4\u05d9 \u05d4\u05e0\u05d7\u05d9\u05d5\u05ea \u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05e8\u05d9\u05d9\u05d4 \u05d5\u05d9\u05d5\u05e8 \u05d4\u05d3\u05d9\u05e8\u05e7\u05d8\u05d5\u05e8\u05d9\u05d5\u05df \u05d1\u05ea\u05d0\u05d5\u05dd \u05e2\u05dd \u05de\u05e0\u05db\u05dc \u05d4\u05e2\u05d9\u05e8\u05d9\u05d9\u05d4, \u05de\u05d4\u05e0\u05d3\u05e1 \u05d4\u05e2\u05d9\u05e8, \u05d7\u05d1\u05e8\u05ea \u05de\u05d9 \u05e0\u05ea\u05e0\u05d9\u05d4 \u05d5\u05d0\u05d2\u05e4\u05d9 \u05d4\u05e2\u05d9\u05e8\u05d9\u05d9\u05d4 \u05d4\u05e9\u05d5\u05e0\u05d9\u05dd.",
-        "Official Site": "http://www.halat.co.il/html5/sbs.taf?&did=2300&_id=12152&g=12154",
-        "Icon": "http://www.halat.co.il/html5/web/2300/logow.jpg",
-        "Redirect": "http://www.halat.co.il/html5/sbs.taf?&did=2300&_id=12152&g=12154",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://halat.co.il",
+        "Icon": "N/A",
+        "Redirect": "https://halat.co.il",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://www.halat.co.il/html5/sbs.taf?&did=2300&_id=12152&g=12154"
+        "AbstractURL": "https://halat.co.il"
     },
     {
         "link": "https://fordheritagevault.com",
@@ -68,6 +68,16 @@
         "Redirect": "https://fordheritagevault.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fordheritagevault.com"
+    },
+    {
+        "link": "https://winestatus.co.il",
+        "Heading": "\u05e1\u05d8\u05d8\u05d5\u05e1 \u05e9\u05dc \u05d9\u05d9\u05df \u2013 \u05d7\u05e0\u05d5\u05ea \u05d1\u05d5\u05d8\u05d9\u05e7 \u05dc\u05d9\u05d9\u05df",
+        "Abstract": null,
+        "Official Site": "https://winestatus.co.il",
+        "Icon": "https://winestatus.co.il/wp-content/uploads/2023/01/12-1-e1675149883896-100x100.png",
+        "Redirect": "https://winestatus.co.il",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://winestatus.co.il"
     },
     {
         "link": "https://cdm-radio.com",
@@ -91,7 +101,7 @@
     },
     {
         "link": "https://slon7at.com",
-        "Heading": "\u041e\u0434\u0438\u043d \u043c\u043e\u043c\u0435\u043d\u0442\u2026",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://slon7at.com",
         "Icon": "N/A",
@@ -174,7 +184,7 @@
         "Heading": "\u793e\u4f1a\u798f\u7949\u6cd5\u4eba\u3000\u6674\u5c71\u4f1a\u3000\u516c\u5f0f\u30db\u30fc\u30e0\u30da\u30fc\u30b8",
         "Abstract": "\u533b\u7642\u6cd5\u4eba\u793e\u56e3\u30fb\u793e\u4f1a\u798f\u7949\u6cd5\u4eba\u6674\u5c71\u4f1a\u516c\u5f0f\u30b5\u30a4\u30c8\u3067\u3059\u3002\u6674\u5c71\u4f1a\u5404\u65bd\u8a2d\u306e\u7d39\u4ecb\u3084\u30c8\u30d4\u30c3\u30af\u30b9\u30fb\u66f4\u65b0\u60c5\u5831\u3001Q&A\u3001\u6c42\u4eba\u60c5\u5831\u306a\u3069\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u3092\u3054\u7528\u610f\u3057\u3066\u304a\u308a\u307e\u3059\u3002",
         "Official Site": "https://seizan-kai.or.jp/",
-        "Icon": "https://seizan-kai.or.jp/files/site_config/capture.jpg?1785204655",
+        "Icon": "https://seizan-kai.or.jp/files/site_config/capture.jpg?1785291276",
         "Redirect": "https://seizan-kai.or.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://seizan-kai.or.jp/"
