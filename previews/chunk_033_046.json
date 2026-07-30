@@ -221,10 +221,10 @@
     },
     {
         "link": "https://everythingforsuccess.com",
-        "Heading": "EverythingForSuccess.com - Business Domains for Sale - Buy Premium Corporate Domain Names | Domain for Sale. Call 888-694-6735.",
-        "Abstract": "EverythingForSuccess.com - a great premium domain available for sale.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://everythingforsuccess.com",
-        "Icon": "https://cdn.domainmarket.com/dm-com/social/everythingforsuccess-com.jpg",
+        "Icon": "N/A",
         "Redirect": "https://everythingforsuccess.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://everythingforsuccess.com"
@@ -250,6 +250,16 @@
         "AbstractURL": "https://cazinos-daetwin.ru/"
     },
     {
+        "link": "https://impexus.com",
+        "Heading": "Impexus.com - Business Domains for Sale - Buy Premium Corporate Domain Names | Domain for Sale. Call 888-694-6735.",
+        "Abstract": "Impexus.com - a great premium domain available for sale.",
+        "Official Site": "https://impexus.com",
+        "Icon": "https://cdn.domainmarket.com/dm-com/social/impexus-com.jpg",
+        "Redirect": "https://impexus.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://impexus.com"
+    },
+    {
         "link": "https://roy-mueller.de",
         "Heading": "Startseite",
         "Abstract": null,
@@ -262,12 +272,12 @@
     {
         "link": "https://getglove.com",
         "Heading": "Glove \u2014 The execution layer",
-        "Abstract": null,
-        "Official Site": "https://getglove.com",
-        "Icon": "assets/favicon.svg",
-        "Redirect": "https://getglove.com",
+        "Abstract": "The execution layer where AI, humans, and software coordinate from a single shared state. Deterministic, auditable, channel-agnostic.",
+        "Official Site": "https://getglove.com/",
+        "Icon": "https://getglove.com/assets/og-glove.png",
+        "Redirect": "https://getglove.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://getglove.com"
+        "AbstractURL": "https://getglove.com/"
     },
     {
         "link": "https://keramoti-info.com",

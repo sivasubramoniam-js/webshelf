@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.divitlv.com"
     },
     {
-        "link": "https://marychambersrealestate.com",
-        "Heading": "Mary Chambers | JPAR Real Estate Professionals | Top Producing Realtor in Southern Maryland | 301-659-2440",
-        "Abstract": "The Mary Chambers Team, 20 years experience selling Southern Maryland Real Estate. Mary focuses on Listings, each get free professional photos and video. Adam, her Son, focuses on Buyers, available all hours to show you a home.  Scott, her Husband, stays at the computer to respond to each request. Over 280 5-Star Reviews on Zillow.",
-        "Official Site": "https://www.marychambersrealestate.com/",
-        "Icon": "https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-56-04-00000/images/web/icons/favicon.png",
-        "Redirect": "https://www.marychambersrealestate.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.marychambersrealestate.com/"
-    },
-    {
         "link": "https://dandanbolotin.co.il",
         "Heading": "\u05d0\u05ea\u05e8 \u05d4\u05d1\u05d9\u05ea| \u05d3\u05e0\u05d3\u05e0\u05df \u05d1\u05d5\u05dc\u05d5\u05d8\u05d9\u05df | \u05de\u05e7\u05dc\u05d8 \u05dc\u05d7\u05d9\u05d5\u05ea \u05d1\u05e8 | \u05d7\u05d5\u05d5\u05ea \u05d1\u05d5\u05dc\u05d5\u05d8\u05d9\u05df \u05d7\u05d0\u05df \u05e6\u05d9\u05de\u05e8\u05d9\u05dd \u05d5\u05e9\u05de\u05df \u05d6\u05d9\u05ea \u05de\u05e9\u05d5\u05d1\u05d7",
         "Abstract": "\u05d0\u05d7\u05e8\u05d9 \u05e9\u05e0\u05d9\u05dd \u05e9\u05dc \u05e0\u05d3\u05d5\u05d3\u05d9\u05dd \u05d1\u05e8\u05d7\u05d1\u05d9 \u05d4\u05e2\u05d5\u05dc\u05dd, \u05e2\u05d1\u05d5\u05d3\u05d4 \u05e2\u05dd \u05d0\u05d9\u05e0\u05d3\u05d9\u05d0\u05e0\u05d9\u05dd \u05d1\u05d9\u05e2\u05e8\u05d5\u05ea \u05d4\u05d2\u05e9\u05dd \u05d1\u05d0\u05e7\u05d5\u05d5\u05d3\u05d5\u05e8, \u05d1\u05d5\u05e9\u05de\u05e0\u05d9\u05dd \u05d1\u05d0\u05e4\u05e8\u05d9\u05e7\u05d4, \u05dc\u05de\u05d5\u05e8\u05d9\u05dd \u05d1\u05de\u05d3\u05d2\u05e1\u05e7\u05e8, \u05d2\u05d5\u05e8\u05d9\u05dc\u05d5\u05ea \u05d1\u05e7\u05de\u05e8\u05d5\u05df \u05d5\u05e2\u05d5\u05d3 \u05d5\u05e2\u05d5\u05d3, \u05d3\u05e0\u05d3\u05df \u05d1\u05d5\u05dc\u05d5\u05d8\u05d9\u05df \u05d5\u05dc\u05d9\u05dc\u05da \u05dc\u05d5\u05d9 \u05d4\u05ea\u05de\u05e7\u05de\u05d5 \u05d1\u05d7\u05d5\u05d5\u05ea \u05e2\u05e0\u05e7 \u05d1\u05e0\u05d2\u05d1, \u05d5\u05e9\u05dd \u05d4\u05dd \u05de\u05d2\u05d3\u05dc\u05d9\u05dd \u05d0\u05ea \u05d9\u05dc\u05d3\u05d9\u05d4\u05dd \u05d5\u05d0\u05ea \u05d7\u05d1\u05d5\u05e8\u05ea \u05d4\u05d7\u05d9\u05d5\u05ea \u05e9\u05d7\u05d5\u05e1\u05d5\u05ea \u05d1\u05de\u05e7\u05dc\u05d8 \u05e9\u05d4\u05e7\u05d9\u05de\u05d5 \u05dc\u05d1\u05e2\u05dc\u05d9 \u05d7\u05d9\u05d9\u05dd \u05e0\u05d3\u05d9\u05e8\u05d9\u05dd, \u05e4\u05e6\u05d5\u05e2\u05d9\u05dd \u05d0\u05d5 \u05d1\u05e1\u05db\u05e0\u05ea \u05d4\u05db\u05d7\u05d3\u05d4.\n\n",
@@ -68,6 +58,16 @@
         "Redirect": "https://www.rom-transport.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.rom-transport.com"
+    },
+    {
+        "link": "https://orodioro.fr",
+        "Heading": "orodioro",
+        "Abstract": "Boutique propuls\u00e9e par PrestaShop",
+        "Official Site": "https://orodioro.fr",
+        "Icon": "/img/favicon.ico?1517801949",
+        "Redirect": "https://orodioro.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://orodioro.fr"
     },
     {
         "link": "https://rosela.co",
@@ -101,8 +101,8 @@
     },
     {
         "link": "https://graphiplex.fr",
-        "Heading": "Graphiplex",
-        "Abstract": "Boutique propuls\u00e9e par PrestaShop",
+        "Heading": "Pr\u00e9sentoirs en plexiglas pour collections et objets de collection | Graphiplex",
+        "Abstract": "D\u00e9couvrez nos pr\u00e9sentoirs en plexiglas fabriqu\u00e9s en France pour mettre en valeur vos collections : couteaux, monnaies, cartes Pok\u00e9mon, militaria, bijoux et cr\u00e9ations sur mesure.",
         "Official Site": "https://graphiplex.fr/",
         "Icon": "https://graphiplex.fr/img/favicon.ico?1781994708",
         "Redirect": "https://graphiplex.fr/",
