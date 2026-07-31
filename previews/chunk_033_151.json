@@ -20,21 +20,11 @@
         "AbstractURL": "https://airwavedigital.net"
     },
     {
-        "link": "https://shreyatravels.co.in",
-        "Heading": "SHREYA TOURS & TRAVELS",
-        "Abstract": "",
-        "Official Site": "https://shreyatravels.co.in",
-        "Icon": "images/shreya_logo2.png",
-        "Redirect": "https://shreyatravels.co.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shreyatravels.co.in"
-    },
-    {
         "link": "https://anchorsaweighvacations.com",
         "Heading": "Don & Laura Johnson ACC",
         "Abstract": null,
         "Official Site": "https://www.anchorsaweighvacations.com",
-        "Icon": "http://www.anchorsaweighvacations.com/images/site-background-default.jpg?rand=4176",
+        "Icon": "http://www.anchorsaweighvacations.com/images/site-background-default.jpg?rand=5691",
         "Redirect": "https://www.anchorsaweighvacations.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.anchorsaweighvacations.com"
@@ -68,6 +58,16 @@
         "Redirect": "https://zapkollege.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zapkollege.ru"
+    },
+    {
+        "link": "https://domsippanel.ru",
+        "Heading": "domsippanel.ru - \u0414\u043e\u043c SIP \u041f\u0430\u043d\u0435\u043b\u044c \u2014 \u042d\u043d\u0435\u0440\u0433\u043e\u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e",
+        "Abstract": "\u0421\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0434\u043e\u043c\u0430 \u0438\u0437 SIP-\u043f\u0430\u043d\u0435\u043b\u0435\u0439: \u0431\u044b\u0441\u0442\u0440\u043e, \u0442\u0435\u043f\u043b\u043e, \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u043d\u043e. \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e.",
+        "Official Site": "https://domsippanel.ru/",
+        "Icon": "https://domsippanel.ru/wp-content/uploads/2025/10/Screenshot_44.png",
+        "Redirect": "https://domsippanel.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://domsippanel.ru/"
     },
     {
         "link": "https://harrisdoor.com",

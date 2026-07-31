@@ -60,6 +60,16 @@
         "AbstractURL": "https://merakimas.com/"
     },
     {
+        "link": "https://shrinners.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://shrinners.com",
+        "Icon": "N/A",
+        "Redirect": "https://shrinners.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shrinners.com"
+    },
+    {
         "link": "https://greatcms.com",
         "Heading": "this is a mail-in-a-box",
         "Abstract": null,
@@ -104,7 +114,7 @@
         "Heading": "Santhila DataBot - Your Global Technology Partner for AI, SaaS & Enterprise Software",
         "Abstract": "Santhila builds advanced Enterprise AI solutions, secure RAG pipelines, and Industrial IoT platforms for scaling corporations across the USA & Australia.",
         "Official Site": "https://santhila.com",
-        "Icon": "/favicon.svg?v=navbot-4",
+        "Icon": "/santhila-databot-icon.png",
         "Redirect": "https://santhila.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://santhila.com"

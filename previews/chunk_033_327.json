@@ -30,16 +30,6 @@
         "AbstractURL": "https://yemek24.com.tr/"
     },
     {
-        "link": "https://ragasurrey.com",
-        "Heading": "Raga Indian Restaurant | Authentic Indian Cuisine | Surrey",
-        "Abstract": "Savor the richness of authentic Indian cuisines at Raga Indian Restaurant in Surrey. Your destination for traditional Indian dishes. Visit today!",
-        "Official Site": "https://ragasurrey.com",
-        "Icon": "NXWQ2XFPbK6PIww5fPcw/media/66be4f94bc3c5559cba93cac.webp",
-        "Redirect": "https://ragasurrey.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ragasurrey.com"
-    },
-    {
         "link": "https://chestervillerecord.com",
         "Heading": "The Record News - Chesterville's Community Newspaper",
         "Abstract": "Chesterville's Community Newspaper",
@@ -218,6 +208,16 @@
         "Redirect": "https://rileylaw.us",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rileylaw.us"
+    },
+    {
+        "link": "https://legacy250.com",
+        "Heading": "Legacy 250 | San Diego Humane Society",
+        "Abstract": null,
+        "Official Site": "https://sdhumane.org/support/legacy-250/",
+        "Icon": "https://sdhumane.org/wp-content/uploads/2026/05/sdhumane-logo-previewv2.jpg",
+        "Redirect": "https://sdhumane.org/support/legacy-250/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sdhumane.org/support/legacy-250/"
     },
     {
         "link": "https://jwdiscover.com",
