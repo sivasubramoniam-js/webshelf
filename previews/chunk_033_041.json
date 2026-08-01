@@ -14,7 +14,7 @@
         "Heading": "\u041f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0443\u0435\u043c \u0441 \u0432\u0435\u0442\u0435\u0440\u043a\u043e\u043c \u0438 \u0440\u0443\u0431\u043b\u0435\u043c",
         "Abstract": "\u041a\u0430\u043a \u0441\u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u043e\u0435\u0437\u0434\u043a\u0443 \u0438 \u043d\u0435 \u0443\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e\u0435",
         "Official Site": "https://\u043f\u043e\u0435\u0445\u0430\u043b\u0438-\u043d\u0430-\u044e\u0433.\u0440\u0444/",
-        "Icon": "/share.jpg?v=1785466654",
+        "Icon": "/share.jpg?v=1785553139",
         "Redirect": "https://\u043f\u043e\u0435\u0445\u0430\u043b\u0438-\u043d\u0430-\u044e\u0433.\u0440\u0444/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://\u043f\u043e\u0435\u0445\u0430\u043b\u0438-\u043d\u0430-\u044e\u0433.\u0440\u0444/"
@@ -51,10 +51,10 @@
     },
     {
         "link": "https://exercizeguyz.com",
-        "Heading": "Home | Exercize Guyz",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://exercizeguyz.com",
-        "Icon": "https://exercizeguyz.com/images/favicon.png?a=1",
+        "Icon": "data:,",
         "Redirect": "https://exercizeguyz.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://exercizeguyz.com"
@@ -91,23 +91,13 @@
     },
     {
         "link": "https://thehostings.co.uk",
-        "Heading": "Portal Home - The Hostings",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://thehostings.co.uk",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://thehostings.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thehostings.co.uk"
-    },
-    {
-        "link": "https://ipfirm.com",
-        "Heading": "IP Law Firm | Hauptman Ham | Patent, Trademark & Copyright Attorneys",
-        "Abstract": "Hauptman Ham provides comprehensive intellectual property services, protecting patents, trademarks, and copyrights with strategic, business-focused IP counsel.",
-        "Official Site": "https://ipfirm.com",
-        "Icon": "N/A",
-        "Redirect": "https://ipfirm.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ipfirm.com"
     },
     {
         "link": "https://amaume.co.jp",
@@ -250,16 +240,6 @@
         "AbstractURL": "https://www.atom.com/name/Nlaj"
     },
     {
-        "link": "https://nexmachina.com",
-        "Heading": "Nexmachina | Impulsamos la digitalizaci\u00f3n IoT",
-        "Abstract": "Impulsa la digitalizaci\u00f3n IoT con conectividad LoRaWAN segura y escalable. Plataforma iQmenic para monitorizaci\u00f3n, gesti\u00f3n y control inteligente.",
-        "Official Site": "https://nexmachina.com/",
-        "Icon": "https://nexmachina.com/wp-content/uploads/cropped-Simbolo-color-32x32.png",
-        "Redirect": "https://nexmachina.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nexmachina.com/"
-    },
-    {
         "link": "https://ijustfart.com",
         "Heading": null,
         "Abstract": null,
@@ -328,15 +308,5 @@
         "Redirect": "https://www.atom.com/lpd/name/ExploreOoty.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.atom.com/lpd/name/ExploreOoty.com"
-    },
-    {
-        "link": "https://tunersmall.com",
-        "Heading": "TuneRS Motorsports",
-        "Abstract": null,
-        "Official Site": "https://tunersmotorsports.com/",
-        "Icon": "https://tunersmotorsports.com/wp-content/uploads/2015/08/cropped-tuners-crest.jpg",
-        "Redirect": "https://tunersmotorsports.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tunersmotorsports.com/"
     }
 ]

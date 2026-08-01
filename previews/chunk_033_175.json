@@ -91,13 +91,13 @@
     },
     {
         "link": "https://tombrowninc.com",
-        "Heading": "Specialty Tape Products | Tom Brown Inc.",
-        "Abstract": "Tom Brown Inc. has served as a fully integrated converter and manufacturer of specialty tape products and gasket materials for various industries.",
-        "Official Site": "https://tombrowninc.com/",
-        "Icon": "https://tombrowninc.com/wp-content/uploads/roll.jpg",
-        "Redirect": "https://tombrowninc.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://tombrowninc.com",
+        "Icon": "data:,",
+        "Redirect": "https://tombrowninc.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tombrowninc.com/"
+        "AbstractURL": "https://tombrowninc.com"
     },
     {
         "link": "https://inhotelcn.cn",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://neurorigin.com"
     },
     {
+        "link": "https://secrets-aloyse.fr",
+        "Heading": "Fabrication et vente de produits cosm\u00e9tiques naturelles - SECRETS D'ALOYSE",
+        "Abstract": "Vente en ligne et en boutique de produits cosm\u00e9tiques naturelles. Ingr\u00e9dients issus de l'agriculture Bio, sans conservateurs chimiques.",
+        "Official Site": "https://secrets-aloyse.fr",
+        "Icon": "/img/favicon.ico?1768640459",
+        "Redirect": "https://secrets-aloyse.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://secrets-aloyse.fr"
+    },
+    {
         "link": "https://shiracase.com",
         "Heading": "\u05d1\u05d9\u05ea  | shira.case",
         "Abstract": null,
@@ -211,20 +221,20 @@
     },
     {
         "link": "https://watercontrol-valve.com",
-        "Heading": "Quality Water Control Valve & Float Control Valve service provider from China",
-        "Abstract": "China leading provider of Water Control Valve and Float Control Valve, Beijing Silk Road Enterprise Management Services Co.,LTD offer Float Control Valve service on demand.",
-        "Official Site": "https://www.watercontrol-valve.com/",
-        "Icon": "https://img.watercontrol-valve.com/photo/cl33541171-beijing_silk_road_enterprise_management_services_co_ltd.jpg",
-        "Redirect": "https://www.watercontrol-valve.com/",
+        "Heading": "China Water Control Valve & Float Control Valve factories",
+        "Abstract": "Good quality Water Control Valve from China, Float Control Valve factories of Beijing Silk Road Enterprise Management Services Co.,LTD.",
+        "Official Site": "https://watercontrol-valve.com",
+        "Icon": "N/A",
+        "Redirect": "https://watercontrol-valve.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.watercontrol-valve.com/"
+        "AbstractURL": "https://watercontrol-valve.com"
     },
     {
         "link": "https://grupodjl.com",
-        "Heading": "grupodjl.com",
-        "Abstract": "",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://grupodjl.com",
-        "Icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIxLjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA4OCAxMDIuMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgODggMTAyLjI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojMDY4MkI0O30KCS5zdDF7ZmlsbDojMzFCN0U5O30KCS5zdDJ7ZmlsbDpub25lO30KPC9zdHlsZT4KPGc+Cgk8Zz4KCQk8Zz4KCQkJPHBvbHlnb24gY2xhc3M9InN0MCIgcG9pbnRzPSI4OCw1Mi42IDg4LDUyLjYgMzguNCwzIDI0LjIsMTcuMiA1OS43LDUyLjYgMjQuMyw4OCAzOC40LDEwMi4yIAkJCSIvPgoJCTwvZz4KCQk8Zz4KCQkJPHBvbHlnb24gY2xhc3M9InN0MSIgcG9pbnRzPSI4NSw0OS42IDg1LDQ5LjYgMzUuNCwwIDIxLjIsMTQuMiA1Ni43LDQ5LjYgMjEuMyw4NSAzNS40LDk5LjIgCQkJIi8+CgkJPC9nPgoJPC9nPgoJPGxpbmUgY2xhc3M9InN0MiIgeDE9IjQwLjMiIHkxPSIxMDMuOCIgeDI9IjkwLjEiIHkyPSI1NC4yIi8+Cgk8Zz4KCQk8cG9seWxpbmUgY2xhc3M9InN0MCIgcG9pbnRzPSIxMC41LDc0LjQgMTQuMSw3OCA0Mi40LDQ5LjYgMzguNyw0NS44IAkJIi8+CgkJPHBvbHlsaW5lIGNsYXNzPSJzdDEiIHBvaW50cz0iMzguNyw0NS45IDE0LjIsMjEuMyAwLDM1LjQgMTQuMiw0OS42IDAsNjMuOCAxMC42LDc0LjQgCQkiLz4KCTwvZz4KPC9nPgo8L3N2Zz4K",
+        "Icon": "data:,",
         "Redirect": "https://grupodjl.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://grupodjl.com"

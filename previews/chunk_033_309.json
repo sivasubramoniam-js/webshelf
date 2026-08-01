@@ -80,6 +80,16 @@
         "AbstractURL": "https://lamescan.ru"
     },
     {
+        "link": "https://gk-superserver.com",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://gk-superserver.com",
+        "Icon": "data:,",
+        "Redirect": "https://gk-superserver.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gk-superserver.com"
+    },
+    {
         "link": "https://wmc-direkt.de",
         "Heading": "NEXIS QSEC",
         "Abstract": "Entdecken Sie die leistungsstarke, einheitliche NEXIS GRC-Plattform mit automatisierter Compliance, Risikomanagement und Identity Governance. Entdecken Sie noch heute vertrauensw\u00fcrdige L\u00f6sungen.",
@@ -131,10 +141,10 @@
     },
     {
         "link": "https://knitzy.com",
-        "Heading": "KnitZy Hats Scarves Accessories Luxury Hand Knits",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://knitzy.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://knitzy.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://knitzy.com"

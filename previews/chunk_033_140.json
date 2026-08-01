@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://tlqs.com",
-        "Heading": "Index of /",
-        "Abstract": null,
-        "Official Site": "https://tlqs.com",
-        "Icon": "N/A",
-        "Redirect": "https://tlqs.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tlqs.com"
-    },
-    {
         "link": "https://hugelwerk.com",
         "Heading": "\u041e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0435 \u0410\u0441\u0444\u0430\u043b\u044c\u0442\u043e\u0431\u0435\u0442\u043e\u043d\u043d\u044b\u0445 \u0437\u0430\u0432\u043e\u0434\u043e\u0432",
         "Abstract": "\u0412 \u043d\u0430\u043b\u0438\u0447\u0438\u0438 \u0438 \u043f\u043e\u0434 \u0437\u0430\u043a\u0430\u0437 \u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u043e \u0434\u0435\u0442\u0430\u043b\u0435\u0439 \u0434\u043b\u044f \u0410\u0411\u0417 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439 ",
@@ -38,6 +28,16 @@
         "Redirect": "https://pinballtoday.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pinballtoday.co.uk"
+    },
+    {
+        "link": "https://logo360.com",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://logo360.com",
+        "Icon": "data:,",
+        "Redirect": "https://logo360.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://logo360.com"
     },
     {
         "link": "https://ukbigbuy.com",
@@ -91,13 +91,13 @@
     },
     {
         "link": "https://fitnex.co.il",
-        "Heading": "Home - Fitnex - \u05d0\u05d9\u05e0\u05d3\u05e7\u05e1 \u05de\u05e8\u05db\u05d6\u05d9 \u05d4\u05db\u05d5\u05e9\u05e8 \u05d5\u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
-        "Abstract": "Fitnex - \u05d0\u05d9\u05e0\u05d3\u05e7\u05e1 \u05de\u05e8\u05db\u05d6\u05d9 \u05d4\u05db\u05d5\u05e9\u05e8 \u05d5\u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
-        "Official Site": "https://fitnex.co.il/",
-        "Icon": "https://fitnex.co.il/wp-content/uploads/2021/09/Untitled-design-23.png",
-        "Redirect": "https://fitnex.co.il/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://fitnex.co.il",
+        "Icon": "data:;",
+        "Redirect": "https://fitnex.co.il",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fitnex.co.il/"
+        "AbstractURL": "https://fitnex.co.il"
     },
     {
         "link": "https://kraftigsolutions.com",
@@ -161,13 +161,13 @@
     },
     {
         "link": "https://selhaz.com",
-        "Heading": "\uc140\ud558\ub274\uc2a4 -",
+        "Heading": "One moment, please...",
         "Abstract": null,
-        "Official Site": "https://selhaz.com/",
-        "Icon": "N/A",
-        "Redirect": "https://selhaz.com/",
+        "Official Site": "https://selhaz.com",
+        "Icon": "data:,",
+        "Redirect": "https://selhaz.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://selhaz.com/"
+        "AbstractURL": "https://selhaz.com"
     },
     {
         "link": "https://ekonomia.info",
@@ -198,6 +198,16 @@
         "Redirect": "https://acentraqio.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://acentraqio.com/"
+    },
+    {
+        "link": "https://kanabusiness.info",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://kanabusiness.info",
+        "Icon": "N/A",
+        "Redirect": "https://kanabusiness.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kanabusiness.info"
     },
     {
         "link": "https://themerrymen.com",

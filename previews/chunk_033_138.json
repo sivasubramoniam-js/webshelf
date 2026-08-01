@@ -1,10 +1,10 @@
 [
     {
         "link": "https://parko-international.com",
-        "Heading": "Parko International",
-        "Abstract": "",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://parko-international.com",
-        "Icon": "assets/img/favicon.png",
+        "Icon": "data:,",
         "Redirect": "https://parko-international.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://parko-international.com"
@@ -31,13 +31,13 @@
     },
     {
         "link": "https://newzensolution.co.kr",
-        "Heading": "\ub274\uc820\uc194\ub8e8\uc158 \uacf5\uc2dd\ud648\ud398\uc774\uc9c0",
-        "Abstract": "\uc138\ubb34\uc0ac\ub791pro, \ub274\uc820 \ucf00\uc774\ub819 \ub4f1 \uc138\ubb34\ud68c\uacc4\ud504\ub85c\uadf8\ub7a8 \uc804\ubb38 \uae30\uc5c5\uc785\ub2c8\ub2e4. \uc5ec\ub7ec \ud68c\uacc4 ERP \ud504\ub85c\uadf8\ub7a8\uc744 \uc81c\uacf5\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
-        "Official Site": "https://www.newzensolution.co.kr",
-        "Icon": "https://newzensolution.co.kr/images/newzen_thumbnail.png",
-        "Redirect": "https://www.newzensolution.co.kr",
+        "Heading": "\ub274\uc820\uc194\ub8e8\uc158 \uc81c\ud488\uc18c\uac1c \ubaa8\ubc14\uc77c",
+        "Abstract": "\uc138\ubb34\uc0ac\ub791pro, \ub274\uc820 \ucf00\uc774\ub819 \ub4f1 \uc138\ubb34\ud68c\uacc4\ud504\ub85c\uadf8\ub7a8 \uc804\ubb38 \uae30\uc5c5\uc785\ub2c8\ub2e4. \uc5ec\ub7ec \ud68c\uacc4 ERP \ud504\ub85c\uadf8\ub7a8\uc744 \uc81c\uacf5\ud558\uace0 \uc788\uc73c\uba70, \ub354\uc874\uacfc \ub354\ubd88\uc5b4 \uae30\uc5c5 \uc790\uccb4\uc138\ubb34\uc2e0\uace0\uac00 \uac00\ub2a5\ud55c \uac80\uc99d\ub41c \ud504\ub85c\uadf8\ub7a8\uc744 \uc81c\uacf5\uc911\uc785\ub2c8\ub2e4.",
+        "Official Site": "https://m.newzensolution.co.kr/",
+        "Icon": "https://m.newzensolution.co.kr/images/newzen_thumbnail.png",
+        "Redirect": "https://m.newzensolution.co.kr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.newzensolution.co.kr"
+        "AbstractURL": "https://m.newzensolution.co.kr/"
     },
     {
         "link": "https://kdbpy.cfd",
@@ -202,7 +202,7 @@
     {
         "link": "https://lezbackpack.com",
         "Heading": "lezbackpack.com",
-        "Abstract": "Find information, resources and relevant links for lezbackpack.com. This domain may be for sale.",
+        "Abstract": null,
         "Official Site": "https://lezbackpack.com",
         "Icon": "N/A",
         "Redirect": "https://lezbackpack.com",

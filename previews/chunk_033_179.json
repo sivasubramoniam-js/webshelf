@@ -10,16 +10,6 @@
         "AbstractURL": "https://www.atom.com/name/Lazex"
     },
     {
-        "link": "https://healthdistrict.org",
-        "Heading": "Health District of Northern Larimer County |",
-        "Abstract": null,
-        "Official Site": "https://www.healthdistrict.org/",
-        "Icon": "https://www.healthdistrict.org/sites/all/themes/healthdistrict/favicon.ico",
-        "Redirect": "https://www.healthdistrict.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.healthdistrict.org/"
-    },
-    {
         "link": "https://sadaka.ie",
         "Heading": "Sadaka, The Ireland Palestine Alliance \u2013 Sadaka, Ireland Palestine Alliance",
         "Abstract": null,
@@ -31,13 +21,13 @@
     },
     {
         "link": "https://hotelesdelmundo.com",
-        "Heading": "Hoteles del mundo - Actualidad, viajes y hoteles",
-        "Abstract": "Actualidad, viajes y hoteles",
-        "Official Site": "https://hotelesdelmundo.com/",
-        "Icon": "https://i0.wp.com/hotelesdelmundo.com/wp-content/uploads/2023/11/jeje.png?fit=32%2C25&ssl=1",
-        "Redirect": "https://hotelesdelmundo.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://hotelesdelmundo.com",
+        "Icon": "data:,",
+        "Redirect": "https://hotelesdelmundo.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hotelesdelmundo.com/"
+        "AbstractURL": "https://hotelesdelmundo.com"
     },
     {
         "link": "https://arle.de",
@@ -160,14 +150,14 @@
         "AbstractURL": "https://lewprinting.com"
     },
     {
-        "link": "https://recoversomedata.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://recoversomedata.com",
-        "Icon": "N/A",
-        "Redirect": "https://recoversomedata.com",
+        "link": "https://vilasco.com",
+        "Heading": "Vilasco.com is For Sale | BrandBucket",
+        "Abstract": "Buy the domain name Vilasco.com and launch your business with a premium domain and a high quality logo.",
+        "Official Site": "https://www.brandbucket.com/names/vilasco",
+        "Icon": "https://www.brandbucket.com/sites/default/files/logo_uploads/571519/stamped_preview_w7.png",
+        "Redirect": "https://www.brandbucket.com/names/vilasco",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://recoversomedata.com"
+        "AbstractURL": "https://www.brandbucket.com/names/vilasco"
     },
     {
         "link": "https://simpsonautorepair.com",
@@ -190,6 +180,16 @@
         "AbstractURL": "https://www.atom.com/name/Haydle"
     },
     {
+        "link": "https://hakeren.org.il",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://hakeren.org.il",
+        "Icon": "data:;",
+        "Redirect": "https://hakeren.org.il",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hakeren.org.il"
+    },
+    {
         "link": "https://kra--22.cc",
         "Heading": "Kra22.\u0441\u0441 \u2014 Kraken22: \u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0435 \u0437\u0435\u0440\u043a\u0430\u043b\u043e \u0441\u0435\u0433\u043e\u0434\u043d\u044f",
         "Abstract": "Kraken22 \u0441\u0441 \u2014 \u043f\u0440\u043e\u0432\u0435\u0440\u0435\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0432\u0445\u043e\u0434\u0430 \u043d\u0430 kra22. \u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439 kra22 cc \u0434\u043b\u044f \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u043c \u0441\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435\u043c.",
@@ -208,15 +208,5 @@
         "Redirect": "https://www.atom.com/name/HomeToOffice",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.atom.com/name/HomeToOffice"
-    },
-    {
-        "link": "https://agentweb247.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://agentweb247.com",
-        "Icon": "N/A",
-        "Redirect": "https://agentweb247.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://agentweb247.com"
     }
 ]
