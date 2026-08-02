@@ -1,10 +1,10 @@
 [
     {
         "link": "https://amitkremer.co.il",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "\u05e2\u05de\u05d9\u05ea \u05e7\u05e8\u05de\u05e8 - \u05e2\u05d5\u05e8\u05da \u05d3\u05d9\u05df \u05dc\u05d3\u05d9\u05e0\u05d9 \u05e0\u05d6\u05d9\u05e7\u05d9\u05df",
+        "Abstract": "\u05e0\u05d9\u05e6\u05d7\u05ea\u05d9 \u05d1\u05ea\u05d9\u05e7\u05d9\u05dd \u05d2\u05d3\u05d5\u05dc\u05d9\u05dd \u05d5\u05de\u05d5\u05e8\u05db\u05d1\u05d9\u05dd \u05d1\u05d1\u05ea\u05d9 \u05d4\u05de\u05e9\u05e4\u05d8 \u05d1\u05ea\u05d9\u05e7\u05d9\u05dd \u05d1\u05e0\u05d5\u05e9\u05d0\u05d9 \u05d3\u05d9\u05e0\u05d9 \u05e0\u05d6\u05d9\u05e7\u05d9\u05df, \u05d1\u05e1\u05e0\u05d9\u05e4\u05d9 \u05d4\u05d1\u05d9\u05d8\u05d5\u05d7 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9, \u05d1\u05ea\u05d1\u05d9\u05e2\u05d5\u05ea \u05d0\u05dc \u05de\u05d5\u05dc \u05d7\u05d1\u05e8\u05d5\u05ea \u05d4\u05d1\u05d9\u05d8\u05d5\u05d7, \u05d5\u05d2\u05dd \u05d1\u05d1\u05d9\u05ea \u05d4\u05d3\u05d9\u05df \u05dc\u05e2\u05d1\u05d5\u05d3\u05d4 \u05d5\u05d1\u05de\u05d5\u05e1\u05d3\u05d5\u05ea \u05d4\u05e9\u05d5\u05e0\u05d9\u05dd.",
         "Official Site": "https://amitkremer.co.il",
-        "Icon": "data:,",
+        "Icon": "assets/img/favicon.png",
         "Redirect": "https://amitkremer.co.il",
         "AbstractSource": "BS4",
         "AbstractURL": "https://amitkremer.co.il"
@@ -21,13 +21,23 @@
     },
     {
         "link": "https://guinnessbusiness.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://guinnessbusiness.com",
-        "Icon": "data:,",
-        "Redirect": "https://guinnessbusiness.com",
+        "Heading": "Office Space Rental Vancouver | Coworking Shared Space Leasing | Guinness Business Centre",
+        "Abstract": "Guinness Business Centre offers furnished business virtual office spaces on lease and rental in Vancouver. For shared executive office and coworking spaces in Downtown Vancouver, contact us today.",
+        "Official Site": "https://guinnessbusiness.com/",
+        "Icon": "https://guinnessbusiness.com/wp-content/uploads/2021/07/19.jpg",
+        "Redirect": "https://guinnessbusiness.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://guinnessbusiness.com"
+        "AbstractURL": "https://guinnessbusiness.com/"
+    },
+    {
+        "link": "https://sweatstar.co.il",
+        "Heading": "SWEATSTAR - \u05de\u05ea\u05d7\u05dd \u05d4\u05db\u05d5\u05e9\u05e8 \u05d4\u05d1\u05d9\u05dc\u05d5\u05d9 \u05d5\u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05d4\u05d2\u05d3\u05d5\u05dc \u05d1\u05d0\u05e9\u05d3\u05d5\u05d3",
+        "Abstract": "\u05d3\u05e3 \u05d4\u05e0\u05d7\u05d9\u05ea\u05d4 \u05e9\u05dc \u05d7\u05d3\u05e8 \u05d4\u05db\u05d5\u05e9\u05e8 \u05e1\u05d5\u05d5\u05d0\u05d8\u05e1\u05d8\u05d0\u05e8 \u05d0\u05e9\u05d3\u05d5\u05d3, \u05d7\u05d3\u05e8 \u05d4\u05db\u05d5\u05e9\u05e8 \u05d4\u05d2\u05d3\u05d5\u05dc \u05d1\u05e2\u05d9\u05e8 \u05d0\u05ea\u05dd \u05de\u05d5\u05d6\u05de\u05e0\u05d9\u05dd \u05dc\u05d4\u05e9\u05d0\u05d9\u05e8 \u05e4\u05e8\u05d8\u05d9\u05dd \u05d5\u05de\u05d9\u05d3 \u05e0\u05e6\u05d9\u05d2\u05d9 \u05d7\u05d3\u05e8 \u05d4\u05db\u05d5\u05e9\u05e8 \u05d9\u05d7\u05d6\u05e8\u05d5 \u05d0\u05dc\u05d9\u05db\u05dd!",
+        "Official Site": "https://sweatstar.co.il/",
+        "Icon": "https://sweatstar.co.il/wp-content/uploads/2021/07/png2pdf-1-1024x674.png",
+        "Redirect": "https://sweatstar.co.il/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sweatstar.co.il/"
     },
     {
         "link": "https://hilates.com",
@@ -38,16 +48,6 @@
         "Redirect": "https://www.hilates.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hilates.com"
-    },
-    {
-        "link": "https://solielmanagement.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://solielmanagement.com",
-        "Icon": "N/A",
-        "Redirect": "https://solielmanagement.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://solielmanagement.com"
     },
     {
         "link": "https://andijanpetro.com",
@@ -80,16 +80,6 @@
         "AbstractURL": "https://lm-pumps.net"
     },
     {
-        "link": "https://nuvad.com",
-        "Heading": "Nuvad.com \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "Nuvad.com is a catchy and memorable 5 character, 2 syllable domain. Its short syllables make it an ideal choice for businesses looking to create an easily recognized online presence. The combination of the \u201cnu\u201d and \u201cvad\u201d syllables c",
-        "Official Site": "https://www.atom.com/name/Nuvad",
-        "Icon": "https://img.atom.com/story_images/visual_images/10447595.jpg?class=show",
-        "Redirect": "https://www.atom.com/name/Nuvad",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/name/Nuvad"
-    },
-    {
         "link": "https://michaelmilman.com",
         "Heading": null,
         "Abstract": null,
@@ -101,7 +91,7 @@
     },
     {
         "link": "https://1wvuge.com",
-        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 4825431.762931475",
+        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 6363102.972384156",
         "Abstract": "\u041b\u0443\u0447\u0448\u0435\u0435 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0430\u0437\u0438\u043d\u043e \u0438 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440! \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0441\u044f \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0439 \u0431\u043e\u043d\u0443\u0441 500%. 15 000+ \u0438\u0433\u0440, \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0432\u044b\u043f\u043b\u0430\u0442\u044b, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7.",
         "Official Site": "https://1wvuge.com",
         "Icon": "/resources/v1/plain/favicons/android-chrome-72x72-v3.png",
@@ -140,24 +130,14 @@
         "AbstractURL": "https://okfuns.games/"
     },
     {
-        "link": "https://resurgeon.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://resurgeon.com",
-        "Icon": "N/A",
-        "Redirect": "https://resurgeon.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://resurgeon.com"
-    },
-    {
         "link": "https://fablicator.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://fablicator.com",
-        "Icon": "data:,",
-        "Redirect": "https://fablicator.com",
+        "Heading": "Fablicator - 3D Printing | Allentown PA",
+        "Abstract": "3D Printing | Allentown PA",
+        "Official Site": "https://fablicator.com/",
+        "Icon": "https://fablicator.com/wp-content/themes/winfield/images/favicon.png",
+        "Redirect": "https://fablicator.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fablicator.com"
+        "AbstractURL": "https://fablicator.com/"
     },
     {
         "link": "https://theedgestyling.com",
@@ -220,16 +200,6 @@
         "AbstractURL": "https://www.room17.co.il"
     },
     {
-        "link": "https://capasu.com",
-        "Heading": "Capasu.com \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "Capasu.com is the perfect domain name for entrepreneurs with big dreams and ambitious visions. Just like the mythical bird of legend, the Capasu, your business can soar to the highest heights. This short, 6 letter name has so much power beh",
-        "Official Site": "https://www.atom.com/name/Capasu",
-        "Icon": "https://img.atom.com/story_images/visual_images/1664115738-Capasu.jpg?class=show",
-        "Redirect": "https://www.atom.com/name/Capasu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/name/Capasu"
-    },
-    {
         "link": "https://watec-israel.com",
         "Heading": "WATEC Israel 2024 Conference and Exhibition",
         "Abstract": "The 8th World Water Technology and Environmental Control Conference and Exhibition organized by Kenes Exhibitions in Israel. Join the leaders in the field!",
@@ -261,7 +231,7 @@
     },
     {
         "link": "https://1wwkcr.com",
-        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 1209865.9845735105",
+        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 3851909.923942236",
         "Abstract": "\u041b\u0443\u0447\u0448\u0435\u0435 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0430\u0437\u0438\u043d\u043e \u0438 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440! \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0441\u044f \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0439 \u0431\u043e\u043d\u0443\u0441 500%. 15 000+ \u0438\u0433\u0440, \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0432\u044b\u043f\u043b\u0430\u0442\u044b, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7.",
         "Official Site": "https://1wwkcr.com",
         "Icon": "/resources/v1/plain/favicons/android-chrome-72x72-v3.png",

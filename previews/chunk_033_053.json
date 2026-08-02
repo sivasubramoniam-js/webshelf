@@ -31,13 +31,23 @@
     },
     {
         "link": "https://jetton-email.com",
-        "Heading": "JetTon Games: Immerse yourself in unique adventures and exciting games | 8c333637-1945-451b-9d81-bb9a5d3b4b7d",
-        "Abstract": "Step into an extraordinary world of entertainment with JetTon Games. Experience thrilling gameplay, embark on incredible adventures, and enjoy a truly unique gaming experience | 70868e09-2c12-47db-9a6c-cac06544180c",
+        "Heading": "JetTon Games: Immerse yourself in unique adventures and exciting games | 8c4de9fc-c3e7-419c-8553-558e7be6da06",
+        "Abstract": "Step into an extraordinary world of entertainment with JetTon Games. Experience thrilling gameplay, embark on incredible adventures, and enjoy a truly unique gaming experience | 6f2ed505-69f9-4282-97ae-33409a630e24",
         "Official Site": "https://jetton-email.com",
         "Icon": "/favicon/android-chrome-512x512.png",
         "Redirect": "https://jetton-email.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jetton-email.com"
+    },
+    {
+        "link": "https://darkfolio.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://darkfolio.com",
+        "Icon": "N/A",
+        "Redirect": "https://darkfolio.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://darkfolio.com"
     },
     {
         "link": "https://slowopolskie.online",
@@ -70,16 +80,6 @@
         "AbstractURL": "https://rnl3c.com"
     },
     {
-        "link": "https://civusyi1.pro",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://civusyi1.pro",
-        "Icon": "N/A",
-        "Redirect": "https://civusyi1.pro",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://civusyi1.pro"
-    },
-    {
         "link": "https://digilogics.com.mx",
         "Heading": "Digilogics",
         "Abstract": "Digilogics S.A. de C.V.",
@@ -110,16 +110,6 @@
         "AbstractURL": "https://arab-gold.com"
     },
     {
-        "link": "https://hi-pharma.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://hi-pharma.com",
-        "Icon": "data:,",
-        "Redirect": "https://hi-pharma.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hi-pharma.com"
-    },
-    {
         "link": "https://top10businessbanks.com",
         "Heading": "Home - Top10BusinessBanks",
         "Abstract": null,
@@ -138,6 +128,16 @@
         "Redirect": "https://www.elkapro.co.il/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.elkapro.co.il/"
+    },
+    {
+        "link": "https://globeinspections.com",
+        "Heading": "Inspection and Training Services UAE, India | Engineering Consulting Services - globeinspections.com",
+        "Abstract": "With our expert engineers, we ensure you reach your operational goals. We offer effective solutions for your specific requirements like as Non-destructive services, third-party Inspection, Training, and Consultancy.",
+        "Official Site": "https://globeinspections.com/",
+        "Icon": "/assets/img/smm/globe-inspection.png",
+        "Redirect": "https://globeinspections.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://globeinspections.com/"
     },
     {
         "link": "https://sompongthainy.com",
@@ -161,13 +161,13 @@
     },
     {
         "link": "https://matzberim.net",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://matzberim.net",
-        "Icon": "data:,",
-        "Redirect": "https://matzberim.net",
+        "Heading": "\u05de\u05e6\u05d1\u05e8 \u05dc\u05e8\u05db\u05d1 \u05e2\u05d3 \u05d4\u05d1\u05d9\u05ea \u05de\u05d7\u05d9\u05e8 \u05de-380 \u20aa [\u05d4\u05d7\u05dc\u05e4\u05ea \u05de\u05e6\u05d1\u05e8\u05d9\u05dd]\u2611\ufe0f - \u05de\u05e6\u05d1\u05e8\u05d9\u05dd \u05e0\u05d8",
+        "Abstract": "\u05de\u05e6\u05d1\u05e8 \u05dc\u05e8\u05db\u05d1 \u05e2\u05d3 \u05d4\u05d1\u05d9\u05ea \u05de\u05d7\u05d9\u05e8 \u05d4\u05db\u05d9 \u05d8\u05d5\u05d1 \u05e8\u05e7 \u05d0\u05e6\u05dc\u05e0\u05d5 \u05d1\u05de\u05e6\u05d1\u05e8\u05d9\u05dd \u05e0\u05d8, \u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05d6\u05de\u05d9\u05df \u05d1\u05db\u05dc \u05e9\u05e2\u05d4 \u05d4\u05d7\u05dc\u05e4\u05ea \u05de\u05e6\u05d1\u05e8\u05d9\u05dd \u05e2\u05d3 \u05d4\u05d1\u05d9\u05ea \u05dc\u05db\u05dc \u05e1\u05d5\u05d2\u05d9 \u05d4\u05e8\u05db\u05d1\u05d9\u05dd: \u05e4\u05e8\u05d8\u05d9, \u05de\u05e1\u05d7\u05e8\u05d9, \u05de\u05e9\u05d0\u05d9\u05ea, \u05e7\u05d8\u05e0\u05d5\u05e2 \u05d5\u05e2\u05d5\u05d3.",
+        "Official Site": "https://matzberim.net/",
+        "Icon": "https://matzberim.net/wp-content/themes/maor/images/favicon.png",
+        "Redirect": "https://matzberim.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://matzberim.net"
+        "AbstractURL": "https://matzberim.net/"
     },
     {
         "link": "https://pediatricplace.net",
@@ -188,16 +188,6 @@
         "Redirect": "https://www.diegodemauro.com.br/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.diegodemauro.com.br/"
-    },
-    {
-        "link": "https://homesretreat.com",
-        "Heading": "Homesretreat.com \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "Homesretreat.com is a domain name that evokes images of peace, comfort, and relaxation. It evokes a sense of home, suggesting a place of respite and solace from the hustle and bustle of everyday life. It also conveys a feeling of freedom, o",
-        "Official Site": "https://www.atom.com/name/Homesretreat",
-        "Icon": "https://img.atom.com/story_images/visual_images/1625326506-Homesretreat.png?class=show",
-        "Redirect": "https://www.atom.com/name/Homesretreat",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/name/Homesretreat"
     },
     {
         "link": "https://lawbk.co.il",

@@ -14,7 +14,7 @@
         "Heading": "\u041f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0443\u0435\u043c \u0441 \u0432\u0435\u0442\u0435\u0440\u043a\u043e\u043c \u0438 \u0440\u0443\u0431\u043b\u0435\u043c",
         "Abstract": "\u041a\u0430\u043a \u0441\u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u043e\u0435\u0437\u0434\u043a\u0443 \u0438 \u043d\u0435 \u0443\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e\u0435",
         "Official Site": "https://\u043f\u043e\u0435\u0445\u0430\u043b\u0438-\u043d\u0430-\u044e\u0433.\u0440\u0444/",
-        "Icon": "/share.jpg?v=1785553139",
+        "Icon": "/share.jpg?v=1785639286",
         "Redirect": "https://\u043f\u043e\u0435\u0445\u0430\u043b\u0438-\u043d\u0430-\u044e\u0433.\u0440\u0444/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://\u043f\u043e\u0435\u0445\u0430\u043b\u0438-\u043d\u0430-\u044e\u0433.\u0440\u0444/"
@@ -51,10 +51,10 @@
     },
     {
         "link": "https://exercizeguyz.com",
-        "Heading": "One moment, please...",
+        "Heading": "Home | Exercize Guyz",
         "Abstract": null,
         "Official Site": "https://exercizeguyz.com",
-        "Icon": "data:,",
+        "Icon": "https://exercizeguyz.com/images/favicon.png?a=1",
         "Redirect": "https://exercizeguyz.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://exercizeguyz.com"
@@ -91,13 +91,23 @@
     },
     {
         "link": "https://thehostings.co.uk",
-        "Heading": "One moment, please...",
+        "Heading": "Portal Home - The Hostings",
         "Abstract": null,
         "Official Site": "https://thehostings.co.uk",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://thehostings.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thehostings.co.uk"
+    },
+    {
+        "link": "https://ipfirm.com",
+        "Heading": "IP Law Firm | Hauptman Ham | Patent, Trademark & Copyright Attorneys",
+        "Abstract": "Hauptman Ham provides comprehensive intellectual property services, protecting patents, trademarks, and copyrights with strategic, business-focused IP counsel.",
+        "Official Site": "https://ipfirm.com",
+        "Icon": "N/A",
+        "Redirect": "https://ipfirm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ipfirm.com"
     },
     {
         "link": "https://amaume.co.jp",
@@ -118,26 +128,6 @@
         "Redirect": "https://bankidlabs.no",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bankidlabs.no"
-    },
-    {
-        "link": "https://margueriteashton.com",
-        "Heading": "MargueriteAshton.com - Personal Domains for Sale - Buy Premium Individual & Portfolio Domain Names | Domain for Sale. Call 888-694-6735.",
-        "Abstract": "MargueriteAshton.com - a great premium domain available for sale.",
-        "Official Site": "https://margueriteashton.com",
-        "Icon": "https://cdn.domainmarket.com/dm-com/social/margueriteashton-com.jpg",
-        "Redirect": "https://margueriteashton.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://margueriteashton.com"
-    },
-    {
-        "link": "https://fliptek.com",
-        "Heading": "fliptek.com \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "Introducing Fliptek.com - the perfect domain name for the bold, forward-thinking digital entrepreneur. \n\nFliptek conjures up images of agile, nimble tech startups that are disrupting the status quo and taking the digital world by storm. It ",
-        "Official Site": "https://www.atom.com/name/fliptek",
-        "Icon": "https://img.atom.com/story_images/visual_images/1645440760-fliptek.png?class=show",
-        "Redirect": "https://www.atom.com/name/fliptek",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/name/fliptek"
     },
     {
         "link": "https://ashrablaw.com",
@@ -210,16 +200,6 @@
         "AbstractURL": "https://yasinovatayahe.ru"
     },
     {
-        "link": "https://loula.com",
-        "Heading": "Loula.com \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "This name holds no true meaning behind it, but elicits a creative and unique tone that\u2019s captivating. It elicits a forward thinking, dynamic tone and offers a flexibility that allows it to capture any business brand messaging. With an abs",
-        "Official Site": "https://www.atom.com/name/Loula",
-        "Icon": "https://img.atom.com/story_images/visual_images/1601228527-1.png?class=show",
-        "Redirect": "https://www.atom.com/name/Loula",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/name/Loula"
-    },
-    {
         "link": "https://kipulim.com",
         "Heading": "Home | elbarkipulim",
         "Abstract": null,
@@ -230,14 +210,14 @@
         "AbstractURL": "https://www.kipulim.com"
     },
     {
-        "link": "https://nlaj.com",
-        "Heading": "Nlaj.com \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "NLAJ.com is a sleek and modern domain name that packs a punch with its short four-letter, one-syllable name. The name has a unique ring to it, which can bring a sense of excitement and energy to any startup. NLAJ.com can be interpreted in m",
-        "Official Site": "https://www.atom.com/name/Nlaj",
-        "Icon": "https://img.atom.com/story_images/visual_images/1699772690-750x450.jpg?class=show",
-        "Redirect": "https://www.atom.com/name/Nlaj",
+        "link": "https://nexmachina.com",
+        "Heading": "Nexmachina | Impulsamos la digitalizaci\u00f3n IoT",
+        "Abstract": "Impulsa la digitalizaci\u00f3n IoT con conectividad LoRaWAN segura y escalable. Plataforma iQmenic para monitorizaci\u00f3n, gesti\u00f3n y control inteligente.",
+        "Official Site": "https://nexmachina.com/",
+        "Icon": "https://nexmachina.com/wp-content/uploads/cropped-Simbolo-color-32x32.png",
+        "Redirect": "https://nexmachina.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/name/Nlaj"
+        "AbstractURL": "https://nexmachina.com/"
     },
     {
         "link": "https://ijustfart.com",
@@ -280,26 +260,6 @@
         "AbstractURL": "https://www.dwightjohnsondesign.com"
     },
     {
-        "link": "https://fxla.com",
-        "Heading": "FXLA.com \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "Whether you exist in the world of Forex trading or an sound / visual effects laboratory, this short, four-character domain name will bring your endeavors to new heights. ",
-        "Official Site": "https://www.atom.com/name/FXLA",
-        "Icon": "https://img.atom.com/story_images/visual_images/1592261695-FXLA image1.jpg?class=show",
-        "Redirect": "https://www.atom.com/name/FXLA",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/name/FXLA"
-    },
-    {
-        "link": "https://gubbl.com",
-        "Heading": "Gubbl.com \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "5 letters. One word. 2 syllables. Gubbl.com. A domain name bursting with energy, creativity, and intriguing charm. Gubbl \u2013 a playful, yet confident moniker that almost bubbles on the tongue, enticing and inspiring curiosity. It is vibrant",
-        "Official Site": "https://www.atom.com/name/Gubbl",
-        "Icon": "https://img.atom.com/story_images/visual_images/1689935247-Gubbl1.png?class=show",
-        "Redirect": "https://www.atom.com/name/Gubbl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/name/Gubbl"
-    },
-    {
         "link": "https://exploreooty.com",
         "Heading": "ExploreOoty.com \u2014 Premium Domain For Sale | Atom",
         "Abstract": "ExploreOoty is a golden ticket to the tourism market of a premier Indian hill station. For a tour operator or a hotel aggregator, this domain perfectly matches how travelers search for this popular summer retreat, promising a strong digital",
@@ -308,5 +268,15 @@
         "Redirect": "https://www.atom.com/lpd/name/ExploreOoty.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.atom.com/lpd/name/ExploreOoty.com"
+    },
+    {
+        "link": "https://tunersmall.com",
+        "Heading": "TuneRS Motorsports",
+        "Abstract": null,
+        "Official Site": "https://tunersmotorsports.com/",
+        "Icon": "https://tunersmotorsports.com/wp-content/uploads/2015/08/cropped-tuners-crest.jpg",
+        "Redirect": "https://tunersmotorsports.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tunersmotorsports.com/"
     }
 ]

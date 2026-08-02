@@ -131,10 +131,10 @@
     },
     {
         "link": "https://vertechz.com",
-        "Heading": "One moment, please...",
+        "Heading": "VerTechz International LLP",
         "Abstract": null,
         "Official Site": "https://vertechz.com",
-        "Icon": "data:,",
+        "Icon": "images/vertechz_favicon.png",
         "Redirect": "https://vertechz.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vertechz.com"
@@ -180,6 +180,16 @@
         "AbstractURL": "https://eshcharz.com"
     },
     {
+        "link": "https://feelhost.com",
+        "Heading": "FeelHost.Com - FeelHost.Com - News Magazine",
+        "Abstract": "FeelHost.Com Index Page",
+        "Official Site": "https://feelhost.com/",
+        "Icon": "https://feelhost.com/uploads/logo/logo_68b9e7db41ff14-53659359.png",
+        "Redirect": "https://feelhost.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://feelhost.com/"
+    },
+    {
         "link": "https://familysafenet.com",
         "Heading": null,
         "Abstract": null,
@@ -201,13 +211,23 @@
     },
     {
         "link": "https://danya-hachzakot.co.il",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "\u05d7\u05d1\u05e8\u05ea \u05e0\u05d9\u05d4\u05d5\u05dc \u05d1\u05e0\u05d9\u05d9\u05e0\u05d9\u05dd | \u05d3\u05e0\u05d9\u05d4 \u05d0\u05d7\u05d6\u05e7\u05d5\u05ea | \u05de\u05d0\u05d6 2005",
+        "Abstract": "\u05d7\u05d1\u05e8\u05ea \u05e0\u05d9\u05d4\u05d5\u05dc \u05d1\u05e0\u05d9\u05d9\u05e0\u05d9\u05dd \u05d3\u05e0\u05d9\u05d4 \u05d0\u05d7\u05d6\u05e7\u05d5\u05ea \u05de\u05e1\u05e4\u05e7\u05ea \u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05e0\u05d9\u05d4\u05d5\u05dc \u05d5\u05ea\u05d7\u05d6\u05d5\u05e7\u05ea \u05de\u05d1\u05e0\u05d9\u05dd, \u05d4\u05db\u05d5\u05dc\u05dc\u05ea \u05ea\u05db\u05e0\u05d9\u05ea \u05ea\u05d7\u05d6\u05d5\u05e7\u05d4 \u05de\u05e7\u05d9\u05e4\u05d4, \u05e0\u05d9\u05d4\u05d5\u05dc \u05d5\u05e2\u05d3 \u05d4\u05d1\u05d9\u05ea, \u05de\u05e9\u05de\u05e8\u05ea \u05d5\u05de\u05e2\u05dc\u05d4 \u05d0\u05ea \u05e2\u05e8\u05da \u05d4\u05e0\u05db\u05e1 \u05d5\u05e0\u05d5\u05ea\u05e0\u05ea \u05d7\u05d3\u05e9\u05e0\u05d5\u05ea \u05dc\u05d1\u05d9\u05ea\u05db\u05dd.",
         "Official Site": "https://danya-hachzakot.co.il",
-        "Icon": "data:,",
+        "Icon": "https://www.danya-hachzakot.co.il/",
         "Redirect": "https://danya-hachzakot.co.il",
         "AbstractSource": "BS4",
         "AbstractURL": "https://danya-hachzakot.co.il"
+    },
+    {
+        "link": "https://enlighten567.com",
+        "Heading": "Free Financial Webinars and Seminars - Enlighten567",
+        "Abstract": "Powering life\u2019s lightbulb moments through expert guidance, financial webinars and seminars. A sea of information is available at your fingertips. You need to know who, and what, to trust.",
+        "Official Site": "https://enlighten567.com/",
+        "Icon": "https://i0.wp.com/www.vectorico.com/wp-content/uploads/2018/02/Facebook-Logo.png?fit=600%2C600",
+        "Redirect": "https://enlighten567.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://enlighten567.com/"
     },
     {
         "link": "https://marounlahoud.com",

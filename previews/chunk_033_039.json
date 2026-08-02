@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://elmanal.co.il",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://elmanal.co.il",
+        "Icon": "/vite.svg",
+        "Redirect": "https://elmanal.co.il",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elmanal.co.il"
+    },
+    {
         "link": "https://deepfloating.com",
         "Heading": null,
         "Abstract": null,
@@ -41,13 +51,13 @@
     },
     {
         "link": "https://gooly.co.il",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://gooly.co.il",
-        "Icon": "data:,",
-        "Redirect": "https://gooly.co.il",
+        "Heading": "\u05e2\u05de\u05d5\u05d3 \u05d4\u05d1\u05d9\u05ea - \u05d2\u05d5\u05dc\u05d9",
+        "Abstract": "\u05d9\u05e6\u05d9\u05e8\u05d4 \u05dc\u05d4\u05d2\u05e9\u05de\u05ea \u05d4\u05de\u05d8\u05e8\u05d5\u05ea \u05d0\u05e0\u05d9 \u05de\u05d6\u05de\u05d9\u05e0\u05d4 \u05d0\u05ea\u05db\u05dd \u05dc\u05d4\u05e0\u05d5\u05ea \u05de\u05d7\u05d5\u05d9\u05d9\u05d4 \u05e7\u05e1\u05d5\u05de\u05d4 \u05d5\u05de\u05e2\u05e6\u05d9\u05de\u05d4 \u05dc\u05d9\u05e6\u05d5\u05e8 \u05d9\u05e6\u05d9\u05e8\u05d4 \u05de\u05d9\u05d5\u05d7\u05d3\u05ea \u05d1\u05d3\u05e8\u05da \u05dc\u05d4\u05d2\u05e9\u05de\u05ea \u05d4\u05de\u05d8\u05e8\u05d4 \u05e9\u05dc\u05db\u05dd. \u05ea\u05db\u05e0\u05d9\u05ea \u05d2\u05e4\"\u05df \u05e1\u05d3\u05e0\u05d0\u05d5\u05ea \u05dc\u05d0\u05de\u05d4\u05d5\u05ea \u05d1\u05d7\u05d5\u05e4\u05e9\u05ea \u05dc\u05d9\u05d3\u05d4 \u05e1\u05d3\u05e0\u05d0\u05d5\u05ea \u05dc\u05d9\u05dc\u05d3\u05d9\u05dd \u05d5\u05e0\u05d5\u05e2\u05e8 \u05e2\u05e2\u05e2 \u05e1\u05d3\u05e0\u05d0\u05d5\u05ea \u05d0\u05d5\u05de\u05e0\u05d5\u05ea \u05dc\u05de\u05d1\u05d5\u05d2\u05e8\u05d9\u05dd \u05e0\u05e2\u05d9\u05dd \u05de\u05d0\u05d5\u05d3 \u05e9\u05de\u05d9 \u05d2\u05dc\u05d9 \u05d0\u05d5\u05de\u05d1\u05e8\u05d2, \u05de\u05e2\u05dc \u05e2\u05e9\u05d5\u05e8 \u05d0\u05e0\u05d9 \u05de\u05e0\u05d7\u05ea \u05e1\u05d3\u05e0\u05d0\u05d5\u05ea \u05d0\u05d5\u05de\u05e0\u05d5\u05ea \u05de\u05e2\u05e6\u05d9\u05de\u05d5\u05ea \u05d5\u05d7\u05d5\u05d9\u05ea\u05d9\u05d5\u05ea. \u05d1\u05d5\u05d2\u05e8\u05ea \u05ea\u05d5\u05d0\u05e8 \u05e8\u05d0\u05e9\u05d5\u05df \u05d1\u05e2\u05d9\u05e6\u05d5\u05d1, \u05ea\u05d5\u05d0\u05e8 \u05e9\u05e0\u05d9 \u05d1\u05d4\u05d5\u05e8\u05d0\u05d4 \u05d1\u05d0\u05d5\u05de\u05e0\u05d5\u05d9\u05d5\u05ea \u05d4\u05e2\u05d9\u05e6\u05d5\u05d1 M.teach, \u05e7\u05d5\u05e8\u05e1\u05d9\u05dd \u05de\u05e2\u05d5\u05dc\u05dd [\u2026]",
+        "Official Site": "https://gooly.co.il/",
+        "Icon": "https://gooly.co.il/wp-content/uploads/2020/05/z.png",
+        "Redirect": "https://gooly.co.il/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gooly.co.il"
+        "AbstractURL": "https://gooly.co.il/"
     },
     {
         "link": "https://nipponindia.email",
@@ -68,6 +78,16 @@
         "Redirect": "http://visserieboulonnerie.fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://visserieboulonnerie.fr/"
+    },
+    {
+        "link": "https://ensopro.com",
+        "Heading": "enso - Agentic Growth Lab",
+        "Abstract": "enso deploys AI agents where your customers spend time - finding cracks in platform castles and turning them into growth before competitors notice.",
+        "Official Site": "/",
+        "Icon": "https://storage.googleapis.com/gpt-engineer-file-uploads/kgnTlCgZS0f1Gf0D9nRIpZagufv1/social-images/social-1779819476731-ChatGPT_Image_May_23,_2026,_11_16_59_AM.webp",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
     },
     {
         "link": "https://jimthornton.ca",
@@ -170,24 +190,14 @@
         "AbstractURL": "https://ellenmeyer.com"
     },
     {
-        "link": "https://lvdf.com",
-        "Heading": "Lvdf.com \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "Lvdf.com is a sleek and memorable domain that exudes sophistication and innovation. With its short, 4-letter, 1-syllable structure, it is easy to remember and perfect for branding. The name evokes feelings of luxury and exclusivity, making ",
-        "Official Site": "https://www.atom.com/name/Lvdf",
-        "Icon": "https://img.atom.com/story_images/visual_images/logo-image-10558-lvdf.jpg?class=show",
-        "Redirect": "https://www.atom.com/name/Lvdf",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/name/Lvdf"
-    },
-    {
         "link": "https://superservicio-ford.com.mx",
-        "Heading": "K\u00e8o Nh\u00e0 C\u00e1i \ud83c\udf96\ufe0f Soi T\u1ef7 L\u1ec7 Keonhacai 5 B\u00f3ng \u0110\u00e1 Tr\u1ef1c Ti\u1ebfp M\u1edbi Nh\u1ea5t H\u00f4m Nay",
+        "Heading": "K\u00e8o Nh\u00e0 C\u00e1i \ud83c\udf96\ufe0f Keonhacai5 H\u00f4m Nay - T\u1ef7 L\u1ec7 K\u00e8o B\u00f3ng \u0110\u00e1 Tr\u1ef1c Ti\u1ebfp Chu\u1ea9n Nh\u1ea5t 2026",
         "Abstract": "K\u00e8o nh\u00e0 c\u00e1i (hay keo nha cai) l\u00e0 \u0111\u1ecba ch\u1ec9 c\u1eadp nh\u1eadt tip t\u1ef7 l\u1ec7 k\u00e8o nh\u00e0 c\u00e1i 5, soi k\u00e8o b\u00f3ng \u0111\u00e1 chu\u1ea9n x\u00e1c h\u00f4m nay, nh\u1eadn \u0111\u1ecbnh ch\u1ea5t l\u01b0\u1ee3ng v\u00e0 t\u1ef7 l\u1ec7 th\u1eafng cao m\u1ed7i ng\u00e0y.",
-        "Official Site": "https://keonhacaibest.xyz/",
-        "Icon": "https://keonhacaibest.xyz/wp-content/uploads/2025/12/keo-nha-cai-5-logo.png",
-        "Redirect": "https://keonhacaibest.xyz/",
+        "Official Site": "https://keonhacai.observer/",
+        "Icon": "https://keonhacai.observer/wp-content/uploads/2025/12/keo-nha-cai-5-logo.png",
+        "Redirect": "https://keonhacai.observer/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://keonhacaibest.xyz/"
+        "AbstractURL": "https://keonhacai.observer/"
     },
     {
         "link": "https://urlsmauricie.com",
@@ -218,15 +228,5 @@
         "Redirect": "https://at-kra49.cc",
         "AbstractSource": "BS4",
         "AbstractURL": "https://at-kra49.cc"
-    },
-    {
-        "link": "https://rivadero.com.ar",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://rivadero.com.ar",
-        "Icon": "data:,",
-        "Redirect": "https://rivadero.com.ar",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rivadero.com.ar"
     }
 ]

@@ -130,14 +130,24 @@
         "AbstractURL": "https://www.borgecup.com/"
     },
     {
-        "link": "https://mmwebdesign.co.za",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://mmwebdesign.co.za",
-        "Icon": "data:,",
-        "Redirect": "https://mmwebdesign.co.za",
+        "link": "https://withallyourheartseries.com",
+        "Heading": "With All Your Heart Series",
+        "Abstract": "THE JEWISH WOMAN'S PATH TO EXPERIENCING JOY AND-FULFILLMENT IN LOVE",
+        "Official Site": "https://withallyourheartseries.com/",
+        "Icon": "https://withallyourheartseries.com/wp-content/uploads/2026/04/HOSTED-BY-CHANA-DEUTSCH-4.png",
+        "Redirect": "https://withallyourheartseries.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mmwebdesign.co.za"
+        "AbstractURL": "https://withallyourheartseries.com/"
+    },
+    {
+        "link": "https://mmwebdesign.co.za",
+        "Heading": "MM web design | Web Design | Molefe Mcoco",
+        "Abstract": "Premium websites that will turn visitors into paying customers",
+        "Official Site": "https://www.mmmwebdesign.co.za",
+        "Icon": "./assets/images/mainheader.jpg",
+        "Redirect": "https://www.mmmwebdesign.co.za",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mmmwebdesign.co.za"
     },
     {
         "link": "https://boazm.com",
@@ -148,6 +158,16 @@
         "Redirect": "https://www.boazm.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.boazm.com/"
+    },
+    {
+        "link": "https://arkatie.com",
+        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 - Nia Arcatie",
+        "Abstract": null,
+        "Official Site": "https://arkatie.com/",
+        "Icon": "https://arkatie.com/wp-content/uploads/2021/01/cat-icon-1.png",
+        "Redirect": "https://arkatie.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arkatie.com/"
     },
     {
         "link": "https://ichigosushi.com",
