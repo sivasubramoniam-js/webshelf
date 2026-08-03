@@ -131,10 +131,10 @@
     },
     {
         "link": "https://jobran.co.il",
-        "Heading": "Jobran - Digital Marketing & Hightech Services",
-        "Abstract": "\u05d2\u05d5\u05d1\u05e8\u05d0\u05df \u05e9\u05d9\u05d5\u05d5\u05e7 \u05d3\u05d9\u05d2\u05d9\u05d8\u05dc\u05d9 : \u05de\u05dc\u05d5\u05d5\u05d9\u05dd \u05d0\u05ea \u05d4\u05e2\u05e1\u05e7 \u05e9\u05dc\u05da \u05d1\u05d4\u05e6\u05dc\u05d7\u05d4 \u05dc\u05e2\u05d9\u05d3\u05df \u05d4\u05d3\u05d9\u05d2\u05d9\u05d8\u05dc\u05d9",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://jobran.co.il",
-        "Icon": "assets/images/favicon.png",
+        "Icon": "data:,",
         "Redirect": "https://jobran.co.il",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jobran.co.il"
@@ -190,16 +190,6 @@
         "AbstractURL": "https://pure-air-projects.co.il"
     },
     {
-        "link": "https://umzug.business",
-        "Heading": "Parked Domain name on Hostinger DNS system",
-        "Abstract": null,
-        "Official Site": "https://umzug.business",
-        "Icon": "N/A",
-        "Redirect": "https://umzug.business",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://umzug.business"
-    },
-    {
         "link": "https://socialmediasystems.com",
         "Heading": "SocialMediaSystems.com - Technology Domains for Sale - Buy Premium Tech & Innovation Domain Names | Domain for Sale. Call 888-694-6735.",
         "Abstract": "SocialMediaSystems.com - a great premium domain available for sale.",
@@ -238,5 +228,15 @@
         "Redirect": "http://pengu-sport.nz/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://pengu-sport.nz/"
+    },
+    {
+        "link": "https://niko-4.cfd",
+        "Heading": "Low Cost, High Performance S3 Compatible Object Storage",
+        "Abstract": "Backblaze B2 provides unlimited data storage in the cloud at 1/5th the cost of Amazon S3, Microsoft Azure, and Google Cloud.",
+        "Official Site": "https://niko-4.cfd",
+        "Icon": "https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64b1b1605e73b516e5712f82_Backblaze_Social-Card.webp",
+        "Redirect": "https://niko-4.cfd",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://niko-4.cfd"
     }
 ]

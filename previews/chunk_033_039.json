@@ -1,23 +1,13 @@
 [
     {
-        "link": "https://elmanal.co.il",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://elmanal.co.il",
-        "Icon": "/vite.svg",
-        "Redirect": "https://elmanal.co.il",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://elmanal.co.il"
-    },
-    {
         "link": "https://deepfloating.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://deepfloating.com",
-        "Icon": "data:;",
-        "Redirect": "https://deepfloating.com",
+        "Heading": "Home",
+        "Abstract": "Home",
+        "Official Site": "https://deepfloating.com/",
+        "Icon": "N/A",
+        "Redirect": "https://deepfloating.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://deepfloating.com"
+        "AbstractURL": "https://deepfloating.com/"
     },
     {
         "link": "https://gameb.wiki",
@@ -51,13 +41,13 @@
     },
     {
         "link": "https://gooly.co.il",
-        "Heading": "\u05e2\u05de\u05d5\u05d3 \u05d4\u05d1\u05d9\u05ea - \u05d2\u05d5\u05dc\u05d9",
-        "Abstract": "\u05d9\u05e6\u05d9\u05e8\u05d4 \u05dc\u05d4\u05d2\u05e9\u05de\u05ea \u05d4\u05de\u05d8\u05e8\u05d5\u05ea \u05d0\u05e0\u05d9 \u05de\u05d6\u05de\u05d9\u05e0\u05d4 \u05d0\u05ea\u05db\u05dd \u05dc\u05d4\u05e0\u05d5\u05ea \u05de\u05d7\u05d5\u05d9\u05d9\u05d4 \u05e7\u05e1\u05d5\u05de\u05d4 \u05d5\u05de\u05e2\u05e6\u05d9\u05de\u05d4 \u05dc\u05d9\u05e6\u05d5\u05e8 \u05d9\u05e6\u05d9\u05e8\u05d4 \u05de\u05d9\u05d5\u05d7\u05d3\u05ea \u05d1\u05d3\u05e8\u05da \u05dc\u05d4\u05d2\u05e9\u05de\u05ea \u05d4\u05de\u05d8\u05e8\u05d4 \u05e9\u05dc\u05db\u05dd. \u05ea\u05db\u05e0\u05d9\u05ea \u05d2\u05e4\"\u05df \u05e1\u05d3\u05e0\u05d0\u05d5\u05ea \u05dc\u05d0\u05de\u05d4\u05d5\u05ea \u05d1\u05d7\u05d5\u05e4\u05e9\u05ea \u05dc\u05d9\u05d3\u05d4 \u05e1\u05d3\u05e0\u05d0\u05d5\u05ea \u05dc\u05d9\u05dc\u05d3\u05d9\u05dd \u05d5\u05e0\u05d5\u05e2\u05e8 \u05e2\u05e2\u05e2 \u05e1\u05d3\u05e0\u05d0\u05d5\u05ea \u05d0\u05d5\u05de\u05e0\u05d5\u05ea \u05dc\u05de\u05d1\u05d5\u05d2\u05e8\u05d9\u05dd \u05e0\u05e2\u05d9\u05dd \u05de\u05d0\u05d5\u05d3 \u05e9\u05de\u05d9 \u05d2\u05dc\u05d9 \u05d0\u05d5\u05de\u05d1\u05e8\u05d2, \u05de\u05e2\u05dc \u05e2\u05e9\u05d5\u05e8 \u05d0\u05e0\u05d9 \u05de\u05e0\u05d7\u05ea \u05e1\u05d3\u05e0\u05d0\u05d5\u05ea \u05d0\u05d5\u05de\u05e0\u05d5\u05ea \u05de\u05e2\u05e6\u05d9\u05de\u05d5\u05ea \u05d5\u05d7\u05d5\u05d9\u05ea\u05d9\u05d5\u05ea. \u05d1\u05d5\u05d2\u05e8\u05ea \u05ea\u05d5\u05d0\u05e8 \u05e8\u05d0\u05e9\u05d5\u05df \u05d1\u05e2\u05d9\u05e6\u05d5\u05d1, \u05ea\u05d5\u05d0\u05e8 \u05e9\u05e0\u05d9 \u05d1\u05d4\u05d5\u05e8\u05d0\u05d4 \u05d1\u05d0\u05d5\u05de\u05e0\u05d5\u05d9\u05d5\u05ea \u05d4\u05e2\u05d9\u05e6\u05d5\u05d1 M.teach, \u05e7\u05d5\u05e8\u05e1\u05d9\u05dd \u05de\u05e2\u05d5\u05dc\u05dd [\u2026]",
-        "Official Site": "https://gooly.co.il/",
-        "Icon": "https://gooly.co.il/wp-content/uploads/2020/05/z.png",
-        "Redirect": "https://gooly.co.il/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://gooly.co.il",
+        "Icon": "data:,",
+        "Redirect": "https://gooly.co.il",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gooly.co.il/"
+        "AbstractURL": "https://gooly.co.il"
     },
     {
         "link": "https://nipponindia.email",
@@ -68,16 +58,6 @@
         "Redirect": "https://nipponindia.email",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nipponindia.email"
-    },
-    {
-        "link": "https://visserieboulonnerie.fr",
-        "Heading": "Acheter vis t\u00eate frais\u00e9e torx, boulon, \u00e9crou, rondelle au meilleur prix - Visserie Boulonnerie",
-        "Abstract": "Le sp\u00e9cialiste de la vente en ligne pour la visserie et la boulonnerie: vis \u00e0 bois ou vis \u00e0 m\u00e9taux, pas m\u00e9trique et am\u00e9ricain, \u00e9crou, rondelle et goupille",
-        "Official Site": "http://visserieboulonnerie.fr/",
-        "Icon": "https://visserieboulonnerie.fr/img/facebook-visserie.jpg",
-        "Redirect": "http://visserieboulonnerie.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://visserieboulonnerie.fr/"
     },
     {
         "link": "https://ensopro.com",
@@ -228,5 +208,15 @@
         "Redirect": "https://at-kra49.cc",
         "AbstractSource": "BS4",
         "AbstractURL": "https://at-kra49.cc"
+    },
+    {
+        "link": "https://rivadero.com.ar",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://rivadero.com.ar",
+        "Icon": "data:,",
+        "Redirect": "https://rivadero.com.ar",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rivadero.com.ar"
     }
 ]

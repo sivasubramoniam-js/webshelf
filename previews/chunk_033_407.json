@@ -90,16 +90,6 @@
         "AbstractURL": "https://thesmartsafe.net"
     },
     {
-        "link": "https://neuro-hub.pro",
-        "Heading": "Neuro Hub \u2014 \u0414\u043e\u0441\u0442\u0443\u043f \u043a\u043e \u0432\u0441\u0435\u043c \u0442\u043e\u043f\u043e\u0432\u044b\u043c \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u044f\u043c: GPT-4 (OpenAI), DALL-E, DeepSeek, Claude, Mistral, Gemini, Stable Diffusion",
-        "Abstract": null,
-        "Official Site": "https://neuro-hub.pro",
-        "Icon": "https://neuro-hub.pro/wp-content/uploads/2025/01/nh-512-100x100.png",
-        "Redirect": "https://neuro-hub.pro",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://neuro-hub.pro"
-    },
-    {
         "link": "https://kenorules.com",
         "Heading": "kenorules.com\u00a0-\u00a0kenorules Resources and Information.",
         "Abstract": "kenorules.com is your first and best source for information about kenorules. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
@@ -151,13 +141,13 @@
     },
     {
         "link": "https://amansiebank.com",
-        "Heading": "Amansie Community Bank PLC - Home",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://amansiebank.com/",
-        "Icon": "/images/amansiebank_favicon.png",
-        "Redirect": "https://amansiebank.com/",
+        "Official Site": "https://amansiebank.com",
+        "Icon": "N/A",
+        "Redirect": "https://amansiebank.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://amansiebank.com/"
+        "AbstractURL": "https://amansiebank.com"
     },
     {
         "link": "https://eltam.com",
@@ -248,15 +238,5 @@
         "Redirect": "https://givotov.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://givotov.ru"
-    },
-    {
-        "link": "https://good4u.co.il",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://good4u.co.il",
-        "Icon": "data:;",
-        "Redirect": "https://good4u.co.il",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://good4u.co.il"
     }
 ]
