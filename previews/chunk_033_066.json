@@ -20,16 +20,6 @@
         "AbstractURL": "https://kemdb.com"
     },
     {
-        "link": "https://elbuffetdelaarrachera.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://elbuffetdelaarrachera.com",
-        "Icon": "data:,",
-        "Redirect": "https://elbuffetdelaarrachera.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://elbuffetdelaarrachera.com"
-    },
-    {
         "link": "https://longevityconcepts.com",
         "Heading": "LongevityConcepts.com - Health Domains for Sale - Buy Premium Healthcare Domain Names | Domain for Sale. Call 888-694-6735.",
         "Abstract": "LongevityConcepts.com - a great premium domain available for sale.",
@@ -48,16 +38,6 @@
         "Redirect": "https://rootfs.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rootfs.net"
-    },
-    {
-        "link": "https://lachaumiere.com",
-        "Heading": "LaChaumiere.com - Hospitality Domains for Sale - Buy Premium Hotel & Tourism Domain Names | Domain for Sale. Call 888-694-6735.",
-        "Abstract": "LaChaumiere.com - a great premium domain available for sale.",
-        "Official Site": "https://lachaumiere.com",
-        "Icon": "https://cdn.domainmarket.com/dm-com/social/lachaumiere-com.jpg",
-        "Redirect": "https://lachaumiere.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lachaumiere.com"
     },
     {
         "link": "https://tartufo.com",
@@ -110,14 +90,24 @@
         "AbstractURL": "https://azino777cash-trx.ru"
     },
     {
-        "link": "https://ultimatecarblog.com",
-        "Heading": "One moment, please...",
+        "link": "https://shieldsoutbound.com",
+        "Heading": "Shields Outbound, Cold email that fills your calendar",
         "Abstract": null,
-        "Official Site": "https://ultimatecarblog.com",
-        "Icon": "data:,",
-        "Redirect": "https://ultimatecarblog.com",
+        "Official Site": "https://shieldsoutbound.com",
+        "Icon": "data:image/png;base64,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",
+        "Redirect": "https://shieldsoutbound.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ultimatecarblog.com"
+        "AbstractURL": "https://shieldsoutbound.com"
+    },
+    {
+        "link": "https://ultimatecarblog.com",
+        "Heading": "Ultimate Car Blog | The Latest Car News, Reviews, Tuning",
+        "Abstract": "We are surfing the web to bring you the latest news about cars, especially technical specifications, reviews, drive tests, pictures, tuning, etc.",
+        "Official Site": "https://www.ultimatecarblog.com/",
+        "Icon": "https://www.ultimatecarblog.com/favicon.ico",
+        "Redirect": "https://www.ultimatecarblog.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ultimatecarblog.com/"
     },
     {
         "link": "https://mazda-mctambov.ru",
@@ -151,10 +141,10 @@
     },
     {
         "link": "https://tekz.tec.br",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "TekzHub - Centro de Links da Tekz Tecnologias",
+        "Abstract": "A Tekz Tecnologias possui diversas redes sociais e sites, deste modo o TekzHub funciona como um organizador de todos os links da Tekz.",
         "Official Site": "https://tekz.tec.br",
-        "Icon": "data:,",
+        "Icon": "images/favicon/favicon.png",
         "Redirect": "https://tekz.tec.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tekz.tec.br"
@@ -231,12 +221,12 @@
     },
     {
         "link": "https://asia-israel.co.il",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://asia-israel.co.il",
-        "Icon": "data:,",
-        "Redirect": "https://asia-israel.co.il",
+        "Heading": "\u05d1\u05dc\u05d5\u05d2 \u05d7\u05d5\u05d1\u05e7 \u05e2\u05d5\u05dc\u05dd | \u05d4\u05de\u05d9\u05d3\u05e2 \u05d4\u05db\u05d9 \u05e2\u05d3\u05db\u05e0\u05d9 - \u05d0\u05e1\u05d9\u05d4 \u05d9\u05e9\u05e8\u05d0\u05dc",
+        "Abstract": "\u05d1\u05d0\u05ea\u05e8 \u05d9\u05e9 \u05de\u05d0\u05de\u05e8\u05d9\u05dd \u05d1\u05e0\u05d5\u05e9\u05d0\u05d9\u05dd \u05e8\u05d1\u05d9\u05dd \u05de\u05db\u05dc \u05d4\u05e2\u05d5\u05dc\u05dd. \u05d4\u05e0\u05d5\u05e9\u05d0\u05d9\u05dd \u05d4\u05de\u05d5\u05e6\u05d2\u05d9\u05dd \u05db\u05d5\u05dc\u05dc\u05d9\u05dd \u05d1\u05d9\u05df \u05d4\u05d9\u05ea\u05e8 \u05e1\u05d9\u05e4\u05d5\u05e8\u05d9 \u05d7\u05d3\u05e9\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d9\u05dd \u05e9\u05de\u05ea\u05d0\u05d9\u05de\u05d9\u05dd \u05dc\u05e0\u05d5\u05e9\u05d0 \u05e9\u05dc\u05e0\u05d5, \u05dc\u05e2\u05ea\u05d9\u05dd \u05e7\u05e8\u05d5\u05d1\u05d5\u05ea \u05e1\u05d9\u05e4\u05d5\u05e8\u05d9\u05dd \u05d0\u05dc\u05d4 \u05de\u05d5\u05d2\u05e9\u05d9\u05dd \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d4\u05e7\u05d5\u05e8\u05d0\u05d9\u05dd \u05d0\u05d5 \u05de\u05ea\u05d2\u05dc\u05d9\u05dd \u05d1\u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05d8.",
+        "Official Site": "https://www.asia-israel.co.il/",
+        "Icon": "N/A",
+        "Redirect": "https://www.asia-israel.co.il/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://asia-israel.co.il"
+        "AbstractURL": "https://www.asia-israel.co.il/"
     }
 ]

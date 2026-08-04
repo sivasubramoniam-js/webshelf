@@ -40,6 +40,16 @@
         "AbstractURL": "https://rastishki-seeds-4.shop"
     },
     {
+        "link": "https://vgsf.ac.at",
+        "Heading": "\n            Startseite - VGSF        ",
+        "Abstract": null,
+        "Official Site": "https://www.vgsf.ac.at/",
+        "Icon": "https://www.vgsf.ac.at/wp-content/themes/vgsf/images/favicon-32x32.png.pagespeed.ce.hrmjDuaQxz.png",
+        "Redirect": "https://www.vgsf.ac.at/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.vgsf.ac.at/"
+    },
+    {
         "link": "https://thermocure.co.il",
         "Heading": "Thermo-Cure.com",
         "Abstract": "",
@@ -148,16 +158,6 @@
         "Redirect": "https://greatwallrussellton.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://greatwallrussellton.com"
-    },
-    {
-        "link": "https://scommessegame.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://scommessegame.com",
-        "Icon": "data:;",
-        "Redirect": "https://scommessegame.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://scommessegame.com"
     },
     {
         "link": "https://josephperrier.com",

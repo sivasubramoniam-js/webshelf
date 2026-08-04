@@ -41,13 +41,13 @@
     },
     {
         "link": "https://hotven.com",
-        "Heading": "One moment, please...",
+        "Heading": "Home - Hotven",
         "Abstract": null,
-        "Official Site": "https://hotven.com",
-        "Icon": "data:,",
-        "Redirect": "https://hotven.com",
+        "Official Site": "https://hotven.com/",
+        "Icon": "https://hotven.com/wp-content/uploads/2022/07/2-150x150.png",
+        "Redirect": "https://hotven.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hotven.com"
+        "AbstractURL": "https://hotven.com/"
     },
     {
         "link": "https://vajud.com",
@@ -101,10 +101,10 @@
     },
     {
         "link": "https://erpcorepoint.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "CorePoint - ERP",
+        "Abstract": "CorePoint - ERP",
         "Official Site": "https://erpcorepoint.com",
-        "Icon": "data:,",
+        "Icon": "https://erpcorepoint.com/admin/assets/images/brand/favicon.ico",
         "Redirect": "https://erpcorepoint.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://erpcorepoint.com"
@@ -180,11 +180,21 @@
         "AbstractURL": "https://agentaviamarket.ru"
     },
     {
+        "link": "https://carnevalerestaurant.co.uk",
+        "Heading": "Offshore Casino Gate UK 2026 \u2013 UK Player Guide",
+        "Abstract": "UK player guide to offshore casino gate sites in 2026. Platforms covering game variety, welcome offer fairness, and withdrawal processing times.",
+        "Official Site": "https://carnevalerestaurant.co.uk",
+        "Icon": "/casino-sites-not-on-gamstop-uk.webp",
+        "Redirect": "https://carnevalerestaurant.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://carnevalerestaurant.co.uk"
+    },
+    {
         "link": "https://ssdisk.co.il",
-        "Heading": "One moment, please...",
+        "Heading": "SSDisk segev Ltd \u2013 Source for SSD Monitor INSUSTIAL AND MILITARY RUGGRED PC",
         "Abstract": null,
         "Official Site": "https://ssdisk.co.il",
-        "Icon": "data:,",
+        "Icon": "https://ssdiskinfo.com/wp-content/uploads/2018/12/cropped-ssd-icon-32x32.png",
         "Redirect": "https://ssdisk.co.il",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ssdisk.co.il"

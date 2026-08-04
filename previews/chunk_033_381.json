@@ -91,13 +91,13 @@
     },
     {
         "link": "https://cbt-treatment.info",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://cbt-treatment.info",
-        "Icon": "data:,",
-        "Redirect": "https://cbt-treatment.info",
+        "Heading": "\u05e0\u05d9\u05e0\u05d4 \u05e7\u05d5\u05e9\u05e0\u05d9\u05e8 | \u05e4\u05e1\u05d9\u05db\u05d5\u05ea\u05e8\u05e4\u05d9\u05e1\u05d8\u05d9\u05ea \u05d1\u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 -",
+        "Abstract": "\u05e0\u05d9\u05e0\u05d4 \u05e7\u05d5\u05e9\u05e0\u05d9\u05e8 | \u05d8\u05d9\u05e4\u05d5\u05dc CBT \u05de\u05e7\u05e6\u05d5\u05e2\u05d9 \u2013 \u05d7\u05e8\u05d3\u05d4, \u05d3\u05d9\u05db\u05d0\u05d5\u05df, \u05de\u05e6\u05d1\u05d9 \u05dc\u05d7\u05e5 \u05d5\u05e9\u05d9\u05e4\u05d5\u05e8 \u05d0\u05d9\u05db\u05d5\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd",
+        "Official Site": "https://www.cbt-treatment.info/",
+        "Icon": "N/A",
+        "Redirect": "https://www.cbt-treatment.info/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cbt-treatment.info"
+        "AbstractURL": "https://www.cbt-treatment.info/"
     },
     {
         "link": "https://kipi.org.il",
@@ -141,10 +141,10 @@
     },
     {
         "link": "https://warwinner.com",
-        "Heading": "One moment, please...",
+        "Heading": "My Blog \u2013 My WordPress Blog",
         "Abstract": null,
         "Official Site": "https://warwinner.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://warwinner.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://warwinner.com"
@@ -178,6 +178,16 @@
         "Redirect": "http://ehphearing.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://ehphearing.com/"
+    },
+    {
+        "link": "https://matforce.org",
+        "Heading": "Home - MATFORCE",
+        "Abstract": "https://www.youtube.com/watch?v=kfRbFnDCRjM Mobilizing Action Together for Community Empowerment Our goal is to empower communities across Arizona to prevent and reduce substance use and to engage and equip their citizens to build healthier, safer places where children, families, and community members can thrive. MATFORCE implements programming throughout Yavapai County and across Arizona to help reach this goal. [\u2026]",
+        "Official Site": "https://matforce.org/",
+        "Icon": "https://matforce.org/wp-content/uploads/elementor/thumbs/20-year-logo-full-color-rf6qkxx5611oyac7pdxi92vq0ihognnrkfp5b68cyo.png",
+        "Redirect": "https://matforce.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://matforce.org/"
     },
     {
         "link": "https://mglavionicsusers.org",
@@ -248,6 +258,16 @@
         "Redirect": "https://flyzambezi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://flyzambezi.com"
+    },
+    {
+        "link": "https://pabllo.com",
+        "Heading": "Pabllo.com - Personal Domains for Sale - Buy Premium Individual & Portfolio Domain Names | Domain for Sale. Call 888-694-6735.",
+        "Abstract": "Pabllo.com - a great premium domain available for sale.",
+        "Official Site": "https://pabllo.com",
+        "Icon": "https://cdn.domainmarket.com/dm-com/social/pabllo-com.jpg",
+        "Redirect": "https://pabllo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pabllo.com"
     },
     {
         "link": "https://buywrap.com",

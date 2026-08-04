@@ -1,13 +1,13 @@
 [
     {
         "link": "https://toprahit.co.il",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://toprahit.co.il",
-        "Icon": "data:,",
-        "Redirect": "https://toprahit.co.il",
+        "Heading": "\u05d2\u05dc\u05e8\u05d9\u05d4 \u05dc\u05e8\u05d9\u05d4\u05d5\u05d8 - \u05d2\u05dc\u05e8\u05d9\u05d4 \u05dc\u05e8\u05d9\u05d4\u05d5\u05d8 \u05d1\u05d9\u05ea\u05d9 \u05e9\u05dc \u05d8\u05d5\u05e4 \u05e8\u05d4\u05d9\u05d8 \u05d8\u05d1\u05e8\u05d9\u05d4 | \u05d8\u05d5\u05e4\u05e8\u05d4\u05d9\u05d8",
+        "Abstract": "\u05d8\u05d5\u05e4 \u05e8\u05d4\u05d9\u05d8 \u05d8\u05d1\u05e8\u05d9\u05d4 - \u05d2\u05dc\u05e8\u05d9\u05d4 \u05dc\u05e8\u05d9\u05d4\u05d5\u05d8 \u05d1\u05d9\u05ea\u05d9, \u05d7\u05d3\u05e8\u05d9 \u05e9\u05d9\u05e0\u05d4 \u05d9\u05d5\u05e7\u05e8\u05ea\u05d9\u05d9\u05dd, \u05de\u05d6\u05e8\u05d5\u05e0\u05d9\u05dd \u05d0\u05d5\u05e8\u05ea\u05d5\u05e4\u05d3\u05d9\u05d9\u05dd, \u05e4\u05d9\u05e0\u05d5\u05ea \u05d0\u05d5\u05db\u05dc \u05de\u05e2\u05d5\u05e6\u05d1\u05d5\u05ea, \u05e4\u05d9\u05e0\u05d5\u05ea \u05d9\u05e9\u05d9\u05d1\u05d4 \u05de\u05d1\u05d3 \u05d5\u05de\u05e2\u05d5\u05e8, \u05e9\u05d5\u05dc\u05d7\u05e0\u05d5\u05ea \u05dc\u05e1\u05dc\u05d5\u05df \u05d5\u05de\u05d6\u05e0\u05d5\u05e0\u05d9\u05dd \u05ea\u05d5\u05d0\u05de\u05d9\u05dd",
+        "Official Site": "https://www.toprahit.co.il/",
+        "Icon": "https://www.toprahit.co.il/wp-content/uploads/2022/01/sop-resize-200-logo2-011.png",
+        "Redirect": "https://www.toprahit.co.il/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://toprahit.co.il"
+        "AbstractURL": "https://www.toprahit.co.il/"
     },
     {
         "link": "https://jesusaviour.com",
@@ -24,10 +24,20 @@
         "Heading": "Kathy Mehal ACC",
         "Abstract": null,
         "Official Site": "https://www.idealvacations4u.com",
-        "Icon": "http://www.idealvacations4u.com/images/site-background-default.jpg?rand=8396",
+        "Icon": "http://www.idealvacations4u.com/images/site-background-default.jpg?rand=9693",
         "Redirect": "https://www.idealvacations4u.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.idealvacations4u.com"
+    },
+    {
+        "link": "https://lolachers.ca",
+        "Heading": "Lolacher's Catering",
+        "Abstract": null,
+        "Official Site": "https://lolachers.ca",
+        "Icon": "https://lolachers.ca/wp-content/themes/lolachers/imgs/favicon.png",
+        "Redirect": "https://lolachers.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lolachers.ca"
     },
     {
         "link": "https://idahohousingsolutions.com",
@@ -100,16 +110,6 @@
         "AbstractURL": "https://gilarbi.com"
     },
     {
-        "link": "https://digifiscal.shop",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://digifiscal.shop",
-        "Icon": "N/A",
-        "Redirect": "https://digifiscal.shop",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://digifiscal.shop"
-    },
-    {
         "link": "https://drmenkedental.com",
         "Heading": "\n   Menke Family Dental\n  ",
         "Abstract": "Trusted family and cosmetic dental care in Joplin, MO. Book your appointment with Dr. Stephen or Dr. Evan Menke today.",
@@ -118,6 +118,16 @@
         "Redirect": "https://drmenkedental.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://drmenkedental.com"
+    },
+    {
+        "link": "https://kokorobyannamarie.com",
+        "Heading": "\u05e7\u05d5\u05e7\u05d5\u05e8\u05d5 - \u05d0\u05e0\u05d4 \u05de\u05d0\u05e8\u05d9 \u05e8\u05d1\u05d9\u05e6\u05e7\u05d9",
+        "Abstract": "\u05d0\u05e0\u05d4\u05be\u05de\u05d0\u05e8\u05d9 \u05e8\u05d1\u05d9\u05e6\u05e7\u05d9 \u05d4\u05d9\u05d0 \u05e4\u05d9\u05dc\u05d5\u05e1\u05d5\u05e4\u05d9\u05ea, \u05d0\u05de\u05e0\u05d9\u05ea, \u05e6\u05dc\u05de\u05ea. \u05d7\u05d9\u05d4, \u05de\u05dc\u05de\u05d3\u05ea \u05d5\u05d9\u05d5\u05e6\u05e8\u05ea \u05d1\u05e4\u05e8\u05d9\u05d6, \u05d3\u05e8\u05d5\u05dd \u05e6\u05e8\u05e4\u05ea \u05d5\u05d1\u05e1\u05e4\u05d9\u05e0\u05d4. ",
+        "Official Site": "https://kokorobyannamarie.com",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://kokorobyannamarie.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kokorobyannamarie.com"
     },
     {
         "link": "https://joyfront.com",
@@ -164,7 +174,7 @@
         "Heading": "Home",
         "Abstract": "Andreas Zetterlund Social Enterprise Group\n",
         "Official Site": "https://sites.google.com/view/alfazulu-group/home",
-        "Icon": "https://lh3.googleusercontent.com/sitesv/AG8ngQWM37cUS20iaH1H_4ujqVkC6x_8X_OFs6N94R0LA3YN5ui1ylPgsMr8JlA5LG3kpd4MLihYlAd87AeUFy1i0G7hBfdVJGpiYxI2n8xFtZJCgi-MqlHF1OTobb9Bfl4r1MvrHYkhzHln0GvvfG6ztrdIWR1tQ6tycAqzA5BhWV1sSawrTuD_c29mKTKdkl0=w16383",
+        "Icon": "https://lh3.googleusercontent.com/sitesv/AG8ngQVIHKxaifgnVQYt-K02LwZ40D7uHNQbpw2oT1dp9Tg9NUhuTVtJ8Ci90K_q4PMNz2sd9iqGjfAxS4_CULqQ33jc345zgKMExMdjR7SsBtxX4DmjOo-Qun8q--gP-651kz5J4M0yLPZgwHUJClCL16RCwHWFLQLUscaT4twyDwQGzjt-adgW06p3zx2M3dw=w16383",
         "Redirect": "https://sites.google.com/view/alfazulu-group/home",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sites.google.com/view/alfazulu-group/home"
@@ -191,13 +201,13 @@
     },
     {
         "link": "https://amarble.co.il",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://amarble.co.il",
-        "Icon": "data:,",
-        "Redirect": "https://amarble.co.il",
+        "Heading": "\u05e2\u05de\u05d5\u05d3 \u05d4\u05d1\u05d9\u05ea - \u05d0.\u05de \u05e9\u05d9\u05e9",
+        "Abstract": "30 \u05e9\u05e0\u05d4 \u05e9\u05dc \u05d0\u05d9\u05db\u05d5\u05ea,\u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05d5\u05ea,\u05e9\u05dc\u05de\u05d5\u05ea,\u05e0\u05d9\u05e1\u05d9\u05d5\u05df \u05e7\u05d8\u05dc\u05d5\u05d2 \u05e9\u05d9\u05e9 \u05de\u05e7\u05dc\u05d7\u05d5\u05e0\u05d9\u05dd \u05d0\u05e8\u05d5\u05e0\u05d5\u05ea \u05d0\u05de\u05d1\u05d8\u05d9\u05d4 \u05d1\u05e8\u05d6\u05d9\u05dd \u05db\u05d9\u05d5\u05e8\u05d9\u05dd \u05db\u05dc\u05d9\u05dd \u05e1\u05e0\u05d9\u05d8\u05e8\u05d9\u05d9\u05dd \u05d0\u05de\u05d1\u05d8\u05d9\u05d5\u05ea \u05d8\u05d5\u05d7\u05df \u05d0\u05e9\u05e4\u05d4 \u05d0\u05d9\u05db\u05d5\u05ea \u05d0\u05e0\u05d5 \u05dc\u05d0 \u05de\u05ea\u05e4\u05e9\u05e8\u05d9\u05dd \u05e2\u05dc \u05d0\u05d9\u05db\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05e8\u05d9\u05dd \u05e9\u05dc\u05e0\u05d5, \u05d4\u05dc\u05e7\u05d5\u05d7\u05d5\u05ea \u05e9\u05dc\u05e0\u05d5 \u05e0\u05d4\u05e0\u05d9\u05dd \u05de\u05d4\u05de\u05d5\u05e6\u05e8\u05d9\u05dd \u05d1\u05e8\u05de\u05d4 \u05d4\u05d2\u05d1\u05d5\u05d4\u05d4 \u05d1\u05d9\u05d5\u05ea\u05e8. \u05de\u05d7\u05d9\u05e8\u05d9\u05dd \u05de\u05e9\u05ea\u05dc\u05de\u05d9\u05dd \u05d0.\u05de \u05e9\u05d9\u05e9 \u05d3\u05d5\u05d2\u05dc\u05ea \u05d1\u05de\u05d7\u05d9\u05e8 \u05e9\u05d5\u05d5\u05d4 \u05dc\u05db\u05dc \u05e0\u05e4\u05e9, \u05d0\u05e0\u05d5 \u05d2\u05d0\u05d9\u05dd \u05d1\u05de\u05d7\u05d9\u05e8\u05d9\u05dd \u05d4\u05de\u05e9\u05ea\u05dc\u05de\u05d9\u05dd \u05e9\u05dc\u05e0\u05d5 \u05ea\u05d5\u05da \u05e9\u05de\u05d9\u05e8\u05d4 \u05e2\u05dc \u05d0\u05d9\u05db\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05e8\u05d9\u05dd. \u05de\u05e9\u05dc\u05d5\u05d7 \u05de\u05d4\u05d9\u05e8 \u05d4\u05de\u05e9\u05dc\u05d5\u05d7\u05d9\u05dd \u05e9\u05dc\u05e0\u05d5 \u05de\u05d4\u05d9\u05e8\u05d9\u05dd \u2026 \u05e2\u05de\u05d5\u05d3 \u05d4\u05d1\u05d9\u05ea \u05dc\u05e7\u05e8\u05d9\u05d0\u05d4 \u00bb",
+        "Official Site": "https://amarble.co.il/",
+        "Icon": "https://amarble.co.il/wp-content/uploads/2020/11/IMG-0749-1024x768.jpg",
+        "Redirect": "https://amarble.co.il/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://amarble.co.il"
+        "AbstractURL": "https://amarble.co.il/"
     },
     {
         "link": "https://ikra-opt.ru",

@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://healthdistrict.org",
+        "Heading": "Health District of Northern Larimer County |",
+        "Abstract": null,
+        "Official Site": "https://www.healthdistrict.org/",
+        "Icon": "https://www.healthdistrict.org/sites/all/themes/healthdistrict/favicon.ico",
+        "Redirect": "https://www.healthdistrict.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.healthdistrict.org/"
+    },
+    {
         "link": "https://sadaka.ie",
         "Heading": "Sadaka, The Ireland Palestine Alliance \u2013 Sadaka, Ireland Palestine Alliance",
         "Abstract": null,
@@ -11,13 +21,13 @@
     },
     {
         "link": "https://hotelesdelmundo.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://hotelesdelmundo.com",
-        "Icon": "data:,",
-        "Redirect": "https://hotelesdelmundo.com",
+        "Heading": "Hoteles del mundo - Actualidad, viajes y hoteles",
+        "Abstract": "Actualidad, viajes y hoteles",
+        "Official Site": "https://hotelesdelmundo.com/",
+        "Icon": "https://i0.wp.com/hotelesdelmundo.com/wp-content/uploads/2023/11/jeje.png?fit=32%2C25&ssl=1",
+        "Redirect": "https://hotelesdelmundo.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hotelesdelmundo.com"
+        "AbstractURL": "https://hotelesdelmundo.com/"
     },
     {
         "link": "https://arle.de",
@@ -68,6 +78,16 @@
         "Redirect": "https://sannohashi.co.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sannohashi.co.jp/"
+    },
+    {
+        "link": "https://variantgbo.ru",
+        "Heading": "\u0421\u0430\u0439\u0442 \u0437\u0430\u043a\u0440\u044b\u0442",
+        "Abstract": null,
+        "Official Site": "https://variantgbo.ru",
+        "Icon": "N/A",
+        "Redirect": "https://variantgbo.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://variantgbo.ru"
     },
     {
         "link": "https://nayeligaia.com",
@@ -140,6 +160,16 @@
         "AbstractURL": "https://lewprinting.com"
     },
     {
+        "link": "https://vilasco.com",
+        "Heading": "Vilasco.com is For Sale | BrandBucket",
+        "Abstract": "Buy the domain name Vilasco.com and launch your business with a premium domain and a high quality logo.",
+        "Official Site": "https://www.brandbucket.com/names/vilasco",
+        "Icon": "https://www.brandbucket.com/sites/default/files/logo_uploads/571519/stamped_preview_w7.png",
+        "Redirect": "https://www.brandbucket.com/names/vilasco",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.brandbucket.com/names/vilasco"
+    },
+    {
         "link": "https://recoversomedata.com",
         "Heading": "Seattle Data Recovery",
         "Abstract": "Seattle Data Recovery is located in Ballard.",
@@ -181,10 +211,10 @@
     },
     {
         "link": "https://agentweb247.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://agentweb247.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://agentweb247.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://agentweb247.com"

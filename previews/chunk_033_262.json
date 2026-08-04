@@ -31,10 +31,10 @@
     },
     {
         "link": "https://designdomarketing.com",
-        "Heading": "One moment, please...",
+        "Heading": "Page not found \u2013 Welcome to wordpress",
         "Abstract": null,
         "Official Site": "https://designdomarketing.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://designdomarketing.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://designdomarketing.com"
@@ -81,13 +81,23 @@
     },
     {
         "link": "https://therehab.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Recovery Podcasts | Best Podcasts on Sobriety & Addiction | The Rehab",
+        "Abstract": "The Rehab Podcast is a program about the world of addiction. We talk about anything related to sobriety & addiction, with a focus on the arts & the spiritual.",
         "Official Site": "https://therehab.com",
-        "Icon": "data:,",
+        "Icon": "https://therehab.com/wp-content/uploads/2024/06/therehab.com-social-logo.jpg",
         "Redirect": "https://therehab.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://therehab.com"
+    },
+    {
+        "link": "https://generatesale.com",
+        "Heading": "Home - GenerateSale Academy | Learn Skills to Generate Income Online",
+        "Abstract": "Home / GenerateSale GenerateSale Academy Learn Skills and Systems That Generate Income GenerateSale helps beginners and growing learners understand how to earn through services, products, freelancing, traffic systems, marketplaces, digital products, AI, and business growth. Start with the basics, choose your path, and move into advanced income systems step by step. Start Here Explore Academy [\u2026]",
+        "Official Site": "https://generatesale.com/",
+        "Icon": "https://generatesale.com/wp-content/uploads/2026/04/what-you-can-build-here.png",
+        "Redirect": "https://generatesale.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://generatesale.com/"
     },
     {
         "link": "https://heavymetalwelding.com",
@@ -98,6 +108,16 @@
         "Redirect": "https://heavymetalwelding.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://heavymetalwelding.com"
+    },
+    {
+        "link": "https://omanuthaetz.co.il",
+        "Heading": "\u05d0\u05d5\u05de\u05e0\u05d5\u05ea \u05d4\u05e2\u05e5 diy \u2013 \u05d4\u05e7\u05d4\u05d9\u05dc\u05d4 \u05dc\u05e9\u05d9\u05ea\u05d5\u05e3 \u05ea\u05db\u05e0\u05d9\u05d5\u05ea \u05d1\u05e0\u05d9\u05d9\u05d4, \u05de\u05d0\u05de\u05e8\u05d9\u05dd \u05d5\u05de\u05d3\u05e8\u05d9\u05db\u05d9\u05dd \u05dc\u05d1\u05e0\u05d9\u05d9\u05d4 \u05d1\u05e2\u05e5",
+        "Abstract": null,
+        "Official Site": "https://omanuthaetz.co.il",
+        "Icon": "https://omanuthaetz.co.il/wp-content/uploads/2021/01/cropped-cropped-logo-32x32.jpg",
+        "Redirect": "https://omanuthaetz.co.il",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://omanuthaetz.co.il"
     },
     {
         "link": "https://just-cookies.com",
