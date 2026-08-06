@@ -84,7 +84,7 @@
         "Heading": "Cruise Planners",
         "Abstract": null,
         "Official Site": "https://www.griffeinternationaltravel.com",
-        "Icon": "http://www.griffeinternationaltravel.com/images/site-background-default.jpg?rand=660",
+        "Icon": "http://www.griffeinternationaltravel.com/images/site-background-default.jpg?rand=8019",
         "Redirect": "https://www.griffeinternationaltravel.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.griffeinternationaltravel.com"
@@ -121,10 +121,10 @@
     },
     {
         "link": "https://seker.live",
-        "Heading": "Document",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://seker.live",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://seker.live",
         "AbstractSource": "BS4",
         "AbstractURL": "https://seker.live"
@@ -141,20 +141,20 @@
     },
     {
         "link": "https://gommaindustriale.it",
-        "Heading": "Gomma Industriale Srl \u2013 Antivibranti industriali in gomma",
-        "Abstract": "Gomma Industriale Srl \u00e8 specializzata nella produzione di antivibranti industriali in gomma: contattaci per saperne di pi\u00f9.",
-        "Official Site": "https://www.gommaindustriale.it/",
-        "Icon": "https://www.gommaindustriale.it/wp-content/uploads/2024/01/cropped-gomma-industriale-antivibranti-in-gomma-32x32.png",
-        "Redirect": "https://www.gommaindustriale.it/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://gommaindustriale.it",
+        "Icon": "data:,",
+        "Redirect": "https://gommaindustriale.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.gommaindustriale.it/"
+        "AbstractURL": "https://gommaindustriale.it"
     },
     {
         "link": "https://vegaswet.com",
-        "Heading": "Las Vegas Independent Escorts and LV Escort Services",
-        "Abstract": "Las Vegas Escort Girls and Services. We provide you with the best and beautiful escort girls in Las Vegas directly to your Vegas hotel room. ",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://vegaswet.com",
-        "Icon": "favicon.ico",
+        "Icon": "data:,",
         "Redirect": "https://vegaswet.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vegaswet.com"
@@ -191,10 +191,10 @@
     },
     {
         "link": "https://mm-ps.in",
-        "Heading": "Madras Marine Propellers",
-        "Abstract": "Madras Marine",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://mm-ps.in",
-        "Icon": "assets/images/favicon-32x32.png",
+        "Icon": "data:,",
         "Redirect": "https://mm-ps.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mm-ps.in"
@@ -228,5 +228,15 @@
         "Redirect": "https://tributux.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tributux.net"
+    },
+    {
+        "link": "https://xn----gtbadl3ajafav.xn--p1ai",
+        "Heading": "Spinto Casino \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0421\u043f\u0438\u043d\u0442\u043e \u041a\u0430\u0437\u0438\u043d\u043e: \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0432\u044b\u0432\u043e\u0434 \u043d\u0430 \u043a\u0430\u0440\u0442\u0443",
+        "Abstract": "Spinto Casino \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0421\u043f\u0438\u043d\u0442\u043e \u041a\u0430\u0437\u0438\u043d\u043e: \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0432\u044b\u0432\u043e\u0434 \u043d\u0430 \u043a\u0430\u0440\u0442\u0443 \ud83d\udcb3\u26a1, \u0441\u043b\u043e\u0442\u044b \u0438 \u043b\u0430\u0439\u0432-\u0438\u0433\u0440\u044b, \u0431\u043e\u043d\u0443\u0441\u044b, \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7, \u043b\u0438\u0446\u0435\u043d\u0437\u0438\u044f",
+        "Official Site": "https://xn----gtbadl3ajafav.xn--p1ai",
+        "Icon": "https://xn----gtbadl3ajafav.xn--p1ai/favicon.ico",
+        "Redirect": "https://xn----gtbadl3ajafav.xn--p1ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xn----gtbadl3ajafav.xn--p1ai"
     }
 ]

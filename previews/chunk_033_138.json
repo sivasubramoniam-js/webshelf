@@ -1,10 +1,10 @@
 [
     {
         "link": "https://parko-international.com",
-        "Heading": "Parko International",
-        "Abstract": "",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://parko-international.com",
-        "Icon": "assets/img/favicon.png",
+        "Icon": "data:,",
         "Redirect": "https://parko-international.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://parko-international.com"
@@ -31,13 +31,13 @@
     },
     {
         "link": "https://newzensolution.co.kr",
-        "Heading": "\ub274\uc820\uc194\ub8e8\uc158 \uc81c\ud488\uc18c\uac1c \ubaa8\ubc14\uc77c",
-        "Abstract": "\uc138\ubb34\uc0ac\ub791pro, \ub274\uc820 \ucf00\uc774\ub819 \ub4f1 \uc138\ubb34\ud68c\uacc4\ud504\ub85c\uadf8\ub7a8 \uc804\ubb38 \uae30\uc5c5\uc785\ub2c8\ub2e4. \uc5ec\ub7ec \ud68c\uacc4 ERP \ud504\ub85c\uadf8\ub7a8\uc744 \uc81c\uacf5\ud558\uace0 \uc788\uc73c\uba70, \ub354\uc874\uacfc \ub354\ubd88\uc5b4 \uae30\uc5c5 \uc790\uccb4\uc138\ubb34\uc2e0\uace0\uac00 \uac00\ub2a5\ud55c \uac80\uc99d\ub41c \ud504\ub85c\uadf8\ub7a8\uc744 \uc81c\uacf5\uc911\uc785\ub2c8\ub2e4.",
-        "Official Site": "https://m.newzensolution.co.kr/",
-        "Icon": "https://m.newzensolution.co.kr/images/newzen_thumbnail.png",
-        "Redirect": "https://m.newzensolution.co.kr/",
+        "Heading": "\ub274\uc820\uc194\ub8e8\uc158 \uacf5\uc2dd\ud648\ud398\uc774\uc9c0",
+        "Abstract": "\uc138\ubb34\uc0ac\ub791pro, \ub274\uc820 \ucf00\uc774\ub819 \ub4f1 \uc138\ubb34\ud68c\uacc4\ud504\ub85c\uadf8\ub7a8 \uc804\ubb38 \uae30\uc5c5\uc785\ub2c8\ub2e4. \uc5ec\ub7ec \ud68c\uacc4 ERP \ud504\ub85c\uadf8\ub7a8\uc744 \uc81c\uacf5\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.",
+        "Official Site": "https://www.newzensolution.co.kr",
+        "Icon": "https://newzensolution.co.kr/images/newzen_thumbnail.png",
+        "Redirect": "https://www.newzensolution.co.kr",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://m.newzensolution.co.kr/"
+        "AbstractURL": "https://www.newzensolution.co.kr"
     },
     {
         "link": "https://kdbpy.cfd",
@@ -188,16 +188,6 @@
         "Redirect": "https://tokyobraze.co.jp",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tokyobraze.co.jp"
-    },
-    {
-        "link": "https://kaneta.co.jp",
-        "Heading": "\u30ab\u30cd\u30bf\u5efa\u8a2d | \u4e0a\u8d8a\u5e02\u30fb\u7cf8\u9b5a\u5ddd\u5e02\u30fb\u5999\u9ad8\u5e02\u306e\u65b0\u7bc9\u6ce8\u6587\u4f4f\u5b85",
-        "Abstract": "\u30ab\u30cd\u30bf\u5efa\u8a2d\u306f\u4e0a\u8d8a\u30fb\u7cf8\u9b5a\u5ddd\u5730\u57df\u3067\u6ce8\u6587\u4f4f\u5b85\u3092\u3066\u304c\u3051\u3066\u3044\u308b\u5efa\u8a2d\u4f1a\u793e\u3067\u3059\u3002\u4f4f\u5b85\u5efa\u7bc9\u3092\u901a\u3058\u3001\u4e0a\u8d8a\u30fb\u7cf8\u9b5a\u5ddd\u5730\u57df\u3067\u306e\u5feb\u9069\u306a\u66ae\u3089\u3057\u3092\u5b9f\u73fe\u3044\u305f\u3057\u307e\u3059\u3002\u4f4f\u307e\u3046\u65b9\u306e\u5c06\u6765\u3092\u898b\u636e\u3048\u305f\u5bb6\u3065\u304f\u308a\u3067\u3001\u6c38\u304f\u611b\u3055\u308c\u308b\u672c\u7269\u306e\u5bb6\u3092\u3064\u304f\u308a\u307e\u3059",
-        "Official Site": "https://www.kaneta.co.jp/",
-        "Icon": "https://www.kaneta.co.jp/wp-content/uploads/2023/05/ogp.jpg",
-        "Redirect": "https://www.kaneta.co.jp/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kaneta.co.jp/"
     },
     {
         "link": "https://lezbackpack.com",

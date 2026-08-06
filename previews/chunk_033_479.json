@@ -10,6 +10,16 @@
         "AbstractURL": "https://xn--6-2tbft.xn--p1ai"
     },
     {
+        "link": "https://eagleexp.com",
+        "Heading": "Eagle Express Front",
+        "Abstract": "Eagle Express has a fleet of Stepdeck Conestoga trailers with ramps to meet your specialized hauling needs.",
+        "Official Site": "https://eagleexp.com",
+        "Icon": "https://eagleexp.com/images/eagle_express_stepdeck_conestoga_curtainside.jpg",
+        "Redirect": "https://eagleexp.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eagleexp.com"
+    },
+    {
         "link": "https://rvnirmaan.com",
         "Heading": "Real Estate Builders and Developers in Hyderabad, RV Nirmaan",
         "Abstract": "RV Nirmaan is one of the leading real estate builders and developers in Hyderabad known for developing residential apartments, premium villas in Hyderabad.",
@@ -38,16 +48,6 @@
         "Redirect": "https://eastlake.church",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eastlake.church"
-    },
-    {
-        "link": "https://hiphoperaly.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://hiphoperaly.com",
-        "Icon": "N/A",
-        "Redirect": "https://hiphoperaly.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hiphoperaly.com"
     },
     {
         "link": "https://diletto.com",
@@ -88,6 +88,16 @@
         "Redirect": "https://emailnamegenerator.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://emailnamegenerator.com"
+    },
+    {
+        "link": "https://yoramsegal.com",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://yoramsegal.com",
+        "Icon": "N/A",
+        "Redirect": "https://yoramsegal.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yoramsegal.com"
     },
     {
         "link": "https://glenn-cohen.com",
@@ -131,13 +141,13 @@
     },
     {
         "link": "https://marom-dutyfree.com",
-        "Heading": "Home - \u05de\u05e8\u05d5\u05dd \u05d3\u05d9\u05d5\u05d8\u05d9 \u05e4\u05e8\u05d9 | specializes in the dutyfree and travel retail platforms",
-        "Abstract": "Marom dutyfree specializes in the dutyfree and travel retail platforms.|\u05de\u05e8\u05d5\u05dd \u05d3\u05d9\u05d5\u05d8\u05d9 \u05e4\u05e8\u05d9 \u05de\u05ea\u05de\u05d7\u05d4 \u05d1\u05de\u05d5\u05e6\u05e8\u05d9 \u05d3\u05d9\u05d5\u05d8\u05d9 \u05e4\u05e8\u05d9 \u05d5\u05de\u05d5\u05e6\u05e8\u05d9\u05dd \u05dc\u05d7\u05d1\u05e8\u05d5\u05ea \u05ea\u05e2\u05d5\u05e4\u05d4",
-        "Official Site": "https://marom-dutyfree.com/",
-        "Icon": "https://marom-dutyfree.com/wp-content/uploads/2020/06/\u05de\u05e8\u05d5\u05dd_\u05dc\u05d1\u05df-03.png",
-        "Redirect": "https://marom-dutyfree.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://marom-dutyfree.com",
+        "Icon": "data:,",
+        "Redirect": "https://marom-dutyfree.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://marom-dutyfree.com/"
+        "AbstractURL": "https://marom-dutyfree.com"
     },
     {
         "link": "https://krab2-c--c.ru",
@@ -218,5 +228,15 @@
         "Redirect": "https://altertax.co.il/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://altertax.co.il/"
+    },
+    {
+        "link": "https://calladancewear.com",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://calladancewear.com",
+        "Icon": "data:,",
+        "Redirect": "https://calladancewear.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://calladancewear.com"
     }
 ]

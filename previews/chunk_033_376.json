@@ -31,10 +31,10 @@
     },
     {
         "link": "https://mohamadweik.com",
-        "Heading": "Mohamad Dweik | Creative Director",
-        "Abstract": "Mohamad Dweik \u2014 Creative Director, Media Producer, Graphic Designer, and Photographer based in Jerusalem.",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://mohamadweik.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://mohamadweik.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mohamadweik.com"
@@ -78,16 +78,6 @@
         "Redirect": "https://budart.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://budart.com"
-    },
-    {
-        "link": "https://cdnimages2498.shop",
-        "Heading": "Welcome to nginx!",
-        "Abstract": null,
-        "Official Site": "https://cdnimages2498.shop",
-        "Icon": "N/A",
-        "Redirect": "https://cdnimages2498.shop",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cdnimages2498.shop"
     },
     {
         "link": "https://jatob.dk",
@@ -161,7 +151,7 @@
     },
     {
         "link": "https://1wmtql.com",
-        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 6061840.584957856",
+        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 1517926.550276816",
         "Abstract": "\u041b\u0443\u0447\u0448\u0435\u0435 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0430\u0437\u0438\u043d\u043e \u0438 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440! \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0441\u044f \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0439 \u0431\u043e\u043d\u0443\u0441 500%. 15 000+ \u0438\u0433\u0440, \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0432\u044b\u043f\u043b\u0430\u0442\u044b, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7.",
         "Official Site": "https://1wmtql.com",
         "Icon": "/resources/v1/plain/favicons/android-chrome-72x72-v3.png",
@@ -231,10 +221,10 @@
     },
     {
         "link": "https://serranoslawnservice.com",
-        "Heading": "\nSerranos Lawn Service",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://serranoslawnservice.com",
-        "Icon": "https://sep.yimg.com/yf/common/favicon-32x32.png",
+        "Icon": "data:,",
         "Redirect": "https://serranoslawnservice.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://serranoslawnservice.com"
@@ -251,10 +241,10 @@
     },
     {
         "link": "https://etiqal.com",
-        "Heading": "E T I Q A L : Transformation de Papier",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://etiqal.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://etiqal.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://etiqal.com"
@@ -288,5 +278,15 @@
         "Redirect": "https://billingekrukmakeri.se/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://billingekrukmakeri.se/"
+    },
+    {
+        "link": "https://hemen.pro",
+        "Heading": "Access Denied",
+        "Abstract": null,
+        "Official Site": "https://hemen.pro",
+        "Icon": "N/A",
+        "Redirect": "https://hemen.pro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hemen.pro"
     }
 ]

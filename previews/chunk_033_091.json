@@ -81,13 +81,13 @@
     },
     {
         "link": "https://florensflowers.co.il",
-        "Heading": "\u05e4\u05dc\u05d5\u05e8\u05e0\u05e1 \u05d7\u05e0\u05d5\u05ea \u05e4\u05e8\u05d7\u05d9\u05dd \u05d1\u05e0\u05d4\u05e8\u05d9\u05d4",
-        "Abstract": "\u05e4\u05dc\u05d5\u05e8\u05e0\u05e1 \u05d7\u05e0\u05d5\u05ea \u05e4\u05e8\u05d7\u05d9\u05dd \u05d1\u05e0\u05d4\u05e8\u05d9\u05d4 \u05d6\u05e8\u05d9\u05dd \u05e1\u05d9\u05d3\u05d5\u05e8\u05d9\u05dd, \u05e2\u05e6\u05d9\u05e6\u05d9\u05dd.",
-        "Official Site": "https://www.florensflowers.co.il/",
-        "Icon": "favicon.ico",
-        "Redirect": "https://www.florensflowers.co.il/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://florensflowers.co.il",
+        "Icon": "data:,",
+        "Redirect": "https://florensflowers.co.il",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.florensflowers.co.il/"
+        "AbstractURL": "https://florensflowers.co.il"
     },
     {
         "link": "https://ncoif.com",
@@ -110,6 +110,16 @@
         "AbstractURL": "https://bonbon-adler.ru"
     },
     {
+        "link": "https://virtuztechno.com",
+        "Heading": "Virtutronix",
+        "Abstract": "Digitize, Automize, Globalize",
+        "Official Site": "https://virtuztechno.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://virtuztechno.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://virtuztechno.com"
+    },
+    {
         "link": "https://yagdiltora.com",
         "Heading": "\u05d9\u05d2\u05d3\u05d9\u05dc \u05ea\u05d5\u05e8\u05d4 \u2013 \u05e9\u05d9\u05e2\u05d5\u05e8\u05d9\u05dd \u05d5\u05d4\u05e7\u05dc\u05d8\u05d5\u05ea, \u05d2\u05dc\u05d9\u05d5\u05e0\u05d5\u05ea \u05d5\u05e1\u05e4\u05e8\u05d9\u05dd \u05de\u05e4\u05d9 \u05d4\u05e8\u05d1 \u05d0\u05d5\u05e8\u05df \u05e0\u05d6\u05e8\u05d9\u05ea \u05e9\u05dc\u05d9\u05d8\"\u05d0",
         "Abstract": null,
@@ -128,6 +138,16 @@
         "Redirect": "https://24mma.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://24mma.ru"
+    },
+    {
+        "link": "https://avidvir.com",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://avidvir.com",
+        "Icon": "data:,",
+        "Redirect": "https://avidvir.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://avidvir.com"
     },
     {
         "link": "https://1sthttps.com",
@@ -163,11 +183,11 @@
         "link": "https://iqdata-inc.com",
         "Heading": "\n\tIQData inc - Home\n",
         "Abstract": "Welcome to IQ Data's online payment portal, where you can privately manage your debt. Paying online is easy. View your account details or speak with a chat agent. ",
-        "Official Site": "https://iqdata-inc.com",
+        "Official Site": "https://www.iqdata-inc.com",
         "Icon": "N/A",
-        "Redirect": "https://iqdata-inc.com",
+        "Redirect": "https://www.iqdata-inc.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://iqdata-inc.com"
+        "AbstractURL": "https://www.iqdata-inc.com"
     },
     {
         "link": "https://carmen85.autos",

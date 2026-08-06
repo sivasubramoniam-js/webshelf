@@ -51,13 +51,13 @@
     },
     {
         "link": "https://stavmonsky.com",
-        "Heading": "\u05e2\u05de\u05d5\u05d3 \u05e8\u05d0\u05e9\u05d9 - \u05e1\u05ea\u05d9\u05d5 \u05de\u05d5\u05e0\u05e1\u05e7\u05d9",
-        "Abstract": "\u05dc\u05e7\u05d5\u05e8\u05e1\u05d9\u05dd \u05e9\u05dc\u05d9 \u05dc\u05d7\u05e6\u05d5 \u05db\u05d0\u05df \u05db\u05e0\u05e1 \u05e8\u05d9\u05e6\u2019 \u05d1\u05d9\u05e6\u2019 \u05d9\u05e9\u05e8\u05d0\u05dc 2024 \u201c\u05d0\u05d9\u05da \u05dc\u05e6\u05d0\u05ea \u05de\u05de\u05e1\u05dc\u05d5\u05dc \u05d4\u05de\u05d5\u05d5\u05ea \u05d5\u05dc\u05d4\u05e4\u05d5\u05da \u05dc\u05de\u05e4\u05dc\u05e6\u05ea \u05de\u05d3\u05d9\u05d4 \u05e2\u05dd \u05dc\u05d9\u05d9\u05e4\u05e1\u05d8\u05d9\u05d9\u05dc \u05d5\u05d1\u05d9\u05d6\u05e0\u05e1 \u05de\u05e9\u05d2\u05e9\u05d2\u201d \u05dc\u05de\u05d9\u05d3\u05e2 \u05e0\u05d5\u05e1\u05e3 \u00bb \u05e1\u05ea\u05d9\u05d5 \u05de\u05d5\u05e0\u05e1\u05e7\u05d9 \u05d4\u05d9\u05d0 \u05d4\u05d1\u05e2\u05dc\u05d9\u05dd \u05e9\u05dc \u05d7\u05e0\u05d5\u05ea \u05d4\u05d0\u05d5\u05e4\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e6\u2019 \u05e4\u05dc\u05d9\u05d6 \u05d1\u05e7\u05e0\u05d9\u05d5\u05df \u05d3\u05d9\u05d6\u05e0\u05d2\u05d5\u05e3 \u05e1\u05e0\u05d8\u05e8 \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05d7\u05e0\u05d5\u05ea \u05e9\u05e4\u05ea\u05d7\u05d4 \u05d1\u05d2\u05d9\u05dc 20 \u05d1\u05dc\u05d1\u05d3 \u05d5\u05e2\u05d3 \u05de\u05d4\u05e8\u05d4 \u05d4\u05e4\u05db\u05d4 \u05dc\u05de\u05d5\u05ea\u05d2 \u05e0\u05d7\u05e9\u05e7 \u05d5\u05de\u05d5\u05e7\u05d3 \u05e2\u05dc\u05d9\u05d4 \u05dc\u05e8\u05d2\u05dc \u05dc\u05e4\u05d0\u05e9\u05e0\u05d9\u05e1\u05d8\u05d5\u05ea \u05de\u05e8\u05d7\u05d1\u05d9 \u05d4\u05d0\u05e8\u05e5 \u2013 [\u2026]",
-        "Official Site": "https://stavmonsky.com/",
-        "Icon": "https://stavmonsky.com/wp-content/uploads/2024/08/Photo-07-12-2023-20-16-06-scaled.jpg",
-        "Redirect": "https://stavmonsky.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://stavmonsky.com",
+        "Icon": "data:,",
+        "Redirect": "https://stavmonsky.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://stavmonsky.com/"
+        "AbstractURL": "https://stavmonsky.com"
     },
     {
         "link": "https://vavadas02.com",
@@ -221,13 +221,13 @@
     },
     {
         "link": "https://onsella.com",
-        "Heading": "OGX. Onsella Global Services | Operador Log\u00edstico Internacional",
-        "Abstract": "Operador log\u00edstico internacional. Servicio terrestre de carga completa y parcial. Transporte mar\u00edtimo y carga a\u00e9rea. Log\u00edstica y almacenaje.",
-        "Official Site": "https://ogxlogistics.com/",
-        "Icon": "https://ogxlogistics.com/wp-content/uploads/2023/06/logotipos-ogx-150x150.jpg",
-        "Redirect": "https://ogxlogistics.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://onsella.com",
+        "Icon": "data:;",
+        "Redirect": "https://onsella.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ogxlogistics.com/"
+        "AbstractURL": "https://onsella.com"
     },
     {
         "link": "https://eert.com",
@@ -238,15 +238,5 @@
         "Redirect": "https://eert.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eert.com"
-    },
-    {
-        "link": "https://satlogistics.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://satlogistics.com",
-        "Icon": "N/A",
-        "Redirect": "https://satlogistics.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://satlogistics.com"
     }
 ]

@@ -20,16 +20,6 @@
         "AbstractURL": "https://fulmini.com"
     },
     {
-        "link": "https://vermontbrewery.com",
-        "Heading": "Burlington \u2014 The Vermont Pub & Brewery",
-        "Abstract": "Discover Burlington's first brewpub, The Vermont Pub & Brewery. Savor award-winning craft beers, classic pub food, and a rich brewing history in the heart of Vermont. Your adventure in flavor starts here.",
-        "Official Site": "https://vermontbrewery.com/",
-        "Icon": "https://vermontbrewery.com/client_media/crops/stock/-20230119-Richardson-339.9769a1c4.jpg",
-        "Redirect": "https://vermontbrewery.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vermontbrewery.com/"
-    },
-    {
         "link": "https://arkada3-amp.ru",
         "Heading": "\u0410\u0440\u043a\u0430\u0434\u0430 \u041a\u0430\u0437\u0438\u043d\u043e: Arkada Casino \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442",
         "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 Arkada Casino \u27a4 \u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u26a1\ufe0f \u0411\u043e\u043d\u0443\u0441 100%. \u041d\u043e\u0432\u043e\u0435 \u0437\u0435\u0440\u043a\u0430\u043b\u043e! \u0414\u0430\u0440\u0438\u043c 150 FS \u0437\u0430 \u043f\u0435\u0440\u0432\u044b\u0439 \u0434\u0435\u043f\u043e\u0437\u0438\u0442 \u0432 \u043a\u0430\u0437\u0438\u043d\u043e \u0410\u0440\u043a\u0430\u0434\u0430.",
@@ -138,6 +128,16 @@
         "Redirect": "https://ehstconsult.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ehstconsult.com/"
+    },
+    {
+        "link": "https://greatclassic.net",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://greatclassic.net",
+        "Icon": "data:,",
+        "Redirect": "https://greatclassic.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greatclassic.net"
     },
     {
         "link": "https://fodvirtual.com",

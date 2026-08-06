@@ -21,13 +21,13 @@
     },
     {
         "link": "https://hotelesdelmundo.com",
-        "Heading": "Hoteles del mundo - Actualidad, viajes y hoteles",
-        "Abstract": "Actualidad, viajes y hoteles",
-        "Official Site": "https://hotelesdelmundo.com/",
-        "Icon": "https://i0.wp.com/hotelesdelmundo.com/wp-content/uploads/2023/11/jeje.png?fit=32%2C25&ssl=1",
-        "Redirect": "https://hotelesdelmundo.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://hotelesdelmundo.com",
+        "Icon": "data:,",
+        "Redirect": "https://hotelesdelmundo.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hotelesdelmundo.com/"
+        "AbstractURL": "https://hotelesdelmundo.com"
     },
     {
         "link": "https://arle.de",
@@ -68,16 +68,6 @@
         "Redirect": "https://www.atom.com/lpd/name/hage.ca",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.atom.com/lpd/name/hage.ca"
-    },
-    {
-        "link": "https://sannohashi.co.jp",
-        "Heading": "\u682a\u5f0f\u4f1a\u793e \u30b5\u30f3\u30ce\u30cf\u30b7",
-        "Abstract": null,
-        "Official Site": "https://sannohashi.co.jp/",
-        "Icon": "N/A",
-        "Redirect": "https://sannohashi.co.jp/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sannohashi.co.jp/"
     },
     {
         "link": "https://variantgbo.ru",
@@ -171,13 +161,13 @@
     },
     {
         "link": "https://hakeren.org.il",
-        "Heading": "Home - Hakeren",
-        "Abstract": "Hakeren was established to address the needs of foreign employees in Israel and to assist their employers in complying with labor laws. Our company has developed a cutting-edge automated system to ensure that all foreign workers receive their entitled pensions and severance pay in accordance with the law, while also encouraging employers to fulfill their [\u2026]",
-        "Official Site": "https://hakeren.org.il/",
-        "Icon": "https://hakeren.org.il/wp-content/uploads/2020/10/ICON-.jpeg",
-        "Redirect": "https://hakeren.org.il/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://hakeren.org.il",
+        "Icon": "data:;",
+        "Redirect": "https://hakeren.org.il",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hakeren.org.il/"
+        "AbstractURL": "https://hakeren.org.il"
     },
     {
         "link": "https://kra--22.cc",
@@ -191,10 +181,10 @@
     },
     {
         "link": "https://agentweb247.com",
-        "Heading": null,
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://agentweb247.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://agentweb247.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://agentweb247.com"

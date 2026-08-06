@@ -71,13 +71,13 @@
     },
     {
         "link": "https://thewassociates.com",
-        "Heading": "Thew Associates | Providing Geospatial Solutions Since 1972",
-        "Abstract": "Thew provides professional surveying services throughout the Northeastern United States. Specializing in a wide range of land, water, and remote sensing.",
-        "Official Site": "https://www.thewassociates.com/",
-        "Icon": "N/A",
-        "Redirect": "https://www.thewassociates.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://thewassociates.com",
+        "Icon": "data:;",
+        "Redirect": "https://thewassociates.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.thewassociates.com/"
+        "AbstractURL": "https://thewassociates.com"
     },
     {
         "link": "https://mslaha.com",
@@ -101,10 +101,10 @@
     },
     {
         "link": "https://p-trex.com",
-        "Heading": null,
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://p-trex.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://p-trex.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://p-trex.com"

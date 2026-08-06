@@ -21,13 +21,13 @@
     },
     {
         "link": "https://e-clics.com",
-        "Heading": "La info que buscabas online \u2013 Tu blog para aprender y entretenerte leyendo",
-        "Abstract": "Tu blog para aprender y entretenerte leyendo",
-        "Official Site": "https://e-clics.com/",
-        "Icon": "N/A",
-        "Redirect": "https://e-clics.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://e-clics.com",
+        "Icon": "data:,",
+        "Redirect": "https://e-clics.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://e-clics.com/"
+        "AbstractURL": "https://e-clics.com"
     },
     {
         "link": "https://avontuura.com",
@@ -121,10 +121,10 @@
     },
     {
         "link": "https://boogabang.com",
-        "Heading": "T-shirts \u2013 My WordPress",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://boogabang.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://boogabang.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://boogabang.com"
@@ -160,16 +160,6 @@
         "AbstractURL": "https://indonesianpod101.com"
     },
     {
-        "link": "https://cgwengineering.com",
-        "Heading": "\n    \n    C.G. Williams Engineering | Civil Design Wheaton MD\n  \n  ",
-        "Abstract": "Civil engineering in Wheaton, MD. Specializing in sustainable water/sewer, residential demolition, and site design for the DC metro area. Call (202) 297-5298.",
-        "Official Site": "https://www.cgwengineering.com/",
-        "Icon": "https://irp.cdn-website.com/f9480c75/dms3rep/multi/opt/Logo+Address+Phone..jpg-1920w.jpg",
-        "Redirect": "https://www.cgwengineering.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cgwengineering.com/"
-    },
-    {
         "link": "https://mma-telaviv.com",
         "Heading": null,
         "Abstract": null,
@@ -201,10 +191,10 @@
     },
     {
         "link": "https://xn--4dbbmojdhx7fmcaf.com",
-        "Heading": "\u05db\u05ea\u05d9\u05d1\u05ea \u05ea\u05d5\u05db\u05df \u05dc\u05d0\u05ea\u05e8 - \u05db\u05ea\u05d9\u05d1\u05ea \u05ea\u05d5\u05db\u05df \u05dc\u05d0\u05ea\u05e8",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://xn--4dbbmojdhx7fmcaf.com",
-        "Icon": "https://xn--4dbbmojdhx7fmcaf.com/wp-content/uploads/2022/01/\u05db-1_optimized-150x150.png",
+        "Icon": "data:,",
         "Redirect": "https://xn--4dbbmojdhx7fmcaf.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xn--4dbbmojdhx7fmcaf.com"

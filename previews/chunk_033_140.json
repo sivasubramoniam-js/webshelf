@@ -91,13 +91,13 @@
     },
     {
         "link": "https://fitnex.co.il",
-        "Heading": "Home - Fitnex - \u05d0\u05d9\u05e0\u05d3\u05e7\u05e1 \u05de\u05e8\u05db\u05d6\u05d9 \u05d4\u05db\u05d5\u05e9\u05e8 \u05d5\u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
-        "Abstract": "Fitnex - \u05d0\u05d9\u05e0\u05d3\u05e7\u05e1 \u05de\u05e8\u05db\u05d6\u05d9 \u05d4\u05db\u05d5\u05e9\u05e8 \u05d5\u05d4\u05e1\u05e4\u05d5\u05e8\u05d8 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
-        "Official Site": "https://fitnex.co.il/",
-        "Icon": "https://fitnex.co.il/wp-content/uploads/2021/09/Untitled-design-23.png",
-        "Redirect": "https://fitnex.co.il/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://fitnex.co.il",
+        "Icon": "data:;",
+        "Redirect": "https://fitnex.co.il",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fitnex.co.il/"
+        "AbstractURL": "https://fitnex.co.il"
     },
     {
         "link": "https://kraftigsolutions.com",
@@ -194,7 +194,7 @@
         "Heading": "Home - Acentra Health BFCC-QIO",
         "Abstract": "A Vital Partner for People With Medicare Acentra Health helps people with Medicare understand and use their Medicare rights. We... Read More",
         "Official Site": "https://acentraqio.com/",
-        "Icon": "https://acentraqio.com/wp-content/uploads/2025/02/site-icon.png",
+        "Icon": "http://acentraqio.com/wp-content/uploads/2025/02/site-icon.png",
         "Redirect": "https://acentraqio.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://acentraqio.com/"

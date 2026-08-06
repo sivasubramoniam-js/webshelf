@@ -10,6 +10,16 @@
         "AbstractURL": "https://gbrothers.com"
     },
     {
+        "link": "https://natansil.com",
+        "Heading": "Natan Silnitsky | Fast, Clean and Functional | Scala, Kafka, ZIO, Bazel  | \u05e0\u05ea\u05df \u05e1\u05d9\u05dc\u05e0\u05d9\u05e6\u05e7\u05d9",
+        "Abstract": "Blog posts and videos on Scala, Kafka, ZIO, Bazel, clean and performant code, and functional programming",
+        "Official Site": "https://www.natansil.com",
+        "Icon": "https://static.wixstatic.com/media/988c5c_dae839ed5cce454c8cbfa4957fbde20c~mv2.jpg/v1/fill/w_2047,h_1251,al_c/988c5c_dae839ed5cce454c8cbfa4957fbde20c~mv2.jpg",
+        "Redirect": "https://www.natansil.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.natansil.com"
+    },
+    {
         "link": "https://sasktechpro.com",
         "Heading": null,
         "Abstract": null,
@@ -51,13 +61,13 @@
     },
     {
         "link": "https://gatewaymetals.com",
-        "Heading": "Home - Gateway Metals",
-        "Abstract": "Get the highest quality metal from Gateway Metals in St. Louis, MO. Trust us for reliable service and superior products to make your next project a success.",
-        "Official Site": "https://gatewaymetals.com/",
-        "Icon": "https://gatewaymetals.com/wp-content/uploads/2023/05/cropped-favi-32x32.png",
-        "Redirect": "https://gatewaymetals.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://gatewaymetals.com",
+        "Icon": "data:;",
+        "Redirect": "https://gatewaymetals.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gatewaymetals.com/"
+        "AbstractURL": "https://gatewaymetals.com"
     },
     {
         "link": "https://metasleuth.io",
@@ -118,16 +128,6 @@
         "Redirect": "https://1win-zerkalo-1.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://1win-zerkalo-1.ru"
-    },
-    {
-        "link": "https://vavada-kost.com",
-        "Heading": "Vavada Casino \ud83c\udfb0 \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442, \u0431\u043e\u043d\u0443\u0441\u044b, \u0437\u0435\u0440\u043a\u0430\u043b\u043e \u0438 \u043e\u0442\u0437\u044b\u0432\u044b \u0438\u0433\u0440\u043e\u043a\u043e\u0432 2025",
-        "Abstract": "Vavada \u043a\u0430\u0437\u0438\u043d\u043e \u043e\u043d\u043b\u0430\u0439\u043d \u2014 \u043b\u0438\u0446\u0435\u043d\u0437\u0438\u044f \u041a\u044e\u0440\u0430\u0441\u0430\u043e, 5000+ \u0438\u0433\u0440, \u043c\u043e\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u0432\u044b\u043f\u043b\u0430\u0442\u044b. \ud83c\udf81 \u0411\u043e\u043d\u0443\u0441\u044b \u0437\u0430 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044e: 100 FS + \u0434\u043e $1000. \ud83d\ude80 \u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0435 \u0437\u0435\u0440\u043a\u0430\u043b\u043e, \u043e\u0442\u0437\u044b\u0432\u044b, \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f, \u0442\u0443\u0440\u043d\u0438\u0440\u044b \u0438 \u0442\u0435\u0445\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7.",
-        "Official Site": "https://vavada-kost.com",
-        "Icon": "logo.svg",
-        "Redirect": "https://vavada-kost.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vavada-kost.com"
     },
     {
         "link": "https://lebane.app",
