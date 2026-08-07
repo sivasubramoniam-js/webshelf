@@ -34,7 +34,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://chasesomedayexclusively.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://chasesomedayexclusively.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chasesomedayexclusively.com"
@@ -178,6 +178,16 @@
         "Redirect": "https://matforce.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://matforce.org"
+    },
+    {
+        "link": "https://mglavionicsusers.org",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://mglavionicsusers.org",
+        "Icon": "N/A",
+        "Redirect": "https://mglavionicsusers.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mglavionicsusers.org"
     },
     {
         "link": "https://admiral-x21amp.ru",

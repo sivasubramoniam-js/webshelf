@@ -80,16 +80,6 @@
         "AbstractURL": "https://parmaplastupak.ru"
     },
     {
-        "link": "https://furnishstudio.com",
-        "Heading": "Furnish Studio",
-        "Abstract": null,
-        "Official Site": "https://furnishstudio.com",
-        "Icon": "https://furnishstudio.com/wp-content/uploads/2025/12/cropped-IMG_20240412_135624_754-900x600-1-32x32.jpg",
-        "Redirect": "https://furnishstudio.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://furnishstudio.com"
-    },
-    {
         "link": "https://systema-ti.mx",
         "Heading": "Soluciones tecnol\u00f3gicas a la medida para tu empresa",
         "Abstract": "Impulsa tu negocio con desarrollo de software, implementaci\u00f3n de sistemas y consultor\u00eda estrat\u00e9gica. Innovaci\u00f3n y soporte continuo en M\u00e9xico.",
@@ -118,6 +108,16 @@
         "Redirect": "https://onecentraluk.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://onecentraluk.com/"
+    },
+    {
+        "link": "https://margin-up.eu",
+        "Heading": "Welcome to MarginUp!",
+        "Abstract": "MarginUp! is developing sustainable and circular value chains to produce bioproducts and biofuels from natural raw materials grown on marginal lands. By introducing climate resilient and biodiversity-friendly non-food crops on marginal and low-productivity lands, MarginUp! will increase farming system resilience, enhance biodiversity, and promote stakeholder participation.",
+        "Official Site": "https://margin-up.eu/",
+        "Icon": "https://margin-up.eu/wp-content/uploads/2023/03/marginuppreview.jpg",
+        "Redirect": "https://margin-up.eu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://margin-up.eu/"
     },
     {
         "link": "https://eltri.com",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://luanxian.com"
     },
     {
+        "link": "https://drlikepost.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://drlikepost.com",
+        "Icon": "N/A",
+        "Redirect": "https://drlikepost.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://drlikepost.com"
+    },
+    {
         "link": "https://octopusarmy.com",
         "Heading": null,
         "Abstract": null,
@@ -244,10 +254,20 @@
         "Heading": "CommTogether | Marketing, Branding, Websites & Podcasts Done For You \u2014 Sydney",
         "Abstract": "CommTogether makes the complexity of modern marketing perfectly simple. Branding, marketing, websites, SEO and podcasts done for you. Sydney-based, global clients. Founded by Anthony Perl.",
         "Official Site": "https://commtogether.com.au",
-        "Icon": "logo.png",
+        "Icon": "favicon-32x32.png",
         "Redirect": "https://commtogether.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://commtogether.com.au"
+    },
+    {
+        "link": "https://lauramounter.com",
+        "Heading": " Laura Mounter Real Estate | 509-665-9200 | Wenatchee WA Homes for Sale",
+        "Abstract": "Wenatchee WA Homes for Sale and Real Estate. We specialize in Homes and Listings, representing both Home Buyers and Home Sellers.",
+        "Official Site": "https://www.lauramounter.com/",
+        "Icon": "https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-57-03-00000/images/web/icons/favicon.png",
+        "Redirect": "https://www.lauramounter.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lauramounter.com/"
     },
     {
         "link": "https://rumahzakatcirebon.org",
