@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://healthdistrict.org",
+        "Heading": "Health District of Northern Larimer County |",
+        "Abstract": null,
+        "Official Site": "https://www.healthdistrict.org/",
+        "Icon": "https://www.healthdistrict.org/sites/all/themes/healthdistrict/favicon.ico",
+        "Redirect": "https://www.healthdistrict.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.healthdistrict.org/"
+    },
+    {
         "link": "https://sadaka.ie",
         "Heading": "Sadaka, The Ireland Palestine Alliance \u2013 Sadaka, Ireland Palestine Alliance",
         "Abstract": null,
@@ -11,13 +21,13 @@
     },
     {
         "link": "https://hotelesdelmundo.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://hotelesdelmundo.com",
-        "Icon": "data:,",
-        "Redirect": "https://hotelesdelmundo.com",
+        "Heading": "Hoteles del mundo - Actualidad, viajes y hoteles",
+        "Abstract": "Actualidad, viajes y hoteles",
+        "Official Site": "https://hotelesdelmundo.com/",
+        "Icon": "https://i0.wp.com/hotelesdelmundo.com/wp-content/uploads/2023/11/jeje.png?fit=32%2C25&ssl=1",
+        "Redirect": "https://hotelesdelmundo.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hotelesdelmundo.com"
+        "AbstractURL": "https://hotelesdelmundo.com/"
     },
     {
         "link": "https://arle.de",
@@ -60,14 +70,14 @@
         "AbstractURL": "https://www.atom.com/lpd/name/hage.ca"
     },
     {
-        "link": "https://variantgbo.ru",
-        "Heading": "\u0421\u0430\u0439\u0442 \u0437\u0430\u043a\u0440\u044b\u0442",
+        "link": "https://sannohashi.co.jp",
+        "Heading": "\u682a\u5f0f\u4f1a\u793e \u30b5\u30f3\u30ce\u30cf\u30b7",
         "Abstract": null,
-        "Official Site": "https://variantgbo.ru",
+        "Official Site": "https://sannohashi.co.jp/",
         "Icon": "N/A",
-        "Redirect": "https://variantgbo.ru",
+        "Redirect": "https://sannohashi.co.jp/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://variantgbo.ru"
+        "AbstractURL": "https://sannohashi.co.jp/"
     },
     {
         "link": "https://nayeligaia.com",
@@ -180,21 +190,11 @@
         "AbstractURL": "https://kra--22.cc"
     },
     {
-        "link": "https://landcompanyonline.com",
-        "Heading": "Cheryl Zortman | The Land Company Online | 620-338-6063 | Land for Sale",
-        "Abstract": "Land for Sale and Real Estate. Cheryl Zortman specializes in Homes and Listings, representing both Land Buyers and Land Sellers.",
-        "Official Site": "https://www.landcompanyonline.com/",
-        "Icon": "https://storage.googleapis.com/idx-code-gs.ihouseprd.com/idxv3/6-57-03-00000/images/web/icons/favicon.png",
-        "Redirect": "https://www.landcompanyonline.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.landcompanyonline.com/"
-    },
-    {
         "link": "https://agentweb247.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://agentweb247.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://agentweb247.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://agentweb247.com"

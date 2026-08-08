@@ -31,8 +31,8 @@
     },
     {
         "link": "https://jetton-email.com",
-        "Heading": "JetTon Games: Immerse yourself in unique adventures and exciting games | 38f120dc-7a73-4b8b-b08b-0eb2ee2f2444",
-        "Abstract": "Step into an extraordinary world of entertainment with JetTon Games. Experience thrilling gameplay, embark on incredible adventures, and enjoy a truly unique gaming experience | c44d5018-75a5-44d9-a654-50a9fccb55fe",
+        "Heading": "JetTon Games: Immerse yourself in unique adventures and exciting games | a31b9766-d9d5-4282-accc-f0cf2bc11c23",
+        "Abstract": "Step into an extraordinary world of entertainment with JetTon Games. Experience thrilling gameplay, embark on incredible adventures, and enjoy a truly unique gaming experience | 393a5131-c828-4121-b04c-0b24af9b9867",
         "Official Site": "https://jetton-email.com",
         "Icon": "/favicon/android-chrome-512x512.png",
         "Redirect": "https://jetton-email.com",
@@ -41,10 +41,10 @@
     },
     {
         "link": "https://darkfolio.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://darkfolio.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://darkfolio.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://darkfolio.com"
@@ -91,13 +91,13 @@
     },
     {
         "link": "https://reviewbrokers.net",
-        "Heading": "One moment, please...",
+        "Heading": "Review Brokers - Independent Forex Compliance News Publisher",
         "Abstract": null,
-        "Official Site": "https://reviewbrokers.net",
-        "Icon": "data:,",
-        "Redirect": "https://reviewbrokers.net",
+        "Official Site": "https://www.reviewbrokers.net/",
+        "Icon": "https://www.reviewbrokers.net/wp-content/uploads/2024/06/reviewbrokers.jpg",
+        "Redirect": "https://www.reviewbrokers.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://reviewbrokers.net"
+        "AbstractURL": "https://www.reviewbrokers.net/"
     },
     {
         "link": "https://arab-gold.com",
@@ -108,16 +108,6 @@
         "Redirect": "https://arab-gold.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://arab-gold.com"
-    },
-    {
-        "link": "https://hi-pharma.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://hi-pharma.com",
-        "Icon": "data:,",
-        "Redirect": "https://hi-pharma.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hi-pharma.com"
     },
     {
         "link": "https://top10businessbanks.com",
@@ -138,6 +128,16 @@
         "Redirect": "https://www.elkapro.co.il/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.elkapro.co.il/"
+    },
+    {
+        "link": "https://globeinspections.com",
+        "Heading": "Inspection and Training Services UAE, India | Engineering Consulting Services - globeinspections.com",
+        "Abstract": "With our expert engineers, we ensure you reach your operational goals. We offer effective solutions for your specific requirements like as Non-destructive services, third-party Inspection, Training, and Consultancy.",
+        "Official Site": "https://globeinspections.com/",
+        "Icon": "/assets/img/smm/globe-inspection.png",
+        "Redirect": "https://globeinspections.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://globeinspections.com/"
     },
     {
         "link": "https://sompongthainy.com",
@@ -161,13 +161,13 @@
     },
     {
         "link": "https://matzberim.net",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://matzberim.net",
-        "Icon": "data:,",
-        "Redirect": "https://matzberim.net",
+        "Heading": "\u05de\u05e6\u05d1\u05e8 \u05dc\u05e8\u05db\u05d1 \u05e2\u05d3 \u05d4\u05d1\u05d9\u05ea \u05de\u05d7\u05d9\u05e8 \u05de-380 \u20aa [\u05d4\u05d7\u05dc\u05e4\u05ea \u05de\u05e6\u05d1\u05e8\u05d9\u05dd]\u2611\ufe0f - \u05de\u05e6\u05d1\u05e8\u05d9\u05dd \u05e0\u05d8",
+        "Abstract": "\u05de\u05e6\u05d1\u05e8 \u05dc\u05e8\u05db\u05d1 \u05e2\u05d3 \u05d4\u05d1\u05d9\u05ea \u05de\u05d7\u05d9\u05e8 \u05d4\u05db\u05d9 \u05d8\u05d5\u05d1 \u05e8\u05e7 \u05d0\u05e6\u05dc\u05e0\u05d5 \u05d1\u05de\u05e6\u05d1\u05e8\u05d9\u05dd \u05e0\u05d8, \u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05d6\u05de\u05d9\u05df \u05d1\u05db\u05dc \u05e9\u05e2\u05d4 \u05d4\u05d7\u05dc\u05e4\u05ea \u05de\u05e6\u05d1\u05e8\u05d9\u05dd \u05e2\u05d3 \u05d4\u05d1\u05d9\u05ea \u05dc\u05db\u05dc \u05e1\u05d5\u05d2\u05d9 \u05d4\u05e8\u05db\u05d1\u05d9\u05dd: \u05e4\u05e8\u05d8\u05d9, \u05de\u05e1\u05d7\u05e8\u05d9, \u05de\u05e9\u05d0\u05d9\u05ea, \u05e7\u05d8\u05e0\u05d5\u05e2 \u05d5\u05e2\u05d5\u05d3.",
+        "Official Site": "https://matzberim.net/",
+        "Icon": "https://matzberim.net/wp-content/themes/maor/images/favicon.png",
+        "Redirect": "https://matzberim.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://matzberim.net"
+        "AbstractURL": "https://matzberim.net/"
     },
     {
         "link": "https://pediatricplace.net",
