@@ -60,6 +60,16 @@
         "AbstractURL": "https://www.nur-bakery.com"
     },
     {
+        "link": "https://fordcpo.com",
+        "Heading": "Certified Used Cars, Trucks & SUVs | Ford Blue Advantage",
+        "Abstract": "Shop Ford Blue Advantage for quality certified used vehicles. Benefit from detailed inspections, extended warranties, and convenient online shopping options.",
+        "Official Site": "https://fordcpo.com",
+        "Icon": "/acslibs/content/dam/na/ford/en_us/images/brand/Ford_OG_1200x630.png",
+        "Redirect": "https://fordcpo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fordcpo.com"
+    },
+    {
         "link": "https://mmc-lawoffice.com",
         "Heading": null,
         "Abstract": null,
@@ -81,13 +91,13 @@
     },
     {
         "link": "https://bizadvancer.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://bizadvancer.com",
-        "Icon": "https://static.wixstatic.com/media/22d652_e509ecc62b844edc8ff3a3b61f73a482%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/22d652_e509ecc62b844edc8ff3a3b61f73a482%7Emv2.png",
-        "Redirect": "https://bizadvancer.com",
+        "Heading": "Advancer Business Management | Shared Office | Co-Working Space| Hong Kong",
+        "Abstract": "Advancer is dedicated to enhancing Business Centres management experience through professionalism and flexibility. We have a large customer base for clients referral, provide business consulting service, proper marketing campaigns for promoting your Business Centre.",
+        "Official Site": "https://www.bizadvancer.com",
+        "Icon": "https://static.wixstatic.com/media/22d652_5991c86241b94455882fd6b98e8a03bb~mv2.png/v1/fill/w_1024,h_673,al_c/22d652_5991c86241b94455882fd6b98e8a03bb~mv2.png",
+        "Redirect": "https://www.bizadvancer.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bizadvancer.com"
+        "AbstractURL": "https://www.bizadvancer.com"
     },
     {
         "link": "https://larrygeorge.com",
@@ -160,13 +170,23 @@
         "AbstractURL": "https://at-kra28.cc"
     },
     {
-        "link": "https://thepitch-israel.com",
-        "Heading": null,
+        "link": "https://srnku.com",
+        "Heading": "404\u9875\u9762\u4e0d\u5b58\u5728",
         "Abstract": null,
-        "Official Site": "https://thepitch-israel.com",
-        "Icon": "data:;",
-        "Redirect": "https://thepitch-israel.com",
+        "Official Site": "https://srnku.com",
+        "Icon": "N/A",
+        "Redirect": "https://srnku.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thepitch-israel.com"
+        "AbstractURL": "https://srnku.com"
+    },
+    {
+        "link": "https://thepitch-israel.com",
+        "Heading": "The PITCH 2026 - \u05ea\u05d7\u05e8\u05d5\u05ea \u05d4\u05e1\u05d8\u05d0\u05e8\u05d8\u05d0\u05e4\u05d9\u05dd \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
+        "Abstract": "The PITCH is your once-in-a-lifetime opportunity to present to the most influential people in the Israeli high-tech ecosystem and give them the show of your life.",
+        "Official Site": "https://journey-israel.com/the-pitch-2026/",
+        "Icon": "https://journey-israel.com/wp-content/uploads/2025/05/the-pitch-2025.png",
+        "Redirect": "https://journey-israel.com/the-pitch-2026/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://journey-israel.com/the-pitch-2026/"
     }
 ]
