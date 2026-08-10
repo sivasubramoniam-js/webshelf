@@ -42,22 +42,12 @@
     {
         "link": "https://noshitblog.com",
         "Heading": "NoShitBlog \u2014 Tech, News, History, Wallpapers & Anime",
-        "Abstract": "Fresh posts on tech and programming, timely news, history deep dives, hand\u2011picked wallpapers, funny finds, and anime highlights \u2014 all in one place.",
+        "Abstract": "Fresh posts on tech and programming, timely news, history deep dives, hand-picked wallpapers, funny finds, and anime highlights \u2014 all in one place.",
         "Official Site": "https://noshitblog.com/",
-        "Icon": "/images/logo.png",
+        "Icon": "https://noshitblog.com/images/logo.jpg",
         "Redirect": "https://noshitblog.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://noshitblog.com/"
-    },
-    {
-        "link": "https://perzy.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://perzy.com",
-        "Icon": "N/A",
-        "Redirect": "https://perzy.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://perzy.com"
     },
     {
         "link": "https://levitrageneric.com",
@@ -138,6 +128,16 @@
         "Redirect": "https://www.atom.com/lpd/name/robot6.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.atom.com/lpd/name/robot6.com"
+    },
+    {
+        "link": "https://carboncrew.com",
+        "Heading": "CarbonCrew.com \u2014 Premium Domain For Sale | Atom",
+        "Abstract": "Looking for a unique and powerful domain name? Look no further than CarbonCrew.com. This captivating name evokes images of a dedicated team working towards a greener future, focused on reducing carbon emissions and promoting sustainability.",
+        "Official Site": "https://www.atom.com/name/CarbonCrew",
+        "Icon": "https://img.atom.com/story_images/visual_images/logo-image-73653-carboncrew.jpg?class=show",
+        "Redirect": "https://www.atom.com/name/CarbonCrew",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.atom.com/name/CarbonCrew"
     },
     {
         "link": "https://indonesianpod101.com",
