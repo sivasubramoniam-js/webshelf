@@ -34,7 +34,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://chasesomedayexclusively.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://chasesomedayexclusively.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chasesomedayexclusively.com"
@@ -130,16 +130,6 @@
         "AbstractURL": "https://xpandit.ro"
     },
     {
-        "link": "https://foxvalleystamping.com",
-        "Heading": "Fox Valley Stamping | Precision Metal Stampings",
-        "Abstract": "Industry leader in precision metal stamping, short-run solutions, and custom fabrication with decades of experience serving manufacturers nationwide.",
-        "Official Site": "https://foxvalleystamping.com/",
-        "Icon": "https://foxvalleystamping.com/wp-content/uploads/2024/12/FVS-logo-150.png",
-        "Redirect": "https://foxvalleystamping.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://foxvalleystamping.com/"
-    },
-    {
         "link": "https://warwinner.com",
         "Heading": "My Blog \u2013 My WordPress Blog",
         "Abstract": null,
@@ -148,16 +138,6 @@
         "Redirect": "https://warwinner.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://warwinner.com"
-    },
-    {
-        "link": "https://sadded.com",
-        "Heading": "Sadded.com \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "Sadded.com is a sleek, 6-letter, 2-syllable domain ready to elevate any brand to new heights. This edgy and memorable name exudes confidence and modernity, making it perfect for a variety of startup ventures. With its brandable qualities an",
-        "Official Site": "https://www.atom.com/lpd/name/sadded.com",
-        "Icon": "https://img.atom.com/story_images/visual_images/d-logo-3931-34025-sadded.jpg?class=show",
-        "Redirect": "https://www.atom.com/lpd/name/sadded.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/lpd/name/sadded.com"
     },
     {
         "link": "https://bkoffers.com",
@@ -181,13 +161,13 @@
     },
     {
         "link": "https://matforce.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://matforce.org",
-        "Icon": "data:;",
-        "Redirect": "https://matforce.org",
+        "Heading": "Home - MATFORCE",
+        "Abstract": "https://www.youtube.com/watch?v=kfRbFnDCRjM Mobilizing Action Together for Community Empowerment Our goal is to empower communities across Arizona to prevent and reduce substance use and to engage and equip their citizens to build healthier, safer places where children, families, and community members can thrive. MATFORCE implements programming throughout Yavapai County and across Arizona to help reach this goal. [\u2026]",
+        "Official Site": "https://matforce.org/",
+        "Icon": "https://matforce.org/wp-content/uploads/elementor/thumbs/20-year-logo-full-color-rf6qkxx5611oyac7pdxi92vq0ihognnrkfp5b68cyo.png",
+        "Redirect": "https://matforce.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://matforce.org"
+        "AbstractURL": "https://matforce.org/"
     },
     {
         "link": "https://mglavionicsusers.org",
@@ -248,6 +228,16 @@
         "Redirect": "https://nanshagrandhotel.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nanshagrandhotel.cn"
+    },
+    {
+        "link": "https://pabllo.com",
+        "Heading": "Pabllo.com - Personal Domains for Sale - Buy Premium Individual & Portfolio Domain Names | Domain for Sale. Call 888-694-6735.",
+        "Abstract": "Pabllo.com - a great premium domain available for sale.",
+        "Official Site": "https://pabllo.com",
+        "Icon": "https://cdn.domainmarket.com/dm-com/social/pabllo-com.jpg",
+        "Redirect": "https://pabllo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pabllo.com"
     },
     {
         "link": "https://buywrap.com",

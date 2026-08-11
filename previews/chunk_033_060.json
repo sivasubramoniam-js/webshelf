@@ -50,6 +50,16 @@
         "AbstractURL": "https://www.Rainbow-Link.com/"
     },
     {
+        "link": "https://senturkgrup.com.tr",
+        "Heading": "\u015eENT\u00dcRK GRUP A.\u015e.",
+        "Abstract": null,
+        "Official Site": "https://senturkgrup.com.tr",
+        "Icon": "https://www.senturkgroup.com.tr/wp-content/uploads/2021/04/cropped-logosenturks-32x32.png",
+        "Redirect": "https://senturkgrup.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://senturkgrup.com.tr"
+    },
+    {
         "link": "https://refaelos.com",
         "Heading": "Refaelos - Expert CTO @ your service",
         "Abstract": "Refaelos - Expert CTO @ your service. big data engineering. data automations. architecture. software design. product management and execution. leadership. hands on. team building",
@@ -201,8 +211,8 @@
     },
     {
         "link": "https://jieyanzhinan.com",
-        "Heading": "\u8282\u80fd\u5468\u520a",
-        "Abstract": "\u8282\u80fd\u5468\u520a",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://jieyanzhinan.com",
         "Icon": "N/A",
         "Redirect": "https://jieyanzhinan.com",

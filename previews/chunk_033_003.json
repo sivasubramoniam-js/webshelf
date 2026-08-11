@@ -61,13 +61,13 @@
     },
     {
         "link": "https://halat.co.il",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://halat.co.il",
-        "Icon": "N/A",
-        "Redirect": "https://halat.co.il",
+        "Heading": "\u05d7\u05dc\u05ea \u05e0\u05ea\u05e0\u05d9\u05d4 | \u05d4\u05d7\u05d1\u05e8\u05d4 \u05dc\u05e4\u05d9\u05ea\u05d5\u05d7 \u05e0\u05ea\u05e0\u05d9\u05d4 | \u05d7\u05dc\u05ea \u05e0\u05ea\u05e0\u05d9\u05d4",
+        "Abstract": "\u05d7.\u05dc.\u05ea  \u05d4\u05d9\u05e0\u05d4 \u05ea\u05d0\u05d2\u05d9\u05d3 \u05e2\u05d9\u05e8\u05d5\u05e0\u05d9 \u05db\u05dc\u05db\u05dc\u05d9 \u05d1\u05d1\u05e2\u05dc\u05d5\u05ea \u05e2\u05d9\u05e8\u05d9\u05d9\u05ea \u05e0\u05ea\u05e0\u05d9\u05d4. \u05d4\u05d7\u05d1\u05e8\u05d4 \u05de\u05e9\u05de\u05e9\u05ea, \u05d1\u05df \u05d4\u05d9\u05ea\u05e8, \u05db\u05d6\u05e8\u05d5\u05e2 \u05d0\u05e8\u05d5\u05db\u05d4 \u05e9\u05dc \u05d4\u05e2\u05d9\u05e8\u05d9\u05d9\u05d4 \u05dc\u05d1\u05d9\u05e6\u05d5\u05e2 \u05e2\u05d1\u05d5\u05d3\u05d5\u05ea \u05e4\u05d9\u05ea\u05d5\u05d7 \u05d5\u05d1\u05d9\u05e0\u05d5\u05d9, \u05e2\u05dc \u05e4\u05d9 \u05d4\u05e0\u05d7\u05d9\u05d5\u05ea \u05e8\u05d0\u05e9 \u05d4\u05e2\u05d9\u05e8\u05d9\u05d9\u05d4 \u05d5\u05d9\u05d5\u05e8 \u05d4\u05d3\u05d9\u05e8\u05e7\u05d8\u05d5\u05e8\u05d9\u05d5\u05df \u05d1\u05ea\u05d0\u05d5\u05dd \u05e2\u05dd \u05de\u05e0\u05db\u05dc \u05d4\u05e2\u05d9\u05e8\u05d9\u05d9\u05d4, \u05de\u05d4\u05e0\u05d3\u05e1 \u05d4\u05e2\u05d9\u05e8, \u05d7\u05d1\u05e8\u05ea \u05de\u05d9 \u05e0\u05ea\u05e0\u05d9\u05d4 \u05d5\u05d0\u05d2\u05e4\u05d9 \u05d4\u05e2\u05d9\u05e8\u05d9\u05d9\u05d4 \u05d4\u05e9\u05d5\u05e0\u05d9\u05dd.",
+        "Official Site": "http://www.halat.co.il/html5/sbs.taf?&did=2300&_id=12152&g=12154",
+        "Icon": "http://www.halat.co.il/html5/web/2300/logow.jpg",
+        "Redirect": "http://www.halat.co.il/html5/sbs.taf?&did=2300&_id=12152&g=12154",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://halat.co.il"
+        "AbstractURL": "http://www.halat.co.il/html5/sbs.taf?&did=2300&_id=12152&g=12154"
     },
     {
         "link": "https://fordheritagevault.com",
@@ -90,6 +90,16 @@
         "AbstractURL": "https://winestatus.co.il"
     },
     {
+        "link": "https://cdm-radio.com",
+        "Heading": "Costa Del Mar - Apps on Google Play",
+        "Abstract": "\u00ab Costa Del Mar \u00bb Radio selects the best music to offer you 6 musical channels.",
+        "Official Site": "https://play.google.com/store/apps/details?id=com.cdm.costadelmar&hl=en_US",
+        "Icon": "https://play-lh.googleusercontent.com/cLF9xGWdRaNzDU7CSp-Z9U5m8YZeGuzmAlsIotViYWL3x30Q8fs5p1Glm0knrRoQB84S2DzLqrdc9Z1hGZVoEw",
+        "Redirect": "https://play.google.com/store/apps/details?id=com.cdm.costadelmar&hl=en_US",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://play.google.com/store/apps/details?id=com.cdm.costadelmar&hl=en_US"
+    },
+    {
         "link": "https://msufa.ru",
         "Heading": "\u041f\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u0433\u043e\u0440\u044f\u0447\u0435\u043a\u0430\u0442\u0430\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u043a\u0430\u0442\u0430 \u0434\u043b\u044f \u043c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0437\u0430\u0432\u043e\u0434\u043e\u0432 \u0423\u0440\u0430\u043b\u0430 - \u041c\u0421 \u0423\u0444\u0430 \u0421\u0442\u0430\u043b\u044c",
         "Abstract": "\u041f\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0441\u0432\u0430\u0440\u043d\u044b\u0445 \u0441\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0442\u0440\u0443\u0431 \u043f\u043e \u0413\u041e\u0421\u0422 \u0432 \u0423\u0444\u0435 \u0438 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d\u0435 \u043e\u0442 \u041c\u0421 \u0423\u0444\u0430 \u0421\u0442\u0430\u043b\u044c. \u041e\u043f\u0442 \u0438 \u0440\u043e\u0437\u043d\u0438\u0446\u0430, \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u044b \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430, \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u043e\u0431\u044a\u0435\u043a\u0442\u0443 \u043e\u0442 1 \u0434\u043d\u044f.",
@@ -98,6 +108,16 @@
         "Redirect": "https://msufa.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://msufa.ru/"
+    },
+    {
+        "link": "https://slon7at.com",
+        "Heading": "Captcha",
+        "Abstract": null,
+        "Official Site": "https://slon7at.com",
+        "Icon": "N/A",
+        "Redirect": "https://slon7at.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://slon7at.com"
     },
     {
         "link": "https://home-styling.co.il",
@@ -174,7 +194,7 @@
         "Heading": "\u793e\u4f1a\u798f\u7949\u6cd5\u4eba\u3000\u6674\u5c71\u4f1a\u3000\u516c\u5f0f\u30db\u30fc\u30e0\u30da\u30fc\u30b8",
         "Abstract": "\u533b\u7642\u6cd5\u4eba\u793e\u56e3\u30fb\u793e\u4f1a\u798f\u7949\u6cd5\u4eba\u6674\u5c71\u4f1a\u516c\u5f0f\u30b5\u30a4\u30c8\u3067\u3059\u3002\u6674\u5c71\u4f1a\u5404\u65bd\u8a2d\u306e\u7d39\u4ecb\u3084\u30c8\u30d4\u30c3\u30af\u30b9\u30fb\u66f4\u65b0\u60c5\u5831\u3001Q&A\u3001\u6c42\u4eba\u60c5\u5831\u306a\u3069\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u3092\u3054\u7528\u610f\u3057\u3066\u304a\u308a\u307e\u3059\u3002",
         "Official Site": "https://seizan-kai.or.jp/",
-        "Icon": "https://seizan-kai.or.jp/files/site_config/capture.jpg?1786325101",
+        "Icon": "https://seizan-kai.or.jp/files/site_config/capture.jpg?1786411366",
         "Redirect": "https://seizan-kai.or.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://seizan-kai.or.jp/"

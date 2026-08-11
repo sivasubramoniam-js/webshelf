@@ -51,13 +51,13 @@
     },
     {
         "link": "https://kabbalahinsights.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://kabbalahinsights.com",
-        "Icon": "data:;",
-        "Redirect": "https://kabbalahinsights.com",
+        "Heading": "Kabbalah Insights",
+        "Abstract": "Discover the wisdom of Kabbalah through artistic guidance products and Kabbalistic art, Kabbalistic guidance and prediction cards, courses & metaphysical gifts.",
+        "Official Site": "https://kabbalahinsights.com/en/",
+        "Icon": "https://kabbalahinsights.com/images/kabbalahimages/frontpageimage.jpg",
+        "Redirect": "https://kabbalahinsights.com/en/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://kabbalahinsights.com"
+        "AbstractURL": "https://kabbalahinsights.com/en/"
     },
     {
         "link": "https://itl48.ru",
@@ -71,13 +71,13 @@
     },
     {
         "link": "https://whatsacard.com",
-        "Heading": "YouTube",
-        "Abstract": "Share your videos with friends, family, and the world",
-        "Official Site": "https://www.youtube.com/watch?v=K-a8s8OLBSE",
-        "Icon": "https://m.youtube.com/static/favicon.ico",
-        "Redirect": "https://www.youtube.com/watch?v=K-a8s8OLBSE",
+        "Heading": " - YouTube",
+        "Abstract": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "Official Site": "https://whatsacard.com",
+        "Icon": "https://www.youtube.com/s/desktop/8e3d9e40/img/favicon.ico",
+        "Redirect": "https://whatsacard.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.youtube.com/watch?v=K-a8s8OLBSE"
+        "AbstractURL": "https://whatsacard.com"
     },
     {
         "link": "https://liquidplus.com",

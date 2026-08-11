@@ -24,7 +24,7 @@
         "Heading": "Home",
         "Abstract": "Giri Anantharaman\n",
         "Official Site": "https://www.giriman.com/",
-        "Icon": "https://lh3.googleusercontent.com/sitesv/AG8ngQUDKK0UqGp-yJEOv-aetEgk19kNwPMG_qFXzGcID9uxg4OnfbKE9YYsbY3BH1UIeTW9cJqXl_ko0_dreXaBDQ90pBy4EtFztLdEwnnQ8Q1z2guh22kjzym9Sl6tOFvkQE5U91IW8OZRCCwkqr_c4eAiG5fIyFVcYhWI4Gm0kDj1oTKS-b3mOxfRWpH24NkPNRSonspnRwH2xh4S99la0tXMx5m_UFyJ_1J27Xo5Ltk=w1280",
+        "Icon": "https://lh3.googleusercontent.com/sitesv/AG8ngQXaFZBtjzsiRcbgHSgNSDoWG5XsvolaP91yfLwDqLm0F6XaG6i8wymLjuz1yI1tHqqCSayO6j6rcB1gVdz1_7b0oVkHd7netEHsR09sgOlGZA2rs-UAc-sEP6AjV1hBv3V51R3cZ9YDG5t_4u1qbYbc-5VPAhfgaOypgEKo4dmI9q3xsuVgNMQojJdjNMse39Z3oX4m9IeUK-WPKEiw-1MZ0t0FQRwVXkmaVmO5nk4=w1280",
         "Redirect": "https://www.giriman.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.giriman.com/"
@@ -48,6 +48,16 @@
         "Redirect": "https://gemmily.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gemmily.com"
+    },
+    {
+        "link": "https://fastautobahn.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://fastautobahn.com",
+        "Icon": "N/A",
+        "Redirect": "https://fastautobahn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fastautobahn.com"
     },
     {
         "link": "https://denk-energy.de",
@@ -151,13 +161,13 @@
     },
     {
         "link": "https://doramcquaid.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://doramcquaid.com",
-        "Icon": "data:;",
-        "Redirect": "https://doramcquaid.com",
+        "Heading": "Home - Dora McQuaid",
+        "Abstract": "Award-Winning Poet and Author of the\u00a0scorched earth, Dora's ground-breaking Collection of Poems\u00a0about her Journey from Victimization to Empowerment, among many",
+        "Official Site": "http://doramcquaid.com/",
+        "Icon": "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
+        "Redirect": "http://doramcquaid.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://doramcquaid.com"
+        "AbstractURL": "http://doramcquaid.com/"
     },
     {
         "link": "https://urfinnt.ru",
@@ -188,15 +198,5 @@
         "Redirect": "https://www.cotswoldcommunity.care",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cotswoldcommunity.care"
-    },
-    {
-        "link": "https://discepto.com",
-        "Heading": "Discepto.com is For Sale | BrandBucket",
-        "Abstract": "Buy the domain name Discepto.com and launch your business with a premium domain and a high quality logo.",
-        "Official Site": "https://www.brandbucket.com/names/discepto",
-        "Icon": "https://www.brandbucket.com/sites/default/files/logo_uploads/186811/stamped_preview_w7.png",
-        "Redirect": "https://www.brandbucket.com/names/discepto",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.brandbucket.com/names/discepto"
     }
 ]
