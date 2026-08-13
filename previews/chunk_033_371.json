@@ -31,13 +31,13 @@
     },
     {
         "link": "https://bogotacomovamos.org",
-        "Heading": "Bogot\u00e1 C\u00f3mo Vamos",
-        "Abstract": "Bogot\u00e1 C\u00f3mo Vamos es un ejercicio ciudadano que desde 1998 realiza un seguimiento a los cambios en la calidad de vida y al Concejo de Bogot\u00e1.",
-        "Official Site": "https://bogotacomovamos.org/",
-        "Icon": "https://bogotacomovamos.org/wp-content/uploads/2023/10/Bogota-Colombiared-e1695224410887.jpg",
-        "Redirect": "https://bogotacomovamos.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bogotacomovamos.org",
+        "Icon": "data:;",
+        "Redirect": "https://bogotacomovamos.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bogotacomovamos.org/"
+        "AbstractURL": "https://bogotacomovamos.org"
     },
     {
         "link": "https://ekapl.com",
@@ -51,10 +51,10 @@
     },
     {
         "link": "https://apluskidstv.com",
-        "Heading": "A+ Kids | Grow Smart | AI educational platform for kids aged 3-7 focusing on learning English, math, science and the world around us",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://apluskidstv.com",
-        "Icon": "https://apluskidstv.com/wp-content/uploads/2020/07/apluskidslogoicon-1-150x150.png",
+        "Icon": "data:;",
         "Redirect": "https://apluskidstv.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://apluskidstv.com"
@@ -88,6 +88,16 @@
         "Redirect": "https://jaguar-cars.kz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jaguar-cars.kz"
+    },
+    {
+        "link": "https://magicalpartyrental.com",
+        "Heading": "Magical Party Rental \u2013 We help make events come to life\u2026 \u2013 All Occasions Party Rental",
+        "Abstract": "Previous Next Magical Party Rental is a small family-owned business. We are based out of Cliffside Park, NJ serving a wide variety of events in all of New Jersey and Manhattan Boro such as weddings, graduations, engagement/proposals, birthday parties, baby showers, corporate events and much more. From organic garlands, balloon bouquets, balloon columns, balloon arches,\u2026",
+        "Official Site": "https://magicalpartyrental.com/",
+        "Icon": "https://magicalpartyrental.com/wp-content/uploads/2022/02/magical-favicon-150x150.jpg",
+        "Redirect": "https://magicalpartyrental.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://magicalpartyrental.com/"
     },
     {
         "link": "https://gweizman.com",
@@ -160,6 +170,16 @@
         "AbstractURL": "https://hardass.com"
     },
     {
+        "link": "https://thefuturesacademy.ie",
+        "Heading": "The Equable Future - You Control Your Life",
+        "Abstract": "The most important thing to know is that you are fully responsible for your life, so it is up to you whether you will live good or bad.",
+        "Official Site": "https://www.thefuturesacademy.ie/",
+        "Icon": "https://www.thefuturesacademy.ie/imgs/cropped-logo-32x32.png",
+        "Redirect": "https://www.thefuturesacademy.ie/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thefuturesacademy.ie/"
+    },
+    {
         "link": "https://russia-4life.ru",
         "Heading": "\u0417\u0430\u0433\u0440\u0435\u0431 \u043a\u0443\u043f\u0438\u0442\u044c \u041c\u0430\u0440\u0438\u0445\u0443\u0430\u043d\u0443, \u041a\u043e\u043a\u0430\u0438\u043d, \u041c\u0435\u0444\u0435\u0434\u0440\u043e\u043d, \u0411\u043e\u0448\u043a\u0438",
         "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u043c\u0435\u0444\u0435\u0434\u0440\u043e\u043d, \u0430\u043c\u0444\u0435\u0442\u0430\u043c\u0438\u043d. \u0417\u0430\u0433\u0440\u0435\u0431 \u043a\u0443\u043f\u0438\u0442\u044c \u041c\u0430\u0440\u0438\u0445\u0443\u0430\u043d\u0443, \u041a\u043e\u043a\u0430\u0438\u043d, \u041c\u0435\u0444\u0435\u0434\u0440\u043e\u043d, \u0411\u043e\u0448\u043a\u0438, \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u0438 \u0434\u0435\u0448\u0435\u0432\u044b\u0445 \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432, \u041c\u044b \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u043c \u0448\u0438\u0440\u043e\u043a\u0438\u0439 \u0430\u0441\u0441\u043e\u0440\u0442\u0438\u043c\u0435\u043d\u0442 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0438 \u0430\u043c\u0444\u0435\u0442\u0430\u043c\u0438\u043d\u0430.",
@@ -171,13 +191,23 @@
     },
     {
         "link": "https://1wbio.com",
-        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 1125182.8646781114",
+        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 6520898.844723726",
         "Abstract": "\u041b\u0443\u0447\u0448\u0435\u0435 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0430\u0437\u0438\u043d\u043e \u0438 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440! \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0441\u044f \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0439 \u0431\u043e\u043d\u0443\u0441 500%. 15 000+ \u0438\u0433\u0440, \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0432\u044b\u043f\u043b\u0430\u0442\u044b, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7.",
         "Official Site": "https://1wbio.com",
         "Icon": "/resources/v1/plain/favicons/android-chrome-72x72-v3.png",
         "Redirect": "https://1wbio.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://1wbio.com"
+    },
+    {
+        "link": "https://konkursmos.ru",
+        "Heading": "R7 Casino (\u04207 \u041a\u0430\u0437\u0438\u043d\u043e) \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442, \u0438\u0433\u0440\u0430\u0442\u044c \u043d\u0430 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0435\u043d\u044c\u0433\u0438",
+        "Abstract": "\u041d\u0430\u0441\u043b\u0430\u0436\u0434\u0430\u0439\u0442\u0435\u0441\u044c \u0430\u0437\u0430\u0440\u0442\u043e\u043c \u043d\u0430 R7 Casino \ud83c\udfb0 - \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u0430\u0439\u0442\u0435 \u0434\u043b\u044f \u0438\u0433\u0440\u044b \u043d\u0430 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0435\u043d\u044c\u0433\u0438! \ud83d\udcb5 \u041d\u0430\u0434\u0435\u0436\u043d\u043e\u0441\u0442\u044c, \u0448\u0438\u0440\u043e\u043a\u0438\u0439 \u0432\u044b\u0431\u043e\u0440 \u0438\u0433\u0440 \u0438 \u0449\u0435\u0434\u0440\u044b\u0435 \u0431\u043e\u043d\u0443\u0441\u044b \ud83c\udf81 \u0436\u0434\u0443\u0442 \u0432\u0430\u0441. \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0442\u0435\u0441\u044c \u043a \u043d\u0430\u043c \u0438 \u0438\u0441\u043f\u044b\u0442\u0430\u0439\u0442\u0435 \u0443\u0434\u0430\u0447\u0443! \ud83c\udf40",
+        "Official Site": "https://konkursmos.ru/",
+        "Icon": "https://konkursmos.ru/wp-content/themes/R7/favicon.png",
+        "Redirect": "https://konkursmos.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://konkursmos.ru/"
     },
     {
         "link": "https://vavada-web-apk.com",

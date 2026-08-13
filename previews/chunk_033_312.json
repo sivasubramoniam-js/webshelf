@@ -181,10 +181,10 @@
     },
     {
         "link": "https://saray-ruyasi-demo.com",
-        "Heading": "Account Suspended | UnderHost",
-        "Abstract": "This website is currently unavailable. Account owners can sign in to CustomerPanel or contact UnderHost support for help restoring service.",
+        "Heading": "My Blog \u2014 My WordPress Blog",
+        "Abstract": null,
         "Official Site": "https://saray-ruyasi-demo.com",
-        "Icon": "https://cdn.underhost.com/favicon32x32.png",
+        "Icon": "N/A",
         "Redirect": "https://saray-ruyasi-demo.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://saray-ruyasi-demo.com"
@@ -238,5 +238,15 @@
         "Redirect": "https://hundpoolen.se",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hundpoolen.se"
+    },
+    {
+        "link": "https://uspehvgolove.ru",
+        "Heading": "\u0412\u043e\u0434\u043a\u0430 \u041a\u0430\u0437\u0438\u043d\u043e (Vodka Casino) \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442, \u0432\u0445\u043e\u0434 \u0438 \u0431\u043e\u043d\u0443\u0441\u044b",
+        "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0412\u043e\u0434\u043a\u0430 \u041a\u0430\u0437\u0438\u043d\u043e (Vodka Casino): \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f, \u0432\u0445\u043e\u0434 \u0432 \u043b\u0438\u0447\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442, \u0431\u043e\u043d\u0443\u0441\u044b \u043d\u0430 \u0434\u0435\u043f\u043e\u0437\u0438\u0442, \u0444\u0440\u0438\u0441\u043f\u0438\u043d\u044b, \u0440\u0430\u0431\u043e\u0447\u0435\u0435 \u0437\u0435\u0440\u043a\u0430\u043b\u043e, \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f \u0438 \u0431\u044b\u0441\u0442\u0440\u044b\u0439 \u0432\u044b\u0432\u043e\u0434 \u0441\u0440\u0435\u0434\u0441\u0442\u0432.",
+        "Official Site": "https://uspehvgolove.ru",
+        "Icon": "https://uspehvgolove.ru/favicon.ico",
+        "Redirect": "https://uspehvgolove.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uspehvgolove.ru"
     }
 ]

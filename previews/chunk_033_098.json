@@ -90,16 +90,6 @@
         "AbstractURL": "https://www.moretogivenwa.org/donate"
     },
     {
-        "link": "https://npai.ca",
-        "Heading": "NPai.ca \u2014 Premium Domain For Sale | Atom",
-        "Abstract": "Domain name npai.ca offers a concise and impactful online presence for startups seeking to establish themselves as innovative and forward-thinking. The four-letter, one-syllable name conveys a sense of simplicity and efficiency, ideal for b",
-        "Official Site": "https://www.atom.com/lpd/name/NPai.ca",
-        "Icon": "https://img.atom.com/story_images/visual_images/logo-image-26786-npai.ca.jpg?class=show",
-        "Redirect": "https://www.atom.com/lpd/name/NPai.ca",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atom.com/lpd/name/NPai.ca"
-    },
-    {
         "link": "https://1win-luck.ru",
         "Heading": "FASTPANEL",
         "Abstract": null,
@@ -211,10 +201,10 @@
     },
     {
         "link": "https://abra-kadabra.co.il",
-        "Heading": "\u05d0\u05d1\u05e8\u05d0 \u05db\u05d3\u05d1\u05e8\u05d4 \u2013 \u05de\u05e0\u05d2\u05d9\u05e9\u05d4 \u05dc\u05da \u05d0\u05ea \u05e9\u05d5\u05e7 \u05d4\u05d0\u05e1\u05e4\u05e7\u05d4 \u05d4\u05d1\u05d9\u05e0\u05dc\u05d0\u05d5\u05de\u05d9",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://abra-kadabra.co.il",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://abra-kadabra.co.il",
         "AbstractSource": "BS4",
         "AbstractURL": "https://abra-kadabra.co.il"
@@ -228,6 +218,16 @@
         "Redirect": "https://g-city.co.il/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://g-city.co.il/"
+    },
+    {
+        "link": "https://location-appartements.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://location-appartements.com",
+        "Icon": "N/A",
+        "Redirect": "https://location-appartements.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://location-appartements.com"
     },
     {
         "link": "https://lianasolomon.com",

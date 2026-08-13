@@ -24,7 +24,7 @@
         "Heading": "Home",
         "Abstract": "Giri Anantharaman\n",
         "Official Site": "https://www.giriman.com/",
-        "Icon": "https://lh3.googleusercontent.com/sitesv/AG8ngQXaFZBtjzsiRcbgHSgNSDoWG5XsvolaP91yfLwDqLm0F6XaG6i8wymLjuz1yI1tHqqCSayO6j6rcB1gVdz1_7b0oVkHd7netEHsR09sgOlGZA2rs-UAc-sEP6AjV1hBv3V51R3cZ9YDG5t_4u1qbYbc-5VPAhfgaOypgEKo4dmI9q3xsuVgNMQojJdjNMse39Z3oX4m9IeUK-WPKEiw-1MZ0t0FQRwVXkmaVmO5nk4=w1280",
+        "Icon": "https://lh3.googleusercontent.com/sitesv/AG8ngQUi5HeNkJ-xybyQR5zt-2SvJ38EAGXXq824XCIRftnL5WP6Gm8PN3k6IkVpFpaZOqdv1orziLT5ElxidFxpqx7VuFmPmN8341mTh807tlpP_loAP5934QN6tZHvHbk7kEAz2cTcEwBVdzoNUTrUG7gqpI9KSo0WHX21JlDgIxdzKkXupvxcoeb32tY0w2nws6a57EHcr7j_RTDRSouYg2aLNik87FmNsBL4nuF4hhk=w1280",
         "Redirect": "https://www.giriman.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.giriman.com/"
@@ -161,23 +161,13 @@
     },
     {
         "link": "https://doramcquaid.com",
-        "Heading": "Home - Dora McQuaid",
-        "Abstract": "Award-Winning Poet and Author of the\u00a0scorched earth, Dora's ground-breaking Collection of Poems\u00a0about her Journey from Victimization to Empowerment, among many",
-        "Official Site": "http://doramcquaid.com/",
-        "Icon": "https://www.paypalobjects.com/en_US/i/scr/pixel.gif",
-        "Redirect": "http://doramcquaid.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://doramcquaid.com",
+        "Icon": "data:;",
+        "Redirect": "https://doramcquaid.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://doramcquaid.com/"
-    },
-    {
-        "link": "https://urfinnt.ru",
-        "Heading": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0431\u0438\u0437\u043d\u0435\u0441\u0430 \u0438 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432 - urfinnt.ru",
-        "Abstract": "\u041a\u043b\u044e\u0447\u0435\u0432\u044b\u0435 \u0442\u0440\u0435\u043d\u0434\u044b, \u043f\u0440\u043e\u0433\u043d\u043e\u0437\u044b \u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u044e\u0442 \u043c\u0438\u0440\u043e\u0432\u044b\u0435 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0435 \u0440\u044b\u043d\u043a\u0438 \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f.",
-        "Official Site": "https://urfinnt.ru/",
-        "Icon": "https://urfinnt.ru/wp-content/uploads/2024/03/Screenshot_7.png",
-        "Redirect": "https://urfinnt.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://urfinnt.ru/"
+        "AbstractURL": "https://doramcquaid.com"
     },
     {
         "link": "https://divadeco.com",
@@ -198,5 +188,15 @@
         "Redirect": "https://www.cotswoldcommunity.care",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cotswoldcommunity.care"
+    },
+    {
+        "link": "https://discepto.com",
+        "Heading": "Discepto.com is For Sale | BrandBucket",
+        "Abstract": "Buy the domain name Discepto.com and launch your business with a premium domain and a high quality logo.",
+        "Official Site": "https://www.brandbucket.com/names/discepto",
+        "Icon": "https://www.brandbucket.com/sites/default/files/logo_uploads/186811/stamped_preview_w7.png",
+        "Redirect": "https://www.brandbucket.com/names/discepto",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.brandbucket.com/names/discepto"
     }
 ]
