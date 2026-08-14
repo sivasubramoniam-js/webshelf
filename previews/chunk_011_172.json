@@ -70,24 +70,24 @@
         "AbstractURL": "https://penz-elektronik.de"
     },
     {
-        "link": "https://injuryrelief.com",
-        "Heading": "Texas Injury Lawyers Delivering Life-Changing Results - Grossman Law",
-        "Abstract": "Grossman Law provides you with experienced legal support, uncovering the truth so you can achieve clarity, accountability, justice, and closure.",
-        "Official Site": "https://www.injuryrelief.com/",
-        "Icon": "https://www.injuryrelief.com/wp-content/uploads/2025/11/Grossman-Logo-Blue-Bkg.png",
-        "Redirect": "https://www.injuryrelief.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.injuryrelief.com/"
-    },
-    {
-        "link": "https://miscellanynews.org",
+        "link": "https://songma.com",
         "Heading": null,
         "Abstract": null,
-        "Official Site": "https://miscellanynews.org",
-        "Icon": "data:;",
-        "Redirect": "https://miscellanynews.org",
+        "Official Site": "https://songma.com",
+        "Icon": "N/A",
+        "Redirect": "https://songma.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://miscellanynews.org"
+        "AbstractURL": "https://songma.com"
+    },
+    {
+        "link": "https://eksctl.io",
+        "Heading": "What is Eksctl? - Eksctl User Guide",
+        "Abstract": "eksctl is a command-line utility tool that automates and simplifies the process of creating, managing, and operating Amazon Elastic Kubernetes Service (Amazon EKS) clusters. Written in Go, eksctl provides a declarative syntax through YAML configurations and CLI commands to handle complex EKS cluster operations that would otherwise require multiple manual steps across different AWS services.",
+        "Official Site": "https://eksctl.io",
+        "Icon": "/assets/images/favicon.ico",
+        "Redirect": "https://eksctl.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eksctl.io"
     },
     {
         "link": "https://nodei.co",
@@ -148,6 +148,16 @@
         "Redirect": "https://expion360.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://expion360.com/"
+    },
+    {
+        "link": "https://midgettrealty.com",
+        "Heading": "Hatteras Island Vacation Rentals | Top Hatteras NC Vacation Rentals by Midgett Realty",
+        "Abstract": "From cozy condos for one to spacious retreats big enough for the whole crew, Midgett Realty has more than 500 premier Hatteras Island % % % vacation rentals waiting to choose from!",
+        "Official Site": "https://www.midgettrealty.com/",
+        "Icon": "https://www.midgettrealty.com/wp-content/uploads/2025/08/FI130-Pompano-Oceanfront-Homes.jpg",
+        "Redirect": "https://www.midgettrealty.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.midgettrealty.com/"
     },
     {
         "link": "https://sekundarschule-marsberg.eu",

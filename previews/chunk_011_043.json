@@ -120,11 +120,21 @@
         "AbstractURL": "https://chileexpertos.cl"
     },
     {
+        "link": "https://katz-stb.de",
+        "Heading": "Silke Katz Steuerberaterin",
+        "Abstract": null,
+        "Official Site": "https://katz-stb.de",
+        "Icon": "N/A",
+        "Redirect": "https://katz-stb.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://katz-stb.de"
+    },
+    {
         "link": "https://gnomeitsolutions.com",
         "Heading": "Fast Web Hosting, VPS & Dedicated Servers | Gnome IT Solutions",
         "Abstract": "Fast, secure and reliable hosting solutions with global infrastructure and 24/7 support.",
         "Official Site": "https://gnomeitsolutions.com/",
-        "Icon": "assets/img/favicon.ico",
+        "Icon": "https://gnomeitsolutions.com/assets/img/nome-hosting-shield-logo.png",
         "Redirect": "https://gnomeitsolutions.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gnomeitsolutions.com/"

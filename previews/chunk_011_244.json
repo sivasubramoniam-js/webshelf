@@ -51,13 +51,13 @@
     },
     {
         "link": "https://apkunchek.fun",
-        "Heading": "Update APK Unchek",
-        "Abstract": null,
-        "Official Site": "https://apkunchek.fun",
-        "Icon": "N/A",
-        "Redirect": "https://apkunchek.fun",
+        "Heading": "APK Unchek \u2014 Update Aplikasi Terbaru",
+        "Abstract": "Download update APK Unchek versi terbaru langsung dari VANO NESIA.",
+        "Official Site": "https://apkunchek.fun/",
+        "Icon": "https://apkunchek.fun/assets/img/gmail.png",
+        "Redirect": "https://apkunchek.fun/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://apkunchek.fun"
+        "AbstractURL": "https://apkunchek.fun/"
     },
     {
         "link": "https://apl96.one",
@@ -208,6 +208,16 @@
         "Redirect": "https://app.conectepag.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://app.conectepag.com.br"
+    },
+    {
+        "link": "https://app.consigasimulacao.com.br",
+        "Heading": null,
+        "Abstract": "Bankerize - Gest\u00e3o de Fintechs",
+        "Official Site": "https://app.consigasimulacao.com.br",
+        "Icon": "/_next/static/media/favicon-white.42d65e7a.png",
+        "Redirect": "https://app.consigasimulacao.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://app.consigasimulacao.com.br"
     },
     {
         "link": "https://app.crednidhi.com",

@@ -11,23 +11,13 @@
     },
     {
         "link": "https://cleansweepproa.com",
-        "Heading": "CleanSweep Pro \u2014 Clean, Protect, and Optimize Your Phone",
-        "Abstract": "Clean, protect, and optimize your phone with junk cleaning, antivirus scanning, large file cleanup, media management, and compression.",
+        "Heading": "Everyday Apps | Phone Tracker Pro & Loan Calculator Max",
+        "Abstract": "Useful everyday apps for family connection and financial planning.",
         "Official Site": "https://cleansweepproa.com",
-        "Icon": "./favicon.svg",
+        "Icon": "N/A",
         "Redirect": "https://cleansweepproa.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cleansweepproa.com"
-    },
-    {
-        "link": "https://hucu.ai",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://hucu.ai",
-        "Icon": "data:;",
-        "Redirect": "https://hucu.ai",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hucu.ai"
     },
     {
         "link": "https://fasttradedeal.com",
@@ -48,6 +38,16 @@
         "Redirect": "https://martherus.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://martherus.com"
+    },
+    {
+        "link": "https://dalbyaccommodation.com",
+        "Heading": "Dalby Accommodation - Best Dalby Hotels",
+        "Abstract": "Find best offers for the best Dalby accommodation, compare our top Dalby hotel deals direct from the provider. Search, book, and save today!",
+        "Official Site": "https://dalbyaccommodation.com/",
+        "Icon": "https://dirdata.b-cdn.net/img/sites/og/ogmd_desktop_171_jceh3367_1904160202.jpg?crop_gravity=center&crop=1200,627",
+        "Redirect": "https://dalbyaccommodation.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dalbyaccommodation.com/"
     },
     {
         "link": "https://sportandapps.com",
@@ -78,6 +78,16 @@
         "Redirect": "https://xevinfastvietnam.vn/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xevinfastvietnam.vn/"
+    },
+    {
+        "link": "https://duendesoftware.com",
+        "Heading": "Duende Software | OAuth, OIDC & SAML for .NET | Duende",
+        "Abstract": "Duende Software is a company that builds industry-leading security software.",
+        "Official Site": "https://duendesoftware.com/",
+        "Icon": "https://duendesoftware.com/_astro/og-image.DPUtWVYN.png",
+        "Redirect": "https://duendesoftware.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://duendesoftware.com/"
     },
     {
         "link": "https://jameshotels.com",

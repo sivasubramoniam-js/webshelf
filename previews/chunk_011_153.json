@@ -80,16 +80,6 @@
         "AbstractURL": "https://thirstie.com"
     },
     {
-        "link": "https://pricelinepartnernetwork.com",
-        "Heading": "Priceline Partner Solutions",
-        "Abstract": null,
-        "Official Site": "https://pricelinepartnernetwork.com",
-        "Icon": "/favicon.586c9921.ico",
-        "Redirect": "https://pricelinepartnernetwork.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pricelinepartnernetwork.com"
-    },
-    {
         "link": "https://icactaskforce.org",
         "Heading": "ICAC - Internet Crimes Against Children Task Force Program",
         "Abstract": null,
@@ -121,13 +111,13 @@
     },
     {
         "link": "https://amghoster.com",
-        "Heading": "AMG GOODLUCK \u2013 Web Hosting, Graphic Desinging, Website Services",
-        "Abstract": "Do You Need a NEW Web Design? Check out our options and features We Work Hard and Porto has The Best Design Trusted by over 40,000 satisfied users, Porto is a huge success in the one of largest world's MarketPlace We create Designs, We are\u2026",
-        "Official Site": "https://amggoodluck.com/",
-        "Icon": "//sw-themes.com/porto_dummy/wp-content/uploads/2021/07/co-logo.png",
-        "Redirect": "https://amggoodluck.com/",
+        "Heading": "AMG GOODLUCK",
+        "Abstract": "AMG GOODLUCK Providing web hosting services.",
+        "Official Site": "https://amghoster.com",
+        "Icon": "https://amggoodluck.com/image/catalog/logo/favicon.png",
+        "Redirect": "https://amghoster.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://amggoodluck.com/"
+        "AbstractURL": "https://amghoster.com"
     },
     {
         "link": "https://wallstmemes.com",
@@ -138,16 +128,6 @@
         "Redirect": "https://wallstmemes.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wallstmemes.com/"
-    },
-    {
-        "link": "https://solutionsix.com",
-        "Heading": "6 TECH \u2013 Your Technology Partner",
-        "Abstract": null,
-        "Official Site": "https://solutionsix.com",
-        "Icon": "https://solutionsix.com/wp-content/uploads/2024/07/6-Logo-Circle-Icon-150x150.png",
-        "Redirect": "https://solutionsix.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://solutionsix.com"
     },
     {
         "link": "https://goodwatercap.com",
@@ -303,11 +283,11 @@
         "link": "https://amarantelva.com",
         "Heading": "Luxury Holiday Rentals - Luxury Vacation Rentals",
         "Abstract": "Discover our collection of luxury apartments and villas in Barcelona. We offer complementary concierge services to our customers.",
-        "Official Site": "https://www.amarantelva.com/",
+        "Official Site": "https://www.amarantelva.com/?gclid=EAIaIQobChMIwPu5t4qs3AIVAQAAAB0BAAAAEAAYACAAEgJVzfD_BwE",
         "Icon": "https://imagescdn.amarantelva.com/city-splash/http://images.amarantelva.com.s3-website-eu-west-1.amazonaws.com/cities/home.jpg",
-        "Redirect": "https://www.amarantelva.com/",
+        "Redirect": "https://www.amarantelva.com/?gclid=EAIaIQobChMIwPu5t4qs3AIVAQAAAB0BAAAAEAAYACAAEgJVzfD_BwE",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.amarantelva.com/"
+        "AbstractURL": "https://www.amarantelva.com/?gclid=EAIaIQobChMIwPu5t4qs3AIVAQAAAB0BAAAAEAAYACAAEgJVzfD_BwE"
     },
     {
         "link": "https://southwestchess.com",

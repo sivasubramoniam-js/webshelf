@@ -50,6 +50,26 @@
         "AbstractURL": "https://postd.cc/"
     },
     {
+        "link": "https://bloggies.com",
+        "Heading": "The Weblog Awards",
+        "Abstract": "The Web's longest running blog awards. Discover the best blogs.",
+        "Official Site": "https://bloggies.com",
+        "Icon": "N/A",
+        "Redirect": "https://bloggies.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bloggies.com"
+    },
+    {
+        "link": "https://wfyhzy.com",
+        "Heading": "\u4f18\u8d28\u82f9\u679cIOSAPP\u6d41\u91cf\u5e73\u53f0",
+        "Abstract": "",
+        "Official Site": "https://wfyhzy.com",
+        "Icon": "/main_video/images/favicon.png",
+        "Redirect": "https://wfyhzy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wfyhzy.com"
+    },
+    {
         "link": "https://comite21.org",
         "Heading": "Accueil groupe - Comit\u00e9 21",
         "Abstract": "ICI S'INVENTE DEMAIN Le Comit\u00e9 21 est un r\u00e9seau unique qui regroupe toutes les organisations qui veulent avoir un impact positif sur la soci\u00e9t\u00e9. Ensemble, elles exp\u00e9rimentent, innovent et coop\u00e8rent pour apporter des r\u00e9ponses concr\u00e8tes \u00e0 l\u2019ampleur des d\u00e9fis \u00e9cologiques. En savoir plus \u00c0 la une Autres actualit\u00e9s En savoir plus Autres actualit\u00e9s D\u00e9couvrez nos",
@@ -58,6 +78,16 @@
         "Redirect": "https://comite21-groupe.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://comite21-groupe.org/"
+    },
+    {
+        "link": "https://cultureandadventure.com",
+        "Heading": "Welcome to Culture & Adventure!",
+        "Abstract": "Welcome to Culture & Adventure a tour company offering tours of Paris, Lille, the Loire Valley and Normandy.",
+        "Official Site": "https://www.cultureandadventure.com/",
+        "Icon": "cultureandadventure.com/wp-content/uploads/2020/09/logo200_fit-32-32-ssl-1.png",
+        "Redirect": "https://www.cultureandadventure.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cultureandadventure.com/"
     },
     {
         "link": "https://kontrafakta.net",

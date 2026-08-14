@@ -10,16 +10,6 @@
         "AbstractURL": "https://reiterjournal.com/"
     },
     {
-        "link": "https://supporthives.com",
-        "Heading": "Support Hives \u2013 | Develop, Host & Monitor",
-        "Abstract": null,
-        "Official Site": "https://supporthives.com",
-        "Icon": "https://supporthives.com/wp-content/uploads/2022/07/logo-copy.png",
-        "Redirect": "https://supporthives.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://supporthives.com"
-    },
-    {
         "link": "https://gl-tours.com",
         "Heading": "GL Tours \u2013 B2B API Marketplace for Tours, Activities and Attractions Worldwide",
         "Abstract": "Connect instantly to global suppliers via our real-time API. Streamline bookings, access live inventory, and scale with zero integration fees.",
@@ -31,8 +21,8 @@
     },
     {
         "link": "https://waitomonews.co.nz",
-        "Heading": "Best New Online Casinos NZ | Top Kiwi Newest Casinos For Real Money 2026",
-        "Abstract": "Play at new online casinos for Kiwi-tailored games, fast payouts and fair wagering \ud83c\udfb0 Join one of the best new casinos for secure banking, VIP rewards and hot promos \ud83d\udc8e Sign up and start playing today",
+        "Heading": "New Online Casinos New Zealand May 2026",
+        "Abstract": "Discover new online casinos with top providers, fast payouts and fair wagering \ud83c\udfb0 Enjoy a trusted best online casino nz real money experience, no hidden fees \ud83d\udc8e Join now for premium Kiwi gaming",
         "Official Site": "https://socialist.org.nz",
         "Icon": "https://socialist.org.nz/org.png",
         "Redirect": "https://socialist.org.nz",
@@ -68,6 +58,16 @@
         "Redirect": "https://www.ahta.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ahta.org/"
+    },
+    {
+        "link": "https://profesorfrancisco.es",
+        "Heading": "Profesor Francisco | Recursos de Geograf\u00eda, Historia y Arte",
+        "Abstract": "Blog de recursos para clase de historia, geograf\u00eda y arte: res\u00famenes, actividades, esquemas, TIC, etc. para alumnos y profesores.",
+        "Official Site": "https://www.profesorfrancisco.es/",
+        "Icon": "https://www.profesorfrancisco.es/favicon.ico",
+        "Redirect": "https://www.profesorfrancisco.es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.profesorfrancisco.es/"
     },
     {
         "link": "https://vfmac.edu",
@@ -278,6 +278,16 @@
         "Redirect": " https://lmg.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": " https://lmg.jp/"
+    },
+    {
+        "link": "https://lista4.ru",
+        "Heading": "\u041b\u0418\u0421\u0422\u0410 4 \u2014 \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e \u0438 \u0440\u0435\u043c\u043e\u043d\u0442",
+        "Abstract": "\u041f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0436\u0443\u0440\u043d\u0430\u043b \u043e \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0435, \u0440\u0435\u043c\u043e\u043d\u0442\u0435, \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u0430\u0445 \u0438 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435 \u0434\u043e\u043c\u0430.",
+        "Official Site": "https://lista4.ru",
+        "Icon": "N/A",
+        "Redirect": "https://lista4.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lista4.ru"
     },
     {
         "link": "https://microwrestling.com",

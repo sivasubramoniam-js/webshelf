@@ -61,13 +61,13 @@
     },
     {
         "link": "https://airporthaber.com",
-        "Heading": "AirportHaber Mobil - G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
-        "Abstract": "AirportHaber Haberin Tek Kayna\u011f\u0131 - G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
-        "Official Site": "https://airporthaber.com",
-        "Icon": "N/A",
-        "Redirect": "https://airporthaber.com",
+        "Heading": "AirportHaber \"Haberin Tek Kayna\u011f\u0131\" G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
+        "Abstract": "AirportHaber, T\u00fcrkiye'nin lider g\u00fcncel sivil havac\u0131l\u0131k haberleri portal\u0131d\u0131r.",
+        "Official Site": "https://www.airporthaber2.com/",
+        "Icon": "/favicon-2.ico",
+        "Redirect": "https://www.airporthaber2.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://airporthaber.com"
+        "AbstractURL": "https://www.airporthaber2.com/"
     },
     {
         "link": "https://kayliemarievocalist.com",
@@ -200,6 +200,26 @@
         "AbstractURL": "https://ugraeparhia.ru"
     },
     {
+        "link": "https://jefferiessocks.com",
+        "Heading": "Kids Socks | Girls & Boy Socks | Women & Men Socks | Jefferies Socks",
+        "Abstract": "Shop girls socks, boys socks, kids socks, seamless socks, baby socks, toddler socks, womens socks, and mens socks at Jefferies Socks. Buy fun colorful socks in our official store!",
+        "Official Site": "https://jefferiessocks.com",
+        "Icon": "https://www.jefferiessocks.com/media/favicon/stores/1/favicon-Jefferies-Socks-16x16.png",
+        "Redirect": "https://jefferiessocks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jefferiessocks.com"
+    },
+    {
+        "link": "https://educationpost.org",
+        "Heading": "Home - Ed Post",
+        "Abstract": null,
+        "Official Site": "https://edpost.com/",
+        "Icon": "https://edpost.com/wp-content/uploads/2025/12/cropped-ep-favicon-1-32x32.webp",
+        "Redirect": "https://edpost.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://edpost.com/"
+    },
+    {
         "link": "https://luteccs.com",
         "Heading": "Malawi Hosting Provider | Quality Website Hosting In Malawi | Website hosting | Reseller Hosting | VPS Hosting | Shared Hosting | Domain Reseller, Domain Registartion  | Lu Tec Cs Consultancy Host Malawi Web Hosting Company\n\t\taffordable Hosting , Cheap Domain Reseller ,Cheap VPS ,cheap Shared Hosting, Cheap Licencing Shared (vps), Website Desing pre-built , Malawi Cheap Hosting, Malawi host , malawi Vps , malawi hosting .\n\t",
         "Abstract": null,
@@ -208,5 +228,15 @@
         "Redirect": "https://luteccs.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://luteccs.com"
+    },
+    {
+        "link": "https://yaymaker.com",
+        "Heading": "Yaymaker: Event Planning Made Easy",
+        "Abstract": "From the makers of Paint Nite\u00ae, Yaymaker is here to cater to all your private event needs. See how we can help you plan your next social or corporate event\u2014in-person, virtually or hybrid.",
+        "Official Site": "https://yaymaker.com",
+        "Icon": "/static/img/favicon-16x16-85619107.png",
+        "Redirect": "https://yaymaker.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yaymaker.com"
     }
 ]

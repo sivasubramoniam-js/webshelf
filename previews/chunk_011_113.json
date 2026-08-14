@@ -50,16 +50,6 @@
         "AbstractURL": "https://www.multitanks.com/"
     },
     {
-        "link": "https://nycompanygo.com",
-        "Heading": "New York Companies Directory",
-        "Abstract": null,
-        "Official Site": "/",
-        "Icon": "/favicon.ico",
-        "Redirect": "/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "/"
-    },
-    {
         "link": "https://ams-photo-software.com",
         "Heading": "Creative photo editing software || AMS Software official website",
         "Abstract": "Seeking powerful software for photo editing and creative design? AMS Software offers you dozens of easy-to-use programs \u2013 check them out today!",
@@ -220,6 +210,16 @@
         "AbstractURL": "https://www.gracelink.net/"
     },
     {
+        "link": "https://sarbpropiedades.cl",
+        "Heading": "SARB Propiedades",
+        "Abstract": "SARB Propiedades, somos una empresa de corretaje, creada a partir de la necesidad de entregar un servicio completo, integral y de calidad. Transformamos tu b\u00fasqueda de hogar en una experiencia \u00fanica, con a\u00f1os de experiencia en el mercado inmobiliario, te ofrecemos un servicio personalizado, respaldado por un profundo conocimiento del sector\u2026",
+        "Official Site": "https://www.sarbpropiedades.cl/",
+        "Icon": "https://www.toppropiedades.cl/imagenes/icono_6f55759b22.png",
+        "Redirect": "https://www.sarbpropiedades.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sarbpropiedades.cl/"
+    },
+    {
         "link": "https://savageservices.com",
         "Heading": "Savage",
         "Abstract": null,
@@ -261,8 +261,8 @@
     },
     {
         "link": "https://fulfill.com",
-        "Heading": "Fulfill.com | Get Matched with Your Perfect 3PL \u2013 2,800+ Warehouses",
-        "Abstract": "Find your perfect 3PL for free. Fulfill.com matches eCommerce brands with the best-fit fulfillment providers from a network of 2,800+ warehouses.",
+        "Heading": "Fulfill.com | Get Matched with Your Perfect 3PL",
+        "Abstract": "Find your perfect 3PL for free. Compare 2,800+ fulfillment warehouses by location, specialty and service, then get matched with your best fit.",
         "Official Site": "https://fulfill.com",
         "Icon": "https://ncikkakkwnvhywlwiyye.supabase.co/storage/v1/object/public/site-assets/621c94d9cedd7b30384e60aa/63c17da6eb168a7fd6217db0_Banner-Design-Design-1.png",
         "Redirect": "https://fulfill.com",
@@ -293,11 +293,11 @@
         "link": "https://normandyvillagehall.org",
         "Heading": "Ils Casino | Evoucher 15\u20ac D\u00e9p\u00f4t et Casino 15 Depot",
         "Abstract": "Bienvenue sur ils casino. Profitez de l'offre evoucher 15 depot casino et d\u00e9couvrez les avantages du casino 15 depot ton en France.",
-        "Official Site": "http://198.37.112.93/",
+        "Official Site": "https://198.37.112.93/",
         "Icon": "https://fr-iledecasinos.com/wp-content/uploads/2026/02/ile-de-casino-en-ligne-france.webp",
-        "Redirect": "http://198.37.112.93/",
+        "Redirect": "https://198.37.112.93/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://198.37.112.93/"
+        "AbstractURL": "https://198.37.112.93/"
     },
     {
         "link": "https://darkmarketlinkspro.com",

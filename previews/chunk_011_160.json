@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://fiqhcouncil.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://fiqhcouncil.org",
-        "Icon": "data:;",
-        "Redirect": "https://fiqhcouncil.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fiqhcouncil.org"
-    },
-    {
         "link": "https://skainteractive.com",
         "Heading": "SKA Brand Development - Ag\u00eancia de comunica\u00e7\u00e3o integrada no Porto",
         "Abstract": "COMUNICA\u00c7\u00c3O INTEGRADA | ESTRAT\u00c9GIAS DE COMUNICA\u00c7\u00c3O QUE OTIMIZAM A GEST\u00c3O DAS MARCAS. | PUBLICIDADE. BRANDING. DESIGN. WEBDESIGN. ATIVA\u00c7\u00c3O DE MARCA. EVENTOS |",
@@ -78,6 +68,16 @@
         "Redirect": "https://www.kotal-trade.si",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.kotal-trade.si"
+    },
+    {
+        "link": "https://thedigitalwalters.org",
+        "Heading": "The Digital Walters",
+        "Abstract": "Enim rutrum senectus gravida ipsum pharetra ante fusce, praesent vulputate hac fringilla sit interdum, adipiscing cursus malesuada commodo eros tristique. Magnis porttitor rhoncus venenatis feugiat phasellus consectetur nostra rutrum, ridiculus platea hendrerit curae nascetur turpis semper bibendum netus, metus ut urna mi lectus auctor justo. Lorem Ipsum is simply dummy text of the printing and [\u2026]",
+        "Official Site": "https://art.thewalters.org/interior-page/",
+        "Icon": "https://art.thewalters.org/wp-content/uploads/2022/10/facebook_logo.jpg",
+        "Redirect": "https://art.thewalters.org/interior-page/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://art.thewalters.org/interior-page/"
     },
     {
         "link": "https://straussborrelli.com",
@@ -220,11 +220,21 @@
         "AbstractURL": "https://www.mashupmom.com/"
     },
     {
+        "link": "https://veevashare.com",
+        "Heading": "Veeva Share",
+        "Abstract": null,
+        "Official Site": "https://veevashare.com",
+        "Icon": "N/A",
+        "Redirect": "https://veevashare.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://veevashare.com"
+    },
+    {
         "link": "https://heimkino.de",
         "Heading": "Heimkino kaufen: 4K Beamer, Laser TV & Leinw\u00e4nde | HEIMKINO.de",
         "Abstract": "Online Heimkino Fachhandel - Gro\u00dfe Auswahl \u25b7 AV-Receiver, Beamer, Lautsprecher und Leinw\u00e4nde \u2713 Top Beratung \u2713 Hohe Verf\u00fcgbarkeit \u2713 Bester Preis.",
         "Official Site": "https://www.heimkino.de/",
-        "Icon": "http://www.heimkino.de/cdn/shop/files/Heimkino_Logo_2025_Startseite_6c72221a-06c7-4af9-9b0d-da5b1df9bc65.png?crop=center&height=1200&v=1764844054&width=1200",
+        "Icon": "https://www.heimkino.de/cdn/shop/files/Heimkino_Logo_2025_Startseite_6c72221a-06c7-4af9-9b0d-da5b1df9bc65.png?crop=center&height=1200&v=1764844054&width=1200",
         "Redirect": "https://www.heimkino.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.heimkino.de/"

@@ -203,11 +203,11 @@
         "link": "https://u-ping.co.kr",
         "Heading": "\uc720\ud551(U-PING) - \uacf5\uc2dd \uc628\ub77c\uc778 \uc2a4\ud1a0\uc5b4",
         "Abstract": "\uc720\ud551\uc740 \uc804\uc138\uacc4 \uc5b4\ub514\uc5d0\ub3c4 \uc5c6\ub294 \uc644\uc804\ud55c \ud2f0\uc154\uce20 \ub77c\uc778\uc758 \uc0dd\uc0b0\uacf5\uae09\uc744 \ubaa9\ud45c\ub85c \ud558\ub294, \ud2f0\uc154\uce20 \uadf8\uc790\uccb4\uc778 \ube0c\ub79c\ub4dc\uc785\ub2c8\ub2e4",
-        "Official Site": "https://u-ping.co.kr/",
+        "Official Site": "https://www.u-ping.co.kr/",
         "Icon": "N/A",
-        "Redirect": "https://u-ping.co.kr/",
+        "Redirect": "https://www.u-ping.co.kr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://u-ping.co.kr/"
+        "AbstractURL": "https://www.u-ping.co.kr/"
     },
     {
         "link": "https://pugbot.net",
@@ -218,6 +218,16 @@
         "Redirect": "https://pugbot.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pugbot.net"
+    },
+    {
+        "link": "https://osaka-wedding.jp",
+        "Heading": "\u30d6\u30d3\u30f3\u30ac | \u30d6\u30d3\u30f3\u30ac\u30d0\u30a4\u30ca\u30ea\u30fc\u306e\u7279\u5fb4\u3068\u8a55\u5224\u30fb\u51fa\u91d1\u62d2\u5426\u306e\u5b9f\u614b",
+        "Abstract": "\u30d6\u30d3\u30f3\u30ac\u30d0\u30a4\u30ca\u30ea\u30fc\u306e\u8a55\u5224\u3084\u672c\u7269\u304b\u3069\u3046\u304b\u3092\u691c\u8a3c\u3002\u30d6\u30d3\u30f3\u30ac\u30d0\u30a4\u30ca\u30ea\u30fc\u306e\u7279\u5fb4\u3084\u51fa\u91d1\u62d2\u5426\u306e\u5b9f\u614b\u3092\u8a73\u3057\u304f\u89e3\u8aac\u3057\u307e\u3059\u3002",
+        "Official Site": "https://osaka-wedding.jp/",
+        "Icon": "https://osaka-wedding.jp/wp-content/uploads/2025/09/cropped-Bubinga-icon-32x32.jpg",
+        "Redirect": "https://osaka-wedding.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://osaka-wedding.jp/"
     },
     {
         "link": "https://biblecenterchurch.com",

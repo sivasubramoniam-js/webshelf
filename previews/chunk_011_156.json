@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://sky4host.net",
-        "Heading": "Sky4host Network is under construction",
-        "Abstract": "VOTRE AGENCE DE MARKETING NUM\u00c9RIQUE LOCALE",
-        "Official Site": "https://sky4host.net",
-        "Icon": "https://sky4host.net/wp-content/plugins/under-construction-page/themes/images/favicon.png",
-        "Redirect": "https://sky4host.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sky4host.net"
-    },
-    {
         "link": "https://freeenergynews.com",
         "Heading": "Aviator",
         "Abstract": "The Aviator slot machine\u2714\ufe0f game lets players observe a plane take off and crash\u26a1  with a random multiplier. Players bet on the plane's takeoff and respond accordingly. Crash games employ RNGs. So there's no sure method to win (RNGs).",
@@ -18,6 +8,16 @@
         "Redirect": "https://freeenergynews.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://freeenergynews.com"
+    },
+    {
+        "link": "https://rtlnord.de",
+        "Heading": "RTL Nord: Regionale Nachrichten aus Norddeutschland",
+        "Abstract": "Aktuelle Nachrichten aus Bremen, Hamburg, Niedersachsen & Schleswig-Holstein: Mit den regionalen News von RTL Nord bleibt ihr auf dem Laufenden.",
+        "Official Site": "https://www.rtl.de/rtl-nord/",
+        "Icon": "https://www.rtl.de/rtl_logo.png",
+        "Redirect": "https://www.rtl.de/rtl-nord/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rtl.de/rtl-nord/"
     },
     {
         "link": "https://bridgechiroga.com",
@@ -58,16 +58,6 @@
         "Redirect": "https://www.espoc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.espoc.com"
-    },
-    {
-        "link": "https://engineeringtds.net.br",
-        "Heading": "Dilton dos Santos J\u00fanior \u2013 My WordPress Blog",
-        "Abstract": null,
-        "Official Site": "https://engineeringtds.net.br",
-        "Icon": "N/A",
-        "Redirect": "https://engineeringtds.net.br",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://engineeringtds.net.br"
     },
     {
         "link": "https://servusmarktplatz.com",
@@ -123,11 +113,11 @@
         "link": "https://sevenpillarsinstitute.org",
         "Heading": "The World\u2019s Only Independent Think Tank focused on Financial Ethics",
         "Abstract": "Seven Pillars Institute is The World\u2019s Only Independent Think Tank focused on Financial Ethics to better education, government, and business.",
-        "Official Site": "https://sevenpillarsinstitute.org/",
+        "Official Site": "https://www.sevenpillarsinstitute.org/",
         "Icon": "https://sevenpillarsinstitute.org/wp-content/uploads/2017/10/cropped-001-bar-chart2-01-32x32.png",
-        "Redirect": "https://sevenpillarsinstitute.org/",
+        "Redirect": "https://www.sevenpillarsinstitute.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sevenpillarsinstitute.org/"
+        "AbstractURL": "https://www.sevenpillarsinstitute.org/"
     },
     {
         "link": "https://agpguinee.com",
@@ -208,6 +198,16 @@
         "Redirect": "https://nortek.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nortek.com"
+    },
+    {
+        "link": "https://prom24.net",
+        "Heading": "\u041f\u0440\u043e\u043c\u042d\u043d\u0435\u0440\u0433\u043e\u0421\u0442\u0440\u043e\u0439",
+        "Abstract": null,
+        "Official Site": "https://project21451556.tilda.ws",
+        "Icon": "https://static.tildacdn.com/tild6139-6465-4733-b630-356632316235/Vector_3.svg",
+        "Redirect": "https://project21451556.tilda.ws",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://project21451556.tilda.ws"
     },
     {
         "link": "https://micro-fibra.ru",

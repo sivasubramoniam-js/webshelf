@@ -21,13 +21,13 @@
     },
     {
         "link": "https://lionhost.gr",
-        "Heading": "Lionhost | Web Hosting, Domain Names & Servers",
-        "Abstract": "Web hosting & Domain solutions with a proven track record of delivering efficient and effective hosting services. Expertise in website optimization and security",
-        "Official Site": "https://lionhost.gr/",
-        "Icon": "https://lionhost.gr/wp-content/uploads/2023/05/lionhost_logo.png",
-        "Redirect": "https://lionhost.gr/",
+        "Heading": "Lionhost | Web Hosting, VPS & Dedicated \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7",
+        "Abstract": "Web hosting \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 | shared hosting, VPS, Cloud VPS, dedicated server, domain .gr, Shoutcast, \u03b1\u03c0\u03cc 1\u20ac, NVMe LiteSpeed, \u03c5\u03c0\u03bf\u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7 24/7 Lionhost",
+        "Official Site": "https://lionhost.gr/?lang=el",
+        "Icon": "images/favicon-32.png",
+        "Redirect": "https://lionhost.gr/?lang=el",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lionhost.gr/"
+        "AbstractURL": "https://lionhost.gr/?lang=el"
     },
     {
         "link": "https://millardunited.com",
@@ -44,7 +44,7 @@
         "Heading": "\u9996\u9875 - \u4e9a\u4f34(\u4e0a\u6d77)\u8d38\u6613\u6709\u9650\u516c\u53f8 | \u4e9a\u4f34(\u4e0a\u6d77)\u8d38\u6613\u6709\u9650\u516c\u53f8",
         "Abstract": "\u4e9a\u4f34(\u4e0a\u6d77)\u8d38\u6613\u6709\u9650\u516c\u53f8",
         "Official Site": "https://asianpat.cn",
-        "Icon": "/assets/dist/images/favicon/favicon-32x32.png?1786503655",
+        "Icon": "/assets/dist/images/favicon/favicon-32x32.png?1786676181",
         "Redirect": "https://asianpat.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://asianpat.cn"
@@ -83,11 +83,11 @@
         "link": "https://lbm-gmbh.de",
         "Heading": "Unternehmen - LBM - Ihr Partner f\u00fcr die digitale Zukunft",
         "Abstract": "Seit \u00fcber 50 Jahren - Managed Print Services, Schadstoffarmer Toner, Druckl\u00f6sungen, technischer Support, Wartung und Beratung.",
-        "Official Site": "https://lbm-gmbh.de/",
+        "Official Site": "https://lbm-it.de/",
         "Icon": "https://lbm-it.de/wp-content/uploads/2019/06/favicon-16x16.png",
-        "Redirect": "https://lbm-gmbh.de/",
+        "Redirect": "https://lbm-it.de/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lbm-gmbh.de/"
+        "AbstractURL": "https://lbm-it.de/"
     },
     {
         "link": "https://insularium.org",
@@ -208,6 +208,16 @@
         "Redirect": "https://reviewgameworld.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://reviewgameworld.com/"
+    },
+    {
+        "link": "https://fulker.hu",
+        "Heading": "Fulker - Gasztron\u00f3miai Fogy\u00f3eszk\u00f6z\u00f6k",
+        "Abstract": "t\u00e1ny\u00e9r, poh\u00e1r, gasztron\u00f3mia, fogy\u00f3eszk\u00f6z, fulker, l\u00e1bas, faz\u00e9k, porcel\u00e1n, boros",
+        "Official Site": "https://fulker.hu",
+        "Icon": "http://lh3.googleusercontent.com/7vaWDt3pjg0lNDM9aeJsut8xpZufOMa5RrTZDZI_dfN_Q_cHRHGkeSQCq5DP_NqxxdiUTGqCtMFtY7cFLI4=s1200",
+        "Redirect": "https://fulker.hu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fulker.hu"
     },
     {
         "link": "https://skyprox.ru",

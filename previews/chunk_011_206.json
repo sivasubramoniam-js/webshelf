@@ -110,14 +110,14 @@
         "AbstractURL": "https://www.kaitaku.or.jp"
     },
     {
-        "link": "https://bridgebr.com",
-        "Heading": null,
+        "link": "https://unblinkingeye.com",
+        "Heading": "Unblinking Eye - photography, darkroom, alternative process, historic photographic processes, travel",
         "Abstract": null,
-        "Official Site": "https://bridgebr.com",
-        "Icon": "data:;",
-        "Redirect": "https://bridgebr.com",
+        "Official Site": "https://unblinkingeye.com",
+        "Icon": "N/A",
+        "Redirect": "https://unblinkingeye.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bridgebr.com"
+        "AbstractURL": "https://unblinkingeye.com"
     },
     {
         "link": "https://caratcraft.ae",
@@ -194,7 +194,7 @@
         "Heading": "Nutrition in the Kitch - Healthy Gluten-Free And Dairy-Free Recipes",
         "Abstract": "Welcome to Nutrition in the Kitch! Find healthy gluten-free and dairy-free recipes and tips on wellness, lifestyle, and healthy travel to feel your best!",
         "Official Site": "https://nutritioninthekitch.com/",
-        "Icon": "https://cdn.nutritioninthekitch.com/wp-includes/images/media/default.png",
+        "Icon": "https://cdn.nutritioninthekitch.com/wp-includes/images/media/default.svg",
         "Redirect": "https://nutritioninthekitch.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nutritioninthekitch.com/"
@@ -258,6 +258,16 @@
         "Redirect": "https://512162.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://512162.com"
+    },
+    {
+        "link": "https://venturaspharma.it",
+        "Heading": "Home | Ventura's pharma",
+        "Abstract": "Riscopri il tuo benessere con Ventura\u2019s Pharma La tua parafarmacia di fiducia per una vasta gamma di prodotti e servizi dedicati alla tua salute e al tuo",
+        "Official Site": "https://venturaspharma.it/",
+        "Icon": "https://venturaspharma.it/wp-content/uploads/2023/09/medicine01.png",
+        "Redirect": "https://venturaspharma.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://venturaspharma.it/"
     },
     {
         "link": "https://cyrushosting.com",

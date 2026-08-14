@@ -94,7 +94,7 @@
         "Heading": "\u0412\u0435\u0431-c\u0442\u0443\u0434\u0438\u044f SkeekS (\u0421\u043a\u0438\u043a\u0421) \u2014 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430, \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u0432 \u0417\u0435\u043b\u0435\u043d\u043e\u0433\u0440\u0430\u0434\u0435, \u041c\u043e\u0441\u043a\u0432\u0435 \u0438 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438.",
         "Abstract": "\u0421\u0442\u0443\u0434\u0438\u044f SkeekS (\u0421\u043a\u0438\u043a\u0421) \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u043e\u0439, \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435\u043c \u0438 \u0440\u0430\u0441\u043a\u0440\u0443\u0442\u043a\u043e\u0439 \u0441\u0430\u0439\u0442\u043e\u0432 \u0432 \u0417\u0435\u043b\u0435\u043d\u043e\u0433\u0440\u0430\u0434\u0435, \u041c\u043e\u0441\u043a\u0432\u0435 \u0438 \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438. \u0410 \u0442\u0430\u043a \u0436\u0435 \u0440\u0435\u043a\u043b\u0430\u043c\u043e\u0439 \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0435.",
         "Official Site": "https://skeeks.com/",
-        "Icon": "/assets/69503633/favicon.ico?v=1786432021",
+        "Icon": "/assets/5a27c7b6/favicon.ico?v=1786538689",
         "Redirect": "https://skeeks.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://skeeks.com/"
@@ -118,6 +118,16 @@
         "Redirect": "https://folderly.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://folderly.com/"
+    },
+    {
+        "link": "https://toplogic.in",
+        "Heading": "Toplogic - Coming Soon",
+        "Abstract": null,
+        "Official Site": "https://toplogic.in",
+        "Icon": "N/A",
+        "Redirect": "https://toplogic.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://toplogic.in"
     },
     {
         "link": "https://ukpir.ru",
@@ -181,10 +191,10 @@
     },
     {
         "link": "https://thegroup.com.qa",
-        "Heading": "\u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 - \u0627\u0644\u0623\u0633\u0639\u0627\u0631",
-        "Abstract": "\u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 - \u0627\u0644\u0623\u0633\u0639\u0627\u0631",
+        "Heading": "The Group",
+        "Abstract": "The Group Provides online trading platform. Place buy and sell orders at any time. Watch the real-time market data feed",
         "Official Site": "https://thegroup.com.qa",
-        "Icon": "/favicon.ico",
+        "Icon": "https://thegroup.com.qa/pwa/images/icons/apple-icon-57x57.png",
         "Redirect": "https://thegroup.com.qa",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thegroup.com.qa"
@@ -211,10 +221,10 @@
     },
     {
         "link": "https://myjobhelperalerts.com",
-        "Heading": "reCAPTCHA",
-        "Abstract": null,
+        "Heading": "MyJobHelper.com: We can help you hire faster.",
+        "Abstract": "Meet the Fastest Growing Job Site in America. Learn how MyJobHelper helps job boards, agencies and employers attract top talent in over 15 different countries.",
         "Official Site": "https://myjobhelperalerts.com",
-        "Icon": "N/A",
+        "Icon": "https://media.myjobhelper.com/img/myjobhelper/myjobhelper.ico",
         "Redirect": "https://myjobhelperalerts.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myjobhelperalerts.com"

@@ -40,16 +40,6 @@
         "AbstractURL": "https://msite.co.il/"
     },
     {
-        "link": "https://viagrajpill.net",
-        "Heading": "\uace8\ub4dc\ubabd\ub9b4\uac8c\uc784 \ucd5c\uc2e0 \ubc84\uc804\uc5d0\uc11c \ucd94\uac00\ub41c \ubcf4\ub108\uc2a4 \ubaa8\ub4dc\uc640 \ub9b4\uac8c\uc784\uc0ac\uc774\ud2b8 \uc5f0\ub3d9 \uae30\ub2a5 \uc18c\uac1c",
-        "Abstract": "\uace8\ub4dc\ubabd\ub9b4\uac8c\uc784 \ucd5c\uc2e0 \ubc84\uc804\uc5d0\uc11c \ucd94\uac00\ub41c \ubcf4\ub108\uc2a4 \ubaa8\ub4dc\uc640 \ub9b4\uac8c\uc784\uc0ac\uc774\ud2b8 \uc5f0\ub3d9 \uae30\ub2a5 \uc18c\uac1c",
-        "Official Site": "https://viagrajpill.net",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://viagrajpill.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://viagrajpill.net"
-    },
-    {
         "link": "https://tvviet.xyz",
         "Heading": "Welcome to nginx!",
         "Abstract": null,
@@ -68,16 +58,6 @@
         "Redirect": "https://easyacc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://easyacc.com"
-    },
-    {
-        "link": "https://smartwebhosts.co.uk",
-        "Heading": "Smart Web Hosts ",
-        "Abstract": null,
-        "Official Site": "https://smartwebhosts.co.uk",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://smartwebhosts.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://smartwebhosts.co.uk"
     },
     {
         "link": "https://giantibis.com",
@@ -191,10 +171,10 @@
     },
     {
         "link": "https://sportscentral.ph",
-        "Heading": "Sports Central Apparel | Sports Store Philippines",
+        "Heading": "Sports Central Apparel | Sports Store Philippines\n  \n  \n  ",
         "Abstract": "Looking for the best sports apparel in the Philippines? Look no further than Sports Central! We've got everything you need to stay active and look your best.",
         "Official Site": "https://sportscentral.ph/",
-        "Icon": "http://sportscentral.ph/cdn/shop/files/Sports_Central_New_Logo_aece4376-962a-43ed-88e1-1e0bc4dcf3d8_1200x1200.png?v=1696583587",
+        "Icon": "N/A",
         "Redirect": "https://sportscentral.ph/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sportscentral.ph/"
@@ -234,7 +214,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://grunethalvick.sbs",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://grunethalvick.sbs",
         "AbstractSource": "BS4",
         "AbstractURL": "https://grunethalvick.sbs"

@@ -23,11 +23,11 @@
         "link": "https://cpceer.org.ar",
         "Heading": "Consejo Profesional de Ciencias Econ\u00f3micas de Entre R\u00edos | CPCEER",
         "Abstract": "Inf\u00f3rmate y gestiona tu profesi\u00f3n con recursos actuales del Consejo Profesional de Ciencias Econ\u00f3micas de Entre R\u00edos.",
-        "Official Site": "https://cpceer.org.ar/",
-        "Icon": "https://cpceer.org.ar/sites/default/files/default_images/Cpceer.png",
-        "Redirect": "https://cpceer.org.ar/",
+        "Official Site": "https://www.cpceer.org.ar/",
+        "Icon": "https://www.cpceer.org.ar/sites/default/files/default_images/Cpceer.png",
+        "Redirect": "https://www.cpceer.org.ar/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cpceer.org.ar/"
+        "AbstractURL": "https://www.cpceer.org.ar/"
     },
     {
         "link": "https://zoiru.tech",
@@ -150,6 +150,16 @@
         "AbstractURL": "https://www.tomsnetworking.com/"
     },
     {
+        "link": "https://ofiaula.com",
+        "Heading": "Librer\u00eda Papiros, en Granada",
+        "Abstract": "Librer\u00eda Papiros, amplio surtido web en libros y papeler\u00eda en Granada. Servicio online 24/48 Horas",
+        "Official Site": "https://ofiaula.com",
+        "Icon": "https://www.ofiaula.com/es/archivos/171/favicon.png",
+        "Redirect": "https://ofiaula.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ofiaula.com"
+    },
+    {
         "link": "https://hyvinvointiala.fi",
         "Heading": "Hyvinvointiala Hali ry",
         "Abstract": "Hali edustaa sote-alan yrityksi\u00e4 ja j\u00e4rjest\u00f6j\u00e4. Neuvottelemme alan ty\u00f6ehtosopimukset ja valvomme j\u00e4sentemme etuja.",
@@ -228,6 +238,16 @@
         "Redirect": "https://tenhavidafit.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tenhavidafit.com"
+    },
+    {
+        "link": "https://breachlevelindex.com",
+        "Heading": "Cyber Security Solutions | Thales",
+        "Abstract": "The world relies on Thales to protect and secure access to your most sensitive data and software wherever created, shared or stored. Building an encryption strategy, licensing software, providing trusted access to the cloud, or meeting compliance mandates, you can rely on Thales to secure your digital transformation.",
+        "Official Site": "https://breachlevelindex.com",
+        "Icon": "https://cpl.thalesgroup.com/sites/default/files/content/og/Thales-CPL-OG.jpg",
+        "Redirect": "https://breachlevelindex.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://breachlevelindex.com"
     },
     {
         "link": "https://hollywoodschaukel-paradies.de",

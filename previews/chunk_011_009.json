@@ -71,13 +71,13 @@
     },
     {
         "link": "https://worldwidecompanieslist.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://worldwidecompanieslist.com",
-        "Icon": "N/A",
-        "Redirect": "https://worldwidecompanieslist.com",
+        "Heading": "Worldwide Companies List",
+        "Abstract": "Worldwide Company List, Classified Search Directory, Company Search",
+        "Official Site": "https://worldwidecompanieslist.com/",
+        "Icon": "/assets/website/image/siteicon.png",
+        "Redirect": "https://worldwidecompanieslist.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://worldwidecompanieslist.com"
+        "AbstractURL": "https://worldwidecompanieslist.com/"
     },
     {
         "link": "https://worstjokesever.com",
@@ -188,6 +188,16 @@
         "Redirect": "https://wpsco.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wpsco.com"
+    },
+    {
+        "link": "https://wrfl.fm",
+        "Heading": "WRFL \u2013 88.1 FM \u2013 Lexington, KY",
+        "Abstract": "WRFL Lexington: Your only alternative left. Stream now!",
+        "Official Site": "https://wrfl.fm",
+        "Icon": "https://dj.wrfl.fm/static/wrfl-website-icon.png",
+        "Redirect": "https://wrfl.fm",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wrfl.fm"
     },
     {
         "link": "https://wrfydt.lol",

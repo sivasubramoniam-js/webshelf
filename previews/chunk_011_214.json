@@ -134,7 +134,7 @@
         "Heading": "Independent fuel debt advice \u2013 British Gas Energy Trust",
         "Abstract": "Struggling with the rising price of energy? The British Gas Energy Trust can help with fuel and money advice no matter who your supplier is.",
         "Official Site": "https://britishgasenergytrust.org.uk/",
-        "Icon": "https://britishgasenergytrust.org.uk/wp-content/themes/britishgasenergytrust/img/favicon.ico",
+        "Icon": "https://britishgasenergytrust.org.uk/wp-content/uploads/2026/08/logo.png",
         "Redirect": "https://britishgasenergytrust.org.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://britishgasenergytrust.org.uk/"
@@ -210,6 +210,16 @@
         "AbstractURL": "https://www.imaprotect.com/"
     },
     {
+        "link": "https://neuesgymnasium.de",
+        "Heading": "\n                    IServ - neuesgymnasium.de\n            ",
+        "Abstract": null,
+        "Official Site": "https://neuesgymnasium.de",
+        "Icon": "/iserv/css/static/icons/android-chrome-192x192.fc2f37a3.png",
+        "Redirect": "https://neuesgymnasium.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://neuesgymnasium.de"
+    },
+    {
         "link": "https://backpackadventures.org",
         "Heading": null,
         "Abstract": null,
@@ -228,15 +238,5 @@
         "Redirect": "https://rubyfacilities.co.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rubyfacilities.co.in"
-    },
-    {
-        "link": "https://alternative-therapies.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://alternative-therapies.com",
-        "Icon": "data:;",
-        "Redirect": "https://alternative-therapies.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://alternative-therapies.com"
     }
 ]

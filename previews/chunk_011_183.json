@@ -40,6 +40,16 @@
         "AbstractURL": "https://www.hickelsoft.de/wp/"
     },
     {
+        "link": "https://ouriginal.com",
+        "Heading": "Ouriginal: Turnitin's latest product overview",
+        "Abstract": "Explore Turnitin Similarity as a trusted alternative to Ouriginal, with LMS integration, detailed reports, and academic integrity support.",
+        "Official Site": "https://ouriginal.com",
+        "Icon": "https://www.turnitin.com/assets/images/resources/open-graph-page-images/default-turnitin-image.png",
+        "Redirect": "https://ouriginal.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ouriginal.com"
+    },
+    {
         "link": "https://jrocknews.com",
         "Heading": "JROCK NEWS \u2014 Japanese Rock Music News",
         "Abstract": "Japanese Rock Music & Visual Kei News",
@@ -118,16 +128,6 @@
         "Redirect": "https://www.bigbinary.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bigbinary.com"
-    },
-    {
-        "link": "https://battlefield-3.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://battlefield-3.com",
-        "Icon": "N/A",
-        "Redirect": "https://battlefield-3.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://battlefield-3.com"
     },
     {
         "link": "https://twadh.com",
@@ -248,5 +248,15 @@
         "Redirect": "https://simpletiger.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://simpletiger.com"
+    },
+    {
+        "link": "https://0adz.com",
+        "Heading": "Continue...",
+        "Abstract": null,
+        "Official Site": "https://0adz.com",
+        "Icon": "N/A",
+        "Redirect": "https://0adz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://0adz.com"
     }
 ]

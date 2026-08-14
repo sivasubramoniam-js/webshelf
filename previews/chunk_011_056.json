@@ -80,6 +80,16 @@
         "AbstractURL": "https://gerband.de"
     },
     {
+        "link": "https://backtracks.fm",
+        "Heading": "The Media Intelligence and Infrastructure Platform for Audio and Podcasts | Backtracks",
+        "Abstract": "Backtracks helps audio publishers, advertisers, and platforms better understand their audiences, optimize their content, and maximize their revenue.",
+        "Official Site": "https://backtracks.fm",
+        "Icon": "https://backtracks.fm/static/site/img/og-image-en.png",
+        "Redirect": "https://backtracks.fm",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://backtracks.fm"
+    },
+    {
         "link": "https://functionalmedicinecoaching.org",
         "Heading": "Functional Medicine Training & Health Coach Certification",
         "Abstract": "Health Coaching Certification with the only program designed and delivered in collaboration with The Institute for Functional Medicine.",
@@ -142,7 +152,7 @@
     {
         "link": "https://postkomsg.com",
         "Heading": "postkomsg.com",
-        "Abstract": "Find information, resources and relevant links for postkomsg.com. This domain may be for sale.",
+        "Abstract": null,
         "Official Site": "https://postkomsg.com",
         "Icon": "N/A",
         "Redirect": "https://postkomsg.com",
@@ -158,16 +168,6 @@
         "Redirect": "https://sitesmistral.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sitesmistral.com.br"
-    },
-    {
-        "link": "https://acmllc.com",
-        "Heading": "Apply for a Mortgage Online - Atlantic Coast Mortgage",
-        "Abstract": "From mortgage application to closing, we'll guide you through a simple, easy, and stress-free mortgage process. Apply online or visit a branch.",
-        "Official Site": "https://www.atlanticcoastmortgage.com/",
-        "Icon": "https://www.atlanticcoastmortgage.com/wp-content/uploads/acm-general-page-post-share-image.jpg",
-        "Redirect": "https://www.atlanticcoastmortgage.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.atlanticcoastmortgage.com/"
     },
     {
         "link": "https://moskva-kiski.com",
@@ -208,6 +208,16 @@
         "Redirect": "https://www.mediadesign.de/de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mediadesign.de/de"
+    },
+    {
+        "link": "https://idioticideas.net",
+        "Heading": "Welcome! | WWW.IDIOTICIDEAS.COM",
+        "Abstract": null,
+        "Official Site": "https://idioticideas.net",
+        "Icon": "/core/misc/favicon.ico",
+        "Redirect": "https://idioticideas.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://idioticideas.net"
     },
     {
         "link": "https://funkagroove.fr",

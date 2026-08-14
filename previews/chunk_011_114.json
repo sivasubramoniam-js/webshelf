@@ -84,7 +84,7 @@
         "Heading": "iret.media | KDDI\u30a2\u30a4\u30ec\u30c3\u30c8\u682a\u5f0f\u4f1a\u793e\u304c\u904b\u55b6\u3059\u308b\u6280\u8853\u60c5\u5831\u6e80\u8f09\u306e\u30e1\u30c7\u30a3\u30a2",
         "Abstract": "\u300eiret.media\u300f\u306f\u3001KDDI\u30a2\u30a4\u30ec\u30c3\u30c8\u682a\u5f0f\u4f1a\u793e\u304c\u904b\u55b6\u3059\u308b\u30aa\u30a6\u30f3\u30c9\u30e1\u30c7\u30a3\u30a2\u3067\u3059\u3002\u300c\u6280\u8853\u306b\u6311\u6226\u3057\u3066\u3044\u308bKDDI\u30a2\u30a4\u30ec\u30c3\u30c8\u682a\u5f0f\u4f1a\u793e\u3060\u304b\u3089\u3001\u4ef2\u9593\u3068\u4e00\u7dd2\u306b\u201c\u308f\u304f\u308f\u304f\u201d\u3067\u304d\u308b\u3002\u3053\u306e\u201c\u60f3\u3044\u201d\u3092\u4e16\u306e\u4e2d\u306b\u4f1d\u3048\u305f\u3044\uff01\u300d\u3092\u30e2\u30c3\u30c8\u30fc\u306b\u3001\u6700\u65b0\u6280\u8853\u30c8\u30ec\u30f3\u30c9\u30fb\u89e3\u8aac\u3001\u5b9f\u8df5\u7684\u306a\u6280\u8853\u30ce\u30a6\u30cf\u30a6\u3001\u793e\u54e1\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3084\u798f\u5229\u539a\u751f\u30fb\u793e\u5185\u5236\u5ea6\u306e\u7d39\u4ecb\u306a\u3069\u3001\u5e45\u5e83\u3044\u5185\u5bb9\u3067\u60c5\u5831\u767a\u4fe1\u3057\u3066\u3044\u304d\u307e\u3059\u3002",
         "Official Site": "https://iret.media",
-        "Icon": "https://iret.media/wp-content/themes/clp_media/img/common/ogp-thumbnail_1200x630.png?135792468",
+        "Icon": "https://iret.media/wp-content/themes/clp_media/img/common/ogp-thumbnail_1200x630.png",
         "Redirect": "https://iret.media",
         "AbstractSource": "BS4",
         "AbstractURL": "https://iret.media"
@@ -200,6 +200,16 @@
         "AbstractURL": "https://rveducationalinstitutions.com"
     },
     {
+        "link": "https://igipusat.id",
+        "Heading": "SLOT777 | Portal Link Bandar Situs Slot Gacor Agen SLOT88 Online Resmi Maxwin Gampang Menang Malam Ini",
+        "Abstract": "337SPORTS ialah portal link bandar terbesar situs slot gacor malam ini yang sudah di nominasikan sebagai agen SLOT88 resmi online menyediakan permainan slot maxwin gampang menang hari ini via depo 10k QRIS kilat.",
+        "Official Site": "https://igipusat.id/",
+        "Icon": "https://cdn.global-contentcloud.com/337sports/fav.png",
+        "Redirect": "https://igipusat.id/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://igipusat.id/"
+    },
+    {
         "link": "https://xent.com",
         "Heading": "Rohit Khare",
         "Abstract": null,
@@ -230,14 +240,44 @@
         "AbstractURL": "https://gavec.de"
     },
     {
+        "link": "https://inginfinitive.pt",
+        "Heading": "Welcome - ing infinitive concepts",
+        "Abstract": null,
+        "Official Site": "https://www.inginfinitive.pt/",
+        "Icon": "https://inginfinitive.pt/wp-content/uploads/2016/01/favicon-3.png",
+        "Redirect": "https://www.inginfinitive.pt/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.inginfinitive.pt/"
+    },
+    {
         "link": "https://kulturserver-nrw.de",
         "Heading": "Home",
         "Abstract": null,
         "Official Site": "/de_DE/home",
-        "Icon": "https://imgtoolkit.culturebase.org?color=ffffff&quality=9&ar_method=rescaleIn&ar_ratio=0.67&file=https%3A%2F%2Fimg.culturebase.org%2Fb%2F9%2Ff%2Fc%2Fa%2Fpic_1786106755_b9fca437805e369324572a2c54837faf.jpeg&do=rescaleIn&width=1280&height=720",
+        "Icon": "https://imgtoolkit.culturebase.org?color=ffffff&quality=9&ar_method=rescaleIn&ar_ratio=0.67&file=https%3A%2F%2Fimg.culturebase.org%2F3%2F1%2F1%2F4%2F0%2Fpic_1754554582_31140444ce460cc0428ad5edcf95674c.jpeg&do=rescaleIn&width=1280&height=720",
         "Redirect": "/de_DE/home",
         "AbstractSource": "BS4",
         "AbstractURL": "/de_DE/home"
+    },
+    {
+        "link": "https://vogtpartner.li",
+        "Heading": "Vogt & Partner Verm\u00f6gensverwaltung | Vogt & Partner Verm\u00f6gensverwaltung",
+        "Abstract": "Vogt & Partner Verm\u00f6gensverwaltung ist ein unabh\u00e4ngiger Verm\u00f6gensverwalter in Liechtenstein. Profitieren Sie von unserer Erfahrung und Expertise.",
+        "Official Site": "https://www.vogtpartner.li/",
+        "Icon": "/vogt_sharebild.jpg",
+        "Redirect": "https://www.vogtpartner.li/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.vogtpartner.li/"
+    },
+    {
+        "link": "https://oilquick.de",
+        "Heading": "OilQuick | IMPROVE YOUR MACHINE - BE BETTER",
+        "Abstract": null,
+        "Official Site": "https://oilquick.de",
+        "Icon": "/wp-content/favicon/favicon-32x32.png",
+        "Redirect": "https://oilquick.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://oilquick.de"
     },
     {
         "link": "https://baptisthost.net",

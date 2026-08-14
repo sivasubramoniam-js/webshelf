@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://specialneedsjungle.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://specialneedsjungle.com",
-        "Icon": "data:;",
-        "Redirect": "https://specialneedsjungle.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://specialneedsjungle.com"
-    },
-    {
         "link": "https://sew.ai",
         "Heading": "SEW.AI Global Energy & Water Platform\u200b",
         "Abstract": "Smart Energy Water, with its innovative and industry-leading cloud platforms is connecting people with water and energy providers.",
@@ -51,13 +41,13 @@
     },
     {
         "link": "https://azfreenews.com",
-        "Heading": "AZ FREE NEWS - Your #1 Source for Arizona News & Politics!",
-        "Abstract": "AZ FREE NEWS - Your #1 Source for Arizona News & Politics!",
-        "Official Site": "https://azfreenews.com/",
-        "Icon": "https://azfreenews.com/wp-content/uploads/2021/09/cropped-favicon-32x32.jpg",
-        "Redirect": "https://azfreenews.com/",
+        "Heading": "You are being redirected...",
+        "Abstract": null,
+        "Official Site": "https://azfreenews.com",
+        "Icon": "N/A",
+        "Redirect": "https://azfreenews.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://azfreenews.com/"
+        "AbstractURL": "https://azfreenews.com"
     },
     {
         "link": "https://getl.cc",
@@ -170,16 +160,6 @@
         "AbstractURL": "https://precisionzone.net"
     },
     {
-        "link": "https://eserproperty.com.au",
-        "Heading": "Eser Property",
-        "Abstract": null,
-        "Official Site": "https://eserproperty.com.au",
-        "Icon": "https://eserproperty.com.au/wp-content/uploads/2026/06/logo-150x120.png",
-        "Redirect": "https://eserproperty.com.au",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eserproperty.com.au"
-    },
-    {
         "link": "https://returntoorder.org",
         "Heading": "Return to Order - The Moral Solution to the Economic Crisis",
         "Abstract": "The Man-Made Water Crisis in California That No One Wants to Fix California officials are saying that the massive storms have not solved the drought problem. T",
@@ -210,11 +190,21 @@
         "AbstractURL": "https://moondogdev.com"
     },
     {
+        "link": "https://helpdan.com",
+        "Heading": "Help Dan",
+        "Abstract": null,
+        "Official Site": "https://helpdan.com",
+        "Icon": "N/A",
+        "Redirect": "https://helpdan.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://helpdan.com"
+    },
+    {
         "link": "https://paginasmonterrey.com",
         "Heading": "Relief Academy",
         "Abstract": "Aprende a automatizar, crecer y escalar tu negocio con IA. Cursos, acompa\u00f1amiento y nuevas estrategias cada semana.",
         "Official Site": "https://paginasmonterrey.com",
-        "Icon": "https://assets.skool.com/f/24f37a3490004350a2dba5196d9259f2/18885ddf4da44c8c94f55dfa88e1a839216366a25fae4c7c9c22ea42a5556007.jpg",
+        "Icon": "https://assets.skool.com/f/24f37a3490004350a2dba5196d9259f2/ec8d6c349a6646a3a6fef76603518d51293359684f3543bb9229b81fe5d32e1b.jpg",
         "Redirect": "https://paginasmonterrey.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://paginasmonterrey.com"

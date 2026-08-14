@@ -120,16 +120,6 @@
         "AbstractURL": "https://stevemcconnell.com/"
     },
     {
-        "link": "https://netolease.co.il",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://netolease.co.il",
-        "Icon": "data:;",
-        "Redirect": "https://netolease.co.il",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://netolease.co.il"
-    },
-    {
         "link": "https://thefifthcity.wiki",
         "Heading": "The Fifth City Wiki",
         "Abstract": null,
@@ -213,11 +203,11 @@
         "link": "https://actiontaimanin.net",
         "Heading": "Action Taimanin",
         "Abstract": "Official website for Action Taimanin, an intense, gorgeous hack-and-slash action RPG from the Taimanin fame! Check out our Facebook page for latest news and information.",
-        "Official Site": "https://www.actiontaimanin.net",
+        "Official Site": "https://www.actiontaimanin.net/",
         "Icon": "https://www.actiontaimanin.net/theme/basic/img/opimg.jpg",
-        "Redirect": "https://www.actiontaimanin.net",
+        "Redirect": "https://www.actiontaimanin.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.actiontaimanin.net"
+        "AbstractURL": "https://www.actiontaimanin.net/"
     },
     {
         "link": "https://mclane.com",

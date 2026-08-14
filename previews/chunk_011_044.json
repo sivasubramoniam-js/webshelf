@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.graygroupintl.com"
     },
     {
-        "link": "https://thecircular.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://thecircular.org",
-        "Icon": "data:;",
-        "Redirect": "https://thecircular.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thecircular.org"
-    },
-    {
         "link": "https://innoveo.com",
         "Heading": "Innoveo | Transform Insurance Workflows with Innoveo\u2019s Configurable SaaS Solutions",
         "Abstract": "Discover Innoveo's Swiss-engineered SaaS platform, enabling faster time to market and seamless user experiences. Schedule a demo today.",
@@ -58,16 +48,6 @@
         "Redirect": "https://votefwd.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://votefwd.org"
-    },
-    {
-        "link": "https://tekkaleyapi.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://tekkaleyapi.com",
-        "Icon": "data:;",
-        "Redirect": "https://tekkaleyapi.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tekkaleyapi.com"
     },
     {
         "link": "https://elcamellosupply.com",
@@ -108,6 +88,16 @@
         "Redirect": "https://doga.no/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://doga.no/"
+    },
+    {
+        "link": "https://bicartel.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bicartel.com",
+        "Icon": "N/A",
+        "Redirect": "https://bicartel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bicartel.com"
     },
     {
         "link": "https://seetrol.com",
@@ -154,7 +144,7 @@
         "Heading": "sternalia productora de actividades culturales, cient\u00edficas, gastron\u00f3micas, eventos privados en espacios singulares",
         "Abstract": "sternalia empresa organizadora de eventos y actividades culturales, cient\u00edficas y gastron\u00f3micas en Barcelona, Catalu\u00f1a.",
         "Official Site": "https://www.sternalia.com/",
-        "Icon": "https://www.sternalia.com/xtra/imgs/favicon.png?24504258711",
+        "Icon": "https://m.sternalia.com/xtra/imgs/favicon.png?24504270037",
         "Redirect": "https://www.sternalia.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sternalia.com/"
@@ -198,6 +188,26 @@
         "Redirect": "https://www.calgarytower.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.calgarytower.com"
+    },
+    {
+        "link": "https://carrierclasswifi.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://carrierclasswifi.com",
+        "Icon": "N/A",
+        "Redirect": "https://carrierclasswifi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://carrierclasswifi.com"
+    },
+    {
+        "link": "https://balletaz.org",
+        "Heading": "Ballet Arizona Homepage | Ballet Arizona",
+        "Abstract": "Join us as we inspire, entertain and educate the Arizona community through performances, dedicated events and ballet training.",
+        "Official Site": "https://balletaz.org/",
+        "Icon": "https://balletaz.org/wp-content/uploads/2023/07/Ballet-Feature-image.png",
+        "Redirect": "https://balletaz.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://balletaz.org/"
     },
     {
         "link": "https://hearaon.co.kr",
