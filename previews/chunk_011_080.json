@@ -71,10 +71,10 @@
     },
     {
         "link": "https://txdataentry.com",
-        "Heading": "Employer Services Portal",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://txdataentry.com",
-        "Icon": "assets/layout/images/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://txdataentry.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://txdataentry.com"
@@ -98,16 +98,6 @@
         "Redirect": "https://www.airportels.asia/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.airportels.asia/"
-    },
-    {
-        "link": "https://fiservmw.net",
-        "Heading": "NetScaler AAA",
-        "Abstract": null,
-        "Official Site": "https://fiservmw.net",
-        "Icon": "N/A",
-        "Redirect": "https://fiservmw.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fiservmw.net"
     },
     {
         "link": "https://aruzeglobal.com",

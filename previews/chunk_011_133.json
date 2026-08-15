@@ -170,6 +170,16 @@
         "AbstractURL": "https://www.alblasserdam.nl/Inwoners"
     },
     {
+        "link": "https://cufos.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://cufos.org",
+        "Icon": "data:;",
+        "Redirect": "https://cufos.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cufos.org"
+    },
+    {
         "link": "https://cookie-checker.com",
         "Heading": "Check which cookies a site uses - Cookie-checker.com",
         "Abstract": "Cookie-checker.com checks the cookies from a site and gives a full free report on the purpose of each cookie. A perfect tool to check whether a site obeys the GDPR.",
@@ -228,6 +238,16 @@
         "Redirect": "https://www.ambfurniture.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ambfurniture.com/"
+    },
+    {
+        "link": "https://sdgc.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sdgc.com",
+        "Icon": "data:;",
+        "Redirect": "https://sdgc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sdgc.com"
     },
     {
         "link": "https://nordicals.dk",

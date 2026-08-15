@@ -71,8 +71,8 @@
     },
     {
         "link": "https://hispaser.com",
-        "Heading": "InnovaSoft Iberia - Subir Facturas",
-        "Abstract": null,
+        "Heading": "HISPASER | Servicios y Soluciones Tecnol\u00f3gicas",
+        "Abstract": "Consultor\u00eda inform\u00e1tica, ciberseguridad, redes, hosting, desarrollo web, programaci\u00f3n, IA, telecomunicaciones e I+D.",
         "Official Site": "https://hispaser.com",
         "Icon": "N/A",
         "Redirect": "https://hispaser.com",
@@ -128,6 +128,16 @@
         "Redirect": "https://defenceforchildren.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://defenceforchildren.nl/"
+    },
+    {
+        "link": "https://womeningames.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://womeningames.org",
+        "Icon": "data:;",
+        "Redirect": "https://womeningames.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://womeningames.org"
     },
     {
         "link": "https://doingdadstuff.com",

@@ -70,14 +70,14 @@
         "AbstractURL": "https://penz-elektronik.de"
     },
     {
-        "link": "https://songma.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://songma.com",
-        "Icon": "N/A",
-        "Redirect": "https://songma.com",
+        "link": "https://injuryrelief.com",
+        "Heading": "Texas Injury Lawyers Delivering Life-Changing Results - Grossman Law",
+        "Abstract": "Grossman Law provides you with experienced legal support, uncovering the truth so you can achieve clarity, accountability, justice, and closure.",
+        "Official Site": "https://www.injuryrelief.com/",
+        "Icon": "https://www.injuryrelief.com/wp-content/uploads/2025/11/Grossman-Logo-Blue-Bkg.png",
+        "Redirect": "https://www.injuryrelief.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://songma.com"
+        "AbstractURL": "https://www.injuryrelief.com/"
     },
     {
         "link": "https://eksctl.io",
@@ -88,6 +88,16 @@
         "Redirect": "https://eksctl.io",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eksctl.io"
+    },
+    {
+        "link": "https://miscellanynews.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://miscellanynews.org",
+        "Icon": "data:;",
+        "Redirect": "https://miscellanynews.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://miscellanynews.org"
     },
     {
         "link": "https://nodei.co",
@@ -174,7 +184,7 @@
         "Heading": "WSM Radio - 650 AM WSM",
         "Abstract": "650 AM WSM is Nashville's original country music radio station, and storied founder of the Grand Ole Opry.",
         "Official Site": "https://wsmradio.com/",
-        "Icon": "https://wsmradio.com/wp-content/uploads/sites/10/2026/08/WSM_Cat10_Contest.jpg?w=1144",
+        "Icon": "https://wsmradio.com/wp-content/uploads/sites/10/2025/05/WSM-Site-Home-Image_796d5f.png?w=600",
         "Redirect": "https://wsmradio.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wsmradio.com/"

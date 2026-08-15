@@ -10,16 +10,6 @@
         "AbstractURL": "2jfh29f.com"
     },
     {
-        "link": "https://2nd27.band",
-        "Heading": "2nd27",
-        "Abstract": "2nd27 is a band",
-        "Official Site": "https://2nd27.band/",
-        "Icon": "https://img1.wsimg.com/isteam/ip/c370ebfa-30fb-4952-ad92-5e4d2d0120ae/thumbnails/thumbnail-5fa0ce3e-e619-4bdb-acfb-772b46d835fb.png",
-        "Redirect": "https://2nd27.band/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://2nd27.band/"
-    },
-    {
         "link": "https://2ndyear.nuresults.bd",
         "Heading": "NU Result 2nd Year 2026 - www.nu.ac.bd result",
         "Abstract": "NU Result 2nd Year 2026 has been Released. Check your Results through the National University Website www.nu.ac.bd result.",
@@ -51,10 +41,10 @@
     },
     {
         "link": "https://2ubitoto.com",
-        "Heading": "UBITOTO",
-        "Abstract": "UBITOTO merupakan platform resmi penyedia permainan terlengkap dengan kualitas yang terbaik",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://2ubitoto.com",
-        "Icon": "/assets/img/bsl/favicon.png?v=butsfxrucn1wetjhf2l6",
+        "Icon": "N/A",
         "Redirect": "https://2ubitoto.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://2ubitoto.com"
@@ -94,7 +84,7 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://3231x.com",
-        "Icon": "",
+        "Icon": "./static/images/favicon.ico",
         "Redirect": "https://3231x.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://3231x.com"

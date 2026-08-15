@@ -270,14 +270,24 @@
         "AbstractURL": "https://www.visitbarharbor.com/?editable=true"
     },
     {
-        "link": "https://642weather.com",
-        "Heading": "Long Beach Weather - Live Weather, Webcam, & Tides | Long Beach, WA USA - Long Beach Weather",
-        "Abstract": "Live, local weather for Long Beach, WA USA 98631. Includes live webcam, radar, forecast, tides, and weather information.",
-        "Official Site": "https://642weather.com/weather/",
-        "Icon": "https://www.642weather.com/weather/logo/share-card.png",
-        "Redirect": "https://642weather.com/weather/",
+        "link": "https://boxline.com",
+        "Heading": "boxline | Startseite | Transportboxen Kunststoffbeh\u00e4lter von boxline.com",
+        "Abstract": "Transportboxen und Kunststoffbeh\u00e4lter direkt beim Hersteller kaufen. Nestbare Beh\u00e4lter und Faltboxen von Walther Faltsysteme. Hier w\u00e4hlen Kunden zwischen diversen Boxen und Transportkisten - Jetzt Bestellen oder Anfrage stellen.",
+        "Official Site": "https://www.boxline.com/",
+        "Icon": "https://www.boxline.com/out/wave/img/basket.png",
+        "Redirect": "https://www.boxline.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://642weather.com/weather/"
+        "AbstractURL": "https://www.boxline.com/"
+    },
+    {
+        "link": "https://642weather.com",
+        "Heading": "Mobile Live Weather Conditions - Long Beach, WA 98631",
+        "Abstract": "Fast, mobile-friendly live weather, wind, and local forecasts for Long Beach, WA 98631. On-the-go updates.",
+        "Official Site": "https://www.642weather.com/weather/mobile/index.php",
+        "Icon": "https://www.642weather.com/weather/logo/share-card.png",
+        "Redirect": "https://www.642weather.com/weather/mobile/index.php",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.642weather.com/weather/mobile/index.php"
     },
     {
         "link": "https://indymotion.fr",

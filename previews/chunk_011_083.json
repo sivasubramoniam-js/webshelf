@@ -50,16 +50,6 @@
         "AbstractURL": "https://minhost.no/"
     },
     {
-        "link": "https://geographicsolutions.com",
-        "Heading": "\n\tCompany\n",
-        "Abstract": "Geographic Solutions is a leading provider of workforce development software and solutions, specializing in labor market information, job search tools, and career development. Enhance efficiency and economic development with our innovative technology for state and local agencies.",
-        "Official Site": "https://geographicsolutions.com",
-        "Icon": "N/A",
-        "Redirect": "https://geographicsolutions.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://geographicsolutions.com"
-    },
-    {
         "link": "https://hola-vpn.com",
         "Heading": null,
         "Abstract": "Stream, shop, play - no matter where in the world you are!",
@@ -130,6 +120,16 @@
         "AbstractURL": "https://boggio.net"
     },
     {
+        "link": "https://12ndr.at",
+        "Heading": "12ndr.at - Home",
+        "Abstract": "Willkommen auf der Website des 1 Stockerauer Beachvolleyballvereins \"Die Zw\u00f6lfender 00\"",
+        "Official Site": "https://12ndr.at",
+        "Icon": "/images/23593511_10155979876128474_8796891738383543714_o_2.png",
+        "Redirect": "https://12ndr.at",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://12ndr.at"
+    },
+    {
         "link": "https://decadepulsepty.co.za",
         "Heading": "Decade Pulse Pty Ltd \u2013 For All Your Corporate & Logistical Solutions",
         "Abstract": null,
@@ -188,6 +188,16 @@
         "Redirect": "https://ecommerce-platforms.com/articles/ecommerce-store-design",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ecommerce-platforms.com/articles/ecommerce-store-design"
+    },
+    {
+        "link": "https://peakradar.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://peakradar.com",
+        "Icon": "data:;",
+        "Redirect": "https://peakradar.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://peakradar.com"
     },
     {
         "link": "https://adstrackingdia.com",

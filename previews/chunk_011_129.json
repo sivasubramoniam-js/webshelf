@@ -4,7 +4,7 @@
         "Heading": "\uc18d\ubcf4) \ub274\ud1a0\ub07c/\ub9c8\ub098\ud1a0\ub07c/\ubd81\ud1a0\ub07c \uc11c\ube44\uc2a4 \uc885\ub8cc",
         "Abstract": "\ub274\ud1a0\ub07c \ubb34\ub8cc \ub9cc\ud654 \uc0ac\uc774\ud2b8",
         "Official Site": "https://webtoki.org",
-        "Icon": "https://i.imgur.com/WO3jbo2.png",
+        "Icon": "https://i.imgur.com/Bhj6yse.png",
         "Redirect": "https://webtoki.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://webtoki.org"
@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.avant-verlag.de/"
     },
     {
+        "link": "https://rodzina.gov.pl",
+        "Heading": "Ministerstwo Rodziny, Pracy i Polityki Spo\u0142ecznej - Portal Gov.pl",
+        "Abstract": null,
+        "Official Site": "https://www.gov.pl/web/rodzina",
+        "Icon": "https://www.gov.pl/img/fb_share_ogp.jpg",
+        "Redirect": "https://www.gov.pl/web/rodzina",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gov.pl/web/rodzina"
+    },
+    {
         "link": "https://diltexbrands.com",
         "Heading": "Inicio | Diltex Brands",
         "Abstract": null,
@@ -38,6 +48,16 @@
         "Redirect": "https://diltexbrands.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://diltexbrands.com"
+    },
+    {
+        "link": "https://banklandmark.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://banklandmark.com",
+        "Icon": "data:;",
+        "Redirect": "https://banklandmark.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://banklandmark.com"
     },
     {
         "link": "https://teropa.info",

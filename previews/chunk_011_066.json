@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://mrsteam.com",
-        "Heading": "Home | Steam Shower Generators Controls Accessories | MrSteam",
-        "Abstract": "MrSteam manufactures state-of-the-art steam shower systems and steam shower accessories that transform residential and commercial steam bathing experiences.",
-        "Official Site": "https://mrsteam.com",
-        "Icon": "/media/3345/favicon.ico",
-        "Redirect": "https://mrsteam.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mrsteam.com"
-    },
-    {
         "link": "https://biorama.eu",
         "Heading": "BIORAMA - Magazin f\u00fcr nachhaltigen Lebensstil",
         "Abstract": "Biorama steht f\u00fcr einen nachhaltigen Lifestyle und bewussten Lebenswandel. Es ist eine moderne Plattform f\u00fcr Ideen, Menschen und Produkte, ein Leitfaden im schnell wachsenden Markt des Handels mit Bioprodukten, des Fair-Trade sowie der Branche alternativer Energien.",
@@ -38,6 +28,16 @@
         "Redirect": "https://art-volzhskiy.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://art-volzhskiy.ru/"
+    },
+    {
+        "link": "https://simplesend.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://simplesend.com",
+        "Icon": "data:;",
+        "Redirect": "https://simplesend.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://simplesend.com"
     },
     {
         "link": "https://mydiginest.com",
@@ -192,12 +192,12 @@
     {
         "link": "https://klipsmedia.ro",
         "Heading": "Klipsprint DESIGN Bistrita - Servicii print digital,publicitate,promotionale si web design",
-        "Abstract": null,
-        "Official Site": "https://klipsmedia.ro/",
+        "Abstract": "Oferim servicii de print digital Bistrita,promotionale,web design bistrita si servicii de host",
+        "Official Site": "https://www.klipsmedia.ro/",
         "Icon": "/images/favicon.ico",
-        "Redirect": "https://klipsmedia.ro/",
+        "Redirect": "https://www.klipsmedia.ro/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://klipsmedia.ro/"
+        "AbstractURL": "https://www.klipsmedia.ro/"
     },
     {
         "link": "https://anytube.xyz",

@@ -120,6 +120,16 @@
         "AbstractURL": "https://certcoinc.com/"
     },
     {
+        "link": "https://eyeglasseswarehouse.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://eyeglasseswarehouse.com",
+        "Icon": "data:;",
+        "Redirect": "https://eyeglasseswarehouse.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eyeglasseswarehouse.com"
+    },
+    {
         "link": "https://rehrigpacific.com",
         "Heading": " Industry Leaders In Waste, Recycling, And Supply Chain Solutions",
         "Abstract": "Rehrig Pacific is an industry leader in pallets, waste and recycling containers, supply chain solutions and direct store delivery solutions.",
@@ -128,16 +138,6 @@
         "Redirect": "https://rehrigpacific.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rehrigpacific.com"
-    },
-    {
-        "link": "https://islamoriente.com",
-        "Heading": "islamoriente | El sitio m\u00e1s grande de informaciones isl\u00e1micas en idioma espa\u00f1ol",
-        "Abstract": "islam El sitio m\u00e1s grande de informaciones isl\u00e1micas en idioma espa\u00f1ol islam oriente.",
-        "Official Site": "https://islamoriente.com",
-        "Icon": "https://islamoriente.com/sites/default/files/22222_0.png",
-        "Redirect": "https://islamoriente.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://islamoriente.com"
     },
     {
         "link": "https://insiderkit.io",
@@ -154,7 +154,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://edgecdnc.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://edgecdnc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://edgecdnc.com"
@@ -241,8 +241,8 @@
     },
     {
         "link": "https://slocumstudio.com",
-        "Heading": "Web Design & SEO | SouthCoast MA | Slocum Studio",
-        "Abstract": "SouthCoast MA web design & SEO \u2014 Slocum Studio builds WordPress websites for Massachusetts businesses with local SEO and ongoing support",
+        "Heading": "Web Design SouthCoast MA & WordPress Agency | Slocum Studio",
+        "Abstract": "Slocum Studio delivers custom web design SouthCoast MA businesses rely on. Fast WordPress builds, AEO, and local search visibility.",
         "Official Site": "https://slocumstudio.com/",
         "Icon": "https://slocumstudio.com/wp-content/uploads/2023/01/SWAN-250X200-LOGO-150x150.png",
         "Redirect": "https://slocumstudio.com/",

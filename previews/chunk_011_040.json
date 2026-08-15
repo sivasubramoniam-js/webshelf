@@ -190,16 +190,6 @@
         "AbstractURL": "https://bvnghean.vn"
     },
     {
-        "link": "https://cropprotectionnetwork.org",
-        "Heading": "Crop Protection Network",
-        "Abstract": "This the Crop Protection Network home page.",
-        "Official Site": "https://cropprotectionnetwork.org",
-        "Icon": "/favicon-32x32.png",
-        "Redirect": "https://cropprotectionnetwork.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cropprotectionnetwork.org"
-    },
-    {
         "link": "https://dnscity.ru",
         "Heading": "DNS \u0421\u0438\u0442\u0438 \u2014 \u041d\u043e\u0432\u0430\u044f \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a\u0430",
         "Abstract": " \u0421\u0430\u043c\u044b\u0439 \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u044b\u0439 \u0447\u0430\u0441\u0442\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u043e\u0433\u043e \u043e\u0441\u0432\u043e\u0435\u043d\u0438\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0432 \u041f\u0440\u0438\u043c\u043e\u0440\u044c\u0435. ",
@@ -218,16 +208,6 @@
         "Redirect": "https://hightext.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hightext.de"
-    },
-    {
-        "link": "https://1476cult.com",
-        "Heading": "+1476+",
-        "Abstract": "official website for the art rock band and musical project 1476, based out of Salem, Massachusetts.",
-        "Official Site": "https://1476cult.com/",
-        "Icon": "N/A",
-        "Redirect": "https://1476cult.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://1476cult.com/"
     },
     {
         "link": "https://flynter.eu",
@@ -288,6 +268,16 @@
         "Redirect": "https://www.medoc-atlantique.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.medoc-atlantique.com/"
+    },
+    {
+        "link": "https://floridaorchestra.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://floridaorchestra.org",
+        "Icon": "data:;",
+        "Redirect": "https://floridaorchestra.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://floridaorchestra.org"
     },
     {
         "link": "https://fijngevoeligzijn.nl",

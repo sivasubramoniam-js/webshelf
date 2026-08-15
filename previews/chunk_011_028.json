@@ -50,16 +50,6 @@
         "AbstractURL": "https://zhitongle.com"
     },
     {
-        "link": "https://zhizuotu.com",
-        "Heading": "\u56fe\u7247\u538b\u7f29\u5728\u7ebf\u5904\u7406\uff08jpg\u3001gif\u3001png\uff09\u65e0\u635f\u538b\u7f2990%-\u5236\u4f5c\u56fe",
-        "Abstract": "\u5236\u4f5c\u56fe\u662f\u5728\u7ebf\u56fe\u7247\u538b\u7f29\u5de5\u5177\uff0c\u652f\u6301GIF\u538b\u7f29\u3001PNG\u538b\u7f29\u3001JPG\u538b\u7f29\uff0c\u8fd8\u53ef\u4ee5\u5728\u7ebf\u56fe\u7247\u52a0\u6c34\u5370\u3001\u56fe\u7247\u65cb\u8f6c\u3001\u8bc1\u4ef6\u7167\u538b\u7f29\u3001\u56fe\u7247\u6539\u50cf\u7d20\u5927\u5c0f\u3001\u56fe\u7247\u6dfb\u52a0\u6587\u5b57\u3001\u56fe\u7247\u53bb\u5e95\u8272\u3001\u8bc1\u4ef6\u7167\u6362\u5e95\u8272\u3001\u8f6c\u6362\u683c\u5f0f\u3001\u56fe\u7247\u52a0\u8fb9\u6846\u3001\u5236\u4f5c\u4e00\u5bf8\u3001\u4e24\u5bf8\u8bc1\u4ef6\u7167\u7b49",
-        "Official Site": "https://zhizuotu.com",
-        "Icon": "https://www.zhizuotu.com/images/zhizuotu_logo.jpg",
-        "Redirect": "https://zhizuotu.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://zhizuotu.com"
-    },
-    {
         "link": "https://zhongheschool.com",
         "Heading": null,
         "Abstract": null,
@@ -118,6 +108,16 @@
         "Redirect": "https://zhub.link/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zhub.link/"
+    },
+    {
+        "link": "https://zhujiaji.com",
+        "Heading": "\u4e3a\u7535\u5f71\u7231\u597d\u8005\u63d0\u4f9b\u72ec\u7279\u7684\u5728\u7ebf\u89c2\u770b\u4f53\u9a8c_\u9996\u64ad\u5f71\u9662",
+        "Abstract": "\u60f3\u8981\u514d\u8d39\u5728\u7ebf\u89c2\u770b\u9ad8\u6e05\u5927\u7247\u5417\uff1f\u6765\u8fd9\u91cc\u5c31\u5bf9\u4e86\uff0c\u6211\u4eec\u6536\u96c6\u4e86\u6d77\u91cf\u70ed\u64ad\u5f71\u89c6\u8d44\u6e90\uff0c\u4e3a\u7535\u5f71\u7231\u597d\u8005\u63d0\u4f9b\u72ec\u7279\u7684\u5728\u7ebf\u89c2\u770b\u4f53\u9a8c\uff0c\u7edd\u5bf9\u662f\u60a8\u770b\u5267\u7684\u9996\u9009\uff0c\u8fd9\u91cc\u5c31\u662f\u9996\u64ad\u5f71\u9662\u3002",
+        "Official Site": "https://zhujiaji.com",
+        "Icon": "N/A",
+        "Redirect": "https://zhujiaji.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zhujiaji.com"
     },
     {
         "link": "https://zhujipai.cloud",

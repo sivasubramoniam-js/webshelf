@@ -40,6 +40,16 @@
         "AbstractURL": "https://qlarityaccess.com"
     },
     {
+        "link": "https://qlsd.hanam.vietec.vn",
+        "Heading": "Qu\u1ea3n tr\u1ecb h\u1ec7 th\u1ed1ng",
+        "Abstract": null,
+        "Official Site": "https://qlsd.hanam.vietec.vn",
+        "Icon": "../scripts/assets/img/eos2.png",
+        "Redirect": "https://qlsd.hanam.vietec.vn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://qlsd.hanam.vietec.vn"
+    },
+    {
         "link": "https://qp2kn3rd.com",
         "Heading": null,
         "Abstract": "\ud83d\udd25Indique 1 amigo = Ganhe R$60.77 + at\u00e9 5% de comiss\u00e3o \n\ud83d\udcb0Entre todos os dias e ganhe R$598 de b\u00f4nus em dobro",
@@ -294,7 +304,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://quarterbackdisturbing.com",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
         "Redirect": "https://quarterbackdisturbing.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://quarterbackdisturbing.com"
