@@ -10,6 +10,16 @@
         "AbstractURL": "https://www.planetfantasy.be/en_GB"
     },
     {
+        "link": "https://gongda-cnc.com",
+        "Heading": "\u661f\u7a7a\u5f71\u9662-\u6700\u65b0\u7535\u5f71,\u597d\u770b\u7684\u7535\u5f71,\u9ad8\u6e05\u7535\u5f71,\u6700\u65b0\u7535\u5f71\u514d\u8d39\u5728\u7ebf\u89c2\u770b",
+        "Abstract": "\u661f\u7a7a\u5f71\u9662\u662f\u4e00\u4e2a\u66f4\u65b0\u6700\u5feb\u7684\u514d\u8d39\u5728\u7ebf\u770b\u7535\u89c6\u5267\u7684\u7f51\u7ad9\uff0c\u63d0\u4f9b\u6700\u65b0\u70ed\u64ad\u7535\u89c6\u5267\u5927\u5168\u3001\u6700\u65b0\u70ed\u95e8\u7535\u5f71\u5927\u7247\u514d\u8d39\u64ad\u653e\uff0c\u6bcf\u5929\u7b2c\u4e00\u65f6\u95f4\u66f4\u65b0\u6700\u65b0\u597d\u770b\u7684\u70ed\u95e8\u7535\u89c6\u5267\u7535\u5f71\u3001\u52a8\u6f2b\u3001\u7efc\u827a\u89c6\u9891\u7b49\u8d44\u6e90.",
+        "Official Site": "https://gongda-cnc.com",
+        "Icon": "N/A",
+        "Redirect": "https://gongda-cnc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gongda-cnc.com"
+    },
+    {
         "link": "https://mrwheeler.uk",
         "Heading": "Pauls Home",
         "Abstract": null,
@@ -18,16 +28,6 @@
         "Redirect": "https://mrwheeler.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mrwheeler.uk"
-    },
-    {
-        "link": "https://doctorulmeu.md",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://doctorulmeu.md",
-        "Icon": "N/A",
-        "Redirect": "https://doctorulmeu.md",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://doctorulmeu.md"
     },
     {
         "link": "https://phin.org.uk",
@@ -220,16 +220,6 @@
         "AbstractURL": "https://brijrathi.com"
     },
     {
-        "link": "https://aef.com",
-        "Heading": "Home - ANA Educational Foundation",
-        "Abstract": "The ANA Educational Foundation (AEF) is a non-profit acting as the bridge connecting the marketing, advertising and academic communities.",
-        "Official Site": "https://aef.com/",
-        "Icon": "https://aef.com/wp-content/themes/aef/img/favicon/android-icon-192x192.png",
-        "Redirect": "https://aef.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aef.com/"
-    },
-    {
         "link": "https://cardly.net",
         "Heading": "Send Personalised Cards Online | Card Delivery | Cardly",
         "Abstract": "Send a beautiful, handwritten card to a loved one without lifting a pen. Cards posted same day! Free shipping within the UK, US, Australia, Canada & Europe.",
@@ -271,13 +261,13 @@
     },
     {
         "link": "https://daralgeria.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://daralgeria.com",
-        "Icon": "data:;",
-        "Redirect": "https://daralgeria.com",
+        "Heading": "Home Default - Dar Algeria",
+        "Abstract": "Bienvenue chez Dar Algeria Le N\u00b01 des Annonces Immobili\u00e8res en Alg\u00e9rie \ud83c\udde9\ud83c\uddff Tous Achat Location Locations Vacances Promotions Je cherche Commercial \u2013 Bureau \u2013 MagasinGarage/ParkingR\u00e9sidentiel \u2013 Appartement \u2013 Condo \u2013 Maison individuelle \u2013 Maison multifamiliale \u2013 Studio \u2013 VillaTerrain Localisation Toutes les villesA\u00efn Be\u00efdaAlgerAnnabaBatnaB\u00e9charB\u00e9ja\u00efaBiskraBlidaBordj Bou ArreridjBousaadaChlefConstantineDjelfaEl EulmaEl OuedGharda\u00efaGuelmaJijelKhenchelaLaghouatM'SilaMascaraM\u00e9d\u00e9aMostaganemOranOuarglaRelizaneSa\u00efdaS\u00e9tifSidi bel Abb\u00e8sSkikdaSouk AhrasT\u00e9bessaTiaretTizi OuzouTlemcenTouggourt Pi\u00e8ces Pi\u00e8ces12345678910N\u2019importe lequel [\u2026]",
+        "Official Site": "https://daralgeria.com/",
+        "Icon": "https://daralgeria.com/wp-content/uploads/2016/03/043-592x444.jpg",
+        "Redirect": "https://daralgeria.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://daralgeria.com"
+        "AbstractURL": "https://daralgeria.com/"
     },
     {
         "link": "https://reduxtoolkit.com",

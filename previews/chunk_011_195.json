@@ -31,13 +31,13 @@
     },
     {
         "link": "https://herbnoori.com",
-        "Heading": "\ucc9c\uc5f0\ud654\uc7a5\ud488\uc7ac\ub8cc \uc804\ubb38\uc1fc\ud551\ubab0 \ud5c8\ube0c\ub204\ub9ac\u2661",
-        "Abstract": "\ud5c8\ube0c\ub204\ub9ac\uc758 \uc544\uc8fc \uc26c\uc6b4 \ub808\uc2dc\ud53c \ud5c8\ube0c\ub204\ub9ac\uc758 \uc544\uc8fc \uc26c\uc6b4 \ub808\uc2dc\ud53c",
-        "Official Site": "https://www.herbnoori.com/",
+        "Heading": "\ud5c8\ube0c\ub204\ub9ac",
+        "Abstract": "\ucc9c\uc5f0\ud654\uc7a5\ud488\uc7ac\ub8cc \uc804\ubb38\uc1fc\ud551\ubab0 \ud5c8\ube0c\ub204\ub9ac",
+        "Official Site": "https://www.herbnoori.com/m/index.html",
         "Icon": "https://www.herbnoori.com/shopimages/herbnoori/facebookimg.gif",
-        "Redirect": "https://www.herbnoori.com/",
+        "Redirect": "https://www.herbnoori.com/m/index.html",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.herbnoori.com/"
+        "AbstractURL": "https://www.herbnoori.com/m/index.html"
     },
     {
         "link": "https://hethongdientuht.com",
@@ -180,6 +180,16 @@
         "AbstractURL": "https://sellmmo.vn/"
     },
     {
+        "link": "https://spoteam.gr",
+        "Heading": "\u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03ac \u03a1\u03bf\u03cd\u03c7\u03b1 \u03a0\u03b1\u03c0\u03bf\u03cd\u03c4\u03c3\u03b9\u03b1 \u0391\u03be\u03b5\u03c3\u03bf\u03c5\u03ac\u03c1 \u03ba\u03b1\u03b9 \u0395\u03be\u03bf\u03c0\u03bb\u03b9\u03c3\u03bc\u03cc\u03c2 \u039f\u03bc\u03ac\u03b4\u03c9\u03bd - Spoteam.gr - Spot Team",
+        "Abstract": "\u03a3\u03c4\u03bf Spoteam.gr \u03b8\u03b1 \u03b2\u03c1\u03b5\u03b9\u03c2 \u03bc\u03af\u03b1 \u03c4\u03b5\u03c1\u03ac\u03c3\u03c4\u03b9\u03b1 \u03b3\u03ba\u03ac\u03bc\u03b1 \u03b1\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03c1\u03bf\u03cd\u03c7\u03c9\u03bd, \u03c0\u03b1\u03c0\u03bf\u03c5\u03c4\u03c3\u03b9\u03ce\u03bd \u03b1\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 sneakers, \u03b1\u03be\u03b5\u03c3\u03bf\u03c5\u03ac\u03c1 \u03c0\u03c1\u03bf\u03c0\u03cc\u03bd\u03b7\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03b3\u03c5\u03bc\u03bd\u03b1\u03c3\u03c4\u03b7\u03c1\u03af\u03bf\u03c5 \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03b5\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03be\u03bf\u03c0\u03bb\u03b9\u03c3\u03bc\u03cc \u03cc\u03bc\u03ac\u03b4\u03c9\u03bd",
+        "Official Site": "https://www.spoteam.gr",
+        "Icon": "https://www.spoteam.gr/uploads/media/logo/favico/android-icon-192x192.png",
+        "Redirect": "https://www.spoteam.gr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.spoteam.gr"
+    },
+    {
         "link": "https://th4.com",
         "Heading": "Textiles, produits et services pour la personnalisation | TH4",
         "Abstract": "TH4 : plus de 200 marques textiles, vaste choix d\u2019articles publicitaires vierges ou personnalis\u00e9s, transferts et services pour la personnalisation.",
@@ -238,6 +248,16 @@
         "Redirect": "https://runawayrice.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://runawayrice.com/"
+    },
+    {
+        "link": "https://targetguru.com",
+        "Heading": "targetguru.com is for sale \u2014 Get a price in 24 hours | GoDaddy",
+        "Abstract": "targetguru.com is for sale on GoDaddy. Get a price in less than 24 hours from our domain experts.",
+        "Official Site": "https://targetguru.com",
+        "Icon": "//img6.wsimg.com/ux-assets/favicon/android-icon-192x192.png",
+        "Redirect": "https://targetguru.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://targetguru.com"
     },
     {
         "link": "https://naturalhealthsource.com",

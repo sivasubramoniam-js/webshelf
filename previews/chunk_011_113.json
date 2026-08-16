@@ -43,11 +43,21 @@
         "link": "https://multitanks.com",
         "Heading": "Raccords et vannes pour cuves destin\u00e9es \u00e0 la r\u00e9cup\u00e9ration de l'eau de pluie",
         "Abstract": "Vente de cuve et accessoires de cuve pour la r\u00e9cup\u00e9ration de l'eau de pluie. Vous trouverez \u00e9galement tout les produits, raccords et vannes n\u00e9cessaires au bon fonctionnemnt votre cuve.",
-        "Official Site": "https://www.multitanks.com/fr/",
+        "Official Site": "https://www.multitanks.com/",
         "Icon": "https://www.multitanks.com/img/favicon.ico?1758619348",
-        "Redirect": "https://www.multitanks.com/fr/",
+        "Redirect": "https://www.multitanks.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.multitanks.com/fr/"
+        "AbstractURL": "https://www.multitanks.com/"
+    },
+    {
+        "link": "https://nycompanygo.com",
+        "Heading": "New York Companies Directory",
+        "Abstract": null,
+        "Official Site": "/",
+        "Icon": "/favicon.ico",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
     },
     {
         "link": "https://ams-photo-software.com",
@@ -148,6 +158,16 @@
         "Redirect": "https://pelplin.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pelplin.pl"
+    },
+    {
+        "link": "https://scholarshipfund.org",
+        "Heading": "Children's Scholarship Fund - Scholarship Granting Organization",
+        "Abstract": "Children's Scholarship Fund is a Scholarship Granting Organization that expands educational opportunity by providing scholarships to families in need.",
+        "Official Site": "https://scholarshipfund.org/",
+        "Icon": "https://scholarshipfund.org/wp-content/uploads/2021/10/CSF-Logo-Stackedjpeg.jpg",
+        "Redirect": "https://scholarshipfund.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://scholarshipfund.org/"
     },
     {
         "link": "https://horx.com",

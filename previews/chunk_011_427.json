@@ -110,6 +110,16 @@
         "AbstractURL": "https://primbontoto.com/"
     },
     {
+        "link": "https://primebd.net",
+        "Heading": "PrimeBD",
+        "Abstract": "PrimeBD - Smart earning and server platform",
+        "Official Site": "https://primebd.net",
+        "Icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Cdefs%3E%3ClinearGradient id='bg' x1='10' y1='8' x2='118' y2='122'%3E%3Cstop stop-color='%230B172A'/%3E%3Cstop offset='0.46' stop-color='%230D9488'/%3E%3Cstop offset='1' stop-color='%2310B981'/%3E%3C/linearGradient%3E%3ClinearGradient id='pgrad' x1='36' y1='30' x2='88' y2='96'%3E%3Cstop stop-color='%23FFFFFF'/%3E%3Cstop offset='1' stop-color='%23CCFBF1'/%3E%3C/linearGradient%3E%3Cfilter id='shadow' x='-25%25' y='-25%25' width='150%25' height='150%25'%3E%3CfeDropShadow dx='0' dy='9' stdDeviation='8' flood-color='%23022C22' flood-opacity='0.35'/%3E%3C/filter%3E%3C/defs%3E%3Crect width='128' height='128' rx='34' fill='url(%23bg)'/%3E%3Cpath d='M24 22H104C111 22 116 27 116 34V94C116 101 111 106 104 106H24C17 106 12 101 12 94V34C12 27 17 22 24 22Z' fill='%23FFFFFF' fill-opacity='0.10'/%3E%3Ccircle cx='102' cy='26' r='10' fill='%235EEAD4'/%3E%3Ccircle cx='27' cy='101' r='8' fill='%23FFFFFF' fill-opacity='0.18'/%3E%3Cpath filter='url(%23shadow)' d='M39 94V34H69C84 34 94 43 94 57.5C94 72 84 81 69 81H58V94H39Z' fill='url(%23pgrad)'/%3E%3Cpath d='M58 64H67C72 64 75 61 75 57C75 53 72 50 67 50H58V64Z' fill='%230D9488'/%3E%3Cpath d='M82 87C75 93 69 96 64 98C59 96 53 93 46 87' stroke='%235EEAD4' stroke-width='5' stroke-linecap='round'/%3E%3C/svg%3E",
+        "Redirect": "https://primebd.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://primebd.net"
+    },
+    {
         "link": "https://primefoodrecipes.com",
         "Heading": "Prime Food",
         "Abstract": null,
@@ -181,7 +191,7 @@
     },
     {
         "link": "https://prixfioul.fr",
-        "Heading": "Prix du fioul domestique aujourd'hui en France le samedi 15 ao\u00fbt 2026",
+        "Heading": "Prix du fioul domestique aujourd'hui en France le dimanche 16 ao\u00fbt 2026",
         "Abstract": "Site d'information totalement GRATUIT et INDEPENDANT sur les fournisseurs de fioul les moins chers.",
         "Official Site": "https://prixfioul.fr/",
         "Icon": "/images/logo-prixfioul.png",

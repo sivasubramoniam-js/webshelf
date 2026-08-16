@@ -60,14 +60,14 @@
         "AbstractURL": "https://jetpak.com/"
     },
     {
-        "link": "https://gehvegberlin.de",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://gehvegberlin.de",
-        "Icon": "data:;",
-        "Redirect": "https://gehvegberlin.de",
+        "link": "https://turkiyepolisemeklileri.org.tr",
+        "Heading": "POLEM",
+        "Abstract": "Yenilenen Y\u00fcz\u00fcyle...",
+        "Official Site": "https://turkiyepolisemeklileri.org.tr",
+        "Icon": "N/A",
+        "Redirect": "https://turkiyepolisemeklileri.org.tr",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gehvegberlin.de"
+        "AbstractURL": "https://turkiyepolisemeklileri.org.tr"
     },
     {
         "link": "https://themikephillipsforum.com",
@@ -161,7 +161,7 @@
     },
     {
         "link": "https://ledsshop.ru",
-        "Heading": "172.183.94.160 15.08.2026 04:48:21",
+        "Heading": "172.212.167.86 16.08.2026 04:46:36",
         "Abstract": null,
         "Official Site": "https://ledsshop.ru",
         "Icon": "data:,",
@@ -303,11 +303,21 @@
         "link": "https://thearmstradetreaty.org",
         "Heading": "Home | The Arms Trade Treaty",
         "Abstract": "This is the homepage of the website",
-        "Official Site": "https://odoo.att.recycled.cloud/",
-        "Icon": "https://odoo.att.recycled.cloud/web/image/website/1/logo?unique=29436b2",
-        "Redirect": "https://odoo.att.recycled.cloud/",
+        "Official Site": "https://www.thearmstradetreaty.org/",
+        "Icon": "https://www.thearmstradetreaty.org/web/image/website/1/logo?unique=29436b2",
+        "Redirect": "https://www.thearmstradetreaty.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://odoo.att.recycled.cloud/"
+        "AbstractURL": "https://www.thearmstradetreaty.org/"
+    },
+    {
+        "link": "https://zayna.com.tr",
+        "Heading": "Hesap Ask\u0131ya Al\u0131nd\u0131",
+        "Abstract": null,
+        "Official Site": "https://zayna.com.tr",
+        "Icon": "N/A",
+        "Redirect": "https://zayna.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zayna.com.tr"
     },
     {
         "link": "https://sminnovativesolutions.co.in",

@@ -81,13 +81,13 @@
     },
     {
         "link": "https://backonmyfeet.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://backonmyfeet.org",
-        "Icon": "data:;",
-        "Redirect": "https://backonmyfeet.org",
+        "Heading": "Disrupting Homelessness with the Power of Fitness - Back on My Feet",
+        "Abstract": "Back on My Feet combats homelessness through the power of fitness, community support and essential employment and housing resources.",
+        "Official Site": "https://backonmyfeet.org/",
+        "Icon": "https://backonmyfeet.org/wp-content/uploads/2023/05/arms-in-nyc-brooks.jpg",
+        "Redirect": "https://backonmyfeet.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://backonmyfeet.org"
+        "AbstractURL": "https://backonmyfeet.org/"
     },
     {
         "link": "https://capetrain.com",
@@ -118,6 +118,16 @@
         "Redirect": "https://off-festival.pl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://off-festival.pl/"
+    },
+    {
+        "link": "https://ferrotec.com",
+        "Heading": "Ferrotec | manufacturing advanced material, component, and system solutions for precision processes - Corporate",
+        "Abstract": "Ferrotec manufactures component, material, and system solutions for a broad range of precision products and industries. In the US, Ferrotec product offerings include ferrofluid, Ferrofluidic vacuum rotary feedthroughs, peltier thermoelectric coolers, fabricated quartz, and electron beam evaporation systems. Ferrotec has regional sales offices in Japan, China, Singapore, Europe and the USA, and offers worldwide sales and service to their international customer base.",
+        "Official Site": "https://www.ferrotec.com/",
+        "Icon": "https://www.ferrotec.com/wp-content/themes/child-corporate/favicon.ico",
+        "Redirect": "https://www.ferrotec.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ferrotec.com/"
     },
     {
         "link": "https://mun-montijo.pt",

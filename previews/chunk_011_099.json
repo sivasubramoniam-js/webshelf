@@ -21,13 +21,13 @@
     },
     {
         "link": "https://emigross.it",
-        "Heading": null,
+        "Heading": "Homepage - Emigross",
         "Abstract": null,
-        "Official Site": "https://emigross.it",
-        "Icon": "data:;",
-        "Redirect": "https://emigross.it",
+        "Official Site": "https://emigross.it/",
+        "Icon": "https://emigross.it/wp-content/uploads/2024/10/cropped-cropped-favicon-1-32x32.png",
+        "Redirect": "https://emigross.it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://emigross.it"
+        "AbstractURL": "https://emigross.it/"
     },
     {
         "link": "https://mopvpe.gov.af",
@@ -118,16 +118,6 @@
         "Redirect": "https://hostghat.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hostghat.com"
-    },
-    {
-        "link": "https://faifai.tv",
-        "Heading": "\u5feb\u5feb -FAIFAI-",
-        "Abstract": null,
-        "Official Site": "https://faifai.tv",
-        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
-        "Redirect": "https://faifai.tv",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://faifai.tv"
     },
     {
         "link": "https://rotontek.com",
