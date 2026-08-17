@@ -21,10 +21,10 @@
     },
     {
         "link": "https://kennels.com",
-        "Heading": "Kennels",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://kennels.com",
-        "Icon": "N/A",
+        "Icon": "https://storage.googleapis.com/landing_pager_public/favicons/yrpr.ico",
         "Redirect": "https://kennels.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kennels.com"
@@ -131,13 +131,23 @@
     },
     {
         "link": "https://safetyresearch.net",
-        "Heading": "Home - Safety Research & Strategies, Inc. - Safety Matters",
-        "Abstract": "Safety Research & Strategies, Inc. provides research, investigation, analysis, strategies, and advocacy on safety matters.",
-        "Official Site": "https://safetyresearch.net/",
-        "Icon": "https://safetyresearch.net/wp-content/uploads/2020/11/SafetyResearch_web_favicon_500-07-125x125.png",
-        "Redirect": "https://safetyresearch.net/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://safetyresearch.net",
+        "Icon": "data:;",
+        "Redirect": "https://safetyresearch.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://safetyresearch.net/"
+        "AbstractURL": "https://safetyresearch.net"
+    },
+    {
+        "link": "https://ingeneryi.info",
+        "Heading": "\u041f\u043e\u0440\u0442\u0430\u043b \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u0430",
+        "Abstract": "\u0422\u043e\u0440\u0433\u043e\u0432\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e-\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430. \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f, \u043c\u0430\u0440\u043a\u0435\u0442 \u0438 \u043c\u043d\u043e\u0433\u043e\u0435 \u0434\u0440\u0443\u0433\u043e\u0435.",
+        "Official Site": "https://ingeneryi.info",
+        "Icon": "/templates/v2/images/favicon.ico",
+        "Redirect": "https://ingeneryi.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ingeneryi.info"
     },
     {
         "link": "https://bionatic.com",
@@ -218,6 +228,16 @@
         "Redirect": "http://fabiusmaximus.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "http://fabiusmaximus.com/"
+    },
+    {
+        "link": "https://deep2000.ru",
+        "Heading": "\u0411\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0435 \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435 - \u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a\u0438, \u0441\u0447\u0435\u0442\u0447\u0438\u043a\u0438, \u0434\u0435\u0442\u0435\u043a\u0442\u043e\u0440\u044b \u043f\u0440\u044f\u043c\u044b\u0435 \u043f\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u0414\u0418\u0418\u041f 2000.",
+        "Abstract": "\u0414\u0418\u0418\u041f 2000 - \u044d\u0442\u043e \u043f\u0440\u044f\u043c\u044b\u0435 \u043f\u043e\u0441\u0442\u0430\u0432\u043a\u0438 \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0438 \u043e\u0444\u0438\u0441\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438. \u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a\u0438, \u0441\u0447\u0435\u0442\u0447\u0438\u043a\u0438, \u0434\u0435\u0442\u0435\u043a\u0442\u043e\u0440\u044b, \u0448\u0440\u0435\u0434\u0435\u0440\u044b, \u0441\u0435\u0439\u0444\u044b \u0438 \u043c\u043d\u043e\u0433\u043e\u0435 \u0434\u0440\u0443\u0433\u043e\u0435. 20 \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432 \u0432 \u0420\u0424, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0432 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0438 \u0438 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0435. \u0411\u043e\u043b\u0435\u0435 120 \u0434\u0438\u043b\u0435\u0440\u043e\u0432 \u0438 \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u043e\u0432.",
+        "Official Site": "https://deep2000.ru",
+        "Icon": "/favicon120.ico",
+        "Redirect": "https://deep2000.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deep2000.ru"
     },
     {
         "link": "https://listenbox.app",

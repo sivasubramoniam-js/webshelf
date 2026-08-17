@@ -11,13 +11,13 @@
     },
     {
         "link": "https://saints-angels.com",
-        "Heading": "Sound Healing Chicago | Saints & Angels \u2013 Immersive Sound Baths",
-        "Abstract": "Experience transformative sound healing in Chicago at Saints & Angels \u2014 Gold Coast / Old Town's premier sound bath studio. Private & group sessions available.",
-        "Official Site": "https://saints-angels.com/",
-        "Icon": "https://saints-angels.com/wp-content/uploads/2025/12/IMG_3798-1024x768.jpeg",
-        "Redirect": "https://saints-angels.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://saints-angels.com",
+        "Icon": "data:;",
+        "Redirect": "https://saints-angels.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://saints-angels.com/"
+        "AbstractURL": "https://saints-angels.com"
     },
     {
         "link": "https://sairibot.my.id",
@@ -223,11 +223,11 @@
         "link": "https://salondulivrebondues.fr",
         "Heading": "Page d'accueil | Salon du Livre de Bondues - M\u00e9tropole Europ\u00e9enne de Lille",
         "Abstract": "Bienvenue sur le site du Salon du Livre de Bondues - Hauts-de-France.",
-        "Official Site": "https://salondulivrebondues.fr/",
+        "Official Site": "https://salondulivrebondues.fr/?rest_route=%2F",
         "Icon": "https://salondulivrebondues.fr/sites/default/files/styles/full/public/meta-images/mini%20logo.jpg?itok=w8eeuIcP",
-        "Redirect": "https://salondulivrebondues.fr/",
+        "Redirect": "https://salondulivrebondues.fr/?rest_route=%2F",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://salondulivrebondues.fr/"
+        "AbstractURL": "https://salondulivrebondues.fr/?rest_route=%2F"
     },
     {
         "link": "https://salonotter.com",

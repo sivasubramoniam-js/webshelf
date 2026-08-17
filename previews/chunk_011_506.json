@@ -210,16 +210,6 @@
         "AbstractURL": "https://camstl.org"
     },
     {
-        "link": "https://awesome-hd.me",
-        "Heading": "Loading...",
-        "Abstract": null,
-        "Official Site": "https://awesome-hd.me",
-        "Icon": "N/A",
-        "Redirect": "https://awesome-hd.me",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://awesome-hd.me"
-    },
-    {
         "link": "https://dewacdn.club",
         "Heading": "Apache2 Ubuntu Default Page: It works",
         "Abstract": null,
@@ -251,10 +241,10 @@
     },
     {
         "link": "https://gibsoncollege.edu.et",
-        "Heading": "Gibson College \u2013 Key To Excellence",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://gibsoncollege.edu.et",
-        "Icon": "https://gibsoncollege.edu.et/wp-content/uploads/2022/04/cropped-gibsoncollegeSmallLogo@3x-32x32.png",
+        "Icon": "N/A",
         "Redirect": "https://gibsoncollege.edu.et",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gibsoncollege.edu.et"

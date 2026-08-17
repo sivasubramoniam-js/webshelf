@@ -10,6 +10,16 @@
         "AbstractURL": "https://jba-system.com"
     },
     {
+        "link": "https://jbstudy.kr",
+        "Heading": "\uc804\ubd81\uad50\uc721\uc5f0\uc218\ud3ec\ud138",
+        "Abstract": "\uc804\ubd81\uad50\uc721\uc5f0\uc218\ud3ec\ud138",
+        "Official Site": "https://jbstudy.kr",
+        "Icon": "/resource/image/favicon.ico",
+        "Redirect": "https://jbstudy.kr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jbstudy.kr"
+    },
+    {
         "link": "https://jeanne-bijoux.com",
         "Heading": "Lune Artisanale\n",
         "Abstract": "Lune Artisanale",
@@ -141,10 +151,10 @@
     },
     {
         "link": "https://jerryezefoundation.org",
-        "Heading": "Jerry Eze Foundation | Home",
-        "Abstract": "The Jerry Eze Foundation is dedicated to bringing hope, healing, and sustainable change to underserved communities through compassionate outreach, food security initiatives, and community empowerment programs",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://jerryezefoundation.org",
-        "Icon": "images/jef_logo.png",
+        "Icon": "data:;",
         "Redirect": "https://jerryezefoundation.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jerryezefoundation.org"

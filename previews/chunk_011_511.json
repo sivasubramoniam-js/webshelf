@@ -111,13 +111,13 @@
     },
     {
         "link": "https://archcuttingtools.com",
-        "Heading": "ARCH Cutting Tools \u2013 Solid round and indexable metal working and cutting tools.",
-        "Abstract": "American manufacturer of solid round and indexable metal working and cutting tools.",
-        "Official Site": "https://www.archcuttingtools.com/",
-        "Icon": "https://www.archcuttingtools.com/wp-content/uploads/favicon.png",
-        "Redirect": "https://www.archcuttingtools.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://archcuttingtools.com",
+        "Icon": "data:;",
+        "Redirect": "https://archcuttingtools.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.archcuttingtools.com/"
+        "AbstractURL": "https://archcuttingtools.com"
     },
     {
         "link": "https://possum-boutique.co.nz",
@@ -141,13 +141,23 @@
     },
     {
         "link": "https://desire-experience.com",
-        "Heading": "Desire Resorts | Couples-Only | Riviera Maya",
-        "Abstract": "Desire Riviera Maya Pearl Resort is a Couples-only all-inclusive resort, luxury suites, clothing-optional ambience, seductive theme nights & daily activities.",
-        "Official Site": "https://www.desire-experience.com/",
-        "Icon": "https://www.desire-experience.com/wp-content/uploads/2026/06/slide-home_1920x1152.jpg",
-        "Redirect": "https://www.desire-experience.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://desire-experience.com",
+        "Icon": "data:;",
+        "Redirect": "https://desire-experience.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.desire-experience.com/"
+        "AbstractURL": "https://desire-experience.com"
+    },
+    {
+        "link": "https://amycedmondson.com",
+        "Heading": "Amy C. Edmondson",
+        "Abstract": null,
+        "Official Site": "https://amycedmondson.com",
+        "Icon": "https://amycedmondson.com/wp-content/uploads/2021/07/cropped-cropped-Photo_Credit-_Evgenia_Eliseeva-scaled-2-32x32.jpg",
+        "Redirect": "https://amycedmondson.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amycedmondson.com"
     },
     {
         "link": "https://pacificislandscuba.com",
@@ -158,16 +168,6 @@
         "Redirect": "https://pacificislandscuba.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pacificislandscuba.com"
-    },
-    {
-        "link": "https://utopik.es",
-        "Heading": "UTOPIK : Dise\ufffdo/Programaci\ufffdn Web",
-        "Abstract": "",
-        "Official Site": "https://utopik.es",
-        "Icon": "favicon.ico",
-        "Redirect": "https://utopik.es",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://utopik.es"
     },
     {
         "link": "https://hexheadart.com",

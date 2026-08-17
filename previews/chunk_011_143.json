@@ -14,7 +14,7 @@
         "Heading": "Telegram: Launch @GPT4AgentsBot",
         "Abstract": "@GPT4AgentsBot \u2014 AI bot with access to Gemini, Nano Banana, and more.\t\tJoin us: @GPThelp_en\tSupport: @gptbot_support_bot",
         "Official Site": "https://gpt4agentsbot.website",
-        "Icon": "https://cdn4.telesco.pe/file/egYy2g1kvrSItavuGGTRq8qS5vs9uQ5Yg24TrbqkQVhqswW1d9uP3q0VhLjRbYjqIrSRUXzcFfa7xu1ZWb2IJZ5ExB5daJqmOxc6FQ64CV48OGPpa46DSEu08Pdf6pox6GdP2Rne7S4Qlv8Qa3u1i5J9wdqBYZjV3L7QsvIXQB9M3OAlEKNYrRo0dWy0gaNCbpKcBrXDBdUJ1nBE3jVfFMzqnDuXCkQUPsR2kn8PeEVidQzJNC0BBKT2GZFqs6E2SHPz5zBPMCoiHKoyJ2P-0LmwUkd6zdNqQRRkFCNv2IXCQqd7Q2ag10WFVrUl91VsOmYizO16AneHaJRNMF1uag.jpg",
+        "Icon": "https://cdn4.telesco.pe/file/LlDJ0CoI-ha2Gmezck9GuAsMbxKOABnXiGrAKu5vYW3H-qyJ_-dSpcd7amq89-7sa59kY_-oCtceDmb__xLfrCMIvSQUmMkuFE-sRgx0RINuijh74ReziIKomKfJWoWl6_UGLwoNoukydtiNwmtgy3PKB_eOnZ3qkYQIBDAoPP-t0lSd9QgEpCWUMfqUjil-BS2D4HuhAEWfAB6PcaW7lqUHyEUOEmEXP65-1O41FTIzCsViIKRXHXhh7906TlQSemB9ah2guT1_f6Hf9ppk8AHkV1MpHNwTMPvK56H-_l7zI-I8_SLh_Bm1RZtbIy532W6PsvXLYtHrWhIcvV7YIg.jpg",
         "Redirect": "https://gpt4agentsbot.website",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gpt4agentsbot.website"
@@ -150,16 +150,6 @@
         "AbstractURL": "https://wesemann.com"
     },
     {
-        "link": "https://kongjie.com",
-        "Heading": "\u7a7a\u59d0\u7f51 KongJie \u00b7 \u6c11\u822a\u6c42\u804c\u6210\u957f\u793e\u533a",
-        "Abstract": "\u9762\u5411\u51c6\u7a7a\u4e58\u3001\u51c6\u98de\u884c\u5b66\u5458\u7684\u5907\u8003\u7ecf\u9a8c\u4e0e\u9762\u8bd5\u771f\u9898\u793e\u533a\uff0c\u8ba4\u8bc1\u7a7a\u4e58\u4e00\u5bf9\u4e00\u5e26\u8bad\uff0c\u52a9\u4f60\u4ece\u5907\u8003\u5230\u4e0a\u5c97\u3002",
-        "Official Site": "https://kongjie.com",
-        "Icon": "N/A",
-        "Redirect": "https://kongjie.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kongjie.com"
-    },
-    {
         "link": "https://kslab.kr",
         "Heading": "KEYSTONE LAB - \ud0a4\uc2a4\ud1a4 \ub7a9",
         "Abstract": "AI \uc2dc\ub300, \uc778\uac04\uc758 \uac00\ub2a5\uc131\uc744 \uc5f0\uad6c\ud569\ub2c8\ub2e4. KEYSTONE LAB\uc740 \uc778\uac04\uc758 \uc131\uc7a5\uacfc \ucee4\ub9ac\uc5b4\ub97c \uc5f0\uad6c\ud558\ub294 \uc5f0\uad6c\uc18c\uc785\ub2c8\ub2e4.",
@@ -168,6 +158,16 @@
         "Redirect": "https://www.kslab.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.kslab.kr"
+    },
+    {
+        "link": "https://7-themes.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://7-themes.com",
+        "Icon": "data:;",
+        "Redirect": "https://7-themes.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://7-themes.com"
     },
     {
         "link": "https://outlaw-ggmbh.de",

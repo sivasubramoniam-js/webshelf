@@ -261,13 +261,13 @@
     },
     {
         "link": "https://stuartmcmillen.com",
-        "Heading": "Stuart McMillen comics - home page of cartoonist Stuart McMillen",
-        "Abstract": "Comics and cartoons on science, society, the environment and ecological sustainability. Drawn by cartoonist Stuart McMillen.",
-        "Official Site": "https://www.stuartmcmillen.com/",
-        "Icon": "/wp-content/themes/neupress/assets/images/favicon-32x32.png",
-        "Redirect": "https://www.stuartmcmillen.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://stuartmcmillen.com",
+        "Icon": "data:;",
+        "Redirect": "https://stuartmcmillen.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.stuartmcmillen.com/"
+        "AbstractURL": "https://stuartmcmillen.com"
     },
     {
         "link": "https://geffrye-museum.org.uk",
@@ -304,7 +304,7 @@
         "Heading": "John Ayrey Die-Casts - trade suppliers of collectables die cast models in various scales",
         "Abstract": "Home - John Ayrey Die-Casts is a supplier to the trade of collectable die-cast models. See our wide range of high-quality products online.",
         "Official Site": "https://ayrey.co.uk",
-        "Icon": "/favicon.ico?rnd=16082026030440",
+        "Icon": "/favicon.ico?rnd=17082026030315",
         "Redirect": "https://ayrey.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ayrey.co.uk"
@@ -318,6 +318,16 @@
         "Redirect": "https://bootsapotheek.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bootsapotheek.nl"
+    },
+    {
+        "link": "https://byotautoparts.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://byotautoparts.com",
+        "Icon": "data:;",
+        "Redirect": "https://byotautoparts.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://byotautoparts.com"
     },
     {
         "link": "https://cfc-fanpage.de",

@@ -81,20 +81,20 @@
     },
     {
         "link": "https://backonmyfeet.org",
-        "Heading": "Disrupting Homelessness with the Power of Fitness - Back on My Feet",
-        "Abstract": "Back on My Feet combats homelessness through the power of fitness, community support and essential employment and housing resources.",
-        "Official Site": "https://backonmyfeet.org/",
-        "Icon": "https://backonmyfeet.org/wp-content/uploads/2023/05/arms-in-nyc-brooks.jpg",
-        "Redirect": "https://backonmyfeet.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://backonmyfeet.org",
+        "Icon": "data:;",
+        "Redirect": "https://backonmyfeet.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://backonmyfeet.org/"
+        "AbstractURL": "https://backonmyfeet.org"
     },
     {
         "link": "https://capetrain.com",
         "Heading": "\n      Cape Cod Central Railroad | Scenic Excursions & Dining Train\n  ",
         "Abstract": "The Cape Cod Central Railroad takes guests past marshes, cranberry bogs, dunes, and other places only accessible by rail. Come explore the Cape by train!",
         "Official Site": "https://www.capetrain.com/",
-        "Icon": "https://www.capetrain.com/wp-content/uploads/sites/2321/2020/03/Dinner-Train-canal-Vincent-1-e1583348133440.jpg?w=700&h=700&zoom=2",
+        "Icon": "https://www.capetrain.com/wp-content/uploads/sites/2321/2020/05/Dan-Lowe-drone-full-rez-scaled.jpg?w=700&h=700&zoom=2",
         "Redirect": "https://www.capetrain.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.capetrain.com/"
@@ -178,16 +178,6 @@
         "Redirect": "https://techapple.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://techapple.de"
-    },
-    {
-        "link": "https://bitsafe.com",
-        "Heading": "Yoursafe - Protecting Your Identity Online",
-        "Abstract": "Your life evolves organically. Yoursafe protects your money and digital assets without compromising your true identity. Feel free to be who you want to be.",
-        "Official Site": "https://bitsafe.com",
-        "Icon": "https://www.yoursafe.com/images.v2/logo-medium-transparant.png",
-        "Redirect": "https://bitsafe.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bitsafe.com"
     },
     {
         "link": "https://theartcollection.com",

@@ -1,10 +1,10 @@
 [
     {
         "link": "https://sis.uobs.edu.pk",
-        "Heading": "UOBS Student Panel",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://sis.uobs.edu.pk",
-        "Icon": "/templates/purity_iii/favicon.ico",
+        "Icon": "data:;",
         "Redirect": "https://sis.uobs.edu.pk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sis.uobs.edu.pk"

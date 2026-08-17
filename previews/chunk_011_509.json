@@ -30,6 +30,16 @@
         "AbstractURL": "https://lamiinae.org"
     },
     {
+        "link": "https://cloudlayar.com",
+        "Heading": "DataSec \u2014 Bot Detection & Mitigation Platform",
+        "Abstract": "Real-time bot detection for websites, APIs, and mobile apps. Stop scrapers, credential stuffers, and DDoS bots without blocking Googlebot or real users.",
+        "Official Site": "https://datasec.sh/",
+        "Icon": "https://datasec.sh/images/og-default.png",
+        "Redirect": "https://datasec.sh/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://datasec.sh/"
+    },
+    {
         "link": "https://aarcs.ca",
         "Heading": "Home - AARCS",
         "Abstract": "AARCS is a leading animal welfare organization in Alberta built on a foundation of compassion and kindness.",
@@ -218,6 +228,16 @@
         "Redirect": "https://www.cambourakis.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.cambourakis.com/"
+    },
+    {
+        "link": "https://pytjzx.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pytjzx.com",
+        "Icon": "N/A",
+        "Redirect": "https://pytjzx.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pytjzx.com"
     },
     {
         "link": "https://whereincity.com",

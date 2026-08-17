@@ -31,10 +31,10 @@
     },
     {
         "link": "https://themindfulnessclinic.com.au",
-        "Heading": "The Mindfulness Clinic |  Mindfulness Keynote Speaker based in Sydney, Australia",
-        "Abstract": "Charlotte Thaarup teaches Mindfulness in the workplace, runs retreats in Australia NSW Hunter Valley, Central Coast, Sydney, NZ & is a Mindfulness keynote speaker",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://themindfulnessclinic.com.au",
-        "Icon": "https://themindfulnessclinic.com.au/wp-content/uploads/2019/08/charlotte-thaarup-mindfulness-practitioner.jpg",
+        "Icon": "data:;",
         "Redirect": "https://themindfulnessclinic.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://themindfulnessclinic.com.au"
@@ -240,6 +240,16 @@
         "AbstractURL": "https://workinggeniusaffiliate.com"
     },
     {
+        "link": "https://ricotex.online",
+        "Heading": "ricotex.online\u00a0-\u00a0ricotex Resources and Information.",
+        "Abstract": "ricotex.online is your first and best source for information about ricotex. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://ricotex.online",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://ricotex.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ricotex.online"
+    },
+    {
         "link": "https://verificationhandbook.com",
         "Heading": "Verification Handbook: homepage ",
         "Abstract": "A definitive guide to verifying digital content for emergency coverage",
@@ -253,11 +263,11 @@
         "link": "https://clan-warframe.fr",
         "Heading": "Accueil - L-Zass",
         "Abstract": "\u00a0 \u00a0",
-        "Official Site": "http://clan-warframe.fr/",
+        "Official Site": "https://clan-warframe.fr/",
         "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
-        "Redirect": "http://clan-warframe.fr/",
+        "Redirect": "https://clan-warframe.fr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://clan-warframe.fr/"
+        "AbstractURL": "https://clan-warframe.fr/"
     },
     {
         "link": "https://bedroombeethovens.com",

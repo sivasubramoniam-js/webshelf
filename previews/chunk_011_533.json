@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.gakkohoken.jp/"
     },
     {
+        "link": "https://housingcamera.com",
+        "Heading": "You are being redirected...",
+        "Abstract": null,
+        "Official Site": "https://housingcamera.com",
+        "Icon": "N/A",
+        "Redirect": "https://housingcamera.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://housingcamera.com"
+    },
+    {
         "link": "https://alphaitoregon.com",
         "Heading": "Providing world class IT Support - Alpha IT",
         "Abstract": "HIGH-TECH, HIGH-TOUCH SOLUTIONS Enterprise SupportDISCOVER MOREWE SCALE WITH YOU AS YOUR COMPANY NEEDS GROWSmart Business SolutionsDISCOVER MORECUSTOM SOLUT ...",
@@ -68,16 +78,6 @@
         "Redirect": "https://jazz935.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jazz935.org"
-    },
-    {
-        "link": "https://tpathways.org",
-        "Heading": "\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e40\u0e25\u0e48\u0e19\u0e2a\u0e25\u0e47\u0e2d\u0e15 \u0e1f\u0e23\u0e35\u0e2a\u0e1b\u0e34\u0e19 API \u0e41\u0e17\u0e49 100% PG SLOT \u0e40\u0e27\u0e47\u0e1a\u0e15\u0e23\u0e07 2026",
-        "Abstract": "\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e40\u0e25\u0e48\u0e19\u0e2a\u0e25\u0e47\u0e2d\u0e15 \u0e40\u0e27\u0e47\u0e1a\u0e44\u0e0b\u0e15\u0e4c\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e01\u0e32\u0e23\u0e23\u0e31\u0e1a\u0e23\u0e2d\u0e07\u0e42\u0e14\u0e22\u0e15\u0e23\u0e07\u0e08\u0e32\u0e01\u0e04\u0e48\u0e32\u0e22 PG SLOT \u0e23\u0e30\u0e1a\u0e1a\u0e25\u0e34\u0e02\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e41\u0e17\u0e49 \u0e04\u0e48\u0e32 RTP \u0e2a\u0e39\u0e07\u0e16\u0e36\u0e07 98% \u0e1d\u0e32\u0e01\u0e16\u0e2d\u0e19\u0e2d\u0e2d\u0e42\u0e15\u0e49\u0e23\u0e2d\u0e07\u0e23\u0e31\u0e1a\u0e17\u0e38\u0e01\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23\u0e41\u0e25\u0e30 True Wallet",
-        "Official Site": "https://www.humanitiesWeb.org/",
-        "Icon": "https://www.humanitiesWeb.org/wp-content/uploads/2026/05/\u0e17\u0e14\u0e25\u0e2d\u0e07\u0e40\u0e25\u0e48\u0e19\u0e2a\u0e25\u0e47\u0e2d\u0e15.webp",
-        "Redirect": "https://www.humanitiesWeb.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.humanitiesWeb.org/"
     },
     {
         "link": "https://hardyakka.com",
@@ -200,16 +200,6 @@
         "AbstractURL": "https://numeum.fr/"
     },
     {
-        "link": "https://leadpakistan.com.pk",
-        "Heading": "Lead Pakistan, Latest Global, National, Entertainment, Sports News",
-        "Abstract": "Get alerts of latest news from Pakistan and all over the world for global, national, political, sports, entertainment, technology and op-ed.",
-        "Official Site": "https://leadpakistan.com.pk/news/",
-        "Icon": "https://leadpakistan.com.pk/news/wp-content/uploads/2016/07/logo.jpg",
-        "Redirect": "https://leadpakistan.com.pk/news/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://leadpakistan.com.pk/news/"
-    },
-    {
         "link": "https://pemicro.com",
         "Heading": "PEmicro | 40+ years innovating in the embedded systems space. Flash Programmers, Cloud-based, Automated, Gang Programmers, and more...",
         "Abstract": "PEmicro | 40+ years innovating in the embedded systems space. Flash Programmers, Cloud-based, Automated, Gang Programmers, and more...",
@@ -231,13 +221,13 @@
     },
     {
         "link": "https://smartgardenguide.com",
-        "Heading": "Smart Garden Guide - Indoor Gardening Made Easy",
-        "Abstract": "Indoor Gardening Made Easy",
-        "Official Site": "https://smartgardenguide.com/",
-        "Icon": "https://smartgardenguide.com/wp-content/uploads/2019/01/cropped-Smart-Garden-Guide-Favicon-4-32x32.png",
-        "Redirect": "https://smartgardenguide.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://smartgardenguide.com",
+        "Icon": "data:;",
+        "Redirect": "https://smartgardenguide.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://smartgardenguide.com/"
+        "AbstractURL": "https://smartgardenguide.com"
     },
     {
         "link": "https://aixcast.de",

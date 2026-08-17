@@ -21,13 +21,13 @@
     },
     {
         "link": "https://eywc2020.eu",
-        "Heading": "Casino utan svensk licens | Spela utan Spelpaus i 2025",
-        "Abstract": "Casino utan svensk licens ger dig frihet att spela utan Spelpaus med st\u00f6rre bonusar, snabba uttag och kryptovalutor utan avgifter i Sverige.",
-        "Official Site": "https://www.eywc2020.eu/sv/",
-        "Icon": "https://www.eywc2020.eu/files/assets-version-1647884106/img/favicon-32x32.png",
-        "Redirect": "https://www.eywc2020.eu/sv/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://eywc2020.eu",
+        "Icon": "data:;",
+        "Redirect": "https://eywc2020.eu",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.eywc2020.eu/sv/"
+        "AbstractURL": "https://eywc2020.eu"
     },
     {
         "link": "https://dubaichambers.com",
@@ -51,13 +51,13 @@
     },
     {
         "link": "https://ozkoreapost.com",
-        "Heading": "Home - Korea Life Australia",
-        "Abstract": "Australia\u2019s Korean Community Hub",
-        "Official Site": "https://korealife.au/",
-        "Icon": "https://korealife.au/wp-content/uploads/2026/05/KOREA-LIFE-Social-Preview-Image.jpg",
-        "Redirect": "https://korealife.au/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ozkoreapost.com",
+        "Icon": "data:;",
+        "Redirect": "https://ozkoreapost.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://korealife.au/"
+        "AbstractURL": "https://ozkoreapost.com"
     },
     {
         "link": "https://stolovkanadom.ru",
@@ -128,6 +128,16 @@
         "Redirect": "https://unblinkingeye.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://unblinkingeye.com"
+    },
+    {
+        "link": "https://bridgebr.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bridgebr.com",
+        "Icon": "data:;",
+        "Redirect": "https://bridgebr.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bridgebr.com"
     },
     {
         "link": "https://caratcraft.ae",
@@ -204,7 +214,7 @@
         "Heading": "Nutrition in the Kitch - Healthy Gluten-Free And Dairy-Free Recipes",
         "Abstract": "Welcome to Nutrition in the Kitch! Find healthy gluten-free and dairy-free recipes and tips on wellness, lifestyle, and healthy travel to feel your best!",
         "Official Site": "https://nutritioninthekitch.com/",
-        "Icon": "https://cdn.nutritioninthekitch.com/wp-includes/images/media/default.svg",
+        "Icon": "https://cdn.nutritioninthekitch.com/wp-includes/images/media/default.png",
         "Redirect": "https://nutritioninthekitch.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nutritioninthekitch.com/"
@@ -250,6 +260,16 @@
         "AbstractURL": "https://www.blueboat.nl/"
     },
     {
+        "link": "https://middleatlantic.com",
+        "Heading": "Legrand AV | Middle Atlantic | Power & Data, Racks & Technical Furniture",
+        "Abstract": "Middle Atlantic Products has manufactured exceptional support and protection products to mount integrated AV systems in homes and businesses.",
+        "Official Site": "https://middleatlantic.com",
+        "Icon": "/dist/images/favicon.ico?v=2",
+        "Redirect": "https://middleatlantic.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://middleatlantic.com"
+    },
+    {
         "link": "https://krillbite.com",
         "Heading": "Krillbite",
         "Abstract": "",
@@ -268,16 +288,6 @@
         "Redirect": "https://512162.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://512162.com"
-    },
-    {
-        "link": "https://venturaspharma.it",
-        "Heading": "Home | Ventura's pharma",
-        "Abstract": "Riscopri il tuo benessere con Ventura\u2019s Pharma La tua parafarmacia di fiducia per una vasta gamma di prodotti e servizi dedicati alla tua salute e al tuo",
-        "Official Site": "https://venturaspharma.it/",
-        "Icon": "https://venturaspharma.it/wp-content/uploads/2023/09/medicine01.png",
-        "Redirect": "https://venturaspharma.it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://venturaspharma.it/"
     },
     {
         "link": "https://cyrushosting.com",

@@ -121,13 +121,13 @@
     },
     {
         "link": "https://theknife.net",
-        "Heading": "The Knife are 20 in 2020",
-        "Abstract": "To commemorate the release of our first 7\" back on August 14, 2000, we have made our full catalogue available on streaming services and digital stores",
-        "Official Site": "https://theknife.net/",
-        "Icon": "https://theknife.net/_/img/the-knife-share-7226.jpg",
-        "Redirect": "https://theknife.net/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://theknife.net",
+        "Icon": "data:;",
+        "Redirect": "https://theknife.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://theknife.net/"
+        "AbstractURL": "https://theknife.net"
     },
     {
         "link": "https://booteforum.de",
@@ -224,7 +224,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://grunethalvick.sbs",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
         "Redirect": "https://grunethalvick.sbs",
         "AbstractSource": "BS4",
         "AbstractURL": "https://grunethalvick.sbs"

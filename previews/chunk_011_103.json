@@ -151,13 +151,13 @@
     },
     {
         "link": "https://chaptershealth.org",
-        "Heading": "Home - Chapters Health",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.chaptershealth.org/",
-        "Icon": "https://www.chaptershealth.org/wp-content/uploads/2025/10/support.jpg",
-        "Redirect": "https://www.chaptershealth.org/",
+        "Official Site": "https://chaptershealth.org",
+        "Icon": "data:;",
+        "Redirect": "https://chaptershealth.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.chaptershealth.org/"
+        "AbstractURL": "https://chaptershealth.org"
     },
     {
         "link": "https://budu5-o.ru",
@@ -323,10 +323,20 @@
         "link": "https://fundedbyme.com",
         "Heading": "FundedByMe \u2014 Europeisk plattform f\u00f6r bolagspresentationer",
         "Abstract": "FundedByMe \u00e4r en europeisk plattform d\u00e4r bolag presenterar sig f\u00f6r investerare. Direkt kontakt utan mellanh\u00e4nder.",
-        "Official Site": "https://fundedbyme.com",
+        "Official Site": "https://fundedbyme.com/",
         "Icon": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/d3b5b40b-6308-4569-b7d8-680652531e1e/id-preview-2930ff86--6a1858bd-ee35-4d48-b3cd-592348ddbd86.lovable.app-1774162676949.png",
-        "Redirect": "https://fundedbyme.com",
+        "Redirect": "https://fundedbyme.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fundedbyme.com"
+        "AbstractURL": "https://fundedbyme.com/"
+    },
+    {
+        "link": "https://goodid.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://goodid.net",
+        "Icon": "data:;",
+        "Redirect": "https://goodid.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://goodid.net"
     }
 ]

@@ -31,13 +31,13 @@
     },
     {
         "link": "https://herbnoori.com",
-        "Heading": "\ud5c8\ube0c\ub204\ub9ac",
-        "Abstract": "\ucc9c\uc5f0\ud654\uc7a5\ud488\uc7ac\ub8cc \uc804\ubb38\uc1fc\ud551\ubab0 \ud5c8\ube0c\ub204\ub9ac",
-        "Official Site": "https://www.herbnoori.com/m/index.html",
-        "Icon": "https://www.herbnoori.com/shopimages/herbnoori/facebookimg.gif",
-        "Redirect": "https://www.herbnoori.com/m/index.html",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://herbnoori.com",
+        "Icon": "N/A",
+        "Redirect": "https://herbnoori.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.herbnoori.com/m/index.html"
+        "AbstractURL": "https://herbnoori.com"
     },
     {
         "link": "https://hethongdientuht.com",
@@ -250,16 +250,6 @@
         "AbstractURL": "https://runawayrice.com/"
     },
     {
-        "link": "https://targetguru.com",
-        "Heading": "targetguru.com is for sale \u2014 Get a price in 24 hours | GoDaddy",
-        "Abstract": "targetguru.com is for sale on GoDaddy. Get a price in less than 24 hours from our domain experts.",
-        "Official Site": "https://targetguru.com",
-        "Icon": "//img6.wsimg.com/ux-assets/favicon/android-icon-192x192.png",
-        "Redirect": "https://targetguru.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://targetguru.com"
-    },
-    {
         "link": "https://naturalhealthsource.com",
         "Heading": "Home - Natural Health Source: Top Health & Beauty Products & Articles",
         "Abstract": "Whether it's anti-aging, sexual health or skincare, Natural Health Sources products have you covered. Try our products now & see the difference in no time.",
@@ -368,5 +358,15 @@
         "Redirect": "https://www.nationalsports.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.nationalsports.com/"
+    },
+    {
+        "link": "https://christianindex.org",
+        "Heading": "Home page - The Christian Index",
+        "Abstract": "",
+        "Official Site": "https://christianindex.org/",
+        "Icon": "https://epsilon.creativecirclecdn.com/christianindex/original/20230306-111509-tci-og.png.jpg",
+        "Redirect": "https://christianindex.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://christianindex.org/"
     }
 ]

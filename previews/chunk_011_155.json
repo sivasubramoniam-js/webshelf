@@ -40,16 +40,6 @@
         "AbstractURL": "https://www.mcculloch.com"
     },
     {
-        "link": "https://bostonproperties.com",
-        "Heading": "The largest publicly traded developer in the United States - BXP",
-        "Abstract": "We shape great spaces and places as the largest publicly traded developer, owner, and manager of premier workplaces in the U.S.",
-        "Official Site": "https://www.bxp.com/",
-        "Icon": "https://www.bxp.com/wp-content/uploads/2021/04/cropped-BXP_Favicon-32x32.png",
-        "Redirect": "https://www.bxp.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bxp.com/"
-    },
-    {
         "link": "https://finansdanmark.dk",
         "Heading": "Forside",
         "Abstract": "",
@@ -248,6 +238,16 @@
         "Redirect": "https://abderm.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://abderm.org"
+    },
+    {
+        "link": "https://mymetrotex.com",
+        "Heading": "MetroTex Association of REALTORS\u00ae",
+        "Abstract": "MetroTex empowers its members through professional development, advocacy and market intelligence leading to prosperity.",
+        "Official Site": "https://www.mymetrotex.com/",
+        "Icon": "https://www.mymetrotex.com/wp-content/uploads/2021/07/MetroTex-Building-Rendering-Entranceweb-1024x605-1.png",
+        "Redirect": "https://www.mymetrotex.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mymetrotex.com/"
     },
     {
         "link": "https://filmwelt-herne.de",

@@ -171,13 +171,23 @@
     },
     {
         "link": "https://cufos.org",
-        "Heading": "Center for UFO Studies -",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://cufos.org/",
-        "Icon": "N/A",
-        "Redirect": "https://cufos.org/",
+        "Official Site": "https://cufos.org",
+        "Icon": "data:;",
+        "Redirect": "https://cufos.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cufos.org/"
+        "AbstractURL": "https://cufos.org"
+    },
+    {
+        "link": "https://cookie-checker.com",
+        "Heading": "Check which cookies a site uses - Cookie-checker.com",
+        "Abstract": "Cookie-checker.com checks the cookies from a site and gives a full free report on the purpose of each cookie. A perfect tool to check whether a site obeys the GDPR.",
+        "Official Site": "https://www.cookie-checker.com/",
+        "Icon": "https://www.cookie-checker.com/wp-content/uploads/2023/04/favicon-new-150x150.png",
+        "Redirect": "https://www.cookie-checker.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cookie-checker.com/"
     },
     {
         "link": "https://niftylift.com",
@@ -231,13 +241,13 @@
     },
     {
         "link": "https://sdgc.com",
-        "Heading": "SDG Corporation | Cybersecurity, Identity & Risk Leader",
-        "Abstract": "SDG Corporation is an award-winning technology provider, specializing in strategic consulting and enterprise risk management solutions.",
-        "Official Site": "https://sdgc.com/",
-        "Icon": "https://sdgc.com/wp-content/uploads/Untitled-design-90.png",
-        "Redirect": "https://sdgc.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sdgc.com",
+        "Icon": "data:;",
+        "Redirect": "https://sdgc.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sdgc.com/"
+        "AbstractURL": "https://sdgc.com"
     },
     {
         "link": "https://nordicals.dk",

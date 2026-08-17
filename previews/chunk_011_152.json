@@ -61,13 +61,13 @@
     },
     {
         "link": "https://airporthaber.com",
-        "Heading": "AirportHaber \"Haberin Tek Kayna\u011f\u0131\" G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
-        "Abstract": "AirportHaber, T\u00fcrkiye'nin lider g\u00fcncel sivil havac\u0131l\u0131k haberleri portal\u0131d\u0131r.",
-        "Official Site": "https://www.airporthaber2.com/",
-        "Icon": "/favicon-2.ico",
-        "Redirect": "https://www.airporthaber2.com/",
+        "Heading": "AirportHaber Mobil - G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
+        "Abstract": "AirportHaber Haberin Tek Kayna\u011f\u0131 - G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
+        "Official Site": "https://airporthaber.com",
+        "Icon": "N/A",
+        "Redirect": "https://airporthaber.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.airporthaber2.com/"
+        "AbstractURL": "https://airporthaber.com"
     },
     {
         "link": "https://kayliemarievocalist.com",
@@ -180,16 +180,6 @@
         "AbstractURL": "https://casimonka.com/"
     },
     {
-        "link": "https://dlrvinylproducts.ca",
-        "Heading": "Vinyl Fence Supplier in Calgary, AB, and Edmonton, AB",
-        "Abstract": "DLR Vinyl Products is your trusted vinyl fence supplier in Calgary, AB, and Edmonton, AB\u2014quality materials and easy to install. Get a free quote today.",
-        "Official Site": "https://dlrvinylproducts.ca/",
-        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
-        "Redirect": "https://dlrvinylproducts.ca/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dlrvinylproducts.ca/"
-    },
-    {
         "link": "https://ugraeparhia.ru",
         "Heading": "\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
         "Abstract": null,
@@ -218,6 +208,16 @@
         "Redirect": "https://edpost.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://edpost.com/"
+    },
+    {
+        "link": "https://bcgame-vietnam.com",
+        "Heading": "BC.Game Casino Vi\u1ec7t Nam | S\u00f2ng b\u1ea1c & Nh\u00e0 c\u00e1i Crypto",
+        "Abstract": "Kh\u00e1m ph\u00e1 nh\u1eefng g\u00ec BC.Game Casino cung c\u1ea5p t\u1ea1i Vi\u1ec7t Nam: \u0111a d\u1ea1ng tr\u00f2 ch\u01a1i, ch\u01a1i game an to\u00e0n v\u00e0 c\u00e1c kho\u1ea3n th\u01b0\u1edfng \u0111\u1ed9c quy\u1ec1n cho tr\u1ea3i nghi\u1ec7m cao c\u1ea5p.",
+        "Official Site": "https://bcgame-vietnam.com/",
+        "Icon": "https://bcgame-vietnam.com/wp-content/uploads/2024/04/bcgame-online-casino-in-vietnam-1024x250.webp",
+        "Redirect": "https://bcgame-vietnam.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bcgame-vietnam.com/"
     },
     {
         "link": "https://luteccs.com",

@@ -51,13 +51,13 @@
     },
     {
         "link": "https://thehappiesthome.com",
-        "Heading": "Casino utan svensk licens - Spela utan Spelpaus som svensk 2025",
-        "Abstract": "Att spela p\u00e5 casino utan svensk licens inneb\u00e4r att casinot inte f\u00f6ljer svenska spellagen. Du f\u00e5r mer bonusar, spelurval och dagliga kampanjer.",
-        "Official Site": "https://www.thehappiesthome.com/sv/",
-        "Icon": "https://www.thehappiesthome.com/files/wp-content/uploads/2015/03/favicon-thh2015-sm.jpg",
-        "Redirect": "https://www.thehappiesthome.com/sv/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://thehappiesthome.com",
+        "Icon": "data:;",
+        "Redirect": "https://thehappiesthome.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.thehappiesthome.com/sv/"
+        "AbstractURL": "https://thehappiesthome.com"
     },
     {
         "link": "https://tribecreative.com.au",
@@ -148,6 +148,16 @@
         "Redirect": "https://www.tomsnetworking.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tomsnetworking.com/"
+    },
+    {
+        "link": "https://ofiaula.com",
+        "Heading": "Librer\u00eda Papiros, en Granada",
+        "Abstract": "Librer\u00eda Papiros, amplio surtido web en libros y papeler\u00eda en Granada. Servicio online 24/48 Horas",
+        "Official Site": "https://ofiaula.com",
+        "Icon": "https://www.ofiaula.com/es/archivos/171/favicon.png",
+        "Redirect": "https://ofiaula.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ofiaula.com"
     },
     {
         "link": "https://hyvinvointiala.fi",
@@ -248,6 +258,16 @@
         "Redirect": "https://hollywoodschaukel-paradies.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hollywoodschaukel-paradies.de"
+    },
+    {
+        "link": "https://startandroid.ru",
+        "Heading": "Start Android - \u0443\u0447\u0435\u0431\u043d\u0438\u043a \u043f\u043e Android \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445 \u0438 \u043f\u0440\u043e\u0434\u0432\u0438\u043d\u0443\u0442\u044b\u0445",
+        "Abstract": "\u0421\u0430\u0439\u0442 \u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c \u0434\u043b\u044f \u0410\u043d\u0434\u0440\u043e\u0438\u0434 (Android). \u0423\u0447\u0435\u0431\u043d\u0438\u043a, \u0443\u0440\u043e\u043a\u0438 \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445, \u0434\u043b\u044f \u0447\u0430\u0439\u043d\u0438\u043a\u043e\u0432. \u041a\u0430\u043a \u0441\u0430\u043c\u043e\u043c\u0443 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0430\u043d\u0434\u0440\u043e\u0438\u0434. \u041a\u0430\u043a \u043d\u0430\u0443\u0447\u0438\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043f\u043e\u0434 android.",
+        "Official Site": "https://startandroid.ru/ru",
+        "Icon": "/templates/purity_iii/favicon.ico",
+        "Redirect": "https://startandroid.ru/ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://startandroid.ru/ru"
     },
     {
         "link": "https://hramiliya1787.ru",

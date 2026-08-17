@@ -101,13 +101,13 @@
     },
     {
         "link": "https://gnomemeeting.org",
-        "Heading": "Gnomemeeting.org - Gnome Meeting",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.gnomemeeting.org/",
-        "Icon": "N/A",
-        "Redirect": "https://www.gnomemeeting.org/",
+        "Official Site": "https://gnomemeeting.org",
+        "Icon": "data:;",
+        "Redirect": "https://gnomemeeting.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.gnomemeeting.org/"
+        "AbstractURL": "https://gnomemeeting.org"
     },
     {
         "link": "https://gastroenterologyandhepatology.net",

@@ -31,13 +31,13 @@
     },
     {
         "link": "https://essentialtremor.org",
-        "Heading": "Essential Tremor",
-        "Abstract": "Welcome to the International Essential Tremor Foundation's website, where you'll find information about our organization, the latest news, resources for coping, and support groups near you.",
-        "Official Site": "https://essentialtremor.org/",
-        "Icon": "https://essentialtremor.org/wp-content/uploads/2024/10/IETF-Web-SocialShare.jpg",
-        "Redirect": "https://essentialtremor.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://essentialtremor.org",
+        "Icon": "data:;",
+        "Redirect": "https://essentialtremor.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://essentialtremor.org/"
+        "AbstractURL": "https://essentialtremor.org"
     },
     {
         "link": "https://progressflowsstrategically.click",
@@ -93,11 +93,11 @@
         "link": "https://brazilcham.com",
         "Heading": "Welcome - BrazilCham",
         "Abstract": "Building bridges between Brazil and the United States to empower growth, foster vibrant collaboration, and bring the communities closer together",
-        "Official Site": "https://brazilcham.com/?s=callidus%20mc%20compliance%20and%20acquisition",
+        "Official Site": "https://brazilcham.com/",
         "Icon": "https://brazilcham.com/assets/mock/header_1_1.jpg",
-        "Redirect": "https://brazilcham.com/?s=callidus%20mc%20compliance%20and%20acquisition",
+        "Redirect": "https://brazilcham.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://brazilcham.com/?s=callidus%20mc%20compliance%20and%20acquisition"
+        "AbstractURL": "https://brazilcham.com/"
     },
     {
         "link": "https://syx.in",
@@ -108,6 +108,16 @@
         "Redirect": "https://syx.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://syx.in"
+    },
+    {
+        "link": "https://grandmayfull.com",
+        "Heading": "Grand Mayfull Hotel Taipei",
+        "Abstract": "\u77d7\u7acb\u53f0\u5317\u5927\u76f4\u6cb3\u7554\u7684\u65b0\u53e4\u5178\u98a8\u683c\u5efa\u7bc9\u5916\u89c0\uff0c\u53f0\u5317\u7f8e\u798f\u5927\u98ef\u5e97\u9664\u4e86\u63d0\u4f9b\u5c0a\u7235\u4e0d\u51e1\u7684\u65c5\u5bbf\u9ad4\u9a57\u5916\uff0c\u4ee5\u4e03\u9593\u7fe9\u7136\u96c5\u7dfb\u7684\u4e2d\u897f\u7f8e\u994c\u9910\u5ef3\u53ca\u9152\u5427\uff0c\u9ad4\u73fe\u98df\u6750\u7d14\u771f\u539f\u5473\uff0c\u5728\u57ce\u56c2\u55a7\u64fe\u4e4b\u9918\u5275\u9020\u5168\u7136\u8212\u9069\u3001\u8cd3\u81f3\u5982\u6b78\u7684\u7d55\u5c0d\u611f\u52d5\u3002",
+        "Official Site": "https://www.grandmayfull.com",
+        "Icon": "//www.grandmayfull.com",
+        "Redirect": "https://www.grandmayfull.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.grandmayfull.com"
     },
     {
         "link": "https://protectingchildren.google",

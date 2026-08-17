@@ -131,13 +131,13 @@
     },
     {
         "link": "https://womeningames.org",
-        "Heading": "Women In Games",
-        "Abstract": "Women in Games is a dedicated to building a fair and equitable playing field for women in games and esports ensuring diverse representation becomes the norm.",
-        "Official Site": "https://www.womeningames.org/",
-        "Icon": "https://www.womeningames.org/wp-content/uploads/2026/08/wig-social.png",
-        "Redirect": "https://www.womeningames.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://womeningames.org",
+        "Icon": "data:;",
+        "Redirect": "https://womeningames.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.womeningames.org/"
+        "AbstractURL": "https://womeningames.org"
     },
     {
         "link": "https://doingdadstuff.com",
@@ -150,9 +150,19 @@
         "AbstractURL": "https://www.doingdadstuff.com/"
     },
     {
+        "link": "https://rippermedia.com.au",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://rippermedia.com.au",
+        "Icon": "N/A",
+        "Redirect": "https://rippermedia.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rippermedia.com.au"
+    },
+    {
         "link": "https://inscribirme.com",
-        "Heading": "\n\n    \n        Gesti\u00f3n de inscripciones online para todo tipo de eventos y actividades\n    \n\n",
-        "Abstract": "Gesti\u00f3n de inscripciones online para todo tipo de eventos y actividades",
+        "Heading": "\n\n    \n        Online registration management for all types of events and activities\n    \n\n",
+        "Abstract": "Online registration management for all types of events and activities",
         "Official Site": "https://inscribirme.com",
         "Icon": "https://storage.googleapis.com/inscribirme.appspot.com/static/img/new/favicon/android-icon-192x192.png",
         "Redirect": "https://inscribirme.com",
@@ -251,10 +261,10 @@
     },
     {
         "link": "https://pincogiris.top",
-        "Heading": "503 Service Temporarily Unavailable",
-        "Abstract": null,
+        "Heading": "Un site utilisant Blogs",
+        "Abstract": "",
         "Official Site": "https://pincogiris.top",
-        "Icon": "N/A",
+        "Icon": "https://www.pincogiris.top/wp-content/uploads/sites/35/2022/03/logo-dininfo.site_-150x150.png",
         "Redirect": "https://pincogiris.top",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pincogiris.top"

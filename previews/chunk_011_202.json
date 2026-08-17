@@ -31,13 +31,13 @@
     },
     {
         "link": "https://conciergeplus.com",
-        "Heading": "Homepage - Concierge Plus",
-        "Abstract": "Intelligent AI Property Management Software Designed to Connect Property Owners, Building Managers, and Residents BOOK DEMO Who We Serve Property...",
-        "Official Site": "https://conciergeplus.com/",
-        "Icon": "https://pubcdn.conciergeplus.com/wp-content/uploads/2026/05/CPIcons-Home-Property-Owners.png",
-        "Redirect": "https://conciergeplus.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://conciergeplus.com",
+        "Icon": "data:;",
+        "Redirect": "https://conciergeplus.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://conciergeplus.com/"
+        "AbstractURL": "https://conciergeplus.com"
     },
     {
         "link": "https://fulcrum7.com",
@@ -278,5 +278,15 @@
         "Redirect": "https://fumankong4.cc",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fumankong4.cc"
+    },
+    {
+        "link": "https://auto-brochures.com",
+        "Heading": "Auto-Brochures | home",
+        "Abstract": "Auto-Brochures pdf car truck sales brochures, catalogs and electronic media",
+        "Official Site": "https://auto-brochures.com",
+        "Icon": "images/favicon.png",
+        "Redirect": "https://auto-brochures.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://auto-brochures.com"
     }
 ]
