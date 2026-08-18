@@ -61,13 +61,13 @@
     },
     {
         "link": "https://airporthaber.com",
-        "Heading": "AirportHaber Mobil - G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
-        "Abstract": "AirportHaber Haberin Tek Kayna\u011f\u0131 - G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
-        "Official Site": "https://airporthaber.com",
-        "Icon": "N/A",
-        "Redirect": "https://airporthaber.com",
+        "Heading": "AirportHaber \"Haberin Tek Kayna\u011f\u0131\" G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
+        "Abstract": "AirportHaber, T\u00fcrkiye'nin lider g\u00fcncel sivil havac\u0131l\u0131k haberleri portal\u0131d\u0131r.",
+        "Official Site": "https://www.airporthaber2.com/",
+        "Icon": "/favicon-2.ico",
+        "Redirect": "https://www.airporthaber2.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://airporthaber.com"
+        "AbstractURL": "https://www.airporthaber2.com/"
     },
     {
         "link": "https://kayliemarievocalist.com",
@@ -178,6 +178,16 @@
         "Redirect": "https://casimonka.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://casimonka.com/"
+    },
+    {
+        "link": "https://dlrvinylproducts.ca",
+        "Heading": "Vinyl Fence Supplier in Calgary, AB, and Edmonton, AB",
+        "Abstract": "DLR Vinyl Products is your trusted vinyl fence supplier in Calgary, AB, and Edmonton, AB\u2014quality materials and easy to install. Get a free quote today.",
+        "Official Site": "https://dlrvinylproducts.ca/",
+        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
+        "Redirect": "https://dlrvinylproducts.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dlrvinylproducts.ca/"
     },
     {
         "link": "https://ugraeparhia.ru",

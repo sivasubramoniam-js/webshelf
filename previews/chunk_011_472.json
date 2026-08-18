@@ -231,13 +231,13 @@
     },
     {
         "link": "https://theshowratings.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://theshowratings.com",
-        "Icon": "data:;",
-        "Redirect": "https://theshowratings.com",
+        "Heading": "MLB The Show 26 Ratings | The Show Ratings Database",
+        "Abstract": "MLB The Show 26 Play Now Player and Team Ratings Database - TheShowRatings.com is updated regularly.",
+        "Official Site": "https://www.theshowratings.com/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.theshowratings.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://theshowratings.com"
+        "AbstractURL": "https://www.theshowratings.com/"
     },
     {
         "link": "https://thespecialfindings.com",
@@ -290,16 +290,6 @@
         "AbstractURL": "https://thewallprinter.com/"
     },
     {
-        "link": "https://thienthanxinh6.online",
-        "Heading": "thienthanxinh6.online",
-        "Abstract": null,
-        "Official Site": "https://thienthanxinh6.online",
-        "Icon": "N/A",
-        "Redirect": "https://thienthanxinh6.online",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thienthanxinh6.online"
-    },
-    {
         "link": "https://thomaswc.com",
         "Heading": "Yet Another Thomas Colthurst Web Page",
         "Abstract": null,
@@ -338,6 +328,16 @@
         "Redirect": "https://thotlicious.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thotlicious.com/"
+    },
+    {
+        "link": "https://thpttranquoctuanqng.edu.vn",
+        "Heading": "Tr\u01b0\u1eddng THPT Tr\u1ea7n Qu\u1ed1c Tu\u1ea5n Qu\u1ea3ng Ng\u00e3i | Website Tr\u01b0\u1eddng THPT Tr\u1ea7n Qu\u1ed1c Tu\u1ea5n",
+        "Abstract": "Website Tr\u01b0\u1eddng THPT Tr\u1ea7n Qu\u1ed1c Tu\u1ea5n",
+        "Official Site": "https://thpttranquoctuanqng.edu.vn",
+        "Icon": "https://c3tranquoctuan.quangngai.edu.vn/wp-content/themes/vtkEduSchool/ico.png",
+        "Redirect": "https://thpttranquoctuanqng.edu.vn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thpttranquoctuanqng.edu.vn"
     },
     {
         "link": "https://tianciv460715.com",

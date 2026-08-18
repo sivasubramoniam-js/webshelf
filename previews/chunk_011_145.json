@@ -81,13 +81,13 @@
     },
     {
         "link": "https://backonmyfeet.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://backonmyfeet.org",
-        "Icon": "data:;",
-        "Redirect": "https://backonmyfeet.org",
+        "Heading": "Disrupting Homelessness with the Power of Fitness - Back on My Feet",
+        "Abstract": "Back on My Feet combats homelessness through the power of fitness, community support and essential employment and housing resources.",
+        "Official Site": "https://backonmyfeet.org/",
+        "Icon": "https://backonmyfeet.org/wp-content/uploads/2023/05/arms-in-nyc-brooks.jpg",
+        "Redirect": "https://backonmyfeet.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://backonmyfeet.org"
+        "AbstractURL": "https://backonmyfeet.org/"
     },
     {
         "link": "https://capetrain.com",
@@ -178,6 +178,16 @@
         "Redirect": "https://techapple.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://techapple.de"
+    },
+    {
+        "link": "https://bitsafe.com",
+        "Heading": "Yoursafe - Protecting Your Identity Online",
+        "Abstract": "Your life evolves organically. Yoursafe protects your money and digital assets without compromising your true identity. Feel free to be who you want to be.",
+        "Official Site": "https://bitsafe.com",
+        "Icon": "https://www.yoursafe.com/images.v2/logo-medium-transparant.png",
+        "Redirect": "https://bitsafe.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bitsafe.com"
     },
     {
         "link": "https://theartcollection.com",

@@ -50,6 +50,16 @@
         "AbstractURL": "https://ngo-online.de"
     },
     {
+        "link": "https://phunkemedia.com",
+        "Heading": "Phunkemedia \u2013 Building brands people believe in.",
+        "Abstract": "Phunkemedia is a boutique brand & communications consultancy helping purpose-led organisations craft magnetic brands. We combine strategy and creativity to connect, engage, and grow your audience - locally or remotely.",
+        "Official Site": "https://www.phunkemedia.com/",
+        "Icon": "https://www.phunkemedia.com/wp-content/uploads/2021/06/cropped-Phunkemedia-p-icon-32x32.png",
+        "Redirect": "https://www.phunkemedia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.phunkemedia.com/"
+    },
+    {
         "link": "https://produitenbretagne.bzh",
         "Heading": "Produit en Bretagne, promotion des produits bretons et services bretons",
         "Abstract": "Le R\u00e9seau Produit en Bretagne est compos\u00e9 d'une grande diversit\u00e9 d'entreprises. Services\u00a0aux consommateurs, Services\u00a0aux entreprises, Industrie, Distribution, Culture et Tourisme, Agroalimentaire\u00a0participent \u00e0\u00a0cette aventure collective",
@@ -121,10 +131,10 @@
     },
     {
         "link": "https://vivos.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Vivos Therapeutics, Inc. - Non-Surgical Solution for Obstructive Sleep Apnea",
+        "Abstract": "To Breathe Well is to Live Fully The only FDA-cleared oral appliance alternative to CPAP for moderate to severe OSA. No Masks. No Surgery. No Lifetime Treatment. Rethinking Sleep Apnea Treatment.",
         "Official Site": "https://vivos.com",
-        "Icon": "data:;",
+        "Icon": "https://vivos.com/wp-content/uploads/2026/01/vivos-logo.png",
         "Redirect": "https://vivos.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vivos.com"
@@ -168,16 +178,6 @@
         "Redirect": "https://hpowdercoating.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hpowdercoating.com"
-    },
-    {
-        "link": "https://martinelliluce.it",
-        "Heading": "Martinelli Luce - Lampade di Design e Sistemi di Illuminazione",
-        "Abstract": "Martinelli Luce produce lampade e sistemi di illuminazione innovativi, dal design essenziale e originalit\u00e0 progettuale.",
-        "Official Site": "https://martinelliluce.it/it/",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://martinelliluce.it/it/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://martinelliluce.it/it/"
     },
     {
         "link": "https://hzdfzc.com",

@@ -21,13 +21,13 @@
     },
     {
         "link": "https://koreanaztimes.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://koreanaztimes.com",
-        "Icon": "N/A",
-        "Redirect": "https://koreanaztimes.com",
+        "Heading": "\uc544\ub9ac\uc870\ub098 \ud0c0\uc784\uc988 \u2013 \uc544\ub9ac\uc870\ub098 \ud55c\uc778 \ucee4\ubba4\ub2c8\ud2f0. \uc544\ub9ac\uc870\ub098 \ub274\uc2a4 \u00b7 \uc8fc\uac04 \uc138\uc77c \u00b7 \uc5f4\ub9b0 \uc7a5\ud130 \u00b7 \uac8c\uc2dc\ud310 \u00b7 \uc5c5\uc18c\ub85d \u00b7 \uce7c\ub7fc",
+        "Abstract": "\uc544\ub9ac\uc870\ub098 \ud55c\uc778 \ucee4\ubba4\ub2c8\ud2f0. \uc544\ub9ac\uc870\ub098 \ub274\uc2a4 \u00b7 \uc8fc\uac04 \uc138\uc77c \u00b7 \uc5f4\ub9b0 \uc7a5\ud130 \u00b7 \uac8c\uc2dc\ud310 \u00b7 \uc5c5\uc18c\ub85d \u00b7 \uce7c\ub7fc",
+        "Official Site": "https://koreanaztimes.com/",
+        "Icon": "https://koreanaztimes.com/wp-content/uploads/2026/04/kazt-reversed2-1024x413.jpg",
+        "Redirect": "https://koreanaztimes.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://koreanaztimes.com"
+        "AbstractURL": "https://koreanaztimes.com/"
     },
     {
         "link": "https://trueamericanloan.com",
@@ -158,16 +158,6 @@
         "Redirect": "https://taylorpearson.me/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://taylorpearson.me/"
-    },
-    {
-        "link": "https://globalcovidsummit.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://globalcovidsummit.org",
-        "Icon": "data:;",
-        "Redirect": "https://globalcovidsummit.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://globalcovidsummit.org"
     },
     {
         "link": "https://everandever.com",

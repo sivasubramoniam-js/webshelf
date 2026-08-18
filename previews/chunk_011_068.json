@@ -30,16 +30,6 @@
         "AbstractURL": "https://mvlchain.io/"
     },
     {
-        "link": "https://iplants.ru",
-        "Heading": "\u041a\u043e\u043c\u043d\u0430\u0442\u043d\u044b\u0435 \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u044f \u0438 \u0446\u0432\u0435\u0442\u044b",
-        "Abstract": null,
-        "Official Site": "https://iplants.ru",
-        "Icon": "N/A",
-        "Redirect": "https://iplants.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://iplants.ru"
-    },
-    {
         "link": "https://sterling-intl.com",
         "Heading": "sterling-intl.com",
         "Abstract": null,
@@ -191,13 +181,13 @@
     },
     {
         "link": "https://aworldtotravel.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://aworldtotravel.com",
-        "Icon": "data:;",
-        "Redirect": "https://aworldtotravel.com",
+        "Heading": "Award-Winning Sustainable Travel and Lifestyle Blog",
+        "Abstract": "Sustainable travel, conscious lifestyle, slow travel and road trips, landscape photography, art and culture, music festivals, and more.",
+        "Official Site": "https://www.aworldtotravel.com/",
+        "Icon": "https://www.aworldtotravel.com/wp-content/uploads/2016/01/andalucia-road-trip-itinerary-and-tips-a-world-to-travel-204.jpg",
+        "Redirect": "https://www.aworldtotravel.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://aworldtotravel.com"
+        "AbstractURL": "https://www.aworldtotravel.com/"
     },
     {
         "link": "https://infiniadevelopment.com",
@@ -231,13 +221,13 @@
     },
     {
         "link": "https://mimakieurope.com",
-        "Heading": "Mimaki: \"JOIN THE EXPERIENCE\" - Mimaki Europe",
-        "Abstract": "Discover a world of possibilities with Mimaki Be innovative. As a worldwide pioneer in digital printing and cutting technologies, we develop high-quality",
-        "Official Site": "https://www.mimakieurope.com/",
+        "Heading": "Mimaki Europe | Print Different",
+        "Abstract": "Explore Mimaki Europe\u2019s range of UV, signage, textile and 3D printers as well as cutting plotters, inks and software.",
+        "Official Site": "https://www.mimakieurope.com",
         "Icon": "https://www.mimakieurope.com/wp-content/uploads/2024/11/Wetec-PM-1143x550-1.png",
-        "Redirect": "https://www.mimakieurope.com/",
+        "Redirect": "https://www.mimakieurope.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mimakieurope.com/"
+        "AbstractURL": "https://www.mimakieurope.com"
     },
     {
         "link": "https://chimpout.com",

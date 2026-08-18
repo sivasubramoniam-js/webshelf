@@ -171,10 +171,10 @@
     },
     {
         "link": "https://friedhelm-loh-group.com",
-        "Heading": "Intro",
-        "Abstract": null,
+        "Heading": "Homepage | Friedhelm Loh Group",
+        "Abstract": "Willkommen bei der Friedhelm Loh Group - Friedhelm Loh Group",
         "Official Site": "https://friedhelm-loh-group.com",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://friedhelm-loh-group.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://friedhelm-loh-group.com"
@@ -308,16 +308,6 @@
         "Redirect": "https://theender.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theender.net"
-    },
-    {
-        "link": "https://ergo-log.com",
-        "Heading": "Ergo-Log.com",
-        "Abstract": "Ergo-Log",
-        "Official Site": "https://ergo-log.com",
-        "Icon": "N/A",
-        "Redirect": "https://ergo-log.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ergo-log.com"
     },
     {
         "link": "https://koningsvloeren.nl",

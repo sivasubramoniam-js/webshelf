@@ -1,10 +1,10 @@
 [
     {
         "link": "https://sis.uobs.edu.pk",
-        "Heading": null,
+        "Heading": "UOBS Student Panel",
         "Abstract": null,
         "Official Site": "https://sis.uobs.edu.pk",
-        "Icon": "data:;",
+        "Icon": "/templates/purity_iii/favicon.ico",
         "Redirect": "https://sis.uobs.edu.pk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sis.uobs.edu.pk"
@@ -208,6 +208,16 @@
         "Redirect": "https://sizi99ceo.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sizi99ceo.com"
+    },
+    {
+        "link": "https://sjwatersavers.org",
+        "Heading": "South Jersey Water Savers",
+        "Abstract": "South Jersey Water Savers \u2014 sumber daya, aksi, dan cerita untuk menjaga kualitas air & mengurangi polusi limpasan di South Jersey.",
+        "Official Site": "https://sjwatersavers.org",
+        "Icon": "N/A",
+        "Redirect": "https://sjwatersavers.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sjwatersavers.org"
     },
     {
         "link": "https://sk-ce.org",

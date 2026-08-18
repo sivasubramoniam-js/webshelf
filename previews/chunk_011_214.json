@@ -190,6 +190,16 @@
         "AbstractURL": "https://www.dobryakov.com/"
     },
     {
+        "link": "https://drgns.space",
+        "Heading": "porkbun.com | domain for sale",
+        "Abstract": "",
+        "Official Site": "https://drgns.space",
+        "Icon": "N/A",
+        "Redirect": "https://drgns.space",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://drgns.space"
+    },
+    {
         "link": "https://vermol.com",
         "Heading": "Vermol \u2013 Pinturas",
         "Abstract": null,
@@ -231,13 +241,13 @@
     },
     {
         "link": "https://backpackadventures.org",
-        "Heading": null,
+        "Heading": "Backpack Adventures -",
         "Abstract": null,
-        "Official Site": "https://backpackadventures.org",
-        "Icon": "data:;",
-        "Redirect": "https://backpackadventures.org",
+        "Official Site": "https://www.backpackadventures.org/",
+        "Icon": "https://www.backpackadventures.org/wp-content/uploads/2018/11/cropped-Logo3-32x32.png?x41032",
+        "Redirect": "https://www.backpackadventures.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://backpackadventures.org"
+        "AbstractURL": "https://www.backpackadventures.org/"
     },
     {
         "link": "https://rubyfacilities.co.in",
@@ -251,12 +261,12 @@
     },
     {
         "link": "https://alternative-therapies.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://alternative-therapies.com",
-        "Icon": "data:;",
-        "Redirect": "https://alternative-therapies.com",
+        "Heading": "- Alternative Therapies in Health and Medicine",
+        "Abstract": "Iterative Dual-AI Consultation for Error Detection in Clinical Medicine: A Case Study Demonstrating Convergent Validity Through Cross-Validation of Large Language Models Robert Hedaya, MD, DLFAPA Current Issue The following articles are from our May/June 2026 issue: Dr. James Greenblatt: Sharing His Views About the Functional Medicine Model of Depression Interview by Sheldon Baker Impact of",
+        "Official Site": "https://alternative-therapies.com/",
+        "Icon": "https://alternative-therapies.com/wp-content/uploads/2026/06/atHeader.jpg",
+        "Redirect": "https://alternative-therapies.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://alternative-therapies.com"
+        "AbstractURL": "https://alternative-therapies.com/"
     }
 ]

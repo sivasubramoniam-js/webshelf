@@ -71,7 +71,7 @@
     },
     {
         "link": "https://bj-tvart.com",
-        "Heading": "\u8bba\u575b -  \u7535\u89c6\u5305\u88c5\u7f51 -  Powered by Discuz!",
+        "Heading": "\u8bba\u575b -  \u7535\u89c6\u5305\u88c5\u7f51 -  \u624b\u673a\u7248 - Powered by Discuz!",
         "Abstract": "\u7535\u89c6\u5305\u88c5\u7f51 ,\u7535\u89c6\u5305\u88c5\u7f51",
         "Official Site": "https://bj-tvart.com",
         "Icon": "N/A",
@@ -110,24 +110,14 @@
         "AbstractURL": "https://jsmcogroup.co.uk/"
     },
     {
-        "link": "https://stevemcconnell.com",
-        "Heading": "Steve McConnell | Author, Speaker, CEO",
-        "Abstract": "Home page for Steve McConnell, author of Code Complete, Rapid Development, Software Estimation, and several other best selling software books.",
-        "Official Site": "https://stevemcconnell.com/",
-        "Icon": "https://stevemcconnell.com/wp-content/uploads/2017/08/steve-mcconnell-wordmark.png",
-        "Redirect": "https://stevemcconnell.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stevemcconnell.com/"
-    },
-    {
         "link": "https://netolease.co.il",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://netolease.co.il",
-        "Icon": "data:;",
-        "Redirect": "https://netolease.co.il",
+        "Heading": "Neto Lease - \u05e0\u05d8\u05d5 \u05dc\u05d9\u05e1 - \u05e8\u05db\u05d1 \u05d7\u05d3\u05e9 \u05d1\u05de\u05d9\u05de\u05d5\u05df \u05d4\u05d8\u05d5\u05d1 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc",
+        "Abstract": "\u05e8\u05db\u05d1 \u05d7\u05d3\u05e9.\u05de\u05d9\u05de\u05d5\u05df \u05de\u05d5\u05e9\u05dc\u05dd. \u05d4\u05db\u05dc \u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05d3 \u05d4\u05d1\u05d7\u05d9\u05e8\u05d4 \u05d4\u05d8\u05d5\u05d1\u05d4 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05e7\u05d1\u05dc \u05d4\u05e6\u05e2\u05d4 \u2190 \u05e7\u05d1\u05dc \u05d4\u05e6\u05e2\u05d4 \u2190 \u05d4\u05e0\u05de\u05db\u05e8\u05d9\u05dd \u05d1\u05d9\u05d5\u05ea\u05e8 2025 \u05dc\u05e7\u05d8\u05dc\u05d5\u05d2 \u05e8\u05db\u05d1\u05d9\u05dd \u2190 \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd \u05e0\u05d5\u05e1\u05e4\u05d9\u05dd \u2190 \u05dc\u05e4\u05e8\u05d8\u05d9\u05dd...",
+        "Official Site": "https://netolease.co.il/",
+        "Icon": "https://netolease.co.il/wp-content/uploads/2024/08/logo-END-1-1.png",
+        "Redirect": "https://netolease.co.il/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://netolease.co.il"
+        "AbstractURL": "https://netolease.co.il/"
     },
     {
         "link": "https://thefifthcity.wiki",
@@ -213,11 +203,11 @@
         "link": "https://actiontaimanin.net",
         "Heading": "Action Taimanin",
         "Abstract": "Official website for Action Taimanin, an intense, gorgeous hack-and-slash action RPG from the Taimanin fame! Check out our Facebook page for latest news and information.",
-        "Official Site": "https://www.actiontaimanin.net",
+        "Official Site": "https://www.actiontaimanin.net/",
         "Icon": "https://www.actiontaimanin.net/theme/basic/img/opimg.jpg",
-        "Redirect": "https://www.actiontaimanin.net",
+        "Redirect": "https://www.actiontaimanin.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.actiontaimanin.net"
+        "AbstractURL": "https://www.actiontaimanin.net/"
     },
     {
         "link": "https://mclane.com",

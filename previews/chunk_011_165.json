@@ -74,7 +74,7 @@
         "Heading": "Home | City of Kenora",
         "Abstract": "The official website for City of Kenora. Explore information about living here, recreation, resources and programs to start a business, and learn about Kenora's local municipal government.",
         "Official Site": "https://www.kenora.ca/",
-        "Icon": "https://www.kenora.ca/media/bixbtxd3/city-of-kenora-logo.svg",
+        "Icon": "https://media-003-ca.cdn.govstack.com/kenora-018-ca/media/bixbtxd3/city-of-kenora-logo.svg",
         "Redirect": "https://www.kenora.ca/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.kenora.ca/"
@@ -318,5 +318,15 @@
         "Redirect": "https://lgisl.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lgisl.com"
+    },
+    {
+        "link": "https://akpa.net.id",
+        "Heading": "SGDC \u2013 Internet Service Provider",
+        "Abstract": null,
+        "Official Site": "https://akpa.net.id",
+        "Icon": "https://akpa.net.id/staging/wp-content/uploads/2021/05/sgdc.png",
+        "Redirect": "https://akpa.net.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://akpa.net.id"
     }
 ]

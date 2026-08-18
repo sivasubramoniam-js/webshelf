@@ -21,10 +21,10 @@
     },
     {
         "link": "https://kennels.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://kennels.com",
-        "Icon": "https://storage.googleapis.com/landing_pager_public/favicons/yrpr.ico",
+        "Icon": "N/A",
         "Redirect": "https://kennels.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kennels.com"
@@ -131,13 +131,13 @@
     },
     {
         "link": "https://safetyresearch.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://safetyresearch.net",
-        "Icon": "data:;",
-        "Redirect": "https://safetyresearch.net",
+        "Heading": "Home - Safety Research & Strategies, Inc. - Safety Matters",
+        "Abstract": "Safety Research & Strategies, Inc. provides research, investigation, analysis, strategies, and advocacy on safety matters.",
+        "Official Site": "https://safetyresearch.net/",
+        "Icon": "https://safetyresearch.net/wp-content/uploads/2020/11/SafetyResearch_web_favicon_500-07-125x125.png",
+        "Redirect": "https://safetyresearch.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://safetyresearch.net"
+        "AbstractURL": "https://safetyresearch.net/"
     },
     {
         "link": "https://ingeneryi.info",
@@ -180,16 +180,6 @@
         "AbstractURL": "https://www.comcavi.it/"
     },
     {
-        "link": "https://lesandshotel.com",
-        "Heading": "Le Sands Oceanfront Danang Hotel",
-        "Abstract": "Where Indulgence Begins",
-        "Official Site": "https://lesandshotel.com",
-        "Icon": "http://lesands.ideafusion.vn/wp-content/uploads/2020/06/Le-Sands-Pool.jpg",
-        "Redirect": "https://lesandshotel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lesandshotel.com"
-    },
-    {
         "link": "https://222313.xyz",
         "Heading": "Page_660b31ab",
         "Abstract": null,
@@ -218,16 +208,6 @@
         "Redirect": "https://store.ubisoft.com/us/watch-dogs-legion/5cec2d5839798c0870c07698.html?lang=en_US",
         "AbstractSource": "BS4",
         "AbstractURL": "https://store.ubisoft.com/us/watch-dogs-legion/5cec2d5839798c0870c07698.html?lang=en_US"
-    },
-    {
-        "link": "https://fabiusmaximus.com",
-        "Heading": "Fabius Maximus website - Breathing on the embers of a dying Republic.",
-        "Abstract": "Breathing on the embers of a dying Republic.",
-        "Official Site": "http://fabiusmaximus.com/",
-        "Icon": "https://i0.wp.com/fabiusmaximus.com/wp-content/uploads/2017/11/cropped-cropped-fabiusmaximus31.png?fit=32%2C32&ssl=1",
-        "Redirect": "http://fabiusmaximus.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://fabiusmaximus.com/"
     },
     {
         "link": "https://deep2000.ru",

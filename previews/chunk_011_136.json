@@ -10,6 +10,16 @@
         "AbstractURL": "https://vinotemp.com/"
     },
     {
+        "link": "https://californiastrawberries.com",
+        "Heading": "Health Benefits, Recipes & Stories | California Strawberries",
+        "Abstract": "California strawberries are packed with nutrients & antioxidants. Available year-round, California strawberries are a sweet & versatile fruit. Learn more!",
+        "Official Site": "https://www.californiastrawberries.com/",
+        "Icon": "https://www.californiastrawberries.com/wp-content/uploads/2021/03/CSC_210224_candelario_0845-scaled.jpg",
+        "Redirect": "https://www.californiastrawberries.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.californiastrawberries.com/"
+    },
+    {
         "link": "https://theminixforum.com",
         "Heading": "MINIX Forum",
         "Abstract": "MINIX Forum",
@@ -223,11 +233,11 @@
         "link": "https://smdemo.website",
         "Heading": "My Blog - My WordPress Blog",
         "Abstract": "My WordPress Blog",
-        "Official Site": "https://smdemo.website/",
+        "Official Site": "http://smdemo.website/",
         "Icon": "N/A",
-        "Redirect": "https://smdemo.website/",
+        "Redirect": "http://smdemo.website/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://smdemo.website/"
+        "AbstractURL": "http://smdemo.website/"
     },
     {
         "link": "https://openslides.com",

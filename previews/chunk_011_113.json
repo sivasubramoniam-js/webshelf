@@ -50,6 +50,16 @@
         "AbstractURL": "https://www.multitanks.com/"
     },
     {
+        "link": "https://nycompanygo.com",
+        "Heading": "New York Companies Directory",
+        "Abstract": null,
+        "Official Site": "/",
+        "Icon": "/favicon.ico",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
         "link": "https://ams-photo-software.com",
         "Heading": "Creative photo editing software || AMS Software official website",
         "Abstract": "Seeking powerful software for photo editing and creative design? AMS Software offers you dozens of easy-to-use programs \u2013 check them out today!",
@@ -150,16 +160,6 @@
         "AbstractURL": "https://pelplin.pl"
     },
     {
-        "link": "https://scholarshipfund.org",
-        "Heading": "Children's Scholarship Fund - Scholarship Granting Organization",
-        "Abstract": "Children's Scholarship Fund is a Scholarship Granting Organization that expands educational opportunity by providing scholarships to families in need.",
-        "Official Site": "https://scholarshipfund.org/",
-        "Icon": "https://scholarshipfund.org/wp-content/uploads/2021/10/CSF-Logo-Stackedjpeg.jpg",
-        "Redirect": "https://scholarshipfund.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://scholarshipfund.org/"
-    },
-    {
         "link": "https://horx.com",
         "Heading": "Family-Horx - Horx Future GmbH",
         "Abstract": "Wir sind eine Zukunftsforscher-Familie, die jetzt in die zweite Generation geht. Aus den Anf\u00e4ngen der Trend\u00adforschung in den 90er Jahren entwickelte sich ein vielf\u00e4ltiger Prozess der Auseinandersetzung mit der Zukunft \u2013 sowohl im Sinne einer ganzheitlichen Prognostik als auch einer Besch\u00e4ftigung mit den INNEREN Dimensionen der Zukunft.",
@@ -251,13 +251,13 @@
     },
     {
         "link": "https://newskursk.ru",
-        "Heading": "\u041a\u0443\u0440\u0441\u043a\u0438\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438. \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u041a\u0443\u0440\u0441\u043a\u0430 \u0438 \u041a\u0443\u0440\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438: \u0413\u043b\u0430\u0432\u043d\u044b\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0434\u043d\u044f",
+        "Heading": "  \u041a\u0443\u0440\u0441\u043a\u0438\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438. \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u041a\u0443\u0440\u0441\u043a\u0430 \u0438 \u041a\u0443\u0440\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438: \u0413\u043b\u0430\u0432\u043d\u044b\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0434\u043d\u044f",
         "Abstract": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u041a\u0443\u0440\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438: \u0441\u0432\u0435\u0436\u0438\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0438, \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430, \u0441\u043f\u043e\u0440\u0442\u0430, \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0438, \u0416\u041a\u0425, \u043f\u0440\u043e\u0438\u0441\u0448\u0435\u0441\u0442\u0432\u0438\u0439 \u0438 \u0421\u0412\u041e. \u0427\u0438\u0442\u0430\u0439\u0442\u0435 \u0433\u043b\u0430\u0432\u043d\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0434\u043d\u044f \u043d\u0430 NEWSKURSK.RU",
-        "Official Site": "https://m.newskursk.ru/",
-        "Icon": "https://newskursk.ru/images/logo-sm.png",
-        "Redirect": "https://m.newskursk.ru/",
+        "Official Site": "https://newskursk.ru/",
+        "Icon": "https://newskursk.ru/images/logo-sm3.png",
+        "Redirect": "https://newskursk.ru/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://m.newskursk.ru/"
+        "AbstractURL": "https://newskursk.ru/"
     },
     {
         "link": "https://fulfill.com",
@@ -288,6 +288,16 @@
         "Redirect": "https://white-ibiza.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://white-ibiza.com/"
+    },
+    {
+        "link": "https://normandyvillagehall.org",
+        "Heading": "Ils Casino | Evoucher 15\u20ac D\u00e9p\u00f4t et Casino 15 Depot",
+        "Abstract": "Bienvenue sur ils casino. Profitez de l'offre evoucher 15 depot casino et d\u00e9couvrez les avantages du casino 15 depot ton en France.",
+        "Official Site": "https://fr-iledecasinos.com/",
+        "Icon": "https://fr-iledecasinos.com/wp-content/uploads/2026/02/ile-de-casino-en-ligne-france.webp",
+        "Redirect": "https://fr-iledecasinos.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fr-iledecasinos.com/"
     },
     {
         "link": "https://darkmarketlinkspro.com",
