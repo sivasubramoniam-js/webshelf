@@ -92,7 +92,7 @@
     {
         "link": "https://buffnet.net",
         "Heading": "buffnet.net",
-        "Abstract": null,
+        "Abstract": "Find information, resources and relevant links for buffnet.net. This domain may be for sale.",
         "Official Site": "https://buffnet.net",
         "Icon": "N/A",
         "Redirect": "https://buffnet.net",
@@ -118,6 +118,16 @@
         "Redirect": "https://totosite.space",
         "AbstractSource": "BS4",
         "AbstractURL": "https://totosite.space"
+    },
+    {
+        "link": "https://cravedfw.com",
+        "Heading": "cravedfw - Food, Arts, Music and Events in Dallas and Fort Worth, Dallas Food Blog",
+        "Abstract": "Food, foodie, Dallas Morning News, D Magazine, Dallas Observer, Restaurants, Things to do in Dallas, Entertainment",
+        "Official Site": "https://cravedfw.com/",
+        "Icon": "https://cravedfw.com/wp-content/uploads/2022/09/292701926_456671059795955_6163278030480260121_n.jpg",
+        "Redirect": "https://cravedfw.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cravedfw.com/"
     },
     {
         "link": "https://leasedirect.com",
@@ -160,16 +170,6 @@
         "AbstractURL": "https://ie-net.be"
     },
     {
-        "link": "https://dcihostserver.com",
-        "Heading": "DCI Host Server",
-        "Abstract": "",
-        "Official Site": "https://dcihostserver.com",
-        "Icon": "N/A",
-        "Redirect": "https://dcihostserver.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dcihostserver.com"
-    },
-    {
         "link": "https://veganyackattack.com",
         "Heading": "Vegan Yack Attack - A vegan recipe blog for people who love food",
         "Abstract": "With hundreds of vegan recipes varying from oil-free dinners to rich desserts, Jackie Sobon\u2019s blog has been providing creative, plant-based dishes for 13 years.",
@@ -208,6 +208,16 @@
         "Redirect": "https://www.eestikasiino.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.eestikasiino.com/"
+    },
+    {
+        "link": "https://asiagardenjackson.com",
+        "Heading": "Best Chinese, Japanese & Sushi Restaurant Jackson TN - Local Asia Food Delivery in Jackson TN - Asia Garden",
+        "Abstract": "Asia Garden is Award-winning Chinese, Japanese & sushi restaurant offering fresh, scratch-made dishes, dine-in, carryout, and delivery. Family-owned for over 35 years with relaxing atmosphere and top quality Asian cuisine.",
+        "Official Site": "https://asiagardenjackson.com/",
+        "Icon": "https://asiagardenjackson.com/wp-content/uploads/2019/02/Sushi-roll-Asia-Garden.jpg",
+        "Redirect": "https://asiagardenjackson.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://asiagardenjackson.com/"
     },
     {
         "link": "https://twobtextile.com",

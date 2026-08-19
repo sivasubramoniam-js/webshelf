@@ -21,7 +21,7 @@
     },
     {
         "link": "https://kennels.com",
-        "Heading": "Loading...",
+        "Heading": "Kennels",
         "Abstract": null,
         "Official Site": "https://kennels.com",
         "Icon": "N/A",
@@ -180,6 +180,16 @@
         "AbstractURL": "https://www.comcavi.it/"
     },
     {
+        "link": "https://lesandshotel.com",
+        "Heading": "Le Sands Oceanfront Danang Hotel",
+        "Abstract": "Where Indulgence Begins",
+        "Official Site": "https://lesandshotel.com",
+        "Icon": "http://lesands.ideafusion.vn/wp-content/uploads/2020/06/Le-Sands-Pool.jpg",
+        "Redirect": "https://lesandshotel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lesandshotel.com"
+    },
+    {
         "link": "https://222313.xyz",
         "Heading": "Page_660b31ab",
         "Abstract": null,
@@ -201,13 +211,23 @@
     },
     {
         "link": "https://watchdogs.com",
-        "Heading": "Buy Watch Dogs Legion PC, PS4, PS5, Xbox Editions | Ubisoft Store",
-        "Abstract": "Build a resistance from virtually anyone you see as you hack, infiltrate, and fight to take back a near-future London that is facing its downfall.",
-        "Official Site": "https://store.ubisoft.com/us/watch-dogs-legion/5cec2d5839798c0870c07698.html?lang=en_US",
-        "Icon": "https://store.ubisoft.com/on/demandware.static/-/Sites-masterCatalog/en_US/dwd550e9e9/images/pdpbanner/5cec2d5839798c0870c07698.jpg",
-        "Redirect": "https://store.ubisoft.com/us/watch-dogs-legion/5cec2d5839798c0870c07698.html?lang=en_US",
+        "Heading": "Watch Dogs: Legion on PC & More",
+        "Abstract": "Build a resistance from virtually anyone you see as you hack, infiltrate, and fight to take back a near-future London that is facing its downfall. Welcome to the Resistance.",
+        "Official Site": "https://www.ubisoft.com/en-us/games/watch-dogs-legion",
+        "Icon": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/40uED8mDrWJHDn1IpRQ71h/d04afcf806a04c7a0a4a11b2c72768d4/5cec2d5839798c0870c07698.jpg",
+        "Redirect": "https://www.ubisoft.com/en-us/games/watch-dogs-legion",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://store.ubisoft.com/us/watch-dogs-legion/5cec2d5839798c0870c07698.html?lang=en_US"
+        "AbstractURL": "https://www.ubisoft.com/en-us/games/watch-dogs-legion"
+    },
+    {
+        "link": "https://fabiusmaximus.com",
+        "Heading": "Fabius Maximus website - Breathing on the embers of a dying Republic.",
+        "Abstract": "Breathing on the embers of a dying Republic.",
+        "Official Site": "http://fabiusmaximus.com/",
+        "Icon": "https://i0.wp.com/fabiusmaximus.com/wp-content/uploads/2017/11/cropped-cropped-fabiusmaximus31.png?fit=32%2C32&ssl=1",
+        "Redirect": "http://fabiusmaximus.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://fabiusmaximus.com/"
     },
     {
         "link": "https://deep2000.ru",

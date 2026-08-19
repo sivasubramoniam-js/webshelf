@@ -50,16 +50,6 @@
         "AbstractURL": "https://www.multitanks.com/"
     },
     {
-        "link": "https://nycompanygo.com",
-        "Heading": "New York Companies Directory",
-        "Abstract": null,
-        "Official Site": "/",
-        "Icon": "/favicon.ico",
-        "Redirect": "/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "/"
-    },
-    {
         "link": "https://ams-photo-software.com",
         "Heading": "Creative photo editing software || AMS Software official website",
         "Abstract": "Seeking powerful software for photo editing and creative design? AMS Software offers you dozens of easy-to-use programs \u2013 check them out today!",
@@ -158,6 +148,16 @@
         "Redirect": "https://pelplin.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pelplin.pl"
+    },
+    {
+        "link": "https://scholarshipfund.org",
+        "Heading": "Children's Scholarship Fund - Scholarship Granting Organization",
+        "Abstract": "Children's Scholarship Fund is a Scholarship Granting Organization that expands educational opportunity by providing scholarships to families in need.",
+        "Official Site": "https://scholarshipfund.org/",
+        "Icon": "https://scholarshipfund.org/wp-content/uploads/2021/10/CSF-Logo-Stackedjpeg.jpg",
+        "Redirect": "https://scholarshipfund.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://scholarshipfund.org/"
     },
     {
         "link": "https://horx.com",
@@ -293,11 +293,11 @@
         "link": "https://normandyvillagehall.org",
         "Heading": "Ils Casino | Evoucher 15\u20ac D\u00e9p\u00f4t et Casino 15 Depot",
         "Abstract": "Bienvenue sur ils casino. Profitez de l'offre evoucher 15 depot casino et d\u00e9couvrez les avantages du casino 15 depot ton en France.",
-        "Official Site": "https://fr-iledecasinos.com/",
+        "Official Site": "https://198.37.112.93/",
         "Icon": "https://fr-iledecasinos.com/wp-content/uploads/2026/02/ile-de-casino-en-ligne-france.webp",
-        "Redirect": "https://fr-iledecasinos.com/",
+        "Redirect": "https://198.37.112.93/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fr-iledecasinos.com/"
+        "AbstractURL": "https://198.37.112.93/"
     },
     {
         "link": "https://darkmarketlinkspro.com",

@@ -54,7 +54,7 @@
         "Heading": "APK Unchek \u2014 Update Aplikasi Terbaru",
         "Abstract": "Download update APK Unchek versi terbaru langsung dari VANO NESIA.",
         "Official Site": "https://apkunchek.fun/",
-        "Icon": "https://apkunchek.fun/assets/img/gmail.png",
+        "Icon": "favicon.png",
         "Redirect": "https://apkunchek.fun/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://apkunchek.fun/"
@@ -150,6 +150,16 @@
         "AbstractURL": "https://attentionhero.com"
     },
     {
+        "link": "https://app.bonjek.id",
+        "Heading": "Login - BonjekBot",
+        "Abstract": null,
+        "Official Site": "https://app.bonjek.id",
+        "Icon": "N/A",
+        "Redirect": "https://app.bonjek.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://app.bonjek.id"
+    },
+    {
         "link": "https://app.cngnetwork.ng",
         "Heading": " CNG NETWORK - Login",
         "Abstract": "Join over 100,000 users growing their brands with Nigeria\u2019s most reliable SMM platform. Get real Instagram followers, YouTube views, TikTok likes &amp; more, fast, affordable, and automated!",
@@ -168,16 +178,6 @@
         "Redirect": "https://app.coin-funded.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://app.coin-funded.com"
-    },
-    {
-        "link": "https://app.colegiointeractivo.cl",
-        "Heading": "Redireccionando............",
-        "Abstract": null,
-        "Official Site": "https://app.colegiointeractivo.cl",
-        "Icon": "N/A",
-        "Redirect": "https://app.colegiointeractivo.cl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://app.colegiointeractivo.cl"
     },
     {
         "link": "https://app.conectepag.com.br",

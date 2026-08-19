@@ -200,16 +200,6 @@
         "AbstractURL": "https://torbali.bel.tr"
     },
     {
-        "link": "https://wdrxi.com",
-        "Heading": "1024\u5bfc\u822a",
-        "Abstract": "web browsing",
-        "Official Site": "https://wdrxi.com",
-        "Icon": "/assets/favicon.ico",
-        "Redirect": "https://wdrxi.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wdrxi.com"
-    },
-    {
         "link": "https://christophorus.at",
         "Heading": "Christophorus Reisen \u2013 sicher mehr erleben!",
         "Abstract": "Reiseb\u00fcro in Tirol \u2713 Busreisen, Sardinien Urlaub, Wellness, Abenteuer \u2713 Kreuzfahrten & Weltreisen \u2713 Im Reiseb\u00fcro oder online buchen \u2013 jetzt informieren!",
@@ -223,11 +213,11 @@
         "link": "https://xoilacvvw.cc",
         "Heading": "Xoilac TV ch\u00ednh th\u1ee9c - Tr\u1ef1c ti\u1ebfp b\u00f3ng \u0111\u00e1 Xoilac HD - BLV Roy",
         "Abstract": "Xoilac TV - Xem tr\u1ef1c ti\u1ebfp b\u00f3ng \u0111\u00e1 x\u00f4i l\u1ea1c HD, b\u00ecnh lu\u1eadn Ti\u1ebfng Vi\u1ec7t. K\u00eanh XoiacTV c\u1eadp nh\u1eadt nhanh l\u1ecbch thi \u0111\u1ea5u, nh\u1eadn \u0111\u1ecbnh, t\u1ef7 s\u1ed1 b\u00f3ng \u0111\u00e1, BXH.",
-        "Official Site": "https://hyperloop-one.com/",
-        "Icon": "https://cdn.hyperloop-one.com/2025/10/xoilactv1.png",
-        "Redirect": "https://hyperloop-one.com/",
+        "Official Site": "https://sos-bees.org/",
+        "Icon": "https://cdn.sos-bees.org/2025/10/xoilactv1.png",
+        "Redirect": "https://sos-bees.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hyperloop-one.com/"
+        "AbstractURL": "https://sos-bees.org/"
     },
     {
         "link": "https://animal-friends-croatia.org",
@@ -318,6 +308,16 @@
         "Redirect": "https://www.centinelanalytica.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.centinelanalytica.com"
+    },
+    {
+        "link": "https://karr83.world",
+        "Heading": "Karr83 Social Network",
+        "Abstract": "WoWonder v3.0.2 is a Social Networking Platform. With our new feature, user can wonder posts, photos,",
+        "Official Site": "https://karr83.world",
+        "Icon": "https://karr83.world/themes/wowonder/img/og.jpg",
+        "Redirect": "https://karr83.world",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://karr83.world"
     },
     {
         "link": "https://conjoint.ly",

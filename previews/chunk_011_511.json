@@ -60,16 +60,6 @@
         "AbstractURL": "https://mineralscouncil.org.za"
     },
     {
-        "link": "https://konyabilisim.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://konyabilisim.net",
-        "Icon": "N/A",
-        "Redirect": "https://konyabilisim.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://konyabilisim.net"
-    },
-    {
         "link": "https://shinemedicalcenter.com",
         "Heading": "Dr. Preyanshu Parekh, DO - Family Medicine Doctor - Beyond Concierge Medicine in Libertyville IL - MDVIP",
         "Abstract": "Learn more about Dr. Preyanshu Parekh, DO, Family Medicine doctor in Libertyville IL and how their MDVIP practice can provide you fully personalized primary care.",
@@ -84,7 +74,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://cdn-gtmimage.com",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
         "Redirect": "https://cdn-gtmimage.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cdn-gtmimage.com"
@@ -111,13 +101,13 @@
     },
     {
         "link": "https://archcuttingtools.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://archcuttingtools.com",
-        "Icon": "data:;",
-        "Redirect": "https://archcuttingtools.com",
+        "Heading": "ARCH Cutting Tools \u2013 Solid round and indexable metal working and cutting tools.",
+        "Abstract": "American manufacturer of solid round and indexable metal working and cutting tools.",
+        "Official Site": "https://www.archcuttingtools.com/",
+        "Icon": "https://www.archcuttingtools.com/wp-content/uploads/favicon.png",
+        "Redirect": "https://www.archcuttingtools.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://archcuttingtools.com"
+        "AbstractURL": "https://www.archcuttingtools.com/"
     },
     {
         "link": "https://possum-boutique.co.nz",
@@ -141,13 +131,13 @@
     },
     {
         "link": "https://desire-experience.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://desire-experience.com",
-        "Icon": "data:;",
-        "Redirect": "https://desire-experience.com",
+        "Heading": "Desire Resorts | Couples-Only | Riviera Maya",
+        "Abstract": "Desire Riviera Maya Pearl Resort is a Couples-only all-inclusive resort, luxury suites, clothing-optional ambience, seductive theme nights & daily activities.",
+        "Official Site": "https://www.desire-experience.com/",
+        "Icon": "https://www.desire-experience.com/wp-content/uploads/2026/06/slide-home_1920x1152.jpg",
+        "Redirect": "https://www.desire-experience.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://desire-experience.com"
+        "AbstractURL": "https://www.desire-experience.com/"
     },
     {
         "link": "https://amycedmondson.com",
@@ -168,6 +158,16 @@
         "Redirect": "https://pacificislandscuba.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pacificislandscuba.com"
+    },
+    {
+        "link": "https://utopik.es",
+        "Heading": "UTOPIK : Dise\ufffdo/Programaci\ufffdn Web",
+        "Abstract": "",
+        "Official Site": "https://utopik.es",
+        "Icon": "favicon.ico",
+        "Redirect": "https://utopik.es",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://utopik.es"
     },
     {
         "link": "https://hexheadart.com",
