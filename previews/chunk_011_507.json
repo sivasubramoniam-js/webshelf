@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.institutdegenech.fr/fr/accueil/"
     },
     {
-        "link": "https://wellesleybooks.com",
-        "Heading": "Home Page | Wellesley Books",
-        "Abstract": null,
-        "Official Site": "https://wellesleybooks.com/home",
-        "Icon": "https://wellesleybooks.com/sites/default/files/2025-08/logo-wide-new-site.png",
-        "Redirect": "https://wellesleybooks.com/home",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wellesleybooks.com/home"
-    },
-    {
         "link": "https://guhaw.com",
         "Heading": "guhaw.com | \u5fcd\u8005\u30d6\u30ed\u30b0 - \u5fcd\u8005\u30c4\u30fc\u30eb\u30ba",
         "Abstract": "\u3050\u306f\uff57 guhaw.com\u30c9\u30e1\u30a4\u30f3\u3067\u3042\u306a\u305f\u3060\u3051\u306e\u30d6\u30ed\u30b0\u3092\u4f5c\u3063\u3066\u307f\u307e\u305b\u3093\u304b\uff1f\u300e\u5fcd\u8005\u30c4\u30fc\u30eb\u30ba\u300f\u306a\u3089\u7121\u6599\u3067\u3042\u306a\u305f\u306e\u30d6\u30ed\u30b0\u3092\u4f5c\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
@@ -120,6 +110,16 @@
         "AbstractURL": "https://psychedelic.support/"
     },
     {
+        "link": "https://idilaguna.com",
+        "Heading": "Instituto de Desarrollo Integral de la Laguna A.C. | Instituto de educaci\u00f3n especial",
+        "Abstract": null,
+        "Official Site": "https://www.idilaguna.com/",
+        "Icon": "https://www.idilaguna.org.mx/wp-content/uploads/2017/02/screenshot.png",
+        "Redirect": "https://www.idilaguna.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.idilaguna.com/"
+    },
+    {
         "link": "https://silvertraveladvisor.com",
         "Heading": "Travel & Holidays For Over 50s - Silver Travel Advisor",
         "Abstract": "Welcome to Silver Travel Advisor, the UK\u2019s leading travel agent for the over 50s. We take a personal approach to creating your perfect holiday.",
@@ -148,6 +148,16 @@
         "Redirect": "https://grosseladies.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://grosseladies.de"
+    },
+    {
+        "link": "https://quegelaile.cn",
+        "Heading": "\u3010\u56fd\u4ea7\u7cbe\u54c1\u9ad8\u6e05\u3011\u514d\u8d39\u6b63\u7248\u9ad8\u6e05\u7247\u5e93\uff5c\u56fd\u4ea7\u7cbe\u54c1\u9ad8\u6e05\u5728\u7ebf\u89c2\u770b",
+        "Abstract": "\u6c47\u805a\u56fd\u4ea7\u7cbe\u54c1\u9ad8\u6e05\u5728\u7ebf\u89c2\u770b\u4f18\u8d28\u7247\u6e90\uff0c\u4e25\u9009\u56fd\u4ea7\u7535\u5f71\u3001\u7535\u89c6\u5267\u3001\u7efc\u827a\u4e0e\u52a8\u6f2b\u4f73\u7247\uff0c4K\u84dd\u5149\u753b\u8d28\u3001\u7247\u5e93\u65e5\u66f4\u3001\u5206\u7c7b\u6e05\u6670\u5373\u70b9\u5373\u64ad\u3002",
+        "Official Site": "https://quegelaile.cn",
+        "Icon": "/vite.svg",
+        "Redirect": "https://quegelaile.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://quegelaile.cn"
     },
     {
         "link": "https://coamix.co.jp",

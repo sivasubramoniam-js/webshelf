@@ -90,16 +90,6 @@
         "AbstractURL": "https://neontri.com/"
     },
     {
-        "link": "https://brignews.com",
-        "Heading": "Brig Newspaper - University of Stirling's student newspaper since 1969",
-        "Abstract": "University of Stirling's student newspaper since 1969",
-        "Official Site": "https://brignews.com/",
-        "Icon": "https://i0.wp.com/brignews.com/wp-content/uploads/2023/02/cropped-Untitled-design-30.png?fit=32%2C32&ssl=1",
-        "Redirect": "https://brignews.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://brignews.com/"
-    },
-    {
         "link": "https://optimumcenter.it",
         "Heading": "Centro Medico Diagnostico Optimum \u2013 Innovazione e Diagnostica",
         "Abstract": null,
@@ -210,6 +200,16 @@
         "AbstractURL": "https://isdonline.de/"
     },
     {
+        "link": "https://deliverdifferent.com",
+        "Heading": "Deliver Different \u2013 Complete TMS Ecosystem. Built by Transport Experts",
+        "Abstract": "Complete TMS Ecosystem. Built by Transport Experts",
+        "Official Site": "https://deliverdifferent.com/",
+        "Icon": "https://i0.wp.com/deliverdifferent.com/wp-content/uploads/2024/01/DFRNT_SmallAtom_RGB.png?fit=1200%2C1200&ssl=1",
+        "Redirect": "https://deliverdifferent.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deliverdifferent.com/"
+    },
+    {
         "link": "https://158sipdehatur.xyz",
         "Heading": "TOGEL158 EDISI TERBARU - togel158mart.com",
         "Abstract": "Akses masuk akun paling cepat dan mudah tanpa hambatan!",
@@ -278,5 +278,15 @@
         "Redirect": "https://gosmpn.ru.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gosmpn.ru.com/"
+    },
+    {
+        "link": "https://ohota.store",
+        "Heading": "Manavgat Escort - Manavgat Side Escort - Alanya Escort",
+        "Abstract": "Manavgat escort ve Alanya escort bayan arayanlara; Side, Kumk\u00f6y, Alanya ve daha fazlas\u0131nda escort bayanlar.",
+        "Official Site": "https://kryptoav.com/",
+        "Icon": "N/A",
+        "Redirect": "https://kryptoav.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kryptoav.com/"
     }
 ]

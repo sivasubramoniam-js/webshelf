@@ -41,8 +41,8 @@
     },
     {
         "link": "https://hethongdientuht.com",
-        "Heading": "H\u1ec7 Th\u1ed1ng \u0110i\u1ec7n T\u1eed HT - D\u1ecbch V\u1ee5 S\u1eeda Tivi T\u1ea1i Nh\u00e0 Chuy\u00ean Nghi\u1ec7p",
-        "Abstract": "D\u1ecbch v\u1ee5 s\u1eeda tivi, s\u1eeda t\u1ee7 l\u1ea1nh, s\u1eeda m\u00e1y gi\u1eb7t, s\u1eeda m\u00e1y l\u1ecdc n\u01b0\u1edbc, s\u1eeda m\u00e1y l\u1ea1nh t\u1ea1i nh\u00e0 TPHCM gi\u00e1 r\u1ebb, uy t\u00edn, chuy\u00ean nghi\u1ec7p. Hotline: 1900.9200",
+        "Heading": "\u0110i\u1ec7n T\u1eed HT - H\u1ec7 Th\u1ed1ng S\u1eeda Ch\u1eefa \u0110i\u1ec7n M\u00e1y To\u00e0n Qu\u1ed1c",
+        "Abstract": "\u0110i\u1ec7n T\u1eed HT cung c\u1ea5p h\u1ec7 th\u1ed1ng tr\u1ea1m s\u1eeda ch\u1eefa \u0111i\u1ec7n m\u00e1y tr\u00ean to\u00e0n qu\u1ed1c. T\u00ecm khu v\u1ef1c ph\u1ee5c v\u1ee5, tr\u1ea1m g\u1ea7n b\u1ea1n v\u00e0 \u0111\u1eb7t l\u1ecbch s\u1eeda ch\u1eefa nhanh ch\u00f3ng.",
         "Official Site": "https://hethongdientuht.com/",
         "Icon": "https://hethongdientuht.com/wp-content/uploads/2023/07/banner-dientuht-1200x357.jpg",
         "Redirect": "https://hethongdientuht.com/",
@@ -358,5 +358,15 @@
         "Redirect": "https://www.nationalsports.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.nationalsports.com/"
+    },
+    {
+        "link": "https://christianindex.org",
+        "Heading": "Home page - The Christian Index",
+        "Abstract": "",
+        "Official Site": "https://christianindex.org/",
+        "Icon": "https://epsilon.creativecirclecdn.com/christianindex/original/20230306-111509-tci-og.png.jpg",
+        "Redirect": "https://christianindex.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://christianindex.org/"
     }
 ]

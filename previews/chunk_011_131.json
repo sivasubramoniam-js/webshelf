@@ -53,11 +53,11 @@
         "link": "https://defdist.org",
         "Heading": "Defense Distributed",
         "Abstract": "Private Defense Tech Development in the Public Interest",
-        "Official Site": "https://defdist.org",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://defdist.org",
+        "Official Site": "https://www.defdist.org",
+        "Icon": "https://www.defdist.org/opengraph-image?2d3dea68f974a32e",
+        "Redirect": "https://www.defdist.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://defdist.org"
+        "AbstractURL": "https://www.defdist.org"
     },
     {
         "link": "https://synthiaonline.com",
@@ -220,16 +220,6 @@
         "AbstractURL": "https://amazingcelebrationsllc.com/"
     },
     {
-        "link": "https://dmdomains.dm",
-        "Heading": "Tucows Registry Services | For gTLDs, ccTLDs & DotBrands",
-        "Abstract": "Grow your TLD on an industry-leading platform. Trusted by registries worldwide for resilience, global reach, and expert guidance.",
-        "Official Site": "https://www.tucowsregistry.com/",
-        "Icon": "https://framerusercontent.com/images/Op7hGhfGh3YZeHZSOGKf53fLv0.svg",
-        "Redirect": "https://www.tucowsregistry.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.tucowsregistry.com/"
-    },
-    {
         "link": "https://eibich.de",
         "Heading": "Eibich GmbH & Co. KG",
         "Abstract": "IT-Systemhaus in Plochingen | Infrastruktur, Sicherheit & Software | Eibich",
@@ -241,13 +231,13 @@
     },
     {
         "link": "https://asiabusinessoutlook.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://asiabusinessoutlook.com",
-        "Icon": "N/A",
-        "Redirect": "https://asiabusinessoutlook.com",
+        "Heading": "Asia Business Magazines | Asia Business Leaders - Asia Business Outlook",
+        "Abstract": "Asia Business Outlook provides expert analysis of the Industry experts and leaders from Asia region and the update news and current affairs of the current situation.",
+        "Official Site": "https://www.asiabusinessoutlook.com",
+        "Icon": "https://www.asiabusinessoutlook.com/images/banner/Fav-icon-new.jpg",
+        "Redirect": "https://www.asiabusinessoutlook.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://asiabusinessoutlook.com"
+        "AbstractURL": "https://www.asiabusinessoutlook.com"
     },
     {
         "link": "https://espacioverde.org",
@@ -258,16 +248,6 @@
         "Redirect": "https://espacioverde.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://espacioverde.org"
-    },
-    {
-        "link": "https://villasdeccor.com.br",
-        "Heading": "Villas Deccor \u2013 M\u00e1rmores e Granitos",
-        "Abstract": "Bem Vindo a Villas Deccor  \nNavegue pelo nosso site e conhe\u00e7a a variedade de produtos que temos para oferecer. Somos especialistas em Soleiras de M\u00e1rmores e Granitos, como pias, lavat\u00f3rios, cubas, balc\u00f5es, pisos de granito, escadas e peitoris.  \n\n \nTrabalhamos com produtos de alta qualidade e profissionais qualificados",
-        "Official Site": "https://villasdeccor.com.br/",
-        "Icon": "https://villasdeccor.com.br/wp-content/uploads/2023/08/logo-villas.png",
-        "Redirect": "https://villasdeccor.com.br/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://villasdeccor.com.br/"
     },
     {
         "link": "https://blc88.net",
@@ -284,7 +264,7 @@
         "Heading": "Forcetalks - A Salesforce Community for you, of you, by you",
         "Abstract": null,
         "Official Site": "https://forcetalks.com",
-        "Icon": "https://cdn.forcetalks.com/wp-content/uploads/2018/05/32x32.png?x72529",
+        "Icon": "https://cdn.forcetalks.com/wp-content/uploads/2018/05/32x32.png?x14128",
         "Redirect": "https://forcetalks.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://forcetalks.com"
@@ -298,6 +278,16 @@
         "Redirect": "https://inchpro.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://inchpro.com"
+    },
+    {
+        "link": "https://mibiquge.com",
+        "Heading": "\u7c73\u7b14\u8da3\u9601_\u65e0\u5f39\u7a97\u4e66\u53cb\u6700\u503c\u5f97\u6536\u85cf\u7684\u7f51\u7edc\u5c0f\u8bf4\u9605\u8bfb\u7f51",
+        "Abstract": "\u7c73\u7b14\u8da3\u9601\u662f\u5e7f\u5927\u4e66\u53cb\u6700\u503c\u5f97\u6536\u85cf\u7684\u7f51\u7edc\u5c0f\u8bf4\u9605\u8bfb\u7f51\uff0c\u7f51\u7ad9\u6536\u5f55\u4e86\u5f53\u524d\u6700\u706b\u70ed\u7684\u7f51\u7edc\u5c0f\u8bf4\uff0c\u514d\u8d39\u63d0\u4f9b\u9ad8\u8d28\u91cf\u7684\u5c0f\u8bf4\u6700\u65b0\u7ae0\u8282\uff0c\u662f\u5e7f\u5927\u7f51\u7edc\u5c0f\u8bf4\u7231\u597d\u8005\u5fc5\u5907\u7684\u5c0f\u8bf4\u9605\u8bfb\u7f51\u3002",
+        "Official Site": "https://mibiquge.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://mibiquge.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mibiquge.com"
     },
     {
         "link": "https://busworld.org",

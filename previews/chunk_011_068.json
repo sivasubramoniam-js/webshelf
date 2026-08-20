@@ -20,16 +20,6 @@
         "AbstractURL": "https://ibsasport.org"
     },
     {
-        "link": "https://mvlchain.io",
-        "Heading": "MVL l Blockchain Mobility Ecosystem",
-        "Abstract": "MVL is a blockchain mobility ecosystem where various services are linked into one, and all the participants\u2019 mobility data exchange transparently at fair value.",
-        "Official Site": "https://mvlchain.io/",
-        "Icon": "https://cdn.imweb.me/upload/S20210416bccc442510498/ebf0da281f3d0.png",
-        "Redirect": "https://mvlchain.io/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mvlchain.io/"
-    },
-    {
         "link": "https://iplants.ru",
         "Heading": "\u041a\u043e\u043c\u043d\u0430\u0442\u043d\u044b\u0435 \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u044f \u0438 \u0446\u0432\u0435\u0442\u044b",
         "Abstract": null,
@@ -268,6 +258,16 @@
         "Redirect": "https://kohlbecker.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kohlbecker.de/"
+    },
+    {
+        "link": "https://babesvsrobots.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://babesvsrobots.com",
+        "Icon": "N/A",
+        "Redirect": "https://babesvsrobots.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://babesvsrobots.com"
     },
     {
         "link": "https://rakennerahastot.fi",

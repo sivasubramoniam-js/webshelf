@@ -140,6 +140,16 @@
         "AbstractURL": "https://federalwaywa.gov"
     },
     {
+        "link": "https://vircio.com",
+        "Heading": "VirCIO - Your Virtual CIO",
+        "Abstract": null,
+        "Official Site": "https://www.vircio.com/",
+        "Icon": "https://www.vircio.com/files/2015/05/logo2.png",
+        "Redirect": "https://www.vircio.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.vircio.com/"
+    },
+    {
         "link": "https://ledchampion.de",
         "Heading": "LEDChampion, Spezialist in LED Streifen & LED Beleuchtung - Ledchampion.de",
         "Abstract": "Bei uns finden Sie ein gro\u00dfes Sortiment an LED Streifen in diversen L\u00e4ngen und Farben. Schnelle Lieferung, gratis ab 49,-",
@@ -293,11 +303,11 @@
         "link": "https://makingitlovely.com",
         "Heading": "Making it Lovely - A design blog about living a stylish life and transforming the so-so.",
         "Abstract": "A design blog about living a stylish life and transforming the so-so.",
-        "Official Site": "https://makingitlovely.com/",
+        "Official Site": "http://makingitlovely.com/",
         "Icon": "https://makingitlovely.com/wp-content/uploads/2022/08/NicoleBalch_ColorFactory_RedPink_2100-810x370.jpg",
-        "Redirect": "https://makingitlovely.com/",
+        "Redirect": "http://makingitlovely.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://makingitlovely.com/"
+        "AbstractURL": "http://makingitlovely.com/"
     },
     {
         "link": "https://gatiksoft.com",
@@ -318,16 +328,6 @@
         "Redirect": "https://rulebricks.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rulebricks.com/"
-    },
-    {
-        "link": "https://atsjats.org",
-        "Heading": "Adventist Theological Society | Home",
-        "Abstract": "",
-        "Official Site": "/",
-        "Icon": "/assets/components/phpthumbof/cache/aaron-burden-c333d6YEhi0-unsplash.9f6584a8acaa327e2349ce580fd36750.jpg",
-        "Redirect": "/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "/"
     },
     {
         "link": "https://sigmaprime.io",

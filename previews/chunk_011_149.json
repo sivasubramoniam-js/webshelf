@@ -174,7 +174,7 @@
         "Heading": "Tech Talent, Training & Transformation | Tenth Revolution Group",
         "Abstract": "Tenth Revolution Group are global leaders in trusted technology talent, finding, training and deploying IT professionals. | Tenth Revolution Group",
         "Official Site": "https://www.tenthrevolution.com/",
-        "Icon": "https://www.tenthrevolution.com/wp-content/uploads/2026/06/TRG-26-Featured-Image-TTT-1.jpg",
+        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
         "Redirect": "https://www.tenthrevolution.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tenthrevolution.com/"
@@ -198,6 +198,16 @@
         "Redirect": "https://techsupport-corp.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://techsupport-corp.net"
+    },
+    {
+        "link": "https://tumsra.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://tumsra.net",
+        "Icon": "N/A",
+        "Redirect": "https://tumsra.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tumsra.net"
     },
     {
         "link": "https://ansinaweb.com",

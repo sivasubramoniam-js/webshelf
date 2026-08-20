@@ -60,6 +60,16 @@
         "AbstractURL": "https://mineralscouncil.org.za"
     },
     {
+        "link": "https://konyabilisim.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://konyabilisim.net",
+        "Icon": "N/A",
+        "Redirect": "https://konyabilisim.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://konyabilisim.net"
+    },
+    {
         "link": "https://shinemedicalcenter.com",
         "Heading": "Dr. Preyanshu Parekh, DO - Family Medicine Doctor - Beyond Concierge Medicine in Libertyville IL - MDVIP",
         "Abstract": "Learn more about Dr. Preyanshu Parekh, DO, Family Medicine doctor in Libertyville IL and how their MDVIP practice can provide you fully personalized primary care.",
@@ -74,7 +84,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://cdn-gtmimage.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://cdn-gtmimage.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cdn-gtmimage.com"

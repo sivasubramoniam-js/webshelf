@@ -221,7 +221,7 @@
     },
     {
         "link": "https://assdrty.com",
-        "Heading": "assurity",
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://assdrty.com",
         "Icon": "N/A",
@@ -308,6 +308,16 @@
         "Redirect": "https://enoshop.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://enoshop.co.uk/"
+    },
+    {
+        "link": "https://universal-blue.org",
+        "Heading": "Universal Blue \u2013 Powered by the future, delivered today",
+        "Abstract": "Universal Blue manufactures a diverse set of operating system images to provide the the reliability of a Chromebook, but with the flexibility and power of a traditional Linux desktop.",
+        "Official Site": "https://universal-blue.org/",
+        "Icon": "https://universal-blue.org/content/preview2.png",
+        "Redirect": "https://universal-blue.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://universal-blue.org/"
     },
     {
         "link": "https://besiktasforum.net",

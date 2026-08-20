@@ -40,16 +40,6 @@
         "AbstractURL": "https://art-volzhskiy.ru/"
     },
     {
-        "link": "https://simplesend.com",
-        "Heading": "My WordPress",
-        "Abstract": null,
-        "Official Site": "https://simplesend.com",
-        "Icon": "N/A",
-        "Redirect": "https://simplesend.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://simplesend.com"
-    },
-    {
         "link": "https://mydiginest.com",
         "Heading": "Home - Mydiginest",
         "Abstract": "mydiginest.com Your Guide to the Digital World Explore the latest trends and insights in digital lifestyle, education, and gadgets with [\u2026]",
@@ -203,11 +193,11 @@
         "link": "https://klipsmedia.ro",
         "Heading": "Klipsprint DESIGN Bistrita - Servicii print digital,publicitate,promotionale si web design",
         "Abstract": "Oferim servicii de print digital Bistrita,promotionale,web design bistrita si servicii de host",
-        "Official Site": "https://www.klipsmedia.ro/",
+        "Official Site": "https://klipsmedia.ro/",
         "Icon": "/images/favicon.ico",
-        "Redirect": "https://www.klipsmedia.ro/",
+        "Redirect": "https://klipsmedia.ro/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.klipsmedia.ro/"
+        "AbstractURL": "https://klipsmedia.ro/"
     },
     {
         "link": "https://anytube.xyz",

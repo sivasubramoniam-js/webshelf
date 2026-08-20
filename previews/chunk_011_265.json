@@ -232,7 +232,7 @@
     {
         "link": "https://brasilsolidario.org.br",
         "Heading": "Home | Instituto Brasil Solid\u00e1rio (IBS)",
-        "Abstract": null,
+        "Abstract": "https://test123.com/",
         "Official Site": "https://brasilsolidario.org.br",
         "Icon": "https://www.brasilsolidario.org.br/wp-content/uploads/favicon.png",
         "Redirect": "https://brasilsolidario.org.br",
@@ -271,10 +271,10 @@
     },
     {
         "link": "https://brawler.top",
-        "Heading": "Brawl Stars Free Rewards Generator 2025 - Get Free Items",
-        "Abstract": "Get free rewards for Brawl Stars! Working 2025 generator - enter your player tag and claim your free items now!",
+        "Heading": "Mobile Only",
+        "Abstract": null,
         "Official Site": "https://brawler.top",
-        "Icon": "images/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://brawler.top",
         "AbstractSource": "BS4",
         "AbstractURL": "https://brawler.top"

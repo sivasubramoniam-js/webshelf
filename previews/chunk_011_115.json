@@ -120,16 +120,6 @@
         "AbstractURL": "https://sccwi.gov"
     },
     {
-        "link": "https://pocc.us",
-        "Heading": "Point of Choice Consulting \u2013 Build Your Future Today",
-        "Abstract": null,
-        "Official Site": "https://pocc.us",
-        "Icon": "https://pocc.us/wp-content/uploads/2020/01/cropped-POCC-LOGO-32x32.png",
-        "Redirect": "https://pocc.us",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pocc.us"
-    },
-    {
         "link": "https://xihegame.com",
         "Heading": "\u7fb2\u548c\u7f51\u7edc-MIGA - Your best Friend",
         "Abstract": "XIHE | Minimal Multipurpose HTML5 Template",
@@ -148,6 +138,16 @@
         "Redirect": "https://ventureloop.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ventureloop.com"
+    },
+    {
+        "link": "https://dancinggirls.online",
+        "Heading": "dancinggirls.online\u00a0-\u00a0dancinggirls Resources and Information.",
+        "Abstract": "dancinggirls.online is your first and best source for information about dancinggirls. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://dancinggirls.online",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://dancinggirls.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dancinggirls.online"
     },
     {
         "link": "https://orangestandard.com",
