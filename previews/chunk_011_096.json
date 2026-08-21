@@ -200,16 +200,6 @@
         "AbstractURL": "https://dislanet.com"
     },
     {
-        "link": "https://dreamcenter.org",
-        "Heading": "Home - Dream Center",
-        "Abstract": "The Dream Center is a faith-based charitable organization that finds and fills the needs of struggling people from all over the United States. Since 1995, thousands of individuals and families have found hope and healing through the programs that only the Dream Center offers. The Dream Center aims to not only meet the immediate needs of communities like providing food and clothing, but also focuses on the full successful transformation of people\u2019s lives, all free of charge.",
-        "Official Site": "https://www.dreamcenter.org/",
-        "Icon": "https://www.dreamcenter.org/wp-content/uploads/2017/10/dream_center_favicon-150x150.png",
-        "Redirect": "https://www.dreamcenter.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.dreamcenter.org/"
-    },
-    {
         "link": "https://abel-mobilfunk.de",
         "Heading": "Home | ABEL Mobilfunk",
         "Abstract": "ABEL \u2013 Deutschlands Marktf\u00fchrer im Bereich Mobilfunk-Netzbau.",
@@ -250,6 +240,16 @@
         "AbstractURL": "https://landfermann-gym.eu"
     },
     {
+        "link": "https://eoglp.de",
+        "Heading": "\n                    IServ - eoglp.de\n            ",
+        "Abstract": null,
+        "Official Site": "https://eoglp.de",
+        "Icon": "/iserv/css/static/icons/android-chrome-192x192.fc2f37a3.png",
+        "Redirect": "https://eoglp.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eoglp.de"
+    },
+    {
         "link": "https://projectcontent.com",
         "Heading": "Project Content \u2013 Manage your LED display quickly",
         "Abstract": null,
@@ -271,10 +271,10 @@
     },
     {
         "link": "https://puble.io",
-        "Heading": null,
+        "Heading": "Privacy Keeper",
         "Abstract": null,
         "Official Site": "https://puble.io",
-        "Icon": "https://storage.googleapis.com/landing_pager_public/favicons/opdf.ico",
+        "Icon": "/assets/apps/beleza-privacykeeper/favicon.png",
         "Redirect": "https://puble.io",
         "AbstractSource": "BS4",
         "AbstractURL": "https://puble.io"

@@ -151,23 +151,13 @@
     },
     {
         "link": "https://exploremembership.uk",
-        "Heading": "Sign in to your account",
+        "Heading": "Redirecting",
         "Abstract": null,
         "Official Site": "https://exploremembership.uk",
-        "Icon": "https://aadcdn.msauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico",
+        "Icon": "N/A",
         "Redirect": "https://exploremembership.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://exploremembership.uk"
-    },
-    {
-        "link": "https://exploremotorcycle.com",
-        "Heading": "Explore Motorcycle - Blog for curious Motorcyclists",
-        "Abstract": "Explore Motorcycle is destination for motorcyclists where we share all information about Motorcycle parts, maintenance, beginners information.",
-        "Official Site": "https://exploremotorcycle.com/",
-        "Icon": "https://exploremotorcycle.com/wp-content/uploads/2023/01/explore-motorcycle-small-icon.png",
-        "Redirect": "https://exploremotorcycle.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://exploremotorcycle.com/"
     },
     {
         "link": "https://expogarment.com",
@@ -210,16 +200,6 @@
         "AbstractURL": "http://extranet.mppsp.gob.ve/"
     },
     {
-        "link": "https://extrapowar.in",
-        "Heading": "Extra Power",
-        "Abstract": null,
-        "Official Site": "https://extrapowar.in",
-        "Icon": "N/A",
-        "Redirect": "https://extrapowar.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://extrapowar.in"
-    },
-    {
         "link": "https://extwo.biz.id",
         "Heading": "EXTWO - Streaming Online Free",
         "Abstract": null,
@@ -248,6 +228,16 @@
         "Redirect": "https://ezchoya.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ezchoya.com"
+    },
+    {
+        "link": "https://ezfuu.uk",
+        "Heading": "Title",
+        "Abstract": null,
+        "Official Site": "https://ezfuu.uk",
+        "Icon": "./static/ico/favicon-BdE1Ptaa.ico",
+        "Redirect": "https://ezfuu.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ezfuu.uk"
     },
     {
         "link": "https://ezi88gatot.com",

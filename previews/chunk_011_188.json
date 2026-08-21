@@ -21,13 +21,13 @@
     },
     {
         "link": "https://bagatelle.com",
-        "Heading": "A love letter to the French joie de Vivre",
-        "Abstract": "A love letter to the French Riviera, Bagatelle restaurants offer guests Mediterranean cuisine, elegant architecture, personalized service, vibrant music...",
-        "Official Site": "https://bagatelle.com/",
-        "Icon": "https://bagatelle.com/app/uploads/2021/06/bagatelle-home-facebook-meta.jpg",
-        "Redirect": "https://bagatelle.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bagatelle.com",
+        "Icon": "N/A",
+        "Redirect": "https://bagatelle.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bagatelle.com/"
+        "AbstractURL": "https://bagatelle.com"
     },
     {
         "link": "https://mbcarolinas.org",
@@ -120,16 +120,6 @@
         "AbstractURL": "https://totosite.space"
     },
     {
-        "link": "https://cravedfw.com",
-        "Heading": "cravedfw - Food, Arts, Music and Events in Dallas and Fort Worth, Dallas Food Blog",
-        "Abstract": "Food, foodie, Dallas Morning News, D Magazine, Dallas Observer, Restaurants, Things to do in Dallas, Entertainment",
-        "Official Site": "https://cravedfw.com/",
-        "Icon": "https://cravedfw.com/wp-content/uploads/2022/09/292701926_456671059795955_6163278030480260121_n.jpg",
-        "Redirect": "https://cravedfw.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cravedfw.com/"
-    },
-    {
         "link": "https://leasedirect.com",
         "Heading": "LeaseDirect",
         "Abstract": "LeaseDirect",
@@ -201,13 +191,13 @@
     },
     {
         "link": "https://eestikasiino.com",
-        "Heading": "Eesti Kasiinod 2026 | K\u00f5ik Litsentseeritud Online Kasiinod",
-        "Abstract": "Eesti kasiinod, ausad arvustused, testitud boonused ja v\u00e4ljamakse info. V\u00f5rdluseks Eesti online kasiinod (EMTA litsentsiga). Tasuta t\u00f6\u00f6riistad ja juhendid!",
-        "Official Site": "https://www.eestikasiino.com/",
-        "Icon": "https://www.eestikasiino.com/wp-content/plugins/glcore/src/img/social-media-general-image_1200x630.png",
-        "Redirect": "https://www.eestikasiino.com/",
+        "Heading": "Kasiino Uudised 2026 - Uudised kasiinomaailmast meilt ja mujalt",
+        "Abstract": "V\u00e4rsked kasiino uudised. Mis kasiinodes toimub, kus just \u00e4sja suurim v\u00f5it saad ja palju muud. Siit leiad kasiino uudised meilt ja mujalt.",
+        "Official Site": "https://eestikasiino.com",
+        "Icon": "https://www.eestikasiino.com/wp-content/uploads/cropped-eestikasiino.com-favicon-32x32.png",
+        "Redirect": "https://eestikasiino.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.eestikasiino.com/"
+        "AbstractURL": "https://eestikasiino.com"
     },
     {
         "link": "https://twobtextile.com",

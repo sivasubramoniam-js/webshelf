@@ -110,16 +110,6 @@
         "AbstractURL": "https://www.laskaridisfoundation.org/"
     },
     {
-        "link": "https://pintask.me",
-        "Heading": "Account Suspended",
-        "Abstract": null,
-        "Official Site": "https://pintask.me",
-        "Icon": "N/A",
-        "Redirect": "https://pintask.me",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pintask.me"
-    },
-    {
         "link": "https://crchealth.com",
         "Heading": "Acadia Healthcare | A Standard of Excellence",
         "Abstract": "Acadia Healthcare operates a network of premier behavioral healthcare facilities in the United States and Puerto Rico. Offering multiple levels of care for all populations.",
@@ -192,7 +182,7 @@
     {
         "link": "https://klipsmedia.ro",
         "Heading": "Klipsprint DESIGN Bistrita - Servicii print digital,publicitate,promotionale si web design",
-        "Abstract": "Oferim servicii de print digital Bistrita,promotionale,web design bistrita si servicii de host",
+        "Abstract": null,
         "Official Site": "https://klipsmedia.ro/",
         "Icon": "/images/favicon.ico",
         "Redirect": "https://klipsmedia.ro/",

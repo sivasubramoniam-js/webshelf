@@ -20,6 +20,16 @@
         "AbstractURL": "https://ecolemarche.com"
     },
     {
+        "link": "https://econcours-pro.gov.bf",
+        "Heading": "e-concourspro | Inscription en ligne aux concours professionnels",
+        "Abstract": null,
+        "Official Site": "https://econcours-pro.gov.bf",
+        "Icon": "favicon.ico",
+        "Redirect": "https://econcours-pro.gov.bf",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://econcours-pro.gov.bf"
+    },
+    {
         "link": "https://economicasvirtual.edu.ar",
         "Heading": "Economicas Virtual - Facultad de Ciencias Economicas y de Administracion UNCa- ",
         "Abstract": null,
@@ -178,16 +188,6 @@
         "Redirect": "https://educacionvirtual.modelo-lomas.edu.ar",
         "AbstractSource": "BS4",
         "AbstractURL": "https://educacionvirtual.modelo-lomas.edu.ar"
-    },
-    {
-        "link": "https://educationresources-llc.com",
-        "Heading": "Education Resources, LLC - Education Consulting Group",
-        "Abstract": "At Education Resources LLC, we are dedicated to transforming educational institutions through our unparalleled expertise in comprehensive needs assessment.",
-        "Official Site": "https://educationresources-llc.com/",
-        "Icon": "https://educationresources-llc.com/wp-content/uploads/2020/03/ER-favicon.png",
-        "Redirect": "https://educationresources-llc.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://educationresources-llc.com/"
     },
     {
         "link": "https://edufinanceira.com.br",

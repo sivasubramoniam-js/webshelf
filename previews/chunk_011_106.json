@@ -150,16 +150,6 @@
         "AbstractURL": "https://sonoani.com/"
     },
     {
-        "link": "https://gymszbad.de",
-        "Heading": "Gymnasium Salzgitter-Bad",
-        "Abstract": "Homepage des Gymnasiums Salzgitter-Bad",
-        "Official Site": "https://gymszbad.de",
-        "Icon": "/templates/joomlage0072-trends/favicon.ico",
-        "Redirect": "https://gymszbad.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gymszbad.de"
-    },
-    {
         "link": "https://eltoftnielsen.dk",
         "Heading": "- Ivan Eltoft Nielsen",
         "Abstract": "Hos Ivan Eltoft pr\u00e6senteres din bolig i alle 26 filialer p\u00e5 samme tid og introduceres i et st\u00e6rkt netv\u00e6rk for attraktive og k\u00f8best\u00e6rke kunder.",
@@ -174,7 +164,7 @@
         "Heading": "\n      Hollywood Mirrors | The Original Lighted Mirror Company",
         "Abstract": "Shop Hollywood Mirrors \u2013 the UK\u2019s original lighted mirror company. Enjoy Free Next-Day Delivery, Klarna Buy Now Pay Later, and a 1-year warranty on every luxury mirror.",
         "Official Site": "https://www.hollywoodmirrors.co.uk/",
-        "Icon": "https://www.hollywoodmirrors.co.uk/cdn/shopifycloud/storefront/assets/no-image-2048-a2addb12_600x600.gif",
+        "Icon": "https://cdn.shopify.com/shopifycloud/storefront/assets/no-image-2048-a2addb12_600x600.gif",
         "Redirect": "https://www.hollywoodmirrors.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hollywoodmirrors.co.uk/"
@@ -218,6 +208,16 @@
         "Redirect": "https://megha.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://megha.in"
+    },
+    {
+        "link": "https://rbt-nrf-510.com",
+        "Heading": "\u0420\u0438\u043e\u0431\u0435\u0442 \u0441asino official",
+        "Abstract": " Play for free and for money in the slot machines in the online casino Riobet.",
+        "Official Site": "https://rbt-nrf-510.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://rbt-nrf-510.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rbt-nrf-510.com"
     },
     {
         "link": "https://ethanol.org",

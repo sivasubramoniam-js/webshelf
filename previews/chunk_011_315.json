@@ -10,16 +10,6 @@
         "AbstractURL": "http://fridayedu.com"
     },
     {
-        "link": "https://friendterpel.com",
-        "Heading": "Friend Terpel | Terpel Panam\u00e1",
-        "Abstract": "Litho is a clean and modern design, BootStrap 4 responsive, business and portfolio multipurpose HTML5 template with 36+ ready homepage demos.",
-        "Official Site": "https://friendterpel.com",
-        "Icon": "images/favicon.png",
-        "Redirect": "https://friendterpel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://friendterpel.com"
-    },
-    {
         "link": "https://frost-lake.click",
         "Heading": null,
         "Abstract": null,
@@ -90,6 +80,16 @@
         "AbstractURL": "https://fsivlog.com"
     },
     {
+        "link": "https://ftds.online",
+        "Heading": "Home | FTDS LMS",
+        "Abstract": null,
+        "Official Site": "https://ftds.online",
+        "Icon": "https://ftds.online/pluginfile.php/1/core_admin/favicon/64x64/1787206568/FTU_logo_2020.png",
+        "Redirect": "https://ftds.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ftds.online"
+    },
+    {
         "link": "https://fte.edu.ec",
         "Heading": "Fine Tuned English - Cursos de Ingl\u00e9s en Loja, Zamora y Online",
         "Abstract": "Aprende ingl\u00e9s con Fine Tuned English. Cursos para ni\u00f1os, j\u00f3venes y adultos en modalidades online y presencial. Prep\u00e1rate para certificaciones internacionales.",
@@ -108,6 +108,16 @@
         "Redirect": "ftgfqx1s.com",
         "AbstractSource": "BS4",
         "AbstractURL": "ftgfqx1s.com"
+    },
+    {
+        "link": "https://ftveti.edu.et",
+        "Heading": "Federal Technical and Vocational Training Institute (FTVTI)",
+        "Abstract": null,
+        "Official Site": "https://ftveti.edu.et",
+        "Icon": "http://ftveti.edu.et/storage/2023/08/ftvet_fevicon.png",
+        "Redirect": "https://ftveti.edu.et",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ftveti.edu.et"
     },
     {
         "link": "https://fuckthepopulation.com",
@@ -142,7 +152,7 @@
     {
         "link": "https://fuelmap.co.uk",
         "Heading": "Fuel Map UK :: Cheapest Petrol & Diesel Near Me :: Fuel Finder",
-        "Abstract": "Cheapest unleaded from 114.1p, diesel from 116.4p. Updated 20th August 2026. Find the cheapest petrol and diesel prices near you with Fuel Map UK.",
+        "Abstract": "Cheapest unleaded from 114.1p, diesel from 116.4p. Updated 21st August 2026. Find the cheapest petrol and diesel prices near you with Fuel Map UK.",
         "Official Site": "https://fuelmap.co.uk",
         "Icon": "/icons/favicon-32x32.png",
         "Redirect": "https://fuelmap.co.uk",

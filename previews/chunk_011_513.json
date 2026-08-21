@@ -60,6 +60,16 @@
         "AbstractURL": "https://bravosalonaz.com/"
     },
     {
+        "link": "https://hagi-himawari.com",
+        "Heading": "Login",
+        "Abstract": null,
+        "Official Site": "https://hagi-himawari.com",
+        "Icon": "N/A",
+        "Redirect": "https://hagi-himawari.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hagi-himawari.com"
+    },
+    {
         "link": "https://easycookingwithmolly.com",
         "Heading": "Easy Cooking with Molly - Light Family Favorite & Global Recipes",
         "Abstract": "\n---\n\n---\n3 LATEST RECIPES\n\n\n---\nMore\u00a0 ---> HEALTHY RECIPES\n\n\n---\nMore\u00a0 ---> QUICK MANGO RECIPES\n\n\n---\nMore --->\u00a0INDIAN SNACKS\n",
@@ -71,13 +81,13 @@
     },
     {
         "link": "https://greens-corp.co.jp",
-        "Heading": "GREENS CORPORATION",
-        "Abstract": "\u5927\u962a\u5e02\u5317\u533a\u306b\u3042\u308b\u30b3\u30f3\u30b5\u30fc\u30c8\u7b49\u306e\u4f01\u753b\u30fb\u88fd\u4f5c\u4f1a\u793e \u682a\u5f0f\u4f1a\u793e\u30b0\u30ea\u30fc\u30f3\u30ba\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3\u306e\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8",
-        "Official Site": "https://www.greens-corp.co.jp/",
-        "Icon": "./favicon.ico",
-        "Redirect": "https://www.greens-corp.co.jp/",
+        "Heading": "GREENS!",
+        "Abstract": "\u30a4\u30d9\u30f3\u30c8\u306e\u4f01\u753b\u30fb\u88fd\u4f5c\u4f1a\u793e \u682a\u5f0f\u4f1a\u793e\u30b0\u30ea\u30fc\u30f3\u30ba\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3\u306e\u516c\u5f0f\u30e2\u30d0\u30a4\u30eb\u30b5\u30a4\u30c8\u3002\u30c1\u30b1\u30c3\u30c8\u5148\u884c\u4e88\u7d04\u3001\u30a4\u30d9\u30f3\u30c8\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u3001\u30e9\u30a4\u30d6\u30ec\u30dd\u30fc\u30c8\u306a\u3069\u3002",
+        "Official Site": "https://sp.greens-corp.co.jp/",
+        "Icon": "https://sp.greens-corp.co.jp/image/greens/cmn/ico_social.png",
+        "Redirect": "https://sp.greens-corp.co.jp/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.greens-corp.co.jp/"
+        "AbstractURL": "https://sp.greens-corp.co.jp/"
     },
     {
         "link": "https://csiatlantic.ca",
@@ -108,6 +118,16 @@
         "Redirect": "https://websitebyhosting.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://websitebyhosting.com"
+    },
+    {
+        "link": "https://retailminded.com",
+        "Heading": "Retail Minded: Retail news, education and support.",
+        "Abstract": "Retail Minded has been supporting retailers since 2007 in their efforts to gain quality, trusted insight and resources for their unique businesses.",
+        "Official Site": "https://retailminded.com/",
+        "Icon": "https://retailminded.com/wp-content/uploads/2018/10/rm_icon.png",
+        "Redirect": "https://retailminded.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://retailminded.com/"
     },
     {
         "link": "https://chatmateapp.com",
@@ -190,6 +210,16 @@
         "AbstractURL": "https://fin-me.ru"
     },
     {
+        "link": "https://flotiliya.com",
+        "Heading": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043a\u043e\u043c\u043b\u0435\u043a\u0441\u0430 \u0424\u043b\u043e\u0442\u0438\u043b\u0438\u044f. \u041a\u0432\u0430\u0440\u0442\u0438\u0440\u044b \u043d\u0430 \u0432\u043e\u0434\u043d\u043e\u043c \u0441\u0442\u0430\u0434\u0438\u043e\u043d\u0435, \u0440\u0435\u0447\u043d\u043e\u0439 \u0432\u043e\u043a\u0437\u0430\u043b.",
+        "Abstract": "\u041f\u0440\u043e\u0434\u0430\u0436\u0430 \u044d\u043b\u0438\u0442\u043d\u044b\u0445 \u043a\u0432\u0430\u0440\u0442\u0438\u0440 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435. \u042d\u043b\u0438\u0442\u043d\u044b\u0435 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u044b \u0432 \u0421\u0410\u041e, \u0421\u0412\u0410\u041e, \u041d\u043e\u0432\u043e\u0435 \u0422\u0443\u0448\u0438\u043d\u043e \u0416\u041a \u0424\u043b\u043e\u0442\u0438\u043b\u0438\u044f.",
+        "Official Site": "https://flotiliya.com",
+        "Icon": "http://www.flotiliya.com/img/video-bg.jpg",
+        "Redirect": "https://flotiliya.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://flotiliya.com"
+    },
+    {
         "link": "https://whitelies.com",
         "Heading": "\n      White Lies Official Store\n",
         "Abstract": "The home for White Lies. Buy official merchandise, vinyl, CD and more.",
@@ -228,5 +258,15 @@
         "Redirect": "https://www.gispen.com:80/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.gispen.com:80/en/"
+    },
+    {
+        "link": "https://digitalroominc.com",
+        "Heading": "Digital Room Provides Customized Marketing Products that Help SMBs Succeed",
+        "Abstract": "For nearly three decades, Digital Room has created simple, reliable ways for small and medium-sized business to reach their customers, promote their products and build their brands.",
+        "Official Site": "https://www.digitalroominc.com/",
+        "Icon": "https://www.digitalroominc.com/uploads/1/0/3/1/103161570/editor/dr-hex_1.png",
+        "Redirect": "https://www.digitalroominc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.digitalroominc.com/"
     }
 ]

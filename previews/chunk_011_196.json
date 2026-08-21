@@ -160,16 +160,6 @@
         "AbstractURL": "https://moto-dane.rs/"
     },
     {
-        "link": "https://qsensor.co",
-        "Heading": "Live Airport Security Wait Times & Flight Status | Qsensor",
-        "Abstract": "Check real-time airport security wait times, busyness levels, and flight delays for 100+ airports",
-        "Official Site": "https://qsensor.co",
-        "Icon": "https://qsensor.co/wp-content/uploads/2026/03/Original-Logo.png",
-        "Redirect": "https://qsensor.co",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://qsensor.co"
-    },
-    {
         "link": "https://salesautopilot.com",
         "Heading": "Automatiz\u00e1ld v\u00e1llalkoz\u00e1sod siker\u00e9t a SalesAutopilottal",
         "Abstract": "N\u00f6veld online bev\u00e9teled automatizmusokkal, melyek az \u00e9rdekl\u0151d\u0151szerz\u00e9st\u0151l az online \u00e9rt\u00e9kes\u00edt\u00e9sen \u00e1t az adminisztr\u00e1ci\u00f3s teend\u0151kig mindent \u00f6nm\u0171k\u00f6d\u0151en kezelnek helyetted.",
@@ -200,11 +190,21 @@
         "AbstractURL": "https://umatch.app"
     },
     {
+        "link": "https://wowfare.com",
+        "Heading": "Cheap Airline Flights Booking at Private Fares - Wowfare.\u0441om",
+        "Abstract": "Find cheap flights and lowest airfare deals on best travel destinations. Cheap air tickets are available for booking and buying. Secure payment and customer support. Any fare class.",
+        "Official Site": "https://wowfare.com/",
+        "Icon": "https://wowfare.com/wp-content/uploads/sites/2/2026/01/home-page_hero-image.webp",
+        "Redirect": "https://wowfare.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wowfare.com/"
+    },
+    {
         "link": "https://sfceurope.com",
         "Heading": "\n      Non Slip and Slip Resistant Work Shoes at Shoes for Crews\n \u2013 Shoes For Crews Europe",
         "Abstract": "The website for Shoes for Crews Europe. Slip-resistant footwear since 1984. Work shoes, clogs, trainers, safety boots and more. Order online today.",
         "Official Site": "https://www.shoesforcrews.eu/",
-        "Icon": "//www.shoesforcrews.eu/cdn/shop/files/sfc-new-icon.png?crop=center&height=32&v=1752579170&width=32",
+        "Icon": "//cdn.shopify.com/s/files/1/0717/6965/3533/files/sfc-new-icon.png?crop=center&height=32&v=1752579170&width=32",
         "Redirect": "https://www.shoesforcrews.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.shoesforcrews.eu/"
@@ -268,6 +268,16 @@
         "Redirect": "https://3qsports.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://3qsports.co.uk"
+    },
+    {
+        "link": "https://altmedicina.ru",
+        "Heading": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u041a\u043e\u0437\u043b\u043e\u0432",
+        "Abstract": null,
+        "Official Site": "https://altmedicina.ru",
+        "Icon": "https://static.tildacdn.com/tild3966-6462-4438-b237-343033393237/image.png",
+        "Redirect": "https://altmedicina.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://altmedicina.ru"
     },
     {
         "link": "https://arvi.ch",
