@@ -140,6 +140,16 @@
         "AbstractURL": "https://bezirksgeschichte.at"
     },
     {
+        "link": "https://bezkonce.cz",
+        "Heading": "Bezkonce.cz - d\u00e1rky za hran\u00ed her",
+        "Abstract": "",
+        "Official Site": "https://bezkonce.cz",
+        "Icon": "favicon.ico",
+        "Redirect": "https://bezkonce.cz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bezkonce.cz"
+    },
+    {
         "link": "https://bfkz7o.com",
         "Heading": null,
         "Abstract": "Oferece uma variedade de maneiras de jogar, junte-se a n\u00f3s e torne-se o pr\u00f3ximo milion\u00e1rio.",
@@ -171,8 +181,8 @@
     },
     {
         "link": "https://bgc789.games",
-        "Heading": "GOG.COM",
-        "Abstract": null,
+        "Heading": "Welcome to GOG.com | best PC games DRM-free",
+        "Abstract": "Download the best classic and new games on Windows, Mac & Linux. A vast selection of titles, DRM-free, with free goodies and 30-day money-back guarantee.",
         "Official Site": "https://bgc789.games",
         "Icon": "https://store-static-modular.gog-statics.com/en/assets/favicons/favicon.ico",
         "Redirect": "https://bgc789.games",
@@ -204,7 +214,7 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://bgmph1.com",
-        "Icon": "N/A",
+        "Icon": "/pwa-192x192.png",
         "Redirect": "https://bgmph1.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bgmph1.com"

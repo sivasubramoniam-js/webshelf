@@ -50,16 +50,6 @@
         "AbstractURL": "https://floristic.ru"
     },
     {
-        "link": "https://bandbexterminating.com",
-        "Heading": "\n    \n    Residential Pest Control & Lawn Weed Prevention Treatment Service Jacksonville, St. Augustine FL | B&B Exterminating\n  \n  ",
-        "Abstract": "B & B Exterminating provides trusted pest control, termite treatment, rodent removal, and lawn care services. Protect your property today. Contact us for a free estimate!",
-        "Official Site": "https://www.bandbexterminating.com/",
-        "Icon": "https://lirp.cdn-website.com/c0ab3cb7/dms3rep/multi/opt/Untitled-2-1920w.jpg",
-        "Redirect": "https://www.bandbexterminating.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bandbexterminating.com/"
-    },
-    {
         "link": "https://mistserver.org",
         "Heading": "MistServer - Simple, smart and stable media streaming server software",
         "Abstract": null,
@@ -200,6 +190,16 @@
         "AbstractURL": "https://dislanet.com"
     },
     {
+        "link": "https://dreamcenter.org",
+        "Heading": "Home - Dream Center",
+        "Abstract": "The Dream Center is a faith-based charitable organization that finds and fills the needs of struggling people from all over the United States. Since 1995, thousands of individuals and families have found hope and healing through the programs that only the Dream Center offers. The Dream Center aims to not only meet the immediate needs of communities like providing food and clothing, but also focuses on the full successful transformation of people\u2019s lives, all free of charge.",
+        "Official Site": "https://www.dreamcenter.org/",
+        "Icon": "https://www.dreamcenter.org/wp-content/uploads/2017/10/dream_center_favicon-150x150.png",
+        "Redirect": "https://www.dreamcenter.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dreamcenter.org/"
+    },
+    {
         "link": "https://abel-mobilfunk.de",
         "Heading": "Home | ABEL Mobilfunk",
         "Abstract": "ABEL \u2013 Deutschlands Marktf\u00fchrer im Bereich Mobilfunk-Netzbau.",
@@ -271,10 +271,10 @@
     },
     {
         "link": "https://puble.io",
-        "Heading": "Privacy Keeper",
+        "Heading": "Puble",
         "Abstract": null,
         "Official Site": "https://puble.io",
-        "Icon": "/assets/apps/beleza-privacykeeper/favicon.png",
+        "Icon": "N/A",
         "Redirect": "https://puble.io",
         "AbstractSource": "BS4",
         "AbstractURL": "https://puble.io"

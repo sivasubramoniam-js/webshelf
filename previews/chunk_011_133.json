@@ -160,14 +160,14 @@
         "AbstractURL": "https://bolbonusburada.com"
     },
     {
-        "link": "https://cookwithknorr.com",
-        "Heading": "Home | Cook with Knorr",
-        "Abstract": "Home",
-        "Official Site": "https://www.cookwithknorr.com/us/en/home.html",
-        "Icon": "https://assets.unileversolutions.com/v1/",
-        "Redirect": "https://www.cookwithknorr.com/us/en/home.html",
+        "link": "https://infoready.net",
+        "Heading": "Infoready.net",
+        "Abstract": null,
+        "Official Site": "https://infoready.net",
+        "Icon": "data:image/x-icon;,",
+        "Redirect": "https://infoready.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cookwithknorr.com/us/en/home.html"
+        "AbstractURL": "https://infoready.net"
     },
     {
         "link": "https://alblasserdam.nl",
@@ -178,6 +178,16 @@
         "Redirect": "https://www.alblasserdam.nl/Inwoners",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.alblasserdam.nl/Inwoners"
+    },
+    {
+        "link": "https://cufos.org",
+        "Heading": "Center for UFO Studies -",
+        "Abstract": null,
+        "Official Site": "https://cufos.org/",
+        "Icon": "N/A",
+        "Redirect": "https://cufos.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cufos.org/"
     },
     {
         "link": "https://cookie-checker.com",
@@ -198,16 +208,6 @@
         "Redirect": "https://www.niftylift.com/uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.niftylift.com/uk"
-    },
-    {
-        "link": "https://ww4report.com",
-        "Heading": "CounterVortex \u2013 Resisting Humanity's Downward Spiral",
-        "Abstract": "Resisting Humanity's Downward Spiral",
-        "Official Site": "https://ww4report.com",
-        "Icon": "https://countervortex.org/wp-content/uploads/2019/02/newsflash_logo-1.png",
-        "Redirect": "https://ww4report.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ww4report.com"
     },
     {
         "link": "https://barbiedolls.online",
@@ -238,6 +238,16 @@
         "Redirect": "https://www.ambfurniture.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ambfurniture.com/"
+    },
+    {
+        "link": "https://sdgc.com",
+        "Heading": "SDG Corporation | Cybersecurity, Identity & Risk Leader",
+        "Abstract": "SDG Corporation is an award-winning technology provider, specializing in strategic consulting and enterprise risk management solutions.",
+        "Official Site": "https://sdgc.com/",
+        "Icon": "https://sdgc.com/wp-content/uploads/Untitled-design-90.png",
+        "Redirect": "https://sdgc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sdgc.com/"
     },
     {
         "link": "https://nordicals.dk",

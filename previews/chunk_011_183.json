@@ -60,16 +60,6 @@
         "AbstractURL": "https://jrocknews.com/"
     },
     {
-        "link": "https://suzanne.soy",
-        "Heading": "Suzanne Soy \u2014 Procedural Designer",
-        "Abstract": null,
-        "Official Site": "https://suzanne.soy",
-        "Icon": "N/A",
-        "Redirect": "https://suzanne.soy",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://suzanne.soy"
-    },
-    {
         "link": "https://gcmediaarts.com",
         "Heading": "GC Media Arts -",
         "Abstract": null,
@@ -170,6 +160,16 @@
         "AbstractURL": "https://bblanedesigns2.com"
     },
     {
+        "link": "https://mypixelhosting.com",
+        "Heading": "My Pixel Hosting \u2013 Domain, Hosting and Web Design",
+        "Abstract": null,
+        "Official Site": "https://mypixelhosting.com",
+        "Icon": "https://mypixelhosting.com/wp-content/uploads/2022/09/icono-pixel-rounded-100x100.png",
+        "Redirect": "https://mypixelhosting.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mypixelhosting.com"
+    },
+    {
         "link": "https://bonart.cat",
         "Heading": " Diari digital d'art - Bonart ",
         "Abstract": "Bonart \u00e9s una revista d'art fundada el 1999 a Girona. S'edita en catal\u00e0 sota una llic\u00e8ncia de Creative Commons i realitza un especial seguiment dels esdeveniments art\u00edstics d'arreu dels Pa\u00efsos Catalans.",
@@ -238,5 +238,15 @@
         "Redirect": "https://simpletiger.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://simpletiger.com"
+    },
+    {
+        "link": "https://0adz.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://0adz.com",
+        "Icon": "N/A",
+        "Redirect": "https://0adz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://0adz.com"
     }
 ]

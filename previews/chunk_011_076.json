@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://ilovelatins.com",
+        "Heading": "I Love Latins",
+        "Abstract": null,
+        "Official Site": "https://ilovelatins.com",
+        "Icon": "https://ilovelatins.com/wp-content/uploads/2025/09/cropped-Sin-titulo-3-removebg-preview-32x32.png",
+        "Redirect": "https://ilovelatins.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ilovelatins.com"
+    },
+    {
         "link": "https://webtie.ch",
         "Heading": "Webagentur f\u00fcr Webseiten, Webapplikationen & SaaS | webtie",
         "Abstract": "webtie entwickelt individuelle Webseiten, Webapplikationen, SaaS-Produkte und KI-Schulungen f\u00fcr KMUs in der Schweiz.",
@@ -190,16 +200,6 @@
         "AbstractURL": "https://bogeumnews.com"
     },
     {
-        "link": "https://emreinsaat.com.tr",
-        "Heading": "Redirecting...",
-        "Abstract": null,
-        "Official Site": "https://emreinsaat.com.tr",
-        "Icon": "N/A",
-        "Redirect": "https://emreinsaat.com.tr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://emreinsaat.com.tr"
-    },
-    {
         "link": "https://thesevenhotels.com",
         "Heading": "The Seven Hotel",
         "Abstract": null,
@@ -223,11 +223,11 @@
         "link": "https://geoguessrfree.co",
         "Heading": "GeoGuessr Free Alternative \u2013 Unlimited, No Login",
         "Abstract": "Explore the world in Geoguessr Free! Use Google Street View to guess real locations, test your geography skills, and challenge yourself with unlimited rounds of this fun and educational map game!",
-        "Official Site": "https://geoguessrfree.co",
-        "Icon": "https://geoguessrfree.co/geoguessr.webp",
-        "Redirect": "https://geoguessrfree.co",
+        "Official Site": "https://geoguessfree.io",
+        "Icon": "https://geoguessfree.io/geoguessr.webp",
+        "Redirect": "https://geoguessfree.io",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://geoguessrfree.co"
+        "AbstractURL": "https://geoguessfree.io"
     },
     {
         "link": "https://enfusion.com",

@@ -20,16 +20,6 @@
         "AbstractURL": "https://www.californiastrawberries.com/"
     },
     {
-        "link": "https://theminixforum.com",
-        "Heading": "MINIX Forum",
-        "Abstract": "MINIX Forum",
-        "Official Site": "https://theminixforum.com/index.php",
-        "Icon": "N/A",
-        "Redirect": "https://theminixforum.com/index.php",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://theminixforum.com/index.php"
-    },
-    {
         "link": "https://urnabios.com",
         "Heading": "Bios Urn \u00ae - The Biodegradable Urn Designed to Grow a Tree",
         "Abstract": "Bios Urn is the world's first biodegradable urn designed to convert you into a tree after life. The tree urn is a return to life through nature.",
@@ -58,6 +48,16 @@
         "Redirect": "https://bcrail.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bcrail.com"
+    },
+    {
+        "link": "https://ivyshorses.com",
+        "Heading": "Ivy's Glide Gait",
+        "Abstract": "I believe in training gaited horses to gait as smoothly as possibly while helping them stay as relaxed as possible.",
+        "Official Site": "https://ivyshorses.com/",
+        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJJdnkmIzAzOTtzIEdsaWRlIEdhaXQiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6MTIxOTIxMDYxfQ.MRzbcXTYCpT5TEhdR9Yp02knWnFPVLM4hi7-WZ-comYMQ",
+        "Redirect": "https://ivyshorses.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ivyshorses.com/"
     },
     {
         "link": "https://theclimatemobilization.org",
@@ -223,11 +223,11 @@
         "link": "https://smdemo.website",
         "Heading": "My Blog - My WordPress Blog",
         "Abstract": "My WordPress Blog",
-        "Official Site": "http://smdemo.website/",
+        "Official Site": "https://smdemo.website/",
         "Icon": "N/A",
-        "Redirect": "http://smdemo.website/",
+        "Redirect": "https://smdemo.website/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://smdemo.website/"
+        "AbstractURL": "https://smdemo.website/"
     },
     {
         "link": "https://openslides.com",

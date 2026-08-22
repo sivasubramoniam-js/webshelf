@@ -150,6 +150,16 @@
         "AbstractURL": "https://bodrostinet.ru"
     },
     {
+        "link": "https://segurosdepersonas.cl",
+        "Heading": "Seguro Moto",
+        "Abstract": "Seguros de motos para da\u00f1os personales en Chile desde $1 UF.",
+        "Official Site": "https://www.segurosdepersonas.cl/",
+        "Icon": "https://www.segurosdepersonas.cl/wp-content/uploads/2024/10/record-150x150.png",
+        "Redirect": "https://www.segurosdepersonas.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.segurosdepersonas.cl/"
+    },
+    {
         "link": "https://byteboxmediaservices.co.uk",
         "Heading": "ByteBox Media Services \u2013 The Central Network Site for ByteBox Media",
         "Abstract": null,
@@ -228,16 +238,6 @@
         "Redirect": "https://drpalmes.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://drpalmes.com/"
-    },
-    {
-        "link": "https://tb-wiki.com",
-        "Heading": "TB Wiki",
-        "Abstract": null,
-        "Official Site": "https://tb-wiki.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://tb-wiki.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tb-wiki.com"
     },
     {
         "link": "https://neonix.ru",

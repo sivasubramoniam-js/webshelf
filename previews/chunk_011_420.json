@@ -134,7 +134,7 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://pgph.pw",
-        "Icon": "N/A",
+        "Icon": "/pwa-192x192.png",
         "Redirect": "https://pgph.pw",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pgph.pw"
@@ -354,15 +354,15 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://phjdb7.com",
-        "Icon": "N/A",
+        "Icon": "/pwa-192x192.png",
         "Redirect": "https://phjdb7.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://phjdb7.com"
     },
     {
         "link": "https://phluck01.com",
-        "Heading": "GOG.COM",
-        "Abstract": null,
+        "Heading": "Welcome to GOG.com | best PC games DRM-free",
+        "Abstract": "Download the best classic and new games on Windows, Mac & Linux. A vast selection of titles, DRM-free, with free goodies and 30-day money-back guarantee.",
         "Official Site": "https://phluck01.com",
         "Icon": "https://store-static-modular.gog-statics.com/en/assets/favicons/favicon.ico",
         "Redirect": "https://phluck01.com",

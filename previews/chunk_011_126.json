@@ -20,16 +20,6 @@
         "AbstractURL": "https://www.yalejournal.org"
     },
     {
-        "link": "https://keepstyle.com.ua",
-        "Heading": "keepstyle.com.ua",
-        "Abstract": "keepstyle.com.ua",
-        "Official Site": "https://keepstyle.com.ua",
-        "Icon": "/favicon.png",
-        "Redirect": "https://keepstyle.com.ua",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://keepstyle.com.ua"
-    },
-    {
         "link": "https://familywize.org",
         "Heading": "Prescriptions Coupons and Rx Coupon Cards - 80% Off",
         "Abstract": "",
@@ -110,6 +100,16 @@
         "AbstractURL": "https://teamcalendar.com"
     },
     {
+        "link": "https://laserchina.com",
+        "Heading": "China Laser Welding | Cleaning | Marking | Cutting Machines",
+        "Abstract": "With more than 20 years experience, LASERCHINA is a leading manufacturer and supplier of various laser welding, cleaning, marking, engraving and cutting machines .",
+        "Official Site": "https://www.laserchina.com/",
+        "Icon": "https://www.laserchina.com/wp-content/uploads/cropped-LASERCHINA-Icon-150x150.jpg",
+        "Redirect": "https://www.laserchina.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.laserchina.com/"
+    },
+    {
         "link": "https://hollyrandall.com",
         "Heading": "The Women of Holly Randall | Official Site for Erotic Photographer, Producer and Director Holly Randall",
         "Abstract": null,
@@ -141,10 +141,10 @@
     },
     {
         "link": "https://mizeban.ir",
-        "Heading": "Index of /",
+        "Heading": "\u0635\u0641\u062d\u0647 \u0646\u062e\u0633\u062a - \u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647 \u0627\u0647\u0644 \u0628\u06cc\u062a (\u0639)",
         "Abstract": null,
         "Official Site": "https://mizeban.ir",
-        "Icon": "N/A",
+        "Icon": "/templates/rasanehsoft-ahlebait/ahlebaitpedia.ico",
         "Redirect": "https://mizeban.ir",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mizeban.ir"
@@ -174,7 +174,7 @@
         "Heading": "Accesorii Telefoane iPhone si Samsung | Vetter Store",
         "Abstract": "Magazin accesorii telefoane: huse, incarcatoare, protectii ecran si accesorii GSM pentru iPhone si Samsung. Compatibilitate verificata. Livrare rapida.",
         "Official Site": "https://vetter.store",
-        "Icon": "https://s.cdnshm.com/site/1200x1200/vetter.store.jpg?20260821",
+        "Icon": "https://s.cdnshm.com/site/1200x1200/vetter.store.jpg?20260822",
         "Redirect": "https://vetter.store",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vetter.store"

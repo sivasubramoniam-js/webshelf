@@ -21,13 +21,13 @@
     },
     {
         "link": "https://bagatelle.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://bagatelle.com",
-        "Icon": "N/A",
-        "Redirect": "https://bagatelle.com",
+        "Heading": "A love letter to the French joie de Vivre",
+        "Abstract": "A love letter to the French Riviera, Bagatelle restaurants offer guests Mediterranean cuisine, elegant architecture, personalized service, vibrant music...",
+        "Official Site": "https://bagatelle.com/",
+        "Icon": "https://bagatelle.com/app/uploads/2021/06/bagatelle-home-facebook-meta.jpg",
+        "Redirect": "https://bagatelle.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bagatelle.com"
+        "AbstractURL": "https://bagatelle.com/"
     },
     {
         "link": "https://mbcarolinas.org",
@@ -92,7 +92,7 @@
     {
         "link": "https://buffnet.net",
         "Heading": "buffnet.net",
-        "Abstract": null,
+        "Abstract": "Find information, resources and relevant links for buffnet.net. This domain may be for sale.",
         "Official Site": "https://buffnet.net",
         "Icon": "N/A",
         "Redirect": "https://buffnet.net",
@@ -160,6 +160,16 @@
         "AbstractURL": "https://ie-net.be"
     },
     {
+        "link": "https://dcihostserver.com",
+        "Heading": "DCI Host Server",
+        "Abstract": "",
+        "Official Site": "https://dcihostserver.com",
+        "Icon": "N/A",
+        "Redirect": "https://dcihostserver.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dcihostserver.com"
+    },
+    {
         "link": "https://veganyackattack.com",
         "Heading": "Vegan Yack Attack - A vegan recipe blog for people who love food",
         "Abstract": "With hundreds of vegan recipes varying from oil-free dinners to rich desserts, Jackie Sobon\u2019s blog has been providing creative, plant-based dishes for 13 years.",
@@ -191,13 +201,13 @@
     },
     {
         "link": "https://eestikasiino.com",
-        "Heading": "Kasiino Uudised 2026 - Uudised kasiinomaailmast meilt ja mujalt",
-        "Abstract": "V\u00e4rsked kasiino uudised. Mis kasiinodes toimub, kus just \u00e4sja suurim v\u00f5it saad ja palju muud. Siit leiad kasiino uudised meilt ja mujalt.",
-        "Official Site": "https://eestikasiino.com",
-        "Icon": "https://www.eestikasiino.com/wp-content/uploads/cropped-eestikasiino.com-favicon-32x32.png",
-        "Redirect": "https://eestikasiino.com",
+        "Heading": "Eesti Kasiinod 2026 | K\u00f5ik Litsentseeritud Online Kasiinod",
+        "Abstract": "Eesti kasiinod, ausad arvustused, testitud boonused ja v\u00e4ljamakse info. V\u00f5rdluseks Eesti online kasiinod (EMTA litsentsiga). Tasuta t\u00f6\u00f6riistad ja juhendid!",
+        "Official Site": "https://www.eestikasiino.com/",
+        "Icon": "https://www.eestikasiino.com/wp-content/plugins/glcore/src/img/social-media-general-image_1200x630.png",
+        "Redirect": "https://www.eestikasiino.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://eestikasiino.com"
+        "AbstractURL": "https://www.eestikasiino.com/"
     },
     {
         "link": "https://twobtextile.com",

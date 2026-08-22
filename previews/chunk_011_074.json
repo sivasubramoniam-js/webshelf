@@ -1,25 +1,5 @@
 [
     {
-        "link": "https://libreriaoxford.com",
-        "Heading": "Todo en libros y especializada en papeler\u00eda.  Env\u00edos en 24-48 h.",
-        "Abstract": "Librer\u00eda fundada en 1975, 42 a\u00f1os ofreciendo cultura, fantas\u00eda y aventura, intentamos dar el mejor servicio a nuestros clientes y amigos.",
-        "Official Site": "https://libreriaoxford.com",
-        "Icon": "https://www.libreriaoxford.com/es/archivos/27/favicon.png",
-        "Redirect": "https://libreriaoxford.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://libreriaoxford.com"
-    },
-    {
-        "link": "https://libreriafenicia.com",
-        "Heading": "Todo en libros, texto, c\u00f3mics,  papeler\u00eda, regalo... \u00a1Y mucho m\u00e1s! ",
-        "Abstract": "Gran surtido en libros, papeler\u00eda y art\u00edculos de regalo. Env\u00edos en 24-48 horas.",
-        "Official Site": "https://libreriafenicia.com",
-        "Icon": "https://www.libreriafenicia.com/es/archivos/14/favicon.png",
-        "Redirect": "https://libreriafenicia.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://libreriafenicia.com"
-    },
-    {
         "link": "https://riojalta.com",
         "Heading": "La Rioja Alta, S.A.",
         "Abstract": " ",
@@ -28,6 +8,16 @@
         "Redirect": " ",
         "AbstractSource": "BS4",
         "AbstractURL": " "
+    },
+    {
+        "link": "https://bachproject.net",
+        "Heading": "bach \u2013 Computer-aided composition in Max",
+        "Abstract": "Computer-aided composition in Max",
+        "Official Site": "https://www.bachproject.net/",
+        "Icon": "https://s0.wp.com/i/blank.jpg",
+        "Redirect": "https://www.bachproject.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bachproject.net/"
     },
     {
         "link": "https://romanandwilliams.com",
@@ -62,7 +52,7 @@
     {
         "link": "https://bodoquenams.com.br",
         "Heading": "Instagram",
-        "Abstract": "Welcome back to Instagram. Sign in to check out what your friends, family & interests have been capturing & sharing around the world.",
+        "Abstract": null,
         "Official Site": "https://bodoquenams.com.br",
         "Icon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
         "Redirect": "https://bodoquenams.com.br",
@@ -78,16 +68,6 @@
         "Redirect": "https://craftingintherain.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://craftingintherain.com/"
-    },
-    {
-        "link": "https://rainbowryders.com",
-        "Heading": "\n\t\t\tRainbow Ryders | Hot Air Balloon Rides | #1 In The Southwest\t\t",
-        "Abstract": "Discover the wonder of flight with Rainbow Ryders, the premier hot air balloon company in the Southwest offering unforgettable rides for every occasion.",
-        "Official Site": "https://rainbowryders.com/",
-        "Icon": "https://rainbowryders.com/wp-content/uploads/2026/04/image_container.webp",
-        "Redirect": "https://rainbowryders.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rainbowryders.com/"
     },
     {
         "link": "https://inixlsgloves.com",
