@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://lexaris.de",
-        "Heading": "\n            \n            Lexaris - Digital Laws\n        ",
-        "Abstract": null,
-        "Official Site": "https://lexaris.de",
-        "Icon": "/content/logos/favicon-96x96.png",
-        "Redirect": "https://lexaris.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lexaris.de"
-    },
-    {
         "link": "https://bdnetservice.com",
         "Heading": "Index of /",
         "Abstract": null,
@@ -51,23 +41,13 @@
     },
     {
         "link": "https://promodiem.net",
-        "Heading": "Promo Diem",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://promodiem.net",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://promodiem.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://promodiem.net"
-    },
-    {
-        "link": "https://rd-factsheets.de",
-        "Heading": "Rettungsdienst FactSheets",
-        "Abstract": "FactSheets & Fachtexte f\u00fcr den Rettungsdienst - perfekt zum Lernen, Wiederholen und zur Vorbereitung auf Anfahrt zu einem Einsatz!",
-        "Official Site": "https://rd-factsheets.de/",
-        "Icon": "https://rd-factsheets.de/wp-content/uploads/2020/05/cropped-favicon.png",
-        "Redirect": "https://rd-factsheets.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rd-factsheets.de/"
     },
     {
         "link": "https://79win5.com",
@@ -128,6 +108,16 @@
         "Redirect": "https://rjm.id.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rjm.id.au"
+    },
+    {
+        "link": "https://discovermartin.com",
+        "Heading": "Martin County Florida | Discover Martin County",
+        "Abstract": "Visit Martin County! Discover hidden beaches, waterfront dining, and unforgettable experiences along Florida\u2019s Treasure Coast.",
+        "Official Site": "https://discovermartin.com/",
+        "Icon": "https://discovermartin.com/wp-content/themes/martincounty%202.0/favicon.ico",
+        "Redirect": "https://discovermartin.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://discovermartin.com/"
     },
     {
         "link": "https://qldkahf365.top",
@@ -250,6 +240,16 @@
         "AbstractURL": "https://la84.org"
     },
     {
+        "link": "https://adelaide-seo.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://adelaide-seo.com",
+        "Icon": "N/A",
+        "Redirect": "https://adelaide-seo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://adelaide-seo.com"
+    },
+    {
         "link": "https://earthworm.org",
         "Heading": "A non-profit driven by the desire to positively impact people and nature - Earthworm",
         "Abstract": "Earthworm Foundation - Supply chains that regenerate the world.",
@@ -271,13 +271,13 @@
     },
     {
         "link": "https://floridaorchestra.org",
-        "Heading": "The Florida Orchestra | Live Symphonic Music Tampa Bay",
-        "Abstract": "Under the leadership of Music Director Michael Francis, the orchestra performs more than 130 concerts a season in Tampa, St. Petersburg and Clearwater.",
-        "Official Site": "https://floridaorchestra.org/",
-        "Icon": "https://floridaorchestra.org/wp-content/uploads/2021/02/cropped-TFO-Only-withborder-32x32.png",
-        "Redirect": "https://floridaorchestra.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://floridaorchestra.org",
+        "Icon": "data:;",
+        "Redirect": "https://floridaorchestra.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://floridaorchestra.org/"
+        "AbstractURL": "https://floridaorchestra.org"
     },
     {
         "link": "https://fijngevoeligzijn.nl",

@@ -210,21 +210,11 @@
         "AbstractURL": "https://918kissmobile.com/"
     },
     {
-        "link": "https://9191.show",
-        "Heading": "\u53f0\u70639191 \u5f71\u7247\u98db\u5feb\u4e0d\u5361\u9813\uff5c\u7dda\u4e0aA\u7247.A\u7247\u4e0b\u8f09.\u514d\u8cbbA\u7247.\u65e5\u672cA\u7247.\u9ad8\u6e05AV\u5728\u7dda\u770b | J\u7247AV\u770b\u5230\u98fd",
-        "Abstract": "\u98db\u5feb\u4e0d\u5361\u7684\u7dda\u4e0aA\u7247\u9ad4\u9a57\uff019191 \u7cbe\u9078\u65e5\u672cAV\u3001\u81ea\u62cd\u6d41\u51fa\u8207\u79c1\u5bc6\u5f71\u7247\uff0c\u9ad8\u756b\u8cea\u5728\u7dda\u89c0\u770b\uff0c\u71b1\u9580\u5167\u5bb9\u5373\u6642\u66f4\u65b0\uff0c\u9032\u7ad9\u5c31\u80fd\u723d\u770b\u3002",
-        "Official Site": "https://9191.show/",
-        "Icon": "N/A",
-        "Redirect": "https://9191.show/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://9191.show/"
-    },
-    {
         "link": "https://91ff.xin",
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://91ff.xin",
-        "Icon": "",
+        "Icon": "./static/images/favicon.ico",
         "Redirect": "https://91ff.xin",
         "AbstractSource": "BS4",
         "AbstractURL": "https://91ff.xin"
@@ -288,5 +278,15 @@
         "Redirect": "98677yy.com",
         "AbstractSource": "BS4",
         "AbstractURL": "98677yy.com"
+    },
+    {
+        "link": "https://98677zz.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "98677zz.com",
+        "Icon": "https://upload-us.f-1-g-h.com/s3/app-icon/6154737/logo.png",
+        "Redirect": "98677zz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "98677zz.com"
     }
 ]

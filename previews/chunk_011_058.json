@@ -31,13 +31,13 @@
     },
     {
         "link": "https://essentialtremor.org",
-        "Heading": "Essential Tremor",
-        "Abstract": "Welcome to the International Essential Tremor Foundation's website, where you'll find information about our organization, the latest news, resources for coping, and support groups near you.",
-        "Official Site": "https://essentialtremor.org/",
-        "Icon": "https://essentialtremor.org/wp-content/uploads/2024/10/IETF-Web-SocialShare.jpg",
-        "Redirect": "https://essentialtremor.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://essentialtremor.org",
+        "Icon": "data:;",
+        "Redirect": "https://essentialtremor.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://essentialtremor.org/"
+        "AbstractURL": "https://essentialtremor.org"
     },
     {
         "link": "https://progressflowsstrategically.click",
@@ -70,6 +70,16 @@
         "AbstractURL": "https://www.vivemasvidas.com/"
     },
     {
+        "link": "https://epay3.com",
+        "Heading": "ePayPolicy | Digital Insurance Payment Solution - ePayPolicy",
+        "Abstract": "How insurance companies make payments a breeze. Secure online payments, connected accounting and solutions for scale. Oh, and your customers will love it.",
+        "Official Site": "https://epaypolicy.com/",
+        "Icon": "https://epaypolicy.com/wp-content/uploads/2020/01/ePayPolicy_Logo_2022.png",
+        "Redirect": "https://epaypolicy.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://epaypolicy.com/"
+    },
+    {
         "link": "https://chatterxtondev.com",
         "Heading": "Chatterxton // Deus",
         "Abstract": "Web-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f, Telegram-\u0431\u043e\u0442\u044b, \u0421\u0430\u0439\u0442\u044b, \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f",
@@ -83,11 +93,11 @@
         "link": "https://brazilcham.com",
         "Heading": "Welcome - BrazilCham",
         "Abstract": "Building bridges between Brazil and the United States to empower growth, foster vibrant collaboration, and bring the communities closer together",
-        "Official Site": "https://brazilcham.com/?s=%E7%8E%89%E5%B1%B1%E9%8A%80%E8%A1%8C%E6%8A%95%E8%B3%87%E7%BE%8E%E8%82%A1%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D",
+        "Official Site": "https://brazilcham.com/",
         "Icon": "https://brazilcham.com/assets/mock/header_1_1.jpg",
-        "Redirect": "https://brazilcham.com/?s=%E7%8E%89%E5%B1%B1%E9%8A%80%E8%A1%8C%E6%8A%95%E8%B3%87%E7%BE%8E%E8%82%A1%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D",
+        "Redirect": "https://brazilcham.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://brazilcham.com/?s=%E7%8E%89%E5%B1%B1%E9%8A%80%E8%A1%8C%E6%8A%95%E8%B3%87%E7%BE%8E%E8%82%A1%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D"
+        "AbstractURL": "https://brazilcham.com/"
     },
     {
         "link": "https://syx.in",
@@ -98,16 +108,6 @@
         "Redirect": "https://syx.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://syx.in"
-    },
-    {
-        "link": "https://grandmayfull.com",
-        "Heading": "Grand Mayfull Hotel Taipei",
-        "Abstract": "\u77d7\u7acb\u53f0\u5317\u5927\u76f4\u6cb3\u7554\u7684\u65b0\u53e4\u5178\u98a8\u683c\u5efa\u7bc9\u5916\u89c0\uff0c\u53f0\u5317\u7f8e\u798f\u5927\u98ef\u5e97\u9664\u4e86\u63d0\u4f9b\u5c0a\u7235\u4e0d\u51e1\u7684\u65c5\u5bbf\u9ad4\u9a57\u5916\uff0c\u4ee5\u4e03\u9593\u7fe9\u7136\u96c5\u7dfb\u7684\u4e2d\u897f\u7f8e\u994c\u9910\u5ef3\u53ca\u9152\u5427\uff0c\u9ad4\u73fe\u98df\u6750\u7d14\u771f\u539f\u5473\uff0c\u5728\u57ce\u56c2\u55a7\u64fe\u4e4b\u9918\u5275\u9020\u5168\u7136\u8212\u9069\u3001\u8cd3\u81f3\u5982\u6b78\u7684\u7d55\u5c0d\u611f\u52d5\u3002",
-        "Official Site": "https://www.grandmayfull.com",
-        "Icon": "//www.grandmayfull.com",
-        "Redirect": "https://www.grandmayfull.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.grandmayfull.com"
     },
     {
         "link": "https://protectingchildren.google",
@@ -268,16 +268,6 @@
         "Redirect": "https://intellicomstudios.ca",
         "AbstractSource": "BS4",
         "AbstractURL": "https://intellicomstudios.ca"
-    },
-    {
-        "link": "https://aivalley.ai",
-        "Heading": "AI Valley | Discover The Newest AI Tools And Prompts For Any Use In Seconds",
-        "Abstract": "AI Valley curates the most useful AI Tools and Prompts Daily. Explore 1,700+ AI Tools, 400+ Prompts curated by AI Experts.",
-        "Official Site": "https://aivalley.ai/",
-        "Icon": "https://aivalley.ai/wp-content/uploads/2023/06/AI-Valley1-1024x508.png",
-        "Redirect": "https://aivalley.ai/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aivalley.ai/"
     },
     {
         "link": "https://interviewprep.org",

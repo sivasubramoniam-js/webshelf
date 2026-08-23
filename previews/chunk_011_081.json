@@ -50,6 +50,16 @@
         "AbstractURL": "https://tripetto.app"
     },
     {
+        "link": "https://thehappiesthome.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://thehappiesthome.com",
+        "Icon": "data:;",
+        "Redirect": "https://thehappiesthome.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thehappiesthome.com"
+    },
+    {
         "link": "https://tribecreative.com.au",
         "Heading": "TRIBE CREATIVE | Life in Digital - Design & Creative Content - SEO - Copy",
         "Abstract": "Tribe Creative Brisbane Online Digital Media Agency Design Content Copy Writing",
@@ -281,12 +291,12 @@
     },
     {
         "link": "https://millionairespeakers.com",
-        "Heading": "Home - Millionaire Speakers | The Home f Great Speakers!",
-        "Abstract": "Great speakers are not born they are made! Join Millionaire Speakers to reach your fullest potential in Public Speaking. Gain a 7-Figure Skill from Milan Milosevic.",
-        "Official Site": "https://millionairespeakers.com/",
-        "Icon": "https://millionairespeakers.com/wp-content/uploads/2023/06/Logo-Web-Black-1.png",
-        "Redirect": "https://millionairespeakers.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://millionairespeakers.com",
+        "Icon": "data:,",
+        "Redirect": "https://millionairespeakers.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://millionairespeakers.com/"
+        "AbstractURL": "https://millionairespeakers.com"
     }
 ]

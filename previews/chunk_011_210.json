@@ -91,10 +91,10 @@
     },
     {
         "link": "https://beleske.com",
-        "Heading": "Bele\u0161ke",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://beleske.com",
-        "Icon": "https://beleske.com/wp-content/uploads/2016/01/favicon.png",
+        "Icon": "data:,",
         "Redirect": "https://beleske.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://beleske.com"
@@ -128,6 +128,16 @@
         "Redirect": "https://www.otakuboards.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.otakuboards.com"
+    },
+    {
+        "link": "https://jcitytimes.com",
+        "Heading": "Jersey City Times - The Place for Jersey City News",
+        "Abstract": "The Place for Jersey City News",
+        "Official Site": "https://jcitytimes.com/",
+        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9qY2l0eXRpbWVzLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMTBcL2Zhdmljb24ucG5nP2ZpdD01MTIlMkM1MTImc3NsPTEiLCJ0eHQiOiJKZXJzZXkgQ2l0eSBUaW1lcyIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoyMDk5NjIwNTV9.9oVIvxHgxcuZz0EmdIl5dYulc7eeGnNPTavVFYvl4moMQ",
+        "Redirect": "https://jcitytimes.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jcitytimes.com/"
     },
     {
         "link": "https://yourwebshop.com",
@@ -178,6 +188,16 @@
         "Redirect": "https://gym-neu.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gym-neu.de"
+    },
+    {
+        "link": "https://peruhostweb.com",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://peruhostweb.com",
+        "Icon": "data:,",
+        "Redirect": "https://peruhostweb.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://peruhostweb.com"
     },
     {
         "link": "https://bitlayer-rpc.com",

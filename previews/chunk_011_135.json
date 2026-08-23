@@ -11,13 +11,13 @@
     },
     {
         "link": "https://sanzza.com",
-        "Heading": "Ag\u00eancia de Marketing Digital | Sanzza \u2014 Boutique Agency",
-        "Abstract": "A Sanzza \u00e9 uma ag\u00eancia de Marketing Digital e Cria\u00e7\u00e3o de Websites com 10 anos de experi\u00eancia. Vamos impulsionar o seu neg\u00f3cio e aumentar as suas vendas.",
-        "Official Site": "https://www.sanzza.com/",
-        "Icon": "https://www.sanzza.com/wp-content/uploads/2025/01/cropped-favicon-32x32.png",
-        "Redirect": "https://www.sanzza.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://sanzza.com",
+        "Icon": "data:,",
+        "Redirect": "https://sanzza.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sanzza.com/"
+        "AbstractURL": "https://sanzza.com"
     },
     {
         "link": "https://kedgebs-alumni.com",
@@ -41,7 +41,7 @@
     },
     {
         "link": "https://npfselena.ru",
-        "Heading": "20.168.159.161 22.08.2026 06:05:35",
+        "Heading": "20.168.103.5 23.08.2026 06:27:29",
         "Abstract": null,
         "Official Site": "https://npfselena.ru",
         "Icon": "data:,",
@@ -51,10 +51,10 @@
     },
     {
         "link": "https://cornwallstaffagency.co.uk",
-        "Heading": "Cornwall Staff Agency",
-        "Abstract": "",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://cornwallstaffagency.co.uk",
-        "Icon": "/favicon.ico",
+        "Icon": "data:,",
         "Redirect": "https://cornwallstaffagency.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cornwallstaffagency.co.uk"
@@ -161,8 +161,8 @@
     },
     {
         "link": "https://worldwideboxoffice.com",
-        "Heading": "WorldwideBoxoffice.com -|- 18506 titles as of Aug 21, 2026",
-        "Abstract": "Worldwide, domestic and overseas box office totals for 18506 movies.",
+        "Heading": "WorldwideBoxoffice.com -|- 18508 titles as of Aug 22, 2026",
+        "Abstract": "Worldwide, domestic and overseas box office totals for 18508 movies.",
         "Official Site": "https://worldwideboxoffice.com",
         "Icon": "https://worldwideboxoffice.com/wiki/resources/assets/wwbo_logo.jpg",
         "Redirect": "https://worldwideboxoffice.com",
@@ -221,13 +221,13 @@
     },
     {
         "link": "https://toplegal.it",
-        "Heading": "Homepage - TopLegal",
-        "Abstract": "TopLegal \u00e8 la piattaforma italiana per il mondo legale con informazione, formazione, consulenza, eventi, eventi di premiazione e la rivista mensile TopLegal Digital.",
-        "Official Site": "https://www.toplegal.it/",
-        "Icon": "https://www.toplegal.it/wp-content/themes/top-legal/img/favicon_TL.jpg",
-        "Redirect": "https://www.toplegal.it/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://toplegal.it",
+        "Icon": "data:,",
+        "Redirect": "https://toplegal.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.toplegal.it/"
+        "AbstractURL": "https://toplegal.it"
     },
     {
         "link": "https://pin-up-game-online.com",
@@ -298,5 +298,15 @@
         "Redirect": "https://get-sides.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://get-sides.de"
+    },
+    {
+        "link": "https://ehizmet.net",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://ehizmet.net",
+        "Icon": "data:,",
+        "Redirect": "https://ehizmet.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ehizmet.net"
     }
 ]

@@ -61,10 +61,10 @@
     },
     {
         "link": "https://liturgiapapal.org",
-        "Heading": "Inicio",
-        "Abstract": "'Todo lo relacionado con las celebraciones papales y otros temas de liturgia",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://liturgiapapal.org",
-        "Icon": "/templates/j51_nina/favicon.ico",
+        "Icon": "data:,",
         "Redirect": "https://liturgiapapal.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://liturgiapapal.org"
@@ -101,10 +101,10 @@
     },
     {
         "link": "https://naturashop.com.hr",
-        "Heading": "Natura Shop E-Trgovina - Dodaci Prehrani @ NaturaShop.com.hr",
-        "Abstract": "lll\u27a4\u0160iroka ponuda vitamina, minerala, aminokiselina i ostalih dodataka prehrani na jednom mjestu po najpovoljnijim cijenama. Super cijena \u2714\ufe0f Brza dostava!",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://naturashop.com.hr",
-        "Icon": "/img/favicon.ico?1627411672",
+        "Icon": "data:,",
         "Redirect": "https://naturashop.com.hr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://naturashop.com.hr"
@@ -178,16 +178,6 @@
         "Redirect": "https://lsbrx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lsbrx.com"
-    },
-    {
-        "link": "https://batterylocks.com",
-        "Heading": "Coming Soon",
-        "Abstract": null,
-        "Official Site": "https://batterylocks.com",
-        "Icon": "N/A",
-        "Redirect": "https://batterylocks.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://batterylocks.com"
     },
     {
         "link": "https://whsd-edu.com",
@@ -321,10 +311,10 @@
     },
     {
         "link": "https://octopusreview.com",
-        "Heading": "Octopus Review free seo tool",
-        "Abstract": "Octopus Review is a free seo tool which will help you analyse your web page",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://octopusreview.com",
-        "Icon": "https://octopusreview.com/img/logo.png",
+        "Icon": "data:,",
         "Redirect": "https://octopusreview.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://octopusreview.com"

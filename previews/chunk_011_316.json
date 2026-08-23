@@ -61,10 +61,10 @@
     },
     {
         "link": "https://fupecampus.org",
-        "Heading": "Campus FUPE: Inicie sesi\u00f3n en el sitio",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://fupecampus.org",
-        "Icon": "//www.fupecampus.org/pluginfile.php?file=%2F1%2Ftheme_fordson%2Ffavicon%2F-1%2Ffavicom-fupe-2.png",
+        "Icon": "data:,",
         "Redirect": "https://fupecampus.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fupecampus.org"
@@ -120,16 +120,6 @@
         "AbstractURL": "https://futismanageri.com"
     },
     {
-        "link": "https://future-elms.com",
-        "Heading": "Future-ELMS",
-        "Abstract": null,
-        "Official Site": "https://future-elms.com",
-        "Icon": "/images/favicon.ico",
-        "Redirect": "https://future-elms.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://future-elms.com"
-    },
-    {
         "link": "https://future-trade-zone.site",
         "Heading": "Account Suspended",
         "Abstract": null,
@@ -138,6 +128,16 @@
         "Redirect": "https://future-trade-zone.site",
         "AbstractSource": "BS4",
         "AbstractURL": "https://future-trade-zone.site"
+    },
+    {
+        "link": "https://futuronazionale.it",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://futuronazionale.it",
+        "Icon": "data:;",
+        "Redirect": "https://futuronazionale.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://futuronazionale.it"
     },
     {
         "link": "https://fuu389fj9.com",
@@ -171,10 +171,10 @@
     },
     {
         "link": "https://fyep.org.pk",
-        "Heading": " FYEP | Foundation For Youth Employment Pakistan",
-        "Abstract": "Multi-purpose Business html5 landing page",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://fyep.org.pk",
-        "Icon": "images/Pakistan-Centre-for-Philanthropy.png",
+        "Icon": "data:;",
         "Redirect": "https://fyep.org.pk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fyep.org.pk"

@@ -31,10 +31,10 @@
     },
     {
         "link": "https://themindfulnessclinic.com.au",
-        "Heading": "The Mindfulness Clinic |  Mindfulness Keynote Speaker based in Sydney, Australia",
-        "Abstract": "Charlotte Thaarup teaches Mindfulness in the workplace, runs retreats in Australia NSW Hunter Valley, Central Coast, Sydney, NZ & is a Mindfulness keynote speaker",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://themindfulnessclinic.com.au",
-        "Icon": "https://themindfulnessclinic.com.au/wp-content/uploads/2019/08/charlotte-thaarup-mindfulness-practitioner.jpg",
+        "Icon": "data:;",
         "Redirect": "https://themindfulnessclinic.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://themindfulnessclinic.com.au"
@@ -191,13 +191,13 @@
     },
     {
         "link": "https://rhp-properties.com",
-        "Heading": "Manufactured Home Communities: America's Home\u00ae | RHP Properties",
-        "Abstract": "Find your place in a welcoming manufactured home community with RHP Properties. Homes and neighbors nationwide. Live Life. Live it Here.\u00ae",
-        "Official Site": "https://rhp-properties.com/",
-        "Icon": "/images/rhp_preview.jpg",
-        "Redirect": "https://rhp-properties.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://rhp-properties.com",
+        "Icon": "data:,",
+        "Redirect": "https://rhp-properties.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rhp-properties.com/"
+        "AbstractURL": "https://rhp-properties.com"
     },
     {
         "link": "https://womansanga.ws",
@@ -281,12 +281,12 @@
     },
     {
         "link": "https://franckgoddio.org",
-        "Heading": "Franck Goddio: Homepage ",
-        "Abstract": "Underwater archaeological excavations by the European Institute for Underwater Archaeology (IEASM), directed by Franck Goddio in the sunken cities of Thonis-Heracleion, Canopus and the eastern port of Alexandria off the coast of Egypt as well as of sunken ships worldwide.",
-        "Official Site": "https://www.franckgoddio.org/",
-        "Icon": "https://www.franckgoddio.org/fileadmin/_processed_/d/b/csm_01_Hera-CG-035_373aa8da94.jpg",
-        "Redirect": "https://www.franckgoddio.org/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://franckgoddio.org",
+        "Icon": "data:,",
+        "Redirect": "https://franckgoddio.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.franckgoddio.org/"
+        "AbstractURL": "https://franckgoddio.org"
     }
 ]

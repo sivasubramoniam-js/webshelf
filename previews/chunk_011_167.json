@@ -1,13 +1,13 @@
 [
     {
         "link": "https://thewellbeingthesis.org.uk",
-        "Heading": "Home - The Wellbeing Thesis",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://thewellbeingthesis.org.uk/",
-        "Icon": "https://thewellbeingthesis.org.uk/wp-content/uploads/2019/09/twt-home-page-big.png",
-        "Redirect": "https://thewellbeingthesis.org.uk/",
+        "Official Site": "https://thewellbeingthesis.org.uk",
+        "Icon": "data:;",
+        "Redirect": "https://thewellbeingthesis.org.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thewellbeingthesis.org.uk/"
+        "AbstractURL": "https://thewellbeingthesis.org.uk"
     },
     {
         "link": "https://manlyhugs.com",
@@ -48,26 +48,6 @@
         "Redirect": "https://www.wholesaleshopping.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.wholesaleshopping.co.uk/"
-    },
-    {
-        "link": "https://ecocosas.com",
-        "Heading": "Ecocosas - Difundiendo conocimientos ecol\u00f3gicos",
-        "Abstract": "La idea es compartir, consultar, comunicar y crear conocimiento sobre temas de Ecolog\u00eda, Permacultura, Salud Natural, Plantas Medicinales, Como Cultivar, Energ\u00edas renovables, Bioconstrucci\u00f3n y otros.",
-        "Official Site": "https://ecocosas.com/",
-        "Icon": "https://ecocosas.com/wp-content/uploads/2020/07/cropped-favicon-1-150x150.png",
-        "Redirect": "https://ecocosas.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ecocosas.com/"
-    },
-    {
-        "link": "https://gordonfamilypractice.com.au",
-        "Heading": "Home - Gordon Family Practice",
-        "Abstract": "Gordon Family Practice Caring for Your Health Personalised treatments and wellness solutions to keep you and your family healthy. Expert medical care with advanced technology. Book Appointment Gordon Family Practice Keeping Your Family Healthy Personalised treatments and wellness solutions to keep you and your family healthy. Expert medical care with advanced technology. Book Appointment Our",
-        "Official Site": "https://gordonfamilypractice.com.au/",
-        "Icon": "N/A",
-        "Redirect": "https://gordonfamilypractice.com.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gordonfamilypractice.com.au/"
     },
     {
         "link": "https://cheat.sh",
@@ -120,16 +100,6 @@
         "AbstractURL": "http://www.imcc.com/"
     },
     {
-        "link": "https://wirverbindeneuch.de",
-        "Heading": "Parked Domain name on Hostinger DNS system",
-        "Abstract": null,
-        "Official Site": "https://wirverbindeneuch.de",
-        "Icon": "N/A",
-        "Redirect": "https://wirverbindeneuch.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wirverbindeneuch.de"
-    },
-    {
         "link": "https://getauctor.com",
         "Heading": "Auctor | AI System of Action for Software Implementations",
         "Abstract": "Auctor is the AI-native system of action for software implementations. Unify pre-sales and delivery to deliver projects faster, with less rework.",
@@ -168,16 +138,6 @@
         "Redirect": "https://kc-space.jp",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kc-space.jp"
-    },
-    {
-        "link": "https://globaljaringanborneo.com",
-        "Heading": "PT Global Jaringan Borneo",
-        "Abstract": null,
-        "Official Site": "https://globaljaringanborneo.com",
-        "Icon": "N/A",
-        "Redirect": "https://globaljaringanborneo.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://globaljaringanborneo.com"
     },
     {
         "link": "https://shrihdesigns.net",

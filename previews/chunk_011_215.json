@@ -50,16 +50,6 @@
         "AbstractURL": "https://rnmedia.se"
     },
     {
-        "link": "https://it3.online",
-        "Heading": "\u0e2b\u0e27\u0e22\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c \u0e41\u0e17\u0e07\u0e07\u0e48\u0e32\u0e22\u0e17\u0e38\u0e01\u0e1b\u0e23\u0e30\u0e40\u0e20\u0e17 \u0e04\u0e23\u0e1a\u0e17\u0e38\u0e01\u0e2b\u0e27\u0e22\u0e43\u0e19\u0e40\u0e27\u0e47\u0e1a\u0e40\u0e14\u0e35\u0e22\u0e27 \u0e2d\u0e31\u0e15\u0e23\u0e32\u0e08\u0e48\u0e32\u0e22\u0e04\u0e38\u0e49\u0e21\u0e2a\u0e38\u0e14",
-        "Abstract": "\u0e2b\u0e27\u0e22\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c \u0e04\u0e23\u0e1a\u0e17\u0e38\u0e01\u0e1b\u0e23\u0e30\u0e40\u0e20\u0e17 \u0e2b\u0e27\u0e22\u0e44\u0e17\u0e22 \u0e2b\u0e27\u0e22\u0e25\u0e32\u0e27 \u0e2e\u0e32\u0e19\u0e2d\u0e22 \u0e22\u0e35\u0e48\u0e01\u0e35 \u0e2b\u0e27\u0e22\u0e2b\u0e38\u0e49\u0e19\u0e44\u0e17\u0e22\u0e41\u0e25\u0e30\u0e15\u0e48\u0e32\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28 \u0e23\u0e30\u0e1a\u0e1a\u0e2d\u0e2d\u0e42\u0e15\u0e49\u0e40\u0e23\u0e47\u0e27 \u0e15\u0e23\u0e27\u0e08\u0e1c\u0e25\u0e17\u0e31\u0e19\u0e17\u0e35 \u0e2d\u0e31\u0e15\u0e23\u0e32\u0e08\u0e48\u0e32\u0e22\u0e2a\u0e39\u0e07 \u0e04\u0e38\u0e49\u0e21\u0e04\u0e48\u0e32\u0e17\u0e38\u0e01\u0e42\u0e1e\u0e22",
-        "Official Site": "https://it3.online/",
-        "Icon": "https://it3.online/wp-content/uploads/2025/11/cropped-icon-huay234-300x300-1-150x150.webp",
-        "Redirect": "https://it3.online/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://it3.online/"
-    },
-    {
         "link": "https://maebrussell.com",
         "Heading": "maebrussell.com",
         "Abstract": "The research of the late political researcher and historian Mae Brussell.  For 17 years Mae shared with her radio audience her daily research on political assassinations and world-wide government corruption.",
@@ -88,6 +78,16 @@
         "Redirect": "https://coloriuris.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://coloriuris.net"
+    },
+    {
+        "link": "https://zehrphotos.com",
+        "Heading": "ZehrPhotos ...Real Projects. Real Work. Real Observations - zehrphotos.com",
+        "Abstract": null,
+        "Official Site": "https://zehrphotos.com",
+        "Icon": "N/A",
+        "Redirect": "https://zehrphotos.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zehrphotos.com"
     },
     {
         "link": "https://omni-tech.net",
@@ -141,13 +141,13 @@
     },
     {
         "link": "https://horgans.com",
-        "Heading": "Food Wholesaler, Party Foods, Wholesale Food Supplier, Christmas & Irish Food Hampers",
-        "Abstract": "Horgan Delicatessen Supplies deliver meats, cheese, and pates directly to hundreds of valued independent customers nationwide. Visit us for more Information!",
-        "Official Site": "https://www.horgans.com/",
-        "Icon": "https://www.horgans.com/wp-content/uploads/2026/06/horgans-50th-circle.png",
-        "Redirect": "https://www.horgans.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://horgans.com",
+        "Icon": "data:,",
+        "Redirect": "https://horgans.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.horgans.com/"
+        "AbstractURL": "https://horgans.com"
     },
     {
         "link": "https://beemed.com",
@@ -181,10 +181,10 @@
     },
     {
         "link": "https://echothree.net",
-        "Heading": "EchoThree",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://echothree.net",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://echothree.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://echothree.net"
@@ -198,6 +198,16 @@
         "Redirect": "https://amiga-resistance.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://amiga-resistance.info"
+    },
+    {
+        "link": "https://theplayersaid.com",
+        "Heading": "The Players' Aid \u2013 Board Game Reviews, Reports, and Reflections.",
+        "Abstract": "Board Game Reviews, Reports, and Reflections.",
+        "Official Site": "https://theplayersaid.com/",
+        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvdGhlcGxheWVyc2FpZC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMTdcLzA3XC9oZXgtZmluYWwtZHJhZnQtc21hbGwtamF5LXBlZy5qcGc_dz0xNDAiLCJ0eHQiOiJUaGUgUGxheWVycyYjMDM5OyBBaWQiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTA5OTczNjg1fQ.2OWHytSjdReqpwGdF3ySmHXuHvW1p6CSqx0HB1B4yEAMQ",
+        "Redirect": "https://theplayersaid.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://theplayersaid.com/"
     },
     {
         "link": "https://hotbraids.com",

@@ -90,16 +90,6 @@
         "AbstractURL": "https://www.coldrolledsteels.com/"
     },
     {
-        "link": "https://krajee.com",
-        "Heading": "Krajee \u2013 Web Development Evolved",
-        "Abstract": null,
-        "Official Site": "https://krajee.com",
-        "Icon": "https://krajee.com/wp-content/uploads/2023/04/cropped-krajee-logo-32x32.png",
-        "Redirect": "https://krajee.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://krajee.com"
-    },
-    {
         "link": "https://elite-network.com",
         "Heading": "ELITE - Companies, Investors, Partners, Basket Bond | ELITE",
         "Abstract": "ELITE is an ecosystem for the most ambitious private companies. ELITE, launched in 2012 by Borsa Italiana and now part of Euronext Group, is the European network of private SMEs which accelerates growth and access to private and public capital markets. ",
@@ -108,6 +98,16 @@
         "Redirect": "https://www.elite-network.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.elite-network.com/"
+    },
+    {
+        "link": "https://apachetomahawk.com",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://apachetomahawk.com",
+        "Icon": "data:,",
+        "Redirect": "https://apachetomahawk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://apachetomahawk.com"
     },
     {
         "link": "https://sunshineweek.org",
@@ -122,7 +122,7 @@
     {
         "link": "https://tiempofm.com.mx",
         "Heading": "tiempofm.com.mx",
-        "Abstract": null,
+        "Abstract": "Find information, resources and relevant links for tiempofm.com.mx. This domain may be for sale.",
         "Official Site": "https://tiempofm.com.mx",
         "Icon": "N/A",
         "Redirect": "https://tiempofm.com.mx",
@@ -131,10 +131,10 @@
     },
     {
         "link": "https://tricolourfinancialservices.com",
-        "Heading": "\n        tricolor    ",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://tricolourfinancialservices.com",
-        "Icon": "https://tricolourfinancialservices.com/wp-content/themes/tri-color-theme/assets/images/logo-light-f.png",
+        "Icon": "data:,",
         "Redirect": "https://tricolourfinancialservices.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tricolourfinancialservices.com"
@@ -258,16 +258,6 @@
         "Redirect": "https://kan3721.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kan3721.com"
-    },
-    {
-        "link": "https://abglamour.org",
-        "Heading": "Asociaci\u00f3n de Baile Glamour",
-        "Abstract": "Asociaci\u00f3n de baile de sal\u00f3n y ritmos latinos en San Fernando (C\u00e1diz). Actividades, fiestas, excursiones y convivencias.",
-        "Official Site": "https://abglamour.org",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://abglamour.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://abglamour.org"
     },
     {
         "link": "https://qualitysmi.com.br",

@@ -31,13 +31,13 @@
     },
     {
         "link": "https://thecircular.org",
-        "Heading": "The Circular \u2013 The News Site of Journalism & Online Media Production students in Griffith College Dublin",
-        "Abstract": "The News Site of Journalism & Online Media Production students in Griffith College Dublin",
-        "Official Site": "https://thecircular.org/",
-        "Icon": "https://thecircular.org/wp-content/uploads/2021/11/cropped-Screenshot-2021-11-15-at-11.11.32.png",
-        "Redirect": "https://thecircular.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://thecircular.org",
+        "Icon": "data:;",
+        "Redirect": "https://thecircular.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thecircular.org/"
+        "AbstractURL": "https://thecircular.org"
     },
     {
         "link": "https://innoveo.com",
@@ -61,23 +61,13 @@
     },
     {
         "link": "https://tekkaleyapi.com",
-        "Heading": "Tek Kale Yap\u0131 \u2013 Enerji Kimlik Belgesi",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://tekkaleyapi.com",
-        "Icon": "https://tekkaleyapi.com/wp-content/uploads/2025/08/tekkale-favicon-150x150.png",
+        "Icon": "data:;",
         "Redirect": "https://tekkaleyapi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tekkaleyapi.com"
-    },
-    {
-        "link": "https://elcamellosupply.com",
-        "Heading": "Home - El Camello Distribution",
-        "Abstract": "-10% OFF",
-        "Official Site": "https://elcamellosupply.com/",
-        "Icon": "https://elcamellosupply.com/wp-content/uploads/2025/11/cropped-Elcamello.png",
-        "Redirect": "https://elcamellosupply.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://elcamellosupply.com/"
     },
     {
         "link": "https://robur.coop",
@@ -140,6 +130,16 @@
         "AbstractURL": "https://esaweb.org/"
     },
     {
+        "link": "https://sushistore-bor.ru",
+        "Heading": "Up \u0425 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u2714\ufe0f \u0417\u0435\u0440\u043a\u0430\u043b\u043e \u0410\u041f \u0418\u041a\u0421 \u27a4 \u043a\u0430\u0437\u0438\u043d\u043e Up \u0425",
+        "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 UP X \u2705 \u0417\u0435\u0440\u043a\u0430\u043b\u043e \u0441\u0430\u0439\u0442\u0430 UP X. \u0423\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0438\u0433\u0440\u044b \u043d\u0430 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0435\u043d\u044c\u0433\u0438 \u2b50 \u0418\u0433\u0440\u0430\u0439 \u0438 \u0437\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439",
+        "Official Site": "https://sushistore-bor.ru",
+        "Icon": "https://sushistore-bor.ru/wp-content/themes/30033/assets/img/favicon.ico?ver=21",
+        "Redirect": "https://sushistore-bor.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sushistore-bor.ru"
+    },
+    {
         "link": "https://vloveis.online",
         "Heading": "Welcome to vLoveis!",
         "Abstract": "\u041b\u0443\u0447\u0448\u0438\u0439 \u0441\u0430\u0439\u0442 \u0437\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432! \u041d\u0430\u0439\u0434\u0438 \u0441\u0432\u043e\u044e \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u043a\u0443!",
@@ -174,7 +174,7 @@
         "Heading": "sternalia productora de actividades culturales, cient\u00edficas, gastron\u00f3micas, eventos privados en espacios singulares",
         "Abstract": "sternalia empresa organizadora de eventos y actividades culturales, cient\u00edficas y gastron\u00f3micas en Barcelona, Catalu\u00f1a.",
         "Official Site": "https://www.sternalia.com/",
-        "Icon": "https://m.sternalia.com/xtra/imgs/favicon.png?24504270037",
+        "Icon": "https://www.sternalia.com/xtra/imgs/favicon.png?24504258711",
         "Redirect": "https://www.sternalia.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sternalia.com/"
@@ -218,6 +218,26 @@
         "Redirect": "https://www.calgarytower.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.calgarytower.com"
+    },
+    {
+        "link": "https://carrierclasswifi.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://carrierclasswifi.com",
+        "Icon": "N/A",
+        "Redirect": "https://carrierclasswifi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://carrierclasswifi.com"
+    },
+    {
+        "link": "https://balletaz.org",
+        "Heading": "Ballet Arizona Homepage | Ballet Arizona",
+        "Abstract": "Join us as we inspire, entertain and educate the Arizona community through performances, dedicated events and ballet training.",
+        "Official Site": "https://balletaz.org/",
+        "Icon": "https://balletaz.org/wp-content/uploads/2023/07/Ballet-Feature-image.png",
+        "Redirect": "https://balletaz.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://balletaz.org/"
     },
     {
         "link": "https://hearaon.co.kr",

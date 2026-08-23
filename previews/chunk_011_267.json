@@ -80,16 +80,6 @@
         "AbstractURL": "https://btr.iplmr.uz"
     },
     {
-        "link": "https://btsedumeet.com",
-        "Heading": "BTS Exam",
-        "Abstract": null,
-        "Official Site": "https://btsedumeet.com",
-        "Icon": "N/A",
-        "Redirect": "https://btsedumeet.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://btsedumeet.com"
-    },
-    {
         "link": "https://btstrainer.com",
         "Heading": "Ticketmaster Training for BTS",
         "Abstract": "Practice your ticket buying skills for the upcoming BTS tour with this training simulator. Get ready for the war!",
@@ -171,10 +161,10 @@
     },
     {
         "link": "https://buayandistrict.com",
-        "Heading": null,
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://buayandistrict.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://buayandistrict.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://buayandistrict.com"

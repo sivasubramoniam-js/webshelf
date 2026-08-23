@@ -1,13 +1,13 @@
 [
     {
         "link": "https://tienda-alegria.es",
-        "Heading": "Tienda alegr\u00eda | Tienda de regalos en Talavera de la Reina",
-        "Abstract": "Los mejores productos de regalos en Talavera de la Reina",
-        "Official Site": "https://www.tienda-alegria.es/es/",
-        "Icon": "https://www.tienda-alegria.es/img/cms/share_logo.png",
-        "Redirect": "https://www.tienda-alegria.es/es/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://tienda-alegria.es",
+        "Icon": "data:,",
+        "Redirect": "https://tienda-alegria.es",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.tienda-alegria.es/es/"
+        "AbstractURL": "https://tienda-alegria.es"
     },
     {
         "link": "https://adposeidon.com",
@@ -28,6 +28,16 @@
         "Redirect": "https://elcalotipo.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://elcalotipo.com/"
+    },
+    {
+        "link": "https://gnps.org",
+        "Heading": "GNPS",
+        "Abstract": "Promoting stewardship and conservation of Georgia\u2019s native plants and their habitats through education, restoration, propagation, and plant distribution.",
+        "Official Site": "https://gnps.org/",
+        "Icon": "https://gnps.org/wp-content/uploads/2016/11/cropped-gnps_favicon-32x32.png",
+        "Redirect": "https://gnps.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gnps.org/"
     },
     {
         "link": "https://rpmcomputers.ca",
@@ -51,10 +61,10 @@
     },
     {
         "link": "https://setcarinsurance.com",
-        "Heading": "Set Car Insurance",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://setcarinsurance.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://setcarinsurance.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://setcarinsurance.com"
@@ -150,16 +160,6 @@
         "AbstractURL": "https://www.myrthapools.com/ap-en/"
     },
     {
-        "link": "https://campuseducacion.com",
-        "Heading": "Cursos Homologados ANPE Oposiciones Maestros y Profesores",
-        "Abstract": "Cursos homologados online para oposiciones de Maestros Profesores Educaci\u00f3n Secundaria y Maestros Infantil y Primaria. Cursos de formaci\u00f3n ANPE Albacete, UCJC y MEFP.",
-        "Official Site": "https://www.campuseducacion.com/",
-        "Icon": "https://www.campuseducacion.com/images/meta/CED-principal.jpg",
-        "Redirect": "https://www.campuseducacion.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.campuseducacion.com/"
-    },
-    {
         "link": "https://scy.my",
         "Heading": null,
         "Abstract": null,
@@ -221,13 +221,13 @@
     },
     {
         "link": "https://famewatcher.com",
-        "Heading": "Famewatcher: Watching the famous and the non-famous become famous",
-        "Abstract": "Famewatcher reviews TV shows and movies, covers celebrity fashion and Hollywood events, and stans famous men brave enough to wear Speedos.",
-        "Official Site": "https://famewatcher.com/",
-        "Icon": "https://famewatcher.com/wp-content/uploads/2016/01/famewatcher-favicon-dont-delete.png",
-        "Redirect": "https://famewatcher.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://famewatcher.com",
+        "Icon": "data:,",
+        "Redirect": "https://famewatcher.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://famewatcher.com/"
+        "AbstractURL": "https://famewatcher.com"
     },
     {
         "link": "https://vacationsfrbo.com",

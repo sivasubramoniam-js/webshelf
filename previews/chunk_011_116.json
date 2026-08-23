@@ -20,16 +20,6 @@
         "AbstractURL": "https://summitcleaningco.com/"
     },
     {
-        "link": "https://it-advisors.international",
-        "Heading": "it-advisors.international - Home",
-        "Abstract": null,
-        "Official Site": "https://it-advisors.group/",
-        "Icon": "/images/favicon.png",
-        "Redirect": "https://it-advisors.group/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://it-advisors.group/"
-    },
-    {
         "link": "https://sepidan.net",
         "Heading": "\u0633\u067e\u06cc\u062f\u0627\u0646 | \u0637\u0631\u0627\u062d\u06cc \u0633\u0627\u06cc\u062a\u060c \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0633\u0627\u0632\u060c \u0633\u0626\u0648",
         "Abstract": "\u0637\u0631\u0627\u062d\u06cc \u0633\u0627\u06cc\u062a\u060c \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0633\u0627\u0632\u060c \u0633\u0626\u0648",
@@ -91,23 +81,13 @@
     },
     {
         "link": "https://liveyourmessage.com",
-        "Heading": "Live Your Message - Live Your Message",
-        "Abstract": "Marisa Murgatroyd Coaches, Consultants & Service Providers: Grow Your Online Business, Live Your Message and Step Into Unstoppable Momentum Use the",
-        "Official Site": "https://liveyourmessage.com/",
-        "Icon": "https://liveyourmessage.com/wp-content/uploads/2023/11/lym-meta.png",
-        "Redirect": "https://liveyourmessage.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://liveyourmessage.com",
+        "Icon": "data:,",
+        "Redirect": "https://liveyourmessage.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://liveyourmessage.com/"
-    },
-    {
-        "link": "https://mc-alternativa.com.ua",
-        "Heading": "\u041c\u0435\u0434\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \"\u0410\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u0430\" - \u041b\u0456\u043a\u0443\u0432\u0430\u043d\u043d\u044f \u0445\u0440\u043e\u043d\u0456\u0447\u043d\u0438\u0445 \u0437\u0430\u0445\u0432\u043e\u0440\u044e\u0432\u0430\u043d\u044c",
-        "Abstract": "\u041f\u0440\u0430\u0446\u044e\u0454 \u0437 2007 \u0440\u043e\u043a\u0443, \u0443\u0441\u043f\u0456\u0448\u043d\u043e \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454 \u0430\u0432\u0442\u043e\u0440\u0441\u044c\u043a\u0456 \u043c\u0435\u0442\u043e\u0434\u0438\u043a\u0438 \u043b\u0456\u043a\u0443\u0432\u0430\u043d\u043d\u044f \u0433\u043e\u043b\u043e\u0432\u043d\u043e\u0433\u043e \u043b\u0456\u043a\u0430\u0440\u044f \u0422\u0438\u043c\u0447\u0435\u043d\u043a\u043e \u041e\u043b\u044c\u0433\u0438 \u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440\u0456\u0432\u043d\u0438.- \u0421\u0442\u0430\u0446\u0456\u043e\u043d\u0430\u0440- \u0410\u043c\u0431\u0443\u043b\u0430\u0442\u043e\u0440\u0456\u044f - \u041c\u0435\u0434\u0438\u0447\u043d\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \"\u0410\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u0430\"",
-        "Official Site": "https://mc-alternativa.com.ua/",
-        "Icon": "https://mc-alternativa.com.ua/wp-content/uploads/2026/03/500h500-350x350-1.jpg",
-        "Redirect": "https://mc-alternativa.com.ua/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mc-alternativa.com.ua/"
+        "AbstractURL": "https://liveyourmessage.com"
     },
     {
         "link": "https://ametist-store.ru",
@@ -231,13 +211,23 @@
     },
     {
         "link": "https://drpalmes.com",
-        "Heading": "Family Chiropractor Clinic San Diego | Chiropractic Therapy Mira Mesa CA | Best Life Chiropractic",
-        "Abstract": "Dr. Palmes offers advanced chiropractic care, spinal decompression, and pain relief treatments to help patients recover, heal, and improve mobility.",
-        "Official Site": "https://drpalmes.com/",
-        "Icon": "https://drpalmes.com/wp-content/uploads/2021/11/Gerry-Palmes-About.jpg",
-        "Redirect": "https://drpalmes.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://drpalmes.com",
+        "Icon": "data:;",
+        "Redirect": "https://drpalmes.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://drpalmes.com/"
+        "AbstractURL": "https://drpalmes.com"
+    },
+    {
+        "link": "https://tb-wiki.com",
+        "Heading": "TB Wiki",
+        "Abstract": null,
+        "Official Site": "https://tb-wiki.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://tb-wiki.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tb-wiki.com"
     },
     {
         "link": "https://neonix.ru",

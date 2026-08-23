@@ -20,26 +20,6 @@
         "AbstractURL": "https://elcerritoliquor.com/"
     },
     {
-        "link": "https://refractiveindex.info",
-        "Heading": "RefractiveIndex.INFO - Refractive index database",
-        "Abstract": null,
-        "Official Site": "https://refractiveindex.info",
-        "Icon": "images/icons/prism/prism-256.png",
-        "Redirect": "https://refractiveindex.info",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://refractiveindex.info"
-    },
-    {
-        "link": "https://kulter.hu",
-        "Heading": "KULTer.hu",
-        "Abstract": null,
-        "Official Site": "https://www.kulter.hu/",
-        "Icon": "https://www.kulter.hu/wp-content/uploads/2020/09/cropped-favicon-32x32.png",
-        "Redirect": "https://www.kulter.hu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kulter.hu/"
-    },
-    {
         "link": "https://foxnettelecom.net.br",
         "Heading": "Foxnet Telecom - Seja Bem Vindos",
         "Abstract": "Venha conhecer a melhor conex\u00e3o do Cear\u00e1. Venha ser Foxnet Telecom.",
@@ -180,6 +160,16 @@
         "AbstractURL": "https://japancreampie.com/"
     },
     {
+        "link": "https://harvarddesignmagazine.org",
+        "Heading": "Harvard Design Magazine - Harvard Design Magazine",
+        "Abstract": "Harvard Design Magazine probes beyond the established design disciplines to enrich and diversify current discourse.",
+        "Official Site": "https://www.harvarddesignmagazine.org/",
+        "Icon": "https://www.harvarddesignmagazine.org/wp-content/uploads/2025/09/HDM53_webbanner_1460px.webp",
+        "Redirect": "https://www.harvarddesignmagazine.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.harvarddesignmagazine.org/"
+    },
+    {
         "link": "https://axbom.com",
         "Heading": "Axbom - Compassionate Tech",
         "Abstract": "Make tech helpful, safe and good-hearted",
@@ -261,13 +251,13 @@
     },
     {
         "link": "https://pybrain.org",
-        "Heading": "Royal Reels 24 Casino AUS Official Website",
-        "Abstract": "Royal Reels                                                                             Royal Reels Online Casino is an Australian casino that is known for its user-friendly architecture and attractive introductory incentives. It is a gaming site where fans can have fun with different games. It has an endless supply of amusement. The club's owner, Digibrite SRL, is registered with the Curacao Gaming Control Board",
-        "Official Site": "https://calixa.io",
-        "Icon": "https://calixa.io/wp-content/uploads/2023/10/cropped-favicon-32x32-1-32x32.png",
-        "Redirect": "https://calixa.io",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://pybrain.org",
+        "Icon": "data:,",
+        "Redirect": "https://pybrain.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://calixa.io"
+        "AbstractURL": "https://pybrain.org"
     },
     {
         "link": "https://vict.nl",
@@ -311,12 +301,12 @@
     },
     {
         "link": "https://i539.tw",
-        "Heading": "\u4eca\u5f69539\u958b\u734e\u865f\u78bc\u67e5\u8a62 | \u53f0\u7063\u5f69\u5238\u901a",
-        "Abstract": "\u4eca\u5f69539\u958b\u734e\u865f\u78bc\u5373\u6642\u67e5\u8a62\uff01\u6bcf\u9031\u4e00\u81f3\u9031\u516d\u665a\u959320:30\u958b\u734e\uff0c\u982d\u734e\u734e\u91d1800\u842c\u5143\u3002\u53f0\u7063\u5f69\u5238\u901a\u540c\u6b65\u5b98\u65b9\u958b\u734e\u76f4\u64ad\uff0c\u5b8c\u6574\u6536\u9304\u8fd120\u671f\u6b77\u53f2\u958b\u734e\u7d00\u9304\uff0c\u79d2\u67e5\u6700\u65b0\u4e2d\u734e\u865f\u78bc\u3002",
-        "Official Site": "https://i539.tw/",
-        "Icon": "https://i539.tw/wp-content/uploads/2025/12/daily-cash.png",
-        "Redirect": "https://i539.tw/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://i539.tw",
+        "Icon": "data:,",
+        "Redirect": "https://i539.tw",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://i539.tw/"
+        "AbstractURL": "https://i539.tw"
     }
 ]

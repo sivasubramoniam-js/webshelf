@@ -20,16 +20,6 @@
         "AbstractURL": "https://feelinggood.com/"
     },
     {
-        "link": "https://clevis.de",
-        "Heading": "CLEVIS | HR-Digitalisierung & Beratung | Anbieterunabh\u00e4ngig",
-        "Abstract": "HR Beratung f\u00fcr Strategie, Prozesse und Digitalisierung. Jetzt passende HR L\u00f6sungen mit CLEVIS finden. Anbieterunabh\u00e4ngige Beratung",
-        "Official Site": "https://www.clevis.de/",
-        "Icon": "https://www.clevis.de/wp-content/uploads/2023/02/CLEVIS_Logo_Featured_Image.jpg",
-        "Redirect": "https://www.clevis.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.clevis.de/"
-    },
-    {
         "link": "https://forum-fic.com",
         "Heading": "FORUM INCYBER \u2013 Forum International de la Cybers\u00e9curit\u00e9",
         "Abstract": null,
@@ -68,16 +58,6 @@
         "Redirect": "https://masajroyal.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://masajroyal.com"
-    },
-    {
-        "link": "https://dealtikka.com",
-        "Heading": "Deal Tikka - Daily Deals Updates since 2013",
-        "Abstract": "#dailydeals #discounts #hotdeals #sale #coupons #deals #usa",
-        "Official Site": "https://www.dealtikka.com/",
-        "Icon": "https://s0.wp.com/i/blank.jpg",
-        "Redirect": "https://www.dealtikka.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.dealtikka.com/"
     },
     {
         "link": "https://theprofessionalhobo.com",
@@ -190,16 +170,6 @@
         "AbstractURL": "https://cyberfortress.com/"
     },
     {
-        "link": "https://teachsundayschool.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://teachsundayschool.com",
-        "Icon": "N/A",
-        "Redirect": "https://teachsundayschool.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://teachsundayschool.com"
-    },
-    {
         "link": "https://sabeelplatform.com",
         "Heading": "Global B2B Trade Platform for Wholesale & Sourcing",
         "Abstract": "sabeelplatform.com is a professional global B2B marketplace that connects buyers and suppliers worldwide. We provide reliable sourcing, bulk wholesale and cross-border trade solutions to help businesses grow globally with efficiency and trust.",
@@ -248,6 +218,16 @@
         "Redirect": "https://mangarock.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mangarock.com"
+    },
+    {
+        "link": "https://buddhabar.com",
+        "Heading": "Buddha-Bar",
+        "Abstract": "Depuis sa cr\u00e9ation en 1996, le Buddha-Bar s\u2019inscrit comme pr\u00e9curseur d\u2019un v\u00e9ritable concept d\u2019Art de vivre, aux influences convergentes du mouvement Pacific Rim.N\u00e9 de l\u2019imagination visionnaire de son fondateur Raymond Visan, alors propri\u00e9taire \u00e0 Paris du c\u00e9l\u00e8bre Barfly et en perp\u00e9tuelle recherche de nouveaut\u00e9s \u00e0 travers ses nombreux voyages notamment en Californie, ce restaurant-bar-lounge du tr\u00e8s chic Faubourg St Honor\u00e9, devient rapidement un \u00ab incontournable \u00bb des nuits parisiennes.",
+        "Official Site": "https://www.buddhabar.com/",
+        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
+        "Redirect": "https://www.buddhabar.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.buddhabar.com/"
     },
     {
         "link": "https://bibliotheque-institutdefrance.fr",
@@ -301,7 +281,7 @@
     },
     {
         "link": "https://o-nas.info",
-        "Heading": "KillBot user verification [20.168.159.161] [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36]...",
+        "Heading": "KillBot user verification [20.168.103.5] [Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15]...",
         "Abstract": null,
         "Official Site": "https://o-nas.info",
         "Icon": "N/A",

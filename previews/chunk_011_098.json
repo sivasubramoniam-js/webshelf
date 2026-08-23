@@ -71,13 +71,13 @@
     },
     {
         "link": "https://exploringbinary.com",
-        "Heading": "Exploring Binary - Binary Numbers, Binary Code, and Binary Logic",
-        "Abstract": "``There are 10 types of people in the world \u2014 those who understand binary and those who don\u2019t.\\'\\' Read these articles and become one of those who do!",
-        "Official Site": "https://www.exploringbinary.com/",
-        "Icon": "https://www.exploringbinary.com/favicon.ico",
-        "Redirect": "https://www.exploringbinary.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://exploringbinary.com",
+        "Icon": "data:,",
+        "Redirect": "https://exploringbinary.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.exploringbinary.com/"
+        "AbstractURL": "https://exploringbinary.com"
     },
     {
         "link": "https://gobae.com",
@@ -141,23 +141,13 @@
     },
     {
         "link": "https://dexiaabogados.com",
-        "Heading": "Dexia Abogados Penalistas \u25b7 Abogados Penalistas en Madrid",
-        "Abstract": "\u00bfBusca abogado penalista especialista en Madrid? Somos expertos en Derecho Penal \u2705 Contacte e inf\u00f3rmese \u260e\ufe0f 91 188 15 25 \u260e\ufe0f Le ayudaremos",
-        "Official Site": "https://www.dexiaabogados.com/",
-        "Icon": "https://www.dexiaabogados.com/wp-content/uploads/2026/06/dexia-abogados-penalistas-2026-2.jpg",
-        "Redirect": "https://www.dexiaabogados.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.dexiaabogados.com/"
-    },
-    {
-        "link": "https://finesandfeesjusticecenter.org",
-        "Heading": "Home - Fines and Fees Justice Center",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://finesandfeesjusticecenter.org/",
-        "Icon": "https://finesandfeesjusticecenter.org/wp-content/uploads/2026/04/Social-Share.png",
-        "Redirect": "https://finesandfeesjusticecenter.org/",
+        "Official Site": "https://dexiaabogados.com",
+        "Icon": "data:;",
+        "Redirect": "https://dexiaabogados.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://finesandfeesjusticecenter.org/"
+        "AbstractURL": "https://dexiaabogados.com"
     },
     {
         "link": "https://sunderlandculture.org.uk",
@@ -178,6 +168,16 @@
         "Redirect": "https://www.seedsofpeace.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.seedsofpeace.org/"
+    },
+    {
+        "link": "https://masterrind.com",
+        "Heading": "Willkommen bei MASTERRIND",
+        "Abstract": "Mit dem Kopf und dem Herzen dabei. Gemeinsam das Beste erreichen!",
+        "Official Site": "https://masterrind.com/de",
+        "Icon": "/icon.png",
+        "Redirect": "https://masterrind.com/de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://masterrind.com/de"
     },
     {
         "link": "https://kilid.com",
@@ -294,7 +294,7 @@
         "Heading": "Quality Suspension Air Spring & Industrial Air Spring factory from China",
         "Abstract": "China leading provider of Suspension Air Spring and Industrial Air Spring, GUANGZHOU GUOMAT AIR SPRING CO. , LTD is Industrial Air Spring factory.",
         "Official Site": "https://www.suspensionairspring.com/",
-        "Icon": "https://www.suspensionairspring.com/photo/cl32617703-guangzhou_guomat_air_spring_co_ltd.jpg",
+        "Icon": "https://polish.suspensionairspring.com/photo/cl32617703-guangzhou_guomat_air_spring_co_ltd.jpg",
         "Redirect": "https://www.suspensionairspring.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.suspensionairspring.com/"

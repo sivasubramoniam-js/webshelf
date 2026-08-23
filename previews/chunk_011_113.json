@@ -90,16 +90,6 @@
         "AbstractURL": "https://ctrlgrid.net/"
     },
     {
-        "link": "https://burgundy-report.com",
-        "Heading": "Burgundy-Report \u2013 The people, the place, their wines\u2026",
-        "Abstract": "The people, the place, their wines...",
-        "Official Site": "https://www.burgundy-report.com/",
-        "Icon": "https://www.burgundy-report.com/wp/wp-content/uploads/2012/01/FWOB.gif",
-        "Redirect": "https://www.burgundy-report.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.burgundy-report.com/"
-    },
-    {
         "link": "https://bancha.co.uk",
         "Heading": "Index of /",
         "Abstract": null,
@@ -148,6 +138,16 @@
         "Redirect": "https://scholarshipfund.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://scholarshipfund.org/"
+    },
+    {
+        "link": "https://horx.com",
+        "Heading": "Family-Horx - Horx Future GmbH",
+        "Abstract": "Wir sind eine Zukunftsforscher-Familie, die jetzt in die zweite Generation geht. Aus den Anf\u00e4ngen der Trend\u00adforschung in den 90er Jahren entwickelte sich ein vielf\u00e4ltiger Prozess der Auseinandersetzung mit der Zukunft \u2013 sowohl im Sinne einer ganzheitlichen Prognostik als auch einer Besch\u00e4ftigung mit den INNEREN Dimensionen der Zukunft.",
+        "Official Site": "https://www.horx.com/",
+        "Icon": "https://www.horx.com/wp-content/uploads/favicon.png",
+        "Redirect": "https://www.horx.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.horx.com/"
     },
     {
         "link": "https://amateurdorado.com",
@@ -238,26 +238,6 @@
         "Redirect": "https://www.fulfill.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.fulfill.com"
-    },
-    {
-        "link": "https://anishinabeknews.ca",
-        "Heading": "Anishinabek News",
-        "Abstract": null,
-        "Official Site": "https://anishinabeknews.ca",
-        "Icon": "https://anishinabeknews.ca/wp-content/uploads/2024/01/cropped-ANews-Icon-32x32.png",
-        "Redirect": "https://anishinabeknews.ca",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://anishinabeknews.ca"
-    },
-    {
-        "link": "https://white-ibiza.com",
-        "Heading": "WHITE IBIZA \u2014 The Island Guide",
-        "Abstract": "The Ibiza you love, from the insiders you trust.",
-        "Official Site": "https://white-ibiza.com/",
-        "Icon": "https://white-ibiza.com/wp-content/uploads/2024/07/screenshot-yoast.jpg",
-        "Redirect": "https://white-ibiza.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://white-ibiza.com/"
     },
     {
         "link": "https://normandyvillagehall.org",

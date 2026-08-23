@@ -40,16 +40,6 @@
         "AbstractURL": "https://aelieve.com/"
     },
     {
-        "link": "https://eulenandfriends.de",
-        "Heading": "Homepage",
-        "Abstract": null,
-        "Official Site": "https://eulenandfriends.de",
-        "Icon": "N/A",
-        "Redirect": "https://eulenandfriends.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eulenandfriends.de"
-    },
-    {
         "link": "https://ceba-cuec.ca",
         "Heading": "Canada Emergency Business Account (CEBA) | Program Overview",
         "Abstract": null,
@@ -71,13 +61,13 @@
     },
     {
         "link": "https://kotal-trade.si",
-        "Heading": "Kotal Trade",
-        "Abstract": "Domov",
-        "Official Site": "https://www.kotal-trade.si",
-        "Icon": "https://www.kotal-trade.si/wp-content/uploads/2016/11/favicon.ico",
-        "Redirect": "https://www.kotal-trade.si",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://kotal-trade.si",
+        "Icon": "data:,",
+        "Redirect": "https://kotal-trade.si",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.kotal-trade.si"
+        "AbstractURL": "https://kotal-trade.si"
     },
     {
         "link": "https://thedigitalwalters.org",
@@ -268,16 +258,6 @@
         "Redirect": "https://wcml.org.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wcml.org.uk/"
-    },
-    {
-        "link": "https://aercan.com",
-        "Heading": "AERCAN Ecuador \u2013 Asociaci\u00f3n Ecuatoriana de Registros Caninos",
-        "Abstract": null,
-        "Official Site": "https://aercan.com",
-        "Icon": "https://aercan.com/wp-content/uploads/2018/04/LOGO-AERCAN-100x100.jpg",
-        "Redirect": "https://aercan.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aercan.com"
     },
     {
         "link": "https://rhholding.ru",

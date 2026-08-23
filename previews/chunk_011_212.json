@@ -41,10 +41,10 @@
     },
     {
         "link": "https://romehotelpinewood.com",
-        "Heading": "Pinewood Hotel Rome | OFFICIAL SITE | BEST RATES GUARANTEED | 4 Star Hotel",
-        "Abstract": "Pinewood Hotel Rome | Luxury 4 star hotel near the Metro A Station of Cornelia on the Western side of Rome.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://romehotelpinewood.com",
-        "Icon": "images/favicon.ico",
+        "Icon": "data:;",
         "Redirect": "https://romehotelpinewood.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://romehotelpinewood.com"
@@ -191,13 +191,13 @@
     },
     {
         "link": "https://timworstall.com",
-        "Heading": "Tim Worstall - It is all obvious or trivial except...",
-        "Abstract": "It is all obvious or trivial except...",
-        "Official Site": "https://www.timworstall.com/",
-        "Icon": "N/A",
-        "Redirect": "https://www.timworstall.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://timworstall.com",
+        "Icon": "data:,",
+        "Redirect": "https://timworstall.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.timworstall.com/"
+        "AbstractURL": "https://timworstall.com"
     },
     {
         "link": "https://murphyroofing.com",
@@ -230,16 +230,6 @@
         "AbstractURL": "https://joinative.com/"
     },
     {
-        "link": "https://dreamdiver.ch",
-        "Heading": "HELLO",
-        "Abstract": "",
-        "Official Site": "https://dreamdiver.ch",
-        "Icon": "favicon.ico",
-        "Redirect": "https://dreamdiver.ch",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dreamdiver.ch"
-    },
-    {
         "link": "https://rowlandhs.org",
         "Heading": "Rowland High School",
         "Abstract": "John A. Rowland High School in Rowland Heights, California, is the home of the Raiders. Rowland High School has been named a California Distinguished School, a National Blue Ribbon School, and an Exemplary Career Technical Education Program. We were recognized through Newsweek as one of the top 1,500 schools in the nation and identified as a Bill Gates School through the Successful Practices Network.",
@@ -261,23 +251,13 @@
     },
     {
         "link": "https://uaetechnician.com",
-        "Heading": "Expert Home & IT Support Services in Dubai | UAE Technician",
-        "Abstract": "UAE Technician is the Best IT Support Dubai Company providing Apple iPhone, printer, mobile and laptop repair in Dubai near me at just one call 042480523.",
-        "Official Site": "https://www.uaetechnician.com",
-        "Icon": "https://www.uaetechnician.com/uploads/settings/15615457826173.png",
-        "Redirect": "https://www.uaetechnician.com",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://uaetechnician.com",
+        "Icon": "data:,",
+        "Redirect": "https://uaetechnician.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.uaetechnician.com"
-    },
-    {
-        "link": "https://emmavestidos.com",
-        "Heading": " | Emma",
-        "Abstract": "Venta de vestidos de fiesta, semi formal, cocktail, novias, XV a\u00f1os. \u00a1Donde la elegancia y exclusividad no cuestan m\u00e1s!",
-        "Official Site": "https://emmavestidos.com",
-        "Icon": "/img/logo/favicon.png",
-        "Redirect": "https://emmavestidos.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://emmavestidos.com"
+        "AbstractURL": "https://uaetechnician.com"
     },
     {
         "link": "https://billgatesweb.com",
@@ -291,13 +271,13 @@
     },
     {
         "link": "https://dgwf.net",
-        "Heading": "DGWF - Startseite - DGWF",
-        "Abstract": "Willkommen auf der Website der DGWF. Erfahren Sie hier mehr \u00fcber unsere Organisation, unsere Ziele und unsere Mitglieder.",
-        "Official Site": "https://dgwf.net/",
-        "Icon": "https://dgwf.net/files/site/img/logo-small.png",
-        "Redirect": "https://dgwf.net/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://dgwf.net",
+        "Icon": "data:,",
+        "Redirect": "https://dgwf.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dgwf.net/"
+        "AbstractURL": "https://dgwf.net"
     },
     {
         "link": "https://jennibick.com",

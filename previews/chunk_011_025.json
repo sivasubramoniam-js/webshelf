@@ -20,16 +20,6 @@
         "AbstractURL": "https://yz-bbs.com"
     },
     {
-        "link": "https://yza-izel.com.tr",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://yza-izel.com.tr",
-        "Icon": "N/A",
-        "Redirect": "https://yza-izel.com.tr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://yza-izel.com.tr"
-    },
-    {
         "link": "https://yzaobao.com",
         "Heading": "\u8054\u5408\u65e9\u62a5\u4e2d\u6587\u7f51 | \u9996\u9875_\u65e9\u6668\u62a5\u8054\u5408\u4e16\u754c\u8457\u540d\u62a5\u793e\u65b0\u95fb",
         "Abstract": "\u4e9a\u6d32\u89c6\u89c9\u770b\u4e2d\u56fd\uff0c\u5ba2\u89c2\u72ec\u7acb\u8054\u5408\u9999\u6e2f\u62a5\u793e\uff0c\u53f0\u6e7e\u5a92\u4f53\uff0c\u5927\u9646\u65f6\u653f\uff0c\u89c2\u70b9\u8bc4\u8bba\u5c3d\u5728\u8054\u5408\u65e9\u62a5\u4e2d\u6587\u7f51\u3002",
@@ -91,8 +81,8 @@
     },
     {
         "link": "https://z0ne.social",
-        "Heading": "Give me another chance.\" The tears started.",
-        "Abstract": null,
+        "Heading": "z0ne.social",
+        "Abstract": "Pick your z0ne: haizs or synzs.",
         "Official Site": "https://z0ne.social",
         "Icon": "N/A",
         "Redirect": "https://z0ne.social",
@@ -111,10 +101,10 @@
     },
     {
         "link": "https://z2cms.hu",
-        "Heading": null,
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://z2cms.hu",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://z2cms.hu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://z2cms.hu"
@@ -191,12 +181,12 @@
     },
     {
         "link": "https://zakupy-eleclerc.pl",
-        "Heading": "Zakupy online bez wychodzenia z domu w Hipermarkecie E.Leclerc Radom",
-        "Abstract": "Wygodne zakupy online bez wychodzenia z domu w hipermarkecie E.Leclerc Radom \u2013 szeroki wyb\u00f3r produkt\u00f3w i atrakcyjne ceny. Wszystko w jednym miejscu. Sprawd\u017a ju\u017c teraz!",
-        "Official Site": "https://zakupy-eleclerc.pl/",
-        "Icon": "https://zakupy-eleclerc.pl/public/upload/other/1620740261logo.jpg",
-        "Redirect": "https://zakupy-eleclerc.pl/",
+        "Heading": "Verification",
+        "Abstract": null,
+        "Official Site": "https://zakupy-eleclerc.pl",
+        "Icon": "N/A",
+        "Redirect": "https://zakupy-eleclerc.pl",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://zakupy-eleclerc.pl/"
+        "AbstractURL": "https://zakupy-eleclerc.pl"
     }
 ]
