@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://zntx.cc",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://zntx.cc",
+        "Icon": "N/A",
+        "Redirect": "https://zntx.cc",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zntx.cc"
+    },
+    {
         "link": "https://zoartechnology.net",
         "Heading": "ZOAR - Small and Beautiful",
         "Abstract": null,
@@ -151,13 +161,13 @@
     },
     {
         "link": "https://zproplisting.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://zproplisting.com",
-        "Icon": "data:,",
-        "Redirect": "https://zproplisting.com",
+        "Heading": "ZpropListing",
+        "Abstract": "rumah dijual Melaka, hartanah untuk dijual Melaka, hartanah di Melaka, beli rumah Melaka",
+        "Official Site": "https://zproplisting.com/login",
+        "Icon": "https://zproplisting.com/assets/img/logo.png",
+        "Redirect": "https://zproplisting.com/login",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://zproplisting.com"
+        "AbstractURL": "https://zproplisting.com/login"
     },
     {
         "link": "https://zpurl.cn",

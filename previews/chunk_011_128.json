@@ -11,13 +11,13 @@
     },
     {
         "link": "https://taskforce.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://taskforce.org",
-        "Icon": "data:;",
-        "Redirect": "https://taskforce.org",
+        "Heading": "Home - The Task Force for Global Health",
+        "Abstract": "The Task Force makes real impact by solving massive health problems through stopping some of the world's worst diseases and strengthening health systems.",
+        "Official Site": "https://www.taskforce.org/",
+        "Icon": "https://www.taskforce.org/wp-content/uploads/2019/08/What-We-Do_Homepage-01-1024x675.jpg",
+        "Redirect": "https://www.taskforce.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://taskforce.org"
+        "AbstractURL": "https://www.taskforce.org/"
     },
     {
         "link": "https://fareastfilms.com",
@@ -100,24 +100,14 @@
         "AbstractURL": "https://www.thehiveestateagents.co.uk/"
     },
     {
-        "link": "https://ekmmarketing.net",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://ekmmarketing.net",
-        "Icon": "data:,",
-        "Redirect": "https://ekmmarketing.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ekmmarketing.net"
-    },
-    {
         "link": "https://tencate.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://tencate.com",
-        "Icon": "data:,",
-        "Redirect": "https://tencate.com",
+        "Heading": "Royal TenCate",
+        "Abstract": "",
+        "Official Site": "https://www.tencate.com",
+        "Icon": "favicon/favicon-96x96.png",
+        "Redirect": "https://www.tencate.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tencate.com"
+        "AbstractURL": "https://www.tencate.com"
     },
     {
         "link": "https://guyhepner.com",
@@ -190,6 +180,16 @@
         "AbstractURL": "https://www.easthotels.com/en/"
     },
     {
+        "link": "https://1stpetvet.com",
+        "Heading": "Arizona Vet Care for Primary, Urgent & Emergency Needs | 1st Pet Veterinary Centers",
+        "Abstract": "1st Pet Veterinary Centers provides emergency, urgent, primary, and specialty veterinary care across Arizona for pets in Chandler, Mesa, and North Valley Phoenix, with extended and 24/7 care available by location.",
+        "Official Site": "https://1stpetvet.com/",
+        "Icon": "https://1stpetvet.com/wp-content/uploads/Contact-Form-BG-01.jpg",
+        "Redirect": "https://1stpetvet.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://1stpetvet.com/"
+    },
+    {
         "link": "https://soedesco.com",
         "Heading": "SOEDESCO\u00ae",
         "Abstract": "SOEDESCO\u00ae is a worldwide publisher of both digital and physical games on multiple platforms.",
@@ -200,21 +200,11 @@
         "AbstractURL": "https://soedesco.com"
     },
     {
-        "link": "https://ghsupplychain.org",
-        "Heading": "Home | Global Health Supply Chain Program",
-        "Abstract": null,
-        "Official Site": "https://ghsupplychain.org",
-        "Icon": "/themes/custom/ghsc/favicons/favicon-32x32.png",
-        "Redirect": "https://ghsupplychain.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ghsupplychain.org"
-    },
-    {
         "link": "https://evolvemedia.ca",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Evolve Media - Web Design & Development Edmonton, Alberta",
+        "Abstract": "Evolve your business! Edmonton and area graphic, logo and web design and web development. We specialize in custom professional website design and development solutions including automobile, RV, boat, and powersport inventory systems and more! We also provide services for search engine optimization (SEO), consultation and web site maintenance.",
         "Official Site": "https://evolvemedia.ca",
-        "Icon": "data:,",
+        "Icon": "/favicon.ico",
         "Redirect": "https://evolvemedia.ca",
         "AbstractSource": "BS4",
         "AbstractURL": "https://evolvemedia.ca"
@@ -241,22 +231,12 @@
     },
     {
         "link": "https://hostprofessor.co.uk",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Web Hosting | Domain Names | Web Space | KT Hosting",
+        "Abstract": "Web Site Hosting, Domain Names and Web Space from KT Hosting.",
         "Official Site": "https://hostprofessor.co.uk",
-        "Icon": "data:,",
+        "Icon": "images/favicon.png",
         "Redirect": "https://hostprofessor.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hostprofessor.co.uk"
-    },
-    {
-        "link": "https://visalaw.com",
-        "Heading": "\n\n\t\tFull-Service Immigration Firm | Siskind Susser PC\n  \t",
-        "Abstract": "We are one of the leading immigration law firms in North America. Our attorneys have experience handling all aspects of American immigration..",
-        "Official Site": "https://www.visalaw.com/",
-        "Icon": "https://www.visalaw.com/wp-content/uploads/2021/04/banner.jpg",
-        "Redirect": "https://www.visalaw.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.visalaw.com/"
     }
 ]

@@ -80,6 +80,16 @@
         "AbstractURL": "https://f-aaemail.com"
     },
     {
+        "link": "https://myhospitalnow.com",
+        "Heading": "MyHospitalNow | Hospitals | Doctors ",
+        "Abstract": "Dentist\n            Teething Troubles? Shedule a dental checkup OR Gynecologist / Obstetrician\n            Explore for Womens health, pregnancy and infertility treatments  Or Dietitian / Nutrition\n        Get guidance on eating right, weight management and sports nutrition Or Physiotherapist\n    Pulled a muscle? Get it treated by a trained physiotherapist",
+        "Official Site": "https://www.myhospitalnow.com",
+        "Icon": "https://www.myhospitalnow.com/images/hospitalTabLogo.png",
+        "Redirect": "https://www.myhospitalnow.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.myhospitalnow.com"
+    },
+    {
         "link": "https://empeek.com",
         "Heading": "We Build Custom Healthcare Software | Healthcare Software Development Company USA | Empeek",
         "Abstract": "Empeek is a custom healthcare software development company \u2714 Trusted software provider \u2695 We have been supplying numerous healthcare institutions with custom medical software development services",
@@ -161,10 +171,10 @@
     },
     {
         "link": "https://srgdomains.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://srgdomains.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://srgdomains.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://srgdomains.com"
@@ -251,10 +261,10 @@
     },
     {
         "link": "https://spospelov.com",
-        "Heading": "One moment, please...",
+        "Heading": "Serge Pospelov",
         "Abstract": null,
         "Official Site": "https://spospelov.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://spospelov.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://spospelov.com"

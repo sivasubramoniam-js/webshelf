@@ -4,7 +4,7 @@
         "Heading": "\uc18d\ubcf4) \ub274\ud1a0\ub07c/\ub9c8\ub098\ud1a0\ub07c/\ubd81\ud1a0\ub07c \uc11c\ube44\uc2a4 \uc885\ub8cc",
         "Abstract": "\ub274\ud1a0\ub07c \ubb34\ub8cc \ub9cc\ud654 \uc0ac\uc774\ud2b8",
         "Official Site": "https://webtoki.org",
-        "Icon": "https://i.imgur.com/dpccrwg.jpeg",
+        "Icon": "https://i.imgur.com/WO3jbo2.png",
         "Redirect": "https://webtoki.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://webtoki.org"
@@ -50,16 +50,6 @@
         "AbstractURL": "https://diltexbrands.com"
     },
     {
-        "link": "https://banklandmark.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://banklandmark.com",
-        "Icon": "data:;",
-        "Redirect": "https://banklandmark.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://banklandmark.com"
-    },
-    {
         "link": "https://teropa.info",
         "Heading": "Tero Parviainen",
         "Abstract": null,
@@ -101,13 +91,13 @@
     },
     {
         "link": "https://oepf.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://oepf.org",
-        "Icon": "data:;",
-        "Redirect": "https://oepf.org",
+        "Heading": "Home - Optometric Extension Program Foundation",
+        "Abstract": "Welcome to Optometric Extension Program Foundation. The story of OEPF started over 130 years ago! Sign up for our free newsletter Our Story Historical Timeline Upcoming Events! View OEPF Calendar [\u2026]",
+        "Official Site": "https://www.oepf.org/",
+        "Icon": "https://www.oepf.org/wp-content/uploads/2021/08/1-1.png",
+        "Redirect": "https://www.oepf.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://oepf.org"
+        "AbstractURL": "https://www.oepf.org/"
     },
     {
         "link": "https://zahnaerztekammer.at",
@@ -188,6 +178,16 @@
         "Redirect": "https://dnses.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dnses.net"
+    },
+    {
+        "link": "https://wewantpicks.com",
+        "Heading": "We Want Picks!",
+        "Abstract": "UFC Fight Picks, DFS Analysis, and MMA Betting Guides!",
+        "Official Site": "https://wewantpicks.com",
+        "Icon": "https://wewantpicks.com/wp-content/uploads/2024/07/cropped-Favicon-1-32x32.png",
+        "Redirect": "https://wewantpicks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wewantpicks.com"
     },
     {
         "link": "https://polspen.pl",

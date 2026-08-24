@@ -80,14 +80,24 @@
         "AbstractURL": "https://challatech.com"
     },
     {
-        "link": "https://eretzmuseum.org.il",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://eretzmuseum.org.il",
-        "Icon": "data:,",
-        "Redirect": "https://eretzmuseum.org.il",
+        "link": "https://acefootball.com",
+        "Heading": "Ace Football - News, Betting and Live Score",
+        "Abstract": "Get the your latest football news, transfer rumours, results, statistics and much more at acefootball.com. Download our app today!",
+        "Official Site": "https://acefootball.com/",
+        "Icon": "https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2020/07/Ace-Football-30-07-2020-2.png",
+        "Redirect": "https://acefootball.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://eretzmuseum.org.il"
+        "AbstractURL": "https://acefootball.com/"
+    },
+    {
+        "link": "https://eretzmuseum.org.il",
+        "Heading": "\u05e2\u05de\u05d5\u05d3 \u05d4\u05d1\u05d9\u05ea - \u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc",
+        "Abstract": "\u05de\u05d5\u05d6\"\u05d0, \u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05d0\u05e8\u05e5\u05be\u05d9\u05e9\u05e8\u05d0\u05dc, \u05ea\u05dc\u05be\u05d0\u05d1\u05d9\u05d1\u00a0\u05d4\u05d5\u05d0 \u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df \u05e8\u05d1 \u05ea\u05d7\u05d5\u05de\u05d9 \u05d4\u05e2\u05d5\u05e1\u05e7 \u05d1\u05ea\u05e8\u05d1\u05d5\u05ea \u05d4\u05d7\u05d5\u05de\u05e8\u05d9\u05ea \u05e9\u05dc \u05d4\u05de\u05e8\u05d7\u05d1 \u05d4\u05de\u05e7\u05d5\u05de\u05d9 \u05d1\u05e2\u05d1\u05e8 \u05d5\u05d1\u05d4\u05d5\u05d5\u05d4, \u05d5\u05de\u05e6\u05d9\u05e2 \u05de\u05d2\u05d5\u05d5\u05df \u05ea\u05e2\u05e8\u05d5\u05db\u05d5\u05ea \u05e7\u05d1\u05d5\u05e2\u05d5\u05ea \u05d5\u05de\u05ea\u05d7\u05dc\u05e4\u05d5\u05ea.",
+        "Official Site": "https://www.eretzmuseum.org.il/",
+        "Icon": "https://www.eretzmuseum.org.il/wp-content/uploads/2023/08/muza-logo.png",
+        "Redirect": "https://www.eretzmuseum.org.il/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.eretzmuseum.org.il/"
     },
     {
         "link": "https://layer23.nl",
@@ -328,6 +338,16 @@
         "Redirect": "https://stroyholding.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://stroyholding.ru"
+    },
+    {
+        "link": "https://ramdeventerprises.in",
+        "Heading": "RamDev Enterprise \u2013 Electronics Shop",
+        "Abstract": null,
+        "Official Site": "https://ramdeventerprises.in",
+        "Icon": "https://ramdeventerprises.in/wp-content/uploads/2022/05/cropped-apple-touch-icon-32x32.png",
+        "Redirect": "https://ramdeventerprises.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ramdeventerprises.in"
     },
     {
         "link": "https://wendyslookbook.com",

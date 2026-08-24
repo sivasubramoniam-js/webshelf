@@ -61,10 +61,10 @@
     },
     {
         "link": "https://liturgiapapal.org",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Inicio",
+        "Abstract": "'Todo lo relacionado con las celebraciones papales y otros temas de liturgia",
         "Official Site": "https://liturgiapapal.org",
-        "Icon": "data:,",
+        "Icon": "/templates/j51_nina/favicon.ico",
         "Redirect": "https://liturgiapapal.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://liturgiapapal.org"
@@ -101,13 +101,23 @@
     },
     {
         "link": "https://naturashop.com.hr",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Natura Shop E-Trgovina - Dodaci Prehrani @ NaturaShop.com.hr",
+        "Abstract": "lll\u27a4\u0160iroka ponuda vitamina, minerala, aminokiselina i ostalih dodataka prehrani na jednom mjestu po najpovoljnijim cijenama. Super cijena \u2714\ufe0f Brza dostava!",
         "Official Site": "https://naturashop.com.hr",
-        "Icon": "data:,",
+        "Icon": "/img/favicon.ico?1627411672",
         "Redirect": "https://naturashop.com.hr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://naturashop.com.hr"
+    },
+    {
+        "link": "https://phare-ouest.net",
+        "Heading": "Phare-Ouest.net",
+        "Abstract": null,
+        "Official Site": "https://phare-ouest.net",
+        "Icon": "N/A",
+        "Redirect": "https://phare-ouest.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://phare-ouest.net"
     },
     {
         "link": "https://profistore.bg",
@@ -178,6 +188,16 @@
         "Redirect": "https://lsbrx.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lsbrx.com"
+    },
+    {
+        "link": "https://batterylocks.com",
+        "Heading": "Coming Soon",
+        "Abstract": null,
+        "Official Site": "https://batterylocks.com",
+        "Icon": "N/A",
+        "Redirect": "https://batterylocks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://batterylocks.com"
     },
     {
         "link": "https://whsd-edu.com",
@@ -311,10 +331,10 @@
     },
     {
         "link": "https://octopusreview.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Octopus Review free seo tool",
+        "Abstract": "Octopus Review is a free seo tool which will help you analyse your web page",
         "Official Site": "https://octopusreview.com",
-        "Icon": "data:,",
+        "Icon": "https://octopusreview.com/img/logo.png",
         "Redirect": "https://octopusreview.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://octopusreview.com"
@@ -338,16 +358,6 @@
         "Redirect": "https://d-economy.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://d-economy.ru"
-    },
-    {
-        "link": "https://shopinfos.website",
-        "Heading": "Home \u00b7 shopinfos.website",
-        "Abstract": null,
-        "Official Site": "https://shopinfos.website",
-        "Icon": "assets/favicon-shopinfos.png",
-        "Redirect": "https://shopinfos.website",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shopinfos.website"
     },
     {
         "link": "https://deroofvisser.com",

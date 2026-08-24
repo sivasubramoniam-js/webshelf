@@ -31,20 +31,20 @@
     },
     {
         "link": "https://sasklotteries.ca",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://sasklotteries.ca",
-        "Icon": "data:,",
-        "Redirect": "https://sasklotteries.ca",
+        "Heading": "Sask Lotteries - Play your part in building our community.",
+        "Abstract": "For over 50 years, Sask Lotteries has been the main fundraiser for more than 12,000 sport, culture and recreation groups in communities across Saskatchewan. Support our Community Proceeds from the\u2026",
+        "Official Site": "https://sasklotteries.ca/",
+        "Icon": "https://www.sasklotteries.ca/wp-content/uploads/2023/10/skl-og.jpg",
+        "Redirect": "https://sasklotteries.ca/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sasklotteries.ca"
+        "AbstractURL": "https://sasklotteries.ca/"
     },
     {
         "link": "https://crossfitedwardsville.com",
-        "Heading": "One moment, please...",
+        "Heading": "CrossFit Edwardsville \u2013 Quite Possibly The Best Gym In Town \u2013 Carbon, IL",
         "Abstract": null,
         "Official Site": "https://crossfitedwardsville.com",
-        "Icon": "data:,",
+        "Icon": "https://crossfitedwardsville.com/wp-content/uploads/2022/04/cropped-CrossFitEdwardsvilleLimitlessLogoVariationImpactFontwithGoldGlow-32x32.png",
         "Redirect": "https://crossfitedwardsville.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://crossfitedwardsville.com"
@@ -121,13 +121,13 @@
     },
     {
         "link": "https://maximafurnitures.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://maximafurnitures.com",
-        "Icon": "data:,",
-        "Redirect": "https://maximafurnitures.com",
+        "Heading": "Maxima Furnitures Plastik Berkualitas Tinggi",
+        "Abstract": "Perabotan Rumah Tangga Maxima Furnitures yang terdiri dari Kursi Plastik Maxima, Lemari Plastik Maxima, dan Laci Plastik Maxima Berkualitas.",
+        "Official Site": "https://maximafurnitures.com/",
+        "Icon": "https://maximafurnitures.com/wp-content/uploads/2021/08/seomaxima.jpg",
+        "Redirect": "https://maximafurnitures.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://maximafurnitures.com"
+        "AbstractURL": "https://maximafurnitures.com/"
     },
     {
         "link": "https://sportspired.net",
@@ -180,24 +180,14 @@
         "AbstractURL": "https://dw3host.com"
     },
     {
-        "link": "https://merrellplumbing.com",
-        "Heading": "\n    \n    Merrell Plumbing | Reliable Same-Day Plumbing Service\n  \n  ",
-        "Abstract": "Merrell Plumbing offers reliable same-day service for all plumbing needs. Contact us for quick solutions to clogged sinks & leaks!",
-        "Official Site": "https://www.merrellplumbing.com/",
-        "Icon": "https://irp.cdn-website.com/c0d991a1/dms3rep/multi/opt/b2d1d594-9a3f-4dd8-aac4-97c9eae21cdb-1920w.jpg",
-        "Redirect": "https://www.merrellplumbing.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.merrellplumbing.com/"
-    },
-    {
         "link": "https://croesus.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://croesus.com",
-        "Icon": "data:;",
-        "Redirect": "https://croesus.com",
+        "Heading": "Croesus | Wealth management solutions",
+        "Abstract": "A leading provider of wealth management solutions based in Canada and serving the financial industry since 1987.",
+        "Official Site": "https://www.croesus.com/",
+        "Icon": "https://www.croesus.com/images/refonte2025/home-promo-ebook-img.jpg",
+        "Redirect": "https://www.croesus.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://croesus.com"
+        "AbstractURL": "https://www.croesus.com/"
     },
     {
         "link": "https://umggaming.com",
@@ -218,6 +208,16 @@
         "Redirect": "https://spiderwares.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://spiderwares.com/"
+    },
+    {
+        "link": "https://leibniz-hki.de",
+        "Heading": "Home - Leibniz-HKI",
+        "Abstract": "A leading research institution in the field of natural product research and infection biology of human pathogenic fungi, member of the Leibniz Association.",
+        "Official Site": "https://www.leibniz-hki.de/en/",
+        "Icon": "https://www.leibniz-hki.de/files/theme/30_custom/images/share/facebook.png",
+        "Redirect": "https://www.leibniz-hki.de/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.leibniz-hki.de/en/"
     },
     {
         "link": "https://zahraluxuryspa.com",

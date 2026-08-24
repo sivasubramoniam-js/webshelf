@@ -11,10 +11,10 @@
     },
     {
         "link": "https://dorpatra.com",
-        "Heading": "One moment, please...",
+        "Heading": "Live tender notices of Bangladesh - dorpatra.com",
         "Abstract": null,
         "Official Site": "https://dorpatra.com",
-        "Icon": "data:,",
+        "Icon": "dorpatra.png",
         "Redirect": "https://dorpatra.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dorpatra.com"
@@ -100,6 +100,16 @@
         "AbstractURL": "https://odishareporter.in/"
     },
     {
+        "link": "https://pedico.be",
+        "Heading": "Pedico - Schoenen & Lederwaren",
+        "Abstract": "De collectie van Pedico wordt elk seizoen met hart en ziel samengesteld! Meer dan 200 merken aan schoenen en ledewaren voor zowel dames, heren, jeugd en kinderen.",
+        "Official Site": "https://pedico.be",
+        "Icon": "https://www.pedico.be/sites/all/themes/ped/favicon.ico",
+        "Redirect": "https://pedico.be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pedico.be"
+    },
+    {
         "link": "https://planete-ducati.com",
         "Heading": "Plan\u00e8te Ducati",
         "Abstract": null,
@@ -141,7 +151,7 @@
     },
     {
         "link": "https://utrogfddcwa.life",
-        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 7725694.451341563",
+        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d \u041a\u0430\u0437\u0438\u043d\u043e \u0438 \u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0421\u043f\u043e\u0440\u0442 | 1win - 6368706.890437959",
         "Abstract": "\u041b\u0443\u0447\u0448\u0435\u0435 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0430\u0437\u0438\u043d\u043e \u0438 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440! \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0441\u044f \u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u0439 \u0431\u043e\u043d\u0443\u0441 500%. 15 000+ \u0438\u0433\u0440, \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0432\u044b\u043f\u043b\u0430\u0442\u044b, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7.",
         "Official Site": "https://utrogfddcwa.life",
         "Icon": "/resources/v1/plain/favicons/android-chrome-72x72-v3.png",
@@ -161,23 +171,23 @@
     },
     {
         "link": "https://wheelworx.ie",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Wheelworx | Bike Shop - Lucan, Dublin, Naas",
+        "Abstract": "Bike Shop - Lucan, Dublin, Naas",
         "Official Site": "https://wheelworx.ie",
-        "Icon": "data:,",
+        "Icon": "/content/favicon_1634138021.ico",
         "Redirect": "https://wheelworx.ie",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wheelworx.ie"
     },
     {
         "link": "https://wheregoesrose.com",
-        "Heading": "One moment, please...",
+        "Heading": "Homepage - Where Goes Rose?",
         "Abstract": null,
-        "Official Site": "https://wheregoesrose.com",
-        "Icon": "data:,",
-        "Redirect": "https://wheregoesrose.com",
+        "Official Site": "https://www.wheregoesrose.com/",
+        "Icon": "https://www.wheregoesrose.com/wp-content/uploads/2017/09/cropped-IMG_2262-32x32.jpg",
+        "Redirect": "https://www.wheregoesrose.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://wheregoesrose.com"
+        "AbstractURL": "https://www.wheregoesrose.com/"
     },
     {
         "link": "https://blackphone.ch",
@@ -198,6 +208,16 @@
         "Redirect": "https://bvkrongbong.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bvkrongbong.com"
+    },
+    {
+        "link": "https://horizondatasys.com",
+        "Heading": " Data protection experts \u2013 delivering instant recovery and reboot restore solutions Reboot to Restore and Instant System Recovery Solutions",
+        "Abstract": "Horizon DataSys offers PC recovery and online safety solutions, reducing IT workload and securing systems with Reboot Restore RX Pro and online safety with SPIN",
+        "Official Site": "https://horizondatasys.com/",
+        "Icon": "https://horizondatasys.com/wp-content/uploads/2016/09/HorizonDataSys_logo-tagline-flat-favicon.png",
+        "Redirect": "https://horizondatasys.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://horizondatasys.com/"
     },
     {
         "link": "https://schoolofsacredgeometry.org",
@@ -270,11 +290,21 @@
         "AbstractURL": "https://hoopbro.co.kr/"
     },
     {
+        "link": "https://daninventor.com.br",
+        "Heading": "daninventor",
+        "Abstract": null,
+        "Official Site": "https://daninventor.com.br",
+        "Icon": "N/A",
+        "Redirect": "https://daninventor.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://daninventor.com.br"
+    },
+    {
         "link": "https://hostigator.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://hostigator.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://hostigator.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hostigator.com"

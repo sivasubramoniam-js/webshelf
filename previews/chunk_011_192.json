@@ -30,16 +30,6 @@
         "AbstractURL": "https://itsmind.zone"
     },
     {
-        "link": "https://kestrelinstruments.com",
-        "Heading": "Kestrel Meters Official Site - Kestrel Wind & Weather Meters",
-        "Abstract": "Kestrel weather meters are handheld weather stations and ballistics meters with anemometers to measure wind speed, temperature, and more. We are the official Kestrel manufacturer (not an authorized dealer), and offer the lowest prices with free same-day shipping. Call 800-784-4221 or order your Kestrel Meter today.",
-        "Official Site": "https://kestrelinstruments.com",
-        "Icon": "https://kestrelinstruments.com/media/favicon/stores/2/kestrel-favicon.png",
-        "Redirect": "https://kestrelinstruments.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kestrelinstruments.com"
-    },
-    {
         "link": "https://analu-menuiserie.com",
         "Heading": "\u00c0 La Forge - Cr\u00e9ations de M\u00e9tal Forg\u00e9 Uniques",
         "Abstract": "D\u00e9couvrez nos cr\u00e9ations en m\u00e9tal forg\u00e9. Pi\u00e8ces artisanales personnalis\u00e9es et restauration professionnelle.",
@@ -51,13 +41,13 @@
     },
     {
         "link": "https://nakita.vn",
-        "Heading": "One moment, please...",
+        "Heading": "Trang ch\u1ee7 Nakita | Nakita",
         "Abstract": null,
-        "Official Site": "https://nakita.vn",
-        "Icon": "data:,",
-        "Redirect": "https://nakita.vn",
+        "Official Site": "https://nakita.vn/",
+        "Icon": "https://nakita.vn/wp-content/uploads/2019/03/lmt-coaching-1024x768.jpg",
+        "Redirect": "https://nakita.vn/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nakita.vn"
+        "AbstractURL": "https://nakita.vn/"
     },
     {
         "link": "https://spiekermann.com",
@@ -88,6 +78,16 @@
         "Redirect": "https://iwswebhosting.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://iwswebhosting.com"
+    },
+    {
+        "link": "https://noccor.live",
+        "Heading": "NOCOR! \u041d\u0415\u0422 \u041a\u041e\u0420\u0420\u0423\u041f\u0426\u0418\u0418! \u0421\u0430\u0439\u0442 \u0436\u0443\u0440\u043d\u0430\u043b\u0438\u0441\u0442\u0441\u043a\u0438\u0445 \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439",
+        "Abstract": "\u0421\u0430\u0439\u0442 \u0436\u0443\u0440\u043d\u0430\u043b\u0438\u0441\u0442\u0441\u043a\u0438\u0445 \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 Nocor \u0434\u0435\u0440\u0436\u0438\u0442 \u0440\u0443\u043a\u0443 \u043d\u0430 \u043f\u0443\u043b\u044c\u0441\u0435 \u0432\u043e \u0432\u0441\u0435\u0445 \u0441\u0444\u0435\u0440\u0430\u0445 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0436\u0438\u0437\u043d\u0438 \u0438 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0432\u043b\u0430\u0441\u0442\u0438 \u0432\u0441\u0435\u0445 \u0443\u0440\u043e\u0432\u043d\u0435\u0439. \u0414\u043b\u044f \u043d\u0430\u0441 \u043d\u0435\u0442 \u0442\u0430\u0431\u0443\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0442\u0435\u043c \u0438 \u043f\u0435\u0440\u0441\u043e\u043d.",
+        "Official Site": "https://noccor.live/",
+        "Icon": "https://nocor.info/nocor.jpg",
+        "Redirect": "https://noccor.live/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://noccor.live/"
     },
     {
         "link": "https://westercon72.org",
@@ -141,13 +141,23 @@
     },
     {
         "link": "https://noshok.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://noshok.com",
-        "Icon": "data:,",
-        "Redirect": "https://noshok.com",
+        "Heading": "NOSHOK, Inc | Measurement Solutions",
+        "Abstract": "NOSHOK Pressure, Level, Temperature and\nForce Measurement Instruments, Needle and Manifold Valves Transducers, Transmitters, Gauges and Valves",
+        "Official Site": "https://www.noshok.com/",
+        "Icon": "https://www.noshok.com/img/hp-hero.jpg",
+        "Redirect": "https://www.noshok.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://noshok.com"
+        "AbstractURL": "https://www.noshok.com/"
+    },
+    {
+        "link": "https://iset58rosario.com.ar",
+        "Heading": "ISET 58 \u2013 Instituto Superior de Educaci\u00f3n T\u00e9cnica N\u00b058",
+        "Abstract": null,
+        "Official Site": "https://iset58rosario.com.ar",
+        "Icon": "https://iset58rosario.com.ar/wp-content/uploads/2020/07/cropped-favicon-32x32.png",
+        "Redirect": "https://iset58rosario.com.ar",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iset58rosario.com.ar"
     },
     {
         "link": "https://justlovecoffee.com",

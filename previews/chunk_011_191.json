@@ -60,6 +60,16 @@
         "AbstractURL": "https://andasuriname.com"
     },
     {
+        "link": "https://montigen.ro",
+        "Heading": "Montigen - Produse medicale",
+        "Abstract": "Montigen - Produse medicale - Furnizorul dumneavoastra numarul 1 de produse medicale",
+        "Official Site": "https://www.montigen.ro/",
+        "Icon": "https://www.montigen.ro/media/favicon/stores/1/favicon.png",
+        "Redirect": "https://www.montigen.ro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.montigen.ro/"
+    },
+    {
         "link": "https://sharelook.de",
         "Heading": "Sharelook.de das gro\u00dfe Kredit- & Finanzierungen Webportal",
         "Abstract": "Kredite & Finanzierungen vergleichen! Wir helfen Ihnen, die besten Angebote zu finden, Konditionen zu vergleichen und Zeit & Geld zu sparen.",
@@ -101,10 +111,10 @@
     },
     {
         "link": "https://adlibbnetwork.com",
-        "Heading": "One moment, please...",
+        "Heading": "My Blog \u2013 My WordPress Blog",
         "Abstract": null,
         "Official Site": "https://adlibbnetwork.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://adlibbnetwork.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://adlibbnetwork.com"
@@ -258,6 +268,16 @@
         "Redirect": "https://igorcorner.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://igorcorner.com"
+    },
+    {
+        "link": "https://earthbound.report",
+        "Heading": "The Earthbound Report \u2013 Good lives on our one planet",
+        "Abstract": "Good lives on our one planet",
+        "Official Site": "https://earthbound.report/",
+        "Icon": "https://secure.gravatar.com/blavatar/f413d3a4f191b00a42fb747f45b1d9cc5e10933a59d1577a5259fe0fe2048024?s=200&ts=1787541215",
+        "Redirect": "https://earthbound.report/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://earthbound.report/"
     },
     {
         "link": "https://roddom3.ru",

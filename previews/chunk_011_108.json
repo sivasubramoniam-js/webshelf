@@ -101,10 +101,10 @@
     },
     {
         "link": "https://bradpittgallery.com",
-        "Heading": "One moment, please...",
+        "Heading": "Home - BRAD PITT GALLERY.COM - The biggest source for Brad Pitt pictures - Part of SimplyBrad.com",
         "Abstract": null,
         "Official Site": "https://bradpittgallery.com",
-        "Icon": "data:,",
+        "Icon": "favicon.ico",
         "Redirect": "https://bradpittgallery.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bradpittgallery.com"
@@ -148,6 +148,16 @@
         "Redirect": "https://eadiocese.org/home.html",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eadiocese.org/home.html"
+    },
+    {
+        "link": "https://webdesignfreelancerdeutschland.de",
+        "Heading": "Webdesign Freelancer Deutschland - webdesignfreelancerdeutschland.de",
+        "Abstract": "WordPress Freelancer Deutschland | Webdesign Freelancer Deutschland",
+        "Official Site": "https://webdesignfreelancerdeutschland.de/",
+        "Icon": "N/A",
+        "Redirect": "https://webdesignfreelancerdeutschland.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://webdesignfreelancerdeutschland.de/"
     },
     {
         "link": "https://grassau.com",
@@ -271,13 +281,23 @@
     },
     {
         "link": "https://thesurvivalistblog.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://thesurvivalistblog.net",
-        "Icon": "data:;",
-        "Redirect": "https://thesurvivalistblog.net",
+        "Heading": "Survival, preparedness and homesteading from A to Z | The Survivalist Blog",
+        "Abstract": "The Survivalist Blog is an online resource focused on survival, preparedness, self-sufficiency and homesteading.",
+        "Official Site": "https://www.thesurvivalistblog.net/",
+        "Icon": "https://www.thesurvivalistblog.net/files/wp-content/uploads/2018/06/favicon.png",
+        "Redirect": "https://www.thesurvivalistblog.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thesurvivalistblog.net"
+        "AbstractURL": "https://www.thesurvivalistblog.net/"
+    },
+    {
+        "link": "https://incation.de",
+        "Heading": "in.cation GmbH | Experten f\u00fcr intelligente Kommunikation und KI-Beratung",
+        "Abstract": "Erfahren Sie, wie die in.cation GmbH Ihnen helfen kann, Ihre Online-Pr\u00e4senz und Kundenbindung zu verbessern.",
+        "Official Site": "https://www.incation.de/",
+        "Icon": "https://www.incation.de/img/og-image.jpg",
+        "Redirect": "https://www.incation.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.incation.de/"
     },
     {
         "link": "https://texniccenter.org",

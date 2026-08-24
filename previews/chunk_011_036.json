@@ -70,11 +70,21 @@
         "AbstractURL": "https://www.biosphaere-potsdam.de/"
     },
     {
+        "link": "https://casaruibarbosa.gov.br",
+        "Heading": "Casa Rui Barbosa :: Inicial \u2014 Funda\u00e7\u00e3o Casa de Rui Barbosa",
+        "Abstract": "P\u00e1gina principal da FCRB",
+        "Official Site": "https://www.gov.br/casaruibarbosa/pt-br/copy2_of_casa-rui-barbosa-home",
+        "Icon": "https://www.gov.br/casaruibarbosa/logo.png",
+        "Redirect": "https://www.gov.br/casaruibarbosa/pt-br/copy2_of_casa-rui-barbosa-home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gov.br/casaruibarbosa/pt-br/copy2_of_casa-rui-barbosa-home"
+    },
+    {
         "link": "https://billytalent.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "Billy Talent | Billy Talent II 20th Anniversary Shows",
+        "Abstract": "The official website of Billy Talent. Check out the latest music, videos, tour dates and more.",
         "Official Site": "https://billytalent.com",
-        "Icon": "data:;",
+        "Icon": "https://canada-a.akamaized.net/images/2021/bt_og_presave.jpg",
         "Redirect": "https://billytalent.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://billytalent.com"
@@ -90,6 +100,16 @@
         "AbstractURL": "https://oil-tkpp.ru/"
     },
     {
+        "link": "https://eliteflooringkc.com",
+        "Heading": "Residential & Commercial Flooring Services, Local Floor Installation Company, Flooring Contractors near Overland Park KS - Elite Flooring Solutions",
+        "Abstract": "Expert flooring contractors near Overland Park KS providing residential and commercial flooring services with dependable workmanship. Specializing in carpet, hardwood, laminate, vinyl, and tile. Contact Elite Flooring Solutions today to schedule a consultation.",
+        "Official Site": "https://eliteflooringkc.com/",
+        "Icon": "https://eliteflooringkc.com/wp-content/uploads/2025/03/11.png",
+        "Redirect": "https://eliteflooringkc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eliteflooringkc.com/"
+    },
+    {
         "link": "https://hucweb.com",
         "Heading": "HucWeb.com is for sale | HugeDomains",
         "Abstract": "Get the premium .com domain you deserve. Seamless and professional transactions. Payment plans available.",
@@ -98,6 +118,16 @@
         "Redirect": "https://www.hugeDomains.com/domain_profile.cfm?d=HucWeb.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=HucWeb.com"
+    },
+    {
+        "link": "https://uknomi.com",
+        "Heading": "uknomi",
+        "Abstract": null,
+        "Official Site": "https://uknomi.com",
+        "Icon": "https://uknomi.com/wp-content/uploads/2021/07/icons-ACTsMALL-150x126.png",
+        "Redirect": "https://uknomi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uknomi.com"
     },
     {
         "link": "https://corndog.social",
@@ -118,6 +148,16 @@
         "Redirect": "https://theresasreviews.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theresasreviews.com/"
+    },
+    {
+        "link": "https://eclipse2017.org",
+        "Heading": "Total Solar Eclipse 2017 - Start Page",
+        "Abstract": null,
+        "Official Site": "https://eclipse2017.org",
+        "Icon": "N/A",
+        "Redirect": "https://eclipse2017.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eclipse2017.org"
     },
     {
         "link": "https://nis-2-directive.com",
@@ -171,20 +211,30 @@
     },
     {
         "link": "https://ssd-disclosure.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ssd-disclosure.com",
-        "Icon": "data:;",
-        "Redirect": "https://ssd-disclosure.com",
+        "Heading": "Home - SSD Secure Disclosure",
+        "Abstract": "SSD provides the knowledge, experience and tools needed to find and disclose vulnerabilities and advanced attack vectors.",
+        "Official Site": "https://ssd-disclosure.com/",
+        "Icon": "https://ssd-disclosure.com/wp-content/uploads/2022/08/Group-108-1.png",
+        "Redirect": "https://ssd-disclosure.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ssd-disclosure.com"
+        "AbstractURL": "https://ssd-disclosure.com/"
+    },
+    {
+        "link": "https://cafesarina.com",
+        "Heading": "Home - Cafe Sarina",
+        "Abstract": null,
+        "Official Site": "https://cafesarina.com/",
+        "Icon": "//cafesarina.com/wp-content/uploads/2025/04/Screenshot-2025-04-03-at-1.22.31-PM.png",
+        "Redirect": "https://cafesarina.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cafesarina.com/"
     },
     {
         "link": "https://meridianbanjara.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://meridianbanjara.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://meridianbanjara.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://meridianbanjara.com"
@@ -228,16 +278,6 @@
         "Redirect": "https://omez.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://omez.ru/"
-    },
-    {
-        "link": "https://sm188win.skin",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://sm188win.skin",
-        "Icon": "data:;",
-        "Redirect": "https://sm188win.skin",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sm188win.skin"
     },
     {
         "link": "https://jvarea.com",

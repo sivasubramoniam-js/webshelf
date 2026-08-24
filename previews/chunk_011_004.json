@@ -1,10 +1,10 @@
 [
     {
         "link": "https://wetag.ca",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Wetag | Name tags | Plates | Stamps",
+        "Abstract": "Canadian manufacturer of various customizable products such as name tags, plates and stamps. Competitive prices and many choices in various product categories. Quick and easy online ordering process.",
         "Official Site": "https://wetag.ca",
-        "Icon": "data:,",
+        "Icon": "https://wetag.ca/media/favicon/websites/1/wetag-logo.png",
         "Redirect": "https://wetag.ca",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wetag.ca"
@@ -40,6 +40,16 @@
         "AbstractURL": "https://wevy.cloud/"
     },
     {
+        "link": "https://wex74.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://wex74.net",
+        "Icon": "N/A",
+        "Redirect": "https://wex74.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wex74.net"
+    },
+    {
         "link": "https://weyay.chat",
         "Heading": "Welcome to nginx!",
         "Abstract": null,
@@ -60,21 +70,11 @@
         "AbstractURL": "https://www.weytop.com/"
     },
     {
-        "link": "https://wfew32d3d.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://wfew32d3d.com",
-        "Icon": "N/A",
-        "Redirect": "https://wfew32d3d.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wfew32d3d.com"
-    },
-    {
         "link": "https://wgrvisitor.se",
-        "Heading": "One moment, please...",
+        "Heading": "Untitled Document",
         "Abstract": null,
         "Official Site": "https://wgrvisitor.se",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://wgrvisitor.se",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wgrvisitor.se"
@@ -98,6 +98,16 @@
         "Redirect": "https://whatbaseball.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://whatbaseball.com/"
+    },
+    {
+        "link": "https://whatsdownthatstreet.com",
+        "Heading": "What's Down That Street? | Travel, history and architecture guides",
+        "Abstract": "What\u2019s Down That Street is a history and travel blog exploring London, the UK & Europe. Find city guides, museums, history, hidden gems, and day trip ideas.",
+        "Official Site": "https://whatsdownthatstreet.com/",
+        "Icon": "https://i0.wp.com/whatsdownthatstreet.com/wp-content/uploads/2024/11/Whats-down-that-street.png?fit=32%2C32&ssl=1",
+        "Redirect": "https://whatsdownthatstreet.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://whatsdownthatstreet.com/"
     },
     {
         "link": "https://whatsplusdownload.com",
@@ -162,9 +172,9 @@
     {
         "link": "https://whistledwifeeverywhere.com",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://whistledwifeeverywhere.com",
-        "Icon": "N/A",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
         "Redirect": "https://whistledwifeeverywhere.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://whistledwifeeverywhere.com"

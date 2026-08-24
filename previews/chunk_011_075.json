@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://thefightcity.com",
+        "Heading": "The Fight City - An independent boxing website",
+        "Abstract": "An independent boxing website",
+        "Official Site": "https://www.thefightcity.com/",
+        "Icon": "https://www.thefightcity.com/wp-content/uploads/2021/10/cropped-fightcitylogo3-1-32x32.png",
+        "Redirect": "https://www.thefightcity.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thefightcity.com/"
+    },
+    {
         "link": "https://actions-pack.com",
         "Heading": "Elementor: #1 Registration, Login, Reset Pass, Google Sheet Add-on",
         "Abstract": "Actions Pack converts Elementor's native Form widget to feature-rich Form. Build Elementor User Registration Form, Reset Password Form or integrate Google Sheet",
@@ -10,24 +20,14 @@
         "AbstractURL": "https://actions-pack.com"
     },
     {
-        "link": "https://napacenter.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://napacenter.org",
-        "Icon": "data:;",
-        "Redirect": "https://napacenter.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://napacenter.org"
-    },
-    {
         "link": "https://sportsintegrityinitiative.com",
-        "Heading": "One moment, please...",
+        "Heading": "Home - Sports Integrity Initiative",
         "Abstract": null,
-        "Official Site": "https://sportsintegrityinitiative.com",
-        "Icon": "data:,",
-        "Redirect": "https://sportsintegrityinitiative.com",
+        "Official Site": "https://www.sportsintegrityinitiative.com/",
+        "Icon": "https://www.sportsintegrityinitiative.com/wp-content/themes/sports/assets/img/favicon-32x32.png",
+        "Redirect": "https://www.sportsintegrityinitiative.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sportsintegrityinitiative.com"
+        "AbstractURL": "https://www.sportsintegrityinitiative.com/"
     },
     {
         "link": "https://git-send-email.io",
@@ -131,10 +131,10 @@
     },
     {
         "link": "https://fuelcurve.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Fuel Curve | Performance Automotive Lifestyle Purists",
+        "Abstract": "Performance Automotive Lifestyle Purists",
         "Official Site": "https://fuelcurve.com",
-        "Icon": "data:,",
+        "Icon": "https://fuelcurve.com/wp-content/uploads/2017/06/fcfavicon.jpg",
         "Redirect": "https://fuelcurve.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fuelcurve.com"
@@ -238,6 +238,16 @@
         "Redirect": "https://www.childneurologysociety.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.childneurologysociety.org/"
+    },
+    {
+        "link": "https://akf24.de",
+        "Heading": "Geldanlage f\u00fcr Privatkunden | akf-Bank: akf-Bank",
+        "Abstract": "Entdecken Sie Tagesgeld, Festgeld und Sparkonto der akf-Bank \u2013 sichere und attraktive M\u00f6glichkeiten f\u00fcr Ihre private Geldanlage.",
+        "Official Site": "https://akf24.de",
+        "Icon": "https://www.akf.de/fileadmin/user_upload/akf_de/akfbank/images/akf-bank-logo-gruen.jpg",
+        "Redirect": "https://akf24.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://akf24.de"
     },
     {
         "link": "https://prizelove.net",

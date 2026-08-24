@@ -30,6 +30,16 @@
         "AbstractURL": "https://giannopoulos.gr/"
     },
     {
+        "link": "https://herbnoori.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://herbnoori.com",
+        "Icon": "N/A",
+        "Redirect": "https://herbnoori.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://herbnoori.com"
+    },
+    {
         "link": "https://hethongdientuht.com",
         "Heading": "\u0110i\u1ec7n T\u1eed HT - H\u1ec7 Th\u1ed1ng S\u1eeda Ch\u1eefa \u0110i\u1ec7n M\u00e1y To\u00e0n Qu\u1ed1c",
         "Abstract": "\u0110i\u1ec7n T\u1eed HT cung c\u1ea5p h\u1ec7 th\u1ed1ng tr\u1ea1m s\u1eeda ch\u1eefa \u0111i\u1ec7n m\u00e1y tr\u00ean to\u00e0n qu\u1ed1c. T\u00ecm khu v\u1ef1c ph\u1ee5c v\u1ee5, tr\u1ea1m g\u1ea7n b\u1ea1n v\u00e0 \u0111\u1eb7t l\u1ecbch s\u1eeda ch\u1eefa nhanh ch\u00f3ng.",
@@ -71,10 +81,10 @@
     },
     {
         "link": "https://lojadamarta.pt",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Temporariamente Indispon\u00edvel",
+        "Abstract": "A Loja da Marta encontra-se temporariamente indispon\u00edvel.",
         "Official Site": "https://lojadamarta.pt",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://lojadamarta.pt",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lojadamarta.pt"
@@ -161,13 +171,13 @@
     },
     {
         "link": "https://sellmmo.vn",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://sellmmo.vn",
-        "Icon": "data:,",
-        "Redirect": "https://sellmmo.vn",
+        "Heading": "Sellmmo.vn - T\u00e0i Nguy\u00ean MMO | Uy T\u00edn Gi\u00e1 R\u1ebb Ch\u1ea5t L\u01b0\u1ee3ng",
+        "Abstract": "Sellmmo.vn - N\u1ec1n t\u1ea3ng cung c\u1ea5p t\u00e0i nguy\u00ean MMO \u0111a d\u1ea1ng. Kh\u00e1m ph\u00e1 kho t\u00e0i nguy\u00ean ch\u1ea5t l\u01b0\u1ee3ng, t\u1ed1i \u01b0u h\u00f3a l\u1ee3i nhu\u1eadn MMO ngay h\u00f4m nay!\nSELLMMO.VN - UY T\u00cdN - GI\u00c1 R\u1eba - CH\u1ea4T L\u01af\u1ee2NG",
+        "Official Site": "https://sellmmo.vn/",
+        "Icon": "https://sellmmo.vn/assets/storage/images/image_ZL1.png",
+        "Redirect": "https://sellmmo.vn/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sellmmo.vn"
+        "AbstractURL": "https://sellmmo.vn/"
     },
     {
         "link": "https://spoteam.gr",
@@ -210,6 +220,16 @@
         "AbstractURL": "https://cvetaevatomsk.ru/catalog/rozy/"
     },
     {
+        "link": "https://extraconfidencial.com",
+        "Heading": "ExtraConfidencial \u00bb lo que nadie se atreve a contar",
+        "Abstract": "lo que nadie se atreve a contar",
+        "Official Site": "https://extraconfidencial.com/",
+        "Icon": "N/A",
+        "Redirect": "https://extraconfidencial.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://extraconfidencial.com/"
+    },
+    {
         "link": "https://ghosted.com",
         "Heading": "Premium Unlimited Web Hosting | Free Domain \u2013\u202fGhosted",
         "Abstract": "Ghosted offers fast, unlimited web hosting with a free domain for 1\u202fyear, daily backups, DDoS & malware protection. Start building your site today!",
@@ -220,14 +240,14 @@
         "AbstractURL": "https://ghosted.com/"
     },
     {
-        "link": "https://targetguru.com",
-        "Heading": "targetguru.com is for sale \u2014 Get a price in 24 hours | GoDaddy",
-        "Abstract": "targetguru.com is for sale on GoDaddy. Get a price in less than 24 hours from our domain experts.",
-        "Official Site": "https://targetguru.com",
-        "Icon": "//img6.wsimg.com/ux-assets/favicon/android-icon-192x192.png",
-        "Redirect": "https://targetguru.com",
+        "link": "https://runawayrice.com",
+        "Heading": "Home -",
+        "Abstract": null,
+        "Official Site": "https://runawayrice.com/",
+        "Icon": "https://runawayrice.com/wp-content/uploads/2025/05/cropped-Pho-Bowl-Favicon-32x32.png",
+        "Redirect": "https://runawayrice.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://targetguru.com"
+        "AbstractURL": "https://runawayrice.com/"
     },
     {
         "link": "https://naturalhealthsource.com",
@@ -291,13 +311,13 @@
     },
     {
         "link": "https://skoledu.dk",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://skoledu.dk",
-        "Icon": "data:,",
-        "Redirect": "https://skoledu.dk",
+        "Heading": "Skoledu.dk \u2013 Log ind",
+        "Abstract": "Oplev Skoledu \nDanmarks mest udbredte matematikportal for\n0. - 10. klasse L\u00e6s mere   \nHar skolen allerede adgang? Login",
+        "Official Site": "https://skoledu.dk/",
+        "Icon": "https://skoledu.dk/wp-content/uploads/sites/2/2025/10/Skodedu-logo-white.svg",
+        "Redirect": "https://skoledu.dk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://skoledu.dk"
+        "AbstractURL": "https://skoledu.dk/"
     },
     {
         "link": "https://ti8m.ch",

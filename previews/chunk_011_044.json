@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.graygroupintl.com"
     },
     {
-        "link": "https://thecircular.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://thecircular.org",
-        "Icon": "data:;",
-        "Redirect": "https://thecircular.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thecircular.org"
-    },
-    {
         "link": "https://innoveo.com",
         "Heading": "Innoveo | Transform Insurance Workflows with Innoveo\u2019s Configurable SaaS Solutions",
         "Abstract": "Discover Innoveo's Swiss-engineered SaaS platform, enabling faster time to market and seamless user experiences. Schedule a demo today.",
@@ -61,13 +51,23 @@
     },
     {
         "link": "https://tekkaleyapi.com",
-        "Heading": null,
+        "Heading": "Tek Kale Yap\u0131 \u2013 Enerji Kimlik Belgesi",
         "Abstract": null,
         "Official Site": "https://tekkaleyapi.com",
-        "Icon": "data:;",
+        "Icon": "https://tekkaleyapi.com/wp-content/uploads/2025/08/tekkale-favicon-150x150.png",
         "Redirect": "https://tekkaleyapi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tekkaleyapi.com"
+    },
+    {
+        "link": "https://elcamellosupply.com",
+        "Heading": "Home - El Camello Distribution",
+        "Abstract": "-10% OFF",
+        "Official Site": "https://elcamellosupply.com/",
+        "Icon": "https://elcamellosupply.com/wp-content/uploads/2025/11/cropped-Elcamello.png",
+        "Redirect": "https://elcamellosupply.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elcamellosupply.com/"
     },
     {
         "link": "https://robur.coop",
@@ -101,7 +101,7 @@
     },
     {
         "link": "https://bicartel.com",
-        "Heading": null,
+        "Heading": "Continue...",
         "Abstract": null,
         "Official Site": "https://bicartel.com",
         "Icon": "N/A",
@@ -218,16 +218,6 @@
         "Redirect": "https://www.calgarytower.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.calgarytower.com"
-    },
-    {
-        "link": "https://carrierclasswifi.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://carrierclasswifi.com",
-        "Icon": "N/A",
-        "Redirect": "https://carrierclasswifi.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://carrierclasswifi.com"
     },
     {
         "link": "https://balletaz.org",

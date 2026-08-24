@@ -160,6 +160,16 @@
         "AbstractURL": "https://milwin.app"
     },
     {
+        "link": "https://mimarista.cl",
+        "Heading": "Mi Marista",
+        "Abstract": "Plataforma educativa interactiva para apoyar el aprendizaje de estudiantes con acceso a contenidos, tareas y recursos digitales.",
+        "Official Site": "https://mimarista.cl/",
+        "Icon": "https://www.portal.maristas.cl/public/img/meta_mimarista.jpg",
+        "Redirect": "https://mimarista.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mimarista.cl/"
+    },
+    {
         "link": "https://mimaritecrubeler.com",
         "Heading": "Mimari Bilgiler | mimari proje nas\u0131l \u00e7izilir",
         "Abstract": "\u0130mar y\u00f6netmeli\u011fine g\u00f6re mimari projeler hakk\u0131nda bilgiler.",
@@ -200,16 +210,6 @@
         "AbstractURL": "https://mimo900.love"
     },
     {
-        "link": "https://mimpibagus.com",
-        "Heading": "Mimpi Bagus- Daftar situs terbaik yang memberikan kemenangan setiap harinya di situs mimpibagus",
-        "Abstract": "mimpibagus merupakan situs toto online yang dapat memberikan kemenangan kepada player setia disitus mimpi bagus dan situs ini rekomendasi dari polisi togel indonesia",
-        "Official Site": "https://mimpibagus.com",
-        "Icon": "/assets/img/eam/favicon.png?v=jmnr34m3ag6hexubf6ai",
-        "Redirect": "https://mimpibagus.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mimpibagus.com"
-    },
-    {
         "link": "https://mindedice.xyz",
         "Heading": "MDD | \u5973\u512a\u3055\u3093\u304b\u3089\u7d20\u4eba\u306e\u5973\u6027\u307e\u3067\u30b5\u30f3\u30d7\u30eb\u52d5\u753b\u3092\u6295\u7a3f\uff01\uff01",
         "Abstract": "\u5973\u512a\u3055\u3093\u304b\u3089\u7d20\u4eba\u306e\u5973\u6027\u307e\u3067\u30b5\u30f3\u30d7\u30eb\u52d5\u753b\u3092\u6295\u7a3f\uff01\uff01",
@@ -221,10 +221,10 @@
     },
     {
         "link": "https://mindfuldays.top",
-        "Heading": null,
+        "Heading": "Best free games",
         "Abstract": null,
         "Official Site": "https://mindfuldays.top",
-        "Icon": "N/A",
+        "Icon": "/favicon.ico",
         "Redirect": "https://mindfuldays.top",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mindfuldays.top"

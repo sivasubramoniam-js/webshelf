@@ -71,7 +71,7 @@
     },
     {
         "link": "https://ssmhealthcareers.com",
-        "Heading": "ssm health careers",
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://ssmhealthcareers.com",
         "Icon": "N/A",
@@ -91,13 +91,13 @@
     },
     {
         "link": "https://homemoverrd.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://homemoverrd.com",
-        "Icon": "data:,",
-        "Redirect": "https://homemoverrd.com",
+        "Heading": "Home Mover Real Estate - Principal Agencia Inmobiliaria en Punta Cana",
+        "Abstract": "Una de las principales agencia inmobiliaria en Rep\u00fablica Dominicana, aqu\u00ed encontrar\u00e1 la casa de tu sue\u00f1o. Estamos en Punta Cana. Tel. 1 809 284-8655",
+        "Official Site": "https://homemoverrd.com/",
+        "Icon": "https://homemoverrd.com/wp-content/uploads/2022/09/logo-cuadrado-copia3.webp",
+        "Redirect": "https://homemoverrd.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://homemoverrd.com"
+        "AbstractURL": "https://homemoverrd.com/"
     },
     {
         "link": "https://roxette.se",
@@ -240,11 +240,21 @@
         "AbstractURL": "https://the-itcrowd.com"
     },
     {
+        "link": "https://indianahospital.in",
+        "Heading": "Best Hospital in Mangalore | Indiana Hospital & Heart Institute",
+        "Abstract": "Indiana Hospital & Heart Institute",
+        "Official Site": "https://indianahospital.in",
+        "Icon": "assets/images/favicon/favicon.png",
+        "Redirect": "https://indianahospital.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://indianahospital.in"
+    },
+    {
         "link": "https://dentacoin.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Dentacoin: The Blockchain Solution for the Global Dental Industry",
+        "Abstract": "Secure Blockchain tools, an industry-specific currency and preventive Healthcare approach to improve long-term health, reduce costs and ensure mutual benefits.",
         "Official Site": "https://dentacoin.com",
-        "Icon": "data:,",
+        "Icon": "https://dentacoin.com/assets/uploads/dcn-fb-thumb.png",
         "Redirect": "https://dentacoin.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dentacoin.com"
@@ -268,6 +278,16 @@
         "Redirect": "https://novusmundus.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://novusmundus.net"
+    },
+    {
+        "link": "https://themarqueeclub.net",
+        "Heading": "\n      Thula Tula\u00ae| Authentic Traditional African Basotho Blankets and Throws",
+        "Abstract": "Gorgeous authentic African-crafted blankets and throws, ultra-soft, hypoallergenic, and machine washable, made with intricate traditional beauty. Sustainably and ethically made with brilliant colors and ultra-soft texture that will make them an instant favorite in your home and on any adventure.",
+        "Official Site": "https://www.thulatula.com/",
+        "Icon": "https://www.thulatula.com/cdn/shop/files/Thula-Tula-blankets-and-throws_139b6efe-f8cb-43fc-9d77-a6e147ba5222_1200x.jpg?v=1612460661",
+        "Redirect": "https://www.thulatula.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thulatula.com/"
     },
     {
         "link": "https://upsieutoc.com",

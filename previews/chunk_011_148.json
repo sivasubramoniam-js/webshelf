@@ -20,6 +20,16 @@
         "AbstractURL": "http://fgpif.ru/"
     },
     {
+        "link": "https://munihualqui.cl",
+        "Heading": "Ilustre Municipalidad de Hualqui",
+        "Abstract": "Ilustre Municipalidad de Hualqui",
+        "Official Site": "https://www.munihualqui.cl//",
+        "Icon": "https://munihualqui.cl/diseno/shared.jpg",
+        "Redirect": "https://www.munihualqui.cl//",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.munihualqui.cl//"
+    },
+    {
         "link": "https://amt-lab.org",
         "Heading": "Arts Management and Technology Lab",
         "Abstract": "The Arts Management & Technology Lab (AMT Lab) provides current and future arts managers, technologists, and researchers with existing best practices and emerging technologies and management practices that create an impact on their work and their organization.",
@@ -30,6 +40,16 @@
         "AbstractURL": "https://amt-lab.org"
     },
     {
+        "link": "https://tarotarts.com",
+        "Heading": "You are being redirected...",
+        "Abstract": null,
+        "Official Site": "https://tarotarts.com",
+        "Icon": "N/A",
+        "Redirect": "https://tarotarts.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tarotarts.com"
+    },
+    {
         "link": "https://tplondon.com",
         "Heading": "Transnational Press London \u2013 fostering research, widening reach",
         "Abstract": "fostering research, widening reach",
@@ -38,6 +58,16 @@
         "Redirect": "https://www.tplondon.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tplondon.com/"
+    },
+    {
+        "link": "https://westgateaz.com",
+        "Heading": "Westgate Entertainment District - Where Fun Happens",
+        "Abstract": null,
+        "Official Site": "https://westgateaz.com/",
+        "Icon": "https://westgateaz.com/wp-content/uploads/2020/02/westgate-fb.jpg",
+        "Redirect": "https://westgateaz.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://westgateaz.com/"
     },
     {
         "link": "https://ccfr.ca",
@@ -111,10 +141,10 @@
     },
     {
         "link": "https://g13.digital",
-        "Heading": "One moment, please...",
+        "Heading": "Index of /",
         "Abstract": null,
         "Official Site": "https://g13.digital",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://g13.digital",
         "AbstractSource": "BS4",
         "AbstractURL": "https://g13.digital"
@@ -191,13 +221,13 @@
     },
     {
         "link": "https://mantyobras.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://mantyobras.com",
-        "Icon": "data:,",
-        "Redirect": "https://mantyobras.com",
+        "Heading": "Mantyobras Inmobiliaria en Lima, Per\u00fa. Venta de inmuebles.",
+        "Abstract": "Agencia Inmobiliaria en Lima, Per\u00fa: Venta de Casas, Departamentos, Oficinas, Locales, Stands, Terrenos, Edificios y Estacionamientos.",
+        "Official Site": "https://www.mantyobras.com/",
+        "Icon": "https://www.mantyobras.com/i/Logo-PalFace7.jpg",
+        "Redirect": "https://www.mantyobras.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mantyobras.com"
+        "AbstractURL": "https://www.mantyobras.com/"
     },
     {
         "link": "https://demindo.com",
@@ -231,13 +261,13 @@
     },
     {
         "link": "https://mylistingtheme.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://mylistingtheme.com",
-        "Icon": "data:,",
-        "Redirect": "https://mylistingtheme.com",
+        "Heading": "Create a Directory with MyListing Wordpress Theme",
+        "Abstract": "Create a Directory and Listing Site with MyListing, Elementor and Woocommerce",
+        "Official Site": "https://mylistingtheme.com/",
+        "Icon": "https://mylistingtheme.com/wp-content/uploads/2019/11/mainlogo-3.png",
+        "Redirect": "https://mylistingtheme.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mylistingtheme.com"
+        "AbstractURL": "https://mylistingtheme.com/"
     },
     {
         "link": "https://newspackaging.es",

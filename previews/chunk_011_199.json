@@ -81,10 +81,10 @@
     },
     {
         "link": "https://hederancram.space",
-        "Heading": "One moment, please...",
+        "Heading": "Hederancram",
         "Abstract": null,
         "Official Site": "https://hederancram.space",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://hederancram.space",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hederancram.space"
@@ -120,16 +120,6 @@
         "AbstractURL": "https://stevemcconnell.com/"
     },
     {
-        "link": "https://netolease.co.il",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://netolease.co.il",
-        "Icon": "data:;",
-        "Redirect": "https://netolease.co.il",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://netolease.co.il"
-    },
-    {
         "link": "https://thefifthcity.wiki",
         "Heading": "The Fifth City Wiki",
         "Abstract": null,
@@ -161,10 +151,10 @@
     },
     {
         "link": "https://directorydirect.net",
-        "Heading": "One moment, please...",
+        "Heading": "Bot Verification",
         "Abstract": null,
         "Official Site": "https://directorydirect.net",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://directorydirect.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://directorydirect.net"
@@ -180,26 +170,6 @@
         "AbstractURL": "https://destinationmissoula.org/"
     },
     {
-        "link": "https://iwscoloa.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://iwscoloa.com",
-        "Icon": "data:,",
-        "Redirect": "https://iwscoloa.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://iwscoloa.com"
-    },
-    {
-        "link": "https://cafeseminar.com",
-        "Heading": "Cafe Seminar \u2013 \u06a9\u0627\u0641\u0647 \u0633\u0645\u06cc\u0646\u0627\u0631",
-        "Abstract": null,
-        "Official Site": "https://cafeseminar.com",
-        "Icon": "https://cafeseminar.com/wp-content/uploads/2023/02/cropped-new-logo-512-32x32.png",
-        "Redirect": "https://cafeseminar.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cafeseminar.com"
-    },
-    {
         "link": "https://owdt.com",
         "Heading": "Web Design Company in Houston Texas | Top Web Designers TX",
         "Abstract": "As a top web design company in Houston, OWDT offers innovative website design and web development services to help your business stand apart.",
@@ -210,14 +180,24 @@
         "AbstractURL": "https://owdt.com/"
     },
     {
+        "link": "https://sessajewels.com",
+        "Heading": "Gioielleria Sessa",
+        "Abstract": "",
+        "Official Site": "https://sessajewels.com/it/",
+        "Icon": "https://sessajewels.com/img/logo-1734362022.jpg",
+        "Redirect": "https://sessajewels.com/it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sessajewels.com/it/"
+    },
+    {
         "link": "https://actiontaimanin.net",
         "Heading": "Action Taimanin",
         "Abstract": "Official website for Action Taimanin, an intense, gorgeous hack-and-slash action RPG from the Taimanin fame! Check out our Facebook page for latest news and information.",
-        "Official Site": "https://www.actiontaimanin.net/",
+        "Official Site": "https://www.actiontaimanin.net",
         "Icon": "https://www.actiontaimanin.net/theme/basic/img/opimg.jpg",
-        "Redirect": "https://www.actiontaimanin.net/",
+        "Redirect": "https://www.actiontaimanin.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.actiontaimanin.net/"
+        "AbstractURL": "https://www.actiontaimanin.net"
     },
     {
         "link": "https://mclane.com",

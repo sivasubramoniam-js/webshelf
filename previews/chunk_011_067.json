@@ -61,10 +61,10 @@
     },
     {
         "link": "https://smartwebhosts.co.uk",
-        "Heading": "One moment, please...",
+        "Heading": "Smart Web Hosts ",
         "Abstract": null,
         "Official Site": "https://smartwebhosts.co.uk",
-        "Icon": "data:,",
+        "Icon": "/favicon.ico",
         "Redirect": "https://smartwebhosts.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://smartwebhosts.co.uk"
@@ -118,16 +118,6 @@
         "Redirect": "https://ohhhmhhh.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ohhhmhhh.de"
-    },
-    {
-        "link": "https://theknife.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://theknife.net",
-        "Icon": "data:;",
-        "Redirect": "https://theknife.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://theknife.net"
     },
     {
         "link": "https://booteforum.de",
@@ -200,6 +190,16 @@
         "AbstractURL": "https://www.veldhuizenbv.nl/"
     },
     {
+        "link": "https://metasocial.co.id",
+        "Heading": "Metasocial Indonesia | Professional Digital Marketing Agency Indonesia",
+        "Abstract": "Give your brand a professional team, and give yourself a break. Metasocial handles your research, content, and analytics with a data-first framework. We transform your social media into a high-growth asset while you focus back on the big picture.",
+        "Official Site": "https://metasocial.co.id/",
+        "Icon": "http://metasocial.co.id/wp-content/uploads/2025/03/Free_K_Mockups_iPhone_15_Pro-802x1024.png",
+        "Redirect": "https://metasocial.co.id/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://metasocial.co.id/"
+    },
+    {
         "link": "https://belushis.com",
         "Heading": "Live Sports & Late Night Bars Across 9 European Cities - Belushi's",
         "Abstract": "Meet Ups, Play Offs, Nights Out BOOK Live Sports & Late Night Bars Across 9 European Cities Live Sports & Late Night Bars Across 9 European Cities Live Sports & Late Night Bars Across 9 European Cities With 14 bars across Europe, our famous atmosphere could be right around the corner. UP NEXT deals and",
@@ -221,12 +221,12 @@
     },
     {
         "link": "https://robthecoins.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://robthecoins.com",
-        "Icon": "data:,",
-        "Redirect": "https://robthecoins.com",
+        "Heading": "Home - Robthecoins",
+        "Abstract": "JTNDaDElM0VFZGl0b3IlMjdzJTIwUGlja3MlM0MlMkZoMSUzRSUwQSU1QnNtYXJ0X3Bvc3Rfc2hvdyUyMGlkJTNEJTIyMTMxODclMjIlNUQ=Online Casinos\u00a0 \u00a0 \u00a0 \u00a0",
+        "Official Site": "https://robthecoins.com/",
+        "Icon": "https://robthecoins.com/wp-content/uploads/2025/10/1.png",
+        "Redirect": "https://robthecoins.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://robthecoins.com"
+        "AbstractURL": "https://robthecoins.com/"
     }
 ]

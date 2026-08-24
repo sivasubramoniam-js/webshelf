@@ -43,11 +43,11 @@
         "link": "https://e6q1t9.com",
         "Heading": null,
         "Abstract": "\ud83c\udfb0 ENTRA NO 72B  AGORA! \ud83c\udf89\n\ud83d\udcb0 GANHE AT\u00c9 R$99 \ud83d\udcb8\n\ud83d\udd04 AMANH\u00c3 TEM MAIS PR\u00caMIOS! \ud83c\udf81\n\ud83d\udc47 CLIQUE PARA GANHAR AGORA! \ud83d\udc46",
-        "Official Site": "e6q1t9.com",
+        "Official Site": "e6q1t9.com:2087",
         "Icon": "https://upload-us.f-1-g-h.com/s4/1772355790525/seo780x439.png",
-        "Redirect": "e6q1t9.com",
+        "Redirect": "e6q1t9.com:2087",
         "AbstractSource": "BS4",
-        "AbstractURL": "e6q1t9.com"
+        "AbstractURL": "e6q1t9.com:2087"
     },
     {
         "link": "https://e8y5r7p5.com",
@@ -91,13 +91,23 @@
     },
     {
         "link": "https://eagleparibahan.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "\n\t\tHome | Eagle Paribahan\n\t",
+        "Abstract": "",
         "Official Site": "https://eagleparibahan.com",
-        "Icon": "data:,",
+        "Icon": "https://eagleparibahan.com/images/logo.png",
         "Redirect": "https://eagleparibahan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eagleparibahan.com"
+    },
+    {
+        "link": "https://eagless.site",
+        "Heading": "eagless",
+        "Abstract": null,
+        "Official Site": "https://eagless.site",
+        "Icon": "https://eagless.site/wp-content/uploads/2026/02/cropped-phoenix_10_detailed_ecommerce_logo_featuring_a_stylish_shoppin_1-32x32.jpg",
+        "Redirect": "https://eagless.site",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eagless.site"
     },
     {
         "link": "https://eamac.ne",
@@ -108,6 +118,16 @@
         "Redirect": "https://eamac.ne/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eamac.ne/"
+    },
+    {
+        "link": "https://earn-mart.com",
+        "Heading": "EARNMART - Start Earning Money Online | Multiple Income Streams Platform",
+        "Abstract": "EARNMART is your platform for multiple income streams. Join thousands earning through various online activities.",
+        "Official Site": "https://earnmart.com/",
+        "Icon": "https://earnmart.com/images/og-image.jpg",
+        "Redirect": "https://earnmart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://earnmart.com/"
     },
     {
         "link": "https://earnaldo.com",
@@ -268,5 +288,15 @@
         "Redirect": "https://echungtu.vn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://echungtu.vn"
+    },
+    {
+        "link": "https://ecmsjaipur.com",
+        "Heading": "ECMS - The Education Committee of The Maheshwari Samaj (Society),Jaipur",
+        "Abstract": "",
+        "Official Site": "https://ecmsjaipur.com",
+        "Icon": "images/favicon.png",
+        "Redirect": "https://ecmsjaipur.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ecmsjaipur.com"
     }
 ]

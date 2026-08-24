@@ -1,7 +1,7 @@
 [
     {
         "link": "https://etenews.net",
-        "Heading": "ETENEWS \u2013 \u53f0\u7063\u65b0\u805e\u665a\u5831\u96fb\u5b50\u5831",
+        "Heading": " \u53f0\u7063\u65b0\u805e\u665a\u5831\u96fb\u5b50\u5831",
         "Abstract": "\u53f0\u7063\u65b0\u805e\u665a\u5831\u96fb\u5b50\u5831",
         "Official Site": "https://etenews.net/",
         "Icon": "https://etenews.net/wp-content/uploads/2015/02/LOGO1-54cdc918v1_site_icon.png",
@@ -90,6 +90,16 @@
         "AbstractURL": "https://linklist.bio/koitoto"
     },
     {
+        "link": "https://muenzenwoche.de",
+        "Heading": "Home - M\u00fcnzenWoche",
+        "Abstract": null,
+        "Official Site": "https://neu.muenzenwoche.de/",
+        "Icon": "https://neu.muenzenwoche.de/wp-content/uploads/2023/01/muewo-favicon.png",
+        "Redirect": "https://neu.muenzenwoche.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://neu.muenzenwoche.de/"
+    },
+    {
         "link": "https://focusproaudio.com",
         "Heading": "Guitars, Keyboards, Studio & Recording, Mics, DJing - Focus Pro Audio",
         "Abstract": "Focus Pro Audio is your best online music and pro audio destination. Find an extensive range of gear from top brands like Fender, Roland, Pioneer DJ, Yamaha & more!",
@@ -121,13 +131,13 @@
     },
     {
         "link": "https://womeningames.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://womeningames.org",
-        "Icon": "data:;",
-        "Redirect": "https://womeningames.org",
+        "Heading": "Women In Games",
+        "Abstract": "Women in Games is a dedicated to building a fair and equitable playing field for women in games and esports ensuring diverse representation becomes the norm.",
+        "Official Site": "https://www.womeningames.org/",
+        "Icon": "https://www.womeningames.org/wp-content/uploads/2026/08/wig-social.png",
+        "Redirect": "https://www.womeningames.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://womeningames.org"
+        "AbstractURL": "https://www.womeningames.org/"
     },
     {
         "link": "https://doingdadstuff.com",
@@ -140,19 +150,9 @@
         "AbstractURL": "https://www.doingdadstuff.com/"
     },
     {
-        "link": "https://rippermedia.com.au",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://rippermedia.com.au",
-        "Icon": "N/A",
-        "Redirect": "https://rippermedia.com.au",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rippermedia.com.au"
-    },
-    {
         "link": "https://inscribirme.com",
-        "Heading": "\n\n    \n        Gesti\u00f3n de inscripciones online para todo tipo de eventos y actividades\n    \n\n",
-        "Abstract": "Gesti\u00f3n de inscripciones online para todo tipo de eventos y actividades",
+        "Heading": "\n\n    \n        Gesti\u00f3 d'inscripcions online per a tot tipus d'esdeveniments i activitats\n    \n\n",
+        "Abstract": "Gesti\u00f3 d'inscripcions online per a tot tipus d'esdeveniments i activitats",
         "Official Site": "https://inscribirme.com",
         "Icon": "https://storage.googleapis.com/inscribirme.appspot.com/static/img/new/favicon/android-icon-192x192.png",
         "Redirect": "https://inscribirme.com",
@@ -271,10 +271,10 @@
     },
     {
         "link": "https://bizyouridea.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Biz Your Idea",
+        "Abstract": "BizYourIdea is a fully-fledged writing solution that makes it easy to write your pitch deck or teaser. Now You are closer to turning your idea into a high-scale business. We can say that 'bizzing' your idea has never been so easy.",
         "Official Site": "https://bizyouridea.com",
-        "Icon": "data:,",
+        "Icon": "https://bizyouridea.com/assets/public/images/logo.png",
         "Redirect": "https://bizyouridea.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bizyouridea.com"

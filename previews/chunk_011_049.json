@@ -1,13 +1,23 @@
 [
     {
         "link": "https://insidehealthpolicy.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "InsideHealthPolicy.com | An Inside Washington news service",
+        "Abstract": "InsideHealthPolicy is a subscription-based news service on the evolving debate over federal health-care policy reforms and spending.",
         "Official Site": "https://insidehealthpolicy.com",
-        "Icon": "data:,",
+        "Icon": "https://insidehealthpolicy.com/sites/insidehealthpolicy.com/files/favicon_0.ico",
         "Redirect": "https://insidehealthpolicy.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://insidehealthpolicy.com"
+    },
+    {
+        "link": "https://imperialvalleynews.com",
+        "Heading": "Imperial Valley News",
+        "Abstract": "Imperial Valley News Pressing all envelopes",
+        "Official Site": "https://imperialvalleynews.com/",
+        "Icon": "/templates/protostar/favicon.ico",
+        "Redirect": "https://imperialvalleynews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://imperialvalleynews.com/"
     },
     {
         "link": "https://eintim.dev",
@@ -120,6 +130,16 @@
         "AbstractURL": "https://hlsn.net"
     },
     {
+        "link": "https://eltecolote.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://eltecolote.org",
+        "Icon": "N/A",
+        "Redirect": "https://eltecolote.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eltecolote.org"
+    },
+    {
         "link": "https://obrela.com",
         "Heading": "Real-time, Risk-aligned Cybersecurity - Obrela",
         "Abstract": "A Gartner-recognized MDR service provider with market-proven cybersecurity solutions servicing 250 clients across 25 countries. Learn more",
@@ -128,6 +148,16 @@
         "Redirect": "https://www.obrela.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.obrela.com"
+    },
+    {
+        "link": "https://simon-hunt.com",
+        "Heading": "You are being redirected...",
+        "Abstract": null,
+        "Official Site": "https://simon-hunt.com",
+        "Icon": "N/A",
+        "Redirect": "https://simon-hunt.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://simon-hunt.com"
     },
     {
         "link": "https://uniquemindcare.com",
@@ -161,13 +191,13 @@
     },
     {
         "link": "https://nelsonslaw.co.uk",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://nelsonslaw.co.uk",
-        "Icon": "data:,",
-        "Redirect": "https://nelsonslaw.co.uk",
+        "Heading": "Solicitors in Derby, Leicester & Nottingham | Nelsons Solicitors",
+        "Abstract": "Your local solicitors who can provide support and advice to businesses, individuals and families with their legal and investment needs.",
+        "Official Site": "https://www.nelsonslaw.co.uk/",
+        "Icon": "https://www.nelsonslaw.co.uk/wp-content/uploads/2025/09/empowering-you-mob.png",
+        "Redirect": "https://www.nelsonslaw.co.uk/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nelsonslaw.co.uk"
+        "AbstractURL": "https://www.nelsonslaw.co.uk/"
     },
     {
         "link": "https://j88tv.com",

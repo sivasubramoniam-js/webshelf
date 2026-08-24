@@ -11,7 +11,7 @@
     },
     {
         "link": "https://chauvinarnoux.ru",
-        "Heading": "KillBot user verification [20.168.103.5] [Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0]...",
+        "Heading": "KillBot user verification [68.154.115.180] [Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1]...",
         "Abstract": null,
         "Official Site": "https://chauvinarnoux.ru",
         "Icon": "N/A",
@@ -100,11 +100,21 @@
         "AbstractURL": "https://slicemaster.net"
     },
     {
-        "link": "https://nazartt.net",
-        "Heading": "One moment, please...",
+        "link": "https://zfgarage.com.tr",
+        "Heading": "H\u0131zl\u0131 kargo ~ Zfgarage.com.tr",
         "Abstract": null,
+        "Official Site": "https://zfgarage.com.tr",
+        "Icon": "N/A",
+        "Redirect": "https://zfgarage.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zfgarage.com.tr"
+    },
+    {
+        "link": "https://nazartt.net",
+        "Heading": "Web Design Portfolio | Mobile Apps and Website catalogue",
+        "Abstract": "Develop e-commerce and mobile apps for market in Singapore and Malaysia",
         "Official Site": "https://nazartt.net",
-        "Icon": "data:,",
+        "Icon": "../favicon.ico",
         "Redirect": "https://nazartt.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nazartt.net"
@@ -138,6 +148,16 @@
         "Redirect": "https://virginiav.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://virginiav.org"
+    },
+    {
+        "link": "https://ventisca.cl",
+        "Heading": "Cultura, Turismo e Innovaci\u00f3n en EL LOA",
+        "Abstract": "Cultura, Turismo e Innovaci\u00f3n en EL LOA. Localidades, im\u00e1genes, informaci\u00f3n y mapas de Calama, San Pedro de Atacama y Ollag\u00fce.",
+        "Official Site": "https://www.ventisca.cl/",
+        "Icon": "https://www.ventisca.cl/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=2253&type=gif&hash=5247e149fddd68e168e9b4ede41e9219",
+        "Redirect": "https://www.ventisca.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ventisca.cl/"
     },
     {
         "link": "https://daewoocenter.ru",
@@ -178,6 +198,16 @@
         "Redirect": "https://positivepsychologynews.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://positivepsychologynews.com"
+    },
+    {
+        "link": "https://passionategeekz.com",
+        "Heading": "PassionateGeekz - Latest Tech News, Smartphone Launches, Leaks & Reviews",
+        "Abstract": "PassionateGeekz brings you breaking technology news, smartphone launches, exclusive leaks, reviews, comparisons, AI updates, gadgets, and everything happening in the tech world.",
+        "Official Site": "https://passionategeekz.com/",
+        "Icon": "https://i0.wp.com/passionategeekz.com/wp-content/uploads/2026/07/Passionategeekz_logo_final.png",
+        "Redirect": "https://passionategeekz.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://passionategeekz.com/"
     },
     {
         "link": "https://lemongame.fun",

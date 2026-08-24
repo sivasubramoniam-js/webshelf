@@ -1,13 +1,13 @@
 [
     {
         "link": "https://reiterjournal.com",
-        "Heading": "One moment, please...",
+        "Heading": "Home | Reiterjournal ",
         "Abstract": null,
-        "Official Site": "https://reiterjournal.com",
-        "Icon": "data:,",
-        "Redirect": "https://reiterjournal.com",
+        "Official Site": "https://reiterjournal.com/",
+        "Icon": "https://reiterjournal.com/rj/1070/image-thumb__1070__OG-Image/logo_top.png",
+        "Redirect": "https://reiterjournal.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://reiterjournal.com"
+        "AbstractURL": "https://reiterjournal.com/"
     },
     {
         "link": "https://supporthives.com",
@@ -58,16 +58,6 @@
         "Redirect": "https://poolgoods.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://poolgoods.com/"
-    },
-    {
-        "link": "https://ahta.org",
-        "Heading": "\n    \n    American Horticultural Therapy Association | AHTA\n  \n  ",
-        "Abstract": "Join the AHTA, the national authority for horticultural therapy. Access board certification, evidence-based education, and a global network of practitioners.",
-        "Official Site": "https://www.ahta.org/",
-        "Icon": "https://irp.cdn-website.com/c876b665/dms3rep/multi/opt/seo_share_ahta-1920w.png",
-        "Redirect": "https://www.ahta.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ahta.org/"
     },
     {
         "link": "https://profesorfrancisco.es",
@@ -190,14 +180,24 @@
         "AbstractURL": "https://southlake.ca"
     },
     {
-        "link": "https://monkeysee.com",
-        "Heading": "YouTube",
-        "Abstract": "\ud83c\udf7d\ufe0f Live classes & cooking clubs\n\ud83d\udc9b Transform your relationship with food\n\ud83c\udf31 Cook Better, Live Better\n\n\ud83d\udd17 Join for free today \u2935\ufe0f\n",
-        "Official Site": "https://www.youtube.com/monkeysee",
-        "Icon": "https://yt3.googleusercontent.com/PlSHHjPceaRTQOAhwp100FXzO6FRaS5AO-uDTopwEFfthehkt_hXeEPihP6ILOa496qBT8n6=s900-c-k-c0x00ffffff-no-rj",
-        "Redirect": "https://www.youtube.com/monkeysee",
+        "link": "https://medizinio.de",
+        "Heading": "Medizinio - Das Portal f\u00fcr die Praxis",
+        "Abstract": "Medizinio - Das Portal f\u00fcr die Praxis \u2714\ufe0f Angebote f\u00fcr Medizinger\u00e4te und Dienstleistungen vergleichen \u2714\ufe0f Jetzt kostenlos anfragen",
+        "Official Site": "https://medizinio.de",
+        "Icon": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/medizinio.de/wp-content/themes/hestia-child/client/dist/other_assets/img/favicon32.png",
+        "Redirect": "https://medizinio.de",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.youtube.com/monkeysee"
+        "AbstractURL": "https://medizinio.de"
+    },
+    {
+        "link": "https://monkeysee.com",
+        "Heading": "Homemade - YouTube",
+        "Abstract": "\ud83c\udf7d\ufe0f Live classes & cooking clubs\n\ud83d\udc9b Transform your relationship with food\n\ud83c\udf31 Cook Better, Live Better\n\n\ud83d\udd17 Join for free today \u2935\ufe0f\n",
+        "Official Site": "https://www.youtube.com/channel/UCUGCfw5Kjg6xrF6XFoKw-ww",
+        "Icon": "https://yt3.googleusercontent.com/PlSHHjPceaRTQOAhwp100FXzO6FRaS5AO-uDTopwEFfthehkt_hXeEPihP6ILOa496qBT8n6=s900-c-k-c0x00ffffff-no-rj",
+        "Redirect": "https://www.youtube.com/channel/UCUGCfw5Kjg6xrF6XFoKw-ww",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.youtube.com/channel/UCUGCfw5Kjg6xrF6XFoKw-ww"
     },
     {
         "link": "https://posytka.ru",
@@ -241,10 +241,10 @@
     },
     {
         "link": "https://prosoluc.cl",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Prosoluc - prosoluc.cl",
+        "Abstract": "Bienvenido a PROSOLUC E-mail contacto@prosoluc.cl Direcci\u00f3n: Santa Adela 341, Recoleta, Santiago, Chile",
         "Official Site": "https://prosoluc.cl",
-        "Icon": "data:,",
+        "Icon": "img/favicon.ico",
         "Redirect": "https://prosoluc.cl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://prosoluc.cl"

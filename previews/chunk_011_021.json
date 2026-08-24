@@ -21,12 +21,22 @@
     },
     {
         "link": "https://ymj-furniture.com",
-        "Heading": "\uc57c\ubb34\uc9c4\uc0ac\ubb34\uac00\uad6c",
-        "Abstract": "\ub9de\ucda4\uacac\uc801\ud560\uc778,\ucd5c\uc800\uac00\uacac\uc801,\ubb34\ub8cc\ub808\uc774\uc544\uc6c3,\ub300\ub7c9\uacac\uc801,\uc13c\ud2f1,\uc0ac\ubb34\uc6a9\uac00\uad6c,\uc0ac\ubb34\uc2e4\uac00\uad6c,\uc0ac\ubb34\uc2e4\ud30c\ud2f0\uc158,\uc0ac\ubb34\uc2e4\uc758\uc790,\uc0ac\ubb34\uc6a9\ucc45\uc0c1\uc911\uc5ed\uac00\uad6c,\uc624\ud53c\uc2a4\uac00\uad6c,\ud648\uc624\ud53c\uc2a4,\uc0ac\ubb34\uc2e4\uc778\ud14c\ub9ac\uc5b4,\ucca0\uc81c\uac00\uad6c\uc804\ubb38\uc5c5\uccb4,\uc778\ud14c\ub9ac\uc5b4\uac00\uad6c",
-        "Official Site": "https://ymj-furniture.com",
-        "Icon": "/web/upload/favicon-e02781a40ff2e0610046c79f0b40da4b.ico",
-        "Redirect": "https://ymj-furniture.com",
+        "Heading": "\uc57c\ubb34\uc9c4\uc0ac\ubb34\uac00\uad6c | \uc0ac\ubb34\uc2e4\ucc45\uc0c1\u00b7\ud30c\ud2f0\uc158\u00b7\uc0ac\ubb34\uc6a9\uc758\uc790 \uc804\ubb38",
+        "Abstract": "\uc0ac\ubb34\uc6a9\uac00\uad6c \ub9de\ucda4\uacac\uc801\u00b7\ucd5c\uc800\uac00\uacac\uc801\u00b7\ubb34\ub8cc\ub808\uc774\uc544\uc6c3 \uc9c0\uc6d0. \uc0ac\ubb34\uc2e4\ucc45\uc0c1, \ud30c\ud2f0\uc158, \uc0ac\ubb34\uc6a9\uc758\uc790, \uc911\uc5ed\uac00\uad6c, \uc218\ub0a9\uc7a5, \ucca0\uc81c\uac00\uad6c\uae4c\uc9c0 \ub300\ub7c9\uacac\uc801 \ud658\uc601\ud569\ub2c8\ub2e4.",
+        "Official Site": "https://ymj-furniture.com/",
+        "Icon": "https://ymj-furniture.com/web/upload/logo/logo.png",
+        "Redirect": "https://ymj-furniture.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ymj-furniture.com"
+        "AbstractURL": "https://ymj-furniture.com/"
+    },
+    {
+        "link": "https://yochicago.com",
+        "Heading": "New Luxury Apartment Rental in Chicago, IL | YoChicago",
+        "Abstract": "New luxury apartment lease in Chicago, IL \u2014 modern finishes, high-end amenities, and unbeatable city views. Schedule a tour today.",
+        "Official Site": "https://yochicago.com/",
+        "Icon": "https://wdtthemes.kinsta.cloud/sinkel/wp-content/uploads/sites/9/2024/03/About-Us-Sec-Side-Img.png",
+        "Redirect": "https://yochicago.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yochicago.com/"
     }
 ]

@@ -40,6 +40,16 @@
         "AbstractURL": "https://ztealth.com"
     },
     {
+        "link": "https://territorystudio.com",
+        "Heading": "Homepage - Territory Studio",
+        "Abstract": "... Read More...",
+        "Official Site": "https://territorystudio.com/",
+        "Icon": "https://territorystudio.com/wp-content/uploads/2018/09/TerritoryStudio_BR_WSp_00064.jpg",
+        "Redirect": "https://territorystudio.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://territorystudio.com/"
+    },
+    {
         "link": "https://postmake.io",
         "Heading": "Postmake \u2013 Curated tools and resources for your next project",
         "Abstract": "",
@@ -104,7 +114,7 @@
         "Heading": "Hall\u00f3 Akureyri",
         "Abstract": null,
         "Official Site": "https://www.visitakureyri.is/",
-        "Icon": "https://www.visitakureyri.is/static/sitemap/lg/34e3d8568a26f2d89998ed9a04981151-visitakureyri-mummisara-1920pixlar_12.jpg?v=1787458190",
+        "Icon": "https://www.visitakureyri.is/static/sitemap/lg/34e3d8568a26f2d89998ed9a04981151-visitakureyri-mummisara-1920pixlar_12.jpg?v=1787537458",
         "Redirect": "https://www.visitakureyri.is/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.visitakureyri.is/"
@@ -148,6 +158,16 @@
         "Redirect": "https://enigmasac.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://enigmasac.com/"
+    },
+    {
+        "link": "https://lavishimports.co",
+        "Heading": "Lavish Imports | Human Hair Extensions, Wigs, Skin Care in Seychelles",
+        "Abstract": "Shop Human Hair, Hair Extensions, and Skin care products online at the best prices. Explore a huge variety of wigs and more high-quality cosmetic products from Lavish Imports & Lavish Looks in Seychelles.",
+        "Official Site": "https://lavishimports.co/",
+        "Icon": "https://lavishimports.co/wp-content/uploads/2022/02/lavish-edited-logo-165-x70-1-150x70.png",
+        "Redirect": "https://lavishimports.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lavishimports.co/"
     },
     {
         "link": "https://americanshipper.com",
@@ -198,16 +218,6 @@
         "Redirect": "https://webbb.me",
         "AbstractSource": "BS4",
         "AbstractURL": "https://webbb.me"
-    },
-    {
-        "link": "https://chiquipedia.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://chiquipedia.com",
-        "Icon": "data:,",
-        "Redirect": "https://chiquipedia.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chiquipedia.com"
     },
     {
         "link": "https://bitburger-braugruppe.de",
