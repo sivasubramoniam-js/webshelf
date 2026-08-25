@@ -60,6 +60,16 @@
         "AbstractURL": "https://jrocknews.com/"
     },
     {
+        "link": "https://suzanne.soy",
+        "Heading": "Suzanne Soy \u2014 Procedural Designer",
+        "Abstract": null,
+        "Official Site": "https://suzanne.soy",
+        "Icon": "N/A",
+        "Redirect": "https://suzanne.soy",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://suzanne.soy"
+    },
+    {
         "link": "https://gcmediaarts.com",
         "Heading": "GC Media Arts -",
         "Abstract": null,
@@ -118,6 +128,16 @@
         "Redirect": "https://www.bigbinary.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.bigbinary.com"
+    },
+    {
+        "link": "https://battlefield-3.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://battlefield-3.com",
+        "Icon": "N/A",
+        "Redirect": "https://battlefield-3.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://battlefield-3.com"
     },
     {
         "link": "https://twadh.com",
@@ -238,15 +258,5 @@
         "Redirect": "https://simpletiger.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://simpletiger.com"
-    },
-    {
-        "link": "https://0adz.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://0adz.com",
-        "Icon": "N/A",
-        "Redirect": "https://0adz.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://0adz.com"
     }
 ]

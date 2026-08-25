@@ -200,6 +200,16 @@
         "AbstractURL": "https://soedesco.com"
     },
     {
+        "link": "https://ghsupplychain.org",
+        "Heading": "Home | Global Health Supply Chain Program",
+        "Abstract": null,
+        "Official Site": "https://ghsupplychain.org",
+        "Icon": "/themes/custom/ghsc/favicons/favicon-32x32.png",
+        "Redirect": "https://ghsupplychain.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ghsupplychain.org"
+    },
+    {
         "link": "https://evolvemedia.ca",
         "Heading": "Evolve Media - Web Design & Development Edmonton, Alberta",
         "Abstract": "Evolve your business! Edmonton and area graphic, logo and web design and web development. We specialize in custom professional website design and development solutions including automobile, RV, boat, and powersport inventory systems and more! We also provide services for search engine optimization (SEO), consultation and web site maintenance.",
@@ -238,5 +248,15 @@
         "Redirect": "https://hostprofessor.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hostprofessor.co.uk"
+    },
+    {
+        "link": "https://visalaw.com",
+        "Heading": "\n\n\t\tFull-Service Immigration Firm | Siskind Susser PC\n  \t",
+        "Abstract": "We are one of the leading immigration law firms in North America. Our attorneys have experience handling all aspects of American immigration..",
+        "Official Site": "https://www.visalaw.com/",
+        "Icon": "https://www.visalaw.com/wp-content/uploads/2021/04/banner.jpg",
+        "Redirect": "https://www.visalaw.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.visalaw.com/"
     }
 ]

@@ -50,16 +50,6 @@
         "AbstractURL": "https://www.stone-xxi.ru/"
     },
     {
-        "link": "https://consolidata.ai",
-        "Heading": "Consolidata \u2014 Run your agency on data, not vibes",
-        "Abstract": "Unified data, dashboards, identity resolution, and outreach \u2014 built for marketing agencies. White-label from day one.",
-        "Official Site": "https://consolidata.ai/",
-        "Icon": "/favicon.png",
-        "Redirect": "https://consolidata.ai/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://consolidata.ai/"
-    },
-    {
         "link": "https://villacabosanantonio.com",
         "Heading": "GreatFireVPN - Bypass Censorship in China, Russia, Iran",
         "Abstract": "Trusted VPN for bypassing internet censorship. 10+ years fighting the Great Firewall of China. 30-day free trial.",
@@ -298,6 +288,16 @@
         "Redirect": "https://turannews.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://turannews.net"
+    },
+    {
+        "link": "https://cedarfieldhost.com",
+        "Heading": "Namecheap Parking Page",
+        "Abstract": null,
+        "Official Site": "https://cedarfieldhost.com",
+        "Icon": "N/A",
+        "Redirect": "https://cedarfieldhost.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cedarfieldhost.com"
     },
     {
         "link": "https://link-park.org",

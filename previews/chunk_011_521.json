@@ -290,14 +290,14 @@
         "AbstractURL": "https://www.example.com/"
     },
     {
-        "link": "https://dualplus.hu",
-        "Heading": "Home - Security Services",
-        "Abstract": "Professzion\u00e1lis vagyonv\u00e9delmi megold\u00e1sok IP kamerarendszerek, riaszt\u00f3k \u00e9s bel\u00e9ptet\u0151k teljes k\u00f6r\u0171 ki\u00e9p\u00edt\u00e9se, konfigur\u00e1l\u00e1sa \u00e9s karbantart\u00e1sa Lakoss\u00e1gi \u00e1s",
-        "Official Site": "https://www.dualplus.hu/",
+        "link": "https://byuaccounting.net",
+        "Heading": "BYU School of Accountancy",
+        "Abstract": null,
+        "Official Site": "https://byuaccounting.net",
         "Icon": "N/A",
-        "Redirect": "https://www.dualplus.hu/",
+        "Redirect": "https://byuaccounting.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.dualplus.hu/"
+        "AbstractURL": "https://byuaccounting.net"
     },
     {
         "link": "https://people-health.cn",
@@ -321,20 +321,20 @@
     },
     {
         "link": "https://twinscience.com",
-        "Heading": "Make Your School AI Ready | Twin Science",
-        "Abstract": "AI literacy, combined with the safest tools, empowers your school to build real-world AI skills with confidence.",
-        "Official Site": "https://www.twinscience.com/en/",
-        "Icon": "https://www.twinscience.com/wp-content/uploads/2025/07/cropped-20.png",
-        "Redirect": "https://www.twinscience.com/en/",
+        "Heading": "Page not found | Twin Science",
+        "Abstract": null,
+        "Official Site": "https://twinscience.com",
+        "Icon": "/wp-content/uploads/2025/11/cropped-favicon-512x512-1-32x32.png",
+        "Redirect": "https://twinscience.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.twinscience.com/en/"
+        "AbstractURL": "https://twinscience.com"
     },
     {
         "link": "https://gtn-pravda.ru",
         "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 - \u0413\u0430\u0442\u0447\u0438\u043d\u0441\u043a\u0430\u044f \u043f\u0440\u0430\u0432\u0434\u0430",
         "Abstract": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0413\u0430\u0442\u0447\u0438\u043d\u044b \u0438 \u0433\u0430\u0442\u0447\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430, \u043d\u043e\u0440\u043c\u0430\u0442\u0438\u0432\u043d\u043e-\u043f\u0440\u0430\u0432\u043e\u0432\u044b\u0435 \u0430\u043a\u0442\u044b \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0439 \u0433\u0430\u0442\u0447\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430, \u0430\u0444\u0438\u0448\u0430, \u0441\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0438\u043a \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0439 \u0433\u0430\u0442\u0447\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u0440\u0430\u0439\u043e\u043d\u0430",
         "Official Site": "https://gtn-pravda.ru/",
-        "Icon": "https://gtn-pravda.ru/assets/241785251118/img/logo.svg",
+        "Icon": "https://gtn-pravda.ru/assets/241787566695/img/logo.svg",
         "Redirect": "https://gtn-pravda.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gtn-pravda.ru/"

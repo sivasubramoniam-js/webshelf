@@ -170,16 +170,6 @@
         "AbstractURL": "https://wordajax.com"
     },
     {
-        "link": "https://wordpressnull.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://wordpressnull.org",
-        "Icon": "N/A",
-        "Redirect": "https://wordpressnull.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wordpressnull.org"
-    },
-    {
         "link": "https://workchronicles.com",
         "Heading": "Work Chronicles | Substack",
         "Abstract": "Comics about work. Made with love and lots of coffee. Click to read Work Chronicles, a Substack publication with tens of thousands of subscribers.",
@@ -208,6 +198,16 @@
         "Redirect": "https://www.workelo.eu/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.workelo.eu/"
+    },
+    {
+        "link": "https://workingfortecline.com",
+        "Heading": "Just a moment...",
+        "Abstract": null,
+        "Official Site": "https://workingfortecline.com",
+        "Icon": "N/A",
+        "Redirect": "https://workingfortecline.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://workingfortecline.com"
     },
     {
         "link": "https://worksmile.com",

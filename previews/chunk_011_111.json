@@ -250,6 +250,16 @@
         "AbstractURL": "https://www.kkhotels.com/"
     },
     {
+        "link": "https://aztrail.org",
+        "Heading": "Explore the Arizona Trail \u2013 The Arizona Trail",
+        "Abstract": null,
+        "Official Site": "https://aztrail.org",
+        "Icon": "https://aztrailmedia.s3.us-west-1.amazonaws.com/wp-content/uploads/2017/12/cropped-AZTrail-Logo-SiteIcon-32x32.jpg",
+        "Redirect": "https://aztrail.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aztrail.org"
+    },
+    {
         "link": "https://orihuela.es",
         "Heading": "Inicio - Ayuntamiento de Orihuela",
         "Abstract": "NOTICIAS DeportesNoticias Molins acoger\u00e1 este domingo la XI Carrera del Pavo y Pap\u00e1 Noel con r\u00e9cord de participaci\u00f3n Leer m\u00e1s 1 de diciembre de 2025 CulturaNoticias Cultura abre la inscripci\u00f3n [\u2026]",
@@ -258,6 +268,16 @@
         "Redirect": "https://www.orihuela.es/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.orihuela.es/"
+    },
+    {
+        "link": "https://host159.ru",
+        "Heading": "\n\t\townCloud\t\t",
+        "Abstract": null,
+        "Official Site": "https://host159.ru",
+        "Icon": "/core/img/favicon.ico",
+        "Redirect": "https://host159.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://host159.ru"
     },
     {
         "link": "https://frabsmagazines.com",

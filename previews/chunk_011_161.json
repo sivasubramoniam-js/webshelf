@@ -1,7 +1,7 @@
 [
     {
         "link": "https://etenews.net",
-        "Heading": " \u53f0\u7063\u65b0\u805e\u665a\u5831\u96fb\u5b50\u5831",
+        "Heading": "ETENEWS \u2013 \u53f0\u7063\u65b0\u805e\u665a\u5831\u96fb\u5b50\u5831",
         "Abstract": "\u53f0\u7063\u65b0\u805e\u665a\u5831\u96fb\u5b50\u5831",
         "Official Site": "https://etenews.net/",
         "Icon": "https://etenews.net/wp-content/uploads/2015/02/LOGO1-54cdc918v1_site_icon.png",
@@ -150,9 +150,19 @@
         "AbstractURL": "https://www.doingdadstuff.com/"
     },
     {
+        "link": "https://rippermedia.com.au",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://rippermedia.com.au",
+        "Icon": "N/A",
+        "Redirect": "https://rippermedia.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rippermedia.com.au"
+    },
+    {
         "link": "https://inscribirme.com",
-        "Heading": "\n\n    \n        Gesti\u00f3 d'inscripcions online per a tot tipus d'esdeveniments i activitats\n    \n\n",
-        "Abstract": "Gesti\u00f3 d'inscripcions online per a tot tipus d'esdeveniments i activitats",
+        "Heading": "\n\n    \n        Gesti\u00f3n de inscripciones online para todo tipo de eventos y actividades\n    \n\n",
+        "Abstract": "Gesti\u00f3n de inscripciones online para todo tipo de eventos y actividades",
         "Official Site": "https://inscribirme.com",
         "Icon": "https://storage.googleapis.com/inscribirme.appspot.com/static/img/new/favicon/android-icon-192x192.png",
         "Redirect": "https://inscribirme.com",

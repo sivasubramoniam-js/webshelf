@@ -40,16 +40,6 @@
         "AbstractURL": "https://devspark.ru"
     },
     {
-        "link": "https://funsci.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://funsci.com",
-        "Icon": "N/A",
-        "Redirect": "https://funsci.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://funsci.com"
-    },
-    {
         "link": "https://blitec.de",
         "Heading": "Blitec.de - B\u00fcrobedarf g\u00fcnstig online kaufen f\u00fcr Gewerbetreibende",
         "Abstract": "B\u00fcrobedarf, B\u00fcromaterial, Schreibwaren und vieles mehr bei Blitec.de. 70.000 Markenartikel zu sehr g\u00fcnstigen Preisen. B\u00fcrobedarf f\u00fcr Gewerbekunden",
@@ -200,16 +190,6 @@
         "AbstractURL": "https://www.visitbrescia.it/"
     },
     {
-        "link": "https://5jyexf2k.click",
-        "Heading": "5jyexf2k.click",
-        "Abstract": null,
-        "Official Site": "https://5jyexf2k.click",
-        "Icon": "N/A",
-        "Redirect": "https://5jyexf2k.click",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://5jyexf2k.click"
-    },
-    {
         "link": "https://next-generation-wine.com",
         "Heading": "\n                Next Generation Wine \ud83c\udf77 Der junge online Wein Shop der n\u00e4chsten Generation            ",
         "Abstract": "Guten Wein zu trinken muss nicht spie\u00dfig sein! Hier findest Du Wein von Winzern der n\u00e4chsten Generation, denen \u2713Nachhaltigkeit und \u2713Qualit\u00e4t wichtig sind",
@@ -318,5 +298,15 @@
         "Redirect": "https://lgisl.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lgisl.com"
+    },
+    {
+        "link": "https://akpa.net.id",
+        "Heading": "SGDC \u2013 Internet Service Provider",
+        "Abstract": null,
+        "Official Site": "https://akpa.net.id",
+        "Icon": "https://akpa.net.id/staging/wp-content/uploads/2021/05/sgdc.png",
+        "Redirect": "https://akpa.net.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://akpa.net.id"
     }
 ]

@@ -100,6 +100,16 @@
         "AbstractURL": "https://www.bananario.de/"
     },
     {
+        "link": "https://ufato.ru",
+        "Heading": "FASTPANEL",
+        "Abstract": null,
+        "Official Site": "https://ufato.ru",
+        "Icon": "N/A",
+        "Redirect": "https://ufato.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ufato.ru"
+    },
+    {
         "link": "https://cmmlogos.org",
         "Heading": "\uae30\ub3c5\uc758\ub8cc\uc0c1\uc870\ud68c \u2013 Christian Mutual Med-Aid",
         "Abstract": null,
@@ -178,16 +188,6 @@
         "Redirect": "https://www.speakerscorner.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.speakerscorner.co.uk/"
-    },
-    {
-        "link": "https://hostnetworld.com",
-        "Heading": "Hostnetworld",
-        "Abstract": null,
-        "Official Site": "https://hostnetworld.com",
-        "Icon": "N/A",
-        "Redirect": "https://hostnetworld.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hostnetworld.com"
     },
     {
         "link": "https://pesches.com",

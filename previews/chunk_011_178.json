@@ -80,16 +80,6 @@
         "AbstractURL": "https://www.govisithawaii.com/"
     },
     {
-        "link": "https://frumspeak.com",
-        "Heading": "New | Frum Speak",
-        "Abstract": null,
-        "Official Site": "https://frumspeak.com",
-        "Icon": "https://frumspeak.com/sites/default/files/android-chrome-192x192.png",
-        "Redirect": "https://frumspeak.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://frumspeak.com"
-    },
-    {
         "link": "https://lgads.tv",
         "Heading": "LG Ad Solutions \u2013 Advanced TV & Cross-Device Advertising Platform",
         "Abstract": "Powering advanced advertising for Connected TV and cross-screen campaigns, helping brands engage audiences through Smart TV data.",
@@ -148,6 +138,16 @@
         "Redirect": "https://infinance.nl/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://infinance.nl/"
+    },
+    {
+        "link": "https://shiftyjelly.com",
+        "Heading": "Listen to podcasts with the best free podcasting app - built by listeners, for listeners. - Pocket Casts",
+        "Abstract": "Pocket Casts provides next-level listening, search and discovery tools. Find your next obsession with our hand curated podcast recommendations, and seamlessly enjoy and manage all your shows no matter which platform you're on.",
+        "Official Site": "https://pocketcasts.com/",
+        "Icon": "https://static.pocketcasts.com/webplayer/assets/hero-background-COfs_3B6.png",
+        "Redirect": "https://pocketcasts.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pocketcasts.com/"
     },
     {
         "link": "https://lucky-group.rest",

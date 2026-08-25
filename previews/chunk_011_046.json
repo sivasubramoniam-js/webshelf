@@ -120,6 +120,16 @@
         "AbstractURL": "https://eprogress.bg"
     },
     {
+        "link": "https://aluminium-stewardship.org",
+        "Heading": "ASI Home | Aluminium Stewardship Initiative",
+        "Abstract": null,
+        "Official Site": "https://aluminium-stewardship.org/",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://aluminium-stewardship.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aluminium-stewardship.org/"
+    },
+    {
         "link": "https://ventunotech.com",
         "Heading": "Ventuno | The Leading OTT Platform & VOD Platform Provider",
         "Abstract": "Ventuno is a SaaS OTT platform that allows content owners to launch, manage, and monetize their video streaming service (both On-Demand and Live) for Web/Mobile/TV. Launch Video on demand apps instantly using our customizable templates.",
@@ -238,16 +248,6 @@
         "Redirect": "https://www.indiasimmigration.org/visa",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.indiasimmigration.org/visa"
-    },
-    {
-        "link": "https://bdva.eu",
-        "Heading": "Big Data Value Association - Accelerating data-driven innovation in Europe \u2197",
-        "Abstract": "BDVA is an industry-driven research and innovation organisation with a mission to develop an innovation ecosystem that enables the AI and data-driven digital transformation of the economy and society in Europe.",
-        "Official Site": "https://bdva.eu/",
-        "Icon": "https://bdva.eu/wp-content/uploads/2026/05/Logo-BDVA.png",
-        "Redirect": "https://bdva.eu/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bdva.eu/"
     },
     {
         "link": "https://xiexinbin.com",

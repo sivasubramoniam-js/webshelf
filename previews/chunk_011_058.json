@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.opel-hbl.de/de/hbl"
     },
     {
+        "link": "https://essentialtremor.org",
+        "Heading": "Essential Tremor",
+        "Abstract": "Welcome to the International Essential Tremor Foundation's website, where you'll find information about our organization, the latest news, resources for coping, and support groups near you.",
+        "Official Site": "https://essentialtremor.org/",
+        "Icon": "https://essentialtremor.org/wp-content/uploads/2024/10/IETF-Web-SocialShare.jpg",
+        "Redirect": "https://essentialtremor.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://essentialtremor.org/"
+    },
+    {
         "link": "https://progressflowsstrategically.click",
         "Heading": "Blog",
         "Abstract": null,
@@ -83,11 +93,11 @@
         "link": "https://brazilcham.com",
         "Heading": "Welcome - BrazilCham",
         "Abstract": "Building bridges between Brazil and the United States to empower growth, foster vibrant collaboration, and bring the communities closer together",
-        "Official Site": "https://brazilcham.com/?s=%E9%A9%9A%E3%81%84%E3%81%9F%E3%81%AD",
+        "Official Site": "https://brazilcham.com/",
         "Icon": "https://brazilcham.com/assets/mock/header_1_1.jpg",
-        "Redirect": "https://brazilcham.com/?s=%E9%A9%9A%E3%81%84%E3%81%9F%E3%81%AD",
+        "Redirect": "https://brazilcham.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://brazilcham.com/?s=%E9%A9%9A%E3%81%84%E3%81%9F%E3%81%AD"
+        "AbstractURL": "https://brazilcham.com/"
     },
     {
         "link": "https://syx.in",
@@ -124,7 +134,7 @@
         "Heading": "Home | The Wildlife Trusts",
         "Abstract": "The Wildlife Trusts is a federation of 47 independent wildlife conservation charities covering the UK, Alderney and the Isle of Man. We manage nature reserves, help people to learn about nature and campaign to protect our land and seas.",
         "Official Site": "https://wildlifetrust.org.uk",
-        "Icon": "/sites/default/files/favicons/favicon-96x96.png?tjxkxn",
+        "Icon": "/sites/default/files/favicons/favicon-96x96.png?tkaiv3",
         "Redirect": "https://wildlifetrust.org.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wildlifetrust.org.uk"
