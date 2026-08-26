@@ -50,16 +50,6 @@
         "AbstractURL": "https://mediamethod.pro/about/"
     },
     {
-        "link": "https://cazadores.com",
-        "Heading": "Cazadores Tequila | 100% Blue Agave Highland Tequila | Cazadores\u00ae USA",
-        "Abstract": "Cazadores \u00aeTequila is made from 100% Blue Agave and is produced in a seven-step fully sustainable and zero waste production process including a double distillation, double fermentation and a careful maturation process.",
-        "Official Site": "https://www.cazadores.com/us/en/",
-        "Icon": "https://d1oqiickzzpl3c.cloudfront.net/wp-content/uploads/sites/2/2021/08/11082630/cropped-cropped-favicon-1-32x32.png",
-        "Redirect": "https://www.cazadores.com/us/en/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cazadores.com/us/en/"
-    },
-    {
         "link": "https://mdh-ag.de",
         "Heading": "Marktf\u00fchrer f\u00fcr Auslandszahnersatz | MDH-AG.de",
         "Abstract": "Gute Gr\u00fcnde: \u2705 Qualit\u00e4tszahnersatz f\u00fcr preisbewusste PatientInnen \u2705 Erh\u00f6hung der HKP-Umsetzungsquote \u2705 ServicetechnikerIn in Ihrer Praxis \u2705 T\u00dcV-zertifiziert",
@@ -78,6 +68,16 @@
         "Redirect": "https://neuekoloniewest.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://neuekoloniewest.de"
+    },
+    {
+        "link": "https://nl-club.ru",
+        "Heading": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u043e\u0434\u0435\u0436\u0434\u044b \u0434\u043b\u044f \u0441\u0438\u043b\u043e\u0432\u043e\u0433\u043e \u0441\u043f\u043e\u0440\u0442\u0430: \u0431\u043e\u0434\u0438\u0431\u0438\u043b\u0434\u0438\u043d\u0433\u0430, \u043f\u0430\u0443\u044d\u0440\u043b\u0438\u0444\u0442\u0438\u043d\u0433\u0430, \u0444\u0438\u0442\u043d\u0435\u0441\u0430 | No Limits Club",
+        "Abstract": "\u041c\u0443\u0436\u0441\u043a\u0430\u044f \u0438 \u0436\u0435\u043d\u0441\u043a\u0430\u044f \u0441\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u0430\u044f \u043e\u0434\u0435\u0436\u0434\u0430 \u0434\u043b\u044f \u0431\u043e\u0434\u0438\u0431\u0438\u043b\u0434\u0438\u043d\u0433\u0430, \u043f\u0430\u0443\u044d\u0440\u043b\u0438\u0444\u0442\u0438\u043d\u0433\u0430, \u0444\u0438\u0442\u043d\u0435\u0441\u0430 \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u043f\u043e \u0420\u043e\u0441\u0441\u0438\u0438. \u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u0438 \u043f\u043e \u0440\u0430\u0437\u043c\u0435\u0440\u0430\u043c.",
+        "Official Site": "https://nl-club.ru",
+        "Icon": "/favicon-32x32.png?v=74H2WRQ",
+        "Redirect": "https://nl-club.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nl-club.ru"
     },
     {
         "link": "https://woodkorea.co.kr",
@@ -208,6 +208,16 @@
         "Redirect": "https://pugbot.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pugbot.net"
+    },
+    {
+        "link": "https://osaka-wedding.jp",
+        "Heading": "\u30d6\u30d3\u30f3\u30ac | \u30d6\u30d3\u30f3\u30ac\u30d0\u30a4\u30ca\u30ea\u30fc\u306e\u7279\u5fb4\u3068\u8a55\u5224\u30fb\u51fa\u91d1\u62d2\u5426\u306e\u5b9f\u614b",
+        "Abstract": "\u30d6\u30d3\u30f3\u30ac\u30d0\u30a4\u30ca\u30ea\u30fc\u306e\u8a55\u5224\u3084\u672c\u7269\u304b\u3069\u3046\u304b\u3092\u691c\u8a3c\u3002\u30d6\u30d3\u30f3\u30ac\u30d0\u30a4\u30ca\u30ea\u30fc\u306e\u7279\u5fb4\u3084\u51fa\u91d1\u62d2\u5426\u306e\u5b9f\u614b\u3092\u8a73\u3057\u304f\u89e3\u8aac\u3057\u307e\u3059\u3002",
+        "Official Site": "https://osaka-wedding.jp/",
+        "Icon": "https://osaka-wedding.jp/wp-content/uploads/2025/09/cropped-Bubinga-icon-32x32.jpg",
+        "Redirect": "https://osaka-wedding.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://osaka-wedding.jp/"
     },
     {
         "link": "https://biblecenterchurch.com",

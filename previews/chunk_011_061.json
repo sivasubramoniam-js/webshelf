@@ -40,16 +40,6 @@
         "AbstractURL": "https://zhestko.xyz/"
     },
     {
-        "link": "https://gailm.com",
-        "Heading": "Loading...",
-        "Abstract": null,
-        "Official Site": "https://gailm.com",
-        "Icon": "N/A",
-        "Redirect": "https://gailm.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gailm.com"
-    },
-    {
         "link": "https://campusfederal.org",
         "Heading": "You are being redirected...",
         "Abstract": null,
@@ -292,12 +282,12 @@
     {
         "link": "https://rebrit.biz",
         "Heading": "MOROCCO PLACES \u2013 Morocco Travel Advice",
-        "Abstract": null,
-        "Official Site": "https://rebrit.biz",
+        "Abstract": "Morocco Travel Advice",
+        "Official Site": "https://moroccoplaces.com",
         "Icon": "https://moroccoplaces.com/wp-content/uploads/2024/09/cropped-morocco-32x32.png",
-        "Redirect": "https://rebrit.biz",
+        "Redirect": "https://moroccoplaces.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rebrit.biz"
+        "AbstractURL": "https://moroccoplaces.com"
     },
     {
         "link": "https://tgsmanagement.net",

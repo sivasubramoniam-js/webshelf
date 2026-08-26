@@ -308,15 +308,5 @@
         "Redirect": "https://mybidfood.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mybidfood.com.au"
-    },
-    {
-        "link": "https://flatrock.org.nz",
-        "Heading": "Valediction",
-        "Abstract": null,
-        "Official Site": "https://flatrock.org.nz",
-        "Icon": "/static/images/favicon.ico",
-        "Redirect": "https://flatrock.org.nz",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://flatrock.org.nz"
     }
 ]

@@ -110,6 +110,16 @@
         "AbstractURL": "https://doga.no/"
     },
     {
+        "link": "https://bicartel.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bicartel.com",
+        "Icon": "N/A",
+        "Redirect": "https://bicartel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bicartel.com"
+    },
+    {
         "link": "https://seetrol.com",
         "Heading": "Seetrol: Secure On-Premise Remote Access Server Solution",
         "Abstract": "Seetrol offers a cost-effective, one-time license remote access server solution for secure on-premise and closed network environments. Experience high-quality remote control and fast file transfers.",
@@ -128,16 +138,6 @@
         "Redirect": "https://esaweb.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://esaweb.org/"
-    },
-    {
-        "link": "https://sushistore-bor.ru",
-        "Heading": "Up \u0425 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u2714\ufe0f \u0417\u0435\u0440\u043a\u0430\u043b\u043e \u0410\u041f \u0418\u041a\u0421 \u27a4 \u043a\u0430\u0437\u0438\u043d\u043e Up \u0425",
-        "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 UP X \u2705 \u0417\u0435\u0440\u043a\u0430\u043b\u043e \u0441\u0430\u0439\u0442\u0430 UP X. \u0423\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0438\u0433\u0440\u044b \u043d\u0430 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0435\u043d\u044c\u0433\u0438 \u2b50 \u0418\u0433\u0440\u0430\u0439 \u0438 \u0437\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439",
-        "Official Site": "https://sushistore-bor.ru",
-        "Icon": "https://sushistore-bor.ru/wp-content/themes/30033/assets/img/favicon.ico?ver=21",
-        "Redirect": "https://sushistore-bor.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sushistore-bor.ru"
     },
     {
         "link": "https://vloveis.online",
@@ -174,7 +174,7 @@
         "Heading": "sternalia productora de actividades culturales, cient\u00edficas, gastron\u00f3micas, eventos privados en espacios singulares",
         "Abstract": "sternalia empresa organizadora de eventos y actividades culturales, cient\u00edficas y gastron\u00f3micas en Barcelona, Catalu\u00f1a.",
         "Official Site": "https://www.sternalia.com/",
-        "Icon": "https://m.sternalia.com/xtra/imgs/favicon.png?24504270037",
+        "Icon": "https://www.sternalia.com/xtra/imgs/favicon.png?24504258711",
         "Redirect": "https://www.sternalia.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sternalia.com/"
@@ -220,6 +220,16 @@
         "AbstractURL": "https://www.calgarytower.com"
     },
     {
+        "link": "https://carrierclasswifi.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://carrierclasswifi.com",
+        "Icon": "N/A",
+        "Redirect": "https://carrierclasswifi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://carrierclasswifi.com"
+    },
+    {
         "link": "https://balletaz.org",
         "Heading": "Ballet Arizona Homepage | Ballet Arizona",
         "Abstract": "Join us as we inspire, entertain and educate the Arizona community through performances, dedicated events and ballet training.",
@@ -241,10 +251,10 @@
     },
     {
         "link": "https://huitianxiu.com",
-        "Heading": "\u56fd\u4ea7\u5728\u7ebf\u89c2\u770bMV\u514d\u8d39\u5168\u96c6\u7535\u89c6\u5267\u5927\u5168\uff5c\u5343\u6620\u6c47\u5f71\u89c6",
-        "Abstract": "\u5343\u6620\u6c47\u5f71\u89c6\u805a\u5408\u534e\u8bed\u7535\u89c6\u5267\u3001\u7efc\u827a\u4e0e\u9ad8\u6e05MV\uff0c\u652f\u6301\u7247\u5355\u68c0\u7d22\u4e0e\u8be6\u60c5\u5bfc\u822a\uff08\u6f14\u793a\u73af\u5883\uff09\u3002",
+        "Heading": "IIS Windows Server",
+        "Abstract": null,
         "Official Site": "https://huitianxiu.com",
-        "Icon": "/vite.svg",
+        "Icon": "N/A",
         "Redirect": "https://huitianxiu.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://huitianxiu.com"

@@ -361,10 +361,10 @@
     },
     {
         "link": "https://skolnicksreport.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://skolnicksreport.com",
-        "Icon": "N/A",
+        "Icon": "https://storage.googleapis.com/landing_pager_public/favicons/opdf.ico",
         "Redirect": "https://skolnicksreport.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://skolnicksreport.com"

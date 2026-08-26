@@ -111,10 +111,10 @@
     },
     {
         "link": "https://libussr.ru",
-        "Heading": "\u0427\u0438\u0442\u0430\u0442\u044c \u043a\u043d\u0438\u0433\u0438 \u043e\u043d\u043b\u0430\u0439\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u0438 \u0431\u0435\u0437 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u0442\u044c \u0432 FB2, EPUB \u0438 TXT",
-        "Abstract": "\u0427\u0438\u0442\u0430\u0439\u0442\u0435 \u043a\u043d\u0438\u0433\u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u043e\u043d\u043b\u0430\u0439\u043d \u0432 \u043f\u043e\u043b\u043d\u043e\u043c \u043e\u0431\u044a\u0451\u043c\u0435 \u0438\u043b\u0438 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u0439\u0442\u0435 \u0438\u0445 \u0432 \u0443\u0434\u043e\u0431\u043d\u044b\u0445 \u0444\u043e\u0440\u043c\u0430\u0442\u0430\u0445 FB2, TXT \u0438 EPUB. \u0412 \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u044b \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0440\u0430\u0437\u043d\u044b\u0445 \u0436\u0430\u043d\u0440\u043e\u0432, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0435 \u0430\u0432\u0442\u043e\u0440\u044b \u0438 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u043a\u043d\u0438\u0436\u043d\u044b\u0435 \u0441\u0435\u0440\u0438\u0438",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://libussr.ru",
-        "Icon": "https://libussr.ru/favicon.svg",
+        "Icon": "N/A",
         "Redirect": "https://libussr.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://libussr.ru"
@@ -130,14 +130,14 @@
         "AbstractURL": "https://1vrk.ru"
     },
     {
-        "link": "https://92724063.xyz",
-        "Heading": "MediaCloud - Login",
-        "Abstract": null,
-        "Official Site": "https://92724063.xyz",
-        "Icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' stroke='currentColor' viewBox='0 0 24 24'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M3 15a4 4 0 004 4h9a5 5 0 005-5V7a4 4 0 00-4-4H7a4 4 0 00-4 4v8z'%3E%3C/path%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M16 11l-4-4-4 4m4 4v-7'%3E%3C/path%3E%3C/svg%3E",
-        "Redirect": "https://92724063.xyz",
+        "link": "https://vikingpump.com",
+        "Heading": "Viking Pump - Internal & External Gear Positive Displacement Pumps",
+        "Abstract": "Viking Pump is the leading manufacturer of positive displacement pumps. Our industrial internal and external gear pumps, hygienic pumps, and energy pumps provide robust liquid handling.",
+        "Official Site": "https://vikingpump.com",
+        "Icon": "https://www.vikingpump.com/sites/default/files/2025-06/SquareLogo-2_300_300.png",
+        "Redirect": "https://vikingpump.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://92724063.xyz"
+        "AbstractURL": "https://vikingpump.com"
     },
     {
         "link": "https://awanderingsteeper.com",
@@ -210,6 +210,16 @@
         "AbstractURL": "https://www.intellinus.com/"
     },
     {
+        "link": "https://neorhino.com",
+        "Heading": "Houston IT Services | neoRhino IT Solutions",
+        "Abstract": "Established in 1998, neoRhino IT Solutions is a leading provider of IT consulting, strategy, and managed services.",
+        "Official Site": "https://www.neorhino.com/",
+        "Icon": "https://www.neorhino.com/files/2016/06/logo.png",
+        "Redirect": "https://www.neorhino.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.neorhino.com/"
+    },
+    {
         "link": "https://snchart.com",
         "Heading": "SNChart",
         "Abstract": null,
@@ -268,6 +278,16 @@
         "Redirect": "https://voen-pravo.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://voen-pravo.ru"
+    },
+    {
+        "link": "https://videoelektronic.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://videoelektronic.ru",
+        "Icon": "N/A",
+        "Redirect": "https://videoelektronic.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://videoelektronic.ru"
     },
     {
         "link": "https://mmz.eu",

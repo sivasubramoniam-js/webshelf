@@ -160,16 +160,6 @@
         "AbstractURL": "https://allchessopenings.com/"
     },
     {
-        "link": "https://witway.nl",
-        "Heading": "PVC buizen kopen? WitWay | Voor degenen die het gaan maken!",
-        "Abstract": "Bestel hier online uw PVC buizen, tyleen, drainage en kabelbeschemingsbuizen met koppelingen en hulpstukken in verschillende maten voor een vaste lage prijs!",
-        "Official Site": "https://witway.nl",
-        "Icon": "https://witway.nl/media/favicon/stores/1/favicon-default.ico",
-        "Redirect": "https://witway.nl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://witway.nl"
-    },
-    {
         "link": "https://design-3000.de",
         "Heading": "Neue Domain bei webgo GmbH",
         "Abstract": null,
@@ -188,6 +178,16 @@
         "Redirect": "https://www.ashlexhosting.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ashlexhosting.com/"
+    },
+    {
+        "link": "https://arson.gg",
+        "Heading": "Byrd Station",
+        "Abstract": null,
+        "Official Site": "https://arson.gg",
+        "Icon": "N/A",
+        "Redirect": "https://arson.gg",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arson.gg"
     },
     {
         "link": "https://cpsmi.com",
@@ -278,15 +278,5 @@
         "Redirect": "https://thecapitolforum.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thecapitolforum.com/"
-    },
-    {
-        "link": "https://straightou.com",
-        "Heading": "\n      Straightou\n",
-        "Abstract": "Straightou",
-        "Official Site": "https://www.straightou.com/",
-        "Icon": "N/A",
-        "Redirect": "https://www.straightou.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.straightou.com/"
     }
 ]

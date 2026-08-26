@@ -30,6 +30,16 @@
         "AbstractURL": "https://elcalotipo.com/"
     },
     {
+        "link": "https://gnps.org",
+        "Heading": "GNPS",
+        "Abstract": "Promoting stewardship and conservation of Georgia\u2019s native plants and their habitats through education, restoration, propagation, and plant distribution.",
+        "Official Site": "https://gnps.org/",
+        "Icon": "https://gnps.org/wp-content/uploads/2016/11/cropped-gnps_favicon-32x32.png",
+        "Redirect": "https://gnps.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gnps.org/"
+    },
+    {
         "link": "https://rpmcomputers.ca",
         "Heading": "RPM Computers - IT Managed Services | PC Repair Performance Maintenance",
         "Abstract": null,
@@ -98,6 +108,16 @@
         "Redirect": "https://glowfoto.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://glowfoto.com/"
+    },
+    {
+        "link": "https://mamaskazala.ru",
+        "Heading": "\n\u041a\u0440\u0430\u0441\u0438\u0432\u044b\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u043a\u0438 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e | mamaskazala.ru",
+        "Abstract": "\u041a\u0440\u0430\u0441\u0438\u0432\u044b\u0435 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u043a\u0438 \u0438 \u043f\u043e\u0437\u0434\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 \u0432\u0441\u0435 \u0441\u043b\u0443\u0447\u0430\u0438 \u0436\u0438\u0437\u043d\u0438.",
+        "Official Site": "https://mamaskazala.ru/",
+        "Icon": "/assets/favicons/favicon.ico",
+        "Redirect": "https://mamaskazala.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mamaskazala.ru/"
     },
     {
         "link": "https://ukr3story.com",
@@ -201,7 +221,7 @@
     },
     {
         "link": "https://assdrty.com",
-        "Heading": "Loading...",
+        "Heading": "assurity",
         "Abstract": null,
         "Official Site": "https://assdrty.com",
         "Icon": "N/A",

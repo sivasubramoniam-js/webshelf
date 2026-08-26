@@ -51,7 +51,7 @@
     },
     {
         "link": "https://24x7tube.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://24x7tube.com",
         "Icon": "N/A",
@@ -180,16 +180,6 @@
         "AbstractURL": "https://wisinspections.com"
     },
     {
-        "link": "https://librerianovaexpress.com",
-        "Heading": "Papeler\u00eda y Librer\u00eda Nova Express.  Online al mejor precio",
-        "Abstract": "En Nova Express llevamos 30 a\u00f1os a su servicio. En nuestro abanico de productos puedes encontrar libros de lectura, texto, papeler\u00eda..... ",
-        "Official Site": "https://librerianovaexpress.com",
-        "Icon": "https://www.librerianovaexpress.com/es/archivos/92/favicon.png",
-        "Redirect": "https://librerianovaexpress.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://librerianovaexpress.com"
-    },
-    {
         "link": "https://kronosmetis.com",
         "Heading": "*K*R*O*N*O*S*M*E*T*I*S*",
         "Abstract": null,
@@ -271,7 +261,7 @@
     },
     {
         "link": "https://ddanieladvertising.com",
-        "Heading": "Full Service Digital Marketing Marketing Firm, Social Media, Facebook, Google & Home Services Online Advertising Pittsburgh - dDaniel Advertising Agency",
+        "Heading": "Full Service Digital Marketing Firm, Social Media, Pay Per Click, Facebook, Google Ad & Home Services Online Advertising Company Pittsburgh - dDaniel Advertising Agency",
         "Abstract": "dDaniel Advertising Agency is a Full Service Digital Marketing Marketing Firm, Social Media, Facebook, Google & Home Services Online Advertising in Pittsburgh. Our expert team helps businesses grow through targeted, effective marketing. Contact us today to get started!",
         "Official Site": "https://www.ddanieladvertising.com/",
         "Icon": "https://www.ddanieladvertising.com/wp-content/uploads/2020/03/lightbulb-ddaniel.png",
@@ -298,6 +288,16 @@
         "Redirect": "https://legroup.com.vn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://legroup.com.vn"
+    },
+    {
+        "link": "https://portablesoft.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://portablesoft.org",
+        "Icon": "N/A",
+        "Redirect": "https://portablesoft.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://portablesoft.org"
     },
     {
         "link": "https://sutherland-nc.com",
