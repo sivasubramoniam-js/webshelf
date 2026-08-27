@@ -111,13 +111,13 @@
     },
     {
         "link": "https://hra-iran.org",
-        "Heading": "\n\t\tHuman Rights in Iran - Human Right Activists In Iran\t",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.hra-iran.org/",
-        "Icon": "https://www.hra-iran.org/wp-content/uploads/2024/03/cropped-logo-ready-2014-icon-100x100-1-32x32.png",
-        "Redirect": "https://www.hra-iran.org/",
+        "Official Site": "https://hra-iran.org",
+        "Icon": "data:;",
+        "Redirect": "https://hra-iran.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hra-iran.org/"
+        "AbstractURL": "https://hra-iran.org"
     },
     {
         "link": "https://sevenpillarsinstitute.org",
@@ -188,16 +188,6 @@
         "Redirect": "https://gonzo-quest.com/en-gb/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gonzo-quest.com/en-gb/"
-    },
-    {
-        "link": "https://cometogetherkids.com",
-        "Heading": "Come Together Kids",
-        "Abstract": null,
-        "Official Site": "http://www.cometogetherkids.com/",
-        "Icon": "http://dreamlikemagic.com/favicon.ico?",
-        "Redirect": "http://www.cometogetherkids.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://www.cometogetherkids.com/"
     },
     {
         "link": "https://maisonbrico.com",

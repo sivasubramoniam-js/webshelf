@@ -10,6 +10,16 @@
         "AbstractURL": "https://unitybooks.co.nz"
     },
     {
+        "link": "https://eywc2020.eu",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://eywc2020.eu",
+        "Icon": "data:;",
+        "Redirect": "https://eywc2020.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eywc2020.eu"
+    },
+    {
         "link": "https://dubaichambers.com",
         "Heading": "Dubai Chambers | Trade and  Business Hub - Dubai Chambers - Dubai  Chambers",
         "Abstract": "Dubai Chambers is a non-profit public entity that supports Dubai\u2019s vision as a global player by empowering businesses, providing innovative value-added services and access to influential networks.",
@@ -31,13 +41,13 @@
     },
     {
         "link": "https://ozkoreapost.com",
-        "Heading": "Home - Korea Life Australia",
-        "Abstract": "Australia\u2019s Korean Community Hub",
-        "Official Site": "https://korealife.au/",
-        "Icon": "https://korealife.au/wp-content/uploads/2026/05/KOREA-LIFE-Social-Preview-Image.jpg",
-        "Redirect": "https://korealife.au/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ozkoreapost.com",
+        "Icon": "data:;",
+        "Redirect": "https://ozkoreapost.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://korealife.au/"
+        "AbstractURL": "https://ozkoreapost.com"
     },
     {
         "link": "https://stolovkanadom.ru",
@@ -108,6 +118,16 @@
         "Redirect": "https://unblinkingeye.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://unblinkingeye.com"
+    },
+    {
+        "link": "https://bridgebr.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bridgebr.com",
+        "Icon": "data:;",
+        "Redirect": "https://bridgebr.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bridgebr.com"
     },
     {
         "link": "https://caratcraft.ae",
@@ -238,16 +258,6 @@
         "Redirect": "https://middleatlantic.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://middleatlantic.com"
-    },
-    {
-        "link": "https://krillbite.com",
-        "Heading": "Krillbite",
-        "Abstract": "",
-        "Official Site": "https://www.krillbite.com",
-        "Icon": "http://static1.squarespace.com/static/6099240cb69f1335b45032af/t/6099268c65b40529aadc528f/1620649615290/Untitled-1.png?format=1500w",
-        "Redirect": "https://www.krillbite.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.krillbite.com"
     },
     {
         "link": "https://venturaspharma.it",

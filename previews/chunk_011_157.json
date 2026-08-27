@@ -21,17 +21,17 @@
     },
     {
         "link": "https://hucu.ai",
-        "Heading": "Hucu: Patient-Centered, Secure Communication",
-        "Abstract": "Revolutionary patient-centered AI-powered communication for highly efficient, secure communication ACROSS modern, dynamic, and decentralized healthcare teams.",
-        "Official Site": "https://www.hucu.ai/",
-        "Icon": "https://www.hucu.ai/wp-content/uploads/2023/01/HUCU.png",
-        "Redirect": "https://www.hucu.ai/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://hucu.ai",
+        "Icon": "data:;",
+        "Redirect": "https://hucu.ai",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hucu.ai/"
+        "AbstractURL": "https://hucu.ai"
     },
     {
         "link": "https://fasttradedeal.com",
-        "Heading": "\n\t    \u0410\u043a\u043a\u0430\u0443\u043d\u0442 \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\n\t",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://fasttradedeal.com",
         "Icon": "N/A",
@@ -48,16 +48,6 @@
         "Redirect": "https://martherus.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://martherus.com"
-    },
-    {
-        "link": "https://dalbyaccommodation.com",
-        "Heading": "Dalby Accommodation - Best Dalby Hotels",
-        "Abstract": "Find best offers for the best Dalby accommodation, compare our top Dalby hotel deals direct from the provider. Search, book, and save today!",
-        "Official Site": "https://dalbyaccommodation.com/",
-        "Icon": "https://dirdata.b-cdn.net/img/sites/og/ogmd_desktop_171_jceh3367_1904160202.jpg?crop_gravity=center&crop=1200,627",
-        "Redirect": "https://dalbyaccommodation.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dalbyaccommodation.com/"
     },
     {
         "link": "https://sportandapps.com",
@@ -160,6 +150,16 @@
         "AbstractURL": "https://metweld.com.mx"
     },
     {
+        "link": "https://actuanews.fr",
+        "Heading": "ActuaNews.fr \u2013 L'actualit\u00e9 culturelle, partout, pour tous",
+        "Abstract": "L'actualit\u00e9 culturelle, partout, pour tous",
+        "Official Site": "https://actuanews.fr/",
+        "Icon": "https://i0.wp.com/actuanews.fr/wp-content/uploads/2026/05/actuanews-baniere.jpeg?fit=1200%2C500&ssl=1",
+        "Redirect": "https://actuanews.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://actuanews.fr/"
+    },
+    {
         "link": "https://militaryautosource.com",
         "Heading": "New and Used Car Sales for Overseas U.S. Military | Military AutoSource ",
         "Abstract": "Whether you need a vehicle while overseas or when you return home, we\u2019ve got you covered. Developed for you and endorsed by The Exchange, this factory-direct program is not your typical car buying experience. With more than 80 locations worldwide and benefits designed specifically for military members, our only commitment is to serving you. And we\u2019ve been proudly doing it for 60 years.",
@@ -258,5 +258,15 @@
         "Redirect": "https://www.visualizing.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.visualizing.org/"
+    },
+    {
+        "link": "https://hkjdm.com",
+        "Heading": "\u52a0\u8fbe\u660e\u79d1\u6280\u6709\u9650\u516c\u53f8 - \u5168\u7403\u9876\u5c16\u6700\u597d\u7684\u7535\u5b50\u5143\u4ef6\u4f9b\u5e94\u5546\u4e4b\u4e00",
+        "Abstract": "ISO\u8ba4\u8bc1\u4f01\u4e1a\uff0c\u539f\u5382\u539f\u88c5\uff0c365\u5929\u8d28\u4fdd\uff0c7x24\u5c0f\u65f6\u670d\u52a1\uff0c\u6d77\u91cf\u5e93\u5b58\u6781\u901f\u4ea4\u4ed8\uff01\u52a0\u8fbe\u660e\u79d1\u6280\u662f\u5168\u7403\u9876\u5c16\u6700\u597d\u7535\u5b50\u5143\u4ef6\u4f9b\u5e94\u5546\u4e4b\u4e00\u7684\u9ad8\u65b0\u79d1\u6280\u4f01\u4e1a\uff0c\u7ecf\u9500\u5404\u7c7b\u7535\u5b50\u5143\u5668\u4ef6\u3001\u96c6\u6210\u7535\u8defIC\u3001\u5206\u79bb\u5f0f\u534a\u5bfc\u4f53\u3001\u5185\u5b58\u3001\u8fde\u63a5\u5668\u7b49\uff0c\u6ee1\u8db3\u5ba2\u6237\u7684\u7535\u5b50\u5143\u5668\u4ef6\u9700\u6c42\uff0c\u63d0\u4f9b\u7535\u5b50\u5143\u5668\u4ef6\u8d28\u91cf\u63a7\u5236\u670d\u52a1\uff01",
+        "Official Site": "https://hkjdm.com",
+        "Icon": "/favicon.ico?v=1.0.0",
+        "Redirect": "https://hkjdm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hkjdm.com"
     }
 ]

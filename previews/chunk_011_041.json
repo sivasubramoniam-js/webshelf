@@ -181,13 +181,23 @@
     },
     {
         "link": "https://speakerscorner.co.uk",
-        "Heading": "Speakers Corner | Speaker Bureau | Speakers Agency | Speakers Corner",
+        "Heading": "Speaker Bureau | Speakers Agency | Speakers Corner",
         "Abstract": "Speakers Corner is a leading speaker bureau, working with the world's top motivational speakers, after dinner speakers, conference facilitators, keynote speaker.",
         "Official Site": "https://www.speakerscorner.co.uk/",
         "Icon": "https://cdn.speakerscorner.co.uk/convert/files/2021/06/2dc9aa80-d2a5-11eb-8e01-9dee4d4ba29a-SC%20Logo-screengrab.jpg/r%5Bwidth%5D=1280/2dc9aa80-d2a5-11eb-8e01-9dee4d4ba29a-SC%20Logo-screengrab.jpg",
         "Redirect": "https://www.speakerscorner.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.speakerscorner.co.uk/"
+    },
+    {
+        "link": "https://hostnetworld.com",
+        "Heading": "Hostnetworld",
+        "Abstract": null,
+        "Official Site": "https://hostnetworld.com",
+        "Icon": "N/A",
+        "Redirect": "https://hostnetworld.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hostnetworld.com"
     },
     {
         "link": "https://pesches.com",
@@ -222,9 +232,9 @@
     {
         "link": "https://soundfrankcoke.com",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://soundfrankcoke.com",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://soundfrankcoke.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://soundfrankcoke.com"

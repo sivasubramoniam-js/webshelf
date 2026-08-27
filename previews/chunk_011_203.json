@@ -10,16 +10,6 @@
         "AbstractURL": "https://www.murray.com/en-us/"
     },
     {
-        "link": "https://alamo-group.com",
-        "Heading": "Alamo Group - Alamo Group Inc.",
-        "Abstract": "Alamo Group, the parent company ofglobal brands focused in infrastructure maintenance",
-        "Official Site": "https://www.alamo-group.com/",
-        "Icon": "https://www.alamo-group.com/alamo-group.png",
-        "Redirect": "https://www.alamo-group.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.alamo-group.com/"
-    },
-    {
         "link": "https://exclusivetravel.co",
         "Heading": "Exclusive holiday guides to luxury destinations and resorts",
         "Abstract": "Exclusive Travel Group luxury holiday destinations in UK, Caribbean' Europe and the world",
@@ -198,6 +188,16 @@
         "Redirect": "https://kyouma.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kyouma.net"
+    },
+    {
+        "link": "https://simplycashadvance.net",
+        "Heading": "simplycashadvance.net\u00a0-\u00a0simplycashadvance Resources and Information.",
+        "Abstract": "simplycashadvance.net is your first and best source for information about simplycashadvance. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://simplycashadvance.net",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://simplycashadvance.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://simplycashadvance.net"
     },
     {
         "link": "https://indianalandmarks.org",

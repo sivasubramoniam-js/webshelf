@@ -100,6 +100,16 @@
         "AbstractURL": "https://reklamarnd.ru/"
     },
     {
+        "link": "https://picturepoststudio.com",
+        "Heading": "Picture Post Studio \u2014 Premium Post-Production, Mumbai",
+        "Abstract": "Mumbai's premier post-production house. Editing, DI & Color Grading, VFX, CGI, Motion Graphics, Sound Design, and Final Mastering for brands, agencies, and filmmakers.",
+        "Official Site": "https://picturepoststudio.com/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://picturepoststudio.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://picturepoststudio.com/"
+    },
+    {
         "link": "https://itsgame7.com",
         "Heading": "Game 7 - Get the latest sports news, rumors, and analysis on the NBA, NFL, MLB, college football, and more from Game 7.",
         "Abstract": "Get the latest sports news, rumors, and analysis on the NBA, NFL, MLB, college football, and more from Game 7.",
@@ -261,7 +271,7 @@
     },
     {
         "link": "https://lorberg.com",
-        "Heading": "Baumschule Lorberg: Ein Paradies der Natur - Lorberg.com",
+        "Heading": "Willkommen auf unserer Homepage! - Lorberg.com",
         "Abstract": "Willkommen auf unserer Homepage, schauen Sie sich um ",
         "Official Site": "https://www.lorberg.com/de-de",
         "Icon": "/Templates/lorberg-website/favicon.ico",
@@ -274,7 +284,7 @@
         "Heading": "Academic Medical Education",
         "Abstract": "Academic Medical Education - Advancing clinical care and scientific research worldwide",
         "Official Site": "https://www.academicmedicaleducation.com",
-        "Icon": "/favicon.ico",
+        "Icon": "/icon.png?icon.3o49yzlkk0t3l.png",
         "Redirect": "https://www.academicmedicaleducation.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.academicmedicaleducation.com"
@@ -318,5 +328,15 @@
         "Redirect": "https://www.ams-institute.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ams-institute.org/"
+    },
+    {
+        "link": "https://brembalagens.com",
+        "Heading": "BR Embalagens",
+        "Abstract": "A mais completa linha de embalagens, descart\u00e1veis, produtos de limpeza em S\u00e3o Jos\u00e9, Florian\u00f3polis, Palho\u00e7a e Bigua\u00e7u",
+        "Official Site": "https://www.brembalagens.com",
+        "Icon": "https://www.brembalagens.com/wp-content/themes/embalagens/br/og-imagem.png",
+        "Redirect": "https://www.brembalagens.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.brembalagens.com"
     }
 ]

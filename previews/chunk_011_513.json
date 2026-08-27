@@ -20,16 +20,6 @@
         "AbstractURL": "https://thishosting.rocks/"
     },
     {
-        "link": "https://myas.org",
-        "Heading": "Home - Minnesota Youth Athletic Services (MYAS)",
-        "Abstract": "Minnesota Youth Athletic Services, Inc. (MYAS) was organized in 1991 as a 501(c)(3) nonprofit organization dedicated to improving the delivery of youth sports services to young athletes, coaches and parents.",
-        "Official Site": "https://myas.org/",
-        "Icon": "https://myas.org/wp-content/uploads/2025/06/myas-logo-white.png",
-        "Redirect": "https://myas.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://myas.org/"
-    },
-    {
         "link": "https://emojihub.org",
         "Heading": "Emojihub \ud83d\ude00 - All Emojis To Copy And Paste",
         "Abstract": "Home of all emojis to copy and paste for free. Get heart emoji, crying emoji, laughing emoji, thumbs up emoji,... Find out their meanings and more.",
@@ -51,13 +41,13 @@
     },
     {
         "link": "https://bravosalonaz.com",
-        "Heading": "Hair Salon in Scottsdale, AZ | Bravo Salon",
-        "Abstract": "Discover advanced hair color, cuts, extensions, straightening, treatments, and skin services at Bravo Salon in Scottsdale, AZ. Book a consultation.",
-        "Official Site": "https://bravosalonaz.com/",
-        "Icon": "https://bravosalonaz.com/wp-content/uploads/2026/01/Bravo_lightpurple_Logo-transparent.png",
-        "Redirect": "https://bravosalonaz.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bravosalonaz.com",
+        "Icon": "data:;",
+        "Redirect": "https://bravosalonaz.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bravosalonaz.com/"
+        "AbstractURL": "https://bravosalonaz.com"
     },
     {
         "link": "https://hagi-himawari.com",
@@ -170,16 +160,6 @@
         "AbstractURL": "https://murzilka.org"
     },
     {
-        "link": "https://stromectole.com",
-        "Heading": "Buy Stromectol Online | Generic Ivermectin 3mg/6mg USA",
-        "Abstract": "Stromectol (Ivermectin) 2mg, 6mg, or 12mg may be prescribed to treat parasitic infections, including scabies, head lice, and skin conditions like rosacea.",
-        "Official Site": "https://stromectole.com",
-        "Icon": "N/A",
-        "Redirect": "https://stromectole.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stromectole.com"
-    },
-    {
         "link": "https://usabilitypost.com",
         "Heading": "\n      \n        \n          Usability Post \u00b7 Thoughts on design and user experience by Dmitry Fadeyev\n        \n      \n    ",
         "Abstract": null,
@@ -208,16 +188,6 @@
         "Redirect": "https://fin-me.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fin-me.ru"
-    },
-    {
-        "link": "https://flotiliya.com",
-        "Heading": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043a\u043e\u043c\u043b\u0435\u043a\u0441\u0430 \u0424\u043b\u043e\u0442\u0438\u043b\u0438\u044f. \u041a\u0432\u0430\u0440\u0442\u0438\u0440\u044b \u043d\u0430 \u0432\u043e\u0434\u043d\u043e\u043c \u0441\u0442\u0430\u0434\u0438\u043e\u043d\u0435, \u0440\u0435\u0447\u043d\u043e\u0439 \u0432\u043e\u043a\u0437\u0430\u043b.",
-        "Abstract": "\u041f\u0440\u043e\u0434\u0430\u0436\u0430 \u044d\u043b\u0438\u0442\u043d\u044b\u0445 \u043a\u0432\u0430\u0440\u0442\u0438\u0440 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435. \u042d\u043b\u0438\u0442\u043d\u044b\u0435 \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u044b \u0432 \u0421\u0410\u041e, \u0421\u0412\u0410\u041e, \u041d\u043e\u0432\u043e\u0435 \u0422\u0443\u0448\u0438\u043d\u043e \u0416\u041a \u0424\u043b\u043e\u0442\u0438\u043b\u0438\u044f.",
-        "Official Site": "https://flotiliya.com",
-        "Icon": "http://www.flotiliya.com/img/video-bg.jpg",
-        "Redirect": "https://flotiliya.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://flotiliya.com"
     },
     {
         "link": "https://whitelies.com",
@@ -258,6 +228,16 @@
         "Redirect": "https://www.gispen.com:80/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.gispen.com:80/en/"
+    },
+    {
+        "link": "https://stro-mec-tol.com",
+        "Heading": "DropCatch.com",
+        "Abstract": "DropCatch.com helps you secure expiring domain names.",
+        "Official Site": "https://stro-mec-tol.com",
+        "Icon": "assets/fav/share.png",
+        "Redirect": "https://stro-mec-tol.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stro-mec-tol.com"
     },
     {
         "link": "https://digitalroominc.com",

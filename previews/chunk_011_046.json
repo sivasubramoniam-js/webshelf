@@ -230,6 +230,16 @@
         "AbstractURL": "https://www.lacse.fr/"
     },
     {
+        "link": "https://cancentral.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://cancentral.com",
+        "Icon": "data:;",
+        "Redirect": "https://cancentral.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cancentral.com"
+    },
+    {
         "link": "https://india-visa-online.org",
         "Heading": "Apply for Indian e-Visa | Application Form for e-Visa",
         "Abstract": "Easily apply for your Indian eVisa online! Get your India entry visa or visitor visa in minutes. Fast, secure application for single or multi-entry travel.",
@@ -241,13 +251,13 @@
     },
     {
         "link": "https://bdva.eu",
-        "Heading": "Big Data Value Association - Accelerating data-driven innovation in Europe \u2197",
-        "Abstract": "BDVA is an industry-driven research and innovation organisation with a mission to develop an innovation ecosystem that enables the AI and data-driven digital transformation of the economy and society in Europe.",
-        "Official Site": "https://bdva.eu/",
-        "Icon": "https://bdva.eu/wp-content/uploads/2026/05/Logo-BDVA.png",
-        "Redirect": "https://bdva.eu/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bdva.eu",
+        "Icon": "data:;",
+        "Redirect": "https://bdva.eu",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bdva.eu/"
+        "AbstractURL": "https://bdva.eu"
     },
     {
         "link": "https://minitravellers.co.uk",

@@ -80,6 +80,16 @@
         "AbstractURL": "https://dutamode.com"
     },
     {
+        "link": "https://dv-trailers.com",
+        "Heading": "DV TRAILERS",
+        "Abstract": "DV Trailers model selection",
+        "Official Site": "https://www.dv-trailers.com/",
+        "Icon": "http://static1.squarespace.com/static/5b4e5cebfcf7fdd8e643fdab/t/5b61d87c575d1ff837c0802e/1533139069640/DV-ONLY-LOGO---BLACK.gif?format=1500w",
+        "Redirect": "https://www.dv-trailers.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dv-trailers.com/"
+    },
+    {
         "link": "https://dwana.net",
         "Heading": "dwana.net \u2013 \u0645\u0648\u0642\u0639 \u062f\u0648\u0627\u0646\u0627 \u064a\u0639\u0631\u0636 \u0628\u0639\u0636 \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0648\u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0627\u0644\u0635\u062d\u064a\u0629",
         "Abstract": null,
@@ -118,16 +128,6 @@
         "Redirect": "https://dywf.org.sa/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dywf.org.sa/"
-    },
-    {
-        "link": "https://e-autoskola.com",
-        "Heading": "E-auto\u0161kola",
-        "Abstract": "\nJesi li spreman za prvi korak prema voza\u010dkoj dozvoli?\nSve \u0161to ti treba za uspje\u0161no savladavanje prometnih propisa i sigurnosnih pravila nalazi se ovdje! \ud83d\ude97\ud83d\udca1\nPrijavi se svojim korisni\u010dkim podacima koje si dobio u auto\u0161koli i pristupi interaktivnim lekcijama, testovima i materijalima koji \u0107e te voditi do sigurnog i samostalnog upravljanja vozilom.\n\ud83d\udc49 Klikni na \"Prijava\" i zapo\u010dni svoje u\u010denje!\n(Napomena: Prijava je mogu\u0107a samo za kandidate koji su korisni\u010dke podatke dobili u auto\u0161koli.)",
-        "Official Site": "https://e-autoskola.com",
-        "Icon": "https://www.e-autoskola.com/theme/image.php/boost/theme/1774042862/favicon",
-        "Redirect": "https://e-autoskola.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://e-autoskola.com"
     },
     {
         "link": "https://e-camschool.com",
@@ -223,11 +223,11 @@
         "link": "https://e2n806p.com",
         "Heading": null,
         "Abstract": "[Login di\u00e1rio  BB22 e ganhe benef\u00edcios sociais de R$388 ]\nCompartilhe com seus amigos e ganhe R$50.0  instantaneamente. Junte-se a n\u00f3s agora!",
-        "Official Site": "e2n806p.com",
+        "Official Site": "e2n806p.com:2087",
         "Icon": "https://upload-us.f-1-g-h.com/s4/1775476035090/2.png",
-        "Redirect": "e2n806p.com",
+        "Redirect": "e2n806p.com:2087",
         "AbstractSource": "BS4",
-        "AbstractURL": "e2n806p.com"
+        "AbstractURL": "e2n806p.com:2087"
     },
     {
         "link": "https://e2t6p9.com",

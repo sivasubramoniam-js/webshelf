@@ -160,6 +160,16 @@
         "AbstractURL": "https://lms.smkkatolik.sch.id"
     },
     {
+        "link": "https://lms.smkn1puring.sch.id",
+        "Heading": "Home | LMS SMK Negeri 1 Puring",
+        "Abstract": null,
+        "Official Site": "https://lms.smkn1puring.sch.id",
+        "Icon": "https://lms.smkn1puring.sch.id/theme/image.php/classic/theme/1787825644/favicon",
+        "Redirect": "https://lms.smkn1puring.sch.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lms.smkn1puring.sch.id"
+    },
+    {
         "link": "https://lms.thcsnguyenvantroi-binhtrung.edu.vn",
         "Heading": "Tr\u01b0\u1eddng THCS Nguy\u1ec5n V\u0103n Tr\u1ed7i",
         "Abstract": null,
@@ -202,7 +212,7 @@
     {
         "link": "https://loan-idreams.com",
         "Heading": "loan-idreams.com",
-        "Abstract": "Find information, resources and relevant links for loan-idreams.com. This domain may be for sale.",
+        "Abstract": null,
         "Official Site": "https://loan-idreams.com",
         "Icon": "N/A",
         "Redirect": "https://loan-idreams.com",
@@ -258,5 +268,15 @@
         "Redirect": "https://local-government-system.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://local-government-system.com"
+    },
+    {
+        "link": "https://local.tunasharapan.info",
+        "Heading": "Landing Page - SMK Telekomunikasi Tunas Harapan",
+        "Abstract": "Portal Digital SMK Telekomunikasi Tunas Harapan",
+        "Official Site": "https://local.tunasharapan.info",
+        "Icon": "assets/favicon.ico",
+        "Redirect": "https://local.tunasharapan.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://local.tunasharapan.info"
     }
 ]

@@ -81,13 +81,13 @@
     },
     {
         "link": "https://protaxconsulting.com",
-        "Heading": "International Tax Accountants & Advisors | Protax Consulting",
-        "Abstract": "Expert international tax accountants and consultants for individuals. Get trusted tax advice, planning, and accounting services from leading global tax advisors.",
-        "Official Site": "https://protaxconsulting.com/",
-        "Icon": "https://protaxconsulting.com/wp-content/plugins/wpforms/assets/images/submit-spin.svg",
-        "Redirect": "https://protaxconsulting.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://protaxconsulting.com",
+        "Icon": "data:;",
+        "Redirect": "https://protaxconsulting.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://protaxconsulting.com/"
+        "AbstractURL": "https://protaxconsulting.com"
     },
     {
         "link": "https://hostinginiciativa.com",
@@ -110,24 +110,14 @@
         "AbstractURL": "https://www.dekoffiethuiswinkel.nl/"
     },
     {
-        "link": "https://stenutz.eu",
-        "Heading": "\n Welcome \n",
-        "Abstract": null,
-        "Official Site": "https://stenutz.eu",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://stenutz.eu",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stenutz.eu"
-    },
-    {
         "link": "https://resultsroofing.com",
-        "Heading": "Licensed Roofing Construction Company | Results Roofing",
-        "Abstract": "Results Roofing is a licensed roofing construction company serving DFW and Houston. Expert repairs, replacements, and free inspections. Get your free estimate today.",
-        "Official Site": "https://resultsroofing.com/",
-        "Icon": "https://resultsroofing.com/wp-content/uploads/2023/06/Screenshot-2023-05-04-at-8.59.47-PM-1024x490.png",
-        "Redirect": "https://resultsroofing.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://resultsroofing.com",
+        "Icon": "data:;",
+        "Redirect": "https://resultsroofing.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://resultsroofing.com/"
+        "AbstractURL": "https://resultsroofing.com"
     },
     {
         "link": "https://freedomfund.org",
@@ -221,10 +211,10 @@
     },
     {
         "link": "https://cyborus.xyz",
-        "Heading": "Malthusian Drill-you know, by numbers, One, two, three, four,\" and then.",
+        "Heading": "Cyborus",
         "Abstract": null,
         "Official Site": "https://cyborus.xyz",
-        "Icon": "N/A",
+        "Icon": "https://files.cartoon-aa.xyz/cyborus/LogoRoundSmall.png",
         "Redirect": "https://cyborus.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cyborus.xyz"
@@ -300,6 +290,16 @@
         "AbstractURL": "https://byuaccounting.net"
     },
     {
+        "link": "https://dualplus.hu",
+        "Heading": "Home - Security Services",
+        "Abstract": "Professzion\u00e1lis vagyonv\u00e9delmi megold\u00e1sok IP kamerarendszerek, riaszt\u00f3k \u00e9s bel\u00e9ptet\u0151k teljes k\u00f6r\u0171 ki\u00e9p\u00edt\u00e9se, konfigur\u00e1l\u00e1sa \u00e9s karbantart\u00e1sa Lakoss\u00e1gi \u00e1s",
+        "Official Site": "https://www.dualplus.hu/",
+        "Icon": "N/A",
+        "Redirect": "https://www.dualplus.hu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dualplus.hu/"
+    },
+    {
         "link": "https://people-health.cn",
         "Heading": "\u4eba\u6c11\u5065\u5eb7",
         "Abstract": null,
@@ -321,13 +321,13 @@
     },
     {
         "link": "https://twinscience.com",
-        "Heading": "Page not found | Twin Science",
-        "Abstract": null,
-        "Official Site": "https://twinscience.com",
-        "Icon": "/wp-content/uploads/2025/11/cropped-favicon-512x512-1-32x32.png",
-        "Redirect": "https://twinscience.com",
+        "Heading": "Make Your School AI Ready | Twin Science",
+        "Abstract": "AI literacy, combined with the safest tools, empowers your school to build real-world AI skills with confidence.",
+        "Official Site": "https://www.twinscience.com/en/",
+        "Icon": "https://www.twinscience.com/wp-content/uploads/2025/07/cropped-20.png",
+        "Redirect": "https://www.twinscience.com/en/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://twinscience.com"
+        "AbstractURL": "https://www.twinscience.com/en/"
     },
     {
         "link": "https://gtn-pravda.ru",

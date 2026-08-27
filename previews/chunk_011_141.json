@@ -21,20 +21,20 @@
     },
     {
         "link": "https://koreanaztimes.com",
-        "Heading": "\uc544\ub9ac\uc870\ub098 \ud0c0\uc784\uc988 \u2013 \uc544\ub9ac\uc870\ub098 \ud55c\uc778 \ucee4\ubba4\ub2c8\ud2f0. \uc544\ub9ac\uc870\ub098 \ub274\uc2a4 \u00b7 \uc8fc\uac04 \uc138\uc77c \u00b7 \uc5f4\ub9b0 \uc7a5\ud130 \u00b7 \uac8c\uc2dc\ud310 \u00b7 \uc5c5\uc18c\ub85d \u00b7 \uce7c\ub7fc",
-        "Abstract": "\uc544\ub9ac\uc870\ub098 \ud55c\uc778 \ucee4\ubba4\ub2c8\ud2f0. \uc544\ub9ac\uc870\ub098 \ub274\uc2a4 \u00b7 \uc8fc\uac04 \uc138\uc77c \u00b7 \uc5f4\ub9b0 \uc7a5\ud130 \u00b7 \uac8c\uc2dc\ud310 \u00b7 \uc5c5\uc18c\ub85d \u00b7 \uce7c\ub7fc",
-        "Official Site": "https://koreanaztimes.com/",
-        "Icon": "https://koreanaztimes.com/wp-content/uploads/2026/04/kazt-reversed2-1024x413.jpg",
-        "Redirect": "https://koreanaztimes.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://koreanaztimes.com",
+        "Icon": "N/A",
+        "Redirect": "https://koreanaztimes.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://koreanaztimes.com/"
+        "AbstractURL": "https://koreanaztimes.com"
     },
     {
         "link": "https://trueamericanloan.com",
-        "Heading": "ConnectingOffers",
-        "Abstract": null,
+        "Heading": "TrueAmericanLoan",
+        "Abstract": "With TrueAmericanLoan, you can receive funding up to $35,000. We have extensive partnerships with large authorized lenders. This allows us to cover almost all 50 states. If approved, the Loan may be received in as soon as the next business day from the privacy of your own home.",
         "Official Site": "https://trueamericanloan.com",
-        "Icon": "N/A",
+        "Icon": "//trueamericanloan.com/assets/img/OG_image.jpg",
         "Redirect": "https://trueamericanloan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trueamericanloan.com"
@@ -161,13 +161,13 @@
     },
     {
         "link": "https://globalcovidsummit.org",
-        "Heading": "Global COVID Summit | International Health & Medical Conference",
-        "Abstract": "Global COVID Summit brings together medical professionals, researchers, and health experts to discuss public health, COVID-19 research.",
-        "Official Site": "https://globalcovidsummit.org/",
-        "Icon": "https://globalcovidsummit.org/files/.image/mtg5ndexntg2mzm3njc4otq1/gdc-mark-white.svg",
-        "Redirect": "https://globalcovidsummit.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://globalcovidsummit.org",
+        "Icon": "data:;",
+        "Redirect": "https://globalcovidsummit.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://globalcovidsummit.org/"
+        "AbstractURL": "https://globalcovidsummit.org"
     },
     {
         "link": "https://everandever.com",
@@ -198,16 +198,6 @@
         "Redirect": "https://companycloud.network",
         "AbstractSource": "BS4",
         "AbstractURL": "https://companycloud.network"
-    },
-    {
-        "link": "https://prikk.com",
-        "Heading": "\ud83c\udd5f\ud83c\udd61\ud83c\udd58\ud83c\udd5a\ud83c\udd5a",
-        "Abstract": null,
-        "Official Site": "https://prikk.com/",
-        "Icon": "N/A",
-        "Redirect": "https://prikk.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://prikk.com/"
     },
     {
         "link": "https://hidhaday.pro",

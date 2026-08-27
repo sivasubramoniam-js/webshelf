@@ -94,7 +94,7 @@
         "Heading": "Dancing Numbers: QuickBooks Automation Trusted by 50,000+ Users",
         "Abstract": "Bulk import, export & delete QuickBooks data in seconds. Migrate from 50+ platforms. Connect 60+ apps. Trusted by 50,000+ accountants. Official Intuit App. Free trial.",
         "Official Site": "https://www.dancingnumbers.com/",
-        "Icon": "https://cdn-ilecnid.nitrocdn.com/zxHPlxfWAlFMXzaQLKTkHxcwdSOFjLYq/assets/images/optimized/rev-53de56b/www.dancingnumbers.com/wp-content/uploads/2020/11/cropped-dancingnumber-favicon-120x120.png",
+        "Icon": "https://cdn-ilecnid.nitrocdn.com/zxHPlxfWAlFMXzaQLKTkHxcwdSOFjLYq/assets/images/optimized/rev-d1ebb1b/www.dancingnumbers.com/wp-content/uploads/2020/11/cropped-dancingnumber-favicon-120x120.png",
         "Redirect": "https://www.dancingnumbers.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.dancingnumbers.com/"
@@ -201,13 +201,13 @@
     },
     {
         "link": "https://peakradar.com",
-        "Heading": "Home - PeakRadar.com",
-        "Abstract": "PeakRadar.com is the leading online guide for arts and cultural information for the Pikes Peak region of Colorado.",
-        "Official Site": "https://peakradar.com/",
-        "Icon": "https://peakradar.com/wp-content/uploads/sites/peakradar.com/images/2024/02/PR_New_colors-facebook-sharing.png",
-        "Redirect": "https://peakradar.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://peakradar.com",
+        "Icon": "data:;",
+        "Redirect": "https://peakradar.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://peakradar.com/"
+        "AbstractURL": "https://peakradar.com"
     },
     {
         "link": "https://adstrackingdia.com",
@@ -231,13 +231,13 @@
     },
     {
         "link": "https://sigdistribution.co.uk",
-        "Heading": "Home | SIG Distribution",
-        "Abstract": "As one of the leading distributors of specialist building materials, we apply these principles to complete every project with diligence, focusing on the core constructionmarkets: Insulation, Interiors, Construction Accessories and HVAC",
-        "Official Site": "https://sigdistribution.co.uk/",
-        "Icon": "https://sigdistribution.co.uk/wp-content/uploads/2019/11/Placeholder-Banner-SIGD.png",
-        "Redirect": "https://sigdistribution.co.uk/",
+        "Heading": "Insulation, Drywall & Ceiling Systems | SIG Insulation & Dry Lining",
+        "Abstract": "Insulation, drywall, ceilings, fire protection and technical insulation, supported by nationwide availability and project-focused expertise",
+        "Official Site": "https://siginsulationanddrylining.co.uk",
+        "Icon": "https://siginsulationanddrylining.co.uk/media/favicon/default/favicon.jpg",
+        "Redirect": "https://siginsulationanddrylining.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sigdistribution.co.uk/"
+        "AbstractURL": "https://siginsulationanddrylining.co.uk"
     },
     {
         "link": "https://kungur-krai.ru",
@@ -280,6 +280,16 @@
         "AbstractURL": "https://www.hugeDomains.com/domain_profile.cfm?d=CoreWg.com"
     },
     {
+        "link": "https://worldwidedigest.com",
+        "Heading": "Home - Worldwidedigest",
+        "Abstract": "Readers like you help support WWD. When you make a purchase using links on our site, we may\u2026",
+        "Official Site": "https://worldwidedigest.com/",
+        "Icon": "https://worldwidedigest.com/wp-content/uploads/2023/01/cropped-WorldWideDigest-Favicon-32x32.png",
+        "Redirect": "https://worldwidedigest.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://worldwidedigest.com/"
+    },
+    {
         "link": "https://trygoodbuy.com",
         "Heading": "Home",
         "Abstract": "Goodbuy is a game-changing solution for credit unions, accelerating new SMB account openings while growing existing relationships. Its credit union-branded marketplace\u2014online and in-person\u2014offers small businesses unparalleled access to thousands of potential customers. By delivering significant growth in business deposits and non-interest income, Goodbuy positions credit unions as essential for SMB success.",
@@ -288,16 +298,6 @@
         "Redirect": "https://trygoodbuy.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trygoodbuy.com"
-    },
-    {
-        "link": "https://pintureriadelfondo.com",
-        "Heading": "Pinturer\u00eda del Fondo",
-        "Abstract": "La tienda oficial de Pinturer\u00eda Del Fondo",
-        "Official Site": "https://pintureriadelfondo.com",
-        "Icon": "https://www.pintureriadelfondo.com/media/favicon/default/PDF_-iso_-_color.png.png",
-        "Redirect": "https://pintureriadelfondo.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pintureriadelfondo.com"
     },
     {
         "link": "https://petiq.com",

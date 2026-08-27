@@ -130,16 +130,6 @@
         "AbstractURL": "https://able-it.de/"
     },
     {
-        "link": "https://remembersingapore.org",
-        "Heading": "\nRemember Singapore | remember the good old days\u2026",
-        "Abstract": "remember the good old days...",
-        "Official Site": "https://remembersingapore.org/",
-        "Icon": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-        "Redirect": "https://remembersingapore.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://remembersingapore.org/"
-    },
-    {
         "link": "https://transamcreations.com",
         "Heading": "transamcreations.com",
         "Abstract": null,
@@ -191,13 +181,13 @@
     },
     {
         "link": "https://abortionincanada.ca",
-        "Heading": "New Online Casinos Canada 2026| Best New Casino Sites with Free Spins",
-        "Abstract": "Exploring the best new online casinos Canada has to offer in 2026? We test the latest sites, focusing on no-deposit bonuses, free spins, and fair play for Canadian players.",
-        "Official Site": "https://abortionincanada.ca/",
-        "Icon": "https://abortionincanada.ca/wp-content/uploads/2025/12/image2.jpg",
-        "Redirect": "https://abortionincanada.ca/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://abortionincanada.ca",
+        "Icon": "data:;",
+        "Redirect": "https://abortionincanada.ca",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://abortionincanada.ca/"
+        "AbstractURL": "https://abortionincanada.ca"
     },
     {
         "link": "https://lickelevator.com",
@@ -218,16 +208,6 @@
         "Redirect": "https://www.prospega.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.prospega.de/"
-    },
-    {
-        "link": "https://sushi-hungryeye.be",
-        "Heading": "SUSHI HUNGRY EYE \u2013 Sushi, wok, grill en meer in Leuven voor afhaal en bezorging",
-        "Abstract": null,
-        "Official Site": "https://sushi-hungryeye.be",
-        "Icon": "https://www.sushi-hungryeye.be/wp-content/uploads/2021/05/cropped-logo-hungry-eye-32x32.png",
-        "Redirect": "https://sushi-hungryeye.be",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sushi-hungryeye.be"
     },
     {
         "link": "https://hmgb1.net",
@@ -308,5 +288,15 @@
         "Redirect": "https://mybidfood.com.au",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mybidfood.com.au"
+    },
+    {
+        "link": "https://flatrock.org.nz",
+        "Heading": "Valediction",
+        "Abstract": null,
+        "Official Site": "https://flatrock.org.nz",
+        "Icon": "/static/images/favicon.ico",
+        "Redirect": "https://flatrock.org.nz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://flatrock.org.nz"
     }
 ]

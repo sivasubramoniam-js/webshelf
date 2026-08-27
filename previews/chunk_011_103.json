@@ -161,13 +161,13 @@
     },
     {
         "link": "https://chaptershealth.org",
-        "Heading": "Home - Chapters Health",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.chaptershealth.org/",
-        "Icon": "https://www.chaptershealth.org/wp-content/uploads/2025/10/support.jpg",
-        "Redirect": "https://www.chaptershealth.org/",
+        "Official Site": "https://chaptershealth.org",
+        "Icon": "data:;",
+        "Redirect": "https://chaptershealth.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.chaptershealth.org/"
+        "AbstractURL": "https://chaptershealth.org"
     },
     {
         "link": "https://budu5-o.ru",
@@ -341,12 +341,12 @@
     },
     {
         "link": "https://goodid.net",
-        "Heading": "GoodID | Az \u00faj gener\u00e1ci\u00f3s \u00fcgyf\u00e9l-azonos\u00edt\u00e1s",
-        "Abstract": "A GoodID az ID&Trust \u00fajgener\u00e1ci\u00f3s \u00fcgyf\u00e9l-azonos\u00edt\u00e1si \u00e9s -hiteles\u00edt\u00e9si megold\u00e1sa.",
-        "Official Site": "http://https%3A%2F%2Fgoodid.net%2Fhu%2F",
-        "Icon": "https://goodid.net/wp-content/uploads/GoodID-mainpage-ogimage.jpg",
-        "Redirect": "http://https%3A%2F%2Fgoodid.net%2Fhu%2F",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://goodid.net",
+        "Icon": "data:;",
+        "Redirect": "https://goodid.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://https%3A%2F%2Fgoodid.net%2Fhu%2F"
+        "AbstractURL": "https://goodid.net"
     }
 ]

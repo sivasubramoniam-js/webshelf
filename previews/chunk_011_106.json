@@ -74,7 +74,7 @@
         "Heading": "Accueil IUT S\u00e9nart Fontainebleau \u2014 IUT S\u00e9nart-Fontainebleau",
         "Abstract": "",
         "Official Site": "https://www.iutsf.u-pec.fr/accueil-iut-senart-fontainebleau",
-        "Icon": "https://www.iutsf.u-pec.fr/uas/j-senart/LOGO/2017_11_27_Logotype-IUT-Senart-Fontainebleau_rvb.svg?t=1787712452330",
+        "Icon": "https://www.iutsf.u-pec.fr/uas/j-senart/LOGO/2017_11_27_Logotype-IUT-Senart-Fontainebleau_rvb.svg?t=1787820298031",
         "Redirect": "https://www.iutsf.u-pec.fr/accueil-iut-senart-fontainebleau",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.iutsf.u-pec.fr/accueil-iut-senart-fontainebleau"
@@ -190,16 +190,6 @@
         "AbstractURL": "https://www.hollywoodmirrors.co.uk/"
     },
     {
-        "link": "https://signalenleefomgeving.nl",
-        "Heading": "Signalen Leefomgeving | Signalen Leefomgeving en Gezondheid",
-        "Abstract": null,
-        "Official Site": "https://signalenleefomgeving.nl",
-        "Icon": "/themes/custom/sdv_theme/favicon.ico",
-        "Redirect": "https://signalenleefomgeving.nl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://signalenleefomgeving.nl"
-    },
-    {
         "link": "https://bocarecoverycenter.com",
         "Heading": "Boca Recovery Center | Drug Rehab Centers Near You | Insurance Accepted",
         "Abstract": "Evidence-based drug & alcohol rehab. Boca Recovery Centers provides detox & residential addiction treatment in FL, MA, NJ, & IN with 24/7 admissions. Insurance accepted.",
@@ -211,13 +201,13 @@
     },
     {
         "link": "https://shurtape.com",
-        "Heading": "Tape Solutions To Get The Job Done Right | Shurtape Industrial",
-        "Abstract": "Pressure-sensitive tapes engineered for the trades since 1955. HVAC, construction, packaging and paint solutions built for professionals who take pride in every job.",
-        "Official Site": "https://www.shurtape.com/",
-        "Icon": "https://www.shurtape.com/wp-content/uploads/2026/03/Shurtape-Industrial-logo-full-color.svg",
-        "Redirect": "https://www.shurtape.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://shurtape.com",
+        "Icon": "data:;",
+        "Redirect": "https://shurtape.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.shurtape.com/"
+        "AbstractURL": "https://shurtape.com"
     },
     {
         "link": "https://megha.in",

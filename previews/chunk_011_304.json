@@ -81,10 +81,10 @@
     },
     {
         "link": "https://erasmusplusfriends.eu",
-        "Heading": "Friends",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://erasmusplusfriends.eu",
-        "Icon": "https://erasmusplusfriends.eu/wp-content/uploads/2019/05/cropped-logo-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://erasmusplusfriends.eu",
         "AbstractSource": "BS4",
         "AbstractURL": "https://erasmusplusfriends.eu"
@@ -174,7 +174,7 @@
         "Heading": "ERICTOTO : Link Alternatif Bandar Slot dan Toto Si Paling Gacor",
         "Abstract": "ERICTOTO adalah situs slot terpercaya, bandar toto slot, demo slot pg, slot demo, slot online, dan togel 4d",
         "Official Site": "https://erictotolink30.lat/",
-        "Icon": "/assets/img/bfn/favicon.png?v=jmnr34m3ag6hexubf6ai",
+        "Icon": "/assets/img/bfn/favicon.png?v=zvhio6ri1mnmwj1qhnuz",
         "Redirect": "https://erictotolink30.lat/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://erictotolink30.lat/"
@@ -298,6 +298,16 @@
         "Redirect": "https://escolegisrr.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://escolegisrr.com.br"
+    },
+    {
+        "link": "https://escuelacontrolmas.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://escuelacontrolmas.com",
+        "Icon": "data:;",
+        "Redirect": "https://escuelacontrolmas.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://escuelacontrolmas.com"
     },
     {
         "link": "https://esidef.org.tr",

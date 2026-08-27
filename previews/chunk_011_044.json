@@ -31,13 +31,13 @@
     },
     {
         "link": "https://thecircular.org",
-        "Heading": "The Circular \u2013 The News Site of Journalism & Online Media Production students in Griffith College Dublin",
-        "Abstract": "The News Site of Journalism & Online Media Production students in Griffith College Dublin",
-        "Official Site": "https://thecircular.org/",
-        "Icon": "https://thecircular.org/wp-content/uploads/2021/11/cropped-Screenshot-2021-11-15-at-11.11.32.png",
-        "Redirect": "https://thecircular.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://thecircular.org",
+        "Icon": "data:;",
+        "Redirect": "https://thecircular.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thecircular.org/"
+        "AbstractURL": "https://thecircular.org"
     },
     {
         "link": "https://innoveo.com",
@@ -61,10 +61,10 @@
     },
     {
         "link": "https://tekkaleyapi.com",
-        "Heading": "Tek Kale Yap\u0131 \u2013 Enerji Kimlik Belgesi",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://tekkaleyapi.com",
-        "Icon": "https://tekkaleyapi.com/wp-content/uploads/2025/08/tekkale-favicon-150x150.png",
+        "Icon": "data:;",
         "Redirect": "https://tekkaleyapi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tekkaleyapi.com"
@@ -108,16 +108,6 @@
         "Redirect": "https://doga.no/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://doga.no/"
-    },
-    {
-        "link": "https://bicartel.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://bicartel.com",
-        "Icon": "N/A",
-        "Redirect": "https://bicartel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bicartel.com"
     },
     {
         "link": "https://seetrol.com",
@@ -251,20 +241,20 @@
     },
     {
         "link": "https://huitianxiu.com",
-        "Heading": "IIS Windows Server",
-        "Abstract": null,
-        "Official Site": "https://huitianxiu.com",
-        "Icon": "N/A",
-        "Redirect": "https://huitianxiu.com",
+        "Heading": "\u514d\u8d39\u89c2\u770b\u5728\u7ebf\u89c2\u770b\u9ad8\u6e05\u7535\u89c6\u5267\uff1a\u6d77\u91cf\u6b63\u7248\u5267\u96c6\u8d44\u6e90\uff0c\u6db5\u76d6\u56fd\u5185\u5916\u6700\u65b0\u70ed\u64ad\u4e0e\u7ecf\u5178\u8001\u5267",
+        "Abstract": "\u9ad8\u6e05\u5267\u770b\u4e13\u6ce8\u514d\u8d39\u89c2\u770b\u5728\u7ebf\u89c2\u770b\u9ad8\u6e05\u7535\u89c6\u5267\uff0c\u7cbe\u9009\u70ed\u64ad\u7535\u89c6\u5267\u3001\u53e3\u7891\u8fde\u8f7d\u4e0e\u7ecf\u5178\u597d\u5267\uff0c\u9ad8\u6e05\u6b63\u7247\u4e00\u952e\u70b9\u64ad\u3002\u652f\u6301\u624b\u673a\u7535\u8111\u6d41\u7545\u8fde\u64ad\uff0c\u5267\u5e93\u65e5\u66f4\u3001\u6253\u5f00\u5373\u770b\uff0c\u9ad8\u6e05\u7535\u89c6\u5267\u514d\u8d39\u770b\uff0c\u70ed\u64ad\u5267\u96c6\u968f\u5fc3\u8ffd\u3002",
+        "Official Site": "https://www.example.com/",
+        "Icon": "https://www.example.com/13.jpg",
+        "Redirect": "https://www.example.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://huitianxiu.com"
+        "AbstractURL": "https://www.example.com/"
     },
     {
         "link": "https://blacksheepbrewery.com",
-        "Heading": "\n      BlacksheepBrewery\n",
-        "Abstract": "BlacksheepBrewery",
+        "Heading": "\n      Black Sheep Brewery | Award-Winning Yorkshire Beer\n",
+        "Abstract": "Black Sheep Brewery - independent Yorkshire brewery in Masham since 1992. Shop award-winning beers online, book brewery tours and visit our bar & kitchen.",
         "Official Site": "https://www.blacksheepbrewery.com/",
-        "Icon": "http://www.blacksheepbrewery.com/cdn/shop/files/Logo.png?height=628&pad_color=ffffff&v=1759930063&width=1200",
+        "Icon": "http://www.blacksheepbrewery.com/cdn/shop/files/black-sheep-social-share.jpg?v=1787740627",
         "Redirect": "https://www.blacksheepbrewery.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.blacksheepbrewery.com/"

@@ -251,23 +251,13 @@
     },
     {
         "link": "https://buddhabar.com",
-        "Heading": "Buddha-Bar",
-        "Abstract": "Depuis sa cr\u00e9ation en 1996, le Buddha-Bar s\u2019inscrit comme pr\u00e9curseur d\u2019un v\u00e9ritable concept d\u2019Art de vivre, aux influences convergentes du mouvement Pacific Rim.N\u00e9 de l\u2019imagination visionnaire de son fondateur Raymond Visan, alors propri\u00e9taire \u00e0 Paris du c\u00e9l\u00e8bre Barfly et en perp\u00e9tuelle recherche de nouveaut\u00e9s \u00e0 travers ses nombreux voyages notamment en Californie, ce restaurant-bar-lounge du tr\u00e8s chic Faubourg St Honor\u00e9, devient rapidement un \u00ab incontournable \u00bb des nuits parisiennes.",
-        "Official Site": "https://www.buddhabar.com/",
-        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
-        "Redirect": "https://www.buddhabar.com/",
+        "Heading": "403 Forbidden",
+        "Abstract": null,
+        "Official Site": "https://buddhabar.com",
+        "Icon": "N/A",
+        "Redirect": "https://buddhabar.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.buddhabar.com/"
-    },
-    {
-        "link": "https://vc-systems.ru",
-        "Heading": "\n\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0446\u0438\u0438 \u0438 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u043e\u0437\u0434\u0443\u0445\u0430 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 - \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \"\u0421\u0412\u0418\u041a\".\n",
-        "Abstract": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0446\u0438\u0438 \u0438 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0434\u043b\u044f \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u043e\u0433\u043e \u043e\u0445\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u044f \u0438 \u0441\u0432\u0435\u0436\u0435\u0441\u0442\u0438 \u0432\u043e\u0437\u0434\u0443\u0445\u0430",
-        "Official Site": "https://vc-systems.ru",
-        "Icon": "/favicon.png",
-        "Redirect": "https://vc-systems.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vc-systems.ru"
+        "AbstractURL": "https://buddhabar.com"
     },
     {
         "link": "https://bibliotheque-institutdefrance.fr",
@@ -321,7 +311,7 @@
     },
     {
         "link": "https://o-nas.info",
-        "Heading": "KillBot user verification [64.236.169.135] [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0]...",
+        "Heading": "KillBot user verification [52.188.87.2] [Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36]...",
         "Abstract": null,
         "Official Site": "https://o-nas.info",
         "Icon": "N/A",
@@ -348,6 +338,16 @@
         "Redirect": "https://actionstation.org.nz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://actionstation.org.nz/"
+    },
+    {
+        "link": "https://fonselp.org",
+        "Heading": "FONSELP | Driving Social Impact Projects",
+        "Abstract": "Platform connecting businesses with social organizations to generate positive impact in Ibero-America. Strategic alliances, corporate volunteering and social purchasing.",
+        "Official Site": "https://fonselp.org/en",
+        "Icon": "https://fonselp.org/og-image.png",
+        "Redirect": "https://fonselp.org/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fonselp.org/en"
     },
     {
         "link": "https://privasee.io",

@@ -100,16 +100,6 @@
         "AbstractURL": "https://www.wesleyseminary.edu/"
     },
     {
-        "link": "https://safetynetweb.com",
-        "Heading": "SafetyNet",
-        "Abstract": null,
-        "Official Site": "https://safetynetweb.com",
-        "Icon": "https://safetynetweb.com/wp-content/uploads/2023/06/havasupai-falls-reservations-1024x683.jpg",
-        "Redirect": "https://safetynetweb.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://safetynetweb.com"
-    },
-    {
         "link": "https://rsssfbrasil.com",
         "Heading": "RSSSF Brasil",
         "Abstract": "Bra\u00e7o da Rec.Sport.Soccer Statistics Foundation, este site re\u00fane estat\u00edsticas e resultados hist\u00f3ricos de todos os campeonatos do futebol brasileiro.",
@@ -171,13 +161,13 @@
     },
     {
         "link": "https://odetterestaurant.com",
-        "Heading": "Odette Restaurant",
-        "Abstract": "Housed in the National Gallery Singapore, Odette is a timeless fine dining destination helmed by Chef Julien Royer and inspired by his grandmother, Odette.",
-        "Official Site": "https://odetterestaurant.com/",
-        "Icon": "https://odetterestaurant.com/wp-content/uploads/2026/07/RECEPTION-150-scaled.jpg",
-        "Redirect": "https://odetterestaurant.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://odetterestaurant.com",
+        "Icon": "data:;",
+        "Redirect": "https://odetterestaurant.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://odetterestaurant.com/"
+        "AbstractURL": "https://odetterestaurant.com"
     },
     {
         "link": "https://ukpublicspending.co.uk",
@@ -248,16 +238,6 @@
         "Redirect": "https://cetking.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cetking.com"
-    },
-    {
-        "link": "https://sahof.org.au",
-        "Heading": "Sport Australia Hall of Fame - Sport Australia Hall of Fame recognises and promotes the outstanding sporting achievements of our greatest athletes",
-        "Abstract": null,
-        "Official Site": "https://sahof.org.au/",
-        "Icon": "https://i0.wp.com/sahof.org.au/wp-content/uploads/2020/07/SAHOF_Horizontal_Gold_RGB.png?fit=2048%2C990&ssl=1",
-        "Redirect": "https://sahof.org.au/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sahof.org.au/"
     },
     {
         "link": "https://psych-k.com",
