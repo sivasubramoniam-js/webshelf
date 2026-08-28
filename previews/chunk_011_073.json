@@ -84,7 +84,7 @@
         "Heading": "\n    \n    ACLER Australia | Womens Ready To Wear Fashion | Designed in Australia\n    \n    \n  ",
         "Abstract": "Acler designers Kathryn Forth and Julia Ritorto create meticulously designed high quality fashion with refined minimalism for modern women. Shop online now.",
         "Official Site": "https://shopacler.com/",
-        "Icon": "http://shopacler.com/cdn/shop/files/Acler_Logo_1200_x_628_8c7b600a-6d4f-4200-90d8-a3528e925812.jpg?v=1787123450",
+        "Icon": "http://cdn.shopify.com/s/files/1/0748/2477/files/Acler_Logo_1200_x_628_8c7b600a-6d4f-4200-90d8-a3528e925812.jpg?v=1787123450",
         "Redirect": "https://shopacler.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shopacler.com/"
@@ -258,6 +258,16 @@
         "Redirect": "https://airvartv.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://airvartv.com"
+    },
+    {
+        "link": "https://bigskyagri.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bigskyagri.com",
+        "Icon": "N/A",
+        "Redirect": "https://bigskyagri.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bigskyagri.com"
     },
     {
         "link": "https://dentalchoiceofmelbourne.com",

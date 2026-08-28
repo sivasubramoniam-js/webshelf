@@ -240,16 +240,6 @@
         "AbstractURL": "https://flatlinevanco.com/"
     },
     {
-        "link": "https://lapena.org",
-        "Heading": "La Pe\u00f1a Cultural Center - Welcome to La Pe\u00f1a! Promoting social justice & intercultural understanding through the arts since 1975.",
-        "Abstract": "Welcome to La Pe\u00f1a! Promoting social justice & intercultural understanding through the arts since 1975.",
-        "Official Site": "https://lapena.org/",
-        "Icon": "https://lapena.org/wp-content/themes/lapena/images/favicon.ico",
-        "Redirect": "https://lapena.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lapena.org/"
-    },
-    {
         "link": "https://iserv-lknom.de",
         "Heading": "\n                    IServ - iserv-lknom.de\n            ",
         "Abstract": null,
@@ -263,11 +253,11 @@
         "link": "https://azfun.info",
         "Heading": "AZFUN | \u0e25\u0e38\u0e22\u0e40\u0e25\u0e22\u0e2a\u0e25\u0e47\u0e2d\u0e15\u0e40\u0e27\u0e47\u0e1a\u0e15\u0e23\u0e07 \u0e1d\u0e32\u0e01\u0e16\u0e2d\u0e19\u0e23\u0e27\u0e14\u0e40\u0e23\u0e47\u0e27 \u0e23\u0e30\u0e1a\u0e1a\u0e40\u0e2a\u0e16\u0e35\u0e22\u0e23 \u0e16\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e2d\u0e31\u0e49\u0e19",
         "Abstract": "AZFUN \u0e25\u0e38\u0e22\u0e40\u0e25\u0e22\u0e2a\u0e25\u0e47\u0e2d\u0e15\u0e40\u0e27\u0e47\u0e1a\u0e15\u0e23\u0e07 \u0e1d\u0e32\u0e01\u0e16\u0e2d\u0e19\u0e23\u0e27\u0e14\u0e40\u0e23\u0e47\u0e27 \u0e23\u0e30\u0e1a\u0e1a\u0e40\u0e2a\u0e16\u0e35\u0e22\u0e23 \u0e44\u0e23\u0e49\u0e1b\u0e31\u0e0d\u0e2b\u0e32 \u0e16\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e2d\u0e31\u0e49\u0e19 \u0e04\u0e48\u0e32 RTP \u0e2a\u0e39\u0e07 \u0e04\u0e38\u0e49\u0e21\u0e04\u0e48\u0e32\u0e41\u0e01\u0e48\u0e01\u0e32\u0e23\u0e25\u0e07\u0e17\u0e38\u0e19 \u0e44\u0e21\u0e48\u0e1c\u0e48\u0e32\u0e19\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e21\u0e49\u0e32 \u0e40\u0e25\u0e48\u0e19\u0e44\u0e14\u0e49\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e2a\u0e1a\u0e32\u0e22\u0e43\u0e08",
-        "Official Site": "http://azfun.info/",
-        "Icon": "http://azfun.info/wp-content/uploads/2026/08/imgi_1_5e798811-6551-11f1-85ba-a2ea4cb603ef.webp",
-        "Redirect": "http://azfun.info/",
+        "Official Site": "https://azfun.info/",
+        "Icon": "https://azfun.info/wp-content/uploads/2026/08/imgi_1_5e798811-6551-11f1-85ba-a2ea4cb603ef.webp",
+        "Redirect": "https://azfun.info/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://azfun.info/"
+        "AbstractURL": "https://azfun.info/"
     },
     {
         "link": "https://poposoapsolar.com",
@@ -303,11 +293,11 @@
         "link": "https://makingitlovely.com",
         "Heading": "Making it Lovely - A design blog about living a stylish life and transforming the so-so.",
         "Abstract": "A design blog about living a stylish life and transforming the so-so.",
-        "Official Site": "https://makingitlovely.com/",
+        "Official Site": "http://makingitlovely.com/",
         "Icon": "https://makingitlovely.com/wp-content/uploads/2022/08/NicoleBalch_ColorFactory_RedPink_2100-810x370.jpg",
-        "Redirect": "https://makingitlovely.com/",
+        "Redirect": "http://makingitlovely.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://makingitlovely.com/"
+        "AbstractURL": "http://makingitlovely.com/"
     },
     {
         "link": "https://gatiksoft.com",
@@ -328,6 +318,16 @@
         "Redirect": "https://rulebricks.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rulebricks.com/"
+    },
+    {
+        "link": "https://atsjats.org",
+        "Heading": "Adventist Theological Society | Home",
+        "Abstract": "",
+        "Official Site": "/",
+        "Icon": "/assets/components/phpthumbof/cache/aaron-burden-c333d6YEhi0-unsplash.9f6584a8acaa327e2349ce580fd36750.jpg",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
     },
     {
         "link": "https://sigmaprime.io",

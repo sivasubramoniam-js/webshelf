@@ -70,16 +70,6 @@
         "AbstractURL": "https://turkiyepolisemeklileri.org.tr"
     },
     {
-        "link": "https://gehvegberlin.de",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://gehvegberlin.de",
-        "Icon": "data:;",
-        "Redirect": "https://gehvegberlin.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gehvegberlin.de"
-    },
-    {
         "link": "https://themikephillipsforum.com",
         "Heading": "Home | The Mike Phillips Forum",
         "Abstract": null,
@@ -113,11 +103,11 @@
         "link": "https://mix941kmxj.com",
         "Heading": "Mix 94.1 KMXJ \u2013 Amarillo's Best Variety Mix 94.1 \u2013 Amarillo Pop Radio",
         "Abstract": "Mix 94.1 KMXJ radio, a Townsquare Media station, plays the best variety of music in Amarillo, Texas.",
-        "Official Site": "mix941kmxj.com",
+        "Official Site": "https://mix941kmxj.com/",
         "Icon": "//townsquare.media/site/158/files/2018/08/Mix_128-carbon.png?w=300&q=75&format=natural",
-        "Redirect": "mix941kmxj.com",
+        "Redirect": "https://mix941kmxj.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "mix941kmxj.com"
+        "AbstractURL": "https://mix941kmxj.com/"
     },
     {
         "link": "https://techtreegames.com",
@@ -171,7 +161,7 @@
     },
     {
         "link": "https://ledsshop.ru",
-        "Heading": "52.188.87.2 27.08.2026 10:56:39",
+        "Heading": "172.182.226.210 28.08.2026 12:39:05",
         "Abstract": null,
         "Official Site": "https://ledsshop.ru",
         "Icon": "data:,",

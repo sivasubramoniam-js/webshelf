@@ -40,6 +40,16 @@
         "AbstractURL": "https://sumselpasti.com/"
     },
     {
+        "link": "https://bizwireexpress.com",
+        "Heading": "BizWire Express",
+        "Abstract": "BizWire Express - Bringing you the latest news as it happens from all over the world.",
+        "Official Site": "https://bizwireexpress.com",
+        "Icon": "N/A",
+        "Redirect": "https://bizwireexpress.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bizwireexpress.com"
+    },
+    {
         "link": "https://ehostsolucoes.com.br",
         "Heading": "BR R\u00e1dios | Site de R\u00e1dio e Streaming HD Profissional",
         "Abstract": "Crie sua web r\u00e1dio online profissional. Streaming HD, site administr\u00e1vel, aplicativo Android e iOS. +1200 r\u00e1dios ativas no Brasil.",
@@ -161,13 +171,13 @@
     },
     {
         "link": "https://citizenshipbyinvestment.ch",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://citizenshipbyinvestment.ch",
-        "Icon": "data:;",
-        "Redirect": "https://citizenshipbyinvestment.ch",
+        "Heading": "Online Casino Schweiz 2025 \u2013 Beste Anbieter im Vergleich",
+        "Abstract": "Entdecken Sie die besten Online Casinos Schweiz: schnelle Auszahlungen & Top-Boni. Jetzt vergleichen & mit Echtgeld gewinnen!",
+        "Official Site": "https://citizenshipbyinvestment.ch/ch/",
+        "Icon": "https://citizenshipbyinvestment.ch/wp-content/uploads/2025/06/spinmama-online-casino-schweiz.png",
+        "Redirect": "https://citizenshipbyinvestment.ch/ch/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://citizenshipbyinvestment.ch"
+        "AbstractURL": "https://citizenshipbyinvestment.ch/ch/"
     },
     {
         "link": "https://ugedafita.com",
@@ -264,7 +274,7 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://vivalasvegas.net",
-        "Icon": "data:;",
+        "Icon": "N/A",
         "Redirect": "https://vivalasvegas.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vivalasvegas.net"

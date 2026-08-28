@@ -51,10 +51,10 @@
     },
     {
         "link": "https://kstorun.kupbilety.pl",
-        "Heading": "KS Toru\u0144",
-        "Abstract": "Klub Sportowy Toru\u0144 S.A. ",
+        "Heading": "Limit osi\u0105gni\u0119ty",
+        "Abstract": null,
         "Official Site": "https://kstorun.kupbilety.pl",
-        "Icon": "/p/favicon.png",
+        "Icon": "N/A",
         "Redirect": "https://kstorun.kupbilety.pl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kstorun.kupbilety.pl"
@@ -158,6 +158,16 @@
         "Redirect": "https://kuda-perak.vip",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kuda-perak.vip"
+    },
+    {
+        "link": "https://kudgayamharjo.org",
+        "Heading": "MITHRM - Sign In",
+        "Abstract": null,
+        "Official Site": "https://kudgayamharjo.org",
+        "Icon": "https://mitsuite.sgp1.digitaloceanspaces.com/uploads/2026/06/30/brand-settings/1782787728-6a432e9088e71.png",
+        "Redirect": "https://kudgayamharjo.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kudgayamharjo.org"
     },
     {
         "link": "https://kuhnke-immobilien-mv.com",

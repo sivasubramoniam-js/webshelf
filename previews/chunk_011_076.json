@@ -51,13 +51,13 @@
     },
     {
         "link": "https://bankersinsurance.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://bankersinsurance.com",
-        "Icon": "data:;",
-        "Redirect": "https://bankersinsurance.com",
+        "Heading": "Bankers Insurance Group | Regional Specialty Carrier",
+        "Abstract": "Bankers Insurance Group is a P&C insurance carrier in Saint Petersburg, FL. Contact us for a FREE QUOTE for all your commercial, builders risk, and flood insurance needs.",
+        "Official Site": "https://bankersinsurance.com/",
+        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
+        "Redirect": "https://bankersinsurance.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bankersinsurance.com"
+        "AbstractURL": "https://bankersinsurance.com/"
     },
     {
         "link": "https://sbirme.org",
@@ -68,6 +68,16 @@
         "Redirect": "https://sbirme.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sbirme.org/"
+    },
+    {
+        "link": "https://kiadesivo.com.br",
+        "Heading": "Welcome to nginx!",
+        "Abstract": null,
+        "Official Site": "https://kiadesivo.com.br",
+        "Icon": "N/A",
+        "Redirect": "https://kiadesivo.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kiadesivo.com.br"
     },
     {
         "link": "https://zcorp.com",
@@ -208,16 +218,6 @@
         "Redirect": "https://emreinsaat.com.tr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://emreinsaat.com.tr"
-    },
-    {
-        "link": "https://thesevenhotels.com",
-        "Heading": "The Seven Hotel",
-        "Abstract": null,
-        "Official Site": "https://thesevenhotels.com",
-        "Icon": "https://thesevenhotels.com/wp-content/uploads/2021/03/cropped-fav-32x32.png",
-        "Redirect": "https://thesevenhotels.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thesevenhotels.com"
     },
     {
         "link": "https://zestmadrid.com",

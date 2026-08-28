@@ -71,13 +71,13 @@
     },
     {
         "link": "https://worldwidecompanieslist.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://worldwidecompanieslist.com",
-        "Icon": "N/A",
-        "Redirect": "https://worldwidecompanieslist.com",
+        "Heading": "Worldwide Companies List",
+        "Abstract": "Worldwide Company List, Classified Search Directory, Company Search",
+        "Official Site": "https://worldwidecompanieslist.com/",
+        "Icon": "/assets/website/image/siteicon.png",
+        "Redirect": "https://worldwidecompanieslist.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://worldwidecompanieslist.com"
+        "AbstractURL": "https://worldwidecompanieslist.com/"
     },
     {
         "link": "https://worstjokesever.com",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://www.wposs.com/"
     },
     {
+        "link": "https://wpsco.com",
+        "Heading": "Wholesale Plumbing",
+        "Abstract": "",
+        "Official Site": "https://wpsco.com",
+        "Icon": "static/favicon.ico",
+        "Redirect": "https://wpsco.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wpsco.com"
+    },
+    {
         "link": "https://wrfl.fm",
         "Heading": "WRFL \u2013 88.1 FM \u2013 Lexington, KY",
         "Abstract": "WRFL Lexington: Your only alternative left. Stream now!",
@@ -222,9 +232,9 @@
     {
         "link": "https://wsjlbbqemr23.com",
         "Heading": "Google",
-        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+        "Abstract": null,
         "Official Site": "https://wsjlbbqemr23.com",
-        "Icon": "N/A",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://wsjlbbqemr23.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wsjlbbqemr23.com"

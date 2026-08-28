@@ -131,13 +131,23 @@
     },
     {
         "link": "https://womeningames.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://womeningames.org",
-        "Icon": "data:;",
-        "Redirect": "https://womeningames.org",
+        "Heading": "Women In Games",
+        "Abstract": "Women in Games is a dedicated to building a fair and equitable playing field for women in games and esports ensuring diverse representation becomes the norm.",
+        "Official Site": "https://www.womeningames.org/",
+        "Icon": "https://www.womeningames.org/wp-content/uploads/2026/08/wig-social.png",
+        "Redirect": "https://www.womeningames.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://womeningames.org"
+        "AbstractURL": "https://www.womeningames.org/"
+    },
+    {
+        "link": "https://cbokc.com",
+        "Heading": "cb okc Real Estate - Coldwell Banker Select",
+        "Abstract": "cb okc",
+        "Official Site": "https://www.cbokc.com/",
+        "Icon": "https://cust.iqcdn.net/iq_cb_select/images/custom/cbokc/image/Star_Message_Headers2_(1).jpg",
+        "Redirect": "https://www.cbokc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cbokc.com/"
     },
     {
         "link": "https://doingdadstuff.com",
@@ -148,16 +158,6 @@
         "Redirect": "https://www.doingdadstuff.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.doingdadstuff.com/"
-    },
-    {
-        "link": "https://rippermedia.com.au",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://rippermedia.com.au",
-        "Icon": "N/A",
-        "Redirect": "https://rippermedia.com.au",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rippermedia.com.au"
     },
     {
         "link": "https://inscribirme.com",

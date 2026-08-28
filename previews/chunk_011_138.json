@@ -30,16 +30,6 @@
         "AbstractURL": "https://canare.co.jp"
     },
     {
-        "link": "https://ncass.org.uk",
-        "Heading": "NCASS - The Association for Independent Food & Drink Businesses",
-        "Abstract": "The membership association founded by & created for independent caterers. NCASS has the systems & services you need at each step of your business journey.",
-        "Official Site": "https://www.ncass.org.uk/",
-        "Icon": "https://www.ncass.org.uk/wp-content/uploads/2020/06/logo-page.jpg",
-        "Redirect": "https://www.ncass.org.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ncass.org.uk/"
-    },
-    {
         "link": "https://studentpress.org",
         "Heading": "Student Press - ",
         "Abstract": "Student Press supports student media",
@@ -108,6 +98,16 @@
         "Redirect": "https://jejuseapension.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jejuseapension.com"
+    },
+    {
+        "link": "https://knskazan.ru",
+        "Heading": "KNS \u041a\u0430\u0437\u0430\u043d\u044c - \u041a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u044b, \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u0438, \u0441\u0435\u0440\u0432\u0435\u0440\u044b, \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0440\u044b - \u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u0446\u0435\u043d\u044b \u0438 \u0430\u043a\u0446\u0438\u0438, \u043d\u043e\u0432\u0438\u043d\u043a\u0438, \u0440\u0430\u0441\u043f\u0440\u043e\u0434\u0430\u0436\u0430!",
+        "Abstract": "KNS \u041a\u0430\u0437\u0430\u043d\u044c \u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u0434\u0430\u0436\u0435\u0439 \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u043e\u0432, \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043e\u0432, \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432, \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0440\u043e\u0432, \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u043e \u043d\u0438\u0437\u043a\u0438\u0435 \u0446\u0435\u043d\u044b \u0438 \u0431\u044b\u0441\u0442\u0440\u0443\u044e \u043f\u043e\u0441\u0442\u0430\u0432\u043a\u0443. \u0412 \u043d\u0430\u0448\u0435\u043c \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 \u0432\u0441\u0435\u0433\u0434\u0430 \u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0438 \u0441\u0430\u043c\u044b\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u044b, \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u0438, \u0441\u0435\u0440\u0432\u0435\u0440\u044b, \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0440\u044b.",
+        "Official Site": "https://knskazan.ru",
+        "Icon": "https://cdn.kns.ru/lib/favicon/favicon-32x32.png",
+        "Redirect": "https://knskazan.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://knskazan.ru"
     },
     {
         "link": "https://mitt.ru",

@@ -50,16 +50,6 @@
         "AbstractURL": "https://bcrail.com"
     },
     {
-        "link": "https://ivyshorses.com",
-        "Heading": "Ivy's Glide Gait",
-        "Abstract": "I believe in training gaited horses to gait as smoothly as possibly while helping them stay as relaxed as possible.",
-        "Official Site": "https://ivyshorses.com/",
-        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJJdnkmIzAzOTtzIEdsaWRlIEdhaXQiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6MTIxOTIxMDYxfQ.MRzbcXTYCpT5TEhdR9Yp02knWnFPVLM4hi7-WZ-comYMQ",
-        "Redirect": "https://ivyshorses.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ivyshorses.com/"
-    },
-    {
         "link": "https://theclimatemobilization.org",
         "Heading": "The Climate Mobilization",
         "Abstract": "",
@@ -233,11 +223,11 @@
         "link": "https://smdemo.website",
         "Heading": "My Blog - My WordPress Blog",
         "Abstract": "My WordPress Blog",
-        "Official Site": "https://smdemo.website/",
+        "Official Site": "http://smdemo.website/",
         "Icon": "N/A",
-        "Redirect": "https://smdemo.website/",
+        "Redirect": "http://smdemo.website/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://smdemo.website/"
+        "AbstractURL": "http://smdemo.website/"
     },
     {
         "link": "https://openslides.com",

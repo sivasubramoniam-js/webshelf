@@ -111,13 +111,13 @@
     },
     {
         "link": "https://archcuttingtools.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://archcuttingtools.com",
-        "Icon": "data:;",
-        "Redirect": "https://archcuttingtools.com",
+        "Heading": "ARCH Cutting Tools \u2013 Solid round and indexable metal working and cutting tools.",
+        "Abstract": "American manufacturer of solid round and indexable metal working and cutting tools.",
+        "Official Site": "https://www.archcuttingtools.com/",
+        "Icon": "https://www.archcuttingtools.com/wp-content/uploads/favicon.png",
+        "Redirect": "https://www.archcuttingtools.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://archcuttingtools.com"
+        "AbstractURL": "https://www.archcuttingtools.com/"
     },
     {
         "link": "https://possum-boutique.co.nz",
@@ -248,6 +248,16 @@
         "Redirect": "https://pa-rantau.go.id",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pa-rantau.go.id"
+    },
+    {
+        "link": "https://alnorsenter.no",
+        "Heading": "Alnor Senter \u2013 Bidrar til et bedre samfunn",
+        "Abstract": null,
+        "Official Site": "https://alnorsenter.no",
+        "Icon": "N/A",
+        "Redirect": "https://alnorsenter.no",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alnorsenter.no"
     },
     {
         "link": "https://ablestudio.com",

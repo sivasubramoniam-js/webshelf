@@ -70,6 +70,16 @@
         "AbstractURL": "https://penz-elektronik.de"
     },
     {
+        "link": "https://songma.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://songma.com",
+        "Icon": "N/A",
+        "Redirect": "https://songma.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://songma.com"
+    },
+    {
         "link": "https://injuryrelief.com",
         "Heading": "Texas Injury Lawyers Delivering Life-Changing Results - Grossman Law",
         "Abstract": "Grossman Law provides you with experienced legal support, uncovering the truth so you can achieve clarity, accountability, justice, and closure.",
@@ -91,13 +101,13 @@
     },
     {
         "link": "https://miscellanynews.org",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://miscellanynews.org",
-        "Icon": "data:;",
-        "Redirect": "https://miscellanynews.org",
+        "Heading": "The Miscellany News",
+        "Abstract": "The Miscellany News, one of the oldest collegiate weeklies in the country, has been the student newspaper of Vassar College since 1866. Produced by over sixty student volunteers, The Miscellany News sets Vassar\u2019s standard for reporting, creative thinking, exemplary writing and journalistic excellenc",
+        "Official Site": "http://miscellanynews.org",
+        "Icon": "http://miscellanynews.org/wp-content/uploads/2017/02/Open-Graph.png",
+        "Redirect": "http://miscellanynews.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://miscellanynews.org"
+        "AbstractURL": "http://miscellanynews.org"
     },
     {
         "link": "https://nodei.co",
