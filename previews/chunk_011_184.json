@@ -60,6 +60,16 @@
         "AbstractURL": "https://www.syntacticsinc.com/"
     },
     {
+        "link": "https://mbappeaz.com",
+        "Heading": "Example Domain",
+        "Abstract": null,
+        "Official Site": "https://mbappeaz.com",
+        "Icon": "data:,",
+        "Redirect": "https://mbappeaz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mbappeaz.com"
+    },
+    {
         "link": "https://mediawidget.com",
         "Heading": "Untitled Document",
         "Abstract": null,
@@ -78,16 +88,6 @@
         "Redirect": "https://autoptik.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://autoptik.de"
-    },
-    {
-        "link": "https://semaglupharm.com",
-        "Heading": "DropCatch.com",
-        "Abstract": "DropCatch.com helps you secure expiring domain names.",
-        "Official Site": "https://semaglupharm.com",
-        "Icon": "assets/fav/share.png",
-        "Redirect": "https://semaglupharm.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://semaglupharm.com"
     },
     {
         "link": "https://colorcord.com",
@@ -254,7 +254,7 @@
         "Heading": "World Tattoo Gallery | Tattoo website with Best Tattoos ",
         "Abstract": "Biggest place to best tattoo photos.  | World Tattoo Gallery | Bigest tattoo gallery of best tattoo ideas, tattoo motives, best tattoo artists and tattoo models",
         "Official Site": "https://www.worldtattoogallery.com/",
-        "Icon": "https://cdn-ampu.worldtattoogallery.com/tattoo-folders/og_images/world-tattoo-gallery-home.jpg",
+        "Icon": "https://cdn-ampu.worldtattoogallery.com/tattoo-folders/og_images/world-tattoo-gallery-home_002.jpg",
         "Redirect": "https://www.worldtattoogallery.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.worldtattoogallery.com/"
@@ -298,16 +298,6 @@
         "Redirect": "https://gethoneycart.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gethoneycart.com/"
-    },
-    {
-        "link": "https://caucasuswatch.de",
-        "Heading": "Caucasus Watch",
-        "Abstract": "Nachrichten und analytische Beitr\u00e4ge rund um Georgien, Armenien, Aserbaidschan und den Nordkaukasus. ",
-        "Official Site": "https://caucasuswatch.de",
-        "Icon": "/favicons/favicon-32x32.png",
-        "Redirect": "https://caucasuswatch.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://caucasuswatch.de"
     },
     {
         "link": "https://shenyuntickets.com",

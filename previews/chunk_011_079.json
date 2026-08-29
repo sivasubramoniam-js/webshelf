@@ -10,16 +10,6 @@
         "AbstractURL": "https://partai83463.com/"
     },
     {
-        "link": "https://negombohotels.net",
-        "Heading": "\n        Negombohotels.net    ",
-        "Abstract": null,
-        "Official Site": "https://negombohotels.net",
-        "Icon": "N/A",
-        "Redirect": "https://negombohotels.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://negombohotels.net"
-    },
-    {
         "link": "https://decyp.tas.gov.au",
         "Heading": "Department for Education, Children and Young People",
         "Abstract": "We work to deliver better outcomes for all Tasmanian children and young people, especially our most vulnerable.",
@@ -48,6 +38,16 @@
         "Redirect": "https://palmah.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://palmah.com"
+    },
+    {
+        "link": "https://peppermintparkway.com",
+        "Heading": "COTALAND Theme Park, Austin\u2019s Newest Theme Park",
+        "Abstract": "Visit COTALAND at Circuit of the Americas and enjoy Austin\u2019s newest theme park. Experience the tilt coaster, family attractions, and adrenaline-filled F1 Hot Lap action.",
+        "Official Site": "https://cotaland.com/",
+        "Icon": "https://cotaland.com/wp-content/uploads/2026/04/share.jpg",
+        "Redirect": "https://cotaland.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cotaland.com/"
     },
     {
         "link": "https://we-fi.org",

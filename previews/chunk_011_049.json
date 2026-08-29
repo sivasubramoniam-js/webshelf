@@ -10,6 +10,16 @@
         "AbstractURL": "https://insidehealthpolicy.com"
     },
     {
+        "link": "https://imperialvalleynews.com",
+        "Heading": "Imperial Valley News",
+        "Abstract": "Imperial Valley News Pressing all envelopes",
+        "Official Site": "https://imperialvalleynews.com/",
+        "Icon": "/templates/protostar/favicon.ico",
+        "Redirect": "https://imperialvalleynews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://imperialvalleynews.com/"
+    },
+    {
         "link": "https://eintim.dev",
         "Heading": "EinTim",
         "Abstract": "EinTims about me page",
@@ -38,16 +48,6 @@
         "Redirect": "https://burnallgifs.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://burnallgifs.org"
-    },
-    {
-        "link": "https://sailingtoday.co.uk",
-        "Heading": "Sailing Today: Essential sailing information and advice",
-        "Abstract": "",
-        "Official Site": "https://www.sailingtoday.co.uk/",
-        "Icon": "/favicon-sailingtoday.png?v=9",
-        "Redirect": "https://www.sailingtoday.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sailingtoday.co.uk/"
     },
     {
         "link": "https://grimh.org",

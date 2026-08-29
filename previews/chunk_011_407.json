@@ -124,7 +124,7 @@
         "Heading": "Ojisan Games - Juegos H en Espa\u00f1ol para PC y Android",
         "Abstract": "Descarga los mejores juegos para PC y Android recomendados por el Ojisan.",
         "Official Site": "https://www.ojisangame.blog/",
-        "Icon": "img/logo.png",
+        "Icon": "https://www.ojisangame.blog/img/logo.png",
         "Redirect": "https://www.ojisangame.blog/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ojisangame.blog/"
@@ -248,5 +248,15 @@
         "Redirect": "https://olb-365-join.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://olb-365-join.org/"
+    },
+    {
+        "link": "https://old-portalsigpri.mg.gov.br",
+        "Heading": "Portal Sigpri",
+        "Abstract": "",
+        "Official Site": "https://old-portalsigpri.mg.gov.br",
+        "Icon": "https://old-portalsigpri.mg.gov.br/wp-content/themes/sigpri/img/favicon.ico",
+        "Redirect": "https://old-portalsigpri.mg.gov.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://old-portalsigpri.mg.gov.br"
     }
 ]

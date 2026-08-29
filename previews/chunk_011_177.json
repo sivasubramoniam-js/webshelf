@@ -40,6 +40,16 @@
         "AbstractURL": "https://resopal.de"
     },
     {
+        "link": "https://legislativeanalysis.org",
+        "Heading": "Home | LAPPA",
+        "Abstract": "LAPPA is a nonprofit organization whose mission is to conduct legal and legislative research and analysis and draft legislation on effective law and policy in the areas of public safety and health",
+        "Official Site": "https://legislativeanalysis.org/",
+        "Icon": "https://legislativeanalysis.org/wp-content/uploads/2019/08/cropped-LAPPA-favicon-32x32.png",
+        "Redirect": "https://legislativeanalysis.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://legislativeanalysis.org/"
+    },
+    {
         "link": "https://amaanq.com",
         "Heading": "Welcome to nginx!",
         "Abstract": null,
@@ -161,10 +171,10 @@
     },
     {
         "link": "https://friedhelm-loh-group.com",
-        "Heading": "Homepage | Friedhelm Loh Group",
-        "Abstract": "Willkommen bei der Friedhelm Loh Group - Friedhelm Loh Group",
+        "Heading": "Intro",
+        "Abstract": null,
         "Official Site": "https://friedhelm-loh-group.com",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://friedhelm-loh-group.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://friedhelm-loh-group.com"
@@ -184,7 +194,7 @@
         "Heading": "\u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u043b\u044c \u0418\u041d\u0424\u041e. \u041f\u0443\u0442\u0435\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c",
         "Abstract": "\u041f\u0443\u0442\u0435\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u043f\u043e \u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u043b\u044e. \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f. \u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u043b\u044c. \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0433\u043e\u0440\u043e\u0434\u0430 \u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u043b\u044f",
         "Official Site": "https://mstislavl.ru",
-        "Icon": "/templates/smartphone/images/favicons/favicon-32x32.png",
+        "Icon": "/favicon.ico",
         "Redirect": "https://mstislavl.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mstislavl.ru"
@@ -248,6 +258,16 @@
         "Redirect": "https://hindi.pardaphash.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hindi.pardaphash.com/"
+    },
+    {
+        "link": "https://cargojournal.org",
+        "Heading": "\n\t\tCargo Journal\n\t\t\t\t\t",
+        "Abstract": "Academic journal in social anthropology, cultural anthropology, culture studies, ethnology, ethnography, social sciences and humanities. It is focused on Europe, with overap to Asia, American continent, Australia and New Zealand. Couple of texts are about Czechia and Central Europe, the former Soviet Union, especially Ukraine and Russia. It deals also with social theory, theories of identities, ethnicities, urban anthropology and migration.",
+        "Official Site": "https://cargojournal.org",
+        "Icon": "N/A",
+        "Redirect": "https://cargojournal.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cargojournal.org"
     },
     {
         "link": "https://topgunroofingjax.com",

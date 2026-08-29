@@ -121,13 +121,13 @@
     },
     {
         "link": "https://bigbinary.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://bigbinary.com",
-        "Icon": "N/A",
-        "Redirect": "https://bigbinary.com",
+        "Heading": "Expert Ruby on Rails consulting company",
+        "Abstract": "BigBinary is a Ruby on Rails consulting company based out of Miami, USA and Pune, India, building robust web applications using Ruby on Rails.",
+        "Official Site": "https://www.bigbinary.com",
+        "Icon": "https://www.bigbinary.com/images/bigbinary_square_big_logo.png",
+        "Redirect": "https://www.bigbinary.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bigbinary.com"
+        "AbstractURL": "https://www.bigbinary.com"
     },
     {
         "link": "https://twadh.com",
@@ -171,10 +171,10 @@
     },
     {
         "link": "https://mypixelhosting.com",
-        "Heading": "My Pixel Hosting \u2013 Domain, Hosting and Web Design",
+        "Heading": "My Blog \u2013 My WordPress Blog",
         "Abstract": null,
         "Official Site": "https://mypixelhosting.com",
-        "Icon": "https://mypixelhosting.com/wp-content/uploads/2022/09/icono-pixel-rounded-100x100.png",
+        "Icon": "N/A",
         "Redirect": "https://mypixelhosting.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mypixelhosting.com"
@@ -248,5 +248,15 @@
         "Redirect": "https://simpletiger.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://simpletiger.com"
+    },
+    {
+        "link": "https://0adz.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://0adz.com",
+        "Icon": "N/A",
+        "Redirect": "https://0adz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://0adz.com"
     }
 ]

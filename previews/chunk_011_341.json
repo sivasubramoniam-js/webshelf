@@ -190,16 +190,6 @@
         "AbstractURL": "https://www.ilgazzettinometropolitano.it/"
     },
     {
-        "link": "https://ilgiornaleditrani.it",
-        "Heading": "Il Giornale di Trani - Radiobombo",
-        "Abstract": null,
-        "Official Site": "https://ilgiornaleditrani.it",
-        "Icon": "/favicon.png",
-        "Redirect": "https://ilgiornaleditrani.it",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ilgiornaleditrani.it"
-    },
-    {
         "link": "https://iljufoundation.org",
         "Heading": "\uc77c\uc8fc\ud559\uc220\ubb38\ud654\uc7ac\ub2e8",
         "Abstract": "1990\ub144 \uc124\ub9bd\ub41c \ud0dc\uad11\uadf8\ub8f9 \uc77c\uc8fc\ud559\uc220\ubb38\ud654\uc7ac\ub2e8\uc740 \uc6b0\uc218\ud55c \uc778\uc7ac\ub97c \uc120\ubc1c\ud574 \uc591\uc131\ud558\uace0 \uc18c\uc678\uacc4\uce35 \uad50\uc721\ubcf5\uc9c0\ub97c \uc2e4\ud604\ud558\ub294 \uacf5\uc775\uc7ac\ub2e8\uc785\ub2c8\ub2e4.",
@@ -208,6 +198,16 @@
         "Redirect": "https://www.iljufoundation.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.iljufoundation.org/"
+    },
+    {
+        "link": "https://illuxi.com",
+        "Heading": "illuxi: LMS et produits de partage de connaissances",
+        "Abstract": "Des produits et services qui permettent d\u2019am\u00e9liorer le partage de connaissances et la transmission des comp\u00e9tences",
+        "Official Site": "https://illuxi.com/",
+        "Icon": "https://illuxi.com/wp-content/uploads/2022/02/illuxi-facebook-2022-5.png",
+        "Redirect": "https://illuxi.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://illuxi.com/"
     },
     {
         "link": "https://ilmutotoshaolin.com",
@@ -240,6 +240,16 @@
         "AbstractURL": "https://ilmutotoyuan.com/"
     },
     {
+        "link": "https://ilovebarefoot.sk",
+        "Heading": "Barefoot obuv pre deti | I LoVE BAREFoOT",
+        "Abstract": "Barefoot obuv pre deti pre zdrav\u00fd v\u00fdvin n\u00f4h. Pohodln\u00e9 sand\u00e1lky, tenisky, zimn\u00e9 top\u00e1nky a capa\u010dky \u2013 Froddo, D.D.Step, Protetika a \u010fal\u0161ie.",
+        "Official Site": "https://www.ilovebarefoot.sk/",
+        "Icon": "https://www.ilovebarefoot.sk/wp-content/uploads/2020/11/Logo_fb_ig-ko\u0301pia.png",
+        "Redirect": "https://www.ilovebarefoot.sk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ilovebarefoot.sk/"
+    },
+    {
         "link": "https://imamislamic.com",
         "Heading": "\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u062e\u0648\u0644 - \u0644\u0648\u062d\u0629 \u0627\u0644\u062a\u062d\u0643\u0645 \u0627\u0644\u0625\u062f\u0627\u0631\u064a\u0629",
         "Abstract": null,
@@ -262,7 +272,7 @@
     {
         "link": "https://imate.si",
         "Heading": "imate.si",
-        "Abstract": null,
+        "Abstract": "Find information, resources and relevant links for imate.si. This domain may be for sale.",
         "Official Site": "https://imate.si",
         "Icon": "N/A",
         "Redirect": "https://imate.si",

@@ -263,11 +263,31 @@
         "link": "https://plowboysbbq.com",
         "Heading": "Plowboys Barbeque | Award Winning Kansas City Barbeque",
         "Abstract": "Plowboys Barbeque is Award Winning competition style barbecue with restaurants in Blue Springs, MO and Kansas City, MO. Founded by Todd Johns.",
-        "Official Site": "https://www.plowboysbbq.com/",
+        "Official Site": "http://www.plowboysbbq.com/",
         "Icon": "http://www.plowboysbbq.com/wp-content/uploads/2016/03/plowboys-og.jpg",
-        "Redirect": "https://www.plowboysbbq.com/",
+        "Redirect": "http://www.plowboysbbq.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.plowboysbbq.com/"
+        "AbstractURL": "http://www.plowboysbbq.com/"
+    },
+    {
+        "link": "https://litton.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://litton.net",
+        "Icon": "N/A",
+        "Redirect": "https://litton.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://litton.net"
+    },
+    {
+        "link": "https://thesurvivalistblog.net",
+        "Heading": "Survival, preparedness and homesteading from A to Z | The Survivalist Blog",
+        "Abstract": "The Survivalist Blog is an online resource focused on survival, preparedness, self-sufficiency and homesteading.",
+        "Official Site": "https://www.thesurvivalistblog.net/",
+        "Icon": "https://www.thesurvivalistblog.net/files/wp-content/uploads/2018/06/favicon.png",
+        "Redirect": "https://www.thesurvivalistblog.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thesurvivalistblog.net/"
     },
     {
         "link": "https://incation.de",

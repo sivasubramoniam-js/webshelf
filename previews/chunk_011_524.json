@@ -30,16 +30,6 @@
         "AbstractURL": "https://masalqseen.com/"
     },
     {
-        "link": "https://cambridgetrust.org",
-        "Heading": "The Cambridge Trust",
-        "Abstract": "The Cambridge Trust provides scholarships and grants for study and research at the University of Cambridge.",
-        "Official Site": "https://www.cambridgetrust.org/",
-        "Icon": "https://www.cambridgetrust.org/wp-content/uploads/2025/10/cropped-favicon-60x60.png",
-        "Redirect": "https://www.cambridgetrust.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cambridgetrust.org/"
-    },
-    {
         "link": "https://scramsystems.com",
         "Heading": "Alcohol Monitoring and Electronic Monitoring | SCRAM Systems",
         "Abstract": "SCRAM Systems provides alcohol monitoring and electronic monitoring solutions for community corrections and agencies built to support positive change.",
@@ -101,13 +91,13 @@
     },
     {
         "link": "https://ce-connect.net",
-        "Heading": "Checking your browser\u2026",
-        "Abstract": null,
-        "Official Site": "https://ce-connect.net",
-        "Icon": "N/A",
-        "Redirect": "https://ce-connect.net",
+        "Heading": "Filed image sets on ce-connect.net",
+        "Abstract": "Every set filed, dated and searchable.",
+        "Official Site": "https://ce-connect.net/",
+        "Icon": "https://ce-connect.net/cect-card.png?v=20260809e",
+        "Redirect": "https://ce-connect.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ce-connect.net"
+        "AbstractURL": "https://ce-connect.net/"
     },
     {
         "link": "https://unbuendiaenmadrid.com",
@@ -228,16 +218,6 @@
         "Redirect": "https://auto-mat.cz/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://auto-mat.cz/"
-    },
-    {
-        "link": "https://uscnpm.org",
-        "Heading": "U.S.-China Perception Monitor | The Carter Center China Focus",
-        "Abstract": "A publication by The Carter Center\u2019s China Focus initiative dedicated to promoting peaceful cooperation between the United States and China.",
-        "Official Site": "https://chinafocus.azurewebsites.net/",
-        "Icon": "/wp-content/uploads/2025/12/carter-center-blue-logo-150x150.webp",
-        "Redirect": "https://chinafocus.azurewebsites.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chinafocus.azurewebsites.net/"
     },
     {
         "link": "https://fibrocem.ru",

@@ -60,16 +60,6 @@
         "AbstractURL": "https://www.weytop.com/"
     },
     {
-        "link": "https://wfew32d3d.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://wfew32d3d.com",
-        "Icon": "N/A",
-        "Redirect": "https://wfew32d3d.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wfew32d3d.com"
-    },
-    {
         "link": "https://wgrvisitor.se",
         "Heading": "Untitled Document",
         "Abstract": null,
@@ -83,11 +73,11 @@
         "link": "https://whalesafe.com",
         "Heading": "Whale Safe",
         "Abstract": "Whale Safe is a technology-based mapping and analysis tool displaying whale and ship data for the Santa Barbara Channel, with the goal of helping \u2028to prevent fatal ship collisions with whales.",
-        "Official Site": "https://whalesafe.com/",
-        "Icon": "https://whalesafe.com/wp-content/uploads/2020/09/og-image.png",
-        "Redirect": "https://whalesafe.com/",
+        "Official Site": "http://whalesafe.com/",
+        "Icon": "http://whalesafe.com/wp-content/uploads/2020/09/og-image.png",
+        "Redirect": "http://whalesafe.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://whalesafe.com/"
+        "AbstractURL": "http://whalesafe.com/"
     },
     {
         "link": "https://whatbaseball.com",
@@ -118,6 +108,16 @@
         "Redirect": "https://whatsplusdownload.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://whatsplusdownload.com"
+    },
+    {
+        "link": "https://whaw.eu",
+        "Heading": "Whaw - IT support",
+        "Abstract": null,
+        "Official Site": "https://whaw.eu/index.html",
+        "Icon": "https://whaw.eu/resources/favicon_large.png",
+        "Redirect": "https://whaw.eu/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://whaw.eu/index.html"
     },
     {
         "link": "https://wheelerunms.net",

@@ -202,7 +202,7 @@
     {
         "link": "https://emportal.ru",
         "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
-        "Abstract": "\u041c\u0435\u0431\u0435\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u0435\u0442 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u043c\u0435\u0431\u0435\u043b\u0438 \u043d\u0430 \u0432\u044b\u0441\u043e\u043a\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u043e\u043c \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0438 \u0441 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435\u043c \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u0439 \u0434\u043e\u043b\u0438 \u0440\u0443\u0447\u043d\u043e\u0433\u043e \u0442\u0440\u0443\u0434\u0430, \u0447\u0442\u043e \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0442\u044c \u0432\u044b\u0441\u043e\u043a\u043e\u0435 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e \u043d\u0430\u0448\u0435\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0438.",
+        "Abstract": "\u0426\u0438\u0444\u0440\u043e\u0432\u044b\u0435 \u0441\u0435\u0440\u0432\u0438\u0441\u044b \u0437\u0434\u043e\u0440\u043e\u0432\u044c\u044f \u0434\u043b\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u0430 \u0438 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u044b. \u0420\u0435\u0448\u0435\u043d\u0438\u044f \u0434\u043b\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u0430, \u043a\u043b\u0438\u043d\u0438\u043a \u0438 \u0441\u0442\u0440\u0430\u0445\u043e\u0432\u044b\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u2014 \u043d\u0430 \u043e\u0434\u043d\u043e\u0439 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u043d\u043e\u0439 \u043e\u0441\u043d\u043e\u0432\u0435.",
         "Official Site": "https://emportal.ru",
         "Icon": "N/A",
         "Redirect": "https://emportal.ru",
@@ -238,6 +238,16 @@
         "Redirect": "https://envisionestudio.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://envisionestudio.com"
+    },
+    {
+        "link": "https://bennatech.com",
+        "Heading": "Bennatech | \u00d6zel Yaz\u0131l\u0131m ve Dijital \u00dcr\u00fcn St\u00fcdyosu",
+        "Abstract": "Fikirlerinizi \u00f6zel yaz\u0131l\u0131m, web ve mobil uygulama, UI/UX, bulut ve DevOps \u00e7\u00f6z\u00fcmleriyle hayata ge\u00e7iriyoruz.",
+        "Official Site": "https://bennatech.com/",
+        "Icon": "https://bennatech.com/og.png",
+        "Redirect": "https://bennatech.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bennatech.com/"
     },
     {
         "link": "https://primaryt.co.uk",
@@ -302,7 +312,7 @@
     {
         "link": "https://cddep.org",
         "Heading": "One Health Trust",
-        "Abstract": "The One Health Trust produces independent research on global health, infectious disease control, drug resistance, and vaccines.",
+        "Abstract": "The One Health Trust uses research and stakeholder engagement to promote health and well-being of the planet and all its inhabitants.",
         "Official Site": "https://onehealthtrust.org/",
         "Icon": "https://onehealthtrust.org/wp-content/uploads/2025/03/favicon-fox.png",
         "Redirect": "https://onehealthtrust.org/",

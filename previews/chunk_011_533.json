@@ -54,7 +54,7 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://topzinho.com",
-        "Icon": "https://dp0kd0fj044fh.cloudfront.net/theme/ver/46733f3/partners/topzinho/images/favicon/favicon-196x196.png",
+        "Icon": "https://dp0kd0fj044fh.cloudfront.net/theme/ver/b48720d/partners/topzinho/images/favicon/favicon-196x196.png",
         "Redirect": "https://topzinho.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://topzinho.com"
@@ -161,8 +161,8 @@
     },
     {
         "link": "https://offremedia.com",
-        "Heading": "The Media Leader FR - N\u00b01 sur les d\u00e9cideurs m\u00e9dias",
-        "Abstract": "N\u00b01 sur les d\u00e9cideurs m\u00e9dias The Media Leader FR -",
+        "Heading": "The Media Leader FR - Depuis 20 ans, la r\u00e9f\u00e9rence des d\u00e9cideurs m\u00e9dias",
+        "Abstract": "Depuis 20 ans, la r\u00e9f\u00e9rence des d\u00e9cideurs m\u00e9dias The Media Leader FR -",
         "Official Site": "https://fr.themedialeader.com/",
         "Icon": "https://themedialeader.fr/wp-content/uploads/2023/07/Image-par-defaut.png",
         "Redirect": "https://fr.themedialeader.com/",
@@ -180,6 +180,16 @@
         "AbstractURL": "https://shopcaddy.de"
     },
     {
+        "link": "https://websocle.com",
+        "Heading": "WebSocle | Web Hosting Services",
+        "Abstract": "Hosting in an innovative way",
+        "Official Site": "https://websocle.com",
+        "Icon": "https://www.websocle.com/resources/uploads/logo/favicon.ico",
+        "Redirect": "https://websocle.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://websocle.com"
+    },
+    {
         "link": "https://umadesign.com",
         "Heading": "Uma\\Design",
         "Abstract": null,
@@ -191,23 +201,13 @@
     },
     {
         "link": "https://topmovie.org",
-        "Heading": "123Movies: Watch HD Movies123 Online: 123 Movies",
-        "Abstract": "123Movies: free streaming website to watch movies online like 123 Movies, 123Movie, 123 movie, 123movies free, movies123, 0123movies, the 0123movies.com",
-        "Official Site": "https://onlinewatchmovies.org/",
-        "Icon": "https://onlinewatchmovies.org/themes/new123/assets/img/favicon.png",
-        "Redirect": "https://onlinewatchmovies.org/",
+        "Heading": "123Movies Watch Free Movies123 Online 123 Movies",
+        "Abstract": "123movies is a streaming website to watch free movies, free movies online, movies123, 123 movies, 123movie, 123movies, 123moviesfree, 123freemovies",
+        "Official Site": "https://1234movies.show/",
+        "Icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%232f3338'/%3E%3Ccircle cx='32' cy='32' r='21' fill='%233b6fd8'/%3E%3Cpath d='M27 20v24l20-12z' fill='%23fff'/%3E%3C/svg%3E",
+        "Redirect": "https://1234movies.show/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://onlinewatchmovies.org/"
-    },
-    {
-        "link": "https://syntec-numerique.fr",
-        "Heading": "Numeum - Le Syndicat engag\u00e9 pour les Entreprises du Num\u00e9rique",
-        "Abstract": "Numeum, la plus grande communaut\u00e9 du num\u00e9rique et d\u00e9fendre les int\u00e9r\u00eats de la fili\u00e8re en France et en Europe.",
-        "Official Site": "https://numeum.fr/",
-        "Icon": "https://numeum.fr/wp-content/uploads/2025/04/cropped-favicon-32x32.png",
-        "Redirect": "https://numeum.fr/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://numeum.fr/"
+        "AbstractURL": "https://1234movies.show/"
     },
     {
         "link": "https://leadpakistan.com.pk",
@@ -264,7 +264,7 @@
         "Heading": "Atlas Homewares | Home",
         "Abstract": "Atlas is your source for designer hardware, providing a wide range of quality and affordable cabinet handles, decorative hardware, house numbers, bath hardware, door knockers and much more.",
         "Official Site": "https://atlashomewares.com",
-        "Icon": "https://www.atlashomewares.com/static/version1786686114/frontend/Alpine/atlas/en_US/Magento_Enterprise/favicon.ico",
+        "Icon": "https://www.atlashomewares.com/static/version1787810465/frontend/Alpine/atlas/en_US/Magento_Theme/favicon.png",
         "Redirect": "https://atlashomewares.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://atlashomewares.com"

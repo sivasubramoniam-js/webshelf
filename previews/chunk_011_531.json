@@ -60,16 +60,6 @@
         "AbstractURL": "https://www.thehappyhousie.com/"
     },
     {
-        "link": "https://translore.com",
-        "Heading": "TransLore",
-        "Abstract": "TransLore manages One Call before you dig utility locate tickets",
-        "Official Site": "https://translore.com",
-        "Icon": "favicon.ico",
-        "Redirect": "https://translore.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://translore.com"
-    },
-    {
         "link": "https://totalfreeai.com",
         "Heading": "Total Free AI Tools \u2013 Face Swap, AI Image Generator & Chatbots | TotalFreeAI",
         "Abstract": "Explore powerful free AI tools at TotalFreeAI \u2013 face swap online, AI image generator, text-to-image art, AI chatbots & sticker maker. 100% free, no signup needed.",
@@ -291,13 +281,13 @@
     },
     {
         "link": "https://mrbigbites.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://mrbigbites.com",
-        "Icon": "N/A",
-        "Redirect": "https://mrbigbites.com",
+        "Heading": "Small Space Living, Decor & Home Organization | Mr Big Bites",
+        "Abstract": "Transform your small apartment or compact room with smart storage hacks, decluttering tips, and functional interior decor solutions.",
+        "Official Site": "https://www.mrbigbites.com/",
+        "Icon": "https://www.mrbigbites.com/content/images/size/w1200/2026/08/small_space_hero_cover.jpg",
+        "Redirect": "https://www.mrbigbites.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mrbigbites.com"
+        "AbstractURL": "https://www.mrbigbites.com/"
     },
     {
         "link": "https://theyong.com",
@@ -318,6 +308,16 @@
         "Redirect": "https://japan-nightlife.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://japan-nightlife.jp/"
+    },
+    {
+        "link": "https://guitarpicks.com",
+        "Heading": "Official Artist Guitar Picks & Backstage Passes - Shop Now",
+        "Abstract": "Explore official artist guitar picks & backstage passes. Secure payments, hassle-free refunds, and exclusive deals like Buy 2, Get the 3rd at 50% Off.",
+        "Official Site": "https://www.guitarpicks.com/",
+        "Icon": "https://www.guitarpicks.com/wp-content/uploads/2025/01/GuitarPicks-Icon-e1736797296814-100x100.png",
+        "Redirect": "https://www.guitarpicks.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.guitarpicks.com/"
     },
     {
         "link": "https://win32subsystem.live",

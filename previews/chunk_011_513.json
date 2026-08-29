@@ -61,7 +61,7 @@
     },
     {
         "link": "https://hagi-himawari.com",
-        "Heading": "Authentication required - flowProxy",
+        "Heading": "Login",
         "Abstract": null,
         "Official Site": "https://hagi-himawari.com",
         "Icon": "N/A",
@@ -258,16 +258,6 @@
         "Redirect": "https://www.gispen.com:80/en/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.gispen.com:80/en/"
-    },
-    {
-        "link": "https://stro-mec-tol.com",
-        "Heading": "DropCatch.com",
-        "Abstract": "DropCatch.com helps you secure expiring domain names.",
-        "Official Site": "https://stro-mec-tol.com",
-        "Icon": "assets/fav/share.png",
-        "Redirect": "https://stro-mec-tol.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://stro-mec-tol.com"
     },
     {
         "link": "https://digitalroominc.com",

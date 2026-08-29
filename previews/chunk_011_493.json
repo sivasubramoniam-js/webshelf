@@ -114,7 +114,7 @@
         "Heading": "\u30aa\u30f3\u30e9\u30a4\u30f3\u30b9\u30c8\u30a2",
         "Abstract": "This is a shopping website",
         "Official Site": "https://whmni.com",
-        "Icon": "https://media.dpdvx.com/upload/20250417/6800aab94e893.png",
+        "Icon": "https://imgstorage2.lndpy.com/upload/20250417/6800aab94e893.png",
         "Redirect": "https://whmni.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://whmni.com"
@@ -288,6 +288,16 @@
         "Redirect": "https://wilkinson-cp.jp",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wilkinson-cp.jp"
+    },
+    {
+        "link": "https://win-game.life",
+        "Heading": "Hello World",
+        "Abstract": null,
+        "Official Site": "https://win-game.life",
+        "Icon": "N/A",
+        "Redirect": "https://win-game.life",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://win-game.life"
     },
     {
         "link": "https://win63.site",

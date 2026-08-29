@@ -21,13 +21,13 @@
     },
     {
         "link": "https://koreanaztimes.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://koreanaztimes.com",
-        "Icon": "N/A",
-        "Redirect": "https://koreanaztimes.com",
+        "Heading": "\uc544\ub9ac\uc870\ub098 \ud0c0\uc784\uc988 \u2013 \uc544\ub9ac\uc870\ub098 \ud55c\uc778 \ucee4\ubba4\ub2c8\ud2f0. \uc544\ub9ac\uc870\ub098 \ub274\uc2a4 \u00b7 \uc8fc\uac04 \uc138\uc77c \u00b7 \uc5f4\ub9b0 \uc7a5\ud130 \u00b7 \uac8c\uc2dc\ud310 \u00b7 \uc5c5\uc18c\ub85d \u00b7 \uce7c\ub7fc",
+        "Abstract": "\uc544\ub9ac\uc870\ub098 \ud55c\uc778 \ucee4\ubba4\ub2c8\ud2f0. \uc544\ub9ac\uc870\ub098 \ub274\uc2a4 \u00b7 \uc8fc\uac04 \uc138\uc77c \u00b7 \uc5f4\ub9b0 \uc7a5\ud130 \u00b7 \uac8c\uc2dc\ud310 \u00b7 \uc5c5\uc18c\ub85d \u00b7 \uce7c\ub7fc",
+        "Official Site": "https://koreanaztimes.com/",
+        "Icon": "https://koreanaztimes.com/wp-content/uploads/2026/04/kazt-reversed2-1024x413.jpg",
+        "Redirect": "https://koreanaztimes.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://koreanaztimes.com"
+        "AbstractURL": "https://koreanaztimes.com/"
     },
     {
         "link": "https://trueamericanloan.com",
@@ -60,6 +60,16 @@
         "AbstractURL": "https://mens-eminal.jp/"
     },
     {
+        "link": "https://perfect-store.gp",
+        "Heading": "Perfect Store Guadeloupe",
+        "Abstract": "Fabrication sur mesure et installation de menuiseries aluminium de haute qualit\u00e9. Baies coulissantes, portes, fen\u00eatres, portails, cl\u00f4tures et plus.",
+        "Official Site": "https://perfect-store.gp/",
+        "Icon": "https://perfect-store.gp/wp-content/uploads/2024/04/coulissant-aluminium_perfect-store_guadeloupe04-768x1024.webp",
+        "Redirect": "https://perfect-store.gp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://perfect-store.gp/"
+    },
+    {
         "link": "https://helsetilsynet.no",
         "Heading": "Helsetilsynet f\u00f8rer tilsyn med barnevern, sosial- og helsetjenestene | Helsetilsynet",
         "Abstract": "Tilsynsmyndigheter for barnevern, sosial- og helsetjenestene i Norge.",
@@ -78,6 +88,16 @@
         "Redirect": "https://www.volksbank-zollernalb.de/startseite.html",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.volksbank-zollernalb.de/startseite.html"
+    },
+    {
+        "link": "https://specialoffersforyou.com",
+        "Heading": "specialoffersforyou.com",
+        "Abstract": null,
+        "Official Site": "https://specialoffersforyou.com",
+        "Icon": "N/A",
+        "Redirect": "https://specialoffersforyou.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://specialoffersforyou.com"
     },
     {
         "link": "https://club7711.com",
@@ -221,12 +241,12 @@
     },
     {
         "link": "https://shakeuplearning.com",
-        "Heading": "Client Challenge",
-        "Abstract": null,
-        "Official Site": "https://shakeuplearning.com",
-        "Icon": "N/A",
-        "Redirect": "https://shakeuplearning.com",
+        "Heading": "The Shake Up Learning Blog",
+        "Abstract": "The Shake Up Learning Blog by Kasey Bell offers educational technology and digital learning resources, tips and tricks, tutorials, Google cheat sheets and more to educators across the globe.",
+        "Official Site": "https://shakeuplearning.com/",
+        "Icon": "https://shakeuplearning.com/wp-content/uploads/2019/01/Blog-logo.png",
+        "Redirect": "https://shakeuplearning.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://shakeuplearning.com"
+        "AbstractURL": "https://shakeuplearning.com/"
     }
 ]

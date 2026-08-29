@@ -114,7 +114,7 @@
         "Heading": "Hall\u00f3 Akureyri",
         "Abstract": null,
         "Official Site": "https://www.visitakureyri.is/",
-        "Icon": "https://www.visitakureyri.is/static/sitemap/lg/34e3d8568a26f2d89998ed9a04981151-visitakureyri-mummisara-1920pixlar_12.jpg?v=1787912260",
+        "Icon": "https://www.visitakureyri.is/static/sitemap/lg/34e3d8568a26f2d89998ed9a04981151-visitakureyri-mummisara-1920pixlar_12.jpg?v=1787984307",
         "Redirect": "https://www.visitakureyri.is/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.visitakureyri.is/"
@@ -218,6 +218,16 @@
         "Redirect": "https://webbb.me",
         "AbstractSource": "BS4",
         "AbstractURL": "https://webbb.me"
+    },
+    {
+        "link": "https://chiquipedia.com",
+        "Heading": "Recursos EDUCATIVOS de educaci\u00f3n infantil y primaria | Chiquipedia",
+        "Abstract": "I\u27a8 Chiquipedia es un portal de educaci\u00f3n con recursos educativos para ni\u00f1os/as de infantil y primaria. Descubre el mejor contenido educativo especializado.",
+        "Official Site": "https://www.chiquipedia.com/",
+        "Icon": "https://www.chiquipedia.com/imagenes/chiquipedia-head.jpg",
+        "Redirect": "https://www.chiquipedia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.chiquipedia.com/"
     },
     {
         "link": "https://bitburger-braugruppe.de",
