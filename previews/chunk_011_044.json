@@ -31,13 +31,13 @@
     },
     {
         "link": "https://thecircular.org",
-        "Heading": "The Circular \u2013 The News Site of Journalism & Online Media Production students in Griffith College Dublin",
-        "Abstract": "The News Site of Journalism & Online Media Production students in Griffith College Dublin",
-        "Official Site": "https://thecircular.org/",
-        "Icon": "https://thecircular.org/wp-content/uploads/2021/11/cropped-Screenshot-2021-11-15-at-11.11.32.png",
-        "Redirect": "https://thecircular.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://thecircular.org",
+        "Icon": "data:;",
+        "Redirect": "https://thecircular.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thecircular.org/"
+        "AbstractURL": "https://thecircular.org"
     },
     {
         "link": "https://innoveo.com",
@@ -61,10 +61,10 @@
     },
     {
         "link": "https://tekkaleyapi.com",
-        "Heading": "Tek Kale Yap\u0131 \u2013 Enerji Kimlik Belgesi",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://tekkaleyapi.com",
-        "Icon": "https://tekkaleyapi.com/wp-content/uploads/2025/08/tekkale-favicon-150x150.png",
+        "Icon": "data:;",
         "Redirect": "https://tekkaleyapi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tekkaleyapi.com"
@@ -230,16 +230,6 @@
         "AbstractURL": "https://www.calgarytower.com"
     },
     {
-        "link": "https://carrierclasswifi.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://carrierclasswifi.com",
-        "Icon": "N/A",
-        "Redirect": "https://carrierclasswifi.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://carrierclasswifi.com"
-    },
-    {
         "link": "https://balletaz.org",
         "Heading": "Ballet Arizona Homepage | Ballet Arizona",
         "Abstract": "Join us as we inspire, entertain and educate the Arizona community through performances, dedicated events and ballet training.",
@@ -271,8 +261,8 @@
     },
     {
         "link": "https://blacksheepbrewery.com",
-        "Heading": "\n      Black Sheep Brewery | Award-Winning Yorkshire Beer\n",
-        "Abstract": "Black Sheep Brewery - independent Yorkshire brewery in Masham since 1992. Shop award-winning beers online, book brewery tours and visit our bar & kitchen.",
+        "Heading": "\n      Black Sheep Brewery | Award-Winning Yorkshire Beer Since 1992\n",
+        "Abstract": "Black Sheep Brewery \u2013 proudly independent since 1992 in Masham, North Yorkshire. Award-winning ales, brewery tours, bar & kitchen and online shop.",
         "Official Site": "https://www.blacksheepbrewery.com/",
         "Icon": "http://www.blacksheepbrewery.com/cdn/shop/files/black-sheep-social-share.jpg?v=1787740627",
         "Redirect": "https://www.blacksheepbrewery.com/",

@@ -120,16 +120,6 @@
         "AbstractURL": "https://automobilenyc.com/"
     },
     {
-        "link": "https://play-grid.com",
-        "Heading": "PlayGrid - Everything You Need to Know about eSports",
-        "Abstract": "You will find all the important aspects of the ESports industry on our website. Team and player profiles, transfers, game information, tournament results and more",
-        "Official Site": "https://play-grid.com",
-        "Icon": "https://play-grid.com/wp-content/themes/playgrid/assets/img/favicon-32x32.png",
-        "Redirect": "https://play-grid.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://play-grid.com"
-    },
-    {
         "link": "https://educationengland.org.uk",
         "Heading": "Education in the UK",
         "Abstract": "history of education in the UK, education policy, philosophy of education",
@@ -222,7 +212,7 @@
     {
         "link": "https://galmeetsglam.com",
         "Heading": "Featured - Julia Berolzheimer",
-        "Abstract": "Style Cart Confidential Vol. 45 Style Cart Confidential Vol. 45 Daily Looks View All Daily Look \u00a0\u2022\u00a0 Outfit Details Saint\u2026",
+        "Abstract": "Style Amazon Sundays: Fall Finds for Little Ones Style Amazon Sundays: Fall Finds for Little Ones Daily Looks View All\u2026",
         "Official Site": "https://juliaberolzheimer.com/",
         "Icon": "https://juliaberolzheimer.com/wp-content/themes/gadabout-base-theme/img/favicon.png",
         "Redirect": "https://juliaberolzheimer.com/",
@@ -331,13 +321,13 @@
     },
     {
         "link": "https://rvahub.com",
-        "Heading": "Richmond, Virginia News, Events, Food, Arts, & Culture \u2013\u00a0RVAHub",
-        "Abstract": "Richmond, Virginia News, Events, Entertainment, and Sports",
-        "Official Site": "https://rvahub.com/",
-        "Icon": "https://s3.us-east-2.amazonaws.com/largefs.rvahubmedia/rvahub/wp-content/uploads/2016/07/cropped-13717345_132913563809939_7763921103411265417_o-32x32.png",
-        "Redirect": "https://rvahub.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://rvahub.com",
+        "Icon": "data:;",
+        "Redirect": "https://rvahub.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rvahub.com/"
+        "AbstractURL": "https://rvahub.com"
     },
     {
         "link": "https://design2developindia.in",

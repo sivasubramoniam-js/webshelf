@@ -50,6 +50,16 @@
         "AbstractURL": "https://www.geniushub.co.uk/"
     },
     {
+        "link": "https://chinesericegarden.com",
+        "Heading": "Rice Garden Chinese Food Dallas, TX 75237 Online Order! , Fast Food Delivery.",
+        "Abstract": "Rice Garden  Dallas, TX 75237  Authentic Chinese cuisine available for delivery and carry out. Hunan, Szechuan, Cantonee specialities and lunch specials. ",
+        "Official Site": "https://chinesericegarden.com",
+        "Icon": "N/A",
+        "Redirect": "https://chinesericegarden.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chinesericegarden.com"
+    },
+    {
         "link": "https://vertxglobal.com",
         "Heading": "Home - Vertx Pro Electronics Trading LLC",
         "Abstract": "Years of Work Experience",
@@ -110,6 +120,16 @@
         "AbstractURL": "https://pristav-russia.ru"
     },
     {
+        "link": "https://statenislandarts.org",
+        "Heading": "Home - Staten Island Arts",
+        "Abstract": "Staten Island Arts: fostering art, community,",
+        "Official Site": "https://statenislandarts.org/",
+        "Icon": "https://statenislandarts.org/wp-content/uploads/2021/07/cropped-SIA-symbol-final-black-32x32.png",
+        "Redirect": "https://statenislandarts.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://statenislandarts.org/"
+    },
+    {
         "link": "https://hafnia.com",
         "Heading": "Home - Hafnia",
         "Abstract": "Visit this page to explore more about Hafnia - The Forward-Thinking Tanker Company",
@@ -138,16 +158,6 @@
         "Redirect": "https://uniempaques-ni.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://uniempaques-ni.com/"
-    },
-    {
-        "link": "https://frotasoft.com",
-        "Heading": "Frotasoft - Frotasoft",
-        "Abstract": null,
-        "Official Site": "https://www.frotasoft.com/",
-        "Icon": "http://novatronicanews.com/wp-content/themes/omega/assets/images/favicons/favicon.ico",
-        "Redirect": "https://www.frotasoft.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.frotasoft.com/"
     },
     {
         "link": "https://s-wars.jp",
@@ -231,10 +241,10 @@
     },
     {
         "link": "https://castlesclick.com",
-        "Heading": "CastlesClick \u2013 Exclusively Tailored: Specialized Real Estate Services for Castles in Spain",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://castlesclick.com",
-        "Icon": "http://castlesclick.com/wp-content/uploads/2024/02/Home_icon_orange1.png",
+        "Icon": "data:;",
         "Redirect": "https://castlesclick.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://castlesclick.com"

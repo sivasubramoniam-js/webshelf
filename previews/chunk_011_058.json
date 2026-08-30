@@ -31,13 +31,13 @@
     },
     {
         "link": "https://essentialtremor.org",
-        "Heading": "Essential Tremor",
-        "Abstract": "Welcome to the International Essential Tremor Foundation's website, where you'll find information about our organization, the latest news, resources for coping, and support groups near you.",
-        "Official Site": "https://essentialtremor.org/",
-        "Icon": "https://essentialtremor.org/wp-content/uploads/2024/10/IETF-Web-SocialShare.jpg",
-        "Redirect": "https://essentialtremor.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://essentialtremor.org",
+        "Icon": "data:;",
+        "Redirect": "https://essentialtremor.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://essentialtremor.org/"
+        "AbstractURL": "https://essentialtremor.org"
     },
     {
         "link": "https://progressflowsstrategically.click",
@@ -70,6 +70,16 @@
         "AbstractURL": "https://www.vivemasvidas.com/"
     },
     {
+        "link": "https://epay3.com",
+        "Heading": "ePayPolicy | Digital Insurance Payment Solution - ePayPolicy",
+        "Abstract": "How insurance companies make payments a breeze. Secure online payments, connected accounting and solutions for scale. Oh, and your customers will love it.",
+        "Official Site": "https://epaypolicy.com/",
+        "Icon": "https://epaypolicy.com/wp-content/uploads/2020/01/ePayPolicy_Logo_2022.png",
+        "Redirect": "https://epaypolicy.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://epaypolicy.com/"
+    },
+    {
         "link": "https://chatterxtondev.com",
         "Heading": "Chatterxton // Deus",
         "Abstract": "Web-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f, Telegram-\u0431\u043e\u0442\u044b, \u0421\u0430\u0439\u0442\u044b, \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f",
@@ -83,11 +93,11 @@
         "link": "https://brazilcham.com",
         "Heading": "Welcome - BrazilCham",
         "Abstract": "Building bridges between Brazil and the United States to empower growth, foster vibrant collaboration, and bring the communities closer together",
-        "Official Site": "https://brazilcham.com/?s=limbus%20ego%20gifts",
+        "Official Site": "https://brazilcham.com/?s=%EA%B3%B5%EA%B3%B5%EC%82%AC%ED%9A%8C%EC%A7%80%EC%B6%9C%20oecd%20%ED%95%9C%EA%B5%AD",
         "Icon": "https://brazilcham.com/assets/mock/header_1_1.jpg",
-        "Redirect": "https://brazilcham.com/?s=limbus%20ego%20gifts",
+        "Redirect": "https://brazilcham.com/?s=%EA%B3%B5%EA%B3%B5%EC%82%AC%ED%9A%8C%EC%A7%80%EC%B6%9C%20oecd%20%ED%95%9C%EA%B5%AD",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://brazilcham.com/?s=limbus%20ego%20gifts"
+        "AbstractURL": "https://brazilcham.com/?s=%EA%B3%B5%EA%B3%B5%EC%82%AC%ED%9A%8C%EC%A7%80%EC%B6%9C%20oecd%20%ED%95%9C%EA%B5%AD"
     },
     {
         "link": "https://syx.in",
@@ -208,16 +218,6 @@
         "Redirect": "https://eliott.be",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eliott.be"
-    },
-    {
-        "link": "https://maithililifesciences.com",
-        "Heading": "Maithili Life Sciences | From Innovation to Impact in Global Pharma",
-        "Abstract": null,
-        "Official Site": "https://maithililifesciences.com",
-        "Icon": "https://maithililifesciences.com/wp-content/uploads/2026/03/Fav-Icon.png",
-        "Redirect": "https://maithililifesciences.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://maithililifesciences.com"
     },
     {
         "link": "https://financeguide.shop",

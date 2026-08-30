@@ -110,16 +110,6 @@
         "AbstractURL": "https://www.annihilatormetal.com/"
     },
     {
-        "link": "https://earth2tech.com",
-        "Heading": "Expert Guidance for Enterprise Technology Decisions | GigaOm",
-        "Abstract": "Our mission is to make actionable technology research accessible to everyone...",
-        "Official Site": "https://gigaom.com/",
-        "Icon": "https://gigaom.com/wp-content/uploads/sites/1/2021/11/0917ff52-gigaom-light-square.jpg",
-        "Redirect": "https://gigaom.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gigaom.com/"
-    },
-    {
         "link": "https://boggio.net",
         "Heading": "Library - P!",
         "Abstract": null,
@@ -201,13 +191,13 @@
     },
     {
         "link": "https://peakradar.com",
-        "Heading": "Home - PeakRadar.com",
-        "Abstract": "PeakRadar.com is the leading online guide for arts and cultural information for the Pikes Peak region of Colorado.",
-        "Official Site": "https://peakradar.com/",
-        "Icon": "https://peakradar.com/wp-content/uploads/sites/peakradar.com/images/2024/02/PR_New_colors-facebook-sharing.png",
-        "Redirect": "https://peakradar.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://peakradar.com",
+        "Icon": "data:;",
+        "Redirect": "https://peakradar.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://peakradar.com/"
+        "AbstractURL": "https://peakradar.com"
     },
     {
         "link": "https://adstrackingdia.com",

@@ -70,16 +70,6 @@
         "AbstractURL": "https://dataskrive.com/"
     },
     {
-        "link": "https://ptpa.ru",
-        "Heading": "\u0410\u041e \u00ab\u041f\u0422\u041f\u0410\u00bb",
-        "Abstract": "\u041f\u0422\u041f\u0410",
-        "Official Site": "https://ptpa.ru",
-        "Icon": "/images/og-image.png",
-        "Redirect": "https://ptpa.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ptpa.ru"
-    },
-    {
         "link": "https://clivebarker.info",
         "Heading": "The Official Clive Barker Website",
         "Abstract": "Official Site exploring the worlds and works of Clive Barker.",
@@ -178,6 +168,16 @@
         "Redirect": "https://lifebogger.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lifebogger.com/"
+    },
+    {
+        "link": "https://arcadeblogger.com",
+        "Heading": "The Arcade Blogger",
+        "Abstract": "A blog about classic coin operated video arcade machines. Atari, 70s, 80s and Missile Command are featured as well as arcade articles and arcade restorations.",
+        "Official Site": "https://arcadeblogger.com/",
+        "Icon": "https://i0.wp.com/arcadeblogger.com/wp-content/uploads/2026/07/cropped-copilot_20260705_191640-2.png?fit=512%2C512&ssl=1",
+        "Redirect": "https://arcadeblogger.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arcadeblogger.com/"
     },
     {
         "link": "https://bittersweetblog.com",

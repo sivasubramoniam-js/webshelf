@@ -41,13 +41,23 @@
     },
     {
         "link": "https://simplesend.com",
-        "Heading": "My WordPress",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://simplesend.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://simplesend.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://simplesend.com"
+    },
+    {
+        "link": "https://polarishd.com",
+        "Heading": "Sorry, the website has been stopped",
+        "Abstract": null,
+        "Official Site": "https://polarishd.com",
+        "Icon": "N/A",
+        "Redirect": "https://polarishd.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://polarishd.com"
     },
     {
         "link": "https://mydiginest.com",

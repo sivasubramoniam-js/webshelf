@@ -20,16 +20,6 @@
         "AbstractURL": "http://fgpif.ru/"
     },
     {
-        "link": "https://munihualqui.cl",
-        "Heading": "Ilustre Municipalidad de Hualqui",
-        "Abstract": "Ilustre Municipalidad de Hualqui",
-        "Official Site": "https://www.munihualqui.cl//",
-        "Icon": "https://munihualqui.cl/diseno/shared.jpg",
-        "Redirect": "https://www.munihualqui.cl//",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.munihualqui.cl//"
-    },
-    {
         "link": "https://amt-lab.org",
         "Heading": "Arts Management and Technology Lab",
         "Abstract": "The Arts Management & Technology Lab (AMT Lab) provides current and future arts managers, technologists, and researchers with existing best practices and emerging technologies and management practices that create an impact on their work and their organization.",
@@ -108,6 +98,16 @@
         "Redirect": "https://dystroy.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dystroy.org"
+    },
+    {
+        "link": "https://mpgbi.schule",
+        "Heading": "\n                    IServ - mpgbi.schule\n            ",
+        "Abstract": null,
+        "Official Site": "https://mpgbi.schule",
+        "Icon": "/iserv/css/static/icons/android-chrome-192x192.fc2f37a3.png",
+        "Redirect": "https://mpgbi.schule",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mpgbi.schule"
     },
     {
         "link": "https://hoteljobber.com",

@@ -21,13 +21,13 @@
     },
     {
         "link": "https://lutherburbankcenter.org",
-        "Heading": "Luther Burbank Center for the Arts | Official Website",
-        "Abstract": "A non-profit organization that hosts performances in music, dance, theater, comedy and offers family and arts education programs.",
-        "Official Site": "https://lutherburbankcenter.org/home-2/",
-        "Icon": "https://lutherburbankcenter.org/wp-content/uploads/2017/03/favicon.png",
-        "Redirect": "https://lutherburbankcenter.org/home-2/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lutherburbankcenter.org",
+        "Icon": "data:;",
+        "Redirect": "https://lutherburbankcenter.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lutherburbankcenter.org/home-2/"
+        "AbstractURL": "https://lutherburbankcenter.org"
     },
     {
         "link": "https://camping-4-you.de",
@@ -123,11 +123,11 @@
         "link": "https://oceanedge.com",
         "Heading": "Cape Cod Hotels | Official Website | Ocean Edge Resort",
         "Abstract": "Enjoy a family-friendly Cape Cod vacation at Ocean Edge Resort and Golf Club featuring private villas, restaurants, spa, beaches, and variety of activities.",
-        "Official Site": "https://www.oceanedge.com",
+        "Official Site": "https://www.oceanedge.com/",
         "Icon": "https://symphony.cdn.tambourine.com/ocean-edge-resort-golf-club/media/a-house-with-a-large-garden-635708d881339.jpg",
-        "Redirect": "https://www.oceanedge.com",
+        "Redirect": "https://www.oceanedge.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.oceanedge.com"
+        "AbstractURL": "https://www.oceanedge.com/"
     },
     {
         "link": "https://taoeffect.com",
@@ -250,6 +250,16 @@
         "AbstractURL": "https://program-ace.com/"
     },
     {
+        "link": "https://medhelptravels.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://medhelptravels.com",
+        "Icon": "data:;",
+        "Redirect": "https://medhelptravels.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://medhelptravels.com"
+    },
+    {
         "link": "https://chardscoverlessyeas.forum",
         "Heading": "Luck Chest",
         "Abstract": null,
@@ -271,7 +281,7 @@
     },
     {
         "link": "https://registratsiya-officialno.ru",
-        "Heading": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043a\u043b.VPN !!! 27.08.2026  ",
+        "Heading": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u041f\u0440\u043e\u043f\u0438\u0441\u043a\u0430 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u043a\u043b.VPN !!! 25.08.2026  ",
         "Abstract": "\u0412 \u043d\u0430\u0448\u0435\u043c \u0446\u0435\u043d\u0442\u0440\u0435 \u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043e\u0444\u043e\u0440\u043c\u0438\u0442\u044c \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438, \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0438 \u0441 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435\u043c \u043f\u043e \u0432\u0441\u0435\u043c \u0431\u0430\u0437\u0430\u043c \u043c\u0444\u0446. \u041c\u044b \u0432\u044b\u043f\u043e\u043b\u043d\u0438\u043c \u0432\u0441\u0435 \u0431\u044b\u0441\u0442\u0440\u043e \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u0438 \u043d\u0435\u0434\u043e\u0440\u043e\u0433\u043e, \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u043c \u0434\u043e\u0433\u043e\u0432\u043e\u0440 \u0438 \u0434\u0430\u0435\u043c \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0438. \u041c\u044b \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u043c \u0434\u043b\u044f \u0412\u0430\u0441 \u043d\u0430 \u0440\u044b\u043d\u043a\u0435 \u0431\u043e\u043b\u0435\u0435 12 \u043b\u0435\u0442.",
         "Official Site": "https://registratsiya-officialno.ru",
         "Icon": "favicon.ico",

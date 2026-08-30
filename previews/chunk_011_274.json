@@ -140,16 +140,6 @@
         "AbstractURL": "https://cecjuan23.com"
     },
     {
-        "link": "https://cedig.mx",
-        "Heading": "CEDIG",
-        "Abstract": "Inscripciones abiertas en l\u00ednea",
-        "Official Site": "https://cedig.mx",
-        "Icon": "favicon-32x32.png",
-        "Redirect": "https://cedig.mx",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cedig.mx"
-    },
-    {
         "link": "https://cedmaperp.oswaldata.com",
         "Heading": "\n\tUser Authentication\n",
         "Abstract": null,
@@ -268,6 +258,16 @@
         "Redirect": "https://centralescuelaaeronautica.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://centralescuelaaeronautica.com/"
+    },
+    {
+        "link": "https://centralino.it",
+        "Heading": "Centralino Sanitario - Centralino Sanitario",
+        "Abstract": null,
+        "Official Site": "https://centralino.it/",
+        "Icon": "https://centralino.it/wp-content/uploads/2024/03/sharing-1024x576.png",
+        "Redirect": "https://centralino.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://centralino.it/"
     },
     {
         "link": "https://centrum-hildegarda.pl",
