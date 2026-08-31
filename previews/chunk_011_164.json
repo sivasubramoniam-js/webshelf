@@ -1,20 +1,10 @@
 [
     {
-        "link": "https://illustratemagazine.com",
-        "Heading": "Illustrate Magazine | The Independent Music Magazine",
-        "Abstract": "Illustrate Magazine is an independent music publication covering a wide range of global alternative, pop, underground and experimental music.",
-        "Official Site": "https://illustratemagazine.com/",
-        "Icon": "https://illustratemagazine.com/wp-content/uploads/2022/05/Illustrate-Magazine-Logo.jpg",
-        "Redirect": "https://illustratemagazine.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://illustratemagazine.com/"
-    },
-    {
         "link": "https://ofclan.com",
-        "Heading": "Coming Soon",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://ofclan.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://ofclan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ofclan.com"
@@ -61,13 +51,13 @@
     },
     {
         "link": "https://hcg-injections.com",
-        "Heading": "HCG Injections Shop: Losing Weight on the HCG Diet Made Affordable",
-        "Abstract": "HCG Injections Shop sells real, pure and affordable HCG to cater your needs to lose weight while on the protocol. You have 4 choices to either buy hCG Injections 1 Month Kit, 2 Months Kit, 3 Months Kit and 4 Months Kit.",
-        "Official Site": "https://www.hcg-injections.com/",
-        "Icon": "https://www.hcg-injections.com/wp-content/themes/hcg-injections/images/favicon.png",
-        "Redirect": "https://www.hcg-injections.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://hcg-injections.com",
+        "Icon": "data:,",
+        "Redirect": "https://hcg-injections.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hcg-injections.com/"
+        "AbstractURL": "https://hcg-injections.com"
     },
     {
         "link": "https://splitcamera.com",
@@ -170,11 +160,21 @@
         "AbstractURL": "http://socialbicycles.com/"
     },
     {
+        "link": "https://newiris.ru",
+        "Heading": "\u0418\u0420\u0418\u0421 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0443\u0447\u0451\u0442\u0430 \u0416\u0418\u0428\u0418",
+        "Abstract": "\u0418\u0420\u0418\u0421 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0443\u0447\u0451\u0442\u0430 \u0416\u0418\u0428\u0418",
+        "Official Site": "http://newiris.tilda.ws",
+        "Icon": "images/332.png",
+        "Redirect": "http://newiris.tilda.ws",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://newiris.tilda.ws"
+    },
+    {
         "link": "https://servidorparaguay.com",
-        "Heading": "Index of /",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://servidorparaguay.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://servidorparaguay.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://servidorparaguay.com"
@@ -238,5 +238,15 @@
         "Redirect": "https://boyziimen.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://boyziimen.com/"
+    },
+    {
+        "link": "https://ijdscr.org",
+        "Heading": "International journal of dental science and clinical research (IJDSCR) \n      ",
+        "Abstract": "International Journal of Dental Science and Clinical Research (IJDSCR) is a OnLine version cum Open-Access publisher of journals & books covering a wide range of academic disciplines. Our goal is to bring high quality research work IJDSCR Provide dental journal, dental science, Indian dental Journal, Journal of Dental Sciences, Journal of Research in Medical and Dental Science, International Journal of Dental Science, journal of dental sciences.",
+        "Official Site": "https://ijdscr.org",
+        "Icon": "N/A",
+        "Redirect": "https://ijdscr.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ijdscr.org"
     }
 ]

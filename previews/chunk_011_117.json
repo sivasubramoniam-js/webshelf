@@ -160,26 +160,6 @@
         "AbstractURL": "https://fishheadquarters.com"
     },
     {
-        "link": "https://veloxfiber.com.br",
-        "Heading": "Velox Fiber | Internet Veloz de Verdade | Melhor Provedor",
-        "Abstract": "Velox Fiber: internet com alta velocidade, Wi-Fi gr\u00e1tis, instala\u00e7\u00e3o gratuita. Conex\u00e3o est\u00e1vel, benef\u00edcios exclusivos e cobertura em Jandira e Itapevi.",
-        "Official Site": "https://veloxfiber.com.br/",
-        "Icon": "N/A",
-        "Redirect": "https://veloxfiber.com.br/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://veloxfiber.com.br/"
-    },
-    {
-        "link": "https://happychild.org.uk",
-        "Heading": "Project HappyChild - linking children all across the world",
-        "Abstract": null,
-        "Official Site": "https://happychild.org.uk",
-        "Icon": "N/A",
-        "Redirect": "https://happychild.org.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://happychild.org.uk"
-    },
-    {
         "link": "https://privacyworld.blog",
         "Heading": "Privacy World | Data Privacy, Security and Innovation News",
         "Abstract": "Consumer Privacy World is your one-stop shop for fast-breaking news and views from the world of consumer privacy law brought to you by the lawyers of Squire Patton Boggs.",
@@ -261,10 +241,10 @@
     },
     {
         "link": "https://eugy.it",
-        "Heading": "Home - Rombo di Tuono",
-        "Abstract": "Informatica, goliardia, di tutto un po', riddle internet, insomma, un minestrone che a me piace.",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://eugy.it",
-        "Icon": "/favicon.ico",
+        "Icon": "data:,",
         "Redirect": "https://eugy.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eugy.it"
@@ -311,10 +291,10 @@
     },
     {
         "link": "https://marswebhosting.com",
-        "Heading": "Web Hosting Services Bangalore-India-Mars Web Hosting",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://marswebhosting.com",
-        "Icon": "favicon.png",
+        "Icon": "data:,",
         "Redirect": "https://marswebhosting.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://marswebhosting.com"

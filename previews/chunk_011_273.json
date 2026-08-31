@@ -60,16 +60,6 @@
         "AbstractURL": "https://castalymachine.com"
     },
     {
-        "link": "https://castelointerior.com",
-        "Heading": "Castelo Interior \u2013 \u00c1lbum de Figurinhas Cat\u00f3licas",
-        "Abstract": null,
-        "Official Site": "https://castelointerior.com",
-        "Icon": "https://castelointerior.com.br/wp-content/uploads/2026/06/cropped-foto-de-perfil-32x32.png",
-        "Redirect": "https://castelointerior.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://castelointerior.com"
-    },
-    {
         "link": "https://casteloporto.com.br",
         "Heading": "Castelo Porto Software - P\u00e1gina Inicial",
         "Abstract": null,
@@ -92,7 +82,7 @@
     {
         "link": "https://castles-app.com",
         "Heading": "castles-app.com",
-        "Abstract": null,
+        "Abstract": "Find information, resources and relevant links for castles-app.com. This domain may be for sale.",
         "Official Site": "https://castles-app.com",
         "Icon": "N/A",
         "Redirect": "https://castles-app.com",
@@ -118,6 +108,16 @@
         "Redirect": "https://buppple.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://buppple.com/"
+    },
+    {
+        "link": "https://catur.desa.id",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://catur.desa.id",
+        "Icon": "data:,",
+        "Redirect": "https://catur.desa.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://catur.desa.id"
     },
     {
         "link": "https://cawi.smartpanels.com.pl",
@@ -181,10 +181,10 @@
     },
     {
         "link": "https://cbt.smkmutumalang.sch.id",
-        "Heading": "SMK Muhammadiyah 7 Gondanglegi | Selamat Datang",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://cbt.smkmutumalang.sch.id",
-        "Icon": "https://cbt.smkmutumalang.sch.id/public/images/favicon.ico?v=1771756874",
+        "Icon": "data:,",
         "Redirect": "https://cbt.smkmutumalang.sch.id",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cbt.smkmutumalang.sch.id"
@@ -208,15 +208,5 @@
         "Redirect": "https://cbtified.com.ng",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cbtified.com.ng"
-    },
-    {
-        "link": "https://cbtsmkiss.com",
-        "Heading": "Masuk ke Ujian Online",
-        "Abstract": null,
-        "Official Site": "https://cbtsmkiss.com",
-        "Icon": "https://cbtsmkiss.com/images/favicon.ico",
-        "Redirect": "https://cbtsmkiss.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cbtsmkiss.com"
     }
 ]

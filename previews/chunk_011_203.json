@@ -10,6 +10,16 @@
         "AbstractURL": "https://www.murray.com/en-us/"
     },
     {
+        "link": "https://alamo-group.com",
+        "Heading": "Alamo Group - Alamo Group Inc.",
+        "Abstract": "Alamo Group, the parent company ofglobal brands focused in infrastructure maintenance",
+        "Official Site": "https://www.alamo-group.com/",
+        "Icon": "https://www.alamo-group.com/alamo-group.png",
+        "Redirect": "https://www.alamo-group.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.alamo-group.com/"
+    },
+    {
         "link": "https://exclusivetravel.co",
         "Heading": "Exclusive holiday guides to luxury destinations and resorts",
         "Abstract": "Exclusive Travel Group luxury holiday destinations in UK, Caribbean' Europe and the world",
@@ -21,13 +31,13 @@
     },
     {
         "link": "https://webx-asia.com",
-        "Heading": "WebX2026 | ASIA\u2019S LEADING WEB3 CONFERENCE",
-        "Abstract": "WebX is Asia\u2019s largest web3 conference planned and managed by CoinPost, Japan\u2019s largest crypto/web3 media. Key players, startups, companies, investors, government officials, and media from Japan and abroad will gather at the Tokyo International Forum, Japan\u2019s leading international ",
-        "Official Site": "https://webx-asia.com/",
-        "Icon": "https://webx-asia.com/img/ogpimg2026.png",
-        "Redirect": "https://webx-asia.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://webx-asia.com",
+        "Icon": "data:,",
+        "Redirect": "https://webx-asia.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://webx-asia.com/"
+        "AbstractURL": "https://webx-asia.com"
     },
     {
         "link": "https://storyarts.org",
@@ -98,16 +108,6 @@
         "Redirect": "https://limelightcollection.co.uk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://limelightcollection.co.uk/"
-    },
-    {
-        "link": "https://radionadzieja.pl",
-        "Heading": "Radio Nadzieja",
-        "Abstract": "audycje spo\u0142eczne, edukacyjne, rozrywkowe, dyskusje informacyjne, wiadomo\u015bci diecezji \u0142om\u017cy\u0144skiej",
-        "Official Site": "https://radionadzieja.pl/",
-        "Icon": "https://radionadzieja.pl/wp-content/uploads/2025/12/radio.png",
-        "Redirect": "https://radionadzieja.pl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://radionadzieja.pl/"
     },
     {
         "link": "https://planetargon.com",
@@ -190,14 +190,24 @@
         "AbstractURL": "https://kyouma.net"
     },
     {
-        "link": "https://indianalandmarks.org",
-        "Heading": "\n    Indiana Landmarks and Historic Preservation - Indiana Landmarks  ",
-        "Abstract": "See the many ways that Indiana Landmarks saves and revitalizes places that matter in Indiana.",
-        "Official Site": "https://www.indianalandmarks.org/",
-        "Icon": "https://www.indianalandmarks.org/wp-content/uploads/2016/07/open-graph-default.png",
-        "Redirect": "https://www.indianalandmarks.org/",
+        "link": "https://simplycashadvance.net",
+        "Heading": "simplycashadvance.net\u00a0-\u00a0simplycashadvance Resources and Information.",
+        "Abstract": "simplycashadvance.net is your first and best source for information about simplycashadvance. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://simplycashadvance.net",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://simplycashadvance.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.indianalandmarks.org/"
+        "AbstractURL": "https://simplycashadvance.net"
+    },
+    {
+        "link": "https://indianalandmarks.org",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://indianalandmarks.org",
+        "Icon": "data:,",
+        "Redirect": "https://indianalandmarks.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://indianalandmarks.org"
     },
     {
         "link": "https://openeden.com",

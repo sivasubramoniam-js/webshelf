@@ -91,10 +91,10 @@
     },
     {
         "link": "https://beleske.com",
-        "Heading": "Bele\u0161ke",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://beleske.com",
-        "Icon": "https://beleske.com/wp-content/uploads/2016/01/favicon.png",
+        "Icon": "data:,",
         "Redirect": "https://beleske.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://beleske.com"
@@ -178,6 +178,16 @@
         "Redirect": "https://gym-neu.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gym-neu.de"
+    },
+    {
+        "link": "https://peruhostweb.com",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://peruhostweb.com",
+        "Icon": "data:,",
+        "Redirect": "https://peruhostweb.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://peruhostweb.com"
     },
     {
         "link": "https://bitlayer-rpc.com",

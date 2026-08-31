@@ -41,33 +41,23 @@
     },
     {
         "link": "https://unaat.edu.pe",
-        "Heading": "Universidad Nacional Aut\u00f3noma Altoandina de Tarma - UNAAT - Plataforma del Estado Peruano",
-        "Abstract": "La Universidad Nacional Aut\u00f3noma Altoandina de Tarma (UNAAT) es una instituci\u00f3n p\u00fablica conformada por docentes, estudiantes y egresados. Se rige y... #gobpe",
-        "Official Site": "https://www.gob.pe/unaat",
-        "Icon": "https://www.gob.pe/assets/escudo-rojo-200-f4bf73f7.png",
-        "Redirect": "https://www.gob.pe/unaat",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://unaat.edu.pe",
+        "Icon": "data:,",
+        "Redirect": "https://unaat.edu.pe",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.gob.pe/unaat"
+        "AbstractURL": "https://unaat.edu.pe"
     },
     {
         "link": "https://attinternetbenton.com",
-        "Heading": "att internet benton",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://attinternetbenton.com",
         "Icon": "N/A",
         "Redirect": "https://attinternetbenton.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://attinternetbenton.com"
-    },
-    {
-        "link": "https://kjopeforerkort.com",
-        "Heading": "Kj\u00f8pe f\u00f8rerkort. Bestille nytt f\u00f8rerkort uten eksamen 11000.",
-        "Abstract": "Kj\u00f8pe f\u00f8rerkort. kj\u00f8pe et registrert norsk f\u00f8rerkort. kj\u00f8p nytt f\u00f8rerkort.",
-        "Official Site": "https://kjopeforerkort.com/",
-        "Icon": "https://kjopeforerkort.com/wp-content/uploads/2026/02/imageedit_41_9956685017.jpg",
-        "Redirect": "https://kjopeforerkort.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kjopeforerkort.com/"
     },
     {
         "link": "https://archoninfosys.com",
@@ -121,10 +111,10 @@
     },
     {
         "link": "https://chefpakistan.com",
-        "Heading": "Chef Pakistan \u2013 Cooking Around the World",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://chefpakistan.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://chefpakistan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chefpakistan.com"
@@ -221,7 +211,7 @@
     },
     {
         "link": "https://lineage38r.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://lineage38r.com",
         "Icon": "N/A",
@@ -268,5 +258,15 @@
         "Redirect": "https://www.unjourdeplusaparis.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.unjourdeplusaparis.com"
+    },
+    {
+        "link": "https://muebles-fernandez.com",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://muebles-fernandez.com",
+        "Icon": "data:,",
+        "Redirect": "https://muebles-fernandez.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://muebles-fernandez.com"
     }
 ]

@@ -61,13 +61,23 @@
     },
     {
         "link": "https://loweboard.com",
-        "Heading": "Welcome to Aerial Office | loweboard",
-        "Abstract": "loweboard is A bottom stone to meet a friend:-Today is the day that what i YTD did, TMR is the day that what i passed today, today i come to airport just passed what i did YTD.",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://loweboard.com",
-        "Icon": "/favicon.ico",
+        "Icon": "data:,",
         "Redirect": "https://loweboard.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://loweboard.com"
+    },
+    {
+        "link": "https://templatelens.com",
+        "Heading": "Template Lens",
+        "Abstract": "Award Winning Creative Blogging Theme Allium is a clean and minimalist theme that allows for readers to focus on your content. Allium theme is fully compatible with Gutenberg content editor. It is easy to use, and free to download. Preview on WordPress Download Version 1.0.4 Last updated January 20, 2026 Active installations 1,618+ WordPress version\u2026",
+        "Official Site": "https://templatelens.com/",
+        "Icon": "https://templatelens.com/wp-content/uploads/2025/11/template-lens-allium-theme.webp",
+        "Redirect": "https://templatelens.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://templatelens.com/"
     },
     {
         "link": "https://transchemical.ru",
@@ -158,16 +168,6 @@
         "Redirect": "https://budu5-v.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://budu5-v.ru"
-    },
-    {
-        "link": "https://selectnetworx.com",
-        "Heading": "Select Networx | Hardware-Agnostic Network Management with SNAPx",
-        "Abstract": "Hardware-agnostic network management solutions for integrators and property owners.",
-        "Official Site": "https://selectnetworx.com",
-        "Icon": "/favicon.svg",
-        "Redirect": "https://selectnetworx.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://selectnetworx.com"
     },
     {
         "link": "https://pushceu.it",
@@ -261,10 +261,10 @@
     },
     {
         "link": "https://ordertvandinternet.com",
-        "Heading": "TV & Internet offers ",
-        "Abstract": "Find and choose the right TV and internet packages for your home. Save more with latest bundle offers.",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://ordertvandinternet.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://ordertvandinternet.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ordertvandinternet.com"

@@ -54,7 +54,7 @@
         "Heading": "\uc6b0\ub4dc\uc62c\ub80c\uc2a4 - \uce5c\ud658\uacbd\uc6d0\ubaa9\uac00\uad6c \uc6b0\ub4dc\uc62c\ub80c\uc2a4",
         "Abstract": "\uc6d0\ubaa9\uac00\uad6c, \uce5c\ud658\uacbd\uc6d0\ubaa9\uac00\uad6c, \uc218\uc81c\uc6d0\ubaa9\uac00\uad6c, \uc6d0\ubaa9\uac00\uad6c\ube0c\ub79c\ub4dc, \uc6d0\ubaa9\uac00\uad6c\ub9de\ucda4\uc81c\uc791",
         "Official Site": "https://woodolens.com/",
-        "Icon": "https://woodolens.com/web/upload/share-image-1-2aea3556c00a3c5ab285fc6a105c46f1.jpg",
+        "Icon": "https://www.woodolens.com/web/upload/share-image-1-2aea3556c00a3c5ab285fc6a105c46f1.jpg",
         "Redirect": "https://woodolens.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://woodolens.com/"
@@ -210,24 +210,14 @@
         "AbstractURL": "https://www.workelo.eu/"
     },
     {
-        "link": "https://workingfortecline.com",
-        "Heading": "Just a moment...",
-        "Abstract": null,
-        "Official Site": "https://workingfortecline.com",
-        "Icon": "N/A",
-        "Redirect": "https://workingfortecline.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://workingfortecline.com"
-    },
-    {
         "link": "https://worksmile.com",
-        "Heading": "Platforma HR dla ca\u0142ej organizacji",
-        "Abstract": "Szukasz platformy, kt\u00f3ra \u0142\u0105czy komunikacj\u0119 wewn\u0105trz firmy, benefity i wiele innych? Odkryj Worksmile i poznaj modu\u0142y dla ma\u0142ych i du\u017cych firm! \u2b50",
-        "Official Site": "https://worksmile.com/",
-        "Icon": "https://worksmile.com/wp-content/uploads/2025/10/favicon_worksmile.webp",
-        "Redirect": "https://worksmile.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://worksmile.com",
+        "Icon": "data:,",
+        "Redirect": "https://worksmile.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://worksmile.com/"
+        "AbstractURL": "https://worksmile.com"
     },
     {
         "link": "https://worktravelagency.com",

@@ -71,10 +71,10 @@
     },
     {
         "link": "https://darkhousehosting.co.uk",
-        "Heading": "darkHouse Hosting",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://darkhousehosting.co.uk",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://darkhousehosting.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://darkhousehosting.co.uk"
@@ -110,6 +110,16 @@
         "AbstractURL": "https://tbexcon.com/"
     },
     {
+        "link": "https://cross-border-magazine.com",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://cross-border-magazine.com",
+        "Icon": "data:,",
+        "Redirect": "https://cross-border-magazine.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cross-border-magazine.com"
+    },
+    {
         "link": "https://mercado-uno.com",
         "Heading": "302 Found",
         "Abstract": null,
@@ -128,16 +138,6 @@
         "Redirect": "https://www.mydepotdecor.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mydepotdecor.com/"
-    },
-    {
-        "link": "https://thetechnotricks.net",
-        "Heading": "The Techno Tricks | Technology, AI & Digital Trends",
-        "Abstract": "The Techno Tricks delivers expert insights and practical guides on technology, AI, software, business, finance, cybersecurity, and digital innovation.",
-        "Official Site": "https://thetechnotricks.net/",
-        "Icon": "https://thetechnotricks.net/wp-content/uploads/2026/04/cropped-ChatGPT-Image-Apr-1-2026-08_01_22-PM-32x32.webp",
-        "Redirect": "https://thetechnotricks.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://thetechnotricks.net/"
     },
     {
         "link": "https://studio-1.co.uk",
@@ -251,17 +251,27 @@
     },
     {
         "link": "https://rgzodontologia.com.br",
-        "Heading": "Rgz Odontologia",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://rgzodontologia.com.br",
-        "Icon": "https://rgzodontologia.com.br/wp-content/uploads/2026/05/cropped-logo-rgz-32x32.jpg",
+        "Icon": "data:,",
         "Redirect": "https://rgzodontologia.com.br",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rgzodontologia.com.br"
     },
     {
+        "link": "https://srilankadns.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://srilankadns.com",
+        "Icon": "N/A",
+        "Redirect": "https://srilankadns.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://srilankadns.com"
+    },
+    {
         "link": "https://wflgolftournament.com",
-        "Heading": "wfl golf tournament",
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://wflgolftournament.com",
         "Icon": "N/A",

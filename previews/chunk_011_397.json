@@ -51,10 +51,10 @@
     },
     {
         "link": "https://musicstartup.it",
-        "Heading": "IDM \u2013 Music Startup",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://musicstartup.it",
-        "Icon": "https://musicstartup.it/wp-content/uploads/2022/05/cropped-idm_icon-32x32.png",
+        "Icon": "data:,",
         "Redirect": "https://musicstartup.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://musicstartup.it"
@@ -90,6 +90,16 @@
         "AbstractURL": "https://muslslat.vip"
     },
     {
+        "link": "https://muzmurray.com",
+        "Heading": "Muz Murray | Author, Advaita and Mantra Yoga Teacher, Spiritual Mentor",
+        "Abstract": "Muz Murray (known as Ramana Baba in India) is a mystic and Mantra Master, with half a century of spiritual and yoga experience, psychotherapy and meditation...",
+        "Official Site": "https://www.muzmurray.com/",
+        "Icon": "https://static.wixstatic.com/media/2ba844_332ff40212c14ea8b0b261ae5a9af4d3%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/2ba844_332ff40212c14ea8b0b261ae5a9af4d3%7Emv2.png",
+        "Redirect": "https://www.muzmurray.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.muzmurray.com/"
+    },
+    {
         "link": "https://mvalentine.fr",
         "Heading": "Kassandra",
         "Abstract": null,
@@ -98,16 +108,6 @@
         "Redirect": "https://mvalentine.fr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mvalentine.fr"
-    },
-    {
-        "link": "https://mvarearthmovers.in",
-        "Heading": "MVAR Earth Movers - All Education News",
-        "Abstract": "All Education News",
-        "Official Site": "https://mvarearthmovers.in/",
-        "Icon": "https://mvarearthmovers.in/wp-content/uploads/2026/03/cropped-MVAR-Earth-Movers-32x32.png",
-        "Redirect": "https://mvarearthmovers.in/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mvarearthmovers.in/"
     },
     {
         "link": "https://mvcollegebuxarmanage.com",
@@ -210,14 +210,14 @@
         "AbstractURL": "https://mxit.online/"
     },
     {
-        "link": "https://my-lpg.in",
-        "Heading": "My LPG India \u2013 LPG Gas Price Today, Subsidy, Booking & Ujjwala Updates",
-        "Abstract": "Check LPG Gas Cylinder Price Today, subsidy status, refill booking, Ujjwala Yojana updates, HP Gas, Bharat Gas & Indane LPG services online at My LPG India.",
-        "Official Site": "https://my-lpg.in/",
-        "Icon": "https://my-lpg.in/wp-content/uploads/2025/11/Mylpg.in-lpg-gas.webp",
-        "Redirect": "https://my-lpg.in/",
+        "link": "https://my-kawaii-shop.com",
+        "Heading": "Index of /",
+        "Abstract": null,
+        "Official Site": "https://my-kawaii-shop.com",
+        "Icon": "N/A",
+        "Redirect": "https://my-kawaii-shop.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://my-lpg.in/"
+        "AbstractURL": "https://my-kawaii-shop.com"
     },
     {
         "link": "https://my.smciligan.edu.ph",
@@ -308,6 +308,16 @@
         "Redirect": "https://mybestbook.online",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mybestbook.online"
+    },
+    {
+        "link": "https://mybestvenue.com",
+        "Heading": "Premium Banquet Halls & Wedding Venues \u2013 My Best Venue",
+        "Abstract": "Book online premium banquet halls & wedding venues for weddings, receptions, parties & corporate events. Call +91 9990555740 today.",
+        "Official Site": "https://www.mybestvenue.com",
+        "Icon": "https://mybestvenue-s3-bucket.s3.ap-south-1.amazonaws.com/public/favicon.png",
+        "Redirect": "https://www.mybestvenue.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mybestvenue.com"
     },
     {
         "link": "https://mybigwin.site",

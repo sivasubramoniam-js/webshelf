@@ -30,16 +30,6 @@
         "AbstractURL": "https://www.lostinwanderlandshop.nl/"
     },
     {
-        "link": "https://carorbis.com",
-        "Heading": "Carorbis | India\u2019s Most Trusted Car & Bike Accessories Online Store",
-        "Abstract": "Shop the largest collection of car and bike accessories, and auto care products online from top brands with fast delivery anywhere in India. Free shipping on orders above Rs. 499. Browse by vehicle at Carorbis. ",
-        "Official Site": "https://www.carorbis.in",
-        "Icon": "https://caraorbis.s3.ap-south-1.amazonaws.com/802c104b-09f2-4225-9741-d7cdc141163d_12cd3733-e438-4612-b4b9-a33252654939_97e6ed1f-063b-46a5-b365-9c39ef541bc0_carorbis-new-1.svg",
-        "Redirect": "https://www.carorbis.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.carorbis.in"
-    },
-    {
         "link": "https://solwaycarclub.co.uk",
         "Heading": "Solway Car Club \u2013 2014 MSA Club of the Year",
         "Abstract": null,
@@ -48,16 +38,6 @@
         "Redirect": "https://solwaycarclub.co.uk",
         "AbstractSource": "BS4",
         "AbstractURL": "https://solwaycarclub.co.uk"
-    },
-    {
-        "link": "https://nskmultiservices.in",
-        "Heading": "\n                            Scale Your Business with Custom Software Solutions - NSKMultiservices\n            ",
-        "Abstract": "Custom web development, mobile applications, digital marketing, branding, and enterprise IT consulting designed to optimize efficiency and drive growth.",
-        "Official Site": "https://nskmultiservices.in",
-        "Icon": "https://nskmultiservices.in/blog/featured/default-blog-image.webp",
-        "Redirect": "https://nskmultiservices.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nskmultiservices.in"
     },
     {
         "link": "https://purebhakti.com",
@@ -71,13 +51,13 @@
     },
     {
         "link": "https://groundguitar.com",
-        "Heading": "Ground Guitar \u2013 All things Rock & Roll.",
-        "Abstract": "All things Rock & Roll.",
-        "Official Site": "https://www.groundguitar.com/",
-        "Icon": "https://www.groundguitar.com/wp-content/themes/groundguitar-theme/images/groundguitarlogog.jpg",
-        "Redirect": "https://www.groundguitar.com/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://groundguitar.com",
+        "Icon": "data:,",
+        "Redirect": "https://groundguitar.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.groundguitar.com/"
+        "AbstractURL": "https://groundguitar.com"
     },
     {
         "link": "https://onibusevans.com.br",
@@ -141,10 +121,10 @@
     },
     {
         "link": "https://bouwjebootje.nl",
-        "Heading": "BouwJeBootje",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://bouwjebootje.nl",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://bouwjebootje.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bouwjebootje.nl"
@@ -268,6 +248,16 @@
         "Redirect": "https://aipaperwriter.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aipaperwriter.org"
+    },
+    {
+        "link": "https://kohlpharma.com",
+        "Heading": "Home - kohlpharma",
+        "Abstract": "kohlpharma nutzt die Preisunterschiede f\u00fcr Medikamente in der EU und bietet Original-Arzneimittel in Deutschland g\u00fcnstiger als der Original-Hersteller an.",
+        "Official Site": "https://www.kohlpharma.com/",
+        "Icon": "https://www.kohlpharma.com/wp-content/uploads/kp-favicon.ico",
+        "Redirect": "https://www.kohlpharma.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.kohlpharma.com/"
     },
     {
         "link": "https://onlypixels.com",

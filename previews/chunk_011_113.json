@@ -100,16 +100,6 @@
         "AbstractURL": "https://ctrlgrid.net/"
     },
     {
-        "link": "https://burgundy-report.com",
-        "Heading": "Burgundy-Report \u2013 The people, the place, their wines\u2026",
-        "Abstract": "The people, the place, their wines...",
-        "Official Site": "https://www.burgundy-report.com/",
-        "Icon": "https://www.burgundy-report.com/wp/wp-content/uploads/2012/01/FWOB.gif",
-        "Redirect": "https://www.burgundy-report.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.burgundy-report.com/"
-    },
-    {
         "link": "https://bancha.co.uk",
         "Heading": "Index of /",
         "Abstract": null,
@@ -210,6 +200,16 @@
         "AbstractURL": "https://www.gracelink.net/"
     },
     {
+        "link": "https://sarbpropiedades.cl",
+        "Heading": "SARB Propiedades",
+        "Abstract": "SARB Propiedades, somos una empresa de corretaje, creada a partir de la necesidad de entregar un servicio completo, integral y de calidad. Transformamos tu b\u00fasqueda de hogar en una experiencia \u00fanica, con a\u00f1os de experiencia en el mercado inmobiliario, te ofrecemos un servicio personalizado, respaldado por un profundo conocimiento del sector\u2026",
+        "Official Site": "https://www.sarbpropiedades.cl/",
+        "Icon": "https://www.toppropiedades.cl/imagenes/icono_6f55759b22.png",
+        "Redirect": "https://www.sarbpropiedades.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sarbpropiedades.cl/"
+    },
+    {
         "link": "https://savageservices.com",
         "Heading": "Savage",
         "Abstract": null,
@@ -258,26 +258,6 @@
         "Redirect": "https://www.fulfill.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.fulfill.com"
-    },
-    {
-        "link": "https://anishinabeknews.ca",
-        "Heading": "Anishinabek News",
-        "Abstract": null,
-        "Official Site": "https://anishinabeknews.ca",
-        "Icon": "https://anishinabeknews.ca/wp-content/uploads/2024/01/cropped-ANews-Icon-32x32.png",
-        "Redirect": "https://anishinabeknews.ca",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://anishinabeknews.ca"
-    },
-    {
-        "link": "https://white-ibiza.com",
-        "Heading": "WHITE IBIZA \u2014 The Island Guide",
-        "Abstract": "The Ibiza you love, from the insiders you trust.",
-        "Official Site": "https://white-ibiza.com/",
-        "Icon": "https://white-ibiza.com/wp-content/uploads/2024/07/screenshot-yoast.jpg",
-        "Redirect": "https://white-ibiza.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://white-ibiza.com/"
     },
     {
         "link": "https://normandyvillagehall.org",

@@ -10,21 +10,11 @@
         "AbstractURL": "https://xtubeflix.com/"
     },
     {
-        "link": "https://myhealthbeauty.com.my",
-        "Heading": "Malaysia Health & Beauty Awards",
-        "Abstract": "Malaysia Health & Beauty Awards celebrates the best health and beauty products in Malaysia. Discover top brands and vote for your favourites.",
-        "Official Site": "https://myhealthbeauty.com.my/",
-        "Icon": "https://myhealthbeauty.com.my/wp-content/uploads/2026/02/logo-page.png?10001087",
-        "Redirect": "https://myhealthbeauty.com.my/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://myhealthbeauty.com.my/"
-    },
-    {
         "link": "https://myhonorbd.com",
-        "Heading": null,
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://myhonorbd.com",
-        "Icon": "N/A",
+        "Icon": "data:,",
         "Redirect": "https://myhonorbd.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://myhonorbd.com"
@@ -161,7 +151,7 @@
     },
     {
         "link": "https://mytpguide.com",
-        "Heading": null,
+        "Heading": "Mytpguide.com",
         "Abstract": null,
         "Official Site": "https://mytpguide.com",
         "Icon": "N/A",

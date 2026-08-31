@@ -1,13 +1,23 @@
 [
     {
         "link": "https://reiterjournal.com",
-        "Heading": "Home | Reiterjournal ",
+        "Heading": "One moment, please...",
         "Abstract": null,
-        "Official Site": "https://reiterjournal.com/",
-        "Icon": "https://reiterjournal.com/rj/1070/image-thumb__1070__OG-Image/logo_top.png",
-        "Redirect": "https://reiterjournal.com/",
+        "Official Site": "https://reiterjournal.com",
+        "Icon": "data:,",
+        "Redirect": "https://reiterjournal.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://reiterjournal.com/"
+        "AbstractURL": "https://reiterjournal.com"
+    },
+    {
+        "link": "https://supporthives.com",
+        "Heading": "Support Hives \u2013 | Develop, Host & Monitor",
+        "Abstract": null,
+        "Official Site": "https://supporthives.com",
+        "Icon": "https://supporthives.com/wp-content/uploads/2022/07/logo-copy.png",
+        "Redirect": "https://supporthives.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://supporthives.com"
     },
     {
         "link": "https://gl-tours.com",
@@ -58,6 +68,16 @@
         "Redirect": "https://www.ahta.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ahta.org/"
+    },
+    {
+        "link": "https://profesorfrancisco.es",
+        "Heading": "Profesor Francisco | Recursos de Geograf\u00eda, Historia y Arte",
+        "Abstract": "Blog de recursos para clase de historia, geograf\u00eda y arte: res\u00famenes, actividades, esquemas, TIC, etc. para alumnos y profesores.",
+        "Official Site": "https://www.profesorfrancisco.es/",
+        "Icon": "https://www.profesorfrancisco.es/favicon.ico",
+        "Redirect": "https://www.profesorfrancisco.es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.profesorfrancisco.es/"
     },
     {
         "link": "https://vfmac.edu",
@@ -151,10 +171,10 @@
     },
     {
         "link": "https://johnpawson.com",
-        "Heading": "John Pawson - Homepage",
-        "Abstract": "",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://johnpawson.com",
-        "Icon": "/favicon.ico",
+        "Icon": "data:,",
         "Redirect": "https://johnpawson.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://johnpawson.com"
@@ -231,10 +251,10 @@
     },
     {
         "link": "https://prosoluc.cl",
-        "Heading": "Prosoluc - prosoluc.cl",
-        "Abstract": "Bienvenido a PROSOLUC E-mail contacto@prosoluc.cl Direcci\u00f3n: Santa Adela 341, Recoleta, Santiago, Chile",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://prosoluc.cl",
-        "Icon": "img/favicon.ico",
+        "Icon": "data:,",
         "Redirect": "https://prosoluc.cl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://prosoluc.cl"
@@ -258,16 +278,6 @@
         "Redirect": "https://systempb.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://systempb.ru/"
-    },
-    {
-        "link": "https://lmg.jp",
-        "Heading": "\u5927\u559c\u5229\u30e9\u30f3\u30ad\u30f3\u30b0",
-        "Abstract": "2\u7968\u5236\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u5927\u559c\u5229\u30b5\u30a4\u30c8",
-        "Official Site": " https://lmg.jp/",
-        "Icon": " https://lmg.jp/image/ogp.png",
-        "Redirect": " https://lmg.jp/",
-        "AbstractSource": "BS4",
-        "AbstractURL": " https://lmg.jp/"
     },
     {
         "link": "https://geo-itoigawa.com",

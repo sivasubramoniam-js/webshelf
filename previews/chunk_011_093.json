@@ -10,16 +10,6 @@
         "AbstractURL": "https://rebeccaskloot.com"
     },
     {
-        "link": "https://panmuntour.go.kr",
-        "Heading": "\ud310\ubb38\uc810 \uacac\ud559 | Panmunjom Tour",
-        "Abstract": "\ud310\ubb38\uc810\uacac\ud559\uc740 \ub300\ud55c\ubbfc\uad6d \uad6d\ubbfc \ub204\uad6c\ub098 \uc774\uc6a9\uc774 \uac00\ub2a5\ud569\ub2c8\ub2e4.",
-        "Official Site": "https://www.panmuntour.go.kr",
-        "Icon": "https://www.panmuntour.go.kr/static/img/splash02.jpg",
-        "Redirect": "https://www.panmuntour.go.kr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.panmuntour.go.kr"
-    },
-    {
         "link": "https://thetailcompany.com",
         "Heading": "The Tail Company - Bring life to your Cosplay or Fursona!",
         "Abstract": "The Tail Company make amazing moving tails, ears, paws and wings! App-controlled, customized for you, bringing life to your Cosplay!",
@@ -51,10 +41,10 @@
     },
     {
         "link": "https://noithatgiakho.com",
-        "Heading": "N\u1ed9i Th\u1ea5t Gi\u00e1 Kho | Kh\u00f4ng lo v\u1ec1 gi\u00e1!",
-        "Abstract": "N\u1ed9i Th\u1ea5t Gi\u00e1 Kho chuy\u00ean cung c\u1ea5p sofa, b\u00e0n \u0103n, gi\u01b0\u1eddng, b\u00e0n tr\u1ea3, t\u1ee7, c\u00e1c s\u1ea3n ph\u1ea9m n\u1ed9i th\u1ea5t th\u00f4ng minh... Giao h\u00e0ng - l\u1eafp \u0111\u1eb7t t\u1eadn n\u01a1i, b\u1ea3o h\u00e0nh ch\u00ednh h\u00e3ng",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://noithatgiakho.com",
-        "Icon": "https://noithatgiakho.com/wp-content/uploads/2026/03/thu-duc.webp",
+        "Icon": "data:,",
         "Redirect": "https://noithatgiakho.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://noithatgiakho.com"
@@ -71,10 +61,10 @@
     },
     {
         "link": "https://clivebarker.info",
-        "Heading": "The Official Clive Barker Website",
-        "Abstract": "Official Site exploring the worlds and works of Clive Barker.",
+        "Heading": "One moment, please...",
+        "Abstract": null,
         "Official Site": "https://clivebarker.info",
-        "Icon": "/favicon.ico",
+        "Icon": "data:,",
         "Redirect": "https://clivebarker.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://clivebarker.info"
@@ -101,13 +91,13 @@
     },
     {
         "link": "https://australianmusician.com.au",
-        "Heading": "Home - Australian Musician Magazine",
-        "Abstract": "A magazine for all musicians. Latest Australian artist interviews and profiles. Gear review and videos plus much more.",
-        "Official Site": "https://australianmusician.com.au/",
-        "Icon": "https://australianmusician.com.au/wp-content/uploads/2023/06/fav-150x150.png",
-        "Redirect": "https://australianmusician.com.au/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://australianmusician.com.au",
+        "Icon": "data:,",
+        "Redirect": "https://australianmusician.com.au",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://australianmusician.com.au/"
+        "AbstractURL": "https://australianmusician.com.au"
     },
     {
         "link": "https://ukbb.ch",
@@ -198,16 +188,6 @@
         "Redirect": "./",
         "AbstractSource": "BS4",
         "AbstractURL": "./"
-    },
-    {
-        "link": "https://okuhida.or.jp",
-        "Heading": "\u5965\u98db\u9a28\u6e29\u6cc9\u90f7\u89b3\u5149\u5354\u4f1a",
-        "Abstract": null,
-        "Official Site": "https://okuhida.or.jp",
-        "Icon": "https://okuhida.or.jp/wp-content/uploads/2026/01/cropped-favicon-2-32x32.png",
-        "Redirect": "https://okuhida.or.jp",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://okuhida.or.jp"
     },
     {
         "link": "https://uptownspirits.com",

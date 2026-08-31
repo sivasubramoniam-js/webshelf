@@ -51,10 +51,10 @@
     },
     {
         "link": "https://cwcab.com",
-        "Heading": "Catch With Care \u2013 Made for Fishermen \u2013 By Fishermen",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://cwcab.com",
-        "Icon": "https://cwcab.com/wp-content/uploads/2020/10/cropped-catch-with-care-32x32.png",
+        "Icon": "data:,",
         "Redirect": "https://cwcab.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cwcab.com"
@@ -180,16 +180,6 @@
         "AbstractURL": "https://www.diybunker.com/"
     },
     {
-        "link": "https://satisfly.co",
-        "Heading": "Satisfly - E-Commerce, that sells",
-        "Abstract": "We deliver B2B / B2C e-Commerce based on Magento and Shopify. We develop PIM and bespoke web apps, that support e-Commerce. Tell us about your project!",
-        "Official Site": "https://satisfly.co/",
-        "Icon": "https://satisfly.co/wp-content/uploads/2022/08/Frame-60.png",
-        "Redirect": "https://satisfly.co/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://satisfly.co/"
-    },
-    {
         "link": "https://edp73.ru",
         "Heading": "\u0412\u0430\u0448 \u044e\u0440\u0438\u0441\u0442",
         "Abstract": "\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u044f \u044e\u0440\u0438\u0441\u0442\u0430",
@@ -198,16 +188,6 @@
         "Redirect": "https://edp73.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://edp73.ru/"
-    },
-    {
-        "link": "https://onesails.com",
-        "Heading": "OneSails \u2013 Custom & One Design Sails for Racing and Cruising",
-        "Abstract": "High-performance sails engineered for speed and durability. Custom-made for racing, cruising and one design. Trusted by sailors in 40+ countries. Get a quote.",
-        "Official Site": "https://www.onesails.com/",
-        "Icon": "https://www.onesails.com/wp-content/uploads/home-slide-01-2.jpg",
-        "Redirect": "https://www.onesails.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.onesails.com/"
     },
     {
         "link": "https://reedpop.com",
