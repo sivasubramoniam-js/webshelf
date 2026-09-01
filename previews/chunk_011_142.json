@@ -73,11 +73,11 @@
         "link": "https://iau-idf.fr",
         "Heading": "L'Institut Paris Region  - Institut Paris R\u00e9gion",
         "Abstract": "200 experts font dialoguer toutes les disciplines pour apporter un conseil strat\u00e9gique aux collectivit\u00e9s et aux acteurs de l'am\u00e9nagement du territoire.",
-        "Official Site": "https://www.institutparisregion.fr/",
-        "Icon": "https://www.institutparisregion.fr/fileadmin/DataStorage/_processed_/4/8/csm_Cards_IPR_55f4030e84.jpg",
-        "Redirect": "https://www.institutparisregion.fr/",
+        "Official Site": "https://www.institutparisregion.fr:443/",
+        "Icon": "https://www.institutparisregion.fr:443/fileadmin/DataStorage/_processed_/4/8/csm_Cards_IPR_55f4030e84.jpg",
+        "Redirect": "https://www.institutparisregion.fr:443/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.institutparisregion.fr/"
+        "AbstractURL": "https://www.institutparisregion.fr:443/"
     },
     {
         "link": "https://gmsil.com",
@@ -110,21 +110,11 @@
         "AbstractURL": "https://www.080job.com"
     },
     {
-        "link": "https://fridaynightfunkingame.io",
-        "Heading": "Xoilac TV Live - Tr\u1ef1c Ti\u1ebfp World Cup 2026 - Xem TTBD HD",
-        "Abstract": "Xoilac Live Org l\u00e0 k\u00eanh xem tr\u1ef1c ti\u1ebfp b\u00f3ng \u0111\u00e1 t\u1ed1c \u0111\u1ed9 cao, link Xoilac tv ch\u00ednh th\u1ee9c t\u01b0\u1eddng thu\u1eadt b\u00f3ng \u0111\u00e1 tr\u1ef1c tuy\u1ebfn t\u1ea1i X\u00f4i L\u1ea1c tv nhi\u1ec1u gi\u1ea3i \u0111\u1ea5u h\u1ea5p d\u1eabn.",
-        "Official Site": "https://hintchain.io/",
-        "Icon": "https://cdn.hintchain.io/wp-content/uploads/2026/01/xoilactv.webp",
-        "Redirect": "https://hintchain.io/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hintchain.io/"
-    },
-    {
         "link": "https://gnss-lp.co.il",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://gnss-lp.co.il",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://gnss-lp.co.il",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gnss-lp.co.il"
@@ -231,10 +221,10 @@
     },
     {
         "link": "https://techniumscience.com",
-        "Heading": "One moment, please...",
+        "Heading": "Bot Verification",
         "Abstract": null,
         "Official Site": "https://techniumscience.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://techniumscience.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://techniumscience.com"
@@ -248,16 +238,6 @@
         "Redirect": "https://www.powercastco.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.powercastco.com"
-    },
-    {
-        "link": "https://spuelenprofi.de",
-        "Heading": "Sicherheitspruefung",
-        "Abstract": null,
-        "Official Site": "https://spuelenprofi.de",
-        "Icon": "N/A",
-        "Redirect": "https://spuelenprofi.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://spuelenprofi.de"
     },
     {
         "link": "https://barbarabui.com",

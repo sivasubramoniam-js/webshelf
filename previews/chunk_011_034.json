@@ -61,10 +61,10 @@
     },
     {
         "link": "https://ksbuilders.net",
-        "Heading": "One moment, please...",
+        "Heading": "\nKs Builders | Just another WordPress site",
         "Abstract": null,
         "Official Site": "https://ksbuilders.net",
-        "Icon": "data:,",
+        "Icon": "https://ksbuilders.net/wp-content/themes/ksBuilders/assets/images/favicon.png",
         "Redirect": "https://ksbuilders.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ksbuilders.net"
@@ -81,23 +81,33 @@
     },
     {
         "link": "https://ofkbeograd.co.rs",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://ofkbeograd.co.rs",
-        "Icon": "data:,",
-        "Redirect": "https://ofkbeograd.co.rs",
+        "Heading": "OFK Beograd Mozzart Bet - Zvani\u010dan sajt OFK Beograda",
+        "Abstract": "Zvani\u010dan sajt OFK Beograda",
+        "Official Site": "https://ofkbeograd.com/",
+        "Icon": "https://ofkbeograd.com/wp-content/uploads/2024/01/cropped-cropped-ofkgrbfinal1-32x32.png",
+        "Redirect": "https://ofkbeograd.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ofkbeograd.co.rs"
+        "AbstractURL": "https://ofkbeograd.com/"
     },
     {
         "link": "https://stafir.com",
         "Heading": "Stafir \u2014 B2B Marketplace & Wholesale Marketplace for Global Trade",
         "Abstract": "Verified suppliers, wholesale products and B2B services worldwide. Source globally on Stafir.",
         "Official Site": "https://stafir.com/",
-        "Icon": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b1049b0528c9b7ee0bade10e94875c54/id-preview-d9ab88fb--067f26f7-c2ad-42e6-b226-a3566415362b.lovable.app-1788114240734.png",
+        "Icon": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/600e7a4248dde35452149a324cdf4ae7/id-preview-8b122b06--067f26f7-c2ad-42e6-b226-a3566415362b.lovable.app-1788206204068.png",
         "Redirect": "https://stafir.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://stafir.com/"
+    },
+    {
+        "link": "https://siefar.org",
+        "Heading": "SIEFAR \u2013 Soci\u00e9t\u00e9 Internationale pour l'Etude des Femmes de l'Ancien R\u00e9gime",
+        "Abstract": null,
+        "Official Site": "https://siefar.org",
+        "Icon": "/wp-content/uploads/2025/05/favicon.png",
+        "Redirect": "https://siefar.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://siefar.org"
     },
     {
         "link": "https://robo-apply.com",
@@ -168,16 +178,6 @@
         "Redirect": "https://fanxs.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fanxs.com"
-    },
-    {
-        "link": "https://gs-micro.com",
-        "Heading": "MCU\u65b9\u6848\u5f00\u53d1 | AI\u8bed\u97f3\u8bc6\u522b\u4ea4\u4e92\u89e3\u51b3\u65b9\u6848\uff08\u82af\u7247+\u7b97\u6cd5\uff09\u6a21\u62df\u82af\u7247\u96c6\u6210\u670d\u52a1  - \u6388\u6743\u4e00\u7ea7\u4ee3\u7406\u5546| \u5e7f\u665f\u5fae\u534a\u5bfc\u4f53",
-        "Abstract": "\u5e7f\u665f\u5fae\u4e13\u6ce8\u6570\u6a21\u6df7\u5408\u82af\u7247\u4ee3\u7406\u4e0e\u65b9\u6848\u670d\u52a1\uff0c\u63d0\u4f9b\u201c\u82af\u7247+\u7b97\u6cd5\u201dAI\u8bed\u97f3\u8bc6\u522b\u4ea4\u4e92\u89e3\u51b3\u65b9\u6848\uff0c\u52a9\u529b\u667a\u80fd\u8bbe\u5907\u542c\u61c2\u7528\u6237\u58f0\u97f3\u3002\u6280\u672f\u652f\u6301/\u65b9\u6848\u5f00\u53d1\u3002\u4e00\u7ad9\u5f0f\u914d\u5957\uff0c\u70ed\u7ebf\uff1a18018703531",
-        "Official Site": "https://gs-micro.com",
-        "Icon": "N/A",
-        "Redirect": "https://gs-micro.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gs-micro.com"
     },
     {
         "link": "https://gumiyum.com",

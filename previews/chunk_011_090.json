@@ -41,20 +41,20 @@
     },
     {
         "link": "https://sasklotteries.ca",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://sasklotteries.ca",
-        "Icon": "data:,",
-        "Redirect": "https://sasklotteries.ca",
+        "Heading": "Sask Lotteries - Play your part in building our community.",
+        "Abstract": "For over 50 years, Sask Lotteries has been the main fundraiser for more than 12,000 sport, culture and recreation groups in communities across Saskatchewan. Support our Community Proceeds from the\u2026",
+        "Official Site": "https://sasklotteries.ca/",
+        "Icon": "https://www.sasklotteries.ca/wp-content/uploads/2023/10/skl-og.jpg",
+        "Redirect": "https://sasklotteries.ca/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sasklotteries.ca"
+        "AbstractURL": "https://sasklotteries.ca/"
     },
     {
         "link": "https://crossfitedwardsville.com",
-        "Heading": "One moment, please...",
+        "Heading": "CrossFit Edwardsville \u2013 Quite Possibly The Best Gym In Town \u2013 Carbon, IL",
         "Abstract": null,
         "Official Site": "https://crossfitedwardsville.com",
-        "Icon": "data:,",
+        "Icon": "https://crossfitedwardsville.com/wp-content/uploads/2022/04/cropped-CrossFitEdwardsvilleLimitlessLogoVariationImpactFontwithGoldGlow-32x32.png",
         "Redirect": "https://crossfitedwardsville.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://crossfitedwardsville.com"
@@ -100,6 +100,16 @@
         "AbstractURL": "https://wildcardmobile.com/"
     },
     {
+        "link": "https://andersinno.net",
+        "Heading": "Anders - Kokenut ohjelmistokehityksen luottokumppani",
+        "Abstract": "Merkityksellisi\u00e4 ratkaisuja liiketoimintasi kehitt\u00e4miseen kokeneelta asiantuntijatiimilt\u00e4.",
+        "Official Site": "https://anders.com",
+        "Icon": "https://anders.com/wp-content/uploads/2023/05/anders_etusivu_header_.jpg",
+        "Redirect": "https://anders.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://anders.com"
+    },
+    {
         "link": "https://china-huana.com",
         "Heading": "\u597d\u770b\u7684\u5916\u56fd\u5927\u7247\u514d\u8d39\u64ad\u653e-\u597d\u83b1\u575e\u53e3\u7891\u4f73\u7247\u63a8\u8350-\u5916\u56fd\u5927\u7247\u514d\u8d39\u64ad\u653e\u5927\u5168",
         "Abstract": "\u597d\u770b\u7684\u5916\u56fd\u5927\u7247\u514d\u8d39\u64ad\u653e\u5e73\u53f0\uff0c\u6c47\u805a\u597d\u83b1\u575e\u5de8\u5236\u3001\u6b27\u6d32\u6587\u827a\u4f73\u4f5c\u4e0e\u65e5\u97e9\u53e3\u7891\u529b\u4f5c\uff0c\u9ad8\u6e05\u6b63\u7248\u7247\u6e90\u6bcf\u65e5\u66f4\u65b0\u3002\u5916\u56fd\u5927\u7247\u514d\u8d39\u64ad\u653e\u5927\u5168\u7cbe\u9009\u9ad8\u5206\u5916\u8bed\u7535\u5f71\u4e0e\u9662\u7ebf\u70ed\u6620\uff0c\u624b\u673a\u7535\u8111\u6d41\u7545\u64ad\u653e\uff0c\u6253\u5f00\u5373\u770b\u3002",
@@ -111,13 +121,13 @@
     },
     {
         "link": "https://makersite.io",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://makersite.io",
-        "Icon": "data:,",
-        "Redirect": "https://makersite.io",
+        "Heading": "Makersite | AI-Powered Product Lifecycle Intelligence",
+        "Abstract": "AI, data and apps for procurement, product design and expert teams to make faster sustainable product and supply chain decisions, at scale.",
+        "Official Site": "https://makersite.io/",
+        "Icon": "https://makersite.io/wp-content/uploads/2025/06/Yeost-background.png",
+        "Redirect": "https://makersite.io/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://makersite.io"
+        "AbstractURL": "https://makersite.io/"
     },
     {
         "link": "https://maximafurnitures.com",

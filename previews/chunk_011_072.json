@@ -31,13 +31,13 @@
     },
     {
         "link": "https://fofonka.com.br",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://fofonka.com.br",
-        "Icon": "data:,",
-        "Redirect": "https://fofonka.com.br",
+        "Heading": "Sites e sistemas sob medida",
+        "Abstract": "Cria\u00e7\u00e3o de sites, lojas virtuais e sistemas sob medida, desenvolvidos do zero e otimizados para busca org\u00e2nica no Google.",
+        "Official Site": "https://agencia.fofonka.com.br/",
+        "Icon": "https://agencia.fofonka.com.br/assets/img/og-fofonka.jpg",
+        "Redirect": "https://agencia.fofonka.com.br/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fofonka.com.br"
+        "AbstractURL": "https://agencia.fofonka.com.br/"
     },
     {
         "link": "https://porta-polonica.de",
@@ -51,13 +51,13 @@
     },
     {
         "link": "https://silverstrikers.mw",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://silverstrikers.mw",
-        "Icon": "data:,",
-        "Redirect": "https://silverstrikers.mw",
+        "Heading": "silverstrikersmw.com",
+        "Abstract": "silver strikers website",
+        "Official Site": "https://silverstrikers.mw/",
+        "Icon": "https://silverstrikers.mw/wp-content/uploads/2020/05/cropped-PRELOAD-32x32.png",
+        "Redirect": "https://silverstrikers.mw/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://silverstrikers.mw"
+        "AbstractURL": "https://silverstrikers.mw/"
     },
     {
         "link": "https://thepowernews.co.kr",
@@ -200,6 +200,16 @@
         "AbstractURL": "https://absoluterx.com"
     },
     {
+        "link": "https://akicomi.com",
+        "Heading": "\u79cb\u30b3\u30df.com / TOP\u30da\u30fc\u30b8",
+        "Abstract": "\u79cb\u30b3\u30df\u306f\u3001\u540c\u4eba\u8a8c\u5c02\u9580\u5e97\u306a\u3089\u3067\u306f\u306e\u5145\u5b9f\u306e\u54c1\u305e\u308d\u3048!\u3055\u3089\u306b\u30dd\u30a4\u30f3\u30c8\u9084\u5143\u6700\u5927100\uff05",
+        "Official Site": "https://akicomi.com/",
+        "Icon": "/html/user_data/assets/img/common/favicon.ico",
+        "Redirect": "https://akicomi.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://akicomi.com/"
+    },
+    {
         "link": "https://biancaclinic.jp",
         "Heading": "\u65e5\u672c\u3092\u4ee3\u8868\u3059\u308b\u7f8e\u5bb9\u5065\u5eb7\u518d\u751f\u533b\u7642\u306e\u30af\u30ea\u30cb\u30c3\u30af\uff5cBIANCAGINZA",
         "Abstract": "BIANCA CLINIC\u306f\u9280\u5ea7\u30fb\u8868\u53c2\u9053\u3092\u62e0\u70b9\u306b\u3001\u7f8e\u5bb9\u5916\u79d1\u3001\u7f8e\u5bb9\u76ae\u819a\u79d1\u3001\u7f8e\u5bb9\u5185\u79d1\u3001\u518d\u751f\u533b\u7642\u3092\u63d0\u4f9b\u3059\u308b\u7f8e\u5bb9\u5065\u5eb7\u533b\u7642\u30af\u30ea\u30cb\u30c3\u30af\u3067\u3059\u3002",
@@ -278,6 +288,16 @@
         "Redirect": "https://kraehe.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kraehe.de"
+    },
+    {
+        "link": "https://lkidiomas.com",
+        "Heading": "Language Kingdom - Especialistas en inmersi\u00f3n ling\u00fc\u00edstica",
+        "Abstract": "Language Kingdom es experta en inmersiones ling\u00fc\u00edsticas y formaci\u00f3n en idiomas. Explora los programas LK Ministay, Weekcamp, Verano, etc.",
+        "Official Site": "https://lkidiomas.com/",
+        "Icon": "https://lkidiomas.com/wp-content/uploads/2024/08/banner-estudiantes-lk-home.jpg",
+        "Redirect": "https://lkidiomas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lkidiomas.com/"
     },
     {
         "link": "https://love-rugs.com",

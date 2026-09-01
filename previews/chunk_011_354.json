@@ -1,10 +1,10 @@
 [
     {
         "link": "https://jujuypadel.com.ar",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "\n        Union Juje\u00f1a de Padel    ",
+        "Abstract": "Una asociaci\u00f3n deportiva enfocada en el crecimiento del padel juje\u00f1o.",
         "Official Site": "https://jujuypadel.com.ar",
-        "Icon": "data:,",
+        "Icon": "../assets/img//favicon.png",
         "Redirect": "https://jujuypadel.com.ar",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jujuypadel.com.ar"
@@ -28,16 +28,6 @@
         "Redirect": "https://juliomartinezwitix.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://juliomartinezwitix.com"
-    },
-    {
-        "link": "https://julioprates.com",
-        "Heading": "\u606d\u559c\uff0c\u7ad9\u70b9\u521b\u5efa\u6210\u529f\uff01",
-        "Abstract": null,
-        "Official Site": "https://julioprates.com",
-        "Icon": "N/A",
-        "Redirect": "https://julioprates.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://julioprates.com"
     },
     {
         "link": "https://juniatamusic.com",
@@ -212,7 +202,7 @@
     {
         "link": "https://k-break-nagano.com",
         "Heading": "k-break-nagano.com",
-        "Abstract": "Find information, resources and relevant links for k-break-nagano.com. This domain may be for sale.",
+        "Abstract": null,
         "Official Site": "https://k-break-nagano.com",
         "Icon": "N/A",
         "Redirect": "https://k-break-nagano.com",

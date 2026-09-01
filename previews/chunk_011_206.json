@@ -91,10 +91,10 @@
     },
     {
         "link": "https://salienthosting.com",
-        "Heading": "One moment, please...",
+        "Heading": "Salient Hosting | Affordable Web Hosting | Macon, Georgia",
         "Abstract": null,
         "Official Site": "https://salienthosting.com",
-        "Icon": "data:,",
+        "Icon": "favicon.ico",
         "Redirect": "https://salienthosting.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://salienthosting.com"
@@ -108,6 +108,16 @@
         "Redirect": "https://sessionbox.io",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sessionbox.io"
+    },
+    {
+        "link": "https://kaitaku.or.jp",
+        "Heading": "\u5317\u6d77\u9053\u958b\u62d3\u306e\u6751",
+        "Abstract": "\u5317\u6d77\u9053\u958b\u62d3\u306e\u6751\u306f\u3001\u660e\u6cbb\u304b\u3089\u662d\u548c\u521d\u671f\u306b\u304b\u3051\u3066\u5efa\u8a2d\u3055\u308c\u305f\u5317\u6d77\u9053\u5404\u5730\u306e\u5efa\u9020\u7269\u3092\u5fa9\u5143\u518d\u73fe\u3057\u305f\u91ce\u5916\u535a\u7269\u9928\u3067\u3059\u3002",
+        "Official Site": "https://www.kaitaku.or.jp",
+        "Icon": "/assets/img/og-image.jpg",
+        "Redirect": "https://www.kaitaku.or.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.kaitaku.or.jp"
     },
     {
         "link": "https://unblinkingeye.com",
@@ -141,13 +151,13 @@
     },
     {
         "link": "https://pickem-mongolia.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://pickem-mongolia.com",
-        "Icon": "data:,",
-        "Redirect": "https://pickem-mongolia.com",
+        "Heading": "MelBet Pick'em: Join the Challenge for Counter-Strike 2 and Dota 2",
+        "Abstract": "Predict CS2 and Dota 2 matches with MelBet Pick\u2019em! Win prizes, join exclusive Pick\u2019em Challenges, earn points, and feel the thrill of free esports predictions!",
+        "Official Site": "https://pickem-mongolia.com/",
+        "Icon": "https://hel1.your-objectstorage.com/hel2/2025/08/22124620/og-image.png",
+        "Redirect": "https://pickem-mongolia.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pickem-mongolia.com"
+        "AbstractURL": "https://pickem-mongolia.com/"
     },
     {
         "link": "https://apreciart.pe",
@@ -161,10 +171,10 @@
     },
     {
         "link": "https://augmentj.com",
-        "Heading": "One moment, please...",
+        "Heading": "AugmentJ.com - Hosting & Web Development",
         "Abstract": null,
         "Official Site": "https://augmentj.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://augmentj.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://augmentj.com"
@@ -198,16 +208,6 @@
         "Redirect": "https://nutritioninthekitch.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nutritioninthekitch.com/"
-    },
-    {
-        "link": "https://cebudentalcare.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://cebudentalcare.com",
-        "Icon": "data:,",
-        "Redirect": "https://cebudentalcare.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://cebudentalcare.com"
     },
     {
         "link": "https://kabono.com",
@@ -281,13 +281,13 @@
     },
     {
         "link": "https://venturaspharma.it",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://venturaspharma.it",
-        "Icon": "data:,",
-        "Redirect": "https://venturaspharma.it",
+        "Heading": "Home | Ventura's pharma",
+        "Abstract": "Riscopri il tuo benessere con Ventura\u2019s Pharma La tua parafarmacia di fiducia per una vasta gamma di prodotti e servizi dedicati alla tua salute e al tuo",
+        "Official Site": "https://venturaspharma.it/",
+        "Icon": "https://venturaspharma.it/wp-content/uploads/2023/09/medicine01.png",
+        "Redirect": "https://venturaspharma.it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://venturaspharma.it"
+        "AbstractURL": "https://venturaspharma.it/"
     },
     {
         "link": "https://amir.capital",

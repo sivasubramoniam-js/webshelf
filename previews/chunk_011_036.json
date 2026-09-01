@@ -201,20 +201,20 @@
     },
     {
         "link": "https://cafesarina.com",
-        "Heading": "One moment, please...",
+        "Heading": "Home - Cafe Sarina",
         "Abstract": null,
-        "Official Site": "https://cafesarina.com",
-        "Icon": "data:,",
-        "Redirect": "https://cafesarina.com",
+        "Official Site": "https://cafesarina.com/",
+        "Icon": "//cafesarina.com/wp-content/uploads/2025/04/Screenshot-2025-04-03-at-1.22.31-PM.png",
+        "Redirect": "https://cafesarina.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cafesarina.com"
+        "AbstractURL": "https://cafesarina.com/"
     },
     {
         "link": "https://meridianbanjara.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://meridianbanjara.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://meridianbanjara.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://meridianbanjara.com"

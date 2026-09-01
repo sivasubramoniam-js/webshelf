@@ -1,13 +1,13 @@
 [
     {
         "link": "https://thefightcity.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://thefightcity.com",
-        "Icon": "data:,",
-        "Redirect": "https://thefightcity.com",
+        "Heading": "The Fight City - An independent boxing website",
+        "Abstract": "An independent boxing website",
+        "Official Site": "https://www.thefightcity.com/",
+        "Icon": "https://www.thefightcity.com/wp-content/uploads/2021/10/cropped-fightcitylogo3-1-32x32.png",
+        "Redirect": "https://www.thefightcity.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thefightcity.com"
+        "AbstractURL": "https://www.thefightcity.com/"
     },
     {
         "link": "https://actions-pack.com",
@@ -31,13 +31,13 @@
     },
     {
         "link": "https://sportsintegrityinitiative.com",
-        "Heading": "One moment, please...",
+        "Heading": "Home - Sports Integrity Initiative",
         "Abstract": null,
-        "Official Site": "https://sportsintegrityinitiative.com",
-        "Icon": "data:,",
-        "Redirect": "https://sportsintegrityinitiative.com",
+        "Official Site": "https://www.sportsintegrityinitiative.com/",
+        "Icon": "https://www.sportsintegrityinitiative.com/wp-content/themes/sports/assets/img/favicon-32x32.png",
+        "Redirect": "https://www.sportsintegrityinitiative.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sportsintegrityinitiative.com"
+        "AbstractURL": "https://www.sportsintegrityinitiative.com/"
     },
     {
         "link": "https://git-send-email.io",
@@ -141,10 +141,10 @@
     },
     {
         "link": "https://fuelcurve.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Fuel Curve | Performance Automotive Lifestyle Purists",
+        "Abstract": "Performance Automotive Lifestyle Purists",
         "Official Site": "https://fuelcurve.com",
-        "Icon": "data:,",
+        "Icon": "https://fuelcurve.com/wp-content/uploads/2017/06/fcfavicon.jpg",
         "Redirect": "https://fuelcurve.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fuelcurve.com"

@@ -81,10 +81,10 @@
     },
     {
         "link": "https://fleethost.ca",
-        "Heading": "One moment, please...",
+        "Heading": "Accueil - Fleethost.ca",
         "Abstract": null,
         "Official Site": "https://fleethost.ca",
-        "Icon": "data:,",
+        "Icon": "/templates/lagom2/assets/img/favicons/favicon.ico",
         "Redirect": "https://fleethost.ca",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fleethost.ca"
@@ -161,13 +161,13 @@
     },
     {
         "link": "https://best-seo.co.il",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://best-seo.co.il",
-        "Icon": "data:,",
-        "Redirect": "https://best-seo.co.il",
+        "Heading": "\u05d1\u05e0\u05d9\u05d9\u05d4 \u05d5\u05e2\u05d9\u05e6\u05d5\u05d1 \u05d3\u05e4\u05d9 \u05e0\u05d7\u05d9\u05ea\u05d4 \u05d5\u05d0\u05ea\u05e8\u05d9\u05dd, \u05e7\u05d9\u05d3\u05d5\u05dd \u05d0\u05ea\u05e8\u05d9\u05dd \u05d5\u05e4\u05e8\u05e1\u05d5\u05dd \u05de\u05de\u05d5\u05de\u05df \u05d1\u05d2\u05d5\u05d2\u05dc \u05d6\u05d4 \u05d0\u05e0\u05d7\u05e0\u05d5!",
+        "Abstract": "\u05e7\u05d9\u05d3\u05d5\u05dd \u05d0\u05ea\u05e8\u05d9\u05dd \u05d0\u05d5\u05e8\u05d2\u05e0\u05d9 \u05d5\u05de\u05de\u05d5\u05de\u05df \u05dc\u05d0\u05e8\u05d2\u05d5\u05e0\u05d9\u05dd \u05d5\u05dc\u05d7\u05d1\u05e8\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea, \u05e9\u05d9\u05d5\u05d5\u05e7 \u05d5\u05e4\u05e8\u05e1\u05d5\u05dd \u05d1\u05e8\u05e9\u05ea\u05d5\u05ea \u05d4\u05d7\u05d1\u05e8\u05ea\u05d9\u05d5\u05ea \u05d5\u05d1\u05e8\u05e9\u05ea\u05d5\u05ea \u05d4\u05ea\u05d5\u05db\u05df \u05d4\u05de\u05d5\u05d1\u05d9\u05dc\u05d5\u05ea, \u05d1\u05e0\u05d9\u05d9\u05d4 \u05d5\u05e2\u05d9\u05e6\u05d5\u05d1 \u05d0\u05ea\u05e8\u05d9\u05dd \u05d5\u05e0\u05d9\u05d4\u05d5\u05dc \u05de\u05d5\u05e0\u05d9\u05d8\u05d9\u05df.",
+        "Official Site": "https://www.best-seo.co.il/",
+        "Icon": "https://www.best-seo.co.il/wp-content/uploads/2019/06/cropped-favicon-1-16x16.png",
+        "Redirect": "https://www.best-seo.co.il/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://best-seo.co.il"
+        "AbstractURL": "https://www.best-seo.co.il/"
     },
     {
         "link": "https://waetech.com",
@@ -180,6 +180,16 @@
         "AbstractURL": "https://waetech.com"
     },
     {
+        "link": "https://vesperservices.com",
+        "Heading": "Vesper Services",
+        "Abstract": null,
+        "Official Site": "https://vesperservices.com",
+        "Icon": "https://vesperservices.com/wp-content/uploads/2024/10/logo-100x100.png",
+        "Redirect": "https://vesperservices.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vesperservices.com"
+    },
+    {
         "link": "https://nyamedia.net",
         "Heading": "nya_media | Web Development & Interaction Design",
         "Abstract": "nya_media is Nathan Y Arnold. A senior-level web developer with over 15 years of experience in web development, interaction design and information architecture. I have a background in journalism and specialize in the production and design of rich internet applications, with a focus on news, finance and social media.",
@@ -190,31 +200,21 @@
         "AbstractURL": "https://nyamedia.net"
     },
     {
-        "link": "https://williamashley.com",
-        "Heading": "Best Selection of Quality Tableware and Giftware in Canada | William Ashley",
-        "Abstract": "SHOP North America's Best & Widest Selection of Quality Dinnerware, Stemware, Home Decor & Kitchenware. The famous Warehouse Sale is now Online!",
-        "Official Site": "https://williamashley.com",
-        "Icon": "https://6t1xgm-6v68rnfly1es.cloudmaestro.com/Fx7gLZHVd/media/favicon/default/xlogo_initials_wa_crown.png.pagespeed.ic.03-_P3jZUO.png",
-        "Redirect": "https://williamashley.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://williamashley.com"
-    },
-    {
         "link": "https://alpineinnhillcity.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Experience Black Hills Fine Dining : Alpine Inn",
+        "Abstract": "The luncheon menu boasts both ethnic European and contemporary dishes. The famous streamlined evening menu features filet mignon and homemade desserts that are just as aesthetically pleasing to the eye as the pallet!",
         "Official Site": "https://alpineinnhillcity.com",
-        "Icon": "data:,",
+        "Icon": "https://alpineinnhillcity.com/assets/img/alpine.jpg",
         "Redirect": "https://alpineinnhillcity.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alpineinnhillcity.com"
     },
     {
         "link": "https://vipadam.net",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "vipAdam - L\u00fcleburgaz Web Tasar\u0131m Hizmetleri",
+        "Abstract": "Site hakk\u0131nda k\u0131sa a\u00e7\u0131klama alan\u0131",
         "Official Site": "https://vipadam.net",
-        "Icon": "data:,",
+        "Icon": "https://vipadam.net/images/favicon.ico",
         "Redirect": "https://vipadam.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vipadam.net"

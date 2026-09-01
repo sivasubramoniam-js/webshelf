@@ -51,10 +51,10 @@
     },
     {
         "link": "https://cwcab.com",
-        "Heading": "One moment, please...",
+        "Heading": "Catch With Care \u2013 Made for Fishermen \u2013 By Fishermen",
         "Abstract": null,
         "Official Site": "https://cwcab.com",
-        "Icon": "data:,",
+        "Icon": "https://cwcab.com/wp-content/uploads/2020/10/cropped-catch-with-care-32x32.png",
         "Redirect": "https://cwcab.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cwcab.com"
@@ -178,6 +178,16 @@
         "Redirect": "https://www.diybunker.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.diybunker.com/"
+    },
+    {
+        "link": "https://satisfly.co",
+        "Heading": "Satisfly - E-Commerce, that sells",
+        "Abstract": "We deliver B2B / B2C e-Commerce based on Magento and Shopify. We develop PIM and bespoke web apps, that support e-Commerce. Tell us about your project!",
+        "Official Site": "https://satisfly.co/",
+        "Icon": "https://satisfly.co/wp-content/uploads/2022/08/Frame-60.png",
+        "Redirect": "https://satisfly.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://satisfly.co/"
     },
     {
         "link": "https://edp73.ru",

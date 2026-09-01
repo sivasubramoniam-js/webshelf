@@ -10,6 +10,16 @@
         "AbstractURL": "https://jba-system.com"
     },
     {
+        "link": "https://jbstudy.kr",
+        "Heading": "\uc804\ubd81\uad50\uc721\uc5f0\uc218\ud3ec\ud138",
+        "Abstract": "\uc804\ubd81\uad50\uc721\uc5f0\uc218\ud3ec\ud138",
+        "Official Site": "https://jbstudy.kr",
+        "Icon": "/resource/image/favicon.ico",
+        "Redirect": "https://jbstudy.kr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jbstudy.kr"
+    },
+    {
         "link": "https://jeanne-bijoux.com",
         "Heading": "Lune Artisanale\n",
         "Abstract": "Lune Artisanale",
@@ -31,23 +41,23 @@
     },
     {
         "link": "https://jeetexch99.com",
-        "Heading": "Jeetexch - A Secure Digital Entertainment Hub Online",
-        "Abstract": "Jeetexch is built around small things done right: quick loading, clean design, secure logins, and rewards that arrive on time. Simple as that, really.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://jeetexch99.com",
-        "Icon": "https://d3htdx7djhryaf.cloudfront.net/rjm/jeetexch/gs/61af7cee35ef516388907347773.png",
+        "Icon": "N/A",
         "Redirect": "https://jeetexch99.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jeetexch99.com"
     },
     {
         "link": "https://jegyzetem.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://jegyzetem.com",
-        "Icon": "data:,",
-        "Redirect": "https://jegyzetem.com",
+        "Heading": "Jegyzetek irodalom t\u00e1rgyb\u00f3l (k\u00f6z\u00e9piskolai \u00e9s egyetemi szint)",
+        "Abstract": "Az oldalon tal\u00e1lhat\u00f3 irodalom jegyzetek list\u00e1ja. Magyar \u00e9s vil\u00e1girodalom, seg\u00e9danyag tanul\u00e1shoz (k\u00f6z\u00e9piskola, egyetem).",
+        "Official Site": "https://jegyzetem.com/",
+        "Icon": "https://jegyzetem.com/wp-content/uploads/cropped-jegyzetem_logo-32x32.jpg",
+        "Redirect": "https://jegyzetem.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jegyzetem.com"
+        "AbstractURL": "https://jegyzetem.com/"
     },
     {
         "link": "https://jelasjp379.motorcycles",
@@ -201,12 +211,12 @@
     },
     {
         "link": "https://jhon-shopetrousers.lat",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://jhon-shopetrousers.lat",
-        "Icon": "data:,",
-        "Redirect": "https://jhon-shopetrousers.lat",
+        "Heading": "JHONSLOT | Platform Rekreasi Digital Modern Pilihan Utama Bagi Penggemar Slot Gacor",
+        "Abstract": "JHONSLOT hadir sebagai platform rekreasi digital modern pilihan utama bagi penggemar slot gacor. Dapatkan sensasi taruhan paling fair, sistem anti lag, serta jaminan bayar lunas instan.",
+        "Official Site": "https://jhonslotdsb1.com/",
+        "Icon": "https://jhonslotdsb1.com/image/banner-jhonslot.jpg",
+        "Redirect": "https://jhonslotdsb1.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jhon-shopetrousers.lat"
+        "AbstractURL": "https://jhonslotdsb1.com/"
     }
 ]

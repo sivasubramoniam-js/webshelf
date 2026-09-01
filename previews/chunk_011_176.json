@@ -41,20 +41,20 @@
     },
     {
         "link": "https://unaat.edu.pe",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://unaat.edu.pe",
-        "Icon": "data:,",
-        "Redirect": "https://unaat.edu.pe",
+        "Heading": "Universidad Nacional Aut\u00f3noma Altoandina de Tarma - UNAAT - Plataforma del Estado Peruano",
+        "Abstract": "La Universidad Nacional Aut\u00f3noma Altoandina de Tarma (UNAAT) es una instituci\u00f3n p\u00fablica conformada por docentes, estudiantes y egresados. Se rige y... #gobpe",
+        "Official Site": "https://www.gob.pe/unaat",
+        "Icon": "https://www.gob.pe/assets/escudo-rojo-200-f4bf73f7.png",
+        "Redirect": "https://www.gob.pe/unaat",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://unaat.edu.pe"
+        "AbstractURL": "https://www.gob.pe/unaat"
     },
     {
         "link": "https://attinternetbenton.com",
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://attinternetbenton.com",
-        "Icon": "N/A",
+        "Icon": "https://storage.googleapis.com/landing_pager_public/favicons/opdf.ico",
         "Redirect": "https://attinternetbenton.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://attinternetbenton.com"
@@ -111,10 +111,10 @@
     },
     {
         "link": "https://chefpakistan.com",
-        "Heading": "One moment, please...",
+        "Heading": "Chef Pakistan \u2013 Cooking Around the World",
         "Abstract": null,
         "Official Site": "https://chefpakistan.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://chefpakistan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://chefpakistan.com"
@@ -150,16 +150,6 @@
         "AbstractURL": "https://www.flooringsuppliescentre.co.uk/"
     },
     {
-        "link": "https://madeinspace.us",
-        "Heading": "Made in Space -",
-        "Abstract": null,
-        "Official Site": "https://madeinspace.us/",
-        "Icon": "N/A",
-        "Redirect": "https://madeinspace.us/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://madeinspace.us/"
-    },
-    {
         "link": "https://sweetkissvibe.com",
         "Heading": "Performance Marketing Platform",
         "Abstract": "",
@@ -178,16 +168,6 @@
         "Redirect": "https://cometamedia.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cometamedia.com"
-    },
-    {
-        "link": "https://huongboutique.com",
-        "Heading": "\n      \n        HUONG Boutique | Elegant & Modern Women\u2019s Clothing\n      \n    ",
-        "Abstract": "Designs and produces in Vietnam, HUONG blending taffeta structure with silk softness, offering worldwide shipping.",
-        "Official Site": "https://www.huongboutique.com/",
-        "Icon": "http://www.huongboutique.com/cdn/shop/files/Review_2.png?v=1766160747&width=2048",
-        "Redirect": "https://www.huongboutique.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.huongboutique.com/"
     },
     {
         "link": "https://stonect.cn",
@@ -211,7 +191,7 @@
     },
     {
         "link": "https://lineage38r.com",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://lineage38r.com",
         "Icon": "N/A",
@@ -258,15 +238,5 @@
         "Redirect": "https://www.unjourdeplusaparis.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.unjourdeplusaparis.com"
-    },
-    {
-        "link": "https://muebles-fernandez.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://muebles-fernandez.com",
-        "Icon": "data:,",
-        "Redirect": "https://muebles-fernandez.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://muebles-fernandez.com"
     }
 ]

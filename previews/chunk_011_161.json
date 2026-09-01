@@ -1,7 +1,7 @@
 [
     {
         "link": "https://etenews.net",
-        "Heading": " \u53f0\u7063\u65b0\u805e\u665a\u5831\u96fb\u5b50\u5831",
+        "Heading": "ETENEWS \u2013 \u53f0\u7063\u65b0\u805e\u665a\u5831\u96fb\u5b50\u5831",
         "Abstract": "\u53f0\u7063\u65b0\u805e\u665a\u5831\u96fb\u5b50\u5831",
         "Official Site": "https://etenews.net/",
         "Icon": "https://etenews.net/wp-content/uploads/2015/02/LOGO1-54cdc918v1_site_icon.png",
@@ -130,6 +130,16 @@
         "AbstractURL": "https://defenceforchildren.nl/"
     },
     {
+        "link": "https://womeningames.org",
+        "Heading": "Women In Games",
+        "Abstract": "Women in Games is a dedicated to building a fair and equitable playing field for women in games and esports ensuring diverse representation becomes the norm.",
+        "Official Site": "https://www.womeningames.org/",
+        "Icon": "https://www.womeningames.org/wp-content/uploads/2026/08/wig-social.png",
+        "Redirect": "https://www.womeningames.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.womeningames.org/"
+    },
+    {
         "link": "https://doingdadstuff.com",
         "Heading": "Doing Dad Stuff | Crypto Futures & Risk Analysis",
         "Abstract": "Read Doing Dad Stuff for crypto futures education, Bitcoin and altcoin market research, exchange mechanics, and practical portfolio risk insights.",
@@ -138,6 +148,16 @@
         "Redirect": "https://www.doingdadstuff.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.doingdadstuff.com/"
+    },
+    {
+        "link": "https://rippermedia.com.au",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://rippermedia.com.au",
+        "Icon": "N/A",
+        "Redirect": "https://rippermedia.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rippermedia.com.au"
     },
     {
         "link": "https://inscribirme.com",
@@ -200,6 +220,16 @@
         "AbstractURL": "https://www.movimientoweb.com/"
     },
     {
+        "link": "https://anisalud.com",
+        "Heading": "ANIS | Asociaci\u00f3n Nacional de Informadores de la Salud",
+        "Abstract": "Conoce ANIS, la Asociaci\u00f3n Nacional de Informadores de la Salud. Formaci\u00f3n, eventos y recursos para profesionales de la comunicaci\u00f3n sanitaria",
+        "Official Site": "https://anisalud.com/",
+        "Icon": "https://anisalud.com/wp-content/uploads/2026/06/cropped-logo-ANIS-32x32.png",
+        "Redirect": "https://anisalud.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://anisalud.com/"
+    },
+    {
         "link": "https://fruitart.kz",
         "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f - Frutta",
         "Abstract": "Frutta",
@@ -251,10 +281,10 @@
     },
     {
         "link": "https://bizyouridea.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Biz Your Idea",
+        "Abstract": "BizYourIdea is a fully-fledged writing solution that makes it easy to write your pitch deck or teaser. Now You are closer to turning your idea into a high-scale business. We can say that 'bizzing' your idea has never been so easy.",
         "Official Site": "https://bizyouridea.com",
-        "Icon": "data:,",
+        "Icon": "https://bizyouridea.com/assets/public/images/logo.png",
         "Redirect": "https://bizyouridea.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bizyouridea.com"

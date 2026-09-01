@@ -211,13 +211,13 @@
     },
     {
         "link": "https://sanatateapress.ro",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://sanatateapress.ro",
-        "Icon": "data:,",
-        "Redirect": "https://sanatateapress.ro",
+        "Heading": "S\u0103n\u0103tatea Press Group",
+        "Abstract": "S\u0103n\u0103tatea Press Group a fost \u00eenfiin\u021bat\u0103 din dorin\u021ba unei abord\u0103ri profesioniste \u0219i strategice a comunic\u0103rii \u00een sectorul s\u0103n\u0103tate/ medical. Venim \u00een \u00eent\u00e2mpinarea nevoilor partenerilor no\u0219tri prin oferirea unor servicii complete prin intermediul diviziilor noastre.",
+        "Official Site": "https://www.sanatateapress.ro/",
+        "Icon": "https://www.sanatateapress.ro/wp-content/uploads/2018/02/cropped-Logo-SPG-150dpi-min-32x32.png.pagespeed.ce.4SPBbuRZdp.png",
+        "Redirect": "https://www.sanatateapress.ro/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sanatateapress.ro"
+        "AbstractURL": "https://www.sanatateapress.ro/"
     },
     {
         "link": "https://ppleyg.com",
@@ -241,10 +241,10 @@
     },
     {
         "link": "https://airvartv.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": null,
+        "Abstract": "",
         "Official Site": "https://airvartv.com",
-        "Icon": "data:,",
+        "Icon": "https://airvartv.com/themes/wowonder/img/icon.png",
         "Redirect": "https://airvartv.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://airvartv.com"
@@ -260,11 +260,21 @@
         "AbstractURL": "https://bigskyagri.com"
     },
     {
-        "link": "https://dentalchoiceofmelbourne.com",
-        "Heading": "One moment, please...",
+        "link": "https://czi-grif.ru",
+        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f - \u0426\u0435\u043d\u0442\u0440 \u0437\u0430\u0449\u0438\u0442\u044b \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u00ab\u0413\u0440\u0438\u0444\u00bb",
         "Abstract": null,
+        "Official Site": "https://czi-grif.ru",
+        "Icon": "N/A",
+        "Redirect": "https://czi-grif.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://czi-grif.ru"
+    },
+    {
+        "link": "https://dentalchoiceofmelbourne.com",
+        "Heading": "Dentists, Dental Clinic & Teeth Cleaning Service, Best Cosmetic Dentist in Melbourne FL",
+        "Abstract": "Dental Choice of Melbourne offers expert dental cleanings, dental bridges, and cosmetic dentistry in Melbourne FL. Trusted care for a healthier, more confident smile! Book an appointment.",
         "Official Site": "https://dentalchoiceofmelbourne.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://dentalchoiceofmelbourne.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dentalchoiceofmelbourne.com"
@@ -328,16 +338,6 @@
         "Redirect": "https://allromanceebooks.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://allromanceebooks.com"
-    },
-    {
-        "link": "https://noobslab.com",
-        "Heading": "NoobsLab | Eye on Digital World",
-        "Abstract": "Tutorials for Ubuntu Linux Mint and other Linux versions. We serve themes and conky, Applications, wallpapers, tweaks/tip, tutorial videos & many more",
-        "Official Site": "https://www.noobslab.com/",
-        "Icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrBW31OssZrO4BWNynLFSMJrrNP12qz1lYMFY8b4e498WqvUQJk4rRAL9Ky22qK_9C4jv3nZbD_opu5drhNWRmRR_CcIpiQ57WQC4MZPhlOcigd_GoJ0bc8EHgJYq0nnpLF-hunobMuWWl/s1600/nl-logo-1.gif",
-        "Redirect": "https://www.noobslab.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.noobslab.com/"
     },
     {
         "link": "https://chestertile.com",

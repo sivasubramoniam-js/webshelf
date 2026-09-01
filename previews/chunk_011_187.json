@@ -21,10 +21,10 @@
     },
     {
         "link": "https://acmhainescity.com",
-        "Heading": "One moment, please...",
+        "Heading": "Acm Haines City",
         "Abstract": null,
         "Official Site": "https://acmhainescity.com",
-        "Icon": "data:,",
+        "Icon": "https://www.acmhainescity.com/wp-content/uploads/2022/03/cropped-Logo-32x32.png",
         "Redirect": "https://acmhainescity.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://acmhainescity.com"
@@ -81,20 +81,20 @@
     },
     {
         "link": "https://smashingtheglass.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://smashingtheglass.com",
-        "Icon": "data:,",
-        "Redirect": "https://smashingtheglass.com",
+        "Heading": "Smashing the Glass | Jewish Wedding Blog - Inspired Jewish Weddings",
+        "Abstract": "Inspired Jewish Weddings",
+        "Official Site": "https://www.smashingtheglass.com/",
+        "Icon": "http://www.smashingtheglass.com/wp-content/uploads/2017/06/default-logo-2.jpg",
+        "Redirect": "https://www.smashingtheglass.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://smashingtheglass.com"
+        "AbstractURL": "https://www.smashingtheglass.com/"
     },
     {
         "link": "https://7boutik.net",
-        "Heading": "One moment, please...",
+        "Heading": "Accueil - 7Boutik, L'h\u00e9bergement facile",
         "Abstract": null,
         "Official Site": "https://7boutik.net",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://7boutik.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://7boutik.net"
@@ -120,14 +120,24 @@
         "AbstractURL": "https://www.triangleaptassn.org/"
     },
     {
-        "link": "https://medicinaesteticabenavides.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://medicinaesteticabenavides.com",
-        "Icon": "data:,",
-        "Redirect": "https://medicinaesteticabenavides.com",
+        "link": "https://allalliedhealthschools.com",
+        "Heading": "Find Health Schools and Programs | All Allied Health Schools",
+        "Abstract": "Find the Right Allied Health Program for You Can you see yourself working with patients or providing vital support to other healthcare professionals?",
+        "Official Site": "https://www.allalliedhealthschools.com/",
+        "Icon": "https://www.allalliedhealthschools.com/wp-content/uploads/2021/03/phlebotomist-with-patient-390x390-1.jpg",
+        "Redirect": "https://www.allalliedhealthschools.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://medicinaesteticabenavides.com"
+        "AbstractURL": "https://www.allalliedhealthschools.com/"
+    },
+    {
+        "link": "https://medicinaesteticabenavides.com",
+        "Heading": "Cl\u00ednica Dra. Maria Fernanda Benavides l Medicina Est\u00e9tica Bogot\u00e1",
+        "Abstract": "Medicina Est\u00e9ticay Anti-Aging",
+        "Official Site": "https://medicinaesteticabenavides.com/",
+        "Icon": "https://medicinaesteticabenavides.com/wp-content/uploads/2025/02/cropped-logo_bnv-32x32.png",
+        "Redirect": "https://medicinaesteticabenavides.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://medicinaesteticabenavides.com/"
     },
     {
         "link": "https://ifxcap.com",

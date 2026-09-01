@@ -30,6 +30,16 @@
         "AbstractURL": " "
     },
     {
+        "link": "https://bachproject.net",
+        "Heading": "bach \u2013 Computer-aided composition in Max",
+        "Abstract": "Computer-aided composition in Max",
+        "Official Site": "https://www.bachproject.net/",
+        "Icon": "https://s0.wp.com/i/blank.jpg",
+        "Redirect": "https://www.bachproject.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bachproject.net/"
+    },
+    {
         "link": "https://romanandwilliams.com",
         "Heading": "\n  Original Designed Furniture, Lighting & Art | Roman & Williams Guild\n \u2013 Roman and Williams Guild",
         "Abstract": "Discover our collections of original handmade furniture, lighting, & objects. Inspired by nature, our community of master artists champions the future of craft.",
@@ -62,7 +72,7 @@
     {
         "link": "https://bodoquenams.com.br",
         "Heading": "Instagram",
-        "Abstract": "Welcome back to Instagram. Sign in to check out what your friends, family & interests have been capturing & sharing around the world.",
+        "Abstract": null,
         "Official Site": "https://bodoquenams.com.br",
         "Icon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
         "Redirect": "https://bodoquenams.com.br",
@@ -181,13 +191,13 @@
     },
     {
         "link": "https://jennymodsminecraft.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://jennymodsminecraft.com",
-        "Icon": "data:,",
-        "Redirect": "https://jennymodsminecraft.com",
+        "Heading": "Jenny Mod Minecraft - Download Jenny Mod V1.12.2 (Java & Bedrock 2026)",
+        "Abstract": "Download Jenny Mod for Minecraft v1.12.2 (2026) - Free Jenny Mod APK for Java, Bedrock & MCPE. Safe install, no blur version, 14+ characters. Verified malware-free files.",
+        "Official Site": "https://jennymodsminecraft.com/",
+        "Icon": "https://jennymodsminecraft.com/wp-content/uploads/2025/12/Download-Official-Jenny-Mod-1.webp",
+        "Redirect": "https://jennymodsminecraft.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://jennymodsminecraft.com"
+        "AbstractURL": "https://jennymodsminecraft.com/"
     },
     {
         "link": "https://besured.nl",
@@ -220,6 +230,16 @@
         "AbstractURL": "https://voyageaustin.com/"
     },
     {
+        "link": "https://art-medial.de",
+        "Heading": "Art-Medial Werbeagentur | Werbetechnik und mehr in Spenge",
+        "Abstract": "Bei der Werbeagentur Art-Medial erhalten Sie Werbemittel aller Art. Bei Fragen sind wir unter \u2706 05225 863650 f\u00fcr Sie erreichbar. Zu den Angeboten.",
+        "Official Site": "https://www.art-medial.de/",
+        "Icon": "/images/social_branding.png",
+        "Redirect": "https://www.art-medial.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.art-medial.de/"
+    },
+    {
         "link": "https://energievergelijken.nl",
         "Heading": " Energie vergelijken 2026 | Onafhankelijk & volledig aanbod ",
         "Abstract": "\u00c9cht onafhankelijk energie vergelijken. Vergelijk alle energieleveranciers en bespaar binnen enkele minuten op je energiekosten. Altijd actuele tarieven.",
@@ -248,6 +268,16 @@
         "Redirect": "https://www.fundacionkonex.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.fundacionkonex.org"
+    },
+    {
+        "link": "https://healingmaps.com",
+        "Heading": "HealingMaps - Ketamine, Peptide & Psychedelic Therapy Directory",
+        "Abstract": "Find ketamine, peptide, and psychedelic therapy clinics near you \u2014 vetted providers, verified pricing, and trusted care for mental health and longevity.",
+        "Official Site": "https://healingmaps.com/",
+        "Icon": "https://healingmaps.com/wp-content/uploads/2022/08/hm-og.png",
+        "Redirect": "https://healingmaps.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://healingmaps.com/"
     },
     {
         "link": "https://houstonalexander.com",
@@ -281,12 +311,12 @@
     },
     {
         "link": "https://ravantivirus.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://ravantivirus.com",
-        "Icon": "data:,",
-        "Redirect": "https://ravantivirus.com",
+        "Heading": "Gecad Ventures - mind for innovation",
+        "Abstract": "Our commitment, experience, and perseverance have fueled the creativity of some of the most exciting start-ups in Europe.",
+        "Official Site": "https://gecad.com/",
+        "Icon": "http://gecad.com/wp-content/uploads/2016/06/home-header-3.png",
+        "Redirect": "https://gecad.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ravantivirus.com"
+        "AbstractURL": "https://gecad.com/"
     }
 ]

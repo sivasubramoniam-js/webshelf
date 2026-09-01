@@ -70,6 +70,16 @@
         "AbstractURL": "https://lebenshilfe-dresden.de"
     },
     {
+        "link": "https://moviemaps.org",
+        "Heading": "MovieMaps \u2014 Find Where Your Favorite Movies Were Filmed",
+        "Abstract": null,
+        "Official Site": "https://moviemaps.org/",
+        "Icon": "N/A",
+        "Redirect": "https://moviemaps.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://moviemaps.org/"
+    },
+    {
         "link": "https://signalintegrityjournal.com",
         "Heading": "Home Page | Signal Integrity Journal",
         "Abstract": "Signal Integrity Journal, a sister publication to Microwave Journal, covers signal integrity, power integrity and EMC/EMI related topics with industry news, technical articles, white papers, products, Buyer\u2019s Guide, webinars, videos and more. The vision for the SI Journal is to increase the signal to noise ratio for SI, PI and EMC engineers by providing high value content.",
@@ -114,7 +124,7 @@
         "Heading": "Specialist Banking Products | Personal & Business Banking",
         "Abstract": "From personal finance to business finance, BOQ Specialist provides distinctive banking and financing solutions to niche market segments. Find out more today.",
         "Official Site": "https://www.boqspecialist.com.au/",
-        "Icon": "https://www.boqspecialist.com.au/media_17c28fe9faaf5964af9932bfea5ecbb1f43ab37d4.jpg?width=1200&format=pjpg&optimize=medium",
+        "Icon": "https://www.boqspecialist.com.au/media_11f95080b34ee61592f5e52e6279fb22e81752916.png?width=1200&format=pjpg&optimize=medium",
         "Redirect": "https://www.boqspecialist.com.au/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.boqspecialist.com.au/"
@@ -171,13 +181,23 @@
     },
     {
         "link": "https://rhytha.co.in",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://rhytha.co.in",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://rhytha.co.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rhytha.co.in"
+    },
+    {
+        "link": "https://docpulse.com",
+        "Heading": "Home - Docpulse",
+        "Abstract": "One platform for smarter hospital management, clinic operations, and patient workflows. Manage every workflow with our smart hospital management system.",
+        "Official Site": "https://docpulse.com/",
+        "Icon": "https://docpulse.com/wp-content/uploads/2026/07/favicon-docpulse-150x150.png",
+        "Redirect": "https://docpulse.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://docpulse.com/"
     },
     {
         "link": "https://shoeshr.com",
@@ -261,10 +281,10 @@
     },
     {
         "link": "https://pdpadserver.net",
-        "Heading": "One moment, please...",
+        "Heading": "Thanks for Visiting the Payday Pad Server :)",
         "Abstract": null,
         "Official Site": "https://pdpadserver.net",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://pdpadserver.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pdpadserver.net"

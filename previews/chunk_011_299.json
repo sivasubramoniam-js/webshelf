@@ -91,10 +91,10 @@
     },
     {
         "link": "https://eagleparibahan.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "\n\t\tHome | Eagle Paribahan\n\t",
+        "Abstract": "",
         "Official Site": "https://eagleparibahan.com",
-        "Icon": "data:,",
+        "Icon": "https://eagleparibahan.com/images/logo.png",
         "Redirect": "https://eagleparibahan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eagleparibahan.com"
@@ -218,6 +218,16 @@
         "Redirect": "https://ec.skymenu.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ec.skymenu.net"
+    },
+    {
+        "link": "https://ecchps.com",
+        "Heading": "ECCHPS \"17 DE MARZO\"",
+        "Abstract": null,
+        "Official Site": "https://ecchps.com",
+        "Icon": "N/A",
+        "Redirect": "https://ecchps.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ecchps.com"
     },
     {
         "link": "https://eccpsct.org",

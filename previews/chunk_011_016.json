@@ -30,16 +30,6 @@
         "AbstractURL": "https://xsyxsc.com"
     },
     {
-        "link": "https://xtab.com.cn",
-        "Heading": "Xtab\u65b0\u6807\u7b7e\u9875-\u514d\u8d39\u7545\u4eabDeepseek",
-        "Abstract": "Xtab\u65b0\u6807\u7b7e\u9875\uff0c\u662f\u4e00\u6b3e\u514d\u8d39\u4e14\u4e13\u6ce8\u4e8e\u63d0\u5347\u529e\u516c\u6548\u7387\u7684\u5168\u65b0\u6807\u7b7e\u9875\u5e94\u7528\u3002\u5b83\u6574\u5408\u4e86\u4e30\u5bcc\u7684\u529f\u80fd\uff0c\u5305\u62ec\u667a\u80fd\u641c\u7d22\u5f15\u64ce\u3001\u4ea4\u4e92\u5f0fdeepseek\u5bf9\u8bdd\u514d\u8d39\u7545\u4eab\u3001\u4e00\u952ePDF\u8f6c\u6362\u3001\u7cbe\u51c6OCR\u6587\u5b57\u8bc6\u522b\u3001\u4fbf\u6377\u7684\u8c37\u6b4c\u7ffb\u8bd1\u670d\u52a1\u7b49\u3002",
-        "Official Site": "https://xtab.com.cn",
-        "Icon": "/statics/xtab/images/favicon.ico",
-        "Redirect": "https://xtab.com.cn",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://xtab.com.cn"
-    },
-    {
         "link": "https://xtdata.net",
         "Heading": "\u4e13\u4e1a\u793e\u4ea4\u5a92\u4f53\u589e\u957f\u670d\u52a1\uff0c\u5feb\u901f\u63d0\u5347 Telegram\u3001Twitter\u3001YouTube\u3001Instagram\u3001TikTok\u3001Facebook\u3001Discord \u7b49\u5e73\u53f0\u7684\u7c89\u4e1d\u3001\u70b9\u8d5e\u548c\u4e92\u52a8\uff0c\u5b89\u5168\u53ef\u9760\uff0c\u52a9\u529b\u60a8\u7684\u793e\u4ea4\u5f71\u54cd\u529b\uff01",
         "Abstract": "\u4e13\u4e1a\u793e\u4ea4\u5a92\u4f53\u589e\u957f\u670d\u52a1\uff0c\u5feb\u901f\u63d0\u5347 Telegram\u3001Twitter\u3001YouTube\u3001Instagram\u3001TikTok\u3001Facebook\u3001Discord \u7b49\u5e73\u53f0\u7684\u7c89\u4e1d\u3001\u70b9\u8d5e\u548c\u4e92\u52a8\uff0c\u5b89\u5168\u53ef\u9760\uff0c\u52a9\u529b\u60a8\u7684\u793e\u4ea4\u5f71\u54cd\u529b\uff01",
@@ -70,14 +60,24 @@
         "AbstractURL": "https://xterminal.cn"
     },
     {
-        "link": "https://xtore.mx",
-        "Heading": "One moment, please...",
+        "link": "https://xtlcw.com",
+        "Heading": "\u7cfb\u7edf\u6d41\u7a0b\u7f51|\u53a6\u95e8\u7231\u6d41\u91cf\u7f51\u7edc\u79d1\u6280\u6709\u9650\u516c\u53f8",
         "Abstract": null,
-        "Official Site": "https://xtore.mx",
-        "Icon": "data:,",
-        "Redirect": "https://xtore.mx",
+        "Official Site": "https://xtlcw.com",
+        "Icon": "",
+        "Redirect": "https://xtlcw.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://xtore.mx"
+        "AbstractURL": "https://xtlcw.com"
+    },
+    {
+        "link": "https://xtore.mx",
+        "Heading": "XTORE tecnolog\u00eda para el comercio",
+        "Abstract": "XTORE es una tienda de equipo de c\u00f3mputo especializado para negocios, donde amablemente te atienden expertos, ofrecemos servicios de reparaci\u00f3n y mantenimiento",
+        "Official Site": "https://xtore.mx/",
+        "Icon": "https://xtore.mx/images/xtore-facebook.png",
+        "Redirect": "https://xtore.mx/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xtore.mx/"
     },
     {
         "link": "https://xtrafficjuice.org",
@@ -118,6 +118,16 @@
         "Redirect": "https://xtrend.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://xtrend.com"
+    },
+    {
+        "link": "https://xtrsyz.org",
+        "Heading": "\u2717 Dr.XT \u271f \u2013 Tutorials and Resources, Domain Name System Management, Domain Registration, Virtual Private Server, Dedicated Server, and Other",
+        "Abstract": "Tutorials and Resources, Domain Name System Management, Domain Registration, Virtual Private Server, Dedicated Server, and Other",
+        "Official Site": "https://xtrsyz.org",
+        "Icon": "N/A",
+        "Redirect": "https://xtrsyz.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xtrsyz.org"
     },
     {
         "link": "https://xuexiniu.com",

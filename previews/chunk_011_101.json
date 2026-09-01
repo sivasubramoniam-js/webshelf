@@ -51,13 +51,13 @@
     },
     {
         "link": "https://groundguitar.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://groundguitar.com",
-        "Icon": "data:,",
-        "Redirect": "https://groundguitar.com",
+        "Heading": "Ground Guitar \u2013 All things Rock & Roll.",
+        "Abstract": "All things Rock & Roll.",
+        "Official Site": "https://www.groundguitar.com/",
+        "Icon": "https://www.groundguitar.com/wp-content/themes/groundguitar-theme/images/groundguitarlogog.jpg",
+        "Redirect": "https://www.groundguitar.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://groundguitar.com"
+        "AbstractURL": "https://www.groundguitar.com/"
     },
     {
         "link": "https://onibusevans.com.br",
@@ -84,7 +84,7 @@
         "Heading": "Acheter des st\u00e9ro\u00efdes pour la musculation | 2GETMASS.to",
         "Abstract": "Bienvenue sur 2GETMASS.to ! Vente des meilleurs st\u00e9ro\u00efdes. Paiement s\u00e9curis\u00e9. Exp\u00e9dition rapide en France, en Belgique et en Europe.",
         "Official Site": "https://2getmass.to/fr/",
-        "Icon": "https://cdn.2getmass.to/wp-content/uploads/2014/01/favicon2getmass.gif",
+        "Icon": "https://2getmass.to/wp-content/uploads/2014/01/favicon2getmass.gif",
         "Redirect": "https://2getmass.to/fr/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://2getmass.to/fr/"
@@ -118,16 +118,6 @@
         "Redirect": "https://goodly.pro",
         "AbstractSource": "BS4",
         "AbstractURL": "https://goodly.pro"
-    },
-    {
-        "link": "https://bouwjebootje.nl",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://bouwjebootje.nl",
-        "Icon": "data:,",
-        "Redirect": "https://bouwjebootje.nl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bouwjebootje.nl"
     },
     {
         "link": "https://jewelrymaya.com",

@@ -121,30 +121,30 @@
     },
     {
         "link": "https://ergoquest19.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://ergoquest19.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://ergoquest19.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ergoquest19.com"
     },
     {
         "link": "https://ergoquest24.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://ergoquest24.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://ergoquest24.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ergoquest24.com"
     },
     {
         "link": "https://ergoquest25.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://ergoquest25.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://ergoquest25.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ergoquest25.com"
@@ -178,6 +178,16 @@
         "Redirect": "https://eroblog.today",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eroblog.today"
+    },
+    {
+        "link": "https://eroge-play03.com",
+        "Heading": "Play \u30b5\u30fc\u30d0\u30fc\uff5c\u30a8\u30ed\u30b2\u3068\u9957",
+        "Abstract": null,
+        "Official Site": "https://eroge-play03.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://eroge-play03.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eroge-play03.com"
     },
     {
         "link": "https://erome1.com.co",
@@ -268,15 +278,5 @@
         "Redirect": "https://escuelacontrolmas.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://escuelacontrolmas.com"
-    },
-    {
-        "link": "https://esidef.org.tr",
-        "Heading": "Esidef",
-        "Abstract": "Son Dakika Haberler",
-        "Official Site": "https://esidef.org.tr",
-        "Icon": "/uploads/images/theme_favicon_1766996825.png",
-        "Redirect": "https://esidef.org.tr",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://esidef.org.tr"
     }
 ]

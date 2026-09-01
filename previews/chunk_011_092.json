@@ -91,13 +91,13 @@
     },
     {
         "link": "https://homemoverrd.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://homemoverrd.com",
-        "Icon": "data:,",
-        "Redirect": "https://homemoverrd.com",
+        "Heading": "Home Mover Real Estate - Principal Agencia Inmobiliaria en Punta Cana",
+        "Abstract": "Una de las principales agencia inmobiliaria en Rep\u00fablica Dominicana, aqu\u00ed encontrar\u00e1 la casa de tu sue\u00f1o. Estamos en Punta Cana. Tel. 1 809 284-8655",
+        "Official Site": "https://homemoverrd.com/",
+        "Icon": "https://homemoverrd.com/wp-content/uploads/2022/09/logo-cuadrado-copia3.webp",
+        "Redirect": "https://homemoverrd.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://homemoverrd.com"
+        "AbstractURL": "https://homemoverrd.com/"
     },
     {
         "link": "https://roxette.se",
@@ -108,6 +108,16 @@
         "Redirect": "https://roxette.se",
         "AbstractSource": "BS4",
         "AbstractURL": "https://roxette.se"
+    },
+    {
+        "link": "https://towadaartcenter.com",
+        "Heading": "\u5341\u548c\u7530\u5e02\u73fe\u4ee3\u7f8e\u8853\u9928 | Towada Art Center",
+        "Abstract": "\u9752\u68ee\u770c\u5341\u548c\u7530\u5e02\u3002\u4f01\u753b\u5c55\u30fb\u30a4\u30d9\u30f3\u30c8\u306e\u60c5\u5831\u3001\u7f8e\u8853\u9928\u306e\u6982\u8981\u3001\u30a2\u30af\u30bb\u30b9\u60c5\u5831\u306a\u3069\u3002",
+        "Official Site": "https://towadaartcenter.com/",
+        "Icon": "https://towadaartcenter.com/wordpress/wp-content/themes/towadaartcenter/dist/assets/favicons/og.png",
+        "Redirect": "https://towadaartcenter.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://towadaartcenter.com/"
     },
     {
         "link": "https://pierregagnaire.com",
@@ -221,10 +231,10 @@
     },
     {
         "link": "https://dentacoin.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Dentacoin: The Blockchain Solution for the Global Dental Industry",
+        "Abstract": "Secure Blockchain tools, an industry-specific currency and preventive Healthcare approach to improve long-term health, reduce costs and ensure mutual benefits.",
         "Official Site": "https://dentacoin.com",
-        "Icon": "data:,",
+        "Icon": "https://dentacoin.com/assets/uploads/dcn-fb-thumb.png",
         "Redirect": "https://dentacoin.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://dentacoin.com"

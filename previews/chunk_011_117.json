@@ -120,6 +120,16 @@
         "AbstractURL": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Zensus2022/_inhalt.html"
     },
     {
+        "link": "https://arcaim-cnc.ru",
+        "Heading": "\u041e\u041e\u041e \"\u0410\u0440\u043a\u0430\u0438\u043c\" \u2014 \u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u0432\u044b\u0441\u043e\u043a\u043e\u0442\u043e\u0447\u043d\u044b\u0445 \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0434\u0435\u0442\u0430\u043b\u0435\u0439",
+        "Abstract": null,
+        "Official Site": "https://arcaim-cnc.ru",
+        "Icon": "N/A",
+        "Redirect": "https://arcaim-cnc.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arcaim-cnc.ru"
+    },
+    {
         "link": "https://ruehrlehner.de",
         "Heading": "Sie werden umgeleitet<title>\n<head>\n<body>\nSie werden umgeleitet:\n<a href = \"http://www.freshwater-team.de\">http://www.freshwater-team.de<a>\n<body>\n<html>",
         "Abstract": null,
@@ -128,16 +138,6 @@
         "Redirect": "https://ruehrlehner.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ruehrlehner.de"
-    },
-    {
-        "link": "https://innoscience.ru",
-        "Heading": "Science and Innovations in Medicine",
-        "Abstract": "Science and Innovations in Medicine",
-        "Official Site": "http://innoscience.ru/2500-1388/",
-        "Icon": "https://innoscience.ru/public/journals/61/cover_issue_15617_en_US.jpg",
-        "Redirect": "http://innoscience.ru/2500-1388/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "http://innoscience.ru/2500-1388/"
     },
     {
         "link": "https://rhiannongiddens.com",
@@ -241,10 +241,10 @@
     },
     {
         "link": "https://eugy.it",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Home - Rombo di Tuono",
+        "Abstract": "Informatica, goliardia, di tutto un po', riddle internet, insomma, un minestrone che a me piace.",
         "Official Site": "https://eugy.it",
-        "Icon": "data:,",
+        "Icon": "/favicon.ico",
         "Redirect": "https://eugy.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eugy.it"
@@ -291,10 +291,10 @@
     },
     {
         "link": "https://marswebhosting.com",
-        "Heading": "One moment, please...",
+        "Heading": "Web Hosting Services Bangalore-India-Mars Web Hosting",
         "Abstract": null,
         "Official Site": "https://marswebhosting.com",
-        "Icon": "data:,",
+        "Icon": "favicon.png",
         "Redirect": "https://marswebhosting.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://marswebhosting.com"

@@ -1,10 +1,10 @@
 [
     {
         "link": "https://jjcomputer1.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://jjcomputer1.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://jjcomputer1.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://jjcomputer1.com"
@@ -31,13 +31,13 @@
     },
     {
         "link": "https://rockyroadprinting.net",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://rockyroadprinting.net",
-        "Icon": "data:,",
-        "Redirect": "https://rockyroadprinting.net",
+        "Heading": "Screen Printing & Embroidery Elgin TX | Rocky Road Printing",
+        "Abstract": "Rocky Road Printing provides professional screen printing, multi-head ZSK embroidery, custom shirts, business apparel, spirit wear and DTF from Elgin, TX. Request a custom quote.",
+        "Official Site": "https://rockyroadprinting.net/",
+        "Icon": "N/A",
+        "Redirect": "https://rockyroadprinting.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://rockyroadprinting.net"
+        "AbstractURL": "https://rockyroadprinting.net/"
     },
     {
         "link": "https://floristic.ru",
@@ -100,6 +100,16 @@
         "AbstractURL": "https://schoolperceptions.com"
     },
     {
+        "link": "https://netxs.sc",
+        "Heading": "NETXS",
+        "Abstract": null,
+        "Official Site": "https://netxs.sc",
+        "Icon": "favicon.ico",
+        "Redirect": "https://netxs.sc",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://netxs.sc"
+    },
+    {
         "link": "https://rummytime.com",
         "Heading": "Rummytime",
         "Abstract": null,
@@ -131,10 +141,10 @@
     },
     {
         "link": "https://kennypweb.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Web Department | Computer Services by KENNY P",
+        "Abstract": "The web department at Computer Services by KENNY P effectively markets your business on the internet with proven strategies.",
         "Official Site": "https://kennypweb.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://kennypweb.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://kennypweb.com"
@@ -191,13 +201,13 @@
     },
     {
         "link": "https://dislanet.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://dislanet.com",
-        "Icon": "data:,",
-        "Redirect": "https://dislanet.com",
+        "Heading": "Dislanet - Software y P\u00e1ginas Web que impulsan tu negocio",
+        "Abstract": "Desarrollo de software a medida + sitios web profesionales.",
+        "Official Site": "https://dislanet.com/",
+        "Icon": "/assets/uploads/logo/dislanet.png",
+        "Redirect": "https://dislanet.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dislanet.com"
+        "AbstractURL": "https://dislanet.com/"
     },
     {
         "link": "https://dreamcenter.org",
@@ -230,6 +240,16 @@
         "AbstractURL": "https://barista-essentials.de/"
     },
     {
+        "link": "https://honokuni.or.jp",
+        "Heading": "\u3010\u307b\u306e\u56fd\u6771\u4e09\u6cb3\u3081\u3050\u308a\u3011\u6771\u4e09\u6cb3\u306e\u89b3\u5149\u3084\u9b45\u529b\u3092\u3054\u7d39\u4ecb\uff01 | \u4e00\u822c\u793e\u56e3\u6cd5\u4eba\u307b\u306e\u56fd\u6771\u4e09\u6cb3\u89b3\u5149\u30d3\u30e5\u30fc\u30ed\u30fc",
+        "Abstract": "\u307b\u306e\u56fd\u3053\u3068\u6771\u4e09\u6cb3\u306e\u9b45\u529b\u3092\u3054\u7d39\u4ecb\uff01\u8c4a\u304b\u306a\u81ea\u7136\u3084\u904a\u3073\u304b\u3089\u6b74\u53f2\u3084\u6587\u5316\u307e\u3067\u3001\u304a\u3059\u3059\u3081\u306e\u89b3\u5149\u30b9\u30dd\u30c3\u30c8\u3084\u30a4\u30d9\u30f3\u30c8\u60c5\u5831\u3092\u304a\u5c4a\u3051\u3044\u305f\u3057\u307e\u3059\u266a",
+        "Official Site": "http://www.honokuni.or.jp/",
+        "Icon": "./img/ogp.jpg?1",
+        "Redirect": "http://www.honokuni.or.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.honokuni.or.jp/"
+    },
+    {
         "link": "https://landfermann-gym.eu",
         "Heading": "\n                    IServ - landfermann-gym.eu\n            ",
         "Abstract": null,
@@ -258,16 +278,6 @@
         "Redirect": "https://projectcontent.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://projectcontent.com"
-    },
-    {
-        "link": "https://infovirtual.net",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://infovirtual.net",
-        "Icon": "data:,",
-        "Redirect": "https://infovirtual.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://infovirtual.net"
     },
     {
         "link": "https://thebusinesstravelmag.com",

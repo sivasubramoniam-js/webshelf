@@ -10,16 +10,6 @@
         "AbstractURL": "https://www.blackpeach.co.kr"
     },
     {
-        "link": "https://ei2dns.com",
-        "Heading": "Coming Soon",
-        "Abstract": null,
-        "Official Site": "https://ei2dns.com",
-        "Icon": "N/A",
-        "Redirect": "https://ei2dns.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ei2dns.com"
-    },
-    {
         "link": "https://rosenfelder-strand.de",
         "Heading": " Campingplatz Ostsee ~ Rosenfelder Strand Ostsee Camping",
         "Abstract": "Campingplatz direkt an der Ostsee! Eigener Strand am Meer, Mietwohnwagen und vieles mehr. Buchen Sie jetzt Ihren Urlaub an der Ostsee!",
@@ -71,13 +61,13 @@
     },
     {
         "link": "https://avellanedahoy.com.ar",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://avellanedahoy.com.ar",
-        "Icon": "data:,",
-        "Redirect": "https://avellanedahoy.com.ar",
+        "Heading": "Avellaneda Hoy",
+        "Abstract": "Noticias de la ciudad de Avellaneda",
+        "Official Site": "https://avellanedahoy.com.ar/",
+        "Icon": "https://avellanedahoy.com.ar/./uploads/cliente/marca/20200914144250_avellaneda-hoy-logo-2020.png",
+        "Redirect": "https://avellanedahoy.com.ar/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://avellanedahoy.com.ar"
+        "AbstractURL": "https://avellanedahoy.com.ar/"
     },
     {
         "link": "https://brasilopenbadge.com.br",

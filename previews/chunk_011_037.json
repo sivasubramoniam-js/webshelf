@@ -50,11 +50,21 @@
         "AbstractURL": "https://www.tothe92.co.uk"
     },
     {
+        "link": "https://gunpo.go.kr",
+        "Heading": "\uad70\ud3ec\uc2dc\uccad",
+        "Abstract": null,
+        "Official Site": "https://gunpo.go.kr",
+        "Icon": "N/A",
+        "Redirect": "https://gunpo.go.kr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gunpo.go.kr"
+    },
+    {
         "link": "https://bedrug.com",
         "Heading": "BedRug Bed Mats Bed Liners & Accessories | Manufactured by RealTruck",
         "Abstract": "BedRug products are made by RealTruck, which carries the full lineup of accessories for your truck with free shipping in the lower 48 United States.",
         "Official Site": "https://realtruck.com/b/bedrug/",
-        "Icon": "https://realtruck.com/production/bedrug_mat_01/r/800x600/fff/80/2f7a2d3aa21645b8fe57b7c64c1408db.jpg",
+        "Icon": "https://realtruck.com/production/12-brt19cck-18/r/800x600/fff/80/0a26b7a0a4b9ea4c2489344b6d1b7fb4.jpg",
         "Redirect": "https://realtruck.com/b/bedrug/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://realtruck.com/b/bedrug/"
@@ -161,13 +171,13 @@
     },
     {
         "link": "https://defused.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://defused.com",
-        "Icon": "data:,",
-        "Redirect": "https://defused.com",
+        "Heading": "DEFUSED \u2013 Fuse off the day!",
+        "Abstract": "Featured Popular Recent FEATURED in People, Stories Woman Leaves Wedding To Eat McDonald\u2019s After Knowing That Bride Is Charging For The Food Father Gets Criticized By Sister And His Family\u2026",
+        "Official Site": "https://defused.com/",
+        "Icon": "https://media.defused.com/2020/05/cropped-defused-favicon-2-32x32.jpg",
+        "Redirect": "https://defused.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://defused.com"
+        "AbstractURL": "https://defused.com/"
     },
     {
         "link": "https://dropskin.com",
@@ -258,6 +268,16 @@
         "Redirect": "https://vegaswinner.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vegaswinner.com"
+    },
+    {
+        "link": "https://mcombank.ru",
+        "Heading": "\u0411\u0440\u043e\u0431\u0430\u043d\u043a (Brobank.ru) \u2014 \u0441\u0435\u0440\u0432\u0438\u0441 \u043f\u043e\u0434\u0431\u043e\u0440\u0430 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0445 \u0443\u0441\u043b\u0443\u0433 \u0431\u0430\u043d\u043a\u043e\u0432",
+        "Abstract": "\u0411\u0440\u043e\u0431\u0430\u043d\u043a (Brobank.ru) \u2014 \u0441\u0435\u0440\u0432\u0438\u0441 \u043f\u043e\u0434\u0431\u043e\u0440\u0430 \u0437\u0430\u0439\u043c\u043e\u0432, \u043a\u0430\u0440\u0442, \u043a\u0440\u0435\u0434\u0438\u0442\u043e\u0432, \u0432\u043a\u043b\u0430\u0434\u043e\u0432, \u0438\u043f\u043e\u0442\u0435\u043a\u0438. \u041d\u0430\u0439\u0434\u0438\u0442\u0435 \u0438 \u0441\u0440\u0430\u0432\u043d\u0438\u0442\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f, \u043e\u0444\u043e\u0440\u043c\u0438\u0442\u0435 \u043e\u043d\u043b\u0430\u0439\u043d \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0431\u0430\u043d\u043a\u0430.",
+        "Official Site": "https://brobank.ru/",
+        "Icon": "https://brobank.ru/wp-content/uploads/2018/04/brobank-512.png",
+        "Redirect": "https://brobank.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://brobank.ru/"
     },
     {
         "link": "https://limonware.com",

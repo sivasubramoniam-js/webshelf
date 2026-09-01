@@ -20,6 +20,16 @@
         "AbstractURL": "https://dibigroup.com"
     },
     {
+        "link": "https://kartezumnamen.eu",
+        "Heading": "Karte zum Namen - Karten der Nachnamen in Deutschland",
+        "Abstract": "Offizielle Website der Karten der Nachnamen in Deutschland. Schnell Karten erzeugen und die Herkunft von Nachnamen entdecken.",
+        "Official Site": "https://www.kartezumnamen.eu/",
+        "Icon": "https://www.kartezumnamen.eu/bg.png",
+        "Redirect": "https://www.kartezumnamen.eu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.kartezumnamen.eu/"
+    },
+    {
         "link": "https://ledison.com.pl",
         "Heading": "Sklep z o\u015bwietleniem LED \u2013 lampy do domu, biura i ogrodu | LEDisON",
         "Abstract": "Szukasz lamp i o\u015bwietlenia LED? Wybierz LEDisON: szeroka oferta, sprawdzone marki, fachowe doradztwo i szybka dostawa. Zobacz ofert\u0119!",
@@ -51,10 +61,10 @@
     },
     {
         "link": "https://liturgiapapal.org",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Inicio",
+        "Abstract": "'Todo lo relacionado con las celebraciones papales y otros temas de liturgia",
         "Official Site": "https://liturgiapapal.org",
-        "Icon": "data:,",
+        "Icon": "/templates/j51_nina/favicon.ico",
         "Redirect": "https://liturgiapapal.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://liturgiapapal.org"
@@ -91,10 +101,10 @@
     },
     {
         "link": "https://naturashop.com.hr",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Natura Shop E-Trgovina - Dodaci Prehrani @ NaturaShop.com.hr",
+        "Abstract": "lll\u27a4\u0160iroka ponuda vitamina, minerala, aminokiselina i ostalih dodataka prehrani na jednom mjestu po najpovoljnijim cijenama. Super cijena \u2714\ufe0f Brza dostava!",
         "Official Site": "https://naturashop.com.hr",
-        "Icon": "data:,",
+        "Icon": "/img/favicon.ico?1627411672",
         "Redirect": "https://naturashop.com.hr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://naturashop.com.hr"
@@ -162,7 +172,7 @@
     {
         "link": "https://lsbrx.com",
         "Heading": "Online Professional Courses & Certifications | LSBRX - Executi...",
-        "Abstract": "Transform your career with accredited online courses from LSBRX - Executive Education. Professional certificates starting from \u00a329. Join thousands advan...",
+        "Abstract": "Transform your career with accredited online courses from The London School of Business & Research. Professional certificates starting from \u00a329. Join th...",
         "Official Site": "https://lsbrx.com",
         "Icon": "https://www.lsbrx.com/images/logo-LSBRX-com-v2-Square.jpg",
         "Redirect": "https://lsbrx.com",
@@ -301,10 +311,10 @@
     },
     {
         "link": "https://octopusreview.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "Octopus Review free seo tool",
+        "Abstract": "Octopus Review is a free seo tool which will help you analyse your web page",
         "Official Site": "https://octopusreview.com",
-        "Icon": "data:,",
+        "Icon": "https://octopusreview.com/img/logo.png",
         "Redirect": "https://octopusreview.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://octopusreview.com"

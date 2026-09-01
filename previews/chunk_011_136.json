@@ -21,13 +21,13 @@
     },
     {
         "link": "https://theminixforum.com",
-        "Heading": "The MINIX Forum",
-        "Abstract": null,
-        "Official Site": "https://theminixforum.com",
-        "Icon": "/favicon.ico?1787744509",
-        "Redirect": "https://theminixforum.com",
+        "Heading": "MINIX Forum",
+        "Abstract": "MINIX Forum",
+        "Official Site": "https://theminixforum.com/index.php",
+        "Icon": "N/A",
+        "Redirect": "https://theminixforum.com/index.php",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://theminixforum.com"
+        "AbstractURL": "https://theminixforum.com/index.php"
     },
     {
         "link": "https://urnabios.com",
@@ -281,13 +281,13 @@
     },
     {
         "link": "https://seeingmachines.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://seeingmachines.com",
-        "Icon": "data:,",
-        "Redirect": "https://seeingmachines.com",
+        "Heading": "Seeing Machines | Technology to get everyone home safe",
+        "Abstract": "Seeing Machines' industry leading driver and occupant monitoring system technology is enhancing safety by reducing transport fatalities.",
+        "Official Site": "https://seeingmachines.com/",
+        "Icon": "https://seeingmachines.com/favicon-32x32.png",
+        "Redirect": "https://seeingmachines.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://seeingmachines.com"
+        "AbstractURL": "https://seeingmachines.com/"
     },
     {
         "link": "https://architekton.com",
@@ -301,10 +301,10 @@
     },
     {
         "link": "https://tiquiciatours.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://tiquiciatours.com",
-        "Icon": "data:,",
+        "Icon": "https://tiquiciatours.com/wp-content/uploads/2018/04/cropped-fav-icon-32x32.png",
         "Redirect": "https://tiquiciatours.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tiquiciatours.com"

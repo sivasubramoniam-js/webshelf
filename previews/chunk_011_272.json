@@ -60,6 +60,16 @@
         "AbstractURL": "https://cardakina.com/"
     },
     {
+        "link": "https://cardloan-desk.com",
+        "Heading": "\u30b7\u30c3\u30af\u30b9\u30b3\u30a2 \u30b5\u30fc\u30d0\u30fc\u521d\u671f\u30da\u30fc\u30b8",
+        "Abstract": null,
+        "Official Site": "https://cardloan-desk.com",
+        "Icon": "N/A",
+        "Redirect": "https://cardloan-desk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cardloan-desk.com"
+    },
+    {
         "link": "https://career.digivibegh.com",
         "Heading": "CareerEssentials by DigiVibe \u2013 Get Career-Ready!",
         "Abstract": null,
@@ -131,10 +141,10 @@
     },
     {
         "link": "https://carmensouth.com",
-        "Heading": "One moment, please...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://carmensouth.com",
-        "Icon": "data:,",
+        "Icon": "N/A",
         "Redirect": "https://carmensouth.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://carmensouth.com"
@@ -261,13 +271,13 @@
     },
     {
         "link": "https://casafunerariapertile.it",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://casafunerariapertile.it",
-        "Icon": "data:,",
-        "Redirect": "https://casafunerariapertile.it",
+        "Heading": "Onoranze Funebri Pertile dal 1968 - Agenzia funebre a Portogruaro",
+        "Abstract": "Onoranze Funebri Pertile a Portogruaro: dal 1968 assistiamo le famiglie con discrezione e professionalit\u00e0. Servizi funebri completi.",
+        "Official Site": "https://www.casafunerariapertile.it/",
+        "Icon": "https://www.casafunerariapertile.it/wp-content/uploads/2026/01/agenzia-funebre-pertile-venezia-portogruaro.webp",
+        "Redirect": "https://www.casafunerariapertile.it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://casafunerariapertile.it"
+        "AbstractURL": "https://www.casafunerariapertile.it/"
     },
     {
         "link": "https://casamarbel.la",

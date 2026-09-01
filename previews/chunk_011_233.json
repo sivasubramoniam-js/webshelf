@@ -141,10 +141,10 @@
     },
     {
         "link": "https://academic.mtrs.ac.th",
-        "Heading": "One moment, please...",
-        "Abstract": null,
+        "Heading": "ApaoGo",
+        "Abstract": "",
         "Official Site": "https://academic.mtrs.ac.th",
-        "Icon": "data:,",
+        "Icon": "assets/img/logo_prawat.png",
         "Redirect": "https://academic.mtrs.ac.th",
         "AbstractSource": "BS4",
         "AbstractURL": "https://academic.mtrs.ac.th"
@@ -214,7 +214,7 @@
         "Heading": null,
         "Abstract": null,
         "Official Site": "https://ace773.com",
-        "Icon": "/pwa-192x192.png",
+        "Icon": "N/A",
         "Redirect": "https://ace773.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ace773.com"
@@ -281,13 +281,13 @@
     },
     {
         "link": "https://aceipm.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://aceipm.com",
-        "Icon": "data:,",
-        "Redirect": "https://aceipm.com",
+        "Heading": "AceIPM - Best IPMAT Coaching In India [IIM Indore & Rohtak]",
+        "Abstract": "Looking for the best IPMAT coaching in India? Join AceIPM for expert faculty, structured preparation, mock tests, and personalized mentorship.",
+        "Official Site": "https://aceipm.com/",
+        "Icon": "https://aceipm.com/wp-content/uploads/2021/10/Product-Promo.jpg",
+        "Redirect": "https://aceipm.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://aceipm.com"
+        "AbstractURL": "https://aceipm.com/"
     },
     {
         "link": "https://acfharrisburg.com",
