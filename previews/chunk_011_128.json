@@ -40,16 +40,6 @@
         "AbstractURL": "https://europenews1.ru"
     },
     {
-        "link": "https://nursecomm.com",
-        "Heading": "Telephone Answering Service for Medical Providers | Telehealth Service Provider | Telephone Nurse Triage | NurseCom, Inc.",
-        "Abstract": "NurseCom provides telehealth services to home health, home hospice, home infusion, medical manufacturers, and providers coast to coast.",
-        "Official Site": "https://nursecomm.com/site/",
-        "Icon": "https://nursecomm.com/site/wp-content/themes/theme-hollow/img/icons/favicon.ico",
-        "Redirect": "https://nursecomm.com/site/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nursecomm.com/site/"
-    },
-    {
         "link": "https://internationaltradegateway.space",
         "Heading": null,
         "Abstract": null,
@@ -198,6 +188,16 @@
         "Redirect": "https://soedesco.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://soedesco.com"
+    },
+    {
+        "link": "https://ghsupplychain.org",
+        "Heading": "Home | Global Health Supply Chain Program",
+        "Abstract": null,
+        "Official Site": "https://ghsupplychain.org",
+        "Icon": "/themes/custom/ghsc/favicons/favicon-32x32.png",
+        "Redirect": "https://ghsupplychain.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ghsupplychain.org"
     },
     {
         "link": "https://evolvemedia.ca",

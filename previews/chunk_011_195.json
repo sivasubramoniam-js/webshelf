@@ -220,6 +220,16 @@
         "AbstractURL": "https://cvetaevatomsk.ru/catalog/rozy/"
     },
     {
+        "link": "https://extraconfidencial.com",
+        "Heading": "ExtraConfidencial \u00bb lo que nadie se atreve a contar",
+        "Abstract": "lo que nadie se atreve a contar",
+        "Official Site": "https://extraconfidencial.com/",
+        "Icon": "N/A",
+        "Redirect": "https://extraconfidencial.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://extraconfidencial.com/"
+    },
+    {
         "link": "https://ghosted.com",
         "Heading": "Premium Unlimited Web Hosting | Free Domain \u2013\u202fGhosted",
         "Abstract": "Ghosted offers fast, unlimited web hosting with a free domain for 1\u202fyear, daily backups, DDoS & malware protection. Start building your site today!",
@@ -238,16 +248,6 @@
         "Redirect": "https://runawayrice.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://runawayrice.com/"
-    },
-    {
-        "link": "https://naturalhealthsource.com",
-        "Heading": "Home - Natural Health Source: Top Health & Beauty Products & Articles",
-        "Abstract": "Whether it's anti-aging, sexual health or skincare, Natural Health Sources products have you covered. Try our products now & see the difference in no time.",
-        "Official Site": "https://www.naturalhealthsource.com/",
-        "Icon": "https://www.naturalhealthsource.com/wp-content/uploads/2019/11/nhsv2-facebook.jpg",
-        "Redirect": "https://www.naturalhealthsource.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.naturalhealthsource.com/"
     },
     {
         "link": "https://acplasticsinc.com",
@@ -344,7 +344,7 @@
         "Heading": "\n    National Sports | Raise Your Game\n    \n    \n    \n  ",
         "Abstract": "Welcome to National Sports, your home for all the latest in Sportswear, Shoes and Gear. Be a player or a fan, we have you covered.",
         "Official Site": "https://www.nationalsports.com/",
-        "Icon": "http://www.nationalsports.com/cdn/shop/t/9/assets/logo.png?v=17849",
+        "Icon": "http://cdn.shopify.com/s/files/1/1956/9819/t/9/assets/logo.png?v=17849",
         "Redirect": "https://www.nationalsports.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.nationalsports.com/"

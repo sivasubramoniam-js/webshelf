@@ -50,6 +50,16 @@
         "AbstractURL": "https://www.multitanks.com/"
     },
     {
+        "link": "https://nycompanygo.com",
+        "Heading": "New York Companies Directory",
+        "Abstract": null,
+        "Official Site": "/",
+        "Icon": "/favicon.ico",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
         "link": "https://ams-photo-software.com",
         "Heading": "Creative photo editing software || AMS Software official website",
         "Abstract": "Seeking powerful software for photo editing and creative design? AMS Software offers you dozens of easy-to-use programs \u2013 check them out today!",
@@ -268,6 +278,26 @@
         "Redirect": "https://www.fulfill.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.fulfill.com"
+    },
+    {
+        "link": "https://anishinabeknews.ca",
+        "Heading": "Anishinabek News",
+        "Abstract": null,
+        "Official Site": "https://anishinabeknews.ca",
+        "Icon": "https://anishinabeknews.ca/wp-content/uploads/2024/01/cropped-ANews-Icon-32x32.png",
+        "Redirect": "https://anishinabeknews.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://anishinabeknews.ca"
+    },
+    {
+        "link": "https://white-ibiza.com",
+        "Heading": "WHITE IBIZA \u2014 The Island Guide",
+        "Abstract": "The Ibiza you love, from the insiders you trust.",
+        "Official Site": "https://white-ibiza.com/",
+        "Icon": "https://white-ibiza.com/wp-content/uploads/2024/07/screenshot-yoast.jpg",
+        "Redirect": "https://white-ibiza.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://white-ibiza.com/"
     },
     {
         "link": "https://normandyvillagehall.org",

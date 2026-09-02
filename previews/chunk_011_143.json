@@ -14,7 +14,7 @@
         "Heading": "Telegram: Launch @GPT4AgentsBot",
         "Abstract": "@GPT4AgentsBot \u2014 AI bot with access to Gemini, Nano Banana, and more.\t\tJoin us: @GPThelp_en\tSupport: @gptbot_support_bot",
         "Official Site": "https://gpt4agentsbot.website",
-        "Icon": "https://cdn4.telesco.pe/file/ehevDYGngcvL1n3_dKj5g4pAHM_Sj_5zPaJlL21AJyZ3WP5s4WqHqDE8aP9dqmlSVtgAGwXgpX8TrFTcTT7aRZLbRq3j2NHkRP9D_s_hdxf14rtahI6g5D2d9ZUg_Il8DeZd5cCl0-7Hg9O1ervgEH2fcPUTpKC9pAxMCNbyPkH0dB-q1nSXsrd3wfAnzPGu8Swvex7ZuPTJzDejaFwAOITKMu0c18xGN89eadu4zmJPkqTcjos4MkFhj7JLjlcIehkVSSCn9GlXkBbM_ef_wyZ6Clgc92eV2_wfiHhJoA3kxAalhwsaWEA8hsRmevszSU8Qvvfa7d068DzriQxjRA.jpg",
+        "Icon": "https://cdn4.telesco.pe/file/RGxVeA5OlNQBMcqbgepk-IO536qhDwUN0rGysbDN8vedE589u0eMnUiS7UONx-gvzgmLlODA8M6lPOLInYXVRlU80ugO6DU4j2X1TiEHVxM4vFsOlP5p6ntN1XP3mu8rX2myA5MVf63inTgQEH9EV399IqDlK7JAYo0Lvkkv_GTbYGi3lJSzG6_F6pGRr7KDPeypGaQuwkQx1J0nsbQf8CxdwxtGq1ls1L_nIM7LnOYkIMLcDwEliDNeh7YMK24ZgedwIXEn4JxW760zVIoTnGVlAAO9_4jLtgKzf7HEdextLDMkmUy1-5toDY2caW_8ZhlcXQqm8f2PEP-oI3rGDw.jpg",
         "Redirect": "https://gpt4agentsbot.website",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gpt4agentsbot.website"
@@ -160,16 +160,6 @@
         "AbstractURL": "https://kongjie.com"
     },
     {
-        "link": "https://100cup.com",
-        "Heading": "\u98de\u673a\u676f\u4e4b\u5bb6\uff08100cup.com\uff09 \u2013 \u8bc4\u6d4b,\u79d1\u666e,maifjb,\u4e70\u98de\u673a\u676f\u540d\u5668\u4e0d\u80fd\u4e0d\u770b\u2665",
-        "Abstract": "\u98de\u673a\u676f\u8bc4\u6d4b,\u79d1\u666e,\u5b89\u5229,\u4e70\u98de\u673a\u676f\u540d\u5668\u4e0d\u80fd\u4e0d\u770b",
-        "Official Site": "https://www.100cup.com",
-        "Icon": "https://pic.imgdb.cn/item/6190c4b72ab3f51d91be70ac.png",
-        "Redirect": "https://www.100cup.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.100cup.com"
-    },
-    {
         "link": "https://kslab.kr",
         "Heading": "KEYSTONE LAB - \ud0a4\uc2a4\ud1a4 \ub7a9",
         "Abstract": "AI \uc2dc\ub300, \uc778\uac04\uc758 \uac00\ub2a5\uc131\uc744 \uc5f0\uad6c\ud569\ub2c8\ub2e4. KEYSTONE LAB\uc740 \uc778\uac04\uc758 \uc131\uc7a5\uacfc \ucee4\ub9ac\uc5b4\ub97c \uc5f0\uad6c\ud558\ub294 \uc5f0\uad6c\uc18c\uc785\ub2c8\ub2e4.",
@@ -228,6 +218,16 @@
         "Redirect": "https://doctortandon.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://doctortandon.com/"
+    },
+    {
+        "link": "https://brighteducatorinternational.com",
+        "Heading": "TBEI-The Bright Educator International",
+        "Abstract": null,
+        "Official Site": "https://brighteducatorinternational.com",
+        "Icon": "images/NEWFAV.ico",
+        "Redirect": "https://brighteducatorinternational.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://brighteducatorinternational.com"
     },
     {
         "link": "https://elysiumchain.tech",

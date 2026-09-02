@@ -254,7 +254,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://amphtml.org",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://amphtml.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://amphtml.org"
@@ -298,6 +298,16 @@
         "Redirect": "https://ampsuka.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ampsuka.info"
+    },
+    {
+        "link": "https://amssmartglobalsolution.com",
+        "Heading": "AMS Smart Global Solution - Earn Smarter",
+        "Abstract": null,
+        "Official Site": "https://amssmartglobalsolution.com",
+        "Icon": "N/A",
+        "Redirect": "https://amssmartglobalsolution.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amssmartglobalsolution.com"
     },
     {
         "link": "https://amsterdam.tussenschoolenthuis.nl",

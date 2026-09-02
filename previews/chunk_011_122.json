@@ -44,10 +44,20 @@
         "Heading": "govietnamlife.com - N\u1ec1n t\u1ea3ng tin t\u1ee9c h\u00e0ng \u0111\u1ea7u Vi\u1ec7t Nam",
         "Abstract": "Tin t\u1ee9c v\u1edbi giao di\u1ec7n card hi\u1ec7n \u0111\u1ea1i",
         "Official Site": "https://www.govietnamlife.com/",
-        "Icon": "https://www.govietnamlife.com/media/gallery/mtveD6Is9Is.jpg",
+        "Icon": "https://www.govietnamlife.com/media/gallery/SknHXWG57LE.jpg",
         "Redirect": "https://www.govietnamlife.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.govietnamlife.com/"
+    },
+    {
+        "link": "https://semangatnews.com",
+        "Heading": "Semangat News | Tumbuh Menginspirasi",
+        "Abstract": "Semangatnews.com adalah portal berita yang menyajikan informasi terkini dan terpercaya. Tak melulu soal berita hukum, politik dan ekonomi, Semangatnews.com juga menghadirkan beragam informasi yang dibutuhkan pembaca demi mencerdaskan bangsa. Mulai dari artikel tentang gaya hidup hingga sains.",
+        "Official Site": "https://www.semangatnews.com/",
+        "Icon": "https://www.semangatnews.com/wp-content/uploads/2020/11/LOGO-NEWS.png",
+        "Redirect": "https://www.semangatnews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.semangatnews.com/"
     },
     {
         "link": "https://dmarkbio.com",
@@ -88,6 +98,16 @@
         "Redirect": "https://theguitarinstitute.co/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theguitarinstitute.co/"
+    },
+    {
+        "link": "https://investorshometown.com",
+        "Heading": "Investors Home Town",
+        "Abstract": null,
+        "Official Site": "https://investorshometown.com",
+        "Icon": "https://investorshometown.com/wp-content/uploads/2024/12/ihtiocn.png",
+        "Redirect": "https://investorshometown.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://investorshometown.com"
     },
     {
         "link": "https://messe-mts.com",
@@ -170,24 +190,24 @@
         "AbstractURL": "https://byloapp.com"
     },
     {
-        "link": "https://sanypoland.com",
-        "Heading": "Sany Poland | Industrial & Construction Equipment | Excavators & Crane",
-        "Abstract": "Sany PolandSany PolandSany PolandSany Poland",
-        "Official Site": "https://sanypoland.com",
-        "Icon": "https://www.sanypoland.com/wp-content/uploads/2023/06/cropped-\u672a\u6807\u9898-1-32x32.png",
-        "Redirect": "https://sanypoland.com",
+        "link": "https://thecelebsinfo.com",
+        "Heading": "Thecelebsinfo",
+        "Abstract": "News Entertainment Biography",
+        "Official Site": "https://thecelebsinfo.com/",
+        "Icon": "https://i0.wp.com/thecelebsinfo.com/wp-content/uploads/2020/09/119122817_241750250537997_3491887729066749126_n.png?fit=32%2C32&ssl=1",
+        "Redirect": "https://thecelebsinfo.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://sanypoland.com"
+        "AbstractURL": "https://thecelebsinfo.com/"
     },
     {
         "link": "https://medicalmedina.com",
-        "Heading": "DEWA1000 | Brand Resmi DEWA1000 Pilihan Utama \u2708\ufe0f Akses Super Smooth & Bebas Delay",
-        "Abstract": "Solusi tepat navigasi tanpa hambatan! DEWA1000 merupakan brand resmi DEWA1000 pilihan utama bagi Anda yang menginginkan performa server cepat dan super smooth. Gabung sekarang juga!",
-        "Official Site": "https://lordeurope.com/",
-        "Icon": "https://lordeurope.com/Brand-Resmi-Pilihan-Utama.png",
-        "Redirect": "https://lordeurope.com/",
+        "Heading": "DEWA1000 \u2708\ufe0f Brand Resmi DEWA1000 Pilihan Utama Akses Meetgo Super Smooth & Bebas Delay",
+        "Abstract": "DEWA1000 merupakan brand resmi meetgo DEWA1000 pilihan utama bagi Anda yang menginginkan performa server cepat dan super smooth. Gabung sekarang juga!",
+        "Official Site": "https://meetgo.co/",
+        "Icon": "https://meetgo.co/Brand-Resmi-Pilihan-Utama.png",
+        "Redirect": "https://meetgo.co/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lordeurope.com/"
+        "AbstractURL": "https://meetgo.co/"
     },
     {
         "link": "https://hebeishenghan.com",
@@ -318,15 +338,5 @@
         "Redirect": "https://mahoganyriverterrace.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mahoganyriverterrace.com"
-    },
-    {
-        "link": "https://pistolograc.pl",
-        "Heading": "Pistolo Polska \ud83c\udfb0 Zgarnij Bonus 2150 PLN i Graj w PL!",
-        "Abstract": " Odkryj Pistolo - kasyno z ponad 7000 gier i hojnymi bonusami! Sprawd\u017a recenzj\u0119 Pistolo i odbierz bonus powitalny na start. Graj i wygrywaj! ",
-        "Official Site": "https://pistolograc.pl/",
-        "Icon": "https://pistolograc.pl/assets/promotions/pistolo-casino-welcome-bonus.webp",
-        "Redirect": "https://pistolograc.pl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pistolograc.pl/"
     }
 ]

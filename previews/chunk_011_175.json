@@ -220,16 +220,6 @@
         "AbstractURL": "https://rbk-tehnology.ru"
     },
     {
-        "link": "https://logicwebworld.com",
-        "Heading": "Logic Events & Advertising | Premium Event and Advertising Experience",
-        "Abstract": null,
-        "Official Site": "https://logicwebworld.com",
-        "Icon": "./img/titlelogo.png",
-        "Redirect": "https://logicwebworld.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://logicwebworld.com"
-    },
-    {
         "link": "https://houseofscuba.com",
         "Heading": "Shop Scuba Equipment & Gear, San Diego Scuba Diving Lessons & Rentals\n\u2013 House of Scuba",
         "Abstract": "Shop for Scuba & Snorkel Equipment, Gear, and Wetsuits. San Diego Scuba Diving Lessons, rentals and more at House of Scuba.",
@@ -288,6 +278,16 @@
         "Redirect": "https://tokuren.jp",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tokuren.jp"
+    },
+    {
+        "link": "https://january-anma.shop",
+        "Heading": "N\u1ed9i Th\u1ea5t \u0110\u1eb9p - \u00dd T\u01b0\u1edfng Trang Tr\u00ed Nh\u00e0 C\u1eeda Hi\u1ec7n \u0110\u1ea1i",
+        "Abstract": "Kh\u00e1m ph\u00e1 c\u00e1c \u00fd t\u01b0\u1edfng trang tr\u00ed n\u1ed9i th\u1ea5t \u0111\u1eb9p, xu h\u01b0\u1edbng thi\u1ebft k\u1ebf nh\u00e0 c\u1eeda hi\u1ec7n \u0111\u1ea1i v\u00e0 m\u1eb9o ch\u1ecdn \u0111\u1ed3 n\u1ed9i th\u1ea5t ch\u1ea5t l\u01b0\u1ee3ng cho kh\u00f4ng gian s\u1ed1ng c\u1ee7a b\u1ea1n.",
+        "Official Site": "https://january-anma.shop",
+        "Icon": "N/A",
+        "Redirect": "https://january-anma.shop",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://january-anma.shop"
     },
     {
         "link": "https://meshpay.com",

@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://regiocamaras.com",
+        "Heading": " | Regio C\u00e1maras",
+        "Abstract": "Las mejores refacciones para tu auto.",
+        "Official Site": "https://regiocamaras.com",
+        "Icon": "/img/logo/favicon.png",
+        "Redirect": "https://regiocamaras.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://regiocamaras.com"
+    },
+    {
         "link": "https://aftercarecorp.com",
         "Heading": "We protect the things you love",
         "Abstract": null,
@@ -64,7 +74,7 @@
         "Heading": "\ub354\ud30c\uc6cc",
         "Abstract": "\ub354\ud30c\uc6cc\ub274\uc2a4, \uacbd\uc81c\uc0b0\uc5c5, \uae08\uc735\uc99d\uad8c, \uc815\uce58\uc0ac\ud68c, \uc778\ud50c\ub8e8\uc5b8\uc11c, \ubbf8\ub514\uc5b4 \uad00\ub828",
         "Official Site": "https://thepowernews.co.kr",
-        "Icon": "https://cliimage.commutil.kr/thepower_www/img/default_bimg.png",
+        "Icon": "https://cliimage.commutil.kr/thepower_m/img/default_bimg.png",
         "Redirect": "https://thepowernews.co.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thepowernews.co.kr"

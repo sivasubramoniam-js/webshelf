@@ -10,14 +10,24 @@
         "AbstractURL": "https://ponpeskarangmojo.com"
     },
     {
-        "link": "https://pontus-pharma.com",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://pontus-pharma.com",
-        "Icon": "data:,",
-        "Redirect": "https://pontus-pharma.com",
+        "link": "https://pontalfm.com.br",
+        "Heading": "Pontal FM 91.5 ao Vivo em | Carinhanha e Regi\u00e3o",
+        "Abstract": "Emissora de R\u00e1dio comercial com sede na cidade de Carinhanha, Bahia. Opera em 91.5 MHz e cobre munic\u00edpios das regi\u00f5es sudoeste e oeste da Bahia e norte de Minas Gerais.",
+        "Official Site": "https://www.pontalfm.com.br/",
+        "Icon": "https://www.pontalfm.com.br/wp-content/uploads/2026/03/radio-pontal_fm.png",
+        "Redirect": "https://www.pontalfm.com.br/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://pontus-pharma.com"
+        "AbstractURL": "https://www.pontalfm.com.br/"
+    },
+    {
+        "link": "https://pontus-pharma.com",
+        "Heading": "Pouzdan partner u distribuciji inovativnih zdravstvenih\u00a0rje\u0161enja | Pontus Pharma",
+        "Abstract": "Visokokvalitetni farmaceutski i drugi proizvodi koji u\u010dinkovito djeluju na o\u010duvanje zdravlja. Pontus Pharma je ekskluzivni distributer proizvoda farmaceutskih kompanija",
+        "Official Site": "https://pontus-pharma.com/",
+        "Icon": "https://pontus-pharma.com/wp-content/uploads/2025/06/Pontus-OG-image.jpg",
+        "Redirect": "https://pontus-pharma.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pontus-pharma.com/"
     },
     {
         "link": "https://pop77man.info",
@@ -130,6 +140,16 @@
         "AbstractURL": "https://portal.skillpack.io"
     },
     {
+        "link": "https://portal.tranzup.com",
+        "Heading": "Log in - Tranzup",
+        "Abstract": "Sign in to your Tranzup account. Track shipments, manage orders, and access your courier dashboard.",
+        "Official Site": "https://portal.tranzup.com",
+        "Icon": "https://portal.tranzup.com/favicon.svg?v=3",
+        "Redirect": "https://portal.tranzup.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://portal.tranzup.com"
+    },
+    {
         "link": "https://portal.wauminisacco.com",
         "Heading": "Waumini Sacco Society Limited | Internet Banking Portal",
         "Abstract": "Waumini Sacco Society Limited Members Self-Service by CoreTEC Solutions Africa",
@@ -141,23 +161,23 @@
     },
     {
         "link": "https://portal.ypj.gov.my",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://portal.ypj.gov.my",
-        "Icon": "data:,",
-        "Redirect": "https://portal.ypj.gov.my",
+        "Heading": "Yayasan Pelajaran Johor | Membina Insan Berkualiti",
+        "Abstract": "Yayasan Pelajaran Johor (YPJ) memperkasa pendidikan Johor melalui biasiswa, latihan, dan program pembangunan modal insan.",
+        "Official Site": "https://portal.ypj.gov.my/",
+        "Icon": "/assets/images/icons/favicon.svg",
+        "Redirect": "https://portal.ypj.gov.my/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://portal.ypj.gov.my"
+        "AbstractURL": "https://portal.ypj.gov.my/"
     },
     {
         "link": "https://portalagita.com.br",
-        "Heading": "One moment, please...",
-        "Abstract": null,
-        "Official Site": "https://portalagita.com.br",
-        "Icon": "data:,",
-        "Redirect": "https://portalagita.com.br",
+        "Heading": "Portal Agita - Not\u00edcias, Entretenimento e Divers\u00e3o",
+        "Abstract": "Home",
+        "Official Site": "https://portalagita.com.br/",
+        "Icon": "https://portalagita.com.br/wp-content/uploads/favicon.png",
+        "Redirect": "https://portalagita.com.br/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://portalagita.com.br"
+        "AbstractURL": "https://portalagita.com.br/"
     },
     {
         "link": "https://portalagrovida.com.br",
@@ -248,6 +268,16 @@
         "Redirect": "https://posototo.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://posototo.com/"
+    },
+    {
+        "link": "https://postalforum.in",
+        "Heading": "Postal Forum | India Post News, Rules & Community Discussions",
+        "Abstract": "Postal Forum is your trusted platform for India Post news, official updates, rules, notifications, and community discussions. Stay informed and connect with Postalforum",
+        "Official Site": "https://postalforum.in/",
+        "Icon": "https://postalforum.in/wp-content/uploads/2026/02/Postalforum_favicon_transparent-150x150.png",
+        "Redirect": "https://postalforum.in/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://postalforum.in/"
     },
     {
         "link": "https://postandupvote.com",

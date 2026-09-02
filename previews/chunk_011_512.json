@@ -80,16 +80,6 @@
         "AbstractURL": "https://lightbulb.digital/"
     },
     {
-        "link": "https://technodes.pro",
-        "Heading": "TechNodes \u2014 \u0430\u0440\u0435\u043d\u0434\u0430 \u0438\u0433\u0440\u043e\u0432\u044b\u0445 \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432",
-        "Abstract": "TechNodes \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u0443\u044e \u0430\u0440\u0435\u043d\u0434\u0443 \u0438\u0433\u0440\u043e\u0432\u044b\u0445 \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432. \u0423 \u043d\u0430\u0441 \u043c\u043e\u0436\u043d\u043e \u043a\u0443\u043f\u0438\u0442\u044c \u0438\u0433\u0440\u043e\u0432\u043e\u0439 \u0441\u0435\u0440\u0432\u0435\u0440 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 \u0430\u0440\u0435\u043d\u0434\u044b \u0441 \u0443\u0434\u043e\u0431\u043d\u043e\u0439 \u043f\u0430\u043d\u0435\u043b\u044c\u044e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f, \u0433\u0438\u0431\u043a\u0438\u043c\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u043c\u0438 \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u043e\u0439.",
-        "Official Site": "https://technodes.pro/",
-        "Icon": "https://technodes.pro/resources/logo/TechNodes%20-%20512x512.png",
-        "Redirect": "https://technodes.pro/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://technodes.pro/"
-    },
-    {
         "link": "https://myrams.com.au",
         "Heading": "myRAMS",
         "Abstract": "Web site created using create-react-app",
@@ -138,16 +128,6 @@
         "Redirect": "https://federalwaywa.gov",
         "AbstractSource": "BS4",
         "AbstractURL": "https://federalwaywa.gov"
-    },
-    {
-        "link": "https://vircio.com",
-        "Heading": "VirCIO - Your Virtual CIO",
-        "Abstract": null,
-        "Official Site": "https://www.vircio.com/",
-        "Icon": "https://www.vircio.com/files/2015/05/logo2.png",
-        "Redirect": "https://www.vircio.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.vircio.com/"
     },
     {
         "link": "https://ledchampion.de",
@@ -293,11 +273,11 @@
         "link": "https://makingitlovely.com",
         "Heading": "Making it Lovely - A design blog about living a stylish life and transforming the so-so.",
         "Abstract": "A design blog about living a stylish life and transforming the so-so.",
-        "Official Site": "http://makingitlovely.com/",
+        "Official Site": "https://makingitlovely.com/",
         "Icon": "https://makingitlovely.com/wp-content/uploads/2022/08/NicoleBalch_ColorFactory_RedPink_2100-810x370.jpg",
-        "Redirect": "http://makingitlovely.com/",
+        "Redirect": "https://makingitlovely.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://makingitlovely.com/"
+        "AbstractURL": "https://makingitlovely.com/"
     },
     {
         "link": "https://gatiksoft.com",
@@ -318,6 +298,16 @@
         "Redirect": "https://rulebricks.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rulebricks.com/"
+    },
+    {
+        "link": "https://atsjats.org",
+        "Heading": "Adventist Theological Society | Home",
+        "Abstract": "",
+        "Official Site": "/",
+        "Icon": "/assets/components/phpthumbof/cache/aaron-burden-c333d6YEhi0-unsplash.9f6584a8acaa327e2349ce580fd36750.jpg",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
     },
     {
         "link": "https://sigmaprime.io",

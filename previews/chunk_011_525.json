@@ -62,7 +62,7 @@
     {
         "link": "https://epepea.com",
         "Heading": "EPEPEA Marketplace \u00b7 Built for Modern Communities",
-        "Abstract": "Shop groceries, essentials, and everyday items delivered fast or ready for\npickup across Kenya.",
+        "Abstract": "Shop groceries, essentials, and everyday items delivered fast or ready for pickup across Kenya.",
         "Official Site": "https://epepea.com",
         "Icon": "https://epepea.com/uploads/epepea-logo.jpg",
         "Redirect": "https://epepea.com",
@@ -91,13 +91,13 @@
     },
     {
         "link": "https://edu9688.com",
-        "Heading": "\u65e5\u97e9\u7535\u5f71\u514d\u8d39\u5728\u7ebf\u89c2\u770b-\u70ed\u95e8\u5927\u7247\u8d85\u6e05\u7545\u4eab\u3010\u65e5\u97e9\u7535\u5f71\u514d\u8d39\u3011",
-        "Abstract": "\u65e5\u97e9\u7535\u5f71\u514d\u8d39\u5728\u7ebf\u89c2\u770b\uff0c\u6c47\u805a\u65e5\u672c\u97e9\u56fd\u9662\u7ebf\u70ed\u6620\u4f73\u7247\u4e0e\u53e3\u7891\u529b\u4f5c\uff0c\u52a8\u4f5c\u7231\u60c5\u60ca\u609a\u60ac\u7591\u559c\u5267\u7b49\u591a\u79cd\u7c7b\u578b\u4e00\u7f51\u6253\u5c3d\uff0c1080P/4K\u8d85\u6e05\u6b63\u7248\u8d44\u6e90\u514d\u8d39\u5373\u70b9\u5373\u770b\uff0c\u5f71\u5e93\u6bcf\u65e5\u4e0a\u65b0\uff0c\u624b\u673a\u7535\u8111\u5e73\u677f\u968f\u65f6\u968f\u5730\u7545\u4eab\u65e5\u97e9\u5927\u7247\u3002",
-        "Official Site": "https://www.example.com/",
-        "Icon": "https://www.example.com/2.jpg",
-        "Redirect": "https://www.example.com/",
+        "Heading": "edu9688.com",
+        "Abstract": null,
+        "Official Site": "https://edu9688.com",
+        "Icon": "N/A",
+        "Redirect": "https://edu9688.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.example.com/"
+        "AbstractURL": "https://edu9688.com"
     },
     {
         "link": "https://startplatz.de",
@@ -258,16 +258,6 @@
         "Redirect": "https://www.ascecuba.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ascecuba.org"
-    },
-    {
-        "link": "https://daralgeria.com",
-        "Heading": "Home Default - Dar Algeria",
-        "Abstract": "Bienvenue chez Dar Algeria Le N\u00b01 des Annonces Immobili\u00e8res en Alg\u00e9rie \ud83c\udde9\ud83c\uddff Tous Achat Location Locations Vacances Promotions Je cherche Commercial \u2013 Bureau \u2013 MagasinGarage/ParkingR\u00e9sidentiel \u2013 Appartement \u2013 Condo \u2013 Maison individuelle \u2013 Maison multifamiliale \u2013 Studio \u2013 VillaTerrain Localisation Toutes les villesA\u00efn Be\u00efdaAlgerAnnabaBatnaB\u00e9charB\u00e9ja\u00efaBiskraBlidaBordj Bou ArreridjBousaadaChlefConstantineDjelfaEl EulmaEl OuedGharda\u00efaGuelmaJijelKhenchelaLaghouatM'SilaMascaraM\u00e9d\u00e9aMostaganemOranOuarglaRelizaneSa\u00efdaS\u00e9tifSidi bel Abb\u00e8sSkikdaSouk AhrasT\u00e9bessaTiaretTizi OuzouTlemcenTouggourt Pi\u00e8ces Pi\u00e8ces12345678910N\u2019importe lequel [\u2026]",
-        "Official Site": "https://daralgeria.com/",
-        "Icon": "https://daralgeria.com/wp-content/uploads/2016/03/043-592x444.jpg",
-        "Redirect": "https://daralgeria.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://daralgeria.com/"
     },
     {
         "link": "https://reduxtoolkit.com",

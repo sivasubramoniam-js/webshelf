@@ -51,13 +51,13 @@
     },
     {
         "link": "https://formovies.org",
-        "Heading": "123Movies: Watch Free Movies & TV Shows Online: Movies123",
-        "Abstract": "123movies is a streaming website to watch free movies, free movies online, movies123, 123 movies, 123movie, 123movies, 123movies free with 123movies.com",
-        "Official Site": "https://movieflex.org/",
+        "Heading": "123Movies Watch Free Movies Online Movies123",
+        "Abstract": "123Movies: free streaming website to watch movies online like 123 Movies, 123Movie, 123 movie, 123movies free, movies123, 0123movies, the 0123movies.com",
+        "Official Site": "https://moviesgogo.org/",
         "Icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%232f3338'/%3E%3Ccircle cx='32' cy='32' r='21' fill='%233b6fd8'/%3E%3Cpath d='M27 20v24l20-12z' fill='%23fff'/%3E%3C/svg%3E",
-        "Redirect": "https://movieflex.org/",
+        "Redirect": "https://moviesgogo.org/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://movieflex.org/"
+        "AbstractURL": "https://moviesgogo.org/"
     },
     {
         "link": "https://formulakartadrenalina.com",
@@ -268,6 +268,36 @@
         "Redirect": "https://freehk.kr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://freehk.kr"
+    },
+    {
+        "link": "https://frendix.fi",
+        "Heading": "Etusivu \u2014 Frendix Oy",
+        "Abstract": "Frendix toimittaa ratkaisuja ja tuotteita mm. rengas-, auto- ja kuljetusaloille sek\u00e4 elintarvike- ja l\u00e4\u00e4keteollisuuteen.",
+        "Official Site": "https://frendix.fi/",
+        "Icon": "https://frendix.fi/wp-content/uploads/2021/11/cropped-Frendix_F_logo_2021.png",
+        "Redirect": "https://frendix.fi/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://frendix.fi/"
+    },
+    {
+        "link": "https://freshpix.fr",
+        "Heading": "Orca IPTV : Abonnement Orca Pro Max & Pro Plus 2026",
+        "Abstract": "Meilleur abonnement Orca IPTV en France. Orca Pro Max, Orca Pro Plus. 18 000+ cha\u00eenes 4K. Test gratuit 24h.",
+        "Official Site": "https://orcaaiptv.fr/",
+        "Icon": "https://orcaaiptv.fr/wp-content/uploads/og-orcaaiptv.png",
+        "Redirect": "https://orcaaiptv.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://orcaaiptv.fr/"
+    },
+    {
+        "link": "https://freshrojgar.com",
+        "Heading": "Rojgar Result : Sarkari Result, Sarkari Exam, Sarkari Results - Fresh Rojgar",
+        "Abstract": "Fresh Rojgar Result is a job Portal Provides details of all Rojgar Result, SarkariResult, Sarkari Exam, Sarkari Naukri and rojgar results.",
+        "Official Site": "https://freshrojgar.com/",
+        "Icon": "https://freshrojgar.com/wp-content/uploads/2024/06/cropped-freshrojgar-logo-32x32.png",
+        "Redirect": "https://freshrojgar.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://freshrojgar.com/"
     },
     {
         "link": "https://freya-copenhagen.com",

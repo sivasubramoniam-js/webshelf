@@ -4,10 +4,30 @@
         "Heading": "Yeshost \u2014 Recenzii Sincere & Teste Produse IT&C",
         "Abstract": "Afl\u0103 p\u0103rerea sincer\u0103 a exper\u021bilor no\u0219tri \u00eenainte de a cump\u0103ra urm\u0103torul t\u0103u dispozitiv tehnologic.",
         "Official Site": "https://yeshost.ro/",
-        "Icon": "https://yeshost.ro/uploads/casti-wireless-sony-wh-1000xm5_a420c8.webp",
+        "Icon": "https://yeshost.ro/uploads/monitor-gaming-oled-dell-alienware-34_a11428.webp",
         "Redirect": "https://yeshost.ro/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://yeshost.ro/"
+    },
+    {
+        "link": "https://conversiondns.com",
+        "Heading": "Domain Default page",
+        "Abstract": null,
+        "Official Site": "https://conversiondns.com",
+        "Icon": "N/A",
+        "Redirect": "https://conversiondns.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://conversiondns.com"
+    },
+    {
+        "link": "https://bizcity.co",
+        "Heading": "bizcity.co",
+        "Abstract": null,
+        "Official Site": "https://bizcity.co",
+        "Icon": "N/A",
+        "Redirect": "https://bizcity.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bizcity.co"
     },
     {
         "link": "https://angelosports.com",
@@ -170,6 +190,16 @@
         "AbstractURL": "https://covariants.org/"
     },
     {
+        "link": "https://byvgames.com",
+        "Heading": "Home",
+        "Abstract": "Game developer.",
+        "Official Site": "https://byvgames.com",
+        "Icon": "../favicon.png",
+        "Redirect": "https://byvgames.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://byvgames.com"
+    },
+    {
         "link": "https://wohneigentum.nrw",
         "Heading": "Verband Wohneigentum NRW e.V.",
         "Abstract": "Gemeinn\u00fctziger Verbraucherschutz-Verband f\u00fcr private Wohneigent\u00fcmer: \u2713 unabh\u00e4ngige Beratung \u2713 Interessenvertretung \u2713 wertvolle Leistungen",
@@ -178,6 +208,16 @@
         "Redirect": "https://wohneigentum.nrw",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wohneigentum.nrw"
+    },
+    {
+        "link": "https://wisetipscentral.com",
+        "Heading": "WiseTipsCentral \u2013 Not\u00edcias que Transformam",
+        "Abstract": null,
+        "Official Site": "https://wisetipscentral.com",
+        "Icon": "N/A",
+        "Redirect": "https://wisetipscentral.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wisetipscentral.com"
     },
     {
         "link": "https://koncepphost.com",
@@ -228,6 +268,16 @@
         "Redirect": "https://obezyanok.net/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://obezyanok.net/"
+    },
+    {
+        "link": "https://coraltriangleinitiative.org",
+        "Heading": "CTI-CFF | Coral Triangle Initiative on Coral Reefs Fisheries and Food Security",
+        "Abstract": "The Coral Triangle Initiative (CTI) is a multilateral partnership of six countries working together to sustain extraordinary marine and coastal resources by addressing crucial issues such as food security, climate change and marine biodiversity.",
+        "Official Site": "https://coraltriangleinitiative.org/",
+        "Icon": "/sites/default/files/resources/new_ctiff_favicon.ico",
+        "Redirect": "https://coraltriangleinitiative.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://coraltriangleinitiative.org/"
     },
     {
         "link": "https://apealz.com",

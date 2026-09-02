@@ -61,13 +61,13 @@
     },
     {
         "link": "https://airporthaber.com",
-        "Heading": "AirportHaber \"Haberin Tek Kayna\u011f\u0131\" G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
-        "Abstract": "AirportHaber, T\u00fcrkiye'nin lider g\u00fcncel sivil havac\u0131l\u0131k haberleri portal\u0131d\u0131r.",
-        "Official Site": "https://www.airporthaber2.com/",
-        "Icon": "/favicon-2.ico",
-        "Redirect": "https://www.airporthaber2.com/",
+        "Heading": "AirportHaber Mobil - G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
+        "Abstract": "AirportHaber Haberin Tek Kayna\u011f\u0131 - G\u00fcncel Sivil Havac\u0131l\u0131k Haberleri",
+        "Official Site": "https://airporthaber.com",
+        "Icon": "N/A",
+        "Redirect": "https://airporthaber.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.airporthaber2.com/"
+        "AbstractURL": "https://airporthaber.com"
     },
     {
         "link": "https://kayliemarievocalist.com",
@@ -120,6 +120,16 @@
         "AbstractURL": "https://ladybug.tools"
     },
     {
+        "link": "https://indef.com",
+        "Heading": "Crane and Hoists Manufacturer In India | Bajaj INDEF",
+        "Abstract": "Bajaj INDEF has been a leading Cranes and Hoists manufacturer in India since 1962. Welcome to a world of precision and ingenuity in material handling solutions!",
+        "Official Site": "https://indef.com/",
+        "Icon": "https://indef.com/wp-content/uploads/2022/04/favicon.png",
+        "Redirect": "https://indef.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://indef.com/"
+    },
+    {
         "link": "https://centralinnovation.com",
         "Heading": "Design & Productivity Software Provider ANZ | Central Innovation",
         "Abstract": "Central Innovation is the leading provider of design and productivity software in ANZ, Tier 1 for SolidWorks and exclusive Archicad partner for decades.",
@@ -148,6 +158,16 @@
         "Redirect": "https://taeggie.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://taeggie.com"
+    },
+    {
+        "link": "https://globaltekne.com",
+        "Heading": "Globaltekne \u2013 IT Solutions",
+        "Abstract": null,
+        "Official Site": "https://globaltekne.com",
+        "Icon": "https://globaltekne.com/wp-content/uploads/2024/04/favicon.svg",
+        "Redirect": "https://globaltekne.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://globaltekne.com"
     },
     {
         "link": "https://casimonka.com",

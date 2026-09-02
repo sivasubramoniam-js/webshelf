@@ -10,6 +10,16 @@
         "AbstractURL": "https://pleasepoint.com/en/ai-platform"
     },
     {
+        "link": "https://xircom.com",
+        "Heading": "Xircom: Transforming Workplaces with AI Solutions | XIRCOM",
+        "Abstract": "Discover Xircom by TekCorp, your partner in IT automation and business productivity. Our AI-powered tools enhance collaboration, communication, and efficiency, empowering organizations to thrive in the digital age.",
+        "Official Site": "https://xircom.com/",
+        "Icon": "data:;base64,iVBORw0KGgo=",
+        "Redirect": "https://xircom.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xircom.com/"
+    },
+    {
         "link": "https://williampennfoundation.org",
         "Heading": "William Penn Foundation",
         "Abstract": "The William Penn Foundation invests in ideas that expand opportunity for all in the Philadelphia region.",
@@ -240,6 +250,16 @@
         "AbstractURL": "https://inmashservice.ru"
     },
     {
+        "link": "https://itechnews.net",
+        "Heading": "iTech News Net | Gadget News and Reviews",
+        "Abstract": "Gadget News and Reviews",
+        "Official Site": "https://itechnews.net/",
+        "Icon": "https://s0.wp.com/i/blank.jpg",
+        "Redirect": "https://itechnews.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://itechnews.net/"
+    },
+    {
         "link": "https://kevin-de-bruyne-cz.biz",
         "Heading": "Test Page for the HTTP Server on AlmaLinux",
         "Abstract": null,
@@ -308,5 +328,15 @@
         "Redirect": "https://fundedbyme.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://fundedbyme.com/"
+    },
+    {
+        "link": "https://goodid.net",
+        "Heading": "GoodID | Az \u00faj gener\u00e1ci\u00f3s \u00fcgyf\u00e9l-azonos\u00edt\u00e1s",
+        "Abstract": "A GoodID az ID&Trust \u00fajgener\u00e1ci\u00f3s \u00fcgyf\u00e9l-azonos\u00edt\u00e1si \u00e9s -hiteles\u00edt\u00e9si megold\u00e1sa.",
+        "Official Site": "http://https%3A%2F%2Fgoodid.net%2Fhu%2F",
+        "Icon": "https://goodid.net/wp-content/uploads/GoodID-mainpage-ogimage.jpg",
+        "Redirect": "http://https%3A%2F%2Fgoodid.net%2Fhu%2F",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://https%3A%2F%2Fgoodid.net%2Fhu%2F"
     }
 ]

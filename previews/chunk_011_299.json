@@ -120,6 +120,16 @@
         "AbstractURL": "https://eamac.ne/"
     },
     {
+        "link": "https://earn-mart.com",
+        "Heading": "EARNMART - Start Earning Money Online | Multiple Income Streams Platform",
+        "Abstract": "EARNMART is your platform for multiple income streams. Join thousands earning through various online activities.",
+        "Official Site": "https://earnmart.com/",
+        "Icon": "https://earnmart.com/images/og-image.jpg",
+        "Redirect": "https://earnmart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://earnmart.com/"
+    },
+    {
         "link": "https://earnaldo.com",
         "Heading": "Earnaldo - Earn Free Robux | Rewards & Gaming Platform",
         "Abstract": "The ultimate rewards and gaming platform. Complete offers, play games, earn real rewards. Free to join!",
@@ -278,5 +288,15 @@
         "Redirect": "https://echungtu.vn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://echungtu.vn"
+    },
+    {
+        "link": "https://ecmsjaipur.com",
+        "Heading": "ECMS - The Education Committee of The Maheshwari Samaj (Society),Jaipur",
+        "Abstract": "",
+        "Official Site": "https://ecmsjaipur.com",
+        "Icon": "images/favicon.png",
+        "Redirect": "https://ecmsjaipur.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ecmsjaipur.com"
     }
 ]

@@ -80,16 +80,6 @@
         "AbstractURL": "https://www.govisithawaii.com/"
     },
     {
-        "link": "https://frumspeak.com",
-        "Heading": "New | Frum Speak",
-        "Abstract": null,
-        "Official Site": "https://frumspeak.com",
-        "Icon": "https://frumspeak.com/sites/default/files/android-chrome-192x192.png",
-        "Redirect": "https://frumspeak.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://frumspeak.com"
-    },
-    {
         "link": "https://lgads.tv",
         "Heading": "LG Ad Solutions \u2013 Advanced TV & Cross-Device Advertising Platform",
         "Abstract": "Powering advanced advertising for Connected TV and cross-screen campaigns, helping brands engage audiences through Smart TV data.",
@@ -190,14 +180,24 @@
         "AbstractURL": "https://sddi.es/"
     },
     {
-        "link": "https://alice-bob.com",
-        "Heading": " Building the First Universal Quantum Computer\u3021Alice & Bob",
-        "Abstract": "At Alice & Bob, we're building the first universal quantum computer. This is humanity's next challenge.",
-        "Official Site": "https://alice-bob.com/",
-        "Icon": "https://alice-bob.com/wp-content/uploads/2026/05/Share-image-3.jpg",
-        "Redirect": "https://alice-bob.com/",
+        "link": "https://bongacamrus.com",
+        "Heading": "Live Sexcams: XXX Adult Shows - Free Porn Chat - bongacamrus.com",
+        "Abstract": "Create Your 100% Free Account. 100+ models are currently available for Live Sex Webcams - Live Cams Sex. Join the largest worldwide webcam community!",
+        "Official Site": "https://en.bongacamrus.com/",
+        "Icon": "https://i.bgicdn.com/favicon/wl/og-image.png",
+        "Redirect": "https://en.bongacamrus.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://alice-bob.com/"
+        "AbstractURL": "https://en.bongacamrus.com/"
+    },
+    {
+        "link": "https://foodwisestudio.com",
+        "Heading": "FOOD WISE STUDIO",
+        "Abstract": null,
+        "Official Site": "https://foodwisestudio.com",
+        "Icon": "https://foodwisestudio.com/wp-content/uploads/2020/06/cropped-favicon-1-32x32.png",
+        "Redirect": "https://foodwisestudio.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://foodwisestudio.com"
     },
     {
         "link": "https://whsp.red",
@@ -221,13 +221,33 @@
     },
     {
         "link": "https://nepalpackersandmovers.com",
-        "Heading": "Nepal Packers and Movers - Home, Office Moving Company in Nepal",
-        "Abstract": "The best packing and moving company in Nepal. Home, Office shifting, loading, unloading, international moving, fastest packers and movers in Kathmandu.",
+        "Heading": "Nepal Packers and Movers | Best Moving Services in Nepal",
+        "Abstract": "Nepal Packers and Movers offers reliable home and office shifting across Nepal. Professional packing and moving services. Get a free quote today!",
         "Official Site": "https://nepalpackersandmovers.com/",
         "Icon": "https://nepalpackersandmovers.com/wp-content/uploads/2024/02/nepalpackerslogo.png",
         "Redirect": "https://nepalpackersandmovers.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nepalpackersandmovers.com/"
+    },
+    {
+        "link": "https://frigair.com",
+        "Heading": "Home - FrigAir",
+        "Abstract": "Thermal Products A/C PARTS Cooling Fans SIGN UP TO OUR NEWSLETTER and stay connected! Email(Required) Consent(Required) I agree to the privacy policy. YOUR COOLEST SUPPLIER OVER THE YEARS, WE HAVE DEVELOPED NEW SKILLS, A COMPLETE AND FLEXIBLE SERVICE, HIGH QUALITY STANDARS, ADVANCE LOGISTICS SYSTEMS AND A DEDICATED TECHNICAL SUPPORT TEAM TO OFFER THE BEST QUALITY",
+        "Official Site": "https://www.frigair.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.frigair.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.frigair.com/"
+    },
+    {
+        "link": "https://rathinamcollege.edu.in",
+        "Heading": "Home Page - Rathinam Group of Institutions",
+        "Abstract": "Highlights Placement Impacts Life @ Rathinam Industry Connect FAQs A Unified Ecosystem of Learning Explore a Complete Education Journey Our [\u2026]",
+        "Official Site": "https://rathinam.global/",
+        "Icon": "https://rathinam.global/wp-content/uploads/2026/04/3.jpg-scaled.webp",
+        "Redirect": "https://rathinam.global/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rathinam.global/"
     },
     {
         "link": "https://mastersofbackgammon.ru",
