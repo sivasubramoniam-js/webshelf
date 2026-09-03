@@ -121,10 +121,10 @@
     },
     {
         "link": "https://upgradedreviews.com",
-        "Heading": "Bespoke Product Reviews and Deals \u2705 Upgraded Reviews",
-        "Abstract": "Upgraded Reviews is dedicated to providing real user reviews and top deals for popular online stores.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://upgradedreviews.com",
-        "Icon": "/favicon-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://upgradedreviews.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://upgradedreviews.com"
@@ -161,13 +161,13 @@
     },
     {
         "link": "https://mundomapa.com",
-        "Heading": "\ud83e\udd47Mundo Mapa | Mapas para imprimir y descargar en HD",
-        "Abstract": "Encuentra mapas para imprimir y descargar \u2705 Mapas Pol\u00edticos, F\u00edsicos, Mudos, para colorear, mapa con banderas y con nombres para aprender",
-        "Official Site": "https://mundomapa.com/",
-        "Icon": "https://mundomapa.com/wp-content/uploads/2020/10/mapamundi.jpg",
-        "Redirect": "https://mundomapa.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mundomapa.com",
+        "Icon": "data:;",
+        "Redirect": "https://mundomapa.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://mundomapa.com/"
+        "AbstractURL": "https://mundomapa.com"
     },
     {
         "link": "https://uniks.ac.id",
@@ -213,11 +213,21 @@
         "link": "https://gruccia.ir",
         "Heading": "\u062e\u0631\u06cc\u062f \u0622\u0646\u0644\u0627\u06cc\u0646 \u062c\u0648\u0631\u0627\u0628\u060c \u0644\u0628\u0627\u0633 \u0632\u06cc\u0631 \u0648 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0628\u0647\u062f\u0627\u0634\u062a\u06cc - \u06af\u0631\u0648\u0686\u0627",
         "Abstract": "\u062c\u062f\u06cc\u062f\u062a\u0631\u06cc\u0646 \u0627\u0646\u0648\u0627\u0639 \u0644\u0628\u0627\u0633 \u0632\u06cc\u0631\u060c \u062c\u0648\u0631\u0627\u0628 \u0648 \u0645\u062d\u0635\u0648\u0644\u0627\u062a \u0628\u0647\u062f\u0627\u0634\u062a\u06cc \u0648 \u062c\u0646\u0633\u06cc \u0631\u0627 \u0627\u0632 \u0641\u0631\u0648\u0634\u06af\u0627\u0647 \u0627\u06cc\u0646\u062a\u0631\u0646\u062a\u06cc \u06af\u0631\u0648\u0686\u0627 \u0628\u0627 \u0627\u0631\u0633\u0627\u0644 \u0641\u0648\u0631\u06cc \u0628\u0647 \u0633\u0631\u0627\u0633\u0631 \u0627\u06cc\u0631\u0627\u0646 \u062e\u0631\u06cc\u062f \u06a9\u0646\u06cc\u062f.",
-        "Official Site": "https://gruccia.ir/",
+        "Official Site": "https://gruccia.ir/?utm_source=snapppay&utm_medium=ecommerce&utm_campaign=icon",
         "Icon": "http://gruccia.ir/stupload/stsocial/b3148d82e42d3e0e1fe847e6e5b86be4.png",
-        "Redirect": "https://gruccia.ir/",
+        "Redirect": "https://gruccia.ir/?utm_source=snapppay&utm_medium=ecommerce&utm_campaign=icon",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gruccia.ir/"
+        "AbstractURL": "https://gruccia.ir/?utm_source=snapppay&utm_medium=ecommerce&utm_campaign=icon"
+    },
+    {
+        "link": "https://chattijd.nl",
+        "Heading": "ChatTijd.nl \u2014 Gratis chatten",
+        "Abstract": "Gratis sexchatten, daten en cammen op de grootste sexchat van Nederland en Belgi\u00eb. Chat veilig en anoniem met duizenden mannen, vrouwen en stellen op ChatTijd.nl.",
+        "Official Site": "https://chattijd.nl",
+        "Icon": "/favicon/chattijd/favicon.ico",
+        "Redirect": "https://chattijd.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chattijd.nl"
     },
     {
         "link": "https://xn----7sb1arei.xn--p1ai",

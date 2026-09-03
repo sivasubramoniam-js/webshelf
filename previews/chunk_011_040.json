@@ -40,16 +40,6 @@
         "AbstractURL": "https://mods-minecraft.ru"
     },
     {
-        "link": "https://bransontourismcenter.com",
-        "Heading": "Branson Tourism Center - Branson Hotels, Shows, and Attractions",
-        "Abstract": "Most comprehensive website for Branson, Missouri. View complete lists for discount hotels, shows, attractions, vacation packages, and more! Call 1-800-785-1550 today.",
-        "Official Site": "https://bransontourismcenter.com",
-        "Icon": "https://www.bransontourismcenter.com/favicon.ico",
-        "Redirect": "https://bransontourismcenter.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bransontourismcenter.com"
-    },
-    {
         "link": "https://promodiem.net",
         "Heading": "Promo Diem",
         "Abstract": null,
@@ -281,13 +271,13 @@
     },
     {
         "link": "https://floridaorchestra.org",
-        "Heading": "The Florida Orchestra | Live Symphonic Music Tampa Bay",
-        "Abstract": "Under the leadership of Music Director Michael Francis, the orchestra performs more than 130 concerts a season in Tampa, St. Petersburg and Clearwater.",
-        "Official Site": "https://floridaorchestra.org/",
-        "Icon": "https://floridaorchestra.org/wp-content/uploads/2021/02/cropped-TFO-Only-withborder-32x32.png",
-        "Redirect": "https://floridaorchestra.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://floridaorchestra.org",
+        "Icon": "data:;",
+        "Redirect": "https://floridaorchestra.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://floridaorchestra.org/"
+        "AbstractURL": "https://floridaorchestra.org"
     },
     {
         "link": "https://fijngevoeligzijn.nl",

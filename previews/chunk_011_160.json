@@ -1,13 +1,13 @@
 [
     {
         "link": "https://fiqhcouncil.org",
-        "Heading": "Home - Fiqh Council of North America",
-        "Abstract": "The Fiqh Council of North America (FCNA) is a body of recognized and qualified Islamic Scholars from the United States and Canada who accept the Qur\u2019an and authentic Sunnah as the primary sources of Islam.",
-        "Official Site": "https://fiqhcouncil.org/",
-        "Icon": "http://fiqhcouncil.org/wp-content/uploads/2023/12/Icon-1-articles-1-1-300x265.webp",
-        "Redirect": "https://fiqhcouncil.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://fiqhcouncil.org",
+        "Icon": "data:;",
+        "Redirect": "https://fiqhcouncil.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://fiqhcouncil.org/"
+        "AbstractURL": "https://fiqhcouncil.org"
     },
     {
         "link": "https://skainteractive.com",
@@ -150,16 +150,6 @@
         "AbstractURL": "https://72mm.com"
     },
     {
-        "link": "https://conceptproductsltd.co.uk",
-        "Heading": "Branded Workwear, PPE, Festival Supplies & Corporate Clothing | Concept Products Ltd",
-        "Abstract": "Supplier of branded workwear, PPE, fencing scrim and festival supplies with in-house branding, fast UK delivery and over 35 years of experience.",
-        "Official Site": "https://conceptproductsltd.co.uk",
-        "Icon": "https://www.conceptproductsltd.co.uk/media/favicon/stores/1/favicon_logo.png",
-        "Redirect": "https://conceptproductsltd.co.uk",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://conceptproductsltd.co.uk"
-    },
-    {
         "link": "https://utgservers.com",
         "Heading": null,
         "Abstract": null,
@@ -238,6 +228,16 @@
         "Redirect": "https://www.mashupmom.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.mashupmom.com/"
+    },
+    {
+        "link": "https://veevashare.com",
+        "Heading": "Veeva Share",
+        "Abstract": null,
+        "Official Site": "https://veevashare.com",
+        "Icon": "N/A",
+        "Redirect": "https://veevashare.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://veevashare.com"
     },
     {
         "link": "https://heimkino.de",

@@ -111,13 +111,13 @@
     },
     {
         "link": "https://archcuttingtools.com",
-        "Heading": "ARCH Cutting Tools \u2013 Solid round and indexable metal working and cutting tools.",
-        "Abstract": "American manufacturer of solid round and indexable metal working and cutting tools.",
-        "Official Site": "https://www.archcuttingtools.com/",
-        "Icon": "https://www.archcuttingtools.com/wp-content/uploads/favicon.png",
-        "Redirect": "https://www.archcuttingtools.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://archcuttingtools.com",
+        "Icon": "data:;",
+        "Redirect": "https://archcuttingtools.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.archcuttingtools.com/"
+        "AbstractURL": "https://archcuttingtools.com"
     },
     {
         "link": "https://possum-boutique.co.nz",
@@ -228,6 +228,16 @@
         "Redirect": "https://trugolf.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://trugolf.com/"
+    },
+    {
+        "link": "https://pa-rantau.go.id",
+        "Heading": "Home",
+        "Abstract": "Pengadilan Agama Rantau",
+        "Official Site": "https://pa-rantau.go.id",
+        "Icon": "/templates/standart_ma/favicon.ico",
+        "Redirect": "https://pa-rantau.go.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pa-rantau.go.id"
     },
     {
         "link": "https://alnorsenter.no",

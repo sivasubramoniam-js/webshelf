@@ -20,16 +20,6 @@
         "AbstractURL": "https://thishosting.rocks/"
     },
     {
-        "link": "https://myas.org",
-        "Heading": "Home - Minnesota Youth Athletic Services (MYAS)",
-        "Abstract": "Minnesota Youth Athletic Services, Inc. (MYAS) was organized in 1991 as a 501(c)(3) nonprofit organization dedicated to improving the delivery of youth sports services to young athletes, coaches and parents.",
-        "Official Site": "https://myas.org/",
-        "Icon": "https://myas.org/wp-content/uploads/2025/06/myas-logo-white.png",
-        "Redirect": "https://myas.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://myas.org/"
-    },
-    {
         "link": "https://emojihub.org",
         "Heading": "Emojihub \ud83d\ude00 - All Emojis To Copy And Paste",
         "Abstract": "Home of all emojis to copy and paste for free. Get heart emoji, crying emoji, laughing emoji, thumbs up emoji,... Find out their meanings and more.",
@@ -40,14 +30,24 @@
         "AbstractURL": "https://emojihub.org"
     },
     {
-        "link": "https://bravosalonaz.com",
-        "Heading": "Hair Salon in Scottsdale, AZ | Bravo Salon",
-        "Abstract": "Discover advanced hair color, cuts, extensions, straightening, treatments, and skin services at Bravo Salon in Scottsdale, AZ. Book a consultation.",
-        "Official Site": "https://bravosalonaz.com/",
-        "Icon": "https://bravosalonaz.com/wp-content/uploads/2026/01/Bravo_lightpurple_Logo-transparent.png",
-        "Redirect": "https://bravosalonaz.com/",
+        "link": "https://asesoriarys.com.gt",
+        "Heading": "Asesor\u00eda en recultamiento y selecci\u00f3n \u2013 My WordPress Blog",
+        "Abstract": null,
+        "Official Site": "https://asesoriarys.com.gt",
+        "Icon": "https://portal.asesoriarys.com.gt/wp-content/uploads/2023/07/Logo-RyS.png",
+        "Redirect": "https://asesoriarys.com.gt",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bravosalonaz.com/"
+        "AbstractURL": "https://asesoriarys.com.gt"
+    },
+    {
+        "link": "https://bravosalonaz.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bravosalonaz.com",
+        "Icon": "data:;",
+        "Redirect": "https://bravosalonaz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bravosalonaz.com"
     },
     {
         "link": "https://hagi-himawari.com",

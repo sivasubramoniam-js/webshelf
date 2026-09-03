@@ -234,7 +234,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://soundfrankcoke.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://soundfrankcoke.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://soundfrankcoke.com"
@@ -258,6 +258,16 @@
         "Redirect": "https://flugzeug-bild.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://flugzeug-bild.de"
+    },
+    {
+        "link": "https://cobocom.cl",
+        "Heading": "Cobocom SpA | En Mantenimiento",
+        "Abstract": null,
+        "Official Site": "https://cobocom.cl",
+        "Icon": "N/A",
+        "Redirect": "https://cobocom.cl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cobocom.cl"
     },
     {
         "link": "https://hennessyhammock.com",

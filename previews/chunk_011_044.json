@@ -31,13 +31,13 @@
     },
     {
         "link": "https://thecircular.org",
-        "Heading": "The Circular \u2013 The News Site of Journalism & Online Media Production students in Griffith College Dublin",
-        "Abstract": "The News Site of Journalism & Online Media Production students in Griffith College Dublin",
-        "Official Site": "https://thecircular.org/",
-        "Icon": "https://thecircular.org/wp-content/uploads/2021/11/cropped-Screenshot-2021-11-15-at-11.11.32.png",
-        "Redirect": "https://thecircular.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://thecircular.org",
+        "Icon": "data:;",
+        "Redirect": "https://thecircular.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://thecircular.org/"
+        "AbstractURL": "https://thecircular.org"
     },
     {
         "link": "https://chatstripcum.com",
@@ -71,23 +71,13 @@
     },
     {
         "link": "https://tekkaleyapi.com",
-        "Heading": "Tek Kale Yap\u0131 \u2013 Enerji Kimlik Belgesi",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://tekkaleyapi.com",
-        "Icon": "https://tekkaleyapi.com/wp-content/uploads/2025/08/tekkale-favicon-150x150.png",
+        "Icon": "data:;",
         "Redirect": "https://tekkaleyapi.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tekkaleyapi.com"
-    },
-    {
-        "link": "https://robur.coop",
-        "Heading": "Robur - Open Source Software Cooperative",
-        "Abstract": "Developing robust, secure and sustainable digital infrastructure in OCaml and MirageOS unikernels.",
-        "Official Site": "https://robur.coop/",
-        "Icon": "assets/robur-logo-no-text.png",
-        "Redirect": "https://robur.coop/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://robur.coop/"
     },
     {
         "link": "https://solarsecurity.ru",
@@ -110,16 +100,6 @@
         "AbstractURL": "https://doga.no/"
     },
     {
-        "link": "https://bicartel.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://bicartel.com",
-        "Icon": "N/A",
-        "Redirect": "https://bicartel.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bicartel.com"
-    },
-    {
         "link": "https://seetrol.com",
         "Heading": "Seetrol: Secure On-Premise Remote Access Server Solution",
         "Abstract": "Seetrol offers a cost-effective, one-time license remote access server solution for secure on-premise and closed network environments. Experience high-quality remote control and fast file transfers.",
@@ -128,16 +108,6 @@
         "Redirect": "https://www.seetrol.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.seetrol.com/"
-    },
-    {
-        "link": "https://esaweb.org",
-        "Heading": "ESA | Electronic Security Association | Our Business is Growing Yours",
-        "Abstract": "The ESA provides training, advocacy, savings and services to its member companies, which employ more than 500,000 professionals.",
-        "Official Site": "https://esaweb.org/",
-        "Icon": "https://esaweb.org/wp-content/uploads/2019/03/favicon.ico",
-        "Redirect": "https://esaweb.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://esaweb.org/"
     },
     {
         "link": "https://vloveis.online",
@@ -174,7 +144,7 @@
         "Heading": "sternalia productora de actividades culturales, cient\u00edficas, gastron\u00f3micas, eventos privados en espacios singulares",
         "Abstract": "sternalia empresa organizadora de eventos y actividades culturales, cient\u00edficas y gastron\u00f3micas en Barcelona, Catalu\u00f1a.",
         "Official Site": "https://www.sternalia.com/",
-        "Icon": "https://m.sternalia.com/xtra/imgs/favicon.png?24504270037",
+        "Icon": "https://www.sternalia.com/xtra/imgs/favicon.png?24504258711",
         "Redirect": "https://www.sternalia.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sternalia.com/"
@@ -230,14 +200,14 @@
         "AbstractURL": "https://www.calgarytower.com"
     },
     {
-        "link": "https://balletaz.org",
-        "Heading": "Ballet Arizona Homepage | Ballet Arizona",
-        "Abstract": "Join us as we inspire, entertain and educate the Arizona community through performances, dedicated events and ballet training.",
-        "Official Site": "https://balletaz.org/",
-        "Icon": "https://balletaz.org/wp-content/uploads/2023/07/Ballet-Feature-image.png",
-        "Redirect": "https://balletaz.org/",
+        "link": "https://carrierclasswifi.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://carrierclasswifi.com",
+        "Icon": "N/A",
+        "Redirect": "https://carrierclasswifi.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://balletaz.org/"
+        "AbstractURL": "https://carrierclasswifi.com"
     },
     {
         "link": "https://hearaon.co.kr",

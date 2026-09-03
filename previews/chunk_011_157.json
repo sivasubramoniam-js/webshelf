@@ -21,13 +21,13 @@
     },
     {
         "link": "https://hucu.ai",
-        "Heading": "Hucu: Patient-Centered, Secure Communication",
-        "Abstract": "Revolutionary patient-centered AI-powered communication for highly efficient, secure communication ACROSS modern, dynamic, and decentralized healthcare teams.",
-        "Official Site": "https://www.hucu.ai/",
-        "Icon": "https://www.hucu.ai/wp-content/uploads/2023/01/HUCU.png",
-        "Redirect": "https://www.hucu.ai/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://hucu.ai",
+        "Icon": "data:;",
+        "Redirect": "https://hucu.ai",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hucu.ai/"
+        "AbstractURL": "https://hucu.ai"
     },
     {
         "link": "https://fasttradedeal.com",
@@ -148,6 +148,16 @@
         "Redirect": "https://metweld.com.mx",
         "AbstractSource": "BS4",
         "AbstractURL": "https://metweld.com.mx"
+    },
+    {
+        "link": "https://actuanews.fr",
+        "Heading": "ActuaNews.fr \u2013 L'actualit\u00e9 culturelle, partout, pour tous",
+        "Abstract": "L'actualit\u00e9 culturelle, partout, pour tous",
+        "Official Site": "https://actuanews.fr/",
+        "Icon": "https://i0.wp.com/actuanews.fr/wp-content/uploads/2026/05/actuanews-baniere.jpeg?fit=1200%2C500&ssl=1",
+        "Redirect": "https://actuanews.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://actuanews.fr/"
     },
     {
         "link": "https://militaryautosource.com",

@@ -40,16 +40,6 @@
         "AbstractURL": "https://www.bridgechiroga.com/"
     },
     {
-        "link": "https://emsphotoadventures.com",
-        "Heading": "EMS Photo Adventures \u2013 Unleash the power of your eyes!",
-        "Abstract": null,
-        "Official Site": "https://emsphotoadventures.com",
-        "Icon": "https://emsphotoadventures.com/wp-content/uploads/2025/10/cropped-favvv-100x100.png",
-        "Redirect": "https://emsphotoadventures.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://emsphotoadventures.com"
-    },
-    {
         "link": "https://down21.org",
         "Heading": "S\u00edndrome de Down  Fundaci\u00f3n Down21 - S\u00edndrome de Down",
         "Abstract": "Fundaci\u00f3n Down21 Dedica sus servicios a facilitar de forma libre y gratuita, conocimientos al ciudadano con s\u00edndrome de Down",
@@ -58,16 +48,6 @@
         "Redirect": "https://down21.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://down21.org"
-    },
-    {
-        "link": "https://classequine.com",
-        "Heading": "Classequine : boutique en ligne pour les chevaux",
-        "Abstract": "Classequine, s'exercer \u00e0 prendre soin de son cheval",
-        "Official Site": "https://boutique.classequine.com/",
-        "Icon": "https://boutique.classequine.comhttps://boutique.classequine.com/img/classequine-logo-1593779231.jpg",
-        "Redirect": "https://boutique.classequine.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://boutique.classequine.com/"
     },
     {
         "link": "https://espoc.com",
@@ -121,13 +101,13 @@
     },
     {
         "link": "https://hra-iran.org",
-        "Heading": "\n\t\tHuman Rights in Iran - Human Right Activists In Iran\t",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.hra-iran.org/",
-        "Icon": "https://www.hra-iran.org/wp-content/uploads/2024/03/cropped-logo-ready-2014-icon-100x100-1-32x32.png",
-        "Redirect": "https://www.hra-iran.org/",
+        "Official Site": "https://hra-iran.org",
+        "Icon": "data:;",
+        "Redirect": "https://hra-iran.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.hra-iran.org/"
+        "AbstractURL": "https://hra-iran.org"
     },
     {
         "link": "https://sevenpillarsinstitute.org",
@@ -218,16 +198,6 @@
         "Redirect": "https://nortek.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nortek.com"
-    },
-    {
-        "link": "https://prom24.net",
-        "Heading": "\u041f\u0440\u043e\u043c\u042d\u043d\u0435\u0440\u0433\u043e\u0421\u0442\u0440\u043e\u0439",
-        "Abstract": null,
-        "Official Site": "https://project21451556.tilda.ws",
-        "Icon": "https://static.tildacdn.com/tild6139-6465-4733-b630-356632316235/Vector_3.svg",
-        "Redirect": "https://project21451556.tilda.ws",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://project21451556.tilda.ws"
     },
     {
         "link": "https://micro-fibra.ru",

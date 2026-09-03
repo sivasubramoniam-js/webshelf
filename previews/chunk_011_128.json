@@ -11,13 +11,13 @@
     },
     {
         "link": "https://taskforce.org",
-        "Heading": "Home - The Task Force for Global Health",
-        "Abstract": "The Task Force makes real impact by solving massive health problems through stopping some of the world's worst diseases and strengthening health systems.",
-        "Official Site": "https://www.taskforce.org/",
-        "Icon": "https://www.taskforce.org/wp-content/uploads/2019/08/What-We-Do_Homepage-01-1024x675.jpg",
-        "Redirect": "https://www.taskforce.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://taskforce.org",
+        "Icon": "data:;",
+        "Redirect": "https://taskforce.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.taskforce.org/"
+        "AbstractURL": "https://taskforce.org"
     },
     {
         "link": "https://fareastfilms.com",
@@ -38,6 +38,16 @@
         "Redirect": "https://europenews1.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://europenews1.ru"
+    },
+    {
+        "link": "https://nursecomm.com",
+        "Heading": "Telephone Answering Service for Medical Providers | Telehealth Service Provider | Telephone Nurse Triage | NurseCom, Inc.",
+        "Abstract": "NurseCom provides telehealth services to home health, home hospice, home infusion, medical manufacturers, and providers coast to coast.",
+        "Official Site": "https://nursecomm.com/site/",
+        "Icon": "https://nursecomm.com/site/wp-content/themes/theme-hollow/img/icons/favicon.ico",
+        "Redirect": "https://nursecomm.com/site/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nursecomm.com/site/"
     },
     {
         "link": "https://internationaltradegateway.space",
@@ -140,6 +150,16 @@
         "AbstractURL": "https://xn--80ajufr.xn--d1acj3b"
     },
     {
+        "link": "https://yilmazyay.com.tr",
+        "Heading": "Y\u0131lmaz \u00c7elik Yay San. Ltd. \u015eti. \u2013 Yeni Nesil, \u0130leri Teknoloji, Kusursuz \u0130\u015fcilik",
+        "Abstract": null,
+        "Official Site": "https://yilmazyay.com.tr",
+        "Icon": "http://yilmazyay.com.tr/wp-content/uploads/2021/05/favicon.png",
+        "Redirect": "https://yilmazyay.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yilmazyay.com.tr"
+    },
+    {
         "link": "https://vantagefit.io",
         "Heading": "Employee Wellness Platform Employees Love | Vantage Fit",
         "Abstract": "A corporate wellness platform employees love to use. Gamified challenges, real gift card rewards, and engagement data that proves ROI. Book a demo.",
@@ -188,16 +208,6 @@
         "Redirect": "https://soedesco.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://soedesco.com"
-    },
-    {
-        "link": "https://ghsupplychain.org",
-        "Heading": "Home | Global Health Supply Chain Program",
-        "Abstract": null,
-        "Official Site": "https://ghsupplychain.org",
-        "Icon": "/themes/custom/ghsc/favicons/favicon-32x32.png",
-        "Redirect": "https://ghsupplychain.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ghsupplychain.org"
     },
     {
         "link": "https://evolvemedia.ca",

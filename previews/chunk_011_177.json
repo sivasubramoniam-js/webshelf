@@ -60,6 +60,16 @@
         "AbstractURL": "https://amaanq.com"
     },
     {
+        "link": "https://pa-manna.go.id",
+        "Heading": "Pengadilan Agama Manna",
+        "Abstract": "...",
+        "Official Site": "https://pa-manna.go.id/",
+        "Icon": "/templates/standart_ma/favicon.ico",
+        "Redirect": "https://pa-manna.go.id/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pa-manna.go.id/"
+    },
+    {
         "link": "https://platonus.kz",
         "Heading": "Platonus Group",
         "Abstract": "\u041b\u0438\u0434\u0435\u0440 \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0442\u0440\u0430\u043d\u0441\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0435: Platonus Group - \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0430\u0440\u0442\u043d\u0435\u0440 \u0432 \u0441\u0432\u044f\u0437\u043a\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f, \u043c\u043e\u043b\u043e\u0434\u0435\u0436\u0438 \u0438 \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0430.",
@@ -298,16 +308,6 @@
         "Redirect": "https://theender.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theender.net"
-    },
-    {
-        "link": "https://ergo-log.com",
-        "Heading": "Ergo-Log.com",
-        "Abstract": "Ergo-Log",
-        "Official Site": "https://ergo-log.com",
-        "Icon": "N/A",
-        "Redirect": "https://ergo-log.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ergo-log.com"
     },
     {
         "link": "https://koningsvloeren.nl",

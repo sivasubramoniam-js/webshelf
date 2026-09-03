@@ -40,16 +40,6 @@
         "AbstractURL": "https://dotomator.com"
     },
     {
-        "link": "https://piksoda.ru",
-        "Heading": " \u0410\u041e \u041f\u0438\u043a\u0430\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0421\u043e\u0434\u0430",
-        "Abstract": null,
-        "Official Site": "https://piksoda.ru",
-        "Icon": "N/A",
-        "Redirect": "https://piksoda.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://piksoda.ru"
-    },
-    {
         "link": "https://akgoo.net",
         "Heading": null,
         "Abstract": null,
@@ -111,10 +101,10 @@
     },
     {
         "link": "https://girlkinbeauty.com",
-        "Heading": "Under construction - Awesome site in the making!",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://girlkinbeauty.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://girlkinbeauty.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://girlkinbeauty.com"
@@ -221,13 +211,13 @@
     },
     {
         "link": "https://valkira.hr",
-        "Heading": "Home - Valkira Creative Agency",
-        "Abstract": "Valkira je kreativna i digitalna agencija koja poma\u017ee brandovima usmjerenim prema rastu da postignu svoje ciljeve.\u00a0Na\u0161 je pristup temeljen na cilju te",
-        "Official Site": "https://valkira.hr/",
-        "Icon": "https://valkira.hr/wp-content/uploads/2024/05/cropped-valkira-digital-logo-1-32x32.png",
-        "Redirect": "https://valkira.hr/",
+        "Heading": "One moment, please...",
+        "Abstract": null,
+        "Official Site": "https://valkira.hr",
+        "Icon": "data:,",
+        "Redirect": "https://valkira.hr",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://valkira.hr/"
+        "AbstractURL": "https://valkira.hr"
     },
     {
         "link": "https://barpublishing.com",

@@ -91,13 +91,13 @@
     },
     {
         "link": "https://beleske.com",
-        "Heading": "Bele\u0161ke",
-        "Abstract": null,
-        "Official Site": "https://beleske.com",
-        "Icon": "https://beleske.com/wp-content/uploads/2016/01/favicon.png",
-        "Redirect": "https://beleske.com",
+        "Heading": "Bele\u0161ke.com - Magazin, vesti, skripte, prakse i poslovi",
+        "Abstract": "NOVE Bele\u0161ke! Pogledajte \u0161ta smo sve novo spremili za vas. O\u010dekujte aktuelne vesti za mlade, magazin sa velikim brojem tekstova i sve va\u017ene informacije za va\u0161e \u0161kolovanje!",
+        "Official Site": "https://beleske.com/",
+        "Icon": "https://beleske.com/wp-content/uploads/2018/11/beleske-univerzalna-share-fotka.jpg",
+        "Redirect": "https://beleske.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://beleske.com"
+        "AbstractURL": "https://beleske.com/"
     },
     {
         "link": "https://xfi.com",
@@ -188,16 +188,6 @@
         "Redirect": "https://bitlayer-rpc.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bitlayer-rpc.com"
-    },
-    {
-        "link": "https://jsbc.com",
-        "Heading": "\u6c5f\u82cf\u5e7f\u64ad\u7535\u89c6\u603b\u53f0\u96c6\u56e2_\u6c5f\u82cf\u7f51\u7edc\u7535\u89c6\u53f0",
-        "Abstract": "\u6c5f\u82cf\u5e7f\u64ad\u7535\u89c6\u603b\u53f0\u96c6\u56e2,\u6c5f\u82cf\u5e7f\u7535",
-        "Official Site": "https://jsbc.com",
-        "Icon": "N/A",
-        "Redirect": "https://jsbc.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://jsbc.com"
     },
     {
         "link": "https://ajhl.ca",
@@ -294,7 +284,7 @@
         "Heading": "EK - Erhvervsakademi K\u00f8benhavn",
         "Abstract": "EK - Uddannelser og kurser",
         "Official Site": "https://www.ek.dk/",
-        "Icon": "https://www.ek.dk/media/r5ojjup3/studerende-smilende-mursten-ek.jpg?rxy=0.67046663701113,0.4950094842430092&width=1200&height=630&v=1dce1323ce81790",
+        "Icon": "https://www.ek.dk/media/r5ojjup3/studerende-smilende-mursten-ek.jpg?rxy=0.67046663701113,0.4950094842430092&width=1200&height=630&v=1dce1323ce81790&hmac=33fa821a6734f945bafa98d91ac8a81a4dfe633c250fc84c6a3e79258606a020",
         "Redirect": "https://www.ek.dk/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ek.dk/"

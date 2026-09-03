@@ -11,7 +11,7 @@
     },
     {
         "link": "https://chauvinarnoux.ru",
-        "Heading": "KillBot user verification [134.33.70.99] [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36]...",
+        "Heading": "KillBot user verification [20.119.41.197] [Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36]...",
         "Abstract": null,
         "Official Site": "https://chauvinarnoux.ru",
         "Icon": "N/A",
@@ -150,16 +150,6 @@
         "AbstractURL": "https://virginiav.org"
     },
     {
-        "link": "https://ventisca.cl",
-        "Heading": "Cultura, Turismo e Innovaci\u00f3n en EL LOA",
-        "Abstract": "Cultura, Turismo e Innovaci\u00f3n en EL LOA. Localidades, im\u00e1genes, informaci\u00f3n y mapas de Calama, San Pedro de Atacama y Ollag\u00fce.",
-        "Official Site": "https://www.ventisca.cl/",
-        "Icon": "https://www.ventisca.cl/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=2253&type=gif&hash=5247e149fddd68e168e9b4ede41e9219",
-        "Redirect": "https://www.ventisca.cl/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.ventisca.cl/"
-    },
-    {
         "link": "https://daewoocenter.ru",
         "Heading": null,
         "Abstract": null,
@@ -188,6 +178,16 @@
         "Redirect": "https://amplifyonline.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://amplifyonline.com"
+    },
+    {
+        "link": "https://positivepsychologynews.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://positivepsychologynews.com",
+        "Icon": "data:;",
+        "Redirect": "https://positivepsychologynews.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://positivepsychologynews.com"
     },
     {
         "link": "https://passionategeekz.com",

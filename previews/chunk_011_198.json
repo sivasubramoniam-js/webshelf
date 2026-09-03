@@ -131,7 +131,7 @@
     },
     {
         "link": "https://miganancia.net",
-        "Heading": "Index of /",
+        "Heading": "Index of /index.html",
         "Abstract": null,
         "Official Site": "https://miganancia.net",
         "Icon": "N/A",
@@ -201,10 +201,10 @@
     },
     {
         "link": "https://thegroup.com.qa",
-        "Heading": "The Group",
-        "Abstract": "The Group Provides online trading platform. Place buy and sell orders at any time. Watch the real-time market data feed",
+        "Heading": "\u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 - \u0627\u0644\u0623\u0633\u0639\u0627\u0631",
+        "Abstract": "\u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629 - \u0627\u0644\u0623\u0633\u0639\u0627\u0631",
         "Official Site": "https://thegroup.com.qa",
-        "Icon": "https://thegroup.com.qa/pwa/images/icons/apple-icon-57x57.png",
+        "Icon": "/favicon.ico",
         "Redirect": "https://thegroup.com.qa",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thegroup.com.qa"

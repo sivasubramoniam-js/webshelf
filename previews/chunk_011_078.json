@@ -240,6 +240,16 @@
         "AbstractURL": "https://ponyfiction.org"
     },
     {
+        "link": "https://otherpress.com",
+        "Heading": "Other Press - Publisher of novels, short stories, poetry, and essays",
+        "Abstract": "Other Press attracts authors who are guided by a passion to discover the limits of knowledge and imagination.",
+        "Official Site": "https://otherpress.com/",
+        "Icon": "https://otherpress.com/wp-content/uploads/2020/01/slide-bookstack.jpg",
+        "Redirect": "https://otherpress.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://otherpress.com/"
+    },
+    {
         "link": "https://bridgetv.ru",
         "Heading": "BRIDGE MEDIA \u2013 \u041c\u0435\u0434\u0438\u0430 \u0445\u043e\u043b\u0434\u0438\u043d\u0433",
         "Abstract": "\u0425\u043e\u043b\u0434\u0438\u043d\u0433 \u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0445 \u043c\u0435\u0434\u0438\u0430 BRIDGE MEDIA",
@@ -288,6 +298,16 @@
         "Redirect": "https://ingrambook.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ingrambook.com"
+    },
+    {
+        "link": "https://hindustancomputer.in",
+        "Heading": "Hindustan Computer Udaipur | IT Products, Servers, Networking & CCTV",
+        "Abstract": "Hindustan Computer, Udaipur \u2014 complete IT and infrastructure solutions. Computers, laptops, servers, networking, storage, UPS, CCTV and IT support. Call 077377 77255 for a quote.",
+        "Official Site": "https://hindustancomputer.in/index.html",
+        "Icon": "https://hindustancomputer.in/images/og-cover.jpg",
+        "Redirect": "https://hindustancomputer.in/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hindustancomputer.in/index.html"
     },
     {
         "link": "https://foodforthebrain.org",
@@ -351,7 +371,7 @@
     },
     {
         "link": "https://skolnicksreport.com",
-        "Heading": "Skolnicksreport",
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://skolnicksreport.com",
         "Icon": "N/A",

@@ -40,6 +40,16 @@
         "AbstractURL": "https://art-volzhskiy.ru/"
     },
     {
+        "link": "https://simplesend.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://simplesend.com",
+        "Icon": "data:;",
+        "Redirect": "https://simplesend.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://simplesend.com"
+    },
+    {
         "link": "https://polarishd.com",
         "Heading": "Sorry, the website has been stopped",
         "Abstract": null,
@@ -180,16 +190,6 @@
         "AbstractURL": "https://thai-spa.center"
     },
     {
-        "link": "https://mativ.com",
-        "Heading": "Specialty Materials Manufacturing | Mativ",
-        "Abstract": "A global leader in specialty materials, Mativ makes material impacts on the world every day by finding potential in the impossible.",
-        "Official Site": "https://mativ.com/",
-        "Icon": "https://mativ.com/wp-content/uploads/2023/06/global-manufactoring-excellence.jpg",
-        "Redirect": "https://mativ.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mativ.com/"
-    },
-    {
         "link": "https://talktoivy.com",
         "Heading": "I V Y -  Find a therapist you like",
         "Abstract": "Ivy is the easiest way to try top therapists by phone. Confidential. Free. No more searching. See if you like talking before going in-person.",
@@ -202,12 +202,12 @@
     {
         "link": "https://klipsmedia.ro",
         "Heading": "Klipsprint DESIGN Bistrita - Servicii print digital,publicitate,promotionale si web design",
-        "Abstract": null,
-        "Official Site": "https://klipsmedia.ro/",
+        "Abstract": "Oferim servicii de print digital Bistrita,promotionale,web design bistrita si servicii de host",
+        "Official Site": "https://www.klipsmedia.ro/",
         "Icon": "/images/favicon.ico",
-        "Redirect": "https://klipsmedia.ro/",
+        "Redirect": "https://www.klipsmedia.ro/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://klipsmedia.ro/"
+        "AbstractURL": "https://www.klipsmedia.ro/"
     },
     {
         "link": "https://anytube.xyz",

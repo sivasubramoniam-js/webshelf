@@ -100,16 +100,6 @@
         "AbstractURL": "https://wildcardmobile.com/"
     },
     {
-        "link": "https://andersinno.net",
-        "Heading": "Anders - Kokenut ohjelmistokehityksen luottokumppani",
-        "Abstract": "Merkityksellisi\u00e4 ratkaisuja liiketoimintasi kehitt\u00e4miseen kokeneelta asiantuntijatiimilt\u00e4.",
-        "Official Site": "https://anders.com",
-        "Icon": "https://anders.com/wp-content/uploads/2023/05/anders_etusivu_header_.jpg",
-        "Redirect": "https://anders.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://anders.com"
-    },
-    {
         "link": "https://china-huana.com",
         "Heading": "china-huana.com",
         "Abstract": null,
@@ -128,16 +118,6 @@
         "Redirect": "https://makersite.io/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://makersite.io/"
-    },
-    {
-        "link": "https://maximafurnitures.com",
-        "Heading": "Maxima Furnitures Plastik Berkualitas Tinggi",
-        "Abstract": "Perabotan Rumah Tangga Maxima Furnitures yang terdiri dari Kursi Plastik Maxima, Lemari Plastik Maxima, dan Laci Plastik Maxima Berkualitas.",
-        "Official Site": "https://maximafurnitures.com/",
-        "Icon": "https://maximafurnitures.com/wp-content/uploads/2021/08/seomaxima.jpg",
-        "Redirect": "https://maximafurnitures.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://maximafurnitures.com/"
     },
     {
         "link": "https://sportspired.net",
@@ -170,6 +150,16 @@
         "AbstractURL": "https://alsipnursery.com/"
     },
     {
+        "link": "https://mhofelaprojects.co.za",
+        "Heading": "Tubidy - Free Music and Video Downloads | Unlimited MP3 and MP4",
+        "Abstract": "Tubidy is an online platform that allows users to search, stream, and download music and videos for free. With its easy-to-navigate interface and a vast collection of multimedia content.",
+        "Official Site": "https://mhofelaprojects.co.za",
+        "Icon": "/assets/images/favicon.png",
+        "Redirect": "https://mhofelaprojects.co.za",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mhofelaprojects.co.za"
+    },
+    {
         "link": "https://dw3host.com",
         "Heading": "Tech Hub FZE",
         "Abstract": null,
@@ -188,6 +178,16 @@
         "Redirect": "https://www.merrellplumbing.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.merrellplumbing.com/"
+    },
+    {
+        "link": "https://croesus.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://croesus.com",
+        "Icon": "data:;",
+        "Redirect": "https://croesus.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://croesus.com"
     },
     {
         "link": "https://umggaming.com",
@@ -221,10 +221,10 @@
     },
     {
         "link": "https://zahraluxuryspa.com",
-        "Heading": "Zahra Luxury Spa \u2013 Indulge in luxurious spa experiences in Nusa Dua",
+        "Heading": "One moment, please...",
         "Abstract": null,
         "Official Site": "https://zahraluxuryspa.com",
-        "Icon": "/favicon.ico",
+        "Icon": "data:,",
         "Redirect": "https://zahraluxuryspa.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zahraluxuryspa.com"

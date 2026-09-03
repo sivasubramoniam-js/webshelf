@@ -41,7 +41,7 @@
     },
     {
         "link": "https://svensktvatten.se",
-        "Heading": "Svenskt Vatten",
+        "Heading": "Branschorganisationen f\u00f6r Sveriges VA-organisationer | Svenskt Vatten | Svenskt Vatten",
         "Abstract": "V\u00e5r vision att Sverige ska ha rent dricksvatten, friska sj\u00f6ar och hav. Som branschorganisation f\u00f6r landets viktigaste livsmedelsproducenter och milj\u00f6v\u00e5rdsf\u00f6retag \u2013 VA-organisationerna f\u00f6retr\u00e4der vi\u2026",
         "Official Site": "https://www.svensktvatten.se/",
         "Icon": "https://www.svensktvatten.se/globalassets/bilder/generella/svensktvatten_badrum-ima242192_webb.jpg",
@@ -148,6 +148,16 @@
         "Redirect": "https://littlerockchamber.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://littlerockchamber.com"
+    },
+    {
+        "link": "https://thyca.org",
+        "Heading": "ThyCa - We are here to help you on your thyroid cancer journey.",
+        "Abstract": null,
+        "Official Site": "https://thyca.org/",
+        "Icon": "https://thyca.org/wp-content/uploads/block-icon-x.svg",
+        "Redirect": "https://thyca.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thyca.org/"
     },
     {
         "link": "https://scrx.org.cn",

@@ -180,6 +180,16 @@
         "AbstractURL": "https://s-wars.jp"
     },
     {
+        "link": "https://maragonfit.com",
+        "Heading": "Contacto - Gimnasio Maragonfit - Tu Gimnasio en Gran Alacant",
+        "Abstract": "Contactanos Nuestros datos de contacto Email info@maragonfit.com Tel\u00e9fono 679 414 966 Direcci\u00f3n Residencial Santara Resort, C. Monte de Sta. Pola, 13, 03130 Gran Alacant, Alicante Cont\u00e1ctanos para cualquier consulta Nuestras rr.ss. Facebook-f Instagram",
+        "Official Site": "https://maragonfit.com/",
+        "Icon": "https://maragonfit.com/wp-content/uploads/2026/03/favicon-150x150.png",
+        "Redirect": "https://maragonfit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://maragonfit.com/"
+    },
+    {
         "link": "https://agenciabalboa.com.br",
         "Heading": "Ag\u00eancia Balboa | Sua Parceria Estrat\u00e9gica em Marketing Digital",
         "Abstract": "No mundo competitivo atual, ter uma presen\u00e7a online forte \u00e9 essencial para o sucesso do seu neg\u00f3cio. Nossa ag\u00eancia de marketing digital oferece solu\u00e7\u00f5es personalizadas que incluem SEO, gest\u00e3o de m\u00eddias sociais, cria\u00e7\u00e3o de conte\u00fado, Google Ads e muito mais. Trabalhamos para aumentar a visibilidade da sua marca, atrair novos clientes e impulsionar suas vendas.",
@@ -241,10 +251,10 @@
     },
     {
         "link": "https://castlesclick.com",
-        "Heading": "CastlesClick \u2013 Exclusively Tailored: Specialized Real Estate Services for Castles in Spain",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://castlesclick.com",
-        "Icon": "http://castlesclick.com/wp-content/uploads/2024/02/Home_icon_orange1.png",
+        "Icon": "data:;",
         "Redirect": "https://castlesclick.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://castlesclick.com"

@@ -161,13 +161,13 @@
     },
     {
         "link": "https://cufos.org",
-        "Heading": "Center for UFO Studies -",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://cufos.org/",
-        "Icon": "N/A",
-        "Redirect": "https://cufos.org/",
+        "Official Site": "https://cufos.org",
+        "Icon": "data:;",
+        "Redirect": "https://cufos.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://cufos.org/"
+        "AbstractURL": "https://cufos.org"
     },
     {
         "link": "https://cookie-checker.com",
@@ -200,6 +200,16 @@
         "AbstractURL": "https://ww4report.com"
     },
     {
+        "link": "https://barbiedolls.online",
+        "Heading": "barbiedolls.online\u00a0-\u00a0barbiedolls Resources and Information.",
+        "Abstract": "barbiedolls.online is your first and best source for information about barbiedolls. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://barbiedolls.online",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://barbiedolls.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://barbiedolls.online"
+    },
+    {
         "link": "https://daily49er.com",
         "Heading": "Daily49er.com \u2014 California, Local and National News | California News, Politics, Sports & More | Daily49er",
         "Abstract": "Daily49er.com covers California news, Los Angeles, local headlines, campus stories, national news, politics, sports, business, culture, and entertainment.",
@@ -218,6 +228,16 @@
         "Redirect": "https://www.ambfurniture.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.ambfurniture.com/"
+    },
+    {
+        "link": "https://sdgc.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sdgc.com",
+        "Icon": "data:;",
+        "Redirect": "https://sdgc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sdgc.com"
     },
     {
         "link": "https://nordicals.dk",

@@ -31,10 +31,10 @@
     },
     {
         "link": "https://slife-hvac.com",
-        "Heading": "Slife Heating and Air Conditioning | Keeping You Comfortable",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://slife-hvac.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://slife-hvac.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://slife-hvac.com"
@@ -78,6 +78,16 @@
         "Redirect": "https://telugusmtv.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://telugusmtv.com"
+    },
+    {
+        "link": "https://medicalambassadors.org",
+        "Heading": "Home - Medical Ambassadors International",
+        "Abstract": "People End Poverty. Handouts Don\u2019t. At MAI, we equip local leaders with the tools, training, and Christ-centered support they need to halt poverty at the root. \u2014 not just materially, but spiritually, physically, emotionally, and relationally. Because when people lead, change lasts. See Our Work According to the World Health Organization,over 70% of global suffering [\u2026]",
+        "Official Site": "https://medicalambassadors.org/",
+        "Icon": "https://medicalambassadors.org/wp-content/uploads/2026/03/cropped-logo-circle-1-192x192-1-150x150.webp",
+        "Redirect": "https://medicalambassadors.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://medicalambassadors.org/"
     },
     {
         "link": "https://biona.co.uk",
@@ -180,16 +190,6 @@
         "AbstractURL": "https://www.nialaya.com/"
     },
     {
-        "link": "https://igmpublication.org",
-        "Heading": "IGM \u2013 Publication | Submit Your Research",
-        "Abstract": "Publish in top peer-reviewed journals \u2013 JMSCR, IJETST, JSSH, IJMEIT, JMBFS. Fast review, global indexing, ISSN certified. Submit now.",
-        "Official Site": "https://igmpublication.org",
-        "Icon": "N/A",
-        "Redirect": "https://igmpublication.org",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://igmpublication.org"
-    },
-    {
         "link": "https://schippers.nl",
         "Heading": "Alles voor de veehouderij en agrarische benodigdheden",
         "Abstract": "MS Schippers biedt totaaloplossingen voor de veehouderij. Ons uitgebreide assortiment producten en diensten is ontworpen om jouw bedrijf te ondersteunen.",
@@ -198,16 +198,6 @@
         "Redirect": "https://www.schippers.nl",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.schippers.nl"
-    },
-    {
-        "link": "https://genlix.com",
-        "Heading": "Genlix \u2014 Turning Visions into Softwares",
-        "Abstract": "Genlix is your partner in software innovation and business growth. We provide comprehensive software solutions and expert advisory services.",
-        "Official Site": "https://genlix.com",
-        "Icon": "images/favicon-32x32.png",
-        "Redirect": "https://genlix.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://genlix.com"
     },
     {
         "link": "https://phoenixos.com",
@@ -228,16 +218,6 @@
         "Redirect": "https://semanticdiff.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://semanticdiff.com/"
-    },
-    {
-        "link": "https://nexgenbh.com",
-        "Heading": "Nexgen Technologies W.L.L",
-        "Abstract": "We are working globally with Head Office in Kingdom of Bahrain. We have more than 15 years of experience in Website and Customized Software Development. We are capable to provide high end services to our valued customers using our unique and easy to use Technology Solutions. Our team of experts is always ready to help you to resolve all of your technology related issues within given time frame. We are always ready to train our customers about our valued products and services so you can get complete advantage of Latest Technology. Our team has completed thousand\u2019s of projects.",
-        "Official Site": "https://nexgenbh.com",
-        "Icon": "favicon.ico",
-        "Redirect": "https://nexgenbh.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nexgenbh.com"
     },
     {
         "link": "https://afyl.org",
@@ -298,16 +278,6 @@
         "Redirect": "https://augletics.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://augletics.de/"
-    },
-    {
-        "link": "https://code-intelligence.com",
-        "Heading": "AI-Automated Software Security Testing | Code Intelligence",
-        "Abstract": "Find bugs and vulnerabilities missed by other security tools with a single command",
-        "Official Site": "https://www.code-intelligence.com",
-        "Icon": "https://www.code-intelligence.com/hubfs/favicon-32x32.webp",
-        "Redirect": "https://www.code-intelligence.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.code-intelligence.com"
     },
     {
         "link": "https://neworleansfilmsociety.org",

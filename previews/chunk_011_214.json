@@ -214,7 +214,7 @@
         "Heading": "Plesk Obsidian 18.0.80",
         "Abstract": null,
         "Official Site": "https://develmexico.net",
-        "Icon": "/favicon.ico?1787740227",
+        "Icon": "/favicon.ico?1788288514",
         "Redirect": "https://develmexico.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://develmexico.net"
@@ -241,13 +241,13 @@
     },
     {
         "link": "https://backpackadventures.org",
-        "Heading": "Backpack Adventures -",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.backpackadventures.org/",
-        "Icon": "https://www.backpackadventures.org/wp-content/uploads/2018/11/cropped-Logo3-32x32.png?x88160",
-        "Redirect": "https://www.backpackadventures.org/",
+        "Official Site": "https://backpackadventures.org",
+        "Icon": "data:;",
+        "Redirect": "https://backpackadventures.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.backpackadventures.org/"
+        "AbstractURL": "https://backpackadventures.org"
     },
     {
         "link": "https://rubyfacilities.co.in",
@@ -261,12 +261,12 @@
     },
     {
         "link": "https://alternative-therapies.com",
-        "Heading": "- Alternative Therapies in Health and Medicine",
-        "Abstract": "Iterative Dual-AI Consultation for Error Detection in Clinical Medicine: A Case Study Demonstrating Convergent Validity Through Cross-Validation of Large Language Models Robert Hedaya, MD, DLFAPA Current Issue The following articles are from our May/June 2026 issue: Dr. James Greenblatt: Sharing His Views About the Functional Medicine Model of Depression Interview by Sheldon Baker Impact of",
-        "Official Site": "https://alternative-therapies.com/",
-        "Icon": "https://alternative-therapies.com/wp-content/uploads/2026/06/atHeader.jpg",
-        "Redirect": "https://alternative-therapies.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://alternative-therapies.com",
+        "Icon": "data:;",
+        "Redirect": "https://alternative-therapies.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://alternative-therapies.com/"
+        "AbstractURL": "https://alternative-therapies.com"
     }
 ]

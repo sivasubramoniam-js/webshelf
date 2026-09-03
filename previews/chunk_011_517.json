@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.ljmcdonald.ca/"
     },
     {
+        "link": "https://chiroipk.ru",
+        "Heading": "chiroipk.ru | \u041d\u0430\u043a\u043e\u043d\u0435\u0446-\u0442\u043e \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u043d\u0430\u0441 \u043d\u0435 \u0440\u0430\u0437\u0434\u0435\u043b\u044f\u044e\u0442",
+        "Abstract": null,
+        "Official Site": "https://chiroipk.ru",
+        "Icon": "/misc/favicon.ico",
+        "Redirect": "https://chiroipk.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chiroipk.ru"
+    },
+    {
         "link": "https://vimi.com.vn",
         "Heading": "Vimi - Nh\u00e0 ph\u00e2n ph\u1ed1i Van - \u1ed0ng - Thi\u1ebft b\u1ecb \u0111o v\u00e0 ph\u1ee5 ki\u1ec7n",
         "Abstract": "Vimi l\u00e0 nh\u00e0 ph\u00e2n ph\u1ed1i van c\u00f4ng nghi\u1ec7p, thi\u1ebft b\u1ecb \u0111o, ph\u1ee5 ki\u1ec7n \u0111\u01b0\u1eddng \u1ed1ng, b\u01a1m,... h\u00e0ng \u0111\u1ea7u Vi\u1ec7t Nam, s\u1eb5n kho h\u00e0ng H\u00e0 N\u1ed9i v\u00e0 HCM",
@@ -81,10 +91,10 @@
     },
     {
         "link": "https://ovion.in",
-        "Heading": "Ovion | Furniture store in Bangalore",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://ovion.in",
-        "Icon": "https://ovion.in/wp-content/uploads/2026/01/OV-BC-WF-1-150x150.png",
+        "Icon": "data:;",
         "Redirect": "https://ovion.in",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ovion.in"
