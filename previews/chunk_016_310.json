@@ -11,13 +11,13 @@
     },
     {
         "link": "https://sweetleafdispensary.ca",
-        "Heading": "Sweetleaf \u2013 sweetleafdispensary.ca",
+        "Heading": "Sweetleaf Dispensary | Website Maintenance",
         "Abstract": null,
-        "Official Site": "https://www.sweetleafdispensary.ca/",
-        "Icon": "https://www.sweetleafdispensary.ca/wp-content/uploads/2024/08/cropped-SweetLeaf-Logo-Icon-CMYK-32x32.png",
-        "Redirect": "https://www.sweetleafdispensary.ca/",
+        "Official Site": "https://sweetleafdispensary.ca",
+        "Icon": "N/A",
+        "Redirect": "https://sweetleafdispensary.ca",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.sweetleafdispensary.ca/"
+        "AbstractURL": "https://sweetleafdispensary.ca"
     },
     {
         "link": "https://rngcoalition.com",
@@ -110,16 +110,6 @@
         "AbstractURL": "https://www.massagestore.com/"
     },
     {
-        "link": "https://kavionpath.click",
-        "Heading": "Blog",
-        "Abstract": null,
-        "Official Site": "https://kavionpath.click",
-        "Icon": "N/A",
-        "Redirect": "https://kavionpath.click",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kavionpath.click"
-    },
-    {
         "link": "https://bourbonexpert.com",
         "Heading": null,
         "Abstract": null,
@@ -131,10 +121,10 @@
     },
     {
         "link": "https://junrennongbo.com",
-        "Heading": "\u8bf7\u9a8c\u8bc1... / Please verify...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://junrennongbo.com",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://junrennongbo.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://junrennongbo.com"
@@ -144,7 +134,7 @@
         "Heading": "DermCare Management | Dermatology Practice Management Group",
         "Abstract": "Looking to sell your dermatology practice or exit in the next few years? Partner with DermCare and maintain 100% clinical autonomy. Call now to learn more.",
         "Official Site": "https://www.dermcaremgt.com/",
-        "Icon": "https://www.dermcaremgt.com/wp-content/uploads/2023/02/dermcare.png",
+        "Icon": "https://www.dermcaremgt.com/img/og-default.png",
         "Redirect": "https://www.dermcaremgt.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.dermcaremgt.com/"
@@ -188,6 +178,16 @@
         "Redirect": "https://ceewp.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ceewp.com"
+    },
+    {
+        "link": "https://muskokabrewery.com",
+        "Heading": "Muskoka Brewery - Muskoka Brewery crafts beverages as refreshing as the region we\u2019re from.",
+        "Abstract": "Our signature lineup! Explore our collection of best-selling easy drinking beers crafted with the spirit of the outdoors. ... Crafted for any occasion. Refreshing ...",
+        "Official Site": "https://muskokabrewery.com/",
+        "Icon": "https://muskokabrewery.com/app/themes/muskoka/public/images/favicon-32x32.png",
+        "Redirect": "https://muskokabrewery.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://muskokabrewery.com/"
     },
     {
         "link": "https://starfootspa.com",
@@ -238,5 +238,15 @@
         "Redirect": "https://magelectric.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://magelectric.ru"
+    },
+    {
+        "link": "https://wlzxxt.com",
+        "Heading": "51\u76f4\u64ad\u8db3\u7403\u3010\u5728\u7ebf\u514d\u8d39\u89c2\u770b\u3011\u82f1\u8d85\u76f4\u64ad|\u897f\u7532\u76f4\u64ad|\u610f\u7532\u76f4\u64ad|\u6b27\u51a0\u76f4\u64ad-51\u76f4\u64ad\u8db3\u7403-51\u76f4\u64ad",
+        "Abstract": "51\u76f4\u64ad\u8db3\u7403\u662f\u56fd\u5185\u6700\u70ed\u95e8\u7684\u4f53\u80b2\u76f4\u64ad\u5b98\u7f51,\u63d0\u4f9b\u7ed9\u7528\u6237\u4eec\u9ad8\u6e05\u82f1\u8d85\u76f4\u64ad\u3001\u65e0\u63d2\u4ef6\u897f\u7532\u76f4\u64ad\u3001\u5728\u7ebf\u610f\u7532\u76f4\u64ad\u3001\u514d\u8d39\u6b27\u51a0\u76f4\u64ad\u7b49\u5404\u5927\u4f53\u80b2\u76f4\u64ad\u300251\u76f4\u64ad\u8db3\u7403\u8fd8\u63d0\u4f9b\u70ed\u95e8\u8d44\u8baf\u3001\u8d5b\u7a0b\u6570\u636e\u548c\u7403\u961f\u52a8\u6001,\u7403\u8ff7\u53ef\u4ee5\u572851\u76f4\u64ad\u8db3\u7403\u7b2c\u4e00\u65f6\u95f4\u638c\u63e1\u6bd4\u8d5b\u52a8\u6001\u3002",
+        "Official Site": "https://wlzxxt.com",
+        "Icon": "N/A",
+        "Redirect": "https://wlzxxt.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wlzxxt.com"
     }
 ]

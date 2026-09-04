@@ -61,13 +61,23 @@
     },
     {
         "link": "https://consejodetransparencia.es",
-        "Heading": "Consejo de transparencia | Inicio",
+        "Heading": " Consejo Transparencia y Buen Gobierno | Inicio",
         "Abstract": null,
         "Official Site": "https://consejodetransparencia.es",
         "Icon": "/content/dam/ctransparencia/logos-heder-footer/fav.png",
         "Redirect": "https://consejodetransparencia.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://consejodetransparencia.es"
+    },
+    {
+        "link": "https://punjabimania.com",
+        "Heading": "Punjabi Mania: Punjabi Movies, Reviews, News, Videos, Photos | Punjabi Mania",
+        "Abstract": "Punjabi Mania is your source for the latest Punjabi movies, music, and entertainment news.",
+        "Official Site": "https://punjabimania.com",
+        "Icon": "https://punjabimania.com/assets/images/pm_og_banner.png",
+        "Redirect": "https://punjabimania.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://punjabimania.com"
     },
     {
         "link": "https://nicolekidmanofficial.com",
@@ -94,7 +104,7 @@
         "Heading": "Why Australia Is Leading in Sustainable Educational Practices | Sock Raina",
         "Abstract": "Explore Australia's educational innovations in sustainability, project-based learning, and technology integration, fostering eco-conscious, critical thinkers prepared for future challenges through hands-on experiences.",
         "Official Site": "https://www.sockraina.com/",
-        "Icon": "125",
+        "Icon": "1559",
         "Redirect": "https://www.sockraina.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.sockraina.com/"
@@ -111,8 +121,8 @@
     },
     {
         "link": "https://vidizmo.com",
-        "Heading": "Intelligent Data and AI Solutions | VIDIZMO",
-        "Abstract": "VIDIZMO data and AI solutions comprise arenas of data intelligence, enterprise digital content management, digital evidence management, and redaction.",
+        "Heading": "Enterprise Agentic AI Platform for Video, Audio & Documents | VIDIZMO",
+        "Abstract": "VIDIZMO is a multimodal enterprise agentic AI platform that reads documents, hears audio, sees video, and acts. Deploy on AWS, Azure, any cloud, or on-prem.",
         "Official Site": "https://vidizmo.ai",
         "Icon": "https://vidizmo.ai/hubfs/Feature%20Image%20(1)%20(1).webp",
         "Redirect": "https://vidizmo.ai",
@@ -124,7 +134,7 @@
         "Heading": "\n    Davis Mortuary Service | Gretna, LA\n  ",
         "Abstract": "Davis Mortuary Service provides complete funeral services in Gretna, LA. Call us today for pre-planning or custom planning options",
         "Official Site": "https://www.davismortuaryservice.com/",
-        "Icon": "https://lirp.cdn-website.com/a6710b60/dms3rep/multi/opt/davis-mortuary-logo_result-1920w.webp",
+        "Icon": "https://irp.cdn-website.com/a6710b60/dms3rep/multi/opt/davis-mortuary-logo_result-1920w.webp",
         "Redirect": "https://www.davismortuaryservice.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.davismortuaryservice.com/"
@@ -160,6 +170,16 @@
         "AbstractURL": "https://metropt.ru"
     },
     {
+        "link": "https://pravacomp-bi.top",
+        "Heading": "pravacomp-bi.top",
+        "Abstract": null,
+        "Official Site": "https://pravacomp-bi.top",
+        "Icon": "N/A",
+        "Redirect": "https://pravacomp-bi.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pravacomp-bi.top"
+    },
+    {
         "link": "https://worldwidebase.co.jp",
         "Heading": "\u5317\u6d77\u9053\u306e\u6c11\u6cca\u904b\u55b6\u4ee3\u884c\u30fb\u4e0d\u52d5\u7523\u58f2\u8cb7\uff5c\u30ef\u30fc\u30eb\u30c9\u30ef\u30a4\u30c9\u30d9\u30fc\u30b9",
         "Abstract": "\u5317\u6d77\u9053\u5168\u57df\u3067\u4e0d\u52d5\u7523\u6295\u8cc7\u652f\u63f4\u3092\u5c55\u958b\u3059\u308b\u30ef\u30fc\u30eb\u30c9\u30ef\u30a4\u30c9\u30d9\u30fc\u30b9\u3002\u672d\u5e4c\u30fb\u5bcc\u826f\u91ce\u7b49\u306e\u5b9f\u7e3e\u3092\u57fa\u306b\u53ce\u76ca\u6700\u5927\u5316\u3092\u3054\u63d0\u6848\u3002\u6c11\u6cca\u904b\u55b6\u4ee3\u884c\u4f1a\u793e\u300c\u30c0\u30d6\u30eb\u30d0\u30b1\u30fc\u30b7\u30e7\u30f3\u300d\u3068\u9023\u643a\u3057\u3001\u4e0d\u52d5\u7523\u3068\u89b3\u5149\u306e\u30d7\u30ed\u304c\u304a\u5ba2\u69d8\u306e\u8cc7\u7523\u4fa1\u5024\u3092\u5411\u4e0a\u3055\u305b\u307e\u3059\u3002",
@@ -168,16 +188,6 @@
         "Redirect": "https://worldwidebase.co.jp/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://worldwidebase.co.jp/"
-    },
-    {
-        "link": "https://avicenna-spb.ru",
-        "Heading": "\u0410\u0412\u0418\u0426\u0415\u041d\u041d\u0410 \u2014 \u041e \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0435 \u0438 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0445 \u0446\u0435\u043d\u0442\u0440\u0430\u0445",
-        "Abstract": null,
-        "Official Site": "https://avicenna-spb.ru",
-        "Icon": "https://avicenna-spb.ru/wp-content/uploads/sites/3/2017/09/cropped-tim-2-32x32.jpg",
-        "Redirect": "https://avicenna-spb.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://avicenna-spb.ru"
     },
     {
         "link": "https://millenniumrestaurant.com",
@@ -202,7 +212,7 @@
     {
         "link": "https://onimaru-1.asia",
         "Heading": "Low Cost, High Performance S3 Compatible Object Storage",
-        "Abstract": "Backblaze B2 provides unlimited data storage in the cloud at 1/5th the cost of Amazon S3, Microsoft Azure, and Google Cloud.",
+        "Abstract": "Always-hot S3 compatible cloud object storage with 99.9% uptime SLA, free egress, and enterprise-grade security. Get started free\u2014no credit card required.",
         "Official Site": "https://onimaru-1.asia",
         "Icon": "https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64b1b1605e73b516e5712f82_Backblaze_Social-Card.webp",
         "Redirect": "https://onimaru-1.asia",
@@ -240,16 +250,6 @@
         "AbstractURL": "https://www.kennisnetgeboortezorg.nl/"
     },
     {
-        "link": "https://greeksinsight.com",
-        "Heading": "Greeks Insight | Professional Options Analytics",
-        "Abstract": null,
-        "Official Site": "https://greeksinsight.com",
-        "Icon": "/favicon.svg",
-        "Redirect": "https://greeksinsight.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://greeksinsight.com"
-    },
-    {
         "link": "https://sabhlokcity.com",
         "Heading": "Sanjeev Sabhlok's blog \u2013 Thoughts on economics and liberty",
         "Abstract": null,
@@ -261,8 +261,8 @@
     },
     {
         "link": "https://julesborel.com",
-        "Heading": "Jules Borel & Co. | Serving Watchmakers & Jewelers",
-        "Abstract": "Jules Borel & Co. is your source for high-end watch and jewelry equipment and supplies. We offer a comprehensive supply of watch materials including movements, crystals, case parts and watch materials, plus findings and batteries. We offer you the most advanced tools and equipment in the watchmaking industry.",
+        "Heading": "Jules Borel & Co. | Serving Watchmakers & Jewelers since 1920",
+        "Abstract": "Exclusive North American distributor for Witschi and a trusted source for Bergeon, Elma, Greiner Vibrograf, and other leading industry brands. Backed by decades of technical expertise, product support, and customer service.",
         "Official Site": "https://julesborel.com/",
         "Icon": "https://julesborel.com/cdn/shop/files/jb-social-share-tinified_1200x.png?v=1759853433",
         "Redirect": "https://julesborel.com/",
@@ -291,32 +291,12 @@
     },
     {
         "link": "https://erpengenharia.com",
-        "Heading": "Bursa Escort | G\u00f6r\u00fckle Escort Bayan \u2013 Escort Bursa",
-        "Abstract": "Bursa Escort ile birlikte olmak i\u00e7in kaliteli elit Bursa Escort Bayan ilanlar\u0131 burada. S\u0131cak, tutkulu ve unutulmaz anlar i\u00e7in en se\u00e7kin bayanlar sizi bekliyor.",
-        "Official Site": "https://www.escortmember.com/",
-        "Icon": "https://www.escortmember.com/wp-content/themes/classipress-master/images/cp_logo_black.png",
-        "Redirect": "https://www.escortmember.com/",
+        "Heading": "Bursa Escort | Bayan Escort Bursa \u2013 Merkez, G\u00f6r\u00fckle, FSM 2026",
+        "Abstract": "Bursa'n\u0131n tek g\u00fcvenilir escort bayan sitesi - il\u00e7e ve semt bazl\u0131 V\u0130P hizmet sunan onayl\u0131 ve ger\u00e7ek bayanlar ile doland\u0131r\u0131c\u0131l\u0131k ma\u011fduru olmadan birlikte olun.",
+        "Official Site": "https://escortkizi.com/",
+        "Icon": "https://escortkizi.com/wp-content/themes/classipress-master/images/cp_logo_black.png",
+        "Redirect": "https://escortkizi.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.escortmember.com/"
-    },
-    {
-        "link": "https://bitcapitalholding.com",
-        "Heading": "Bit Capital Holding - Finance & Trading",
-        "Abstract": null,
-        "Official Site": "https://bitcapitalholding.com",
-        "Icon": "assets/img/favicon.png",
-        "Redirect": "https://bitcapitalholding.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bitcapitalholding.com"
-    },
-    {
-        "link": "https://butthun.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://butthun.com",
-        "Icon": "N/A",
-        "Redirect": "https://butthun.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://butthun.com"
+        "AbstractURL": "https://escortkizi.com/"
     }
 ]

@@ -10,6 +10,16 @@
         "AbstractURL": "https://don-mclean.com"
     },
     {
+        "link": "https://brucesilverstein.com",
+        "Heading": "Bruce Silverstein",
+        "Abstract": "Established in 2001, the Bruce Silverstein Gallery\u2019s principal focus is the representation of an international roster of contemporary artists as well as established artists of great influence. The gallery is committed to discovering, examining, and contextualizing known and unknown artworks by modern masters as well as innovative artists of today....",
+        "Official Site": "https://brucesilverstein.com",
+        "Icon": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1113/usr/images/exhibitions/home_page_image/items/91/91b9f15c48e54902a2673312ae5abc4b/sse-00166-sp_pottery-hill_detail1.jpg",
+        "Redirect": "https://brucesilverstein.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://brucesilverstein.com"
+    },
+    {
         "link": "https://colysee.net",
         "Heading": "Colys\u00e9e M\u00e9dia \ud83c\udf40 Agence de communication Avignon Vaucluse \ud83d\udcbb",
         "Abstract": "Colys\u00e9e M\u00e9dia vous propose la refonte de votre site, la cr\u00e9ation de site e-commerce avec passerelle liaison ERP, site vitrine, am\u00e9lioration du r\u00e9f\u00e9rencement, r\u00e9alisation de votre identit\u00e9 visuelle, logo, catalogue, flyers, affiches et mise en place de votre communication sur les r\u00e9seaux sociaux.",
@@ -24,7 +34,7 @@
         "Heading": "DOUBLE SPORTS: \u0432\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u044b \u0438 \u0432\u0435\u043b\u043e\u0442\u043e\u0432\u0430\u0440\u044b \u0432 \u041c\u043e\u0441\u043a\u0432\u0435",
         "Abstract": "\u0412\u0435\u043b\u043e\u0441\u0438\u043f\u0435\u0434\u044b, \u044d\u043a\u0438\u043f\u0438\u0440\u043e\u0432\u043a\u0430 \u0438 \u0432\u0435\u043b\u043e\u0442\u043e\u0432\u0430\u0440\u044b \u0432 DOUBLE SPORTS: \u043f\u043e\u0434\u0431\u043e\u0440, \u043d\u0430\u043b\u0438\u0447\u0438\u0435, \u0441\u0430\u043c\u043e\u0432\u044b\u0432\u043e\u0437 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435 \u0438 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u0420\u043e\u0441\u0441\u0438\u0438.",
         "Official Site": "https://double-sports.ru/",
-        "Icon": "https://cdn.double-sports.ru/wp-content/themes/storefront-child/img/fav/favicon-tab-32x32.png?v=20260612-ds-tab-theme-icon",
+        "Icon": "https://cdn.double-sports.ru/wp-content/themes/storefront-child/img/fav/favicon-tab-32x32.png?v=20260904-ds-favicon-png-light-v1",
         "Redirect": "https://double-sports.ru/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://double-sports.ru/"
@@ -91,7 +101,7 @@
     },
     {
         "link": "https://fours.life",
-        "Heading": "fours.life",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://fours.life",
         "Icon": "N/A",
@@ -140,16 +150,6 @@
         "AbstractURL": "https://visitworcestershire.org/"
     },
     {
-        "link": "https://vodnomir.top",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://vodnomir.top",
-        "Icon": "N/A",
-        "Redirect": "https://vodnomir.top",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vodnomir.top"
-    },
-    {
         "link": "https://mulema.app",
         "Heading": "Mulema, Voyagez l'esprit tranquille \ud83d\ude98",
         "Abstract": "Mulema est l'application qui met en relation des voyageurs consciencieux et passionn\u00e9s de partage",
@@ -174,10 +174,20 @@
         "Heading": "Loading... Please wait.",
         "Abstract": null,
         "Official Site": "https://947redirect.com",
-        "Icon": "/uploads/upload/cv_favicon.png?v=00225aae58b4c02b7ec4cc4b0601c297de16c61e",
+        "Icon": "/uploads/upload/cv_favicon.png?v=1cada4348db6694c52da874dca9d6dd3363870a1",
         "Redirect": "https://947redirect.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://947redirect.com"
+    },
+    {
+        "link": "https://iitis.pl",
+        "Heading": "Strona g\u0142\u00f3wna | IITIS",
+        "Abstract": null,
+        "Official Site": "https://iitis.pl",
+        "Icon": "/themes/custom/iitis_at/favicon.ico",
+        "Redirect": "https://iitis.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iitis.pl"
     },
     {
         "link": "https://bitequitycapital.com",
@@ -254,7 +264,7 @@
         "Heading": "Medianext.com for sale | Spaceship.com",
         "Abstract": "Own Medianext.com today. Secure checkout and guided transfer support. No hidden fees.",
         "Official Site": "https://medianext.com",
-        "Icon": "https://forsale.spaceship-cdn.com/static/latest/4.latest/assets/fonts/favicon-16x16.png",
+        "Icon": "https://forsale.spaceship-cdn.com/static/latest/5.latest/assets/fonts/favicon-16x16.png",
         "Redirect": "https://medianext.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://medianext.com"

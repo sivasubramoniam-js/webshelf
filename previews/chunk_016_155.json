@@ -44,7 +44,7 @@
         "Heading": "WorkPlace",
         "Abstract": null,
         "Official Site": "https://airk.de",
-        "Icon": "/__extraweb__/assets/themes/DefaultWorkplaceTheme/favicon.ico?v=694393858bfc4d04",
+        "Icon": "/__extraweb__/assets/themes/DefaultWorkplaceTheme/favicon.ico?v=c69bfffb5478eca0",
         "Redirect": "https://airk.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://airk.de"
@@ -58,16 +58,6 @@
         "Redirect": "https://889992683.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://889992683.xyz"
-    },
-    {
-        "link": "https://mineralinfo.fr",
-        "Heading": "Accueil | MineralInfo",
-        "Abstract": "Ressources",
-        "Official Site": "https://mineralinfo.fr/fr/page-daccueil/accueil",
-        "Icon": "https://mineralinfo.fr/sites/default/files/images/2021-01/fluorine_calcite_picampoix.jpg",
-        "Redirect": "https://mineralinfo.fr/fr/page-daccueil/accueil",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mineralinfo.fr/fr/page-daccueil/accueil"
     },
     {
         "link": "https://conifa.org",
@@ -101,8 +91,8 @@
     },
     {
         "link": "https://mxdusa.org",
-        "Heading": "MxD | The Digital Manufacturing and Cybersecurity Institute",
-        "Abstract": "The U.S. leading cybersecurity research and digital manufacturing innovation center that secures factories and manufacturing facilities nationwide.",
+        "Heading": "MxD",
+        "Abstract": null,
         "Official Site": "https://www.mxdusa.org/",
         "Icon": "/app/uploads/2025/12/mxd-og-image-default.jpg",
         "Redirect": "https://www.mxdusa.org/",
@@ -138,6 +128,16 @@
         "Redirect": "https://889992509.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://889992509.xyz"
+    },
+    {
+        "link": "https://bcfdvzx.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bcfdvzx.com",
+        "Icon": "N/A",
+        "Redirect": "https://bcfdvzx.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bcfdvzx.com"
     },
     {
         "link": "https://889992526.xyz",
@@ -178,16 +178,6 @@
         "Redirect": "https://889992624.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://889992624.xyz"
-    },
-    {
-        "link": "https://tr61.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://tr61.net",
-        "Icon": "N/A",
-        "Redirect": "https://tr61.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://tr61.net"
     },
     {
         "link": "https://889992522.xyz",
@@ -264,7 +254,7 @@
         "Heading": "Home - Westminster School District",
         "Abstract": "Home - Westminster School District is a TK-8 public school district, serving Westminster, Huntington Beach, Garden Grove, Midway City, across Orange County through innovative, technology-focused programs. Enroll today!",
         "Official Site": "https://www.wsdk8.us/",
-        "Icon": "https://resources.finalsite.net/images/v1769452905/wsdk8us/dvp7vhn1uf9qmxe6mglb/favicon.ico",
+        "Icon": "https://resources.finalsite.net/images/v1788195534/wsdk8us/yberexrdaawcuhzc0imj/WSDLogoFavicon.ico",
         "Redirect": "https://www.wsdk8.us/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.wsdk8.us/"

@@ -20,16 +20,6 @@
         "AbstractURL": "https://admissionchecker.com"
     },
     {
-        "link": "https://bbitkase.pro",
-        "Heading": null,
-        "Abstract": "",
-        "Official Site": "https://bbitkase.pro",
-        "Icon": "/favicon-32x32.png",
-        "Redirect": "https://bbitkase.pro",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bbitkase.pro"
-    },
-    {
         "link": "https://glyomics.org",
         "Heading": "glyomics.org",
         "Abstract": null,
@@ -191,10 +181,10 @@
     },
     {
         "link": "https://rgdn.info",
-        "Heading": "Google",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://rgdn.info",
-        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://rgdn.info",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rgdn.info"

@@ -20,21 +20,11 @@
         "AbstractURL": "https://osamazaid.com"
     },
     {
-        "link": "https://palmasolutions.net",
-        "Heading": "Sorry, the website has been stopped",
-        "Abstract": null,
-        "Official Site": "https://palmasolutions.net",
-        "Icon": "N/A",
-        "Redirect": "https://palmasolutions.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://palmasolutions.net"
-    },
-    {
         "link": "https://papanlesat.com",
-        "Heading": "papanlesat Next",
-        "Abstract": "Payload CMS powered site",
+        "Heading": "ConvTag \u2014 Self-hosted sales AI for any site you run - ConvTag",
+        "Abstract": "Turn every high-intent page into a sales conversation. The ConvTag chat widget answers from your real content, captures leads, and hands off to humans on demand. Self-hostable, multi-tenant, white-labelable.",
         "Official Site": "https://papanlesat.com",
-        "Icon": "N/A",
+        "Icon": "https://assets.convtag.com/favicon.ico",
         "Redirect": "https://papanlesat.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://papanlesat.com"
@@ -90,6 +80,26 @@
         "AbstractURL": "https://pigeonfi.com"
     },
     {
+        "link": "https://pinova.io",
+        "Heading": "KQBD - K\u1ebft Qu\u1ea3 B\u00f3ng \u0110\u00e1 - K\u1ebft Qu\u1ea3 S\u1edbm Nh\u1ea5t H\u00f4m Nay",
+        "Abstract": "Xem k\u1ebft qu\u1ea3 b\u00f3ng \u0111\u00e1 tr\u1ef1c tuy\u1ebfn h\u00f4m nay, t\u1ef7 s\u1ed1 b\u00f3ng \u0111\u00e1 r\u1ea1ng s\u00e1ng qua nhanh & ch\u00ednh x\u00e1c nh\u1ea5t. C\u1eadp nh\u1eadt KQBD m\u1ecdi gi\u1ea3i \u0111\u1ea5u: Ngo\u1ea1i h\u1ea1ng Anh, Cup C1, La Liga... li\u00ean t\u1ee5c 24/7.",
+        "Official Site": "https://noonoo22.tv/",
+        "Icon": "https://noonoo22.tv/wp-content/uploads/2026/01/kqbd.webp",
+        "Redirect": "https://noonoo22.tv/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://noonoo22.tv/"
+    },
+    {
+        "link": "https://pjkaisidun.com",
+        "Heading": "\u97e9\u5267TV\u7f51 - \u9996\u9875",
+        "Abstract": "\u97e9\u5267TV\u7f51\uff0c\u9752\u67e0\u5f71\u9662\uff0c\u5c0f\u5c0f\u5f71\u89c6\uff0c\u65e5\u5267\u7f51\u5206\u4eab\u6700\u65b0\u9ad8\u6e05\u7535\u5f71\u7535\u89c6\u5267\u3001\u4f26\u7406\u7247\u3001\u7efc\u827a\u3001\u7f8e\u5267\u3001\u97e9\u5267\u3001\u82f1\u5267\u3001\u65e5\u5267\u7b49\u8fc5\u96f7\u4e0b\u8f7d\uff0c\u7b49\u8d44\u6e90\u5728\u7ebf\u89c2\u770b\uff01",
+        "Official Site": "https://pjkaisidun.com/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://pjkaisidun.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pjkaisidun.com/"
+    },
+    {
         "link": "https://plgestatesinc.com",
         "Heading": "PLG Estates | Los Angeles Real Estate Brokerage",
         "Abstract": "PLG Estates are dedicated to providing for all of your real estate needs in the markets of Hollywood Hills and Beverly Hills. Get in touch with the team now!",
@@ -98,16 +108,6 @@
         "Redirect": "https://plgestatesinc.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://plgestatesinc.com/"
-    },
-    {
-        "link": "https://pointc.com",
-        "Heading": "Home - Point C",
-        "Abstract": null,
-        "Official Site": "https://pointc.com/",
-        "Icon": "https://pointc.com/wp-content/uploads/2025/06/Plus-Relocation-Point-C-icon-512x512-1-150x150.png",
-        "Redirect": "https://pointc.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pointc.com/"
     },
     {
         "link": "https://polyinnovator.space",
@@ -144,7 +144,7 @@
         "Heading": "Walter Smith Group - Delray Beach - Premier Estate Properties",
         "Abstract": "Visit Walter Smith Group's team profile on Premier Estate Properties. They work out of the Delray Beach office and can be contacted at (561) 665-7849.",
         "Official Site": "https://waltersmithgroup.info/",
-        "Icon": "https://waltersmithgroup.info/wp-content/uploads/sites/65/2026/04/preview.png",
+        "Icon": "https://cdn.agentimagehosting.com/1QEjkFa8APwRw9e2Ecgdn/sites/65/2026/04/preview.png",
         "Redirect": "https://waltersmithgroup.info/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://waltersmithgroup.info/"

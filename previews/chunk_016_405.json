@@ -52,7 +52,7 @@
     {
         "link": "https://mommyandlove.com",
         "Heading": "Home - Mommy and Love",
-        "Abstract": null,
+        "Abstract": "\ufeff Qanday hisob yaratish va imtiyozdan foydalanish A'zo bo'lish jarayoni g'oyat sodda va tez yakunlanadi. Atigi oz sonli tartibni bajaring va o'yinchi darhol to'liq funksiyalardan foydalana ketasiz. Sayt milliy tilida xizmat qiladi, bu esa pinup",
         "Official Site": "https://mommyandlove.com/",
         "Icon": "https://mommyandlove.com/wp-content/uploads/2021/11/cropped-mommy-and-love-favicon-32x32.png",
         "Redirect": "https://mommyandlove.com/",
@@ -104,7 +104,7 @@
         "Heading": "Sustainability - American Iron and Steel Institute",
         "Abstract": "The American steel industry is the cleanest and most energy efficient of the leading steel industries in the world.",
         "Official Site": "https://www.steel.org/sustainability/",
-        "Icon": "https://steel-media.s3.amazonaws.com/wp-content/uploads/2026/06/15181809/AISI_social_share_thumbnail_SSAB-QL6_2.jpg",
+        "Icon": "https://steel-media.s3.amazonaws.com/wp-content/uploads/2026/08/18190202/AISI_social_share_thumbnail_arcelormittal-calvert-steelmaking_5-1.jpg",
         "Redirect": "https://www.steel.org/sustainability/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.steel.org/sustainability/"
@@ -151,10 +151,10 @@
     },
     {
         "link": "https://hrhelpboard.com",
-        "Heading": "HR Help Board",
+        "Heading": "HR Help Board \u2013 an HR Portal & World\u2019s Best HR Platform",
         "Abstract": "HR Help Board - Your complete HR resource platform",
         "Official Site": "https://hrhelpboard.com",
-        "Icon": "https://hrhelpboard.com/assets/frontend/images/HRhelpboard-logo.png",
+        "Icon": "https://hrhelpboard.com/assets/frontend/images/hrhelpboard-og.png",
         "Redirect": "https://hrhelpboard.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hrhelpboard.com"
@@ -164,7 +164,7 @@
         "Heading": "San Fegan Biotech",
         "Abstract": null,
         "Official Site": "https://sanfegan.com",
-        "Icon": "N/A",
+        "Icon": "https://www.sanfegan.com/wp-content/uploads/2024/11/cropped-SFB-fav-2-1-32x32.webp",
         "Redirect": "https://sanfegan.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sanfegan.com"
@@ -228,6 +228,16 @@
         "Redirect": "https://passionconferences.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://passionconferences.com/"
+    },
+    {
+        "link": "https://sdttk.cn",
+        "Heading": "\u661f\u661f\u52a8\u6f2b-\u597d\u770b\u7684\u52a8\u6f2b,\u98ce\u8f66\u52a8\u6f2b,\u6a31\u82b1\u52a8\u6f2b\u7f51,\u514d\u8d39\u52a8\u6f2b\u5728\u7ebf\u89c2\u770b",
+        "Abstract": "\u661f\u661f\u52a8\u6f2b\u4ee5\u7480\u74a8\u661f\u7a7a\u4e3a\u89c6\u89c9\u8bbe\u8ba1\u7075\u611f\uff0c\u8425\u9020\u51fa\u6d69\u701a\u6d6a\u6f2b\u7684\u4e8c\u6b21\u5143\u6c1b\u56f4\u3002\u661f\u661f\u52a8\u6f2b\u6536\u5f55\u4e86\u5927\u91cf\u5947\u5e7b\u3001\u79d1\u5e7b\u53ca\u5192\u9669\u7c7b\u52a8\u753b\u4f5c\u54c1\uff0c\u7247\u5e93\u4e30\u5bcc\u3002\u661f\u661f\u52a8\u6f2b\u7684\u591c\u95f4\u6a21\u5f0f\u7ecf\u8fc7\u4e13\u95e8\u4f18\u5316\uff0c\u62a4\u773c\u8212\u9002\uff0c\u975e\u5e38\u9002\u5408\u6df1\u591c\u8ffd\u756a\uff0c\u661f\u661f\u52a8\u6f2b\u662f\u591c\u732b\u5b50\u6f2b\u8ff7\u7684\u661f\u7a7a\u5f71\u9662\u3002",
+        "Official Site": "https://sdttk.cn/",
+        "Icon": "assets/images/f9f99de1a611.webp",
+        "Redirect": "https://sdttk.cn/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sdttk.cn/"
     },
     {
         "link": "https://polarkorea.co.kr",

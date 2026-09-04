@@ -23,11 +23,11 @@
         "link": "https://barunsesang.co.kr",
         "Heading": "\ubc14\ub978\uc138\uc0c1\ubcd1\uc6d0",
         "Abstract": "\ube44\uc218\uc220\uc6b0\uc120 \uce58\ub8cc, \ucc99\ucd94 \uad00\uc808 \uce58\ub8cc/\uc7ac\ud65c\ubb3c\ub9ac\uce58\ub8cc/\ub1cc\uc2e0\uacbd, \ubcf4\uac74\ubcf5\uc9c0\ubd80\uc9c0\uc815 \uad00\uc808\uc804\ubb38\ubcd1\uc6d0, \uac04\ud638\uac04\ubcd1\ud1b5\ud569\uc11c\ube44\uc2a4\ubcd1\uc6d0",
-        "Official Site": "http://www.barunsesang.co.kr/",
-        "Icon": "http://www.barunsesang.co.kr/img/main/logo.png",
-        "Redirect": "http://www.barunsesang.co.kr/",
+        "Official Site": "https://www.barunsesang.co.kr/",
+        "Icon": "https://www.barunsesang.co.kr/img/main/og_representative.jpg",
+        "Redirect": "https://www.barunsesang.co.kr/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://www.barunsesang.co.kr/"
+        "AbstractURL": "https://www.barunsesang.co.kr/"
     },
     {
         "link": "https://bathurst.co.nz",
@@ -41,7 +41,7 @@
     },
     {
         "link": "https://beadsonline.com.au",
-        "Heading": "Beads Online Australia - Gemstone Beads, Seed Beads & Jewellery Supplies",
+        "Heading": "Gemstone Beads, Seed Beads & Jewellery Supplies - Beads Online Australia",
         "Abstract": "Discover gemstone beads, seed beads, and DIY jewellery making supplies. Trusted by Australian makers since 2005.",
         "Official Site": "https://beadsonline.com.au/",
         "Icon": "https://beadsonline.com.au/images/simplecms/logo_beads-online-logo.gif",
@@ -130,16 +130,6 @@
         "AbstractURL": "https://qvickly.io/"
     },
     {
-        "link": "https://bincial.com",
-        "Heading": "Bincial GEO | Free GEO Audit Tool, Intelligent Website Building, GEO Optimization, GEO Monitoring",
-        "Abstract": "Bincial provides free GEO audit tools and fully automatic GEO optimization, building a complete conversion link solution integrating \"GEO + Intelligent Website Building + AI Sales\". Bincial GEO covers major AI Q&A platforms including Doubao, Qwen, ChatGPT and DeepSeek. It greatly boosts brands' exposure and recommendation weight in AI Q&A results, captures global organic search traffic at low cost, and steadily acquires passive high-precision customers.",
-        "Official Site": "https://www.bincial.com",
-        "Icon": "https://www.bincial.com/favicon.png",
-        "Redirect": "https://www.bincial.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bincial.com"
-    },
-    {
         "link": "https://biometechnologiesplc.com",
         "Heading": "Biome Technologies plc | A growth-oriented, commercially-driven technology group",
         "Abstract": "Our strategy is founded on building market-leading positions based on patented technology,\u00a0and serving international customers in valuable market sectors.",
@@ -150,6 +140,16 @@
         "AbstractURL": "https://biometechnologies.com/"
     },
     {
+        "link": "https://bitclear.li",
+        "Heading": "Crypto Payment Processor for international Transfers | Bitclear",
+        "Abstract": "Secure global transfers with Bitclear, the leading crypto payment processor for international transactions. Get more information here!",
+        "Official Site": "https://bitclear.com/",
+        "Icon": "https://bitclear.com/wp-content/uploads/2024/05/iStock-1338400856-Kopie-1.jpg",
+        "Redirect": "https://bitclear.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bitclear.com/"
+    },
+    {
         "link": "https://bjoux.it",
         "Heading": "Bjoux.it - Bigiotteria Online Ingrosso Cinese",
         "Abstract": "Bjoux.it \u00e8 il portale online dedicato ai possessori di partita IVA che vogliono acquistare prodotti di bigiotteria e accessori moda all\u2019ingrosso",
@@ -158,16 +158,6 @@
         "Redirect": "https://bjoux.it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bjoux.it/"
-    },
-    {
-        "link": "https://bjxjcc.com",
-        "Heading": "\u767e\u5ea6\u5f71\u9662\u9ad8\u6e05\u7535\u5f71\u70ed\u64ad\u7535\u89c6\u5267\u77ed\u5267\u514d\u8d39\u5728\u7ebf\u89c2\u770b - \u767e\u5ea6\u5f71\u9662",
-        "Abstract": "\u767e\u5ea6\u5f71\u9662\u6c47\u805a\u70ed\u64ad\u7535\u89c6\u5267\u3001\u70ed\u95e8\u7535\u5f71\u3001\u7cbe\u5f69\u52a8\u6f2b\u3001\u641e\u7b11\u7efc\u827a\u4ee5\u53ca\u9ad8\u6e05\u77ed\u5267\uff0c\u5168\u90e8\u53ef\u514d\u8d39\u5728\u7ebf\u89c2\u770b\uff0c\u5e76\u652f\u6301\u9ad8\u6e05\u64ad\u653e\u3002\u66f4\u591a\u597d\u770b\u7684\u7ecf\u5178\u7535\u5f71\u548cVIP\u7535\u89c6\u5267\u5c3d\u5728\u767e\u5ea6\u5f71\u9662\u3002",
-        "Official Site": "https://bjxjcc.com",
-        "Icon": "/statics/img/favicon.ico",
-        "Redirect": "https://bjxjcc.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bjxjcc.com"
     },
     {
         "link": "https://blastradio.com",
@@ -220,16 +210,6 @@
         "AbstractURL": "/"
     },
     {
-        "link": "https://boto-byh.online",
-        "Heading": "Buy boto-byh.online \u2013 Premium Expired .online Domain on AutoBackorder | ExpiredDomains.com",
-        "Abstract": "Buy boto-byh.online for 30 on AutoBackorder via ExpiredDomains.com. This premium expired .online domain is ideal for establishing a strong online identity.",
-        "Official Site": "https://expireddomains.com/domain/boto-byh.online",
-        "Icon": "https://expireddomains.com/logos/ed.jpg",
-        "Redirect": "https://expireddomains.com/domain/boto-byh.online",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://expireddomains.com/domain/boto-byh.online"
-    },
-    {
         "link": "https://brahms.ai",
         "Heading": null,
         "Abstract": null,
@@ -258,16 +238,6 @@
         "Redirect": "https://brooklyngallery.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://brooklyngallery.com"
-    },
-    {
-        "link": "https://bullockarts.com",
-        "Heading": "\u5e7f\u4e1c\u7701\u4e1c\u839e\u5e02\u6676\u62d3\u5f71\u4e1a\u4fe1\u606f\u53d1\u5c55\u6709\u9650\u516c\u53f8",
-        "Abstract": "",
-        "Official Site": "https://bullockarts.com",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://bullockarts.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bullockarts.com"
     },
     {
         "link": "https://bumpdateapp.com",

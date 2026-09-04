@@ -140,6 +140,16 @@
         "AbstractURL": "https://idrink.com"
     },
     {
+        "link": "https://mkramn.ru",
+        "Heading": "\u0411\u0438\u043f\u043b\u0430\u043d",
+        "Abstract": null,
+        "Official Site": "https://mkramn.ru",
+        "Icon": "N/A",
+        "Redirect": "https://mkramn.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mkramn.ru"
+    },
+    {
         "link": "https://spicersmusic.com",
         "Heading": "Spicer's Music - Auburn, AL",
         "Abstract": "Serving musicians, students, & friends in the Auburn and Opelika area and beyond for years. Shop our selection of new, used & vintage guitars, amps, & more.",
@@ -161,13 +171,13 @@
     },
     {
         "link": "https://bemedwise.org",
-        "Heading": "Home - BeMedWise",
-        "Abstract": "MAXIMIZE YOUR MEDICINE BENEFITS Medication \u201cadherence\u201d assures the maximum beneficial impact of the medicines you take, and minimizes risk. This means taking your medicines precisely according to instructions. MINIMIZE YOUR MEDICINE RISKS All medicines come with risks, many of which can be prevented or avoided. Learn tips to reduce side effects, avoid drug interactions and [\u2026]",
-        "Official Site": "https://www.bemedwise.org/",
-        "Icon": "https://www.bemedwise.org/wp-content/uploads/2019/11/facts.png",
-        "Redirect": "https://www.bemedwise.org/",
+        "Heading": "BeMedWise",
+        "Abstract": "BeMedWise promotes the safe use, storage and disposal of medicines for better health. A program of NeedyMeds.",
+        "Official Site": "https://bemedwise.org",
+        "Icon": "/bmw-pill-icon-32x32.png",
+        "Redirect": "https://bemedwise.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bemedwise.org/"
+        "AbstractURL": "https://bemedwise.org"
     },
     {
         "link": "https://netconcepts.com",
@@ -238,15 +248,5 @@
         "Redirect": "www.stadt-altenburg.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "www.stadt-altenburg.de/"
-    },
-    {
-        "link": "https://acretraders.top",
-        "Heading": "acretraders.top",
-        "Abstract": null,
-        "Official Site": "https://acretraders.top",
-        "Icon": "img/fav-icon.png",
-        "Redirect": "https://acretraders.top",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://acretraders.top"
     }
 ]

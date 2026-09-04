@@ -1,13 +1,13 @@
 [
     {
         "link": "https://majesticdetroit.com",
-        "Heading": "The Majestic Theatre",
-        "Abstract": "",
-        "Official Site": "https://www.majesticdetroit.com/",
-        "Icon": "https://www.majesticdetroit.com/assets/img/default_thumb-0d888d98cd.jpg",
-        "Redirect": "https://www.majesticdetroit.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://majesticdetroit.com",
+        "Icon": "N/A",
+        "Redirect": "https://majesticdetroit.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.majesticdetroit.com/"
+        "AbstractURL": "https://majesticdetroit.com"
     },
     {
         "link": "https://paperlessenvironments.com",
@@ -28,6 +28,16 @@
         "Redirect": "https://readwithacta.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://readwithacta.com"
+    },
+    {
+        "link": "https://eatonrussia.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://eatonrussia.ru",
+        "Icon": "N/A",
+        "Redirect": "https://eatonrussia.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eatonrussia.ru"
     },
     {
         "link": "https://citizensjournals.com",
@@ -70,16 +80,6 @@
         "AbstractURL": "https://zinginstruments.com/"
     },
     {
-        "link": "https://getorder.biz",
-        "Heading": "Online Ordering System for Delivery, QR Menu & POS Integration | GetOrder",
-        "Abstract": "GetOrder is an online ordering system for managing delivery orders, marketplace integrations, QR menus, POS integration, customer reviews, and last-mile delivery in one platform.",
-        "Official Site": "https://getorder.biz/",
-        "Icon": "https://getorder.biz/wp-content/uploads/2026/07/screenshot-2026-07-07-at-15.25.33-1024x541.png",
-        "Redirect": "https://getorder.biz/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://getorder.biz/"
-    },
-    {
         "link": "https://momsminivan.com",
         "Heading": "Car Games, Car Travel Games, and Free Printable Road Trip Games for Kids",
         "Abstract": "More than 101 car travel games, road trip activities, and free printable car games to play with kids.",
@@ -111,8 +111,8 @@
     },
     {
         "link": "https://sandflysecurity.com",
-        "Heading": "Sandfly Security | Agentless Linux EDR and Incident Response",
-        "Abstract": "Sandfly is an agentless Linux EDR and incident response platform. Sandfly finds Linux threats without endpoint agents.",
+        "Heading": "Sandfly Security | Agentless Linux EDR for Critical Systems",
+        "Abstract": "Sandfly agentless Linux EDR for critical infrastructure. Sandfly finds Linux threats without endpoint agents.",
         "Official Site": "https://sandflysecurity.com",
         "Icon": "https://www.datocms-assets.com/56687/1770165159-sandfly-social-banners-1200x630_web-preview.png?auto=format&fit=max&w=1200",
         "Redirect": "https://sandflysecurity.com",
@@ -180,16 +180,6 @@
         "AbstractURL": "https://bestpricetrailers.com"
     },
     {
-        "link": "https://optimalrefinance.com",
-        "Heading": "Home - Optimal Refinance",
-        "Abstract": "Compare top lenders, lock low rates, and simplify your mortgage journey today. Why is it important to have the right mortgage? Choosing wisely ensures lower payments, better rates, and peace of mind throughout your entire homeownership journey. Quickly explore top lender offers and secure your ideal mortgage in minutes. Compare mortgage rates effortlessly and lock [\u2026]",
-        "Official Site": "https://optimalrefinance.com/",
-        "Icon": "https://optimalrefinance.com/wp-content/uploads/2025/09/pexels-freestockpro-7599735-scaled.jpg",
-        "Redirect": "https://optimalrefinance.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://optimalrefinance.com/"
-    },
-    {
         "link": "https://bgrimm.com",
         "Heading": "\u9519\u8bef\u9875\u9762",
         "Abstract": null,
@@ -203,31 +193,21 @@
         "link": "https://dainikhawk.com",
         "Heading": "Dainik Hawk | \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u0924\u093e\u091c\u093c\u093e \u0938\u092e\u093e\u091a\u093e\u0930, \u092c\u094d\u0930\u0947\u0915\u093f\u0902\u0917 \u0928\u094d\u092f\u0942\u091c\u093c \u0914\u0930 \u0935\u093f\u0936\u094d\u0932\u0947\u0937\u0923",
         "Abstract": "Dainik Hawk \u092a\u0930 \u092a\u0922\u093c\u0947\u0902 \u092d\u093e\u0930\u0924 \u0914\u0930 \u0926\u0941\u0928\u093f\u092f\u093e \u092d\u0930 \u0915\u0940 \u0924\u093e\u091c\u093c\u093e \u0916\u092c\u0930\u0947\u0902, \u092c\u094d\u0930\u0947\u0915\u093f\u0902\u0917 \u0928\u094d\u092f\u0942\u091c\u093c, \u0930\u093e\u091c\u0928\u0940\u0924\u093f, \u0916\u0947\u0932, \u0935\u094d\u092f\u093e\u092a\u093e\u0930, \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0914\u0930 \u0905\u0928\u094d\u092f \u0935\u093f\u0937\u092f\u094b\u0902 \u092a\u0930 \u0917\u0939\u0930\u093e\u0908 \u0938\u0947 \u0935\u093f\u0936\u094d\u0932\u0947\u0937\u0923 \u2013 \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902\u0964",
-        "Official Site": "https://dainikhawk.com",
+        "Official Site": "https://www.dainikhawk.com",
         "Icon": "https://www.dainikhawk.com/dainikhawk-logo.png",
-        "Redirect": "https://dainikhawk.com",
+        "Redirect": "https://www.dainikhawk.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dainikhawk.com"
+        "AbstractURL": "https://www.dainikhawk.com"
     },
     {
         "link": "https://falcon-kitchens.com",
-        "Heading": "Commercial Kitchen Equipment in Sharjah, Dubai & UAE",
+        "Heading": "Commercial Kitchen Equipment in Dubai, Sharjah & UAE",
         "Abstract": "Shop new, used & refurbished commercial kitchen equipment Sharjah, Dubai, UAE. Supplier of hotel and industrial kitchens. Order now",
         "Official Site": "https://falcon-kitchens.com/",
         "Icon": "https://falcon-kitchens.b-cdn.net/wp-content/uploads/2024/06/cropped-FALCON_KITCHENS_logo_400_400_Commercial_Kitchen_Equipment_UAE.webp",
         "Redirect": "https://falcon-kitchens.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://falcon-kitchens.com/"
-    },
-    {
-        "link": "https://xensei.com",
-        "Heading": "Feather Flags & Retractable Banners | cheap custom XENSEI -",
-        "Abstract": null,
-        "Official Site": "https://www.xensei.com/",
-        "Icon": "https://www.xensei.com/wp-content/uploads/2023/01/cropped-icon-xensei-banner-flags-32x32.png",
-        "Redirect": "https://www.xensei.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.xensei.com/"
     },
     {
         "link": "https://tjg-kiel.de",

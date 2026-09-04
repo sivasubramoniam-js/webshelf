@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://safety61.com",
+        "Heading": "\u7f51\u7ad9\u5347\u7ea7\u4e2d & \u4f20\u9012\u7231\u5fc3",
+        "Abstract": null,
+        "Official Site": "https://safety61.com",
+        "Icon": "N/A",
+        "Redirect": "https://safety61.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://safety61.com"
+    },
+    {
         "link": "https://sandboxcernercentral.com",
         "Heading": "CernerCentral",
         "Abstract": null,
@@ -94,10 +104,20 @@
         "Heading": "Sensemore | Healthy Machines, Sustainable Business",
         "Abstract": "Sensemore is a reliability-focused asset management platform with hardware, software and AI-powered tools designed for machine health analysis",
         "Official Site": "https://sensemore.io/",
-        "Icon": "https://d2zuu2ybl1bwhn.cloudfront.net/wp-content/uploads/2023/08/only_logo_daire_icinde-removebg-preview.png",
+        "Icon": "https://sensemore.io/og/default.jpg",
         "Redirect": "https://sensemore.io/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sensemore.io/"
+    },
+    {
+        "link": "https://sevnreit.com",
+        "Heading": "Commercial Real Estate Finance \u2013 Seven Hills Realty Trust",
+        "Abstract": "Seven Hills Realty Trust (Nasdaq: SEVN) originates and invests in first mortgage loans secured by middle market and transitional commercial real estate.\n\n",
+        "Official Site": "https://www.sevnreit.com/",
+        "Icon": "https://www.sevnreit.com/~/media/Images/R/rmr-group-ir/sevnreit/icons/seven-hills.jpg",
+        "Redirect": "https://www.sevnreit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sevnreit.com/"
     },
     {
         "link": "https://shattucklabs.com",
@@ -131,8 +151,8 @@
     },
     {
         "link": "https://signiance.com",
-        "Heading": "Cloud Solutions Agency - Signiance Technologies",
-        "Abstract": "Signiance Technologies offers expert services in architecting on cloud, DevOps, migration, security, compliance, managed services, and optimization.",
+        "Heading": "AI-Native Engineering Company",
+        "Abstract": "We help startups build, scale, and ship faster with AI-native engineering, AWS cloud solutions, and DevOps. AWS Advanced Consulting Partner",
         "Official Site": "https://signiance.com/",
         "Icon": "https://signiance.com/wp-content/uploads/2025/08/Signiance-Site-Icon-New-copy.jpg",
         "Redirect": "https://signiance.com/",

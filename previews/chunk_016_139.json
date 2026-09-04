@@ -54,10 +54,20 @@
         "Heading": "Home - Nassnig Legal Service",
         "Abstract": null,
         "Official Site": "https://www.nassnig.org/",
-        "Icon": "https://www.nassnig.org/wp-content/uploads/2021/06/cropped-Legal-Service-32x32.png",
+        "Icon": "https://www.nassnig.org/wp-content/uploads/cropped-Legal-Service-32x32.png",
         "Redirect": "https://www.nassnig.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.nassnig.org/"
+    },
+    {
+        "link": "https://auto-prava-meb.top",
+        "Heading": "auto-prava-meb.top",
+        "Abstract": "Find information, resources and relevant links for auto-prava-meb.top. This domain may be for sale.",
+        "Official Site": "https://auto-prava-meb.top",
+        "Icon": "N/A",
+        "Redirect": "https://auto-prava-meb.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://auto-prava-meb.top"
     },
     {
         "link": "https://a-gems.com",
@@ -68,6 +78,16 @@
         "Redirect": "https://a-gems.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://a-gems.com/"
+    },
+    {
+        "link": "https://transrisk.net",
+        "Heading": "TransRisk - A Market Risk Management Software ",
+        "Abstract": "TransRisk, risk management software and a decision-enabling business intelligence tool helps measure and manage risk of the enterprises.",
+        "Official Site": "https://transrisk.net",
+        "Icon": "images/logo_tst.png",
+        "Redirect": "https://transrisk.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://transrisk.net"
     },
     {
         "link": "https://oddpp.com",
@@ -91,8 +111,8 @@
     },
     {
         "link": "https://manhattancc.org",
-        "Heading": "Home - Manhattan Chamber of Commerce",
-        "Abstract": "NYC's leading business advocate. The Manhattan Chamber drives policy, connects 125,000+ businesses, and fuels growth across every Manhattan neighborhood.",
+        "Heading": "Manhattan Chamber of Commerce | Advocacy, Data & Business Help (Homepage) - Manhattan Chamber of Commerce",
+        "Abstract": "The Manhattan Chamber of Commerce tracks the borough's commercial health, advises businesses one-on-one for free, runs grant and accelerator programs, and carries a small business agenda at City Hall.",
         "Official Site": "https://www.manhattancc.org/",
         "Icon": "https://growthzonecmsprodeastus.azureedge.net/sites/396/2023/11/favicon.png",
         "Redirect": "https://www.manhattancc.org/",
@@ -100,29 +120,19 @@
         "AbstractURL": "https://www.manhattancc.org/"
     },
     {
-        "link": "https://cemplexgroup.com",
-        "Heading": "Cemplex Group Construction Services",
-        "Abstract": "The Cemplex Group is a leading installer of gypsum underlays, sound control, and elevated waterproofing systems.",
-        "Official Site": "https://www.cemplexgroup.com/",
-        "Icon": "https://www.cemplexgroup.com/wp-content/uploads/2026/04/Cemplex-CRI-logo_2Color-scaled.png",
-        "Redirect": "https://www.cemplexgroup.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.cemplexgroup.com/"
-    },
-    {
-        "link": "https://me-clinica12.ru",
-        "Heading": "\u041f\u043b\u0430\u0433\u0438\u043d \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 BotBlocker",
+        "link": "https://pravacomp-abe.top",
+        "Heading": "pravacomp-abe.top",
         "Abstract": null,
-        "Official Site": "https://me-clinica12.ru",
-        "Icon": "data:,",
-        "Redirect": "https://me-clinica12.ru",
+        "Official Site": "https://pravacomp-abe.top",
+        "Icon": "N/A",
+        "Redirect": "https://pravacomp-abe.top",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://me-clinica12.ru"
+        "AbstractURL": "https://pravacomp-abe.top"
     },
     {
         "link": "https://empion.io",
-        "Heading": "Empion | F\u00fcr Unternehmen",
-        "Abstract": null,
+        "Heading": "Empion | KI-basiertes Recruiting nach Kultur Fit",
+        "Abstract": "Empion bringt Talente und Unternehmen dank KI-basierte Matching-Logik passgenau zusammen \u2013 basierend auf F\u00e4higkeiten, Pers\u00f6nlichkeitsmerkmalen und Unternehmenskultur. Jetzt Demo buchen",
         "Official Site": "https://empion.io",
         "Icon": "https://cdn.prod.website-files.com/68e76cfb904ceb88ef2af297/69807f900669bedda83b49b3_open_graph.jpg",
         "Redirect": "https://empion.io",
@@ -151,33 +161,33 @@
     },
     {
         "link": "https://bitshopp.com",
-        "Heading": "Bitshopp | Tokeniza\u00e7\u00e3o de ativos e infraestrutura blockchain",
-        "Abstract": "A Bitshopp oferece solu\u00e7\u00f5es via API e servi\u00e7os com foco em DLT / Blockchain, Tokeniza\u00e7\u00e3o, NFT, Smartcontracts, Criptoativos e outras tecnologias disruptivas capazes de simplificar processos, reduzir custos e tornar o seu neg\u00f3cio mais transparente, eficiente e sustent\u00e1vel.",
-        "Official Site": "http://www.bitshopp.com",
-        "Icon": "www.bitshopp.com/images/og-image.jpg",
-        "Redirect": "http://www.bitshopp.com",
+        "Heading": "Bitshopp \u2014 Infraestrutura blockchain para a era da IA",
+        "Abstract": "Conecte seu neg\u00f3cio \u00e0 economia tokenizada de forma invis\u00edvel. Tokeniza\u00e7\u00e3o de ativos, pagamentos web3, wallets e KYC com seguran\u00e7a de n\u00edvel banc\u00e1rio e integra\u00e7\u00e3o via API ou no-code.",
+        "Official Site": "https://bitshopp.com/",
+        "Icon": "https://bitshopp.com/og-default.png",
+        "Redirect": "https://bitshopp.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://www.bitshopp.com"
+        "AbstractURL": "https://bitshopp.com/"
     },
     {
         "link": "https://ashecountyrealestate.com",
         "Heading": "NC Mountain Real Estate",
         "Abstract": "NC Mountain Real Estate, Mountain homes and land, many photos and details on site and information on the area.",
-        "Official Site": "https://ashecountyrealestate.com",
+        "Official Site": "https://ashecountyrealestate.com/",
         "Icon": "/theme/favicon/favicon.ico",
-        "Redirect": "https://ashecountyrealestate.com",
+        "Redirect": "https://ashecountyrealestate.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ashecountyrealestate.com"
+        "AbstractURL": "https://ashecountyrealestate.com/"
     },
     {
         "link": "https://auburnchiomega.com",
-        "Heading": "HOKIRAJA : Server Thailand Proses WD dan Deposit Kilat Terpercaya | Utourism",
-        "Abstract": "Hokiraja tidak hanya menyediakan slot server Indonesia, Hokiraja juga menyediakan server thailand dengan proses withdraw dan deposit kilat. Dengan demikian member dapat bermain game online dengan server pro walau mendaftar atau login di Utourism",
-        "Official Site": "https://www.utourism.org/",
-        "Icon": "https://www.utourism.org/img/gg/hokirajagg-banner.webp",
-        "Redirect": "https://www.utourism.org/",
+        "Heading": "HOKIRAJA : Server Thailand Proses WD dan Deposit Kilat Terpercaya | Elcortacesped",
+        "Abstract": "Hokiraja tidak hanya menyediakan slot server Indonesia, Hokiraja juga menyediakan server thailand dengan proses withdraw dan deposit kilat. Dengan demikian member dapat bermain game online dengan server pro walau mendaftar atau login di Elcortacesped",
+        "Official Site": "https://elcortacesped.com/",
+        "Icon": "https://elcortacesped.com/img/gg/hokirajagg-banner.webp",
+        "Redirect": "https://elcortacesped.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.utourism.org/"
+        "AbstractURL": "https://elcortacesped.com/"
     },
     {
         "link": "https://hostingmorelia.com",
@@ -198,16 +208,6 @@
         "Redirect": "https://theclarence.ie/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theclarence.ie/"
-    },
-    {
-        "link": "https://vavadaf6.fun",
-        "Heading": "Buy vavadaf6.fun \u2013 Premium Expired .fun Domain on GoDaddy | ExpiredDomains.com",
-        "Abstract": "Buy vavadaf6.fun for 100 on GoDaddy via ExpiredDomains.com. This premium expired .fun domain is ideal for establishing a strong online identity.",
-        "Official Site": "https://expireddomains.com/domain/vavadaf6.fun",
-        "Icon": "https://expireddomains.com/logos/ed.jpg",
-        "Redirect": "https://expireddomains.com/domain/vavadaf6.fun",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://expireddomains.com/domain/vavadaf6.fun"
     },
     {
         "link": "https://xtek.de",

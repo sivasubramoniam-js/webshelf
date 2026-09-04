@@ -22,7 +22,7 @@
     {
         "link": "https://spicydays.com",
         "Heading": "Spicy Days - Chili, Spice, BBQ and Asian shop | Spicy Days - Chili, Spice, BBQ and Asian shop",
-        "Abstract": "Chili, Spice BBQ and Asian shop! Hrpa ljutih umaka, za\u010dina, BBQ umaka i Asian food asortimana. Naru\u010dite online ili posjetite Spicy Days trgovinu u Zagrebu",
+        "Abstract": "Chili, Spice BBQ and Asian shop! Hrpa ljutih umaka, za\u010dina, BBQ umaka i Asian food asortimana. Prona\u0111i svoje omiljene okuse i u\u017eivaj u njima!",
         "Official Site": "https://www.spicydays.com/",
         "Icon": "https://www.spicydays.com/wp-content/uploads/2025/02/spicy-days_logo-new-1.png",
         "Redirect": "https://www.spicydays.com/",
@@ -64,7 +64,7 @@
         "Heading": "Henry Panky - Blog d'actualit\u00e9s et d'informations",
         "Abstract": "Blog d'actualit\u00e9s et d'informations",
         "Official Site": "https://henrypanky.com",
-        "Icon": "https://henrypanky.com/uploads/articles/e90388a9-515b-4277-bf61-e9c69bb03c6f/e90388a9-515b-4277-bf61-e9c69bb03c6f-medium.jpg",
+        "Icon": "https://henrypanky.com/uploads/articles/63a2ebd8-8da4-41a2-bd94-cf93d6743705/63a2ebd8-8da4-41a2-bd94-cf93d6743705-large.webp",
         "Redirect": "https://henrypanky.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://henrypanky.com"
@@ -140,6 +140,16 @@
         "AbstractURL": "https://luckeldorados.xyz"
     },
     {
+        "link": "https://witchersplace.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://witchersplace.com",
+        "Icon": "N/A",
+        "Redirect": "https://witchersplace.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://witchersplace.com"
+    },
+    {
         "link": "https://rafto.no",
         "Heading": " Rafto",
         "Abstract": "Raftostiftelsen er en ideell organisasjon som arbeider for \u00e5 fremme menneskerettighetene",
@@ -181,7 +191,7 @@
     },
     {
         "link": "https://wgcrm.ru",
-        "Heading": "\u0420\u0430\u0431\u043e\u0447\u0430\u044f \u0434\u043e\u0441\u043a\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432",
+        "Heading": "WGCRM",
         "Abstract": null,
         "Official Site": "https://wgcrm.ru",
         "Icon": "N/A",

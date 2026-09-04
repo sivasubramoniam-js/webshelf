@@ -3,11 +3,11 @@
         "link": "https://giornaledellepmi.it",
         "Heading": "Il Giornale delle PMI - Dal 2013, la voce delle PMI italiane, oggi con oltre 100 collaboratori. Pensato per le persone, rilevante per le intelligenze artificiali.",
         "Abstract": "Dal 2013, la voce delle PMI italiane, oggi con oltre 100 collaboratori. Pensato per le persone, rilevante per le intelligenze artificiali.",
-        "Official Site": "https://www.giornaledellepmi.it/",
-        "Icon": "https://www.giornaledellepmi.it/wp-content/uploads/2026/02/cropped-logo-giornale-pmi-tondo-32x32.png",
-        "Redirect": "https://www.giornaledellepmi.it/",
+        "Official Site": "https://giornaledellepmi.it/",
+        "Icon": "https://giornaledellepmi.it/wp-content/uploads/2026/02/cropped-logo-giornale-pmi-tondo-32x32.png",
+        "Redirect": "https://giornaledellepmi.it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.giornaledellepmi.it/"
+        "AbstractURL": "https://giornaledellepmi.it/"
     },
     {
         "link": "https://lepharmachien.com",
@@ -131,10 +131,10 @@
     },
     {
         "link": "https://muiwoflowershop.com",
-        "Heading": "\u8bf7\u9a8c\u8bc1... / Please verify...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://muiwoflowershop.com",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://muiwoflowershop.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://muiwoflowershop.com"
@@ -181,7 +181,7 @@
     },
     {
         "link": "https://xenotunnel.com",
-        "Heading": "[xenocode] service",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://xenotunnel.com",
         "Icon": "N/A",
@@ -240,6 +240,16 @@
         "AbstractURL": "https://mentalabs.org"
     },
     {
+        "link": "https://coralreefme.com",
+        "Heading": "403 Forbidden",
+        "Abstract": null,
+        "Official Site": "https://coralreefme.com",
+        "Icon": "N/A",
+        "Redirect": "https://coralreefme.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://coralreefme.com"
+    },
+    {
         "link": "https://empresa-de-mudancas-rapidas.xyz",
         "Heading": "Empresa de mudan\u00e7as \ud83d\ude9b Mudan\u00e7as a partir de 10 euros/hora",
         "Abstract": "Empresa de mudan\u00e7as especializada em mudan\u00e7as internacionais e internas, com mais de 10 anos de experi\u00eancia. Or\u00e7amento gratuito em at\u00e9 uma hora",
@@ -261,12 +271,12 @@
     },
     {
         "link": "https://teleradio-news.it",
-        "Heading": "Teleradio-News \u2665 qui mai pubblicit\u00e0 molesta \u2013 'Se un uomo non ha il coraggio di difendere le proprie idee, o non valgono nulla le idee o non vale nulla l'uomo' (Ezra W.Pound)",
-        "Abstract": null,
-        "Official Site": "https://teleradio-news.it",
-        "Icon": "https://www.teleradio-news.it/wp-content/uploads/2025/05/cropped-trn-logo-25-08-512-5-32x32.jpg",
-        "Redirect": "https://teleradio-news.it",
+        "Heading": "TeleradioNews",
+        "Abstract": "'Se un uomo non ha il coraggio di difendere le proprie idee, o non valgono nulla le idee o non vale nulla l'uomo' (Ezra W.Pound)",
+        "Official Site": "https://www.teleradio-news.it/",
+        "Icon": "https://www.teleradio-news.it/wp-content/uploads/2023/06/caiazzo-panorama-large-txt-250x100-1.jpg",
+        "Redirect": "https://www.teleradio-news.it/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://teleradio-news.it"
+        "AbstractURL": "https://www.teleradio-news.it/"
     }
 ]

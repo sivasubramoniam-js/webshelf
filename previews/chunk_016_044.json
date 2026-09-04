@@ -20,16 +20,6 @@
         "AbstractURL": "https://www.streetammo.dk/da/"
     },
     {
-        "link": "https://stuartplumbing.co.uk",
-        "Heading": "Stuart Plumbing & Heating Supplies | Plumbers Merchant",
-        "Abstract": "We currently operate 10 branches branches across Leicestershire, Warwickshire and now Nottingham too, along with Renewable Energy showroom.",
-        "Official Site": "https://www.stuartplumbing.co.uk/",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://www.stuartplumbing.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.stuartplumbing.co.uk/"
-    },
-    {
         "link": "https://swstn.org",
         "Heading": "\u7981\u5fcc\u4e66\u5c4b - \u597d\u770b\u514d\u8d39\u7684\u5c0f\u8bf4\u7f51",
         "Abstract": "\u7981\u5fcc\u4e66\u5c4b\u662f\u5e7f\u5927\u4e66\u53cb\u6700\u503c\u5f97\u6536\u85cf\u7684\u7f51\u7edc\u5c0f\u8bf4\u9605\u8bfb\u7f51\uff0c\u7f51\u7ad9\u6536\u5f55\u4e86\u5f53\u524d\u6700\u706b\u70ed\u7684\u7f51\u7edc\u5c0f\u8bf4\uff0c\u514d\u8d39\u63d0\u4f9b\u9ad8\u8d28\u91cf\u7684\u5c0f\u8bf4\u6700\u65b0\u7ae0\u8282\uff0c\u662f\u5e7f\u5927\u7f51\u7edc\u5c0f\u8bf4\u7231\u597d\u8005\u5fc5\u5907\u7684\u5c0f\u8bf4\u9605\u8bfb\u7f51\u3002",
@@ -72,22 +62,12 @@
     {
         "link": "https://veteranbusinessowners.com",
         "Heading": "Veteran Owned Business Directory | Military Veterans Businesses | SDVOSB | VOB | DVBE",
-        "Abstract": null,
-        "Official Site": "https://veteranbusinessowners.com",
-        "Icon": "/favicon-32.png",
-        "Redirect": "https://veteranbusinessowners.com",
+        "Abstract": "Search, connect with and support veteran owned businesses, active duty military entrepreneurs, reservists, military spouses, veteran spouses and nonprofit organizations nationwide.",
+        "Official Site": "https://www.veteranownedbusiness.com/",
+        "Icon": "https://www.veteranownedbusiness.com/images/og/vob-marketplace-default-og.jpg",
+        "Redirect": "https://www.veteranownedbusiness.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://veteranbusinessowners.com"
-    },
-    {
-        "link": "https://vivotvhd.com",
-        "Heading": "Sitio no disponible en este momento. Intente m\u00e1s tarde.",
-        "Abstract": null,
-        "Official Site": "https://vivotvhd.com",
-        "Icon": "N/A",
-        "Redirect": "https://vivotvhd.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vivotvhd.com"
+        "AbstractURL": "https://www.veteranownedbusiness.com/"
     },
     {
         "link": "https://wc90.com",
@@ -130,24 +110,14 @@
         "AbstractURL": "https://karolinka.com.ua"
     },
     {
-        "link": "https://le-carnet-et-les-instants.net",
-        "Heading": "Le Carnet et les Instants - Le blog des Lettres belges francophones",
-        "Abstract": "Revue des Lettres belges francophones",
-        "Official Site": "https://le-carnet-et-les-instants.net/",
-        "Icon": "https://i1.wp.com/le-carnet-et-les-instants.net/wp-content/uploads/2018/06/CI-198-profil.png?fit=360%2C360&ssl=1",
-        "Redirect": "https://le-carnet-et-les-instants.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://le-carnet-et-les-instants.net/"
-    },
-    {
         "link": "https://doorfoldpartition.com",
-        "Heading": "\n    Doorfold - Custom movable partition walls Supplier Manufacturer Factory\n  ",
-        "Abstract": "Doorfold is a China-based manufacturer provides one-stop solutions for acoustic movable partition wall systems from design, measurement,production transportation and service, to high-qual & operable partition wall with lower cost to satisfy the the buyer.",
-        "Official Site": "https://www.doorfoldpartition.com/",
+        "Heading": "\n    Puerta plegable - Tabiques m\u00f3viles personalizados Proveedor Fabricante F\u00e1brica\n  ",
+        "Abstract": "Doorfold es un fabricante con sede en China que ofrece soluciones integrales para sistemas de tabiques ac\u00fasticos m\u00f3viles, desde dise\u00f1o, medici\u00f3n, transporte de producci\u00f3n y servicio, hasta tabiques divisorios operables & de alta calidad con un costo m\u00e1s bajo para satisfacer al comprador.",
+        "Official Site": "https://www.doorfoldpartition.com/es/",
         "Icon": "https://img.yfisher.com/m5018/1697616991782-logo06.png",
-        "Redirect": "https://www.doorfoldpartition.com/",
+        "Redirect": "https://www.doorfoldpartition.com/es/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.doorfoldpartition.com/"
+        "AbstractURL": "https://www.doorfoldpartition.com/es/"
     },
     {
         "link": "https://identitychallenge.com",
@@ -162,7 +132,7 @@
     {
         "link": "https://artsencollectief.nl",
         "Heading": "Stichting Artsen Collectief",
-        "Abstract": "Wij zijn een groep artsen en medisch professionals die zich zorgen maakt over de enorme negatieve effecten en schade van het huidige coronabeleid in Nederland.",
+        "Abstract": "Wij zijn een onafhankelijk kennisnetwerk van zorgprofessionals en bieden informatie en nieuwe idee\u00ebn over gezondheid en het zorgsysteem.",
         "Official Site": "https://artsencollectief.nl/",
         "Icon": "https://artsencollectief.nl/wp-content/uploads/2023/04/SAC.png",
         "Redirect": "https://artsencollectief.nl/",
@@ -191,13 +161,13 @@
     },
     {
         "link": "https://100-days.net",
-        "Heading": "Best Online Casinos ohne Verifizierung in Deutschland 2026",
-        "Abstract": "In der Welt der Online Casinos gibt es eine wachsende Nachfrage nach Spielplattformen, die schnelles und anonymes Gl\u00fccksspiel erm\u00f6glichen. Ein Casino ohne Verifizierung bietet genau das - die M\u00f6glichkeit, sofort loszulegen, ohne l\u00e4stige Identit\u00e4tspr\u00fcfungen.",
-        "Official Site": "https://www.100-days.net/casino-ohne-verifizierung",
+        "Heading": "Casinos ohne Verifizierung 2026: Casino ohne KYC Vergleich",
+        "Abstract": "Casinos ohne Verifizierung vergleichen: Finde ein Casino ohne KYC mit Bonus, Bitcoin und Auszahlungen in 0\u20135 Stunden. Jetzt Anbieter pr\u00fcfen.",
+        "Official Site": "https://www.100-days.net/dach",
         "Icon": "https://www.100-days.net/files/favicon.ico",
-        "Redirect": "https://www.100-days.net/casino-ohne-verifizierung",
+        "Redirect": "https://www.100-days.net/dach",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.100-days.net/casino-ohne-verifizierung"
+        "AbstractURL": "https://www.100-days.net/dach"
     },
     {
         "link": "https://kueche24.com",
@@ -218,5 +188,15 @@
         "Redirect": "https://climabit.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://climabit.com"
+    },
+    {
+        "link": "https://lszrlov.cc",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lszrlov.cc",
+        "Icon": "N/A",
+        "Redirect": "https://lszrlov.cc",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lszrlov.cc"
     }
 ]

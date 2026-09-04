@@ -21,13 +21,23 @@
     },
     {
         "link": "https://vt-russia.ru",
-        "Heading": "VTECH - \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0421\u0430\u0439\u0442 VTECH \u0432 \u0420\u043e\u0441\u0441\u0438\u0438.",
-        "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u2705 VTECH (\u0412\u0422\u0415\u0427) \u2764\ufe0f \u043f\u043e \u043d\u0438\u0437\u043a\u043e\u0439 \u0446\u0435\u043d\u0435 \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u2757 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u0421\u0430\u0439\u0442\u0435 VTECH \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u2708\ufe0f \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://vt-russia.ru",
-        "Icon": "favicon-192x192.png",
+        "Icon": "N/A",
         "Redirect": "https://vt-russia.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vt-russia.ru"
+    },
+    {
+        "link": "https://vinstate.com",
+        "Heading": "Free VIN Check &amp; Decoder | Lookup Vehicle Info by VIN | VINState",
+        "Abstract": "Check any car or motorcycle for free using its VIN number. VINState lets you instantly decode a VIN to reveal make, model, year, engine type, and more. Fast, accurate, and 100% free VIN lookup tool.",
+        "Official Site": "https://vinstate.com/",
+        "Icon": "https://vinstate.com/static/images/about-hero-car.png",
+        "Redirect": "https://vinstate.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vinstate.com/"
     },
     {
         "link": "https://okok2222b.com",
@@ -51,13 +61,43 @@
     },
     {
         "link": "https://gamebai68.biz",
-        "Heading": "68 Game B\u00e0i - Trang Ch\u1ee7 68gamebai - 68gb Uy T\u00edn S\u1ed1 #1",
-        "Abstract": "68 game b\u00e0i c\u00e1 c\u01b0\u1ee3c tr\u1ef1c tuy\u1ebfn v\u1edbi kho game b\u00e0i, n\u1ed5 h\u0169, casino, slot,.... Truy c\u1eadp \u0111\u0103ng k\u00fd/ \u0111\u0103ng nh\u1eadp ch\u00ednh ch\u1ee7 c\u1ed5ng game 68gb.",
-        "Official Site": "https://akaibaito.io/vi-vn/",
-        "Icon": "https://akaibaito.io/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=2866&type=game-anh-bai-i-thng&hash=361ebc3f2490077568ee2d81a24ee1e7",
-        "Redirect": "https://akaibaito.io/vi-vn/",
+        "Heading": "68Gamebai Sqript | Link 68 Game B\u00e0i Ch\u00ednh Th\u1ed1ng Top #1",
+        "Abstract": "68 Game B\u00e0i l\u00e0 c\u1ed5ng gi\u1ea3i tr\u00ed tr\u1ef1c tuy\u1ebfn s\u1ed1 1 Ch\u00e2u \u00c1, s\u1edf h\u1eefu game b\u00e0i, n\u1ed5 h\u0169, b\u1eafn c\u00e1, t\u00e0i x\u1ec9u online h\u00e0ng \u0111\u1ea7u, \u0111\u0103ng k\u00fd r\u00fat n\u1ea1p nhanh.",
+        "Official Site": "https://sqript.in/vi-vn/",
+        "Icon": "https://sqript.in/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=2866&type=game-anh-bai-i-thng&hash=25419dea76d33246622e17527081ed4b",
+        "Redirect": "https://sqript.in/vi-vn/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://akaibaito.io/vi-vn/"
+        "AbstractURL": "https://sqript.in/vi-vn/"
+    },
+    {
+        "link": "https://pravalord-cn.top",
+        "Heading": "pravalord-cn.top",
+        "Abstract": null,
+        "Official Site": "https://pravalord-cn.top",
+        "Icon": "N/A",
+        "Redirect": "https://pravalord-cn.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pravalord-cn.top"
+    },
+    {
+        "link": "https://pravacomp-dv.top",
+        "Heading": "pravacomp-dv.top",
+        "Abstract": null,
+        "Official Site": "https://pravacomp-dv.top",
+        "Icon": "N/A",
+        "Redirect": "https://pravacomp-dv.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pravacomp-dv.top"
+    },
+    {
+        "link": "https://waaromgeloven.nl",
+        "Heading": "Waarom geloven? | Zoeken naar meer",
+        "Abstract": null,
+        "Official Site": "https://waaromgeloven.nl",
+        "Icon": "N/A",
+        "Redirect": "https://waaromgeloven.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://waaromgeloven.nl"
     },
     {
         "link": "https://vip-178live.com",
@@ -68,16 +108,6 @@
         "Redirect": "https://vip-178live.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vip-178live.com"
-    },
-    {
-        "link": "https://minilittleparty.com",
-        "Heading": "Mini Little Party - Revista De Fiestas Infantiles",
-        "Abstract": "Fiestas infantiles, aniversarios, cumplea\u00f1os, bodas, bautizos, comuniones, baby showers, manualidades, estilismos, recetas y decoraci\u00f3n.",
-        "Official Site": "https://www.minilittleparty.com/",
-        "Icon": "wp-content/uploads/2019/09/mini-little-party-logo-simplex.jpg",
-        "Redirect": "https://www.minilittleparty.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.minilittleparty.com/"
     },
     {
         "link": "https://pycs.net",
@@ -181,8 +211,8 @@
     },
     {
         "link": "https://xiangzuocai.com",
-        "Heading": "\u60f3\u505a\u83dc\u7f51_\u5bb6\u5e38\u83dc\u8c31\u3001\u7279\u8272\u5c0f\u5403\u7f8e\u98df\u3001\u79c1\u623f\u83dc\u505a\u6cd5\u5927\u5168",
-        "Abstract": "\u60f3\u505a\u83dc\u7f51\u662f\u4e00\u4e2a\u7f8e\u98df\u83dc\u8c31\u7f51\u7ad9\uff0c\u672c\u7ad9\u63d0\u4f9b\u6d77\u91cf\u4f18\u8d28\u539f\u521b\u7f8e\u98df\u83dc\u8c31\u505a\u6cd5\uff0c\u5305\u62ec\u56fd\u5185\u5730\u65b9\u5c0f\u5403\u3001\u51c9\u83dc\u83dc\u8c31\u3001\u5ddd\u83dc\u83dc\u8c31\u3001\u5bb6\u5e38\u83dc\u83dc\u8c31\u3001\u5e74\u591c\u996d\u83dc\u8c31\u3001\u98df\u5802\u83dc\u8c31\u3001\u7d20\u98df\u83dc\u8c31\u3001\u5b55\u5987\u83dc\u8c31\u3001\u5750\u6708\u5b50\u83dc\u8c31\u7b49\u56fd\u5185\u5916\u7279\u8272\u5bb6\u5e38\u7f8e\u98df\u83dc\u8c31\u5927\u5168\uff0c\u5e0c\u671b\u53ef\u4ee5\u5e2e\u52a9\u5230\u5927\u5bb6\u3002",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://xiangzuocai.com",
         "Icon": "N/A",
         "Redirect": "https://xiangzuocai.com",

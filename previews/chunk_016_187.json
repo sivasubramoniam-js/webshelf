@@ -10,16 +10,6 @@
         "AbstractURL": "https://theaudienceagency.org/en/front"
     },
     {
-        "link": "https://gbibp.com",
-        "Heading": " \u0646\u0627\u062f\u064a \u0627\u0644\u0645\u0631\u064a\u062e \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u064a - \u0644\u062c\u0646\u0629 \u0627\u0644\u0639\u0636\u0648\u064a\u0629 \u0648\u0627\u0644\u0645\u0638\u0627\u0644\u0645",
-        "Abstract": " \u0646\u0627\u062f\u064a \u0627\u0644\u0645\u0631\u064a\u062e \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u064a - \u0644\u062c\u0646\u0629 \u0627\u0644\u0639\u0636\u0648\u064a\u0629 \u0648\u0627\u0644\u0645\u0638\u0627\u0644\u0645",
-        "Official Site": "/",
-        "Icon": "https://petrol.eyadroid.com/image/logo.png",
-        "Redirect": "/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "/"
-    },
-    {
         "link": "https://realschule-laichingen.de",
         "Heading": "Anne-Frank-Realschule Laichingen",
         "Abstract": null,
@@ -28,6 +18,16 @@
         "Redirect": "https://realschule-laichingen.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://realschule-laichingen.de"
+    },
+    {
+        "link": "https://altabox.net",
+        "Heading": "Redirigiendo...",
+        "Abstract": null,
+        "Official Site": "https://altabox.net",
+        "Icon": "N/A",
+        "Redirect": "https://altabox.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://altabox.net"
     },
     {
         "link": "https://compgeeks.com",
@@ -51,7 +51,7 @@
     },
     {
         "link": "https://brianassets.live",
-        "Heading": "Bot Verification",
+        "Heading": "Human verification",
         "Abstract": null,
         "Official Site": "https://brianassets.live",
         "Icon": "N/A",
@@ -120,16 +120,6 @@
         "AbstractURL": "https://gkprom-arenda.ru"
     },
     {
-        "link": "https://chromerivals.net",
-        "Heading": ":: ChromeRivals ::",
-        "Abstract": "",
-        "Official Site": "https://chromerivals.net",
-        "Icon": "https://download.chromerivals.net/resources/cr/logo.png",
-        "Redirect": "https://chromerivals.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chromerivals.net"
-    },
-    {
         "link": "https://cyclamed.org",
         "Heading": "Tout savoir sur le tri, la collecte des m\u00e9dicaments p\u00e9rim\u00e9s",
         "Abstract": "Cette page vous permet d'en savoir plus sur le tri et le recyclage des m\u00e9dicaments p\u00e9rim\u00e9s que vous soyez professionnel ou grand public",
@@ -161,13 +151,13 @@
     },
     {
         "link": "https://theasides.com",
-        "Heading": "Golden Star Casino: Spiele, Bonus und Zahlungen im Detail",
-        "Abstract": "Golden Star Casino mit Willkommensbonus bis 2.000 \u20ac plus 350 Freispielen, schnellen Krypto-Auszahlungen und deutschsprachigem Kundendienst im Detail.",
-        "Official Site": "https://goldenstar-casino.de.com/online1/",
-        "Icon": "https://goldenstar-casino.de.com/wp-content/uploads/2025/09/favicon-150x150.webp",
-        "Redirect": "https://goldenstar-casino.de.com/online1/",
+        "Heading": "Spinrise Casino \u2013 Offizielle Website in \u00d6sterreich",
+        "Abstract": "Besuchen Sie die offizielle Spinrise Casino Website in \u00d6sterreich, um Informationen zur Plattform, Konto-Login und Registrierung, Sicherheit, Datenschutz und Nutzersupport zu erhalten",
+        "Official Site": "https://spinriseat.com/de/",
+        "Icon": "https://spinriseat.com/wp-content/uploads/2025/11/favicon-150x150.webp",
+        "Redirect": "https://spinriseat.com/de/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://goldenstar-casino.de.com/online1/"
+        "AbstractURL": "https://spinriseat.com/de/"
     },
     {
         "link": "https://ostseefjordschlei.de",
@@ -251,13 +241,13 @@
     },
     {
         "link": "https://arthaproperty.id",
-        "Heading": "Admin77 ~ Gak Bikin Ribet, Enaknya Kerasa Sampai Akhir",
-        "Abstract": "Admin77 menghadirkan akses premium yang ringkas dan cepat, dari daftar hingga login, dengan pengalaman modern yang gak bikin ribet dan enaknya kerasa sampai akhir.",
-        "Official Site": "https://principallypens.com/",
-        "Icon": "img/banner.webp",
-        "Redirect": "https://principallypens.com/",
+        "Heading": "Admin77 | Meroket Paduka Admin 77 Kualitas Premium",
+        "Abstract": "Admin77 membawa karakter Paduka Admin 77 dengan identitas premium yang terasa modern, perhatian pada kualitas experience, kemudahan akses, serta detail yang bikin pengguna merasa lebih nyaman sejak pertama datang.",
+        "Official Site": "https://fe.abudhabichamber.ae/",
+        "Icon": "https://abudhabichamber.cargo-cloud.eu/img/admin77-meroket-paduka.webp",
+        "Redirect": "https://fe.abudhabichamber.ae/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://principallypens.com/"
+        "AbstractURL": "https://fe.abudhabichamber.ae/"
     },
     {
         "link": "https://bckspc.de",

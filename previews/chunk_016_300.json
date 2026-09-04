@@ -130,16 +130,6 @@
         "AbstractURL": "https://www.acftransportaide.ca/"
     },
     {
-        "link": "https://fanxinwenhuachuanmei.top",
-        "Heading": "",
-        "Abstract": "",
-        "Official Site": "https://fanxinwenhuachuanmei.top",
-        "Icon": "data:;base64,=",
-        "Redirect": "https://fanxinwenhuachuanmei.top",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fanxinwenhuachuanmei.top"
-    },
-    {
         "link": "https://bedaya4u.com",
         "Heading": "Home",
         "Abstract": "",
@@ -211,7 +201,7 @@
     },
     {
         "link": "https://doomed.lv",
-        "Heading": "VECU DATORU / BMW SERVISS",
+        "Heading": "DOOMED.LV \u2014 Datoru & BMW Serviss",
         "Abstract": "Datortehnikas Pal\u012bdz\u012bba Siguldas novada teritorij\u0101. Neiesl\u0113dzas dators? Slikts WiFi? BMW remonts? Pal\u012bdz\u0113sim \u0101tri un par sapr\u0101t\u012bgu cenu!",
         "Official Site": "https://doomed.lv",
         "Icon": "https://i.imgur.com/bLE5QEQ.png",
@@ -231,10 +221,10 @@
     },
     {
         "link": "https://dealsrate.com",
-        "Heading": "Dealsrate \u2014 Independent City Hotel Guides with Live Prices",
-        "Abstract": "Dealsrate is a network of independent, locally-written city hotel guides. Find where to stay, then compare live prices from trusted booking partners.",
+        "Heading": "Dealsrate \u2014 Data-Driven City Hotel Guides with Live Prices",
+        "Abstract": "Dealsrate is a network of independent, data-driven city hotel guides. Find where to stay, then compare live prices from trusted booking partners.",
         "Official Site": "https://www.dealsrate.com",
-        "Icon": "/favicon-dr.png",
+        "Icon": "/site-icon",
         "Redirect": "https://www.dealsrate.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.dealsrate.com"

@@ -21,13 +21,23 @@
     },
     {
         "link": "https://justmaththings.de",
-        "Heading": "Home - JustMathThings",
+        "Heading": "JustMathThings",
         "Abstract": null,
         "Official Site": "https://www.justmaththings.de/de/",
-        "Icon": "/resources/images/favicon-16x16.png",
+        "Icon": "https://www.justmaththings.de/resources/images/jmt-banner.png",
         "Redirect": "https://www.justmaththings.de/de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.justmaththings.de/de/"
+    },
+    {
+        "link": "https://offroad-zone.com",
+        "Heading": "Off Road Accessories Dubai - Jeep Tuning | Offroad Zone",
+        "Abstract": "Off-Road tuning shop in Dubai. Jeep tuning for Wrangler, 4x4 service, mods, rentals, and self-drive desert experiences. Technician services, OEM parts, etc.",
+        "Official Site": "https://offroad-zone.com",
+        "Icon": "https://www.offroad-zone.com/media/favicon/default/OR-Z_ICON_1.ico",
+        "Redirect": "https://offroad-zone.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://offroad-zone.com"
     },
     {
         "link": "https://omoik.com",
@@ -70,14 +80,34 @@
         "AbstractURL": "https://humanconstanta.org/"
     },
     {
+        "link": "https://invest-platform.io",
+        "Heading": "invest-platform.io\u00a0-\u00a0invest platform Resources and Information.",
+        "Abstract": "invest-platform.io is your first and best source for information about invest platform. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://invest-platform.io",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://invest-platform.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://invest-platform.io"
+    },
+    {
         "link": "https://aihumanizer.ai",
         "Heading": "AI Humanizer - Free & No-Signup Required",
         "Abstract": "Humanize AI effortlessly with AI Humanizer. Transform your AI-generated content into more human-like text, making it more engaging and relatable.",
         "Official Site": "https://aihumanizer.ai",
-        "Icon": "https://cdn.aihumanizer.ai/web-cdn/bypass/public/mango/images/ai-humanizer-social-share.jpg",
+        "Icon": "https://aihumanizer.ai/web-cdn/bypass/public/mango/images/ai-humanizer-social-share.jpg",
         "Redirect": "https://aihumanizer.ai",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aihumanizer.ai"
+    },
+    {
+        "link": "https://passportrus-xxaebuq.top",
+        "Heading": "passportrus-xxaebuq.top",
+        "Abstract": "Find information, resources and relevant links for passportrus-xxaebuq.top. This domain may be for sale.",
+        "Official Site": "https://passportrus-xxaebuq.top",
+        "Icon": "N/A",
+        "Redirect": "https://passportrus-xxaebuq.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://passportrus-xxaebuq.top"
     },
     {
         "link": "https://dodoad.co.kr",
@@ -121,13 +151,13 @@
     },
     {
         "link": "https://lalechonaenbogota.com",
-        "Heading": "Lechona Tolimense - La Lechona en Bogota - La mejor lechona en Bogot\u00e1",
-        "Abstract": "La Lechona en Bogot\u00e1, deliciosa lechona Tolimense catalogada como la mejor lechona en Bogot\u00e1. Para tu reuni\u00f3n o evento, se entrega en nuestra direcci\u00f3n o con env\u00edo a Domicilio si as\u00ed se requiere.",
-        "Official Site": "https://lalechonaenbogota.com/",
-        "Icon": "wp-content/uploads/2019/11/daviplata-e1574632896736-300x82.png",
-        "Redirect": "https://lalechonaenbogota.com/",
+        "Heading": "SLOT BET 200 \ud83c\udf10 Daftar Situs Slot Gacor Bet Kecil 100, 300, 400, 800 Perak Gampang Menang Terbaru",
+        "Abstract": "SLOT BET 200 menyediakan situs gacor slot bet kecil 100, 300, 400, 800 perak gampang menang terbaru menawarkan kamu untuk jackpot dengan bet kecil.",
+        "Official Site": "https://libertadparaleocenis.com/",
+        "Icon": "/img/SLOTBET200.jpg",
+        "Redirect": "https://libertadparaleocenis.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lalechonaenbogota.com/"
+        "AbstractURL": "https://libertadparaleocenis.com/"
     },
     {
         "link": "https://llojibwe.org",
@@ -180,6 +210,16 @@
         "AbstractURL": "https://zhilianlj.com"
     },
     {
+        "link": "https://tachukadi.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://tachukadi.com",
+        "Icon": "N/A",
+        "Redirect": "https://tachukadi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tachukadi.com"
+    },
+    {
         "link": "https://samedaytradeframes.com",
         "Heading": "Home - Samedaytradeframes",
         "Abstract": "Explore Sameday Trade Frames for insights on tiny homes, smart house hacking tips, and affordable rural housing options.",
@@ -192,9 +232,9 @@
     {
         "link": "https://emergy.de",
         "Heading": "Emergy: Wir sind EMERGY! Gemeinsam gestalten wir die Energiezukunft.",
-        "Abstract": "EMERGY \u2013 Ihr Partner f\u00fcr nachhaltige Energiel\u00f6sungen: Beratung, Technik & Service aus einer Hand. Jetzt starten und Energiezukunft gestalten!",
+        "Abstract": "Beratung, Technik und Service aus einer Hand. Gemeinsam entwickeln wir L\u00f6sungen f\u00fcr Ihre Energieversorgung und gestalten die Energiezukunft in der Region. ",
         "Official Site": "https://emergy.de",
-        "Icon": "/_assets/525d9cd7f295c390e29c1943efb79560/Favicons/Default/favicon.ico?1784200827",
+        "Icon": "/_assets/525d9cd7f295c390e29c1943efb79560/Favicons/Default/favicon.ico?1788358080",
         "Redirect": "https://emergy.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://emergy.de"

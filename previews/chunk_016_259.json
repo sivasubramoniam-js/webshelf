@@ -260,16 +260,6 @@
         "AbstractURL": "https://889992685.xyz"
     },
     {
-        "link": "https://neutronbytes.com",
-        "Heading": "\nNeutron Bytes | A time traveler from the age of steam. Digital Advocacy for Energy Density.",
-        "Abstract": "A time traveler from the age of steam. Digital Advocacy for Energy Density.",
-        "Official Site": "https://neutronbytes.com/",
-        "Icon": "https://neutronbytes.com/wp-content/uploads/2021/04/cropped-garrit-beneker-the-engineer.jpg?w=200",
-        "Redirect": "https://neutronbytes.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://neutronbytes.com/"
-    },
-    {
         "link": "https://889992614.xyz",
         "Heading": "Tech Insights & Digital Trends Blog | Latest Tech News",
         "Abstract": "Explore cutting-edge technology trends, digital innovations, and expert insights on software, AI, and web development. Stay updated with our latest articles.",
@@ -320,6 +310,16 @@
         "AbstractURL": "https://889992605.xyz"
     },
     {
+        "link": "https://game-keeper.com",
+        "Heading": "Game-Keeper\u2122 - \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u0430\u0440\u043a\u043e\u0432 \u0438 \u0438\u0433\u0440\u043e\u0432\u044b\u0445 \u0446\u0435\u043d\u0442\u0440\u043e\u0432 - \u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+        "Abstract": "\u041f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u043e\u0439 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438 \u043f\u0430\u0440\u043a\u043e\u0432, \u043a\u043e\u043b\u0451\u0441 \u043e\u0431\u043e\u0437\u0440\u0435\u043d\u0438\u044f \u0438 \u0438\u0433\u0440\u043e\u0432\u044b\u0445 \u0446\u0435\u043d\u0442\u0440\u043e\u0432",
+        "Official Site": "https://game-keeper.com",
+        "Icon": "/templates/rdgtemplate/favicon.ico",
+        "Redirect": "https://game-keeper.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://game-keeper.com"
+    },
+    {
         "link": "https://889992471.xyz",
         "Heading": "Tech Insights & Innovation Trends | Future-Focused Blog",
         "Abstract": "Explore the latest in technology, innovation, and digital trends with expert analysis and insights to stay ahead in a rapidly evolving world.",
@@ -361,13 +361,13 @@
     },
     {
         "link": "https://hotelsabovepar.com",
-        "Heading": "Hotels Above Par | Boutique Hotels & Travel Guides",
-        "Abstract": "Curated reviews by stylish travelers. No mega-resorts \u2014 just unforgettable, design-forward boutique hotels and insider travel guides.",
-        "Official Site": "https://hotelsabovepar.com",
-        "Icon": "https://imagedelivery.net/NogqC_a0oBKpyhxWvUCLyQ/8ef3a4d5-4d17-42fa-aaa8-82cb888d5c00/opengraph2x",
-        "Redirect": "https://hotelsabovepar.com",
+        "Heading": "Hotels Above Par | The Boutique Hotel Edit for Stylish Travelers | Hotels Above Par",
+        "Abstract": "Discover Hotels Above Par, a boutique hotel and travel magazine covering stylish stays, destination guides, restaurants, and travel experiences worth planning around.",
+        "Official Site": "https://readhotelsabovepar.com/",
+        "Icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/site/file/9c526553-dd8d-4b35-94ce-37adfc001396/landscape_pexels-nati-87264186-32573367.jpg",
+        "Redirect": "https://readhotelsabovepar.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://hotelsabovepar.com"
+        "AbstractURL": "https://readhotelsabovepar.com/"
     },
     {
         "link": "https://shattof.services",

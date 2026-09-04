@@ -43,11 +43,11 @@
         "link": "https://touch-me.pro",
         "Heading": "\u0412\u0438\u0434\u0436\u0435\u0442\u044b \u0434\u043b\u044f \u0441\u0430\u0439\u0442\u0430 \u2014 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u0432\u0438\u0434\u0436\u0435\u0442\u043e\u0432 \u0434\u043b\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u044f \u043a\u043e\u043d\u0432\u0435\u0440\u0441\u0438\u0438 | Touch_me",
         "Abstract": "Touch_me \u2014 \u0441\u0435\u0440\u0432\u0438\u0441 \u0432\u0438\u0434\u0436\u0435\u0442\u043e\u0432 \u0434\u043b\u044f \u0441\u0430\u0439\u0442\u0430: pop-up, \u0444\u043e\u0440\u043c\u044b, \u043c\u0443\u043b\u044c\u0442\u0438\u043a\u043d\u043e\u043f\u043a\u0430, \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u044f, Cookie, Tap-bar \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0434\u043b\u044f \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u044f \u043a\u043e\u043d\u0432\u0435\u0440\u0441\u0438\u0438. \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0441\u0442\u0430\u0440\u0442, \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430 \u0438 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 \u0441 CRM.",
-        "Official Site": "https://touch-me.pro",
+        "Official Site": "https://touch-me.pro/",
         "Icon": "https://touch-me.pro/open-graph.png",
-        "Redirect": "https://touch-me.pro",
+        "Redirect": "https://touch-me.pro/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://touch-me.pro"
+        "AbstractURL": "https://touch-me.pro/"
     },
     {
         "link": "https://danilovbook.ru",
@@ -90,28 +90,8 @@
         "AbstractURL": "https://hui0.com"
     },
     {
-        "link": "https://subicdock.com",
-        "Heading": "Account Suspended",
-        "Abstract": null,
-        "Official Site": "https://subicdock.com",
-        "Icon": "N/A",
-        "Redirect": "https://subicdock.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://subicdock.com"
-    },
-    {
-        "link": "https://chicken-road1.in",
-        "Heading": "Chicken Road India Register Today - get 100% deposit match \u20ac500",
-        "Abstract": "GET WELCOME BONUS TODAY! How to download Chicken Road India: play for free, and win real money \ud83d\udcb0. Full guide with promo codes and tips \ud83d\udc14",
-        "Official Site": "https://chicken-road1.in/",
-        "Icon": "https://chicken-road1.in/wp-content/uploads/2025/03/chicken-road-favi-1-150x150.png",
-        "Redirect": "https://chicken-road1.in/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chicken-road1.in/"
-    },
-    {
         "link": "https://rykenrosenau.com",
-        "Heading": "Paul Ryken and Sandra Rosenau",
+        "Heading": "Paul Ryken and Sandra Rosenau |",
         "Abstract": null,
         "Official Site": "https://rykenrosenau.com",
         "Icon": "https://rykenrosenau.com/wp-content/uploads/2026/05/cropped-PR-32x32.png",
@@ -134,7 +114,7 @@
         "Heading": "- Heartland Family Service",
         "Abstract": null,
         "Official Site": "https://www.heartlandfamilyservice.org/",
-        "Icon": "https://www.heartlandfamilyservice.org/wp-content/uploads/2026/04/invpinnacle-bank100x100.png",
+        "Icon": "https://www.heartlandfamilyservice.org/wp-content/uploads/2026/08/STF-2026-Call-for-Nominations-Web-Banner-2560-x-2560-px-3.jpg",
         "Redirect": "https://www.heartlandfamilyservice.org/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.heartlandfamilyservice.org/"
@@ -198,15 +178,5 @@
         "Redirect": "https://ir-amim.org.il/he/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ir-amim.org.il/he/"
-    },
-    {
-        "link": "https://hnsgame.com",
-        "Heading": "Making sure you're not a bot!",
-        "Abstract": null,
-        "Official Site": "https://hnsgame.com",
-        "Icon": "N/A",
-        "Redirect": "https://hnsgame.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://hnsgame.com"
     }
 ]

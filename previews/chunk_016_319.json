@@ -60,16 +60,6 @@
         "AbstractURL": "https://levbedre.dk/"
     },
     {
-        "link": "https://primeperformance.space",
-        "Heading": "primeperformance.space",
-        "Abstract": null,
-        "Official Site": "https://primeperformance.space",
-        "Icon": "favicon.ico?1",
-        "Redirect": "https://primeperformance.space",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://primeperformance.space"
-    },
-    {
         "link": "https://every-day.nl",
         "Heading": "Every Day\u00ae | The boutique agency",
         "Abstract": "The boutique agency that brings brands to today. To stay relevant and ahead in today\u2019s culture & technology.",
@@ -90,6 +80,16 @@
         "AbstractURL": "https://Mestonefxtrading.com"
     },
     {
+        "link": "https://karkadan.ru",
+        "Heading": "\u0413\u0440\u0430\u043d\u0442\u044b \u0434\u043b\u044f \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u043e\u0432 \u0438 \u043f\u0435\u0434\u0430\u0433\u043e\u0433\u043e\u0432 \u2014 \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439",
+        "Abstract": "\u041d\u0430\u0445\u043e\u0434\u0438\u0442\u0435 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0435 \u0444\u0438\u043d\u0430\u043d\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0434\u043b\u044f \u0443\u0447\u0435\u0431\u044b \u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432: \u0433\u0440\u0430\u043d\u0442\u044b, \u0441\u0442\u0438\u043f\u0435\u043d\u0434\u0438\u0438, \u043a\u043e\u043d\u043a\u0443\u0440\u0441\u044b \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438. \u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438, \u043e\u0431\u0437\u043e\u0440\u044b \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043e\u0442 \u0438\u0434\u0435\u0438 \u0434\u043e \u0437\u0430\u044f\u0432\u043a\u0438.",
+        "Official Site": "https://karkadan.ru/",
+        "Icon": "https://karkadan.ru/wp-content/themes/dds_karkadan.ru/images/favicon.svg",
+        "Redirect": "https://karkadan.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://karkadan.ru/"
+    },
+    {
         "link": "https://goldingrailbird.ru",
         "Heading": null,
         "Abstract": null,
@@ -101,8 +101,8 @@
     },
     {
         "link": "https://aquitania.es",
-        "Heading": "Aquitania Informatica | Reparacion de Ordenadores e Impresoras en Madrid",
-        "Abstract": "Servicio tecnico informatico en Madrid. Reparacion PC, Mac e impresoras, cartuchos de tinta y toner. Presupuesto sin compromiso.",
+        "Heading": "Aquitania Inform\u00e1tica | Reparaci\u00f3n de Ordenadores e Impresoras en Madrid",
+        "Abstract": "Servicio t\u00e9cnico inform\u00e1tico en Madrid. Reparaci\u00f3n PC, Mac e impresoras, cartuchos de tinta y t\u00f3ner. Presupuesto sin compromiso.",
         "Official Site": "https://www.aquitania.es/",
         "Icon": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=1200&h=630&fit=crop",
         "Redirect": "https://www.aquitania.es/",
@@ -121,7 +121,7 @@
     },
     {
         "link": "https://attinternetdayton.com",
-        "Heading": "Loading...",
+        "Heading": "att internet dayton",
         "Abstract": null,
         "Official Site": "https://attinternetdayton.com",
         "Icon": "N/A",
@@ -171,7 +171,7 @@
     },
     {
         "link": "https://selecaoengenharia.com.br",
-        "Heading": "Vagas de emprego para Engenheiros - Sele\u00e7\u00e3o Engenharia",
+        "Heading": "Sele\u00e7\u00e3o e Engenharia ::",
         "Abstract": "Vagas para Engenheiro, Vagas para Engenharia, Obras, Vagas para Recoloca\u00e7\u00e3o, Profssional, Oportunidades, Candidatos, \nVagas para Engenheiros, Vagas para t\u00e9cnicos",
         "Official Site": "https://selecaoengenharia.com.br",
         "Icon": "https://selecaoengenharia.com.br/images/avatar_twitter_bigger.jpg",
@@ -181,10 +181,10 @@
     },
     {
         "link": "https://nextlevelbudapest.com",
-        "Heading": "Home | Next Level Budapest",
-        "Abstract": "Az online kaszin\u00f3k az ut\u00f3bbi \u00e9vekben hatalmas n\u00e9pszer\u0171s\u00e9gre tettek szert, mivel lehet\u0151s\u00e9get adnak arra, hogy b\u00e1rki k\u00e9nyelmesen, otthon\u00e1b\u00f3l j\u00e1tsszon \u00e9s p\u00e9nzt ...",
+        "Heading": "Home - NEXT LEVEL",
+        "Abstract": "A NEXT LEVEL egy budapesti sz\u00e9khely\u0171 pr\u00e9mium basszus zenei bulisorozat \u00e9s kultur\u00e1lis brand. T\u00f6bb, mint 11 \u00e9ves fenn\u00e1ll\u00e1sa sor\u00e1n olyan k\u00fclf\u00f6ldi el\u0151ad\u00f3kat hozott el nektek az orsz\u00e1g sz\u00e1mos klubj\u00e1ba \u00e9s fesztiv\u00e1lj\u00e1ra",
         "Official Site": "https://nextlevelbudapest.com/",
-        "Icon": "https://nextlevelbudapest.com/wp-content/uploads/2020/04/nlfamily_4k_portrait-576x1024.png",
+        "Icon": "https://nextlevelbudapest.com/wp-content/uploads/2024/08/367698499_676180327877698_4430649353475300788_n-scaled.jpg",
         "Redirect": "https://nextlevelbudapest.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nextlevelbudapest.com/"
@@ -198,16 +198,6 @@
         "Redirect": "https://ouzero.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ouzero.com"
-    },
-    {
-        "link": "https://play-vulcan.co",
-        "Heading": "\u0420\u043e\u044f\u043b\u044c \u041a\u0430\u0437\u0438\u043d\u043e \u1408 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u041a\u0430\u0437\u0438\u043d\u043e \u0420\u043e\u044f\u043b\u044c \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d 2025",
-        "Abstract": "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0430\u0441\u0441\u043e\u0440\u0442\u0438\u043c\u0435\u043d\u0442 \u0438\u0433\u0440 \u0438 \u0431\u043e\u043d\u0443\u0441\u043d\u044b\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0432 \u0420\u043e\u044f\u043b\u044c \u043a\u0430\u0437\u0438\u043d\u043e \u2611\ufe0f \u0412\u043d\u0435\u0441\u0438\u0442\u0435 \u0434\u0435\u043f\u043e\u0437\u0438\u0442 \u0438 \u043d\u0430\u0447\u043d\u0438\u0442\u0435 \u0438\u0433\u0440\u0430\u0442\u044c \u0432 \u0441\u043b\u043e\u0442\u044b Royal casino KZ \u2611\ufe0f \u0411\u044b\u0441\u0442\u0440\u0430\u044f \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u043a\u0430\u0437\u0438\u043d\u043e \u0420\u043e\u044f\u043b",
-        "Official Site": "https://vulkan-royal.kz/",
-        "Icon": "https://play-vulcan.co/wp-content/themes/6002/img/favicon.ico",
-        "Redirect": "https://vulkan-royal.kz/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://vulkan-royal.kz/"
     },
     {
         "link": "https://nutmegstatenutrition.com",
@@ -231,10 +221,10 @@
     },
     {
         "link": "https://lg-gutevorsaetze.de",
-        "Heading": "LG",
-        "Abstract": null,
+        "Heading": "Google",
+        "Abstract": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
         "Official Site": "https://lg-gutevorsaetze.de",
-        "Icon": "./sites/lg-gutevorsaetze-2026/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://lg-gutevorsaetze.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://lg-gutevorsaetze.de"
@@ -278,5 +268,15 @@
         "Redirect": "https://meralda.dev",
         "AbstractSource": "BS4",
         "AbstractURL": "https://meralda.dev"
+    },
+    {
+        "link": "https://yk12532.com",
+        "Heading": "Sorry, the website has been stopped",
+        "Abstract": null,
+        "Official Site": "https://yk12532.com",
+        "Icon": "N/A",
+        "Redirect": "https://yk12532.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yk12532.com"
     }
 ]

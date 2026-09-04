@@ -20,16 +20,6 @@
         "AbstractURL": "https://ine.com/security"
     },
     {
-        "link": "https://lordqb.horse",
-        "Heading": "\u0424\u0438\u043b\u044c\u043c\u044b \u043e\u043d\u043b\u0430\u0439\u043d \u2014 \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u0432 HD | lordqb.horse",
-        "Abstract": "\u0424\u0438\u043b\u044c\u043c\u044b \u0438 \u0441\u0435\u0440\u0438\u0430\u043b\u044b \u043e\u043d\u043b\u0430\u0439\u043d",
-        "Official Site": "https://lordqb.horse/",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://lordqb.horse/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://lordqb.horse/"
-    },
-    {
         "link": "https://ollure.ru",
         "Heading": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0434\u043b\u044f \u043d\u0430\u0440\u0430\u0449\u0438\u0432\u0430\u043d\u0438\u044f \u0440\u0435\u0441\u043d\u0438\u0446 \u0432 \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0435 - Ollure",
         "Abstract": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0434\u043b\u044f \u043d\u0430\u0440\u0430\u0449\u0438\u0432\u0430\u043d\u0438\u044f \u0440\u0435\u0441\u043d\u0438\u0446 \u043c\u0438\u0440\u043e\u0432\u043e\u0433\u043e \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 Ollure. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u044b\u0435 \u0446\u0435\u043d\u044b, \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e \u043c\u0438\u0440\u0443. \u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u043e\u0442 \u043c\u0438\u0440\u043e\u0432\u044b\u0445 \u043c\u0430\u0441\u0442\u0435\u0440\u043e\u0432 \u0432 \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0435.",
@@ -48,6 +38,16 @@
         "Redirect": "https://supermegamonkey.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://supermegamonkey.net"
+    },
+    {
+        "link": "https://achedactic.club",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://achedactic.club",
+        "Icon": "N/A",
+        "Redirect": "https://achedactic.club",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://achedactic.club"
     },
     {
         "link": "https://zamek-lancut.pl",
@@ -110,16 +110,6 @@
         "AbstractURL": "https://janeke1830.it/"
     },
     {
-        "link": "https://3uycp.com",
-        "Heading": "\u97e9\u5267\u7535\u5f71 - \u6700\u65b0\u70ed\u95e8\u97e9\u56fd\u7535\u89c6\u5267\u4e0e\u97e9\u56fd\u7535\u5f71\u5728\u7ebf\u89c2\u770b\u63a8\u8350\u5e73\u53f0\uff0c\u9ad8\u6e05\u8d44\u6e90\u514d\u8d39\u7545\u4eab",
-        "Abstract": "\u97e9\u5267\u7535\u5f71\u4e3a\u60a8\u63d0\u4f9b\u6700\u65b0\u6700\u5168\u7684\u97e9\u56fd\u7535\u89c6\u5267\u548c\u97e9\u56fd\u7535\u5f71\u5728\u7ebf\u89c2\u770b\u670d\u52a1\uff0c\u6db5\u76d6\u70ed\u95e8\u97e9\u5267\u63a8\u8350\u3001\u7ecf\u5178\u97e9\u56fd\u7535\u5f71\u6392\u884c\u699c\u3001\u9ad8\u6e05\u97e9\u5267\u8d44\u6e90\u514d\u8d39\u64ad\u653e\u7b49\u5185\u5bb9\uff0c\u7b2c\u4e00\u65f6\u95f4\u66f4\u65b0\u70ed\u64ad\u97e9\u5267\u4e0e\u9662\u7ebf\u97e9\u5f71\uff0c\u8ba9\u60a8\u8f7b\u677e\u8ffd\u5267\u4e0d\u9519\u8fc7\u6bcf\u4e00\u90e8\u7cbe\u5f69\u4f5c\u54c1\u3002",
-        "Official Site": "https://3uycp.com/",
-        "Icon": "/719964d41b0d.png",
-        "Redirect": "https://3uycp.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://3uycp.com/"
-    },
-    {
         "link": "https://it-eam.com",
         "Heading": "iT.eam | Joining solutions to transform businesses",
         "Abstract": "Discover how we integrate technology, information security, and asset management to drive our clients\u2019 growth. Explore our solutions!",
@@ -161,23 +151,13 @@
     },
     {
         "link": "https://cqliehu.com",
-        "Heading": "\u8bf7\u9a8c\u8bc1... / Please verify...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://cqliehu.com",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://cqliehu.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cqliehu.com"
-    },
-    {
-        "link": "https://mk8426.net",
-        "Heading": "MK8 - \u0e25\u0e34\u0e07\u0e01\u0e4c\u0e40\u0e02\u0e49\u0e32\u0e16\u0e36\u0e07 MK8.COM \u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 T5/2026",
-        "Abstract": "MK8 \u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1a\u0e23\u0e19\u0e14\u0e4c\u0e40\u0e08\u0e49\u0e32\u0e21\u0e37\u0e2d\u0e23\u0e31\u0e1a\u0e41\u0e17\u0e07\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e16\u0e37\u0e2d\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e1b\u0e31\u0e08\u0e08\u0e38\u0e1a\u0e31\u0e19\u0e41\u0e25\u0e30\u0e21\u0e35\u0e1b\u0e23\u0e30\u0e27\u0e31\u0e15\u0e34\u0e01\u0e32\u0e23\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e22\u0e32\u0e27\u0e19\u0e32\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14 \u0e2a\u0e19\u0e32\u0e21\u0e40\u0e14\u0e47\u0e01\u0e40\u0e25\u0e48\u0e19\u0e41\u0e2b\u0e48\u0e07\u0e19\u0e35\u0e49\u0e21\u0e35\u0e2b\u0e49\u0e2d\u0e07\u0e40\u0e01\u0e21\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e16\u0e37\u0e2d\u0e21\u0e32\u0e01\u0e21\u0e32\u0e22\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e40\u0e17\u0e04\u0e42\u0e19\u0e42\u0e25\u0e22\u0e35\u0e17\u0e35\u0e48\u0e17\u0e31\u0e19\u0e2a\u0e21\u0e31\u0e22\u0e41\u0e25\u0e30\u0e25\u0e49\u0e33\u0e2a\u0e21\u0e31\u0e22.",
-        "Official Site": "https://shakasho.za.com/",
-        "Icon": "https://shakasho.za.com/wp-content/uploads/2026/04/mk8-anh-dai-dien.jpg",
-        "Redirect": "https://shakasho.za.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shakasho.za.com/"
     },
     {
         "link": "https://tripsite.com",
@@ -188,16 +168,6 @@
         "Redirect": "https://tripsite.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://tripsite.com"
-    },
-    {
-        "link": "https://netrelate.com",
-        "Heading": "789F - 789F.COM Nh\u00e0 C\u00e1i Xanh Ch\u00edn Nh\u1ea5t \u0110\u1ea5t Vi\u1ec7t #1",
-        "Abstract": "789F l\u00e0 nh\u00e0 c\u00e1i xanh ch\u00edn \u0110\u1ea5t Vi\u1ec7t, cung c\u1ea5p Casino, Th\u1ec3 Thao, X\u1ed5 S\u1ed1, B\u1eafn C\u00e1 uy t\u00edn. \u0110\u0103ng k\u00fd 789F.COM \u0111\u1ec3 nh\u1eadn th\u01b0\u1edfng v\u00e0 n\u1ea1p r\u00fat si\u00eau t\u1ed1c.",
-        "Official Site": "https://technicalsreenath.in.net/",
-        "Icon": "https://technicalsreenath.in.net/wp-content/uploads/2025/05/789f-link-truy-cap-chinh-thuc-nhanh-nhat.webp",
-        "Redirect": "https://technicalsreenath.in.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://technicalsreenath.in.net/"
     },
     {
         "link": "https://lluni.com",
@@ -214,20 +184,30 @@
         "Heading": "creative inkers - Sublimation Printing Designs",
         "Abstract": "Shop high-quality sublimation printing designs at Creative Inkers. Perfect for tumblers, mugs, shirts. Instant download sublimation PNG files",
         "Official Site": "https://creativeinkers.com/",
-        "Icon": "https://creativeinkers.com/wp-content/uploads/elementor/thumbs/Sublimation-Designs-1-rq4g0ez9nxryftdykp9bfs2fmr7od34byrfm16aha8.png",
+        "Icon": "https://creativeinkers.com/wp-content/uploads/elementor/thumbs/Sublimation-Designs-5-rr9i9lrace2kymfv2ig30g4dpwsgwupb35qow9yusk.png",
         "Redirect": "https://creativeinkers.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://creativeinkers.com/"
     },
     {
-        "link": "https://lordfilm-jule.online",
+        "link": "https://istitutodatini.it",
+        "Heading": "Homepage - Fondazione Istituto Internazionale di Storia economica 'F. Datini'",
+        "Abstract": "La Fondazione Istituto Internazionale di Storia Economica F. Datini promuove ricerche scientifiche sulla storia economica e offre numerosi servizi online per gli studiosi.",
+        "Official Site": "https://istitutodatini.it",
+        "Icon": "N/A",
+        "Redirect": "https://istitutodatini.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://istitutodatini.it"
+    },
+    {
+        "link": "https://asifor-pfa.co",
         "Heading": null,
         "Abstract": null,
-        "Official Site": "https://lordfilm-jule.online",
+        "Official Site": "https://asifor-pfa.co",
         "Icon": "N/A",
-        "Redirect": "https://lordfilm-jule.online",
+        "Redirect": "https://asifor-pfa.co",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lordfilm-jule.online"
+        "AbstractURL": "https://asifor-pfa.co"
     },
     {
         "link": "https://foundationsearch.com",
@@ -251,10 +231,10 @@
     },
     {
         "link": "https://bjguantai.com",
-        "Heading": "\u8bf7\u9a8c\u8bc1... / Please verify...",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://bjguantai.com",
-        "Icon": "/favicon.ico",
+        "Icon": "N/A",
         "Redirect": "https://bjguantai.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://bjguantai.com"

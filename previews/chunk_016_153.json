@@ -2,7 +2,7 @@
     {
         "link": "https://dahrussia.ru",
         "Heading": "DAHUA - \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0421\u0430\u0439\u0442 DAHUA \u0432 \u0420\u043e\u0441\u0441\u0438\u0438.",
-        "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c \u2705 DAHUA (\u0414\u0410\u0425\u0423\u0410) \u2764\ufe0f \u043f\u043e \u043d\u0438\u0437\u043a\u043e\u0439 \u0446\u0435\u043d\u0435 \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u2757 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u0421\u0430\u0439\u0442\u0435 DAHUA \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u2708\ufe0f \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438.",
+        "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c DAHUA (\u0414\u0410\u0425\u0423\u0410) \u043f\u043e \u043d\u0438\u0437\u043a\u043e\u0439 \u0446\u0435\u043d\u0435 \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u0421\u0430\u0439\u0442\u0435 DAHUA \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438.",
         "Official Site": "https://dahrussia.ru",
         "Icon": "favicon-192x192.png",
         "Redirect": "https://dahrussia.ru",
@@ -30,21 +30,11 @@
         "AbstractURL": "https://esidirectory.org"
     },
     {
-        "link": "https://chavenova.ca",
-        "Heading": "SnapTik: Free TikTok Downloader for HD & No-Watermark Videos",
-        "Abstract": "SnapTik allows you to download TikTok videos in HD and MP4 format without watermarks. Quick, secure, and 100% free. Compatible with all devices.",
-        "Official Site": "https://chavenova.ca",
-        "Icon": "https://snaptik.ac/assets/img/snapthumb.jpg",
-        "Redirect": "https://chavenova.ca",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://chavenova.ca"
-    },
-    {
         "link": "https://shtong.gov.cn",
-        "Heading": "\u4e0a\u6d77\u5e02\u5730\u65b9\u5fd7\u529e\u516c\u5ba4",
+        "Heading": "\u4e0a\u6d77\u6570\u5b57\u65b9\u5fd7-\u667a\u670d",
         "Abstract": null,
         "Official Site": "https://shtong.gov.cn",
-        "Icon": "/assets/img/ico/favicon.png",
+        "Icon": "/favicon.ico",
         "Redirect": "https://shtong.gov.cn",
         "AbstractSource": "BS4",
         "AbstractURL": "https://shtong.gov.cn"
@@ -130,6 +120,16 @@
         "AbstractURL": "https://podcast-hosting.org"
     },
     {
+        "link": "https://cjstar.ru",
+        "Heading": "CJSTAR. \u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u043c\u0443\u0437\u044b\u043a\u0438",
+        "Abstract": "CJSTAR. \u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u043c\u0443\u0437\u044b\u043a\u0438",
+        "Official Site": "https://cjstar.ru",
+        "Icon": "/stpl/fdstar/favicon.ico",
+        "Redirect": "https://cjstar.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cjstar.ru"
+    },
+    {
         "link": "https://nurpoint.com",
         "Heading": "Nur\u00ae - web agency - internet consulting",
         "Abstract": "Nur\u00ae \u00e8 una web agency specializzata nella realizzazione di siti internet, design e programmazione, posizionamento su motori di ricerca",
@@ -213,11 +213,11 @@
         "link": "https://diplom77o.cfd",
         "Heading": "\u041d\u0443\u0436\u0435\u043d \u0434\u0438\u043f\u043b\u043e\u043c - \u0414\u0438\u043f\u043b\u043e\u043c77. \u0421\u0430\u0439\u0442 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0441 \u0447\u0443\u0432\u0430\u043a\u043e\u043c \u0432 \u043e\u0447\u043a\u0430\u0445",
         "Abstract": "\u041b\u044e\u0431\u044b\u0435 \u043f\u043e\u0434\u0434\u0435\u043b\u044c\u043d\u044b\u0435 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u043f\u043e \u0432\u0441\u0435\u043c \u043c\u0438\u0440\u0443. \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u0443\u0435\u043c\u0441\u044f \u043d\u0430 \u0434\u0438\u043f\u043b\u043e\u043c\u0430\u0445, \u0430\u0442\u0442\u0435\u0441\u0442\u0430\u0442\u0430\u0445, \u0441\u043f\u0440\u0430\u0432\u043a\u0430\u0445, \u0443\u0434\u043e\u0441\u0442\u043e\u0432\u0435\u0440\u0435\u043d\u0438\u044f\u0445, \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430\u0445.",
-        "Official Site": "https://diplom77gj.cfd/",
-        "Icon": "https://diplom77gj.cfd/wp-content/uploads/cropped-favicon-2.png",
-        "Redirect": "https://diplom77gj.cfd/",
+        "Official Site": "https://diplom77ff.cfd/",
+        "Icon": "https://diplom77ff.cfd/wp-content/uploads/cropped-favicon-2.png",
+        "Redirect": "https://diplom77ff.cfd/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://diplom77gj.cfd/"
+        "AbstractURL": "https://diplom77ff.cfd/"
     },
     {
         "link": "https://889992332.xyz",

@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://intolimp.kz",
-        "Heading": "\u041b\u043e\u0442\u043e \u041a\u043b\u0443\u0431 - Loto Club KZ \u2014 \u0432\u043e\u0439\u0442\u0438, \u0438\u0433\u0440\u0430\u0442\u044c \u043e\u043d\u043b\u0430\u0439\u043d, \u0441\u043a\u0430\u0447\u0430\u0442\u044c APK \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
-        "Abstract": "\u041b\u043e\u0442\u043e \u041a\u043b\u0443\u0431 \u043e\u043d\u043b\u0430\u0439\u043d \u0432 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0435 \u2014 \u043e\u0431\u0437\u043e\u0440 Loto Club KZ 2026: \u043b\u043e\u0442\u043e \u043a\u0435\u043d\u043e, \u0431\u0438\u043d\u0433\u043e 37, \u0446\u0435\u043d\u0430 \u0431\u0438\u043b\u0435\u0442\u0430, \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0435 \u0442\u0438\u0440\u0430\u0436\u0438. \u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f, \u0432\u0445\u043e\u0434 \u0438 \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 APK \u043d\u0430 \u0410\u043d\u0434\u0440\u043e\u0438\u0434 \u043b\u043e\u0442\u043e \u043a\u043b\u0443\u0431 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e",
-        "Official Site": "https://loto-club1.instyle-mebel.kz/loto/",
-        "Icon": "https://instyle-mebel.kz/wp-content/uploads/2026/06/cropped-favicon-32x32.webp",
-        "Redirect": "https://loto-club1.instyle-mebel.kz/loto/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://loto-club1.instyle-mebel.kz/loto/"
-    },
-    {
         "link": "https://servuseuropa.at",
         "Heading": "Servus Europa Gruppe \u2013 Salzburg & Suben",
         "Abstract": null,
@@ -18,16 +8,6 @@
         "Redirect": "https://servuseuropa.at",
         "AbstractSource": "BS4",
         "AbstractURL": "https://servuseuropa.at"
-    },
-    {
-        "link": "https://loop2.nl",
-        "Heading": "loop2.nl",
-        "Abstract": "",
-        "Official Site": "https://loop2.nl",
-        "Icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIxLjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA4OCAxMDIuMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgODggMTAyLjI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojMDY4MkI0O30KCS5zdDF7ZmlsbDojMzFCN0U5O30KCS5zdDJ7ZmlsbDpub25lO30KPC9zdHlsZT4KPGc+Cgk8Zz4KCQk8Zz4KCQkJPHBvbHlnb24gY2xhc3M9InN0MCIgcG9pbnRzPSI4OCw1Mi42IDg4LDUyLjYgMzguNCwzIDI0LjIsMTcuMiA1OS43LDUyLjYgMjQuMyw4OCAzOC40LDEwMi4yIAkJCSIvPgoJCTwvZz4KCQk8Zz4KCQkJPHBvbHlnb24gY2xhc3M9InN0MSIgcG9pbnRzPSI4NSw0OS42IDg1LDQ5LjYgMzUuNCwwIDIxLjIsMTQuMiA1Ni43LDQ5LjYgMjEuMyw4NSAzNS40LDk5LjIgCQkJIi8+CgkJPC9nPgoJPC9nPgoJPGxpbmUgY2xhc3M9InN0MiIgeDE9IjQwLjMiIHkxPSIxMDMuOCIgeDI9IjkwLjEiIHkyPSI1NC4yIi8+Cgk8Zz4KCQk8cG9seWxpbmUgY2xhc3M9InN0MCIgcG9pbnRzPSIxMC41LDc0LjQgMTQuMSw3OCA0Mi40LDQ5LjYgMzguNyw0NS44IAkJIi8+CgkJPHBvbHlsaW5lIGNsYXNzPSJzdDEiIHBvaW50cz0iMzguNyw0NS45IDE0LjIsMjEuMyAwLDM1LjQgMTQuMiw0OS42IDAsNjMuOCAxMC42LDc0LjQgCQkiLz4KCTwvZz4KPC9nPgo8L3N2Zz4K",
-        "Redirect": "https://loop2.nl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://loop2.nl"
     },
     {
         "link": "https://bankfivenine.com",
@@ -90,16 +70,6 @@
         "AbstractURL": "https://www.tripgether.com/"
     },
     {
-        "link": "https://ourbitcoinnews.com",
-        "Heading": "Best Bitcoin Casinos 2025 \u2013 Top Crypto Sites",
-        "Abstract": "Explore the top Bitcoin casinos of 2025 with fast payouts, big bonuses, live games, and secure crypto payments.",
-        "Official Site": "https://ourbitcoinnews.com/",
-        "Icon": "https://ourbitcoinnews.com/wp-content/uploads/2025/11/32100.png",
-        "Redirect": "https://ourbitcoinnews.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ourbitcoinnews.com/"
-    },
-    {
         "link": "https://morrick.me",
         "Heading": "Riccardo Mori | Writer & Translator",
         "Abstract": "Writer & Translator",
@@ -118,16 +88,6 @@
         "Redirect": "https://ffmc59.fr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://ffmc59.fr"
-    },
-    {
-        "link": "https://atlantistv.de",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://atlantistv.de",
-        "Icon": "N/A",
-        "Redirect": "https://atlantistv.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://atlantistv.de"
     },
     {
         "link": "https://mgsc44.com",
@@ -242,7 +202,7 @@
     {
         "link": "https://huepar.com",
         "Heading": "\n      Huepar Laser Levels | Official Store\n \u2013 HUEPAR US",
-        "Abstract": "Huepar\u00ae US offers professional & affordable laser levels including 3D/4D Laser level, Dot and Rotary Laser Levels. Buy and enjoy 24 Months Warranty!",
+        "Abstract": "Huepar\u00ae US offers professional & affordable laser levels including 3D/4D Laser level, Dot and Rotary Laser Levels. Buy and enjoy 5-Year Warranty\uff01",
         "Official Site": "https://huepar.com/",
         "Icon": "http://huepar.com/cdn/shop/files/huepar-W04CG_1f115510-3d07-4f24-8f7d-407abe40829b.jpg?v=1741597312",
         "Redirect": "https://huepar.com/",

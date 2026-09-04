@@ -20,16 +20,6 @@
         "AbstractURL": "https://ecogripzone.com/home/"
     },
     {
-        "link": "https://kdbp2.cfd",
-        "Heading": "\u041a\u0443\u043f\u0438\u0442\u044c \u0434\u0438\u043f\u043b\u043e\u043c \u0431\u0435\u0437 \u043f\u0440\u043e\u0431\u043b\u0435\u043c - \u041a\u0414\u0411\u041f - 25 \u043b\u0435\u0442 \u043d\u0430 \u0440\u044b\u043d\u043a\u0435!",
-        "Abstract": "\u0415\u0441\u043b\u0438 \u0432\u0430\u043c \u043d\u0430\u0434\u043e \u043a\u0443\u043f\u0438\u0442\u044c \u043b\u044e\u0431\u043e\u0439 \u0434\u0438\u043f\u043b\u043e\u043c - \u0432\u044b\u0441\u0448\u0435\u0435, \u0441\u0440\u0435\u0434\u043d\u0435\u0435, \u041f\u0422\u0423, \u043a\u0443\u0440\u0441\u044b, \u043a\u0430\u043d\u0434\u0438\u0434\u0430\u0442, \u043f\u0440\u043e\u0444\u043f\u0435\u0440\u0435\u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0430 \u0438 \u0442. \u0434. \u041a\u0414\u0411\u041f \u043f\u043e\u043c\u043e\u0436\u0435\u0442. \u0411\u043b\u0430\u043d\u043a\u0438 \u0442\u043e\u043b\u044c\u043a\u043e \u0413\u043e\u0417\u043d\u0430\u043a!",
-        "Official Site": "https://kupitdiplomt.cfd/",
-        "Icon": "https://kupitdiplomt.cfd/wp-content/uploads/images/img1.jpg",
-        "Redirect": "https://kupitdiplomt.cfd/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kupitdiplomt.cfd/"
-    },
-    {
         "link": "https://appar.io",
         "Heading": "Coming Soon",
         "Abstract": null,
@@ -38,6 +28,16 @@
         "Redirect": "https://appar.io",
         "AbstractSource": "BS4",
         "AbstractURL": "https://appar.io"
+    },
+    {
+        "link": "https://cic-webpro.com",
+        "Heading": "CIC Web Programming",
+        "Abstract": "",
+        "Official Site": "https://cic-webpro.com",
+        "Icon": "N/A",
+        "Redirect": "https://cic-webpro.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cic-webpro.com"
     },
     {
         "link": "https://digantara.in",
@@ -151,7 +151,7 @@
     },
     {
         "link": "https://wave-assets.ltd",
-        "Heading": "Account Suspended",
+        "Heading": "wave-assets.ltd",
         "Abstract": null,
         "Official Site": "https://wave-assets.ltd",
         "Icon": "N/A",
@@ -170,6 +170,16 @@
         "AbstractURL": "https://govodka.xyz"
     },
     {
+        "link": "https://missionseed.net",
+        "Heading": "Loading...",
+        "Abstract": null,
+        "Official Site": "https://missionseed.net",
+        "Icon": "N/A",
+        "Redirect": "https://missionseed.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://missionseed.net"
+    },
+    {
         "link": "https://againent.co.kr",
         "Heading": "\uc5b4\uac8c\uc778\uc5d4\ud130\ud14c\uc778\uba3c\ud2b8",
         "Abstract": "\uc138\uc0c1\uc744 \ubcc0\ud654\uc2dc\ud0ac, \ucf58\ud150\uce20\ub97c \ub9cc\ub4dc\ub294 \ucc3d\uc758\uc801\uc778 \uae30\uc5c5",
@@ -182,7 +192,7 @@
     {
         "link": "https://amilo.co",
         "Heading": "Integrated Logistics Across Southeast Asia",
-        "Abstract": "Amilo International delivers bonded warehousing, e-commerce fulfilment and cross-border logistics across Singapore, Malaysia, Vietnam and beyond.",
+        "Abstract": "Amilo International delivers integrated logistics \u2014 warehousing, transportation, and supply chain technology \u2014 across Southeast Asia.",
         "Official Site": "https://amilo.co",
         "Icon": "https://amilo.co/og-image.png",
         "Redirect": "https://amilo.co",
@@ -208,6 +218,16 @@
         "Redirect": "http://localhost:3000",
         "AbstractSource": "BS4",
         "AbstractURL": "http://localhost:3000"
+    },
+    {
+        "link": "https://sluzhivuy.top",
+        "Heading": "sluzhivuy.top",
+        "Abstract": null,
+        "Official Site": "https://sluzhivuy.top",
+        "Icon": "N/A",
+        "Redirect": "https://sluzhivuy.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sluzhivuy.top"
     },
     {
         "link": "https://rossdawsonblog.com",

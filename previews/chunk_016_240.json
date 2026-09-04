@@ -70,6 +70,16 @@
         "AbstractURL": "https://aptkhordacollege.org/"
     },
     {
+        "link": "https://med-techinsights.com",
+        "Heading": "Homepage - Med-Tech Insights",
+        "Abstract": "Stay ahead in the world of medical technology with MedTech Insights \u2013 your go-to source for the latest news, expert analysis, and industry trends in medical devices, digital health, AI, and femtech.",
+        "Official Site": "https://med-techinsights.com/",
+        "Icon": "https://med-techinsights.com/wp-content/uploads/2024/11/shutterstock_2214364081.jpg",
+        "Redirect": "https://med-techinsights.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://med-techinsights.com/"
+    },
+    {
         "link": "https://gogologins.com",
         "Heading": "Welcome to nginx!",
         "Abstract": null,
@@ -108,16 +118,6 @@
         "Redirect": "https://alpharenewedresources.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://alpharenewedresources.com"
-    },
-    {
-        "link": "https://dift-kasino.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dift-kasino.com",
-        "Icon": "N/A",
-        "Redirect": "https://dift-kasino.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dift-kasino.com"
     },
     {
         "link": "https://bristolwastecompany.co.uk",
@@ -170,6 +170,26 @@
         "AbstractURL": "https://arsiwebpay.com"
     },
     {
+        "link": "https://jacksfarmradio.com",
+        "Heading": "1ClickBuy - Instant Website Redesign | AI-Powered",
+        "Abstract": "Enter your website and our AI Agents will instantly re-design your website. No credit card required. Free to try.",
+        "Official Site": "https://1clickbuy.cc/",
+        "Icon": "/favicon.svg",
+        "Redirect": "https://1clickbuy.cc/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://1clickbuy.cc/"
+    },
+    {
+        "link": "https://g-sedu.co",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://g-sedu.co",
+        "Icon": "N/A",
+        "Redirect": "https://g-sedu.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://g-sedu.co"
+    },
+    {
         "link": "https://hausamwaldsee.de",
         "Heading": "HAUS AM WALDSEE",
         "Abstract": "Als Ausstellungshaus zeigt das Haus am Waldsee internationale Kunst in Berlin. Ein Skulpturenpark, Vermittlungsangebote und ein Caf\u00e9 runden das Programm ab.",
@@ -178,16 +198,6 @@
         "Redirect": "https://hausamwaldsee.de/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hausamwaldsee.de/"
-    },
-    {
-        "link": "https://seirim.com",
-        "Heading": "SEIRIM",
-        "Abstract": null,
-        "Official Site": "https://seirim.com",
-        "Icon": "/storage/assets/images/SEIRIM-OG-Image.webp",
-        "Redirect": "https://seirim.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://seirim.com"
     },
     {
         "link": "https://allartschools.com",
@@ -202,9 +212,9 @@
     {
         "link": "https://khw-geschwenda.de",
         "Heading": "KHW - Gartengl\u00fcck",
-        "Abstract": "Die KHW in Geschwenda ist der weltweite Martkf\u00fchrer in der Herstellung von Kunststoffschlitten und ein zuverl\u00e4ssiger und kompetenter Lohnfertiger im Bereich des Kunststoffspritzgusses.",
+        "Abstract": null,
         "Official Site": "https://khw-geschwenda.de",
-        "Icon": "https://www.khw-geschwenda.de/typo3conf/ext/idtemplate/Resources/Public/Img/facebook_preview_square.png",
+        "Icon": "N/A",
         "Redirect": "https://khw-geschwenda.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://khw-geschwenda.de"

@@ -21,8 +21,8 @@
     },
     {
         "link": "https://bharatbook.com",
-        "Heading": "\n        Digital Newspaper, Magazine & Online Database Subscriptions    ",
-        "Abstract": "Digital Newspaper, Magazine, and Online Database subscriptions with multi-user access plans. Get business insights, economic updates, government policy and politics.",
+        "Heading": "\n        Digital Newspaper, Magazine & Online Database Subscriptions | Bharat Book Bureau    ",
+        "Abstract": "Subscribe to leading digital newspapers, magazines & online databases for institutions across India. Trusted by IIMs, IITs & universities since 1989.",
         "Official Site": "https://bharatbook.com",
         "Icon": "assets/images/fav.png",
         "Redirect": "https://bharatbook.com",
@@ -110,16 +110,6 @@
         "AbstractURL": "https://jfsbrokers.com"
     },
     {
-        "link": "https://ducha.co.in",
-        "Heading": "Ducha Consultancy Services - Home",
-        "Abstract": "",
-        "Official Site": "https://ducha.co.in",
-        "Icon": "N/A",
-        "Redirect": "https://ducha.co.in",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ducha.co.in"
-    },
-    {
         "link": "https://kameleon-media.com",
         "Heading": "Kameleon Media: Mastering Digital Trends & Smart Marketing",
         "Abstract": "Explore this business blog for insights on digital trends, marketing tips, tech, & automation. Stay ahead with strategies that drive growth and success.",
@@ -130,6 +120,26 @@
         "AbstractURL": "https://kameleon-media.com/"
     },
     {
+        "link": "https://alexandthink.com",
+        "Heading": "lewin\u4e50\u73a9\u00b7(\u5b98\u65b9)",
+        "Abstract": "\u597d\u73a9\u6e38\u620f\u5927\u5168\u63d0\u4f9b\u6700\u65b0\u6700\u70ed\u95e8\u7684\u624b\u673a\u6e38\u620f\u3001\u7535\u8111\u6e38\u620f\u63a8\u8350\u4e0e\u4e0b\u8f7d\uff0c\u5305\u542b\u6e38\u620f\u653b\u7565\u3001\u8bc4\u6d4b\u3001\u8d44\u8baf\u548c\u6392\u884c\u699c\uff0c\u5e2e\u52a9\u73a9\u5bb6\u53d1\u73b0\u6700\u597d\u73a9\u7684\u6e38\u620f\u3002",
+        "Official Site": "https://www.alexandthink.com/",
+        "Icon": "images/hero-games-collection.jpg",
+        "Redirect": "https://www.alexandthink.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.alexandthink.com/"
+    },
+    {
+        "link": "https://t2isfa.com",
+        "Heading": "Account Suspended",
+        "Abstract": null,
+        "Official Site": "https://t2isfa.com",
+        "Icon": "N/A",
+        "Redirect": "https://t2isfa.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://t2isfa.com"
+    },
+    {
         "link": "https://7kzw.org",
         "Heading": "\u5947\u5feb\u4e2d\u6587\u7f51_\u4e66\u53cb\u6700\u503c\u5f97\u6536\u85cf\u7684\u7f51\u7edc\u5c0f\u8bf4\u9605\u8bfb\u7f51",
         "Abstract": "\u5947\u5feb\u4e2d\u6587\u7f51",
@@ -138,15 +148,5 @@
         "Redirect": "https://7kzw.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://7kzw.org"
-    },
-    {
-        "link": "https://eboots.co.uk",
-        "Heading": "Find Car Boot Sales Near You | eboots",
-        "Abstract": "Find car boots and Sunday markets near you across the UK, with information on prices, parking and directions",
-        "Official Site": "https://eboots.co.uk/",
-        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
-        "Redirect": "https://eboots.co.uk/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eboots.co.uk/"
     }
 ]

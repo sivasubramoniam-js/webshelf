@@ -10,16 +10,6 @@
         "AbstractURL": "https://vertexip.net"
     },
     {
-        "link": "https://spotlink.com.br",
-        "Heading": "Spotlink - Desenvolvimento e Hospedagem de sites",
-        "Abstract": "Desenvolvimento e Hospedagem de sites",
-        "Official Site": "https://spotlink.com.br/",
-        "Icon": "N/A",
-        "Redirect": "https://spotlink.com.br/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://spotlink.com.br/"
-    },
-    {
         "link": "https://energisticshosting.com",
         "Heading": "EnergisticsHOSTING",
         "Abstract": null,
@@ -62,7 +52,7 @@
     {
         "link": "https://saastechnepal.com",
         "Heading": "SaaS Tech Nepal | Best SaaS Development Company in Nepal",
-        "Abstract": "Expert SaaS development services in Nepal. From startup MVP to enterprise scale-up solutions.",
+        "Abstract": "Empowering Nepali startups and businesses with world-class SaaS solutions.",
         "Official Site": "https://saastechnepal.com/",
         "Icon": "https://saastechnepal.com/logo/saas-tech-nepal-og.jpg",
         "Redirect": "https://saastechnepal.com/",
@@ -88,6 +78,16 @@
         "Redirect": "https://echomingle.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://echomingle.com/"
+    },
+    {
+        "link": "https://infosyslab.fr",
+        "Heading": "Infosyslab \u2013 Site du LIS",
+        "Abstract": null,
+        "Official Site": "https://infosyslab.fr",
+        "Icon": "https://infosyslab.fr/wp-content/uploads/2022/04/cropped-cropped-lis-logo-32x32.png",
+        "Redirect": "https://infosyslab.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://infosyslab.fr"
     },
     {
         "link": "https://peroosh.com",
@@ -150,16 +150,6 @@
         "AbstractURL": "https://supra.com/"
     },
     {
-        "link": "https://clahei.net",
-        "Heading": "Coming Soon - CLAHEI",
-        "Abstract": "Phone Consultation \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta fermentum rutrum. Mauris non hendrerit mauris. Pharetra eu amet velit. \nLearn More >   \nMarketing \nFusce volutpat eleifend sodales. Donec cursus elit vitae leo bibendum, vitae ullamcorper diam vulputate. Ut malesuada, orci et mattis gravida.",
-        "Official Site": "https://clahei.net/",
-        "Icon": "https://clahei.net/wp-content/uploads/2021/03/avada-business-coach-logo.svg",
-        "Redirect": "https://clahei.net/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://clahei.net/"
-    },
-    {
         "link": "https://jfde.eu",
         "Heading": "\n\t\tJournal of Facade Design and Engineering\n\t\t\t\t\t",
         "Abstract": "Open access journal for Facade Design and Engineering",
@@ -191,10 +181,10 @@
     },
     {
         "link": "https://koprivnicki-bregi.hr",
-        "Heading": "Koprivni\u010dki Bregi",
+        "Heading": "Koprivni\u010dki bregi",
         "Abstract": null,
         "Official Site": "https://koprivnicki-bregi.hr",
-        "Icon": "https://koprivnicki-bregi.hr/wp-content/uploads/2021/07/favicon-1.png",
+        "Icon": "N/A",
         "Redirect": "https://koprivnicki-bregi.hr",
         "AbstractSource": "BS4",
         "AbstractURL": "https://koprivnicki-bregi.hr"
@@ -202,7 +192,7 @@
     {
         "link": "https://office-nko.ru",
         "Heading": "\u041e \u043f\u043e\u0440\u0442\u0430\u043b\u0435 - \u0420\u0415\u0421\u0423\u0420\u0421\u041d\u042b\u0419 \u0426\u0415\u041d\u0422\u0420 \"\u041e\u0424\u0418\u0421 \u041d\u041a\u041e\"",
-        "Abstract": "\u041d\u0430\u0437\u0430\u0434 \u0414\u0430\u043b\u0435\u0435 \u0427\u043b\u0435\u043d\u044b \u041f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u0438 \u0421\u041e \u041d\u041a\u041e \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u041d\u0438\u043a\u0438\u0444\u043e\u0440\u043e\u0432 \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447 \u2013 \u041f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044c \u041f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0413\u043b\u0430\u0437\u043a\u043e\u0432\u0430 \u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043d\u0430 \u041c\u0438\u0448\u0443\u043d\u0438\u043d \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u0438\u0447 \u041d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u043e\u0432\u0435\u0442 \u041f\u0440\u043e\u0442\u043e\u0438\u0435\u0440\u0435\u0439 \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u041f\u043e\u043f\u0438\u0447\u0435\u043d\u043a\u043e \u041c\u0438\u0448\u0443\u043d\u0438\u043d \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u0438\u0447\u200b \u041e\u0432\u0447\u0438\u043d\u043d\u0438\u043a\u043e\u0432 \u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0418\u0433\u043e\u0440\u0435\u0432\u0438\u0447\u200b \u041d\u0435\u0432\u044c\u044f\u043d\u0446\u0435\u0432 \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u042e\u0440\u044c\u0435\u0432\u0438\u0447\u200b \u0412\u043e\u0440\u043e\u043d\u0438\u043d\u0430 \u041b\u044e\u0434\u043c\u0438\u043b\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u043d\u0430\u200b \u0415\u0432\u0441\u0435\u0435\u0432\u0430 \u0412\u0435\u0440\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u043d\u0430 \u041c\u0430\u0436\u0430\u0440\u0430 \u041e\u043b\u0435\u0433 \u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u0438\u0447\u200b \u041d\u0430\u0437\u0430\u0434 \u0414\u0430\u043b\u0435\u0435 \u041d\u0430\u0448\u0438 \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u044b \u041d\u0430\u0437\u0430\u0434 \u0414\u0430\u043b\u0435\u0435 \u041f\u043e\u043b\u0435\u0437\u043d\u044b\u0435 \u0441\u0441\u044b\u043b\u043a\u0438 \u041d\u0430\u0437\u0430\u0434 \u0414\u0430\u043b\u0435\u0435\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u044c\u0448\u0435",
+        "Abstract": "\u041d\u0430\u0437\u0430\u0434 \u0414\u0430\u043b\u0435\u0435 \u0427\u043b\u0435\u043d\u044b \u041f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0410\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u0438 \u0421\u041e \u041d\u041a\u041e \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u041d\u0438\u043a\u0438\u0444\u043e\u0440\u043e\u0432 \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447 \u2014 \u041f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044c \u041f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0413\u043b\u0430\u0437\u043a\u043e\u0432\u0430 \u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043d\u0430 \u041c\u0438\u0448\u0443\u043d\u0438\u043d \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u0438\u0447 \u041d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u043e\u0432\u0435\u0442 \u041f\u0440\u043e\u0442\u043e\u0438\u0435\u0440\u0435\u0439 \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u041f\u043e\u043f\u0438\u0447\u0435\u043d\u043a\u043e \u041c\u0438\u0448\u0443\u043d\u0438\u043d \u0415\u0432\u0433\u0435\u043d\u0438\u0439 \u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u0438\u0447\u200b \u041e\u0432\u0447\u0438\u043d\u043d\u0438\u043a\u043e\u0432 \u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0418\u0433\u043e\u0440\u0435\u0432\u0438\u0447\u200b \u041d\u0435\u0432\u044c\u044f\u043d\u0446\u0435\u0432 \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u042e\u0440\u044c\u0435\u0432\u0438\u0447\u200b \u0412\u043e\u0440\u043e\u043d\u0438\u043d\u0430 \u041b\u044e\u0434\u043c\u0438\u043b\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u043d\u0430\u200b \u0415\u0432\u0441\u0435\u0435\u0432\u0430 \u0412\u0435\u0440\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u043d\u0430 \u041c\u0430\u0436\u0430\u0440\u0430 \u041e\u043b\u0435\u0433 \u0410\u043d\u0430\u0442\u043e\u043b\u044c\u0435\u0432\u0438\u0447\u200b \u041d\u0430\u0437\u0430\u0434 \u0414\u0430\u043b\u0435\u0435 \u041d\u0430\u0448\u0438 \u043f\u0430\u0440\u0442\u043d\u0435\u0440\u044b \u041d\u0430\u0437\u0430\u0434 \u0414\u0430\u043b\u0435\u0435 \u041f\u043e\u043b\u0435\u0437\u043d\u044b\u0435 \u0441\u0441\u044b\u043b\u043a\u0438 \u041d\u0430\u0437\u0430\u0434 \u0414\u0430\u043b\u0435\u0435\u0427\u0438\u0442\u0430\u0442\u044c \u0434\u0430\u043b\u044c\u0448\u0435",
         "Official Site": "https://office-nko.ru/",
         "Icon": "https://office-nko.ru/wp-content/uploads/2021/11/Introduction-6_1-910x1024.jpg",
         "Redirect": "https://office-nko.ru/",
@@ -238,6 +228,16 @@
         "Redirect": "https://pagosasprings.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pagosasprings.net"
+    },
+    {
+        "link": "https://mtwujin.com",
+        "Heading": "IIS Windows Server",
+        "Abstract": null,
+        "Official Site": "https://mtwujin.com",
+        "Icon": "N/A",
+        "Redirect": "https://mtwujin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mtwujin.com"
     },
     {
         "link": "https://wuerth-hochenburger.at",

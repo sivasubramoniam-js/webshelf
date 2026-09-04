@@ -10,16 +10,6 @@
         "AbstractURL": "https://789club68.vip/"
     },
     {
-        "link": "https://shastapoolsupply.com",
-        "Heading": "\n      Shasta Pool Supply | Arizona Swimming Pool Supplies Online Store\n",
-        "Abstract": "Need swimming pool or spa supplies? Shop fast shipping and best prices for pool filters, chemicals, heaters, pumps, salt cells, and parts for all your pool supply needs.",
-        "Official Site": "https://shastapoolsupply.com/",
-        "Icon": "http://shastapoolsupply.com/cdn/shop/files/SPS-Full_Color.png?v=1737393158",
-        "Redirect": "https://shastapoolsupply.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://shastapoolsupply.com/"
-    },
-    {
         "link": "https://tutvid.com",
         "Heading": "Photoshop and Illustrator Tutorials | tutvid.com",
         "Abstract": null,
@@ -61,10 +51,10 @@
     },
     {
         "link": "https://casinado.jetzt",
-        "Heading": "Casinado \u2013 Online Spielbank mit Turnieren",
-        "Abstract": "Tritt an, spiel live und k\u00e4mpf um echte Preise. Casinado bietet Live-Tische, Turniere und Jackpot-Slots \u2013 lizenziert und rund um die Uhr verf\u00fcgbar.",
+        "Heading": "Casinado Casino \u2013 Lizenziertes Online Casino mit Slots, Live-Spielen & Sportwetten",
+        "Abstract": "Spielen Sie im offiziell lizenzierten Casinado Casino: Entdecken Sie erstklassige Spielautomaten, Live-Casino, Sportwetten und attraktive Bonusangebote. Sicher, seri\u00f6s und fair \u2013 Ihr vertrauensw\u00fcrdiger Partner f\u00fcr Online-Gl\u00fccksspiel.",
         "Official Site": "https://casinado.jetzt",
-        "Icon": "/images/favicon.ico",
+        "Icon": "/images/site-icon-32x32.png",
         "Redirect": "https://casinado.jetzt",
         "AbstractSource": "BS4",
         "AbstractURL": "https://casinado.jetzt"
@@ -78,6 +68,16 @@
         "Redirect": "https://crm-i.moscow",
         "AbstractSource": "BS4",
         "AbstractURL": "https://crm-i.moscow"
+    },
+    {
+        "link": "https://pravacomp-ju.top",
+        "Heading": "pravacomp-ju.top",
+        "Abstract": null,
+        "Official Site": "https://pravacomp-ju.top",
+        "Icon": "N/A",
+        "Redirect": "https://pravacomp-ju.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pravacomp-ju.top"
     },
     {
         "link": "https://onehealthorganisation.org",
@@ -102,12 +102,12 @@
     {
         "link": "https://afforai.com",
         "Heading": "Logically | Research, Cite, and Write With AI",
-        "Abstract": "TLogically is the Al-powered workspace for citation-backed research, managing references, conducting literature reviews, annotating PDFs, and writing amazing papers.",
-        "Official Site": "/",
-        "Icon": "/og_logically.png",
-        "Redirect": "/",
+        "Abstract": "Logically is the AI-powered workspace for citation-backed research, managing references, conducting literature reviews, annotating PDFs, and writing amazing papers.",
+        "Official Site": "https://logically.app/",
+        "Icon": "https://logically.app/og_logically.png",
+        "Redirect": "https://logically.app/",
         "AbstractSource": "BS4",
-        "AbstractURL": "/"
+        "AbstractURL": "https://logically.app/"
     },
     {
         "link": "https://mplnet.com",
@@ -170,16 +170,6 @@
         "AbstractURL": "https://israelencallado.top"
     },
     {
-        "link": "https://protein-calculator.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://protein-calculator.com",
-        "Icon": "N/A",
-        "Redirect": "https://protein-calculator.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://protein-calculator.com"
-    },
-    {
         "link": "https://mechernich.de",
         "Heading": "Startseite \u2022 Stadt Mechernich",
         "Abstract": "Startseite \u2022 Stadt Mechernich \u2022 Aktuelle Neuigkeiten und Mitteilungen \u2022 Vielf\u00e4ltige Veranstaltungen \u2022 Sehensw\u00fcrdigkeiten",
@@ -194,7 +184,7 @@
         "Heading": "Koukla Delights \u2013 A Perfect Blend of Taste & Nutrition",
         "Abstract": null,
         "Official Site": "https://koukladelights.com",
-        "Icon": "N/A",
+        "Icon": "https://koukladelights.com/wp-content/uploads/2026/07/cropped-Koukla-logo-onlineprofile-whitelogo-bluebackground-32x32.png",
         "Redirect": "https://koukladelights.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://koukladelights.com"

@@ -30,6 +30,16 @@
         "AbstractURL": "https://www.exponm.com/"
     },
     {
+        "link": "https://pravacomp-eb.top",
+        "Heading": "pravacomp-eb.top",
+        "Abstract": "Find information, resources and relevant links for pravacomp-eb.top. This domain may be for sale.",
+        "Official Site": "https://pravacomp-eb.top",
+        "Icon": "N/A",
+        "Redirect": "https://pravacomp-eb.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pravacomp-eb.top"
+    },
+    {
         "link": "https://theveganword.com",
         "Heading": "Home - The Vegan Word",
         "Abstract": "Welcome to the Vegan Word, where I show you how to veganise your life, from travel to beauty to zero waste life. Live intentionally. Live well. Live vegan.",
@@ -38,16 +48,6 @@
         "Redirect": "https://theveganword.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theveganword.com/"
-    },
-    {
-        "link": "https://ardentheatre.org",
-        "Heading": "Home \u2014 Arden Theatre Company",
-        "Abstract": "Broadway caliber musicals & plays and arts education located in Historic Old City, Phila. Buy Arden tickets online, rent our venues, and more!",
-        "Official Site": "https://ardentheatre.org/",
-        "Icon": "https://ardentheatre.org/wp-content/uploads/2020/11/153784788723961158-arden-marquee-795x600.full_.jpg",
-        "Redirect": "https://ardentheatre.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ardentheatre.org/"
     },
     {
         "link": "https://webhostinghof.nl",
@@ -120,21 +120,11 @@
         "AbstractURL": "https://www.lillegrandpalais.com/"
     },
     {
-        "link": "https://aboutvoiceactors.com",
-        "Heading": "Voice Actor Insights Journal",
-        "Abstract": "Explore data-driven insights on voice acting trends. Our editorial team offers evidence-based analysis for actors, casting directors, and media professionals.",
-        "Official Site": "https://aboutvoiceactors.com",
-        "Icon": "/logo.svg",
-        "Redirect": "https://aboutvoiceactors.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://aboutvoiceactors.com"
-    },
-    {
         "link": "https://z-polus.info",
-        "Heading": "\u0420\u0430\u0434\u0456\u043e \u00ab\u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u043f\u043e\u043b\u044e\u0441\u00bb: \u0441\u043b\u0443\u0445\u0430\u0439 \u043e\u043d\u043b\u0430\u0439\u043d \u0435\u0444\u0456\u0440 \u0437 \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
-        "Abstract": "\u041f\u0440\u044f\u043c\u0438\u0439 \u0435\u0444\u0456\u0440 \u043e\u043d\u043b\u0430\u0439\u043d \u0440\u0430\u0434\u0456\u043e \u0437 \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430, \u0423\u043a\u0440\u0430\u0457\u043d\u0430. \u041d\u043e\u0432\u0438\u043d\u0438, \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0430\u0442\u0440\u0456\u043e\u0442\u0438\u0447\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430, \u044f\u0441\u043a\u0440\u0430\u0432\u0456 \u0432\u0456\u0442\u0447\u0438\u0437\u043d\u044f\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0442\u0430 \u043b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u0456 \u0445\u0456\u0442\u0438 \u0441\u0432\u0456\u0442\u043e\u0432\u0438\u0445 \u0437\u0456\u0440\u043e\u043a",
+        "Heading": "\u0420\u0430\u0434\u0456\u043e \u00ab\u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u043f\u043e\u043b\u044e\u0441\u00bb: \u0441\u043b\u0443\u0445\u0430\u0439 \u043e\u043d\u043b\u0430\u0439\u043d \u0435\u0444\u0456\u0440 \u0442\u0430 \u043f\u043e\u0434\u043a\u0430\u0441\u0442\u0438 \u0437 \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430",
+        "Abstract": "\u041e\u0444\u0456\u0446\u0456\u0439\u043d\u0438\u0439 \u0441\u0430\u0439\u0442 \u0440\u0430\u0434\u0456\u043e\u0441\u0442\u0430\u043d\u0446\u0456\u0457 \u00ab\u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u043f\u043e\u043b\u044e\u0441\u00bb (104.3 FM, \u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a). \u0421\u043b\u0443\u0445\u0430\u0439\u0442\u0435 \u043f\u0440\u044f\u043c\u0438\u0439 \u0435\u0444\u0456\u0440 \u043e\u043d\u043b\u0430\u0439\u043d, \u0441\u0432\u0456\u0436\u0456 \u043d\u043e\u0432\u0438\u043d\u0438, \u043f\u043e\u0434\u043a\u0430\u0441\u0442\u0438, \u0430\u0432\u0442\u043e\u0440\u0441\u044c\u043a\u0456 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u0442\u0430 \u0445\u0456\u0442\u0438 2000-\u0445 \u0456 \u0441\u044c\u043e\u0433\u043e\u0434\u0435\u043d\u043d\u044f.",
         "Official Site": "https://z-polus.info/",
-        "Icon": "https://z-polus.info/wp-content/uploads/2020/06/studio2-scaled.jpg",
+        "Icon": "https://z-polus.info/img/og-image.jpg",
         "Redirect": "https://z-polus.info/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://z-polus.info/"
@@ -148,16 +138,6 @@
         "Redirect": "https://rauheshaus.de",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rauheshaus.de"
-    },
-    {
-        "link": "https://eldenringbe.shop",
-        "Heading": "Forte Rendovale Sito ufficiale: Brand Hub & Ecosystem",
-        "Abstract": "Benvenuto al Forte Rendovale sito ufficiale. Esplora la nostra mission del marchio, l'ecosistema dei prodotti e le risorse affidabili per un'esperienza sicura e conforme.",
-        "Official Site": "https://forteresseaifr.com/",
-        "Icon": "https://forteresseaifr.com/_shared/img/og-image.png",
-        "Redirect": "https://forteresseaifr.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://forteresseaifr.com/"
     },
     {
         "link": "https://sanopttorg.ru",
@@ -201,13 +181,13 @@
     },
     {
         "link": "https://gulimidinn.is",
-        "Heading": "Guli Mi\u00f0inn - V\u00edtam\u00edn, steinefni og f\u00e6\u00f0ub\u00f3taefni",
-        "Abstract": "Guli mi\u00f0innG\u00e6\u00f0i \u00e1 g\u00f3\u00f0u ver\u00f0i Guli mi\u00f0innG\u00e6\u00f0i \u00e1 g\u00f3\u00f0u ver\u00f0i Guli mi\u00f0inn b\u00e6tir, vi\u00f0heldur og ver heilsu, hreysti og l\u00ed\u00f0an fj\u00f6lskyldunnar. Guli mi\u00f0inn er me\u00f0 al\u00fej\u00f3\u00f0lega GMP g\u00e6\u00f0avottun (Good manufacturing practice) og er framleiddur \u00ed samvinnu vi\u00f0 al\u00fej\u00f3\u00f0lega framlei\u00f0endur sem starfa samkv\u00e6mt str\u00f6ngustu g\u00e6\u00f0akr\u00f6fum. Ranns\u00f3knir \u00e1 virkni og hreinleika efnanna fara b\u00e6\u00f0i fram \u00e1 \u00feeirra [\u2026]",
-        "Official Site": "https://gulimidinn.is/",
-        "Icon": "https://gulimidinn.is/wp-content/uploads/2021/05/GUL_net_Forsidubannerar_0521_1080x1080.jpg",
-        "Redirect": "https://gulimidinn.is/",
+        "Heading": "Guli Mi\u00f0inn | Hugsa\u00f0u um heilsuna",
+        "Abstract": "\u00cd fj\u00f3ra \u00e1ratugi hefur Guli Mi\u00f0inn veri\u00f0 eitt \u00feekktasta v\u00f6rumerki landsins \u00ed v\u00edtam\u00ednum og b\u00e6tiefnum.",
+        "Official Site": "https://heilsa.is/is/brand/guli-midinn",
+        "Icon": "https://www.datocms-assets.com/215430/1787657733-777219690_1604041404397803_2857470811273841137_n.jpg",
+        "Redirect": "https://heilsa.is/is/brand/guli-midinn",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gulimidinn.is/"
+        "AbstractURL": "https://heilsa.is/is/brand/guli-midinn"
     },
     {
         "link": "https://cpricewatch.com",
@@ -238,5 +218,15 @@
         "Redirect": "https://889992309.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://889992309.xyz"
+    },
+    {
+        "link": "https://mba-luniro.co",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mba-luniro.co",
+        "Icon": "N/A",
+        "Redirect": "https://mba-luniro.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mba-luniro.co"
     }
 ]
