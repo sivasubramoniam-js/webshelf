@@ -61,10 +61,10 @@
     },
     {
         "link": "https://nitetripper.com",
-        "Heading": "Dr. John the Nitetripper",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://nitetripper.com",
-        "Icon": "https://nitetripper.com/wp-content/uploads/2021/08/favicon.ico",
+        "Icon": "data:;",
         "Redirect": "https://nitetripper.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://nitetripper.com"
@@ -88,6 +88,16 @@
         "Redirect": "https://eliteestateplanning.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://eliteestateplanning.com/"
+    },
+    {
+        "link": "https://gloverindex.com",
+        "Heading": "Your domain is expired",
+        "Abstract": "Domain is expired",
+        "Official Site": "https://gloverindex.com",
+        "Icon": "N/A",
+        "Redirect": "https://gloverindex.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gloverindex.com"
     },
     {
         "link": "https://westergasfabriek.nl",

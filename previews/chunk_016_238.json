@@ -10,6 +10,16 @@
         "AbstractURL": "https://torogrow.com"
     },
     {
+        "link": "https://bistrotduboucher.fr",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bistrotduboucher.fr",
+        "Icon": "data:;",
+        "Redirect": "https://bistrotduboucher.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bistrotduboucher.fr"
+    },
+    {
         "link": "https://mathtv.com",
         "Heading": "MathTV.com - Free Math Help Videos",
         "Abstract": "Watch free math videos for every math course, from Basic Math to Calculus. Multiple tutors solve each problem so you can find the explanation style that clicks.",
@@ -70,34 +80,34 @@
         "AbstractURL": "https://redirect97.com"
     },
     {
-        "link": "https://virtualmdj.com",
-        "Heading": "Welcome to virtualmdj!",
-        "Abstract": null,
-        "Official Site": "https://virtualmdj.com",
-        "Icon": "N/A",
-        "Redirect": "https://virtualmdj.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://virtualmdj.com"
-    },
-    {
         "link": "https://aea365.org",
-        "Heading": "AEA365 \u2013 A Tip-a-Day by and for Evaluators",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://aea365.org",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://aea365.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://aea365.org"
     },
     {
         "link": "https://lugo-vina.com",
-        "Heading": "Computer repair | Lugo-Vi\u00f1a Sucesores, Inc.",
-        "Abstract": "Computer Technicians, IT Support, Repairs, Network, POS Systems, Accounting software, Time Control management, service agreements. Lugo-Vi\u00f1a Sucesores, Inc. LVS, Lugo-Vina, LugoVina",
-        "Official Site": "https://www.lugo-vina.com",
-        "Icon": "https://static.wixstatic.com/media/adbdd2_f2a7c9aba7c34815a9414dd1b21b533a%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/adbdd2_f2a7c9aba7c34815a9414dd1b21b533a%7Emv2.jpg",
-        "Redirect": "https://www.lugo-vina.com",
+        "Heading": "My Blog \u2013 My WordPress Blog",
+        "Abstract": null,
+        "Official Site": "https://lugo-vina.com",
+        "Icon": "N/A",
+        "Redirect": "https://lugo-vina.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.lugo-vina.com"
+        "AbstractURL": "https://lugo-vina.com"
+    },
+    {
+        "link": "https://styleai.art",
+        "Heading": "Style AI - Convert the Photo Image to any Style.",
+        "Abstract": "Style AI instantly transforms your photos into stunning styles like Ghibli, Polaroid, Sketch, Chibi, and Pixar. Effortlessly control image elements and create amazing effects with just one click.",
+        "Official Site": "https://styleai.art",
+        "Icon": "https://r2.styleai.art/waterfall/styleai-og-image.jpg",
+        "Redirect": "https://styleai.art",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://styleai.art"
     },
     {
         "link": "https://vandyou.com",
@@ -168,5 +178,15 @@
         "Redirect": "https://rcas.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://rcas.org"
+    },
+    {
+        "link": "https://martinkramer.org",
+        "Heading": "Martin Kramer on the Middle East",
+        "Abstract": "Martin Kramer is a historian and analyst of the Middle East and Israel. This website is home to his weblog Sandbox and a large selection of his published work.",
+        "Official Site": "https://martinkramer.org/",
+        "Icon": "https://martinkramer.org/wp-content/uploads/2020/06/image.jpg",
+        "Redirect": "https://martinkramer.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://martinkramer.org/"
     }
 ]

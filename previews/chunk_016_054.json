@@ -134,7 +134,7 @@
         "Heading": "sunsus GmbH \u00bb\u00a0Home\u00a0- International ",
         "Abstract": null,
         "Official Site": "https://sunsus.net",
-        "Icon": "https://www.sunsus.net/fileadmin/template/favicon.ico",
+        "Icon": "http://www.sunsus.net/fileadmin/template/favicon.ico",
         "Redirect": "https://sunsus.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sunsus.net"
@@ -151,13 +151,13 @@
     },
     {
         "link": "https://aapaintcompany.com",
-        "Heading": "Painting Contractors, Local Painters, Exterior, Industrial & Commercial Painting Company Murrieta & Menifee CA - All American Painting & Construction Inc.",
-        "Abstract": "All American Painting & Construction Inc. is a painting contractor in Murrieta and Menifee, CA offering exterior painters, commercial painting, and industrial painting for homes and businesses. Get a free estimate.",
-        "Official Site": "https://www.aapaintcompany.com/",
-        "Icon": "https://www.aapaintcompany.com/wp-content/uploads/2019/12/temecula-painter-van.jpg",
-        "Redirect": "https://www.aapaintcompany.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://aapaintcompany.com",
+        "Icon": "data:;",
+        "Redirect": "https://aapaintcompany.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.aapaintcompany.com/"
+        "AbstractURL": "https://aapaintcompany.com"
     },
     {
         "link": "https://mtdialog.de",
@@ -208,16 +208,6 @@
         "Redirect": "https://pronosticocolombia.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pronosticocolombia.com/"
-    },
-    {
-        "link": "https://gochness.de",
-        "Heading": "GochNess",
-        "Abstract": null,
-        "Official Site": "https://gochness.de",
-        "Icon": "https://gochness.de/wp-content/uploads/2022/08/cropped-favicon-32x32.png",
-        "Redirect": "https://gochness.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://gochness.de"
     },
     {
         "link": "https://taleemcity360.com",

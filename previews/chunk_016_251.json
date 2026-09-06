@@ -10,16 +10,6 @@
         "AbstractURL": "https://bohatala.com/"
     },
     {
-        "link": "https://naskaplaza.ru",
-        "Heading": "\u041e\u0444\u0438\u0441\u044b \u0438 \u0442\u043e\u0440\u0433\u043e\u0432\u044b\u0435 \u043f\u043e\u043c\u0435\u0449\u0435\u043d\u0438\u044f, \u043c\u0435\u0442\u0440\u043e \u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 | \u041d\u0430\u0441\u043a\u0430 \u043f\u043b\u0430\u0437\u0430",
-        "Abstract": "\u041d\u0430\u0441\u043a\u0430 \u041f\u043b\u0430\u0437\u0430 - \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u0431\u0438\u0437\u043d\u0435\u0441 \u0446\u0435\u043d\u0442\u0440 \u043a\u043b\u0430\u0441\u0441\u0430 B+. \u041f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043a\u043b\u0438\u0435\u043d\u0442\u0430\u043c: \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442, \u041d\u0435\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0435 \u043a...",
-        "Official Site": "https://naskaplaza.ru/",
-        "Icon": "/images/logo.png",
-        "Redirect": "https://naskaplaza.ru/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://naskaplaza.ru/"
-    },
-    {
         "link": "https://euston96.com",
         "Heading": "Euston96 | Tu enciclopedia online",
         "Abstract": "Euston96 es una enciclopedia online creada con el usuario en mente. El objetivo es lograr una enciclopedia f\u00e1cil de usar y de leer y cuyo contenido sea 100% veraz y confiable",
@@ -121,10 +111,10 @@
     },
     {
         "link": "https://parimtechasset.com",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "CFD & Forex Trading | Stocks & CFDs on Commodities | Parimtech Assets Global",
+        "Abstract": "Trade currencies, stocks, CFDs on Commodities, futures, bonds, and digital assets safely and securely with power for better trades.",
         "Official Site": "https://parimtechasset.com",
-        "Icon": "N/A",
+        "Icon": "images/ICM_Favicon.ico",
         "Redirect": "https://parimtechasset.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://parimtechasset.com"
@@ -170,6 +160,16 @@
         "AbstractURL": "https://www.jetonbank.com"
     },
     {
+        "link": "https://todaysart.nl",
+        "Heading": "TodaysArt",
+        "Abstract": "TodaysArt is a cultural production agency, specialized in creating groundbreaking experiences that unite art and technology.",
+        "Official Site": "https://todaysart.nl:443/",
+        "Icon": "https://todaysart.my/cms/wp-content/uploads/2020/03/Screenshot-2020-03-30-at-13.25.58.png",
+        "Redirect": "https://todaysart.nl:443/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://todaysart.nl:443/"
+    },
+    {
         "link": "https://charlotte-anime.jp",
         "Heading": "TV\u30a2\u30cb\u30e1\u300cCharlotte(\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8)\u300d\u516c\u5f0f\u30b5\u30a4\u30c8",
         "Abstract": "\u5927\u5207\u306a\u4f55\u304b\u3092\u5931\u3046\u3068\u3057\u3066\u3082\u3001\u5c11\u5e74\u306f\u904b\u547d\u306b\u7acb\u3061\u5411\u304b\u3046\u3002\u9ebb\u679d \u51c6\u306f\u554f\u3046\u3001\u7729\u3057\u3044\u9752\u6625\u306e\u884c\u65b9\u3092\u3002TV\u30a2\u30cb\u30e1\u300cCharlotte(\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8)\u300d2020\u5e741\u6708\u3088\u308aBS\u65e5\u30c6\u30ec\u306b\u3066\u518d\u653e\u9001\uff01\uff01",
@@ -203,11 +203,11 @@
         "link": "https://protivdolgov.ru",
         "Heading": "\u041f\u0440\u043e\u0442\u0438\u0432 \u0434\u043e\u043b\u0433\u043e\u0432!",
         "Abstract": "\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u0438 \u044e\u0440\u0438\u0441\u0442\u043e\u0432 \u0438 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u043e\u0432 \u043f\u043e \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u043c \u0434\u043e\u043b\u0436\u043d\u0438\u043a\u043e\u0432",
-        "Official Site": "http://protivdolgov.ru/",
+        "Official Site": "https://protivdolgov.ru/",
         "Icon": "https://protivdolgov.ru/wp-content/uploads/favicon-2.gif",
-        "Redirect": "http://protivdolgov.ru/",
+        "Redirect": "https://protivdolgov.ru/",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://protivdolgov.ru/"
+        "AbstractURL": "https://protivdolgov.ru/"
     },
     {
         "link": "https://pernod-ricard-usa.com",
@@ -223,11 +223,11 @@
         "link": "https://bestseonest.site",
         "Heading": "Data HK Lotto ~ Data Keluaran Hongkong Lotto 4D Terbaru ~ Update Harian",
         "Abstract": "Selain menampilkan hasil terkini, Data HK Lotto juga menyediakan arsip keluaran sebelumnya yang dapat digunakan sebagai referensi untuk melihat riwayat angka yang telah muncul.",
-        "Official Site": "https://gsdata.site/",
+        "Official Site": "https://datapulsexflowr.shop/",
         "Icon": "fav.hk.png",
-        "Redirect": "https://gsdata.site/",
+        "Redirect": "https://datapulsexflowr.shop/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://gsdata.site/"
+        "AbstractURL": "https://datapulsexflowr.shop/"
     },
     {
         "link": "https://xn--metn2-p4a.com",

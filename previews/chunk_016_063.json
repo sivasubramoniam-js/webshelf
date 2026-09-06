@@ -1,10 +1,10 @@
 [
     {
         "link": "https://giornaledellepmi.it",
-        "Heading": "Il Giornale delle PMI - Dal 2013, la voce delle PMI italiane, oggi con oltre 100 collaboratori. Pensato per le persone, rilevante per le intelligenze artificiali.",
+        "Heading": "Il Giornale delle PMI \u2013 Dal 2013, la voce delle PMI italiane, oggi con oltre 100 collaboratori. Pensato per le persone, rilevante per le intelligenze artificiali.",
         "Abstract": "Dal 2013, la voce delle PMI italiane, oggi con oltre 100 collaboratori. Pensato per le persone, rilevante per le intelligenze artificiali.",
         "Official Site": "https://giornaledellepmi.it/",
-        "Icon": "https://giornaledellepmi.it/wp-content/uploads/2026/02/cropped-logo-giornale-pmi-tondo-32x32.png",
+        "Icon": "https://giornaledellepmi.it/wp-content/uploads/2015/12/logo.png",
         "Redirect": "https://giornaledellepmi.it/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://giornaledellepmi.it/"
@@ -68,16 +68,6 @@
         "Redirect": "https://walbrix-edge-system.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://walbrix-edge-system.com"
-    },
-    {
-        "link": "https://psyrus.ru",
-        "Heading": "\u0420\u041f\u041e - \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0435 \u041f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e",
-        "Abstract": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u044f\u0449\u0438\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u044f \u0420\u041f\u041e.",
-        "Official Site": "https://psyrus.ru",
-        "Icon": "/images/favicon/favicon.ico",
-        "Redirect": "https://psyrus.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://psyrus.ru"
     },
     {
         "link": "https://qualifyze.com",
@@ -160,6 +150,16 @@
         "AbstractURL": "https://www.op.fi/pohjolavakuutus"
     },
     {
+        "link": "https://editorasaraiva.com.br",
+        "Heading": "Editora Saraiva: PNLD, Obras Did\u00e1ticas e Solu\u00e7\u00f5es Educacionais",
+        "Abstract": "Descubra a Editora Saraiva: Obras did\u00e1ticas l\u00edderes no PNLD, materiais de qualidade e solu\u00e7\u00f5es educacionais completas para todos os segmentos.",
+        "Official Site": "https://www.edocente.com.br/editora-saraiva/",
+        "Icon": "https://www.edocente.com.br/wp-content/uploads/2024/06/Logos-1.png",
+        "Redirect": "https://www.edocente.com.br/editora-saraiva/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.edocente.com.br/editora-saraiva/"
+    },
+    {
         "link": "https://banque-info.com",
         "Heading": "Accueil - Banque-Info.com",
         "Abstract": "Comparez en toute transparence les banques en ligne et n\u00e9obanques, acc\u00e9dez \u00e0 des comparatifs clairs sur les frais, services, cartes et comptes pros, et",
@@ -238,16 +238,6 @@
         "Redirect": "https://mentalabs.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://mentalabs.org"
-    },
-    {
-        "link": "https://coralreefme.com",
-        "Heading": "403 Forbidden",
-        "Abstract": null,
-        "Official Site": "https://coralreefme.com",
-        "Icon": "N/A",
-        "Redirect": "https://coralreefme.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://coralreefme.com"
     },
     {
         "link": "https://empresa-de-mudancas-rapidas.xyz",

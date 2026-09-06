@@ -141,13 +141,13 @@
     },
     {
         "link": "https://backyardbuddies.org.au",
-        "Heading": "Backyard Buddies; Your little bit of wilderness",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://backyardbuddies.org.au/",
-        "Icon": "https://backyardbuddies.org.au/wp-content/uploads/2020/11/cropped-favicon-32x32-1-32x32.png",
-        "Redirect": "https://backyardbuddies.org.au/",
+        "Official Site": "https://backyardbuddies.org.au",
+        "Icon": "data:;",
+        "Redirect": "https://backyardbuddies.org.au",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://backyardbuddies.org.au/"
+        "AbstractURL": "https://backyardbuddies.org.au"
     },
     {
         "link": "https://abc8v.company",
@@ -158,6 +158,16 @@
         "Redirect": "https://abc8v.company/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://abc8v.company/"
+    },
+    {
+        "link": "https://prokatlight.ru",
+        "Heading": "\u0410\u0432\u0442\u043e\u043f\u0440\u043e\u043a\u0430\u0442 \u0432 \u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0435",
+        "Abstract": null,
+        "Official Site": "https://prokatlight.ru",
+        "Icon": "N/A",
+        "Redirect": "https://prokatlight.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://prokatlight.ru"
     },
     {
         "link": "https://pmsolutions.com",

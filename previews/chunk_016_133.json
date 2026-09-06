@@ -1,13 +1,13 @@
 [
     {
         "link": "https://majesticdetroit.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://majesticdetroit.com",
-        "Icon": "N/A",
-        "Redirect": "https://majesticdetroit.com",
+        "Heading": "The Majestic Theatre",
+        "Abstract": "",
+        "Official Site": "https://www.majesticdetroit.com/",
+        "Icon": "https://www.majesticdetroit.com/assets/img/default_thumb-0d888d98cd.jpg",
+        "Redirect": "https://www.majesticdetroit.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://majesticdetroit.com"
+        "AbstractURL": "https://www.majesticdetroit.com/"
     },
     {
         "link": "https://paperlessenvironments.com",
@@ -28,16 +28,6 @@
         "Redirect": "https://readwithacta.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://readwithacta.com"
-    },
-    {
-        "link": "https://eatonrussia.ru",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://eatonrussia.ru",
-        "Icon": "N/A",
-        "Redirect": "https://eatonrussia.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://eatonrussia.ru"
     },
     {
         "link": "https://citizensjournals.com",
@@ -78,16 +68,6 @@
         "Redirect": "https://zinginstruments.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://zinginstruments.com/"
-    },
-    {
-        "link": "https://momsminivan.com",
-        "Heading": "Car Games, Car Travel Games, and Free Printable Road Trip Games for Kids",
-        "Abstract": "More than 101 car travel games, road trip activities, and free printable car games to play with kids.",
-        "Official Site": "https://momsminivan.com",
-        "Icon": "N/A",
-        "Redirect": "https://momsminivan.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://momsminivan.com"
     },
     {
         "link": "https://vidnet.app",
@@ -208,6 +188,16 @@
         "Redirect": "https://falcon-kitchens.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://falcon-kitchens.com/"
+    },
+    {
+        "link": "https://xensei.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://xensei.com",
+        "Icon": "data:;",
+        "Redirect": "https://xensei.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xensei.com"
     },
     {
         "link": "https://tjg-kiel.de",

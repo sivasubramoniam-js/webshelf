@@ -10,6 +10,16 @@
         "AbstractURL": "https://cshb.de"
     },
     {
+        "link": "https://r775.com",
+        "Heading": "r775.com",
+        "Abstract": null,
+        "Official Site": "https://r775.com",
+        "Icon": "data:;base64,iVBORw0KGgo=",
+        "Redirect": "https://r775.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://r775.com"
+    },
+    {
         "link": "https://d2cloud.net",
         "Heading": "d2cloud.net \u2014 Cloud infrastructure, self-service",
         "Abstract": null,
@@ -18,16 +28,6 @@
         "Redirect": "https://d2cloud.net",
         "AbstractSource": "BS4",
         "AbstractURL": "https://d2cloud.net"
-    },
-    {
-        "link": "https://homesteadhow.com",
-        "Heading": "HomeSteadHow \u2013 Learn With Us!",
-        "Abstract": null,
-        "Official Site": "/",
-        "Icon": "N/A",
-        "Redirect": "/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "/"
     },
     {
         "link": "https://pacificmmc.org",
@@ -68,6 +68,16 @@
         "Redirect": "https://roger-scruton.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://roger-scruton.com/"
+    },
+    {
+        "link": "https://trentonmonitor.com",
+        "Heading": "Home - TrentonMonitor",
+        "Abstract": "Featured Stories Local Coverage Show More World & Nation Show More Commentary Show More Faith & Culture Show More Family Life Show More Spanish Show More Issues & Advocacy Show More",
+        "Official Site": "https://trentonmonitor.com/",
+        "Icon": "https://trenton-prod.s3.amazonaws.com/wp-content/uploads/Word-press-featured-image-11.png",
+        "Redirect": "https://trentonmonitor.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trentonmonitor.com/"
     },
     {
         "link": "https://kespry.com",
@@ -122,7 +132,7 @@
     {
         "link": "https://sam-poehali-xxexzwi.top",
         "Heading": "sam-poehali-xxexzwi.top",
-        "Abstract": "Find information, resources and relevant links for sam-poehali-xxexzwi.top. This domain may be for sale.",
+        "Abstract": null,
         "Official Site": "https://sam-poehali-xxexzwi.top",
         "Icon": "N/A",
         "Redirect": "https://sam-poehali-xxexzwi.top",
@@ -141,13 +151,13 @@
     },
     {
         "link": "https://troychamber.com",
-        "Heading": "Troy Chamber of Commerce | Troy, MI",
-        "Abstract": "The Troy Chamber promotes economic growth in the Troy, MI area with business networking events, job listings, news, and discounts.",
-        "Official Site": "https://troychamber.com/",
-        "Icon": "https://troychamber.com/wp-content/uploads/logo.jpg",
-        "Redirect": "https://troychamber.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://troychamber.com",
+        "Icon": "data:;",
+        "Redirect": "https://troychamber.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://troychamber.com/"
+        "AbstractURL": "https://troychamber.com"
     },
     {
         "link": "https://art3mis.de",

@@ -10,6 +10,16 @@
         "AbstractURL": "https://neironvps.com/"
     },
     {
+        "link": "https://sbgames.org",
+        "Heading": "Portal SBGames",
+        "Abstract": "Portal SBGames",
+        "Official Site": "https://sbgames.org",
+        "Icon": "https://www.sbgames.org/wp-content/themes/myblog/assets/img/favicon.ico",
+        "Redirect": "https://sbgames.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sbgames.org"
+    },
+    {
         "link": "https://ilrc-trico.org",
         "Heading": "Access Central Coast | Tri-County Area of Santa Barbara, Ventura, and San Luis Obispo",
         "Abstract": "The mission of the Access Central Coast (formerly named ILRC) is to promote independent living and full access for individuals with disabilities in our communities.",
@@ -71,13 +81,13 @@
     },
     {
         "link": "https://longhaultrekkers.com",
-        "Heading": "Home - Off-Leash Rebels",
-        "Abstract": "I help you unlock your dog's true potential and develop a training plan that creates true freedom\u2014from city streets to mountain peaks.",
-        "Official Site": "https://longhaultrekkers.com/",
-        "Icon": "https://longhaultrekkers.com/wp-content/uploads/2025/07/Sitka_Running_Baker.jpg",
-        "Redirect": "https://longhaultrekkers.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://longhaultrekkers.com",
+        "Icon": "data:;",
+        "Redirect": "https://longhaultrekkers.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://longhaultrekkers.com/"
+        "AbstractURL": "https://longhaultrekkers.com"
     },
     {
         "link": "https://geneplanet.com",
@@ -200,6 +210,16 @@
         "AbstractURL": "https://tsyug.ru"
     },
     {
+        "link": "https://lauraschwartzdpm.com",
+        "Heading": "\n    \n    Foot and Ankle Doctor, Local Emergency Podiatrist Treatment Service Serving Walnut Creek, Lafayette & Danville CA and Surrounding areas - Dr. Laura Schwartz and Dr. Paul Schwartz\n  \n  ",
+        "Abstract": "Dr. Laura Schwartz and Dr. Paul Schwartz offer expert podiatry services in Walnut Creek, Lafayette, Danville, CA, and surrounding areas. Specializing in foot injuries and treatment. Book an appointment today!",
+        "Official Site": "https://www.lauraschwartzdpm.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.lauraschwartzdpm.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lauraschwartzdpm.com/"
+    },
+    {
         "link": "https://vinge.se",
         "Heading": "Vinge \u2013 Ledande advokatbyr\u00e5 f\u00f6r aff\u00e4rsjuridik",
         "Abstract": "Vinge \u00e4r en aff\u00e4rsjuridisk advokatfirma som erbjuder expertis och r\u00e5dgivning inom alla omr\u00e5den av aff\u00e4rsjuridik.",
@@ -212,7 +232,7 @@
     {
         "link": "https://wb-jobs.de",
         "Heading": "Jobb\u00f6rse Bielefeld Stellenangebote, Jobs | wb-jobs.de",
-        "Abstract": "Aktuell 31.023 Jobs in Bielefeld und Umgebung online auf wb-jobs.de, die Jobb\u00f6rse vom Westfalen-Blatt.",
+        "Abstract": "Aktuell 31.043 Jobs in Bielefeld und Umgebung online auf wb-jobs.de, die Jobb\u00f6rse vom Westfalen-Blatt.",
         "Official Site": "https://www.wb-jobs.de/",
         "Icon": "https://www.wb-jobs.de/img/local?path=%2Fassets%2FsocialMediaImage%2Flogo.svg&w=200&h=200&q=90&bg=white&we=&fit=contain&bts=1788426864342",
         "Redirect": "https://www.wb-jobs.de/",

@@ -40,16 +40,6 @@
         "AbstractURL": "https://rundumsebnitz.de"
     },
     {
-        "link": "https://dy-ip.de",
-        "Heading": "Update dy-ip.de",
-        "Abstract": null,
-        "Official Site": "https://dy-ip.de",
-        "Icon": "N/A",
-        "Redirect": "https://dy-ip.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://dy-ip.de"
-    },
-    {
         "link": "https://pronosticoespanol.com",
         "Heading": "Pron\u00f3stico Espa\u00f1ol: Gu\u00eda Completa del RCD Espanyol \u2013 An\u00e1lisis Completo",
         "Abstract": "Gu\u00eda completa de an\u00e1lisis, estad\u00edsticas y pron\u00f3sticos del RCD Espanyol. An\u00e1lisis t\u00e1ctico, jugadores clave y metodolog\u00eda avanzada para predicciones precisas.",
@@ -61,13 +51,13 @@
     },
     {
         "link": "https://southpacificislands.travel",
-        "Heading": "Home - Pacific Tourism Organisation",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://southpacificislands.travel/",
-        "Icon": "https://southpacificislands.travel/wp-content/uploads/2024/10/Untitled-75x75.jpg",
-        "Redirect": "https://southpacificislands.travel/",
+        "Official Site": "https://southpacificislands.travel",
+        "Icon": "data:;",
+        "Redirect": "https://southpacificislands.travel",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://southpacificislands.travel/"
+        "AbstractURL": "https://southpacificislands.travel"
     },
     {
         "link": "https://viooz.co",

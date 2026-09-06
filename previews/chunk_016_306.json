@@ -22,7 +22,7 @@
     {
         "link": "https://via905.fm",
         "Heading": "Accueil - VIA 90.5",
-        "Abstract": "NOUVELLES \u00c9lections 2026 | J\u00e9r\u00f4me Gagnon veut renforcer les services de proximit\u00e9 3 septembre 2026 \u00e0 7:03 Jeudi en d\u00e9but de soir\u00e9e, le candidat du Parti qu\u00e9b\u00e9cois (PQ) dans la circonscription de Nicolet-B\u00e9cancour, J\u00e9r\u00f4me Gagnon, a lanc\u00e9 sa campagne \u00e9lectorale. Lire Nouvelle tour cellulaire \u00e0 Saint-Z\u00e9phirin-de-Courval | \u00ab \u00c7a change la vie des citoyens \u00bb 3 septembre",
+        "Abstract": "NOUVELLES Enjeux \u00e9lectoraux | Sant\u00e9 | Un manque de soins r\u00e9gionalis\u00e9s 4 septembre 2026 \u00e0 5:49 En vue des \u00e9lections et de bien comprendre les enjeux de la r\u00e9gion, VIA 90.5 s\u2019est pench\u00e9 sur quatre th\u00e8mes importants : l\u2019\u00e9ducation (29 ao\u00fbt), la sant\u00e9, le transport (12 septembre) et l\u2019agriculture (19 septembre). Voici une partie du",
         "Official Site": "https://www.via905.fm",
         "Icon": "https://www.via905.fm/wp-content/uploads/2022/05/cropped-VIA-Icone-Site-web-2022-32x32.png",
         "Redirect": "https://www.via905.fm",
@@ -171,13 +171,13 @@
     },
     {
         "link": "https://onemindpsyberguide.org",
-        "Heading": "One Mind PsyberGuide | A Mental Health App Guide",
-        "Abstract": "Psyberguide Brain Health And Mind Optimization Based On Science. We're dedicated to helping people understand the science of brain health, cognitive function, brain chemistry and nootropics.",
-        "Official Site": "https://onemindpsyberguide.org/",
-        "Icon": "https://onemindpsyberguide.org/wp-content/uploads/2025/01/cropped-Psyberguide-Logo.png",
-        "Redirect": "https://onemindpsyberguide.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://onemindpsyberguide.org",
+        "Icon": "data:;",
+        "Redirect": "https://onemindpsyberguide.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://onemindpsyberguide.org/"
+        "AbstractURL": "https://onemindpsyberguide.org"
     },
     {
         "link": "https://castleofgoodhope.co.za",
@@ -231,13 +231,13 @@
     },
     {
         "link": "https://guncelkibris.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://guncelkibris.com",
-        "Icon": "N/A",
-        "Redirect": "https://guncelkibris.com",
+        "Heading": "G\u00fcncel K\u0131br\u0131s, K\u0131br\u0131s'\u0131n En G\u00fcncel Haber Sitesi\u00a0| guncelkibris.com",
+        "Abstract": "Son dakika haberler, en g\u00fcncel haber ba\u015fl\u0131klar\u0131 ve \u00e7ok daha fazlas\u0131n\u0131 an be an guncelkibris.com adresinden takip edebilirsiniz. G\u00fcncel K\u0131br\u0131s",
+        "Official Site": "https://www.guncelkibris.com/",
+        "Icon": "https://www.guncelkibris.com/wp-content/uploads/2019/12/gk-favv.png",
+        "Redirect": "https://www.guncelkibris.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://guncelkibris.com"
+        "AbstractURL": "https://www.guncelkibris.com/"
     },
     {
         "link": "https://unternehmeredition.de",

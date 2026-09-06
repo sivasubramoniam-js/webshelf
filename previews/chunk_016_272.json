@@ -31,13 +31,13 @@
     },
     {
         "link": "https://provana.com",
-        "Heading": "Provana | Tech-Driven Managed Services",
-        "Abstract": "Provana is the smarter choice for outsourcing, delivering tech-enabled solutions to the legal, healthcare revenue cycle management, and credit and collections sectors.",
-        "Official Site": "https://provana.com/",
-        "Icon": "https://provana.com/wp-content/uploads/2024/08/Mask-Group-7@2x-min.png",
-        "Redirect": "https://provana.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://provana.com",
+        "Icon": "data:;",
+        "Redirect": "https://provana.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://provana.com/"
+        "AbstractURL": "https://provana.com"
     },
     {
         "link": "https://downloadthemefree.com",
@@ -150,16 +150,6 @@
         "AbstractURL": "https://petges.lu"
     },
     {
-        "link": "https://edulink.id",
-        "Heading": "Penyedia Aplikasi Sekolah - EDULINK",
-        "Abstract": "Aplikasi Sekolah Terlengkap dan Terbaik di Indonesia. Dengan 50+ Fitur terlengkap untuk semua kebutuhan sekolah atau lembaga pendidikan.",
-        "Official Site": "https://edulink.id/",
-        "Icon": "https://edulink.id/wp-content/uploads/2024/09/pppp-1024x1024.png",
-        "Redirect": "https://edulink.id/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://edulink.id/"
-    },
-    {
         "link": "https://fatml.org",
         "Heading": null,
         "Abstract": null,
@@ -171,13 +161,13 @@
     },
     {
         "link": "https://dogbitelegalhelp.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://dogbitelegalhelp.com",
-        "Icon": "N/A",
-        "Redirect": "https://dogbitelegalhelp.com",
+        "Heading": "Dog Bite Injury Attorney, Dog Bite Accident Lawyer Law Firm Tacoma WA - Mark A. Hammer & Associates",
+        "Abstract": "Get trusted legal support for dog bite injuries. Our experienced attorneys help you secure compensation and navigate the complexities of dog bite laws. Protect your rights with Dog Bite Legal Help.",
+        "Official Site": "https://dogbitelegalhelp.com/",
+        "Icon": "https://dogbitelegalhelp.com/wp-content/uploads/2025/04/footer-logo-150x150.webp",
+        "Redirect": "https://dogbitelegalhelp.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://dogbitelegalhelp.com"
+        "AbstractURL": "https://dogbitelegalhelp.com/"
     },
     {
         "link": "https://mentorscopier.com",
@@ -228,6 +218,16 @@
         "Redirect": "https://www.berlyskitchen.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.berlyskitchen.com/"
+    },
+    {
+        "link": "https://aichiping.com",
+        "Heading": "\u5feb\u8054VPN\u5b98\u7f51\u5bfc\u822a | PC\u68af\u5b50-\u8de8\u5883\u8bbf\u95ee\u5feb\u8054VPN\u5b98\u7f51\u63a8\u8350-V2VPN\u514d\u8d39\u52a0\u901f\u5668",
+        "Abstract": "\ud83d\udea2\ud83d\udea2\u5feb\u8054VPN\u5b98\u7f51\u5bfc\u822a | PC\u68af\u5b50-\u8de8\u5883\u8bbf\u95ee\u5feb\u8054VPN\u5b98\u7f51\u63a8\u8350-Windows\u5916\u8d38\u7f51\u7edc\u52a0\u901f\u8bbe\u7f6e\u65b9\u6cd5\uff0c\u6781\u901f\u4e91\u673a\u573a\u662f\u4e00\u6b3e\u63d0\u4f9b\u9ad8\u901f\u7a33\u5b9a\u7f51\u7edc\u4ee3\u7406\u670d\u52a1\u7684\u5e73\u53f0\uff0c\u652f\u6301Clash\u3001\u5c0f\u706b\u7bad\u7b49\u5ba2\u6237\u7aef\u8ba2\u96051\u3002\u5176\u91c7\u7528IPLC/IEPL\u4f01\u4e1a\u7ea7\u4e13\u7ebf\u6280\u672f\uff0c\u4fdd\u969c\u654f\u611f\u65f6\u671f\u7a33\u5b9a\u8fde\u63a5\uff0c\u652f\u6301Trojan\u534f\u8bae\u53ca\u591a\u7ebf\u8defBGP\u4f18\u5316\uff0c\u53ef\u89e3\u9501Netflix\u3001Disney \u7b49\u6d41\u5a92\u4f53\u53caChatGPT\u7b49\u6d77\u5916\u5e94\u7528\u3002",
+        "Official Site": "https://aichiping.com",
+        "Icon": "/assets/index/xiyou/image/favicon.ico",
+        "Redirect": "https://aichiping.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aichiping.com"
     },
     {
         "link": "https://diploms5.cfd",

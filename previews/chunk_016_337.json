@@ -1,5 +1,15 @@
 [
     {
+        "link": "https://83293.com",
+        "Heading": "83293.com",
+        "Abstract": null,
+        "Official Site": "https://83293.com",
+        "Icon": "data:;base64,iVBORw0KGgo=",
+        "Redirect": "https://83293.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://83293.com"
+    },
+    {
         "link": "https://hatz-diesel.de",
         "Heading": "Home DE Global",
         "Abstract": null,
@@ -131,18 +141,18 @@
     },
     {
         "link": "https://camprichardson.com",
-        "Heading": "\n      Camp Richardson Marina Rentals - Action Watersports\n  ",
-        "Abstract": "Camp Richardson Marina has plenty to offer. From boating, beach-going, and watercraft rentals to lakeside dining, lodging, nightlife, and more. Visit now.",
-        "Official Site": "https://action-watersports.com/camp-richardson-marina/",
-        "Icon": "https://action-watersports.com/wp-content/uploads/sites/7199/2024/03/Camp-Rich-Aerial-2-scaled-1.jpg?w=700&h=700&zoom=2",
-        "Redirect": "https://action-watersports.com/camp-richardson-marina/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://camprichardson.com",
+        "Icon": "data:;",
+        "Redirect": "https://camprichardson.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://action-watersports.com/camp-richardson-marina/"
+        "AbstractURL": "https://camprichardson.com"
     },
     {
         "link": "https://guenauer.de",
-        "Heading": "IT-Systemhaus, Softwareentwicklung & Open-Source-L\u00f6sungen in Pirmasens | G\u00fcnauer Development",
-        "Abstract": "G\u00fcnauer Development ist Ihr IT-Systemhaus in Pirmasens: Softwareentwicklung, Prozessautomatisierung, Hosting in Deutschland und Open-Source-L\u00f6sungen wie Nextcloud, Proxmox, 3CX und Paperless \u2013 mit pers\u00f6nlichem Support.",
+        "Heading": "IT-Systemhaus Pirmasens | G\u00fcnauer Development",
+        "Abstract": "IT-Systemhaus in Pirmasens: Systembetreuung, Telefonanlagen und Softwareentwicklung. Firewall, Server, VoIP (3CX, Starface) \u2013 Hosting in DE, pers\u00f6nlicher Support.",
         "Official Site": "https://guenauer.de",
         "Icon": "https://guenauer.de/og/og-image.png",
         "Redirect": "https://guenauer.de",
@@ -168,5 +178,15 @@
         "Redirect": "https://www.normanrosenthal.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.normanrosenthal.com/"
+    },
+    {
+        "link": "https://creativeassociatesinternational.com",
+        "Heading": "Creative Associates International | Grounded in experience. Driven by impact.",
+        "Abstract": "Creative is an international development organization dedicated to supporting people around the world to realize the positive change they seek.",
+        "Official Site": "https://www.creativeassociatesinternational.com/",
+        "Icon": "http://www.creativeassociatesinternational.com/wp-content/uploads/2024/06/Homepage.00_00_00_00.Still001.jpg",
+        "Redirect": "https://www.creativeassociatesinternational.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.creativeassociatesinternational.com/"
     }
 ]

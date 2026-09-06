@@ -130,6 +130,16 @@
         "AbstractURL": "https://www.dinnyhall.com/"
     },
     {
+        "link": "https://e-kleks.pl",
+        "Heading": "Butik - modne ubrania, buty i dodatki. Kolekcja 2026",
+        "Abstract": "Butik Polki.pl to sklep online z modnymi ubraniami, obuwiem, dodatkami dla kobiet i dzieci. Kolekcja 2026. Wyprzeda\u017c: sukienki, p\u0142aszcze, kozaki, sp\u00f3dnice, torebki, spodnie i swetry. Hity sezonu bez wychodzenia z domu!",
+        "Official Site": "https://e-kleks.pl/",
+        "Icon": "https://polki-static.hitraff.pl/uploads/2025/09/cropped-favicon-32x32.png",
+        "Redirect": "https://e-kleks.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://e-kleks.pl/"
+    },
+    {
         "link": "https://futurofuturo.com",
         "Heading": "Kitchen Range Hood | Designer Italian Kitchen Hoods - Futuro Futuro",
         "Abstract": "Explore luxury Italian range hoods, kitchen ventilation systems, and modern appliances designed to elevate stylish contemporary kitchens.",
@@ -210,16 +220,6 @@
         "AbstractURL": "https://sgsports.shop"
     },
     {
-        "link": "https://sitecompany.nl",
-        "Heading": "Sitecompany | Digital agency met een focus op groei",
-        "Abstract": "Online marketing diensten voor zzp'ers en het MKB. Samen werken aan online groei middels software en datagedreven strategie\u00ebn.",
-        "Official Site": "https://sitecompany.nl",
-        "Icon": "https://sitecompany.nl/content/favicon.ico",
-        "Redirect": "https://sitecompany.nl",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://sitecompany.nl"
-    },
-    {
         "link": "https://theitalianjewelrycompany.com",
         "Heading": "Jewelry | Fine Italian Jewelry | Gold & Sterling Silver Designs",
         "Abstract": "Welcome to our website.",
@@ -251,12 +251,12 @@
     },
     {
         "link": "https://terryfator.com",
-        "Heading": "Terry Fator",
-        "Abstract": "Terry Fator Official Site",
-        "Official Site": "https://terryfator.com/",
-        "Icon": "https://terryfator.com/wp-content/uploads/2024/04/cropped-favicon-new-32x32.png",
-        "Redirect": "https://terryfator.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://terryfator.com",
+        "Icon": "data:;",
+        "Redirect": "https://terryfator.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://terryfator.com/"
+        "AbstractURL": "https://terryfator.com"
     }
 ]

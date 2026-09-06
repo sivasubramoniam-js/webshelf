@@ -60,16 +60,6 @@
         "AbstractURL": "https://solidsteel.it/"
     },
     {
-        "link": "https://firstpagellc.com",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://firstpagellc.com",
-        "Icon": "N/A",
-        "Redirect": "https://firstpagellc.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://firstpagellc.com"
-    },
-    {
         "link": "https://floridainjuryadvocate.com",
         "Heading": "Florida Car Accident Lawyer | Available 24/7",
         "Abstract": "Car Accident Lawyer in Florida: Blakeley Car Accident & Personal Injury Lawyers has recovered over $250 million in results. Start your free consultation today.",
@@ -81,13 +71,13 @@
     },
     {
         "link": "https://parrucchieredemartis.com",
-        "Heading": "Parrucchiere Castiglione Olona - De Martis Hair Stylist",
-        "Abstract": "Scegli il miglior parrucchiere a Castiglione Olona per un look impeccabile. Tagli, colori professionali per valorizzare la tua bellezza!",
-        "Official Site": "https://parrucchieredemartis.com/",
-        "Icon": "https://parrucchieredemartis.com/wp-content/uploads/2023/06/parrucchiere-demartis-castiglione-olona-cover-1.png",
-        "Redirect": "https://parrucchieredemartis.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://parrucchieredemartis.com",
+        "Icon": "N/A",
+        "Redirect": "https://parrucchieredemartis.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://parrucchieredemartis.com/"
+        "AbstractURL": "https://parrucchieredemartis.com"
     },
     {
         "link": "https://b3host.com",
@@ -108,6 +98,16 @@
         "Redirect": "https://cyber.co",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cyber.co"
+    },
+    {
+        "link": "https://mbog.nl",
+        "Heading": "MBOG \u2013 De beroepsvereniging integrale, leefstijl, PNI en orthomoleculaire geneeskunde.",
+        "Abstract": null,
+        "Official Site": "https://mbog.nl",
+        "Icon": "https://mbog.nl/wp-content/uploads/2021/06/MBOG_logo1.2.png",
+        "Redirect": "https://mbog.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mbog.nl"
     },
     {
         "link": "https://hippeas.com",
@@ -231,12 +231,12 @@
     },
     {
         "link": "https://qun056.com",
-        "Heading": "Sorry, the website has been stopped",
-        "Abstract": null,
-        "Official Site": "https://qun056.com",
-        "Icon": "N/A",
-        "Redirect": "https://qun056.com",
+        "Heading": "Fantasy Spark \u2013 Fantasy RPG News and New Releases",
+        "Abstract": "Fantasy Spark reports on fantasy releases, RPG expansions, updates and developer announcements.",
+        "Official Site": "https://qun056.com/",
+        "Icon": "https://qun056.com/uploads/qun056.com/v1/default-og.png",
+        "Redirect": "https://qun056.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://qun056.com"
+        "AbstractURL": "https://qun056.com/"
     }
 ]

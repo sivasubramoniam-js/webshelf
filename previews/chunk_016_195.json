@@ -71,13 +71,13 @@
     },
     {
         "link": "https://davidhigham.co.uk",
-        "Heading": "David Higham Associates - Home",
-        "Abstract": "Leading London-based literary agency representing bestselling and prize-winning authors, illustrators and screenwriters around the world.",
-        "Official Site": "https://davidhigham.co.uk/",
-        "Icon": "/favicon.ico",
-        "Redirect": "https://davidhigham.co.uk/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://davidhigham.co.uk",
+        "Icon": "data:;",
+        "Redirect": "https://davidhigham.co.uk",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://davidhigham.co.uk/"
+        "AbstractURL": "https://davidhigham.co.uk"
     },
     {
         "link": "https://meteorcloud.com.br",
@@ -111,13 +111,13 @@
     },
     {
         "link": "https://seoguruatlanta.com",
-        "Heading": "SEO Atlanta GA | Local SEO Company | Get A Free SEO Audit",
-        "Abstract": "SEO Guru Atlanta is a full-service SEO Atlanta company offering SEO, PPC, Social Media Marketing & Website Design. Award-Winning Results. Get a Free SEO Audit!",
-        "Official Site": "https://www.seoguruatlanta.com/",
-        "Icon": "https://www.seoguruatlanta.com/wp-content/uploads/2019/12/Logo20RGB.jpg",
-        "Redirect": "https://www.seoguruatlanta.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://seoguruatlanta.com",
+        "Icon": "data:;",
+        "Redirect": "https://seoguruatlanta.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.seoguruatlanta.com/"
+        "AbstractURL": "https://seoguruatlanta.com"
     },
     {
         "link": "https://borsamatik.com.tr",
@@ -188,16 +188,6 @@
         "Redirect": "https://osherfoundation.org",
         "AbstractSource": "BS4",
         "AbstractURL": "https://osherfoundation.org"
-    },
-    {
-        "link": "https://wheretoshoot.org",
-        "Heading": "Home - Find Shooting Ranges Near You | Where To Shoot",
-        "Abstract": null,
-        "Official Site": "https://www.wheretoshoot.org/",
-        "Icon": "https://www.wheretoshoot.org/wp-content/uploads/2017/08/background.png",
-        "Redirect": "https://www.wheretoshoot.org/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.wheretoshoot.org/"
     },
     {
         "link": "https://kultur-kreativpiloten.de",

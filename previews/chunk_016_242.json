@@ -11,13 +11,13 @@
     },
     {
         "link": "https://mayland.edu",
-        "Heading": "Mayland Community College | Mayland Community College",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.mayland.edu/",
-        "Icon": "https://www.mayland.edu/wp-content/uploads/2021/03/MCCLogoNoCat-Converted-3.png",
-        "Redirect": "https://www.mayland.edu/",
+        "Official Site": "https://mayland.edu",
+        "Icon": "data:;",
+        "Redirect": "https://mayland.edu",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.mayland.edu/"
+        "AbstractURL": "https://mayland.edu"
     },
     {
         "link": "https://revenued.com",
@@ -178,6 +178,16 @@
         "Redirect": "https://swirve.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://swirve.com"
+    },
+    {
+        "link": "https://vavada-59vhod.online",
+        "Heading": "vavada-59vhod.online\u00a0-\u00a0vavada 59vhod Resources and Information.",
+        "Abstract": "vavada-59vhod.online is your first and best source for information about vavada 59vhod. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://vavada-59vhod.online",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://vavada-59vhod.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vavada-59vhod.online"
     },
     {
         "link": "https://crestmarketpro.com",

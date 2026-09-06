@@ -143,21 +143,31 @@
         "link": "https://chelseawolfe.net",
         "Heading": "Official Site - CHELSEA WOLFE",
         "Abstract": "\u201cThe Dark\u201d Out Now",
-        "Official Site": "https://chelseawolfe.com/",
-        "Icon": "https://chelseawolfe.com/wp-content/uploads/2026/07/cw-the-dark-main-magdalena-wosinska.jpg",
-        "Redirect": "https://chelseawolfe.com/",
+        "Official Site": "http://chelseawolfe.com/",
+        "Icon": "http://chelseawolfe.com/wp-content/uploads/2026/07/cw-the-dark-main-magdalena-wosinska.jpg",
+        "Redirect": "http://chelseawolfe.com/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://chelseawolfe.com/"
+        "AbstractURL": "http://chelseawolfe.com/"
     },
     {
         "link": "https://londonnews247.com",
         "Heading": "LondonNews247 - Breaking News!",
         "Abstract": "Your go-to source for London news, sports, and politics. We offer 24/7 coverage of the stories that matter to Londoners and beyond.",
         "Official Site": "https://www.londonnews247.com/",
-        "Icon": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sb53uUxdYZ-IQovDXmuyH13nE1sBD2QpFkCGTh7Ea_oNp_gI1gyo89sJUYeD0y3eMiEWTTzZyASrcj38mmIBHdc5_LmZsMQt6qxOHOgTn6rKCbWf72Pihe68EJZLhWk2uqL7XXr5kgxV8IVyM-79XZR3AIkfnKXZkgJoVHtzbfr1HC7o68ulz9cw=w1600",
+        "Icon": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tYqQOTyfSQO67plV6lE-b1NM1I_n6DrdpXJEnODf3Je5m3xSoDUMa8UxJEgfldEDt12Czb_XaYAoXu_O2AATMVvnrxXgThMk6eYB5feQFbsBSjwx3KRS62L7b3S1caAWPTUCzIbVFp7zNuBpLoi85itKDnFDGc5nKMr5tz1Ylt5ziK7YZYSmlybQ=w1600",
         "Redirect": "https://www.londonnews247.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.londonnews247.com/"
+    },
+    {
+        "link": "https://valoriza.io",
+        "Heading": "Loading...",
+        "Abstract": null,
+        "Official Site": "https://valoriza.io",
+        "Icon": "N/A",
+        "Redirect": "https://valoriza.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://valoriza.io"
     },
     {
         "link": "https://smarterbusiness.co.uk",
@@ -181,12 +191,12 @@
     },
     {
         "link": "https://unicohotels.com",
-        "Heading": "\u00danico Hotels | Luxury hotels in Spain",
-        "Abstract": "5-star hotels in Spain: Madrid, Mallorca and the Costa Brava. \u00danico Hotels: a lifestyle centred on quality and sophistication.",
-        "Official Site": "https://www.unicohotels.com/en/",
+        "Heading": "\u00danico Hotels | Hoteles de lujo en Espa\u00f1a",
+        "Abstract": "Hoteles 5 estrellas en Espa\u00f1a: Madrid, Mallorca y la Costa Brava. \u00danico Hotels, estilo de vida centrado en la calidad y la sofisticaci\u00f3n.",
+        "Official Site": "https://www.unicohotels.com/es/",
         "Icon": "https://www.unicohotels.com/wp-content/uploads/2026/03/cropped-favicon-unico-32x32.png",
-        "Redirect": "https://www.unicohotels.com/en/",
+        "Redirect": "https://www.unicohotels.com/es/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.unicohotels.com/en/"
+        "AbstractURL": "https://www.unicohotels.com/es/"
     }
 ]

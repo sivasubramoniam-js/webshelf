@@ -30,16 +30,6 @@
         "AbstractURL": "https://civicresearchinstitute.com"
     },
     {
-        "link": "https://ablforpeople.com",
-        "Heading": "ABL",
-        "Abstract": "\u041b\u044e\u0431\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0431\u0430\u0441\u043a\u0435\u0442\u0431\u043e\u043b\u044c\u043d\u044b\u0439 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u0430\u0442 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435. \u0412\u0441\u0451 \u0434\u043b\u044f \u043b\u044e\u0434\u0435\u0439. Pro Omni Populo.",
-        "Official Site": "https://ablforpeople.com/",
-        "Icon": "https://fs.mtgame.ru/abl_logo_black_red.png",
-        "Redirect": "https://ablforpeople.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ablforpeople.com/"
-    },
-    {
         "link": "https://gstwins.com",
         "Heading": "GStwin.com GS500 Message Forum - Index",
         "Abstract": "GStwin.com GS500 Message Forum - Index",
@@ -58,6 +48,16 @@
         "Redirect": "https://www.brandbacker.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.brandbacker.com/"
+    },
+    {
+        "link": "https://ublocal.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ublocal.com",
+        "Icon": "data:;",
+        "Redirect": "https://ublocal.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ublocal.com"
     },
     {
         "link": "https://vendict.com",

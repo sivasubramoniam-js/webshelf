@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://kontor.cc",
-        "Heading": "Home - Kontor Records",
-        "Abstract": null,
-        "Official Site": "https://kontorrecords.de/",
-        "Icon": "https://kontorrecords.de/wp-content/uploads/2018/09/cropped-logo-32x32.png",
-        "Redirect": "https://kontorrecords.de/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://kontorrecords.de/"
-    },
-    {
         "link": "https://dommumia.it",
         "Heading": "Dommu Mia Rooms | camere nel cuore del centro storico di Baunei",
         "Abstract": "Il B&B Dommu Mia, si affaccia sulla piazza principale del paese, vicino a bar/caffetterie, ristoranti e negozi che offrono una varia scelta di prodotti locali.",
@@ -21,13 +11,13 @@
     },
     {
         "link": "https://bullbearexptrade.com",
-        "Heading": "Human verification",
-        "Abstract": null,
-        "Official Site": "https://bullbearexptrade.com",
-        "Icon": "N/A",
-        "Redirect": "https://bullbearexptrade.com",
+        "Heading": "bullbearexptrade - Welcome | Regulated Broker in Copy Trading, Trade with Zero Spreads\n    ",
+        "Abstract": "Start your copy trading with bullbearexptrade, and reap rewards alongside seasoned professionals in stocks, CFD currencies, commodities, indices, bonds, options, metals, and beyond, all within a secure and trustworthy environment.",
+        "Official Site": "/",
+        "Icon": "frontend/resources/landing/img/og_image.html",
+        "Redirect": "/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://bullbearexptrade.com"
+        "AbstractURL": "/"
     },
     {
         "link": "https://sanitaetshaus-gaeher.de",

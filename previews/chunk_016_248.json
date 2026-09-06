@@ -1,13 +1,13 @@
 [
     {
         "link": "https://barnesville.com",
-        "Heading": "Barnesville.com - Official Website of The Herald Gazette - News for Barnesville, GA",
-        "Abstract": "Official Website of The Herald Gazette - News for Barnesville, GA",
-        "Official Site": "https://barnesville.com/",
-        "Icon": "N/A",
-        "Redirect": "https://barnesville.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://barnesville.com",
+        "Icon": "data:;",
+        "Redirect": "https://barnesville.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://barnesville.com/"
+        "AbstractURL": "https://barnesville.com"
     },
     {
         "link": "https://foto-pin.com",
@@ -208,6 +208,16 @@
         "Redirect": "https://gsm10.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gsm10.ru"
+    },
+    {
+        "link": "https://claudemarketers.com",
+        "Heading": "Claude Marketers | Master Claude for Marketing",
+        "Abstract": "Video lessons, copy-paste skills, and a community for marketers mastering Claude Cowork & Claude Code. Taught by an ex-Uber & Coinbase marketer.",
+        "Official Site": "https://www.claudemarketers.com",
+        "Icon": "https://www.claudemarketers.com/opengraph-image?84928f23685f6837",
+        "Redirect": "https://www.claudemarketers.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.claudemarketers.com"
     },
     {
         "link": "https://theiahealth.ai",

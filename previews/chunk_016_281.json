@@ -131,13 +131,13 @@
     },
     {
         "link": "https://tashsultana.com",
-        "Heading": "Tash Sultana",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://tashsultana.com/",
-        "Icon": "https://tashsultana.com/wp-content/uploads/2026/08/cropped-blueguy2-32x32.png",
-        "Redirect": "https://tashsultana.com/",
+        "Official Site": "https://tashsultana.com",
+        "Icon": "data:;",
+        "Redirect": "https://tashsultana.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://tashsultana.com/"
+        "AbstractURL": "https://tashsultana.com"
     },
     {
         "link": "https://lopinionista.it",
@@ -181,13 +181,13 @@
     },
     {
         "link": "https://gardenandgreenhouse.net",
-        "Heading": "Home \u00bb Garden & Greenhouse",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://www.gardenandgreenhouse.net/",
-        "Icon": "https://www.gardenandgreenhouse.net/wp-content/uploads/2023/07/dreamstime_l_182244679-1024x683.jpg",
-        "Redirect": "https://www.gardenandgreenhouse.net/",
+        "Official Site": "https://gardenandgreenhouse.net",
+        "Icon": "data:;",
+        "Redirect": "https://gardenandgreenhouse.net",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.gardenandgreenhouse.net/"
+        "AbstractURL": "https://gardenandgreenhouse.net"
     },
     {
         "link": "https://my-stim.ru",
@@ -208,6 +208,16 @@
         "Redirect": "https://odysseyre.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://odysseyre.com"
+    },
+    {
+        "link": "https://coltongroupinc.com",
+        "Heading": "Home - Colton Group Inc.",
+        "Abstract": "Welcome to Colton Group Champion of Environmental and Construction Sustainability in West Africa Colton Group has a conglomerate presence with businesses that cover a wide spectrum. With its resources, reach and marketing acumen, the Group will lead the field for a very long time to come. Contact us 2B Delo Dosunmu Street, Off Awolowo Road,",
+        "Official Site": "https://coltongroupinc.com/",
+        "Icon": "https://coltongroupinc.com/wp-content/uploads/2024/09/colton-group-logo.png",
+        "Redirect": "https://coltongroupinc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://coltongroupinc.com/"
     },
     {
         "link": "https://xjbj168.com",

@@ -30,21 +30,11 @@
         "AbstractURL": "https://www.thinkinghumanity.com/"
     },
     {
-        "link": "https://bundeswaldinventur.de",
-        "Heading": "Bundeswaldinventur: www.bundeswaldinventur.de ",
-        "Abstract": null,
-        "Official Site": "https://bundeswaldinventur.de",
-        "Icon": "/typo3conf/ext/fnrbmel/Resources/Public/Icons/bmel-favicon.ico",
-        "Redirect": "https://bundeswaldinventur.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://bundeswaldinventur.de"
-    },
-    {
         "link": "https://miafair.it",
-        "Heading": "MIA PHOTO FAIR BNP PARIBAS \u2013 LA FIERA INTERNAZIONALE D\u2019ARTE DEDICATA ALLA FOTOGRAFIA E ALL'IMMAGINE IN MOVIMENTO",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://miafair.it",
-        "Icon": "https://www.miafairbnpparibas.it/X/wp-content/uploads/2024/11/cropped-miafair_24_ico-32x32.png",
+        "Icon": "data:;",
         "Redirect": "https://miafair.it",
         "AbstractSource": "BS4",
         "AbstractURL": "https://miafair.it"

@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://distribucionesmarianas.net",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://distribucionesmarianas.net",
-        "Icon": "N/A",
-        "Redirect": "https://distribucionesmarianas.net",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://distribucionesmarianas.net"
-    },
-    {
         "link": "https://bzmcpol.com",
         "Heading": null,
         "Abstract": "\ud83c\udf89 FF567 \u2014 Benef\u00edcios explosivos!\n\u2705 Cashback di\u00e1rio + pr\u00eamios misteriosos\n\u2705 Convide 1 amigo = R$50 na hora\n\u2705 Lucros instant\u00e2neos no seu PIX!\n\ud83d\udd25 Os PG Games mais viciantes do Brasil!",
@@ -31,10 +21,10 @@
     },
     {
         "link": "https://vierussia.ru",
-        "Heading": null,
-        "Abstract": null,
+        "Heading": "VIEGA - \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0421\u0430\u0439\u0442 VIEGA \u0432 \u0420\u043e\u0441\u0441\u0438\u0438.",
+        "Abstract": "\u041a\u0443\u043f\u0438\u0442\u044c VIEGA (\u0412\u0418\u0415\u0413\u0410) \u043f\u043e \u043d\u0438\u0437\u043a\u043e\u0439 \u0446\u0435\u043d\u0435 \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u0421\u0430\u0439\u0442\u0435 VIEGA \u0441 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439 \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438.",
         "Official Site": "https://vierussia.ru",
-        "Icon": "N/A",
+        "Icon": "favicon-192x192.png",
         "Redirect": "https://vierussia.ru",
         "AbstractSource": "BS4",
         "AbstractURL": "https://vierussia.ru"
@@ -101,13 +91,13 @@
     },
     {
         "link": "https://doublentry.it",
-        "Heading": "Mirna Pioli Commercialista a Salsomaggiore - Mirna Pioli",
-        "Abstract": "Cerchi un commercialista a Salsomaggiore Terme? Studio Pioli & Tosi offre contabilit\u00e0, controllo di gestione, consulenza fiscale call gratuita",
-        "Official Site": "https://doublentry.it/",
-        "Icon": "https://doublentry.it/wp-content/uploads/2021/10/Logo-Doublentry.png",
-        "Redirect": "https://doublentry.it/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://doublentry.it",
+        "Icon": "data:;",
+        "Redirect": "https://doublentry.it",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://doublentry.it/"
+        "AbstractURL": "https://doublentry.it"
     },
     {
         "link": "https://bledweb.com",
@@ -201,7 +191,7 @@
     },
     {
         "link": "https://donut-supplies.com",
-        "Heading": "Everything You Need To Open, Start and Operate a Donut Shop.",
+        "Heading": "Everything You Need To Open, Start and Operate a Donut Shop",
         "Abstract": "Donut-Supplies offers Gourmet Doughnut Mixes from Yeast Raised Mix to Cake Donut Mixes. Donut Machines to Mini Donut Makers, Fryers and Proofers of Top Brands at the Lowest Prices. Donut Shortening and Donut Shop Supplies to create a profitable Donut Business. Consulting & Donut Making Training available.",
         "Official Site": "https://donut-supplies.com/",
         "Icon": "N/A",
@@ -238,5 +228,15 @@
         "Redirect": "https://www.tritontools.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.tritontools.com/"
+    },
+    {
+        "link": "https://journalofsports.com",
+        "Heading": "International Journal of Physiology, Nutrition and Physical Education",
+        "Abstract": "International Journal of Physiology, Nutrition and Physical Education is a Peer Reviewed Journal. Prime Focus of the Journal is to publish articles related to the current trends of research. This Journal provides platform with the aim of motivating students and personnel in Sports and Physical Education.",
+        "Official Site": "https://www.journalofsports.com/",
+        "Icon": "https://www.journalofsports.com/up/170903045610.jpg",
+        "Redirect": "https://www.journalofsports.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.journalofsports.com/"
     }
 ]

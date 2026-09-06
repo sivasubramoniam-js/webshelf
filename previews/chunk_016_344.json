@@ -120,16 +120,6 @@
         "AbstractURL": "https://insightss.co/"
     },
     {
-        "link": "https://badoeynhausen.de",
-        "Heading": "Stadt Bad Oeynhausen: Startseite Stadt Bad Oeynhausen",
-        "Abstract": "Herzlich willkommen auf der Internetseite der Stadt Bad Oeynhausen! Hier finden Sie Informationen rund um die st\u00e4dtischen Dienstleistungen, Onlineservices, Kommunalpolitik und das Leben in unserer Stadt.",
-        "Official Site": "https://badoeynhausen.de",
-        "Icon": "/typo3conf/ext/sw_bad-oeynhausen/Resources/Public/img/favicon-stadt.svg",
-        "Redirect": "https://badoeynhausen.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://badoeynhausen.de"
-    },
-    {
         "link": "https://css-doodle.com",
         "Heading": "<css-doodle />",
         "Abstract": "A web component for drawing patterns with CSS",
@@ -221,13 +211,13 @@
     },
     {
         "link": "https://ntpapull.com",
-        "Heading": "National Tractor Pullers Association (NTPA)",
-        "Abstract": "The NTPA is the sport\u2019s oldest and most respected truck and tractor pulling sanctioning organization.",
-        "Official Site": "https://ntpapull.com/",
-        "Icon": "https://ntpapull.com/wp-content/uploads/2025/02/2025_ScheduleWeb-360x466.jpg",
-        "Redirect": "https://ntpapull.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ntpapull.com",
+        "Icon": "data:;",
+        "Redirect": "https://ntpapull.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ntpapull.com/"
+        "AbstractURL": "https://ntpapull.com"
     },
     {
         "link": "https://hotels-mit-pool.com",
@@ -238,16 +228,6 @@
         "Redirect": "https://hotels-mit-pool.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://hotels-mit-pool.com/"
-    },
-    {
-        "link": "https://tpiwebservices.com",
-        "Heading": "Home | TPI",
-        "Abstract": "Mobile. Cashless Gaming. Direct Mail.The Mission is the Same: Connect. Casino born and bred. Every TPI product is rooted in our gaming DNA. TPI\u2019s digital mo ...",
-        "Official Site": "https://betontpi.com/",
-        "Icon": "https://betontpi.com/wp-content/uploads/2024/04/hdr-careers-2.jpg",
-        "Redirect": "https://betontpi.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://betontpi.com/"
     },
     {
         "link": "https://plantcitygov.com",

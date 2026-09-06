@@ -1,15 +1,5 @@
 [
     {
-        "link": "https://medperiscope.ru",
-        "Heading": "Medperiscope - \u0413\u043b\u0430\u0432\u043d\u0430\u044f",
-        "Abstract": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043a\u043e\u043d\u0441\u0430\u043b\u0442\u0438\u043d\u0433\u043e\u0432\u044b\u0435 \u0443\u0441\u043b\u0443\u0433\u0438 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u044b",
-        "Official Site": "/",
-        "Icon": "/logo.png",
-        "Redirect": "/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "/"
-    },
-    {
         "link": "https://billszone.com",
         "Heading": "BillsZone \u2013 by Bills fans for Bills fans",
         "Abstract": null,
@@ -60,16 +50,6 @@
         "AbstractURL": "https://bluepisolutions.com"
     },
     {
-        "link": "https://germes-ltd.ru",
-        "Heading": "\u041e\u041e\u041e \u00ab\u0413\u0415\u0420\u041c\u0415\u0421\u00bb",
-        "Abstract": "Trendset Page under construction",
-        "Official Site": "https://germes-ltd.ru",
-        "Icon": "N/A",
-        "Redirect": "https://germes-ltd.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://germes-ltd.ru"
-    },
-    {
         "link": "https://afrimetro.com",
         "Heading": "AFRIMETRO",
         "Abstract": null,
@@ -78,16 +58,6 @@
         "Redirect": "https://afrimetro.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://afrimetro.com"
-    },
-    {
-        "link": "https://fluke-store.ru",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://fluke-store.ru",
-        "Icon": "N/A",
-        "Redirect": "https://fluke-store.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://fluke-store.ru"
     },
     {
         "link": "https://sankoufurniture.com",
@@ -118,6 +88,16 @@
         "Redirect": "https://www.yyutang.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://www.yyutang.com/"
+    },
+    {
+        "link": "https://imvann.com",
+        "Heading": "\u7eff\u8fdeVPN | \u7eff\u8fdeVPN-\u8d77\u98de\u52a0\u901f\u5668\u5b98\u7f51\u5b98\u7f51\u548c\u8f7b\u91cf\u5b89\u88c5-\u8054\u673a\u5b9d",
+        "Abstract": "\ud83d\udea2\ud83d\udea2\u7eff\u8fdeVPN | \u7eff\u8fdeVPN-\u8d77\u98de\u52a0\u901f\u5668\u5b98\u7f51\u5b98\u7f51\u548c\u8f7b\u91cf\u5b89\u88c5-deep seek\uff0c\u706b\u7bad\u52a0\u901f\u5668app\u662f\u4e00\u4e2a\u52a0\u901f\u6548\u679c\u5f88\u5f3a\u5927\u7684\u6e38\u620f\u52a0\u901f\u5de5\u5177\uff0c\u6709\u7740\u4e13\u5c5e\u7684\u7ebf\u8def\uff0c\u53ef\u4ee5\u4e3a\u4f60\u5e26\u6765\u7a33\u5b9a\u7684\u63d0\u901f\u6548\u679c\uff0c\u73a9\u6e38\u620f\u7684\u65f6\u5019\u4e0d\u4f1a\u51fa\u73b0\u5361\u987f\u5ef6\u8fdf\u548c\u6389\u7ebf\u7b49\u60c5\u51b5",
+        "Official Site": "https://imvann.com",
+        "Icon": "N/A",
+        "Redirect": "https://imvann.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://imvann.com"
     },
     {
         "link": "https://workingdogs.com",
@@ -228,15 +208,5 @@
         "Redirect": "https://gametea.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://gametea.com"
-    },
-    {
-        "link": "https://minck.de",
-        "Heading": "Stark in Strom. Elektrotechnik, Fernmeldetechnik, Kommunikationstechnik und Sicherheitstechnik f\u00fcr Allg\u00e4u, Bayern und Baden W\u00fcrttemberg",
-        "Abstract": "Stark in Strom. Die Minck GmbH f\u00fcr Elektrotechnik, Sicherheitstechnik und Kommunikationstechnik ist mit seinen rund 140 Mitarbeitern ist eine der Gr\u00f6\u00dften ihre Art f\u00fcr die Elektroinstallation von gro\u00dfen Projekte und Bauvorhaben im Allg\u00e4u, Schwaben und Teile von Baden W\u00fcrttembergs.  ",
-        "Official Site": "https://minck.de",
-        "Icon": "/fileadmin/templates/media/minck_fav.ico",
-        "Redirect": "https://minck.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://minck.de"
     }
 ]

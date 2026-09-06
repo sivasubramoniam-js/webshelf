@@ -1,10 +1,10 @@
 [
     {
         "link": "https://don-mclean.com",
-        "Heading": "Don McLean",
-        "Abstract": "Welcome to the official site of Don McLean.  Get all the latest news, tour dates, music, merchandise and more.",
+        "Heading": null,
+        "Abstract": null,
         "Official Site": "https://don-mclean.com",
-        "Icon": "https://donmclean.com/wp-content/uploads/2019/07/icon-100x100.jpg",
+        "Icon": "data:;",
         "Redirect": "https://don-mclean.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://don-mclean.com"
@@ -101,7 +101,7 @@
     },
     {
         "link": "https://fours.life",
-        "Heading": null,
+        "Heading": "Loading...",
         "Abstract": null,
         "Official Site": "https://fours.life",
         "Icon": "N/A",
@@ -190,6 +190,16 @@
         "AbstractURL": "https://iitis.pl"
     },
     {
+        "link": "https://zenicki.net",
+        "Heading": "zenicki.net\u00a0-\u00a0This website is for sale!\u00a0-\u00a0zenicki Resources and Information.",
+        "Abstract": "This website is for sale! zenicki.net is your first and best source for all of the information you\u2019re looking for. From general topics to more of what you would expect to find here, zenicki.net has it all. We hope you find what you are searching for!",
+        "Official Site": "https://zenicki.net",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://zenicki.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zenicki.net"
+    },
+    {
         "link": "https://bitequitycapital.com",
         "Heading": "home -  Bitequitycapital",
         "Abstract": null,
@@ -238,16 +248,6 @@
         "Redirect": "index.html",
         "AbstractSource": "BS4",
         "AbstractURL": "index.html"
-    },
-    {
-        "link": "https://pizzer.lol",
-        "Heading": "pizzer.lol\u00a0-\u00a0This website is for sale!\u00a0-\u00a0pizzer Resources and Information.",
-        "Abstract": "This website is for sale! pizzer.lol is your first and best source for information about pizzer. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
-        "Official Site": "https://pizzer.lol",
-        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
-        "Redirect": "https://pizzer.lol",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://pizzer.lol"
     },
     {
         "link": "https://tasautosport.com.au",

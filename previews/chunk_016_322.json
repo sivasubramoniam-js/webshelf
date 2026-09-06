@@ -51,10 +51,10 @@
     },
     {
         "link": "https://grupocompumas.com.mx",
-        "Heading": "Grupo Compumas",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://grupocompumas.com.mx",
-        "Icon": "images/logo_solo_trans-P1.png",
+        "Icon": "data:;",
         "Redirect": "https://grupocompumas.com.mx",
         "AbstractSource": "BS4",
         "AbstractURL": "https://grupocompumas.com.mx"
@@ -212,7 +212,7 @@
     {
         "link": "https://pravacomp-ce.top",
         "Heading": "pravacomp-ce.top",
-        "Abstract": "Find information, resources and relevant links for pravacomp-ce.top. This domain may be for sale.",
+        "Abstract": null,
         "Official Site": "https://pravacomp-ce.top",
         "Icon": "N/A",
         "Redirect": "https://pravacomp-ce.top",
@@ -228,16 +228,6 @@
         "Redirect": "https://thunis.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://thunis.com"
-    },
-    {
-        "link": "https://svs1916.de",
-        "Heading": "Startseite",
-        "Abstract": "Herzlich Willkommen auf der offiziellen Webseite des SV Sandhausen 1916 e.V. Klick dich rein, hier findest du alle Neuigkeiten und Informationen \u00fcber unseren Verein. Wir w\u00fcnschen dir viel Spa\u00df beim Durchschauen!",
-        "Official Site": "https://svs1916.de",
-        "Icon": "/_assets/2f6785593602342745c076c43f247e9e/Icons/favicon_svs1916.png",
-        "Redirect": "https://svs1916.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://svs1916.de"
     },
     {
         "link": "https://beautifulnow.is",

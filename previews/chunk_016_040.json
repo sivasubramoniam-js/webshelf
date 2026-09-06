@@ -62,12 +62,22 @@
     {
         "link": "https://cammtrucks.com",
         "Heading": "cammtrucks.com",
-        "Abstract": "Find information, resources and relevant links for cammtrucks.com. This domain may be for sale.",
+        "Abstract": null,
         "Official Site": "https://cammtrucks.com",
         "Icon": "N/A",
         "Redirect": "https://cammtrucks.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://cammtrucks.com"
+    },
+    {
+        "link": "https://cjcsp.com",
+        "Heading": "DropCatch.com",
+        "Abstract": "DropCatch.com helps you secure expiring domain names.",
+        "Official Site": "https://cjcsp.com",
+        "Icon": "assets/fav/share.png",
+        "Redirect": "https://cjcsp.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cjcsp.com"
     },
     {
         "link": "https://crypsbeauty.com",
@@ -101,13 +111,13 @@
     },
     {
         "link": "https://legacyhomeschool.com",
-        "Heading": "Home - Heppner's Legacy",
-        "Abstract": "We are so glad you found us! Please check our hours to make sure we are open before planning a visit to our store.Saturday hours begin 1 August and go through 26 September. Request your 2026 catalog HERE!    \nFeatured Products      \u201cHeppner's is incredibly welcoming and",
-        "Official Site": "https://legacyhomeschool.com/",
-        "Icon": "https://legacyhomeschool.com/wp-content/uploads/2025/10/Heppners-Legacy-Logo-Horizontal.png",
-        "Redirect": "https://legacyhomeschool.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://legacyhomeschool.com",
+        "Icon": "data:;",
+        "Redirect": "https://legacyhomeschool.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://legacyhomeschool.com/"
+        "AbstractURL": "https://legacyhomeschool.com"
     },
     {
         "link": "https://lindseyteak.com",
@@ -144,7 +154,7 @@
         "Heading": "Google",
         "Abstract": null,
         "Official Site": "https://scarypredict.com",
-        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
         "Redirect": "https://scarypredict.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://scarypredict.com"

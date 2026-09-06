@@ -40,16 +40,6 @@
         "AbstractURL": "https://www.flipar.com.br/"
     },
     {
-        "link": "https://ad-rvlt.co",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ad-rvlt.co",
-        "Icon": "N/A",
-        "Redirect": "https://ad-rvlt.co",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ad-rvlt.co"
-    },
-    {
         "link": "https://itmoose.pl",
         "Heading": "ITmoose Technologie Informatyczne",
         "Abstract": "iTmoose, Technologie Informatyczne",
@@ -81,13 +71,13 @@
     },
     {
         "link": "https://dochara.com",
-        "Heading": "An insider\u2019s guide to Ireland | Dochara",
-        "Abstract": "An insiders guide to visiting Ireland - what to see and what to avoid. Unbiased information including money saving tips, maps and printable tour itineraries.",
-        "Official Site": "https://www.dochara.com/",
-        "Icon": "https://www.dochara.com/site/wp-content/uploads/2026/04/cropped-fallback.jpg",
-        "Redirect": "https://www.dochara.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://dochara.com",
+        "Icon": "data:;",
+        "Redirect": "https://dochara.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.dochara.com/"
+        "AbstractURL": "https://dochara.com"
     },
     {
         "link": "https://sinergiatel.it",
@@ -211,7 +201,7 @@
     },
     {
         "link": "https://nathalielawhead.com",
-        "Heading": "The Candybox Blog \u2013 my adventures in video games & art",
+        "Heading": " The Candybox Blog",
         "Abstract": null,
         "Official Site": "https://nathalielawhead.com",
         "Icon": "http://nathalielawhead.com/candybox/new_theme_images/IMG_BACKGROUND.png",

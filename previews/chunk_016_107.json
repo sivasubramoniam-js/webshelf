@@ -50,16 +50,6 @@
         "AbstractURL": "https://husseinomran.sy"
     },
     {
-        "link": "https://deutsche-im-ausland.org",
-        "Heading": "DIA e.V. \u2013 Ihre Informationsplattform f\u00fcr Deutsche im Ausland",
-        "Abstract": "DIA e.V. \u2013 die gr\u00f6\u00dfte Plattform f\u00fcr Deutsche im Ausland. Infos, Tipps & die gr\u00f6\u00dfte Datenbank deutschsprachiger Adressen weltweit f\u00fcr Ihren Auslandsaufenthalt!",
-        "Official Site": "/",
-        "Icon": "/fileadmin/_processed_/2/6/csm_share_e45f33d190.jpg",
-        "Redirect": "/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "/"
-    },
-    {
         "link": "https://consejodetransparencia.es",
         "Heading": " Consejo Transparencia y Buen Gobierno | Inicio",
         "Abstract": null,
@@ -68,16 +58,6 @@
         "Redirect": "https://consejodetransparencia.es",
         "AbstractSource": "BS4",
         "AbstractURL": "https://consejodetransparencia.es"
-    },
-    {
-        "link": "https://punjabimania.com",
-        "Heading": "Punjabi Mania: Punjabi Movies, Reviews, News, Videos, Photos | Punjabi Mania",
-        "Abstract": "Punjabi Mania is your source for the latest Punjabi movies, music, and entertainment news.",
-        "Official Site": "https://punjabimania.com",
-        "Icon": "https://punjabimania.com/assets/images/pm_og_banner.png",
-        "Redirect": "https://punjabimania.com",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://punjabimania.com"
     },
     {
         "link": "https://nicolekidmanofficial.com",
@@ -210,16 +190,6 @@
         "AbstractURL": "https://jeuxx-gratuit.fr/"
     },
     {
-        "link": "https://onimaru-1.asia",
-        "Heading": "Low Cost, High Performance S3 Compatible Object Storage",
-        "Abstract": "Always-hot S3 compatible cloud object storage with 99.9% uptime SLA, free egress, and enterprise-grade security. Get started free\u2014no credit card required.",
-        "Official Site": "https://onimaru-1.asia",
-        "Icon": "https://cdn.prod.website-files.com/63d32de856f6323a43a277f2/64b1b1605e73b516e5712f82_Backblaze_Social-Card.webp",
-        "Redirect": "https://onimaru-1.asia",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://onimaru-1.asia"
-    },
-    {
         "link": "https://bighatstore.com",
         "Heading": "\n      Big Hats | Shop the Best Big Hats for Big Heads in All Sizes\n \u2013 BigHatStore",
         "Abstract": "Shop big hats for big heads (2XL\u20135XL). Find baseball, golf, fedora, bucket & more. Comfortable, stylish fits from size 7 \u00bd to 9.",
@@ -251,10 +221,10 @@
     },
     {
         "link": "https://sabhlokcity.com",
-        "Heading": "Sanjeev Sabhlok's blog \u2013 Thoughts on economics and liberty",
+        "Heading": null,
         "Abstract": null,
         "Official Site": "https://sabhlokcity.com",
-        "Icon": "N/A",
+        "Icon": "data:;",
         "Redirect": "https://sabhlokcity.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://sabhlokcity.com"

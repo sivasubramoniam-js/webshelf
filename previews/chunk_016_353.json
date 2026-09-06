@@ -100,16 +100,6 @@
         "AbstractURL": "https://anbik.ru/"
     },
     {
-        "link": "https://rentallscript.com",
-        "Heading": "Clone Scripts | Built with React & Flutter - RentALLScript",
-        "Abstract": "Start your online marketplace platform with our robust clone scripts. We use modern technologies to build secure and scalable solutions.",
-        "Official Site": "https://www.rentallscript.com/",
-        "Icon": "https://res.cloudinary.com/dfpzh53td/image/upload/v1710235428/rentallscript-website/home/RentALLScript-OG-image_wmnahc.png",
-        "Redirect": "https://www.rentallscript.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://www.rentallscript.com/"
-    },
-    {
         "link": "https://top1topwin.com",
         "Heading": null,
         "Abstract": null,
@@ -201,13 +191,13 @@
     },
     {
         "link": "https://wif.org",
-        "Heading": "Home - Women in Film",
-        "Abstract": "WIF ADVOCATES FOR AND ADVANCES THE CAREERS OF WOMEN AND GENDER DIVERSE PEOPLE WORKING IN THE SCREEN INDUSTRIES\u2014TO ACHIEVE PARITY AND TRANSFORM CULTURE",
-        "Official Site": "https://womeninfilm.org/",
-        "Icon": "N/A",
-        "Redirect": "https://womeninfilm.org/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://wif.org",
+        "Icon": "data:;",
+        "Redirect": "https://wif.org",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://womeninfilm.org/"
+        "AbstractURL": "https://wif.org"
     },
     {
         "link": "https://max-k1sport.com",

@@ -11,13 +11,13 @@
     },
     {
         "link": "https://ecogripzone.com",
-        "Heading": "The #1 Eco-Friendly tennis product!",
-        "Abstract": "The #1 Eco-Friendly tennis product!",
-        "Official Site": "https://ecogripzone.com/home/",
-        "Icon": "https://ecogripzone.com/wp-content/uploads/2020/04/TR-Gold-Award.png",
-        "Redirect": "https://ecogripzone.com/home/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ecogripzone.com",
+        "Icon": "data:;",
+        "Redirect": "https://ecogripzone.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://ecogripzone.com/home/"
+        "AbstractURL": "https://ecogripzone.com"
     },
     {
         "link": "https://appar.io",
@@ -150,16 +150,6 @@
         "AbstractURL": "https://openaps.org"
     },
     {
-        "link": "https://wave-assets.ltd",
-        "Heading": "wave-assets.ltd",
-        "Abstract": null,
-        "Official Site": "https://wave-assets.ltd",
-        "Icon": "N/A",
-        "Redirect": "https://wave-assets.ltd",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://wave-assets.ltd"
-    },
-    {
         "link": "https://govodka.xyz",
         "Heading": null,
         "Abstract": null,
@@ -198,16 +188,6 @@
         "Redirect": "https://amilo.co",
         "AbstractSource": "BS4",
         "AbstractURL": "https://amilo.co"
-    },
-    {
-        "link": "https://catalinajazzclub.com",
-        "Heading": "Home - Catalina Jazz Club",
-        "Abstract": "Check out upcoming events at historic FitzGerald's in Berwyn, Illinois. Find out who's playing and when, get tickets, and learn more.",
-        "Official Site": "https://catalinajazzclub.com/",
-        "Icon": "http://twcatalinaprod.wpengine.com/wp-content/uploads/2022/11/cat_manny_small.jpeg",
-        "Redirect": "https://catalinajazzclub.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://catalinajazzclub.com/"
     },
     {
         "link": "https://vitimusea.no",

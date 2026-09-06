@@ -30,9 +30,19 @@
         "AbstractURL": "https://www.exponm.com/"
     },
     {
+        "link": "https://yomezeni.xyz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://yomezeni.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://yomezeni.xyz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yomezeni.xyz"
+    },
+    {
         "link": "https://pravacomp-eb.top",
         "Heading": "pravacomp-eb.top",
-        "Abstract": "Find information, resources and relevant links for pravacomp-eb.top. This domain may be for sale.",
+        "Abstract": null,
         "Official Site": "https://pravacomp-eb.top",
         "Icon": "N/A",
         "Redirect": "https://pravacomp-eb.top",
@@ -48,6 +58,16 @@
         "Redirect": "https://theveganword.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://theveganword.com/"
+    },
+    {
+        "link": "https://ardentheatre.org",
+        "Heading": "Home \u2014 Arden Theatre Company",
+        "Abstract": "Broadway caliber musicals & plays and arts education located in Historic Old City, Phila. Buy Arden tickets online, rent our venues, and more!",
+        "Official Site": "https://ardentheatre.org/",
+        "Icon": "https://ardentheatre.org/wp-content/uploads/2020/11/153784788723961158-arden-marquee-795x600.full_.jpg",
+        "Redirect": "https://ardentheatre.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ardentheatre.org/"
     },
     {
         "link": "https://webhostinghof.nl",
@@ -71,13 +91,13 @@
     },
     {
         "link": "https://bathandwest.com",
-        "Heading": "The Bath & West Showground - Events, Shows and Venue Hire",
-        "Abstract": "Bath & West Showground is a 240 acre site near Shepton Mallet, home to a series of world class shows and events in Somerset throughout the year.",
-        "Official Site": "https://www.bathandwest.com/",
-        "Icon": "https://www.bathandwest.com/media/Day2-2300-300x300.jpg",
-        "Redirect": "https://www.bathandwest.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bathandwest.com",
+        "Icon": "data:;",
+        "Redirect": "https://bathandwest.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://www.bathandwest.com/"
+        "AbstractURL": "https://bathandwest.com"
     },
     {
         "link": "https://bybasta.store",
@@ -128,16 +148,6 @@
         "Redirect": "https://z-polus.info/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://z-polus.info/"
-    },
-    {
-        "link": "https://rauheshaus.de",
-        "Heading": "Das Rauhe Haus: lebendig - diakonisch - nah - Hamburg | Das Rauhe Haus",
-        "Abstract": "Rauhes Haus ist ein diakonisches Unternehmen und arbeiten in den Bereichen Kinder- und Jugendhilfe, Teilhabe mit Assistenz, Sozialpsychiatrie und Pflege sowie im Bereich Bildung. ",
-        "Official Site": "https://rauheshaus.de",
-        "Icon": "/_assets/960f0fc13bb0daa034da9566be47f7b2/Favicons/favicon-32x32.png",
-        "Redirect": "https://rauheshaus.de",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://rauheshaus.de"
     },
     {
         "link": "https://sanopttorg.ru",
@@ -218,15 +228,5 @@
         "Redirect": "https://889992309.xyz",
         "AbstractSource": "BS4",
         "AbstractURL": "https://889992309.xyz"
-    },
-    {
-        "link": "https://mba-luniro.co",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://mba-luniro.co",
-        "Icon": "N/A",
-        "Redirect": "https://mba-luniro.co",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://mba-luniro.co"
     }
 ]

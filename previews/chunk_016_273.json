@@ -81,13 +81,13 @@
     },
     {
         "link": "https://sample-resignation-letters.com",
-        "Heading": "Resignation Letter Sample",
-        "Abstract": "Use 17 free resignation letter samples for two-week notice, immediate exit, personal reasons, health, relocation, and more.",
-        "Official Site": "http://sample-resignation-letters.com/",
-        "Icon": "http://sample-resignation-letters.com/wp-content/uploads/2024/05/Pen-3.jpg",
-        "Redirect": "http://sample-resignation-letters.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sample-resignation-letters.com",
+        "Icon": "data:;",
+        "Redirect": "https://sample-resignation-letters.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "http://sample-resignation-letters.com/"
+        "AbstractURL": "https://sample-resignation-letters.com"
     },
     {
         "link": "https://csalateral.org",
@@ -168,16 +168,6 @@
         "Redirect": "https://wustoo.com/",
         "AbstractSource": "BS4",
         "AbstractURL": "https://wustoo.com/"
-    },
-    {
-        "link": "https://individualeparfum.ru",
-        "Heading": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d INDIVIDUALE",
-        "Abstract": null,
-        "Official Site": "https://individualeparfum.ru",
-        "Icon": "/bitrix/templates/.default/favicons/favicon_32_32.png",
-        "Redirect": "https://individualeparfum.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://individualeparfum.ru"
     },
     {
         "link": "https://mdcst.jp",

@@ -13,11 +13,11 @@
         "link": "https://shapeplatform.eu",
         "Heading": "SHAPE+ Platform",
         "Abstract": "Sound, Heterogeneous Art and Performance in Europe. 16 festivals 144 artists 3 years.",
-        "Official Site": "https://shapeplatform.eu/",
+        "Official Site": "http://www.shapeplatform.eu:88/",
         "Icon": "https://shapeplatform.eu/favicon.ico",
-        "Redirect": "https://shapeplatform.eu/",
+        "Redirect": "http://www.shapeplatform.eu:88/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://shapeplatform.eu/"
+        "AbstractURL": "http://www.shapeplatform.eu:88/"
     },
     {
         "link": "https://datamg.com",
@@ -28,16 +28,6 @@
         "Redirect": "https://datamg.com",
         "AbstractSource": "BS4",
         "AbstractURL": "https://datamg.com"
-    },
-    {
-        "link": "https://getyond.com",
-        "Heading": "YOND",
-        "Abstract": null,
-        "Official Site": "https://getyond.com/",
-        "Icon": "https://onecdn.io/cdn-cgi/image/width=16,height=16,fit=contain/media/8c3ce646-c47e-487d-92a6-b93e0f7348a4/sm",
-        "Redirect": "https://getyond.com/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://getyond.com/"
     },
     {
         "link": "https://eagle-aluminum.com",
@@ -100,6 +90,16 @@
         "AbstractURL": "https://maclima.pe/"
     },
     {
+        "link": "https://360taining.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://360taining.com",
+        "Icon": "N/A",
+        "Redirect": "https://360taining.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://360taining.com"
+    },
+    {
         "link": "https://unocasa.com",
         "Heading": "  Uno Casa Cookware - Classics, Redefined ",
         "Abstract": "Cast iron cookware is tough and reliable. And with Uno Casa - it\u2019s also beautiful and functional. Make your life easier, and kitchen classier.",
@@ -128,16 +128,6 @@
         "Redirect": "https://pravacomp-gf.top",
         "AbstractSource": "BS4",
         "AbstractURL": "https://pravacomp-gf.top"
-    },
-    {
-        "link": "https://ozru.ru",
-        "Heading": null,
-        "Abstract": null,
-        "Official Site": "https://ozru.ru",
-        "Icon": "N/A",
-        "Redirect": "https://ozru.ru",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://ozru.ru"
     },
     {
         "link": "https://ypsc6267.com",

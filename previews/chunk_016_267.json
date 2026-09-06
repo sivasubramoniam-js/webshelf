@@ -50,16 +50,6 @@
         "AbstractURL": "https://illustbuy.com"
     },
     {
-        "link": "https://whbth.cn",
-        "Heading": "\u5929\u5929\u5f71\u89c6 - \u9ad8\u6e05\u5f71\u89c6\u8d44\u6e90\u5408\u96c6 | \u70ed\u95e8\u7535\u5f71\u7535\u89c6\u5267\u6d41\u7545\u64ad\u653e",
-        "Abstract": "\u5929\u5929\u5f71\u89c6\u56f4\u7ed5\u5728\u7ebf\u89c2\u770b\u7535\u5f71\u548c\u514d\u8d39\u64ad\u653e\u9700\u6c42\u6574\u7406\u7247\u5e93\uff0c\u8986\u76d6\u6700\u65b0\u7535\u5f71\u3001\u7535\u89c6\u5267\u3001\u7efc\u827a\u52a8\u6f2b\u4e0e\u7ecf\u5178\u5f71\u7247\uff0c\u64ad\u653e\u5165\u53e3\u6e05\u6670\uff0c\u65e5\u5e38\u8ffd\u5267\u627e\u7247\u66f4\u7701\u65f6\u95f4\u3002",
-        "Official Site": "https://whbth.cn/",
-        "Icon": "assets/images/32bf95f2cafc8da9cbd781aefb20507e.webp",
-        "Redirect": "https://whbth.cn/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://whbth.cn/"
-    },
-    {
         "link": "https://thaihealthreport.com",
         "Heading": "\u0e23\u0e32\u0e22\u0e07\u0e32\u0e19\u0e2a\u0e38\u0e02\u0e20\u0e32\u0e1e\u0e04\u0e19\u0e44\u0e17\u0e22",
         "Abstract": null,
@@ -73,11 +63,11 @@
         "link": "https://lte4dori.com",
         "Heading": "LTE4D | Wadah Komunitas Digital yang Aktif dan Saling Terhubung",
         "Abstract": "LTE4D tumbuh sebagai Wadah komunitas digital tempat penggunanya saling terhubung, berbagi pengalaman, dan berkembang bersama dalam lingkungan yang positif, ramah, dan mendukung.",
-        "Official Site": "https://lte4d.com/",
+        "Official Site": "https://lte4d.net/",
         "Icon": "https://amp1.lte4dbisa.shop/lp/asset/hero-banner.jpeg",
-        "Redirect": "https://lte4d.com/",
+        "Redirect": "https://lte4d.net/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lte4d.com/"
+        "AbstractURL": "https://lte4d.net/"
     },
     {
         "link": "https://vogelsberg-touristik.de",
@@ -131,13 +121,13 @@
     },
     {
         "link": "https://lonsyeyewear.com",
-        "Heading": "Wholesale Sunglasses | Custom Logo Sunglasses Supplier - LONSY EYEWEAR",
-        "Abstract": "Shop wholesale sunglasses at LONSY Eyewear! We offer bulk sunglasses, custom logo sunglasses, and personalized sunglasses in bulk at factory prices. Your trusted China sunglasses supplier for high-quality eyewear.",
-        "Official Site": "https://lonsyeyewear.com/",
-        "Icon": "https://lonsyeyewear.com/wp-content/uploads/2022/11/LONSY-PNG.png",
-        "Redirect": "https://lonsyeyewear.com/",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lonsyeyewear.com",
+        "Icon": "data:;",
+        "Redirect": "https://lonsyeyewear.com",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://lonsyeyewear.com/"
+        "AbstractURL": "https://lonsyeyewear.com"
     },
     {
         "link": "https://dampfboot-verlag.de",
@@ -222,12 +212,12 @@
     {
         "link": "https://titanplunge.com",
         "Heading": "TITAN Fitness Coogee - Premium Gym in Sydney Eastern Suburbs",
-        "Abstract": "Build confidence, strength, and discipline at TITAN Fitness Coogee. 4 levels of world-class facilities, expert personal trainers, and group classes. Join 16K+ members today.",
-        "Official Site": "https://titanplunge.com",
-        "Icon": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/073c79d86464b5f0f720895bc30a8bf8/id-preview-ec46c9a0--4bae9e39-f3c5-405e-a63b-a0e9f6d9970a.lovable.app-1788490461985.png",
-        "Redirect": "https://titanplunge.com",
+        "Abstract": "Premium training without pretence. Five training spaces, expert trainers, group classes and recovery in Coogee. Book a free club tour.",
+        "Official Site": "https://titanfitness.com.au/",
+        "Icon": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/58b9626d98ccc56fb0d202523dc16c43/id-preview-d6b9493f--4bae9e39-f3c5-405e-a63b-a0e9f6d9970a.lovable.app-1788594949568.png",
+        "Redirect": "https://titanfitness.com.au/",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://titanplunge.com"
+        "AbstractURL": "https://titanfitness.com.au/"
     },
     {
         "link": "https://krtserver8.net",

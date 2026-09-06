@@ -50,6 +50,16 @@
         "AbstractURL": "https://bmobcloud.com"
     },
     {
+        "link": "https://mcs360.com",
+        "Heading": "Mortgage Contracting Services",
+        "Abstract": "Making Communities Shine is a national property services company specializing in inspections, preservation, maintenance, & registrations.",
+        "Official Site": "https://mcs360.com/",
+        "Icon": "https://mcs360.com/wp-content/uploads/2026/02/cropped-Mortgage-Contracting-Services-icon-nobckgrnd-32x32.png",
+        "Redirect": "https://mcs360.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mcs360.com/"
+    },
+    {
         "link": "https://portalnicole.com.br",
         "Heading": "Account Suspended",
         "Abstract": null,
@@ -111,23 +121,13 @@
     },
     {
         "link": "https://nurseamerica.us",
-        "Heading": "NurseAmerica: Nursing Staffing & Recruitment Company in US",
-        "Abstract": "NurseAmerica connects healthcare facilities with top nursing talent across the U.S. for reliable staffing and recruitment.",
-        "Official Site": "https://nurseamerica.us/",
-        "Icon": "https://nurseamerica.us/wp-content/uploads/2024/05/CGFNS-Auth-Agent-1.webp",
-        "Redirect": "https://nurseamerica.us/",
-        "AbstractSource": "BS4",
-        "AbstractURL": "https://nurseamerica.us/"
-    },
-    {
-        "link": "https://nichesblog.com",
-        "Heading": "Loading...",
+        "Heading": null,
         "Abstract": null,
-        "Official Site": "https://nichesblog.com",
-        "Icon": "N/A",
-        "Redirect": "https://nichesblog.com",
+        "Official Site": "https://nurseamerica.us",
+        "Icon": "data:;",
+        "Redirect": "https://nurseamerica.us",
         "AbstractSource": "BS4",
-        "AbstractURL": "https://nichesblog.com"
+        "AbstractURL": "https://nurseamerica.us"
     },
     {
         "link": "https://artif.net",
